@@ -38,13 +38,13 @@ TABLE_HEADER = """\
 
 
 def parse_iso(value):
-    text = str(value)
-    for pattern in ("%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H-%M-%SZ"):
-        try:
-            return dt.datetime.strptime(text, pattern)
-        except ValueError:
-            continue
-    return None
+    text = str(value).strip()
+    if text.endswith("Z"):
+        text = text[:-1] + "+00:00"
+    try:
+        return dt.datetime.fromisoformat(text)
+    except ValueError:
+        return None
 
 
 def display_timestamp(value):

@@ -2,17 +2,18 @@
 """Fetch npm packages created between the previous list and now.
 
 New packages are detected with the npm registry replication feed at
-replicate.npmjs.com: every package whose document only has a handful of
-revisions is inspected through the registry API and kept when its
-``time.created`` timestamp falls inside the requested window. The feed
-sequence of the last processed change is stored in the manifest so the next
-run can resume exactly where the previous one stopped.
+replicate.npmjs.com: every changed package is inspected through the registry
+API and kept when its ``time.created`` timestamp falls inside the requested
+window. The feed sequence of the last processed change and unresolved package
+names are stored in the manifest so the next run can resume without losing
+records.
 """
 
 import argparse
 import csv
 import datetime as dt
 import json
+import os
 import random
 import sys
 import time
@@ -23,13 +24,13 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 CHANGES_URL = "https://replicate.npmjs.com/registry/_changes"
-INFO_URL = "https://replicate.npmjs.com/registry/"
 PACKAGE_URL = "https://registry.npmjs.org/{name}"
 DEFAULT_USER_AGENT = (
     "new-npm-packages/1.0 (https://github.com/GHLists/new-npm-packages)"
 )
 
 DESCRIPTION_LIMIT = 200
+MAX_PENDING_ATTEMPTS = 5
 CSV_HEADER = (
     "created_at",
     "package",
@@ -46,7 +47,10 @@ class NotFound(Exception):
 
 
 def iso(moment):
-    return moment.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    moment = moment.astimezone(dt.timezone.utc)
+    if moment.microsecond:
+        return moment.strftime("%Y-%m-%dT%H:%M:%S.%f").rstrip("0") + "Z"
+    return moment.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 def parse_timestamp(value):
@@ -56,11 +60,15 @@ def parse_timestamp(value):
     moment = dt.datetime.fromisoformat(text)
     if moment.tzinfo is None:
         moment = moment.replace(tzinfo=dt.timezone.utc)
-    return moment.astimezone(dt.timezone.utc).replace(microsecond=0)
+    return moment.astimezone(dt.timezone.utc)
 
 
 def timestamp_filename(moment):
-    return moment.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H-%M-%SZ")
+    moment = moment.astimezone(dt.timezone.utc)
+    stamp = moment.strftime("%Y-%m-%dT%H-%M-%S")
+    if moment.microsecond:
+        stamp += "-" + f"{moment.microsecond:06d}".rstrip("0")
+    return stamp + "Z"
 
 
 def fetch_json(url, user_agent, retries=3, backoff=5.0):
@@ -85,11 +93,6 @@ def fetch_json(url, user_agent, retries=3, backoff=5.0):
     raise RuntimeError(f"failed to fetch {url}: {last_error}")
 
 
-def fetch_latest_seq(user_agent, retries):
-    payload = fetch_json(INFO_URL, user_agent, retries=retries)
-    return int(payload["update_seq"])
-
-
 def random_page_size():
     """Pick a page size that differs between runs.
 
@@ -102,37 +105,38 @@ def random_page_size():
 
 def fetch_changes(start, page_size, user_agent, retries, max_pages=500):
     rows = []
-    since = start
+    cursor = start
     for _ in range(max_pages):
-        url = f"{CHANGES_URL}?since={since}&limit={page_size}"
+        url = f"{CHANGES_URL}?since={cursor}&limit={page_size}"
         payload = fetch_json(url, user_agent, retries=retries)
-        results = payload.get("results") or []
+        if not isinstance(payload, dict) or not isinstance(payload.get("results"), list):
+            raise RuntimeError("registry change response has an invalid results field")
+        results = payload["results"]
         if not results:
-            break
+            return rows, cursor, True
+        try:
+            page_cursor = max(int(row["seq"]) for row in results)
+        except (KeyError, TypeError, ValueError) as error:
+            raise RuntimeError("registry change response contains an invalid seq") from error
+        if page_cursor <= cursor:
+            raise RuntimeError("registry change sequence did not advance")
         rows.extend(results)
-        since = int(payload.get("last_seq", since))
-        if len(results) < page_size:
-            break
-    return rows, since
+        cursor = page_cursor
+    return rows, cursor, False
 
 
-def revision_generation(change):
-    revisions = change.get("changes") or []
-    if not revisions:
-        return None
-    head = str(revisions[0].get("rev") or "").partition("-")[0]
-    return int(head) if head.isdigit() else None
-
-
-def collect_candidates(rows, max_revision):
+def collect_candidates(rows):
     candidates = []
     seen = set()
     for row in rows:
+        if not isinstance(row, dict):
+            raise RuntimeError("registry change row must be an object")
         name = row.get("id")
-        if not name or name in seen or row.get("deleted"):
+        if row.get("deleted"):
             continue
-        generation = revision_generation(row)
-        if generation is None or generation > max_revision:
+        if not isinstance(name, str) or not name:
+            raise RuntimeError("registry change row is missing its package name")
+        if name in seen:
             continue
         seen.add(name)
         candidates.append(name)
@@ -205,24 +209,77 @@ def build_row(name, doc, created):
 
 
 def write_csv(path, rows):
+    path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", newline="", encoding="utf-8") as handle:
+    temporary = path.with_name(f".{path.name}.tmp")
+    with temporary.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=CSV_HEADER)
         writer.writeheader()
         writer.writerows(rows)
+    os.replace(temporary, path)
 
 
 def load_manifest(path):
+    manifest_path = Path(path)
     try:
-        data = json.loads(Path(path).read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
+        text = manifest_path.read_text(encoding="utf-8")
+    except FileNotFoundError:
         return {}
-    return data if isinstance(data, dict) else {}
+    except OSError as error:
+        raise RuntimeError(f"could not read manifest {manifest_path}: {error}") from error
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError as error:
+        raise RuntimeError(f"manifest {manifest_path} is not valid JSON") from error
+    if not isinstance(data, dict):
+        raise RuntimeError(f"manifest {manifest_path} must contain a JSON object")
+    version = data.get("state_version", 1)
+    if version != 1:
+        raise RuntimeError(f"manifest {manifest_path} has an unsupported state version")
+    return data
 
 
 def save_manifest(path, manifest):
+    manifest_path = Path(path)
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = manifest_path.with_name(f".{manifest_path.name}.tmp")
     text = json.dumps(manifest, indent=2, sort_keys=True, ensure_ascii=False) + "\n"
-    Path(path).write_text(text, encoding="utf-8")
+    temporary.write_text(text, encoding="utf-8")
+    os.replace(temporary, manifest_path)
+
+
+def load_pending(manifest):
+    pending = {}
+    raw_pending = manifest.get("pending", [])
+    if not isinstance(raw_pending, list):
+        raise RuntimeError("manifest pending must be a list")
+    for item in raw_pending:
+        if not isinstance(item, dict):
+            raise RuntimeError("manifest pending entries must be objects")
+        name = item.get("package")
+        if not isinstance(name, str) or not name:
+            raise RuntimeError("manifest pending entry has an invalid package")
+        if "since" not in item:
+            raise RuntimeError(f"manifest pending entry for {name} is missing since")
+        if name in pending:
+            raise RuntimeError(f"manifest contains duplicate pending package {name}")
+        try:
+            candidate_since = parse_timestamp(item["since"])
+        except (TypeError, ValueError) as error:
+            raise RuntimeError(
+                f"manifest pending entry for {name} has an invalid since timestamp"
+            ) from error
+        attempts = item.get("attempts", 0)
+        if not isinstance(attempts, int) or attempts < 0:
+            raise RuntimeError(
+                f"manifest pending entry for {name} has an invalid attempts count"
+            )
+        pending[name] = {
+            "package": name,
+            "since": candidate_since,
+            "attempts": attempts,
+        }
+    return pending
 
 
 def parse_args(argv=None):
@@ -238,13 +295,7 @@ def parse_args(argv=None):
     parser.add_argument(
         "--since-seq",
         type=int,
-        help="registry change sequence to resume from (default: stored in the manifest)",
-    )
-    parser.add_argument(
-        "--max-revision",
-        type=int,
-        default=8,
-        help="ignore documents with more revisions than this (default: 8)",
+        help="registry change sequence to resume from; requires --since",
     )
     parser.add_argument(
         "--workers",
@@ -267,38 +318,77 @@ def parse_args(argv=None):
 
 def main(argv=None):
     args = parse_args(argv)
-    now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
+    now = dt.datetime.now(dt.timezone.utc)
     until = parse_timestamp(args.until) if args.until else now
     manifest = load_manifest(args.manifest)
 
+    if args.since_seq is not None and args.since is None:
+        raise RuntimeError("--since-seq requires an explicit --since timestamp")
     if args.since:
         since = parse_timestamp(args.since)
+        if "window" in manifest and args.since_seq is None:
+            stored_window = parse_timestamp(manifest["window"])
+            if since < stored_window:
+                raise RuntimeError(
+                    "timestamp-only backfill cannot move the registry cursor; "
+                    "provide --since-seq"
+                )
+    elif "window" in manifest:
+        since = parse_timestamp(manifest["window"])
     else:
-        try:
-            since = parse_timestamp(manifest["window"])
-        except (KeyError, TypeError, ValueError):
-            since = until - dt.timedelta(hours=args.lookback_hours)
+        since = until - dt.timedelta(hours=args.lookback_hours)
+
+    if args.since_seq is not None:
+        cursor = args.since_seq
+    elif "seq" in manifest:
+        cursor = manifest["seq"]
+    else:
+        raise RuntimeError("no stored registry sequence; provide --since-seq")
+    try:
+        cursor = int(cursor)
+    except (TypeError, ValueError) as error:
+        raise RuntimeError("manifest contains an invalid registry sequence") from error
+    if cursor < 0:
+        raise RuntimeError("registry sequence cannot be negative")
+
+    pending = load_pending(manifest)
     if since >= until:
         print(f"nothing to do ({iso(since)} >= {iso(until)})", file=sys.stderr)
         return 0
 
-    cursor = args.since_seq if args.since_seq is not None else manifest.get("seq")
-    try:
-        cursor = int(cursor)
-    except (TypeError, ValueError):
-        cursor = None
-    if cursor is None:
-        cursor = fetch_latest_seq(args.user_agent, args.retries)
-        print(f"no stored sequence; starting at registry update_seq {cursor}")
-
     page_size = random_page_size()
-    changes, end_seq = fetch_changes(cursor, page_size, args.user_agent, args.retries)
-    candidates = collect_candidates(changes, args.max_revision)
+    changes, end_seq, exhausted = fetch_changes(
+        cursor, page_size, args.user_agent, args.retries
+    )
+    new_candidates = collect_candidates(changes)
+    for name in new_candidates:
+        pending.setdefault(name, {"package": name, "since": since, "attempts": 0})
     print(
         f"scanned {len(changes)} changes in sequence {cursor}..{end_seq}; "
-        f"{len(candidates)} packages to inspect"
+        f"{len(new_candidates)} new candidates and {len(pending)} pending candidates"
     )
 
+    manifest["seq"] = end_seq
+    manifest["source_truncated"] = not exhausted
+    if not exhausted:
+        manifest["window"] = iso(since)
+        manifest["pending"] = [
+            {
+                "package": name,
+                "since": iso(pending[name]["since"]),
+                "attempts": pending[name]["attempts"],
+            }
+            for name in sorted(pending)
+        ]
+        save_manifest(args.manifest, manifest)
+        print(
+            "registry scan reached its page limit; candidates were persisted "
+            "for the next run",
+            file=sys.stderr,
+        )
+        return 0
+
+    candidates = sorted(pending)
     with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
         documents = list(
             executor.map(
@@ -308,25 +398,56 @@ def main(argv=None):
         )
 
     rows = []
+    next_pending = {}
     missing = 0
+    invalid = 0
+    deferred = 0
+    dropped = 0
     for name, doc in zip(candidates, documents):
-        if doc is None:
+        candidate = pending[name]
+        created = package_created(doc) if doc is not None else None
+        if created is not None:
+            if created <= candidate["since"]:
+                continue
+            if created <= until:
+                rows.append(build_row(name, doc, created))
+                continue
+            deferred += 1
+        elif doc is None:
             missing += 1
-            continue
-        created = package_created(doc)
-        if created is None or created <= since:
-            continue
-        if args.until and created > until:
-            continue
-        rows.append(build_row(name, doc, created))
+        else:
+            invalid += 1
+        candidate["attempts"] += 1
+        if candidate["attempts"] < MAX_PENDING_ATTEMPTS:
+            next_pending[name] = candidate
+        else:
+            dropped += 1
     rows.sort(key=lambda row: row["created_at"])
-    if missing:
+    if missing or invalid:
         print(
-            f"skipped {missing} packages without registry metadata", file=sys.stderr
+            f"kept {missing + invalid} packages pending after missing or invalid "
+            "registry metadata",
+            file=sys.stderr,
+        )
+    if deferred:
+        print(f"deferred {deferred} packages created after {iso(until)}")
+    if dropped:
+        print(
+            f"dropped {dropped} packages unresolved after {MAX_PENDING_ATTEMPTS} "
+            "attempts",
+            file=sys.stderr,
         )
 
-    manifest["seq"] = end_seq
     manifest["window"] = iso(until)
+    manifest["source_truncated"] = False
+    manifest["pending"] = [
+        {
+            "package": name,
+            "since": iso(next_pending[name]["since"]),
+            "attempts": next_pending[name]["attempts"],
+        }
+        for name in sorted(next_pending)
+    ]
     if rows:
         output = Path(args.output_dir) / f"new-packages-{timestamp_filename(until)}.csv"
         write_csv(output, rows)
