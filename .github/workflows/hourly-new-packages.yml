@@ -1,8 +1,6 @@
 name: Hourly new npm packages
 
 on:
-  schedule:
-    - cron: "23 * * * *"
   workflow_dispatch:
     inputs:
       since:
