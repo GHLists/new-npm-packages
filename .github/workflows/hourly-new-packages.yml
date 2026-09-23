@@ -1,0 +1,75 @@
+name: Hourly new npm packages
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "UTC timestamp to start from (ISO 8601). Defaults to the end of the last list."
+        required: false
+        type: string
+      until:
+        description: "UTC timestamp to stop at (ISO 8601). Defaults to now."
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-new-packages
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-commit:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            scripts
+
+      - name: Fetch new packages
+        env:
+          INPUT_SINCE: ${{ inputs.since }}
+          INPUT_UNTIL: ${{ inputs.until }}
+        run: |
+          source scripts/retry.sh
+          args=()
+          if [ -n "$INPUT_SINCE" ]; then
+            args+=(--since "$INPUT_SINCE")
+          fi
+          if [ -n "$INPUT_UNTIL" ]; then
+            args+=(--until "$INPUT_UNTIL")
+          fi
+          retry python3 scripts/fetch_new_packages.py \
+            --user-agent "new-npm-packages/1.0 (+https://github.com/${{ github.repository }})" \
+            "${args[@]}"
+
+      - name: Render README
+        run: python3 scripts/render_readme.py
+
+      - name: Commit and push
+        run: |
+          source scripts/retry.sh
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --sparse README.md latest.json data
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          data_file=$(git diff --cached --name-only | grep '^data/new-packages-.*\.csv$' | head -n 1)
+          if [ -n "$data_file" ]; then
+            stamp=${data_file##*/new-packages-}
+            message="Add new npm packages up to ${stamp%.csv}"
+          elif git diff --cached --name-only | grep -q '^latest.json$'; then
+            message="Advance registry sequence"
+          else
+            message="Refresh README"
+          fi
+          git commit -m "$message"
+          retry git push
