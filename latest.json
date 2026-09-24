@@ -1,12 +1,23 @@
 {
   "list": {
-    "count": 611,
-    "from": "2026-09-24T09:18:58.572984Z",
-    "path": "data/new-packages-2026-09-24T13-20-25-331781Z.csv",
-    "to": "2026-09-24T13:20:25.331781Z"
+    "count": 369,
+    "from": "2026-09-24T13:20:25.331781Z",
+    "path": "data/new-packages-2026-09-24T15-19-50-627767Z.csv",
+    "to": "2026-09-24T15:19:50.627767Z"
   },
-  "pending": [],
-  "seq": 132390273,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@dan-ai-studio/dsh-opencode-go",
+      "since": "2026-09-24T13:20:25.331781Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@opsfy/cli",
+      "since": "2026-09-24T13:20:25.331781Z"
+    }
+  ],
+  "seq": 132418795,
   "source_truncated": false,
-  "window": "2026-09-24T13:20:25.331781Z"
+  "window": "2026-09-24T15:19:50.627767Z"
 }
