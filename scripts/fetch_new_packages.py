@@ -7,6 +7,13 @@ API and kept when its ``time.created`` timestamp falls inside the requested
 window. The feed sequence of the last processed change and unresolved package
 names are stored in the manifest so the next run can resume without losing
 records.
+
+Because the feed reports every mutation, most changed packages are existing
+packages publishing a new version. Their names are remembered in a local
+SQLite store so later scans only inspect packages that were never seen
+before; a brand-new package always shows up in the feed as its first change.
+Backfills with an explicit ``--since-seq`` still inspect every changed
+package so that re-listing an old window is never incomplete.
 """
 
 import argparse
@@ -16,6 +23,7 @@ import http.client
 import json
 import os
 import random
+import sqlite3
 import sys
 import time
 import urllib.error
@@ -29,6 +37,7 @@ PACKAGE_URL = "https://registry.npmjs.org/{name}"
 DEFAULT_USER_AGENT = (
     "new-npm-packages/1.0 (https://github.com/GHLists/new-npm-packages)"
 )
+DEFAULT_STATE_DB = "~/.cache/new-npm-packages/seen-packages.sqlite3"
 
 DESCRIPTION_LIMIT = 200
 MAX_PENDING_ATTEMPTS = 5
@@ -154,11 +163,21 @@ def collect_candidates(rows):
 
 
 def fetch_package(name, user_agent, retries):
+    """Return (created, row) without keeping the registry document.
+
+    Registry documents can be several megabytes each, so the document is
+    reduced to the small CSV row inside the worker thread instead of being
+    collected for every candidate in the main thread.
+    """
     url = PACKAGE_URL.format(name=urllib.parse.quote(name, safe="@"))
     try:
-        return fetch_json(url, user_agent, retries=retries)
+        document = fetch_json(url, user_agent, retries=retries)
     except NotFound:
-        return None
+        return None, None
+    created = package_created(document)
+    if created is None:
+        return None, None
+    return created, build_row(name, document, created)
 
 
 def package_created(doc):
@@ -269,6 +288,40 @@ def serialize_pending(pending):
     ]
 
 
+def open_seen_store(path):
+    """Open the local store of package names inspected by earlier scans."""
+    store_path = Path(path).expanduser()
+    store_path.parent.mkdir(parents=True, exist_ok=True)
+    connection = sqlite3.connect(store_path)
+    connection.execute(
+        "CREATE TABLE IF NOT EXISTS packages (name TEXT PRIMARY KEY) WITHOUT ROWID"
+    )
+    connection.commit()
+    return connection
+
+
+def select_unseen(connection, names):
+    """Return the subset of names that earlier scans have not inspected."""
+    unseen = []
+    for start in range(0, len(names), 500):
+        chunk = names[start : start + 500]
+        placeholders = ",".join("?" * len(chunk))
+        rows = connection.execute(
+            f"SELECT name FROM packages WHERE name IN ({placeholders})", chunk
+        )
+        seen = {row[0] for row in rows}
+        unseen.extend(name for name in chunk if name not in seen)
+    return unseen
+
+
+def remember_seen(connection, names):
+    connection.executemany(
+        "INSERT OR IGNORE INTO packages (name) VALUES (?)",
+        ((name,) for name in names),
+    )
+    connection.commit()
+
+
 def load_pending(manifest):
     pending = {}
     raw_pending = manifest.get("pending", [])
@@ -326,6 +379,12 @@ def parse_args(argv=None):
     )
     parser.add_argument("--output-dir", default="data")
     parser.add_argument("--manifest", default="latest.json")
+    parser.add_argument(
+        "--state-db",
+        default=DEFAULT_STATE_DB,
+        help="SQLite store of package names seen by earlier scans "
+        "(default: ~/.cache/new-npm-packages/seen-packages.sqlite3)",
+    )
     parser.add_argument("--user-agent", default=DEFAULT_USER_AGENT)
     parser.add_argument("--retries", type=int, default=3)
     parser.add_argument(
@@ -377,16 +436,22 @@ def main(argv=None):
         print(f"nothing to do ({iso(since)} >= {iso(until)})", file=sys.stderr)
         return 0
 
+    seen_store = open_seen_store(args.state_db)
     page_size = random_page_size()
     changes, end_seq, exhausted = fetch_changes(
         cursor, page_size, args.user_agent, args.retries
     )
-    new_candidates = collect_candidates(changes)
-    for name in new_candidates:
+    changed = collect_candidates(changes)
+    if args.since_seq is not None:
+        unseen = changed
+    else:
+        unseen = select_unseen(seen_store, changed)
+    for name in unseen:
         pending.setdefault(name, {"package": name, "since": since, "attempts": 0})
     print(
         f"scanned {len(changes)} changes in sequence {cursor}..{end_seq}; "
-        f"{len(new_candidates)} new candidates and {len(pending)} pending candidates"
+        f"{len(changed)} changed packages, {len(unseen)} unseen; "
+        f"{len(pending)} pending candidates"
     )
 
     manifest["seq"] = end_seq
@@ -400,48 +465,54 @@ def main(argv=None):
             "for the next run",
             file=sys.stderr,
         )
+        seen_store.close()
         return 0
 
     save_manifest(args.manifest, manifest)
 
     candidates = sorted(pending)
-    with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
-        documents = list(
-            executor.map(
-                lambda name: fetch_package(name, args.user_agent, args.retries),
-                candidates,
-            )
-        )
-
     rows = []
     next_pending = {}
-    missing = 0
-    invalid = 0
+    resolved = []
+    unresolved = 0
     deferred = 0
     dropped = 0
-    for name, doc in zip(candidates, documents):
-        candidate = pending[name]
-        created = package_created(doc) if doc is not None else None
-        if created is not None:
-            if created <= candidate["since"]:
-                continue
-            if created <= until:
-                rows.append(build_row(name, doc, created))
-                continue
-            deferred += 1
-        elif doc is None:
-            missing += 1
-        else:
-            invalid += 1
-        candidate["attempts"] += 1
-        if candidate["attempts"] < MAX_PENDING_ATTEMPTS:
-            next_pending[name] = candidate
-        else:
-            dropped += 1
+    total = len(candidates)
+    executor = ThreadPoolExecutor(max_workers=max(1, args.workers))
+    try:
+        results = executor.map(
+            lambda name: fetch_package(name, args.user_agent, args.retries),
+            candidates,
+        )
+        for done, (name, (created, row)) in enumerate(zip(candidates, results), 1):
+            if done % 1000 == 0:
+                print(f"resolved {done}/{total} packages", file=sys.stderr)
+                remember_seen(seen_store, resolved)
+                resolved.clear()
+            candidate = pending[name]
+            if created is None:
+                unresolved += 1
+            else:
+                resolved.append(name)
+                if created <= candidate["since"]:
+                    continue
+                if created <= until:
+                    rows.append(row)
+                    continue
+                deferred += 1
+            candidate["attempts"] += 1
+            if candidate["attempts"] < MAX_PENDING_ATTEMPTS:
+                next_pending[name] = candidate
+            else:
+                dropped += 1
+    finally:
+        executor.shutdown(wait=True, cancel_futures=True)
+        remember_seen(seen_store, resolved)
+        seen_store.close()
     rows.sort(key=lambda row: row["created_at"])
-    if missing or invalid:
+    if unresolved:
         print(
-            f"kept {missing + invalid} packages pending after missing or invalid "
+            f"kept {unresolved} packages pending after missing or invalid "
             "registry metadata",
             file=sys.stderr,
         )
