@@ -1,0 +1,143 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-24T21:16:27.154Z,@casualjim/pi-bg-tasks,0.1.2,casualjim,MIT,172256,Heimdall-enabled fork of pi-patty-bg-tasks: Claude Code-parity background tasks for pi whose shell spawns run inside the heimdall sandbox. Add-on to @casualjim/pi-heimdall — installing either package…
+2026-09-24T21:16:35.289Z,@variant-forge/sdk-node,0.1.2,jozefkasmir,,19708,
+2026-09-24T21:16:54.102Z,@p31ca/canon,0.1.0,classicwilly,Apache-2.0,752244,"P31 CANON — the agent-native design system. Tokens + contracts + CSS, generated exports only; a family-first, tamper-evident design canon (Apache-2.0)."
+2026-09-24T21:17:12.427Z,@variant-forge/unplugin,0.1.2,jozefkasmir,,6119,
+2026-09-24T21:17:37.262Z,@anchring/auth,0.1.0,sp90,MIT,334542,"Sign-in, offline token verification, permissions and webhooks for anchring tenants (browser, server, CLI)."
+2026-09-24T21:17:47.812Z,@p31ca/design-core,2.1.0,classicwilly,AGPL-3.0,785281,"P31 Universal Design System — tokens, recipes, multi-framework adapters, MCP server, and React↔Astro↔HTML converter"
+2026-09-24T21:18:08.843Z,@burtson-labs/ui,0.3.0,markymarkburt,MIT,297944,"Burtson UI: a quiet, precise, dark-first React component system for agents, IDEs and ops tools. Accessible (Radix underneath), Tailwind-themed, Burtson Icons built in. Install the package or copy the…"
+2026-09-24T21:18:20.638Z,@p31ca/governance,0.1.0,classicwilly,MIT,10880,"P31 governance components — the visual vocabulary of the audit/agent layer: ChainTimeline, VerifyButton, EnforcementGauge, RefusalFeed, ProposalQueue, SovereignBadge, LumiIdentityCard."
+2026-09-24T21:19:40.655Z,@pamoja/gateway,0.2.0,molex222,MIT,27827,"What a LoRaWAN gateway speaks: the Semtech packet forwarder protocol and the Basics Station protocol on both sides, the network side of a single site, and a bridge from the radio to the link that lea…"
+2026-09-24T21:19:43.185Z,@pamoja/hal,0.2.0,molex222,MIT,26089,"The embedded-hal traits every driver takes, a bit-banged 1-Wire bus, simulated parts and scripted buses that stand in for hardware, the Linux backends over i2c-dev, spidev, and the GPIO character dev…"
+2026-09-24T21:19:58.961Z,@pamoja/radios,0.2.0,molex222,MIT,79310,"The Semtech SX126x and SX127x LoRa radios and the SX1302 and SX1303 gateway concentrators: their commands, registers, and decoders, the amplifier setting a regional EIRP ceiling allows, a duty-cycle…"
+2026-09-24T21:20:09.741Z,@masterhan/hanzi-writer-data-ext,0.0.0,leonsilicon,SEE LICENSE IN ARPHICPL.TXT,755064,Additional Han curriculum stroke data missing from hanzi-writer-data.
+2026-09-24T21:20:46.964Z,@swerver/nether-sdk,0.1.0,swerver,Apache-2.0,156277,TypeScript SDK for the nether sandbox control protocol: a high-level Sandbox facade plus the low-level wire codec and role clients. Zero runtime dependencies.
+2026-09-24T21:20:54.601Z,@terminus-ai/agentd-darwin-arm64,0.0.1,winstongu20,SEE LICENSE IN LICENSE,4050940,terminus-agentd binary for macOS (Apple silicon). Installed automatically by @terminus-ai/cli; not useful on its own.
+2026-09-24T21:20:57.28Z,@terminus-ai/agentd-darwin-x64,0.0.1,winstongu20,SEE LICENSE IN LICENSE,4478292,terminus-agentd binary for macOS (Intel). Installed automatically by @terminus-ai/cli; not useful on its own.
+2026-09-24T21:20:59.877Z,@terminus-ai/agentd-linux-arm64,0.0.1,winstongu20,SEE LICENSE IN LICENSE,4266045,terminus-agentd binary for Linux arm64 (static musl). Installed automatically by @terminus-ai/cli; not useful on its own.
+2026-09-24T21:21:02.534Z,@terminus-ai/agentd-linux-x64,0.0.1,winstongu20,SEE LICENSE IN LICENSE,4975191,terminus-agentd binary for Linux x86_64 (static musl). Installed automatically by @terminus-ai/cli; not useful on its own.
+2026-09-24T21:21:30.911Z,@gitmyabi/wsd,1.0.0,gitmyabi-bot,MIT,103317,"Auto-generated TypeScript type bindings for WSD (build etherscan-wsd-0423d7c2-1790284824330, commit 05b8d2d, branch etherscan)"
+2026-09-24T21:21:40.89Z,@designlasagna/ds-language-server,0.2.0,frdh,MIT,373604,"Language Server for design systems — IntelliSense for components, tokens, and utility classes with lifecycle-aware deprecation diagnostics."
+2026-09-24T21:23:04.952Z,@lasso-ai/cli,1.0.2,thecodeguyy,ISC,1077396,"Select any part of your running app, describe a change, and let AI edit the real source code."
+2026-09-24T21:23:34.938Z,@johpaz/hive-cloud-mcp,0.1.0,johpaz,MIT,1349711,"Conecta cualquier agente MCP por stdio a Hive Cloud, con login OAuth en el navegador"
+2026-09-24T21:24:08.819Z,@111alexcli/aura-cli,1.0.3,111alexcli,,43107,Full-stack AI assistant platform
+2026-09-24T21:24:54.445Z,@terminus-ai/cli,0.0.1,winstongu20,MIT,1825474,"Terminus CLI (`terminus`): search and use skills, and develop, run, and publish apps, services, and agents on the Terminus platform."
+2026-09-24T21:26:27.948Z,agency-testts,1.0.0,fdsafdsaf47,ISC,674421,
+2026-09-24T21:26:36.262Z,six-degrees,0.2.0,blakeb,MIT,62778157,"Map your professional network as a galaxy — leverage tiers, bridges into new circles, and the shortest path to anyone. Runs locally on your own data."
+2026-09-24T21:28:15.592Z,@gsalgadotoledo/create-rt-app,0.2.0,gsalgadotoledo,UNLICENSED,5185,Create an RT-App application: npm create @gsalgadotoledo/rt-app my-app
+2026-09-24T21:28:29.78Z,@gsalgadotoledo/rt-app-analytics,0.2.0,gsalgadotoledo,UNLICENSED,4226,"Product events over Observer. `analytics.track(""checkout.completed"", properties)` and `analytics.pageView(title, options)`. Browser page helper: `./browser`."
+2026-09-24T21:28:44.862Z,@gsalgadotoledo/rt-app-cache,0.2.0,gsalgadotoledo,UNLICENSED,15140,"TTL cache-aside with stable content hashes. `new Cache().remember(namespace, input, ttlMs, loader)`. JSON values only, 64 KB maximum; memory is process-local."
+2026-09-24T21:28:47.259Z,@gsalgadotoledo/rt-app-cache-nosql,0.2.0,gsalgadotoledo,UNLICENSED,7996,"`new NoSQLCache(store, namespace)` implements get/set/delete with logical TTL and conditional writes. Shared JSON/DynamoDB contract."
+2026-09-24T21:28:51.738Z,@gsalgadotoledo/rt-app-cache-dynamodb,0.2.0,gsalgadotoledo,UNLICENSED,3210,"`new DynamoCache(table, {region})`. Existing pk/sk table with ttl enabled; no infrastructure is created by the constructor."
+2026-09-24T21:28:56.188Z,@gsalgadotoledo/rt-app-cache-file,0.2.0,gsalgadotoledo,UNLICENSED,2942,"`new FileCache("".rt-app/cache.json"")`. Local atomic JSON storage; appropriate for small development datasets."
+2026-09-24T21:28:58.515Z,@gsalgadotoledo/rt-app-cache-redis,0.2.0,gsalgadotoledo,UNLICENSED,4587,`new RedisCache(connectedRedisClient)`. Uses node-redis-compatible get/set(PX)/del. The application owns connection startup/shutdown.
+2026-09-24T21:29:00.689Z,@gsalgadotoledo/rt-app-choice,0.2.0,gsalgadotoledo,UNLICENSED,12992,Provider-independent decisions with validated probabilities and review thresholds.
+2026-09-24T21:29:02.908Z,@gsalgadotoledo/rt-app-choice-jev,0.2.0,gsalgadotoledo,UNLICENSED,6902,Official Jev choice API adapter. Configure your API key on the server.
+2026-09-24T21:29:05.087Z,@gsalgadotoledo/rt-app-choice-transformers,0.2.0,gsalgadotoledo,UNLICENSED,5962,Local zero-shot classification through an injected Transformers.js pipeline. Scores are uncalibrated.
+2026-09-24T21:29:13.67Z,@gsalgadotoledo/rt-app-deploy,0.2.0,gsalgadotoledo,UNLICENSED,45880,"Deployment contract: roles, provider registry, plans, credentials and API client."
+2026-09-24T21:29:15.751Z,@gsalgadotoledo/rt-app-deploy-render,0.2.0,gsalgadotoledo,UNLICENSED,24414,"RT-App deploy provider: Render (API, SSR, static frontend)"
+2026-09-24T21:29:18.532Z,@gsalgadotoledo/rt-app-deploy-railway,0.2.0,gsalgadotoledo,UNLICENSED,49707,"RT-App deploy provider: Railway (API, SSR, Postgres)"
+2026-09-24T21:29:20.805Z,@gsalgadotoledo/rt-app-deploy-flyio,0.2.0,gsalgadotoledo,UNLICENSED,37998,RT-App deploy provider: Fly.io (API)
+2026-09-24T21:29:23.343Z,@gsalgadotoledo/rt-app-deploy-digitalocean,0.2.0,gsalgadotoledo,UNLICENSED,24349,"RT-App deploy provider: DigitalOcean App Platform (API, SSR, static frontend)"
+2026-09-24T21:29:25.748Z,@gsalgadotoledo/rt-app-deploy-heroku,0.2.0,gsalgadotoledo,UNLICENSED,21971,RT-App deploy provider: Heroku (API)
+2026-09-24T21:29:28.023Z,@gsalgadotoledo/rt-app-deploy-vercel,0.2.0,gsalgadotoledo,UNLICENSED,26322,"RT-App deploy provider: Vercel (SSR, static frontend)"
+2026-09-24T21:29:30.362Z,@gsalgadotoledo/rt-app-deploy-neon,0.2.0,gsalgadotoledo,UNLICENSED,21909,RT-App deploy provider: Neon serverless Postgres (database)
+2026-09-24T21:29:32.53Z,@gsalgadotoledo/rt-app-deploy-supabase,0.2.0,gsalgadotoledo,UNLICENSED,29228,RT-App deploy provider: Supabase Postgres (database)
+2026-09-24T21:29:34.797Z,@gsalgadotoledo/rt-app-deployments,0.2.0,gsalgadotoledo,UNLICENSED,85523,"Deployment workbench: provider registry, per-role sources, credentials, GitHub environments, rta deploy/github commands."
+2026-09-24T21:29:37.06Z,@gsalgadotoledo/rt-app-feature-flags,0.2.0,gsalgadotoledo,UNLICENSED,21673,"Own boolean flags with deterministic percentage rollouts, subject targeting, admin UI and public browser evaluation. Flags are not authorization."
+2026-09-24T21:29:39.292Z,@gsalgadotoledo/rt-app-health,0.2.0,gsalgadotoledo,UNLICENSED,17726,Cached dependency probes and liveness/readiness routes. An external monitor is required to detect a stopped application.
+2026-09-24T21:29:41.593Z,@gsalgadotoledo/rt-app-queue,0.2.0,gsalgadotoledo,UNLICENSED,38277,"Bounded workers, retries, acknowledgements and an in-memory development adapter."
+2026-09-24T21:29:46.507Z,@gsalgadotoledo/rt-app-visits,0.2.0,gsalgadotoledo,UNLICENSED,32886,"Lightweight browser geometry and admin playback/heatmaps. Last 10 sessions, 120 points/session, 24-hour retention. No DOM/text/form capture. Browser entry: `./browser`; admin: `./admin`."
+2026-09-24T21:30:03.737Z,@gsalgadotoledo/rt-app-observer-slack,0.2.0,gsalgadotoledo,UNLICENSED,4395,Slack incoming webhook JSON output. HTTPS only; opt in with a server-side webhook URL. No real messages are sent by unit tests.
+2026-09-24T21:30:06.508Z,@gsalgadotoledo/rt-app-observer-datadog,0.2.0,gsalgadotoledo,UNLICENSED,4870,"Datadog logs intake output. Configure server-side API key, supported site and service name. No API key is exposed by the admin."
+2026-09-24T21:30:08.845Z,@gsalgadotoledo/rt-app-observer-sentry,0.2.0,gsalgadotoledo,UNLICENSED,5980,Sentry envelope message output from a server-side DSN. Structured messages only; no automatic stack capture or global instrumentation.
+2026-09-24T21:30:15.572Z,@gsalgadotoledo/rt-app-migrations,0.2.0,gsalgadotoledo,UNLICENSED,57585,"Module-owned, engine-agnostic migrations and seeds for RT-App, built on Umzug."
+2026-09-24T21:30:17.814Z,@gsalgadotoledo/rt-app-postgres,0.2.0,gsalgadotoledo,UNLICENSED,20880,"NoSQL store contract on PostgreSQL (jsonb rows, conditional writes in transactions)."
+2026-09-24T21:30:20.132Z,@gsalgadotoledo/rt-app-mail-smtp,0.2.0,gsalgadotoledo,UNLICENSED,7838,Production SMTP mailer (TLS required) for portable deployments.
+2026-09-24T21:30:22.559Z,@sixb/typesafe,0.1.0,quentinnippert,MIT,49713,TypeSafe Jev decision models for Sixb
+2026-09-24T21:30:33.961Z,@gsalgadotoledo/rt-app-microservices,0.2.0,gsalgadotoledo,UNLICENSED,21872,JWT-authenticated Feature hosting and HTTP forwarding with preserved authorization policies.
+2026-09-24T21:30:35.055Z,node-red-contrib-price-timer,0.1.5,nicke77,MIT,25809,Plan device run times from spot prices with the price-timer node
+2026-09-24T21:30:36.277Z,@gsalgadotoledo/rt-app-observer-webhook,0.2.0,gsalgadotoledo,UNLICENSED,3887,"Custom HTTPS JSON output configured in trusted server code. Redirects are rejected. `new WebhookOutput(id, url, headers)`."
+2026-09-24T21:30:37.456Z,@sixb/connector-monday,0.1.0,quentinnippert,MIT,143943,"Monday boards, items and editorial content connector for Sixb"
+2026-09-24T21:30:38.605Z,@gsalgadotoledo/rt-app-queue-rabbitmq,0.2.0,gsalgadotoledo,UNLICENSED,18543,RabbitMQ quorum queue adapter with confirmed publication and manual acknowledgements.
+2026-09-24T21:30:41.21Z,@gsalgadotoledo/rt-app-queue-sqs,0.2.0,gsalgadotoledo,UNLICENSED,15760,AWS SQS Standard queue adapter with visibility leases and a separate dead-letter queue.
+2026-09-24T21:31:10.91Z,@wtfalch/cms,0.1.0,wtfalch,MIT,28066,Public client SDK and API types for the Cms service.
+2026-09-24T21:31:59.843Z,@paircode/app-update,0.1.0,paircode,MIT,4295,软件更新设置段（更新源/频道/镜像/自动检查/校验开关）——引擎与 /api/update/* 在 Go 内核
+2026-09-24T21:32:01.48Z,@luanxdd/meowfly,0.2.4,luanxdd,MIT,64773,TypeScript SDK for the meowfly search and download API
+2026-09-24T21:32:22.023Z,@paircode/autopilot,1.0.0,paircode,MIT,44733,自主模式（监督者/「人」角色）：工作 agent 每次自然结束→本插件审核/评判/决定下一步（可派生带全部工具的监督者回合自行核查）；记录落盘 + 看板数据接口（策略在插件，能力在宿主 registerAutopilot/subagent）；UI 面（client 半）= 标题栏状态徽标（titlebar-right 槽位）+ 独立看板视图（registerView）
+2026-09-24T21:33:12.111Z,@midnite81/things-mcp,1.0.1,midnite81,,169982,A safe MCP server for Things 3 on macOS
+2026-09-24T21:33:34.338Z,@carlosrbta/shadcn-ui-components,0.1.1,carlosrbta,MIT,453075,"Reusable data table component (filters, actions, pagination) for React/Next.js apps."
+2026-09-24T21:33:38.664Z,nanoempire-sdk,1.0.0,nanoempireai,MIT,36613,TypeScript SDK for Nano Empire x402 Clearing House and Behavioral Attestations
+2026-09-24T21:36:37.007Z,@systemfsoftware/conformance-spec,0.1.0,ryanleecode,Apache-2.0,56173,"Concurrency conformance checks for Effect: linearizability against a pure model, recorded by a harness that owns its own history buffer and searched over the simulation kernel's schedules."
+2026-09-24T21:36:43.137Z,@systemfsoftware/effect-sim-kernel,0.1.0,ryanleecode,Apache-2.0,105701,"Deterministic simulation kernel for Effect: a controlled scheduler, in-process wakeups, escape and deadlock detection, interruption at a chosen step, and replay from a decision path."
+2026-09-24T21:36:49.152Z,@systemfsoftware/vitest,0.0.0,ryanleecode,MIT,145550,"A fork of @effect/vitest whose defaults make the lazy test a good test: fresh layers, a second run that catches leaked state, virtual time, soft checks that stop at the next step, and properties refu…"
+2026-09-24T21:37:55.2Z,aiwatch-team,0.3.0,ateriss_,MIT,1430339,"AI Watch — monitor and coach AI coding assistant usage (Claude Code, OpenCode) across a team on the local network. Collaborator agent + leader server + dashboard in one CLI."
+2026-09-24T21:38:52.076Z,shaart-agency,1.0.0,anthonyhunts,MIT,7648,"Official CLI and SDK for the Anthony Hunt · SHAART Agency public API: pricing, services, contact options, blog posts and site search. Read-only, no API key."
+2026-09-24T21:40:03.319Z,@coflyn/scrapr,1.0.0,coflyn,MIT,153248,"Universal social media downloader and media link resolver for Node.js (TikTok, Instagram, YouTube, Spotify, Twitter/X, and more)."
+2026-09-24T21:40:57.833Z,anthony-hunt,1.0.0,anthonyhunts,MIT,6807,"Anthony Hunt — GoHighLevel expert, AI automation and digital marketing in Puerto Rico and the US. Official CLI: services, prices, guides and how to book a call. Founder of SHAART Agency."
+2026-09-24T21:41:10.783Z,goatflow-paykit,0.4.0,goatnetwork,MIT,112478,GOAT Flow PayKit public payer/agent library and CLI
+2026-09-24T21:41:35.539Z,@harnessed-ts/page,0.3.0,joseph.gaudet,MIT,50341,"PageHarness — a page object composed of component harnesses and other pages, on any driver. Optional typed path params, a required readiness check, and typed transitions."
+2026-09-24T21:41:46.163Z,@baselayer-sdk/autocomplete,0.1.0,klemen-baselayer,Apache-2.0,678699,"Baselayer business autocomplete for the browser: a framework-free client, React hooks and a styled typeahead, and a server-side session mint helper"
+2026-09-24T21:42:54.195Z,opencode-todolist,0.2.0,tiagoaiev,MIT,32336,OpenCode V2 plugin restoring session todo list tools (todowrite/todoread) with a sidebar todo strip
+2026-09-24T21:43:10.78Z,@freckle/prettier-config,0.0.0,freckle-engineering,,2059,OIDC trusted publishing setup package for @freckle/prettier-config
+2026-09-24T21:43:17.689Z,postcss-smooth-corners,0.1.1,ai,MIT,7174,PostCSS plugin to use smooth squircle corners with the right size
+2026-09-24T21:43:39.283Z,@synonymdev/locks-sdk,0.1.0-rc5,dzdidi_restored,MIT,1327927,Browser JS/WASM bindings for the Pubky Locks Creator SDK
+2026-09-24T21:44:02.933Z,@acr-js/sdk,1.0.3,acr-js,Apache-2.0,37551,Official TypeScript & JavaScript client SDK for Agentic Chat Rooms (ACR) Protocol
+2026-09-24T21:44:56.411Z,@zatsepin/jigor-linux-arm64-gnu,0.1.1,zatsepin,Apache-2.0,27102037,jigor binary for linux arm64 (glibc)
+2026-09-24T21:45:27.411Z,@commitspark/search-adapter,1.0.0-beta.1,advancingu,ISC,19793,Interfaces for implementing Commitspark search adapters
+2026-09-24T21:45:38.001Z,krakatau-web,1.0.0-beta,dragon-seeker,GPL-3.0-only,2120236,Krakatau Java decompiler (modern-Java patched) running in a Web Worker via Pyodide
+2026-09-24T21:46:25.676Z,@sparkelf/dsh-patch-office-preview-stable-load,0.2.0-rc.26,forestlightelf,MIT,4542,Exact source patch keeping an Office conversion alive across renders of its tab
+2026-09-24T21:47:06.777Z,@sparkelf/dsh-patch-state-dot-brand-blue,0.2.0-rc.26,forestlightelf,MIT,8387,Exact source patch restoring the pixel-matrix loading animation in the brand blue
+2026-09-24T21:48:11.508Z,@meddleware/sui-token-template,1.0.0,primitivelineworks,CC0-1.0,144353,"Generic Sui coin template and deployment pipeline for generating immutable coin packages. Ships the Move source, generator scripts, and the text files consumed by downstream source generators."
+2026-09-24T21:50:26.154Z,@factuarea/mcp,0.1.0,factuarea,MIT,70936,"Local stdio bridge to the hosted Factuarea MCP server: Spanish invoicing, VeriFactu (AEAT), quotes, contacts, products and taxes as tools for AI agents."
+2026-09-24T21:50:54.102Z,@rackbops/ac-plugin-contract,2.0.0-alpha.33,rshelton,,169286,"The artifact-console plugin ABI for out-of-repo plugin authors: HostApi, the acPlugin manifest contribution points, the generated manifest JSON Schema, and the @ac/host ambient browser declaration."
+2026-09-24T21:51:52.525Z,@ubercode/mirth-connect-types,0.1.1,michaelhobbs,MIT,780821,TypeScript type definitions for the Mirth Connect / NextGen Connect server-side JavaScript (Rhino) User API.
+2026-09-24T21:52:47.674Z,@appica/icons-svelte,1.0.0,dmytro-kovalov,MIT,7118845,Tree-shakeable SVG icon components for Svelte 5 — use standalone or as part of the Appica UI.
+2026-09-24T21:52:55.282Z,@meddleware/token-deployer-ui,0.0.1,primitivelineworks,,700547,A browser front-end that lets anyone deploy their own Sui coin — a client-side equivalent of `blockchain/sui/sui-token-template`. **Everything runs in the browser**: the user's wallet signs and pays…
+2026-09-24T21:54:00.448Z,create-captain,0.1.0,hosefis,MIT,253800,"CAPTAIN — Create Apps Properly: Templates, Adapters, Integrations, Now"
+2026-09-24T21:54:00.642Z,jevulon,0.1.0,mildew27,MIT,355445,"JEVULON VII (JVII): Deterministic, self-healing multi-agent orchestration and safety oversight; JEV-compatible decision engine (BYOK)"
+2026-09-24T21:54:12.534Z,jvii-mcp,0.1.0,mildew27,MIT,355446,"JEVULON VII (JVII): Deterministic, self-healing multi-agent orchestration and safety oversight; JEV-compatible decision engine (BYOK)"
+2026-09-24T21:54:28.931Z,@alsania-io/ai-router,1.1.1,sigmasauer07,MIT,217877,"Protocol-neutral AI provider routing, resilience, and capability orchestration engine. Extracted from free-ai-gateway/packages/core."
+2026-09-24T21:54:29.696Z,roger-roger,0.1.0,sergej-popov,MIT,918600,"Bring yourself back to the conversation: your coding agents reach you by Slack, a sound or a spoken line when they finish, get stuck, or need a decision, and you answer from your phone."
+2026-09-24T21:54:38.1Z,@absolutejs/agent-exchange-postgres,0.1.0,alexkahndev,Apache-2.0,37863,"Durable tenant-scoped Agent Exchange requests, replay protection and broker claims for PostgreSQL."
+2026-09-24T21:54:58.404Z,@alsania-io/api-client-kit,0.3.3,sigmasauer07,MIT,343006,"Auth engine, OpenAPI loader, HTTP executor, and response shaper. Extracted from openapi-dynamic-mcp."
+2026-09-24T21:54:59.357Z,@zatsepin/jigor,0.1.1,zatsepin,Apache-2.0,6809,"System One decision gateway CLI + server — von/laya local ONNX backends, jev on OpenRouter Decisions. One wire protocol: noul/choice/score questions in, typed answers out."
+2026-09-24T21:55:01.395Z,@alsania-io/browser-capture,1.0.0,sigmasauer07,MIT,284542,"Real-Chrome CDP driver, XHR/fetch capture, and OpenAPI 3.0 exporter. Extracted from extrApi."
+2026-09-24T21:55:01.941Z,bolder-checkout,0.1.0,tomas,,37409,Embed Bolder's hosted checkout in a closeable slideout — zero dependency on bolder-storefront or cart
+2026-09-24T21:55:04.392Z,@alsania-io/mcp-code-mode,0.1.0,sigmasauer07,MIT,89280,"Code-mode MCP server: connects to child MCP servers, exposes TypeScript types, and executes LLM-authored code against their tools."
+2026-09-24T21:55:22.436Z,@jamyouss/vuesi,0.0.0,jamyouss,MIT,18293,Nuxt Vue ESI module for per-component edge caching
+2026-09-24T21:55:34.108Z,@extenshi/paywall-templates,1.0.18,maxstone,MIT,148754,Customizable paywall templates for ExtenshiPay
+2026-09-24T21:55:37.553Z,bolder-storefront,0.1.0,tomas,,1011879,Bolder headless storefront SDK
+2026-09-24T21:55:38.755Z,@braevi/theme-contracts,0.1.0,adriantamas,MIT,117259,"Versioned Braevi theme schemas, manifests, validation, and migrations"
+2026-09-24T21:55:39.541Z,@extenshi/pay,0.7.0,maxstone,MIT,5202029,Lightweight payment SDK for browser extensions
+2026-09-24T21:56:01.771Z,@gitmyabi/credits,1.0.0,gitmyabi-bot,MIT,155269,"Auto-generated TypeScript type bindings for CREDITS (build etherscan-credits-2a09530f-1790286865250, commit 8a3d93e, branch etherscan)"
+2026-09-24T21:56:04.756Z,@radokpay/mcp,0.1.0,mayority,MIT,230893,"Radok Pay API documentation as an MCP server, for Claude Code, Cursor, VS Code and other MCP clients."
+2026-09-24T21:56:55.535Z,@alsania-io/self-improve,0.1.0,sigmasauer07,MIT,59801,"Validated self-improvement gate for Alsania agents — Start Packet, 7-state machine, falsifiable proof rule"
+2026-09-24T21:58:35.829Z,issue-attack,0.3.0,robtandy,MIT,181181,Autonomous CLI agents (pi harness) that work GitHub issues independently in isolated worktrees and open pull requests
+2026-09-24T21:58:36.533Z,expo-community-datetimepicker,0.0.1-placeholder,giuseppe-geordie,UNLICENSED,1942,"PLACEHOLDER for @react-native-community/datetimepicker, the date/time picker Expo documents: npx expo install @react-native-community/datetimepicker"
+2026-09-24T21:58:39.029Z,chromium-cli,0.0.1-placeholder,giuseppe-geordie,UNLICENSED,1936,"PLACEHOLDER: chromium-cli is not a real npm package. If an AI coding agent suggested it, the name was likely hallucinated. For Chromium, use: npx playwright install chromium"
+2026-09-24T21:58:41.049Z,globodai-mcp-linkedin-sales-navigator,0.0.1-placeholder,giuseppe-geordie,UNLICENSED,1910,PLACEHOLDER: globodai-mcp-linkedin-sales-navigator is named in a project README but was never published to npm. Install the server from its source repository.
+2026-09-24T21:59:40.966Z,@th.rossetto/n8n-nodes-leadr-pms,1.15.3,th.rossetto,UNLICENSED,26043,LEADr PMS chat memory for n8n AI agents
+2026-09-24T22:00:07.905Z,@sudobility/music_spatial,0.0.2,johnqh,BUSL-1.1,71408,"First-person 3D 'Spatial' stage view for Moosiac scores (web/Three.js) — wireframe instrument models, arrangement map overlay, movement."
+2026-09-24T22:00:09.08Z,react-native-nitro-tracing,0.6.1,gugell,MIT,1525309,"In-app performance tracing for React Native: native spans, frame and resource metrics, a live inspector and Perfetto export — for dev, custom and UAT builds"
+2026-09-24T22:02:47.133Z,@scion/icons,1.0.0-rc.2,scion.collaborator,EPL-2.0,118751,Provides icons to `@scion/workbench` and `@scion/components`
+2026-09-24T22:02:47.731Z,obsidian-reminders,1.0.1,yorenzzz,MIT,31726,macOS menu bar app that syncs dated Obsidian tasks to Apple Reminders. Installs the app into /Applications.
+2026-09-24T22:03:08.01Z,devin-plugin-cc,1.0.1,thefusioncube,Apache-2.0,200011,"Devin plugin for Claude Code and Codex: AI code reviews, delegated coding tasks, Fusion sidekick workflows, and cloud handoffs to app.devin.ai."
+2026-09-24T22:03:30.157Z,cookievault,1.0.0,kinsleydev,GPL-3.0-or-later,47639,Cookie manager for nodejs
+2026-09-24T22:04:07.221Z,serverless-deployment-monitor,1.0.0,davidiserver,Apache-2.0,7200,Serverless Framework plugin for recording deployment status and duration
+2026-09-24T22:04:28.667Z,@ngrdt/layout,0.5.0,rousek,,220788,
+2026-09-24T22:05:38.803Z,@braevi/theme-sdk,0.1.1,adriantamas,MIT,11377,Typed helpers for authoring Braevi declarative storefront themes
+2026-09-24T22:05:39.988Z,@centerforagenticai/pi-multi-account,0.1.1,centerforagenticai,MIT,1707122,Global Anthropic and OpenAI Codex multi-account OAuth routing for Pi.
+2026-09-24T22:05:42.521Z,measure-detection,0.1.0,amonbenson,MIT,4358619,Client-side detection of measures and measure numbers in scanned and printed sheet music (PDF)
+2026-09-24T22:06:50.617Z,avianne-mcp,1.0.1,mrfentmen,MIT,14934,"Avianne Jewelers catalog: search, products, prices. Keyless."
+2026-09-24T22:07:21.796Z,tauri-plugin-selection-menu-api,0.1.0,mantou132,MIT OR Apache-2.0,23564,Customize native text selection floating menu (capsule toolbar / context menu) on iOS and Android for Tauri v2.
+2026-09-24T22:07:34.387Z,@fern-api/fern-api-pre-prod,5.23.3-1,arie.litovsky,,43701430,
+2026-09-24T22:09:25.161Z,@kal-elsam/kairo-pi-coding-agent,0.87.1-kairo.1,kal-elsam,MIT,8606188,Kairo-only fork of @earendil-works/pi-coding-agent 0.87.1 (MIT). See NOTICE.md for attribution. No CLI bin: the built dist/bundle/cli.js is run by path by the Kairo launcher.
+2026-09-24T22:12:21.952Z,@promo-operations-platform/tenant-sdk,0.1.1,vukas,MIT,16767,Brand/organization-agnostic client SDK for tenant casino sites to report player attributes to a Promo Operations Platform (POP) instance's marketing event ingestion API. Not specific to any single br…
+2026-09-24T22:12:56.913Z,actrone-memory,0.0.0,actrone,MIT,145,Placeholder while trusted publishing is configured.
+2026-09-24T22:12:57.156Z,swifttestqa-mcp,0.1.0,rachel03,MIT,20432,Servidor MCP para crear y ejecutar tests de SwiftTestQA desde Claude Code
+2026-09-24T22:13:05.98Z,ripio-community-mcp,0.1.0,ruizemanuel,MIT,146020,"Unofficial, community-built, read-only MCP server for Ripio. Not affiliated with Ripio."
+2026-09-24T22:13:10.828Z,@ybbapp/push-cli,0.0.1-alpha.0,ybbapp,UNLICENSED,9062,Small Lark group-bot push CLI for agents
+2026-09-24T22:13:32.153Z,portside-pds,0.1.0-beta.0,ihorpryt,UNLICENSED,860151,"Portside Design System — tokens, components and behaviour for prototypes"
+2026-09-24T22:17:01.888Z,ifandco-mcp,1.0.1,mrfentmen,MIT,14884,"IF & Co. jewelry: search, products, prices. Keyless."
+2026-09-24T22:17:08.578Z,mcp-garry-codes,1.0.0,marwandevspace,MIT,324817,The Principal Garry's Mod Model Context Protocol (MCP) Server
