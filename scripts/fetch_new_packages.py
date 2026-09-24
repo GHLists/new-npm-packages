@@ -12,6 +12,7 @@ records.
 import argparse
 import csv
 import datetime as dt
+import http.client
 import json
 import os
 import random
@@ -71,6 +72,15 @@ def timestamp_filename(moment):
     return stamp + "Z"
 
 
+TRANSIENT_ERRORS = (
+    urllib.error.URLError,
+    TimeoutError,
+    json.JSONDecodeError,
+    http.client.HTTPException,
+    OSError,
+)
+
+
 def fetch_json(url, user_agent, retries=3, backoff=5.0):
     last_error = None
     for attempt in range(1, retries + 1):
@@ -85,7 +95,7 @@ def fetch_json(url, user_agent, retries=3, backoff=5.0):
             if error.code == 404:
                 raise NotFound(url) from error
             last_error = error
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as error:
+        except TRANSIENT_ERRORS as error:
             last_error = error
         if attempt < retries:
             print(f"attempt {attempt} failed ({last_error}), retrying", file=sys.stderr)
@@ -248,6 +258,17 @@ def save_manifest(path, manifest):
     os.replace(temporary, manifest_path)
 
 
+def serialize_pending(pending):
+    return [
+        {
+            "package": name,
+            "since": iso(pending[name]["since"]),
+            "attempts": pending[name]["attempts"],
+        }
+        for name in sorted(pending)
+    ]
+
+
 def load_pending(manifest):
     pending = {}
     raw_pending = manifest.get("pending", [])
@@ -370,16 +391,9 @@ def main(argv=None):
 
     manifest["seq"] = end_seq
     manifest["source_truncated"] = not exhausted
+    manifest["pending"] = serialize_pending(pending)
     if not exhausted:
         manifest["window"] = iso(since)
-        manifest["pending"] = [
-            {
-                "package": name,
-                "since": iso(pending[name]["since"]),
-                "attempts": pending[name]["attempts"],
-            }
-            for name in sorted(pending)
-        ]
         save_manifest(args.manifest, manifest)
         print(
             "registry scan reached its page limit; candidates were persisted "
@@ -387,6 +401,8 @@ def main(argv=None):
             file=sys.stderr,
         )
         return 0
+
+    save_manifest(args.manifest, manifest)
 
     candidates = sorted(pending)
     with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
@@ -440,14 +456,7 @@ def main(argv=None):
 
     manifest["window"] = iso(until)
     manifest["source_truncated"] = False
-    manifest["pending"] = [
-        {
-            "package": name,
-            "since": iso(next_pending[name]["since"]),
-            "attempts": next_pending[name]["attempts"],
-        }
-        for name in sorted(next_pending)
-    ]
+    manifest["pending"] = serialize_pending(next_pending)
     if rows:
         output = Path(args.output_dir) / f"new-packages-{timestamp_filename(until)}.csv"
         write_csv(output, rows)
