@@ -41,7 +41,7 @@ jobs:
     if: ${{ failure() || cancelled() }}
     uses: ./.github/workflows/fetch.yml
     with:
-      runner: ${{ vars.RUNNER_BACKUP || 'ubuntu-latest' }}
+      runner: ${{ vars.RUNNER_BACKUP || 'self-hosted' }}
       since: ${{ inputs.since }}
       until: ${{ inputs.until }}
       since_seq: ${{ inputs.since_seq }}
