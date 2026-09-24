@@ -64,7 +64,10 @@ jobs:
           source scripts/retry.sh
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add --sparse README.md latest.json data
+          git add --sparse README.md latest.json
+          if [ -d data ] && [ -n "$(ls -A data)" ]; then
+            git add --sparse data
+          fi
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
