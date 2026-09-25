@@ -1,0 +1,52 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-25T00:21:06.662Z,@tsln/amxd,0.1.0,mateomurphy,MIT,12942,Reads and writes Max for Live .amxd device files: the ampf header and the patcher JSON inside it
+2026-09-25T00:21:08.535Z,@tsln/create-max,0.1.0,mateomurphy,MIT,20380,"Scaffolds a TypeScript project for Max [v8] scripts, and optionally [node.script], set up with the @tsln packages"
+2026-09-25T00:22:22.705Z,@saifullah-max/safe-truncate,1.0.0,saifullah-max,,1764,truncate text without breaking emoji
+2026-09-25T00:25:01.233Z,@kulinda-sec/bugsecure-mcp,0.1.0,klds,Apache-2.0,1379807,"Model Context Protocol server for the BugSecure bug bounty platform: browse programmes, work on your reports and triage — with OAuth 2.1, least-privilege scopes and prompt-injection-aware output."
+2026-09-25T00:27:25.496Z,rect-native-osx,0.0.0,gabrieldonadel,ISC,211,
+2026-09-25T00:27:39.785Z,stripe-subscription-kit,0.1.0,oka70301,MIT,29372,"Framework-agnostic Stripe subscription toolkit (checkout, webhook verification, portal)"
+2026-09-25T00:29:48.302Z,openglass-sdk,0.1.0,openglass,MIT,130333,"Official JS/TS client for OpenGlass — register agents, run witnessed sessions, and independently verify signed records."
+2026-09-25T00:30:22.78Z,react-native-mac,0.0.0,gabrieldonadel,ISC,212,
+2026-09-25T00:34:21.858Z,expo-macos,0.0.0,gabrieldonadel,ISC,206,
+2026-09-25T00:35:29.98Z,@noirstack/faency,1.0.0,hexops,Apache-2.0,2904154,Noir Stack design system
+2026-09-25T00:35:33.728Z,@svadmin/rest,0.2.1,vicerz,MIT,3890,Generic REST adapters — bridge @refinedev/rest to a svadmin DataProvider
+2026-09-25T00:36:19.356Z,ksi-opencode-harness,0.4.0-beta.0,ksi-corp,MIT,305179,OpenCode plugin for risk-aware subagent routing and verification policy
+2026-09-25T00:36:49.259Z,@lamartinecabral/web-search,1.0.0,lamartinecabral,ISC,24497,A Web Search tool for RAG workflows with multiple backend support.
+2026-09-25T00:38:51.298Z,@tarout/ai,0.1.0,saleh-tarout,MIT,40954,Official JavaScript and TypeScript SDK for the Tarout AI Gateway
+2026-09-25T00:40:21.213Z,@codecompass/cli,0.31.0,shing426,MIT,19959847,"CodeCompass — deterministic AST-based architecture cockpit and MCP server: call chains, cross-stack root-cause diagnosis, blast-radius planning, module evolution and domain radar for Java/TS/Python/G…"
+2026-09-25T00:42:23.029Z,@junro/component-tagger,0.0.1,chwro,MIT,251800,"Vite plugin that tags JSX elements with data-dev-* attributes (source path, line, enclosing component) so Junro's web plugin can point a report at the right file."
+2026-09-25T00:42:32.086Z,celestia-components,0.2.1,matheuslpm1gb,MIT,456264,Biblioteca de componentes React com identidade visual Celestia
+2026-09-25T00:43:56.256Z,@junro/web-plugin,0.0.1,chwro,MIT,8218410,"Embeddable bug-report and change-request widget for React apps: pick elements, grab screenshots, write it up, and send it to a Junro inbox or export an agent-ready prompt."
+2026-09-25T00:44:48.536Z,@rogeriohsjr/nodulus,1.0.1,rogeriohsjr,Apache-2.0,262247,An open-source TypeScript CLI for LLM workflows with validated artifacts and resumable execution.
+2026-09-25T00:46:27.441Z,@supa-media/context,0.1.0,lilseyi,MIT,145560,"Install Context into your AI tools: the MCP server, the skills, and the session hooks that save what a session learned"
+2026-09-25T00:53:48.083Z,@hidemikimura/formulit,0.1.0,hidemikimura,MIT,325958,Lit で使える、手書き HTML を欠落させない WYSIWYG エディタ（<formulit-editor>）
+2026-09-25T00:53:51.878Z,pi-piano-app,1.1.0,game_ryo,MIT,5258,"円周率をサブコマンド（play, fast, silent）で切り替えて演奏・出力するCLIツール"
+2026-09-25T00:56:10.166Z,bugsradar,3.0.0,abystry,MIT,42204,"Errors of your Node.js application in Telegram, Discord or Pushover: uncaught errors, direct calls, Express, winston and pino in one package."
+2026-09-25T00:57:20.922Z,@systemfsoftware/stryker-framework-interface,0.0.0,ryanleecode,Apache-2.0,26621,"The framework interface for StrykerJS-style mutation tooling — the plain framework object a plugin exports, its format claim, the embedded document and script regions it produces, and the toolkit con…"
+2026-09-25T00:58:06.817Z,@8bitscript/audio,0.23.0,muncherelli,MIT,20954,"Play a sample or song compiled from a .8ba file: audio.play, audio.music, audio.update once a frame. SID, the NES APU, POKEY, or the PET VIA — or silence with a diagnostic on a machine that has no dr…"
+2026-09-25T00:58:08.198Z,@8bitscript/audio-tools,0.23.0,muncherelli,MIT,7681,Host-side WAV decode (in-process) and FLAC decode (via FFmpeg) for 8BitAudio. The compiler calls this; the target image never contains it.
+2026-09-25T00:58:09.64Z,@8bitscript/graphics,0.23.0,muncherelli,MIT,17173,"Play a sprite compiled from a .8bg file: place it, advance its animation once a frame. Hardware sprites on the C64, CHR/OAM on the NES, quadrant-blocks on the PET, a software glyph everywhere else."
+2026-09-25T00:58:10.933Z,@8bitscript/graphics-tools,0.23.0,muncherelli,MIT,10995,"Host-side PNG decode, frame slicing, and nearest-color quantize for 8BitGraphics. The compiler calls this; the target image never contains it."
+2026-09-25T00:58:15.355Z,cline-upstream-provider,1.0.0,xxxkop,MIT,193883,See which provider really serves your requests behind the Cline gateway — a DeepSeek Harness plugin and a pi extension in one repository.
+2026-09-25T01:00:32.874Z,@systemfsoftware/effect-daemon-cluster,0.1.0,ryanleecode,Apache-2.0,25982,The effect-daemon-spec medium over effect/unstable/cluster — entities and single-owner singletons supervised with inferred death and eventual group stop.
+2026-09-25T01:00:38.665Z,@systemfsoftware/effect-daemon-conformance,0.1.0,ryanleecode,Apache-2.0,81884,"Pairwise conformance for effect-daemon-spec media — scripted child lifecycles, a medium-independent scenario catalogue, trace projection to a medium's declaration, and a fiber-reference comparison."
+2026-09-25T01:00:44.238Z,@systemfsoftware/effect-daemon-microvm,0.1.0,ryanleecode,Apache-2.0,32961,"MicroVM medium for effect-daemon-spec — workloads supervised inside hardware-isolated microVMs through @systemfsoftware/effect-microsandbox, with a conformance driver proving the medium against the f…"
+2026-09-25T01:00:50.132Z,@systemfsoftware/effect-daemon-process,0.1.0,ryanleecode,Apache-2.0,30973,"The effect-daemon-spec medium over operating-system child processes — a command spec spawned through ChildProcessSpawner, its exit code and terminating signal reported as observed, and its shutdown m…"
+2026-09-25T01:00:56.122Z,@systemfsoftware/effect-daemon-socket,0.1.0,ryanleecode,Apache-2.0,42147,"The effect-daemon-spec medium over effect/unstable/socket — long-lived connections supervised with readiness conditions, close and refusal reported as received, and graceful-then-forced shutdown."
+2026-09-25T01:02:29.138Z,@systemfsoftware/stryker-js-angular,0.0.0,ryanleecode,Apache-2.0,24931,"Stryker framework plugin for Angular and Vue templates: claims .html, .htm, and .vue files and instruments their embedded script regions, never template expressions."
+2026-09-25T01:02:34.37Z,@systemfsoftware/stryker-js-svelte,0.0.0,ryanleecode,Apache-2.0,35815,"Stryker framework plugin for Svelte components: claims .svelte files, resolves the svelte compiler from the project install, and refuses the run with a typed reason when the compiler is missing or to…"
+2026-09-25T01:02:38.22Z,@org-rollback-longs-comfy-sport-brock/pkg-rollbackbrock,1.0.0,maitxn,ISC,273,empty
+2026-09-25T01:06:18.977Z,@metacoding.io/regulator-protocol,0.1.0,metacodingio,Apache-2.0,324608,
+2026-09-25T01:06:21.143Z,@metacoding.io/regulator-checks,0.1.0,metacodingio,Apache-2.0,133332,"Deterministic S3* checks: host-run verification bound to a revision, and the technical verdict derived from it."
+2026-09-25T01:06:24.578Z,@metacoding.io/regulator-core,0.1.0,metacodingio,Apache-2.0,562811,
+2026-09-25T01:06:27Z,@metacoding.io/regulator,0.1.0,metacodingio,Apache-2.0,2599011,"regulator: a coding-agent harness with an explicit cybernetic control plane. The S3 loop (contract, dispatch, verify, route, close) with leases and budgets, host-run evidence at closeout, obligations…"
+2026-09-25T01:06:29.057Z,@metacoding.io/regulator-control-room,0.1.0,metacodingio,Apache-2.0,81112,"The maintainer's read-only control room: one page over the `regulator status` read model — definition topology, running instances, and what each unit is doing."
+2026-09-25T01:06:31.151Z,@metacoding.io/regulator-pi,0.1.0,metacodingio,Apache-2.0,241649,"The Pi host for regulator: the session-side extensions that enforce the control plane inside a Pi session (typed tools, capability profiles, coordination, the work contract, budgets, recovery, eviden…"
+2026-09-25T01:14:33.9Z,toxicfilter-sdk,1.1.3,edulazaro,MIT,66491,The official JavaScript client for the ToxicFilter content moderation API.
+2026-09-25T01:15:03.154Z,@taisan11/unix-crypto-td-esm,0.1.0,taisan11,,12486,
+2026-09-25T01:15:40.372Z,veyl.dev,0.3.0,jjongyn,MIT,886625,Procedural signal orbs for expressive AI interfaces
+2026-09-25T01:15:42.901Z,@rackbops/ac-plugin-research-feed-store,0.1.0,rshelton,Apache-2.0,15147,Sidecar that mirrors the research-triage machine feed into local SQLite for artifact-console's research-feed plugin (#453).
+2026-09-25T01:15:53.546Z,@rackbops/ac-plugin-research-feed,0.1.0,rshelton,Apache-2.0,26525,"Panel + card for the research-feed-store sidecar (#106): browse graded links from the research-triage machine feed, filter by verdict/watch-live, and submit a URL for grading."
+2026-09-25T01:17:49.428Z,@corraya/cms-editor,0.6.1,chryssalid,PolyForm-Noncommercial-1.0.0,1047349,"Blokowy edytor wizualny treści dla aplikacji Vue 3 — kanwa, konspekt, panel właściwości i renderer HTML."
+2026-09-25T01:18:24.196Z,roow-ui,0.1.0,kesha-vdivate,MIT,78796,Add ROOW design system components to your React project as source code you own.
+2026-09-25T01:18:59.668Z,knowfirm,0.1.0,persooninc,,7787,TypeScript client for the KnowFirm KYB and firmographic data API (dependency-free).
