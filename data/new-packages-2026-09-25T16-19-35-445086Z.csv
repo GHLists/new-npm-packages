@@ -1,0 +1,110 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-25T15:16:58.521Z,@fhevm/forge,0.0.0,zama-fhe-bot,BSD-3-Clause-Clear,20063,FHEVM standard library for Forge. Companion to forge-std: encrypt inputs and decrypt handles from Foundry tests and scripts.
+2026-09-25T15:18:53.98Z,@trust-os-sdk/mcp-server,0.1.0-alpha.0,trust-os-sdk,MIT,51850,MCP server for verifying high-impact decisions with Trust OS
+2026-09-25T15:19:15.325Z,@envitepkg/template-types,0.3.0,cracked-c0de,,2936,"Envite invitation types, registry, and shared schemas"
+2026-09-25T15:19:18.369Z,@envitepkg/template-sdk,0.3.0,cracked-c0de,,20532,Runtime APIs for Envite invitation templates
+2026-09-25T15:19:21.486Z,@envitepkg/cli,0.3.1,cracked-c0de,,118011,"Create, develop, validate, build, and package Envite templates"
+2026-09-25T15:19:25.414Z,@envitepkg/create-template,0.3.1,cracked-c0de,,628,Create a fully configured Envite invitation template
+2026-09-25T15:20:23.295Z,create-lorekeeper,0.1.0,riki.lamadrid,MIT,68872,"Lorekeeper — an AI-native second brain made of plain Markdown files you own. `lore` is a deterministic, offline CLI that ranks the passages answering a question."
+2026-09-25T15:21:05.348Z,tokenhop,0.0.1,yandy-r,MIT,862,"Self-hosted AI routing gateway: one OpenAI-compatible endpoint in front of many LLM providers, with fallback and multi-account rotation. Coming soon."
+2026-09-25T15:21:26.458Z,@querycn/filter-core,0.2.0,duoctm,MIT,144215,"Framework-agnostic conditional filter engine: rules AST, URL codec, backend query serializers and client-side filtering."
+2026-09-25T15:21:29.909Z,@querycn/filter-react,0.2.0,duoctm,MIT,82107,"Headless React bindings for @querycn/filter-core: provider, hooks and URL state adapters."
+2026-09-25T15:21:33.437Z,@querycn/filter-next,0.2.0,duoctm,MIT,14911,"Next.js App Router bindings for @querycn/filter-react: URL adapter, provider and a server-side filter parser."
+2026-09-25T15:21:33.97Z,@querycn/table-react,0.1.0,duoctm,MIT,159745,"Headless data table for React on TanStack Table v9: URL-synced sorting and pagination, persisted column layout, and @querycn/filter integration."
+2026-09-25T15:22:24.251Z,content-relay-widget,1.0.0,bitsabhi,MIT,4486,"Zero-dependency client widget for pushing/pulling small pieces of content into any static site, backed by a Cloudflare Worker + KV."
+2026-09-25T15:22:41.233Z,@wil-works/evoke-tools-ui,0.1.0,willove,MIT,143405,Evoke Tools UI — 纯 JS Vue3 产品级 GUI 框架（工具区 / 停靠 / 外壳件 + 运行时契约，命名空间 --et-*，底座 @wil-works/evoke-business-ui）
+2026-09-25T15:22:46.183Z,cyclewire,1.0.0,fmdogancan,MIT,821977,Zero-initial-JS selective activation engine. Turn server-rendered HTML into instant interactivity on intent.
+2026-09-25T15:22:47.12Z,@koinzhang/paseo-plugin-customize,0.1.0,koinzhang,MIT,282090,"Inspect local instructions, rules, skills, MCP servers, commands, subagents, and plugins for Paseo providers."
+2026-09-25T15:22:50.599Z,@lucapimentel/velvet,0.1.0,lucapimentel,MIT,71431,"React component library. Owns appearance and accessibility, nothing else."
+2026-09-25T15:22:52.652Z,command-and-context,1.0.0,geekgreg,MIT,1474948,"A low-poly isometric RTS diorama of every Claude Code session, sub-agent, and dev server running on this machine."
+2026-09-25T15:23:54.982Z,captchakit,0.1.3,miladjoodi,MIT,475559,"Self-hosted CAPTCHA for React and Next.js — no database, Redis, or external provider required"
+2026-09-25T15:24:07.374Z,md-pdf-studio,1.1.0,vannt-dev,MIT,64958,"A powerful CLI tool and Manifest V3 Browser Extension to convert Markdown files, text, or web pages into beautifully styled PDFs with Mermaid diagrams, LaTeX math, TOC, and themes."
+2026-09-25T15:24:48.061Z,osx-mouse-napi,1.0.1,macbing,MIT,11171,Mouse tracking for OS X
+2026-09-25T15:27:22.265Z,@unblocklabs/gog-email-watch,0.1.0,bek91,MIT,52985,An OpenClaw plugin that watches Gmail through the node's existing gog CLI and wakes its agent for approved senders.
+2026-09-25T15:27:52.426Z,pi-ctf,0.1.1,nhan_laptop,MIT,984962,"Pi extension: log in to a CTF platform once, pull a category of challenges, and delegate solving to worker agents"
+2026-09-25T15:28:44.08Z,@longzai-intelligence-github-markdown/config,0.0.2,joydragon,UNLICENSED,7397,Longzai Intelligence Github Markdown config - lzi-github-markdown.config.ts 结构真源/发现加载/骨架生成
+2026-09-25T15:28:53.25Z,@longzai-intelligence-github-markdown/core,0.0.2,joydragon,UNLICENSED,37528,Longzai Intelligence Github Markdown core - 本地克隆仓只读扫描与 git 采集/确定性渲染/按组织 git 仓写入/目录册
+2026-09-25T15:29:01.881Z,@longzai-intelligence-github-markdown/cli,0.0.2,joydragon,UNLICENSED,9997,Longzai Intelligence Github Markdown CLI - 本地克隆仓转按组织/仓库 markdown 数据仓的命令行工具
+2026-09-25T15:29:13.111Z,@intellmedia/basecoat-ui-mcp,1.0.2,zygiu-zygis,MIT,356931,"Offline MCP server for Basecoat UI composition, curated templates, and static validation (stdio, no runtime network)"
+2026-09-25T15:29:48.296Z,@junsma/core,0.1.0,junsma,MIT,510519,"Protocol-agnostic streaming engine for LLM chat: spec-compliant SSE parsing, multi-provider protocol adapters and a resilient session state machine."
+2026-09-25T15:29:49.602Z,@postinger/api-client,0.1.0,postinger,MIT,69697,Typed client for the Postinger public API
+2026-09-25T15:29:54.885Z,@junsma/react,0.1.0,junsma,MIT,47459,"React bindings for @junsma/core: an external store consumed through useSyncExternalStore, with fine-grained subscriptions for streaming chat UIs."
+2026-09-25T15:30:06.6Z,@postinger/cli,0.1.0,postinger,MIT,68972,Postinger command-line interface
+2026-09-25T15:30:09.872Z,tree-stack,0.1.0,lcweden,MIT,12836,"A lightweight, stateful, data-structure agnostic prefix manager for rendering tree-view hierarchies."
+2026-09-25T15:30:11.922Z,@affidev/affichat,1.0.0,eabdalmufid,MIT,49553,Official TypeScript & JavaScript SDK for AffiChat WhatsApp Gateway
+2026-09-25T15:31:27.745Z,@scaleway/srn,0.0.1,aphilibeaux-scw,MIT,5404,Parse Scaleway Resource Names (SRN) in Node and the browser
+2026-09-25T15:32:09.187Z,research-paper-pipeline,1.0.0,zernie,MIT,5388165,"Machine-checkable gates for a research paper kept in git: ESLint rules over .tex/.md paper sources, plus the skills and hooks that drive each stage."
+2026-09-25T15:32:17.876Z,meya-icons,1.0.0,meyastudio,MIT,2366606,"Open-source icons by Meya Lab. Outline and Duotone, 24×24 grid, currentColor."
+2026-09-25T15:32:50.985Z,trackdown,0.0.1,jkriss,MIT,296,Markdown for the Monorail Track method
+2026-09-25T15:32:57.622Z,@orbiodotso/sdk,0.1.0,orbiodotso,MIT,157490,"One key for AI inference, agent tools and the CREDIT protocol. Read with an API key, sign with a wallet, and let an agent pay for itself."
+2026-09-25T15:33:50.637Z,@syntopica/db-quality,0.1.0,cristiandeluxe,MIT,178959,"Database quality gate: lint Supabase migrations, Prisma and Drizzle schemas and SQLite files, audit a live Supabase project, carry debt in a baseline"
+2026-09-25T15:34:16.001Z,pawbrowse,0.5.2,itaizeilig1,MIT,116124,"Let Claude Code drive your real, logged-in Chrome. A zero-dependency MCP server + a Chrome MV3 extension that uses element-table perception over CDP. The calling agent is the policy: no second model,…"
+2026-09-25T15:35:50.708Z,@affidev/n8n-nodes-affichat,1.0.0,eabdalmufid,MIT,1683992,Official n8n community node for AffiChat WhatsApp Gateway
+2026-09-25T15:36:48.667Z,box2d-laya-dts,0.1.0,hanweizhao,MIT,28691,Box2D TypeScript declarations for LayaAir 2D physics
+2026-09-25T15:37:10.427Z,@xk2800/nextjs-template,0.5.3,xk2800,,2405595,This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+2026-09-25T15:39:17.757Z,serene-css,2.0.1,arunkumar413,MIT,76438,A class-based CSS library for composing HTML components
+2026-09-25T15:39:39.822Z,@applooma/uikit-react,0.1.0,apploomadev,MIT,89559,"AppLooma RTC UIKit for React — drop-in live streaming, voice room and 1-to-1 call screens"
+2026-09-25T15:40:13.141Z,@carldaws/hunch,0.1.0,carldaws,MIT,61407,"Probabilistic control flow for TypeScript: chance, pick, and rate, answered by TypeSafe's Jev System One model or any backend you plug in"
+2026-09-25T15:41:00.312Z,setsuna-sdk,0.1.0-rc.1,semswitch,SEE LICENSE IN LICENSE,88514,Setsuna SDK for TypeScript and JavaScript.
+2026-09-25T15:41:48.144Z,arsya-baileys,9.2.0,arsya_fils,MIT,20983489,"Arsya's modded Baileys v7 — interactive messages, album, newsletter, VoIP, anti-lag send queue, auto decrypt-retry/reconnect, metadata cache TTL, media download helpers & ARich helper"
+2026-09-25T15:42:11.235Z,@idinsight/standards,0.1.0,tonyzhao6,MIT,698094,S.T.A.N.D.A.R.D.S. framework installer for coding agents
+2026-09-25T15:43:02.464Z,seowebchecker-seoaudit-sdk,1.0.0,seoaitools,MIT,33899,"Lightweight open-source client SDK and CLI tool for website SEO audits, on-page analysis, and Core Web Vitals checks by SEOWebChecker."
+2026-09-25T15:43:44.373Z,@strata-sc/core,0.1.0,andriipap,MIT,17875,Experimental @Controller/@Get metadata primitive for Strata. No HTTP runtime yet.
+2026-09-25T15:43:47.431Z,@strata-sc/analog,0.1.0,andriipap,MIT,49744,Experimental Analog adapter for @strata-sc/core — registers Strata controllers on the Nitro 2 router that Analog runs on.
+2026-09-25T15:43:52.233Z,@applooma/uikit-react-native,0.1.0,apploomadev,MIT,80890,"AppLooma RTC UIKit for React Native — drop-in live streaming, voice room and 1-to-1 call screens"
+2026-09-25T15:45:19.846Z,@rallya/sdk,0.1.0,nikhea,UNLICENSED,276725,JavaScript/TypeScript SDK for the Rallya event platform API
+2026-09-25T15:45:40.704Z,@216digital/ui,0.1.0,bobby-216,UNLICENSED,209107,"The 216digital design system: hand-written React components, design tokens and component CSS."
+2026-09-25T15:45:46.024Z,@artificialusers/runner,0.1.0,artificialusers1,SEE LICENSE IN LICENSE,214356,"Runs an artificial user through your own product, on your own machine, and uploads the evidence."
+2026-09-25T15:46:29.488Z,@lendxntaa/baileys,9.3.0,lelendkznnn,MIT,12070564,WhatsApp Baileys Library Modification to make it easier for developers to develop for anything
+2026-09-25T15:46:56.029Z,agentflowctl,0.1.2,gogogohuang,MIT,103898,跨廠商 AI 開發 harness：Claude Code、Codex、Gemini 輪流實作、審查、修正
+2026-09-25T15:46:56.3Z,ai-agents-api-library,0.3.7,eater2,MIT,4327009,"MCP server: search a catalog of 300+ APIs and MCP servers that AI agents can call (auth, free tier, MCP endpoint, docs)."
+2026-09-25T15:47:11.493Z,iobroker.flow,0.0.1,bluefox,MIT,6038006,"Configurable flow diagram for energy, water, gas and heat, for ioBroker.vis-2 and ioBroker.devices"
+2026-09-25T15:47:40.751Z,rideo,0.1.1,xunz03,ISC,478738,Turn instructional videos into illustrated lessons with Codex and pi.
+2026-09-25T15:48:01.555Z,@computerwwwizards/screenplay-storybook,0.1.0,developaul,MIT,39383,Lightweight Screenplay Pattern DSL (Actor/Ability/Question/Performable) targeting Storybook interaction tests.
+2026-09-25T15:49:18.53Z,rustoku-wasm,0.15.1,huangsam,MIT,239870,WebAssembly bindings for Rustoku
+2026-09-25T15:50:16.268Z,@computerwwwizards/spec-glue,0.1.0,developaul,MIT,12923,Binds implementation handlers to Markdown-declared spec steps (Scenario/Step pattern matching and execution).
+2026-09-25T15:50:41.418Z,glove-classifier,0.1.0,porkytheblack,MIT,151758,"Structured-decision (classifier) models for the Glove agent framework — TypeSafe's Jev, open System One models (Kev, Laya, Von, Rizzo, Decider), zero-shot label scorers, an LLM fallback, confidence-g…"
+2026-09-25T15:51:07.838Z,@traceora/core,0.1.0,zuhaibrashid,,42307,Core event engine and runtime intelligence for Traceora
+2026-09-25T15:51:23.401Z,@traceora/vite-plugin,0.1.0,zuhaibrashid,,6546,Zero-config auto-tracking plugin for Traceora
+2026-09-25T15:51:26.783Z,@traceora/react,0.1.0,zuhaibrashid,,49423,React instrumentation for Traceora
+2026-09-25T15:51:33.037Z,@taeksoolee/ai-workflow,0.1.1,taeksoolee,MIT,95837,어떤 AI 에이전트 도구를 쓰든 동일한 워크플로우로 프로젝트를 진행하게 해주는 CLI (aiw)
+2026-09-25T15:51:55.413Z,@vergex402/fetch,1.0.0,vergex402,MIT,33798,"x402 v2-compatible fetch wrapper for AI agents and apps. payAndFetch() handles the 402 challenge, signs, and retries automatically on Robinhood Chain."
+2026-09-25T15:52:06.072Z,@saifymatteo/pi-atelier,0.11.3,saifymatteo,MIT,1073544,A responsive status rail and live activity sidebar for Pi
+2026-09-25T15:53:39.223Z,tgcloud-vendor-wasm,0.1.0,timursivko,MIT,28564,Pack a WebAssembly library into deployable modules for Telegram Serverless
+2026-09-25T15:54:08.931Z,koishi-plugin-aaqqbot,0.1.0,yilifaer,MIT,167208,配合 AllianceAuth 插件 aa-qqbot，用 QQ 机器人管理联盟 QQ 群成员：审批入群、定时巡检、提醒与移出、同步群名片
+2026-09-25T15:54:14.114Z,@mcd0luo/celes-dsh-file-wake,0.1.0,mcd0luo,MIT,25390,文件级会话唤醒（第二唤醒通道，不依赖桥接 HTTP）：监听 /server-center/runtime/state/session-wake/ 下的唤醒文件（文件名=sessionId），对目标会话 inbox.append + wakeDriver 进程内驱动新一轮处理，处理完将文件移入 done/（追加结果行），会话不可达则移入 failed/。host-only（依赖 schemaste…
+2026-09-25T15:54:18.929Z,@ringotangs/atsql,0.1.1-alpha.0,ringotangs,MIT,550905,Generate configured AskTao database initialization SQL.
+2026-09-25T15:54:24.232Z,@realness.online/itemid,0.1.0,sfryxell,GPL-2.0-only,5622,The itemid rulebook: one string that names a thing and carries its facts
+2026-09-25T15:55:03.457Z,@realness.online/store,0.1.0,sfryxell,GPL-2.0-only,29107,"The microdata document store: Storage, mixins, and Directory over an injected backend"
+2026-09-25T15:56:15.609Z,@cubs/rqlite-client,1.0.0,imheldermartins,MIT,140891,"Typed rqlite client, declarative schemas and migrations"
+2026-09-25T15:57:16.905Z,beatz,0.0.1,gsimone,ISC,260,🫜
+2026-09-25T15:57:42.131Z,@ikuma.cloud/pix-theme-elmethis,0.0.1,46ki75,,12278,Elmethis dark and light themes for Pi Coding Agent
+2026-09-25T15:59:43.946Z,@harbouli/fprot,1.1.1,harbouli,MIT,489123,Encrypted peer-to-peer TCP messaging negotiated over WebRTC for React Native
+2026-09-25T16:00:42.953Z,pi-lazy-panel,0.1.0,jiajiecheng,MIT,481232,"A lazygit-style TUI for browsing, resuming and managing pi sessions (/lazy-panel)"
+2026-09-25T16:00:55.447Z,ctrlyoke,0.0.1,fuzzynova,UNLICENSED,957,ctrlyoke command-line tool. Placeholder release; the real CLI ships with the ctrlyoke VS Code extension.
+2026-09-25T16:01:09.215Z,dsh-helper-patch,0.4.0,zycshiniye,MIT,1324322,给 DeepSeek Harness 打补丁：在任意会话把文件主动投递到 IM（微信）、按 cron 跑定时任务、工作区活动呼吸灯（含折叠未读提示）、对话完成提示音，另有一键重启按钮。
+2026-09-25T16:02:05.47Z,@human.tech/ui,0.0.0,human-tech-releases,MIT,2928622,Human.Tech Design System - React components and CSS
+2026-09-25T16:03:05.678Z,seo-landing-pages-nextjs,0.5.0,stellan,MIT,142583,Render your SEO landing pages in Next.js
+2026-09-25T16:03:24.309Z,seo-landing-pages-react,0.2.0,stellan,MIT,235039,"Render your SEO landing pages in any React app (Vite, Create React App, TanStack Router, react-router)"
+2026-09-25T16:03:34.337Z,@approval-tests/approvals,7.3.0,ilandikov,Apache-2.0,418635,Approval Tests Library - Capturing Human Intelligence
+2026-09-25T16:04:06.691Z,@ogsosa/guardrail,0.1.0,ogsosa,UNLICENSED,19445,Instalador del guardrail corporativo para Codex CLI. Coloca el AGENTS.md en ~/.codex.
+2026-09-25T16:04:30.031Z,@albymbiju/express-pretty-logger,1.0.0,albymbiju,MIT,34609,"A clean, beautiful, and secure terminal logger middleware for Express.js with automatic sensitive data masking, response interception, and ANSI styling."
+2026-09-25T16:05:33.817Z,functhis,0.1.0,xmazu,MIT,738056,Publish TypeScript functions to Functhis
+2026-09-25T16:05:39.275Z,@the-polyfills/random-uuid,2.0.0,doanhtu07,MIT,41123,Polyfill for crypto.randomUUID in React Native
+2026-09-25T16:06:49.505Z,iteration-cli,0.4.0,vdmatos,,68878,Install one CLI for Iteration's supported coding-agent sources:
+2026-09-25T16:08:25.999Z,@trytrustable/consent-react-native,0.1.0,trytrustable,SEE LICENSE IN LICENSE,37051,"DPDP, GDPR and US-state consent for React Native and Expo apps. Proof of consent, not just a banner."
+2026-09-25T16:08:37.404Z,@semi-bot/semi-theme-clp,1.0.0,semi-bot,MIT,1512452,Semi theme generated by dsm. https://semi.design/dsm
+2026-09-25T16:09:36.242Z,@ankitrajput07/packet-tracer-mcp,0.1.1,ankitrajput07,MIT,712578,"Servidor MCP (Model Context Protocol) para Cisco Packet Tracer 9 — permite que un LLM como Claude o ChatGPT cree, edite y valide topologías de red en vivo (routers Cisco, switches, VLANs, OSPF, EIGRP…"
+2026-09-25T16:10:50.729Z,n8n-nodes-mailprobe,0.0.1,jamalofski,MIT,647,Coming soon: the official n8n node for MailProbe email verification. This version only reserves the name.
+2026-09-25T16:10:54.963Z,@nylorun/admin,0.2.0-beta,onebabai,Apache-2.0,30535,Nylorun Admin API client for Tenants and Host status
+2026-09-25T16:11:14.595Z,@scxfe/wiki-agent,0.1.1,scxfe,ISC,212425,从代码知识图谱生成结构化中文 Markdown Wiki 的 CLI 工具（LLM 增强叙述 + 纯规则回退）
+2026-09-25T16:11:34.558Z,n8n-nodes-conv2pdf,0.0.1,jamalofski,MIT,616,Coming soon: the official n8n node for the conv2pdf API. This version only reserves the name.
+2026-09-25T16:11:48.727Z,cohoststr-mcp,0.12.0,dljrealty,MIT,217063,"CohostSTR — MCP server for Guesty property management — 44 registered tools, all free (43 Guesty tools + get_license_info), + 7 addressable resource templates covering reservations, guests, messaging…"
+2026-09-25T16:12:40.642Z,dsh-prompt-suggestions,0.1.0,nzl153,MIT,21778,DeepSeek Harness 输入框的下一句建议：助手回复完，空输入框里出现一句灰色建议，按 Tab 填入。Prompt suggestions for the DSH composer.
+2026-09-25T16:12:53.17Z,signalk-airmar-dst-config,0.1.0,mairashl,MIT,1269320,"Interactive configuration console for Airmar DST-family NMEA 2000 depth, speed and temperature sensors."
+2026-09-25T16:15:01.001Z,iterlay,0.1.56,daived001,UNLICENSED,48546,One-command Iterlay integration for coding agents: installs the Iterlay Skill and MCP configuration for Codex and Claude Code.
+2026-09-25T16:15:10.583Z,@merijjeyn/jive,0.1.0,merijjeyn,MIT,629852,"A terminal coding agent that plans work as executable graphs: bash commands and bounded model decisions run locally as branches, loops, and parallel batches between planner turns."
+2026-09-25T16:15:22.489Z,scouter-sdk,0.1.0,abrahame,MIT,14833,Official TypeScript SDK for the Scouter Private Market Intelligence Platform
+2026-09-25T16:17:23.999Z,nuxt-postgrest,0.0.0,kiansa,MIT,18252,"First-class PostgREST for Nuxt: typed clients, SSR-aware composables and auth-aware JWT forwarding. No Supabase required."
+2026-09-25T16:17:34.529Z,webrecipe,0.1.0,pillsoon,MIT,376676,"Save how to read a public web page once, then fetch it over plain HTTP."
+2026-09-25T16:18:34.804Z,suite-timesheet-mcp,1.0.0,williansaez,SEE LICENSE IN LICENSE,72309,"Servidor MCP para o Suite Timesheet Importer: um assistente (Claude, Copilot…) lê e propõe horas; a extensão escreve depois de confirmação humana."
