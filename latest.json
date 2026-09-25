@@ -1,48 +1,58 @@
 {
   "list": {
-    "count": 82,
-    "from": "2026-09-25T06:19:27.216347Z",
-    "path": "data/new-packages-2026-09-25T07-19-04-240833Z.csv",
-    "to": "2026-09-25T07:19:04.240833Z"
+    "count": 162,
+    "from": "2026-09-25T07:19:04.240833Z",
+    "path": "data/new-packages-2026-09-25T08-19-23-665486Z.csv",
+    "to": "2026-09-25T08:19:23.665486Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@evolvex-tech/surgeui",
-      "since": "2026-09-25T06:19:27.216347Z"
+      "package": "@arbetsformedlingen/yrkesvaljaren-data",
+      "since": "2026-09-25T07:19:04.240833Z"
     },
     {
       "attempts": 1,
-      "package": "@gitmyabi/prometheus",
-      "since": "2026-09-25T06:19:27.216347Z"
+      "package": "@callstack/tracesift",
+      "since": "2026-09-25T07:19:04.240833Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "package": "@ic10/compiler",
+      "since": "2026-09-25T07:19:04.240833Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@nestjs/resilience",
+      "since": "2026-09-25T07:19:04.240833Z"
+    },
+    {
+      "attempts": 3,
       "package": "@oxvoinsights/browser-common",
       "since": "2026-09-25T05:19:32.327467Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "package": "@oxvoinsights/core",
       "since": "2026-09-25T05:19:32.327467Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "package": "@oxvoinsights/react",
       "since": "2026-09-25T05:19:32.327467Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "package": "@oxvoinsights/types",
       "since": "2026-09-25T05:19:32.327467Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "package": "@oxvoinsights/warlock",
       "since": "2026-09-25T05:19:32.327467Z"
     }
   ],
-  "seq": 132557878,
+  "seq": 132570675,
   "source_truncated": false,
-  "window": "2026-09-25T07:19:04.240833Z"
+  "window": "2026-09-25T08:19:23.665486Z"
 }
