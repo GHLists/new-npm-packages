@@ -1,0 +1,419 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-26T17:17:52.665Z,@portalshq/monetization,0.2.0,bmejia220,,116925,"Audience-to-creator monetization for Portals: Stripe Connect destination charges, entitlements, ledger, and transactional outbox. Keyed on tenant, not channel."
+2026-09-26T17:18:05.569Z,@portalshq/platform-billing,0.0.5,bmejia220,,34515,Usage metering and infrastructure invoicing for Portals tenants. Emits billable events to OpenMeter and prices them through Lago.
+2026-09-26T17:18:12.099Z,@portalshq/policy,0.0.5,bmejia220,,11519,"Monetization rate policy: platform rake and lineage-weighted royalty splits. Pure functions, zero dependencies, shared by monetization and platform-billing."
+2026-09-26T17:18:55.713Z,@typedstandards/cli,0.1.0,nathanstorey,MIT,72867,"Sign, withdraw, build a commitment view for, and verify Typed Standards records from the command line, through @typedstandards/produce-core and @typedstandards/verify-core. JSON in, JSON out; the sig…"
+2026-09-26T17:19:10.276Z,@zohodesk/stylelint-plugin-standards,0.0.2,iambk,ISC,28940,Stylelint plugin to enforce custom Zoho Desk CSS standards.
+2026-09-26T17:19:38.495Z,@ai-ecoverse/wasm-gmake,0.0.0,trieloff,Apache-2.0,11453,GNU make (WASM / emscripten) — name reservation stub; real artifacts TBD
+2026-09-26T17:19:50.605Z,@ai-ecoverse/wasm-cmake,0.0.0,trieloff,Apache-2.0,11448,CMake (WASM / emscripten) — name reservation stub; real artifacts TBD
+2026-09-26T17:19:55.715Z,@ai-ecoverse/wasm-magick-native,0.0.0,trieloff,Apache-2.0,11487,Magick.Native Q8 wasm — name reservation stub; real artifacts TBD
+2026-09-26T17:20:02.482Z,@vitavision/config-ts,0.1.0,vitalyvorobyev,MIT OR Apache-2.0,2756,Shared TypeScript compiler options and tsdown library preset for vitavision frontends.
+2026-09-26T17:20:05.111Z,@vitavision/ui,0.6.0,vitalyvorobyev,MIT OR Apache-2.0,335838,"The vitavision instrument design system: Tailwind v4 tokens, theme, and React primitives."
+2026-09-26T17:20:06.188Z,@vitavision/config-vitest,0.1.0,vitalyvorobyev,MIT OR Apache-2.0,7248,Shared Vitest presets for vitavision frontends.
+2026-09-26T17:20:09.1Z,@vitavision/forms,0.6.0,vitalyvorobyev,MIT OR Apache-2.0,99830,"JSON Schema (draft 2020-12, schemars output) rendered as a vitavision options form."
+2026-09-26T17:20:09.208Z,@vitavision/charts,0.6.0,vitalyvorobyev,MIT OR Apache-2.0,144701,"Small SVG charts for the vitavision lab apps: histogram, line, bar, line profile, scales."
+2026-09-26T17:20:09.347Z,@vitavision/stage2d,0.6.0,vitalyvorobyev,MIT OR Apache-2.0,308153,"The vitavision 2D image stage: view transform, zoom/pan, layered overlays, measurement."
+2026-09-26T17:20:13.731Z,model-worklog-sdk,0.1.14,manohareldhandi,MIT,128373,Local integration client for Model Logger evidence sessions
+2026-09-26T17:20:54.501Z,quassel,0.1.1,schlenkr,MIT,294637,"Composable chat building blocks for React: streaming transcript, steps, questions, inputs, CSS foundation and event contract"
+2026-09-26T17:20:54.557Z,bccli-linux-x64,0.1.0-beta.1,botconnector,MIT,149736619,BCCLI prebuilt binary for Linux x64. Not meant to be installed directly -- see the bccli package.
+2026-09-26T17:20:54.659Z,@entrogic-net/mcp-server-bangladesh,1.3.0,dev_sajid007,Apache-2.0,51287,"MCP server with Bangladesh reference data (divisions, districts) for BanglaClaw and any MCP client"
+2026-09-26T17:20:56.917Z,@entrogic-net/client,1.3.0,dev_sajid007,Apache-2.0,57866,Typed client for the BanglaClaw gateway API (REST + SSE streaming)
+2026-09-26T17:20:58.953Z,@entrogic-net/shared,1.3.0,dev_sajid007,Apache-2.0,117755,"Shared types, config and logging for BanglaClaw"
+2026-09-26T17:21:00.885Z,@entrogic-net/agents,1.3.0,dev_sajid007,Apache-2.0,25494,AGENT.md parser and team profiles for BanglaClaw multi-agent setups
+2026-09-26T17:21:01.058Z,@entrogic-net/session,1.3.0,dev_sajid007,Apache-2.0,76080,"Session, run and handoff stores for BanglaClaw"
+2026-09-26T17:21:01.218Z,@entrogic-net/skills,1.3.0,dev_sajid007,Apache-2.0,30959,SKILL.md skills with Bangla and Latin triggers for BanglaClaw
+2026-09-26T17:21:01.517Z,@entrogic-net/providers,1.3.0,dev_sajid007,Apache-2.0,44409,"Model providers for BanglaClaw: OpenAI-compatible (OpenAI, Ollama, vLLM) and Anthropic"
+2026-09-26T17:21:01.535Z,@entrogic-net/tools,1.3.0,dev_sajid007,Apache-2.0,54926,"Zod-validated tools, permission policy and executor for BanglaClaw"
+2026-09-26T17:21:01.574Z,@entrogic-net/auth,1.3.0,dev_sajid007,Apache-2.0,40799,"API keys, users, roles and scopes for the BanglaClaw gateway"
+2026-09-26T17:21:03.727Z,@entrogic-net/storage,1.3.0,dev_sajid007,Apache-2.0,240190,"PostgreSQL storage for BanglaClaw (Drizzle): sessions, runs, keys, audit and checkpoints"
+2026-09-26T17:21:04.041Z,@entrogic-net/mcp,1.3.0,dev_sajid007,Apache-2.0,55119,Model Context Protocol client for BanglaClaw: MCP servers as permission-checked tools
+2026-09-26T17:21:04.058Z,@entrogic-net/observability,1.3.0,dev_sajid007,Apache-2.0,31910,OpenTelemetry tracing and Prometheus metrics for BanglaClaw
+2026-09-26T17:21:04.448Z,@entrogic-net/agent,1.3.0,dev_sajid007,Apache-2.0,164676,"LangGraph agent runtime for BanglaClaw: runs, limits, streaming events and multi-agent teams"
+2026-09-26T17:21:06.436Z,@entrogic-net/knowledge,1.3.0,dev_sajid007,Apache-2.0,158378,"RAG knowledge base and long-term memory for BanglaClaw (Bangla-aware chunking, Qdrant)"
+2026-09-26T17:21:06.501Z,@entrogic-net/plugin-sdk,1.3.0,dev_sajid007,Apache-2.0,17509,"Build BanglaClaw plugins: tools, skills, agents and context providers"
+2026-09-26T17:21:07.54Z,bccli-win32-x64,0.1.0-beta.1,botconnector,MIT,144458836,BCCLI prebuilt binary for Windows x64. Not meant to be installed directly -- see the bccli package.
+2026-09-26T17:21:07.68Z,@entrogic-net/channels,1.3.0,dev_sajid007,Apache-2.0,138542,"Telegram, WhatsApp and Messenger channels for BanglaClaw, with voice notes"
+2026-09-26T17:21:10.007Z,safer-dsh-market,0.7.4,bruc3van,MIT,1178283,"A safety-first plugin marketplace for the DeepSeek Harness web GUI: a curated community shortlist, and an install that starts with a security review"
+2026-09-26T17:21:10.099Z,@entrogic-net/gateway,1.3.0,dev_sajid007,Apache-2.0,474383,"HTTP gateway for BanglaClaw: /v1 REST, SSE and WebSocket API, web chat and admin API"
+2026-09-26T17:21:13.17Z,@entrogic-net/cli,1.3.0,dev_sajid007,Apache-2.0,691443,"BanglaClaw command-line interface: terminal chat, gateway server, setup wizard and admin commands"
+2026-09-26T17:21:15.629Z,banglaclaw,1.3.0,dev_sajid007,Apache-2.0,13012,Bangla-first AI agent runtime. Run `npx banglaclaw init` to start (installs @entrogic-net/cli).
+2026-09-26T17:21:18.33Z,nearby-places-react,1.0.0,raviyadavxyz,Apache-2.0,137587,"Reusable React component for searching nearby hotels, hospitals, colleges, ATMs and other places."
+2026-09-26T17:21:22.866Z,model-worklog-supervisor,0.1.14,manohareldhandi,MIT,293484,Local runtime for durable Model Logger sessions
+2026-09-26T17:21:33.751Z,@thenavidm/podcastindex-mcp-cli,1.1.1,thenavidm,MIT,434903,"Podcast Index MCP server and CLI for Claude Code, Codex and AI agents. 36 tools for podcast search, episode transcripts you can actually read and search, Podcasting 2.0 tags, value-for-value data, fe…"
+2026-09-26T17:21:44.636Z,model-worklog,0.1.14,manohareldhandi,MIT,109000,Local-first command-line client for Model Logger
+2026-09-26T17:22:17.188Z,better-auth-lead-attribution,0.1.1,horizonwing,MIT,46621,Better Auth 插件：访客线索归因（UTM/referrer/落地页）、行为事件追踪与支付转化记录
+2026-09-26T17:23:23.1Z,@rstreamlabs/filesystem,0.2.0,uartnet,Apache-2.0,90991,Backend-independent filesystem access and a streaming WebDAV client.
+2026-09-26T17:23:37.272Z,@konsfyi/analytics,0.1.0,konsfyi,MIT,113734,"Tiny cookieless analytics: one endpoint, one dashboard."
+2026-09-26T17:23:55.114Z,@live-codes/swift-wasm,0.1.0,hatemhosny,MIT,73831888,"Client-side Swift for LiveCodes: compile and run Swift in the browser with no server, using the wasm-hosted Swift toolchain (swift-frontend + wasm-ld)."
+2026-09-26T17:23:56.175Z,modern-validate,0.1.0,pauldigital,MIT,61851,Modern form validation for the browser. No dependencies.
+2026-09-26T17:24:08.689Z,cpp-mcp,1.1.1,chocek,MIT,3875101,Model Context Protocol (MCP) server for C and C++
+2026-09-26T17:25:25.913Z,@twigg/agent,0.1.0,mattidebeer,MIT,920327,"A one-shot, non-interactive agent CLI for the Twigg API, with pluggable tools"
+2026-09-26T17:25:39.644Z,@hydra1902/harness-invariants,0.1.1-rc.2,hydra1902,MIT,20109,Registry service for package-owned Hydra harness runtime invariants
+2026-09-26T17:25:43.835Z,@hydra1902/harness-brand,0.1.1-rc.2,hydra1902,MIT,6482,Type-only Branded<B> nominal-typing primitive for the Hydra harness
+2026-09-26T17:25:48.517Z,@hydra1902/harness-attachment,0.1.1-rc.2,hydra1902,MIT,33781,Durable immutable attachment storage seam for the Hydra harness
+2026-09-26T17:25:52.921Z,@hydra1902/harness-timeout,0.1.1-rc.2,hydra1902,MIT,20143,"Zero-dependency timeout/deadline primitive: clampTimeout, deadline, timeoutOf, TimeoutReason (timing + classification only, no termination)"
+2026-09-26T17:25:54.775Z,bitployees,0.2.2-alpha.1,luisss.cc,MIT,2803265,"A local 3D office for your Claude Code and Codex agents, with real terminals and GitHub boards."
+2026-09-26T17:25:57.195Z,@hydra1902/harness-llm,0.1.1-rc.2,hydra1902,MIT,266258,Provider-neutral LLM service interface for the Hydra harness
+2026-09-26T17:26:01.494Z,@hydra1902/harness-scope,0.1.1-rc.2,hydra1902,MIT,37475,"Scoped-context registration primitive (scope tags, scope-filtered event dispatch) for the Hydra harness"
+2026-09-26T17:26:05.891Z,@hydra1902/harness-typert-protocol,0.1.1-rc.2,hydra1902,MIT,45997,Compiler-independent Remote metadata and Typert provider protocols
+2026-09-26T17:26:10.158Z,@hydra1902/harness-session,0.1.1-rc.2,hydra1902,MIT,274735,Event-sourced session store for the Hydra harness
+2026-09-26T17:26:14.518Z,@hydra1902/harness-system-prompt,0.1.1-rc.2,hydra1902,MIT,43452,System prompt assembly registry for the Hydra harness
+2026-09-26T17:26:16.04Z,@twigg/agent-database,0.1.0,mattidebeer,MIT,21619,"A persistent JSON document store (SQLite) for twigg-agent: collections of records the agent can find, get, upsert and delete"
+2026-09-26T17:26:19.467Z,@hydra1902/harness-agent,0.1.1-rc.2,hydra1902,MIT,149546,"Agent interface, registry, initiator scope, and event vocabulary for the Hydra harness"
+2026-09-26T17:26:23.821Z,@hydra1902/harness-sandbox,0.1.1-rc.2,hydra1902,MIT,35853,Abstract process-sandbox seam (ctx.sandbox) for the Hydra harness: same-world confinement vocabulary and the SandboxProvider contract
+2026-09-26T17:26:28.128Z,@hydra1902/harness-fs,0.1.1-rc.2,hydra1902,MIT,40807,"Abstract filesystem capability seam (ctx.fs) for the Hydra harness — vocabulary types, the FileSystem service (text IO + optional version-guarded atomic mutations), and the fs/* policy event vocabula…"
+2026-09-26T17:26:32.404Z,@hydra1902/harness-home-paths,0.1.1-rc.2,hydra1902,MIT,13554,Shared filesystem path helpers for the Hydra harness
+2026-09-26T17:26:36.654Z,@hydra1902/harness-code-runtime,0.1.1-rc.2,hydra1902,MIT,25631,Abstract code-execution seam (ctx.codeRuntime) for the Hydra harness
+2026-09-26T17:26:40.971Z,@hydra1902/harness-user-approval,0.1.1-rc.2,hydra1902,MIT,56577,"User-approval seam (ctx.approval) for the Hydra harness: one-shot permission decisions dispatched to composed answerers over the approval/request waterfall, fail-closed by default"
+2026-09-26T17:26:45.265Z,@hydra1902/harness-tools,0.1.1-rc.2,hydra1902,MIT,491907,Tool registry and execution pipeline for the Hydra harness
+2026-09-26T17:26:49.476Z,@hydra1902/harness-agent-instructions,0.1.1-rc.2,hydra1902,MIT,96104,Workspace context loader for AGENTS.md/CLAUDE.md instruction files
+2026-09-26T17:26:53.613Z,@hydra1902/harness-agent-tool-presentation,0.1.1-rc.2,hydra1902,MIT,11957,"Agent-plane presentation selector: composes one agent's tools as Code Mode, native, or both"
+2026-09-26T17:26:57.632Z,@hydra1902/harness-launch-environment,0.1.1-rc.2,hydra1902,MIT,12652,Immutable Hydra harness launch environment that records which layer supplied each value
+2026-09-26T17:27:01.872Z,@hydra1902/harness-app-boot,0.1.1-rc.2,hydra1902,MIT,98350,"Shared boot glue for the app bins: .env loading, fail-loud Loader guards, snapshot-aware config resolution, and the Loader boot sequence"
+2026-09-26T17:27:06.37Z,@hydra1902/harness-settings,0.1.1-rc.2,hydra1902,MIT,108704,Abstract user-settings seam (ctx.settings) for the Hydra harness
+2026-09-26T17:27:10.601Z,@hydra1902/harness-agent-default-model,0.1.1-rc.2,hydra1902,MIT,11740,Default model selection shared by Agent entry points
+2026-09-26T17:27:14.978Z,@hydra1902/harness-session-persistence,0.1.1-rc.2,hydra1902,MIT,125765,Abstract durable session persistence seam (ctx.sessionPersistence) for the Hydra harness
+2026-09-26T17:27:19.334Z,@hydra1902/harness-agent-loop,0.1.1-rc.2,hydra1902,MIT,87387,The concrete agent loop plugin for the Hydra harness
+2026-09-26T17:27:23.427Z,@hydra1902/harness-commands,0.1.1-rc.2,hydra1902,MIT,110361,Plugin-owned human command registry for Hydra harness UIs
+2026-09-26T17:27:27.455Z,@hydra1902/harness-atomic-write,0.1.1-rc.2,hydra1902,MIT,18026,Zero-dependency atomic file replacement: exclusive-create random-suffix temp + rename carrying the caller-stated permissions (writeFileAtomic)
+2026-09-26T17:27:31.549Z,@hydra1902/harness-agent-presets,0.1.1-rc.2,hydra1902,MIT,250542,Per-session agent composition from preset cordis.yml files for the Hydra harness
+2026-09-26T17:27:35.673Z,@hydra1902/harness-credentials,0.1.1-rc.2,hydra1902,MIT,44022,"Abstract credential seam (ctx.credentials): settings carry references to secrets, providers own the values"
+2026-09-26T17:27:39.845Z,@hydra1902/harness-authorization,0.1.1-rc.2,hydra1902,MIT,63780,Authorization seam (ctx.authorization): plugin-owned flows that obtain a credential through a conversation with the human
+2026-09-26T17:27:44.029Z,@hydra1902/harness-cordis-host-runner,0.1.1-rc.2,hydra1902,MIT,467584,"Dynamic package definition registry, host-half sandbox lifecycle, and invoke handler table for model-mounted dual-half packages"
+2026-09-26T17:27:45.994Z,dsh-doc-attach,0.1.2,lijia_chen,MIT,133198,"Drag-and-drop document reading for DeepSeek Harness: land PDF / Word / PowerPoint files in the workspace and give the agent outline, search and read tools so it can answer questions from them."
+2026-09-26T17:27:48.144Z,@hydra1902/harness-file-reference,0.1.1-rc.2,hydra1902,MIT,57835,File-reference discovery contract and shared @file grammar
+2026-09-26T17:27:52.223Z,@hydra1902/harness-sandbox-policy,0.1.1-rc.2,hydra1902,MIT,27223,"Per-call sandbox policy resolver and current model context: deployment fallbacks plus each session's mode and workspace root, shared by every enforcing capability family"
+2026-09-26T17:27:56.247Z,@hydra1902/harness-fs-review,0.1.1-rc.2,hydra1902,MIT,30404,Durable agent-owned file change review and hash-guarded rollback
+2026-09-26T17:27:56.414Z,@pelotech/guacamole-common-js,1.6.0,chomatdam,Apache-2.0,556652,"Apache Guacamole's guacamole-common-js, built from the Apache release tag as an ES module with types"
+2026-09-26T17:28:00.346Z,@hydra1902/harness-session-projection,0.1.1-rc.2,hydra1902,MIT,60227,"Session-projection seam: the merge-extensible projection type table, the provider contract, and the ctx.sessionProjections registry serving whole current values of log-derived per-session state"
+2026-09-26T17:28:04.437Z,@hydra1902/harness-goal,0.1.1-rc.2,hydra1902,MIT,185108,Event-sourced same-session goal state and lifecycle service for the Hydra harness
+2026-09-26T17:28:08.658Z,@hydra1902/harness-subprocess,0.1.1-rc.2,hydra1902,MIT,30757,"Subprocess seam (ctx.subprocess) for the Hydra harness — managed process groups, bounded spill-backed output, and escalated kills behind one abstract service"
+2026-09-26T17:28:12.694Z,@hydra1902/harness-shell,0.1.1-rc.2,hydra1902,MIT,29401,Abstract bash executor seam (ctx.shell) for the Hydra harness
+2026-09-26T17:28:16.399Z,revealed-mcp,0.1.2,mostlyunfamous,,12710,"Local stdio MCP server for Revealed Pro. It communicates with the Chrome extension over a loopback WebSocket and exposes only compact, extension-computed insights."
+2026-09-26T17:28:16.719Z,@hydra1902/harness-hook-protocol,0.1.1-rc.2,hydra1902,MIT,50603,"Shared Claude Code / Codex hook wire protocol: matcher engine, stdin/exit-code/stdout codec, multi-hook merge, and hook/* session events"
+2026-09-26T17:28:20.739Z,@hydra1902/harness-jobs,0.1.1-rc.2,hydra1902,MIT,34791,"Background job registry (ctx.jobs) for the Hydra harness — shared ids, owner isolation, polling, cancellation, and completion listeners for long-running tool work"
+2026-09-26T17:28:24.822Z,@hydra1902/harness-storage,0.1.1-rc.2,hydra1902,MIT,20229,Storage hub (ctx.storage): named backend registry plus mounted data-form facilities for the Hydra harness
+2026-09-26T17:28:28.941Z,@hydra1902/harness-storage-domain,0.1.1-rc.2,hydra1902,MIT,43670,"Domain data form (ctx.storage.domain): schema-validated, event-emitting KV domains over storage backends for the Hydra harness"
+2026-09-26T17:28:29.476Z,eslint-plugin-archispec,1.0.0,arseniygl,MIT,44483,"ESLint rules for ArchiSpec projects: limits on class size, top-level functions, side effects, and comments."
+2026-09-26T17:28:33.133Z,@hydra1902/harness-session-projection-cache,0.1.1-rc.2,hydra1902,MIT,35011,"Persisted projection cache (ctx.sessionProjectionCache): durable per-session projection checkpoints over the domain data form, throttled write-behind, and the cold-read ladder (cache row + persistenc…"
+2026-09-26T17:28:37.34Z,@hydra1902/harness-subagent,0.1.1-rc.2,hydra1902,MIT,429490,Abstract subagent seam (ctx.subagents): named-provider registry for delegating to child agents
+2026-09-26T17:28:41.474Z,@hydra1902/harness-hooks-claude-code,0.1.1-rc.2,hydra1902,MIT,58896,Bridge plugin: run a Claude Code hooks.json / settings hook config on the Hydra harness interception seams
+2026-09-26T17:28:45.647Z,@hydra1902/harness-hooks-codex,0.1.1-rc.2,hydra1902,MIT,53342,Bridge plugin: run a Codex hooks.json hook config on the Hydra harness interception seams
+2026-09-26T17:28:47.339Z,@dahch/heimdall,1.0.1,dahch,MIT,82131,Heimdall: resilient validator and updater for system and global packages
+2026-09-26T17:28:49.766Z,@hydra1902/harness-hooks-registry,0.1.1-rc.2,hydra1902,MIT,58440,Settings-backed hook records that mount and unmount Claude Code and Codex hook bridges
+2026-09-26T17:28:53.824Z,@hydra1902/harness-mcp-client,0.1.1-rc.2,hydra1902,MIT,60813,MCP client bridge: connects to MCP servers and registers their tools on ctx.tools
+2026-09-26T17:28:57.871Z,@hydra1902/harness-mcp-registry,0.1.1-rc.2,hydra1902,MIT,51515,Settings-backed MCP server records that mount and unmount mcp-client fibers
+2026-09-26T17:29:02.033Z,@hydra1902/harness-skill,0.1.1-rc.2,hydra1902,MIT,92142,Agent skill provider registry for the Hydra harness
+2026-09-26T17:29:06.169Z,@hydra1902/harness-plugin-runtime,0.1.1-rc.2,hydra1902,MIT,196806,Shared immutable OpenAI/Codex-compatible imported plugin runtime for the Hydra harness
+2026-09-26T17:29:10.257Z,@hydra1902/harness-host-plugin-inventory,0.1.1-rc.2,hydra1902,MIT,257609,Remote projection and shared-settings controls for current Cordis Loader plugin state
+2026-09-26T17:29:14.316Z,@hydra1902/harness-message-feedback,0.1.1-rc.2,hydra1902,MIT,90026,Lifecycle-bound per-message rating and note sidecar for the Hydra harness
+2026-09-26T17:29:18.263Z,@hydra1902/harness-compaction,0.1.1-rc.2,hydra1902,MIT,72408,Abstract compaction service seam (ctx.compaction) for the Hydra harness
+2026-09-26T17:29:22.284Z,@hydra1902/harness-output-retention,0.1.1-rc.2,hydra1902,MIT,31262,"Zero-dependency bounded-retention primitive: ItemRetainer/TextRetainer + neutral notice helpers (what did we keep, what did we omit)"
+2026-09-26T17:29:26.235Z,@hydra1902/harness-session-title,0.1.1-rc.2,hydra1902,MIT,81578,Log-backed session title service and provider registry for the Hydra harness
+2026-09-26T17:29:28.447Z,@meddleware/treasury-ui,0.0.1,primitivelineworks,0BSD,36517,"Meddleware treasury console — organisation-level accounting across revenue streams (Sui and beyond). Read-only, desktop-console UI built on @meddleware/ui."
+2026-09-26T17:29:30.443Z,@hydra1902/harness-session-query,0.1.1-rc.2,hydra1902,MIT,80257,"Combined session query service contract with concrete reads, traces, and filters"
+2026-09-26T17:29:34.635Z,@hydra1902/harness-session-reference,0.1.1-rc.2,hydra1902,MIT,115400,Cross-session snapshot references and durable untrusted model context (ctx.sessionReferenceResolver)
+2026-09-26T17:29:38.801Z,@hydra1902/harness-typert-registry,0.1.1-rc.2,hydra1902,MIT,117656,Runtime registry for generated package reflection and Zod schemas
+2026-09-26T17:29:43.39Z,@hydra1902/harness-api-remotes,0.1.1-rc.2,hydra1902,MIT,311898,Remote BFF assembly and Host Agent/Session lookup policy
+2026-09-26T17:29:47.488Z,@hydra1902/harness-host-directory-picker,0.1.1-rc.2,hydra1902,MIT,14436,Abstract workspace-directory picking seam (ctx.directoryPicker) for the Hydra harness web GUI host
+2026-09-26T17:29:51.683Z,@hydra1902/harness-native-command,0.1.1-rc.2,hydra1902,MIT,7566,"Zero-dependency no-shell execFile runner for host-native OS integrations: utf8 stdio capture, abort propagation, Windows hide"
+2026-09-26T17:29:55.645Z,@hydra1902/harness-user-questions,0.1.1-rc.2,hydra1902,MIT,24383,Abstract user-questions seam (ctx.userQuestions) for asking the human during agent runs
+2026-09-26T17:30:00.028Z,@hydra1902/harness-web,0.1.1-rc.2,hydra1902,MIT,44118,"Abstract web access capability seam (ctx.web) for the Hydra harness â€” search/fetch provider registry, registration-order-independent selection, request/result vocabulary, and the WebError taxonomy"
+2026-09-26T17:30:04.21Z,@hydra1902/harness-workspace,0.1.1-rc.2,hydra1902,MIT,106586,Workspace entity registry (ctx.workspaceRegistry): durable workspace records with validated session attachment over the domain data form for the Hydra harness
+2026-09-26T17:30:08.383Z,@hydra1902/harness-permission-presets,0.1.1-rc.2,hydra1902,MIT,54255,"User-facing permission presets (ctx.permissionPresets) for the Hydra harness: one product-level Permissions select bundling the sandbox-mode and approval-policy knobs, written through to their own se…"
+2026-09-26T17:30:12.531Z,@hydra1902/harness-host-apiproxy,0.1.1-rc.2,hydra1902,MIT,927854,"API gateway: the ApiProxy contract (api/), the fetch carrier pair (fetch/), and the host-side gateway plugin providing ctx.apiProxy"
+2026-09-26T17:30:16.638Z,@hydra1902/harness-host-webserver,0.1.1-rc.2,hydra1902,MIT,28243,"Web route-registration plugin: HTTP and upgrade routes, index transform taps, and static dist fallback; knows no harness concepts"
+2026-09-26T17:30:20.738Z,@hydra1902/harness-client-connection,0.1.1-rc.2,hydra1902,MIT,437021,"Wire consumer layer: HTTP-up/WebSocket-down client, ConnectionController dual streams with reconnect, and fixture api"
+2026-09-26T17:30:24.816Z,@hydra1902/harness-api-gateway,0.1.1-rc.2,hydra1902,MIT,102511,Typert Remote Host dispatcher and Client API endpoint
+2026-09-26T17:30:28.735Z,@hydra1902/harness-attachment-local,0.1.1-rc.2,hydra1902,MIT,41667,Private content-addressed HYDRA_HOME attachment storage
+2026-09-26T17:30:33.085Z,@hydra1902/harness-bash-local,0.1.1-rc.2,hydra1902,MIT,28699,Local-subprocess implementation of the Hydra harness bash executor seam
+2026-09-26T17:30:37.432Z,@hydra1902/harness-bash-sandbox,0.1.1-rc.2,hydra1902,MIT,29850,"Sandbox-consuming implementation of the Hydra harness bash executor seam (confines every command via ctx.sandbox, reports denial/enforcement result facts)"
+2026-09-26T17:30:41.868Z,@hydra1902/harness-jev,0.1.1-rc.2,hydra1902,MIT,48837,Optional TypeSafe Jev decision capability for the Hydra harness
+2026-09-26T17:30:46.029Z,@hydra1902/harness-browser-decisions,0.1.1-rc.2,hydra1902,MIT,8961,Optional model-facing browser decision tool backed by Jev
+2026-09-26T17:30:50.786Z,@hydra1902/harness-browser-electron,0.1.1-rc.2,hydra1902,MIT,679355,Embedded browser seam for the Hydra harness — an owner-scoped Electron child process running the upstream PageAgent engine behind Hydra controls
+2026-09-26T17:30:55.24Z,@hydra1902/harness-command-compact,0.1.1-rc.2,hydra1902,MIT,13285,Human-facing slash command for explicit session compaction
+2026-09-26T17:31:00.201Z,@hydra1902/harness-anonymous-user-id,0.1.1-rc.2,hydra1902,MIT,12367,Shared anonymous user identity for Hydra harness telemetry and feedback correlation
+2026-09-26T17:31:04.501Z,@hydra1902/harness-session-telemetry,0.1.1-rc.2,hydra1902,MIT,40061,"SessionTelemetryBackend seam for the Hydra harness: session-event capture, projection, redaction, and handoff to a reporting backend"
+2026-09-26T17:31:08.893Z,@hydra1902/harness-command-feedback,0.1.1-rc.2,hydra1902,MIT,16222,Log-only session feedback producer and human-facing slash command
+2026-09-26T17:31:12.94Z,@hydra1902/harness-command-goal,0.1.1-rc.2,hydra1902,MIT,17135,Human-facing slash command for persisted same-session goals
+2026-09-26T17:31:17.951Z,@hydra1902/harness-token-meter,0.1.1-rc.2,hydra1902,MIT,114611,Replay-aware token measurement service (ctx.tokenMeter) for the Hydra harness
+2026-09-26T17:31:22.581Z,@hydra1902/harness-compaction-tool-result-pruner,0.1.1-rc.2,hydra1902,MIT,22264,Replay-safe model-free head/middle/tail pruning for tool-result surface nodes
+2026-09-26T17:31:26.779Z,@hydra1902/harness-compaction-basic,0.1.1-rc.2,hydra1902,MIT,83078,Token-meter-driven compaction policy and LLM summarization backend for the Hydra harness
+2026-09-26T17:31:30.824Z,@hydra1902/harness-credentials-local,0.1.1-rc.2,hydra1902,MIT,56567,File-backed credentials provider ($HYDRA_HOME/.env under the live process environment) for the Hydra harness
+2026-09-26T17:31:34.852Z,@hydra1902/harness-fs-local,0.1.1-rc.2,hydra1902,MIT,70053,Local-filesystem implementation of the Hydra harness filesystem seam (ctx.fs)
+2026-09-26T17:31:38.985Z,@hydra1902/harness-fs-observation-policy,0.1.1-rc.2,hydra1902,MIT,17024,"File-context policy plugin for the Hydra harness — observed-state, read-before-edit, and version-guarded write/edit added over the ctx.fs provider seam through the fs/* event gate (no service API)"
+2026-09-26T17:31:43.18Z,@hydra1902/harness-fs-sandbox,0.1.1-rc.2,hydra1902,MIT,24928,"Sandbox-enforcing implementation of the Hydra harness filesystem seam: fences write/edit by the per-call sandbox mode (read-only denies mutation, workspace-write contains it to the workspace + temp r…"
+2026-09-26T17:31:47.268Z,@hydra1902/harness-goal-round-driver,0.1.1-rc.2,hydra1902,MIT,27836,Race-fenced same-session goal-round driver
+2026-09-26T17:31:51.482Z,@hydra1902/harness-jobs-local,0.1.1-rc.2,hydra1902,MIT,33873,Process-local implementation of the Hydra harness background job registry seam
+2026-09-26T17:31:55.65Z,@hydra1902/harness-llm-pi-ai,0.1.1-rc.2,hydra1902,MIT,204767,pi-ai-backed DeepSeek adapter for the Hydra harness LLM seam (design-verification twin of hydra-llm-deepseek)
+2026-09-26T17:31:59.944Z,@hydra1902/harness-llm-account-auth,0.1.1-rc.2,hydra1902,MIT,161520,Native multi-account OAuth adapters for ChatGPT and Google Antigravity
+2026-09-26T17:32:04.071Z,@hydra1902/harness-llm-call-log,0.1.1-rc.2,hydra1902,MIT,21686,"Session-local model call identity, timing, and tool diagnostics"
+2026-09-26T17:32:04.246Z,@semi-bot/semi-theme-zstglglyj,1.0.0,semi-bot,MIT,1512245,Semi theme generated by dsm. https://semi.design/dsm
+2026-09-26T17:32:08.252Z,@hydra1902/harness-llm-deepseek,0.1.1-rc.2,hydra1902,MIT,88273,DeepSeek chat-completions adapter for the Hydra harness LLM seam
+2026-09-26T17:32:12.441Z,@hydra1902/harness-llm-retry,0.1.1-rc.2,hydra1902,MIT,49841,Provider-routed LLM request retry policy for the Hydra harness
+2026-09-26T17:32:16.962Z,@hydra1902/harness-obsidian-knowledge,0.1.1-rc.2,hydra1902,MIT,52436,Token-bounded Obsidian graph memory with approval-gated knowledge saves
+2026-09-26T17:32:20.936Z,@hydra1902/harness-personalization,0.1.1-rc.2,hydra1902,MIT,30394,Local personality and explicit local memories with durable session provenance
+2026-09-26T17:32:25.303Z,@hydra1902/harness-plan-mode,0.1.1-rc.2,hydra1902,MIT,62028,"Logged per-agent plan mode with deployment guidance, a direct slash command, and a user-reviewed exit"
+2026-09-26T17:32:29.604Z,@hydra1902/harness-pwsh-local,0.1.1-rc.2,hydra1902,MIT,37209,Local PowerShell implementation of the Hydra harness bash executor seam
+2026-09-26T17:32:33.712Z,@hydra1902/harness-pwsh-sandbox,0.1.1-rc.2,hydra1902,MIT,24300,"Sandbox-consuming implementation of the Hydra harness PowerShell executor seam (confines every command via ctx.sandbox, reports denial/enforcement result facts)"
+2026-09-26T17:32:37.704Z,@hydra1902/harness-repeat-tool-reminder,0.1.1-rc.2,hydra1902,MIT,26985,Repeat-tool-call guard plugin: advisory reminders when an agent loops on identical tool calls
+2026-09-26T17:32:41.717Z,@hydra1902/harness-research-policy,0.1.1-rc.2,hydra1902,MIT,13291,Durable research budgets shared by a session and its delegated agents
+2026-09-26T17:32:45.932Z,@hydra1902/harness-sandbox-windows-acl,0.1.1-rc.2,hydra1902,MIT,160771,Windows ACL write-restriction sandbox backend (restricted-token spawn with capability-SID write allowlist) for the Hydra harness sandbox seam
+2026-09-26T17:32:50.1Z,@hydra1902/harness-sandbox-local,0.1.1-rc.2,hydra1902,MIT,43701,"Local process-sandbox backends for the Hydra harness sandbox seam: bwrap, the npm-distributed landlock-run launcher, macOS Seatbelt, or the Windows ACL restricted-token runner — functionally probed,…"
+2026-09-26T17:32:54.086Z,@hydra1902/harness-session-checkpoint-policy,0.1.1-rc.2,hydra1902,MIT,12238,Semantic session durability checkpoints before model requests and tool side effects
+2026-09-26T17:32:58.009Z,@hydra1902/harness-session-persistence-jsonl,0.1.1-rc.2,hydra1902,MIT,97931,JSONL durable session persistence backend for the Hydra harness
+2026-09-26T17:33:02.092Z,@hydra1902/harness-session-query-sqlite,0.1.1-rc.2,hydra1902,MIT,70437,Concrete ctx.sessionQuery backend with SQLite FTS5 search
+2026-09-26T17:33:06.317Z,@hydra1902/harness-session-telemetry-otel,0.1.1-rc.2,hydra1902,MIT,27281,OpenTelemetry backend for the Hydra harness telemetry seam: hands captured session records to the OTel JS SDK's log pipeline
+2026-09-26T17:33:10.556Z,@hydra1902/harness-session-title-llm,0.1.1-rc.2,hydra1902,MIT,24754,Shared LLM generation policy for Hydra harness session-title providers
+2026-09-26T17:33:14.526Z,@hydra1902/harness-session-title-first-prompt-llm,0.1.1-rc.2,hydra1902,MIT,8507,First-message LLM provider plugin for Hydra harness session titles
+2026-09-26T17:33:18.484Z,@hydra1902/harness-settings-file,0.1.1-rc.2,hydra1902,MIT,25293,File-backed settings provider (settings.yaml) for the Hydra harness
+2026-09-26T17:33:22.649Z,@hydra1902/harness-shell-env,0.1.1-rc.2,hydra1902,MIT,19127,Tool-independent managed HYDRA_* shell environment registry
+2026-09-26T17:33:26.741Z,@hydra1902/harness-skill-badge,0.1.1-rc.2,hydra1902,MIT,54676,Bundled hydra badge skill provider for Hydra harness
+2026-09-26T17:33:30.872Z,@hydra1902/harness-skill-filesystem,0.1.1-rc.2,hydra1902,MIT,43362,Local filesystem skill provider for the Hydra harness
+2026-09-26T17:33:34.971Z,@hydra1902/harness-spill,0.1.1-rc.2,hydra1902,MIT,14928,Abstract spill storage seam (ctx.spillStore) for the Hydra harness — save oversized tool text and return a retrieval locator
+2026-09-26T17:33:38.944Z,@hydra1902/harness-spill-local,0.1.1-rc.2,hydra1902,MIT,17132,Local-filesystem implementation of the Hydra harness spill storage seam (private session-scoped files)
+2026-09-26T17:33:43.158Z,@hydra1902/harness-spill-policy,0.1.1-rc.2,hydra1902,MIT,21969,Tool-result spill policy for the Hydra harness — replaces oversized plain-text tool results with a retained preview plus a spill-file path (no service API)
+2026-09-26T17:33:47.179Z,@hydra1902/harness-subagent-in-process-driver,0.1.1-rc.2,hydra1902,MIT,28519,Shared in-process subagent run driver: drives a child agent on ctx.agents (used by the spawn and fork backends)
+2026-09-26T17:33:51.349Z,@hydra1902/harness-subagent-fork-in-process,0.1.1-rc.2,hydra1902,MIT,12485,In-process fork subagent backend: runs a child agent seeded with a prefix of the parent's log
+2026-09-26T17:33:55.57Z,@hydra1902/harness-subagent-spawn-in-process,0.1.1-rc.2,hydra1902,MIT,9838,In-process spawn subagent backend: runs a fresh child agent on ctx.agents
+2026-09-26T17:33:59.641Z,@hydra1902/harness-subprocess-local,0.1.1-rc.2,hydra1902,MIT,81948,Local-subprocess implementation of the Hydra harness subprocess seam
+2026-09-26T17:34:03.814Z,@hydra1902/harness-tool-bash,0.1.1-rc.2,hydra1902,MIT,41777,Model-facing bash tool with optional generic background-job and sandbox-escalation support
+2026-09-26T17:34:07.998Z,@hydra1902/harness-tool-call-timeout-policy,0.1.1-rc.2,hydra1902,MIT,15804,Tool-call timeout policy: a tools/execute wrapper that arms a per-tool deadline on exec.signal and returns TOOL_TIMEOUT when it wins
+2026-09-26T17:34:12.215Z,@hydra1902/harness-tool-fs,0.1.1-rc.2,hydra1902,MIT,95095,"Model-facing filesystem tools (read, write, edit) over the Hydra harness filesystem seam (ctx.fs)"
+2026-09-26T17:34:16.295Z,@hydra1902/harness-tool-fs-search,0.1.1-rc.2,hydra1902,MIT,112027,"Model-facing filesystem discovery tools (glob, grep) backed by the packaged ripgrep binary (@vscode/ripgrep)"
+2026-09-26T17:34:20.288Z,@hydra1902/harness-tool-goal,0.1.1-rc.2,hydra1902,MIT,31342,Model-facing same-session goal tools with execution-time authority checks
+2026-09-26T17:34:24.297Z,@hydra1902/harness-tool-jobs,0.1.1-rc.2,hydra1902,MIT,27950,"Model-facing background job control tools (job_output, job_list, job_kill) over the ctx.jobs registry"
+2026-09-26T17:34:28.349Z,@hydra1902/harness-tool-pwsh,0.1.1-rc.2,hydra1902,MIT,42536,Model-facing pwsh tool over the bash executor seam
+2026-09-26T17:34:32.38Z,@hydra1902/harness-workflow,0.1.1-rc.2,hydra1902,MIT,40665,"Workflow capability seam: ctx.workflowEngine service, run vocabulary, and workflow/* events"
+2026-09-26T17:34:36.693Z,@hydra1902/harness-tool-ralph,0.1.1-rc.2,hydra1902,MIT,31110,Model-facing fresh-agent Ralph loop over the workflow and subagent seams
+2026-09-26T17:34:40.868Z,@hydra1902/harness-tool-skill,0.1.1-rc.2,hydra1902,MIT,28439,"Bounded automatic skill routing, model-facing search, and exact loading for Hydra harness"
+2026-09-26T17:34:44.942Z,@hydra1902/harness-tool-str-replace-editor,0.1.1-rc.2,hydra1902,MIT,25196,"Model-facing view, create, literal replace, and line insert tool over the Harness filesystem service"
+2026-09-26T17:34:48.869Z,@hydra1902/harness-tool-subagent,0.1.1-rc.2,hydra1902,MIT,32143,Model-facing subagent delegation tool over the ctx.subagents seam
+2026-09-26T17:34:52.918Z,@hydra1902/harness-tool-subagent-control,0.1.1-rc.2,hydra1902,MIT,32671,"Globally named send_message, interrupt_agent, and list_agents tools over ctx.subagents continuations"
+2026-09-26T17:34:57.078Z,@hydra1902/harness-tool-subagent-report,0.1.1-rc.2,hydra1902,MIT,18568,Child-scoped report tool over ctx.subagents continuations
+2026-09-26T17:35:01.362Z,@hydra1902/harness-tool-todo,0.1.1-rc.2,hydra1902,MIT,35840,Model-facing todo_write tool over the Hydra harness event-sourced session log
+2026-09-26T17:35:05.793Z,@hydra1902/harness-tool-web,0.1.1-rc.2,hydra1902,MIT,71717,"Model-facing web tools (web_search, web_fetch) over the Hydra harness web capability seam (ctx.web)"
+2026-09-26T17:35:09.707Z,@ubermanu/jsv,0.1.4,ubermanu,MIT,1512,Validate JSON files against their $schema automatically
+2026-09-26T17:35:10.053Z,@hydra1902/harness-tool-workflow,0.1.1-rc.2,hydra1902,MIT,54223,Model-facing workflow tool: run a JavaScript orchestration script over ctx.workflowEngine
+2026-09-26T17:35:11.111Z,@ubermanu/jsv-darwin-arm64,0.1.4,ubermanu,MIT,8105490,macOS arm64 binary for @ubermanu/jsv
+2026-09-26T17:35:12.687Z,@ubermanu/jsv-darwin-x64,0.1.4,ubermanu,MIT,8420826,macOS x64 binary for @ubermanu/jsv
+2026-09-26T17:35:14.234Z,@ubermanu/jsv-linux-arm64,0.1.4,ubermanu,MIT,9534023,Linux arm64 binary for @ubermanu/jsv
+2026-09-26T17:35:14.325Z,@hydra1902/harness-typert-loader,0.1.1-rc.2,hydra1902,MIT,26327,Loader integration for generated Typert package contributions
+2026-09-26T17:35:15.746Z,@ubermanu/jsv-linux-x64,0.1.4,ubermanu,MIT,9892727,Linux x64 binary for @ubermanu/jsv
+2026-09-26T17:35:17.086Z,@ubermanu/jsv-win32-x64,0.1.4,ubermanu,MIT,7023469,Windows x64 binary for @ubermanu/jsv
+2026-09-26T17:35:18.341Z,@hydra1902/harness-web-fetch-http,0.1.1-rc.2,hydra1902,MIT,38679,Anonymous public HTTP(S) fetch provider for the Hydra harness web capability seam (ctx.web)
+2026-09-26T17:35:22.493Z,@hydra1902/harness-web-search-deepseek,0.1.1-rc.2,hydra1902,MIT,39854,DeepSeek-backed search provider (native web_search via the Anthropic-compatible API) for the Hydra harness web capability seam (ctx.web)
+2026-09-26T17:35:26.564Z,@hydra1902/harness-web-search-http,0.1.1-rc.2,hydra1902,MIT,27219,Serper and configurable JSON HTTP search providers
+2026-09-26T17:35:30.795Z,@hydra1902/harness-workflow-worker-thread,0.1.1-rc.2,hydra1902,MIT,118941,"worker-thread workflow engine: executes model-written orchestration scripts off the host event loop, bridging agent() calls back to ctx.subagents"
+2026-09-26T17:35:34.561Z,@noistommy/souple,1.0.1,noistommy,MIT,165828,![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E) ![Static Badge](https://img.shields.io/badge/html-%23E34F26?logo=html) ![Static Badge](https://img.shields.io/badge/sass-%23CC6699)…
+2026-09-26T17:35:35.083Z,@hydra1902/harness-base,0.1.1-rc.2,hydra1902,MIT,35610,"The shared hydra core as a profile bundle: every profile's first patch layer, inserting the base plugin rows over the empty profile root"
+2026-09-26T17:35:39.316Z,@hydra1902/harness-client-runtime,0.1.1-rc.2,hydra1902,MIT,627340,"Client core services: SlotRegistry, SessionRuntime (scope tree + object layer)"
+2026-09-26T17:35:43.381Z,@hydra1902/harness-client-ui-settings,0.1.1-rc.2,hydra1902,MIT,87369,Settings domain base plugin: the settings-namespace scope service and the canonical settings slot-type contract
+2026-09-26T17:35:47.731Z,@hydra1902/harness-client-locale,0.1.1-rc.2,hydra1902,MIT,70451,"Locale plugin: Host-backed en preference, browser-derived fallback, locale snapshots, and typed namespace dictionaries"
+2026-09-26T17:35:48.987Z,omo-usage,0.1.1,aslaii,MIT,21983,"Live usage and quota for Codex, Claude, Command Code, and OpenCode Go in OmO"
+2026-09-26T17:35:51.977Z,@hydra1902/harness-client-ui-input-trigger,0.1.1-rc.2,hydra1902,MIT,82919,"Input trigger pipeline: '/' and '@' detection, candidate menu, pick routing to registered sources"
+2026-09-26T17:35:56.767Z,@hydra1902/harness-client-ui-theme,0.1.1-rc.2,hydra1902,MIT,114193,Theme plugin: Host bootstrap for the pre-plugin palette; DOM-free ThemeRuntime for light/dark/system state; --dsw-* token styles and Appearance settings row
+2026-09-26T17:36:01.422Z,@hydra1902/harness-client-ui-layout,0.1.1-rc.2,hydra1902,MIT,1019131,"Shell plugin: three-column AppFrame with drag handles, ctx.layout viewing-state service (navigation + panels)"
+2026-09-26T17:36:05.67Z,@hydra1902/harness-session-stats,0.1.1-rc.2,hydra1902,MIT,34885,Whole-log conversation counts and wall times projection (sessionStats) for the Hydra harness
+2026-09-26T17:36:10.082Z,@hydra1902/harness-client-ui-conversation,0.1.1-rc.2,hydra1902,MIT,722640,"Conversation domain: skeleton, ordered chat flow, composer with the Host-backed busy-Enter preference, and details host"
+2026-09-26T17:36:14.312Z,@hydra1902/harness-client-ui-agent-preset,0.1.1-rc.2,hydra1902,MIT,121646,"Agent-preset surfaces: the default for later sessions, this session's seat, and the composition editor"
+2026-09-26T17:36:18.419Z,@hydra1902/harness-client-ui-sidebar,0.1.1-rc.2,hydra1902,MIT,34582,"Sidebar plugin: session multi-level tree, search, grouping, state dots"
+2026-09-26T17:36:22.883Z,@hydra1902/harness-client-ui-tool,0.1.1-rc.2,hydra1902,MIT,133965,Client Tool call-tree renderer and keyed per-tool presentation slot
+2026-09-26T17:36:27.048Z,@hydra1902/harness-client-modules,0.1.1-rc.2,hydra1902,MIT,68679,"Client module system, dual-face: node half composes the __HYDRA_BOOT__ entry graph (incremental hydra.client scan, bundle route, index tap, webPlugins service); browser half is the lazy-CJS module ta…"
+2026-09-26T17:36:31.524Z,@hydra1902/harness-cordis-client-runner,0.1.1-rc.2,hydra1902,MIT,305746,"Browser half of dynamic dual-half plugin packages: event subscription, closure evaluation, guard facade, and loader entries"
+2026-09-26T17:36:35.741Z,@hydra1902/harness-client-ui-cordis,0.1.1-rc.2,hydra1902,MIT,107040,Cordis dynamic-plugin definition card: the keyed cordis_define tool row with its run/stop switch
+2026-09-26T17:36:38.648Z,@glhrmoura/vue-virtualize,0.1.0,glhrmoura,MIT,231145,"Headless virtualization for Vue 3 lists, grids, and tables"
+2026-09-26T17:36:39.825Z,@hydra1902/harness-cmdline,0.1.1-rc.2,hydra1902,MIT,17947,Immutable command-line handoff from a hydra launcher to any app plugin that injects cmdlineArgs
+2026-09-26T17:36:44.015Z,@hydra1902/harness-code-runtime-worker-thread,0.1.1-rc.2,hydra1902,MIT,103807,Worker-thread implementation of the Hydra harness code-execution seam
+2026-09-26T17:36:48.326Z,@hydra1902/harness-headless,0.1.1-rc.2,hydra1902,MIT,17328,"The hydra one-shot bundle: a direct core Agent/Session runner over hydra-base with no Host, HTTP, or browser layer"
+2026-09-26T17:36:52.677Z,@hydra1902/harness-persona,0.1.1-rc.2,hydra1902,MIT,11579,Composition-authored deployment persona section for the Hydra harness
+2026-09-26T17:36:56.714Z,@hydra1902/harness-schedule,0.1.1-rc.2,hydra1902,MIT,101030,"Agent-scoped durable after, at, and fixed-rate reminders over the session event log"
+2026-09-26T17:37:00.831Z,@hydra1902/harness-terminal,0.1.1-rc.2,hydra1902,MIT,33619,"Persistent PTY session seam for the Hydra harness — owner-scoped ids, backend registry, interactive sends, reads, signals, and awaited cleanup"
+2026-09-26T17:37:04.912Z,@hydra1902/harness-terminal-bash,0.1.1-rc.2,hydra1902,MIT,52671,Persistent shell PTY backend over the Hydra harness subprocess terminal primitive
+2026-09-26T17:37:08.986Z,@hydra1902/harness-time-context,0.1.1-rc.2,hydra1902,MIT,45259,Opt-in durable per-step context with the current time and elapsed time
+2026-09-26T17:37:13.097Z,@hydra1902/harness-tmux-context,0.1.1-rc.2,hydra1902,MIT,25656,Opt-in durable per-step context with this agent's tmux pane and window location
+2026-09-26T17:37:17.378Z,@hydra1902/harness-tool-ask-user,0.1.1-rc.2,hydra1902,MIT,15209,Model-facing ask_user_question tool over the ctx.userQuestions seam
+2026-09-26T17:37:22.033Z,@hydra1902/harness-tool-bash-persistent,0.1.1-rc.2,hydra1902,MIT,24807,Model-facing owner-scoped persistent Bash tool backed by the Harness PTY service
+2026-09-26T17:37:26.306Z,@hydra1902/harness-tool-browser,0.1.1-rc.2,hydra1902,MIT,125970,"Model-facing browser_* tools (navigate, read, find, fill, click, type, upload, select, scroll, press, back, forward) over the Hydra harness embedded-browser seam (ctx.browsers)"
+2026-09-26T17:37:30.525Z,@hydra1902/harness-tool-cordis,0.1.1-rc.2,hydra1902,MIT,497184,"Self-referential cordis toolset: inspect the live runtime, mount and dispose model-written plugins"
+2026-09-26T17:37:34.195Z,twigg-agent,0.1.0,mattidebeer,MIT,2131,"Alias for @twigg/agent, so `npx twigg-agent` works"
+2026-09-26T17:37:34.739Z,@hydra1902/harness-tool-pwsh-persistent,0.1.1-rc.2,hydra1902,MIT,27774,Model-facing owner-scoped persistent PowerShell tool backed by the Harness PTY service
+2026-09-26T17:37:38.736Z,@hydra1902/harness-client-file-upload,0.1.1-rc.2,hydra1902,MIT,25664,Browser background upload service for Blob and ReadableStream request bodies
+2026-09-26T17:37:42.929Z,@hydra1902/harness-client-hmr,0.1.1-rc.2,hydra1902,MIT,22488,Dev-only hot-reload driver for script-loaded client entries: SSE rebuilt frames → invalidate/prefetch → fiber swap through the vendored Loader entry
+2026-09-26T17:37:46.966Z,@hydra1902/harness-client-ui-attachment,0.1.1-rc.2,hydra1902,MIT,58642,Dynamic attachment presentation plugin for conversation input and message-image slots
+2026-09-26T17:37:51.038Z,@hydra1902/harness-client-ui-brand-official,0.1.1-rc.2,hydra1902,MIT,10114,Official Hydra harness brand occupants for the Web client's sidebar and conversation Hero slots
+2026-09-26T17:37:55.157Z,@hydra1902/harness-client-ui-commands,0.1.1-rc.2,hydra1902,MIT,82591,"Client command surface: global directory cache, '/' source, three command UI kinds, popupSelect registry"
+2026-09-26T17:37:59.632Z,@hydra1902/harness-client-ui-deliverables,0.1.1-rc.2,hydra1902,MIT,35784,Produced-files turn tail and clickable final-response file references for Web
+2026-09-26T17:38:02.716Z,@properui/mcp,0.2.0,ayman.shabaro,MIT,64514,"Model Context Protocol server for Proper UI: lets an AI coding assistant search, read and install registry components directly."
+2026-09-26T17:38:02.719Z,@properui/elements,0.1.0,ayman.shabaro,MIT,473955,"Proper UI as framework-agnostic custom elements (<pui-button>, <pui-modal>, ...) for Vue, Angular, Svelte, Astro and plain HTML. Light DOM, no framework runtime."
+2026-09-26T17:38:02.76Z,@properui/html,0.1.0,ayman.shabaro,MIT,559022,"Proper UI without React: CSS component classes on the same semantic tokens, small dependency-free vanilla-JS behaviours, and copy-paste HTML snippets."
+2026-09-26T17:38:02.834Z,@properui/eslint-plugin,0.1.0,ayman.shabaro,MIT,33706,"ESLint rules that keep AI- and human-written Proper UI code on semantic tokens: raw Tailwind palette classes, arbitrary values, dark: variants and physical directional properties."
+2026-09-26T17:38:02.895Z,@properui/tokens,0.1.0,ayman.shabaro,MIT,493950,"Proper UI design tokens as plain CSS: the Tailwind v4 theme, a framework-free CSS-variables file, the theme presets, and a prebuilt properui.css for pages with no build step."
+2026-09-26T17:38:03.757Z,@hydra1902/harness-client-ui-workspace,0.1.1-rc.2,hydra1902,MIT,181209,"Workspace browser, picker, and Archived sessions settings plugin"
+2026-09-26T17:38:07.929Z,@hydra1902/harness-client-ui-directory-picker-browse,0.1.1-rc.2,hydra1902,MIT,61205,In-app directory browsing surface: the workspace directory-flow owner rendering the host's listing and creation primitives
+2026-09-26T17:38:12.191Z,@hydra1902/harness-client-ui-directory-picker-native,0.1.1-rc.2,hydra1902,MIT,13238,Native directory-picker surface: the renderless workspace directory-flow occupant driving the host's OS chooser
+2026-09-26T17:38:16.282Z,@hydra1902/harness-client-ui-goal,0.1.1-rc.2,hydra1902,MIT,34074,"Session goal surface: GoalBar docked above the composer, read from the goal session projection"
+2026-09-26T17:38:20.462Z,@hydra1902/harness-client-ui-settings-models,0.1.1-rc.2,hydra1902,MIT,224135,Models settings and shared product-onboarding dialogs over existing settings and credential joins
+2026-09-26T17:38:24.565Z,@hydra1902/harness-client-ui-jev,0.1.1-rc.2,hydra1902,MIT,15702,Models settings option and write-only credential card for TypeSafe Jev
+2026-09-26T17:38:28.75Z,@hydra1902/harness-client-ui-jobs,0.1.1-rc.2,hydra1902,MIT,24805,Session-header background-job list: live registry state mirrored from session/jobs frames
+2026-09-26T17:38:32.917Z,@hydra1902/harness-client-ui-message-feedback,0.1.1-rc.2,hydra1902,MIT,50699,"Per-message feedback controls contributed to the assistant-message action strip, backed by the messageFeedback Host Remote"
+2026-09-26T17:38:34.941Z,@adea-ai/plugins,1.0.0,0xplayerone,Apache-2.0,960554,"Deterministic compiler for AI agent plugin marketplaces: schemas, source parsing, provenance verification, per-harness materialization, and provenance-checked static artifacts."
+2026-09-26T17:38:37.023Z,@hydra1902/harness-client-ui-model-selection,0.1.1-rc.2,hydra1902,MIT,55875,Model selection: the /model popupSelect over session.models / session.selectModel
+2026-09-26T17:38:40.963Z,@hydra1902/harness-client-ui-permission-presets,0.1.1-rc.2,hydra1902,MIT,36499,Permission surfaces: a new-session default in General settings and a current-session /permission popup over the permissions projection
+2026-09-26T17:38:45.282Z,@hydra1902/harness-client-ui-plan,0.1.1-rc.2,hydra1902,MIT,16954,Plan-mode composer control: the conversation.input.plan seat over the plan projection and the /plan command channel
+2026-09-26T17:38:49.344Z,@hydra1902/harness-client-ui-reference,0.1.1-rc.2,hydra1902,MIT,15108,Unified Web @file and @session reference source
+2026-09-26T17:38:53.284Z,@hydra1902/harness-client-ui-renderer,0.1.1-rc.2,hydra1902,MIT,54168,"Browser UI renderer: React slot bindings, ctx.uiRenderer, and the assembled application root"
+2026-09-26T17:38:57.523Z,@hydra1902/harness-client-ui-review,0.1.1-rc.2,hydra1902,MIT,123255,"Agent-owned change history, recorded diffs, Keep and Undo"
+2026-09-26T17:39:02.262Z,@hydra1902/harness-client-ui-settings-general,0.1.1-rc.2,hydra1902,MIT,48797,"Settings ownerless-copy and product onboarding plugin: the General section, shell trigger/header chrome content, settings dictionaries, and the versioned welcome notice"
+2026-09-26T17:39:06.376Z,@hydra1902/harness-client-ui-settings-personalization,0.1.1-rc.2,hydra1902,MIT,41788,"Settings → Personalization: custom instructions, memory status, and the personality selector"
+2026-09-26T17:39:07.493Z,@turnprune/core,0.1.1,guschi18,MIT,74120,"Agent-neutral core of TurnPrune: once per user turn, Jev decides which tool outputs a coding agent still needs."
+2026-09-26T17:39:10.428Z,@hydra1902/harness-client-ui-settings-plugin-inventory,0.1.1-rc.2,hydra1902,MIT,125382,Cordis Loader inventory and enablement controls in Web Plugins settings
+2026-09-26T17:39:14.796Z,@hydra1902/harness-client-ui-settings-plugins,0.1.1-rc.2,hydra1902,MIT,199332,Plugins settings section with feature-owned tabs and configurable host-plane plugin cards
+2026-09-26T17:39:16.565Z,@rocketicons/toolkit,0.2.0,amorimjj,MIT,82833612,
+2026-09-26T17:39:18.977Z,@hydra1902/harness-client-ui-skill,0.1.1-rc.2,hydra1902,MIT,31223,Web skill references and the dedicated skill tool row
+2026-09-26T17:39:23.17Z,@hydra1902/harness-client-ui-subagent,0.1.1-rc.2,hydra1902,MIT,57405,"Subagent conversation catalog, continuation routing UI, and '@' reference source"
+2026-09-26T17:39:27.518Z,@hydra1902/harness-client-ui-trajectory,0.1.1-rc.2,hydra1902,MIT,403972,Trajectory event ledger with an interactive timing overview: pure-consumer plugin registering into the conversation ViewMap (no service)
+2026-09-26T17:39:31.58Z,@hydra1902/harness-client-ui-user-questions,0.1.1-rc.2,hydra1902,MIT,58235,Web ask_user_question feature: host tool mount plus composer-takeover question UI
+2026-09-26T17:39:35.618Z,@hydra1902/harness-client-ui-workflow-run,0.1.1-rc.2,hydra1902,MIT,41154,Durable workflow-run Conversation Node and nested member disclosure for hydra web
+2026-09-26T17:39:38.417Z,@turnprune/opencode,0.1.1,guschi18,MIT,63144,"TurnPrune for OpenCode: replaces tool outputs the agent no longer needs with a fixed placeholder, once per user turn."
+2026-09-26T17:39:39.809Z,@hydra1902/harness-file-reference-local,0.1.1-rc.2,hydra1902,MIT,42060,Local-filesystem ctx.fileReferences provider with bounded fuzzy indexes
+2026-09-26T17:39:43.792Z,@hydra1902/harness-host-directory-picker-browse,0.1.1-rc.2,hydra1902,MIT,23877,In-app browsing backend of the directory-picker seam (listing/creation primitives over the host filesystem)
+2026-09-26T17:39:47.938Z,@hydra1902/harness-host-directory-picker-native,0.1.1-rc.2,hydra1902,MIT,38910,Native-OS-chooser backend of the directory-picker seam for the Hydra harness web GUI host
+2026-09-26T17:39:52.003Z,@crbroughton/eslint-plugin-failsafe,0.1.0,crbroughton,MIT,19297,ESLint rules enforcing @crbroughton/failsafe usage patterns
+2026-09-26T17:39:52.131Z,@hydra1902/harness-host-directory-picker-auto,0.1.1-rc.2,hydra1902,MIT,21197,Adaptive chooser of the directory-picker seam: resolves the host situation at boot and mounts the native or browse backend for the Hydra harness web GUI host
+2026-09-26T17:39:56.218Z,@hydra1902/harness-host-frontend-static,0.1.1-rc.2,hydra1902,MIT,12120,"SPA dist server for the Web shell: owns the webserver fallback seat, serving explicit index entries and static assets with traversal rejection and 404 misses"
+2026-09-26T17:40:00.309Z,@hydra1902/harness-session-log-export,0.1.1-rc.2,hydra1902,MIT,26704,Web Session-log export command and shared download dialog
+2026-09-26T17:40:04.146Z,@crbroughton/failsafe-vitest,0.1.0,crbroughton,MIT,5349,Custom vitest matchers for @crbroughton/failsafe's Result type
+2026-09-26T17:40:04.354Z,@hydra1902/harness-storage-json,0.1.1-rc.2,hydra1902,MIT,21496,JSON file KV storage backend for the Hydra harness storage hub
+2026-09-26T17:40:09.026Z,music-assistant-client,0.1.0,rocklobster42195,MIT,244798,"Typed TypeScript client for the Music Assistant WebSocket API: token auth, live player and queue state, auto-reconnect, convenience commands, and every API command typed."
+2026-09-26T17:40:09.333Z,@hydra1902/harness-web-frontend,0.1.1-rc.2,hydra1902,MIT,4956810,Web application entry: vite build over the @hydra1902/harness-client-web shell library; dist/ served by apps/cli's hydra web
+2026-09-26T17:40:13.524Z,@hydra1902/harness-web-app,0.1.1-rc.2,hydra1902,MIT,55716,"The hydra browser-surface bundle: the web patch layer over hydra-base plus the runtime glue plugin (frontend dist serving, web-surface prompt, bash runtime variables, URL line)"
+2026-09-26T17:40:15.308Z,tdw-chat,0.1.0,jianghongjiao,MIT,351756,零依赖、框架无关的悬浮对话组件：一行 initChat() 在页面上挂出悬浮按钮与对话弹窗，ESM + CJS 双格式，UI 可用 CSS 完全重构。
+2026-09-26T17:40:17.615Z,@hydra1902/harness,0.1.1-rc.2,hydra1902,MIT,119032,"hydra CLI: profile boot, plugin management, and the browser UI alias"
+2026-09-26T17:40:21.779Z,@hydra1902/harness-acp,0.1.1-rc.2,hydra1902,MIT,39184,Automation-only Agent Client Protocol server for driving Hydra harness agents over JSON-RPC stdio
+2026-09-26T17:40:26.024Z,@hydra1902/harness-agent-spine-demo,0.1.1-rc.2,hydra1902,MIT,30660,"The default executor-less/UI-less agent spine with fallback session titles, provider-routed retry, and optional persisted goals"
+2026-09-26T17:40:30.255Z,@hydra1902/harness-acp-demo,0.1.1-rc.2,hydra1902,MIT,20238,"ACP automation server app: agent spine + JSONL persistence + ACP transport, with a JSON-RPC stdio bin"
+2026-09-26T17:40:33.308Z,affiliateroll,1.0.0,deptlabs,MIT,16587,"CLI to search, browse, and compare affiliate programs from AffiliateRoll"
+2026-09-26T17:40:34.432Z,@hydra1902/harness-loader-smoke,0.1.1-rc.2,hydra1902,MIT,22440,Shared subprocess and direct-agent harness for keyless real-Loader example smoke tests
+2026-09-26T17:40:38.574Z,@hydra1902/harness-acp-snapshot,0.1.1-rc.2,hydra1902,MIT,160275,"ACP test kit: shared subprocess launcher, snapshot scenario harness, expected-output normalizers, and suite factory"
+2026-09-26T17:40:40.08Z,zk-scribe,0.3.0,brianmwirigi,Apache-2.0,123468,Cryptographic authorship and contribution attestation for academic writing.
+2026-09-26T17:40:43.057Z,@hydra1902/harness-agent-loop-testkit,0.1.1-rc.2,hydra1902,MIT,9115,Shared prerequisite mounting for tests that exercise the concrete agent loop
+2026-09-26T17:40:47.299Z,@hydra1902/harness-client-ui-slots,0.1.1-rc.2,hydra1902,MIT,78165,"Slot registry pure core: SlotMap declaration merging, single register composition API, four-share props types, store-seat types, renderer install seam"
+2026-09-26T17:40:51.723Z,@hydra1902/harness-client-test-runtime,0.1.1-rc.2,hydra1902,MIT,91252,jsdom slot test runtime: real Cordis Context + SlotRegistry + UI renderer with test-owned session/workspace doubles for feature specs
+2026-09-26T17:40:56.254Z,@hydra1902/harness-client-ui-primitives,0.1.1-rc.2,hydra1902,MIT,773408,"Pure React atoms for the hydra web UI: controls, icons, markdown, and JSON inspectors (zero cordis)"
+2026-09-26T17:41:00.336Z,@hydra1902/harness-client-web,0.1.1-rc.2,hydra1902,MIT,26951,"Web boot kernel: static module table, Cordis loader, framework-free boot page, and UI-renderer handoff"
+2026-09-26T17:41:04.692Z,@hydra1902/harness-code-runtime-python,0.1.1-rc.2,hydra1902,MIT,44956,CPython subprocess implementation of the Hydra harness code-execution seam
+2026-09-26T17:41:09.072Z,@hydra1902/harness-desktop,0.1.1-rc.2,hydra1902,MIT,283356,Windows-first Electron shell for the existing Hydra Web renderer and controlled browser
+2026-09-26T17:41:13.417Z,@hydra1902/harness-e2b,0.1.1-rc.2,hydra1902,MIT,13309,Shared E2B sandbox lifecycle for Hydra harness provider adapters
+2026-09-26T17:41:17.506Z,@hydra1902/harness-fs-e2b,0.1.1-rc.2,hydra1902,MIT,29358,E2B filesystem implementation for Hydra harness
+2026-09-26T17:41:21.691Z,@hydra1902/harness-llm-mock-server,0.1.1-rc.2,hydra1902,MIT,36656,Scriptable OpenAI-compatible HTTP/SSE fault server for LLM recovery tests
+2026-09-26T17:41:25.748Z,@hydra1902/harness-llm-replay,0.1.1-rc.2,hydra1902,MIT,51399,Replay LLM plugin: short-circuits llm/stream with model chunks reconstructed from a recorded session JSONL (keyless snapshot tests)
+2026-09-26T17:41:29.973Z,@hydra1902/harness-lsp,0.1.1-rc.2,hydra1902,MIT,23593,"Abstract LSP capability seam (ctx.lsp) for the Hydra harness — language-server provider registry keyed by branded id and extension mapping, order-independent per-query selection, normalized definitio…"
+2026-09-26T17:41:34.131Z,@hydra1902/harness-lsp-stdio,0.1.1-rc.2,hydra1902,MIT,84679,"Generic stdio language-server provider for the Hydra harness LSP capability seam (ctx.lsp) — spawns configured servers, translates JSON-RPC, and serves transient-open goToDefinition/findReferences/go…"
+2026-09-26T17:41:38.197Z,@hydra1902/harness-page-memory,0.1.1-rc.2,hydra1902,MIT,79885,Verified task-specific page guidance with automatic browser recall and private local storage
+2026-09-26T17:41:42.396Z,@hydra1902/harness-sdk-protocol,0.1.1-rc.2,hydra1902,MIT,25366,"Shared wire protocol for the Hydra harness SDK runtime: the newline-delimited JSON-RPC stdio transport and the named request, result, and notification types spoken between the runtime server and SDK…"
+2026-09-26T17:41:46.645Z,@hydra1902/harness-sdk-client,0.1.1-rc.2,hydra1902,MIT,53011,TypeScript client SDK for driving a Hydra harness runtime subprocess over stdio JSON-RPC: the HydraHarness high-level turns API and the lower-level HarnessClient
+2026-09-26T17:41:51.023Z,@hydra1902/harness-sdk-jsonrpc-demo,0.1.1-rc.2,hydra1902,MIT,12850,Bin that boots an external Cordis config for the stdio JSON-RPC SDK runtime
+2026-09-26T17:41:55.458Z,@hydra1902/harness-sdk-jsonrpc-server,0.1.1-rc.2,hydra1902,MIT,23191,Stdio JSON-RPC server plugin for out-of-process Hydra harness SDK clients
+2026-09-26T17:41:59.648Z,@hydra1902/harness-session-persistence-sqlite,0.1.1-rc.2,hydra1902,MIT,77738,SQLite durable session persistence with physical chunk-row packing
+2026-09-26T17:42:03.834Z,@hydra1902/harness-session-title-all-prompts-llm,0.1.1-rc.2,hydra1902,MIT,8224,All-user-messages LLM provider plugin for Hydra harness session titles
+2026-09-26T17:42:08.36Z,@hydra1902/harness-storage-sqlite,0.1.1-rc.2,hydra1902,MIT,26022,SQLite storage backend (kv facet) for the Hydra harness storage hub
+2026-09-26T17:42:12.431Z,@hydra1902/harness-subagent-acp,0.1.1-rc.2,hydra1902,MIT,34736,Out-of-process ACP subagent backend: drives a child agent in a spawned subprocess over the Agent Client Protocol
+2026-09-26T17:42:16.518Z,@hydra1902/harness-subagent-claude-code,0.1.1-rc.2,hydra1902,MIT,50635,One-shot Claude Code subagent provider over the official Agent SDK
+2026-09-26T17:42:19.269Z,run-ready,1.1.0,vinyassystemshq,MIT,39030,Any repo. One command. It just runs.
+2026-09-26T17:42:20.623Z,@hydra1902/harness-subagent-codex,0.1.1-rc.2,hydra1902,MIT,62796,One-shot Codex subagent provider over the official app-server protocol
+2026-09-26T17:42:24.714Z,@hydra1902/harness-subagent-sdk,0.1.1-rc.2,hydra1902,MIT,28606,Out-of-process SDK subagent backend: drives a child Hydra harness runtime subprocess over stdio JSON-RPC through the TypeScript SDK client
+2026-09-26T17:42:28.904Z,@hydra1902/harness-subprocess-e2b,0.1.1-rc.2,hydra1902,MIT,82107,E2B subprocess implementation for Hydra harness
+2026-09-26T17:42:33.144Z,@hydra1902/harness-tool-lsp,0.1.1-rc.2,hydra1902,MIT,33146,"Model-facing lsp tool over the Hydra harness LSP capability seam (ctx.lsp) — one read-only tool with goToDefinition/findReferences/goToImplementation/hover operations, one-based UTF-16 cursor coordin…"
+2026-09-26T17:42:37.954Z,@hydra1902/harness-tool-session-query,0.1.1-rc.2,hydra1902,MIT,65721,"Workspace-authorized model-facing session history search, trace, and event read tools"
+2026-09-26T17:42:42.345Z,@hydra1902/harness-tool-terminal,0.1.1-rc.2,hydra1902,MIT,32256,Six model-facing persistent PTY tools with owner isolation and generic background-job integration
+2026-09-26T17:42:46.54Z,@hydra1902/harness-typert-generator,0.1.1-rc.2,hydra1902,MIT,488498,TypeScript project analyzer and model-driven Typert artifact generator
+2026-09-26T17:42:50.511Z,@hydra1902/harness-web-search-exa,0.1.1-rc.2,hydra1902,MIT,19926,Exa-backed search provider for the Hydra harness web capability seam (ctx.web)
+2026-09-26T17:42:50.81Z,@botconnector/bccli,0.1.0-beta.1,botconnector,MIT,6835,BCCLI -- the BotConnector Cloud + Local AI CLI/TUI.
+2026-09-26T17:42:54.603Z,@hydra1902/harness-web-search-perplexity,0.1.1-rc.2,hydra1902,MIT,21048,Perplexity-backed search provider for the Hydra harness web capability seam (ctx.web)
+2026-09-26T17:43:01.032Z,@gerege-systems/eid-mongolia-sdk,0.1.0,craftzbay,MIT,122770,"e-ID Mongolia Relying Party SDK — иргэнээр утсаар нь нэвтрэлт ба хууль ёсны цахим гарын үсэг (RP-API v3, Smart-ID нийцтэй)."
+2026-09-26T17:43:42.722Z,@adea-ai/plugins-probe,0.0.0-probe,0xplayerone,Apache-2.0,148,probe
+2026-09-26T17:44:25.288Z,@hos-ai/sdk,0.1.0-alpha.1,francoisnoel62,Apache-2.0,226167,"Types, validation and processing rules for HOS Core 0.1 and HOS Events 0.1, with signed producer manifests."
+2026-09-26T17:44:29.704Z,@hos-ai/cli,0.1.0-alpha.1,francoisnoel62,Apache-2.0,197682,"The hos command: validate HOS 0.1 files, replay event streams, run the conformance scenarios and sign producer manifests."
+2026-09-26T17:44:44.227Z,@affiliateroll/mcp-server,1.0.0,deptlabs,MIT,11589,MCP server for AffiliateRoll — browse and search affiliate programs from any LLM
+2026-09-26T17:45:13.855Z,project-doctor-cli,1.0.0,therealkratika,ISC,113576,A CLI tool that analyzes and checks your projects
+2026-09-26T17:45:19.128Z,nomnom-modern,1.8.1,sbty,MIT,41170,"Maintained, dependency-free, API-compatible fork of nomnom"
+2026-09-26T17:45:30.887Z,react-native-darwin,0.0.0,gabrieldonadel,ISC,215,
+2026-09-26T17:46:22.061Z,@nestjs-kit/redis,1.0.0,thilllon,ISC,29270,Client-agnostic Redis and Valkey connections for NestJS with isolated named registrations
+2026-09-26T17:46:26.726Z,minion-js,1.0.0,spongebed,ISC,219,MinionJS
+2026-09-26T17:46:28.083Z,@nativeship/n8n-nodes-outrank,1.0.1,nativeship,MIT,510480,"Automate SEO content creation, keyword research, article generation, and Search Console monitoring with Outrank"
+2026-09-26T17:47:21.288Z,create-minion-app,1.0.0,spongebed,ISC,227,MinionJS
+2026-09-26T17:47:50.095Z,md-now,0.9.14,ctrlpi,MIT,43510,"A tiny, zero-dependency local Markdown browser. Scans a folder tree and renders Markdown."
+2026-09-26T17:47:54.886Z,@core-tecnologias-empresariales/core-sdk-dte,0.1.0,balamchac,UNLICENSED,218999,"Integración con los servicios DTE del SII de Chile (autenticación con certificado, DTEUpload, QueryEstUp/QueryEstDte/QueryEstDteAv, wsDTECorreo) con protección contra doble envío: un resultado ambigu…"
+2026-09-26T17:48:31.459Z,local-capability-finder-cli,0.1.1,bilguunbn,Apache-2.0,121666,Local CLI and MCP setup for finding installed agent capabilities
+2026-09-26T17:49:08.725Z,noxconnect,0.1.0,jaspernoboxdev,,32157,"One NoxConnect login for every organization, project, and service"
+2026-09-26T17:49:22.759Z,@hydra1902/cosmokit,1.8.2,hydra1902,MIT,53033,A collection of common utilities
+2026-09-26T17:49:24.882Z,@kaoniqiwa/nq-rollup-starter,1.0.0,kaoniqiwa,ISC,21881,rollup starter
+2026-09-26T17:49:26.976Z,@hydra1902/cordis-plugin-loader,1.0.2,hydra1902,MIT,92167,Plugin loader for cordis
+2026-09-26T17:49:31.05Z,@hydra1902/cordis-plugin-include,1.0.6,hydra1902,MIT,31838,Include files in cordis configurations
+2026-09-26T17:49:35.468Z,@hydra1902/cordis,4.0.1,hydra1902,MIT,239024,Meta-Framework for Modern JavaScript Applications
+2026-09-26T17:49:39.834Z,@hydra1902/cordis-plugin-group,1.0.1,hydra1902,MIT,2970,Nested plugin group for cordis
+2026-09-26T17:49:44.089Z,@hydra1902/schemastery,3.18.1,hydra1902,MIT,107945,Type driven schema validator
+2026-09-26T17:49:44.52Z,@flowkey-cli/native-sdk,0.1.2,0xgabs,MIT,31082,"TypeScript SDK for FlowKey extensions (types, manifest validation, typed capabilities)."
+2026-09-26T17:49:48.079Z,@hydra1902/cordis-plugin-timer,1.1.3,hydra1902,MIT,15076,Timer service for cordis
+2026-09-26T17:49:48.621Z,@flowkey-cli/react-ui,0.1.2,0xgabs,MIT,46636,React components for FlowKey extension views (serialized to the native UI tree).
+2026-09-26T17:49:51.429Z,@liuzhao1225/codex-account-switcher,0.1.0,liuzhao1225,MIT,8272,Official download-link helper for Zhao Liu's native Codex Account Switcher for macOS and Windows (liuzhao1225/codex-account-switcher).
+2026-09-26T17:49:51.497Z,@flowkey-cli/cli,0.1.2,0xgabs,MIT,48654,"Build, validate, package and install FlowKey extensions."
+2026-09-26T17:49:52.21Z,@hydra1902/cordis-plugin-hmr,1.0.16,hydra1902,MIT,45513,Hot Module Replacement Plugin for Cordis
+2026-09-26T17:49:54.192Z,@okeyamy/faaa,0.0.0,okeyamy,MIT,2493,"git push, but louder — play a trending sound on every git push"
+2026-09-26T17:49:56.264Z,@hydra1902/cordis-plugin-logger-console,1.0.1,hydra1902,MIT,17583,Console logger exporter for cordis
+2026-09-26T17:49:57.035Z,engly,1.0.0,victorcastro.c20,MIT,77711,Your English coach for AI prompts. One command. Every agent. Always on. Zero cost.
+2026-09-26T17:50:18.041Z,@ffanalytics/mcp,0.1.0,gty3,MIT,9168,MCP server for ffanalytics: lets Claude and other MCP clients explore and query your analytics.
+2026-09-26T17:50:50.021Z,@gitmyabi/lrs,1.0.0,gitmyabi-bot,MIT,261278,"Auto-generated TypeScript type bindings for LRS (build etherscan-lrs-936f35db-1790444950128, commit 6f3c74f, branch etherscan)"
+2026-09-26T17:52:05.805Z,@zaso/paperclip-plugin-docs,0.3.0,xzamiska,MIT,268475,"Paperclip plugin: read-only Markdown documentation viewer for project workspaces (Docs tab, doc tree, relative links and images)."
+2026-09-26T17:53:01.743Z,teamroom,0.1.0,vdor,MIT,308387,Know what your teammates (and their coding agents) are touching before the merge conflict does.
+2026-09-26T17:53:18.815Z,my-skibidi,1.0.3,gewinum,,990,
+2026-09-26T17:54:03.105Z,verdix-mcp,0.1.0,verdix5,MIT,18119,"MCP server for Verdix: check an EVM address on Base before sending it funds (safe/caution/danger). Pays per call via x402 from your own wallet, with a max-price cap."
+2026-09-26T17:54:05.727Z,waypoint-agent-pack,0.1.0,arun4infra,UNLICENSED,25509,"The agent pack contract every waypoint consumer conforms to: layout, validation, and one build (ADR-041)"
+2026-09-26T17:54:59.001Z,@hozu/core,0.1.0,olevator,MIT,522702,"Hozu IR types and the typed builders you author apps with: feature, machine, query, mutation, ui, contract, project"
+2026-09-26T17:55:00.606Z,@5havv/dsh-weixin,0.2.0,5havv,MIT,295047,DeepSeek Harness (DSH) WeChat/Weixin channel plugin over Tencent's iLink Bot API
+2026-09-26T17:55:09.617Z,ep_theme_reveil-libertaire,1.0.2,revlibertaire,GPL-3.0,290693,Thème Réveil Libertaire pour Etherpad - Esthétique Rouge et Noir Anarchosyndicaliste avec haute lisibilité
+2026-09-26T17:55:24.5Z,create-hozu,0.1.0,olevator,MIT,69549,"Create a Hozu app, set up for Claude Code or for agents that read AGENTS.md"
+2026-09-26T17:55:39.916Z,@hozu/bundle,0.1.0,olevator,MIT,7788,Bundles Hozu widget client modules with esbuild
+2026-09-26T17:55:49.363Z,@robotania/agent-sdk,1.3.5,ota-tech-ai,MIT,1008401,Robotania Agent SDK — precise TypeScript and CLI tools for AI agent integration
+2026-09-26T17:55:55.498Z,@hozu/compiler,0.1.0,olevator,MIT,28644,"Hozu compiler: derives per-node render plans (static, ISR, SWR, streamed, client) from the IR"
+2026-09-26T17:55:57.34Z,@hozu/content,0.1.0,olevator,MIT,9726,Markdown content collections with typed front matter for Hozu
+2026-09-26T17:55:58.911Z,@hozu/image,0.1.0,olevator,MIT,13134,"Optional build-time image optimisation (WebP srcset) and share-image cards for Hozu, using sharp"
+2026-09-26T17:56:00.848Z,@hozu/machine,0.1.0,olevator,MIT,39563,Isomorphic compiled state-machine interpreter behind Hozu features
+2026-09-26T17:56:02.94Z,@hozu/schema-zod,0.1.0,olevator,MIT,3724,"Zod adapter for Hozu schemas (Standard Schema, stored as JSON Schema in the IR)"
+2026-09-26T17:56:04.972Z,@hozu/data,0.1.0,olevator,MIT,45340,"Hozu data runtime: resolvers bound by declaration, cache, tags, dedup and invalidation"
+2026-09-26T17:56:07.126Z,@hozu/runtime-client,0.1.0,olevator,MIT,226289,"Hozu client runtime: fine-grained DOM islands, no virtual DOM, about 7.5 KB gzipped"
+2026-09-26T17:56:09.391Z,@hozu/validator,0.1.0,olevator,MIT,334704,"Hozu validator: structured diagnostics with fixes, contract runner and behaviour lock"
+2026-09-26T17:56:11.197Z,@hozu/cli,0.1.0,olevator,MIT,151174,"The hozu command: validate, inspect, graph, explain, impact, plan, build and skill (all with --json)"
+2026-09-26T17:56:12.203Z,bugrep-ai,1.0.1,lucaquacquarelli,MIT,10784,Automated bug reproduction and regression patch generator powered by IBM Bob 2.0
+2026-09-26T17:56:13.083Z,@hozu/css,0.1.0,olevator,MIT,29055,"Tailwind CSS v4 for Hozu, compiled from the classes the IR declares"
+2026-09-26T17:56:14.968Z,@hozu/dev,0.1.0,olevator,MIT,17100,Hozu development server: CSS hot swap and state-keeping reloads
+2026-09-26T17:56:16.99Z,@hozu/runtime-server,0.1.0,olevator,MIT,264319,"Hozu server runtime: generated render functions, in-order streaming SSR and a web-standard handler"
+2026-09-26T17:56:18.752Z,@hozu/adapter-node,0.1.0,olevator,MIT,62281,"Run a Hozu app on Node: HTTP server, ISR page cache and tag revalidation"
+2026-09-26T17:56:20.644Z,@hozu/adapter-static,0.1.0,olevator,MIT,11838,Export a Hozu app as static files
+2026-09-26T17:56:22.617Z,@hozu/testing,0.1.0,olevator,MIT,7706,"Test rendered Hozu pages through the real handler: status, headers, visible text, payload, form posts"
+2026-09-26T17:56:27.204Z,@litzrsh/umio,0.1.0,litzrsh,Apache-2.0,2393057,"TypeScript-first AI orchestration: provider-neutral LLM calls, tools, agents, durable graph workflows and skills, with a CLI. Built for slow local models."
+2026-09-26T17:59:27.785Z,@schovest/pi-subagents,0.1.0,schovest,MIT,6019750,Pi extension for single-agent delegation and scripted multi-agent workflows. Forked from nicobailon/pi-subagents v0.71.0.
+2026-09-26T18:00:10.567Z,fontflowpro,1.0.1,fontflow-pro,MIT,58504,"Enterprise Typography Automation CLI - Convert, Inspect, Scan Archives, Web-Extract and Manage Fonts."
+2026-09-26T18:00:16.414Z,@cekemail/widget,1.2.4,swznd,MIT,180441,Email validation widget for CekEmail - validates email addresses in real-time on your website
+2026-09-26T18:00:41.243Z,homebridge-loop-sensor,1.0.2,orenasher,MIT,19009,A switch that pulses a HomeKit sensor every X minutes while it's on. Great for repeating automations (e.g. 'window open while AC is on' alerts).
+2026-09-26T18:01:19.308Z,@vinyaas/cli,0.0.1,sarang-kumar,MIT,192956,Command-line interface for installing Vinyaas components.
+2026-09-26T18:01:55.692Z,pi-auto-compact-threshold,0.3.0,xyzprtk,MIT,22727,A Pi extension that automatically compacts sessions using context-window-aware percentage thresholds.
+2026-09-26T18:02:13.858Z,@metsa/isom-maplibre,0.1.0,metsa,MIT,148656,"ISOM 2017-2 orienteering map style for MapLibre GL, generated from the ISOM symbol dimensions"
+2026-09-26T18:03:57.658Z,@nativeship/n8n-nodes-reoon-email-verifier,1.0.1,nativeship,MIT,317141,"Verify email addresses in real time or bulk, detect disposable inboxes, and check credit balances with Reoon Email Verifier"
+2026-09-26T18:04:15.048Z,antigravity-ui,2.0.1,omid-io,MIT,563906,"The complete UI enhancement, workspace ergonomics, and multilingual (RTL/BiDi) studio for Google Antigravity & Antigravity IDE."
+2026-09-26T18:07:00.325Z,@surajdhande/formforge,0.1.0,surajdhande,MIT,641985,FormForge — JSON-driven form builder for React and Next.js applications
+2026-09-26T18:07:44.545Z,jev-conductor-router,0.2.0,ryguy07,MIT,114491,Jev-gated Conductor cloud workspace router and stdio MCP server
+2026-09-26T18:09:21.299Z,@longzai-intelligence-rss/core,0.0.1,joydragon,UNLICENSED,14159,Longzai Intelligence Rss core - feed 获取（限速/重试/代理）/解析（RSS2/Atom/RDF）/规范化条目 zod SSOT/站点 feed 自动发现
+2026-09-26T18:09:24.689Z,prts-moonlit,1.0.0,yanliang27,MIT,11368412,ARKNIGHTS x P3R Moonlit PRTS terminal (personal toy site)
+2026-09-26T18:09:28.119Z,@thenavidm/facebook-ad-library-mcp-cli,0.5.0,thenavidm,MIT,312096,"Facebook Ad Library MCP server and CLI for Claude Code, Codex and AI agents. 9 tools that read every ad running on Facebook, Instagram, Messenger, Threads and Audience Network, for any advertiser in…"
+2026-09-26T18:10:09.993Z,@libtmux/workspace-cli,0.1.0-alpha.11,tony,MIT,644572,A tmuxp-compatible workspace manager for Node and Bun.
+2026-09-26T18:10:36.413Z,launchnests-ship,1.0.0,launchnests-cli,,55381,> AI-native product distribution engine CLI for [LaunchNests](https://ship.launchnests.com).
+2026-09-26T18:12:45.674Z,@darco2903/rt-stream,1.0.3-beta.0,darco2903,ISC,10064,Real Time Stream
+2026-09-26T18:14:04.76Z,figma-local-fonts-mcp,0.1.0-beta.1,nathancheng57,MIT,32650,"Agent Font Access lets agents edit Figma text using fonts installed on your Mac. It pairs a local MCP server with a companion plugin in Figma Desktop, handling copy, typography, font selection, and t…"
+2026-09-26T18:15:15.054Z,@applifted/lucide-extended-react,0.1.0,applifted,ISC,2348875,"Filled and duotone React icons using Lucide's icon names, designed to sit alongside lucide-react."
+2026-09-26T18:15:18.157Z,@ordia-engine/react,0.1.0-beta.0,dordia,SEE LICENSE IN LICENSE,426764,API-driven React table. Your GET is the table.
+2026-09-26T18:17:41.852Z,greeting-ninja,3.0.0,abixteam,MIT,33151,"Auto-greet WhatsApp users in their own language based on phone number. 61 languages, 80+ country codes, group welcome, first DM, zero dependencies."
+2026-09-26T18:18:06.9Z,fisherselim-cli,0.1.0,fisherselim,UNLICENSED,22451,FisherSelim AI (ai.fisherselim.com) icin resmi terminal istemcisi
+2026-09-26T18:18:13.987Z,@askdown/core,0.1.0,evrt,MIT,79574,"Parser, serializer and validator for Askdown, a Markdown-like language for forms."
+2026-09-26T18:18:42.312Z,n8n-nodes-signalpipe,0.1.1,yousef04,MIT,294458,"SignalPipe for n8n: judge whether the author of any text is a real buyer for your product, and act on the buyers SignalPipe finds."
