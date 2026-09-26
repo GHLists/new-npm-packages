@@ -1,0 +1,105 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-26T03:17:28.875Z,@plenustech/design-system,0.1.1,mikeiassm,,1497537,Design System centralizado para os produtos web da Plenustech.
+2026-09-26T03:19:31.696Z,@pragnalabs.ai/wirebay,0.2.0,vijayjaybhay,MIT,423461,"Define MCP servers once, keep secrets in one place, and sync them to every AI coding tool (Claude Code, Claude Desktop, Codex, Cursor, VS Code, Gemini CLI)."
+2026-09-26T03:21:49.035Z,@diegosouzacdv/jev-browser-mcp,0.1.2,diegosouzacdv,MIT,131871,Portable MCP server for bounded Playwright screen flows selected by Jev
+2026-09-26T03:22:50.966Z,koishi-plugin-bf1-chinese-id,1.0.0,xiaoafeng,AGPL-3.0,11557,战地1（BF1）中文ID计算器：根据中文哈希值和前缀，计算出可在游戏中显示中文的 EA ID
+2026-09-26T03:26:03.204Z,supahpost-cli,0.1.0,ndp12,MIT,142816,"Your SupahPost workspace from the terminal, and a skill file your AI agent can install in one command."
+2026-09-26T03:27:15.191Z,@kodulabs/chat-core,0.1.0,peckas13,MIT,2607,"Framework-agnostic client for Kodulabs Agents' public chat API (sessions, SSE streaming, live events)."
+2026-09-26T03:27:27.807Z,@kodulabs/react-chat,0.1.0,peckas13,MIT,7755,"React compound components for embedding a Kodulabs Agents chat (<ChatProvider>, <ChatWindow>, …)."
+2026-09-26T03:29:06.434Z,@molecule/api-ocr,1.1.0,vialoh,Apache-2.0,25656,"Abstract OCR (text extraction from images) interface — bond a vision model, Tesseract, or molecule.dev's hosted service"
+2026-09-26T03:29:10.019Z,@molecule/api-ocr-llm,1.1.0,vialoh,Apache-2.0,27085,Language-model OCR provider for molecule.dev — extracts text from images through any vision-capable @molecule/api-ai model
+2026-09-26T03:29:13.856Z,@molecule/api-ocr-molecule,1.1.0,vialoh,Apache-2.0,31189,"molecule.dev hosted OCR provider — text extraction from images billed to your molecule project, no vendor account"
+2026-09-26T03:29:18.218Z,@molecule/api-ocr-tesseract,1.1.0,vialoh,Apache-2.0,22664,"Self-hosted Tesseract OCR provider for molecule.dev — text extraction from images in your own process, no vendor account, no per-call cost"
+2026-09-26T03:29:23.01Z,@vervedoc/i18n,1.0.0,wanghe199512,,233090,Framework-independent localization for VerveDoc editors
+2026-09-26T03:31:09.541Z,opencode-memento,1.0.0,nemezzizz,MIT,19016,"Amnesia insurance for OpenCode: injects your project's Markdown memory index into session compaction, so auto-summarization never forgets that memory exists. Zero dependencies."
+2026-09-26T03:32:36.768Z,@xiechimon/pacman,0.1.0,xiechimon,Apache-2.0,8927709,复刻 server（03 ROADMAP M2）：Hono REST + SSE（全 SSE 无 WebSocket，02 §1.2）、SQLite（better-sqlite3 + Drizzle，migration 进 repo、CI 校验 drift，01 §6）、单用户 seed + team 保形（02 §2）。协议词表单源 = `@pacman/shared`（02 §5/§6 ca…
+2026-09-26T03:33:21.867Z,stryker-agent-reporter,0.0.1,meganemura,Apache-2.0,12123,Placeholder. A Stryker reporter that writes JSON Lines a coding agent can act on. Not usable yet; the first usable version is 0.1.0.
+2026-09-26T03:33:26.571Z,@robota-sdk/agent-interface-execution,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,97825,"Execution contract interfaces for the Robota SDK — background tasks, job groups, subagent jobs and execution workspaces"
+2026-09-26T03:33:28.73Z,@robota-sdk/agent-interface-session-mobility,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,194876,Session-mobility contracts and handoff orchestration for the Robota SDK
+2026-09-26T03:33:28.785Z,@robota-sdk/agent-interface-session,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,204277,"Session contract interfaces for the Robota SDK — interactive sessions, interaction channels, session events, turns and persistence"
+2026-09-26T03:33:32.919Z,@robota-sdk/agent-mcp,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,859367,MCP protocol tool implementations for Robota SDK
+2026-09-26T03:33:36.316Z,@robota-sdk/agent-product,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,89079,"The product-assembly kernel for the Robota SDK: assembleProduct — a pure, IO-free fold over IProductProfile that delegates runtime construction to agent-framework"
+2026-09-26T03:33:41.85Z,@robota-sdk/agent-remote-pairing,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,954605,Isomorphic pairing + DTLS-fingerprint channel binding for Robota P2P remote-control (REMOTE-001)
+2026-09-26T03:33:45.767Z,@robota-sdk/agent-tool-defaults,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,62668,The SDK's built-in default tool set (createDefaultTools) as a composition leaf over agent-tools
+2026-09-26T03:33:50.64Z,@robota-sdk/agent-transport-webrtc,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,409932,WebRTC P2P transport for the Robota SDK (data-channel session bridge; REMOTE-001)
+2026-09-26T03:33:53.123Z,@robota-sdk/pack-coding,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,55729,"Robota's coding capability pack — an ICapabilityPack bundling the built-in coding tools, coding command modules, and coding subagents"
+2026-09-26T03:33:53.279Z,@robota-sdk/agent-ui-terminal,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,2920116,Terminal UI package (React + Ink) for the Robota SDK
+2026-09-26T03:33:55.094Z,@robota-sdk/agent-builtin-providers,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,71687,Built-in chat provider definitions and the default role-to-model mapping shipped with the Robota SDK
+2026-09-26T03:33:56.58Z,@robota-sdk/agent-interface-command,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,69180,"Command contract interfaces for the Robota SDK — commands, command results, plugin adapters and capability descriptors"
+2026-09-26T03:33:56.672Z,@robota-sdk/agent-capability-pack,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,61953,Additive capability-bundle contract (ICapabilityPack) and the pure mergeCapabilityPacks merger for the Robota SDK
+2026-09-26T03:33:58.229Z,@robota-sdk/agent-interface-analytics,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,70265,"Analytics contract interfaces for the Robota SDK — usage snapshots, per-source totals and run-trace timelines"
+2026-09-26T03:33:58.358Z,@robota-sdk/agent-file-authority,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,168348,Stable root-relative file read authority for Node.js
+2026-09-26T03:34:06.014Z,@klaros/mcp-server,1.0.0,tamylaa,,45755,Model Context Protocol (MCP) server for Klaros WhatsApp CRM
+2026-09-26T03:35:13.788Z,honeytongue,0.1.0-alpha.0,tbrought,MIT,88663,"Characters players can actually argue with: a persuasion mechanic for games, powered by Jev typed decisions"
+2026-09-26T03:35:55.911Z,@shopwell-ag/meteor-tokens,1.4.1,gouxiaosong,Apache-2.0,110617,Design Tokens for the Meteor Design System used at shopwell
+2026-09-26T03:36:15.482Z,@shopwell-ag/meteor-icon-kit,5.10.0,gouxiaosong,Apache-2.0,1393432,"An icon library and toolkit that follows a minimal, yet highly expressive style perfectly aligned with Shopwell's product language"
+2026-09-26T03:36:23.393Z,@shopwell-ag/meteor-admin-sdk,6.14.1,gouxiaosong,Apache-2.0,1596321,The Meteor SDK for the Shopwell Administration.
+2026-09-26T03:36:42.753Z,@shopwell-ag/meteor-component-library,5.7.1,gouxiaosong,Apache-2.0,17013039,The meteor component library is a Vue component library developed by Shopwell. It is based on the [Meteor Design System](https://shopwell.cnsign/).
+2026-09-26T03:36:51.145Z,@shopwell-ag/dive,2.3.4,gouxiaosong,Apache-2.0,24203871,Shopwell Spatial Framework
+2026-09-26T03:37:49.764Z,@inspect-devtools/vite-svelte,1.0.0,reeswell,MIT,6001,Vite source inspector for Svelte applications.
+2026-09-26T03:37:55.219Z,@inspect-devtools/next,1.0.0,reeswell,MIT,9058,Next.js integration for inspect-devtools.
+2026-09-26T03:38:00.372Z,@inspect-devtools/nuxt,1.0.0,reeswell,MIT,6290,Nuxt module for inspect-devtools.
+2026-09-26T03:38:05.176Z,@inspect-devtools/unplugin,1.0.0,reeswell,MIT,8100,"Unified unplugin for Inspect Devtools supporting Vite, Webpack, Rspack, Rollup, and Esbuild."
+2026-09-26T03:42:42.863Z,cetas-darwin-arm64,0.5.1,colmugx,Apache-2.0,64968460,cetas binary for darwin/arm64; install the cetas meta package instead
+2026-09-26T03:42:51.415Z,cetas-linux-x64,0.5.1,colmugx,Apache-2.0,84047851,cetas binary for linux/x64; install the cetas meta package instead
+2026-09-26T03:43:00.617Z,cetas-windows-x64,0.5.1,colmugx,Apache-2.0,88822799,cetas binary for win32/x64; install the cetas meta package instead
+2026-09-26T03:43:13.719Z,@bun-win32/overlay,1.0.0,obscuritysrl,MIT,182570,"Anti-aliased, GPU-batched overlays for Bun on Windows — gradients, soft shadows, text, paths, images and 3D markers on a transparent, click-through window that redraws only what changed."
+2026-09-26T03:43:15.479Z,bun-overlay,1.0.0,obscuritysrl,MIT,5045,"Anti-aliased, GPU-batched overlays for Bun on Windows — gradients, soft shadows, text and 3D markers on a transparent, click-through window. Pure bun:ffi, no native build."
+2026-09-26T03:44:06.737Z,un-editorial-check,0.4.0,ahaomar,MIT,206739,"Reads user-visible copy the way a UN editor would: language, wording, tone, spelling, terminology, dates, numbers, claims and register. Report-first, with a conservative opt-in fixer."
+2026-09-26T03:44:43.304Z,hypermarrow-mcp,0.1.0,qianqiuwanzi,MIT,15071,Local-first AI memory MCP server. Record / recall / consolidate / file-anchor your long-term context without sending memory to the cloud.
+2026-09-26T03:44:56.01Z,@robota-sdk/agent-provider-bytedance,3.0.0-beta.81,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,148493,Bytedance (ModelArk) video generation provider for Robota SDK
+2026-09-26T03:44:58.329Z,cron-api,2.0.1,lufyctx,ISC,39341,Cron api pure code
+2026-09-26T03:45:07.242Z,@fulcro/errors,1.0.0,diguu_rl,ISC,53698,"Every error the @fulcro packages throw, each with a stable FULCRO code, its message and its class."
+2026-09-26T03:47:03.046Z,@cococopi/humanlock,0.1.0,_fan_boi_lm10_,MIT,1075822,"Client-side automated-agent and AI computer-use detection for high-trust flows. Framework-agnostic core with React, Vue, Svelte and vanilla adapters, plus signed verdicts for server-side scoring."
+2026-09-26T03:47:40.311Z,@eristack/file-manager,0.1.0,mikevar,MIT,549131,"Headless file uploads: S3 presigned PUT/GET, server uploads, FileRef for Drizzle columns, REST/Express/React dev tools"
+2026-09-26T03:47:49.985Z,dsh-whale-buddy,0.2.1,rangeking,BSD-3-Clause,944485,A quietly alive DeepSeek whale for DeepSeek Harness Web: an inline thinking whale and a right-edge Whale Dock.
+2026-09-26T03:49:12.837Z,@shamisoul/pi-cognee,0.7.0,shamisoul,MIT,471903,"Cognee persistent memory for the pi coding agent — native extension with auto-capture, auto-recall, and knowledge-graph tools. Fail-soft by design: pi keeps working when the cognee server is down."
+2026-09-26T03:50:07.754Z,pi-tsien-shared,0.1.0,tsien1992,MIT,109226,"Shared library for the pi-tsien extensions (dashboard bridge, live observer, command UI, background commands)."
+2026-09-26T03:50:14.009Z,electron-ohos-hotreload,1.0.2,zhabgqnvi,BSD-2-Clause,90966,Hot-reload CLI for Electron on HarmonyOS — push JS/TS changes to device without rebuilding HAP
+2026-09-26T03:50:14.742Z,pi-tsien-auto-compact,0.1.0,tsien1992,MIT,6058,Auto-compaction trigger policy: one shared resolver for the trigger and every status line.
+2026-09-26T03:50:21.65Z,pi-tsien-capability,0.1.0,tsien1992,MIT,39899,"Capability layer: register and run reusable, verifiable execution units as pi tools."
+2026-09-26T03:50:22.005Z,@rivia-labs/minitrigger,0.3.0,igor-dev,MIT,3841094,"Durable tasks and workflows for Node.js on BullMQ + Redis + Postgres, as an installable library."
+2026-09-26T03:50:28.37Z,pi-tsien-code-mode,0.1.0,tsien1992,MIT,60434,Code mode: the run_code tool (program-driven tool calls).
+2026-09-26T03:50:30.487Z,@lukethacoder/slidev-theme-luke,1.0.0,lukethacoder,,76168,[![NPM version](https://img.shields.io/npm/v/slidev-theme-starter?color=3AB9D4&label=)](https://www.npmjs.com/package/@lukethacoder/slidev-theme-luke)
+2026-09-26T03:50:35.401Z,pi-tsien-compact-continue,0.1.0,tsien1992,MIT,3457,Compact-and-continue: keeps the session going after a compaction.
+2026-09-26T03:50:42.439Z,pi-tsien-context-powerline,0.1.0,tsien1992,MIT,9265,"Footer/powerline context report: model, thinking level, context usage, compaction threshold, host resources."
+2026-09-26T03:50:49.398Z,pi-tsien-default-system-prompt,0.1.0,tsien1992,MIT,5375,Provides the default system prompt for new sessions.
+2026-09-26T03:50:56.178Z,pi-tsien-git-graph,0.1.0,tsien1992,MIT,15161,Renders a git graph in the terminal.
+2026-09-26T03:51:03.688Z,pi-tsien-goal,0.1.0,tsien1992,MIT,144274,"Goal tracking: /goal state, acceptance criteria and progress."
+2026-09-26T03:51:10.887Z,pi-tsien-live-session,0.1.0,tsien1992,MIT,90499,Exposes the Pi session as a remotely takeable live session (dashboard bridge).
+2026-09-26T03:51:27.654Z,@readystack/streitbeilegung-hinweis-lint,1.0.1,readystack,SEE LICENSE IN LICENSE.txt,32129,"Findet den seit 20.07.2025 toten OS-Plattform-Link, Zitate der aufgehobenen ODR-VO (VO (EU) 2024/3228) und fehlende Hinweise nach § 36 VSBG in Impressum, AGB und Footer."
+2026-09-26T03:51:55.73Z,@readystack/immowertv-gutachten-lint,1.0.1,readystack,SEE LICENSE IN LICENSE.txt,33362,Findet veraltete Normen und Modellwerte in Verkehrswertgutachten — 13 Regeln
+2026-09-26T03:52:20.887Z,@readystack/vergabe-schwellenwerte-check-2026,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,31514,Veraltete EU-Schwellenwerte in Vorlagen und Konfig-Dateien finden — Werte seit 2026-01-01
+2026-09-26T03:52:25.156Z,margins,0.1.0,dheerajjha,MIT,134005,"Open a folder of markdown in your browser from the terminal. Browse, read, edit, search, and follow [[wikilinks]] and backlinks. No vault, no config, nothing written but what you save."
+2026-09-26T03:52:44.11Z,@readystack/romu-hozon-kikan-lint-jp,1.0.1,readystack,SEE LICENSE IN LICENSE.txt,35834,法定帳簿の保存期間を文書保存期間表で検査 — 労基法109条・安衛則51条・石綿則41条・雇用保険法施行規則143条・健保則34条（20 rules）
+2026-09-26T03:53:02.985Z,proof-of-done,0.1.0,wasaybuilds,MIT,48702,"Catch AI coding agents faking ""done"": detects deleted tests, skipped tests and removed assertions by diffing before vs. after."
+2026-09-26T03:54:18.43Z,@t0mer/n8n-nodes-shortio,2026.9.0,t0merkle!n,MIT,627027,"n8n community node for Short.io: links, bulk, QR, geo targeting, folders, domains, statistics, and a polling trigger."
+2026-09-26T03:55:45.123Z,@geastack-community/geapbt,0.0.1,koharxnp,,27134,"Property-based testing tool for Gea stores, mixins, and components"
+2026-09-26T03:57:08.749Z,meksus,0.3.0,rikduttatwo,UNLICENSED,60070,"M.E.K.S.U.S. CLI: see what your AI coding agents (Claude Code) and builds are doing, live, and get Discord alerts when they fail or need you. Status only: code, prompts and output never leave your ma…"
+2026-09-26T03:57:20.215Z,james-api-sign,1.0.0,james.xu,MIT,7207,"Axios request interceptor with HMAC-SHA256 API signing (X-Access-Key/X-Timestamp/X-Nonce/X-Sign), Bearer token and comid header injection. Zero-config by default, fully configurable."
+2026-09-26T03:57:22.543Z,reborn-skills2,1.0.0,kimsungjun,MIT,35047,"산 스킬팩2(실측판)를 한 줄로 설치합니다 — 스킬 파일을 재배포하지 않고 각 제작자의 공식 설치 명령을 대신 실행하고, 깔린 스킬이 실제로 불리게 하는 발동기까지 넣습니다. 결제 후 받은 주문번호가 필요합니다"
+2026-09-26T03:57:29.647Z,@battincik/coreor-datatable,0.1.0,battincik,MIT,80188,"Typed, editable React data grid with virtual rows, filters and CSV export"
+2026-09-26T03:58:41.129Z,heroku-billing,1.0.1,nodepisss,MIT,3885,Custom Heroku CLI plugin for billing overview and payment management
+2026-09-26T04:00:33.941Z,@mhdd_24/api-scenario-mcp,1.0.0,mhdd_24,ISC,10776,Generate complete multi-step API workflows
+2026-09-26T04:00:50.414Z,@mhdd_24/api-security-mcp,1.0.0,mhdd_24,ISC,10617,Identify API security weaknesses
+2026-09-26T04:01:03.026Z,@shipfoundry/cli,0.1.0,jppotess,MIT,40146,"Manage ShipFoundry projects, recommendations, briefs and outcomes from your terminal."
+2026-09-26T04:01:58.158Z,@mk24x7/prune,4.0.0,mk24x7,MIT,102567,"Find and safely remove regenerable developer artifacts (node_modules, build outputs, Xcode and package manager caches) on macOS"
+2026-09-26T04:02:08.452Z,@listeningkit/telnyx,0.1.0,matthewdon,Apache-2.0,337697,"Production Convex component for Telnyx. Send SMS, verify Ed25519-signed webhooks, and keep every message idempotent through one typed API."
+2026-09-26T04:02:54.948Z,garlic-vscode,0.1.0,rundll86,MIT,11274,Garlic DSL language support for ShrimpVM (.srk)
+2026-09-26T04:03:18.964Z,@trokky/mcp,3.5.1,trokky,MIT,69799,Model Context Protocol server for Trokky CMS: let AI agents read and edit content with a scoped API token
+2026-09-26T04:03:33.247Z,@faithfulalabi/agent-lens,0.1.0,faithfulalabi,MIT,934140,Local-first agentic tracing platform: inspect everything your agent did in a session.
+2026-09-26T04:03:42.637Z,@posoco/cetas,0.5.1,colmugx,Apache-2.0,2142,Bun-runtime host for cetas — provider-neutral posoco agent with pi-tui
+2026-09-26T04:07:49.714Z,moneyswitch,0.5.0,hfshfg,Apache-2.0,2590502,Give your AI an API key for money. Client CLI + stdio MCP server for MoneySwitch (x402 + USDC on Monad).
+2026-09-26T04:08:06.295Z,@postbrix/sdk,1.0.0,postbrixadmin,SEE LICENSE IN LICENSE,75235,"Official PostBrix SDK for Node.js, Bun, Deno, Cloudflare Workers, and Vercel Edge Runtime"
+2026-09-26T04:09:47.048Z,@gitmyabi/pulse,1.0.0,gitmyabi-bot,MIT,149135,"Auto-generated TypeScript type bindings for PULSE (build etherscan-pulse-c5b1aa70-1790395684604, commit f2a1ae2, branch etherscan)"
+2026-09-26T04:11:42.518Z,@wingsky-1/dsh-decision-gateway,0.2.6,wingsky-1,MIT,294127,Decision gateway for DSH agents: calibrated Choice/Score/Noul verdicts via ws_request_verdict + local secret precheck + dual-track keys. 通用辅助决策网关（JEV 为首个 provider）：frozen 预设模板 + 密钥双轨（ENV 引用优先）+ 本地密形预…
+2026-09-26T04:11:51.4Z,@aikagi/runtime,0.1.0,fukuchi_th,MIT,11761,"Load your aikagi keys into a running app at start-up (Vercel via OIDC, Cloudflare Workers via one read-only key)."
+2026-09-26T04:13:18.465Z,@readystack/nencho-fuyo-csv-lint-r8,1.0.1,readystack,SEE LICENSE IN LICENSE.txt,39932,扶養親族CSVを令和8年分の新要件62万円・74万円・特定親族特別控除で19ルール検査
+2026-09-26T04:14:16.13Z,mini-fca,0.1.0,aminulsordar,,39501,"Minimal unofficial Facebook Messenger chat API for Node.js (experimental, untested)"
+2026-09-26T04:14:16.888Z,@ludi-uni/pi-console,0.1.0,ludi-uni,MIT,513825,Local-first web console for Pi sessions and execution timelines
+2026-09-26T04:14:45.953Z,sinbad,0.0.0,thibmeu,UNLICENSED,262,Placeholder for sinbad
+2026-09-26T04:15:59.823Z,ai-development-protocol,1.0.0,zreon,MIT,246739,CLI and tooling for the AI Project Development Protocol (AIDP)
+2026-09-26T04:16:12.129Z,ravensight-playtest,0.1.0,chaosdeselva,MIT,576173,AI personas play your game and file reports to Ravensight.
+2026-09-26T04:17:10.449Z,wardrik,0.0.1,jonlunsford,Apache-2.0,11971,"Durable, supervised, authorized work for AI agents."
+2026-09-26T04:17:12.03Z,dsh-profile-tavern,2.2.0,flizzywine,,42001567,DSH Tavern: standalone tavern Profile bundle
+2026-09-26T04:18:07.454Z,@xiechimon/pacman-cli,0.1.1,xiechimon,Apache-2.0,7570495,
