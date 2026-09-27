@@ -1,0 +1,138 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-27T07:17:32.581Z,@xlaunch/agent-loop,0.2.0-beta.1,projectx-social,MIT,114519,The concrete agent loop plugin for Xlaunch
+2026-09-27T07:17:38.397Z,@xlaunch/agent-loop-testkit,0.2.0-beta.1,projectx-social,MIT,18131,"Prerequisite mounting, production AgentLoop drivers, and Inbox stubs for tests"
+2026-09-27T07:17:44.597Z,@xlaunch/atomic-write,0.2.0-beta.1,projectx-social,MIT,22390,Zero-dependency atomic file replacement: exclusive-create random-suffix temp + rename carrying the caller-stated permissions (writeFileAtomic)
+2026-09-27T07:17:50.923Z,@xlaunch/agent-presets,0.2.0-beta.1,projectx-social,MIT,500395,Per-session agent composition from preset cordis.yml files for Xlaunch
+2026-09-27T07:17:56.752Z,@xlaunch/agent-tool-presentation,0.2.0-beta.1,projectx-social,MIT,13442,"Agent-plane presentation selector: composes one agent's tools as PTC mode, native, or both"
+2026-09-27T07:18:30.931Z,@xlaunch/shell,0.2.0-beta.1,projectx-social,MIT,29656,Abstract bash executor seam (ctx.shell) for the Xlaunch
+2026-09-27T07:19:16.325Z,@simplex2/framework,1.0.0,yangguifang,GPL,415647,`@simplex2/framework` 是一个基于 TypeScript 的轻量级模型运行时。它使用“属性配置 + 模型树”的方式描述组件或业务模型，并提供动态属性、计算属性、父子节点关系和模型工厂等基础能力。
+2026-09-27T07:20:19.82Z,@kohaku-ui/mcp-renderer,0.0.0-bootstrap.0,yosuque,Apache-2.0,501,Placeholder that reserves the name before the first real release of @kohaku-ui/mcp-renderer. Do not install.
+2026-09-27T07:21:21.881Z,@unshadow/sdk,0.3.0,samrridh,MIT,461274,"Unshadow Engine TypeScript client — same HTTP as hosted MCP, plus LangChain retriever/tools and LangGraph store"
+2026-09-27T07:22:21.383Z,@unshadow/n8n-nodes-unshadow,0.1.0,samrridh,MIT,15285,"n8n node for Unshadow Engine: context, search, extract, forget"
+2026-09-27T07:24:16.716Z,@gitmyabi/con,1.0.0,gitmyabi-bot,MIT,75036,"Auto-generated TypeScript type bindings for CON (build etherscan-con-7ad1a8fc-1790493751151, commit a83598a, branch etherscan)"
+2026-09-27T07:25:19.696Z,@osm-editor-kit/live-touched,0.1.0,tordans,MIT,41576,"See live which OSM objects other mappers are editing near you, before they upload. Editor-agnostic wiring (API, sync, polling, status); each editor brings its own UI."
+2026-09-27T07:26:08.42Z,@egoist/mygo-cli-darwin-arm64,0.1.1,egoist,MIT,8903436,The macOS arm64 binary of mygo-cli
+2026-09-27T07:26:15.35Z,@egoist/mygo-cli-darwin-x64,0.1.1,egoist,MIT,9580238,The macOS x64 binary of mygo-cli
+2026-09-27T07:26:17.087Z,view-as-ai,1.0.2,austinserb,GPL-3.0-or-later,14098,Preview local or deployed websites as AI web browsers and LLM agents see them
+2026-09-27T07:26:21.199Z,@egoist/mygo-cli-linux-arm64,0.1.1,egoist,MIT,8652614,The Linux arm64 binary of mygo-cli
+2026-09-27T07:26:27.078Z,@egoist/mygo-cli-linux-x64,0.1.1,egoist,MIT,9332538,The Linux x64 binary of mygo-cli
+2026-09-27T07:26:32.734Z,@egoist/mygo-cli-win32-arm64,0.1.1,egoist,MIT,8745642,The Windows arm64 binary of mygo-cli
+2026-09-27T07:26:38.455Z,@egoist/mygo-cli-win32-x64,0.1.1,egoist,MIT,9616030,The Windows x64 binary of mygo-cli
+2026-09-27T07:26:42.728Z,ng-hub-ui-spreadsheet,22.0.0,inphinito,MIT,836034,"Excel-like editable spreadsheet for Angular: in-cell editing, full keyboard navigation, rectangular range selection and a clipboard that round-trips with Excel. Accessible, themable through CSS varia…"
+2026-09-27T07:26:42.841Z,mygo-cli,0.1.1,egoist,MIT,15185,"The mygo command line tool: create, develop and package MyGo desktop apps"
+2026-09-27T07:26:54.051Z,@docmd/engine-python,0.9.6,mgks,MIT,28059,Python-accelerated engine for docmd using Python 3 runtime.
+2026-09-27T07:27:04.398Z,dokaz-api,0.1.0,artificialarchitect,MIT,81724,"Official client for the Dokaz API: invoice PDFs, QR codes, barcodes, Markdown to PDF, CSV/JSON/Excel, calendar .ics files, image metadata removal, email verification, site intel and text AI."
+2026-09-27T07:28:00.285Z,@fieldkitcms/frontend,0.1.0,jstalnaker,,121867,Customer frontend integration for Fieldkit; no hosted service or Site Runtime implementation.
+2026-09-27T07:28:30.89Z,@eristack/drizzle-kit-helpers,0.1.0,mikevar,MIT,13675,"Shared drizzle-kit config fragments for Eristack consumer monorepos (pg prod, sqlite tests)"
+2026-09-27T07:28:30.977Z,@eristack/currency-pair,0.1.0,mikevar,MIT,22035,Base/quote currency pair validation and canonical pair keys — no FX rates
+2026-09-27T07:28:31.045Z,@eristack/vercel-adapters,0.1.0,mikevar,MIT,9598,Serverless-friendly Express entry helpers for Vercel — no Vercel SDK in core
+2026-09-27T07:28:31.053Z,@eristack/tax,0.1.0,mikevar,MIT,25349,Tax code registry and effective-dated rates — math via @eristack/money Tax ops
+2026-09-27T07:28:31.087Z,@eristack/dimension,0.1.0,mikevar,MIT,29658,"L×W×H dimension triple as decimal strings — cubic volume, optional unit label"
+2026-09-27T07:28:31.128Z,@eristack/business-calendar,0.1.0,mikevar,MIT,38407,Business days and holidays on YYYY-MM-DD wall dates — no timestamp import in core
+2026-09-27T07:28:31.204Z,@eristack/checksum,0.1.0,mikevar,MIT,13006,SHA-256 hex normalize and constant-time compare for exports and file refs
+2026-09-27T07:28:31.225Z,@eristack/contact,0.1.0,mikevar,MIT,19696,Contact roles and channel list normalization on a party — compose with person/phone/email
+2026-09-27T07:28:31.264Z,@eristack/rounding-policy,0.1.0,mikevar,MIT,18844,Named rounding profiles that resolve to @eristack/money Rounding operators
+2026-09-27T07:28:35.362Z,@eristack/email-address,0.1.0,mikevar,MIT,20925,Normalized email local@domain strings for contact channels
+2026-09-27T07:28:35.603Z,@eristack/entity-id,0.1.0,mikevar,MIT,83996,"UUID v7 entity identifiers — sortable, parseable, Drizzle column helper"
+2026-09-27T07:28:35.771Z,@eristack/geo,0.1.0,mikevar,MIT,31689,Latitude and longitude as decimal strings — normalize and haversine distance
+2026-09-27T07:28:35.906Z,@eristack/person,0.1.0,mikevar,MIT,42745,"Structured person name and gender identity — normalize and display, not HRIS"
+2026-09-27T07:28:35.947Z,@eristack/phone,0.1.0,mikevar,MIT,19443,"E.164 phone normalization — strict plus prefix, no libphonenumber in core"
+2026-09-27T07:28:36.003Z,@eristack/fraction,0.1.0,mikevar,MIT,87306,"Exact rational numbers as reduced fractions — string numerators/denominators, no float literals"
+2026-09-27T07:28:36.111Z,@eristack/email-template,0.1.0,mikevar,MIT,12150,{{var}} HTML/text email template render and key extraction — pair with @eristack/comms
+2026-09-27T07:28:36.15Z,@eristack/api-key,0.1.0,mikevar,MIT,11390,"Generate, hash, and timing-safe verify API keys for partner B2B routes"
+2026-09-27T07:28:36.194Z,@eristack/idempotency,0.1.0,mikevar,MIT,20845,Idempotency-Key guard and store interface — memory store for tests; Drizzle in a later iteration
+2026-09-27T07:28:36.528Z,@eristack/health,0.1.0,mikevar,MIT,32954,Liveness and readiness health check registry with Express and Nest mount helpers
+2026-09-27T07:28:38.334Z,@eristack/pdf-render,0.1.0,mikevar,MIT,10008,HTML to PDF driver interface — Puppeteer/Playwright stays in the app or optional adapter
+2026-09-27T07:28:38.622Z,@eristack/rate-limit,0.1.0,mikevar,MIT,11513,Fixed-window in-memory rate limiter — Redis adapter in app or later package
+2026-09-27T07:28:38.82Z,@eristack/spreadsheet-render,0.1.0,mikevar,MIT,18644,Declarative workbook model and xlsx/csv render drivers — ExcelJS/SheetJS in app or adapter
+2026-09-27T07:29:11.475Z,chatgpt-rtl,1.7.1,mmnaderi,MIT,245070,A smart RTL (Right-to-Left) and UI patcher with font & layout controls for ChatGPT desktop application.
+2026-09-27T07:29:20.218Z,automated-package-publishing,0.0.9,wasifmatic,MIT,896987,ihfeihiqhfpiwqhifihfwihf
+2026-09-27T07:31:00.95Z,@rajaaltus/page-as-data,0.1.0,rajaaltus,MIT,89115,"Read a web page as data instead of a screenshot: what is on screen, what broke behind it, and layout defects at phone and desktop widths. For developers and AI coding agents; installs itself as a ski…"
+2026-09-27T07:31:37.928Z,akarisp,0.1.0-alpha.0,drow724,Apache-2.0,41694,"Lightweight lifecycle runtime for browser LLM sessions: bounded queue, cancellation, and deterministic cleanup for the Chrome Prompt API and WebLLM"
+2026-09-27T07:32:22.561Z,@spatius/server-sdk,0.1.0-beta.0,3drx,MIT,615017,Spatius Node.js server SDK for streaming audio to avatar sessions
+2026-09-27T07:33:05.426Z,opencode-volcengine-quota,1.0.1,linhaismail,MIT,19393,Volcengine Ark plan quota + token/cache sidebar widget for OpenCode V2 (multi-account aware)
+2026-09-27T07:33:07.774Z,@sabir7718/baileys,1.0.0,sabir7718,MIT,16123866,A modified version of WhiskeySockets/Baileys
+2026-09-27T07:33:14.955Z,@simplex2/element-plus-frame,1.0.0,yangguifang,,651431,`simplex2-elementUI-frame` 是 [`simplex2-frame`](../simplex2-frame) 面向 Element Plus 的 UI 扩展框架工程。
+2026-09-27T07:33:48.577Z,@devbie/web-monitor-sdk,0.1.0-stage.0,worldzhy,MIT,47241,"Browser-side web monitoring SDK: PV, AJAX, resource, JS error and custom event reporting. No heartbeat, no credential logic."
+2026-09-27T07:35:45.502Z,deaddeps,1.0.0,retronym,MIT,110814,"Find dead, unmaintained and stale dependencies before they find you. npm, PyPI and crates.io. No API keys."
+2026-09-27T07:37:31.854Z,@viritura/score-engine,0.0.0,peteryangio,MIT,388,Reserved for Viritura. Not yet released.
+2026-09-27T07:37:59.529Z,linkyhost,0.0.1,linkyhost,UNLICENSED,693,Official LinkyHost CLI (not released yet). Publish HTML from your terminal or AI editor.
+2026-09-27T07:38:25.07Z,@dloizides/content-upload,1.0.0,dloizides,MIT,92278,"Framework-light image upload client for the dloizides.com ContentService (multipart POST through a same-origin BFF proxy, CSRF header, abort, optional progress) plus a useImageUpload React hook with…"
+2026-09-27T07:38:37.221Z,@stephansama/vite-devtools-tailwind-debug-screens,0.2.0,stephansama,MIT,13116,Vite DevTools dock that shows the active tailwind breakpoint during development
+2026-09-27T07:38:42.78Z,@viritura/score-viewer,0.0.0,peteryangio,MIT,388,Reserved for Viritura. Not yet released.
+2026-09-27T07:38:45.336Z,@dloizides/ui-card-roster,0.2.0,dloizides,MIT,197777,"Generic, brand-agnostic React Native (RN-web) grouped card roster editor: groups add/rename/remove, a card band per group, a Reorder mode, an edit-sheet slot (ModalShell) that becomes a split pane on…"
+2026-09-27T07:39:51.36Z,@simochee/backlog-blueprint,0.0.0,simochee,,2071,OIDC trusted publishing setup package for @simochee/backlog-blueprint
+2026-09-27T07:40:06.828Z,@code-402/agent-tools,0.2.1,hcrb,MIT,52286,"code402 x402 pay-per-call tools in every agent framework's toolbelt: LangChain, Vercel AI SDK, OpenAI function-calling. Non-custodial; the 402 is authoritative; client-side spend cap."
+2026-09-27T07:40:42.153Z,@viritura/score-viewer-react,0.0.0,peteryangio,MIT,400,Reserved for Viritura. Not yet released.
+2026-09-27T07:40:48.624Z,@archie_archflow/cli,0.1.0,archie_archflow,,180449,Command-line access to every Archflow MCP tool and resource
+2026-09-27T07:40:56.366Z,@hakodb/backend,0.1.0,rizaptk,MIT,34276,HakoBackend TypeScript client: Firestore-shaped API over the hakobackend HTTP + WebSocket wire protocol
+2026-09-27T07:41:01.694Z,@dloizides/ui-media,0.3.0,dloizides,MIT,137259,"Themable React Native (RN-web) media controls: ImagePickerButton (idle/uploading/error/done around a consumer-supplied upload function) and PhotoFramingEditor (live frame preview, size stepper, posit…"
+2026-09-27T07:41:06.548Z,skills-atlas,0.2.0,ohmycodeapp,MIT,7055984,"Browse every public Agent Skill grouped by theme, multi-select and install them through `npx skills add`."
+2026-09-27T07:42:23.271Z,kloudy-cli,0.0.1,enderskim,,303207,Local OAuth CLI for Kloudy capabilities
+2026-09-27T07:43:01.033Z,penge-passport-ph,0.1.0,alpharomercoma,MIT,195532,"Read-only, rate-limited checker for DFA Philippine passport appointment availability on passport.gov.ph. Library and CLI."
+2026-09-27T07:43:17.547Z,dsh-live2d-voice,1.5.0,johnnren,MIT,1308779,"Live2D session view with realtime voice: continuous voice input, streaming TTS, subtitle translation, multi-model catalog, standalone entry / Live2D 实时语音会话视图：连续语音输入、流式 TTS、字幕翻译、多模型目录、独立入口"
+2026-09-27T07:44:21.231Z,@gitmyabi/strbtc,1.0.0,gitmyabi-bot,MIT,255945,"Auto-generated TypeScript type bindings for strBTC (build etherscan-strbtc-b2723d5d-1790494961829, commit 06c1855, branch etherscan)"
+2026-09-27T07:44:22.634Z,rlm-sh,0.1.0,abhishke1,MIT,13014347,"Self-evolving terminal agent — JavaScript-native, Cordis plugins, hot-reloadable everything, recursive subagents"
+2026-09-27T07:45:06.696Z,open-merchant-mcp,1.0.0,xeyronox,AGPL-3.0-only,1081696,"Read-only MCP server for an Open Merchant project folder. stdio only, no network socket, every read journaled."
+2026-09-27T07:45:30.452Z,@ostwal/aws-mcp-turbo,0.1.0,ostwal,MIT,7712,"Native, token-conscious AWS MCP server with projections and delta log polling"
+2026-09-27T07:45:36.185Z,@gitmyabi/usdcv,1.0.0,gitmyabi-bot,MIT,225343,"Auto-generated TypeScript type bindings for USDCV (build etherscan-usdcv-5422374b-1790495106812, commit 5cd6c74, branch etherscan)"
+2026-09-27T07:46:08.062Z,@morndream/mihomo-tui,0.5.0-rc.0,morndream,MIT,840777,"CLI + TUI manager for the mihomo proxy kernel (API-driven, with a guarded transactional config layer)"
+2026-09-27T07:46:34.169Z,@omniuistack/omni-ui,0.1.0,omniuistack,MIT,1279996,A tree-shakable React component library built on Base UI and Tailwind CSS v4.
+2026-09-27T07:47:10.032Z,ubb-core,1.0.0,shellraining,MIT,58621,CC98 UBB 解析器、泛型输出注册器与 HTML/Markdown 预设
+2026-09-27T07:47:28.433Z,decision-tune,0.0.3,abe238,Apache-2.0,2777,decision-tune: train your own local decision model with an honest report card. npm launcher for the Python CLI (npx decision-tune). Early development.
+2026-09-27T07:48:20.135Z,@unshape/drag-drop,1.0.0,vbalazs,ISC,19156,Drag & drop features for Unshape
+2026-09-27T07:48:40.36Z,semantic-test-matcher,0.1.0,justasmonkev,MIT,295173,Rank likely test files for source changes using TypeSafe's Jev model and structural heuristics.
+2026-09-27T07:48:48.19Z,proclink,0.1.0,cofee_with_rose,UNLICENSED,393948,Direct RPC and on-demand process supervision for Electron and browsers
+2026-09-27T07:49:25.52Z,proclink-build,0.1.0,cofee_with_rose,UNLICENSED,101545,Directory-based RPC contracts and process entry generation for ProcLink
+2026-09-27T07:49:38.818Z,@ai-ecoverse/gpu-ask.js,0.1.0,trieloff,Apache-2.0,10154468,Agent questions in the browser: ONNX tagger + CRF + ask-tool compiler
+2026-09-27T07:51:06.355Z,eslint-plugin-nest-drift,0.1.1,kerimakmyradov,MIT,92466,ESLint rules that catch drift between class-validator / class-transformer / Swagger decorators and TypeScript types in NestJS
+2026-09-27T07:51:58.853Z,@gitmyabi/dexblue,1.0.0,gitmyabi-bot,MIT,359320,"Auto-generated TypeScript type bindings for dexBlue (build etherscan-dexblue-00000000-1790495481611, commit c0daac6, branch etherscan)"
+2026-09-27T07:51:59.666Z,sh-volume-shuff,0.1.0,underworld-oddball,MIT,111935,"Read the newest turn aloud from the DSH composer: a speaker button in the composer tool row, left of the model selector, that reads from the start of your newest question, scrolls the page to that sp…"
+2026-09-27T07:52:36.619Z,opencode-chatgpt-web-mcp,0.2.0,maikro,MIT,118482,"OpenCode MCP: ChatGPT web does the thinking, OpenCode executes. Fetches workspace files ChatGPT requests."
+2026-09-27T07:53:15.308Z,@miniiarrr/singularity,1.0.0,miniiarrr,SEE LICENSE IN LICENSE,1269875,"The rakhimkulov&co landing animation: a galaxy of ink dots collapses into a black hole and a surfer rides it. three.js; three modes (full, galaxy, hole); one mount() call or one script tag."
+2026-09-27T07:54:08.004Z,agent-done-check,0.31.0,shivam.dxt,MIT,225014,"Verify commit-bound acceptance criteria with commands, files, HTTP, and optional Playwright checks."
+2026-09-27T07:54:45.849Z,@lofcz/fingerprintjs,5.2.1,lofcz,MIT,671983,Sciobot browser signals: self-hosted FingerprintJS fork with obfuscated bundles
+2026-09-27T07:55:34.214Z,@cosborn2/ui,0.1.0-beta.0,cameron_osborn,MIT,130534,Lightweight React components and settings layouts with granular CSS and server-compatible primitives.
+2026-09-27T07:56:09.004Z,@phala/pay,0.1.0,kingsley-don,Apache-2.0,157956,Phala Pay checkout: a framework-agnostic client and React bindings
+2026-09-27T07:57:43.346Z,airo-ai-router,0.7.1,pablospaniard,,269845,Adaptive Intelligence Routing & Orchestration for Claude Code and Codex CLI
+2026-09-27T07:57:44.895Z,@entertainment-design-catalog/design-tags,0.1.0,dryfruit01,MIT,39907,EDC Web API のスキーマ(Zod)と HTTP リクエストのラッパー
+2026-09-27T08:00:04.095Z,opencode2-darwin-arm64,2.1.0,thanhvinh1,MIT,179825930,macOS arm64 binary for the opencode2 CLI
+2026-09-27T08:00:19.072Z,opencode2-darwin-x64,2.1.0,thanhvinh1,MIT,189575970,macOS x64 binary for the opencode2 CLI
+2026-09-27T08:00:28.54Z,@gitmyabi/naton,1.0.0,gitmyabi-bot,MIT,173080,"Auto-generated TypeScript type bindings for NATon (build etherscan-naton-64b84731-1790495926738, commit 5ea1794, branch etherscan)"
+2026-09-27T08:00:35.009Z,opencode2-linux-arm64-musl,2.1.0,thanhvinh1,MIT,197594866,Linux arm64 (musl) binary for the opencode2 CLI
+2026-09-27T08:00:51.477Z,opencode2-linux-arm64,2.1.0,thanhvinh1,MIT,198691646,Linux arm64 binary for the opencode2 CLI
+2026-09-27T08:00:58.902Z,@aicoffe/agent-worktree-kit,0.4.0,aicoffe,,249949,`@aicoffe/agent-worktree-kit` 是一个零配置的 git worktree 生命周期 CLI，专为 Agent 编程工作流设计：一条 `wt init feat/foo` 完成「建分支 + 建 worktree + 复制环境文件 + 前台启动 Agent」，一条 `wt cleanup feat/foo` 安全地删除整个任务环境。它只做代码隔离，不维护任何中心状态。
+2026-09-27T08:01:01.56Z,craft-color-codes,1.0.0,yooumuu,(MIT AND CC-BY-4.0),659010,"Hex and RGB for 3,689 craft colour codes: Perler, Hama, Artkal, Nabbi and MARD fuse beads, Miyuki Delica, DMC floss and diamond drills, Red Heart yarn, LEGO and Minecraft. JSON, CSV, a CIEDE2000 matc…"
+2026-09-27T08:01:08.683Z,opencode2-linux-x64-musl,2.1.0,thanhvinh1,MIT,203286604,Linux x64 (musl) binary for the opencode2 CLI
+2026-09-27T08:01:30.261Z,@unknown-planet/sqlite,1.0.0,makimafox,Apache-2.0,32234,SQLite graph and evidence adapters for Unknown Planet.
+2026-09-27T08:01:33.072Z,@unknown-planet/neo4j,1.0.0,makimafox,Apache-2.0,38856,Neo4j graph and evidence adapters for Unknown Planet.
+2026-09-27T08:01:35.985Z,@unknown-planet/qdrant,1.0.0,makimafox,Apache-2.0,17834,Qdrant vector adapter for Unknown Planet.
+2026-09-27T08:01:38.657Z,@unknown-planet/redis,1.0.0,makimafox,Apache-2.0,24078,"Redis queue, stack, and key/value adapters for Unknown Planet."
+2026-09-27T08:01:40.625Z,opencode2-windows-arm64,2.1.0,thanhvinh1,MIT,193369114,Windows arm64 binary for the opencode2 CLI
+2026-09-27T08:01:41.628Z,@unknown-planet/minio,1.0.0,makimafox,Apache-2.0,7784,MinIO S3-compatible blob storage provider for Unknown Planet.
+2026-09-27T08:01:56.146Z,reborn-explainer,1.0.0,kimsungjun,SEE LICENSE IN README.md,47202,"주제 하나로 나레이션 있는 설명 영상(모션그래픽, 1280×720)을 만드는 원본 오픈소스 스킬 anything2explainer(Vincentwei1021/anything2explainer · PolyForm Noncommercial)가 이 컴퓨터에서 돌 준비가 됐는지 재고, 없으면 원저자 저장소에서 그대로 받아 놓는 한국어 설치기입니다. 원본 코드는…"
+2026-09-27T08:01:58.057Z,opencode2-windows-x64,2.1.0,thanhvinh1,MIT,205669908,Windows x64 binary for the opencode2 CLI
+2026-09-27T08:02:54.484Z,@gitmyabi/cant,1.0.0,gitmyabi-bot,MIT,145741,"Auto-generated TypeScript type bindings for $CANT (build etherscan-cant-ececee9a-1790496141725, commit eb1af1f, branch etherscan)"
+2026-09-27T08:03:10.218Z,aether-workflow,1.2.1,rpkchttrj,MIT,87028,"Personal AI-assisted engineering workflow: installs a set of explicit-invocation Claude Code skills, a global engineering contract, and private out-of-repo workflow state."
+2026-09-27T08:05:15.33Z,@bugpin/client,1.0.2,khikmat,MIT,4171290,"Production-ready BugPin browser SDK for React, Next.js, Vite, plain JavaScript, and HTML websites."
+2026-09-27T08:05:28.985Z,aws-lambda-effect,0.0.1,snegostup,MIT,30235,"Typed rule-and-flavor pipelines for AWS Lambda batch events (SQS, Kinesis, DynamoDB Streams), built on Effect"
+2026-09-27T08:06:44.203Z,opencode-feishu-plugin,0.1.0,murphy.mo,MIT,6724006,"Feishu/Lark plugin for OpenCode V2 — single-user topics as sessions, in-card permission approvals, streaming cards. Minimal permissions, no public endpoint."
+2026-09-27T08:07:04.141Z,@lmzhen/dsh-evolution-skill-history,0.0.0,lmzhen,MIT,210,Name-claim placeholder for the skill-history web surface (the real package is published by CI).
+2026-09-27T08:07:45.842Z,byakugan237,0.1.0,macgpt,MIT,1303401,360° vision into any codebase — an adaptive code comprehension tool
+2026-09-27T08:07:58.745Z,@mlightcad/emf-converter,1.14.14,mlight.li,Apache-2.0,348285,Fork of emf-converter@2.0.2 with Excel OLE EMF clip / LOGFONT fixes for RealDWG-Web
+2026-09-27T08:08:31.886Z,prompttest-mobile,1.5.1,shriram_singh,BUSL-1.1,1455607,"Ultra-fast, zero-code autonomous mobile testing & visual QA brain for Android & iOS"
+2026-09-27T08:08:34.411Z,@crabcloud/skills,0.1.0,niklauslu,MIT,23533,Crab Cloud agent skills (SKILL.md) with a standalone installer — teach coding agents to operate the user's personal cloud via the crab CLI.
+2026-09-27T08:09:01.526Z,prompttest-qa,1.0.0,shriram_singh,BUSL-1.1,4294,Autonomous mobile QA engine — renamed to prompttest-mobile
+2026-09-27T08:10:21.446Z,@timothyrusso/arch-rules,0.1.0,timothyrusso,MIT,45043,"dependency-cruiser rule generators for feature tiers, layers and Effect placement."
+2026-09-27T08:10:23.22Z,@timothyrusso/config-presets,0.1.0,timothyrusso,MIT,146489,"Biome, commitlint, lefthook, tsconfig, Jest and CI presets, the kit.config.json loader, the check scripts and the init command."
+2026-09-27T08:10:24.906Z,@timothyrusso/effect-core,0.1.0,timothyrusso,MIT,94116,"Shared Effect layer: AppError, Logger, Config, runtime, SqliteClient, React hooks and testing helpers."
+2026-09-27T08:10:26.588Z,@timothyrusso/eslint-plugin-arch,0.1.0,timothyrusso,MIT,114283,"ESLint rules for the agentic-kit architecture: ViewModel contract, comments, dashes, layout, stable row handlers, Effect in views."
+2026-09-27T08:11:23.312Z,breakscale-mcp,0.1.0,xevrion,MIT,3614054,"Breakscale as an MCP server: an AI assistant builds a system design, runs it through a real simulation, and shows it on a live canvas"
+2026-09-27T08:11:59.53Z,@eclipse-daanse/emf-xml,0.0.1-next.1,markus.hochstein,EPL-2.0,150178,"Reads and writes XML for any Ecore model, driven by ExtendedMetaData. Knows nothing about XMLA."
+2026-09-27T08:12:46.534Z,@eclipse-daanse/xmla-model,0.0.1-next.1,markus.hochstein,EPL-2.0,10832545,"The XMLA Ecore models, bootstrapped into a live registry, plus the rowset catalogue over them."
+2026-09-27T08:12:49.653Z,@eclipse-daanse/xmla-io,0.0.1-next.1,markus.hochstein,EPL-2.0,60126,"The XMLA message layer: SOAP envelope, requests, faults, and the codec that dispatches a response."
+2026-09-27T08:12:52.95Z,@eclipse-daanse/xmla-dynamic,0.0.1-next.1,markus.hochstein,EPL-2.0,69370,"Builds Ecore models at runtime from what a server says about itself, so an unknown rowset is still queryable."
+2026-09-27T08:12:56.026Z,@eclipse-daanse/xmla-client,0.0.1-next.1,markus.hochstein,EPL-2.0,85333,"Talks to an XMLA server: transport, authentication, sessions, discover and execute."
+2026-09-27T08:12:58.691Z,@eclipse-daanse/xmla-workbench-adapter,0.0.1-next.1,markus.hochstein,EPL-2.0,73284,"Plain records and cellsets over the EObject client, so mdx-workbench can swap its SOAP client for one line."
+2026-09-27T08:13:12.559Z,pi-lark-gateway,1.0.0-beta.1,sokuritszz,UNLICENSED,342110,Self-hosted Feishu gateway for the Pi coding agent SDK
+2026-09-27T08:15:59.996Z,mishi-pet,1.0.0,mohabbat,MIT,4585502,"Drop-in animated desktop pet for any website. Shimeji-style PixiJS companion with auto-pilot, dragging, and 46 animation frames."
