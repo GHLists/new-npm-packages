@@ -1,0 +1,184 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-27T16:21:47.421Z,@natsuneko-laboratory/react-native-visual-regression-test,0.1.0,natsuneko,MIT,119252,"Visual regression tests for React Native Storybook stories, run from Vitest"
+2026-09-27T16:21:49.875Z,@8kugames/dsh-zed-acp,0.1.0,kumarajiava,MIT,277053,"Zed-oriented Agent Client Protocol server for DeepSeek Harness: installable dsh plugin (`dsh plugin --profile zed add @8kugames/dsh-zed-acp`) exposing persistent sessions, plan mode, agent presets, p…"
+2026-09-27T16:22:03.83Z,@zorgzeleniy/hiviz,0.7.0,zorgzeleniy,MIT,157178,"HiViz — audit and refactor standing AI-agent instructions (AGENTS.md/CLAUDE.md/skills/MCP) for prompt debt. Trace every rule before cutting it: probe-verified, safety-preserving; drift checks with MC…"
+2026-09-27T16:22:29.905Z,@pg-access/typeorm,0.1.0,jonasdias10,MIT,18621,"Writes pg-access RLS policies as TypeORM migration classes, with an up() and a down() that restores the previous policies."
+2026-09-27T16:23:01.477Z,dsh-agent-teams-approval,0.1.0,jaywenstar,MIT,43275,DSH web plugin: a Settings → General switch that lets AgentTeams run without the Web plan-approval click.
+2026-09-27T16:23:06.08Z,dsh-agent-teams-limits,0.1.0,jaywenstar,MIT,139267,DSH plugin: Settings → Plugins card for AgentTeams member cap and per-team concurrency cap.
+2026-09-27T16:23:14.685Z,@p31ca/akinator-engine,1.0.0,classicwilly,MIT,758,Decision tree engine
+2026-09-27T16:23:17.099Z,@p31ca/andromeda-cli,1.0.1,classicwilly,MIT,76881,"Sovereign, agent-native CLI for the P31 ecosystem — Oasis TUI, MCP server, and --agent JSON mode for AI agents and CI/CD."
+2026-09-27T16:23:20.232Z,@p31ca/cli,3.0.0,classicwilly,MIT,761010,"Sovereign AI agent for neurodivergent families — OpenCode face, P31 guts"
+2026-09-27T16:23:22.904Z,@p31ca/cognitive-passport-schema,1.1.0,classicwilly,AGPL-3.0,54268,Cognitive Passport schema — W3C VC-aligned sovereign identity credential for P31
+2026-09-27T16:23:27.399Z,@p31ca/gamification,1.0.0,classicwilly,,45814,"Shared gamification engine for P31 surfaces — sound, confetti, haptics, achievements, growth rings, voice feedback, economy store"
+2026-09-27T16:23:31.122Z,@p31ca/mcp-justice,1.0.0,classicwilly,MIT,16768,"P31 Sovereign Justice MCP Server — evidence vault, escrow, ODR, and Daubert tools for legal AI agents"
+2026-09-27T16:23:34.676Z,@p31ca/mcp-vibe,1.0.0,classicwilly,MIT,8581,P31 Vibe Coding MCP Server — generate and deploy apps via MCP tools for neurodivergent families
+2026-09-27T16:23:38.398Z,@p31ca/quantum-core,0.1.0,classicwilly,,57471,
+2026-09-27T16:23:40.993Z,@p31ca/sovereign-core,0.1.0,classicwilly,,49621,
+2026-09-27T16:23:43.216Z,@p31ca/spoon-state,1.0.0,classicwilly,MIT,585,Spoon-state adaptive UI kit
+2026-09-27T16:23:45.754Z,@p31ca/ui,1.3.0,classicwilly,,315582,
+2026-09-27T16:23:48.071Z,@p31ca/vibe-sdk,1.0.0,classicwilly,MIT,14380,"P31 Vibe Coding SDK — programmatic code generation, deployment, and management for neurodivergent families"
+2026-09-27T16:24:08.665Z,@p31ca/forge-sdk,1.0.0,classicwilly,MIT,36636,"Embed P31 Forge panels — terminal, MCP tools, dockview workspace — into any React app"
+2026-09-27T16:24:12.07Z,@p31ca/mcp-membrane,1.0.0,classicwilly,MIT,44399,"MCP server for post-deploy verification — DORA metrics, deploy checks, gamified XP/LOVE, and artifact minting"
+2026-09-27T16:24:28.949Z,@p31ca/agent-engine,0.1.0-alpha.0,classicwilly,MIT,273303,Core engine for creating and managing personalized AI agents in the P31 ecosystem
+2026-09-27T16:24:31.247Z,dsh-llm-retry-all,0.1.0,jaywenstar,MIT,72906,"DSH host plugin: retries EVERY model-gateway error (429, quota, auth, network, ...) with a linear 5s-step backoff capped at 5 minutes, covering agent-loop requests and direct ctx.llm.stream calls (co…"
+2026-09-27T16:24:31.538Z,@p31ca/game-engine,0.1.0-alpha.0,classicwilly,MIT,91725,"Geodesic building game engine for the P31 assistive technology platform. Maxwell rigidity, 7 seed challenges, player progression."
+2026-09-27T16:24:33.954Z,@p31ca/love-ledger,0.1.0-alpha.0,classicwilly,MIT,51656,L.O.V.E. — Ledger of Ontological Volume and Entropy. Economic layer for the P31 assistive technology ecosystem.
+2026-09-27T16:24:36.346Z,dsh-plan-card-sidebar,0.1.0,jaywenstar,MIT,85283,"DSH web plugin: gives the plan-review card ('计划待审') a second home in the right sidebar — same card, same decision buttons — with a per-card switch that moves it between the sidebar and the main conve…"
+2026-09-27T16:24:36.531Z,@p31ca/node-zero,0.1.0-alpha.0,classicwilly,MIT,388268,"Node Zero Protocol — identity, state, bond, and vault primitives for assistive mesh networks. Zero runtime dependencies. WebCrypto P-256 ECDSA/ECDH, AES-256-GCM, HKDF. Runs in browser and Node.js."
+2026-09-27T16:24:41.288Z,dsh-subagent-model-guard,0.1.0,jaywenstar,MIT,47933,"DSH host plugin: enforces the subagent-model-selection whitelist for subagent, agent teams, and every other child-Agent creation."
+2026-09-27T16:24:46.771Z,dsh-subagent-toggle,0.1.0,jaywenstar,MIT,67814,DSH plugin: a Settings switch that disables the subagent tool family (subagent/subagent_fork/workflow/ralph/list_subagent_models/send_message) and tells the model to use Agent Teams instead.
+2026-09-27T16:24:52.582Z,dsh-web-fetch-fakeip-allow,0.2.0,jaywenstar,MIT,37689,"DSH host plugin: let web_fetch reach domains the local Clash/mihomo TUN resolves into its fake-ip pools (IPv4 198.18.0.0/15, IPv6 2001:2::/48), while every other non-public address stays blocked."
+2026-09-27T16:24:59.61Z,dsh-workspace-changes,0.1.0,jaywenstar,MIT,212787,"DSH web plugin: an IDE-style Changes panel in the right Sidebar — grouped working-tree changes (JetBrains-style Changes/Unversioned groups, directory tree) with a full diff viewer (unified/side-by-si…"
+2026-09-27T16:25:01.977Z,skinsuite,0.1.0,qirly,MIT,117267,多主题 / 多版式机制的纯内核（零运行时依赖）：目录名与默认值的白名单常量、主题包契约类型、明暗 mode 与色系 tone、CSS 变量 token 的安全校验、设备维度 URL 参数读取。不碰 DOM / 构建器 / 路由，可在任意前端（Vue / React / Node / SSR）复用。
+2026-09-27T16:25:11.473Z,dsh-compact-model,0.1.0,jaywenstar,MIT,116168,"DSH host plugin: makes /compact use a user-chosen provider/model instead of the session's chat model, configurable in Settings."
+2026-09-27T16:26:00.538Z,@mcp-abap-adt/sap-aicore-auth,27.0.1,fr0ster,LGPL-3.0-only,56132,"SAP AI Core service-key token exchange (TokenProvider, parseServiceKey, serviceKeyCredential)."
+2026-09-27T16:26:43.17Z,n8n-nodes-ydb,0.1.0,skinglik,MIT,44685,"n8n node for Yandex Database (YDB) — Yandex Cloud managed/serverless YDB, with IAM token / service account authentication"
+2026-09-27T16:26:57.062Z,@whamp/pi-inline-identifier,0.0.1,whamp,MIT,48729,"Compose inline Pi skills, named subagents, and prompt templates in mention order."
+2026-09-27T16:27:22.549Z,@gitmyabi/meth,1.0.0,gitmyabi-bot,MIT,182644,"Auto-generated TypeScript type bindings for mETH (build etherscan-meth-d5f7838f-1790526326977, commit f9d232d, branch etherscan)"
+2026-09-27T16:27:30.06Z,hyperlkh,0.0.0,mafintosh,Apache-2.0,256,LKH backed by Hypercore
+2026-09-27T16:28:37.116Z,ikada,0.1.0,yamosan,MIT,710273,A local web UI for exploring line-based logs from the command line.
+2026-09-27T16:28:39.752Z,@youdays/mtga-draft-lens-watcher,0.1.0,youdays,MIT,29096,MTG ArenaのPlayer.logを監視し、ローカルのWeb UIへドラフトイベントを配信するCLI
+2026-09-27T16:29:27.274Z,@customyai/core,0.1.0,customyco,MIT,89995,"Customy SDK core: fetch transport, typed errors, retries with Retry-After, idempotency, pagination, platform discovery and machine tokens. Runs on Node, edge runtimes and browsers."
+2026-09-27T16:29:36.498Z,@customyai/server,0.1.0,customyco,MIT,55338,"Customy identity verification for any server: JWKS with rotation, machine and user token verifiers, BFF actor assertions and request verification over the standard Request, with a Node IncomingMessag…"
+2026-09-27T16:29:45.356Z,@customyai/web,0.1.1,customyco,MIT,104803,"Customy same-origin session handlers over the standard Request and Response: auth proxy, social sign-in, sign-out, impersonation callback, server session, route protection, cookie names and local ses…"
+2026-09-27T16:29:53.566Z,@customyai/client,0.1.1,customyco,MIT,411807,"Customy browser client: session, sign-in, MFA, passkeys, active organization, capabilities and account linking over same-origin HttpOnly cookies, with React, native and native React bindings as subpa…"
+2026-09-27T16:29:59.784Z,@customyai/access,0.1.0,customyco,MIT,729390,"Customy Access: capabilities, catalog, users and user contact, flags and the generated client for every public Access operation, over @customyai/core."
+2026-09-27T16:30:06.951Z,@customyai/data,0.1.0,customyco,MIT,35373,"Customy Data: typed event tracking (track, identify, page, screen, group, alias) with batching; the scope comes from the credential, never from headers. Over @customyai/core."
+2026-09-27T16:30:14.919Z,@customyai/send,0.1.0,customyco,MIT,212530,"Customy Send: email, templates, domains, webhooks, suppressions, notifications, push and in-app messages for servers, over @customyai/core (typed errors, retries with Retry-After, idempotency, Access…"
+2026-09-27T16:30:22.438Z,@customyai/billing,0.1.0,customyco,MIT,15697,"Customy Billing for apps: report usage of the meters an app declares, with its Access identity, over @customyai/core."
+2026-09-27T16:30:32.619Z,@customyai/links,0.1.0,customyco,MIT,49916,"Customy Links: short links, analytics, conversions, domains and webhooks, over @customyai/core (typed errors, retries with Retry-After, pagination, Access machine tokens)."
+2026-09-27T16:30:38.788Z,@customyai/sdk,0.1.0,customyco,MIT,20999,"The whole Customy platform with one app identity: createCustomy() reads the environment discovery, holds the app's machine tokens and composes Access, Data, Send, Billing and Links (plus any discover…"
+2026-09-27T16:30:46.364Z,@customyai/cli,0.1.0,customyco,MIT,68464,"Customy CLI for apps: validate, type and sync customy.app.json (customy apps validate | codegen | sync). Also usable as a library."
+2026-09-27T16:31:45.027Z,kasabaileys,0.3.15,kasabaileys,MIT,10763899,"Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types."
+2026-09-27T16:31:54.881Z,babel-plugin-current-node-syntax-compat,1.0.0-rc.0,mirkml,MIT,6151,"The Babel syntax plugin same as babel-preset-current-node-syntax, but with clean and fixed dependencies for usage in both Babel 7 or Babel 8."
+2026-09-27T16:32:06.458Z,@theaileverage/jevscript,0.1.3,ankeeth,Apache-2.0,102370659,JavaScript host SDK for Jevscript: drives the jevscript runtime over JSON-RPC on stdio
+2026-09-27T16:32:15.601Z,babel-preset-current-node-syntax-compat,1.0.0-rc.0,mirkml,,881,"Optional preset for babel-plugin-node-syntax-compat, useful as drop-in replacement for babel-preset-current-node-syntax"
+2026-09-27T16:32:17.572Z,@codefusion-cc/console,0.1.0,xeonfx,MIT,113682,"Connect a Cloudflare Workers app to CodeFusion Console: admin screens from a JSON manifest, staff, visit statistics, browser failures, diagnostics and its deployed version"
+2026-09-27T16:32:33.865Z,jevtok-ts,0.1.0,arzhaev,MIT,2497146,"Offline Jev token counting and request accounting, ported from jevtok."
+2026-09-27T16:32:41.788Z,easytg,0.1.0,viandwi24,MIT,280737,"Page-based Telegram bot UIs on top of grammY: one page definition, rendered the same whether it is sent, replied or edited."
+2026-09-27T16:33:04.262Z,@mooncellwiki/akds-tokens,0.1.0,starheart,MIT,131251,AKDS · 明日方舟网页设计系统的设计令牌：W3C DTCG 格式的 JSON5 源 + 解析后的 tokens.json（每个令牌带 CSS 写法与亮 / 暗解析值）
+2026-09-27T16:33:23.421Z,@mooncellwiki/akds-vue,0.1.0,starheart,MIT,1077336,AKDS 的 Vue 3 实现：输出与 CSS 实现相同的 .ak-* 结构，自带状态、键盘与可访问性；不带样式（prts.wiki 页面上由皮肤提供）
+2026-09-27T16:34:05.152Z,innledger-sdk,0.1.0,bigben_,Apache-2.0,381218,Model-agnostic SDK for game NPCs that remember — Walrus Memory + Sui wallet identity
+2026-09-27T16:34:25.678Z,@nxgt/playwright,0.1.0,stevegires,MIT,161378,"The Playwright boilerplate every app repeats, written once: a shared config, BasePage and FormPage, login and storage-state fixtures, msw network fixtures, hydration-safe fills, and Storybook stories…"
+2026-09-27T16:34:31.055Z,dsh-custom-js,0.2.0,jeffreyren1,MIT,1215723,"Load, edit, manage and hot-reload trusted JavaScript and TypeScript userscripts in DeepSeek Harness."
+2026-09-27T16:34:35.196Z,@adbls/sdk,0.4.0,adibilis_gmbh,Apache-2.0,85533,"Shop-site SDK for Adibilis CORE: server-side API client, zod form layer, cart/checkout, holidays."
+2026-09-27T16:34:38.435Z,js-modern-datepicker,1.0.0,ehsanch,MIT,97890,Headless Persian/Gregorian calendar with optional Tailwind UI — vanilla JS and Alpine.js
+2026-09-27T16:35:08.153Z,@cascades-work/cascades-design,0.1.1,hexops,,51322812,Canonical Cascades design system for cascades.work and related Noir Stack surfaces.
+2026-09-27T16:35:21.603Z,@gratise/i18n,0.1.0,super4el2005,MIT,74079,"React internationalization with SSR, ICU messages, and translation tooling"
+2026-09-27T16:35:44.873Z,@jony2156/ai-eda-tools,0.1.0,jony2156,Apache-2.0,242589,IC design MCP server with automatic open-source toolchain setup
+2026-09-27T16:36:03.591Z,failsafe-llm-model-resolver,1.0.0,peekermarker,MIT,19755,"Self-healing, failsafe resolver for the current frontier model across xAI, Anthropic, Gemini, and OpenRouter. Live /models fetch + preference rules + env fallbacks so a network blip never kills a bat…"
+2026-09-27T16:36:29.113Z,search-devops-doc,1.3.0,aphasia0,MIT,33581,"Plugin per cercare nella documentazione Backstage (docs/) tramite AI agent. Supporta Antigravity, Claude Code e OpenCode."
+2026-09-27T16:37:17.539Z,mock-oracle,0.1.0,nilayanb,MIT,15550036,In-memory Oracle stand-in for CI that node-oracledb can connect to
+2026-09-27T16:39:21.675Z,innledger-cli,0.1.0,bigben_,Apache-2.0,2862,Scaffold new NPC projects for The Innkeeper's Ledger
+2026-09-27T16:40:29.29Z,cuesheet,1.0.0,gumbokim,MIT,145721,"Mock API scenarios, response delay, a controllable clock and offline mode for browser apps — built on MSW, reproducible from a single link."
+2026-09-27T16:40:30.654Z,@cuesheet/react,1.0.0,gumbokim,MIT,86645,React control panel for cuesheet.
+2026-09-27T16:40:32.092Z,@cuesheet/vite,1.0.0,gumbokim,MIT,46500,"Vite plugin for cuesheet — handler auto-registration with HMR, dev-only injection, and typed scenarios."
+2026-09-27T16:40:41.329Z,@koinzhang/paseo-plugin-commands,0.1.0,koinzhang,MIT,61922,Essential client-side slash commands for controlling the current Paseo agent.
+2026-09-27T16:41:54.189Z,@yfwu2020/dsh-think-flow,0.1.1,yfwu2020,MIT,1246672,DSH 思维链可视化：把模型的实时思考按 turn → step →（思考原文 + 工具调用）聚合成可读的右侧栏视图
+2026-09-27T16:42:22.178Z,plotluck,0.1.0,dav0dea,MIT,49154,Many plots on one WebGL2 canvas: points and image data mapped to pixels at upload speed.
+2026-09-27T16:43:11.796Z,@microtoll/pqc-scan,0.1.0,peterqbristol-ai,Apache-2.0,238937,"An inventory of the cryptography a JavaScript or TypeScript codebase uses, and which of it a large quantum computer would break. An inventory and pointers, not a compliance certificate."
+2026-09-27T16:43:55.635Z,metis-os,0.1.0,wsqstar,MIT,8573,Scaffold USER.md and the AGENTS.md service clause for the USER.md convention.
+2026-09-27T16:44:08.697Z,folio-react,0.2.3,mohammadsaeedi,MIT,180276,"React print / PDF toolkit: browser print, PDF export, preview, RTL, configurable pages, and printable document building blocks."
+2026-09-27T16:44:52.947Z,detangle-windows-arm64,0.1.0,pallavl12,MIT OR Apache-2.0,8289534,The detangle binary for win32 arm64. Install `detangle` instead.
+2026-09-27T16:44:59.312Z,detangle-windows-x64,0.1.0,pallavl12,MIT OR Apache-2.0,9701108,The detangle binary for win32 x64. Install `detangle` instead.
+2026-09-27T16:46:05.052Z,detangle,0.1.0,pallavl12,MIT OR Apache-2.0,28033,Fast dependency analysis and architecture rules for JavaScript and TypeScript (CLI and Node.js API)
+2026-09-27T16:46:15.898Z,x402receipts-mcp,1.0.0,giacomochinellato,MIT,10930,"MCP server for x402receipts: record the x402 purchases an agent makes as reconciled, auditable receipts, and verify any receipt against the public ledger."
+2026-09-27T16:47:03.489Z,@stackline/exit-on-epipe,1.0.0,alex360qc,Apache-2.0,17411,Cleanly exit process on EPIPE
+2026-09-27T16:47:23.297Z,@ringotangs/tsconfig,0.1.2,ringotangs,MIT,6592,The simplest way to set up your tsconfig.json.
+2026-09-27T16:47:39.183Z,x402receipts-sdk,1.0.0,giacomochinellato,MIT,14000,"Record every x402 purchase your agent makes as a reconciled, auditable receipt. One wrapper around the fetch the agent already pays with; no API key — the agent's wallet is the account."
+2026-09-27T16:47:55.859Z,@stackline/load-plugin,1.0.0,alex360qc,MIT,16522,"Load a submodule, plugin, or file"
+2026-09-27T16:48:22.06Z,bedfilcr,1.0.0,sigmamale,MIT,34669,"Interactive CLI to generate Minecraft Bedrock Edition blocks, items, and entities JSON files with vanilla component validation"
+2026-09-27T16:49:02.566Z,@orbitope/parlance-runtime,0.16.0,mwburke,MIT,104918,"The Parlance narrative runtime for JavaScript and TypeScript: play dialogues, conditions, effects, checks, quests and saves exactly as the Parlance editor does."
+2026-09-27T16:52:26.808Z,lens-convex-auth,0.1.0,jeanayala,MIT,260165,"Drop-in sign-in for Lens apps: thirdweb wallet, Lens account sign-in and creation, and Convex auth."
+2026-09-27T16:52:50.546Z,@jvsteiner/agent-rules,0.2.17,jvsteiner,MIT,397729,"Visible behavioral corrections for Claude Code, Codex, and omp, powered by Jev"
+2026-09-27T16:54:03.974Z,virlen-remote,0.1.0,jianwei_chen,MIT,470963,Virlen 手机控制 · 协议栈共享包 —— 帧 / RPC / 错误 / 能力协商 / 设备身份与授权凭证 / 配对载荷 / ICE 解析 / Transport（WebRTC / 内存 / Broadcast）
+2026-09-27T16:54:08.434Z,@stackline/adler-32,1.0.0,alex360qc,Apache-2.0,21392,Pure-JS ADLER-32
+2026-09-27T16:54:16.742Z,@angelitolm/next-toolbar,0.1.0,angelitolm,MIT,70017,"Floating debug toolbar for the Next.js App Router (dev only): status, route, render mode, timings, fetch cache and a request profiler"
+2026-09-27T16:54:18.323Z,@stackline/crc-32,1.0.0,alex360qc,Apache-2.0,32478,Pure-JS CRC-32
+2026-09-27T16:54:22.27Z,@stackline/git-diff-tree,1.0.0,alex360qc,MIT,14876,Shelling out to git-diff-tree(1) in a Node streamy fashion
+2026-09-27T16:54:34.368Z,@stackline/wmf,1.0.0,alex360qc,Apache-2.0,223038,Windows MetaFile (WMF) parser
+2026-09-27T16:54:36.338Z,@stackline/codepage,1.0.0,alex360qc,Apache-2.0,5679901,pure-JS library to handle codepages
+2026-09-27T16:54:41.736Z,@stackline/unified-engine,1.0.0,alex360qc,MIT,110718,Engine to process multiple files with unified
+2026-09-27T16:54:43.345Z,@stackline/cfb,1.0.0,alex360qc,Apache-2.0,380973,SheetJS CFB-compatible compound file parser with bounded FAT traversal
+2026-09-27T16:54:45.793Z,@stackline/uglify-js,1.0.0,alex360qc,BSD-2-Clause,564136,Maintained UglifyJS 2 compatibility fork with legacy CLI and synchronous minify API
+2026-09-27T16:54:47.708Z,@stackline/ssf,1.0.0,alex360qc,Apache-2.0,101209,Format data using ECMA-376 spreadsheet Format Codes
+2026-09-27T16:55:14.999Z,@stackline/blanket,1.0.0,alex360qc,MIT,1537600,Maintained Blanket.js 1.2.3 compatibility fork with directive-safe coverage instrumentation
+2026-09-27T16:56:20.561Z,@muthuishere/jevx,0.10.0,muthuishere,MIT,4796,"Agent skill + CLI for fast typed judgements (yes/no, pick-one, rating) from any Jev-style System One endpoint. Installs the jevx binary from GitHub Releases."
+2026-09-27T16:56:36.254Z,erendr,1.0.0,ikeyman,,7017,Local EJS email template preview server
+2026-09-27T16:56:39.745Z,@bacnh85/omp-router,0.1.2,bacnh85,MIT,70079,"OhMyPi extension connecting to any OpenAI-compatible AI router (9router, OmniRoute, yardmaster, …) via its /v1 API, with upstream-provider usage reporting."
+2026-09-27T16:56:42.638Z,api-contract-guard,1.0.0,sachityadav-2007,MIT,18459,Lightweight Express middleware for validating request bodies against reusable schemas.
+2026-09-27T16:57:02.782Z,duva-mail,0.0.1,duva-mail,MIT,2571,Official Duva client library (transactional email API hosted in Canada). Name reserved: not released yet.
+2026-09-27T16:57:59.574Z,@read-frog/layout-engine,0.0.0,mengxi-ream,SEE LICENSE IN LICENSE,495,Placeholder release. Do not install this version.
+2026-09-27T16:58:08.196Z,angular-v22-sitemap-generator,4.0.0,borisonekenobi,MIT,20154,Generates a sitemap.xml file for Angular projects
+2026-09-27T16:59:22.894Z,astro-altcha,0.1.0,trombach,MIT,20629,Altcha integration for Astro
+2026-09-27T16:59:46.763Z,avacast,0.1.1,aruimiura,MIT,33411,Browser SDK for avacast realtime avatars
+2026-09-27T17:00:13.87Z,@aryasaatvik/scratchpad,0.0.0-tegami-trusted-publish-setup,aryasaatvik,,385,Placeholder published by Tegami for npm trusted publishing setup.
+2026-09-27T17:01:16.671Z,@nikolauska/discourse-axi,0.1.0,nikolauska,MIT,73284,Agent-facing CLI generated from Discourse MCP tools
+2026-09-27T17:01:56.879Z,@gjermundgaraba/clankercreds,0.1.0,bjaanes,MIT,33044,The machine client of clankercreds: fetches a bundle of credentials and places each where its tool expects it.
+2026-09-27T17:02:06.423Z,@stackline/unified-diff,1.0.1,alex360qc,MIT,16438,unified plugin to ignore unrelated messages
+2026-09-27T17:02:15.341Z,@alexgorbatchev/pi-workspace,1.0.0,alexgorbatchev,MIT,87023,"Pi extension for hierarchical out-of-tree workspaces (org-wide and project-specific skills, prompts, extensions, and system instructions)"
+2026-09-27T17:03:43.167Z,@ccdd/ccdd,6.2.0,lhj6102,MIT,6607,"Single-install CCDD CLI, definitions, project runtime and common tools"
+2026-09-27T17:03:56.406Z,@cjser/cto.af__wtf8__v0_0_5,0.0.5-cjser.2,nanahira,MIT,49005,Encode and decode [WTF-8](https://simonsapin.github.io/wtf-8/) with a similar API to [TextEncoder](https://developer.mozilla.org/en-US/docs/Web/API/TextEncoder) and [TextDecoder](https://developer.mo…
+2026-09-27T17:04:02.823Z,@capgo/manifest-packing,0.0.2,torichancapgo,AGPL-3.0-only,46920,Versioned binary packing for Capgo manifests
+2026-09-27T17:04:03.676Z,@cjser/matcher__v6_1_0,6.1.0-cjser.2,nanahira,MIT,23283,Simple wildcard matching
+2026-09-27T17:04:05.717Z,@mcxcc303/dsh-clawd,0.1.1,mcxcc303,MIT,197599,"Clawd the pixel pet, living in the DeepSeek Harness Web GUI: reacts to session and agent state, draggable, themable."
+2026-09-27T17:04:07.659Z,@tokamakdev/plugin-secure-storage,0.1.0-beta.47,manter,,28805,"Secret storage that stays on the device, for Tokamak applications."
+2026-09-27T17:04:41.065Z,@tokamakdev/plugin-local-authentication,0.1.0-beta.47,manter,,12582,Device owner authentication for Tokamak applications.
+2026-09-27T17:05:00.886Z,live-earnings-sdk,0.4.0,indernpm,UNLICENSED,40572,"Live Earnings — live, attributed earnings-call transcripts."
+2026-09-27T17:05:04.764Z,@oktis-works/telos-sdd-graph,3.2.0,judaharagao,MIT,2126338,OpenCode Telos - Spec-Driven Development plugin with Knowledge Graph enforcement
+2026-09-27T17:05:19.818Z,@lazco/huly-mcp,1.0.0,oncloud,AGPL-3.0-or-later,73332,"MCP server for Huly: read and write Huly documents and issues from Claude Desktop, Claude Code, or any MCP client"
+2026-09-27T17:05:45.636Z,@oktis-works/telos-sdd-tui,1.0.0,judaharagao,MIT,119465,"TUI plugin for Telos SDD - provides native TUI commands for /sdd viz, /sdd status, /sdd tasks, and other SDD operations without invoking the LLM"
+2026-09-27T17:05:53.125Z,db-faker,1.0.1,proficio,MIT,20946,A lightweight MongoDB-like local JSON database
+2026-09-27T17:06:22.506Z,kstackz,0.0.0,pkishorez,UNLICENSED,268,Placeholder for kstackz
+2026-09-27T17:06:37.098Z,sealgate-browser,1.0.0,aruimiura,MIT,17385,SealGate のブラウザ SDK。パスキー (WebAuthn) の登録とログインを、開発者のサーバー経由で SealGate API に中継する
+2026-09-27T17:07:32.871Z,@octane-xplat/gif,0.1.0,aleclarson,,7300,Animated image (GIF/animated webp) leaf for Octane xplat — web <img> + @nativescript-community/ui-image
+2026-09-27T17:10:36.098Z,@dimassetoid/spector,1.0.0,dimassetoid,MIT,87414,Standalone Browser Sharing & Visual Element Inspector MCP Server
+2026-09-27T17:10:47.33Z,@n11x/hecate-cli,0.2.13,madbo1,MIT,13698,Hecate — encrypted mesh network client by the N11X Collective
+2026-09-27T17:10:47.477Z,dsh-mnemon-strategy-general,0.5.1,grivn,MIT,15912,"Role-agnostic main Strategy for Mnemon: every available Source, one shared budget, and the model decides how to use each one."
+2026-09-27T17:10:59.358Z,@smtping/mcp,1.0.0,smtping,MIT,10044,"Official SMTPing MCP server: let Claude, Cursor, VS Code and other AI assistants verify email addresses, clean lists and check spamtrap, disposable, spambot and complainer lists."
+2026-09-27T17:11:05.455Z,@sys-one/julia-model-chunk-00,1.0.0,italoalmeida0,Apache-2.0,25166411,Chunk 1/6 of the julia-system-one INT8 model (ef95a47a4421)
+2026-09-27T17:11:15.91Z,@sys-one/julia-model-chunk-01,1.0.0,italoalmeida0,Apache-2.0,25166411,Chunk 2/6 of the julia-system-one INT8 model (ef95a47a4421)
+2026-09-27T17:11:24.668Z,@smartdoca/slate,0.4.9,smartdoca,AGPL-3.0-only,1522427,"A Feishu-inspired, extensible rich text editor built with Slate and TypeScript."
+2026-09-27T17:11:26.409Z,@sys-one/julia-model-chunk-02,1.0.0,italoalmeida0,Apache-2.0,25166411,Chunk 3/6 of the julia-system-one INT8 model (ef95a47a4421)
+2026-09-27T17:11:37.051Z,@sys-one/julia-model-chunk-03,1.0.0,italoalmeida0,Apache-2.0,25166411,Chunk 4/6 of the julia-system-one INT8 model (ef95a47a4421)
+2026-09-27T17:11:42.784Z,@bakeroot/agoramodel-win32-x64,0.1.0,bakeroot,MIT,12646021,AgoraModel 网关（win32 x64）预编译二进制；由主包 @bakeroot/agoramodel 在安装时按平台自动选用，请勿手动引入
+2026-09-27T17:11:47.95Z,@sys-one/julia-model-chunk-04,1.0.0,italoalmeida0,Apache-2.0,25166411,Chunk 5/6 of the julia-system-one INT8 model (ef95a47a4421)
+2026-09-27T17:11:48.999Z,@bakeroot/agoramodel-win32-arm64,0.1.0,bakeroot,MIT,11792011,AgoraModel 网关（win32 arm64）预编译二进制；由主包 @bakeroot/agoramodel 在安装时按平台自动选用，请勿手动引入
+2026-09-27T17:11:50.521Z,@smartdoca/sheet,0.2.0-rc.16,smartdoca,AGPL-3.0-only,3616972,Embeddable React spreadsheet editor powered by Univer Sheets
+2026-09-27T17:11:54.69Z,@smartdoca/markdown,0.4.2,smartdoca,AGPL-3.0-only,314318,基于 React、CodeMirror 6 和 Yjs 的 Markdown 编辑器，面向 Doca 的宿主托管协同场景。
+2026-09-27T17:11:55.334Z,@bakeroot/agoramodel-linux-x64,0.1.0,bakeroot,MIT,12568353,AgoraModel 网关（linux x64）预编译二进制；由主包 @bakeroot/agoramodel 在安装时按平台自动选用，请勿手动引入
+2026-09-27T17:11:57.764Z,@sys-one/julia-model-chunk-05,1.0.0,italoalmeida0,Apache-2.0,21770220,Chunk 6/6 of the julia-system-one INT8 model (ef95a47a4421)
+2026-09-27T17:11:58.497Z,@smartdoca/canvas,0.4.1,smartdoca,AGPL-3.0-only,388074,"A focused, local-first vector canvas editor built with React and LeaferJS"
+2026-09-27T17:12:01.63Z,@bakeroot/agoramodel-linux-arm64,0.1.0,bakeroot,MIT,11994919,AgoraModel 网关（linux arm64）预编译二进制；由主包 @bakeroot/agoramodel 在安装时按平台自动选用，请勿手动引入
+2026-09-27T17:12:04.138Z,@smartdoca/slides,0.3.0-alpha.1,smartdoca,AGPL-3.0-only,1374082,"Embeddable React presentation editor with Leafer, Slate and Yjs"
+2026-09-27T17:12:08.062Z,@sys-one/julia-serve-darwin-arm64,1.0.0,italoalmeida0,Apache-2.0,33421638,Bundled julia-serve native binary for darwin-arm64 (julia-system-one)
+2026-09-27T17:12:08.179Z,@bakeroot/agoramodel-darwin-x64,0.1.0,bakeroot,MIT,12652052,AgoraModel 网关（darwin x64）预编译二进制；由主包 @bakeroot/agoramodel 在安装时按平台自动选用，请勿手动引入
+2026-09-27T17:12:14.647Z,@bakeroot/agoramodel-darwin-arm64,0.1.0,bakeroot,MIT,12052412,AgoraModel 网关（darwin arm64）预编译二进制；由主包 @bakeroot/agoramodel 在安装时按平台自动选用，请勿手动引入
+2026-09-27T17:12:18.749Z,@bakeroot/agoramodel,0.1.0,bakeroot,MIT,11387,本地优先的 AI 模型接入网关 + 配置控制台：所有 Agent 只对接一个固定入口，新增供应商只配置一次（单文件二进制，零运行时依赖）
+2026-09-27T17:12:22.627Z,@sys-one/julia-serve-darwin-x64,1.0.0,italoalmeida0,Apache-2.0,99350348,Bundled julia-serve native binary for darwin-x64 (julia-system-one)
+2026-09-27T17:12:23.516Z,@vorx-com/vite-plugin,1.0.0,peter-vorx,UNLICENSED,10341,Dev-only Vorx preview: Vite SFC tagger + preview-agent head injection.
+2026-09-27T17:12:35.489Z,@sys-one/julia-serve-linux-arm64,1.0.0,italoalmeida0,Apache-2.0,71541171,"Bundled julia-serve native binary for linux-arm64,linux-arm64-musl (julia-system-one)"
+2026-09-27T17:12:52.365Z,@sys-one/julia-serve-linux-x64,1.0.0,italoalmeida0,Apache-2.0,82316813,"Bundled julia-serve native binary for linux-x64,linux-x64-musl (julia-system-one)"
+2026-09-27T17:13:11.319Z,@aptora/mcp,1.0.0,jdubois718,MIT,95574,"MCP server for the Aptora API: create assessments, invite candidates, pull grading results"
+2026-09-27T17:13:30.898Z,@aschleck/s2-geometry-java,0.1.0,aschleck,Apache-2.0,581721,Google's S2 Java geometry library compiled to JavaScript with J2CL
+2026-09-27T17:13:37.811Z,@sys-one/julia-serve-universal,1.0.0,italoalmeida0,Apache-2.0,364178372,Bundled julia-serve native binary for every platform (julia-system-one)
+2026-09-27T17:13:49.638Z,@sys-one/julia-serve-win32-arm64,1.0.0,italoalmeida0,Apache-2.0,38963142,Bundled julia-serve native binary for win32-arm64 (julia-system-one)
+2026-09-27T17:14:01.093Z,@sys-one/julia-serve-win32-x64,1.0.0,italoalmeida0,Apache-2.0,38645492,Bundled julia-serve native binary for win32-x64 (julia-system-one)
+2026-09-27T17:14:05.628Z,@icjia/voicecap,0.2.0,cschweda,MIT,873265,"Drive NVDA through a website's pages, save what it speaks as reviewable transcripts, and report automated coverage and human review."
+2026-09-27T17:14:23.281Z,julia-system-one,1.0.0,italoalmeida0,Apache-2.0,47928482,Self-contained System 1 decision engine: multilingual INT8 transformer served by a zero-dependency native binary (or the bundled pure-Rust WASM engine). TypeSafe Jev wire-compatible (/v1/systemone).…
+2026-09-27T17:15:00.893Z,@hagicode/hagilight,0.1.0,newbe36524,,682,Shared Astro components for HagiCode sites
+2026-09-27T17:15:15.663Z,@hagicode/hagilight-starlight,0.1.0,newbe36524,,1645,Starlight customizations for HagiCode documentation
+2026-09-27T17:16:00.759Z,pondra-linux-x64,0.22.0,alimardon123,MIT OR Apache-2.0,97924327,The pondra binary for linux-x64: install `pondra` instead
+2026-09-27T17:16:34.107Z,pondra-linux-arm64,0.22.0,alimardon123,MIT OR Apache-2.0,82569605,The pondra binary for linux-arm64: install `pondra` instead
+2026-09-27T17:16:48.187Z,@traceora/node,0.4.0,zuhaibrashid,MIT,28284,"Shared Node.js instrumentation (AsyncLocalStorage, Prisma, Mongoose) for Traceora"
+2026-09-27T17:16:53.198Z,@oktis-works/opencode-ssh,2.1.1,judaharagao,MIT,307699,SSH access plugin for OpenCode - secure remote command execution with command blocking
+2026-09-27T17:17:07.255Z,pondra-macos-x64,0.22.0,alimardon123,MIT OR Apache-2.0,88899800,The pondra binary for macos-x64: install `pondra` instead
+2026-09-27T17:17:13.081Z,manifestlock,0.1.0,beingcheema,MIT,382778,Detect manifest confusion in npm packages by diffing registry metadata against actual tarball package.json
+2026-09-27T17:17:24.505Z,sightread,0.10.0,sebinsua,MIT,180583,"Query a TypeScript project's compiler-resolved code graph from the shell: symbols, edges and exact line ranges for coding agents."
+2026-09-27T17:17:24.667Z,omp-pulse,0.1.0,joshuaswarren,MIT,26083,Mid-turn one-line transcript status strip for omp. Refreshes on a timer without joining the live agent turn.
+2026-09-27T17:17:36.099Z,pondra-macos-arm64,0.22.0,alimardon123,MIT OR Apache-2.0,73769382,The pondra binary for macos-arm64: install `pondra` instead
+2026-09-27T17:17:51.89Z,signalwatch,0.1.0,beingcheema,MIT,84080,Heuristic detection library for identifying conversational patterns associated with unhealthy user-AI interaction dynamics
+2026-09-27T17:18:06.211Z,pondra-windows-x64,0.22.0,alimardon123,MIT OR Apache-2.0,85625803,The pondra binary for windows-x64: install `pondra` instead
+2026-09-27T17:18:24.46Z,pondra,0.22.0,alimardon123,MIT OR Apache-2.0,20106,"Pondra, a streamhouse in one binary: the binary for your platform, and a JavaScript client (SQL, exactly-once appends, change feeds)"
+2026-09-27T17:18:24.981Z,@mmwhub/connect,1.0.0,msingatullin,MIT,2400,"Instant setup for MMW (Managed Memory Workspace) across Claude, Cursor, and VS Code"
+2026-09-27T17:19:26.463Z,seekable-audio,0.1.0,harshit_01,MIT,90882,"Make FLAC, WAV and MP3 buffers seekable in a browser — inject a FLAC SEEKTABLE, repair WAV headers a streaming writer left wrong — and fingerprint a FLAC from its first 42 bytes."

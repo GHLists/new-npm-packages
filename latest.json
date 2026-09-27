@@ -1,12 +1,28 @@
 {
   "list": {
-    "count": 213,
-    "from": "2026-09-27T15:18:52.349873Z",
-    "path": "data/new-packages-2026-09-27T16-21-15-402795Z.csv",
-    "to": "2026-09-27T16:21:15.402795Z"
+    "count": 183,
+    "from": "2026-09-27T16:21:15.402795Z",
+    "path": "data/new-packages-2026-09-27T17-19-55-051405Z.csv",
+    "to": "2026-09-27T17:19:55.051405Z"
   },
-  "pending": [],
-  "seq": 132935749,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@eip-1193/over-port",
+      "since": "2026-09-27T16:21:15.402795Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@next-rsc-debug/core",
+      "since": "2026-09-27T16:21:15.402795Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@next-rsc-debug/devtools",
+      "since": "2026-09-27T16:21:15.402795Z"
+    }
+  ],
+  "seq": 132941686,
   "source_truncated": false,
-  "window": "2026-09-27T16:21:15.402795Z"
+  "window": "2026-09-27T17:19:55.051405Z"
 }
