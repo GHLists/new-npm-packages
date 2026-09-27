@@ -1,0 +1,291 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-27T13:15:10.149Z,@xlaunch/session-query-sqlite,0.2.0-beta.1,projectx-social,MIT,73112,Concrete ctx.sessionQuery backend with SQLite FTS5 search
+2026-09-27T13:15:15.797Z,@xlaunch/session-title-llm,0.2.0-beta.1,projectx-social,MIT,26307,Shared LLM generation policy for Xlaunch session-title providers
+2026-09-27T13:15:22.385Z,@xlaunch/session-title-first-prompt-llm,0.2.0-beta.1,projectx-social,MIT,11082,First-message LLM provider plugin for Xlaunch session titles
+2026-09-27T13:15:28.012Z,@xlaunch/settings-file,0.2.0-beta.1,projectx-social,MIT,28751,File-backed settings provider (settings.yaml) for Xlaunch
+2026-09-27T13:15:33.423Z,@xlaunch/shell-env,0.2.0-beta.1,projectx-social,MIT,19811,Tool-independent managed XLAUNCH_* shell environment registry
+2026-09-27T13:15:38.984Z,@xlaunch/skill-badge,0.2.0-beta.1,projectx-social,MIT,19741,Bundled xlaunch badge skill provider for Xlaunch
+2026-09-27T13:15:44.468Z,@xlaunch/skill-filesystem,0.2.0-beta.1,projectx-social,MIT,51316,Local filesystem skill provider for the Xlaunch
+2026-09-27T13:15:50.274Z,@xlaunch/spill,0.2.0-beta.1,projectx-social,MIT,18831,Abstract spill storage seam (ctx.spillStore) for the Xlaunch — save oversized tool text and return a retrieval locator
+2026-09-27T13:15:56.004Z,@xlaunch/spill-local,0.2.0-beta.1,projectx-social,MIT,44607,Local-filesystem implementation of the Xlaunch spill storage seam (private session-scoped files)
+2026-09-27T13:16:01.922Z,@xlaunch/output-retention,0.2.0-beta.1,projectx-social,MIT,31152,"Zero-dependency bounded-retention primitive: ItemRetainer/TextRetainer + neutral notice helpers (what did we keep, what did we omit)"
+2026-09-27T13:16:07.985Z,@xlaunch/spill-policy,0.2.0-beta.1,projectx-social,MIT,39450,Tool-result spill policy for the Xlaunch — replaces oversized plain-text tool results with a retained preview plus a spill-file path (no service API)
+2026-09-27T13:16:14.012Z,@xlaunch/storage-json,0.2.0-beta.1,projectx-social,MIT,45148,JSON file KV storage backend for the Xlaunch storage hub
+2026-09-27T13:16:19.634Z,@xlaunch/subagent-in-process-driver,0.2.0-beta.1,projectx-social,MIT,28232,Shared in-process subagent run driver: drives a child agent on ctx.agents (used by the spawn and fork backends)
+2026-09-27T13:16:25.741Z,@xlaunch/subagent-fork-in-process,0.2.0-beta.1,projectx-social,MIT,15859,In-process fork subagent backend: runs a child agent seeded with a prefix of the parent's log
+2026-09-27T13:16:31.548Z,@xlaunch/subagent-spawn-in-process,0.2.0-beta.1,projectx-social,MIT,13293,In-process spawn subagent backend: runs a fresh child agent on ctx.agents
+2026-09-27T13:16:37.183Z,@xlaunch/subprocess-local,0.2.0-beta.1,projectx-social,MIT,174609,Local-subprocess implementation of the Xlaunch subprocess seam
+2026-09-27T13:16:43.188Z,@xlaunch/tool-bash,0.2.0-beta.1,projectx-social,MIT,40075,Model-facing bash tool with optional generic background-job and sandbox-escalation support
+2026-09-27T13:16:49.333Z,@xlaunch/tool-call-timeout-policy,0.2.0-beta.1,projectx-social,MIT,18108,Tool-call timeout policy: a tools/execute wrapper that arms a per-tool deadline on exec.signal and returns TOOL_TIMEOUT when it wins
+2026-09-27T13:16:55.222Z,@xlaunch/tool-fs,0.2.0-beta.1,projectx-social,MIT,99558,"Model-facing filesystem tools (read, write, edit) over the Xlaunch filesystem seam (ctx.fs)"
+2026-09-27T13:16:58.048Z,@wix/auto_sdk_connectors_connector-dispatch,1.0.0,wix-ci-publisher,MIT,131500,
+2026-09-27T13:17:00.945Z,@xlaunch/tool-fs-search,0.2.0-beta.1,projectx-social,MIT,110824,"Model-facing filesystem discovery tools (glob, grep) backed by the packaged ripgrep binary (@vscode/ripgrep)"
+2026-09-27T13:17:06.333Z,@xlaunch/tool-goal,0.2.0-beta.1,projectx-social,MIT,34278,Model-facing same-session goal tools with execution-time authority checks
+2026-09-27T13:17:12.327Z,@xlaunch/tool-jobs,0.2.0-beta.1,projectx-social,MIT,30243,"Model-facing background job control tools (job_output, job_list, job_kill) over the ctx.jobs registry"
+2026-09-27T13:17:18.197Z,@xlaunch/tool-pwsh,0.2.0-beta.1,projectx-social,MIT,42661,Model-facing pwsh tool over the bash executor seam
+2026-09-27T13:17:23.734Z,@xlaunch/workflow,0.2.0-beta.1,projectx-social,MIT,45418,"Workflow capability seam: ctx.workflowEngine service, run vocabulary, and workflow/* events"
+2026-09-27T13:17:29.084Z,@xlaunch/tool-ralph,0.2.0-beta.1,projectx-social,MIT,32984,Model-facing fresh-agent Ralph loop over the workflow and subagent seams
+2026-09-27T13:17:34.539Z,@xlaunch/tool-skill,0.2.0-beta.1,projectx-social,MIT,33596,Model-facing skill loading tool for the Xlaunch
+2026-09-27T13:17:40.327Z,@xlaunch/tool-subagent,0.2.0-beta.1,projectx-social,MIT,74966,Model-facing subagent delegation tool over the ctx.subagents seam
+2026-09-27T13:17:45.8Z,@xlaunch/tool-subagent-control,0.2.0-beta.1,projectx-social,MIT,31436,"Globally named send_message, interrupt_agent, and list_agents tools over ctx.subagents continuations"
+2026-09-27T13:17:51.439Z,@xlaunch/web,0.2.0-beta.1,projectx-social,MIT,30460,"Abstract web access capability seam (ctx.web) for the Xlaunch — search/fetch provider registry, registration-order-independent selection, request/result vocabulary, and the WebError taxonomy"
+2026-09-27T13:17:56.577Z,@wix/auto_sdk_containers_projects,1.0.0,wix-ci-publisher,MIT,686764,
+2026-09-27T13:17:56.61Z,@wix/auto_sdk_feedback_feedback-sessions,1.0.0,wix-ci-publisher,MIT,491851,
+2026-09-27T13:17:56.806Z,@xlaunch/tool-web,0.2.0-beta.1,projectx-social,MIT,70334,"Model-facing web tools (web_search, web_fetch) over the Xlaunch web capability seam (ctx.web)"
+2026-09-27T13:18:02.274Z,@xlaunch/tool-workflow,0.2.0-beta.1,projectx-social,MIT,58342,Model-facing workflow tool: run a JavaScript orchestration script over ctx.workflowEngine
+2026-09-27T13:18:06.704Z,@wix/auto_sdk_containers_plans,1.0.0,wix-ci-publisher,MIT,812953,
+2026-09-27T13:18:08.161Z,@xlaunch/typert-loader,0.2.0-beta.1,projectx-social,MIT,29021,Loader integration for generated Typert package contributions
+2026-09-27T13:18:12.11Z,@wix/auto_sdk_ratings_ratings,1.0.0,wix-ci-publisher,MIT,462292,
+2026-09-27T13:18:14.131Z,@xlaunch/web-fetch-http,0.2.0-beta.1,projectx-social,MIT,51718,Anonymous public HTTP(S) fetch provider for the Xlaunch web capability seam (ctx.web)
+2026-09-27T13:18:20.004Z,@xlaunch/web-search-exa,0.2.0-beta.1,projectx-social,MIT,22413,Exa-backed search provider for the Xlaunch web capability seam (ctx.web)
+2026-09-27T13:18:24.608Z,@wix/auto_sdk_containers_project-jobs,1.0.0,wix-ci-publisher,MIT,1044718,
+2026-09-27T13:18:25.364Z,@wix/auto_sdk_containers_templates,1.0.0,wix-ci-publisher,MIT,485854,
+2026-09-27T13:18:25.561Z,@xlaunch/workflow-worker-thread,0.2.0-beta.1,projectx-social,MIT,119996,"worker-thread workflow engine: executes model-written orchestration scripts off the host event loop, bridging agent() calls back to ctx.subagents"
+2026-09-27T13:18:31.186Z,@xlaunch/base,0.2.0-beta.1,projectx-social,MIT,31820,"The shared xlaunch core as a profile bundle: the first patch layer of base-backed profiles, inserting core rows over the empty profile root"
+2026-09-27T13:18:37.059Z,@xlaunch/client-ui-agent-preset,0.2.0-beta.1,projectx-social,MIT,106083,"Agent-preset surfaces: the default for later sessions, this session's seat, and the composition editor"
+2026-09-27T13:18:42.594Z,@xlaunch/client-ui-cordis,0.2.0-beta.1,projectx-social,MIT,109644,Cordis dynamic-plugin definition card: the keyed cordis_define tool row with its run/stop switch
+2026-09-27T13:18:48.427Z,@xlaunch/client-ui-workbench,0.2.0-beta.1,projectx-social,MIT,32092,"Workbench: the operator's right-hand panel, a toggled column of tools beside the conversation"
+2026-09-27T13:18:54.65Z,@xlaunch/client-ui-workbench-files,0.2.0-beta.1,projectx-social,MIT,26852,"Files tool: the session's workspace as a tree and one file's text, in the operator's workbench"
+2026-09-27T13:19:00.777Z,@xlaunch/cordis-client-runner,0.2.0-beta.1,projectx-social,MIT,312479,"Browser half of dynamic dual-half plugin packages: event subscription, closure evaluation, guard facade, and loader entries"
+2026-09-27T13:19:07.218Z,@xlaunch/hooks-codex,0.2.0-beta.1,projectx-social,MIT,32095,Bridge plugin: run a Codex hooks.json hook config on the Xlaunch interception seams
+2026-09-27T13:19:13.117Z,@xlaunch/persona,0.2.0-beta.1,projectx-social,MIT,13889,Composition-authored deployment persona section for Xlaunch
+2026-09-27T13:19:18.573Z,@xlaunch/schedule,0.2.0-beta.1,projectx-social,MIT,187783,"Agent-scoped durable after, at, and fixed-rate reminders over the session event log"
+2026-09-27T13:19:24.576Z,@xlaunch/sdk-protocol,0.2.0-beta.1,projectx-social,MIT,28541,"Shared wire protocol for the Xlaunch SDK runtime: the newline-delimited JSON-RPC stdio transport and the named request, result, and notification types spoken between the runtime server and SDK clients"
+2026-09-27T13:19:52.912Z,medusa-plugin-legal-pages,1.0.2,abdullah_omar,MIT,266949,"Compliance and legal pages management (AGB, Terms & Conditions, Privacy Policy, Impressum) for Medusa v2 with an interactive Admin Dashboard UI and public Store APIs."
+2026-09-27T13:20:14.882Z,noiracoder-darwin-x64,0.2.0,noiramaster,MIT,7904817,NoiraCoder thin screen binary (macOS Intel).
+2026-09-27T13:20:33.603Z,noiracoder-darwin-arm64,0.2.0,noiramaster,MIT,7475215,NoiraCoder thin screen binary (macOS Apple Silicon).
+2026-09-27T13:20:53.874Z,noiracoder-linux-x64,0.2.0,noiramaster,MIT,7741909,NoiraCoder thin screen binary (Linux x64).
+2026-09-27T13:22:20.996Z,@nikhil8bph/codewiki,0.6.0,nikhil8bph,MIT,89310,"Standalone agent skills for source-grounded CodeWiki documentation, without a CodeWiki runtime or separate model harness."
+2026-09-27T13:23:45.337Z,aqx-shipping-rates,1.0.0,aqxlogistics,MIT,2588,Programmatic rate calculator for US to Saudi Arabia (KSA) and UAE air cargo linehaul with 0% California sales tax locker integration.
+2026-09-27T13:23:49.304Z,aqx-volumetric-repack,1.0.0,aqxlogistics,MIT,2782,Mathematical box repacking and volumetric dimensional weight optimization engine for US package forwarding to Saudi Arabia & GCC.
+2026-09-27T13:23:52.431Z,aqx-zatca-tax-calc,1.0.0,aqxlogistics,MIT,2137,ZATCA 15% VAT and Saudi Customs duty calculator for cross-border US-to-Saudi Arabia commercial e-commerce shipments.
+2026-09-27T13:24:08.43Z,@gitmyabi/uniswapv2locker,1.0.0,gitmyabi-bot,MIT,138560,"Auto-generated TypeScript type bindings for UniswapV2Locker (build etherscan-uniswapv2locker-663a5c22-1790515342627, commit 93b43eb, branch etherscan)"
+2026-09-27T13:24:40.409Z,@music-mute/worker,0.1.0-rc.1,hatem_ragap,Apache-2.0,1645239,MusicMute machine supervisor and native processing child
+2026-09-27T13:25:53.335Z,@ksmv/ui-react,0.1.0,flavio-kato,Apache-2.0,65507,"Accessible, theme-neutral React UI primitives with a semantic CSS token contract."
+2026-09-27T13:26:35.065Z,@coderook/cbx,0.1.0,batty251,Apache-2.0,1164431,"CBX: version control for projects of any size. Snapshots, content-defined chunking, a local history with merges, and sync with CodeRook."
+2026-09-27T13:26:40.465Z,seamonster,0.1.0,lukewilliams,Apache-2.0,203489,"Vue 3 widgets for wrangling data in flowgraphs: a node-graph editor with its panels, plus menus, controls, documents, 3D scenes, sheets and maps."
+2026-09-27T13:26:41.396Z,@schift-io/schift-ab,0.1.0,ubermensch1218,Apache-2.0,68890,"Server-side assignment, exposure, reward, and identity events for Schift experiments."
+2026-09-27T13:26:48.362Z,@inverz/thai-address,1.0.1,mongkontep,MIT,1063453,"Thai address autocomplete for React — search subdistrict, district, province or postcode in Thai or English, plus cascading selects"
+2026-09-27T13:27:26.063Z,davy-jones-locker,0.1.0,lukewilliams,Apache-2.0,21654,"An app framework for flowgraphs on SEAMONSTER: the browser shell (engine client, DuckDB-wasm, storage). Its Python engine is davy-jones-locker on PyPI."
+2026-09-27T13:27:29.085Z,@xlaunch/sdk-jsonrpc-server,0.2.0-beta.1,projectx-social,MIT,28227,Stdio JSON-RPC server plugin for out-of-process Xlaunch SDK clients
+2026-09-27T13:27:34.352Z,@xlaunch/sdk-app,0.2.0-beta.1,projectx-social,MIT,10643,The xlaunch SDK profile bundle: stdio JSON-RPC serving and process lifecycle over xlaunch-base
+2026-09-27T13:27:39.959Z,@xlaunch/terminal,0.2.0-beta.1,projectx-social,MIT,37800,"Persistent PTY session seam for Xlaunch — owner-scoped ids, backend registry, interactive sends, reads, signals, and awaited cleanup"
+2026-09-27T13:27:45.015Z,@xlaunch/terminal-bash,0.2.0-beta.1,projectx-social,MIT,58697,Persistent shell PTY backend over the subprocess terminal primitive for Xlaunch
+2026-09-27T13:27:50.328Z,@xlaunch/tool-bash-persistent,0.2.0-beta.1,projectx-social,MIT,30417,Model-facing owner-scoped persistent Bash tool backed by the Harness PTY service
+2026-09-27T13:27:55.819Z,@xlaunch/tool-pwsh-persistent,0.2.0-beta.1,projectx-social,MIT,33645,Model-facing owner-scoped persistent PowerShell tool backed by the Harness PTY service
+2026-09-27T13:28:01.155Z,@xlaunch/tool-str-replace-editor,0.2.0-beta.1,projectx-social,MIT,28336,"Model-facing view, create, literal replace, and line insert tool over the Harness filesystem service"
+2026-09-27T13:28:06.408Z,@xlaunch/sdk-minimal,0.2.0-beta.1,projectx-social,MIT,14293,"The standalone minimal SDK profile bundle: JSON-RPC, one gateway adapter, persistent shell, editor, and JSONL sessions"
+2026-09-27T13:28:09.665Z,@nanoforge-dev/network,0.0.1,exelo,,1274,
+2026-09-27T13:28:11.924Z,@xlaunch/session-reference,0.2.0-beta.1,projectx-social,MIT,144277,Cross-session snapshot references and durable untrusted model context (ctx.sessionReferenceResolver)
+2026-09-27T13:28:18.511Z,@xlaunch/time-context,0.2.0-beta.1,projectx-social,MIT,37808,Opt-in durable per-step context with the current time and elapsed time
+2026-09-27T13:28:23.996Z,@xlaunch/tmux-context,0.2.0-beta.1,projectx-social,MIT,80398,Opt-in durable per-step context with this agent's tmux pane and window location
+2026-09-27T13:28:29.007Z,@nanoforge-dev/asset,0.0.1,exelo,,1272,
+2026-09-27T13:28:29.312Z,@xlaunch/tool-ask-user,0.2.0-beta.1,projectx-social,MIT,13612,Model-facing ask_user_question tool over the ctx.userQuestions seam
+2026-09-27T13:28:35.076Z,@xlaunch/cordis-host-runner,0.2.0-beta.1,projectx-social,MIT,469453,"Dynamic package definition registry, host-half sandbox lifecycle, and invoke handler table for model-mounted dual-half packages"
+2026-09-27T13:28:40.755Z,@xlaunch/tool-cordis,0.2.0-beta.1,projectx-social,MIT,527082,"Self-referential cordis toolset: inspect the live runtime, mount and dispose model-written plugins"
+2026-09-27T13:28:46.211Z,@xlaunch/client-hmr,0.2.0-beta.1,projectx-social,MIT,28859,Dev-only hot-reload driver for script-loaded client entries: SSE rebuilt frames → invalidate/prefetch → fiber swap through the vendored Loader entry
+2026-09-27T13:28:47.667Z,@nanoforge-dev/env,0.0.1,exelo,,1270,
+2026-09-27T13:28:51.725Z,@xlaunch/client-locale,0.2.0-beta.1,projectx-social,MIT,86976,"Locale plugin: Host-backed preference, extensible language catalog, browser fallback, and typed built-in dictionaries"
+2026-09-27T13:28:57.137Z,@xlaunch/client-modules,0.2.0-beta.1,projectx-social,MIT,97646,"Client module system, dual-face: node half composes the __XLAUNCH_BOOT__ entry graph (incremental xlaunch.client scan, bundle route, index tap, webPlugins service); browser half is the lazy-CJS modul…"
+2026-09-27T13:29:02.658Z,@xlaunch/client-ui-approval,0.2.0-beta.1,projectx-social,MIT,21998,Approval composer takeover over the scoped Remote Event waterfall
+2026-09-27T13:29:06.548Z,openctrlc,1.0.1,ponponon,MIT,7851,
+2026-09-27T13:29:07.89Z,@xlaunch/client-ui-attachment,0.2.0-beta.1,projectx-social,MIT,66083,"Dynamic attachment presentation plugin for conversation input, message-image, and trajectory image slots"
+2026-09-27T13:29:13.136Z,@xlaunch/client-ui-brand-official,0.2.0-beta.1,projectx-social,MIT,39762,Official Xlaunch brand occupants for the Web client's sidebar slots
+2026-09-27T13:29:18.683Z,@xlaunch/client-ui-chat,0.2.0-beta.1,projectx-social,MIT,490624,"Chat Conversation target, node definitions, renderers, and details surface"
+2026-09-27T13:29:23.994Z,@xlaunch/client-ui-commands,0.2.0-beta.1,projectx-social,MIT,79131,"Client command surface: global directory cache, '/' source, three command UI kinds, popupSelect registry"
+2026-09-27T13:29:29.614Z,@xlaunch/client-ui-conversation,0.2.0-beta.1,projectx-social,MIT,839308,"Target-neutral Conversation assembly, shell, composer, queue, and view navigation"
+2026-09-27T13:29:34.967Z,@xlaunch/client-ui-deliverables,0.2.0-beta.1,projectx-social,MIT,37608,Produced-files turn tail and clickable final-response file references for Web
+2026-09-27T13:29:36.465Z,@nanoforge-dev/editor-lib,0.0.1,exelo,,1277,
+2026-09-27T13:29:40.421Z,@xlaunch/client-ui-directory-picker-browse,0.2.0-beta.1,projectx-social,MIT,62369,In-app directory browsing surface: the workspace directory-flow owner rendering the host's listing and creation primitives
+2026-09-27T13:29:45.457Z,@xlaunch/client-ui-directory-picker-native,0.2.0-beta.1,projectx-social,MIT,13476,Native directory-picker surface: the renderless workspace directory-flow occupant driving the host's OS chooser
+2026-09-27T13:29:48.333Z,@image-ultra/core,0.1.1,ultranmus,MIT,1429044,"Framework-agnostic, typed image editing engine for image-ultra."
+2026-09-27T13:29:50.923Z,@image-ultra/react,0.1.1,ultranmus,MIT,2351282,"Premium, fully typed image editor component for React and Next.js."
+2026-09-27T13:29:50.977Z,@xlaunch/client-ui-goal,0.2.0-beta.1,projectx-social,MIT,36522,"Session goal surface: GoalBar docked above the composer, read from the goal session projection"
+2026-09-27T13:29:56.152Z,@xlaunch/client-ui-input-trigger,0.2.0-beta.1,projectx-social,MIT,94070,"Input trigger pipeline: '/' and '@' detection, candidate menu, pick routing to registered sources"
+2026-09-27T13:30:01.397Z,@xlaunch/client-ui-jobs,0.2.0-beta.1,projectx-social,MIT,24955,Session-header background-job list: live registry state mirrored from session/jobs frames
+2026-09-27T13:30:06.802Z,@xlaunch/client-ui-layout,0.2.0-beta.1,projectx-social,MIT,53045,"Shell plugin: three-column AppFrame with drag handles, ctx.layout viewing-state service (navigation + panels)"
+2026-09-27T13:30:09.929Z,@open-slot-ui/dom,0.15.0,schmooky,MIT,614942,"DOM view + controller binding for open-ui — mount the HUD as real HTML, dressed by your own stylesheet, driven by the headless core."
+2026-09-27T13:30:12.267Z,@xlaunch/client-ui-message-feedback,0.2.0-beta.1,projectx-social,MIT,49841,"Per-message feedback controls contributed to the assistant-message action strip, backed by the messageFeedback Host Remote"
+2026-09-27T13:30:17.714Z,@xlaunch/client-ui-model-selection,0.2.0-beta.1,projectx-social,MIT,62116,"Model selection over the shared model catalog, Session projection, and session.selectModel"
+2026-09-27T13:30:23.252Z,@xlaunch/client-ui-open-in-app,0.2.0-beta.1,projectx-social,MIT,41533,"Web Session-header ""Open In..."" split button opening the session workspace directory in a locally installed application"
+2026-09-27T13:30:28.407Z,@xlaunch/client-ui-permission-presets,0.2.0-beta.1,projectx-social,MIT,40285,Permission surfaces: a new-session default in General settings and a current-session /permission popup over the permissions projection
+2026-09-27T13:30:33.669Z,@xlaunch/client-ui-plan,0.2.0-beta.1,projectx-social,MIT,17834,Plan-mode composer control: the conversation.input.plan seat over the plan projection and the /plan command channel
+2026-09-27T13:30:38.8Z,@xlaunch/client-ui-reference,0.2.0-beta.1,projectx-social,MIT,22504,Unified Web @file and @session reference source
+2026-09-27T13:30:44.156Z,@xlaunch/client-ui-renderer,0.2.0-beta.1,projectx-social,MIT,84885,"Browser UI renderer: React slot bindings, ctx.uiRenderer, and the assembled application root"
+2026-09-27T13:30:49.794Z,@xlaunch/client-ui-schedule,0.2.0-beta.1,projectx-social,MIT,27297,Read-only active Schedule catalog in the Web Session header
+2026-09-27T13:30:52.654Z,@nemesis-oss/pine-ts,0.1.0,nemesis-llm,MIT,468161,Pine Script v6-inspired trading runtime and API for TypeScript trading systems
+2026-09-27T13:30:55.545Z,@xlaunch/client-ui-session,0.2.0-beta.1,projectx-social,MIT,24882,Session Controller adapter for React and session-scoped slots
+2026-09-27T13:31:01.112Z,@xlaunch/client-ui-settings,0.2.0-beta.1,projectx-social,MIT,92139,Settings domain base plugin: the settings-namespace scope service and the canonical settings slot-type contract
+2026-09-27T13:31:06.552Z,@xlaunch/client-ui-settings-general,0.2.0-beta.1,projectx-social,MIT,52327,"Settings ownerless-copy and product onboarding plugin: the General section, shell trigger/header chrome content, settings dictionaries, and the versioned welcome notice"
+2026-09-27T13:31:12.092Z,@xlaunch/client-ui-settings-models,0.2.0-beta.1,projectx-social,MIT,192554,Models settings and shared product-onboarding dialogs over existing settings and credential joins
+2026-09-27T13:31:14.968Z,@nqatech/vibeaudit,1.0.1,nqatech,MIT,188590,VibeAudit Tool: Next-Gen OWASP Top 10 Security & Web Vibe/UX Quality Auditor (MCP Server & CLI)
+2026-09-27T13:31:17.352Z,@xlaunch/client-ui-settings-plugin-inventory,0.2.0-beta.1,projectx-social,MIT,49626,Read-only Cordis Loader inventory tab in Web Plugins settings
+2026-09-27T13:31:22.84Z,@xlaunch/client-ui-settings-plugins,0.2.0-beta.1,projectx-social,MIT,143546,Plugins settings section with feature-owned tabs and configurable host-plane plugin cards
+2026-09-27T13:31:28.187Z,@xlaunch/client-ui-sidebar,0.2.0-beta.1,projectx-social,MIT,36065,"Sidebar plugin: session multi-level tree, search, grouping, state dots"
+2026-09-27T13:31:33.484Z,@xlaunch/client-ui-skill,0.2.0-beta.1,projectx-social,MIT,31546,Web skill references and the dedicated skill tool row
+2026-09-27T13:31:39.076Z,@swydler/marker-widget-native,0.1.0,bethuelvba,,142451,SDK d'intégration du widget de bug report Swydler pour React Native (iOS/Android).
+2026-09-27T13:31:39.241Z,@xlaunch/client-ui-start,0.2.0-beta.1,projectx-social,MIT,261067,"Starting points on the blank Hero: one card per capability, each opening a Session with the request ready to edit"
+2026-09-27T13:31:44.517Z,tsukai,0.1.0,yohnark,,265661,AgentRun lifecycle and observation SDK with Pi RPC integration
+2026-09-27T13:31:44.689Z,@xlaunch/client-ui-subagent,0.2.0-beta.1,projectx-social,MIT,60594,"Subagent conversation catalog, continuation routing UI, and '@' reference source"
+2026-09-27T13:31:49.985Z,@xlaunch/client-ui-theme,0.2.0-beta.1,projectx-social,MIT,126949,Theme plugin: Host bootstrap for the pre-plugin palette; DOM-free ThemeRuntime for light/dark/system state; --xl-* token styles and Appearance settings row
+2026-09-27T13:31:55.571Z,@xlaunch/client-ui-tool,0.2.0-beta.1,projectx-social,MIT,161958,Client Tool call-tree renderer and keyed per-tool presentation slot
+2026-09-27T13:32:01.04Z,@xlaunch/client-ui-trajectory,0.2.0-beta.1,projectx-social,MIT,444833,Trajectory event ledger with an interactive timing overview: pure-consumer plugin registering into the conversation ViewMap (no service)
+2026-09-27T13:32:06.794Z,@xlaunch/client-ui-user-questions,0.2.0-beta.1,projectx-social,MIT,66059,Web ask_user_question composer takeover and plan-review presentation UI
+2026-09-27T13:32:12.134Z,@xlaunch/client-ui-workflow-run,0.2.0-beta.1,projectx-social,MIT,43294,Durable workflow-run Conversation Node and nested member disclosure for xlaunch web
+2026-09-27T13:32:17.423Z,@xlaunch/client-ui-workspace,0.2.0-beta.1,projectx-social,MIT,182528,Workspace picker plugin: one WorkspacePicker registered into the sidebar and empty-state workspace slots
+2026-09-27T13:32:22.592Z,@xlaunch/code-runtime-worker-thread,0.2.0-beta.1,projectx-social,MIT,103624,Worker-thread implementation of the Xlaunch code-execution seam
+2026-09-27T13:32:27.781Z,aqx-customs-duty-calc,1.0.0,aqxlogistics,MIT,2186,ZATCA and GCC Common Customs Tariff duty calculation engine for US imports by AQX Logistics.
+2026-09-27T13:32:33.45Z,@payagent/wdk-protocol,0.1.1,lcxailabspayagent,MIT,36344,WDK protocol module for PayAgent. Stateless. Takes a WalletAccount. Never holds keys.
+2026-09-27T13:32:33.911Z,aqx-saudi-hscode-lookup,1.0.0,aqxlogistics,MIT,1838,Harmonized System (HS) code classification and ZATCA/SFDA compliance mapping by AQX Logistics.
+2026-09-27T13:32:39.551Z,aqx-address-validator-ksa,1.0.0,aqxlogistics,MIT,1784,Saudi National Address (SPL) validation and formatting engine for cross-border US deliveries by AQX Logistics.
+2026-09-27T13:32:42.784Z,@xlaunch/file-reference-local,0.2.0-beta.1,projectx-social,MIT,52065,Local-filesystem ctx.fileReferences provider with bounded fuzzy indexes
+2026-09-27T13:32:46.296Z,aqx-dimensional-weight-calculator,1.0.0,aqxlogistics,MIT,1746,Dimensional volumetric weight calculation and repacking estimator by AQX Logistics.
+2026-09-27T13:32:47.186Z,circumscribe,0.1.1,manchick,MIT,116908,A ligthweight macro system.
+2026-09-27T13:32:48.035Z,@xlaunch/host-directory-picker-browse,0.2.0-beta.1,projectx-social,MIT,22929,In-app browsing backend of the directory-picker seam (listing/creation primitives over the host filesystem)
+2026-09-27T13:32:53.419Z,@xlaunch/host-directory-picker-native,0.2.0-beta.1,projectx-social,MIT,41512,Native-OS-chooser backend of the directory-picker seam for the Xlaunch web GUI host
+2026-09-27T13:32:53.481Z,@t3b/hub-guard,0.1.0,doofliet,UNLICENSED,39336,"The3Beez Hub guard: a module opens only by a Hub-signed ticket and refuses everything else. Entry route, refusal page, module session, idle rule, 15-minute re-check with the Hub, Cloudflare Access pr…"
+2026-09-27T13:32:53.8Z,aqx-salla-shipping-sdk,1.0.0,aqxlogistics,MIT,1688,Automated US dropshipping and forwarding integration SDK for Saudi Salla merchants by AQX Logistics.
+2026-09-27T13:32:58.789Z,@xlaunch/host-webserver,0.2.0-beta.1,projectx-social,MIT,32133,"Web route-registration plugin: HTTP and upgrade routes, index transform taps, and static dist fallback; knows no harness concepts"
+2026-09-27T13:32:59.555Z,aqx-zid-crossborder-sync,1.0.0,aqxlogistics,MIT,1589,Cross-border US fulfillment and locker management SDK for Zid merchants by AQX Logistics.
+2026-09-27T13:33:01.75Z,@ndcli/lumina-darwin-arm64,0.2.2,kimhoab,MIT,64008389,
+2026-09-27T13:33:03.852Z,@xlaunch/host-directory-picker-auto,0.2.0-beta.1,projectx-social,MIT,22382,Adaptive chooser of the directory-picker seam: resolves the host situation at boot and mounts the native or browse backend for the Xlaunch web GUI host
+2026-09-27T13:33:06.666Z,@ndcli/lumina-darwin-x64,0.2.2,kimhoab,MIT,69769399,
+2026-09-27T13:33:08.785Z,@xlaunch/host-frontend-static,0.2.0-beta.1,projectx-social,MIT,15746,"SPA dist server for the Web shell: owns the webserver fallback seat, serving explicit index entries and static assets with traversal rejection and 404 misses"
+2026-09-27T13:33:11.979Z,@ndcli/lumina-linux-arm64,0.2.2,kimhoab,MIT,63303107,
+2026-09-27T13:33:13.948Z,@xlaunch/host-open-in-app,0.2.0-beta.1,projectx-social,MIT,146019,"Host half of open-in-app: resolved application catalog, icons, and the launch endpoint as three webServer routes"
+2026-09-27T13:33:16.747Z,@ndcli/lumina-linux-x64,0.2.2,kimhoab,MIT,69483967,
+2026-09-27T13:33:19.569Z,@xlaunch/host-plugin-inventory,0.2.0-beta.1,projectx-social,MIT,30248,Read-only Remote projection of current Cordis Loader plugin state
+2026-09-27T13:33:21.731Z,@ndcli/lumina-win32-arm64,0.2.2,kimhoab,MIT,66953534,
+2026-09-27T13:33:24.752Z,@xlaunch/message-feedback,0.2.0-beta.1,projectx-social,MIT,73153,Canonical Session-log ratings and notes for finalized assistant messages
+2026-09-27T13:33:27.126Z,@ndcli/lumina-win32-x64,0.2.2,kimhoab,MIT,73979194,
+2026-09-27T13:33:29.217Z,@ndcli/lumina,0.2.2,kimhoab,MIT,6042,Lumina local AI gateway and management app
+2026-09-27T13:33:30.95Z,@xlaunch/session-log-export,0.2.0-beta.1,projectx-social,MIT,61588,Web Session-log export command and shared download dialog
+2026-09-27T13:33:36.511Z,@xlaunch/session-stats,0.2.0-beta.1,projectx-social,MIT,35656,Whole-log conversation counts and wall times projection (sessionStats) for the Xlaunch
+2026-09-27T13:33:41.74Z,@xlaunch/session-turn-outline,0.2.0-beta.1,projectx-social,MIT,29793,Whole-log turn outline projection (turnOutline) for the Xlaunch
+2026-09-27T13:33:48.194Z,@xlaunch/web-frontend,0.2.0-beta.1,projectx-social,MIT,4610285,Web application entry: vite build over the @xlaunch/client-web shell library; dist/ served by apps/cli's xlaunch web
+2026-09-27T13:33:53.492Z,@xlaunch/web-app,0.2.0-beta.1,projectx-social,MIT,55220,"The xlaunch browser-surface bundle: the web patch layer over xlaunch-base plus the runtime glue plugin (frontend dist serving, web-surface prompt, bash runtime variables, URL line)"
+2026-09-27T13:33:54.091Z,trionex-tx,0.4.0,haseebyousaf,MIT,129167,"TRIONEX TX - a simple, beginner-friendly, cross-platform programming language. Write once. Build everywhere."
+2026-09-27T13:33:58.836Z,@xlaunch/webhook,0.2.0-beta.1,projectx-social,MIT,46350,Fire-and-forget webhook rule runtime that creates Workspace-backed Xlaunch Sessions
+2026-09-27T13:34:04.027Z,@xlaunch/webhook-github,0.2.0-beta.1,projectx-social,MIT,27360,Signed GitHub HTTP webhook adapter for the Xlaunch webhook runtime
+2026-09-27T13:34:09.408Z,@xlaunch/cli,0.2.0-beta.1,projectx-social,MIT,39773,"xlaunch CLI: profile boot, plugin management, and the browser UI alias"
+2026-09-27T13:34:14.467Z,@xlaunch/client-store,0.2.0-beta.1,projectx-social,MIT,20249,React-free observable and snapshot-store contracts with the shared Zustand/Immer engine
+2026-09-27T13:34:17.246Z,@vinicunca/request,0.1.0,praburangki,MIT,38207,"Generic typed request clients: oRPC and ofetch-based REST, each with TanStack Query helpers."
+2026-09-27T13:34:19.716Z,@xlaunch/client-ui-slots,0.2.0-beta.1,projectx-social,MIT,75530,"Slot registry pure core: SlotMap declaration merging, single register composition API, four-share props types, store-seat types, renderer install seam"
+2026-09-27T13:34:24.904Z,@xlaunch/client-test-runtime,0.2.0-beta.1,projectx-social,MIT,99018,jsdom slot test runtime: real Cordis Context + SlotRegistry + UI renderer with test-owned session/workspace doubles for feature specs
+2026-09-27T13:34:30.722Z,@xlaunch/client-ui-primitives,0.2.0-beta.1,projectx-social,MIT,524552,"Pure React atoms for the xlaunch web UI: controls, icons, markdown, and JSON inspectors (zero cordis)"
+2026-09-27T13:34:36.163Z,@xlaunch/client-web,0.2.0-beta.1,projectx-social,MIT,34978,"Web boot kernel: static module table, Cordis loader, framework-free boot page, and UI-renderer handoff"
+2026-09-27T13:34:41.394Z,@xlaunch/llm-mock-server,0.2.0-beta.1,projectx-social,MIT,39181,Scriptable OpenAI-compatible HTTP/SSE fault server for LLM recovery tests
+2026-09-27T13:34:46.678Z,@xlaunch/llm-replay,0.2.0-beta.1,projectx-social,MIT,67520,Replay LLM plugin: short-circuits llm/stream with model chunks reconstructed from a recorded session JSONL (keyless snapshot tests)
+2026-09-27T13:34:52.038Z,@xlaunch/loader-smoke,0.2.0-beta.1,projectx-social,MIT,27532,Shared subprocess and direct-agent harness for keyless real-Loader example smoke tests
+2026-09-27T13:34:57.308Z,@xlaunch/lsp,0.2.0-beta.1,projectx-social,MIT,26161,"Abstract LSP capability seam (ctx.lsp) for the Xlaunch — language-server provider registry keyed by branded id and extension mapping, order-independent per-query selection, normalized definition/refe…"
+2026-09-27T13:35:02.749Z,@xlaunch/lsp-stdio,0.2.0-beta.1,projectx-social,MIT,87534,"Generic stdio language-server provider for the Xlaunch LSP capability seam (ctx.lsp) — spawns configured servers, translates JSON-RPC, and serves transient-open goToDefinition/findReferences/goToImpl…"
+2026-09-27T13:35:08.099Z,@xlaunch/sdk-client,0.2.0-beta.1,projectx-social,MIT,66944,TypeScript client SDK for driving a Xlaunch runtime subprocess over stdio JSON-RPC: the Xlaunch high-level turns API and the lower-level HarnessClient
+2026-09-27T13:35:13.48Z,@xlaunch/session-snapshot,0.2.0-beta.1,projectx-social,MIT,215980,"Session-log snapshot core with an ACP protocol adapter, expected-output normalization, and fixture invariants"
+2026-09-27T13:35:18.704Z,@xlaunch/session-telemetry,0.2.0-beta.1,projectx-social,MIT,34965,"SessionTelemetryBackend seam for the Xlaunch: session-event capture, projection, redaction, and handoff to a reporting backend"
+2026-09-27T13:35:24.053Z,@xlaunch/session-title-all-prompts-llm,0.2.0-beta.1,projectx-social,MIT,10654,All-user-messages LLM provider plugin for Xlaunch session titles
+2026-09-27T13:35:25.598Z,@mikkelscheike/email-provider-links-react-native,1.0.0,mikkelscheike,MIT,54379,React Native component and hook for known-domain email provider login links
+2026-09-27T13:35:28.085Z,@nanoforge-dev/ecs,0.0.2,exelo,,1270,
+2026-09-27T13:35:29.284Z,@xlaunch/storage-sqlite,0.2.0-beta.1,projectx-social,MIT,28985,SQLite storage backend (kv facet) for the Xlaunch storage hub
+2026-09-27T13:35:34.525Z,@xlaunch/subagent-acp,0.2.0-beta.1,projectx-social,MIT,45223,Out-of-process ACP subagent backend: drives a child agent in a spawned subprocess over the Agent Client Protocol
+2026-09-27T13:35:39.965Z,@xlaunch/subagent-xlaunch-sdk,0.2.0-beta.1,projectx-social,MIT,40182,Out-of-process SDK subagent backend: drives a child Xlaunch runtime subprocess over stdio JSON-RPC through the TypeScript SDK client
+2026-09-27T13:35:45.126Z,@xlaunch/tool-lsp,0.2.0-beta.1,projectx-social,MIT,35254,"Model-facing lsp tool over the Xlaunch LSP capability seam (ctx.lsp) — one read-only tool with goToDefinition/findReferences/goToImplementation/hover operations, one-based UTF-16 cursor coordinates,…"
+2026-09-27T13:35:50.626Z,@xlaunch/tool-session-query,0.2.0-beta.1,projectx-social,MIT,70342,"Workspace-authorized model-facing session history search, trace, and event read tools"
+2026-09-27T13:35:56.132Z,@xlaunch/tool-terminal,0.2.0-beta.1,projectx-social,MIT,35629,Six model-facing persistent PTY tools with owner isolation and generic background-job integration
+2026-09-27T13:36:01.948Z,@xlaunch/typert-generator,0.2.0-beta.1,projectx-social,MIT,495248,TypeScript project analyzer and model-driven Typert artifact generator
+2026-09-27T13:36:07.484Z,@xlaunch/web-search-perplexity,0.2.0-beta.1,projectx-social,MIT,23975,Perplexity-backed search provider for the Xlaunch web capability seam (ctx.web)
+2026-09-27T13:36:28.433Z,@lapius/why-linux-x64,0.1.2,lapius,MIT,2826723,@lapius/why の linux-x64 用バイナリ
+2026-09-27T13:36:28.584Z,codework-astgrep,0.2.0,prem3105,MIT,45515,CodeWork AST search and rewrite plugin powered by ast-grep
+2026-09-27T13:36:32.436Z,@lapius/why-linux-arm64,0.1.1,lapius,MIT,2753001,@lapius/why の linux-arm64 用バイナリ
+2026-09-27T13:36:35.103Z,toggl-report-mcp,0.1.1,salmoukas,MIT,71363,Stdio MCP server for the Toggl Reports API v3 with local file exports
+2026-09-27T13:36:36.175Z,@lapius/why-darwin-x64,0.1.2,lapius,MIT,2804084,@lapius/why の darwin-x64 用バイナリ
+2026-09-27T13:36:39.866Z,@lapius/why-darwin-arm64,0.1.2,lapius,MIT,2685708,@lapius/why の darwin-arm64 用バイナリ
+2026-09-27T13:36:40.846Z,pi-cli-config-deploy,1.0.0,maimaimai,MIT,459208,一键部署脱敏后的 pi CLI 配置（settings/models/mcp/prompts/extensions/skills）
+2026-09-27T13:36:42.842Z,@lapius/why,0.1.2,lapius,MIT,8976,失敗したコマンドの原因と対処法を日本語で表示する CLI（オフライン・AI なし）
+2026-09-27T13:36:56.764Z,@ksmv/ui-checks,0.1.0,flavio-kato,Apache-2.0,120532,Static and computed quality checks for semantic UI token contracts.
+2026-09-27T13:38:09.309Z,ripple-reactive,0.1.0,aditya.singh,MIT,199226,"A standalone, framework-agnostic reactive utility library. One change ripples through all dependents."
+2026-09-27T13:38:36.798Z,solo-cheaters-welcome,1.0.0,aadil-p-1,ISC,33284,cheaters welcome
+2026-09-27T13:38:55.384Z,omo-jev-plugin,0.0.2,brianhong-dev,MIT,30803,Configurable Jev decision layer for OmO and senpi
+2026-09-27T13:39:09.472Z,@melroy89/fastify-mariadb,1.0.1,melroy,MIT,15248,Fastify MariaDB connection plugin
+2026-09-27T13:39:55.717Z,@gitmyabi/atest2,1.0.0,gitmyabi-bot,MIT,417673,"Auto-generated TypeScript type bindings for ATEST2 (build etherscan-atest2-b266afb4-1790516288185, commit d885099, branch etherscan)"
+2026-09-27T13:40:03.335Z,@polyphron/viper-client,0.1.0,cdavisnpm,MIT,40853,"TypeScript client for the Viper app API: records, auth and realtime."
+2026-09-27T13:40:07.146Z,@polyphron/viper-react,0.1.0,cdavisnpm,MIT,13565,React provider and hooks for the Viper app API.
+2026-09-27T13:40:21.354Z,@ideasui/text,0.0.1-canary.1790516412744,ideas2logic,MIT,9452,Text component for IdeasUI
+2026-09-27T13:40:21.39Z,@ideasui/switch,0.0.1-canary.1790516412744,ideas2logic,MIT,34962,Switch component for IdeasUI
+2026-09-27T13:40:21.435Z,@ideasui/checkbox,0.0.1-canary.1790516412744,ideas2logic,MIT,35302,Checkbox component for IdeasUI
+2026-09-27T13:40:21.446Z,@ideasui/input-field,0.0.1-canary.1790516412744,ideas2logic,MIT,75429,InputField component for IdeasUI
+2026-09-27T13:40:21.542Z,@ideasui/radio,0.0.1-canary.1790516412744,ideas2logic,MIT,33858,Radio component for IdeasUI
+2026-09-27T13:40:36.924Z,@tauron/shell-events,1.0.0,coeasy,MIT,57819,tauron 壳层事件契约：oc-* 事件名常量与 detail 类型（零依赖，UI 组件与宿主控制器共用的唯一事实源）
+2026-09-27T13:40:39.087Z,@tauron/types,1.0.0,coeasy,MIT,73003,tauron 共享类型包（设计文档 §2/§3/§4/§12）：信封、错误码、插件状态、事件、配置、ACL
+2026-09-27T13:40:41.201Z,@tauron/host,1.0.0,coeasy,MIT,462030,tauron 能力编排层：invoke/event/channel 封装、错误规范化、能力探测、Backend provider 抽象
+2026-09-27T13:40:43.263Z,@tauron/market,1.0.0,coeasy,MIT,20703,tauron 插件市场（设计文档 §8）：Ed25519 签名、index.json 生成、插件注册表
+2026-09-27T13:40:45.39Z,@tauron/app-cli,1.0.0,coeasy,MIT,486091,tauron 应用 CLI 工具：create-tauron-app 脚手架、plugin new/dev/pack/sign/publish、brand build
+2026-09-27T13:40:47.666Z,create-tauron-app,1.0.0,coeasy,MIT,2725,Create a Tauri 2 client project powered by Tauron
+2026-09-27T13:40:49.777Z,@tauron/core,1.0.0,coeasy,MIT,74861,tauron 框架无关核心层（设计文档 §1.1/§2/§3/§4/§9）：信封调用、双层 ACL、注册表、事件总线、配置管理、运行时探测
+2026-09-27T13:40:51.937Z,@tauron/adapter-react,1.0.0,coeasy,MIT,30807,tauron React 适配器（设计文档 §4.2）：useInvoke/useEvent/useCapabilities/usePluginId 钩子、ReactiveStore
+2026-09-27T13:40:54.017Z,@tauron/adapter-svelte,1.0.0,coeasy,MIT,19477,tauron Svelte 适配器（设计文档 §4.2）：invoke/event/capabilities stores
+2026-09-27T13:40:56.03Z,@tauron/adapter-vue,1.0.0,coeasy,MIT,20419,tauron Vue 适配器（设计文档 §4.2）：useInvoke/useEvent/useCapabilities composables、ReactiveStore
+2026-09-27T13:40:58.065Z,@tauron/app-contract-kit,1.0.0,coeasy,MIT,60221,tauron 应用契约测试套件：core API 行为 / 事件协议 / 错误码用例集 + mock Backend
+2026-09-27T13:41:00.142Z,@tauron/plugin-context-contract,1.0.0,coeasy,MIT,59752,tauron 插件上下文共享契约：PluginContext 及其窄接口（仅类型，零运行时依赖；两代插件 SDK 共用的唯一事实源）
+2026-09-27T13:41:02.331Z,@tauron/app-plugin-sdk,1.0.0,coeasy,MIT,68061,tauron 应用插件开发 SDK：类型安全、生命周期管理、Contributes 注册
+2026-09-27T13:41:04.421Z,@tauron/cli,1.0.0,coeasy,MIT,103327,tauron CLI 工具（设计文档 §7）：create-tauron-app 脚手架、plugin new/dev/test/pack/sign/publish、doctor 诊断
+2026-09-27T13:41:06.451Z,@tauron/dual-world,1.0.0,coeasy,MIT,39948,tauron B+ 双世界原型（设计文档 §4.3 B+）：QuickJS-WASM 沙箱、JS↔WASM 桥接、沙箱配置
+2026-09-27T13:41:08.583Z,@tauron/framework,1.0.0,coeasy,MIT,79284,tauron 框架薄封装：细粒度 signals 响应式内核 + 框架无关 bindings（useInvoke/useEvent/useCapabilities）
+2026-09-27T13:41:10.55Z,@tauron/plugin-sdk,1.0.0,coeasy,MIT,88211,tauron 插件 SDK（设计文档 §2.4/§4.2B）：PluginBridge postMessage 沙箱通信、插件宿主侧代理
+2026-09-27T13:41:12.416Z,@tauron/shell-matrix,1.0.0,coeasy,MIT,18436,tauron Shell 矩阵（设计文档 §7.2）：4 种 shell 形态的插件加载与管理
+2026-09-27T13:41:14.657Z,@tauron/ui-primitives,1.0.0,coeasy,MIT,381687,tauron UI 原语：零宿主依赖的 Web Components + 设计令牌 + 动效基础设施（任意宿主可直接取用）
+2026-09-27T13:41:16.724Z,@tauron/ui,1.0.0,coeasy,MIT,74667,tauron UI 便利包：转出零宿主依赖的原语（@tauron/ui-primitives）+ 需要宿主命令面的 PluginManagerStore
+2026-09-27T13:42:17.834Z,@bramburn/ai-compact-hot-swap,0.1.0,bramburn,MIT,15647,pi coding-agent extension: background compaction with hot-swap of the live context window
+2026-09-27T13:42:18.419Z,@innohub/react-auth,0.0.5,pmcexpert,MIT,1015020,This is a test app for the frontend framework [@innohub/react-utils](https://www.npmjs.com/package/@innohub/react-utils). It demonstrates the features made availble by the framework.
+2026-09-27T13:43:00.579Z,@duyi-frontend-engineering/utils,0.1.0,lfeish,MIT,1631,Shared utility functions for frontend-engineering-system.
+2026-09-27T13:43:15.089Z,schema-eval,0.1.1,nicknr100,MIT,41191,"Score how well an LLM's structured-output extraction matches expectations, and catch regressions when the prompt, schema, or model changes."
+2026-09-27T13:43:34.509Z,ex-factory,6.11.3,xfactory-librarians,"""See License under the application's menu item Help/View License Agreement for ex.factory""",23175292,"Librarian for the Yamaha EX5, EX5R and EX7 series of synthesizers"
+2026-09-27T13:44:01.838Z,@gitmyabi/beans,1.0.0,gitmyabi-bot,MIT,183387,"Auto-generated TypeScript type bindings for BEANS (build etherscan-beans-48355ce6-1790516607935, commit 7121a00, branch etherscan)"
+2026-09-27T13:44:40.178Z,story-theme-mcp,1.0.0,storytheme,SEE LICENSE IN LICENSE,514801,Serveur MCP du Story Thème : votre assistant IA connaît le thème Shopify Story par cœur et construit des boutiques propres et professionnelles.
+2026-09-27T13:45:17.549Z,@mehrad77/hippocampus,0.1.0,mehrad77,AGPL-3.0-only,151867,"Shared, curated memory for a party of AI agents — an Obsidian vault run like a TTRPG campaign wiki."
+2026-09-27T13:47:53.716Z,eazyreport,1.0.1,thameempk,MIT,5298729,Banded document and invoice report printing and rendering engine. Print templates (.rtpl) with JSON data in any web application.
+2026-09-27T13:48:26.849Z,@limbusfoundation/winput,1.0.0,limbusfoundation,MIT,581258,Native Windows input capture and injection for Node.js.
+2026-09-27T13:48:36.199Z,@drxiaozhi/jspulse,0.1.1,drxiaozhi,LGPL-2.1-or-later,150007,"A Bun/JavaScript implementation of PulseAudio’s native protocol for Linux and Android, with ALSA audio, native OpenSL ES, and direct ioctl mixer control"
+2026-09-27T13:48:41.787Z,@droneey/devkit-ts-betterleaks,1.19.0,kurovskyiii,MIT,3687,"Shared betterleaks configuration: the default secret rules, for a repository's .betterleaks.toml to extend."
+2026-09-27T13:48:48.111Z,neofermi,0.2.0,alexalemi,MIT,5431976,"A mobile-friendly, web-based DSL for order of magnitude calculations with Monte Carlo uncertainty propagation"
+2026-09-27T13:49:53.55Z,@noiramaster/noiracoder-win32-x64,0.2.0,noiramaster,MIT,7962928,NoiraCoder thin screen binary (Windows x64).
+2026-09-27T13:50:14.808Z,pi-plugins-deploy,1.0.0,maimaimai,MIT,81416,一键部署 pi CLI 插件包：settings.packages 全部插件 + extensions 扩展（零密钥）
+2026-09-27T13:51:12.039Z,whichlib,0.1.0,josifbt,MIT,69374,"The dependency picker for coding agents: an MCP server that recommends, compares and scores GitHub repositories, plus a daily dashboard of the most-starred new repos."
+2026-09-27T13:52:09.601Z,@gitmyabi/buyethercatsfoundersseries,1.0.0,gitmyabi-bot,MIT,111921,"Auto-generated TypeScript type bindings for BuyEtherCatsFoundersSeries (build etherscan-buyethercatsfoundersseries-ff355941-1790517028087, commit 2906e21, branch etherscan)"
+2026-09-27T13:53:44.11Z,@ymxjs/ymx-huawei-vision,1.0.1,yimen,MIT,23898,TypeScript definitions for ymx plugin ymx-huawei-vision
+2026-09-27T13:53:58.019Z,brixlab,0.2.0,idocoh44,,25176,"Define Brix contracts and author, configure, test, publish and execute tenant implementations."
+2026-09-27T13:54:09.087Z,@ymxjs/ymx-speech,1.0.0,yimen,MIT,11524,TypeScript definitions for ymx plugin ymx-speech
+2026-09-27T13:54:19.13Z,@ymxjs/ymx-yunxin-im,1.0.1,yimen,MIT,114463,TypeScript definitions for ymx plugin ymx-yunxin-im
+2026-09-27T13:55:18.439Z,onehumanai,0.6.0,onehumanai,(Apache-2.0 AND BUSL-1.1),1167047,"When a customer sends an AI agent (Claude in Chrome, ChatGPT agent, Codex, Comet, Playwright…) into your product, decide what it may do on their behalf — allow · mask · step-up · block, per endpoint,…"
+2026-09-27T13:56:26.654Z,prompt-git,0.2.0,gollum111,MIT,7257,把提示词当代码管理：git 存储 + 结构化 diff + 每次变更自动跑评测门禁
+2026-09-27T13:56:38.284Z,@jbrowse/bandage-core,0.1.3,cmdcolin,GPL-3.0-or-later,849726,"Pangenome graph layout and drawing with no host: GFA in, the Bandage force-directed engine and reference-anchored layouts, a Canvas2D renderer, hit testing and labels out"
+2026-09-27T13:58:29.37Z,json-to-dom-datalist,1.9.1,keshavsoft,MIT,391141,"Standalone, config-driven HTML5 <datalist> autocomplete renderer built on top of json-to-dom"
+2026-09-27T13:58:45.077Z,gwd-cli,2.0.0,galvinalfito,MIT,68325,"GWD CLI — Flutter Preview workflow via ADB, with USB and Wireless Debugging support"
+2026-09-27T14:01:12.28Z,dsh-herta,0.1.4,yunmengyuan,MIT,47977111,"Installs Herta (黑塔) as a DeepSeek Harness agent — persona, memory, narrative layer, voice and UI. · DSH 插件：把 Herta（黑塔）作为一个 agent 装进 DeepSeek Harness —— 人设、记忆、语音与界面。"
+2026-09-27T14:02:30.967Z,@devopsplaybook.io/common-web,0.1.0,devopsplaybook-io,ISC,23948,Shared Nuxt layer for DevOpsPlaybook web applications
+2026-09-27T14:06:16.19Z,@amiribnumo/git-human,1.0.0,amiribnumo,MIT,112239,"Intent-based, human-friendly Git CLI"
+2026-09-27T14:08:06.02Z,nx-as-public-probe,1.0.0,flowot,MIT,93,probe public
+2026-09-27T14:08:18.36Z,spoticlean,1.0.0,silasjak,MIT,77388,"Interactive CLI to clean up your Spotify playlists and Liked Songs — hear the chorus instantly, then keep or remove."
+2026-09-27T14:08:21.089Z,nx-as-replicate,0.1.2,flowot,MIT,87,replicate
+2026-09-27T14:08:35.594Z,@fallinghell/devlens,1.0.2,fallinghell,MIT,159127,"Universal project summarizer, test runner & root-cause analyzer — supports every language, framework, game engine, CI/CD, database, API, DSA, AI, and app builds."
+2026-09-27T14:08:54.702Z,finderscope,0.1.0,meganemura,MIT,394456,"Turn V8 CPU and heap profiles into short, ranked reports with runnable next commands for coding agents."
+2026-09-27T14:10:06.954Z,@eyoben/auth-react,0.1.0,eyoben,MIT,2195,React bindings for the @eyoben/auth authentication core.
+2026-09-27T14:10:23.289Z,dsh-task-tree,0.1.0,yiyiooo,MIT,119120,三级任务树：节点完成时由 AI 提交结果，插件随即把该节点的执行过程从上下文里折叠掉，只留下结果。
+2026-09-27T14:10:34.006Z,@eyoben/common,0.1.0,eyoben,MIT,2213,Small dependency-free shared TypeScript types for Eyoben packages.
+2026-09-27T14:11:51.053Z,@video-lab/locales,4.0.0,jianian,MIT,10832,Video Lab Player 官方语言资源
+2026-09-27T14:11:57.315Z,@video-lab/react-config,4.0.0,jianian,MIT,14114,Video Lab Player 的 React 全局配置与语言上下文
+2026-09-27T14:12:03.604Z,@video-lab/vue-config,4.0.0,jianian,MIT,16059,Video Lab Player 的 Vue 全局配置与语言上下文
+2026-09-27T14:12:08.478Z,taesty-mcp,2.0.0,chrisrocks,UNLICENSED,24223,MCP connector for the Taesty Mac app. Run with npx -y taesty-mcp.
+2026-09-27T14:12:09.997Z,@shivcdhry/rig,0.1.0,shivcdhry,MIT,441788,"rig — headless coding-agent CLI with multi-account auth pool, isolated subagents, model-role agents, and web search"
+2026-09-27T14:12:10.43Z,@fickou/adonis5-notification,0.10.0,afidoss,MIT,384572,"Help to easily send notifications between multiple services like SMS,Mail and Push"
+2026-09-27T14:12:40.537Z,@freshgemui/monogem,1.0.0,dgaguinaldo,MIT,350969,"Monogem by FreshGemUI — a documentation-first React 19 + Tailwind CSS v4 design system: accessible components, design tokens, and a Tailwind v4 style bridge."
+2026-09-27T14:12:45.091Z,paseo-keep-awake,0.1.1,hichamboushaba,MIT,334822,Keeps the daemon host awake while Paseo agents and their subagents are working.
+2026-09-27T14:13:06.22Z,@gitmyabi/troll,1.0.0,gitmyabi-bot,MIT,141063,"Auto-generated TypeScript type bindings for TROLL (build etherscan-troll-f8ebf484-1790518283705, commit 954eccb, branch etherscan)"
+2026-09-27T14:13:38.424Z,@zucchinifi/zcash-scanner,0.1.0,elviric,MIT OR Apache-2.0,21732,Server-side Node SDK for the Zucchini incoming-only Zcash receipt scanner
+2026-09-27T14:14:19.864Z,dsh-plugin-lavs-host,0.1.0,jeffkit,MIT,20738,"LAVS host adapter for DeepSeek Harness: discovers lavs.json view bundles, serves them same-origin for the iframe bridge, exposes list/call on the /lavs Connection channel plus a loopback CLI endpoint"
+2026-09-27T14:14:22.504Z,dsh-plugin-lavs-cli,0.1.0,jeffkit,MIT,10586,lavs CLI: agent-facing thin client over the running lavs-host adapter (list/schema/call) — context-cheap alternative to registered MCP tools
+2026-09-27T14:14:25.081Z,dsh-plugin-ui-lavs,0.1.0,jeffkit,MIT,39924,"LAVS Views tab for DeepSeek Harness: a native right-Sidebar tab type whose body mounts LAVS view bundles in iframes, bridged to the lavs-host adapter over the Connection RPC"
+2026-09-27T14:14:30.983Z,app-version-gate,0.1.0,salmank81099,MIT,36195,Server-side minimum app version enforcement for React Native and Expo apps
+2026-09-27T14:14:34.495Z,dsh-bundle-lavs,0.1.0,jeffkit,MIT,917,dsh bundle: mounts the LAVS host adapter plus the Views and Tasks tabs into any web profile
+2026-09-27T14:15:54.294Z,@skylandnpm/octopus-proxy,0.1.0,mdcoder716,,653525,"Octopus host proxy: OpenCode, Codex, ZCode and Pi adapters with service installer CLI"
+2026-09-27T14:15:54.67Z,@nxgt/janus-mail,0.1.0,stevegires,MIT,201345,"The e-mails of @nxgt/janus's flows — e-mail verification, password reset, sign-in code, password changed, e-mail changed — rendered in English and French from a prebuilt Maizzle build, with your bran…"
+2026-09-27T14:17:16.513Z,continuous-capsule,0.3.0,m7yang,MIT,53950,Dependency-free geometry for SwiftUI-style continuous capsules and rounded rectangles.

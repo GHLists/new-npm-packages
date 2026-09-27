@@ -1,273 +1,58 @@
 {
   "list": {
-    "count": 228,
-    "from": "2026-09-27T12:19:06.622705Z",
-    "path": "data/new-packages-2026-09-27T13-19-24-829389Z.csv",
-    "to": "2026-09-27T13:19:24.829389Z"
+    "count": 290,
+    "from": "2026-09-27T13:19:24.829389Z",
+    "path": "data/new-packages-2026-09-27T14-18-56-681342Z.csv",
+    "to": "2026-09-27T14:18:56.681342Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@wix/auto_sdk_connectors_connector-dispatch",
-      "since": "2026-09-27T12:19:06.622705Z"
+      "package": "@agentfaro/sdk",
+      "since": "2026-09-27T13:19:24.829389Z"
     },
     {
       "attempts": 1,
-      "package": "@wix/auto_sdk_containers_plans",
-      "since": "2026-09-27T12:19:06.622705Z"
+      "package": "@guuslab/create-stride-plugin",
+      "since": "2026-09-27T13:19:24.829389Z"
     },
     {
       "attempts": 1,
-      "package": "@wix/auto_sdk_containers_project-jobs",
-      "since": "2026-09-27T12:19:06.622705Z"
+      "package": "@guuslab/create-stride-theme",
+      "since": "2026-09-27T13:19:24.829389Z"
     },
     {
       "attempts": 1,
-      "package": "@wix/auto_sdk_containers_projects",
-      "since": "2026-09-27T12:19:06.622705Z"
+      "package": "@guuslab/stride",
+      "since": "2026-09-27T13:19:24.829389Z"
     },
     {
       "attempts": 1,
-      "package": "@wix/auto_sdk_containers_templates",
-      "since": "2026-09-27T12:19:06.622705Z"
+      "package": "@guuslab/stride-darwin-arm64",
+      "since": "2026-09-27T13:19:24.829389Z"
     },
     {
       "attempts": 1,
-      "package": "@wix/auto_sdk_feedback_feedback-sessions",
-      "since": "2026-09-27T12:19:06.622705Z"
+      "package": "@guuslab/stride-linux-arm64",
+      "since": "2026-09-27T13:19:24.829389Z"
     },
     {
       "attempts": 1,
-      "package": "@wix/auto_sdk_ratings_ratings",
-      "since": "2026-09-27T12:19:06.622705Z"
+      "package": "@guuslab/stride-linux-x64",
+      "since": "2026-09-27T13:19:24.829389Z"
     },
     {
       "attempts": 1,
-      "package": "@xlaunch/base",
-      "since": "2026-09-27T12:19:06.622705Z"
+      "package": "@guuslab/stride-pdk",
+      "since": "2026-09-27T13:19:24.829389Z"
     },
     {
       "attempts": 1,
-      "package": "@xlaunch/client-ui-agent-preset",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/client-ui-cordis",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/client-ui-workbench",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/client-ui-workbench-files",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/cordis-client-runner",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/hooks-codex",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/output-retention",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/persona",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/schedule",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/sdk-protocol",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/session-query-sqlite",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/session-title-first-prompt-llm",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/session-title-llm",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/settings-file",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/shell-env",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/skill-badge",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/skill-filesystem",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/spill",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/spill-local",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/spill-policy",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/storage-json",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/subagent-fork-in-process",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/subagent-in-process-driver",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/subagent-spawn-in-process",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/subprocess-local",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-bash",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-call-timeout-policy",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-fs",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-fs-search",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-goal",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-jobs",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-pwsh",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-ralph",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-skill",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-subagent",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-subagent-control",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-web",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/tool-workflow",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/typert-loader",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/web",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/web-fetch-http",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/web-search-exa",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/workflow",
-      "since": "2026-09-27T12:19:06.622705Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@xlaunch/workflow-worker-thread",
-      "since": "2026-09-27T12:19:06.622705Z"
+      "package": "@mokuyoaxis/agent-guard",
+      "since": "2026-09-27T13:19:24.829389Z"
     }
   ],
-  "seq": 132918184,
+  "seq": 132925302,
   "source_truncated": false,
-  "window": "2026-09-27T13:19:24.829389Z"
+  "window": "2026-09-27T14:18:56.681342Z"
 }
