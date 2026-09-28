@@ -1,0 +1,152 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-28T22:14:52.831Z,@haruhimemoe/bbcode,0.1.0,dvhsh,MIT,162444,"Parse, render, lint and count osu! BBCode the way osu! does. Safe HTML, template fields, flags, imagemaps and gradients. No dependencies."
+2026-09-28T22:17:40.521Z,@audio/synth-dx7,0.1.0,dy,Apache-2.0,51048,"Yamaha DX7 FM engine: a bit-exact JavaScript port of the Music Synthesizer for Android core (6 operators, 32 algorithms, DX7 envelopes, LFO, pitch EG), with DX7 sysex loading"
+2026-09-28T22:17:42.853Z,@audio/synth-tonewheel,0.1.0,dy,MIT,25888,"Tonewheel organ (Hammond B-3 upper manual): 91 geared tonewheels, nine drawbars, foldback, single-trigger percussion, key click, vibrato/chorus scanner"
+2026-09-28T22:17:46.275Z,@audio/synth-tonewheel-fit,0.1.0,dy,MIT,25272,"Tonewheel registration from audio: sustained organ note or chord → nine drawbars 0..8, percussion guess, score (NNLS against the tonewheel model)"
+2026-09-28T22:17:47.245Z,@scene-grid/cli,0.1.0,rapt0p7,MIT,184630,
+2026-09-28T22:17:50.801Z,@scene-grid/engine,0.1.0,rapt0p7,MIT,1337737,
+2026-09-28T22:17:52.529Z,@scene-grid/inspector,0.1.0,rapt0p7,MIT,678457,
+2026-09-28T22:17:56.129Z,@scene-grid/shared,0.1.0,rapt0p7,MIT,248228,
+2026-09-28T22:18:19.517Z,@audio/mir-nnls-chroma,1.0.0,dy,GPL-2.0-or-later,19925,"NNLS Chroma (Mauch & Dixon 2010): treble and bass chromagram with tuning, as the reference Vamp plugin"
+2026-09-28T22:18:22.032Z,@audio/mir-chordino,1.0.0,dy,GPL-2.0-or-later,10776,"Chordino (Mauch 2010): chord sequence from NNLS chroma, as the reference Vamp plugin"
+2026-09-28T22:19:21.095Z,@plugsky/mcp,1.1.0,plugsky,MIT,17334,"Plugsky MCP server — 36 models, RAG knowledge search, platform tools and document ingestion for Claude, Cursor, VS Code, Windsurf, Zed."
+2026-09-28T22:20:23.567Z,@audio/neural-runtime,0.1.0,dy,MIT,20813,Model inference adapter — ONNX Runtime (Node/wasm/webgpu) behind one worklet-ready interface
+2026-09-28T22:20:26.297Z,@audio/neural-separate,0.1.0,dy,MIT,85955,"Source separation (stems): Open-Unmix-class spectrogram masking + multichannel Wiener refinement, Hybrid Transformer Demucs, model-agnostic ONNX"
+2026-09-28T22:20:29.101Z,@audio/neural-transcribe,0.1.0,dy,Apache-2.0,44139,"Polyphonic note transcription with pitch bends: Spotify's Basic Pitch (ICASSP 2022) through ONNX Runtime, in Node and the browser"
+2026-09-28T22:20:35.649Z,@audio/neural-denoise,0.1.0,dy,BSD-3-Clause AND MIT,3646959,"Neural speech enhancement: RNNoise (Valin 2018) in pure JS, bit-exact to its C, weights bundled; DeepFilterNet3 through ONNX Runtime, matching the Python original"
+2026-09-28T22:20:38.194Z,@audio/neural-pitch,0.1.0,dy,MIT,58884,"Monophonic pitch posterior and voicing from a small transposition-equivariant network with MIT weights, in plain JavaScript; a stage 1 for @audio/pitch-pyin's HMM and note model"
+2026-09-28T22:20:58.918Z,warudo-mcp-server,0.3.0,hasukatsu,MIT,148657,"Generic Model Context Protocol server for Warudo scene, entity, graph and runtime operations."
+2026-09-28T22:21:07.135Z,@jdylanmc/topo-archify,0.1.0,jdylanmc,MIT,7333790,"Pristine pinned Archify runtime for Topocode, packaged without install hooks."
+2026-09-28T22:22:25.612Z,@enovlab/seatmap-whitelabel,1.0.0,yoop-whitelabel,MIT,61016,"Serves the Yoop Seatmap API from a seating chart, so Yoop's transaction app can frame and drive it."
+2026-09-28T22:23:22.682Z,apipilot-cli,1.2.1,h530code,MIT,17308,Library for API Testing
+2026-09-28T22:23:28.764Z,@thejob/jobs-mcp,1.0.1,nikx,UNLICENSED,15695,Read-only MCP server for the thejob-jobs-service.
+2026-09-28T22:24:12.92Z,@afriverify/js,0.1.1,cn920,MIT,52441,Official JavaScript / TypeScript SDK for the AfriVerify identity platform
+2026-09-28T22:24:20.156Z,@soventry/cli,0.1.0,nxa.me,MIT,4508,The Soventry command-line interface.
+2026-09-28T22:24:21.345Z,@omgbase/oqx-syntax,0.1.0,usergenic,MIT,46783,"Syntax highlighting assets for OQX (omgbase Query eXpressions): TextMate grammar, Monaco Monarch grammar, language configuration and metadata, with Shiki, Monaco and VS Code adapters — all generated…"
+2026-09-28T22:24:24.839Z,@sequenceholdings/pipeline-spec,0.1.0,tailaiwang,UNLICENSED,579573,"Data Pipelines spec SDK — typed stage specs (ingestion/transformation/serving), directory loader, target resolution with deterministic hashing, and offline graph validation"
+2026-09-28T22:24:42.765Z,@pipeworx/mcp-hsa-singapore,0.1.0,mojibake-ai,MIT,112404,Singapore HSA registered therapeutic products — the Health Sciences
+2026-09-28T22:24:55.693Z,soventry,0.1.0,nxa.me,MIT,2264,The official Soventry CLI.
+2026-09-28T22:26:38.222Z,@fengqiao666/sitelens-win32-x64-engine,0.0.1-rc,fengqiao666,GPL-3.0,31402926,SiteLens 引擎（windows/amd64）—— @fengqiao666/sitelens-cli 平台二进制
+2026-09-28T22:26:48.864Z,@fengqiao666/sitelens-linux-x64-engine,0.0.1-rc,fengqiao666,GPL-3.0,30953544,SiteLens 引擎（linux/amd64）—— @fengqiao666/sitelens-cli 平台二进制
+2026-09-28T22:26:58.032Z,@fengqiao666/sitelens-linux-arm64-engine,0.0.1-rc,fengqiao666,GPL-3.0,30044244,SiteLens 引擎（linux/arm64）—— @fengqiao666/sitelens-cli 平台二进制
+2026-09-28T22:26:59.643Z,@lemoe-technology/eslint-config,1.0.0,lemoe2021,MIT,31336,Lemoe Technology's ESLint config
+2026-09-28T22:27:06.442Z,@fengqiao666/sitelens-darwin-x64-engine,0.0.1-rc,fengqiao666,GPL-3.0,31417382,SiteLens 引擎（darwin/amd64）—— @fengqiao666/sitelens-cli 平台二进制
+2026-09-28T22:27:16.493Z,@leracherry/tracelens-protocol,0.2.1,leracherry,MIT,10668,TraceLens protocol: frontend performance debugging
+2026-09-28T22:27:17.07Z,@fengqiao666/sitelens-darwin-arm64-engine,0.0.1-rc,fengqiao666,GPL-3.0,30601044,SiteLens 引擎（darwin/arm64）—— @fengqiao666/sitelens-cli 平台二进制
+2026-09-28T22:27:18.44Z,@leracherry/tracelens-browser,0.2.1,leracherry,MIT,55634,TraceLens browser: frontend performance debugging
+2026-09-28T22:27:20.25Z,@leracherry/tracelens-core,0.2.1,leracherry,MIT,22198,TraceLens core: frontend performance debugging
+2026-09-28T22:27:22.266Z,@leracherry/tracelens-storage-memory,0.2.1,leracherry,MIT,4846,TraceLens storage-memory: frontend performance debugging
+2026-09-28T22:27:24.387Z,@leracherry/tracelens-storage-file,0.2.1,leracherry,MIT,6671,TraceLens storage-file: frontend performance debugging
+2026-09-28T22:27:25.368Z,@bettercms-ai/kit,0.1.0,whizzbbig,MIT,2231571,"BetterCMS component kit for React: primitives, components, theme builder and workshop stories."
+2026-09-28T22:27:26.296Z,@leracherry/tracelens-react,0.2.1,leracherry,MIT,8084,React render attribution for TraceLens
+2026-09-28T22:27:28.148Z,@leracherry/tracelens-vite,0.2.1,leracherry,MIT,8314,TraceLens vite: frontend performance debugging
+2026-09-28T22:27:30.296Z,@leracherry/tracelens-cli,0.2.1,leracherry,MIT,306249,Local CLI for inspecting TraceLens interaction telemetry
+2026-09-28T22:27:32.316Z,@leracherry/tracelens-otel,0.2.1,leracherry,MIT,20524,TraceLens event mapping and OTLP HTTP JSON export
+2026-09-28T22:28:01.109Z,@fengqiao666/sitelens-cli,0.0.1-rc,fengqiao666,GPL-3.0,42193,SiteLens 站点透视 TUI/CLI —— 终端里的网站安全扫描台（引擎随包自动分发）
+2026-09-28T22:28:32.799Z,@telixon/angular,20.0.0,martsincode,Apache-2.0,164199,"Phone fields for Angular, built on @telixon/web-sdk."
+2026-09-28T22:29:03.021Z,@albertomarturelo/cta-core,0.1.0-rc.1,albertomarturelo,MIT,154816,"Shared core for reading your own Chilean bank accounts: domain, tasks, seams and bank drivers. Side effects are injected via seams; Node adapters live behind the ./node subpath (ADR-003)."
+2026-09-28T22:29:26.028Z,@albertomarturelo/cta-cli,0.1.0-rc.1,albertomarturelo,MIT,25414,CLI to read your own Chilean bank accounts (balances and movements) from the terminal. Each command is a thin call into @albertomarturelo/cta-core tasks (ADR-003).
+2026-09-28T22:29:29.845Z,@albertomarturelo/cta-mcp,0.1.0-rc.1,albertomarturelo,MIT,18763,MCP (stdio) server to read your own Chilean bank accounts from an AI agent. Each tool is a thin call into @albertomarturelo/cta-core tasks (ADR-003).
+2026-09-28T22:30:51.131Z,@joelverhagen-gh/required-validation-retest-20260928222958,1.0.0,joelverhagen-gh,MIT,421,Production first-publish validation and latest-tag verification
+2026-09-28T22:31:07.865Z,@electron-forge/multi-logger,0.0.0,erickzhao,MIT,246,
+2026-09-28T22:32:01.013Z,@ngdream/krea,0.1.1,ngdream,MIT,1467953,"2D and 3D map editor for video games — single-file .krea projects, editable models, sprites, terrain, game-ready export, and a stateless HTTP API + skill for AI agents."
+2026-09-28T22:32:32.172Z,@impulse-ui-native/slider,3.0.0,apolyanov,MIT,120114,Accessible slider and range slider controls for ImpulseUI Native applications.
+2026-09-28T22:32:45.42Z,neohelix,0.0.1,boba_fetch,MIT,310,Placeholder for the neohelix project. Not yet functional.
+2026-09-28T22:33:24.356Z,@bemony/card-embed,0.1.0,agenus.io,,115232,Secure Bemony card-field embed for browser checkouts.
+2026-09-28T22:33:28.635Z,@bemony/card-embed-react,0.1.0,agenus.io,,8150,Official React adapter for the secure Bemony Card Embed SDK.
+2026-09-28T22:33:29.708Z,@uppercut-labs/cappy,0.1.0,uppercut-labs,MIT,306035,"Reproducible game capture with scenarios, replayable sessions, OBS recording, and FFmpeg derivatives."
+2026-09-28T22:34:04.34Z,@lea.rosema/jen,1.0.1,lea.rosema,ISC,77312,"**the code jen(erator)** – a tiny, zero-dependency scaffolding CLI."
+2026-09-28T22:34:15.157Z,mcp-auditor-mcp,1.0.1,mrfentmen,MIT,109148,Audit MCP servers and the APIs behind them - no API key.
+2026-09-28T22:35:19.769Z,@diavasi/client,0.1.0,thanosv,Apache-2.0,28517,Thin client for the Diavasi data plane
+2026-09-28T22:36:29.597Z,@jdylanmc/topo-code,0.1.0,jdylanmc,MIT,863911,Local-first repository architecture storybook: topo CLI and portable agent skills.
+2026-09-28T22:36:34.517Z,@tylertech/forge-rich-text-editor-angular,0.1.0,tylerdevops,Apache-2.0,239889,The official Tyler Forge™ rich text editor adapter library for Angular.
+2026-09-28T22:36:34.671Z,@tylertech/forge-rich-text-editor-react,0.1.0,tylerdevops,Apache-2.0,78213,The official Tyler Forge™ rich text editor adapter library for React.
+2026-09-28T22:36:34.719Z,@tylertech/forge-rich-text-editor,0.1.0,tylerdevops,Apache-2.0,367672,Tyler Forge™ rich text editor Web Components
+2026-09-28T22:37:30.918Z,@flowlinejs/core,0.1.0,jakezegil,MIT,513606,"Framework-agnostic core for defining Flowline workflow nodes and plugins, and for building, validating and rendering workflow documents."
+2026-09-28T22:37:43.413Z,@flowlinejs/engine,0.1.0,jakezegil,MIT,647201,"Durable workflow engine for Flowline: interprets workflow documents over a pluggable StorageAdapter, with retries, suspension, schedules and an audit trail."
+2026-09-28T22:37:45.39Z,@flowlinejs/nodes-builtin,0.1.0,jakezegil,MIT,126304,"Built-in Flowline nodes: conditionals, switch, forEach, stop, delay, waitForCallback, httpRequest, transform, callSubflow and triggers."
+2026-09-28T22:37:47.892Z,@flowlinejs/react,0.1.0,jakezegil,MIT,1538683,"React Flow-based visual editor, run viewer and run list for Flowline workflows."
+2026-09-28T22:37:49.777Z,@flowlinejs/storage-memory,0.1.0,jakezegil,MIT,42955,"In-memory StorageAdapter for the Flowline engine, for tests and quick starts."
+2026-09-28T22:37:51.668Z,@flowlinejs/storage-postgres,0.1.0,jakezegil,MIT,99234,"Postgres StorageAdapter for the Flowline engine, with idempotent migrations and worker-safe run claiming via SKIP LOCKED."
+2026-09-28T22:38:33.846Z,@kainappsinc/elephant-client,0.2.0,gkgibeau,MIT,45082,Typed HTTP client for the elephant memory service
+2026-09-28T22:40:06.313Z,@opencraw/probe,0.0.2,russoedu,MIT,30538,"Finds where a fetched page's data lives: JSON-LD blocks, inline JSON, HTML/Markdown tables and outline, JSON/JSON-Lines/YAML structure, PDF rows, workbook sheets and deck slides. The findings behind…"
+2026-09-28T22:40:18.887Z,@supersuit/analytics,0.1.0,garyfromcw,MIT,51803,"Share how you use your agent supersuit with whoever you choose (a teammate, a company, anyone), at a privacy tier you choose, with your own copy of everything written first. Zero dependencies."
+2026-09-28T22:44:11.24Z,@gixcopilot/create,0.2.0,gix_ai_copilot_nx,MIT,72474,"One-command installer: `npm create @gixcopilot` adds an AI copilot to a React, Vue or Angular app together with a Node copilot server."
+2026-09-28T22:44:34.749Z,@gixcopilot/connectors,0.2.0,gix_ai_copilot_nx,MIT,61820,"Connect any HTTP or GraphQL API (any language or framework, no OpenAPI document needed) and turn its endpoints into schema-validated, firewall-enforced copilot tools; in TypeScript or from a JSON/YAM…"
+2026-09-28T22:44:51.929Z,@gixcopilot/rag,0.2.0,gix_ai_copilot_nx,MIT,141922,"Framework-independent RAG pipeline for the AI Copilot SDK: chunking, embeddings, vector-store abstraction, permission-aware retrieval, reranking, and citations."
+2026-09-28T22:44:53.881Z,@gixcopilot/react,0.2.0,gix_ai_copilot_nx,MIT,91981,Headless React adapter for the Copilot client.
+2026-09-28T22:44:55.809Z,@gixcopilot/vue,0.2.0,gix_ai_copilot_nx,MIT,43348,"Vue 3 adapter for the AI Copilot SDK: plugin, composables and an accessible chat component over the shared headless chat store."
+2026-09-28T22:44:56.004Z,@inshapardaz/likhari-core,0.1.0,omar.faruk,MIT,25166,"Framework-agnostic pieces of the Likhari editor: feature-config schema, presets, and default theme tokens."
+2026-09-28T22:44:57.684Z,@gixcopilot/memory,0.2.0,gix_ai_copilot_nx,MIT,81104,"Framework-independent memory architecture for the AI Copilot SDK - working, session, durable, and semantic memory, kept explicitly distinct from conversation history and RAG."
+2026-09-28T22:44:59.725Z,@gixcopilot/model-router,0.2.0,gix_ai_copilot_nx,MIT,39157,"Production model routing: deterministic strategies (fixed, fallback, capability, policy), capability metadata, per-model health and side-effect-safe fallback."
+2026-09-28T22:45:01.859Z,@gixcopilot/ui,0.2.0,gix_ai_copilot_nx,MIT,103061,"Composable, accessible Copilot chat components."
+2026-09-28T22:45:03.844Z,@gixcopilot/usage,0.2.0,gix_ai_copilot_nx,MIT,53874,"Usage accounting (tokens, requests, tools, agents, workflows, RAG), configurable cost estimation, and admission policies: rate limits, quotas and budgets."
+2026-09-28T22:45:05.73Z,@gixcopilot/vectorstore-pgvector,0.2.0,gix_ai_copilot_nx,MIT,63826,PostgreSQL + pgvector VectorStore adapter for @gixcopilot/rag - the only package in the workspace allowed to depend on drizzle-orm/pg for RAG storage.
+2026-09-28T22:45:08.057Z,@gixcopilot/workflows,0.2.0,gix_ai_copilot_nx,MIT,141128,"Deterministic workflow engine for the AI Copilot SDK - defineWorkflow, function/tool/agent/approval/condition/parallel steps, checkpoints, pause/resume/cancel, retry, and compensation."
+2026-09-28T22:45:10.048Z,@gixcopilot/checkpoint-postgres,0.2.0,gix_ai_copilot_nx,MIT,32161,PostgreSQL CheckpointStore adapter for @gixcopilot/workflows - the only other package besides @gixcopilot/vectorstore-pgvector allowed to depend on drizzle-orm/pg.
+2026-09-28T22:45:12.537Z,@gixcopilot/jobs,0.2.0,gix_ai_copilot_nx,MIT,35970,"BullMQ/Redis JobExecutor adapter for @gixcopilot/workflows - background scheduling for workflow step execution, kept behind the workflows package's own JobExecutor port."
+2026-09-28T22:45:13.299Z,abscissa,0.1.0-alpha.0,dustinedwards,MIT,76324,"Accessible, server-rendered charts and scientific figures for the web"
+2026-09-28T22:45:15.11Z,@gixcopilot/management,0.2.0,gix_ai_copilot_nx,MIT,181506,"The AI Copilot control plane: authorized, audited, tenant-scoped management services and HTTP API for projects, environments, models, agents, tools, OpenAPI, MCP, knowledge, prompts, evaluations, tra…"
+2026-09-28T22:45:17.784Z,@gixcopilot/testing,0.2.0,gix_ai_copilot_nx,MIT,153306,"Deterministic testing SDK for AI Copilot applications - request-aware test models, tool mocks and assertions, security/RAG/memory/approval fixtures, agent and workflow simulation, a one-call copilot…"
+2026-09-28T22:45:19.733Z,@gixcopilot/persistence-postgres,0.2.0,gix_ai_copilot_nx,MIT,370313,"PostgreSQL persistence for production: tenant-scoped conversations, memory, immutable audit and usage storage, plus a reviewed migration runner with rollback files."
+2026-09-28T22:45:21.618Z,@gixcopilot/cli,0.2.0,gix_ai_copilot_nx,MIT,139256,"The aicopilot command line: init, add tool/agent/mcp/api, import-openapi, api check, mcp serve, dev, test, eval, doctor and db migrations."
+2026-09-28T22:47:36.636Z,@aerospike/prebuild-darwin-arm64,7.0.0,osavatieiev,Apache-2.0,7333618,Aerospike Node native prebuilds for darwin-arm64
+2026-09-28T22:47:45.975Z,@aerospike/prebuild-darwin-x64,7.0.0,osavatieiev,Apache-2.0,7398644,Aerospike Node native prebuilds for darwin-x64
+2026-09-28T22:47:49.683Z,shotbox,0.3.0,mishanasledov,MIT,51555,"Playwright helpers for reproducible browser screenshots and recordings: a static server, a sealed browser environment, frame-by-frame recordings, captions, GIFs, page errors and checks. The shotbox c…"
+2026-09-28T22:48:01.354Z,@aerospike/prebuild-linux-arm64,7.0.0,osavatieiev,Apache-2.0,112156911,Aerospike Node native prebuilds for linux-arm64
+2026-09-28T22:48:10.376Z,@aerospike/prebuild-linux-x64,7.0.0,osavatieiev,Apache-2.0,112409377,Aerospike Node native prebuilds for linux-x64
+2026-09-28T22:48:19.327Z,@aerospike/prebuild-win32-x64,7.0.0,osavatieiev,Apache-2.0,11927801,Aerospike Node native prebuilds for win32-x64
+2026-09-28T22:48:39.592Z,@inshapardaz/likhari-converters,0.1.0,omar.faruk,MIT,13706,"Format transformers (Markdown/HTML/plain-text/Lexical JSON) against the canonical Lexical EditorState, isolated from UI."
+2026-09-28T22:48:42.48Z,create-soventry,0.1.0,nxa.me,SEE LICENSE IN LICENSE,3545,Create a new Soventry project with npm create soventry.
+2026-09-28T22:48:49.925Z,agent349,0.5.0,gustter,Apache-2.0,8025711,"Enterprise-grade AI agent orchestration for Node.js: build, run and govern production AI agents with built-in ACL, audit, human-in-the-loop, RAG and multi-provider LLMs."
+2026-09-28T22:49:09.313Z,@grupalia/react-native-face-liveness,0.1.0,g-aaguilarg,UNLICENSED,30965,"React Native (Expo) view for AWS Rekognition Face Liveness, with session credentials passed from JS"
+2026-09-28T22:49:45.586Z,@rusl-labs/surface-shadcn,0.1.0,hassox,Apache-2.0,108072,"Runtime helpers for the Surface shadcn/ui kit, which renders JSON Schema forms and displays with your shadcn components."
+2026-09-28T22:50:01.402Z,@inshapardaz/likhari-react,0.1.0,omar.faruk,MIT,42078,"React implementation of the Likhari editor, built on @lexical/react."
+2026-09-28T22:52:52.468Z,@lynkow/skills,0.1.0,lynkow,SEE LICENSE IN LICENSE,236336,"AI coding assistant skills for building a site with Lynkow, in the Claude Code, Cursor and AGENTS.md formats, with an installer: npx @lynkow/skills"
+2026-09-28T22:54:28.501Z,@mark2form/sdk,1.0.0,mark2form,MIT,157679,"SDK v1 van Mark2Form: het custom element <mark2form-configurator>, de parser van het embed-protocol en de React-wrapper <Mark2FormConfigurator />."
+2026-09-28T22:54:29.577Z,lldlab-yaegi-runtime,0.1.0,utkarsh1221,Apache-2.0,39477391,Yaegi Go interpreter compiled to WebAssembly for the LLDLab in-browser test runner (exposes globalThis.yaegiRun).
+2026-09-28T22:55:43.39Z,sayren,0.1.0,ziponia,UNLICENSED,82802,sayren 스토어프론트 CLI — 호스팅 중인 사이트의 소스를 내려받고(pull) 로컬에서 고친 뒤 배포(deploy)합니다
+2026-09-28T22:57:47.658Z,@varnir/plan-limits,0.1.0,adamwalker,MIT,64227,"Zero-dependency plan-limits table and effective-plan resolver shared by the scanner, the wallets, the SDK and minigate. Compiled to CommonJS with declarations so minigate (node10/CommonJS) can requir…"
+2026-09-28T22:58:34.095Z,@ops_pilot/cli,0.1.0,digitracks,Apache-2.0,325224,"Detect and operate an unfamiliar project directory: services, ports, environment and diagnostics."
+2026-09-28T22:59:49.916Z,@journey-to-code/open-memoize,1.0.0,mnix.dev,MIT,3926,Small dependency-free memoization with custom key resolvers and optional LRU-style size limits.
+2026-09-28T23:00:04.583Z,@journey-to-code/open-object-pick-omit,1.0.0,mnix.dev,MIT,3329,Dependency-free object pick and omit utilities preserving own enumerable properties.
+2026-09-28T23:00:18.487Z,@journey-to-code/open-query-serializer,1.0.0,mnix.dev,MIT,4371,Dependency-free object-to-query-string serialization and query-string parsing built on URLSearchParams.
+2026-09-28T23:00:32.83Z,@journey-to-code/open-retry-async,1.0.0,mnix.dev,MIT,4596,"Small dependency-free async retry helper with exponential backoff, abort support, and retry hooks."
+2026-09-28T23:00:47.726Z,@journey-to-code/open-safe-filename,1.0.0,mnix.dev,MIT,3309,"Dependency-free filename sanitization for Windows, macOS, and POSIX-safe output."
+2026-09-28T23:01:02.85Z,@journey-to-code/open-state-machine,1.0.0,mnix.dev,MIT,4693,Small dependency-free finite state machine with guarded transitions and transition hooks.
+2026-09-28T23:01:17.593Z,@journey-to-code/open-statistics-basic,1.0.0,mnix.dev,MIT,4000,"Dependency-free basic descriptive statistics: mean, median, mode, variance, and standard deviation."
+2026-09-28T23:01:32.575Z,@journey-to-code/open-string-case,1.0.0,mnix.dev,MIT,3860,"Dependency-free string case conversion between camel, Pascal, kebab, snake, and title case."
+2026-09-28T23:01:48.643Z,@journey-to-code/open-template-interpolate,1.0.0,mnix.dev,MIT,4090,Small dependency-free placeholder interpolation with nested object paths and configurable missing-value behavior.
+2026-09-28T23:02:03.276Z,@journey-to-code/open-time-range-overlap,1.0.0,mnix.dev,MIT,3609,Dependency-free helpers for testing and calculating overlap between time or numeric ranges.
+2026-09-28T23:02:49.799Z,@journey-to-code/open-truncate-words,1.0.0,mnix.dev,MIT,4377,Dependency-free helpers for truncating text by word or character count.
+2026-09-28T23:02:50.094Z,animatecss-tailwind-graphic,2.0.6,jamesvectorpack,MIT,16955,"A configurable, namespaced Animate.css integration for Tailwind CSS"
+2026-09-28T23:04:13.496Z,opencode-github-pr-status,0.1.0,tupton,MIT,21426,GitHub pull request status in the OpenCode terminal
+2026-09-28T23:05:26.763Z,@journey-to-code/open-word-wrap,1.0.0,mnix.dev,MIT,3837,Dependency-free word wrapping for terminal and plain-text output.
+2026-09-28T23:05:52.414Z,@journey-to-code/open-lru-cache,1.0.0,mnix.dev,MIT,3870,Small dependency-free LRU cache with optional TTL expiration.
+2026-09-28T23:06:45.555Z,@tech-byte-frontier/jevgate,0.30.0,binatof,MIT OR Apache-2.0,12002,"JevGate, the code-review gate for CI and coding agents: this package downloads the matching release binary, checks its SHA-256, caches it and runs it"
+2026-09-28T23:06:55.249Z,@weibaohui/dsh-kite,0.1.0,weibaohui,MIT,276447,dsh 插件 · 放风筝引擎：agent 编程时屏幕上放一只动画风筝——token 越多事件越密风筝飞得越高，随风到处漂移摆动，一根线牵在屏幕底边；潍坊系框架卡组（沙燕/金鱼/蝴蝶/八卦/龙头……硬翅软翅板式立体），形状×图案×配色全是可替换的数据配置，还支持把用户上传的图片糊上风筝面，贴图随风筝侧正斜的姿态实时仿射变换。
+2026-09-28T23:07:13.524Z,pi-corvus,0.1.0,probabilityengineer,MIT,22532,"Experimental synchronized file context extension for Pi, inspired by the CORVUS paper"
+2026-09-28T23:07:35.671Z,thiscosta-terminal-agenda,1.0.0,thiscosta,MIT,30255,A vibrant terminal clock with a Google Calendar agenda.
+2026-09-28T23:08:39.979Z,opencode-9router-sync,0.1.0,hayatog,MIT,7513,Plugin do opencode que sincroniza os modelos do 9router a partir do /v1/models
+2026-09-28T23:10:37.442Z,pr-gate,1.0.0,calixtothebughunter,GPL-3.0-only,2965732,"A deterministic, language-agnostic GitHub Action that flags pull requests touching project-declared ""protected"" files (tests, lint config, CI) for mandatory human review."
+2026-09-28T23:10:59.005Z,@feliperohdee/html-to-image,1.0.0,feliperohdee,MIT,111860,```shell npm install --save html-to-image ```
+2026-09-28T23:11:50.834Z,fs-write-stream-atomic-modern,1.0.10,sbty,ISC,69388,A compatibility-focused modern fork of fs-write-stream-atomic.
+2026-09-28T23:12:03.255Z,@journey-to-code/open-strip-accents,1.0.0,mnix.dev,MIT,2519,Removes Unicode accents and combining diacritics from text.
+2026-09-28T23:12:08.077Z,prastzyy,1.0.0,prastzyy,MIT,17578723,"hello I am prastzy, I am a student trying to develop a WhatsApp library via baileys and this is my baileys prastzy"
+2026-09-28T23:12:18.52Z,@journey-to-code/open-random-string,1.0.0,mnix.dev,MIT,3053,Generates cryptographically secure random strings with configurable alphabets.
+2026-09-28T23:12:32.515Z,@journey-to-code/open-camel-to-title,1.0.0,mnix.dev,MIT,2777,"Converts camelCase, snake_case, kebab-case, and acronym-heavy keys into labels."
+2026-09-28T23:12:47.624Z,@journey-to-code/open-rot13,1.0.0,mnix.dev,MIT,2544,Applies the reversible ROT13 substitution cipher to ASCII letters.
+2026-09-28T23:12:59.021Z,mdq-cli,0.1.0,davert,MIT,58294,"Query and edit markdown with a selector language - jq, for markdown"
+2026-09-28T23:13:02.512Z,@journey-to-code/open-extract-hashtags,1.0.0,mnix.dev,MIT,3356,Extracts Unicode hashtags and @mentions from social text.
+2026-09-28T23:13:17.5Z,@journey-to-code/open-clamp-number,1.0.0,mnix.dev,MIT,2912,Clamps numbers to ranges and checks whether values fall within bounds.
+2026-09-28T23:13:29.624Z,@zkas/sdk,0.2.0,zkas,ISC,29706,TypeScript SDK for ZKas shielded wallets
+2026-09-28T23:13:34.357Z,@journey-to-code/open-percentage-change,1.0.0,mnix.dev,MIT,3178,"Calculates percentage change, percentage difference, and percentage adjustments."
+2026-09-28T23:13:34.701Z,stranger-quarkdown,4.0.0-alpha.0,sup2.0,MIT,2707261,Markdown preprocessing for SvelteKit projects
+2026-09-28T23:13:49.184Z,@journey-to-code/open-math-lerp,1.0.0,mnix.dev,MIT,2914,"Linear interpolation, inverse interpolation, and numeric range remapping."
+2026-09-28T23:14:03.834Z,@journey-to-code/open-roman-numerals,1.0.0,mnix.dev,MIT,3013,Converts integers to canonical Roman numerals and back.
+2026-09-28T23:14:18.171Z,@journey-to-code/open-greatest-common-divisor,1.0.0,mnix.dev,MIT,3052,Calculates GCD and LCM for integer pairs or arrays.
+2026-09-28T23:14:33.231Z,@journey-to-code/open-hex-to-bytes,1.0.0,mnix.dev,MIT,2973,Converts hexadecimal strings to Uint8Array values and back.
+2026-09-28T23:15:58.801Z,create-nest-nuxt,0.1.0,cyberpunk_10,MIT,33424,Scaffold a NestJS + Nuxt monorepo — pick a variant and go
+2026-09-28T23:16:00.872Z,nippon-ten-api-client,0.0.1-alpha,joao.sumi,GPL-3.0-only,185401,Cliente TypeScript tipado para a API REST do backend nippon-ten
+2026-09-28T23:16:18.694Z,phase-viewer,0.0.1,ayejk,MIT,447,Live local dashboard for phase-runner builds. Placeholder; first real release is 0.1.0.
+2026-09-28T23:18:34.367Z,prastzy,1.0.0,xzv-expzc,MIT,17578558,"hello I am prastzy, I am a student trying to develop a WhatsApp library via baileys and this is my baileys prastzy"
