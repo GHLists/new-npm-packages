@@ -1,12 +1,28 @@
 {
   "list": {
-    "count": 139,
-    "from": "2026-09-28T03:18:57.65517Z",
-    "path": "data/new-packages-2026-09-28T04-21-54-275718Z.csv",
-    "to": "2026-09-28T04:21:54.275718Z"
+    "count": 90,
+    "from": "2026-09-28T04:21:54.275718Z",
+    "path": "data/new-packages-2026-09-28T05-20-16-696441Z.csv",
+    "to": "2026-09-28T05:20:16.696441Z"
   },
-  "pending": [],
-  "seq": 133003207,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@azure/provisioning-keyvault",
+      "since": "2026-09-28T04:21:54.275718Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mbears/zcode-rs-win32-x64",
+      "since": "2026-09-28T04:21:54.275718Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@polinode/embed",
+      "since": "2026-09-28T04:21:54.275718Z"
+    }
+  ],
+  "seq": 133010197,
   "source_truncated": false,
-  "window": "2026-09-28T04:21:54.275718Z"
+  "window": "2026-09-28T05:20:16.696441Z"
 }
