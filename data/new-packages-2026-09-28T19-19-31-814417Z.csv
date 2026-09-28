@@ -1,0 +1,142 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-28T18:16:17.078Z,@commitscape/darwin-arm64,0.1.0,dev_talan,MIT OR Apache-2.0,8555783,"The commitscape binary for aarch64-apple-darwin. Install `commitscape`, which picks it."
+2026-09-28T18:16:22.162Z,@commitscape/darwin-x64,0.1.0,dev_talan,MIT OR Apache-2.0,9268122,"The commitscape binary for x86_64-apple-darwin. Install `commitscape`, which picks it."
+2026-09-28T18:16:27.805Z,@commitscape/linux-arm64,0.1.0,dev_talan,MIT OR Apache-2.0,8537427,"The commitscape binary for aarch64-unknown-linux-musl. Install `commitscape`, which picks it."
+2026-09-28T18:16:33.139Z,@commitscape/linux-x64-gnu,0.1.0,dev_talan,MIT OR Apache-2.0,9950942,"The commitscape binary for x86_64-unknown-linux-gnu. Install `commitscape`, which picks it."
+2026-09-28T18:16:38.696Z,@commitscape/linux-x64-musl,0.1.0,dev_talan,MIT OR Apache-2.0,10086327,"The commitscape binary for x86_64-unknown-linux-musl. Install `commitscape`, which picks it."
+2026-09-28T18:16:44.947Z,@commitscape/win32-x64,0.1.0,dev_talan,MIT OR Apache-2.0,10685031,"The commitscape binary for x86_64-pc-windows-msvc. Install `commitscape`, which picks it."
+2026-09-28T18:17:16.292Z,@opentestbed/dialect-fhir-validator,2.0.0,costateixeira,BSD-3-Clause,100974,"FHIR validator dialect for the OTB Gherkin language: validation, FHIRPath, StructureMap transforms, matchetype comparison and test-data generation."
+2026-09-28T18:17:19.273Z,@opentestbed/dialect-hcert-decoder,2.0.0,costateixeira,Apache-2.0,46418,"Health-certificate dialect for the OTB Gherkin language: QR scanning, HC1/CWT decoding, COSE signature verification and SMART Health Link retrieval."
+2026-09-28T18:20:13.761Z,@hartl-services/medusa-base,0.1.1,wolfi1616,MIT,95297,"Base plugin for Hartl Services Medusa shops: per-plugin feature toggles with a generic Admin settings page, a Store endpoint for storefronts, and enforcement helpers for plugin routes, subscribers an…"
+2026-09-28T18:20:31.301Z,@vexa-video/core,1.0.0,mooskyai_video,MIT,160519,"Backend-neutral media types, schemas, validation, and browser-safe contracts."
+2026-09-28T18:21:17.783Z,@vexa-video/ffmpeg,1.0.0,mooskyai_video,MIT,234114,FFmpeg/ffprobe backend for Vexa Video SDK.
+2026-09-28T18:21:21.93Z,@vexa-video/sdk,1.0.0,mooskyai_video,MIT,267082,"Node.js media processing SDK with video, audio, streaming, storage, jobs, plugins, and hosted rendering."
+2026-09-28T18:21:25.62Z,@vexa-video/angular,1.0.0,mooskyai_video,MIT,56872,Browser-safe Angular integration for Vexa Video SDK.
+2026-09-28T18:21:29.549Z,@vexa-video/ai,1.0.0,mooskyai_video,MIT,73917,Optional provider-neutral AI media helpers for Vexa Video SDK.
+2026-09-28T18:21:30.767Z,appactor-react-native,0.2.2,appactor,MIT,363808,AppActor React Native SDK — server-authoritative in-app purchase management for iOS and Android.
+2026-09-28T18:21:33.422Z,@vexa-video/editor,1.0.0,mooskyai_video,MIT,19347,Framework-neutral browser timeline editor state foundations for Vexa Video SDK.
+2026-09-28T18:21:36.668Z,@bridge-ui/adapters,0.1.2,joaopalopes24,MIT,90519,"Ready-made date, icon, i18n, and rich-text adapters for Bridge UI."
+2026-09-28T18:21:37.167Z,@vexa-video/cli,1.0.0,mooskyai_video,MIT,17632,Command-line interface for Vexa Video SDK.
+2026-09-28T18:21:42.011Z,appactor-capacitor,0.2.2,appactor,MIT,998821,"AppActor Capacitor SDK — server-authoritative in-app purchases, subscriptions, offerings, remote config and experiments for iOS and Android."
+2026-09-28T18:21:49.076Z,@microsoft/opentelemetry-browser,0.1.0-alpha.1,microsoft1es,MIT,1652292,OpenTelemetry distribution for the browser
+2026-09-28T18:22:08.712Z,implto-gws-axi,0.1.0,valzon,MIT,1217629,"Gmail, Calendar, Drive, Docs, Sheets and Slides for coding agents - several Google accounts, read or write access chosen per service at sign-in, compact TOON output"
+2026-09-28T18:22:27.314Z,@degenscan/intel,0.1.0,renatocrt444,MIT,23641,"Cross-asset market-event intelligence for AI trading agents (SEC, Fed, regulators, disasters, halts, hacks, Polymarket, Hyperliquid perps). Pays per call in USDC via x402 or uses an API key. MCP + RE…"
+2026-09-28T18:22:31.95Z,talklan,0.1.0,esmeraldoinciso,MIT,344876,"Temporary local-network communication room. Start a server, scan the QR, talk. No cloud, no account, no internet required."
+2026-09-28T18:24:53.728Z,pteri-auth-client,1.0.1,kakrlabs_dev,MIT,89441,TypeScript client (fetch) for the Pteri-Auth API
+2026-09-28T18:25:25.661Z,@nativescript/canvas-gamepad,3.0.0-alpha.17,nativescript-bot,Apache-2.0,684596,Gamepad API (navigator.getGamepads) for NativeScript
+2026-09-28T18:25:27.943Z,@inzumer/tsconfig,1.0.0,inzumer,MIT,4785,Shared TypeScript configurations for Inzumer projects
+2026-09-28T18:25:32.674Z,@inzumer/prettier,1.0.0,inzumer,MIT,3875,Shared Prettier configuration for Inzumer projects (import order included)
+2026-09-28T18:25:38.587Z,@inzumer/eslint,1.0.0,inzumer,MIT,7030,"Shared ESLint flat configuration for Inzumer projects (TypeScript, React, a11y, Vitest)"
+2026-09-28T18:25:53.269Z,agent-board-runner,0.1.0,paulaolileal,,180676,Local runner for Agent Board — signs in with your own Supabase account (no shared secrets) and drives Claude Code against repos under your local repos root.
+2026-09-28T18:25:55.511Z,@coreweave/forge-sdk,0.1.0-beta.0,andrewwandb,Apache-2.0,367761,TypeScript SDK for CoreWeave Forge
+2026-09-28T18:27:12.043Z,fixel-mcp,0.1.0,amruthak,FSL-1.1-MIT,2106,"MCP server launcher for Fixel — lets AI coding agents call fixel_scan, fixel_verify, and fixel_annotate over the Model Context Protocol."
+2026-09-28T18:27:29.203Z,forgeloom,0.0.5,aikeoo,,798169,把反复有用的做法攒成轮子：记要点 → 抽轮子 → 认可后复用
+2026-09-28T18:27:50.071Z,@journey-to-code/json-to-csv-tsv,1.0.2,mnix.dev,MIT,9158,Convert arrays of JSON-style objects to CSV or TSV strings.
+2026-09-28T18:30:07.86Z,agentpools-win32-x64-msvc,0.1.0,yitom,,1407901,Bounded ACP agent session pools for Node.js
+2026-09-28T18:30:10.7Z,agentpools-linux-x64-gnu,0.1.0,yitom,,2065832,Bounded ACP agent session pools for Node.js
+2026-09-28T18:30:13.397Z,agentpools-linux-arm64-gnu,0.1.0,yitom,,2061843,Bounded ACP agent session pools for Node.js
+2026-09-28T18:30:15.768Z,agentpools-darwin-x64,0.1.0,yitom,,1811443,Bounded ACP agent session pools for Node.js
+2026-09-28T18:30:18.098Z,agentpools-darwin-arm64,0.1.0,yitom,,1772182,Bounded ACP agent session pools for Node.js
+2026-09-28T18:30:20.046Z,agentpools,0.1.0,yitom,,8912,Bounded multi-runtime agent session pools for Node.js
+2026-09-28T18:30:29.248Z,@xsynaptic/sonic-ui,0.1.0,xsynaptic,MIT,156161,"Native custom elements for audio interfaces: dials, sliders, keys, a segmented switch, a peak meter and a screen panel, skinned with CSS custom properties"
+2026-09-28T18:30:46.381Z,atelier-theme,0.1.0,msamdan,MIT,21753,"A neutral, customizable theme for Taiga UI with light and dark modes."
+2026-09-28T18:31:04.648Z,n8n-nodes-monocrawl,0.1.1,monocrawl,MIT,45103,"Monocrawl for n8n: public social media, search and e-commerce data from 70+ platforms on one API key"
+2026-09-28T18:31:29.464Z,planora-mcp,1.0.2,002-aditya,MIT,33986,MCP server for Planora — manage your notes and files via AI
+2026-09-28T18:32:34.159Z,@flitt/api,1.0.0,stututu,MIT,353789,"Official TypeScript / JavaScript client for the Flitt Public API (FiveM, Garry's Mod, Minecraft server monitoring)."
+2026-09-28T18:32:47.336Z,curb-cut-mcp,1.0.0,parthsevak2,Apache-2.0,36938,"MCP server for Curb Cut: workplace accommodation options, published cost evidence, and request drafts. It looks up and it drafts; it never sends anything on anyone's behalf."
+2026-09-28T18:33:15.582Z,@ambrosy-ui/theme-default,0.0.1,hydrotinker,,29030,Default design system (theme) for @ambrosy-ui/components
+2026-09-28T18:33:17.433Z,@ambrosy-ui/theme-getisekaid,0.0.1,hydrotinker,,33724,Getisekaid design system (theme) for @ambrosy-ui/components
+2026-09-28T18:34:19.188Z,@zerowidth/cli,0.1.0,pbinggeser,Apache-2.0,187438,"Command-line interface for ZeroWidth — your workspace's flows, docs and tools from the terminal"
+2026-09-28T18:34:59.417Z,@eodash/stac,0.1.0,a-behairi,MIT,135440,"A package for turning STAC collections into [eox-map](https://eox-a.github.io/EOxElements/?path=/docs/elements-eox-map--docs) layer definitions. It reads a collection, resolves the item covering a gi…"
+2026-09-28T18:35:08.653Z,@gitmyabi/otom,1.0.0,gitmyabi-bot,MIT,120113,"Auto-generated TypeScript type bindings for OTOM (build etherscan-otom-9cbf16af-1790620412006, commit 3495c17, branch etherscan)"
+2026-09-28T18:35:22.735Z,@inflexa-ai/typecheck,0.5.0,stefan.inf,Apache-2.0,98912,The type check of Inflexa on TypeScript 7: the diagnostics of tsc --noEmit and the typed rules in one command.
+2026-09-28T18:35:36.063Z,system-prompt-switch,0.8.0,plantae-art,MIT,3820594,"Pi extension to manage custom system prompts per session with switch, modal selection, and CRUD commands"
+2026-09-28T18:35:38.515Z,@gitmyabi/lsv,1.0.0,gitmyabi-bot,MIT,79838,"Auto-generated TypeScript type bindings for LSV (build etherscan-lsv-ee059f0c-1790620476897, commit 997b6de, branch etherscan)"
+2026-09-28T18:36:26.167Z,rockolita,1.15.1,rockolita,GPL-3.0-only,2014300,Rockolita: YouTube sin anuncios y sin patrocinios para televisores Samsung (Tizen) vía TizenBrew. Basado en TizenTube de Reis Can (GPL-3.0).
+2026-09-28T18:36:57.227Z,@gitmyabi/flashusdt,1.0.0,gitmyabi-bot,MIT,24868,"Auto-generated TypeScript type bindings for FlashUSDT (build etherscan-flashusdt-72bfd5dc-1790620591715, commit 1483d66, branch etherscan)"
+2026-09-28T18:37:44.904Z,@specstory/ai-data-grid,7.0.0,jakelevirne,MIT,5101566,React data grid for beautifully displaying and editing large amounts of data with amazing performance.
+2026-09-28T18:38:13.399Z,n8n-nodes-reactive-resume,0.1.0,nicodemusopon,MIT,123571,"n8n community node for Reactive Resume (rxresu.me) – resumes, cover letters, job applications, PDF export."
+2026-09-28T18:42:34.245Z,@specstory/ai-data-grid-cells,7.0.0,jakelevirne,MIT,610902,Extra cells for ai-data-grid
+2026-09-28T18:42:37.844Z,daisy-date,0.1.0,mansi1,MIT,28340,"Easy, immutable local dates and days for TypeScript, built on Temporal."
+2026-09-28T18:42:41.487Z,@ambrosy-ui/components,0.0.1,hydrotinker,,47745,Unstyled Vue 3 UI component kit
+2026-09-28T18:43:31.878Z,@imhammer/msm-node,1.0.0,imhammer,MIT,36238,SDK oficial em Node.js para o MSM (Micro Server Monitor) Agent
+2026-09-28T18:44:03.101Z,@investifi/tile-bridge,0.1.0,investifi,MIT,7974,Host side of the InvestiFi tile postMessage contract
+2026-09-28T18:44:12.214Z,arr00-testing-oz-contracts,0.0.0,arr00,,65,
+2026-09-28T18:46:27.261Z,@e2e-dev/github,0.3.0-canary-20260928184528,okwasniewski,Apache-2.0,62016,"GitHub reporter for e2e: one pull request comment per run, from GitHub Actions"
+2026-09-28T18:46:29.941Z,@e2e-dev/mobile,0.8.0-canary-20260928184528,okwasniewski,Apache-2.0,382013,"Mobile engine (iOS and Android) for e2e agentic end-to-end testing, built on agent-device"
+2026-09-28T18:46:30.217Z,@e2e-dev/web,0.11.0-canary-20260928184528,okwasniewski,Apache-2.0,589241,"Web engine for e2e agentic end-to-end testing, built on Playwright"
+2026-09-28T18:46:55.154Z,@sylad/cadence,0.2.0,sylad,MIT,114674,"A small, repo-native working method: a versioned plan linked to your commits, a changelog with screenshots, session rituals and deliveries proven by their effect."
+2026-09-28T18:47:56.963Z,@specstory/ai-data-grid-source,7.0.0,jakelevirne,MIT,131763,Useful data source hooks for AI Data Grid
+2026-09-28T18:48:30.458Z,get-my-ip-now,1.0.0,mc0re11,MIT,3390,Get the public IP address of the current host using ifconfig.me
+2026-09-28T18:49:29.628Z,threejs-particle-fluids,0.2.0,dgreenheck,MIT,1801965,"GPU particle physics for Three.js: liquids, soft bodies, cloth, and smoke, simulated and rendered with WebGPU."
+2026-09-28T18:50:04.021Z,@titan-design/authority,0.0.0,hjewkes,MIT,90167,"The authority decision table as data: who may merge, release, read secrets, spawn or actuate hardware, with a pure evaluator"
+2026-09-28T18:50:06.879Z,@titan-design/egress-scan,0.0.0,hjewkes,MIT,88108,"Scan git diff text for home paths, private-workspace paths and private terms, reporting location and rule id only"
+2026-09-28T18:51:33.517Z,@k-loomkit/core,0.1.0,timy78,MIT,62592,
+2026-09-28T18:51:53.715Z,@journey-to-code/open-markdown-parser,1.0.0,mnix.dev,MIT,8964,A small Markdown parsing adapter that normalizes markdown-it output into a stable document structure.
+2026-09-28T18:52:48.332Z,unity-asset-reader,1.0.0,fatal10110,MIT,780809,"Browser-first Unity AssetBundle parser: isomorphic, synchronous, zero platform dependencies."
+2026-09-28T18:53:21.618Z,@sutempo/sdk,1.0.0,lozo_le_dozo,MIT,120140,"JavaScript client for the Sutempo booking API, generated from its OpenAPI contract."
+2026-09-28T18:53:28.08Z,@sutempo/booking-flow,1.0.0,lozo_le_dozo,MIT,199511,"Headless Sutempo booking flow: state and commands (slots, hold, confirmation) on top of @sutempo/sdk, without HTML or CSS."
+2026-09-28T18:53:35.812Z,@sutempo/mcp,1.1.0,lozo_le_dozo,MIT,150231,"Sutempo configuration MCP server (stdio) for AI assistants: read a business's setup, preview a change, then apply it."
+2026-09-28T18:53:37.511Z,unity-asset-reader-texture,1.0.0,fatal10110,MIT AND Apache-2.0,205997,Texture2D and Sprite decoding to RGBA for unity-asset-reader.
+2026-09-28T18:53:51.728Z,wakeman,0.3.2,jbitar,MIT,737331,On-demand local dev-server proxy: every project gets a permanent .localhost URL that wakes its dev server on request and sleeps it when idle.
+2026-09-28T18:54:22.606Z,@agntn/hashes,0.3.0,oritwoen,MIT,463590,"Hash, HMAC and key derivation algorithms for agents"
+2026-09-28T18:54:23.225Z,unity-asset-reader-node,1.0.0,fatal10110,MIT,28370,Node.js adapter for unity-asset-reader: file and directory loading with sidecar resolution.
+2026-09-28T18:54:55.622Z,@vedla/expo-solar-icons,1.0.1,tayjfox,MIT,5308052,Solar icons for React Native and Expo projects.
+2026-09-28T18:55:04.896Z,@umineko987/zcode-image-search-mcp,0.1.0,kkkneko,,16282,
+2026-09-28T18:56:57.993Z,@lilydesignsystem/themes,0.1.0,joelparkerhenderson,MIT OR Apache-2.0 OR GPL-2.0-only OR GPL-3.0-only OR BSD-3-Clause,5239179,"Lily Design System reference theme stylesheets: 45 ready-to-use CSS themes (NHS England/Scotland/Wales, GOV.UK GDS, USWDS, Adobe Spectrum, Mozilla Protocol, and general-purpose themes) targeting the…"
+2026-09-28T18:57:42.08Z,gemini-tts-studio,0.1.0,yitom,,54665,通用 TTS 服务：Gemini / Azure 语音合成、流式输出与自定义音色，Hono 中间件式挂载
+2026-09-28T18:57:43.997Z,@hmharness/cognitive,0.19.0,swsgbl,MIT,134653,"hmharness Cognitive OS core: Environment protocol, World Model, Goal system, Exploration, RLM runtime, five-layer memory, Skill Compiler, Continual Learning control plane, Evolution 2.0 governance, M…"
+2026-09-28T18:57:55.625Z,@yitom/acp-client,0.1.0,yitom,MIT,300442,"Headless ACP (Agent Client Protocol) SDK for connecting to Codex, Claude, Cursor, DeepSeek and more"
+2026-09-28T18:58:00.297Z,@hmharness/environments,0.19.0,swsgbl,MIT,35618,"HMH Cognitive OS environment adapters: Terminal (native), HarmonyOS (via domain-harmony), Browser/Desktop (via host automation bridge), ARC3 (external adapter). Every adapter implements the @hmharnes…"
+2026-09-28T18:58:34.322Z,react-native-uiscene-bridge,0.1.0,a5omic,MIT,17762,"Stops React Native and Expo apps built with Xcode 27 from crashing at launch with ""UIScene life cycle is required for apps built with this SDK"". Install it, run pod install, no code changes."
+2026-09-28T18:59:52.021Z,@cueplusplus/theme-graphite,1.0.0,cloudpixel,MIT,52611,The graphite theme for @cueplusplus/ui.
+2026-09-28T18:59:52.089Z,@cueplusplus/theme-porcelain,1.0.0,cloudpixel,MIT,54142,The porcelain theme for @cueplusplus/ui.
+2026-09-28T18:59:52.25Z,@cueplusplus/theme-kiln,1.0.0,cloudpixel,MIT,48549,The kiln theme for @cueplusplus/ui.
+2026-09-28T18:59:54.328Z,@cueplusplus/theme-tender,1.0.0,cloudpixel,MIT,56856,The tender theme for @cueplusplus/ui.
+2026-09-28T18:59:54.521Z,@cueplusplus/theme-zine,1.0.0,cloudpixel,MIT,57500,The zine theme for @cueplusplus/ui.
+2026-09-28T19:00:28.483Z,@noirhare/dsh-directory-picker-browse,0.1.1,noirhare,MIT,1952,
+2026-09-28T19:00:30.898Z,@maat-apps/core,0.1.0,vancarek,MIT,77619,"Browser-platform plumbing shared by maat-apps apps: storage, encryption, i18n, service worker, app update and install prompt. Only /i18n and /install use React."
+2026-09-28T19:00:37.964Z,@adapttable/angular,0.1.0,orwa.mahmoud,MIT,115461,Headless Angular binding for AdaptTable. Signals over the framework-neutral engine in @adapttable/core.
+2026-09-28T19:01:30.62Z,kabane,0.1.0,davidpaquet,MIT,1298519,Local-first issue tracker and kanban for humans and AI agent runtimes
+2026-09-28T19:03:00.206Z,@erag/inertia-forms-vue,0.0.1,eramitgupta,MIT,807839,Vue 3 renderer for erag/inertia-forms. Render Laravel-defined forms with one <Form> component.
+2026-09-28T19:03:03.63Z,@erag/inertia-forms-react,0.0.1,eramitgupta,MIT,597809,React renderer for erag/inertia-forms. Render Laravel-defined forms with one <Form> component.
+2026-09-28T19:03:09.107Z,@erag/inertia-forms-svelte,0.0.1,eramitgupta,MIT,312312,Svelte renderer for erag/inertia-forms. Render Laravel-defined forms with one <Form> component.
+2026-09-28T19:03:13.086Z,a11y-personas-mcp-module,2.0.0,joe-watkins,MIT,241322,"Embeddable accessibility persona MCP tools, handlers, and data"
+2026-09-28T19:03:31.152Z,farcall-mcp,0.1.0,regenrek,MIT,2929685,Completion-wait MCP workers for Claude Code and Codex CLI
+2026-09-28T19:03:37.285Z,pi-todoist-reader,0.1.0,frachecco86,MIT,20591,"Pi extension: read your Todoist bugs/tasks from the agent, and close the ones you have finished."
+2026-09-28T19:04:13.789Z,@olecve/leaflet-velocity,1.2.1,olecve,MIT,108818,Visualise velocity layers with leaflet (Typescript fork)
+2026-09-28T19:04:40.065Z,@intellign/tools,0.1.0,intellign,SEE LICENSE IN LICENSE,19986,Browser-first utility primitives from Intellign Tools.
+2026-09-28T19:05:11.377Z,@gershy/system-misc,0.0.2,gershy,,2928,TODO
+2026-09-28T19:06:10.146Z,@deviselabs/podda,0.1.0,willdeviselabs,MIT,1681596,"Build Podda games on your own machine with your own agent, then ship them to Podda."
+2026-09-28T19:06:19.661Z,@bett3r-dev/rison,1.0.2,tomasruizr,MIT,61737,URI friendly encoding for JSON structures
+2026-09-28T19:06:53.647Z,toolmenu,0.7.0,niksa90,MIT,832793,Lint your MCP server's tool menu for changes that confuse agents or break caches.
+2026-09-28T19:07:27.719Z,@airprompter/datastore-s3,0.0.0-bootstrap.0,airprompter,BSD-3-Clause,468,Placeholder that reserves the name so trusted publishing can be configured. Install 0.3.0 or later.
+2026-09-28T19:08:15.027Z,svelte-motion-panels,0.1.0,mastermakrela,MIT,67411,Svelte 5 adapter for motion-panels: resizable panels animated with Motion. Built on the motion-panels core by Valerii Strilets.
+2026-09-28T19:08:33.586Z,@bett3r-dev/blueprint-schema,1.6.0,tomasruizr,MIT,562287,"BLUEPRINT is a format — a way of describing a DDD/event-stormed system as a node graph (9 node types, 11 edge kinds, 27 legal topology triples after the `reads-from` and `uses-cache` cross-product ex…"
+2026-09-28T19:08:39.827Z,baton-ai,0.1.0,felo83,MIT,67145,"Pass your Claude Code or Codex session to the next agent: one file with the whole conversation, your rules, and your unfinished code."
+2026-09-28T19:08:47.051Z,n8n-nodes-smartchat,0.1.2,smartchat,MIT,380771,"n8n nodes for SmartChat: WhatsApp marketing with contacts, messages, newsletters, automations and SmartChat AI."
+2026-09-28T19:09:23.219Z,grada-run,0.0.1,anton-codes-iac,MIT,694,Grada CLI — Open-hood cloud infrastructure from Day 0 to Day N.
+2026-09-28T19:10:30.275Z,sessionpipe-core,0.1.0,micmakarov,Apache-2.0,361613,"sessionpipe core: protocol types, harness adapters, privacy filter and redaction rulesets, outbox and sinks. Zero runtime dependencies. (published unscoped until the @sessionpipe npm org exists; the…"
+2026-09-28T19:10:32.076Z,sessionpipe-receiver,0.1.0,micmakarov,Apache-2.0,16944,"The sessionpipe reference receiver: one process, JSONL files, a page you can answer from a phone. (published unscoped until the @sessionpipe npm org exists; the code is the same)"
+2026-09-28T19:10:33.891Z,sessionpipe-conformance,0.1.0,micmakarov,Apache-2.0,415757,Runs the sessionpipe conformance fixtures against a receiver URL or an adapter. (published unscoped until the @sessionpipe npm org exists; the code is the same)
+2026-09-28T19:13:50.283Z,seowebchecker-mcp-server,1.0.2,seoaitools,MIT,31320,"Official Model Context Protocol (MCP) server for technical SEO audits, Core Web Vitals, and on-page optimization by SEOWebChecker."
+2026-09-28T19:14:59.674Z,aqx-uae-customs-tariff,1.0.0,aqxlogistics,MIT,1716,United Arab Emirates (Dubai Customs) tariff and 5% VAT landed cost calculator by AQX Logistics.
+2026-09-28T19:15:06.42Z,aqx-ddp-landed-cost-estimator,1.0.0,aqxlogistics,MIT,1915,Delivered Duty Paid (DDP) all-inclusive landed cost algorithm for US to GCC air cargo by AQX Logistics.
+2026-09-28T19:15:13.908Z,@company-os-hq/bundle-os,0.2.0,admetos,UNLICENSED,71106,"Account-independent packaging, publishing and skill lifecycle tooling for agent OSs"
+2026-09-28T19:15:40.576Z,ink-table-flip,0.0.1,spencermountain,MIT,70458,Sortable terminal tables for React and Ink
+2026-09-28T19:15:52.153Z,@leuria/cli,0.1.0,jbpin,Apache-2.0,220992,"Bring your own AI to the web: the Leuria engine. Lets websites you approve use the AI on your machine, through tools the page provides."
+2026-09-28T19:15:54.323Z,@leuria/client,0.1.0,jbpin,Apache-2.0,137947,Browser SDK for Leuria: connect a page to the visitor's own AI and give it the page's tools.
+2026-09-28T19:15:56.468Z,@leuria/connect,0.1.0,jbpin,Apache-2.0,218816,"Leuria's Connect UI as web components: the ""Connect your AI"" button, the AI status and the Leuria badge, in Leuria Pearl, for any framework."
+2026-09-28T19:15:58.483Z,@leuria/react,0.1.0,jbpin,Apache-2.0,23596,"React hooks for Leuria: the visitor's AI, conversations and the connect flow, as React state."
+2026-09-28T19:16:00.735Z,@leuria/store,0.1.0,jbpin,Apache-2.0,28421,"A vector index in the visitor's browser (IndexedDB), built with whatever embedding model the visitor has, rebuilt when it changes."
+2026-09-28T19:16:03.164Z,@leuria/web-embed,0.1.0,jbpin,Apache-2.0,24241,"A small embedding model that runs in the page (Transformers.js), as a Leuria provider: search by meaning for visitors without their own model."
+2026-09-28T19:16:05.365Z,@leuria/docs,0.1.0,jbpin,Apache-2.0,79834,"Ask AI and search by meaning for any docs site, on the reader's own AI: the corpus, the docs tools and the <leuria-ask> panel."
+2026-09-28T19:16:07.241Z,@leuria/react-connect,0.1.0,jbpin,Apache-2.0,17515,"Leuria's Connect UI as React components: the @leuria/connect web components, fed by @leuria/react."
+2026-09-28T19:16:09.208Z,@leuria/docusaurus,0.1.0,jbpin,Apache-2.0,25293,"Ask AI for any Docusaurus site, on the reader's own AI: no API keys, nothing to pay per question. Plus the Connect button and WebMCP tools for the browser's agents."
+2026-09-28T19:16:56.022Z,@pushwoosh/websdk-common,0.0.0,pushwoosh-dev,,766,Framework-agnostic code shared by the Pushwoosh WebSDK and the Control Panel
+2026-09-28T19:17:07.637Z,@kweza-observability/monitor,1.0.0,kwezadigitalsolutions-mw,,94782,Zero-config application observability and telemetry SDK for Kweza Observability
+2026-09-28T19:17:09.582Z,gmaps-place-reader,0.1.0,alpersamur3,MIT,86001,"Read Google Maps places with a real browser: search results, business details, the full menu photo album (with photo dates), menu items and photos — no Places API key."
+2026-09-28T19:17:12.224Z,@company-os-hq/aha-os,0.1.0,admetos,UNLICENSED,38099,"Define, design and test the first meaningful product value moment for each user intent."
+2026-09-28T19:17:37.936Z,@company-os-hq/onboarding-os,0.1.0,admetos,UNLICENSED,81646,Build product-specific onboarding and first-dashboard interactions around verified paths to value.
+2026-09-28T19:18:14.13Z,comma-sum-plus,1.0.0,sabbir25500590other,MIT,5848,Sum a comma-separated list of numbers held in a string.
+2026-09-28T19:19:03.073Z,@company-os-hq/install-all,0.1.0,admetos,UNLICENSED,5980,Install independently versioned Company OS agent packages from a verified release catalog
