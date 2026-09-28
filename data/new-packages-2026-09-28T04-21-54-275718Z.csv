@@ -1,0 +1,140 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-28T03:14:49.796Z,@lapius/go-uuid-linux-x64,0.1.1,lapius,MIT,5800435,@lapius/go-uuid の linux-x64 用バイナリ
+2026-09-28T03:14:53.792Z,@lapius/go-uuid-linux-arm64,0.1.1,lapius,MIT,5374457,@lapius/go-uuid の linux-arm64 用バイナリ
+2026-09-28T03:14:58.139Z,@lapius/go-uuid-darwin-x64,0.1.1,lapius,MIT,5895492,@lapius/go-uuid の darwin-x64 用バイナリ
+2026-09-28T03:15:02.595Z,@lapius/go-uuid-darwin-arm64,0.1.1,lapius,MIT,5462364,@lapius/go-uuid の darwin-arm64 用バイナリ
+2026-09-28T03:15:06.372Z,@lapius/go-uuid-win32-x64,0.1.1,lapius,MIT,5928277,@lapius/go-uuid の win32-x64 用バイナリ
+2026-09-28T03:15:09.026Z,@lapius/go-uuid,0.1.1,lapius,MIT,5323,アクセス時に UUID を生成して返すシンプルな HTTP サーバー
+2026-09-28T03:15:33.408Z,@lapius/laping-lang-linux-x64,2.1.1,lapius,MIT,273300,@lapius/laping-lang の linux-x64 用バイナリ
+2026-09-28T03:15:36.508Z,@lapius/laping-lang-linux-arm64,2.1.1,lapius,MIT,270330,@lapius/laping-lang の linux-arm64 用バイナリ
+2026-09-28T03:15:37.036Z,@volter/twin-temporal,0.1.0,aaronvolter,Apache-2.0,1094480,"Local Temporal frontend twin: WorkflowService over gRPC (HTTP/2) on loopback — task queues, workflow and activity tasks, timers on the World clock, signals, queries, children, continue-as-new, visibi…"
+2026-09-28T03:15:39.507Z,@lapius/laping-lang-darwin-x64,2.1.1,lapius,MIT,185052,@lapius/laping-lang の darwin-x64 用バイナリ
+2026-09-28T03:15:42.085Z,@lapius/laping-lang-darwin-arm64,2.1.1,lapius,MIT,232653,@lapius/laping-lang の darwin-arm64 用バイナリ
+2026-09-28T03:15:44.823Z,@lapius/laping-lang-win32-x64,2.1.1,lapius,MIT,298336,@lapius/laping-lang の win32-x64 用バイナリ
+2026-09-28T03:15:47.779Z,@lapius/laping-lang,2.1.1,lapius,MIT,53953,読んだ順に理解できて、間違いにすぐ気づけることを目指したプログラミング言語 Laping のインタプリタ（laping）
+2026-09-28T03:16:03.55Z,@lapius/password-gl,2.2.5,lapius,MIT,55273,セキュアなパスワード / パスフレーズを1コマンドで生成する CLI（要 Python 3.9+）
+2026-09-28T03:16:09.53Z,@lapius/tsbuild,1.3.7,lapius,MIT,29748,Bun + TypeScript 開発サーバーをホットリロード付きで1コマンド起動する CLI（要 Python 3.9+）
+2026-09-28T03:16:15.652Z,@lapius/tssetup,1.3.7,lapius,MIT,41545,Bun + TypeScript フロントエンド環境を1コマンドで構築する CLI（要 Python 3.9+）
+2026-09-28T03:16:22.135Z,@lapius/clilap,0.1.1,lapius,MIT,23398,clilap.org（天気・チートシート・GitHub・DNS・ハッシュなど）をターミナルから使う CLI
+2026-09-28T03:17:48.329Z,@volter/twin-redis,0.1.0,aaronvolter,Apache-2.0,400182,"Local Redis twin: a real RESP2/RESP3 server (ioredis, node-redis and BullMQ connect unmodified) over the kernel's Redis command core, keys held as World subjects. Served containerless as a World's ma…"
+2026-09-28T03:19:07.83Z,tree-sitter-aspx,0.1.0,meloncholic,MIT,293136,Tree-sitter grammar for ASP.NET Web Forms markup
+2026-09-28T03:19:52.917Z,@school-of-company/nestjs-eureka,0.1.0,suuuuuuminnnnnn,MIT,87551,NestJS integration for Netflix Eureka service registration and discovery
+2026-09-28T03:20:06.519Z,sendping-mcp,1.0.0,sbh7435,MIT,148525,SendPing MCP server — give your AI agent native access to the SendPing email API over the Model Context Protocol (stdio + HTTP).
+2026-09-28T03:20:17.077Z,podcast-reader,0.1.0,william-zxs,UNLICENSED,8229,Find and download published podcast EPUBs from Podcast Reader
+2026-09-28T03:20:27.55Z,zcode-web-agent,3.14.6,dingx,Apache-2.0,267596686,ZCode Web + Agent runtime: browser UI with a local agent backend.
+2026-09-28T03:20:43.121Z,@stuga/pi-package,0.1.0,imers,MIT,38669,"Connect Pi to Stuga: its MCP tools through pi-mcp-adapter, with OAuth sign-in or an agent key, the workspace's conventions in the system prompt, and playbook skills for reviewed edits."
+2026-09-28T03:21:17.27Z,sasacode-plugin-jev-guard,1.0.0,sasanokusa,Apache-2.0,47043,"A second opinion on tool calls from TypeSafe's Jev before they run: stops dangerous calls that would run unasked, hands safe softDeny calls to you"
+2026-09-28T03:23:43.701Z,intent-agent-kit,0.1.1,yorsal,MIT,533969,"A framework-agnostic, pluggable, multi-engine intent recognition library for AI Agents."
+2026-09-28T03:23:51.305Z,autofindskills,0.1.0,alejandro-ux359,SEE LICENSE IN LICENSE,136244,"Intelligent skills manager — detecta tu stack y encuentra, rankea e instala los skills de IA más relevantes para tu proyecto"
+2026-09-28T03:23:57.004Z,@biliup/cli,1.2.8,forgqi,MIT,6304,biliup 直播录制与投稿工具的原生二进制，npx @biliup/cli server 直接运行
+2026-09-28T03:24:05.093Z,create-takiroui,0.0.0,lannerk,UNLICENSED,220,Project scaffolder for Takiro UI — coming soon.
+2026-09-28T03:24:25.389Z,@sequenceholdings/storage,0.1.0,tailaiwang,UNLICENSED,76158,Atlas workspace storage contracts and streaming client
+2026-09-28T03:24:28.567Z,@sequenceholdings/managed-functions,0.1.1,tailaiwang,UNLICENSED,2432288,Managed Function context and opt-in cache runtime
+2026-09-28T03:24:34.359Z,@volter/twin-mongodb,0.1.0,aaronvolter,Apache-2.0,563533,"Local MongoDB twin: the MongoDB wire protocol (OP_MSG and the OP_QUERY handshake) served from the World state kernel, so an unmodified mongodb driver or mongoose app runs with nothing installed and n…"
+2026-09-28T03:25:23.63Z,pi-video-read,0.1.0,aiconductor,MIT,130159,pi 扩展：用 qwen3.8-omni-flash 读视频（画面 + 声音/口播转写）。本地文件自动分流 base64 内联或百炼官方临时上传，也支持 http(s) / oss:// 输入；quick/standard/fine 三档。
+2026-09-28T03:25:50.064Z,@ghostry/fabricator-census,0.0.1,prebsch,MIT,127153,"Take a census of real data and get @ghostry/fabricator schema suggestions — distributions, presence weights, string lengths and compositions, enums — with PostgreSQL sampling and aggregate helpers."
+2026-09-28T03:27:14.924Z,@afeisite/deepmerge-clone,4.3.2,w530385371,MIT,32354,"A fork of deepmerge for deep (recursive) merging of JavaScript objects, with the prototype pollution vulnerability (CVE-2022-25883) fixed"
+2026-09-28T03:27:46.454Z,kingpost,0.0.1,jacktym,UNLICENSED,398,Coordination layer for teams of coding agents.
+2026-09-28T03:28:03.375Z,react-native-rate_npm_test,1.2.13,binghao_yuan,MIT,69264,React Native Rate for HarmonyOS.
+2026-09-28T03:29:56.967Z,apits-gen,1.0.0,zimv,,299169,"Based on the OpenAPI specification, generate request and response type declarations and request method bodies for APIs"
+2026-09-28T03:30:29.02Z,@hxa-rn/react-native-webrtc,0.0.1-beta,weixin_53568707,MIT,6569743,WebRTC for React Native — HarmonyOS (OpenHarmony) adaptation of @livekit/react-native-webrtc
+2026-09-28T03:31:55.895Z,@skillz.supply/lexicon,0.1.0,stordahl_,MIT,8293,The supply.skillz.skill AT Protocol lexicon and portable record helpers
+2026-09-28T03:32:11.621Z,@digitalbastion/opsdeck,0.1.0-alpha.1,martynas-zilinskas,MIT,93037395,"Interactive GitOps image promotion with reviewed, safe local changes"
+2026-09-28T03:32:40.283Z,@glixo/glxdev,0.2.0,glixo,,3026714,Local Glixo extension authoring CLI
+2026-09-28T03:32:59.307Z,dsh-alt-enter-newline,1.0.0,liggest,MIT,8380,Alt+Enter inserts a newline in the DeepSeek Harness Web composer
+2026-09-28T03:33:21.756Z,@appaihelp/cli,0.1.0-dev.3,appaihelp,MIT,495720,AppAIHelp Code Agent CLI
+2026-09-28T03:33:36.061Z,@seve2us/dsh-awake,0.2.2-beta.0,seve2us,MIT,490457,DeepSeek Harness 防休眠插件（守夜人）：agent 任务执行期间阻止操作系统休眠，任务结束后恢复；方式子系统（systemd-inhibit / GNOME gsettings / caffeinate / pmset / PowerShell / powercfg）+ 浏览器 Wake Lock + 一键更新
+2026-09-28T03:33:36.96Z,@fractaldesign/fractalsvelte-ui,0.6.1,fractaldesign,MIT,747589,"A Sass-first, token-driven Svelte component library."
+2026-09-28T03:34:24.142Z,agent-rt,0.0.0,prane-eth,MIT,709,Reserved package name for the Agent RT project.
+2026-09-28T03:35:22.788Z,@ohos-ports/complain,1.6.1-beta.0,ljry,MIT,10531,Mark methods as deprecated and warn the user when they're called (HarmonyOS port)
+2026-09-28T03:35:58.959Z,@yuemoon/grapheme,0.2.0,reyn,MIT,235219,a grapheme library in common purpose
+2026-09-28T03:36:14.174Z,@ohos-ports/ffmpeg,9.0.2-beta.0,ljry,LGPL-2.1-or-later,42648026,Prebuilt ffmpeg and ffprobe binaries for HarmonyOS (OpenHarmony) aarch64
+2026-09-28T03:36:25.57Z,@ohos-ports/ffmpeg-probe,1.0.6-beta.0,ljry,MIT,2220,Wrapper around ffprobe for HarmonyOS - auto-configures FFPROBE_PATH from @ohos-ports/ffmpeg
+2026-09-28T03:36:38.984Z,aeyes-local-agent,0.2.0,ykums,MIT,210830,AeyeStudio 내 PC 연결용 로컬 MCP 에이전트
+2026-09-28T03:37:08.878Z,create-minc,1.0.3,tamfrost,MIT,116905,"Scaffold a local MicroShift-in-Container (minc) OpenShift/Kubernetes dev cluster, with optional Console, CloudNativePG Postgres, and Argo CD."
+2026-09-28T03:37:39.497Z,agent-rt-lite,0.0.0,prane-eth,MIT,713,Minimal Agent RT Lite placeholder package.
+2026-09-28T03:38:19.988Z,@phantomid/mcp-server,0.1.1,phantomidmcp-server,,42640,PHANTOM ID MCP payment server for agent-to-agent payments.
+2026-09-28T03:39:50.135Z,@supacloud/delivery,0.2.0,vicerz,MIT,357912,Shared immutable delivery artifact contracts and verification for SupaCloud
+2026-09-28T03:40:50.742Z,@polkadot-cloud/hooks,0.1.0,polkadotcloud,GPL-3.0-only,9596,Shared React hooks and safe context helpers
+2026-09-28T03:41:10.503Z,@polkadot-cloud/util-dedot,0.1.0,polkadotcloud,GPL-3.0-only,6735,Dedot utilities for formatting and validating Substrate addresses
+2026-09-28T03:41:52.321Z,@darkdragonsastro/digikey-mcp,0.1.0,dda-rick,ISC,29802,MCP server for the DigiKey ProductInformation V4 and Reference APIs
+2026-09-28T03:43:15.339Z,opencode-v2-gemini-usage-billing,1.0.0,ahmadmcer,MIT,71670,"OpenCode V2 plugin for tracking Gemini API Key Usage, Rate Limits, Spend, and Billing"
+2026-09-28T03:43:19.269Z,@devpossible/aa-sdlc-cli-darwin-arm64,0.1.0-alpha.1,devpossible,FSL-1.1-ALv2,3656673,The aa CLI binary for darwin-arm64. Installed by the aa-sdlc package as an optional dependency; installable on its own.
+2026-09-28T03:43:22.376Z,@devpossible/aa-sdlc-cli-darwin-x64,0.1.0-alpha.1,devpossible,FSL-1.1-ALv2,3841289,The aa CLI binary for darwin-x64. Installed by the aa-sdlc package as an optional dependency; installable on its own.
+2026-09-28T03:43:25.343Z,@devpossible/aa-sdlc-cli-linux-arm64,0.1.0-alpha.1,devpossible,FSL-1.1-ALv2,3740046,The aa CLI binary for linux-arm64. Installed by the aa-sdlc package as an optional dependency; installable on its own.
+2026-09-28T03:43:28.246Z,@devpossible/aa-sdlc-cli-linux-x64,0.1.0-alpha.1,devpossible,FSL-1.1-ALv2,3850632,The aa CLI binary for linux-x64. Installed by the aa-sdlc package as an optional dependency; installable on its own.
+2026-09-28T03:43:31.267Z,@devpossible/aa-sdlc-cli-win32-arm64,0.1.0-alpha.1,devpossible,FSL-1.1-ALv2,3738076,The aa CLI binary for win32-arm64. Installed by the aa-sdlc package as an optional dependency; installable on its own.
+2026-09-28T03:43:34.196Z,@devpossible/aa-sdlc-cli-win32-x64,0.1.0-alpha.1,devpossible,FSL-1.1-ALv2,4022230,The aa CLI binary for win32-x64. Installed by the aa-sdlc package as an optional dependency; installable on its own.
+2026-09-28T03:43:36.831Z,aa-sdlc,0.1.0-alpha.1,devpossible,FSL-1.1-ALv2,7072,"The aa CLI for the AA-SDLC framework: bootstrap a machine and a repository, then work through your agent. A native Go binary per platform, delivered through npm."
+2026-09-28T03:43:55.249Z,@zhushanwen/z-words-reminder,0.2.0,zhushanwen321,MIT,14194,Periodic readability reminder for zcode: UserPromptSubmit hook injects a concept-grounding + lexicon reminder every 3rd user message.
+2026-09-28T03:44:39.963Z,@portrayal/kit,0.1.0,portrayal,Apache-2.0,639113,"Read, draw, inspect and export Portrayal device artifacts. Consumes compiled SVG + JSON; never reads YAML."
+2026-09-28T03:45:19.865Z,@gitmyabi/proxy-nati,1.0.0,gitmyabi-bot,MIT,68793,"Auto-generated TypeScript type bindings for _PROXY_NATI_ (build etherscan-proxy-nati-4f14e88b-1790567020657, commit eda52b4, branch etherscan)"
+2026-09-28T03:46:34.886Z,ableton-multi-mcp,0.1.0,lirish30,MIT,33997,"Open multiple Ableton Live projects at once on macOS, via MCP."
+2026-09-28T03:47:09.945Z,tree-sitter-css-strict,0.1.0,meloncholic,MIT,1043386,Strict CSS grammar for tree-sitter
+2026-09-28T03:48:03.789Z,queen-senaya,1.0.1,naviiii,MIT,10693398,"Queen/Senaya Modified WhatsApp Web API Library — Fixed Auto Status Emoji React (LID + PN), Built-in Anti-Delete Message Recovery, Interactive Buttons & Turbo Media Upload."
+2026-09-28T03:48:26.829Z,@azure/provisioning-core,1.0.0-beta.1,microsoft1es,MIT,2832756,Core primitives for the Azure Provisioning library
+2026-09-28T03:48:42.033Z,@naviiii/queen-senaya,1.0.1,naviiii,MIT,10693479,"Queen/Senaya Modified WhatsApp Web API Library — Fixed Auto Status Emoji React (LID + PN), Built-in Anti-Delete Message Recovery, Interactive Buttons & Turbo Media Upload."
+2026-09-28T03:48:57.171Z,@peri-code/hindsight,0.8.0,konghayao,MIT,869798,"Long-term memory for Claude Code: recalls relevant context before each prompt, retains conversations afterwards, and exposes knowledge tools over MCP."
+2026-09-28T03:49:07.44Z,@uniflowed/sql,0.14.0,ubugeeei,MIT,80544,"The runtime for sqlc's Flow target: exact codecs and driver adapters, part of the Unified Toolchain for Flow."
+2026-09-28T03:49:09.587Z,@uniflowed/std,0.14.0,ubugeeei,MIT,214071,"Flow declarations for @uniflowed/std, part of the Unified Toolchain for Flow."
+2026-09-28T03:49:11.51Z,@uniflowed/vrt,0.14.0,ubugeeei,MIT,2456,Chromium test pages and visual comparisons for Flow applications.
+2026-09-28T03:50:51.005Z,@readystack/kani-kazei-shokuhin-1pct-lint-jp,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,40601,売上帳CSVの税率と事業区分を検査し、1%特例込みで納付税額を概算
+2026-09-28T03:51:01.763Z,reborn-video-kit,1.0.0,kimsungjun,SEE LICENSE IN README.md,22425459,클로드 코드에 영상 스킬 셋(모션HD · 디오라마 · 연출팩)을 한 줄로 붙입니다 — 말로 시키면 세로 릴스·쇼츠 모션그래픽 영상(1080×1920 mp4)이 나옵니다. 부품 400여 종 · 전부 코드로 돌아 비용이 들지 않습니다.
+2026-09-28T03:51:17.309Z,@readystack/barrierefreiheitserklaerung-check,1.0.1,readystack,SEE LICENSE IN LICENSE.txt,36391,Pflichtangaben nach BFSG Anlage 3 und BITV 2.0 § 7 in VS Code prüfen
+2026-09-28T03:51:17.31Z,@ys-knife-crud/core,0.0.1,obpt123,MIT,179063,"Framework-agnostic CRUD core: data source contract, in-memory implementation and queryable CRUD manager"
+2026-09-28T03:51:38.761Z,@readystack/mssql-container-licence-lint,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,36424,"mssql docker licence check for compose, Kubernetes and Dockerfiles"
+2026-09-28T03:51:45.421Z,@expressive/dom,0.1.0,gabeklein,MIT,188655,MVC-native DOM renderer.
+2026-09-28T03:51:53.159Z,@international-iot-association/qr-scanner,1.0.0,bijiabo,,771930,可复用的摄像头 + 二维码识别能力（框架无关核心 + React 钩子/组件），供各插件直接引用，避免重复实现。
+2026-09-28T03:52:07.333Z,@readystack/rds-extended-support-cost-lint,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,36849,Prices the AWS Extended Support surcharge on every RDS and Aurora database in your .tf files
+2026-09-28T03:52:08.476Z,env-diff-01,1.0.0,parthwkodikar,MIT,3121,Safely compare two .env files without exposing secret values
+2026-09-28T03:52:23.519Z,@digi-kernel/digi-kernel-constrains,0.0.1-security,npm,,480,security holding package
+2026-09-28T03:52:28.83Z,@readystack/nuget-commercial-license-gate,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,32675,"Flags AutoMapper 15+, MediatR 13+, FluentAssertions 8+, MassTransit 9+ and other NuGet versions past their licence line, with the pin"
+2026-09-28T03:52:34.195Z,rolit-cli,0.1.3,kavishankarrolit,SEE LICENSE IN https://github.com/recnos-in/rolit-cli-releases,7798,Installer for the rolit CLI (downloads the native binary for your platform on install)
+2026-09-28T03:52:38.237Z,@topcoat-cloudflare/adapter,0.1.0,kdcokenny,MIT,73299,Build and deploy Topcoat applications on Cloudflare Workers.
+2026-09-28T03:52:46.485Z,@readystack/aks-eks-support-cliff-lint,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,36613,"Terraform EKS and AKS version check: sample clusters.tf on 2026-09-27 — $2,256 extra on EKS 1.32 since 2026-03-23, $3,660 on 1.31 since 2025-11-26, $5,916 total; 9 rules"
+2026-09-28T03:53:03.297Z,@readystack/dienstanweisung-bewachung-lint,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,37194,"Pflichtinhalte nach § 17, 18, 20 BewachV und § 34a Abs. 1a GewO"
+2026-09-28T03:53:19.025Z,@readystack/mahnung-vorlagen-check-de,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,36215,"Widerspruch gegen den Mahnbescheid zwei Wochen (§ 692 Abs. 1 Nr. 3 ZPO), Einspruch gegen den Vollstreckungsbescheid zwei Wochen (§ 339 ZPO), Verzugszins 5 oder 9 Prozentpunkte und 40-Euro-Pauschale (§"
+2026-09-28T03:53:29.514Z,@ys-knife-crud/export-exceljs,0.0.1,obpt123,MIT,26360,ExcelJS implementation of the ys.knife.crud ExportApi contract (browser-friendly)
+2026-09-28T03:53:34.381Z,@readystack/resilience-plan-lint,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,33284,"Critical infrastructure risk assessment and resilience plan checks against EU CER Directive 2022/2557 Art. 12-15: initial incident notice within 24 hours, detailed report within one month, first asses"
+2026-09-28T03:53:50.822Z,@ys-knife-crud/import-exceljs,0.0.1,obpt123,MIT,19463,ExcelJS implementation of the ys.knife.crud ImportParser contract (browser-friendly)
+2026-09-28T03:53:51.389Z,@readystack/cnpj-alfanumerico-lint,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,34182,"Acha regex \d{14}, replace(/\D/g), parseInt no DV e coluna BIGINT antes que recusem o CNPJ alfanumérico (IN RFB nº 2.229/2024)"
+2026-09-28T03:54:08.503Z,@readystack/dividenden-quellensteuer-lint,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,35793,"Ausländische Dividenden versteuern ohne Überhang: Die Beispiel CSV mit 10 Dividenden ergibt 8 Findings und 495,00 € Quellensteuer über dem DBA-Satz, davon 120,00 € verfallen (Roche 2022, Frist 2025-12"
+2026-09-28T03:54:22.166Z,@ys-knife-crud/vue,0.0.1,obpt123,MIT,392736,"Vue 3 composables for ys.knife.crud (column config, excel export, row actions, row selection) — UI-library agnostic"
+2026-09-28T03:54:27.394Z,@readystack/gensen-choshu-rate-lint-jp,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,32114,源泉徴収 計算コードを国税庁の式で検査する VS Code 拡張
+2026-09-28T03:54:43.284Z,@readystack/beancount-auslandsumsatz-lint,1.0.1,readystack,SEE LICENSE IN LICENSE.txt,37145,"Prüft Beancount- und hledger-Journale mit 10 rules auf Euro-Umrechnung, USt-IdNr., Reverse Charge und ZM-Frist (§ 18a UStG)"
+2026-09-28T03:54:44.201Z,@ys-knife-crud/element-plus,0.0.1,obpt123,MIT,926619,Vue 3 + element-plus UI components for ys.knife.crud
+2026-09-28T03:54:59.081Z,@readystack/bitnami-image-catalog-gate,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,31286,"Finds the Bitnami image lines that broke on 2025-09-29, when versioned docker.io/bitnami tags moved to the frozen docker.io/bitnamilegacy archive"
+2026-09-28T03:55:17.001Z,@readystack/docker-hub-pull-limit-lint,1.0.0,readystack,SEE LICENSE IN LICENSE.txt,37964,"Finds every anonymous Docker Hub pull in GitHub Actions, compose, GitLab CI, Kubernetes and Dockerfiles, including the service containers your login step never covers. Docker Hub limit: 100 pulls per"
+2026-09-28T03:55:30.613Z,@shiyld/indexer-core,1.0.1,abtinji,MIT,270036,"Shared indexer logic for the Shiyld privacy protocol — multi-network event ingestion, Merkle proof serving, and a versioned read API. Used by apps/indexer and embeddable directly into a third-party s…"
+2026-09-28T03:58:33.893Z,@hozu/transform,0.5.0,olevator,MIT,45174,"Lets Hozu builder callbacks use ordinary TypeScript (===, ?:, &&, template strings, assignments) by lowering it to the IR's explicit forms"
+2026-09-28T03:59:51.199Z,abrcdbra,0.0.0,basedwon,MIT,200,
+2026-09-28T04:00:37.738Z,@moneyfi/sdk-v2,0.1.0,moneyfi-v2,MIT,134555,TypeScript SDK for MoneyFi Partner APIs
+2026-09-28T04:00:40.967Z,myfree-ui,0.1.1,jackeagle,MIT,688837,FreeUI - 一套精致、多变体的 React 组件库（基于 Tailwind CSS）
+2026-09-28T04:04:07.629Z,@polkadot-cloud/ui,0.1.0,polkadotcloud,GPL-3.0-only,102841,React components for Polkadot identicons and animated numbers
+2026-09-28T04:04:32.71Z,@baseland/dsh-evidence,0.6.0-beta.1,baseland,MIT,380530,"Independent community DeepSeek Harness plugin for secure multi-file upload, native images, local document retrieval, and coordinate-aware text/PDF/DOCX/XLSX/PPTX reading."
+2026-09-28T04:04:37.477Z,prediction-market-signal-mcp,0.1.0,baldwijw,MIT,37341,"MCP server for Polymarket + Kalshi prediction-market odds, movers, history, gaps, and X/Twitter sentiment — no API key, no subscription. Pays per call in USDC on Base via x402 from your own wallet."
+2026-09-28T04:05:18.432Z,pi-robot-hand,0.1.0,weihung1017,MIT,12550,"Pi extension: the agent hands the user a command, and after the user agrees it lands in the pi prompt or the clipboard, never run by the agent"
+2026-09-28T04:05:24.736Z,@mbears/zcode-rs-darwin-arm64,0.1.0,mbear,Apache-2.0,33570265,ZCode Rust executable for darwin-arm64
+2026-09-28T04:05:30.625Z,discord-players,0.0.1-security,npm,,436,security holding package
+2026-09-28T04:05:34.149Z,discord-resolvers,0.0.1-security,npm,,440,security holding package
+2026-09-28T04:05:37.649Z,spotify-url-resolvers,0.0.1-security,npm,,448,security holding package
+2026-09-28T04:05:44.043Z,@mbears/zcode-rs,0.1.0,mbear,Apache-2.0,33458,Rust CLI launcher for the installed ZCode 3.14.3 desktop app
+2026-09-28T04:06:20.769Z,internet-archaeology-museum,0.1.0,m1mdd1xcw,MIT,462927,Explore the history of the internet in a local interactive museum.
+2026-09-28T04:06:27.233Z,revealy,0.1.0,mahmoud.barmawi,MIT,9203,"Animate elements as they scroll into view. Tiny, dependency-free, framework-agnostic."
+2026-09-28T04:06:49.818Z,@consts/links,0.0.1-security,npm,,436,security holding package
+2026-09-28T04:07:02.741Z,yangming2026,1.0.0,frisian.carreon,,78217,
+2026-09-28T04:07:55.836Z,@lapius/lapacks,0.1.0,lapius,MIT,61081,@lapius のパッケージ（why・sca・laping など）をまとめて一覧・インストール・更新・削除できる管理 CLI
+2026-09-28T04:08:30.515Z,codex-session-sync-cli,0.1.1,hercolor,MIT,187510,"Sync, back up, and manage local OpenAI Codex sessions across machines via WebDAV — CLI + local Web GUI. Cold sync, snapshots, session rename/delete, provider merge."
+2026-09-28T04:08:33.613Z,create-tangle-sandbox,0.1.0,drewstone,,9799,Scaffold a new Tangle Sandbox project
+2026-09-28T04:10:48.246Z,@cubyt/navigation,1.0.0,cubytbot,MIT,8601,Browser navigation and safe redirect helpers for Cubyt apps
+2026-09-28T04:11:28.636Z,@cubyt/style,1.0.0,cubytbot,MIT,9378,Shared CSS design tokens and brand assets for Cubyt products
+2026-09-28T04:12:07.657Z,jbrowse-plugin-tandem-repeat,0.1.1,cmdcolin,MIT,90939,"JBrowse 2 view of a tandem repeat's alleles: one bar per haplotype, each copy coloured by its repeat unit, read from VCF 4.5 <CNV:TR> records"
+2026-09-28T04:12:17.95Z,@transfocus-tms/sdk,1.0.0,qadir0108,SEE LICENSE IN LICENSE.txt,321402,"Official Node.js/TypeScript client for the Transfocus TMS public API (v1 and v2): typed resource clients, partner password-grant authentication with token refresh, retries, pagination and structured…"
+2026-09-28T04:12:47.69Z,@enforly/sdk,0.1.0,lautixon,ISC,14226,Server-side JavaScript and TypeScript client for the Enforly guardrails API
+2026-09-28T04:12:56.96Z,meowapps,0.1.0,tien200996,MIT,22674,
+2026-09-28T04:13:17.494Z,@bstage-sdk/ai-toolkit,0.5.0,bemyfriends,MIT,261412,bstage SDK ai-toolkit — 에이전트용 스킬·AGENTS.md 콘텐츠(cli가 소비)
+2026-09-28T04:13:29.538Z,@readystack/avv-pruefer-art28-lint,1.0.1,readystack,SEE LICENSE IN LICENSE.txt,34053,"Auftragsverarbeitungsvertrag Check für Markdown-AVVs: 20 Regeln zu Art. 28 Abs. 2 und 3 und Art. 33 Abs. 2 DSGVO, direkt in VS Code und im Browser."
+2026-09-28T04:14:12.728Z,null3d,0.0.1,hiddentao,MIT OR Apache-2.0,957,null3d is a browser 3D engine for games and heavy 3D apps. Install @null3d/engine and @null3d/cli.
+2026-09-28T04:18:29.735Z,pandas-py-prof,1.0.0,aadil-p-1,ISC,33276,test pandas
+2026-09-28T04:19:12.171Z,kasera-pay,0.1.0,kartubi,MIT,75228,Official JavaScript/TypeScript SDK for Kasera Pay: accept QRIS and Virtual Account payments in Indonesia.
+2026-09-28T04:20:46.25Z,phayun,3.0.0,tonprince,,17216077,
