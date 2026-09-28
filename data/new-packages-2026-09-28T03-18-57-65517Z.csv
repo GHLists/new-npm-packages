@@ -1,0 +1,135 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-28T02:15:35.209Z,@vouchington/request-contract-validation,0.0.1,jongleberry,MIT,7662,Bundle-injected runtime validation of request contract carriers.
+2026-09-28T02:15:59.987Z,@cyberine/tokenburn,0.1.1,niafam11,MIT,517984,"Token usage and cost reports across every coding agent CLI on your machine: Claude Code, Codex, OpenCode, Gemini CLI, Muse Code, Command Code and more."
+2026-09-28T02:16:11.084Z,@rove-code/cli-linux-arm64,0.0.2-preview.20260927.651,hafiezul,MIT,347263759,Rove Code CLI executable for linux-arm64
+2026-09-28T02:16:23.922Z,@deot/vc-locale,1.1.0,deot,MIT,24583,`@deot/vc-locale` 提供 `@deot/vc` 使用的语言类型和语言数据。子包本身不依赖 Vue，也不包含响应式状态、Translator、Hook 或 Provider。
+2026-09-28T02:16:33.441Z,@gagansd/pi-ask,0.1.0,tiredhades,MIT,174393,TUI interviews for Pi. Ask one decision at a time.
+2026-09-28T02:17:38.344Z,@rove-code/cli-linux-x64,0.0.2-preview.20260927.651,hafiezul,MIT,352439429,Rove Code CLI executable for linux-x64
+2026-09-28T02:19:13.835Z,@taylorsatula/pi-checkbox-picker,0.1.0,taylorsatula,MIT,35461,"Interactive checkbox picker tool for Pi — presents a grouped list of items the user cherry-picks with SPACE and submits as one subset. For 'which of these do we act on?' decisions, where single-choic…"
+2026-09-28T02:20:13.375Z,@ohos-ports/ping,0.4.2-beta.0,ljry,MIT,81142,a simple wrapper for ping
+2026-09-28T02:21:00.5Z,@rove-code/cli-win32-arm64,0.0.2-preview.20260927.651,hafiezul,MIT,310777375,Rove Code CLI executable for win32-arm64
+2026-09-28T02:21:48.222Z,@dsh-cc/tool-manage-skill,0.8.1,jianxx,Apache-2.0,30551,"CC-style manage_skill tool: create/update/delete/list learned skills under $DSH_HOME/learned-skills via the shared LearnedSkillStore, gated by the cc-learn.enabled setting"
+2026-09-28T02:22:04.093Z,@mmj-map/tiles,0.1.0,metataro,MIT,61105,公開データ（Protomaps 日次ビルド）と公開ツール（go-pmtiles）だけで、地球上の好きな範囲の PMTiles を切り出す
+2026-09-28T02:22:39.76Z,@rove-code/cli-win32-x64,0.0.2-preview.20260927.651,hafiezul,MIT,322803358,Rove Code CLI executable for win32-x64
+2026-09-28T02:22:52.176Z,@rove-code/cli,0.0.2-preview.20260927.651,hafiezul,MIT,2053,Rove Code CLI. Installs the self-contained executable for this platform.
+2026-09-28T02:23:34.563Z,@dsh-cc/advisor-watchdog,0.8.1,jianxx,Apache-2.0,109271,Advisor watchdog: an opt-in second model (cheap lane via runSideQuery) reading every completed turn's delta and injecting severity-tiered advisory notes at the next step; default off
+2026-09-28T02:24:17.278Z,@dsh-cc/command-commit-split,0.8.1,jianxx,Apache-2.0,54886,Advisory dry-run /commit-split command: collects the working-tree diff and asks the deep-reasoning lane for an ordered atomic-commit split plan; never commits
+2026-09-28T02:25:11.623Z,appdrift-mcp,0.2.1,semrebayrak,MIT,68997,Read AppDrift keyword observations and prepare reviewable listing drafts with MCP. AI actions consume AppDrift tokens.
+2026-09-28T02:25:22.982Z,shippified-sdk,0.2.2,thinklikeajew,MIT,58652,"TypeScript client for the Shippified REST API: orders, tracking, email intake, templates, webhooks, share cards."
+2026-09-28T02:25:32.107Z,mcp-shippified,0.2.2,thinklikeajew,MIT,56793,"Model Context Protocol server for Shippified. Lets Claude (and other MCP clients) work with orders, email intake, templates, webhooks and stats in your workspace."
+2026-09-28T02:25:34.477Z,@preloop-dev/cli,0.33.6,bnjoroge,MIT,73035,Preloop CI command-line interface
+2026-09-28T02:27:12.837Z,@tinysquid/agent-loop,0.1.1,tinysquid,MIT,102601,Terminal agent loop powered by OpenRouter
+2026-09-28T02:27:51.111Z,@dsh-cc/lsp-on-write,0.8.1,jianxx,Apache-2.0,65274,"LSP diagnostics-on-write: after a successful edit/write/NotebookEdit, pull the touched file's diagnostics from the running serena language servers via the mcpConnections registry and append them into…"
+2026-09-28T02:28:21.975Z,periplo,0.1.0,vaiosx,Apache-2.0,113417,"Client library for x402 payments on Stellar, focused on upto: sign a spending ceiling once, settle only the real usage."
+2026-09-28T02:28:34.405Z,@dsh-cc/transcript-secrets,0.8.1,jianxx,Apache-2.0,27654,"One-way transcript secret redaction: built-in credential regexes, env-name patterns, and the cc-secrets settings reader"
+2026-09-28T02:29:11.539Z,pi-superpower-subagent-reporting,0.1.0,rgesulgon,,6041,Pi completion hook and reporting skill for Superpowers subagents
+2026-09-28T02:29:14.134Z,socketx-client-public,2.0.0-beta.1,trevor.blackman,ISC,617642,"SocketX Client is the JavaScript WebSocket client for the SocketX server in the Eclypses marketplace images. It bundles the MTE library and its license, so it installs with no setup. See https://sock…"
+2026-09-28T02:30:07.107Z,dsh-plugin-superpowers,0.1.1,crazy_tong,MIT,384717,"obra/superpowers skills for DeepSeek Harness: 14 development-methodology skills (brainstorming, writing/executing plans, subagent-driven development, TDD, systematic debugging, code review, verificat…"
+2026-09-28T02:30:20.118Z,@dsh-cc/plugin-cc-codex-bridge,0.8.1,jianxx,Apache-2.0,61215,"Official dsh-cc plugin: an approval-free Codex rescue lane — one canonical, locked-down bash invocation auto-allowed via a PreToolUse hook, with Codex's internal sandbox off while the dsh outer sandb…"
+2026-09-28T02:30:30.627Z,@dsh-cc/plugin-cc-grok-bridge,0.8.1,jianxx,Apache-2.0,78750,"Official dsh-cc plugin: an approval-free Grok review lane — one canonical, locked-down bash invocation auto-allowed via a PreToolUse hook, with Grok's tool approvals bypassed inside the run while the…"
+2026-09-28T02:30:33.068Z,@gitmyabi/satt,1.0.0,gitmyabi-bot,MIT,62056,"Auto-generated TypeScript type bindings for SATT (build etherscan-satt-df49c9f5-1790562534692, commit 30719ae, branch etherscan)"
+2026-09-28T02:31:18.083Z,@usevaris/sdk,0.1.0,enitsugua,MIT,48038,Declare Varis services in TypeScript and verify requests from the Varis gateway.
+2026-09-28T02:31:21.607Z,@usevaris/build,0.1.0,enitsugua,MIT,120903,Generates varis.json from the define calls in a TypeScript project.
+2026-09-28T02:32:32.057Z,@trev.zip/solid-toast,1.0.0,spotdemo4,MIT,57130,Unstyled toast notifications for SolidJS 2
+2026-09-28T02:32:53.301Z,@starterlib/cli,0.10.2,arnoldkom,UNLICENSED,147657,"Chaine de verification et de construction des SPA du socle frontal starter : starter-web verify, construire, sprite, manifeste, precompresser. Jamais en dependance de production."
+2026-09-28T02:32:55.735Z,@starterlib/eslint-config,0.10.2,arnoldkom,UNLICENSED,17366,"Configuration ESLint d'une SPA du socle frontal starter, parametree par son prefixe, et configuration stylelint de ses feuilles. Remplace les eslint.config.mjs recopies."
+2026-09-28T02:32:58.242Z,@starterlib/eslint-plugin,0.10.2,arnoldkom,UNLICENSED,13871,"Regles ESLint du socle frontal starter (gabarits et code des SPA) : no-raw-interactive, no-literal-text, no-angular-locale-pipes, route-has-title, no-toast-danger, no-free-text-query-param. Active pa…"
+2026-09-28T02:33:15.763Z,dsh-cursor-theme,0.3.0,auki-zy,MIT,2130144,Customize the PC mouse cursor for every UI state inside DeepSeek Harness. 在 DSH 里自定义鼠标各种状态的图案。
+2026-09-28T02:33:51.604Z,@huangyucn/atlas-sdk-ts,0.6.0,atlas4games,Apache-2.0,1222203,Atlas 帧协议的 TypeScript 客户端 SDK：帧编解码 + 运行时内核 + WebSocket/TCP/UDP 通道（浏览器与 Node 双目标）
+2026-09-28T02:34:20.399Z,@maolon/pi-relay,0.1.0,maolon,MIT,931864,"Session mail and a durable local event relay for Pi: let Pi sessions message each other, and let external CLIs and extensions wake a session with events."
+2026-09-28T02:39:17.152Z,coda-secure-cli,0.2.3,thembax,UNLICENSED,292015,"coda-secure from the command line: every action of the app and the API, plus operator tools."
+2026-09-28T02:39:59.354Z,droidx,0.1.0,koukyo738,MIT,27650,Run Factory Droid with the best available API-key profile. Auto-selects by remaining quota.
+2026-09-28T02:40:17.652Z,@ohos-ports/stackbit-dev-common,1.0.44-beta.0,ljry,MIT,1232091,stackbit-dev (HarmonyOS port - lmdb replaced with @ohos-ports/lmdb)
+2026-09-28T02:40:22.009Z,pwarelay,0.0.1,tevinx,MIT,2807,"PWARelay CLI: PWA lifecycle infrastructure. Placeholder release, the full CLI is in development."
+2026-09-28T02:40:59.009Z,@intentius/chant-lexicon-prometheus,0.97.0,lex00,Apache-2.0,369576,"Prometheus lexicon for chant — typed recording and alerting rule groups and Alertmanager routing, serialized to a rule file and alertmanager.yml"
+2026-09-28T02:41:25.58Z,@intentius/chant-lexicon-grafana,0.97.0,lex00,Apache-2.0,734112,"Grafana lexicon for chant — typed dashboards, panels, queries and datasources, serialized to dashboard JSON and Grafana provisioning files"
+2026-09-28T02:41:46.23Z,@bandonker/opencode-sessions,1.1.0,bandonker,MIT,150405,"Spawn, brief, await, read, follow up on, hand off to and cancel fresh child sessions without blocking the server event loop. Adds targeted project presence: a brief about only the sessions that bear…"
+2026-09-28T02:41:52.922Z,@bandonker/opencode-codebase-index,1.1.0,bandonker,MIT,51229,Index a codebase and run BM25-ranked full-text search over it with SQLite FTS5.
+2026-09-28T02:41:56.196Z,@bandonker/opencode-command-pack,1.1.0,bandonker,MIT,13123,Registers slash commands that put the rest of the pack one keystroke away.
+2026-09-28T02:41:58.961Z,@bandonker/opencode-context-pruner,1.1.0,bandonker,MIT,174402,"Context compiler for opencode v2: token-accurate pruning with a cache-stable epoch scheduler (session.hook context). Measures real tokens, plans changes once per epoch, dedupes and purges stale outpu…"
+2026-09-28T02:42:02.356Z,@bandonker/opencode-decision-log,1.1.0,bandonker,MIT,56269,Record and search architectural decisions in a local SQLite FTS5 database.
+2026-09-28T02:42:05.387Z,@bandonker/opencode-error-journal,1.1.0,bandonker,MIT,51711,"Log errors with context, search past ones, and record resolutions so you stop re-debugging the same failure."
+2026-09-28T02:42:10.339Z,@bandonker/opencode-finish-guard,1.1.0,bandonker,MIT,12563,"Normalises OpenAI-compatible SSE streams so a content or reasoning delta that arrives after the finish reason cannot kill a session (""OpenAI Chat received content after the finish reason"")."
+2026-09-28T02:42:13.442Z,@bandonker/opencode-goal,1.1.0,bandonker,MIT,46797,"Set an objective for a session and keep working until it is reached: the goal is re-injected into every request, the model auto-continues when a turn ends, and the loop stops only on goal_complete/go…"
+2026-09-28T02:42:16.2Z,@bandonker/opencode-memory,1.1.0,bandonker,MIT,65373,"Local-first long-term memory: store and BM25-recall fragments with SQLite FTS5. No embedding API, no cloud. Auto-injects relevant memories into each request within a hard character budget."
+2026-09-28T02:42:19.762Z,@bandonker/opencode-secret-shield,1.1.0,bandonker,MIT,57698,"v2-native secret detector/redactor: scrubs the outbound HTTP body (title/compaction/generate), prompt, tool args/results and child-process env; observe/redact/block modes with entropy detection, allo…"
+2026-09-28T02:42:22.506Z,@bandonker/opencode-session-export,1.1.0,bandonker,MIT,52154,"Export a session transcript to markdown, json, jsonl or text with reasoning/tool filtering, secret redaction, home-path rewriting and non-overwriting filenames."
+2026-09-28T02:42:25.466Z,@bandonker/opencode-snippet-library,1.1.0,bandonker,MIT,51266,"Save reusable code snippets and search them by language, tag or full text."
+2026-09-28T02:42:28.375Z,@bandonker/opencode-strip-skills-catalog,1.1.0,bandonker,MIT,19342,Strips the <available_skills> catalog from the system prompt to save tokens; the skill tool still works on demand.
+2026-09-28T02:42:30.943Z,@bandonker/opencode-tool-audit,1.1.0,bandonker,MIT,47231,"Flight recorder for every tool call: tool, args, status, duration and error land in a local SQLite DB, with secrets redacted before they touch disk."
+2026-09-28T02:42:34.131Z,@bandonker/opencode-usage-stats,1.1.0,bandonker,MIT,109639,Lifetime token / dollar / tool accounting in local SQLite with a self-contained HTML dashboard and Unicode heatmaps.
+2026-09-28T02:43:17.852Z,@mirayavandiepen/bricka,0.1.0,mirayavandiepen,MIT,588663,"A composable input for AI apps: inline context tokens, @ mentions, / commands, ghost-text autocomplete and attachments."
+2026-09-28T02:43:59.088Z,@brftech/filex-app-ui,0.48.1,brkfun,MIT,121474,"filex app interface SDK: the bridge between an app's own sandboxed interface and filex (open, save, dirty, call the app's module)"
+2026-09-28T02:46:09.657Z,deckto,0.1.0,egistr,MIT,1374174,Structured AI skills pipeline for professional pitch decks — from rough idea to QA-passed .pptx
+2026-09-28T02:46:09.829Z,di-framework,0.0.4,seemueller-io,,10902,Redirect for https://www.npmjs.com/package/@di-framework/core
+2026-09-28T02:47:13.887Z,perf-profiler,1.0.0,vibeforge,MIT,110852,Checkpoint-based performance profiler for harness engineering. Emits human-readable and AI-friendly JSON reports with detected anomalies and fix suggestions.
+2026-09-28T02:47:34.908Z,@volter/twin-googlecalendar,0.1.0,aaronvolter,Apache-2.0,525664,"Local Google Calendar twin — the Calendar API v3 (calendar list, calendars, events with recurrence, Google Meet conferences and incremental sync, free/busy, push notification channels) served to unmo…"
+2026-09-28T02:49:49.457Z,@ohos-ports/prisma-adapter-better-sqlite3,7.10.0-beta.0,ljry,Apache-2.0,55565,"Prisma's driver adapter for better-sqlite3, a fast SQLite3 driver for JavaScript runtimes (HarmonyOS port)"
+2026-09-28T02:50:00.4Z,@ryansaxe/pair,0.1.1,ryancsaxe,MIT,594024,"Work with an agent in the browser: plan a change, build it, and explain it."
+2026-09-28T02:50:38.179Z,@scute/harness,0.2.0-next.1,umitkit,MIT,250479,"Guardrails for the agents you build: permissions, verification, approvals, grounding and budgets from Scute, on the agent framework you already use."
+2026-09-28T02:50:45.102Z,@odestiny91/vue-feedback-widget,1.0.1,odestiny91,MIT,135567,"Modern, standalone feedback and bug reporting widget for Vue 3 with screenshot capture and Telegram/Webhook integration."
+2026-09-28T02:51:00.656Z,@seer-pet-anim/swf-rebuild,0.1.0,nattsu39,MIT,172813,Rebuild Flash pet timelines from Unity FlashTools animation bundles
+2026-09-28T02:51:01.619Z,@scute/mcp-gateway,0.2.0-next.1,umitkit,MIT,174010,"Put Scute in front of any MCP server: users sign in with your app, every tool call passes your agent guardrails, and changed tool definitions are held for review."
+2026-09-28T02:51:49.324Z,@gitmyabi/topb,1.0.0,gitmyabi-bot,MIT,35739,"Auto-generated TypeScript type bindings for TOPB (build etherscan-topb-f6317dd9-1790563804922, commit 4b7652c, branch etherscan)"
+2026-09-28T02:52:09.672Z,@xiaosat/pi-speed-sparkline,1.0.2,xiaosat,MIT,15970,pi extension: show a live sparkline of the last 10 response token speeds (tok/s) in the status bar
+2026-09-28T02:53:29.431Z,jev-pi,0.1.0,weiping,MIT,57401,"Jev for pi: TypeSafe System One judgments in the agent loop (permission gate, output ladder, conditional context, agent router)"
+2026-09-28T02:54:23.03Z,@hxa-rn/react-native-photo-browser,0.0.1-beta,weixin_53568707,MIT,168018,"Local and remote photo browser with captions, selections and grid view support for react native."
+2026-09-28T02:54:27.517Z,@meri-imperiumi/signalk-ships-time,0.1.0,bergie,EUPL-1.2,546913,Publishes the vessel's timezone offset so clocks aboard show ship's local time
+2026-09-28T02:55:39.9Z,ifs-code-build,0.0.2,xuzhendong,UNLICENSED,12283,Mixo Code 与 IFS Code 共用的前端构建配置
+2026-09-28T02:56:48.825Z,@aiwayds/dsh-jev-dispatch,0.1.0,aiwayds,MIT,175133,"dsh plugin: Jev-guided dispatch advice — before a turn starts, a TypeSafe Jev call decides whether the task belongs to a registered agent and which one, then injects a four-line, ignore-if-unsuited r…"
+2026-09-28T02:57:40.356Z,somenflow,0.1.0-alpha.2,sakku0109,MIT,73318,"Small, framework-independent animated diagrams built with HTML and native SVG motion."
+2026-09-28T02:58:40.106Z,bot-telekit,0.5.1,h530code,ISC,555634,"bot-telekit is a modern, type-safe Telegram Bot API library for TypeScript"
+2026-09-28T02:59:12.511Z,@ohos-ports/stackbit-dev,2.2.38-beta.0,ljry,MIT,263294,stackbit-dev (HarmonyOS port with @ohos-ports native dependency overrides)
+2026-09-28T03:00:27.678Z,@ohos-ports/prisma-query-engine-wasm,6.20.0-beta.0,ljry,Apache-2.0,11446342,"Prisma Query Engine compiled to WebAssembly (HarmonyOS port - no modifications, republished for @ohos-ports convenience)"
+2026-09-28T03:02:20.823Z,@lacunist/ucui,0.1.0,lacunist,MIT,1141412,一套代码，双端渲染的 Vue 3 组件库：element-plus / ant-design-vue 统一 API，运行时可切换
+2026-09-28T03:03:36.324Z,text-compiler,0.0.1,sapirrior,MIT,372,"Execute small algorithms written in natural language, pseudocode, flow-style instructions, or any human-friendly form"
+2026-09-28T03:05:39.818Z,@troychaplin/octave-design-system,0.1.0,troychaplin,MIT,1720309,Octave design system and React component library
+2026-09-28T03:05:41.003Z,@sv-print/plugin-view-data-source,0.1.0,cc-better,MIT,694498,sv-print plugin: view-data-source
+2026-09-28T03:06:13.772Z,@sv-print/plugin-view-ele-tools,0.1.0,cc-better,MIT,137945,sv-print plugin: view-ele-tools
+2026-09-28T03:06:27.23Z,@boailiu/nextmodel,0.1.0,boailiu,MIT,158480,查询国内大模型下线后的替代模型：DeepSeek、Kimi、通义千问、豆包、智谱……
+2026-09-28T03:06:39.398Z,reactbits-mcp,0.0.1,suporterenov,UNLICENSED,450,Nome reservado pela Renov por seguranca. Nao contem codigo. O servidor MCP do React Bits e o reactbits-dev-mcp-server.
+2026-09-28T03:06:44.953Z,@sv-print/plugin-view-ai,0.1.0,cc-better,MIT,834756,sv-print plugin: view-ai
+2026-09-28T03:08:03.618Z,@sv-print/plugin-api-word,0.1.0,cc-better,MIT,150277,add word export api to print template
+2026-09-28T03:08:15.274Z,@hydraharness/node-addon-landlock-run-linux-arm64,0.1.2,hydra1902,BSD-3-Clause,70544,"Prebuilt landlock-run Landlock launcher binary for linux-arm64 (static musl) — resolved as a file path by @hydraharness/node-addon-landlock-run, never imported"
+2026-09-28T03:08:20.3Z,@hydraharness/node-addon-landlock-run-linux-x64,0.1.2,hydra1902,BSD-3-Clause,41884,"Prebuilt landlock-run Landlock launcher binary for linux-x64 (static musl) — resolved as a file path by @hydraharness/node-addon-landlock-run, never imported"
+2026-09-28T03:08:25.33Z,@hydraharness/node-addon-landlock-run,0.1.2,hydra1902,BSD-3-Clause,24418,"Landlock self-restrict-then-exec launcher for sandboxing subprocesses on Linux: per-platform prebuilt static binaries plus the JS seam that resolves, probes, and speaks their CLI contract"
+2026-09-28T03:08:32.729Z,@sv-print/plugin-api-pdf-vector,0.1.0,cc-better,MIT,86509,add vector pdf api to print template
+2026-09-28T03:08:48.361Z,mashprime,1.1.0,mashjprime,MIT,5888,Read mashprime.dev from your terminal — essays and build notes on agentic systems.
+2026-09-28T03:09:07.594Z,@sv-print/plugin-ele-pdf,0.1.0,cc-better,MIT,5666307,sv-print plugin: ele-pdf
+2026-09-28T03:09:17.121Z,@lapius/sca-cli-linux-x64,0.4.0,lapius,MIT,7148015,@lapius/sca-cli の linux-x64 用バイナリ
+2026-09-28T03:09:17.928Z,@longtengsong/apiloop,0.0.1,longtengsong,MIT,12934,把用户意图翻译成 API 调用与界面渲染的浏览器端 Agent 运行时。
+2026-09-28T03:09:21.054Z,@lapius/sca-cli-linux-arm64,0.4.0,lapius,MIT,6619637,@lapius/sca-cli の linux-arm64 用バイナリ
+2026-09-28T03:09:25.566Z,@lapius/sca-cli-darwin-x64,0.4.0,lapius,MIT,7267200,@lapius/sca-cli の darwin-x64 用バイナリ
+2026-09-28T03:09:29.612Z,@lapius/sca-cli-darwin-arm64,0.4.0,lapius,MIT,6749848,@lapius/sca-cli の darwin-arm64 用バイナリ
+2026-09-28T03:09:33.483Z,@lapius/sca-cli-win32-x64,0.4.0,lapius,MIT,7347025,@lapius/sca-cli の win32-x64 用バイナリ
+2026-09-28T03:09:35.916Z,@gitmyabi/zilla,1.0.0,gitmyabi-bot,MIT,145231,"Auto-generated TypeScript type bindings for ZILLA (build etherscan-zilla-5a7869db-1790564875165, commit 3b7060a, branch etherscan)"
+2026-09-28T03:09:36.165Z,@lapius/sca-cli,0.4.0,lapius,MIT,16484,chatapp.lapius7.com のチャットをターミナルから使う CLI（sca）
+2026-09-28T03:09:51.867Z,@lapius/dela-cli-linux-x64,0.2.0,lapius,MIT,2699763,@lapius/dela-cli の linux-x64 用バイナリ
+2026-09-28T03:09:55.099Z,@lapius/dela-cli-linux-arm64,0.2.0,lapius,MIT,2621945,@lapius/dela-cli の linux-arm64 用バイナリ
+2026-09-28T03:09:58.348Z,@lapius/dela-cli-darwin-x64,0.2.0,lapius,MIT,2676820,@lapius/dela-cli の darwin-x64 用バイナリ
+2026-09-28T03:10:01.784Z,@lapius/dela-cli-darwin-arm64,0.2.0,lapius,MIT,2569868,@lapius/dela-cli の darwin-arm64 用バイナリ
+2026-09-28T03:10:05.759Z,@lapius/dela-cli-win32-x64,0.2.0,lapius,MIT,2819413,@lapius/dela-cli の win32-x64 用バイナリ
+2026-09-28T03:10:08.42Z,@lapius/dela-cli,0.2.0,lapius,MIT,9717,deploy.lapius7.com へローカルのポートを公開するトンネル CLI（dela）
+2026-09-28T03:10:25.859Z,@sv-print/plugin-ele-seal,0.1.0,cc-better,LGPL,73626,"sv-print 骑缝章元素插件,按渲染页数切分章图逐页骑缝显示"
+2026-09-28T03:10:31.763Z,@hydraharness/cosmokit,1.8.3,hydra1902,MIT,53036,A collection of common utilities
+2026-09-28T03:10:36.232Z,@hydraharness/cordis-plugin-loader,1.0.3,hydra1902,MIT,92248,Plugin loader for cordis
+2026-09-28T03:10:40.665Z,@hydraharness/cordis-plugin-include,1.0.7,hydra1902,MIT,31868,Include files in cordis configurations
+2026-09-28T03:10:45.233Z,@hydraharness/cordis,4.0.2,hydra1902,MIT,239105,Meta-Framework for Modern JavaScript Applications
+2026-09-28T03:10:49.607Z,@hydraharness/cordis-plugin-group,1.0.2,hydra1902,MIT,2988,Nested plugin group for cordis
+2026-09-28T03:10:54.26Z,@hydraharness/schemastery,3.18.2,hydra1902,MIT,108062,Type driven schema validator
+2026-09-28T03:10:58.705Z,@hydraharness/cordis-plugin-timer,1.1.4,hydra1902,MIT,15100,Timer service for cordis
+2026-09-28T03:11:03.305Z,@hydraharness/cordis-plugin-hmr,1.0.17,hydra1902,MIT,45573,Hot Module Replacement Plugin for Cordis
+2026-09-28T03:11:07.164Z,public-vedic-sdk,0.1.1,quanghung97,MIT,126539,Node.js/TypeScript client SDK for third-party partners to call the Jyotish interpretation gRPC API.
+2026-09-28T03:11:07.638Z,@hydraharness/cordis-plugin-logger-console,1.0.2,hydra1902,MIT,17640,Console logger exporter for cordis
+2026-09-28T03:11:44.316Z,@usenaive-sdk/app,0.1.0,usenaive-sdk,MIT,10360,"Sign-in and data access for apps hosted on Naive: accept the platform's entry ticket, read who is viewing, call the API from the server."
+2026-09-28T03:12:23.565Z,readme-scan,0.1.0,yehudadev,MIT,242958,"Generate a README.md by scanning your project. Runs locally, no API key needed."
+2026-09-28T03:12:53.608Z,@danielitouci96/design-system,1.2.0,danielitouci96,MIT,1697952,"Design System profesional, reutilizable, versionable y desacoplado para la plataforma médica. Independiente del dominio médico."
+2026-09-28T03:13:12.602Z,n8n-nodes-halu,0.1.0,komplexai,Apache-2.0,20091,n8n community node for Komplex AI — a hallucination detector for LLM output.
+2026-09-28T03:13:15.149Z,hotconfigs,1.0.0,jondotsoy,MIT,479,hot configs
+2026-09-28T03:14:46.656Z,@yuemoon/literal,0.1.0,reyn,MIT,11625,a string library in common purpose
+2026-09-28T03:14:48.224Z,sendping,1.0.0,sbh7435,MIT,177877,Official Node.js SDK for the SendPing email API — send transactional and marketing email from your own verified domain.
+2026-09-28T03:15:01.951Z,sendping-cli,1.0.0,sbh7435,MIT,98711,Official command-line interface for the SendPing email API.
+2026-09-28T03:15:04.39Z,@gitmyabi/et10,1.0.0,gitmyabi-bot,MIT,128553,"Auto-generated TypeScript type bindings for ET10 (build etherscan-et10-0ebcc951-1790565269929, commit 1158237, branch etherscan)"
+2026-09-28T03:15:16.062Z,zywlagent,0.1.0,zlb0430,,645324,可独立接入 GIS 或业务页面的 Platform Agent 聊天组件
+2026-09-28T03:16:07.7Z,dsh-at-sider,0.0.1,aiyacharley,MIT,78398,"DeepSeek Harness plugin: adds an @ file reference button (@文件 / @file, @文件夹 / @folder) and a modification-time column to the native right-sidebar file tree, by taking over the builtin `files` tab kin…"
+2026-09-28T03:16:11.181Z,mouse-scroll-cue,1.0.0,chathurabuddi,CC-BY-4.0 AND MIT,37331,Animated mouse scroll hint as a single dependency-free SVG. An implementation of Airat's Mouse scroll tooltip Microinteraction design.
