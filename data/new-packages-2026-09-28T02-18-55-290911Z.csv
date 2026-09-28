@@ -1,0 +1,125 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-28T01:18:35.121Z,@nathwn12/oc-bifrost,0.1.0,nathwn12,MIT,76773,"The rainbow bridge for OpenCode plugins — run V1-era plugin hooks on the OpenCode V2 runtime, seamlessly."
+2026-09-28T01:23:21.932Z,@robertourias/scaffold-ia,1.0.0,robertomiyazaki,,265283,"Scaffold de harness para projetos com agentes de IA (Claude Code): papeis, specs, guardrails e docs de contexto."
+2026-09-28T01:23:57.065Z,storybook-addon-contributors,0.1.0,angeloashmore,MIT,24814,Find the right person to talk to about a component without leaving Storybook
+2026-09-28T01:28:04.784Z,dsh-sidecard-ask,1.1.0,huangpeiyan,MIT,197739,DSH 划词追问（侧边卡片作答）：在聊天区与任务区选中文本就地追问，答案由独立子代理在侧边卡片里流式呈现，也可选择落回主对话。
+2026-09-28T01:30:31.892Z,smart-power-plant-v3,0.0.4,zz632893783,,17664,
+2026-09-28T01:30:33.965Z,@inverz/thaid,1.0.0,mongkontep,MIT,157068,"Sign in and verify identity with the ThaiD app (DOPA digital ID) — server helper with state and id_token signature checks, plus a React button and callback hook"
+2026-09-28T01:31:35.03Z,@euzharkov/rhow,0.1.0,euzharkov,MIT,4184,"Discover how to run and operate any repository (native Rust binary, Node is only the launcher)"
+2026-09-28T01:31:47.637Z,@reventlessdev/rescript-dom,1.0.0-alpha.1,reventless,Apache-2.0,28839,"ReScript bindings for the browser DOM: documents, elements, SVG, styles, class lists and events"
+2026-09-28T01:32:31.76Z,@pressforge/core,0.1.0,kodenesiadigital,AGPL-3.0-or-later,11614,"Registry action/filter, plugin loader, dan tipe bersama untuk PressForge."
+2026-09-28T01:32:33.84Z,@ai-gui/mcp,0.41.0,cy_li,MIT,21284580,"An MCP server that lets an agent draw AIGUI blocks — charts, diagrams, maths, 3D scenes, orbits, molecules, data walls — as PNGs or as a live page in the browser."
+2026-09-28T01:33:27.56Z,ezvals-darwin-arm64,0.2.0,camronhaider,MIT,17520004,The ezvals host binary for darwin arm64
+2026-09-28T01:33:32.99Z,ezvals-darwin-x64,0.2.0,camronhaider,MIT,18277052,The ezvals host binary for darwin x64
+2026-09-28T01:33:38.161Z,ezvals-linux-arm64,0.2.0,camronhaider,MIT,17243368,The ezvals host binary for linux arm64
+2026-09-28T01:33:40.206Z,@pressforge/plugin-sdk,0.1.0,kodenesiadigital,AGPL-3.0-or-later,4050,SDK untuk menulis plugin PressForge (mirip WordPress Plugin API).
+2026-09-28T01:33:43.599Z,ezvals-linux-x64,0.2.0,camronhaider,MIT,18109324,The ezvals host binary for linux x64
+2026-09-28T01:33:48.183Z,ezvals-win32-x64,0.2.0,camronhaider,MIT,18392381,The ezvals host binary for win32 x64
+2026-09-28T01:33:53.164Z,ezvals,0.2.0,camronhaider,MIT,24461,Code-first evals for AI agents and LLM apps
+2026-09-28T01:34:51.768Z,create-kiwi-next-project,0.1.0,zhengpengpeng,,66255,通过 pnpm create my-next-app 创建 Next.js 脚手架
+2026-09-28T01:35:12.91Z,@commish/sdk,0.1.0-beta.10,foftring,MIT,41039,"Public server, browser and webhook interfaces for Commish"
+2026-09-28T01:36:38.961Z,@commish/next,0.1.0-beta.10,foftring,MIT,35781,Next.js referral capture and Stripe metadata helpers for Commish
+2026-09-28T01:36:44.935Z,@leansoftx/asdm-aos-core,0.0.16,ups216,,1493021,AOS 域核心——engine/storage/matching/契约 + 融合钩子注入点（纯机制：零 express、零反向依赖 cli；analyzer/blueprint 随任务 1.3/1.4 组提取）。消费方经深路径导入：@leansoftx/asdm-aos-core/dist/<module>
+2026-09-28T01:36:47.905Z,@leansoftx/asdm-aos-analyzer-shared,0.0.16,ups216,,30927,解析器公共件叶子包——repoScanner/projectDetector/incrementalParser（纯解析侧工具，零 core 依赖；matching 三件套归 core/ontology/matching）。消费方经深路径导入：@leansoftx/asdm-aos-analyzer-shared/dist/<module>
+2026-09-28T01:36:51.615Z,@leansoftx/asdm-aos-analyzer-frontend,0.0.16,ups216,,135646,前端语言族解析器包——Vue2/Vue3/React/JS-TS（tree-sitter-javascript/-typescript，正则+状态机 Vue SFC）+ 路由/Vuex/React Context/API 调用提取（manifest.json 自描述：languages/semverRange/produces；role 段编排槽位预留——1.5.1 段契约锚点）。消费方经深路径…
+2026-09-28T01:36:55.018Z,@leansoftx/asdm-aos-analyzer-java,0.0.16,ups216,,126753,Java 语言族解析器包——tree-sitter AST/字节码/依赖提取 + parseWorker 解析子进程（manifest.json 自描述：languages/semverRange/produces/协议声明；role 段编排槽位预留——1.5.1 段契约锚点）。消费方经深路径导入：@leansoftx/asdm-aos-analyzer-java/dist/<module>
+2026-09-28T01:36:58.305Z,@leansoftx/asdm-aos-analyzer-sql,0.0.16,ups216,,76469,SQL/MyBatis 语言族解析器包——DDL 解析（node-sql-parser）/ Mapper XML（fast-xml-parser）/ 类型映射 / 外键链接 / DDL+代码融合（manifest.json 自描述：languages/semverRange/produces；role 段编排槽位预留——1.5.1 段契约锚点）。消费方经深路径导入：@leansoftx/asdm…
+2026-09-28T01:37:01.793Z,@leansoftx/asdm-aos-blueprint-code-repo,0.0.16,ups216,,78245,code-repo 蓝图域包（domain: softwareEng）——blueprint.json 元数据（含 objectTypes[].idPrefix 声明）+ impl.ts 推导器/链接实现（含 builtin 推导器 package-contains），自包含、独立 semver（version 与 blueprint.json version 对齐）。
+2026-09-28T01:37:12.779Z,@mallow-labs/mallow-sweepstake-sdk,0.1.0-alpha.0,meditatingsloth,MIT,4962476,Kit SDK and independently verifiable draw tooling for mallow sweepstakes
+2026-09-28T01:37:21.366Z,@sendery/sdk,0.1.0,ncaroyannis,MIT,10851,Server-side Sendery template email SDK for JavaScript and TypeScript
+2026-09-28T01:37:28.919Z,@gitmyabi/coffee,1.0.0,gitmyabi-bot,MIT,123777,"Auto-generated TypeScript type bindings for COFFEE (build etherscan-coffee-a3b3beaf-1790559348828, commit d767615, branch etherscan)"
+2026-09-28T01:37:53.712Z,encoding-bridge-mcp,1.2.7,pindolabha,MIT,318989,Encoding-transparent MCP file tools for Claude Code
+2026-09-28T01:38:02.803Z,@flusys/nestjs-entity-builder,9.1.0-rc.1,sfd.mhrana,UNLICENSED,1085940,"Dynamic entity builder module - runtime entity/field metadata, driven DDL, and generic CRUD"
+2026-09-28T01:38:22.879Z,agent-control-panel,0.2.0,skaigroup,Apache-2.0,176534,Agent Control Panel SDK — fail-open reporting and remote control
+2026-09-28T01:38:30.609Z,@flusys/ng-entity-builder,9.1.0-rc.1,sfd.mhrana,MIT,1725708,Dynamic entity builder for FLUSYS Angular applications
+2026-09-28T01:38:37.28Z,@namanparikh/armory,0.1.0,namanparikh,MIT,7259736,"Armory: where agents gear up. Install harness components (MCPs, skills, subagents, rules, hooks) into any coding harness."
+2026-09-28T01:38:53.167Z,armory-mcp,0.1.0,namanparikh,MIT,7161295,"The Armory MCP server: search, get, and submit agent-harness components from the Armory registry over stdio. (This is Armory's OWN harness, not one of the cataloged components.)"
+2026-09-28T01:38:56.063Z,@braith/sdk,0.1.0,shaygavan,UNLICENSED,19708,Explicit outcome-event tracking for Braith in browsers and Node.js
+2026-09-28T01:38:59.168Z,membase-sdk,0.1.0,ibitnoah,MIT,24093,"Membase — your memory, from code. The official TypeScript client for the Membase API."
+2026-09-28T01:39:06.912Z,dsh-xiaozhi,0.1.0,jijialun,MIT,165858,旗驭小智AI网关一键接入：浏览器完成钉钉 SSO 登录后，自动开通网关令牌并把全部可用模型注册进 DSH
+2026-09-28T01:39:09.836Z,braith,0.1.0,shaygavan,UNLICENSED,815575,Braith coding-agent setup and outcome manifest CLI
+2026-09-28T01:39:34.107Z,@ajitsarkaar/maistro,0.3.0,ajitsarkaar,MIT,97183,"One agent to rule them all: talk to one Claude Code agent that plans the work and conducts a crew of parallel workers, each in its own git worktree."
+2026-09-28T01:41:19.117Z,luvvsayori,1.1.0,d153df4a,MIT,115707,luvvsayori
+2026-09-28T01:42:28.53Z,@lakatos/pabst,0.1.0,jessealama,MIT,80130,"Refutation for TypeScript: @ensures annotations become fast-check property tests, run with vitest and reported in the lakatos result envelope."
+2026-09-28T01:42:30.277Z,@lakatos/tarski,0.1.0,jessealama,MIT,168217,"The JavaScript semantics behind lakatos: the TypeScript-to-ESTree bridge, the evaluator binary's runner, and the test262 harness"
+2026-09-28T01:42:32.393Z,@lakatos/thales,0.1.0,jessealama,MIT,291439,"Proof for TypeScript: @ensures annotations become Lean theorems, discharged automatically and reported in the lakatos result envelope. Runs from a lakatos checkout with the Lean toolchain."
+2026-09-28T01:42:48.338Z,@antonio112009/code-reviewer,0.1.1,antonio112009,MIT,4796633,"Next-level LLM code review: version-aware skills, static hints and self-critique for fewer false positives. Works with Claude Code, Codex, Copilot, Gemini and AWS Bedrock."
+2026-09-28T01:44:48.114Z,@aethervtt/shard-animation,0.0.1,pdcamargo,MIT,265811,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:44:51.176Z,@aethervtt/shard-assets,0.0.1,pdcamargo,MIT,90996,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:44:54.141Z,@aethervtt/shard-audio,0.0.1,pdcamargo,MIT,75632,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:44:57.023Z,@aethervtt/shard-core,0.0.1,pdcamargo,MIT,177383,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:44:59.967Z,@aethervtt/shard-gltf,0.0.1,pdcamargo,MIT,52841,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:02.833Z,@aethervtt/shard-gpu,0.0.1,pdcamargo,MIT,27058,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:05.822Z,@aethervtt/shard-input,0.0.1,pdcamargo,MIT,46421,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:08.82Z,@aethervtt/shard-mesh,0.0.1,pdcamargo,MIT,26546,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:11.924Z,@aethervtt/shard-nav,0.0.1,pdcamargo,MIT,173451,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:14.798Z,@aethervtt/shard-node,0.0.1,pdcamargo,MIT,33120,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:17.864Z,@aethervtt/shard-noise,0.0.1,pdcamargo,MIT,289475,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:21.07Z,@aethervtt/shard-particles,0.0.1,pdcamargo,MIT,98471,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:24.128Z,@aethervtt/shard-physics,0.0.1,pdcamargo,MIT,147754,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:27.139Z,@aethervtt/shard-platform,0.0.1,pdcamargo,MIT,18858,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:30.053Z,@aethervtt/shard-platform-node,0.0.1,pdcamargo,MIT,9119,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:32.743Z,@aethervtt/shard-platform-tauri,0.0.1,pdcamargo,MIT,5510,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:35.397Z,@aethervtt/shard-platform-web,0.0.1,pdcamargo,MIT,22852,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:38.426Z,@aethervtt/shard-procgen,0.0.1,pdcamargo,MIT,117895,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:41.425Z,@aethervtt/shard-project,0.0.1,pdcamargo,MIT,136370,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:44.352Z,@aethervtt/shard-protocol,0.0.1,pdcamargo,MIT,61238,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:48.031Z,@aethervtt/shard-render,0.0.1,pdcamargo,MIT,896355,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:51.607Z,@aethervtt/shard-runtime,0.0.1,pdcamargo,MIT,38420,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:54.87Z,@aethervtt/shard-save,0.0.1,pdcamargo,MIT,61774,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:45:57.997Z,@aethervtt/shard-scene,0.0.1,pdcamargo,MIT,123440,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:46:00.902Z,@aethervtt/shard-shader,0.0.1,pdcamargo,MIT,32564,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:46:04.145Z,@aethervtt/shard-sprite,0.0.1,pdcamargo,MIT,210702,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:46:07.762Z,@aethervtt/shard-terrain,0.0.1,pdcamargo,MIT,252324,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:46:10.893Z,@aethervtt/shard-testing,0.0.1,pdcamargo,MIT,14364,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:46:13.902Z,@aethervtt/shard-text,0.0.1,pdcamargo,MIT,189606,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:46:17.734Z,@aethervtt/shard-texture,0.0.1,pdcamargo,MIT,4577544,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:46:20.962Z,@aethervtt/shard-transform,0.0.1,pdcamargo,MIT,55217,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:46:23.974Z,@aethervtt/shard-ui,0.0.1,pdcamargo,MIT,184903,"Part of [Shard](https://github.com/aethervtt/shard), a WebGPU-first 2D/3D game engine in TypeScript. See the repository for documentation."
+2026-09-28T01:48:59.518Z,sungka,0.1.0,konturaya,MIT,33898,"Rules engine for one turn of Philippine Sungka, with an exact best-score solver and drop-by-drop sowing events for animation. Dependency-free ES modules."
+2026-09-28T01:51:38.583Z,@pileoni/watermask-darwin-arm64,0.1.0,pileoni,MIT,2359822,"Water masks, shorelines and distance-to-shore grids for any area, from OpenStreetMap vector tiles fetched on demand"
+2026-09-28T01:51:51.866Z,@pileoni/watermask-darwin-x64,0.1.0,pileoni,MIT,2576331,"Water masks, shorelines and distance-to-shore grids for any area, from OpenStreetMap vector tiles fetched on demand"
+2026-09-28T01:51:53.38Z,@cimom-ui/standard-ui,1.1.2,addytse,MIT,6067826,标准组件库：基于 Vue 2.6 + Element UI 2.x + vxe-table 3.x 的通用业务组件（按钮、弹窗、筛选栏、表单、表格、树、分割条等）
+2026-09-28T01:51:54.415Z,@pileoni/watermask-linux-arm64-gnu,0.1.0,pileoni,MIT,2684795,"Water masks, shorelines and distance-to-shore grids for any area, from OpenStreetMap vector tiles fetched on demand"
+2026-09-28T01:51:57.249Z,@pileoni/watermask-linux-x64-gnu,0.1.0,pileoni,MIT,2806144,"Water masks, shorelines and distance-to-shore grids for any area, from OpenStreetMap vector tiles fetched on demand"
+2026-09-28T01:52:09.932Z,@pileoni/watermask-win32-arm64-msvc,0.1.0,pileoni,MIT,2086688,"Water masks, shorelines and distance-to-shore grids for any area, from OpenStreetMap vector tiles fetched on demand"
+2026-09-28T01:52:12.394Z,@pileoni/watermask-win32-x64-msvc,0.1.0,pileoni,MIT,2393365,"Water masks, shorelines and distance-to-shore grids for any area, from OpenStreetMap vector tiles fetched on demand"
+2026-09-28T01:52:14.343Z,@pileoni/watermask,0.1.0,pileoni,MIT,48750,"Water masks, shorelines and distance-to-shore grids for any area, from OpenStreetMap vector tiles fetched on demand"
+2026-09-28T01:52:16.538Z,@pileoni/watermask-wasm,0.1.0,pileoni,MIT,221976,WebAssembly bindings for watermask: water masks from OpenStreetMap vector tiles
+2026-09-28T01:54:09.818Z,@costa92/dshenv,0.1.1,costa92,MIT,784787,Environment-as-Code manager for DeepSeek Harness
+2026-09-28T01:54:22.161Z,react-timeline-sequence,0.1.3,kieransimkin,MIT,41259,"A reusable React audio timeline with shared playback, zoom, seeking and sequence lanes."
+2026-09-28T01:55:58.787Z,motion-mania,0.1.0,shiftynick,MIT,907411,An agent skill and review toolkit for HyperFrames motion videos
+2026-09-28T01:56:34.701Z,@synthetic-ai/photoshop-mcp,1.0.0,synthetic-ai,UNLICENSED,189195,"Control Adobe Photoshop with 409 AI tools via MCP — layers, text, masks, filters, adjustments, smart objects, export. By Synthetic (synthetic.com.ar)."
+2026-09-28T01:57:44.59Z,@cosense-toolbox/cosense-x,0.1.0-beta.2,qaynam,MIT,216001,"Compile Cosense (Scrapbox) pages into JSX modules, like MDX for Cosense notation."
+2026-09-28T01:57:47.049Z,@cosense-toolbox/lsp,0.1.0-beta.2,qaynam,MIT,142231,"Language server for .csn and .csnx, and a check of a whole site's links: csn-lsp."
+2026-09-28T01:57:49.463Z,@cosense-toolbox/astro,0.1.0-beta.2,qaynam,MIT,117200,Astro integration for cosense-x: use .csn / .csnx (Cosense notation) as pages and content collections.
+2026-09-28T01:57:53.207Z,@ohos-ports/fastify-passport,4.0.3-beta.0,ljry,MIT,88322,"Simple, unobtrusive authentication for Fastify."
+2026-09-28T01:57:54.138Z,@cosense-toolbox/tailwind,0.1.0-beta.2,qaynam,MIT,110352,"Tailwind CSS plugin: add class=""cosense"" and the Cosense notation HTML inside it gets the default look."
+2026-09-28T01:57:56.432Z,@cosense-toolbox/textmate,0.1.0-beta.2,qaynam,MIT,103897,"TextMate grammars for Cosense notation (.csn / .csnx), ready for Shiki and VS Code."
+2026-09-28T01:58:24.747Z,@droneey/devkit-ts-stryker,1.29.1,kurovskyiii,MIT,8092,Shared Stryker configuration and a mutation check that mutates only the lines a change touches.
+2026-09-28T01:59:41.436Z,controlroom,0.0.1,ofriperetz,MIT,2129,"Reserved. Not released: full-screen terminal screens for a CLI, and a drop-in for Ink. See the README."
+2026-09-28T02:00:20.819Z,@sajam/ui,0.1.0,shrjamal,MIT,849387,Reusable React components built with Base UI and Tailwind CSS.
+2026-09-28T02:00:25.991Z,ew-rate-limiter,0.1.0,soft-boy,MIT,2964,Rate limiting middleware for Express
+2026-09-28T02:03:25.207Z,@aiwayds/dsh-jev-core,0.1.0,aiwayds,MIT,62316,"Shared TypeSafe Jev decision-model client for the dsh ecosystem: strict response validation, keychain-first key resolution, typed fail-open errors. Jev-optional by design."
+2026-09-28T02:04:00.83Z,context-capsules-runtime,0.1.0,jasonbelmonti,,753469,Local immutable context capsules with native Git persistence
+2026-09-28T02:05:50.354Z,litrue-battery-calculator,1.0.0,chris2410,Apache-2.0,55252,Parametric sizing models and continuous discharge specs for industrial lithium batteries
+2026-09-28T02:06:03.08Z,@ohos-ports/oslllo-svg2,5.0.0-beta.0,ljry,MIT,22487,Convert a SVG to multiple image formats (without puppeteer or a headless browser)
+2026-09-28T02:06:03.317Z,toaimin-indie-engine,1.0.0,toaimin,MIT,2080242,Production-grade 2D Game Framework in TypeScript for Web/HTML5 designed for indie game developers
+2026-09-28T02:06:21.059Z,@everygrid/grid,0.4.7,ilsansoftware,MIT,6626325,"Config-driven React data grid with a Rust/WASM engine in a Web Worker — filter, sort and paginate millions of rows without blocking the UI."
+2026-09-28T02:06:42.101Z,@joypage/chrome-plugin-crx,1.0.0,liuzewei1990,MIT,26342,从 Chrome 应用商店获取扩展（CRX）：解析、解压、内容替换与重新打包
+2026-09-28T02:06:57.42Z,@higginsrob/intercom,0.0.1,higginsrob,MIT,492019,"More human in the loop: a voice intercom MCP server that lets coding agents call you, ask before acting, and page you when they're done."
+2026-09-28T02:08:17.092Z,@owlmeans/planning-postgres,0.1.18-rc.0,vashigor,MIT,357519,"A durable Postgres PlanningStore for @owlmeans/server-planning — cards, the transition log, links and data-defined types and flows as four tables, an inline fold under a per-card advisory lock, and a…"
+2026-09-28T02:09:05.704Z,@gitmyabi/bzro,1.0.0,gitmyabi-bot,MIT,239759,"Auto-generated TypeScript type bindings for BZRO (build etherscan-bzro-cea6c21c-1790561244313, commit 682280a, branch etherscan)"
+2026-09-28T02:10:16.909Z,@kieransimkin/dance-rudiments,0.1.1,kieransimkin,MIT,188298,Integer-pip rhythmic position functions with C++/WASM bindings.
+2026-09-28T02:11:31.911Z,@knopki/dsh-prompt-profiles,0.2.1,knopki,MIT,4100640,"DSH bundle adding a per-session prompt-profile axis: named system-prompt sections grouped into profiles with per-section order and scope, sealed into the session prompt."
+2026-09-28T02:11:56.7Z,@peisar/peisar_shiki,0.1.0,phothinmaung,,16384,
+2026-09-28T02:13:02.886Z,pi-ballast,0.0.1,dastardly_duck,MIT,143604,"Physical memory pressure for pi — TUI stats, per-project attribution, and a graded intervention ladder."
+2026-09-28T02:13:37.874Z,@rove-code/cli-darwin-arm64,0.0.2-preview.20260927.651,hafiezul,MIT,338104380,Rove Code CLI executable for darwin-arm64
+2026-09-28T02:13:43.403Z,pi-commit-split,0.1.0,pinguinhalt,MIT,16122,Adaptive topic-based commit and push workflow for Pi
+2026-09-28T02:14:31.316Z,dsh-crwu-workbench,0.0.10,qwesa,UNLICENSED,111870523,"中瑞世联工作台 / CRWU audit workbench for DeepSeek Harness: pick a pending audit report, dispatch one AI audit subagent, watch and stop/restart it, auto-upload deliverables to Aliyun OSS."
+2026-09-28T02:16:00.682Z,totallytics,0.1.1,aristotaloss,MIT,117678,"API analytics middleware for Hono, Cloudflare Workers and Express"
+2026-09-28T02:16:27.306Z,bjj-data,0.1.0,isjustintime,(MIT AND CC-BY-4.0),337140,"Brazilian jiu-jitsu reference data: IBJJF and ADCC weight classes, IBJJF age divisions, legal techniques by ruleset, IBJJF belt requirements, and a position and submission vocabulary. TypeScript and…"
+2026-09-28T02:16:31.292Z,@socketsecurity/meander,0.0.0,socket-bot,,281,Placeholder to reserve the name for npm trusted publishing. Real releases publish via CI (OIDC/provenance).
+2026-09-28T02:16:32.881Z,bjj-timer,0.1.0,isjustintime,MIT,126747,"A free BJJ round timer web component with IBJJF match times, rest periods, a 10-second warning, audio cues, fullscreen, and screen wake lock. One script tag, no framework, no dependencies."
+2026-09-28T02:16:38.451Z,bjj-scoreboard,0.1.0,isjustintime,MIT,233444,"A free IBJJF BJJ scoreboard web component with points, advantages, penalties, automatic tiebreaks, and a match clock. One script tag, no framework, no dependencies."
+2026-09-28T02:16:43.69Z,bjj-bracket,0.1.0,isjustintime,MIT,349723,"Free BJJ tournament bracket generator: single elimination, double elimination, and round robin, with teammates kept apart and an IBJJF-style podium. A dependency-free TypeScript library and a <bjj-br…"
