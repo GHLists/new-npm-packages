@@ -1,0 +1,188 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-28T12:17:41.05Z,@feel-dev/client,0.1.0,nirbhay71,MIT,73183,"Browser side of Feel: Alt + right-click selection, request capture and the viewer panel. Injected by @feel-dev/vite-plugin."
+2026-09-28T12:17:44.419Z,@feel-dev/node,0.1.0,nirbhay71,MIT,13342,"Backend side of Feel: tells the browser which Express route, handler and SQL queries answered each request (dev only)."
+2026-09-28T12:18:10.587Z,@feel-dev/vite-plugin,0.1.0,nirbhay71,MIT,12486,Alt + right-click any UI element to see the full stack behind it: component → frontend code → API → backend handler → SQL → tables.
+2026-09-28T12:18:48.951Z,@diegesis/dice,0.1.2,patrickporto,MIT,1015627,Framework-agnostic 3D dice roller for Diegesis (three.js + cannon-es worker physics).
+2026-09-28T12:18:48.968Z,@diegesis/assets,0.1.2,patrickporto,MIT,91243,"Declarative asset packs for Diegesis: content-addressed caching, persistent storage adapters, preload with progress events."
+2026-09-28T12:18:48.983Z,@diegesis/canvas-plugin-grid-hex,0.2.1,patrickporto,MIT,8513,Hex grid plugins for @diegesis/canvas — vertical (pointy-top) and horizontal (flat-top) hex-grid scenes.
+2026-09-28T12:18:49.065Z,@diegesis/canvas,0.2.1,patrickporto,MIT,1344838,"Framework-agnostic, PixiJS-powered game canvas for Diegesis — Foundry-inspired Canvas/Layer/PlaceableObject API."
+2026-09-28T12:18:49.074Z,@diegesis/canvas-plugin-grid-isometric,0.2.1,patrickporto,MIT,6603,Isometric grid plugin for @diegesis/canvas — renders and configures isometric-grid scenes.
+2026-09-28T12:18:49.122Z,@diegesis/canvas-plugin-fog,0.2.1,patrickporto,MIT,160898,"Fog of war plugin for @diegesis/canvas — token-vision reveal, manual paint/reveal tools and control panel."
+2026-09-28T12:18:49.166Z,@diegesis/canvas-plugin-audio,0.2.1,patrickporto,MIT,123838,"Spatial audio plugin for @diegesis/canvas — ambient sound placeables, camera/token listener and sound:sources contributions."
+2026-09-28T12:18:49.208Z,@diegesis/audio,0.2.1,patrickporto,MIT,279297,"Howler-based audio engine for Diegesis: channels with mute/solo, fades, random groups, spatial sound and timelines."
+2026-09-28T12:18:49.227Z,@diegesis/canvas-plugin-grid,0.2.1,patrickporto,MIT,58280,"Grid plugin for @diegesis/canvas — renders the scene grid (square, hex, isometric) and contributes grid configuration via context menu."
+2026-09-28T12:18:49.32Z,@diegesis/canvas-plugin-drawings,0.1.2,patrickporto,MIT,108896,"Drawings document plugin for @diegesis/canvas — Drawing placeable, freehand brush tool and shape tool."
+2026-09-28T12:18:50.972Z,@diegesis/canvas-plugin-grid-square,0.2.1,patrickporto,MIT,6288,Square grid plugin for @diegesis/canvas — renders and configures square-grid scenes.
+2026-09-28T12:18:51.456Z,@diegesis/canvas-plugin-image-editor,0.2.1,patrickporto,MIT,207209,"Image editor plugin for @diegesis/canvas — crop (pan/zoom/rotate/flip), advanced masks and ring overlay for token art; built-in customizable UI plus a headless API for custom interfaces."
+2026-09-28T12:18:51.77Z,@diegesis/canvas-plugin-lighting,0.1.2,patrickporto,MIT,61656,Lighting plugin for @diegesis/canvas — darkness overlay cut by light sources with wall occlusion.
+2026-09-28T12:18:53.371Z,@diegesis/canvas-plugin-maps,0.2.1,patrickporto,MIT,211479,"Maps plugin for @diegesis/canvas — streaming tiled map loading with LOD mipmaps, viewport culling, LRU tile cache and flyweight source sharing."
+2026-09-28T12:18:53.733Z,@diegesis/canvas-plugin-measure,0.2.1,patrickporto,MIT,85234,Measuring plugin for @diegesis/canvas — ruler tool with waypoints and the measure event.
+2026-09-28T12:18:53.791Z,@diegesis/canvas-plugin-rings,0.2.1,patrickporto,MIT,181776,"Colored ring markers for tokens on @diegesis/canvas — presets, custom styles, dash/glow/pulse, event-driven and hook-extensible."
+2026-09-28T12:18:53.796Z,@diegesis/canvas-plugin-lights,0.1.2,patrickporto,MIT,48775,"Ambient light plugin for @diegesis/canvas — light documents, AmbientLight placeable, light tool and light:sources contributions."
+2026-09-28T12:18:54.252Z,@diegesis/canvas-plugin-roll-tables,0.2.1,patrickporto,MIT,76567,"Placeable roll-table anchors for @diegesis/canvas — drop weighted random tables on the map, draw from the context menu, and persist the last result on the document."
+2026-09-28T12:18:54.293Z,@diegesis/canvas-plugin-ranges,0.2.1,patrickporto,MIT,190160,"Range rings plugin for @diegesis/canvas — extensible presets, color-blind themes and sticky range overlays for distance checks at a glance."
+2026-09-28T12:18:54.346Z,@diegesis/canvas-plugin-templates,0.2.1,patrickporto,MIT,149871,"Area of effect templates plugin for @diegesis/canvas — circle/cone/ray template documents, placeable, tool and geometry helpers."
+2026-09-28T12:18:54.514Z,@diegesis/canvas-plugin-tiles,0.1.2,patrickporto,MIT,57870,Tile document plugin for @diegesis/canvas — Tile placeable and drag-to-place tile tool.
+2026-09-28T12:18:54.712Z,@diegesis/canvas-plugin-tokens,0.2.1,patrickporto,MIT,136629,"Token document plugin for @diegesis/canvas — Token placeable, token tool, vision and light sources."
+2026-09-28T12:18:54.721Z,@diegesis/canvas-plugin-trackers,0.2.1,patrickporto,MIT,458055,"Extensible token trackers plugin for @diegesis/canvas — inline math, bars, badges, scene defaults, presets and resolution hooks."
+2026-09-28T12:18:55.101Z,@diegesis/canvas-plugin-walls,0.1.2,patrickporto,MIT,293293,"Walls document plugin for @diegesis/canvas — walls, doors and bezier curves with movement/sight blocking."
+2026-09-28T12:18:56.337Z,@diegesis/canvas-plugin-window,0.2.1,patrickporto,MIT,455698,"Window manager for @diegesis/canvas — floating, modal, dockable, snappable windows with taskbar and state persistence."
+2026-09-28T12:18:56.904Z,@diegesis/canvas-preset-standard,0.2.1,patrickporto,MIT,29250,"Standard preset for @diegesis/canvas — bundles the core plugins (grid, maps, tiles, drawings, walls, templates, tokens, rings, lights, measure, lighting, fog) in one import."
+2026-09-28T12:18:57.275Z,@diegesis/dice-core,0.1.1,patrickporto,MIT,125414,"Canonical dice IR + seeded evaluator for Diegesis — Valibot-validated, dialect-neutral, side-effect-free except for an injectable RNG."
+2026-09-28T12:18:57.723Z,@diegesis/dice-foundry-notation,0.1.1,patrickporto,MIT,21314,"Foundry VTT dice notation parser and serializer for the Diegesis dice IR — maps Foundry sigils (kh, r, rr, x, xo, cs, cf, df, d%, df-as-fate, dc, @path) to canonical modifier operations."
+2026-09-28T12:18:57.961Z,@diegesis/dice-roll20-notation,0.1.1,patrickporto,MIT,22219,"Roll20 dice notation parser and serializer for the Diegesis dice IR — maps Roll20 sigils (kh, r, ro, !, !!, !p, d%, dF, @{attr}) to canonical modifier operations."
+2026-09-28T12:18:58.002Z,@diegesis/dice-notation-core,0.1.1,patrickporto,MIT,145681,"Dialect-parametrized lexer, parser and serializer core for Diegesis dice notations — shared machinery behind @diegesis/dice-notation, @diegesis/dice-foundry-notation and @diegesis/dice-roll20-notatio…"
+2026-09-28T12:18:58.237Z,@diegesis/dice-notation,0.1.1,patrickporto,MIT,23025,"Canonical Diegesis dice notation — unambiguous parse/fromFormula and toFormula for the dice IR, the best of Foundry and Roll20 without their collisions."
+2026-09-28T12:18:58.266Z,@diegesis/events,0.2.1,patrickporto,MIT,210931,"Mature, schema-validated event & hook bus for Diegesis — cross-VTT interoperability and browser-extension friendly."
+2026-09-28T12:18:58.407Z,@diegesis/formula,0.1.1,patrickporto,MIT,181994,"Tiny, jsep-powered formula IR for Diegesis — json-logic-shaped AST that travels over the event bus, persists to documents, and runs with no eval."
+2026-09-28T12:18:58.75Z,@diegesis/inline-math,0.1.1,patrickporto,MIT,16872,"Zero-dependency inline math commands for numeric inputs — apply +5, -5, *2, /2 or =10 against a current value."
+2026-09-28T12:18:58.96Z,@diegesis/hotkeys,0.2.1,patrickporto,MIT,208570,"Declarative, context-aware hotkey management for Diegesis — rebindable keymaps, conflict detection and schema-validated persistence."
+2026-09-28T12:18:59.029Z,@diegesis/physics,0.1.1,patrickporto,MIT,853853,"Rigid-body physics (cannon-es) for Diegesis, with Web Worker host and main-thread fallback."
+2026-09-28T12:18:59.481Z,@diegesis/render3d,0.1.1,patrickporto,MIT,67078,"Three.js rendering toolkit for Diegesis: post-processing composer, HDR/cubemap environments, normal map generation."
+2026-09-28T12:18:59.953Z,@diegesis/roll-tables,0.2.1,patrickporto,MIT,164485,"Weighted random roll tables for Diegesis — Foundry-grade draws plus seeded RNG, conditional entries, deck policies, nested resolution with cycle detection, and probability analysis."
+2026-09-28T12:19:00.192Z,@diegesis/sheet,0.1.2,patrickporto,MIT,364571,"Effect-oriented character sheet engine for Diegesis — the document is minimal, the effect pipeline is the heart: collect, filter, sort by UUID v7, apply, derive, emit."
+2026-09-28T12:19:40.187Z,@nucleux/md3-bottom-sheet,0.4.0,intelligaia,MIT,14456,Material 3 modal bottom sheet — Nucleux agentic UI for React.
+2026-09-28T12:19:43.505Z,@opfs-vfs/file-preview,0.1.0,passionkind,PolyForm-Noncommercial-1.0.0,3996734,Shared React file previews and virtualized text editor.
+2026-09-28T12:20:00.015Z,@grada/techo,0.4.1,grada,,1217572,"A personal cloud desktop with real files, passkeys, SSH management and an agent-ready CLI"
+2026-09-28T12:20:03.495Z,@nucleux/md3-progress,0.4.0,intelligaia,MIT,23821,"Material 3 progress indicators (linear, circular) — Nucleux agentic UI for React."
+2026-09-28T12:20:18.142Z,@nucleux/md3-time-picker,0.4.0,intelligaia,MIT,21072,Material 3 time picker (input) — Nucleux agentic UI for React.
+2026-09-28T12:20:19.912Z,@nucleux/md3-tooltip,0.4.0,intelligaia,MIT,16428,"Material 3 tooltip (plain, rich) — Nucleux agentic UI for React."
+2026-09-28T12:20:55.105Z,@opfs-vfs/devtools,0.1.0,passionkind,PolyForm-Noncommercial-1.0.0,1773659,"Explore and manage OPFS VFS volumes with file previews, a shell, and debugging tools."
+2026-09-28T12:21:23.947Z,pk-tax,0.0.2,aqsa-logicbyte,MIT,51382,"Pakistan income tax calculator for salaried individuals — versioned FBR tax-year rules (2025-26, 2026-27), progressive slabs, surcharge, monthly/annual tax, net salary, effective and marginal rates.…"
+2026-09-28T12:21:30.74Z,@opfs-vfs/plugin-subscriptions,1.1.0,passionkind,PolyForm-Noncommercial-1.0.0,40663,Bounded file change subscriptions for OPFS VFS.
+2026-09-28T12:21:31.983Z,@nucleux/md3-date-picker,0.4.0,intelligaia,MIT,26043,Material 3 date picker — Nucleux agentic UI for React.
+2026-09-28T12:21:56.523Z,@fluiddb/schema,1.0.0-next.0,zvada,Apache-2.0,50918,"Contracts for FluidDB: turns, windows, statements, groups, dossiers, recall, API requests"
+2026-09-28T12:22:29.653Z,@upseam/cli,0.1.0,upseam_ceo,MIT,13234965,"Finds external API changes that affect a repository: SDK, pinned API version, changes since, matched code"
+2026-09-28T12:22:50.137Z,skillwharf,0.1.0,mujieha,MIT,78226,"Install, version, sync and track agent skills (SKILL.md) across Claude Code, Codex, Cursor and more."
+2026-09-28T12:23:06.045Z,@volter/lucarne-interact,0.4.0,aaronvolter,MIT,591612,"Paced CDP interaction, passive recall, records and MCP consumers for an existing browser endpoint."
+2026-09-28T12:23:11.781Z,@cominty-ai/sdk,0.1.0,abdo-cmt,MIT,177432,Official TypeScript client for the Cominty managed agent chat API
+2026-09-28T12:23:34.57Z,@fluiddb/core,1.0.0-next.0,zvada,Apache-2.0,119267,"FluidDB core: the ports and the memory (windows, statements, links, dossier, picker, detector)"
+2026-09-28T12:24:19.464Z,@fluiddb/eval,1.0.0-next.0,zvada,Apache-2.0,30351,Portable FluidDB SDK evaluation and paired component comparisons
+2026-09-28T12:24:22.544Z,@fluiddb/providers,1.0.0-next.0,zvada,Apache-2.0,44477,"FluidDB providers over fetch: OpenAI-compatible models and embeddings, Jev, and a model in Jev's place"
+2026-09-28T12:24:25.908Z,@fluiddb/sql,1.0.0-next.0,zvada,Apache-2.0,46733,"FluidDB storage on SQLite: rows and vectors in one database, for Durable Objects and bun:sqlite"
+2026-09-28T12:24:29.448Z,@fluiddb/client,1.0.0-next.0,zvada,Apache-2.0,38211,A typed client for the FluidDB HTTP API
+2026-09-28T12:24:35.103Z,@fluiddb/postgres,1.0.0-next.0,zvada,Apache-2.0,18593,FluidDB postgres storage adapter
+2026-09-28T12:24:35.86Z,@deepseek-ai/dsh-experimental-schedule-bundle,0.2.0-rc.1,imccyu,MIT,16457,"Optional bundle that adds Schedule, its task page, and time context to the Web composition"
+2026-09-28T12:24:39.095Z,@fluiddb/firestore,1.0.0-next.0,zvada,Apache-2.0,27070,FluidDB firestore storage adapter
+2026-09-28T12:24:43.06Z,@fluiddb/feedback,1.0.0-next.0,zvada,Apache-2.0,26539,Explicit FluidDB feedback and failed-task reports through HiveNet
+2026-09-28T12:24:46.913Z,@fluiddb/skills,1.0.0-next.0,zvada,Apache-2.0,33937,Portable FluidDB memory and feedback skills with verified MCP manifests
+2026-09-28T12:24:50.331Z,@fluiddb/mcp,1.0.0-next.0,zvada,Apache-2.0,41154,Person-scoped FluidDB memory tools over MCP stdio and Streamable HTTP
+2026-09-28T12:24:54.654Z,@fluiddb/cli,1.0.0-next.0,zvada,Apache-2.0,20373,FluidDB feedback and portable memory skills from the command line
+2026-09-28T12:27:20.363Z,@deepseek-ai/dsh-client-product-analytics,0.2.0-rc.1,imccyu,MIT,56711,Desktop product event collection and authenticated Host reporting
+2026-09-28T12:27:22.229Z,@trakoo/posthog,0.0.0,chrisjayden,MIT,19077,PostHog provider for trakoo
+2026-09-28T12:27:25.175Z,@trakoo/openpanel,0.0.0,chrisjayden,MIT,35389,OpenPanel provider for trakoo
+2026-09-28T12:27:28.582Z,@trakoo/bento,0.0.0,chrisjayden,MIT,14161,Bento provider for trakoo
+2026-09-28T12:27:30.842Z,@hermesihq/react,0.1.0,jkendo,MIT,313457,"Embeddable notification inbox for React: a headless client plus a ready bell-and-panel component, backed by Hermesi's client API."
+2026-09-28T12:27:31.576Z,@trakoo/emitkit,0.0.0,chrisjayden,MIT,19444,EmitKit provider for trakoo
+2026-09-28T12:28:17.405Z,@wizardingcode/shibaox-schemas,0.1.4,wizardingcode,UNLICENSED,69705,
+2026-09-28T12:28:18.58Z,@fluiddb/sdk,1.0.0-next.0,zvada,Apache-2.0,14922,Composable conversation memory for AI products and agents
+2026-09-28T12:28:19.841Z,@wizardingcode/shibaox-core,0.1.4,wizardingcode,UNLICENSED,216148,
+2026-09-28T12:28:22.421Z,@wizardingcode/shibaox-jev,0.1.4,wizardingcode,UNLICENSED,21107,
+2026-09-28T12:28:24.471Z,@wizardingcode/shibaox-memory,0.1.4,wizardingcode,UNLICENSED,40893,
+2026-09-28T12:28:26.299Z,@wizardingcode/shibaox-persistence-sqlite,0.1.4,wizardingcode,UNLICENSED,14602,
+2026-09-28T12:28:28.495Z,@wizardingcode/shibaox-providers,0.1.4,wizardingcode,UNLICENSED,110587,
+2026-09-28T12:28:31.637Z,@wizardingcode/shibaox-workspace,0.1.4,wizardingcode,UNLICENSED,15238,
+2026-09-28T12:28:36.443Z,@wizardingcode/shibaox-adapter-claude-code,0.1.4,wizardingcode,UNLICENSED,79436,
+2026-09-28T12:28:38.397Z,@wizardingcode/shibaox-adapter-direct,0.1.3,wizardingcode,UNLICENSED,76291,
+2026-09-28T12:28:41.207Z,@wizardingcode/shibaox-daemon,0.1.4,wizardingcode,UNLICENSED,392194,
+2026-09-28T12:28:44.316Z,@wizardingcode/shibaox-tui,0.1.4,wizardingcode,UNLICENSED,821648,
+2026-09-28T12:28:46.325Z,shibaox,0.1.4,wizardingcode,UNLICENSED,172335,"shibaox: an agentic OS for software teams (CLI, daemon and dashboard)"
+2026-09-28T12:29:00.979Z,@splashbi/dashboard-web-component,0.1.0-demo.0,sandeep_koyada,UNLICENSED,6152475,"<sbi-dashboard-layout> - a framework-agnostic web component that renders a SplashBI dashboard (GridStack layout, FusionCharts, AG Grid) in any HTML page."
+2026-09-28T12:29:30.104Z,@deepseek-ai/dsh-client-ui-settings-session-log,0.2.0-rc.1,imccyu,MIT,20064,General settings control for Session-log upload with DeepSeek API requests
+2026-09-28T12:30:26.654Z,palladium-router-app,0.5.91,zxvxzv700,MIT,52975720,"Palladium Router CLI - Start and manage the Palladium Router server. A fork of 9Router (https://github.com/decolua/9router), MIT licensed."
+2026-09-28T12:30:44.072Z,@botinbox/mcp,0.1.0,botinbox,UNLICENSED,78367,"BotInbox MCP server (stdio): give Claude, Cursor, VS Code, Windsurf and other MCP clients real email inboxes."
+2026-09-28T12:30:47.334Z,@davidihl/pausable-timer,0.1.0,davidihl,MIT,22520,A setTimeout that can be paused and resumed
+2026-09-28T12:31:15.274Z,@tryaxiomai/docxodus,12.6.3-axiom.3,guthyerrz,MIT,37389803,"Render, edit, diff and project Word .docx files in the browser — DOCX to HTML, a block editor, Word-grade redlines with tracked changes, and anchor-addressed markdown for LLM agents. WebAssembly, no…"
+2026-09-28T12:31:47.156Z,paseo-beads-board,0.1.1,pedometer,MIT,112759,"Kanban board for the beads (bd) issue tracker inside Paseo, with a workspace panel, sidebar surface, and composer attachment source."
+2026-09-28T12:32:05.296Z,@lsby/tencent-cloud-certbot-dns-hook,0.0.1,hbybyyang,,15229,Certbot DNS-01 auth and cleanup hooks for Tencent Cloud DNSPod
+2026-09-28T12:32:08.121Z,@falkenslab/agent-kit,0.10.1,fvarrui,MIT,296547,Library for building an agent on top of the Claude Agent SDK
+2026-09-28T12:32:43.236Z,my-own-way-runtime,1.0.0,podpackwireless,ISC,4815,
+2026-09-28T12:34:16.365Z,three-forma-styli,0.5.0,three___,ISC,858520,"A designer's opinionated shorthand for design systems: readable TypeScript in, CSS variables and exact types out."
+2026-09-28T12:35:31.591Z,@marlinjai/agentic-os-cli,0.3.0,marlinjai,UNLICENSED,54475,"aos: the Agentic OS command line. Sign in as yourself (aos login), switch company, file and publish work into a company vault."
+2026-09-28T12:37:19.486Z,@lenasoftware/deliver2ai-cli,0.1.0,burhancetinkaya,Elastic-2.0,356897,"deliver2.ai CLI — installs telemetry hooks into AI coding agents (Claude Code, Codex, OpenCode, VS Code Copilot) and forwards session events to the deliver2.ai ingestion API."
+2026-09-28T12:37:22.286Z,n8n-nodes-kleap,0.1.0,eliottd,MIT,606780,"n8n nodes for Kleap: build, edit and publish websites with AI from any workflow, and trigger on their form submissions."
+2026-09-28T12:37:29.776Z,@zenitya/sdk,0.1.0,kocieusz,MIT,31163,Author typed tools for Zenitya projects.
+2026-09-28T12:38:30.486Z,synoa-magepack,3.0.0,r.sliusar,OSL-3.0,123868,Advanced JavaScript bundling for Magento 2. Maintained fork of magesuite/magepack with up-to-date dependencies.
+2026-09-28T12:38:38.401Z,dsh-auth-remote,0.1.1,chenluo,MIT,1243481,"Single-user remote authentication for DeepSeek Harness: password, TOTP and revocable sessions."
+2026-09-28T12:38:56.102Z,@igaozp/dsh-font-settings,1.0.0,igaozp,,52538,在 DSH 设置 → 通用中添加界面字体与代码字体设置；字体候选来自本机已安装字体。
+2026-09-28T12:40:52.109Z,hybrid-ai-router,0.1.0,sahil_dev11,,33612368,"A browser-side JS package that decides whether a small AI model can run on the user's own device, runs it there when possible, and falls back to a cloud API when the device can't handle it — or the l…"
+2026-09-28T12:42:04.063Z,@nexoracoding/cli,0.1.0,kemzang,Apache-2.0,15438375,Nexora CLI
+2026-09-28T12:42:56.885Z,fewrd,0.1.0,egildo,,28156,"Read a string with recipes: anchors, greedy expansion, a cuts index, and a fold-aware render."
+2026-09-28T12:43:20.555Z,vitest-environment-happy-dom-extended,0.0.0,ryotamurakami,MIT,1215317,"A Happy DOM Vitest environment with real 2D Canvas, dedicated Workers, and verified Web API compatibility fixes."
+2026-09-28T12:43:45.374Z,@tianacloud/serverless,0.1.0-beta.1,moonball,Apache-2.0,225944,Tiana Fetch-over-HTTPS transport for serverless and edge JavaScript runtimes
+2026-09-28T12:44:02.163Z,@fortemate/vega-vvd-driver,0.1.0,fortemate,MIT,83326,"Unofficial driver for the Vega Virtual Device: remote keys, screenshots and video with sound, from scripts and AI agents. CLI, Node library and MCP server."
+2026-09-28T12:44:28.368Z,animus-ui,0.1.1,mateus.desenv,,4721929,"Animus visual identity: React logos, brand applications and design tokens."
+2026-09-28T12:44:49.876Z,@villion-inc/blog-ui,0.1.1,villion-geo,SEE LICENSE IN LICENSE,180097,Villion CMS에서 발행한 글을 Next.js App Router 사이트의 /blog 경로에 표시하는 블로그 UI 패키지입니다. Villion 고객사 전용입니다.
+2026-09-28T12:46:25.172Z,business-casual-theme,0.1.0,joseda,MIT,65529,"A quiet, monochrome interface theme with one configurable accent color."
+2026-09-28T12:46:41.419Z,@tokiwi/payload-translate-deepl,0.1.0,huserg,MIT,139714,"Translate a Payload document into another locale with DeepL, from the admin panel."
+2026-09-28T12:48:36.728Z,xgen-dex-ide,1.60.0,plateer-lab,UNLICENSED,655982,"채팅 안의 IDE 보기 — 탐색기·편집기·터미널·찾기·소스 제어 (React, 호스트 주입)"
+2026-09-28T12:48:59.288Z,activepieces-kleap,0.1.1,eliottd,MIT,137003,"Activepieces piece for Kleap: build, edit and publish websites with AI, read leads, analytics and the app database, buy domains."
+2026-09-28T12:49:12.152Z,@krun-ai/sdk,0.2.0,rafaelferres,Apache-2.0,199299,Official TypeScript SDK for the Krun API.
+2026-09-28T12:49:52.651Z,@ghost1411/backkit,1.0.1,ghost1411,MIT,57259,Customizable backend scaffolding CLI for generating production-ready Node.js APIs
+2026-09-28T12:50:44.301Z,@semi-bot/semi-theme-default_factory_2,1.0.0,semi-bot,MIT,1512586,Semi theme generated by dsm. https://semi.design/dsm
+2026-09-28T12:51:39.863Z,@aayurt/8848-ui-mcp,0.2.0,aayurt,MIT,9022,"Model Context Protocol server for the 8848 UI shadcn registry — list, search and fetch components for AI assistants."
+2026-09-28T12:53:22.209Z,premium-baileys,1.0.7,ryo-terminal,SEE LICENSE IN LICENSE,17645193,Customized distribution of WhatsApp Web API library with enhanced button sets and stability layers built for Ryo-baileys.
+2026-09-28T12:54:22.952Z,@chidakashi-ai/safety,0.0.1,rishabhpoddar-miko,MIT,59108,Check text and images against named safety policies.
+2026-09-28T12:54:54.268Z,@motionharness/sdk,0.0.11,bbfat,Apache-2.0,305907,"MH React authoring SDK: component contracts, editable instances and MH time"
+2026-09-28T12:56:09.125Z,mdx-media-manager,0.1.0-beta.0,godwin.pinto,MIT,224633,"Add, replace and delete images in MDX docs straight from the rendered page, during development"
+2026-09-28T12:56:30.36Z,@com2usplatform/devex-publish-probe,0.0.2,comsy-com2us,Apache-2.0,12029,npm 게시 경로 검증용 패키지입니다. 검증이 끝나면 게시를 취소합니다.
+2026-09-28T12:56:45.831Z,grove-multirepo,0.1.0,kaxyotik,MIT,585684,"A single-command, workspace-local CLI for managing multi-repository units of work (Groves) built on Git worktrees."
+2026-09-28T12:57:22.499Z,@zeroxsolutions/editor-core,0.1.0,luongvantuit,,174674,"A Notion-like, block-based rich-text **editing engine** - headless. The engine (Tiptap / ProseMirror) is **fully hidden behind a frozen, engine-free contract**: you build documents, define features,…"
+2026-09-28T12:57:23.382Z,dsh-memory-runtime,0.1.0,xwss,,168606,"Auditable, workspace-scoped long-term memory runtime for DeepSeek Harness."
+2026-09-28T12:57:24.468Z,@zeroxsolutions/icons,0.1.0,luongvantuit,,2247368,"Inline-SVG React icons organized into **categories**, each exposed as a real import subpath. One icon per subpath, imported as `@zeroxsolutions/icons/<category>/<name>`:"
+2026-09-28T12:57:28.439Z,dsh-turn-performance-meter,0.1.1,evan-williams,MIT,1005706,Turn-level live and completed throughput/latency telemetry for DeepSeek Harness agent workflows.
+2026-09-28T12:57:37.121Z,@zeroxsolutions/fluent-emoji,0.1.0,luongvantuit,,102356552,"Self-hosted Microsoft **Fluent Emoji** — a committed Unicode CLDR catalog plus the artwork in five styles (four static + animated), resolved by codepoint. No third-party CDN."
+2026-09-28T12:57:57.217Z,gebangautoupload,1.0.0,orlin24,ISC,4226100,Auto-upload video ke YouTube dengan jadwal publish. Installer lintas-platform (Windows/macOS/Linux) + auto-start.
+2026-09-28T12:58:05.072Z,fish-skill,0.1.0,changeplusmaxpro,MIT,144731,"A collection of reusable AI coding-agent skills, including Resume Copilot."
+2026-09-28T12:58:11.58Z,@openreachtech/mentsu-sequelize-record-aggregator,0.0.0,steweucen,Apache-2.0,1405661,"Aggregate a Sequelize application's own data into chart-ready rows, from a declaration the host supplies."
+2026-09-28T12:58:12.025Z,pczzz,0.0.1,chengxudong,MIT,23847,Timed shutdown command tool
+2026-09-28T12:58:15.709Z,@motionharness/cli-darwin-arm64,0.0.11,bbfat,Apache-2.0,58935757,MH native binary for macOS arm64
+2026-09-28T12:58:20.305Z,@motionharness/cli,0.0.11,bbfat,Apache-2.0,19925,MH motion graphics CLI
+2026-09-28T12:59:55.276Z,@araw/robloxstudio-mcp,3.2.0,araw,MIT,6360415,"MCP server for testing, debugging, and controlling Roblox Studio from AI coding tools"
+2026-09-28T12:59:58.385Z,rocksdb-usage,0.0.0,mafintosh,,42,
+2026-09-28T13:00:32.934Z,@araw/robloxstudio-mcp-inspector,3.2.0,araw,MIT,6359234,DataModel read-only MCP server for inspecting and debugging Roblox Studio from AI coding tools
+2026-09-28T13:00:46.523Z,traceon-loadrunner,0.1.1,solomon_muhye,MIT,20238,Local HTTP load generator for the traceOn Chrome extension's Load Test — a Chrome Native Messaging host.
+2026-09-28T13:02:01.953Z,@studio99/api,0.1.0,studio99,MIT,22744,"Official Node.js client for the Studio99 Indic Typography API: exact Hindi, Marathi, Gujarati and English typography as editable SVG and PNG."
+2026-09-28T13:02:23.187Z,@blipit/browser,0.2.0,borgyborg,MIT,250538,Blipit error monitoring SDK for browsers. Know your app broke before your users tell you.
+2026-09-28T13:02:25.587Z,@blipit/node,0.1.0,borgyborg,MIT,25028,Blipit error monitoring SDK for Node.js. Know your app broke before your users tell you.
+2026-09-28T13:02:28.325Z,@blipit/cli,0.1.0,borgyborg,MIT,6546,Blipit CLI. Upload source maps in one command.
+2026-09-28T13:02:34.388Z,@allan_nava/stalecheck,0.1.0,allan_nava,MIT,34190,"Verifies that what the documentation says is still true: dead links, renamed files, line citations past the end, stale versions and facts dated long enough ago to be worth re-reading. Deterministic —…"
+2026-09-28T13:02:58.59Z,create-vuemail,0.1.0,psycarlo,MIT,106700,The easiest way to get started with Vuemail
+2026-09-28T13:03:19.324Z,@vuemaildev/render,0.1.0,psycarlo,MIT,80739,Transform Vue components into HTML email templates
+2026-09-28T13:03:24.264Z,@vuemaildev/ui,0.1.0,psycarlo,MIT,4460583,A live preview of your Vuemail emails right in your browser.
+2026-09-28T13:03:25.844Z,@vuemaildev/vuemail,0.1.0,psycarlo,MIT,3420675,"Build and send emails using Vue. Components, rendering and a live preview of your emails right in your browser."
+2026-09-28T13:03:26.123Z,@lunora/rspack,0.0.0,prisis,,2019,OIDC trusted publishing setup package for @lunora/rspack
+2026-09-28T13:03:27.979Z,@vuemaildev/nuxt,0.1.0,psycarlo,MIT,12078,Render Vuemail emails in your Nuxt server routes
+2026-09-28T13:03:30.294Z,@vuemaildev/editor,0.1.0,psycarlo,MIT,1477544,A rich text editor for editing and building email templates with Vue
+2026-09-28T13:03:36.448Z,@feng0531/dsh-vcs,0.3.12,feng0531,SEE LICENSE IN LICENSE,2829187,Read-only Git and SVN change preview for DSH
+2026-09-28T13:04:36.035Z,@appkeeprhq/node,0.0.1,omeralpi,MIT,21848,"Send Appkeepr messages from Node.js backends, jobs, and scripts."
+2026-09-28T13:04:50.027Z,@answerdotai/mdhtml,0.1.40,pol_avec,Apache-2.0,356908,"mdhtml's Markdown parser for the browser, compiled to WebAssembly"
+2026-09-28T13:05:17.316Z,tailwind-contact-forms,0.5.5,kokem25091,MIT,81048,A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
+2026-09-28T13:06:29.606Z,signalk-starlink-offshore,0.1.0,night199uk,Apache-2.0,60463423,"Signal K plugin (bundled worldwide data, fully offline) that reports the maritime zone the vessel is in - territorial sea, internal waters, land or high seas - with the sovereign country, forecasts t…"
+2026-09-28T13:06:30.139Z,@webx-ui/module-vacancies,0.1.0,ahabzig,MIT,178018,"Vacancies for the WebX UI admin panel: who the organisation is looking for — where and how, the terms and the pay, the duties, the requirements and what is offered — in flat categories, closed by han…"
+2026-09-28T13:06:48.047Z,opencode-factory,0.1.0,whoisandie,MIT,196590,"OpenCode Factory: a lightweight OpenCode V2 agent pack — eight agents (foreman, machinist, sage, explorer, librarian, reviewer, advisor, curator), argument-based workflow commands, two skills, a read…"
+2026-09-28T13:07:05.631Z,arc56-generated-mritnycodes-verithread,1.1.2026092812,arc56,,50254,Generated ARC-56 Algorand smart-contract clients for mritnycodes/verithread.
+2026-09-28T13:07:11.694Z,graphite-art-mcp,0.2.0,acoci86,MIT,2598261,Unofficial MCP connector for the Graphite graphics editor (graphite.art): typed editing commands for Claude and other MCP clients
+2026-09-28T13:07:18.992Z,@webx-ui/module-tariffs,0.1.0,ahabzig,MIT,104193,"Tariffs for the WebX UI admin panel: price cards with a currency, a period, what is included and a button, in groups, ordered by hand, shown on the site by a block."
+2026-09-28T13:07:50.889Z,ember-testem,0.1.0,ijlee2,MIT,6609,
+2026-09-28T13:08:04.645Z,@dimivelev/pi-jev-router,0.1.0,dimivelev,MIT,45028,A Pi extension that routes tasks between chat models using Jev difficulty classification.
+2026-09-28T13:08:05.419Z,@beacon-observability/profiler-nodejs,1.0.0,beacon-observability,Apache-2.0,64928,Node.js profiling bridge for OpenTelemetry resource metadata and pprof export
+2026-09-28T13:10:29.21Z,@tenphi/renderer,0.19.0,tenphi,MIT,604996,Astro renderer and Tasty theme for Cookbook
+2026-09-28T13:11:37.214Z,@hazy019/idee-cli,1.0.0,hazy019,,75602,Windows-native developer environment engine
+2026-09-28T13:11:41.991Z,@elsrogy-tickets/common,1.0.0,elsrogy,ISC,237,
+2026-09-28T13:11:46.183Z,@blipit/nextjs,0.1.0,borgyborg,MIT,16639,"Blipit error monitoring for Next.js: one component for the browser, one line for server errors."
+2026-09-28T13:11:53.471Z,node-red-contrib-visibox,1.0.0,jjeff,MIT,72593,Node-RED nodes for controlling Visibox live visual performance software
+2026-09-28T13:11:57.851Z,opencode-context-indicator,1.0.0,vladsmr,MIT,113542,"Real-time OpenCode context-window usage indicator: per-category token breakdown written to a log file, plus an optional TUI sidebar. Dual V1 + V2 plugin entry."
+2026-09-28T13:12:20.488Z,@opfs-vfs/react,0.0.1,passionkind,PolyForm-Noncommercial-1.0.0,549799,React providers and hooks for OPFS VFS volumes.
+2026-09-28T13:12:43.279Z,@groupdocs/groupdocs.parser,26.9.0,groupdocs.conversion.npm,End User License Agreement.html,21490,"Document parsing API to extract text, metadata, images, tables, barcodes, hyperlinks and structured data from PDF, DOCX, XLSX, PPTX, emails, archives and other popular document formats using JavaScri…"
+2026-09-28T13:13:19.402Z,oxbox,0.0.0,pi0,,59,
+2026-09-28T13:13:39.992Z,dsh-connect-sensenova-token-plan,0.2.0,eghrhegpe,MIT,235345,"SenseNova Token Plan credit panel for the Harness Web UI: per-pool quota windows and per-model consumption from the console API, with an in-panel account setup and a self-renewing console token."
+2026-09-28T13:15:00.876Z,handover-book,0.1.1,a742987,MIT,501805,"Evidence-linked engineering handovers from Git history and PR discussions. Local CLI, ownership signals, and questions for the next maintainer."
+2026-09-28T13:15:22.319Z,kankaku-hub,0.2.0,baldboy,MIT,1117476,PocketBase backend for kankaku: canonical clients/projects/tasks and synced task_entries/work_records.
+2026-09-28T13:15:40.714Z,kelbem,0.0.1,zaggaz,,567,"Kelbem: a map of what a code change relies on and what it may break, built from a pull-request diff. Early development; no usable release yet."
+2026-09-28T13:15:59.343Z,opencode-cairn,0.2.0,ahcoresolution,MIT,34705,"Project Explorer sidebar panel for the opencode TUI — live-refreshing, collapsible file tree with click-to-open and show-all mode."
+2026-09-28T13:16:15.809Z,@silverio-labs/qmark-core,0.1.0,silverio-labs,SEE LICENSE IN LICENSE,1158038,Client-side YAML-to-Canvas/SVG assessment rendering engine
+2026-09-28T13:16:26.285Z,@versoai/core,0.1.0,aaronaknin,MIT,86447,"Verso SDK — generate connect links, verify webhooks, and interact with the Verso API"
+2026-09-28T13:17:08.076Z,@silverio-labs/qmark-cli,0.1.0,silverio-labs,SEE LICENSE IN LICENSE,24945,Compile qmark-compose.yml directories to PDF and web bundles
+2026-09-28T13:17:12.212Z,flowdash-md-preview,0.1.0,xzisme,MIT,2303267,"A framework-agnostic Markdown preview renderer: render Markdown to HTML and mount a live, themeable preview panel anywhere."
+2026-09-28T13:18:28.138Z,mussx-baileys,7.0.0-rc14,mussx,MIT,8460430,A WebSockets library for interacting with WhatsApp Web
