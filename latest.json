@@ -1,203 +1,78 @@
 {
   "list": {
-    "count": 141,
-    "from": "2026-09-28T18:19:17.091126Z",
-    "path": "data/new-packages-2026-09-28T19-19-31-814417Z.csv",
-    "to": "2026-09-28T19:19:31.814417Z"
+    "count": 213,
+    "from": "2026-09-28T19:19:31.814417Z",
+    "path": "data/new-packages-2026-09-28T20-18-55-802459Z.csv",
+    "to": "2026-09-28T20:18:55.802459Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-authentication-betterauth",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@edvizion/components",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-database-postgres",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@ijuantm/simpl",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-eventstore-postgres",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@lenard9191/pi-project-profile",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-infrastructure-kubernetes",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@openmost/wechat-matomo-miniprogram-sdk",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-keystore-postgres",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@riebeckite/plugin-alias",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-logger-otlp",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@riebeckite/plugin-backlinks",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-mailer-brevo",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@riebeckite/plugin-discord-embed",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-message-broker-redis-pubsub",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@riebeckite/plugin-excalibrain",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-object-storage-s3",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@riebeckite/plugin-obsidian-markdown",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-payment-gateway-mercadopago",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@riebeckite/plugin-properties",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-adapter-search-database-meilisearch",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@riebeckite/plugin-rename",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-admin-plugin-feature-flags",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@riebeckite/theme-default",
+      "since": "2026-09-28T19:19:31.814417Z"
     },
     {
       "attempts": 1,
-      "package": "@bett3r-dev/pv3-admin-plugin-indexes",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-admin-plugin-outbox",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-admin-server",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-admin-server-ui",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-cli",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-dev-utils",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-blueprint-extractor",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-blueprint-scaffold",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-event-encryption",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-feature-flags",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-feature-flags-client",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-load-balancer-routes",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-observability",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-openapi-client-library-generator",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-realtime-session",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-routes-auth",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-wal-reader",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-websockets",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-library-work-queue",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-port-mailer",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-port-message-broker",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-port-object-storage",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-port-payment-gateway",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@bett3r-dev/pv3-port-search-database",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@gitmyabi/cover",
-      "since": "2026-09-28T18:19:17.091126Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@nubisco/openbridge-wiz-local-platform",
-      "since": "2026-09-28T18:19:17.091126Z"
+      "package": "@riebeckite/theme-tokyonight",
+      "since": "2026-09-28T19:19:31.814417Z"
     }
   ],
-  "seq": 133180366,
+  "seq": 133190985,
   "source_truncated": false,
-  "window": "2026-09-28T19:19:31.814417Z"
+  "window": "2026-09-28T20:18:55.802459Z"
 }
