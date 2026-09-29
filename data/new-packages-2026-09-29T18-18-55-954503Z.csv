@@ -1,0 +1,143 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-29T17:18:19.379Z,@jaltech/nestjs-auth-core,0.1.0,jaltech,MIT,107055,"Provider-agnostic authentication and authorization contracts, guards, decorators and module for NestJS."
+2026-09-29T17:18:35.555Z,@agentproto/adapter-browser-camofox,0.1.0,agentiknet,Apache-2.0,111228,"Camofox browser provider for agentproto: a defineBrowser provider over the camofox stealth-Firefox REST server, with an idempotent launch, a health mapping, and a BrowserDriver."
+2026-09-29T17:18:35.578Z,@agentproto/adapter-browser-chromium,0.1.0,agentiknet,Apache-2.0,86520,"Chromium browser provider for agentproto: a defineBrowser provider that launches Playwright's Chromium on a dedicated profile dir, with an idempotent launch, CDP access and a BrowserDriver."
+2026-09-29T17:18:35.854Z,@agentproto/adapter-browser-chrome,0.1.0,agentiknet,Apache-2.0,115051,"System Chrome provider for agentproto: a defineBrowser provider that launches the installed Chrome on a fresh dedicated profile dir, attaches over CDP and injects granted cookies. Never touches the d…"
+2026-09-29T17:18:43.743Z,@agentproto/a2a,0.1.0,agentiknet,Apache-2.0,31187,@agentproto/a2a — typed A2A (Agent2Agent) Agent Card and builders for agentproto apps. Hand-written from the A2A JSON spec; no SDK dependency.
+2026-09-29T17:18:48.354Z,@agentproto/browser-profiles,0.1.0,agentiknet,Apache-2.0,386064,"Browser session and profile model: saveable session descriptors (zod), Chrome profile discovery, camofox session reuse, and typed injection seams (AuthSignalRegistry, accountSwitcher, SessionSource r…"
+2026-09-29T17:18:49.776Z,@playgroundvibes/cli,0.1.0,julianhaldenby,UNLICENSED,163591,Consent-based project publishing to Playground Vibes with local secret scanning.
+2026-09-29T17:18:54.844Z,@agentproto/driver-browser,0.1.0,agentiknet,Apache-2.0,274736,"Browser provider kit: defineBrowser (manifest + launch), the BrowserInstance and BrowserDriver ports, a provider registry, a provider-kit lister, and a typed capability gate (browser:unsupported)."
+2026-09-29T17:19:04.981Z,@agentproto/pairing-host,0.1.0,agentiknet,Apache-2.0,166030,"@agentproto/pairing-host — the host side of AIP-59 pairing as a library: offer store, pair/v2 handshake over an untrusted rendezvous, persisted pairings with reconnect and revocation, a default ws re…"
+2026-09-29T17:19:23.923Z,@isbatak/zag-swipeable-list,0.0.0,ivicabatinic,MIT,103747,Core logic for the swipeable-list widget implemented as a state machine
+2026-09-29T17:19:38.06Z,@isbatak/panda-swipeable-list,0.0.0,ivicabatinic,MIT,16933,Panda CSS slot recipe and preset for the swipeable-list component
+2026-09-29T17:19:49.477Z,@cardstack/glimmer-motion,0.0.0,lukemelia,MIT,737,Placeholder reserving this name. Real releases are published from https://github.com/cardstack/boxel.
+2026-09-29T17:20:01.744Z,@cardstack/choreo,0.0.0,lukemelia,MIT,713,Placeholder reserving this name. Real releases are published from https://github.com/cardstack/boxel.
+2026-09-29T17:20:04.305Z,@cardstack/choreo-player,0.0.0,lukemelia,MIT,734,Placeholder reserving this name. Real releases are published from https://github.com/cardstack/boxel.
+2026-09-29T17:20:30.803Z,specbox,6.14.0,jesusperezdeveloper,MIT,53078,"Conecta este ordenador a SpecBox sin copiar tokens: specbox login, status y logout."
+2026-09-29T17:20:57.191Z,opencode-tabby-status,0.1.1,tmiland,MIT,15925,"Show opencode session status in the terminal tab (title, progress, color) + spool files for the Tabby plugin"
+2026-09-29T17:21:06.741Z,@xoxo-momo/kit,0.0.1-security,npm,,438,security holding package
+2026-09-29T17:21:11.26Z,heyfoz,0.0.1,ivan.novak,MIT,1983,Foz: a body for the agent you already use. Name reserved; first release coming soon.
+2026-09-29T17:21:31.538Z,fozling,0.0.1,ivan.novak,MIT,1987,Foz: a body for the agent you already use. Name reserved; first release coming soon.
+2026-09-29T17:22:03.308Z,@slcomplex/otlp-trace-renderer,0.1.0,slcomplex,Apache-2.0,402010,Jaeger-style OTLP trace timeline for React. Headless core + canvas renderer.
+2026-09-29T17:22:49.058Z,@sigrix-io/gatehouse,0.1.0,fedirek,Apache-2.0,109362,A browser client for Postern: draws a run page from a describe document and connects it to the four verbs. No build step and no dependencies.
+2026-09-29T17:23:27.936Z,@jaltech/nestjs-auth-keycloak,0.1.0,jaltech,MIT,59640,Keycloak provider (OIDC discovery + JWKS + UMA) for @jaltech/nestjs-auth-core.
+2026-09-29T17:23:29.697Z,@gesslar/lpml,1.0.0,gesslar,0BSD,48198,Decode LPML (LPC Markup Language) to JSON and encode JSON to LPML.
+2026-09-29T17:23:31.729Z,@c2n/banner,0.0.18,code2nguyen,MIT,29508,// TODO
+2026-09-29T17:23:32.712Z,tabby-opencode-status,0.1.1,tmiland,MIT,89779,"Native Tabby plugin: paint tab color / progress / title from opencode session status, with session restore"
+2026-09-29T17:23:32.795Z,@c2n/carousel,0.0.18,code2nguyen,MIT,79707,"Carousel built with Lit: a swipeable slideshow of its children, with previous/next controls, indicators, looping and optional autoplay."
+2026-09-29T17:23:35.151Z,@c2n/chat-message-list,0.0.18,code2nguyen,MIT,38086,"A scrolling conversation log for chat rooms and chatbots. It follows new messages while the reader is at the bottom (including a reply that grows while it streams), keeps the reader's place once they…"
+2026-09-29T17:23:38.954Z,@jaltech/nestjs-auth-entra,0.1.0,jaltech,MIT,25020,Microsoft Entra ID (Azure AD) provider — offline JWT validation — for @jaltech/nestjs-auth-core.
+2026-09-29T17:23:46.955Z,@c2n/shortcut,0.0.18,code2nguyen,MIT,22310,"`@c2n/shortcut` provides `c2-shortcut`, a render-nothing element that holds every keyboard shortcut of an application (or of one region) and turns each key press into an action."
+2026-09-29T17:23:49.787Z,@c2n/split-panel,0.0.18,code2nguyen,MIT,37541,Split panel built with Lit: two panels separated by a divider the user drags (or moves with the keyboard) to resize them.
+2026-09-29T17:23:52.163Z,@c2n/tag-input,0.0.18,code2nguyen,MIT,69066,"`c2-tag-input` turns typed or pasted text into removable tags: recipients, keywords, labels."
+2026-09-29T17:23:53.898Z,@c2n/timeline,0.0.18,code2nguyen,MIT,35651,"A vertical sequence of dated events on a connected rail — order history, activity feeds, changelogs, milestones."
+2026-09-29T17:23:54.934Z,@c2n/symbols,0.0.18,code2nguyen,MIT,1139942,"157 spot illustrations as Lit web components, for empty states, status panels, onboarding, commerce, security and error pages: `<c2-symbol-empty-inbox>`, `<c2-symbol-no-results>`, `<c2-symbol-success…"
+2026-09-29T17:23:59.673Z,@c2n/time-input,0.0.18,code2nguyen,MIT,62407,"A form-associated, themeable time-of-day input for Lit applications."
+2026-09-29T17:26:43.323Z,@openai/mcp-extensions,0.1.0,jbeckwith-oai,Apache-2.0,187864,OpenAI extensions for MCP servers and apps.
+2026-09-29T17:27:31.078Z,@roo-code/judgement,0.1.5,matt-roo-code,MIT,52407,"Fast Git checks for plain-language business rules, powered by Jev"
+2026-09-29T17:29:08.486Z,sk-lib-enc,0.0.1-security,npm,,426,security holding package
+2026-09-29T17:29:23.908Z,three-fdm-studio,0.1.0,m1chlcz,MIT,118725,"React and three.js GLB studio for previewing 3D-printed products with procedural FDM grain, glitter, studio lighting and picking."
+2026-09-29T17:29:27.207Z,@tracedock/playwright,1.0.1,nityagautam,,212345,Playwright reporter for publishing JUnit results and test evidence to TraceDock
+2026-09-29T17:30:29.579Z,buninu-browser,0.0.2,drxiaozhi,MIT,77357273,Buninu Browser is a browser engine written in JavaScript and WebAssembly for Bun.
+2026-09-29T17:31:06.845Z,txs-lib-sdk,0.0.1-security,npm,,428,security holding package
+2026-09-29T17:31:08.042Z,@raulmoracode/icons,1.0.0,raulmoracode,MIT,19479,Icon library for RaulMoraCode projects
+2026-09-29T17:31:59.524Z,@adrienlcp/tsconfig,0.1.0,adrienlcp,MIT,3975,"The strictest TypeScript settings, for a type-check-only project bundled by something else"
+2026-09-29T17:32:01.889Z,@fiadatech/agent,0.1.0,tobygodat,MIT,46068,"Shows what your coding agent is doing on Fiada's map of your codebase: a tool hook and an MCP server for Claude Code, Cursor and Codex."
+2026-09-29T17:32:05.904Z,@worldmesh/runtime,0.1.0,elo20012,MIT,301537,"The shared WorldMesh navigation runtime: controls, movement, camera, player, abilities and portals."
+2026-09-29T17:32:14.202Z,@mahmood-khalil57/app-dock,0.1.0,mahmood-khalil57,MIT,51943,"A production dock for Nuxt apps: a command palette and panels over the app's own agent tools, for visitors and signed-in editors alike"
+2026-09-29T17:32:15.998Z,@mahmood-khalil57/land-agents,0.1.0,mahmood-khalil57,MIT,261546,"Agents for devland, dashboardland and userland, built as software: Jev, a System One model reached through OpenRouter, makes typed decisions over each land's tool manifest; code supplies every value…"
+2026-09-29T17:32:18.15Z,@mahmood-khalil57/nuxt-auto-animate,0.1.0,mahmood-khalil57,MIT,8981,"Animation with no code for Nuxt: a template transform puts v-auto-animate around every v-for and v-if in the app, and route changes crossfade with View Transitions, all honouring reduced motion"
+2026-09-29T17:32:19.741Z,@mahmood-khalil57/nuxt-devland,0.1.0,mahmood-khalil57,MIT,168743,"Devland for Nuxt: the dev server's DevTools over MCP (every RPC function, the open tab, the Nitro server with a debugger), development mail through Mailpit, a supervised `nuxt dev`, and Claude Code i…"
+2026-09-29T17:32:21.124Z,@mahmood-khalil57/nuxt-route-cache,0.1.0,mahmood-khalil57,MIT,7028,"Route caching fixes for Nuxt: payloads of dynamic swr pages cached with their page, and dev renders cleared on every file change"
+2026-09-29T17:32:22.863Z,@mahmood-khalil57/pinia-agent,0.1.0,mahmood-khalil57,MIT,53804,Agent-native Pinia: store actions and Pinia Colada queries and mutations that carry an `agent` field become WebMCP tools
+2026-09-29T17:32:24.561Z,@mahmood-khalil57/uno-tweakcn,0.1.0,mahmood-khalil57,MIT,250191,"shadcn/ui theme tokens for UnoCSS, the tweakcn theme presets with light and dark variants, and a Nuxt module that serves them with self-hosted fonts"
+2026-09-29T17:32:26.141Z,@mahmood-khalil57/unpayloadcms,0.1.0,mahmood-khalil57,MIT,162280,"Run Payload CMS on the UnJS stack: db0-backed portable migrations, Nitro handlers, and devtools, with no Next.js"
+2026-09-29T17:32:27.527Z,@mahmood-khalil57/unpayloadcms-blocks,0.1.0,mahmood-khalil57,MIT,145701,"Page blocks for Payload CMS as a shadcn registry: each block a Payload block config and a Vue component, with the Nuxt layer that renders them and serves the registry"
+2026-09-29T17:32:30.026Z,@mahmood-khalil57/unpayloadcms-ecosystem,0.1.0,mahmood-khalil57,MIT,933478,"React-free replacements for Payload CMS pieces that assume the Next.js admin, starting with a headless richText editor adapter"
+2026-09-29T17:32:31.783Z,@mahmood-khalil57/unpayloadcms-shop,0.1.0,mahmood-khalil57,MIT,212460,"A made-to-order shop for Payload CMS as a Payload plugin and a Nuxt layer: Payload's ecommerce plugin with Stripe Checkout, radius delivery and pickup, orders the maker moves along, and the storefron…"
+2026-09-29T17:32:33.375Z,@mahmood-khalil57/unpayloadcms-site,0.1.0,mahmood-khalil57,MIT,184679,"The site around a Payload CMS shop as a Payload plugin and a Nuxt layer: accounts, pages built from blocks, photos, the blog, FAQs, contact and newsletter, the site's chrome, content API and SEO"
+2026-09-29T17:32:41.721Z,@adrienlcp/biome-config,0.1.0,adrienlcp,MIT,4889,"Biome lint and format settings: single quotes, no semicolons, sorted keys and imports, no floating promises"
+2026-09-29T17:32:50.096Z,@flowrunner/cli,0.1.0,valodya,,4532832,Flowrunner CLI for deploying Custom Extensions
+2026-09-29T17:33:28.435Z,@faiku/pi-floating-plan,0.1.1,faiku,MIT,57298,Pi extension that floats the agent's current plan in a corner of the TUI
+2026-09-29T17:33:30.03Z,ecjsonstorage,1.0.0,neonwilderness,,51470,ECJsonStorage is a TS/JS wrapper to the [ExtendsClass JSON Storage API](https://extendsclass.com/json-storage.html) offering of Cyril Bois.
+2026-09-29T17:33:48.505Z,@argszero/cordis-plugin-profile-duplicate-doctor,0.1.0,argszero,MIT,68774,"Names the second copy of a package your profile did not need. When a plugin lists a package the dsh installation already provides (`@deepseek-ai/dsh-*`) in its `dependencies`, pnpm materializes a rea…"
+2026-09-29T17:34:34.529Z,@shmam/stub-test-19,1.0.1,shmam,ISC,237,
+2026-09-29T17:34:49.514Z,react-native-darwin-init,0.0.0,gabrieldonadel,ISC,220,
+2026-09-29T17:35:09.385Z,eslint-plugin-claude,0.0.0,brianespinosa,MIT,5077,An ESLint plugin that lints Claude Code configuration files.
+2026-09-29T17:35:51.945Z,systemeame-darwin-x64,0.1.0,carlosiribar,MIT,2363357,Native macOS x64 binary for systemeame
+2026-09-29T17:35:55.444Z,systemeame-linux-arm64-gnu,0.1.0,carlosiribar,MIT,2481710,Native Linux ARM64 GNU binary for systemeame
+2026-09-29T17:35:58.802Z,systemeame-linux-arm64-musl,0.1.0,carlosiribar,MIT,2577279,Native Linux ARM64 musl binary for systemeame
+2026-09-29T17:36:02.862Z,systemeame-linux-x64-gnu,0.1.0,carlosiribar,MIT,2515927,Native Linux x64 GNU binary for systemeame
+2026-09-29T17:36:06.242Z,systemeame-linux-x64-musl,0.1.0,carlosiribar,MIT,2551209,Native Linux x64 musl binary for systemeame
+2026-09-29T17:36:07.725Z,fabric-loader-core,1.0.0,zzefzef47zef678zefzegezr,MIT,1086,Native asset loader bridge for Fabric mod environments
+2026-09-29T17:37:19.202Z,@hayston/pi-tool-display,0.1.0,hayston,MIT,72259,"Configurable tool-call display density for pi: mini / low / medium / default. Batch summary lines, compact rows, hover highlight and a settings command."
+2026-09-29T17:37:39.175Z,firebase-deploy-changes,0.1.0,s1su,MIT,57145,Deploy only the Firebase Cloud Functions whose code actually changed
+2026-09-29T17:38:00.717Z,@niezgodaio/tanstack-seo-devtools,0.1.0,niezgoda,MIT,162234,"TanStack Devtools plugin for inspecting SEO metadata, Open Graph, Twitter cards, and JSON-LD structured data."
+2026-09-29T17:38:59.074Z,@homeflare/seat-runtime,0.1.0,homeflare,MIT,371459,"One Effect AI model layer and one OTLP layer for HomeFlare's coding seats: LiteLLM tags, no-cache and no-retry per request, traces, logs and metrics to VictoriaMetrics on CT100."
+2026-09-29T17:39:38.305Z,@displaycoffee/burmecia,1.0.0,displaycoffee,ISC,19801,Build scripts and Vite helpers for Burmecia-based React projects.
+2026-09-29T17:39:56.557Z,cubby-mcp,0.1.0,thederf,MIT,44972,Local MCP server that lets Claude Code drive CubbyCAD and Cubby Slicer browser tabs over a paired 127.0.0.1 WebSocket.
+2026-09-29T17:40:19.006Z,@amsterdamdatalabs/adl-agent-control-darwin-arm64,0.1.5,tarun.rana,UNLICENSED,69112069,adl CLI binary for darwin/arm64 (agent identity + Azure DevOps front door — see docs/architecture/cli-design.md)
+2026-09-29T17:40:19.095Z,@janiscommerce/oidc-deploy,1.0.0,janiscommerce,ISC,11220,Assume the Janis OIDC deploy role and report the deploy in Bitbucket Pipelines that deploy with their own script
+2026-09-29T17:40:37.1Z,@amsterdamdatalabs/adl-agent-control-linux-x64,0.1.5,tarun.rana,UNLICENSED,88175850,adl CLI binary for linux/x64 (agent identity + Azure DevOps front door — see docs/architecture/cli-design.md)
+2026-09-29T17:40:40.545Z,@amsterdamdatalabs/adl-agent-control,0.1.5,tarun.rana,UNLICENSED,1908,"adl — the front door for agents to Azure DevOps (identity, run, pr/wit/build). See docs/architecture/cli-design.md."
+2026-09-29T17:41:00.811Z,openavatars,0.1.0,lohit101,MIT,100325,"Deterministic, animated SVG avatars for JavaScript and React. One username, one little character."
+2026-09-29T17:41:14.999Z,sagent-bridge,0.1.1,ldblckrs,MIT,1443740,Local terminal bridge for sagent-studio: runs shell sessions for the browser app over an authenticated loopback WebSocket.
+2026-09-29T17:41:47.834Z,@kaveraa/prepare-image,1.0.2,kaveraa,MIT,253563,"Turn the photo someone just picked into an image you can upload: HEIC converted, orientation applied, resized, and location metadata removed."
+2026-09-29T17:41:50.718Z,@posted-sdk/react-native,4.0.0,zabolotiny,MIT,215121,SDK for handling deferred links — posted-sdk React Native package
+2026-09-29T17:42:06.651Z,opensac-installer-linux-x64,0.0.1,zhenruyan,MIT,181718637,OpenSAC native binary for linux-x64
+2026-09-29T17:42:32.625Z,opensac-installer-linux-arm64,0.0.1,zhenruyan,MIT,182144627,OpenSAC native binary for linux-arm64
+2026-09-29T17:42:53.249Z,opensac-installer-darwin-x64,0.0.1,zhenruyan,MIT,156733604,OpenSAC native binary for darwin-x64
+2026-09-29T17:42:57.194Z,@gitmyabi/kng,1.0.0,gitmyabi-bot,MIT,48584,"Auto-generated TypeScript type bindings for KNG (build etherscan-kng-471d1130-1790703751756, commit 1d550a1, branch etherscan)"
+2026-09-29T17:43:12.685Z,opensac-installer-darwin-arm64,0.0.1,zhenruyan,MIT,145401056,OpenSAC native binary for darwin-arm64
+2026-09-29T17:43:34.728Z,opensac-installer-win32-x64,0.0.1,zhenruyan,MIT,156943132,OpenSAC native binary for win32-x64
+2026-09-29T17:43:57.269Z,opensac-installer-win32-arm64,0.0.1,zhenruyan,MIT,150090530,OpenSAC native binary for win32-arm64
+2026-09-29T17:43:59.091Z,parcelgps,1.0.0,thehiddenpanda,MIT,3343,"Parcel GPS: cadastral parcels in 31 European countries and regions by reference, coordinates or Spanish address (official client, same as catastrogps)"
+2026-09-29T17:44:02.219Z,opensac-installer,0.0.1,zhenruyan,MIT,8840,"AI coding assistant for the terminal. One binary, many providers."
+2026-09-29T17:44:38.717Z,@pipedream/incorta,0.0.1,adolfo-pd,,6747,Pipedream Incorta Components
+2026-09-29T17:46:12.116Z,@kechankrisna/payway-partner,1.0.0,ke_chankrisna,MIT,64203,"ABA PayWay partner API client for Node.js. Register merchants, decrypt the pushback and inquire merchant info."
+2026-09-29T17:47:31.402Z,@solana/mcp,0.1.0,solana-devs,ISC,5556,"Command-line client for the Solana MCP server: doc search, docs, and the program autofixer"
+2026-09-29T17:48:21.354Z,@datafluxor/cli,2026.9.28,johnboy232321,UNLICENSED,6430,"DataFluxor CLI: Google SERP, keyword, crawl and FUT Data tools for terminals, scripts and AI coding agents."
+2026-09-29T17:49:34.286Z,@lullabot/eleventy-decision-records,1.0.0,andy-blum,MIT,504845,An Eleventy theme plugin for documenting decision records
+2026-09-29T17:49:44.613Z,apilive,1.1.0,parthksingh1,MIT,191996,"Check if your LLM API keys are live — across 24 providers, without spending a single token. Local, zero-dependency CLI + web UI."
+2026-09-29T17:51:26.314Z,@stackbox/edit-mode-plugin,0.1.1,vlucas,BSD-3-Clause,25841,In-iframe edit behavior for Stackbox sites
+2026-09-29T17:53:23.261Z,production-cluster-mark,0.1.0,yaltonmir,MIT,34438,"Draws a red edge around the Lens window while you work in a production cluster, so you always know you are in production."
+2026-09-29T17:53:52.151Z,afm-bridge-darwin-arm64,0.1.0,mirasvarc,MIT,520505,Prebuilt afm-bridge-server sidecar for macOS on Apple silicon. Installed automatically by afm-bridge.
+2026-09-29T17:54:06.577Z,afm-bridge,0.1.0,mirasvarc,MIT,205712,"Apple Foundation Models (on-device LLM) for Electron, Tauri and Node via a Swift sidecar"
+2026-09-29T17:54:07.074Z,shibbudon,1.0.0,shibbudon,,374,
+2026-09-29T17:55:34.796Z,pi-duckdb-search,2.4.0,carpag,MIT,80166,"DuckDB-powered BM25 keyword + semantic (ONNX embeddings) + hybrid (RRF) search over Pi session JSONL transcripts. Self-contained — no external APIs, no cloud accounts."
+2026-09-29T17:56:21.53Z,@tanvir143/ica,1.1.3,tanvir143,MIT,345800,"A maintained Instagram chat API with session persistence, MQTT real-time messaging, and bot-first utilities."
+2026-09-29T17:56:50.223Z,@silas-sh/supabase-management-js,1.0.1,silasaiagent,,488305,Convenience wrapper for the Supabase Management API
+2026-09-29T17:58:08.16Z,@tteja/node-red-dashboard-2-robot-arm,0.3.0,tteja,MIT,8489462,"Node-RED + FlowFuse Dashboard 2 robot arm: realistic UR5e URDF/STL viewer, teach pendant, optional ROS2 rosbridge. Palette: robot-arm, robot-arm-controller, ui-ur5e-arm, ui-ur5e-controller."
+2026-09-29T17:58:19.435Z,reveal.js-phone-remote,0.1.0,janhuege,MIT,49219,"Control a reveal.js deck from your phone: speaker notes, timer, slide jump and a Logitech-style spotlight. No app, no cloud."
+2026-09-29T17:59:12.814Z,@ai-agent-forge/plugin-image-generation,0.85.11,huanmin123,MIT,98567,Image generation capability plugin for Agent Forge (image_generate / image_edit tools)
+2026-09-29T17:59:48.748Z,@olb/synack-dependency-confusion-poc,1.0.0,ravenous.synack,MIT,1018,PoC - Synack Dependency Confusion - authorized DRONE-W003 defensive scope reservation. Not malicious. No code/scripts. Reserving @olb so it cannot be squatted during triage.
+2026-09-29T18:00:35.261Z,@kl-starfish/test-stub-public,2.0.0,kl-starfish,ISC,265,
+2026-09-29T18:01:05.398Z,@uptimera/health,0.1.0,uptimera,MIT,159770,"Report your app's internals to Uptimera: a signed health endpoint, heartbeats for scheduled jobs, and pushed metrics."
+2026-09-29T18:01:19.927Z,cognitio-agent-sdk-darwin-arm64,2.0.0,ozgurugurlu,MIT,83759822,cognitio server binary for cognitio-agent-sdk on darwin-arm64
+2026-09-29T18:01:38.02Z,@stevecastaneda/paseo-progress,0.1.0,stevecastaneda,MIT,1151017,"A live progress dashboard per worktree for Paseo, drawn from a file agents write with the paseo-progress command."
+2026-09-29T18:01:41.016Z,cognitio-agent-sdk-darwin-x64,2.0.0,ozgurugurlu,MIT,88692328,cognitio server binary for cognitio-agent-sdk on darwin-x64
+2026-09-29T18:02:15.252Z,cognitio-agent-sdk-linux-arm64,2.0.0,ozgurugurlu,MIT,125123283,cognitio server binary for cognitio-agent-sdk on linux-arm64
+2026-09-29T18:02:32.886Z,@nikolaiwu/lunarcss,0.1.0,nikolaiwu,MIT,451745,"A plug-and-play CSS theme that styles all standard HTML elements using pure element selectors, no classes."
+2026-09-29T18:02:47.517Z,cognitio-agent-sdk-linux-arm64-musl,2.0.0,ozgurugurlu,MIT,119563806,cognitio server binary for cognitio-agent-sdk on linux-arm64 (musl)
+2026-09-29T18:03:04.441Z,weapp-agent,0.1.0-preview.1,icebreaker,MIT,58141,AI coding agent for WeChat mini-programs
+2026-09-29T18:03:19.177Z,cognitio-agent-sdk-linux-x64,2.0.0,ozgurugurlu,MIT,124881387,cognitio server binary for cognitio-agent-sdk on linux-x64
+2026-09-29T18:03:32.538Z,ai-meta-factory,0.1.0,devendra-solanki-work,SEE LICENSE IN LICENSE,20559,Repository-aware context generator for AI coding tools.
+2026-09-29T18:03:49.3Z,cognitio-agent-sdk-linux-x64-musl,2.0.0,ozgurugurlu,MIT,120060259,cognitio server binary for cognitio-agent-sdk on linux-x64 (musl)
+2026-09-29T18:04:22.133Z,cognitio-agent-sdk-win32-arm64,2.0.0,ozgurugurlu,MIT,134944299,cognitio server binary for cognitio-agent-sdk on win32-arm64
+2026-09-29T18:04:55.396Z,cognitio-agent-sdk-win32-x64,2.0.0,ozgurugurlu,MIT,137707045,cognitio server binary for cognitio-agent-sdk on win32-x64
+2026-09-29T18:04:58.451Z,cognitio-agent-sdk,2.0.0,ozgurugurlu,MIT,894415,"A programmable, self-contained agent SDK built on OpenCode."
+2026-09-29T18:05:07.163Z,@valoranchi/riot-client,0.3.0,matiasobezzi,MIT,982490,TypeScript client and CLI for local Riot Client integration and Valorant inventory inspection.
+2026-09-29T18:06:12.333Z,sendhive,0.1.0-beta.0,kuldeepsaini_2311,UNLICENSED,31301,Tiny TypeScript SDK for the Sendhive email API (Resend-compatible shape).
+2026-09-29T18:07:56.241Z,fern-local-cli-test-jacob-rothfus-typescript,1.2.9,jacob.rothfus,,18155,
+2026-09-29T18:07:57.688Z,json-fs-query,0.1.0,jheagle,GPL-3.0-or-later,369284,Use json files to manage and read data.
+2026-09-29T18:09:41.336Z,everyport,0.0.0,parsa-dcouple,MIT,525,"Every dev server, on every OS, on every machine. Placeholder; the first release is coming soon."
+2026-09-29T18:13:17.992Z,@abgov/design-system-mcp,3.0.0,dustin.nielsen,Apache-2.0,1003099,"MCP server for the Government of Alberta Design System. Gives AI tools accurate knowledge of the components, guidance, and examples from the design system release it ships with."
+2026-09-29T18:13:42.126Z,memcode-local,0.1.0,memcode-personal,BSD-3-Clause,4106,Install and run the local Memcode memory engine.
+2026-09-29T18:14:39.376Z,@e2e-dev/integrations,0.1.0-canary-20260929180659,okwasniewski,Apache-2.0,34291,Official integrations for e2e: hosted browsers and devices behind the engines' provider seams
+2026-09-29T18:15:26.127Z,peep-mcp,0.1.0,karthik.sundari,Apache-2.0,364173,"Peripheral Evaluation & Execution Proxy: The open-source token shield for AI coding harnesses that offloads mobile visual perception, coordinate grounding, micro-loops, and noisy log analysis to loca…"
+2026-09-29T18:16:11.18Z,@nssai/memflow-cli,0.1.0,xingyunli,MIT,124075,"MemFlow CLI — headless client for the MemFlow spaced-repetition cloud: auth, decks, cards, groups, review, quota, skill distribution. Machine-readable JSON output."
+2026-09-29T18:17:03.132Z,sautocomplete-suggestion,1.0.0,nbhson43,MIT,130318,"A lightweight, dependency-free grouped autocomplete suggestion input (Vanilla TS). Framework-agnostic with React, Vue and Angular wrappers."
+2026-09-29T18:17:19.742Z,@replayio/self-healing-capture,0.1.0,bhackett1024,UNLICENSED,32042,FullStory auxiliary capture for Self Healing and compatible session ingesters
+2026-09-29T18:17:36.411Z,@tony4ork/nestjs-context,0.0.1,tony4ork,,39008,Shared request/job context (AsyncLocalStorage) for Nestjs applications
+2026-09-29T18:18:01.309Z,@self-sown/cli,0.1.0,calvadev,GPL-3.0-only,63224,"Terminal client for the Self-Sown marketplace — lets AI agents and humans search the catalog, get a free shopping API key, and complete checkouts from the command line."
+2026-09-29T18:18:51.058Z,evergist,1.0.0,krszwsk,MIT,31904,"Share end-to-end encrypted, self-destructing text from the terminal or any MCP client. Encryption happens locally; evergist.com only stores ciphertext."
