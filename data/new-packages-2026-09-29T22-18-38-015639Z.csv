@@ -1,0 +1,142 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-29T21:16:18.389Z,@dloizides/game-shell,0.1.2,dloizides,MIT,215649,"Framework-free web game shell: fits the visible viewport (--gs-vh), offers install (chip / card / iOS steps), shows a crash overlay, pauses on hide, unlocks audio, polls for new versions. ESM + CJS +…"
+2026-09-29T21:16:23.081Z,@paperstack-docs/mdx,0.1.0,princeraj2572,MIT,6466,MDX compilation for PaperStack documents.
+2026-09-29T21:16:47.243Z,@homie-rocks/arcade,0.1.0,ryan-thirds,Apache-2.0,381217,"Seats and phone controllers for games on a shared screen: jobs per seat, a controller page per phone, late arrivals dealt in, and a keyboard fallback. It never decides what a seat is or what a button…"
+2026-09-29T21:16:50.86Z,@homie-rocks/audio,0.1.0,ryan-thirds,Apache-2.0,918943,"Web Audio building blocks for games: an output chain that cannot clip, seeded noise and reverb, envelopes, voice management, a beat clock and an offline sampler planner. It ships no notes, tempos or…"
+2026-09-29T21:16:53.815Z,@homie-rocks/brush,0.1.0,ryan-thirds,Apache-2.0,275825,"A box-and-ramp world for three.js games with interiors: a collision broadphase with a swept capsule, ground and ray queries, a geometry builder, a nav graph and parametric fittings."
+2026-09-29T21:16:57.134Z,@homie-rocks/bus,0.1.0,ryan-thirds,Apache-2.0,41604,A small synchronous event bus for games: one handler set (Bus) or one set per event type (KeyedBus). The game supplies the event types; a handler that throws never stops the others.
+2026-09-29T21:17:00.653Z,@homie-rocks/camera,0.1.0,ryan-thirds,Apache-2.0,867804,"Camera maths for three.js games: closed-form springs, lens and field-of-view fitting, an exact frame solver, and chase-rig and cinematic building blocks. Every tuning number is the caller's; none has…"
+2026-09-29T21:17:03.753Z,@homie-rocks/device,0.1.0,ryan-thirds,Apache-2.0,327756,"Device classification that survives iPadOS desktop mode, crash-proof per-field validation of stored preferences, and the measured maths and state machine for an on-screen thumb stick."
+2026-09-29T21:17:07.186Z,@homie-rocks/diagnostics,0.1.0,ryan-thirds,Apache-2.0,324956,"Checks whether a WebGL frame actually has a picture in it: pure blank/flat/tear tests, a pipeline log for bug reports, a watchdog that steps the renderer down a fallback ladder, and probe fault hooks."
+2026-09-29T21:17:08.508Z,@paperstack-docs/next,0.1.0,princeraj2572,MIT,8248,Next.js adapter for PaperStack: load a documentation site from its config.
+2026-09-29T21:17:10.583Z,@homie-rocks/film,0.1.0,ryan-thirds,Apache-2.0,693502,"Film production as data: a declarative shot timeline you can query at any time, a seek/reset contract, set volumes with continuity checks, dialogue and captions, and resumable capture plans. No rende…"
+2026-09-29T21:17:13.551Z,@homie-rocks/noise,0.1.0,ryan-thirds,Apache-2.0,344080,"Seeded procedural noise and scalar fields on the CPU: simplex, value and gradient noise, seamlessly tiling fbm, ridged and turbulence fields, voronoi, brick, strata and panel layouts, and surface det…"
+2026-09-29T21:17:16.939Z,@homie-rocks/fx,0.1.0,ryan-thirds,Apache-2.0,1851335,"Pooled particles and effects for three.js games: particle pools and shaders, trails and ribbons, shockwave rings, flame plumes, heat shimmer, decals, haze, light shafts and a pool of claimable point…"
+2026-09-29T21:17:52.22Z,@homie-rocks/heightfield,0.1.0,ryan-thirds,Apache-2.0,277342,"A regular grid of heights and the questions asked of one: bilinear fetch, normals and slope, band-limiting filters, a horizon bake for sky view, and skirted chunk meshes. Pure arithmetic; imports not…"
+2026-09-29T21:18:12.124Z,@elisym/merchant-node,0.1.0,igor.peregudov,MIT,250117,"elisym merchant node: self-hosted store for the elisym checkout - takes orders over Nostr, verifies Solana payments, delivers."
+2026-09-29T21:18:15.713Z,@homie-rocks/geom,0.1.0,ryan-thirds,Apache-2.0,1220557,"Procedural geometry for three.js games: chamfered primitives, walls with cut openings, lofts, sweeps, merge and instancing accumulators, route and racing-line maths. It builds triangles; it owns no g…"
+2026-09-29T21:18:20.005Z,@homie-rocks/ui,0.1.0,ryan-thirds,Apache-2.0,996783,"Screen-space UI primitives for games with no renderer dependency: cached DOM writes, readouts and menus, coalescing alerts, canvas gauges and instrument marks, Oklab colour with contrast audits, and…"
+2026-09-29T21:18:23.765Z,@homie-rocks/input,0.1.0,ryan-thirds,Apache-2.0,551509,"Input for browser games: gamepad, keyboard, touch sticks and pads, key rebinding, and a controls screen. It knows what a stick reads, never what a button means."
+2026-09-29T21:18:27.83Z,@homie-rocks/loop,0.1.0,ryan-thirds,Apache-2.0,353555,"A browser frame loop for WebGL games: clamped timestep, an adaptive resolution ladder, a render-failure fallback, coalesced resize and context-loss recovery. It has no three.js dependency."
+2026-09-29T21:18:33.978Z,@homie-rocks/render,0.1.0,ryan-thirds,Apache-2.0,5279566,"Rendering building blocks for three.js games: GPU capability probing and quality tiers, texture budget and shader pre-warm, cascaded shadows, draw-call and light budgets, and procedural texture baker…"
+2026-09-29T21:18:37.707Z,@homie-rocks/postfx,0.1.0,ryan-thirds,Apache-2.0,939088,"Post-processing for three.js games: a chain with grade, bloom, depth of field and temporal resolve, plus a capture protocol that makes two screenshots of a held frame identical. No default look."
+2026-09-29T21:18:41.765Z,@homie-rocks/props,0.1.0,ryan-thirds,Apache-2.0,972615,"Procedural scenery geometry for three.js: houses, boats, trackside furniture, landforms, rocks, vegetation, trusses and industrial fittings. Each generator takes numbers and an RNG and returns a Buff…"
+2026-09-29T21:18:43.554Z,@energy-tracker/api-client,1.0.1,energy-tracker,MIT,40385,Typed async client for the Energy Tracker public API
+2026-09-29T21:18:44.884Z,@homie-rocks/scatter,0.1.0,ryan-thirds,Apache-2.0,296431,"Placement policy for procedural worlds: keep-out registers, polyline corridors, footprint ground snaps, arc-length stepping, weighted quotas and crowd formations. Numbers in, numbers out; imports not…"
+2026-09-29T21:18:48.229Z,@homie-rocks/scores,0.1.0,ryan-thirds,Apache-2.0,220139,"Leaderboards for games played together in one room: score direction and encoding, shared-tie ranking, a here/away split and one escaped board renderer. It stores nothing; the host does."
+2026-09-29T21:18:52.465Z,@homie-rocks/ui-world,0.1.0,ryan-thirds,Apache-2.0,187063,"The arithmetic between a 3D world and a 2D panel: principal-axis fit, oblique ribbon projection, screen projection, marker relaxation, paint order, canvas marks and a bake/blit plate. No minimap, no…"
+2026-09-29T21:18:55.648Z,@homie-rocks/walk,0.1.0,ryan-thirds,Apache-2.0,206934,"On-foot movement for three.js games: a walker with ground-contact hysteresis, coyote time, jump buffering, slope limits and step height, plus a gait clock, foot planting and a GPU-posed biped."
+2026-09-29T21:21:15.697Z,@autional-cn/tsconfig,0.1.0-rc,boyce6280,AGPL-3.0,36792,Shared TypeScript configurations for the Autional fleet
+2026-09-29T21:22:23.105Z,@rtorcato/brand-kit,1.0.0,rtorcato,MIT,31308,"Banner, social card and favicon for a repo — SVG sources you can regenerate, rendered to PNG."
+2026-09-29T21:23:55.044Z,mise-projen,0.0.1,amin_fazl,Apache-2.0,1913748,Add [mise](https://mise.jdx.dev) support to any [projen](https://projen.io) project via a `constructs` mixin.
+2026-09-29T21:24:58.725Z,nodebb-plugin-latency,1.1.3,baris,MIT,8886,Capture and view response time statistics for different routes
+2026-09-29T21:26:19.328Z,poseref,0.1.1,termnix-it,MIT,1283555,"Pose and composition reference maker for image-generation AI, with an MCP server so Claude Code and Codex can pose it"
+2026-09-29T21:26:26.495Z,@satohub/kit,0.1.0,satohub,MIT,1070418,"Sato Kit: prepare -> execute for onchain agent actions, with a policy pre-flight, pluggable signers and a hash-chained receipt log. Preview, unpublished."
+2026-09-29T21:28:31.187Z,@thirds-ai/n8n-nodes-thirds,0.1.3,thirdsai,MIT,276054,Make branded PDFs and images from your saved thirds.ai designs in n8n.
+2026-09-29T21:29:37.713Z,@celorodrigues/agentkit-firewall,1.0.0,celorodrigues,MIT,20578,"Coinbase AgentKit ActionProvider for Automaton Pre-Flight AI Firewall: simulation, anti-honeypot and MEV safe slippage guard on Base."
+2026-09-29T21:29:56.022Z,odgruz,0.1.0,zagi_14,MIT,85606,Interactive disk cleanup for macOS with a before/after HTML report
+2026-09-29T21:30:40.314Z,@auto-ascii/darwin-arm64,0.3.0,mckay_anderson,MIT,6726770,auto-ascii prebuilt binary for darwin/arm64
+2026-09-29T21:30:44.478Z,@auto-ascii/darwin-x64,0.3.0,mckay_anderson,MIT,7306120,auto-ascii prebuilt binary for darwin/x64
+2026-09-29T21:30:45.711Z,@beyondandsharp/dsh-plugin-scaling,0.1.1,beyondandsharp,MIT,68032,"Independent per-pane zoom for the DSH web shell: Ctrl+wheel over a pane, Ctrl+± / Ctrl+0 for the focused pane. Works with the official look and every skin."
+2026-09-29T21:30:50.064Z,@auto-ascii/linux-x64,0.3.0,mckay_anderson,MIT,7886987,auto-ascii prebuilt binary for linux/x64
+2026-09-29T21:30:55.681Z,@auto-ascii/linux-arm64,0.3.0,mckay_anderson,MIT,6823181,auto-ascii prebuilt binary for linux/arm64
+2026-09-29T21:30:59.576Z,@auto-ascii/win32-x64,0.3.0,mckay_anderson,MIT,7967403,auto-ascii prebuilt binary for win32/x64
+2026-09-29T21:31:04.25Z,@auto-ascii/win32-arm64,0.3.0,mckay_anderson,MIT,6729397,auto-ascii prebuilt binary for win32/arm64
+2026-09-29T21:31:06.748Z,auto-ascii,0.3.0,mckay_anderson,MIT,6571,"Realtime ASCII-art video in your terminal: play, stream and import video as .ascii assets"
+2026-09-29T21:31:08.67Z,@raizn/cli,0.1.1,volj1n,UNLICENSED,105750,"Edit a Raizn Commerce store's theme as local files, preview it on the real store domain and send it for approval."
+2026-09-29T21:31:49.969Z,ris-ktx2,0.1.0-dev.2,lerkapic,MIT,4539852,"Browser TypeScript wrapper around Khronos libktx for loading, creating, and transcoding KTX2 textures."
+2026-09-29T21:32:23.763Z,@ajiya/cli,0.0.0,haidardotdev,MIT,2240,"Ajiya keeps a project's phases and tickets as markdown in the repository, for coding agents and people. Placeholder: the CLI arrives with v0.2."
+2026-09-29T21:32:26.603Z,@typesafe-ai/n8n-nodes-typesafe-ai,0.9.0,alliesafe,MIT,479357,"Ask TypeSafe AI's System One models (Jev!) typed questions and route items by the answer, with calibrated probabilities"
+2026-09-29T21:34:21.773Z,@xerlock/client,0.1.2,stephenhiggins,SEE LICENSE IN LICENSE,213849,Xerlock SDK for React Native apps
+2026-09-29T21:34:23.956Z,@reforma/project-tokens,0.0.1,kachurun,UNLICENSED,170637,Portable DTCG 2025.10 compiler for project design tokens.
+2026-09-29T21:34:27.432Z,petodo-cli,1.1.0,gaby3637,MIT,108158,"Your Petodo to-do list from the terminal, and an MCP server so Claude can use it."
+2026-09-29T21:36:46.221Z,@maslowcnc/abundance-bridge,0.1.1,maslowcnc,GPL-3.0-or-later,97134,MCP server that lets AI agents such as Claude inspect and edit the Abundance CAD project open in your browser.
+2026-09-29T21:37:02.83Z,animatecss-tailwind-presets,2.0.3,elony16,MIT,16891,"A configurable, namespaced Animate.css integration for Tailwind CSS"
+2026-09-29T21:38:02.126Z,cordova-plugin-harfin-pgs-v2,1.0.0,metkasu,UNLICENSED,9603,Google Play Games Services v2 Cordova bridge for Harf'in Izinde.
+2026-09-29T21:38:14.511Z,@cascade-ds/styles,0.2.3,sergio_segaty,MIT,487894,"Design tokens for Cascade DS as CSS custom properties, a typed theme object and motion values."
+2026-09-29T21:38:17.63Z,@cascade-ds/components,0.2.3,sergio_segaty,MIT,809872,"React components for Cascade DS: token-driven, themeable with pure CSS, styled with Linaria."
+2026-09-29T21:38:17.847Z,pipecircuit,0.0.1,kenakafrosty,MIT OR Apache-2.0,40122,Browser fittings and Postcard program boundaries for Pipecircuit
+2026-09-29T21:40:23.479Z,@funcd-dev/ui,0.1.0,kenneth.agg,Apache-2.0,498391,"React components for funcd: Mantine-based layouts, reactive forms, reactive charts and a flow editor"
+2026-09-29T21:40:30.407Z,dsh-poke,1.0.0,fengsuo,MIT,16363,DSH 插件：agent 提问时自动把 DSH App 顶到前台，失败则发通知兜底。Focused foreground + notification fallback for DeepSeek Harness.
+2026-09-29T21:40:53.87Z,@bobfrankston/mailx-service,0.1.47,bobfrankston,ISC,765485,
+2026-09-29T21:41:09.982Z,agent-doc-system,1.0.0,leonaaardob,MIT,565548,"Portable documentation and software-catalog system with an explicit authority model, for AI coding agents"
+2026-09-29T21:41:42.265Z,evaldoc,1.0.0,feytimedicalgroup,MIT,2043270,EvalDoc Healthcare Chat Platform - Simple Node.js App
+2026-09-29T21:41:46.704Z,@bendyline/molen-earth,0.0.2,bendylinesupport,MIT,2087,Molen Earth view (name placeholder with no code; install @bendyline/molen-earth@latest)
+2026-09-29T21:42:09.446Z,@agiledigital/pingone-aic-script-tester,0.1.0,dbalmain,MIT OR Apache-2.0,876173,Local Rhino harness: mock-surface generator and typed client for the long-lived JVM runner.
+2026-09-29T21:42:56.272Z,@shmam/support-team-demo,1.0.0,shmam,ISC,242,
+2026-09-29T21:43:00.564Z,@negative-space/file-tree,1.0.0,matheusbastani,MIT,45949,A lightweight and flexible file tree component for React
+2026-09-29T21:44:03.655Z,code-stream-overlay,0.1.2,pavelpolivka,MIT,214933,"Live, repo-aware overlays for OBS: git, tests, goals, timer and coding-agent activity."
+2026-09-29T21:44:20.426Z,@mrigx/core,0.1.0,vedantlahane,,76815,
+2026-09-29T21:44:37.964Z,@mrigx/react,0.1.0,vedantlahane,,13259,
+2026-09-29T21:44:49.704Z,@mrigx/fx,0.1.0,vedantlahane,,12356,
+2026-09-29T21:44:52.702Z,@mbandeira/reach,0.1.0,mbandeira,MIT,18963,Ergonomic outreach and forms primitives for Mastra agents
+2026-09-29T21:44:59.815Z,@mrigx/ui,0.1.0,vedantlahane,,233895,
+2026-09-29T21:45:42.224Z,@ziran-project/q,0.1.1,ulloasp,MIT,85848,"Hold Q, point at a destination, and let go. A radial navigation wheel for keyboard and pointer, in TypeScript."
+2026-09-29T21:45:46.45Z,nodebb-plugin-group-gallery,0.0.3,baris,MIT,114683,"Exposes photo uploading capability for groups, and introduces a custom widget for placement into group pages"
+2026-09-29T21:46:48.406Z,@moonarc/core,0.1.0,zrior,MIT,1129724,"Zero-runtime, ClientRouter-safe animation and motion components for Astro: scroll reveals, text effects, marquees, backgrounds and UI transitions. Every component states its measured JS cost."
+2026-09-29T21:47:23.023Z,@moonarc/mcp,0.1.0,zrior,MIT,1198558,"MCP server and CI CLI for Moonarc: search the catalogue by intent and byte budget, read a component's craft notes and source, get the install command; with a Pro key, audit motion in your codebase, m…"
+2026-09-29T21:47:49.213Z,@apex-directive/cli,0.1.0,xjojox,UNLICENSED,9334351,Apex Directive in the terminal: a multi-model review on your own keys.
+2026-09-29T21:48:21.357Z,gantri,0.0.1,gantri-ai,ISC,220,
+2026-09-29T21:49:00.827Z,@vicmpen/mokkan-cli,0.2.0,victor_benetatos,MIT,136265,"Cross-session reminders for Claude Code, Codex and your terminal: a synced stack of notes, scheduled email reminders and a status line."
+2026-09-29T21:49:38.149Z,@graphty/visual-review,0.0.1,apowers313,MIT,823,Placeholder: reserves the name so the package can be published through npm trusted publishing. The first real release follows from github.com/graphty-org/graphty-monorepo.
+2026-09-29T21:51:52.387Z,pi-daybreak-param,0.1.3,mercuriusdream,MIT,29755,Persistent /daybreak access-program selection for Pi's OpenAI and Sign in with ChatGPT requests
+2026-09-29T21:52:30.227Z,n8n-nodes-edit-image-ultimate-plus,1.5.0,gorkemkeskinkol,MIT,336657,Fork of n8n-nodes-edit-image-ultimate adding Trim (crop transparent edges) and Photoshop-style Canvas Size. Advanced image editing node for n8n — powered by Sharp (libvips). Rich text styling (opacit…
+2026-09-29T21:52:46.963Z,ubitoushiha-my-first-mcp,1.0.1,ubitoushiha,MIT,735,My first MCP server for testing
+2026-09-29T21:53:13.181Z,zatca-qr,1.0.2,vibeiokit,MIT,44191,"ZATCA (Saudi FATOORA) e-invoice QR: encode, decode and validate in TLV + Base64. Byte-accurate Arabic text, zero dependencies. مولّد وقارئ رمز فاتورة زاتكا."
+2026-09-29T21:53:50.458Z,@navbook/plugin-kb,0.5.0,peyremorgan,MIT,281950,"The Navbook knowledge base: features under specs/, the documents that describe them, and the feature: key that attaches work to one"
+2026-09-29T21:54:19.606Z,causality-cage,0.1.0,zaydmulani,MIT,168275,"Find the minimal set of conditions that cause a browser bug, by counterfactual replay."
+2026-09-29T21:54:38.717Z,@hunterstrategy/sift,0.3.1,xander.keele,MIT,5374097,"Token-efficient structured MCP retrieval over code, docs, and tabular data."
+2026-09-29T21:55:01.559Z,not-just-me-but-my-friends-too,2.0.0,alexnpm975,MIT,165014,"Skill para Claude Code: Claude se autoanaliza y, si otra IA lo haría mejor, te da el prompt perfecto para ella."
+2026-09-29T21:55:18.924Z,@hisoka-io/raven-inspire-client-wasm,0.1.0-alpha.0,jayendra_madara,Apache-2.0,245920,WebAssembly InsPIRe PIR client for @hisoka-io/railgun-poi-node-interface (Node build)
+2026-09-29T21:55:22.123Z,@hisoka-io/raven-inspire-client-wasm-bundler,0.1.0-alpha.0,jayendra_madara,Apache-2.0,245035,WebAssembly InsPIRe PIR client for @hisoka-io/railgun-poi-node-interface (bundler build)
+2026-09-29T21:55:25.012Z,@hisoka-io/railgun-poi-node-interface,0.1.0-alpha.0,jayendra_madara,Apache-2.0,461638,A POINodeInterface for the Railgun engine that answers PPOI status on the device from a Raven node's list index and fetches PPOI auth paths from it by client-side PIR.
+2026-09-29T21:55:55.231Z,@crvouga/mockingbird-service-paddle,0.1.0,crvouga,MIT,1135621,"Stateful mock of the Paddle Billing API (customers, addresses, businesses, products, prices, transactions with computed totals, subscriptions with pause/resume/cancel and renewals, events) with Paddl…"
+2026-09-29T21:57:56.7Z,tiny-pattern-ts,0.9.0,tmue,MIT,60572,"Exhaustive, type-safe pattern matching for TypeScript"
+2026-09-29T21:59:11.059Z,espobase,0.1.0,naples562,MIT,92732,"The Espobase command line: sign in, link a project, generate TypeScript types, query, logs and usage."
+2026-09-29T21:59:24.632Z,@refactorful/mcp-explorer,0.1.0,ndortega,MIT,541211,Offline single-page debugger for any MCP server
+2026-09-29T22:00:37.902Z,@espobase/client,0.1.0,naples562,MIT,205564,JavaScript and TypeScript client for Espobase projects: App Authentication and the automatic REST API.
+2026-09-29T22:00:47.102Z,@kaitencloud/theme,1.0.0,kaitencloud,Apache-2.0,36916,"Kaiten's design tokens, as CSS custom properties with a matching Tailwind CSS v4 theme"
+2026-09-29T22:01:22.303Z,hts-tariff-lookup,1.0.0,groundtruth-api,MIT,4971,"Look up the applicable US tariff without digging through HTS codes. Describe a product and origin and get the stacked 2026 duty rate, MPF/HMF and source links. Keyless and source-backed."
+2026-09-29T22:01:28.941Z,import-duty-calculator,1.0.0,groundtruth-api,MIT,5004,"Estimate US import duty on a product from any origin. Returns the stacked 2026 duty rate and amount with sources and an as-of date. Keyless, no HTS lookup required."
+2026-09-29T22:01:35.915Z,landed-cost-calculator,1.0.0,groundtruth-api,MIT,5110,"Compute the full landed cost of importing into the US: stacked duties, MPF/HMF, freight and broker fees for ocean or air. Source-backed 2026 rates, no HTS code or API key needed."
+2026-09-29T22:01:42.821Z,us-customs-duty,1.0.0,groundtruth-api,MIT,4932,"Get current US customs duty for an import: total stacked duty rate, dollar amount and source links. Covers MFN, Section 301/232, MPF and HMF. Keyless, source-backed 2026 rates."
+2026-09-29T22:01:50.247Z,us-tariff-calculator,1.0.0,groundtruth-api,MIT,5053,"Calculate the current total 2026 US import tariff on any product in one call. Stacked duty layers (MFN, Section 301/232), MPF/HMF, no HTS code required. Works without an API key."
+2026-09-29T22:03:02.134Z,@upload-post/ai-sdk,0.1.0,upload-post,MIT,217673,"Upload-Post tools for the Vercel AI SDK: publish videos, photos and text to TikTok, Instagram, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky and more from any AI agent."
+2026-09-29T22:03:06.188Z,@alisio/plugin-context7,0.1.0,gustavogutierrez,MIT,70462,Resolve library names and fetch third-party documentation from the Context7 hosted service.
+2026-09-29T22:03:07.257Z,@sst-community/sst,0.0.0-placeholder.0,_mustachio,MIT,158,
+2026-09-29T22:03:11.79Z,@alisio/plugin-atlassian,0.1.0,gustavogutierrez,MIT,231928,"Read-first Jira and Confluence Cloud tools for Alisio with strict environment configuration, opt-in writes, and untrusted-content framing."
+2026-09-29T22:03:17.536Z,@alisio/plugin-telemetry,0.1.0,gustavogutierrez,MIT,311287,"Privacy-first local agent observability for Alisio: a SQLite source of truth, bounded agent-facing query tools, and opt-in OpenTelemetry-aligned OTLP export."
+2026-09-29T22:03:22.381Z,@sst-community/sst-darwin-arm64,0.0.0-placeholder.0,_mustachio,MIT,171,
+2026-09-29T22:03:34.25Z,@sst-community/sst-darwin-x64,0.0.0-placeholder.0,_mustachio,MIT,169,
+2026-09-29T22:03:38.829Z,abe-ai,0.1.0,flowinfo,Apache-2.0,157454,"Abe: one control point before an AI agent acts. Deterministic ACT / BLOCK / ESCALATE with an immutable Judgment-Grounded Record. Local, offline, no account."
+2026-09-29T22:03:52.192Z,@sst-community/sst-linux-arm64,0.0.0-placeholder.0,_mustachio,MIT,170,
+2026-09-29T22:04:07.255Z,@sst-community/sst-linux-x64,0.0.0-placeholder.0,_mustachio,MIT,168,
+2026-09-29T22:04:28.682Z,@sst-community/sst-linux-x86,0.0.0-placeholder.0,_mustachio,MIT,168,
+2026-09-29T22:04:30.579Z,@sst-community/sst-win32-arm64,0.0.0-placeholder.0,_mustachio,MIT,170,
+2026-09-29T22:04:32.338Z,@sst-community/sst-win32-x64,0.0.0-placeholder.0,_mustachio,MIT,168,
+2026-09-29T22:04:33.924Z,@sst-community/sst-win32-x86,0.0.0-placeholder.0,_mustachio,MIT,168,
+2026-09-29T22:05:10.163Z,@pipedream/michelle_test_app,0.0.1,adolfo-pd,,6819,Pipedream michelle lessannoyingcrm test Components
+2026-09-29T22:07:29.347Z,@lvce-editor/cache-worker,0.0.2,levivilet,MIT,28222,"Worker APIs for Cache Storage, IndexedDB, and OPFS"
+2026-09-29T22:07:39.031Z,@mastra/teams,0.0.0,abhiaiyer,Apache-2.0,2917,"Microsoft Teams integration for Mastra agents — a ChannelProvider over @chat-adapter/teams with per-agent bot provisioning (Entra + Teams Developer Portal), webhooks, and streaming replies"
+2026-09-29T22:09:24.381Z,@flagward/openfeature-web,0.1.0,basb7,MIT,19887,OpenFeature web provider for Flagward - Feature Flags as a Service
+2026-09-29T22:10:11.065Z,directus-extension-csi-gallery-thumbnails,0.1.0,stevenrecords,UNLICENSED,7460,Directus display that shows a row of image thumbnails for multi-file gallery fields in table views.
+2026-09-29T22:10:25.357Z,@cgalaviz/easysell-mcp,0.4.0,cgalaviz,MIT,214685,"Servidor MCP sobre la API de Easy Sell: catálogo, clientes, cotizaciones, pedidos, pagos, envíos, reportes, notificaciones, integraciones, conversaciones de WhatsApp, auditoría y administración de pl…"
+2026-09-29T22:11:02.365Z,@so.boss/gloss-tokens,0.1.160,thoughtleader,,25773,"Design tokens (colors, spacing, typography, shadows, radii) for the MarketTime design system — a **single source of truth** emitted in multiple formats."
+2026-09-29T22:11:07.096Z,@so.boss/gloss-icons,0.1.160,thoughtleader,,39640,A scalable SVG icon library for the Gloss UI design system. Icons are compiled into a single sprite for optimal performance and can be styled via CSS using `currentColor`.
+2026-09-29T22:11:11.287Z,@so.boss/gloss-utils,0.1.160,thoughtleader,,45497,
+2026-09-29T22:11:12.423Z,@axtonjs/native-darwin-arm64,0.1.0,zanminwang,MIT,9901462,"AXTON's prebuilt Node addon, selected for this platform."
+2026-09-29T22:11:15.012Z,@so.boss/gloss-motion,0.1.160,thoughtleader,,17015,Centralized motion-spec architecture for `@so.boss/gloss-*` consumers.
+2026-09-29T22:11:21.257Z,@so.boss/gloss-ui,0.1.160,thoughtleader,,1549699,"React component library for MarketTime applications. Includes primitives (Button, Input, Select, etc.), dashboard components (MetricCard, UnifiedBreakdownTable, ChartControlBar, etc.), and patterns (…"
+2026-09-29T22:12:11.542Z,hypow,0.1.0,hypowtoshi,MIT,430476,Reference Hypow miner: mines HYPOW from your Hyperliquid trading
+2026-09-29T22:12:36.37Z,@so.boss/gloss-brand,0.1.160,thoughtleader,,47148,"The VersaTrade brand as importable data and React components — colors, type scale, motion, layout, taglines, doctrine, and the logo system."
+2026-09-29T22:12:54.122Z,@axtonjs/native-linux-x64-gnu,0.1.0,zanminwang,MIT,11761096,"AXTON's prebuilt Node addon, selected for this platform."
+2026-09-29T22:13:04.723Z,@axtonjs/cli-darwin-arm64,0.1.0,zanminwang,MIT,2299105,The axton compiler for macOS arm64.
+2026-09-29T22:13:15.384Z,@axtonjs/cli-linux-x64-gnu,0.1.0,zanminwang,MIT,2719914,The axton compiler for Linux x64 (glibc).
+2026-09-29T22:13:25.137Z,@axtonjs/native,0.1.0,zanminwang,MIT,41733,"AXTON's prebuilt Node addon, selected for this platform."
+2026-09-29T22:13:34.408Z,@axtonjs/cli,0.1.0,zanminwang,MIT,4243,"The axton schema compiler, as a prebuilt executable for this platform."
+2026-09-29T22:13:43.794Z,@axtonjs/server,0.1.0,zanminwang,MIT,101157,AXTON's backend SDK for Node.js.
+2026-09-29T22:13:45.721Z,@classic-homes/slides,0.2.0,cloidolt,MIT,722752,"Branded Classic Homes presentations from structured deck files: schema, layouts, renderer, CLI and MCP server"
+2026-09-29T22:15:00.125Z,farsiui,0.1.0,miladjoodi,MIT,839796,Add FarsiUI components to your apps.
+2026-09-29T22:15:04.68Z,@johnhenry/definable,0.0.0,johnhenry,MIT,18690,"Load or define custom elements declaratively -- from a URL, from inline HTML content, or as a plain global polyfill."
+2026-09-29T22:17:44.808Z,@so.boss/gloss-styles,0.1.160,thoughtleader,,140944,"SCSS mixins, base styles, and component styles for MarketTime UI components."
+2026-09-29T22:18:21.127Z,@very-coffee/statespace,0.1.0,zachagarrett,MIT,57948,Configurable framework for generating and analyzing state graphs.
