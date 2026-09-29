@@ -1,0 +1,216 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-29T10:16:54.679Z,@dynamicsninja/garminconnect-mcp,0.7.0,dynamicsninja,MIT,1196414,MCP server for Garmin Connect: create workouts and read your Garmin data from Claude. Built on garminconnect-js.
+2026-09-29T10:19:48.745Z,@prodix/sdk-core,0.1.0,prodix-solutions,,18890,Core client for Prodix AI visual testing
+2026-09-29T10:20:09.889Z,@doeza/sms-service,1.0.0,doeza,,110892,Standalone server-side Clickatell SMS service with typed results and Web Request handlers
+2026-09-29T10:20:22.134Z,@sanghosdk/oauth,0.2.0,evangzat,MIT,35493,"Se connecter avec Sangho — client OAuth2/PKCE (Authorization Code + PKCE), séparé du SDK de paiement."
+2026-09-29T10:20:37.785Z,@prodix/cypress,0.1.0,prodix-solutions,,8003,Prodix AI visual testing for Cypress
+2026-09-29T10:20:54.25Z,@vitalie27dev/ngx-signal-devtools,0.1.0,vitalie27dev,MIT,212846,"Dev-only overlay for Angular signals: dependency graph, recomputation counters and leak detection, with zero production cost."
+2026-09-29T10:21:46.978Z,@ilyasemenov/oxc-config,0.1.0,ilyasemenov,MIT,11355,"Shared oxlint, oxfmt, and ESLint configurations for JavaScript, TypeScript, and Vue"
+2026-09-29T10:22:04.736Z,solvatra-ai,0.3.0,solvatra,MIT,152507,AI agent CLI ringan bergaya Hermes: chat + memory persisten + skill system pluggable (agent bisa bikin skill sendiri) + generator frontend berbasis template. Multi-provider: Claude/OpenAI(Codex)/cust…
+2026-09-29T10:22:19.131Z,@vladyslav3252/ai-companion-notes,1.0.0,vladyslav3252,MIT,1768,"Small helper utilities and notes about AI companion apps, including My AI Romance."
+2026-09-29T10:22:20.207Z,@maxigarcia/ai-types,0.0.4,maxigarcia,ISC,2626,Shared TypeScript types for AI provider names and default models
+2026-09-29T10:23:49.779Z,n8n-nodes-orcaflo,0.1.0,orcaflo,MIT,208790,"n8n nodes for OrcaFlo, the WhatsApp AI sales agent: trigger on new leads, messages, bookings and payments; update contacts and send messages."
+2026-09-29T10:23:58.709Z,@homeostate/tool-devtools,0.1.0,mixedrays,MIT,499590,Floating React devtools to inspect and edit the state a homeostate sync engine keeps in sync
+2026-09-29T10:24:29.685Z,@hodman-ai/api-contract,1.0.0,mixerkin,Apache-2.0,22589,Public DTOs for supported Hodman API endpoints
+2026-09-29T10:24:37.891Z,@argszero/cordis-plugin-session-event-guard,0.1.0,argszero,MIT,66952,"Diagnoses, at the write boundary, the one session-log mistake an external plugin cannot see: Session.append builds and freezes the envelope itself and cannot set `ignorable`, so any event type outsid…"
+2026-09-29T10:24:45.976Z,create-heresay,0.2.0,sibhimanyu,MIT,400034,"Set up your own Heresay: in-app feedback that every report gets a hearing. Creates a Firebase project in your Google account and deploys the dashboard, API and SDK to it."
+2026-09-29T10:24:53.084Z,@vandermerwed/switchback,0.1.0,vandermerwed,(Apache-2.0 AND CC-BY-SA-3.0),1420399,"Programmable stationery for AI agents: print-ready workbooks and proofs, adapted to the pens on your desk, read back from photos."
+2026-09-29T10:24:53.184Z,@offline-protocol/pol,0.1.2,0xoff,MIT,377435,Proof of Location SDK for React and React Native. Verify GPS with operator attestation (location.verify) or commit on-chain only (location.commit).
+2026-09-29T10:24:54.57Z,@hodman-ai/api-client,1.0.0,mixerkin,Apache-2.0,52090,Typed client for supported Hodman API endpoints
+2026-09-29T10:25:04.894Z,@hodman-ai/cli,0.3.0,mixerkin,Apache-2.0,73794,User-authorized CLI for Hodman
+2026-09-29T10:26:00.981Z,@easy-cms/plugin-form-builder,0.20.1,scton54,MIT,58412,"Forms for Easy CMS: build forms in the admin, collect submissions, email notifications, spam protection and an <easy-form> element"
+2026-09-29T10:26:27.542Z,@easy-cms/email-smtp,0.20.1,scton54,MIT,5097,"SMTP email for Easy CMS (nodemailer): Gmail, Amazon SES, Resend, Mailgun and any SMTP server"
+2026-09-29T10:26:43.541Z,@metamask/advanced-chart-core,1.0.0,mrten,(MIT OR Apache-2.0),704846,Platform-agnostic TradingView Advanced Charts WebView engine shared across MetaMask clients
+2026-09-29T10:27:00.308Z,@xzzpig/pi-sentinel,0.1.0,xzzpig,MIT,175061,"Declarative natural-language sentinel rules for the pi coding agent: side-loop LLM audits on tool calls, tool results, turn/agent boundaries and context thresholds, with blocking gates and background…"
+2026-09-29T10:27:07.047Z,@lcz007-ai/glm-quota,0.1.0,lcz007-ai,MIT,11003,pi 扩展：实时显示 GLM Coding Plan 余量（5h/周窗口、百分比、重置倒计时）
+2026-09-29T10:27:10.149Z,@lcz007-ai/web-search,0.1.0,lcz007-ai,MIT,17641,pi 扩展：联网搜索，Firecrawl 主通道 + Tavily 自动兜底
+2026-09-29T10:27:13.321Z,@lcz007-ai/model-switch,0.1.0,lcz007-ai,MIT,19754,pi 扩展：agent 按任务类型自主切换会话模型（语义别名）
+2026-09-29T10:27:16.529Z,@lcz007-ai/loop-guard,0.1.0,lcz007-ai,MIT,12768,pi 扩展：死循环防护，四层防御 + summarize 优雅降级
+2026-09-29T10:27:20.072Z,@lcz007-ai/egress-guard,0.1.0,lcz007-ai,MIT,13845,pi 扩展：出站密钥防护，拦截敏感文件读取 + 结果/出站 payload 脱敏
+2026-09-29T10:27:24.552Z,@lcz007-ai/pi-macos-tools,0.1.0,lcz007-ai,MIT,52635,"Pi extension: read-only macOS developer-environment doctor — tools, Xcode, TCC permissions, Pi extensions & skills"
+2026-09-29T10:27:37.727Z,@mediquo/medicore,0.1.0,mediquo,UNLICENSED,1387685,MediCore — design system de las plataformas web de mediQuo
+2026-09-29T10:28:00.148Z,@eristack/spreadsheet-operator,0.1.0,mikevar,MIT,264197,"Headless spreadsheet keyboard operator — active-grid scope, cell navigation, Excel-like Enter/Tab editing"
+2026-09-29T10:28:53.598Z,@temlavo/sdk,1.0.1,temlavo-admin,MIT,134883,"TypeScript SDK and CLI for AI invoice extraction, OCR, and accounting automation with the Temlavo API"
+2026-09-29T10:28:56.024Z,@dransay/address-validation,0.0.1,0xamino_hunter,UNLICENSED,833,Defensive placeholder. This name was reserved by a security researcher to prevent dependency-confusion attacks against DrAnsay build infrastructure. Reported via YesWeHack. Contact: transfer to DrAns…
+2026-09-29T10:28:59.034Z,@dransay/api,0.0.1,0xamino_hunter,UNLICENSED,818,Defensive placeholder. This name was reserved by a security researcher to prevent dependency-confusion attacks against DrAnsay build infrastructure. Reported via YesWeHack. Contact: transfer to DrAns…
+2026-09-29T10:29:01.466Z,@dransay/db,0.0.1,0xamino_hunter,UNLICENSED,817,Defensive placeholder. This name was reserved by a security researcher to prevent dependency-confusion attacks against DrAnsay build infrastructure. Reported via YesWeHack. Contact: transfer to DrAns…
+2026-09-29T10:29:04.321Z,@dransay/feature-flags,0.0.1,0xamino_hunter,UNLICENSED,828,Defensive placeholder. This name was reserved by a security researcher to prevent dependency-confusion attacks against DrAnsay build infrastructure. Reported via YesWeHack. Contact: transfer to DrAns…
+2026-09-29T10:29:06.855Z,@dransay/logger,0.0.1,0xamino_hunter,UNLICENSED,821,Defensive placeholder. This name was reserved by a security researcher to prevent dependency-confusion attacks against DrAnsay build infrastructure. Reported via YesWeHack. Contact: transfer to DrAns…
+2026-09-29T10:29:09.284Z,@dransay/phone-fix-test,0.0.1,0xamino_hunter,UNLICENSED,829,Defensive placeholder. This name was reserved by a security researcher to prevent dependency-confusion attacks against DrAnsay build infrastructure. Reported via YesWeHack. Contact: transfer to DrAns…
+2026-09-29T10:29:11.71Z,@dransay/secrets,0.0.1,0xamino_hunter,UNLICENSED,822,Defensive placeholder. This name was reserved by a security researcher to prevent dependency-confusion attacks against DrAnsay build infrastructure. Reported via YesWeHack. Contact: transfer to DrAns…
+2026-09-29T10:29:14.212Z,dransay,0.0.1,0xamino_hunter,UNLICENSED,681,Defensive placeholder to prevent typosquatting/dependency-confusion. No code. Reported via YesWeHack.
+2026-09-29T10:29:37.277Z,@c0dn/ocws-win32-arm64,0.1.1,c0dn,MIT,6282631,ocws binary for win32-arm64
+2026-09-29T10:29:41.175Z,@c0dn/ocws-win32-x64,0.1.1,c0dn,MIT,6841729,ocws binary for win32-x64
+2026-09-29T10:29:43.775Z,@c0dn/ocws,0.2.0,GitHub Actions,MIT,13200,"Set up OpenCode, Claude Code, and Codex workspaces from templates"
+2026-09-29T10:29:58.264Z,opencode-guardian,0.1.1,huseyincig,MIT,80170,Universal quality and safety guardian plugin for OpenCode AI agents (Dual-Mode: OpenCode v1 & v2)
+2026-09-29T10:30:12.343Z,opencode-smart-questions,0.1.2,huseyincig,MIT,120267,Intelligent auto-selection of recommended options for OpenCode agent question prompts with safe human-draft detection (Dual-Mode: OpenCode v1 & v2)
+2026-09-29T10:30:23.279Z,@webventures/jevris,0.0.0,woblit,MIT,993,"Placeholder for Jevris, a local decision control plane for AI-assisted development. The first release is 1.2.0."
+2026-09-29T10:31:31.262Z,tewodros,1.0.0,tewodrosasteraye,,378,
+2026-09-29T10:32:13.231Z,dsh-expert-group,0.1.1,ztootz,MIT,3363431,DSH 专家子代理、Expert Group 任务侧边栏与设置页（双面 bundle）
+2026-09-29T10:33:57.575Z,@gitcodepublic/cc-session,0.1.0,gitcodepublic,MIT,8912,"Keyboard picker to list, resume, delete or start Claude Code sessions in the current folder"
+2026-09-29T10:34:03.328Z,@x-app/nuxt-inputs,0.1.0,x-app,MIT,93209,Reusable input components for Nuxt 3 and Nuxt 4
+2026-09-29T10:34:29.422Z,@ducafecat/analytics,0.1.0,hansonline,MIT,177152,Consent-aware browser analytics SDK with durable event delivery
+2026-09-29T10:34:43.229Z,jevris,0.0.1,woblit,MIT,868,Placeholder. Jevris is published as @webventures/jevris.
+2026-09-29T10:35:04.373Z,@intended-inc/perimeter,0.2.2,intended-so,Apache-2.0,605070,Intended Perimeter — compile Open Intent families and Domain LIM evaluations into a containment-runtime policy (validated against NVIDIA OpenShell). Formerly @intended-inc/openshell-adapter.
+2026-09-29T10:37:16.185Z,@harsh_1718/dev-mem,0.1.1,harsh_1718,MIT,183076,"Shared, verified development state for AI coding agents — preserves decisions, failed approaches, and discoveries across sessions and agent switches"
+2026-09-29T10:38:01.742Z,@ghostlytools/cli,1.0.0,miguelmedeirosweb,MIT,48316966,"Ghostly for bots and terminals: the app's own engine, headless on Node, behind a daemon and a `ghostly` command with JSON output."
+2026-09-29T10:38:17.74Z,@reliquary-ai/cli,0.3.2,magickappa,MIT,104122,"Reliquary's command line: run a command with a vault's environment variables, pull them into a gitignored .env, or push a .env for a person to approve"
+2026-09-29T10:39:14.421Z,groundtruth-tariff,1.0.2,groundtruth-api,MIT,8162,"2026 US tariff and landed cost API for AI agents and ecommerce sellers. Source-linked duty rates (MFN, Section 301/232, forced-labor), MPF/HMF, and total landed cost."
+2026-09-29T10:40:06.979Z,@lininn/zz,0.1.0,lininn,,86402080,AI coding assistant CLI — zz command
+2026-09-29T10:40:24.03Z,raizell-baileys,1.9.0,raizell,MIT,8412272,High-performance WhatsApp Web TypeScript library by raizell
+2026-09-29T10:41:38.732Z,@provablehq/shield-mcp,0.1.0,konstantin-provable,SEE LICENSE IN LICENSE,1786256,Local MCP companion for Shield Wallet Agent Access
+2026-09-29T10:41:44.636Z,studio-one-mcp,0.2.0,neanderthalman,MIT,207166,"MCP server for PreSonus Studio One: read songs from .song files, and talk to a running Studio One through an in-app bridge device."
+2026-09-29T10:41:46.122Z,@gitmyabi/investmentcontract,1.0.0,gitmyabi-bot,MIT,70339,"Auto-generated TypeScript type bindings for InvestmentContract (build etherscan-investmentcontract-d3b562f3-1790678404777, commit f5c9e63, branch etherscan)"
+2026-09-29T10:41:47.355Z,@orbtorrent/api,1.0.0,sanjevi25,MIT,164698,"Build extensions for OrbTorrent, the BitTorrent app for macOS: the API extensions use, and the orb command-line tool."
+2026-09-29T10:41:51.136Z,@lzk-lib/core,0.7.0,lzk_npm,MIT,1297524,LZK Motion core animation library
+2026-09-29T10:41:52.426Z,@orbtorrent/create-extension,1.0.0,sanjevi25,MIT,3815,"Make a new extension for OrbTorrent, the BitTorrent app for macOS: npm create @orbtorrent/extension <name>"
+2026-09-29T10:42:28.116Z,sanity-plugin-skyneta11y-pdf-remediation,1.0.0,skynettechnologies,MIT,440232,"AI-powered PDF accessibility remediation for Sanity Studio - upload PDFs, scan website PDFs, and download WCAG / PDF/UA remediated files."
+2026-09-29T10:42:30.294Z,@uptimelyru/cli,0.1.1,uptimelyru,MIT,118035,Uptimely CLI для мониторинга и автоматизации
+2026-09-29T10:42:59.937Z,@sddsjs/test,0.1.0,salute-eva,MIT,2369738,Salute Design System / React UI kit for web applications
+2026-09-29T10:43:39.4Z,@jxe/ppr,0.3.0,jxe,MIT,174301,A small Pandoc/Tectonic paper builder with sensible LaTeX defaults.
+2026-09-29T10:43:44.979Z,@aiqadam/qadam-imap,0.4.5,aiqadam_usr,MIT,129665,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:43:51.061Z,@aiqadam/qadam-instagram-business,0.2.4,aiqadam_usr,MIT,37213,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:43:57.5Z,@aiqadam/qadam-intercom,0.8.0,aiqadam_usr,MIT,504066,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:01.547Z,@aiqadam/qadam-jina-ai,0.1.3,aiqadam_usr,MIT,220080,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:05.817Z,@aiqadam/qadam-jira-cloud,0.4.0,aiqadam_usr,MIT,403140,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:10.706Z,@aiqadam/qadam-jira-data-center,0.1.0,aiqadam_usr,MIT,239768,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:14.764Z,@aiqadam/qadam-jotform,0.4.0,aiqadam_usr,MIT,46159,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:18.619Z,@aiqadam/qadam-json,0.1.6,aiqadam_usr,MIT,22205,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:23.221Z,tlegado,0.1.0,wep56,MIT,49753627,Tlegado terminal reader
+2026-09-29T10:44:23.664Z,@aiqadam/qadam-kommo,0.2.0,aiqadam_usr,MIT,146667,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:28.75Z,@aiqadam/qadam-linear,0.4.2,aiqadam_usr,MIT,184015,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:32.597Z,@aiqadam/qadam-linkedin,0.3.0,aiqadam_usr,MIT,52493,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:36.576Z,@aiqadam/qadam-localai,0.2.0,aiqadam_usr,MIT,67554,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:41.647Z,@aiqadam/qadam-lokalise,0.1.0,aiqadam_usr,MIT,185699,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:47.788Z,@aiqadam/qadam-mailchimp,0.5.4,aiqadam_usr,MIT,473152,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:53.829Z,@aiqadam/qadam-mailgun,0.1.0,aiqadam_usr,MIT,245672,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:44:57.563Z,@aiqadam/qadam-manychat,0.1.4,aiqadam_usr,MIT,95825,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:02.574Z,@aiqadam/qadam-matomo,0.2.0,aiqadam_usr,MIT,43719,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:07.098Z,@aiqadam/qadam-matrix,0.5.0,aiqadam_usr,MIT,40548,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:13.988Z,@aiqadam/qadam-mattermost,0.5.0,aiqadam_usr,MIT,34200,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:15.085Z,tempo-training-mcp,0.1.0,teodorbk,UNLICENSED,26812,"MCP server for Tempo, the training app: lets Claude read and change your training through the Tempo API with your own API key."
+2026-09-29T10:45:17.963Z,@aiqadam/qadam-mautic,0.6.0,aiqadam_usr,MIT,119185,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:24.911Z,@aiqadam/qadam-mcp,0.0.17,aiqadam_usr,MIT,46690,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:32.759Z,@aiqadam/qadam-messagebird,0.3.0,aiqadam_usr,MIT,57874,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:39.725Z,@aiqadam/qadam-metabase,0.3.0,aiqadam_usr,MIT,88411,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:45.275Z,@aiqadam/qadam-microsoft-365-people,0.3.0,aiqadam_usr,MIT,120500,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:46.353Z,@govuk-one-login/cri-healthcheck-assertion,0.0.0,danielmason-gds,,82,
+2026-09-29T10:45:50.993Z,@aiqadam/qadam-microsoft-365-planner,0.3.0,aiqadam_usr,MIT,168386,Part of the [Qadam Flow](https://github.com/aiqadam/qadam-flow) monorepo. See the repository for documentation. Licensed under MIT.
+2026-09-29T10:45:53.166Z,@perokit/pero,0.1.0,vshindin,MIT,1262560,Open-source Personal Agent Runtime for running an always-on AI assistant on your VPS.
+2026-09-29T10:46:26.34Z,@sddsjs/novaya_ds,0.1.0,salute-eva,MIT,2426429,Salute Design System / React UI kit for web applications
+2026-09-29T10:46:39.144Z,@lzk-lib/icons,0.7.0,lzk_npm,MIT,7147033,Individually importable Tabler SVG data for LZK React and Vue Icon components
+2026-09-29T10:47:25.853Z,aectl,1.0.0,thdctrt,MIT,513145,"Drive Adobe After Effects from the shell or an AI agent: lint + run ExtendScript as one undo step, dump comps, render frames to contact sheets."
+2026-09-29T10:47:42.583Z,@nx-devkit/markdownlint,0.0.1,theplenkov-npm,MIT,55369,Nx plugin: .markdownlint config files infer a cached lint-md target — Markdown linting without project.json.
+2026-09-29T10:47:45.982Z,@nx-devkit/openspec,0.0.1,theplenkov-npm,MIT,49014,Nx plugin: openspec/config.yaml infers a cached spec-validate target plus per-change spec-validate:<id> targets — no project.json needed.
+2026-09-29T10:49:09.249Z,@sddsjs/happy_path_demo_2909,0.1.0,salute-eva,MIT,2427016,Salute Design System / React UI kit for web applications
+2026-09-29T10:50:58.133Z,@1agents/dsh-dreammate-node,0.1.0,scottzx,MIT,18594,"DreamMate Network discovery and invocation tools for DeepSeek Harness, with automatic local node startup"
+2026-09-29T10:51:17.082Z,pi-remote-wecom,0.3.0,lukeinx,MIT,214239,"Control multiple local Pi sessions from WeCom, with session naming, attachments, and task results."
+2026-09-29T10:51:18.666Z,@batazo/react-native-collapsible,0.2.0,bzozoo,MIT,37724,"A simple and customizable React Native component for collapsible content, supporting smooth expand/collapse animations and accordion behavior."
+2026-09-29T10:51:46.921Z,@cordis-tavern/ct-ui-theme,0.0.1-alpha.1,lianxiuqing,,26808,cordis-tavern 主题插件：统一 UI token，CSSStyleSheet 注入全局变量
+2026-09-29T10:51:54.859Z,@asun-labs/dsh-plugin-agent-deck,0.1.0,asun01,Apache-2.0,1763400,A docked multi-agent terminal deck for DeepSeek Harness
+2026-09-29T10:52:30.051Z,@astrojuanlu/pi-handover,0.1.0,astrojuanlu,MIT,43157,Handover-document compaction for the pi coding agent
+2026-09-29T10:52:30.103Z,@tvangular/sliding-panel,0.1.0,sojus,,29159,
+2026-09-29T10:53:02.067Z,dsh-mnemosyne-plugin,1.0.0,dmebo,MIT,6297676,"Mnemosyne memory for DeepSeek Harness: remember / recall / forget / stats / sleep tools, embedded skill, auto-setup, optional auto-sync/prefetch, a Settings panel, and a managed memory dashboard. Dat…"
+2026-09-29T10:53:16.834Z,@vietinfo/vmp-sdk,1.0.0-rc3,vietinfo,ISC,101547,VietInfo MiniApp SDK for third party developers
+2026-09-29T10:53:34.609Z,test-agency-assignment-02,1.0.5,loganromeroondes,ISC,765445,
+2026-09-29T10:54:04.083Z,@cloudagentfleet/ui,0.1.1,hirenf14,,58054,Cloud Agent Fleet Hub UI assets.
+2026-09-29T10:54:04.132Z,@cloudagentfleet/hub,0.1.3,hirenf14,,110158,"Cloud Agent Fleet Hub — control plane, routing, and Codeman proxy."
+2026-09-29T10:54:04.247Z,@syncfusion/ej2-angular-form-builder,35.1.37,syncfusion-javascript,SEE LICENSE IN license,41566,A package of feature-rich Essential JS 2 form builder component. for Angular
+2026-09-29T10:54:04.521Z,@cloudagentfleet/worker,0.1.1,hirenf14,,75063,Cloud Agent Fleet Worker — machine companion and operator CLI.
+2026-09-29T10:54:53.027Z,@dsh-plus/agent-preset-chat,0.1.0,agguy,MIT,12007,dsh-plus service plugin: 注册纯聊天模式 agent preset（id=chat）——空工具目录、complete persona 前缀，官方 registry 机制下对遗留 .agent-presets/chat 的迁移
+2026-09-29T10:56:03.68Z,@syncfusion/ej2-angular-richtexteditor-ui,35.1.37,syncfusion-javascript,SEE LICENSE IN license,48618,A Feature Rich WYSIWYM Editor for creating and editing content. for Angular
+2026-09-29T10:56:17.928Z,lhiot-front-uikit,0.1.0,luohang,,235669,Lh UI 组件库（Vue 3 + Element Plus）
+2026-09-29T10:56:22.828Z,@drxiaozhi/casty,1.3.0,drxiaozhi,MIT,997909,TTY web browser using raw CDP and Kitty graphics protocol
+2026-09-29T10:56:36.75Z,@gitmyabi/deployfactory,1.0.0,gitmyabi-bot,MIT,46035,"Auto-generated TypeScript type bindings for DeployFactory (build etherscan-deployfactory-91db1a82-1790679299589, commit 85fa07e, branch etherscan)"
+2026-09-29T10:56:55.299Z,@scenewirejs/director-core,1.0.0-rc.1,winhok,MIT,17158,
+2026-09-29T10:57:18.925Z,charikat,1.0.0,abdnaouri,MIT,4890,"Client officiel Charikat.ma — Vérificateur d'ICE Maroc (Modulo 97), Annuaire des Entreprises et Conformité Article 145 CGI / Simpl-TVA DGI"
+2026-09-29T10:57:39.114Z,@devreply/react-native,0.3.2,banarum,MIT,281608,DevReply for React Native: the native in-app chat between your app's users and you.
+2026-09-29T10:57:47.738Z,@workerdeck/relay-client,3.3.0,tstrebitzer,MIT,47090,"Gateway side of the WorkerDeck relay: the relay wire frames, the dial-out connection with auth, heartbeat and reconnect, the session registry publisher, and the remote peer directory. Lets agents on…"
+2026-09-29T10:58:03.21Z,@workerdeck/relay,3.3.0,tstrebitzer,MIT,79919,"The WorkerDeck relay: one always-on process every gateway dials out to. Holds the cross-gateway session registry, authenticates enrolled gateways, enforces the visibility rules and routes peer reques…"
+2026-09-29T10:58:05.301Z,@lunora/platform-celld,0.0.0,prisis,,2051,OIDC trusted publishing setup package for @lunora/platform-celld
+2026-09-29T10:58:10.793Z,@ptengine/inline-core,0.1.0,ptengine-dev,UNLICENSED,177520,Ptengine Inline 画布链路的共享基础层：画布消息协议、change list 明文/数值转译、CSS selector 生成
+2026-09-29T10:58:20.697Z,morphit-rs,0.2.0,killergoldfisch,MIT,3993442,"Approximate triangle meshes and robots with spheres: the MorphIt optimizer in Rust, as WebAssembly with TypeScript types"
+2026-09-29T10:58:35.525Z,@gitmyabi/cockpunch,1.0.0,gitmyabi-bot,MIT,193695,"Auto-generated TypeScript type bindings for COCKPUNCH (build etherscan-cockpunch-c178994c-1790679490151, commit 3b0a93f, branch etherscan)"
+2026-09-29T10:58:41.496Z,@aircloudhq/testing,1.0.0,vixlima,MIT,195364,"In-memory capability doubles for Air-Cloud JavaScript functions, generated from the aircloud:capability WIT contract, plus the fetch-event harness for node:test unit tests."
+2026-09-29T11:00:02.076Z,@hololabdev/character-viewer,1.0.0,hololabdev,MIT,65463,"Modular character model viewer, environment, and lighting rig components for WebGPU/Three.js"
+2026-09-29T11:00:56.91Z,@bubo-squared/gyroview,0.1.0,pericamilosevic,MIT,1593586,"Play raw Insta360 .insv recordings (X3, X4, X5) in the browser: a <gyro-view> web component that stitches and gyro-stabilizes the camera's dual-fisheye video on the GPU."
+2026-09-29T11:02:06.429Z,pipeloop,0.1.0,kuqoi,UNLICENSED,123141,Bun-native delivery CLI for project-local agent skills
+2026-09-29T11:02:10.335Z,sagentic,1.0.1,shunyapulse,MIT,238404,"Production-grade autonomous AI agent platform optimized for Google Cloud Run, Neon pgvector, and Gemini/Cloudflare"
+2026-09-29T11:02:11.981Z,agent-model-config,0.4.0,yourj1234,MIT,1484874,管理 AI 编程智能体(OpenCode/Claude Code/Hermes)模型配置的本地仪表盘工具
+2026-09-29T11:02:16.377Z,@hrmony/kit,1.99.0,yasssine.bergui,ISC,10695,bip bop I get your sip sop
+2026-09-29T11:02:45.837Z,@faicad/faijs-draw,0.22.2,faicad,MIT,142255,faijs 2D drawing DSL - cad.draw fluent scripting over the core geometry2d pure base
+2026-09-29T11:03:05.404Z,@faicad/cq-compat-assembly,0.22.2,faicad,MIT,85488,CadQuery-compatible assembly layer for faijs (Assembly.constrain -> solve()/toCompound()/save()) - split from @faicad/cq-compat
+2026-09-29T11:03:11.156Z,@heartlandone/vega-react-sandbox-pr-3333-9fbc33a2637da4f925d0705d3f43bfe1629ede74,2.104.0,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-09-29T11:03:19.007Z,@heartlandone/vega-angular-sandbox-pr-3333-9fbc33a2637da4f925d0705d3f43bfe1629ede74,2.104.0,aprilzhu,UNLICENSED,2040527,Angular specific wrapper for @globalpayments/vega
+2026-09-29T11:03:21.39Z,@heartlandone/vega-sandbox-pr-3333-9fbc33a2637da4f925d0705d3f43bfe1629ede74,2.104.0,aprilzhu,UNLICENSED,39617333,Vega - the design system of Global Payment Systems
+2026-09-29T11:03:30.855Z,@heartlandone/vega-vue-sandbox-pr-3333-9fbc33a2637da4f925d0705d3f43bfe1629ede74,2.104.0,aprilzhu,UNLICENSED,147755,Vue specific wrapper for @globalpayments/vega
+2026-09-29T11:03:35.226Z,@aircloudhq/web,1.0.0,vixlima,MIT,109737,"The Air-Cloud site application package (ADR-222): the Rails Action View helpers, the i18n runtime of the locale bundle (ADR-223), resource pages over the resource projection, and React bindings."
+2026-09-29T11:04:25.561Z,@scenewirejs/reference-core,1.0.0-rc.1,winhok,MIT,29368,
+2026-09-29T11:04:34.366Z,@oh-my-pinus/pi-natives,18.4.3,febryensz,MIT,1293424,"Native Rust bindings for PDF conversion, audio, WebRTC, grep, clipboard, image processing, syntax highlighting, PTY, and shell operations via N-API"
+2026-09-29T11:04:34.392Z,@oh-my-pinus/pi-wire,18.4.3,febryensz,MIT,1148659,Shared wire protocol types for omp packages
+2026-09-29T11:04:34.599Z,@oh-my-pinus/omptype,18.4.3,febryensz,MIT,1915151,ArkType-compatible runtime schema validation with lazy JIT compilation
+2026-09-29T11:04:37.466Z,@oh-my-pinus/pi-utils,18.4.3,febryensz,MIT,2644635,Shared utilities for pi packages
+2026-09-29T11:04:41.024Z,@oh-my-pinus/pi-catalog,18.4.3,febryensz,MIT,15518409,"Model catalog for omp: bundled model database, provider discovery descriptors, model identity, classification, and equivalence"
+2026-09-29T11:04:45.123Z,@oh-my-pinus/pi-ai,18.4.3,febryensz,MIT,7973021,Unified LLM API with automatic model discovery and provider configuration
+2026-09-29T11:04:48.448Z,@oh-my-pinus/snapcompact,18.4.3,febryensz,MIT,1225770,Bitmap-frame context compression for vision-capable LLMs
+2026-09-29T11:04:48.733Z,@oh-my-pinus/pi-mnemopi,18.4.3,febryensz,MIT,1897573,Local SQLite memory engine for omp agents
+2026-09-29T11:04:49.131Z,@oh-my-pinus/omp-stats,18.4.3,febryensz,MIT,2586500,Local observability dashboard for omp AI usage statistics
+2026-09-29T11:04:51.506Z,@oh-my-pinus/pi-agent-core,18.4.3,febryensz,MIT,2189668,"General-purpose agent with transport abstraction, state management, and attachment support"
+2026-09-29T11:04:55.59Z,@oh-my-pinus/pi-tui,18.4.3,febryensz,MIT,7787018,Terminal User Interface library with differential rendering for efficient text-based applications
+2026-09-29T11:05:08.578Z,@syncfusion/ej2-react-richtexteditor-ui,35.1.37,syncfusion-javascript,SEE LICENSE IN license,820224,A Feature Rich WYSIWYM Editor for creating and editing content. for React
+2026-09-29T11:05:10.831Z,@lzk-lib/react,0.7.0,lzk_npm,MIT,368127,LZK Motion react animation library
+2026-09-29T11:05:23.256Z,react-w3css-components,0.1.0,biztoolsportal,MIT,46640,"Composable, accessible React components styled with W3.CSS."
+2026-09-29T11:05:41.122Z,@lzk-lib/vue,0.7.0,lzk_npm,MIT,403870,LZK Motion vue animation library
+2026-09-29T11:06:50.048Z,@lowdefy/blocks-table,0.0.0-experimental-20260929110023,gervwyk,Apache-2.0,1221194,"Table block for Lowdefy: a virtualised, keyboard-accessible data table on TanStack Table."
+2026-09-29T11:07:19.464Z,@oportet/passkeys,0.5.0,0xkrauser,MIT,186858,"A library for using (webauthn) passkeys on iOS, Android & web with a single api"
+2026-09-29T11:07:56.667Z,@scenewirejs/renderer-core,1.0.0-rc.1,winhok,MIT,8850,
+2026-09-29T11:08:42.507Z,@fnnm/easyspec,0.1.9,fnnm,MIT,203633,"Shareable easyspec prompts, custom agent definitions, and skills with an init CLI for copilot, opencode, claude-code, and other agentic coding tools."
+2026-09-29T11:08:49.316Z,@moonbeam-foundation/sdk,0.5.2,moonbeam-foundation-deployer,Apache-2.0,890345,"Assurance for agent work: wrap a job in a price, a judge and a deadline, and settle it against proof."
+2026-09-29T11:08:51.352Z,dsh-branchman,0.1.0,mydsp,MIT,259925,"Tree-branching workspace plugin for DeepSeek Harness: open an engineering direction as one atom — a git worktree plus a child session that inherits the conversation, wired into a tree you can see."
+2026-09-29T11:09:11.803Z,selldoes,0.3.1,selldoes,MIT,183065,"Build Selldoes plugins and themes — SDK types, theme runtime and the selldoes CLI (create, dev, build, publish)."
+2026-09-29T11:09:37.359Z,@kifas/appium,0.1.0,notsoshabby,MIT,22099,Kifas visual and AI checks for Appium tests that run on the Kifas hub
+2026-09-29T11:09:53.681Z,vid2-gen,0.4.0,bitkyc08,MIT,3302732,"The video CLI for coding agents: capture your real app, generate assets, cut to the beat. Powered by ffmpeg."
+2026-09-29T11:10:03.566Z,@sddsjs/demo_design_system,0.1.0,salute-eva,MIT,2426910,Salute Design System / React UI kit for web applications
+2026-09-29T11:10:04.749Z,@davidgessi/node-pwd-gen,0.1.0,davidgessi,MIT,834,Password Generator
+2026-09-29T11:10:25.694Z,@timche/varlock-skip-if-no-auth,0.1.0,timche,MIT,7034,"Varlock plugin adding skipIfNoAuth(), which resolves a secret to undefined when its provider has no credentials instead of failing the load"
+2026-09-29T11:10:27.643Z,@timche/varlock-require-all-or-none,0.1.0,timche,MIT,6025,"Varlock plugin adding @requireAllOrNone, which fails the load when only some items of a group are set"
+2026-09-29T11:10:31.255Z,@minuthq/huxflux,0.3.22,minut-alexander,,17460980,Huxflux server — run Claude agents on any machine
+2026-09-29T11:10:35.521Z,@monei-js/serverless-latest-layer-version,2.2.0,dmitriy.nevzorov,MIT,10409,A serverless plugin that replaces 'latest' version tag to actual lambda layer version
+2026-09-29T11:10:37.901Z,@monei-js/serverless-cognito-add-custom-attributes,0.4.0,dmitriy.nevzorov,MIT,19190,Add custom attributes to an existing CloudFormation-managed CognitoUserPool and CognitoUserPoolClient without losing all your users.
+2026-09-29T11:10:56.047Z,@roomle/web-sdk-types,0.0.0,tschoartschi,MIT,240,"Placeholder, real releases follow with the next Web SDK types release"
+2026-09-29T11:10:58.691Z,@aisensiy/pi-live-speed,1.0.0,aisensiy,MIT,378594,"See token speed live in Pi's footer, while the model is still generating."
+2026-09-29T11:12:18.274Z,repository-release-auditor,0.1.0,ken-2004,MIT,83303,Local CLI for evidence-based Git repository release-hygiene checks.
+2026-09-29T11:12:26.121Z,xcvrenzcompany,1.0.0,xzv-expzc,MIT,17576692,XcV Company
+2026-09-29T11:12:33.662Z,@kova1/logr,0.1.0,kova1,MIT,20114,Search the commit history of every git repository under a directory.
+2026-09-29T11:12:52.567Z,pi-gitlab-provider,1.0.0,reprazent,MIT,28412,GitLab AI gateway model proxy provider for pi (Anthropic and OpenAI models via GitLab Duo)
+2026-09-29T11:12:58.507Z,@percayso-community/identity-app-contracts,0.1.0,adrian.eyre.percayso,Apache-2.0,66862,"The Percayso ID app's wire contract: Approval-key registration and approval shapes, the ES256 signed bytes, the attestation slots and the closed refusal union."
+2026-09-29T11:13:24.524Z,@scenewirejs/schema,1.0.0-rc.1,winhok,MIT,753503,
+2026-09-29T11:13:28.7Z,@scenewirejs/time,1.0.0-rc.1,winhok,MIT,2866,
+2026-09-29T11:13:33.147Z,@scenewirejs/audio,1.0.0-rc.1,winhok,MIT,21178,
+2026-09-29T11:13:37.474Z,@scenewirejs/media-inspect,1.0.0-rc.1,winhok,MIT,37172,
+2026-09-29T11:13:38.993Z,@silkrun/ui,0.1.0,adam-bell-dubsof,MIT,3317321,Silkrun React component library with theme CSS
+2026-09-29T11:13:41.217Z,motionrow,1.0.0,motionrow,,7572,Add a Motionrow component to the current project
+2026-09-29T11:13:44.707Z,@scenewirejs/runtime,1.0.0-rc.1,winhok,MIT,47520,
+2026-09-29T11:13:56.617Z,@scenewirejs/web-runtime,1.0.0-rc.1,winhok,MIT,6840,
+2026-09-29T11:14:01.469Z,@scenewirejs/compiler,1.0.0-rc.1,winhok,MIT,15997,
+2026-09-29T11:14:06.971Z,@smykla-skalski/sui,0.2.0,mskalski,MIT,101022,Themeable Svelte UI primitives for Smykla projects
+2026-09-29T11:14:07.611Z,@scenewirejs/domain-developer,1.0.0-rc.1,winhok,MIT,1338888,
+2026-09-29T11:14:13.598Z,@scenewirejs/domain-editorial,1.0.0-rc.1,winhok,MIT,14002,
+2026-09-29T11:14:23.075Z,@scenewirejs/domain-education,1.0.0-rc.1,winhok,MIT,17165,
+2026-09-29T11:14:27.719Z,@scenewirejs/editor-core,1.0.0-rc.1,winhok,MIT,6829,
+2026-09-29T11:14:33.431Z,@scenewirejs/production-core,1.0.0-rc.1,winhok,MIT,192514,
+2026-09-29T11:14:40.872Z,@scenewirejs/renderer-canvas,1.0.0-rc.1,winhok,MIT,9798,
+2026-09-29T11:14:45.16Z,@scenewirejs/media,1.0.0-rc.1,winhok,MIT,13529,
+2026-09-29T11:14:53.64Z,@scenewirejs/patch,1.0.0-rc.1,winhok,MIT,239472,
+2026-09-29T11:14:59.899Z,@scenewirejs/renderer-web,1.0.0-rc.1,winhok,MIT,145863,
+2026-09-29T11:15:00.118Z,@designdaddy/carousel,0.0.1,datapro-rnd,MIT,108080,"Design Daddy carousel — four styles, four animations, four indicators, fully themeable"
+2026-09-29T11:15:03.299Z,mailpace-utils,1.0.0,backflip,Apache-2.0,14693,Utilities like webhook signature verification for MailPace
+2026-09-29T11:15:12.166Z,@scenewirejs/cli,1.0.0-rc.1,winhok,MIT,40086,
+2026-09-29T11:15:25.827Z,mcp-apps-studio,0.1.0,yanic0de,MIT,594153,"Storybook + Playwright for MCP Apps widgets: stories with mocked tool calls, a faithful local host, and headless story runs in CI."
+2026-09-29T11:15:26.191Z,@mcp-apps-studio/widget-runtime,0.1.0,yanic0de,MIT,15101,"Studio conveniences on top of the official MCP Apps SDK App: connectWidget (tool lifecycle recorded before the handshake, host theme applied) and React hooks."
+2026-09-29T11:15:29.466Z,@maxanstey-meridian/waduno-atomiser,0.4.0,maxanstey,MIT,337900,Source content to evidenced atoms.
+2026-09-29T11:15:34.6Z,@platform-kit-next/cli,1.0.0,devhercules,MIT,242782,Platform Kit - AI-Agent Rules and Skills for Software Projects
+2026-09-29T11:15:36.308Z,@syncfusion/ej2-vue-form-builder,35.1.37,syncfusion-javascript,SEE LICENSE IN license,76962,A package of feature-rich Essential JS 2 form builder component. for Vue
+2026-09-29T11:18:45.442Z,zerogateway,0.1.1,victor-the-ai,MIT,329838,Unified router and client for 100% free LLM providers with automatic rate-limit failover and key swapping
+2026-09-29T11:18:50.847Z,@otp-router/client,0.0.1-alpha.0,isroilov_an,MIT,169489,Typed backend HTTP client for self-hosted OTP Router
+2026-09-29T11:19:10.312Z,@gatemux/dsh-gatemux-login,1.0.0,zhaochj,MIT,45254,Sign in with GateMux for DeepSeek Harness: users pay from their own GateMux balance.
