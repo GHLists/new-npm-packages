@@ -1,0 +1,114 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-30T21:16:11.527Z,@beyondwork/xlsx-substrate-bindings,0.1.0,christianbw,SEE LICENSE IN LICENSE.md,18224944,"Conductor, the Ensemble spreadsheet runtime: native XLSX sessions compiled to WebAssembly for Node and browsers."
+2026-09-30T21:16:29.149Z,@pleta/ui,0.1.0,yaptevsa,SEE LICENSE IN LICENSE,612176,"Angular UI components, form controls, overlays, and notifications."
+2026-09-30T21:16:55.641Z,@open-deltat/cli,0.1.0,simonorzel26,MIT,62547,"Book time on a deltat calendar from the terminal: find what is free, hold it, commit it, and watch changes live. Human output by default, --json for scripts and AI agents."
+2026-09-30T21:16:58.535Z,@open-deltat/mcp,0.1.0,simonorzel26,MIT,42632,"MCP server for real-time scheduling: give an agent a calendar it can find, hold and commit slots on without ever double-booking."
+2026-09-30T21:17:30.56Z,@pleta/table,0.1.0,yaptevsa,SEE LICENSE IN LICENSE,144890,"Angular data table with templates, selection, and controlled pagination."
+2026-09-30T21:18:09.186Z,@pleta/dashboard,0.1.0,yaptevsa,SEE LICENSE IN LICENSE,90671,Angular dashboard grid with draggable and resizable widgets.
+2026-09-30T21:20:01.943Z,@redact-secret/adapter-otel-trace,0.1.0,milowebmaster,MIT,34547,A redacting OpenTelemetry JS SpanProcessor (traces only) over the Redact Secret core.
+2026-09-30T21:20:16.841Z,runsera,0.9.2-beta.1,iloveautomation,UNLICENSED,260689,"Runsera CLI and MCP server — the agent's interface to a Runsera workspace (tasks, context, decisions, runs)."
+2026-09-30T21:20:21.391Z,@stll/mcp-kit,0.0.1-placeholder.0,jan-kubica,Apache-2.0,332,Placeholder; the real package is published from stella/stella.
+2026-09-30T21:20:33.888Z,runsera-manager,0.9.2-beta.1,iloveautomation,UNLICENSED,202945,"Runsera Manager — CLI and MCP server that lets a coding agent act as project manager of a Runsera workspace: read everything, plan, and propose changes a human approves."
+2026-09-30T21:20:48.214Z,runsera-admin,0.9.2-beta.1,iloveautomation,UNLICENSED,73354,"Runsera instance administration from the command line: bootstrap, workspaces, invites, users, usage, errors, banner, beta requests, export, deletion."
+2026-09-30T21:21:02.598Z,runsera-mcp-gateway,0.9.2-beta.1,iloveautomation,UNLICENSED,337875,"Runsera gateway — the instance front door: token-only agent ingress, instance operations, MCP over Streamable HTTP for the worker and the manager, OAuth 2.1 for the Claude app."
+2026-09-30T21:21:09.491Z,starkcode,0.1.0,wenjoseph16,MIT,151750,"StarkCode protocol — versioned JSON Schema contracts + gates for agent pipelines (DAG, classification, diff, mutation, arbitration). No LLM, no generation, no agent hosting. Product of the StarkCore…"
+2026-09-30T21:21:34.543Z,portalgl,0.0.0,matiasperz,MIT,180,Placeholder — coming soon.
+2026-09-30T21:22:27.774Z,sandboxed-agents,0.2.0,grauzone,MIT,34771804,Rootless Podman sandboxes for coding agents
+2026-09-30T21:22:30.839Z,antislop-plugin,0.1.0,tonyedgal,MIT,733380,Opinionated Oxlint and ESLint rules that reject low-evidence TypeScript and JavaScript patterns.
+2026-09-30T21:24:33.081Z,@gitmyabi/ernykastaking,1.0.0,gitmyabi-bot,MIT,101309,"Auto-generated TypeScript type bindings for ErnykaStaking (build etherscan-ernykastaking-6196f8a1-1790803372007, commit bc557bf, branch etherscan)"
+2026-09-30T21:26:12.698Z,@syntax-syllogism/apx-core,0.1.0,jprichter,MIT,8813,Shared apx engine: the AEP code generators and dead-code analysis behind the sf apx CLI plugin and the Apx VS Code extension.
+2026-09-30T21:26:14.35Z,@fikar-ai/design,1.5.0,waqas,UNLICENSED,339372,"Fikar Ink design language — tokens, Tailwind preset + component layer. Single source of truth across all Fikar surfaces."
+2026-09-30T21:26:17.989Z,@fikar-ai/design-react,1.5.0,waqas,UNLICENSED,78466,React components for the Fikar Ink design language. AppShell renders the canonical app shell from @fikar-ai/design.
+2026-09-30T21:26:44.095Z,mcode-mcp,0.1.0,minmax-npm,MIT,518694,"MCP server that delegates coding tasks to your locally installed MiniMax Code CLI (mcode). Wraps the real mcode binary instead of bundling its own copy of the agent, so it inherits your MiniMax login…"
+2026-09-30T21:27:48.476Z,matrixtrim,0.20.0,eburairu,MIT,567627,Evidence-based GitHub Actions matrix diagnostics and optimization.
+2026-09-30T21:29:55.5Z,@probara/playwright-reporter,0.1.0,gustavocynch,Apache-2.0,227909,Playwright reporter that sends every test result to Probara.
+2026-09-30T21:30:08.585Z,@probara/jest-reporter,0.1.0,gustavocynch,Apache-2.0,540678,Jest reporter that sends every test result to Probara.
+2026-09-30T21:30:34.29Z,veeshree,0.1.0,gauthamram,MIT,235451,"Local-first, model-independent context persistence layer for AI software development"
+2026-09-30T21:30:36.406Z,@opennodes/core,0.1.0,saikou.soshite,Apache-2.0,40900,"OpenNodes Protocol (ONP) core: Node Card validation, JWS signing/verification, pricing and receipt math, HTTP helpers, and the task→node advisor"
+2026-09-30T21:30:38.937Z,@opennodes/cli,0.1.0,saikou.soshite,Apache-2.0,31153,"OpenNodes (ONP) client: search verified AI nodes, pre-price chains, invoke with signed receipts; OpenAI-compatible gateway with onp/auto routing; stdio MCP server for Cursor, VS Code, and Claude Desk…"
+2026-09-30T21:30:42.028Z,@opennodes/registry,0.1.0,saikou.soshite,Apache-2.0,208549,"OpenNodes (ONP) reference registry: node registration with proof-of-resource qualification (Stage A/B/C), transparent ranking, enforceable estimates, catalog importers (OpenRouter, Hugging Face, mode…"
+2026-09-30T21:30:54.327Z,@thaera/thaera-core,1.0.0,emersonleao,ISC,264,
+2026-09-30T21:31:17.714Z,@mdcrtrs/player,0.1.2,mdcrtrs-io,,136712,
+2026-09-30T21:33:36.304Z,smart-rtl,1.0.0,masoud719,MIT,1225026,"Smart RTL & Persian/Arabic bidirectional text support for Antigravity IDE, VS Code (Cline, Continue, Roo Code), and Electron applications."
+2026-09-30T21:34:01.17Z,@eoinedgenpm/gowin-mcp,0.1.0,eoinedgenpm,MIT,56279,"Local Gowin MCP server for isolated FPGA builds, reports and board measurements"
+2026-09-30T21:36:21.219Z,simple-math-muhammad,1.0.0,muhammad786,MIT,2462,A tiny package with add and subtract functions
+2026-09-30T21:36:22.78Z,thaera,1.0.0,emersonleao,ISC,337,
+2026-09-30T21:36:34.777Z,@portproof/mcp,0.1.0,portproof,MIT,85549,"MCP server for Portproof: proxy traffic by the GB on shared mobile 4G/5G and residential pools, paid in crypto, as tools for AI agents"
+2026-09-30T21:36:53.782Z,@ai-ecoverse/wasix-sysroot,2025.9.30-9,trieloff,Apache-2.0 WITH LLVM-exception,140887438,"WASIX sysroots: wasip1, SLICC identity, clang24 exnref EH"
+2026-09-30T21:37:23.54Z,dsh-context-explorer,0.1.0,lionnatsu,MIT,111312,"See the context a Session submits to its model in the DeepSeek Harness Web UI: the system prompt, the tool schemas and every message, drawn as a grid of token squares."
+2026-09-30T21:37:43.331Z,genshin-interface,3.8.1,q16solver,Apache-2.0,73529,"Genshin Impact's interface as a fan recreation: the game's own screen units, face and pointer, and its buttons, dividers, bars and notices as presentational Vue components."
+2026-09-30T21:40:08.632Z,nestjs-preflight,0.1.0,fred-o-nyarko,MIT,151485,Agent skill + zero-dependency scanner that runs the NestJS production checklist (17 checks) against a NestJS codebase before you deploy.
+2026-09-30T21:41:47.777Z,@d13co/puya-ts-utils,0.1.0,bitd13co,MIT,627379,"Algorand TypeScript subroutines: creating escrow accounts, reading the transaction counter, RSA signature verification, MBR credit accounting, base32 encoding"
+2026-09-30T21:42:03.661Z,@hilbras/code,0.1.0,lacrous,MIT,111605,"A fast coding agent CLI. Unambiguous file edits, cloud and local models, one binary for macOS, Linux and Windows."
+2026-09-30T21:42:43.672Z,math-quiz-engine,1.0.0,manz-bot,MIT,780269,"Motor generador de preguntas y ecuaciones de matemática rápida con dificultad adaptable, alternativas engañosas y trucos mentales."
+2026-09-30T21:44:05.998Z,n8n-nodes-sanctionskit,0.1.0,sanctionskit,MIT,48007,"SanctionsKit sanctions screening, source availability, approved policies, and retained evidence for n8n workflows."
+2026-09-30T21:44:17.749Z,@scriptc/runtime-ios-arm64,0.0.0,ctate,MIT,334,Reserved for the scriptc runtime on iOS arm64.
+2026-09-30T21:44:28.69Z,puya-ts-utils,0.0.0-0.0,bitd13co,MIT,676,Empty repo pointing to @d13co/puya-ts-utils
+2026-09-30T21:44:52.101Z,cookies-donuts-ok2,1.0.0,rrjj39322,ISC,96376271,
+2026-09-30T21:45:00.782Z,@spechtlabs/sigil,0.6.2,c3di1,Apache-2.0,11280766,"The Sigil policy language in JavaScript: the Go engine compiled to WebAssembly, with typed bindings"
+2026-09-30T21:45:09.531Z,@trytilde/contracts,3.0.1,danielblignaut,Apache-2.0,745383,Generated TypeScript Protobuf and ConnectRPC contracts for Tilde
+2026-09-30T21:45:14.382Z,@trytilde/connection-ui,3.0.1,danielblignaut,Apache-2.0,38919,
+2026-09-30T21:45:17.475Z,@trytilde/agent-avatar,3.0.1,danielblignaut,MIT,243634,
+2026-09-30T21:45:20.12Z,@trytilde/chat-ui,3.0.1,danielblignaut,Apache-2.0,139219,"Embeddable native Tilde conversations, extracted from Dispatch's composer and markdown presentation. Includes paginated history, live updates with reconnect/replay, replies, copying, markdown/code, a…"
+2026-09-30T21:45:23.175Z,@trytilde/chat-proxy,3.0.1,danielblignaut,Apache-2.0,11088,Server-side Web Request/Response reverse proxy for the Tilde ConnectRPC chat provider.
+2026-09-30T21:45:23.423Z,@scriptc/runtime-ios-simulator-arm64,0.0.0,ctate,MIT,368,Reserved for the scriptc runtime on the iOS arm64 simulator.
+2026-09-30T21:45:25.466Z,@trytilde/chat-next,3.0.1,danielblignaut,Apache-2.0,2722,"Next.js App Router adapter for the native Tilde chat proxy. Uses Web Request/Response route handlers and asynchronous catch-all parameters, preserving Connect streaming and cancellation."
+2026-09-30T21:45:26.409Z,react-native-pdf-sdk,0.1.1,halilibrahimakyuz,MIT,554129,"A PDF SDK for React Native: a viewer that draws in tiles with the platform's own renderer, built for drawings metres wide."
+2026-09-30T21:45:30.973Z,@trytilde/sdk-langchain-node,3.0.1,danielblignaut,Apache-2.0,40261,"Core history and delivery live in `@trytilde/sdk`. This package converts typed context to LangChain messages and tools, following Dispatch's core/framework separation. It works with `langchain` v1 (`…"
+2026-09-30T21:45:36.175Z,@trytilde/sdk-mastra-node,3.0.1,danielblignaut,Apache-2.0,32998,"Core history and delivery live in `@trytilde/sdk`. Write the Mastra `Agent` the way Mastra's docs show, at module scope, and pass the per-invocation Tilde pieces as call options with `await tildeMast…"
+2026-09-30T21:45:38.499Z,@trytilde/sdk-openai-agents-node,3.0.1,danielblignaut,Apache-2.0,43375,"Core history and delivery live in `@trytilde/sdk`. This package converts typed context to OpenAI Agents input items and function tools, following Dispatch's core/framework separation."
+2026-09-30T21:45:51.977Z,@scriptc/runtime-android-arm64,0.0.0,ctate,MIT,346,Reserved for the scriptc runtime on Android arm64.
+2026-09-30T21:46:45.091Z,@centerforagenticai/pi-dev,0.2.0,centerforagenticai-dev,MIT,281630,"Pi extension development introspection, diagnostics, UI demos, and event tracing."
+2026-09-30T21:46:47.683Z,@esauflores/zoom-dl,1.0.1,esauflores,MIT,22148,Download Zoom cloud recordings — including passcode-protected ones and ones with the download button disabled
+2026-09-30T21:47:27.333Z,api-sutra,3.0.1,pasiabhishek,MIT,25229,A lightweight and reusable API client wrapper for making clean HTTP requests with Axios.
+2026-09-30T21:47:28.933Z,@forjio/fulkruma-cli,0.4.0,hachimimambo,,274996,CLI for Fulkruma (part of the Forjio commerce suite).
+2026-09-30T21:47:51.049Z,@ai-ecoverse/wasm-clang,24.0.0-5,trieloff,Apache-2.0 WITH LLVM-exception,142580166,Clang/LLD 24 + wasm-opt for slicc (clang24 EH + asyncify fork)
+2026-09-30T21:48:16.742Z,sideren,0.4.0,neelbrown,MIT,937261,"One command to put your coding agents on Sideren: it finds the agents on your machine, asks for your key and a model, writes each agent's own config and checks it live. Claude Code, Codex, pi, oh-my-…"
+2026-09-30T21:48:18.011Z,pi-agent-skills,0.1.0,metalbolicx,MIT,61571,"Pi extension filling skill gaps: path-safe skill file reads, confined skill script execution, cross-harness skill discovery (.claude/.codex/.opencode folders)"
+2026-09-30T21:48:27.797Z,@entur-partner/placeholder-npm,1.1.0,kennethngo,EUPL-1.2,889,Placeholder package for testing npm publish from GitHub Actions
+2026-09-30T21:49:31.747Z,@entur-partner/placeholder-yarn,1.1.0,kennethngo,EUPL-1.2,1311,Placeholder package for testing yarn publish from GitHub Actions
+2026-09-30T21:49:38.125Z,@peripheries/runtime,0.1.0,scotteverett,UNLICENSED,19128,"The host's runtime contract for federated component bundles: pinned shared specifiers, the import map, and the types of what a cell component receives."
+2026-09-30T21:49:40.374Z,@entur-partner/placeholder-bun,1.1.0,kennethngo,EUPL-1.2,889,Placeholder package for testing bun publish from GitHub Actions
+2026-09-30T21:49:55.076Z,@peripheries/renderer,0.1.0,scotteverett,UNLICENSED,214494,"The one renderer for pages of federated component bundles: a framework-free core, a React renderer, the runtime a page boots with, and golden pages for testing."
+2026-09-30T21:49:55.994Z,@entur-partner/placeholder-lerna-a,1.1.0,kennethngo,EUPL-1.2,1333,Placeholder package for testing lerna monorepo publish from GitHub Actions
+2026-09-30T21:49:58.094Z,@entur-partner/placeholder-lerna-b,1.1.0,kennethngo,EUPL-1.2,1613,Placeholder package for testing lerna monorepo publish from GitHub Actions
+2026-09-30T21:51:41.04Z,kly-skills,1.0.3,klyrhon,ISC,83656274,An interactive command-line tool for installing Antigravity Skills to your local environment.
+2026-09-30T21:53:05.582Z,@supramundane/supram,0.3.0,robin.berjon,MIT,239614,"A design system with a leadlight grid, the Empyrean palette, and Atkinson Hyperlegible type. Plain CSS, no build step, vendored into each project."
+2026-09-30T21:53:22.481Z,mytokentracker,0.1.0,kevinchamplin,MIT,32105,"See what your AI coding tools really cost. Local-first usage tracking for Claude Code, Codex, Gemini CLI, Copilot CLI and 20 more, with optional sync to mytokentracker.io."
+2026-09-30T21:54:51.916Z,@graelo/pi-skill-args,0.1.0,graelo,MIT,16109,"Claude-style $ARGUMENTS / $1 placeholders and !`cmd` shell substitution in Pi skills, without touching the system prompt"
+2026-09-30T21:54:53.696Z,@motifx/core,1.0.0,ekremersahin,MIT,4858718,"UI framework for JavaScript and TypeScript: components written as classes, functions or options objects, fine-grained reactivity without a virtual DOM, routing and dependency injection."
+2026-09-30T21:55:10.966Z,@metamask/profile-controller,1.0.0,metamaskbot,(MIT OR Apache-2.0),135366,"Controller for managing user profile data including username, bio, avatar, and linked accounts via the MetaMask Profile API"
+2026-09-30T21:55:20.849Z,eslint-plugin-test-governance,0.1.0,hudoser,MIT,86702,"ESLint rules that require a ticket comment above skipped, fixme and tagged Playwright tests."
+2026-09-30T21:56:15.848Z,@onelastcommit/ledger,0.1.4,atomiclabs97,MIT,174764,"Domain-agnostic, append-only event store with first-class provenance and per-entity state machines, on plain PostgreSQL."
+2026-09-30T21:56:33.682Z,@motifx/compiler,1.0.0,ekremersahin,MIT,882301,Compiler and Vite plugin for MotifJS JSX: lowers JSX to fine-grained reactive bindings. Includes the motif-lint and motif-explain CLIs.
+2026-09-30T21:56:37.692Z,@onelastcommit/onenote-mcp,0.2.1,atomiclabs97,MIT,149353,"MCP server for Microsoft OneNote — read, search, create, and delete pages via Microsoft Graph."
+2026-09-30T21:56:40.648Z,@forjio/pawpado-cli,0.2.0,hachimimambo,,151857,CLI for Pawpado — single-user AWS GPU gaming portal.
+2026-09-30T21:56:45.79Z,@groundbrick/crypto-service,1.0.0,200systems,MIT,7727,Encriptação AES-256-GCM para dados sensíveis em repouso
+2026-09-30T21:56:48.717Z,@groundbrick/duckflow-client,0.1.0,200systems,MIT,30290,"Cliente do DuckFlow: cria tarefas de envio, gere remetentes de SMS e valida a assinatura dos callbacks"
+2026-09-30T21:57:45.124Z,@dszp/flexpoint-lib,0.1.0,dszp,MIT,106582,"Portable, Node-free, read-only client for the FlexPoint merchant API: automatic token login and refresh, lossless int64 ids, and complete-list walkers checked against record-count. Runs unchanged in…"
+2026-09-30T21:58:43.427Z,@c-code/content,1.0.0,c-code,MIT,20280,Trae el contenido de un sitio desde el CMS de C-Code (Firestore) antes del build.
+2026-09-30T21:59:49.359Z,vsift-cli,0.0.0,smormah,MIT OR Apache-2.0,731,Grounded evidence from local video for AI coding agents. In development: this release holds the name and installs nothing.
+2026-09-30T21:59:59.828Z,@karte.bayern/micromap,0.1.0,simonwaldherr,MIT,1075757,"Dependency-free JavaScript maps with XYZ raster tiles and optional vector, GeoJSON and UI modules."
+2026-09-30T22:00:18.776Z,@serverless-agents/client,0.1.0,ananya150,MIT,396547,Typed public API client for serverless agents
+2026-09-30T22:01:17.512Z,backpack-blue-sky,1.0.0,rrjj39322,ISC,88833448,
+2026-09-30T22:01:54.13Z,@wolftrax/arcade-ui,0.1.0,wolftrax,MIT,82245,16-bit retro themed React component library
+2026-09-30T22:02:26.434Z,@agentlet/demos,1.0.0,fabvin9999,MIT,68024,"Agentlet demos for well-known sites (Wikipedia, arXiv), loaded by a bookmarklet through jsDelivr."
+2026-09-30T22:02:36.822Z,sukuudata,0.1.0,boamaelikem,MIT,22255,"Official client for the SukuuData API: Ghana's schools, the 2026 GES SHS placement register and CSSPS choice validation."
+2026-09-30T22:02:39.999Z,@strapi/plugin-ab-test,0.1.0,mcastres,MIT,325125,A/B testing for Strapi 5: keep variants of an entry and split Content API traffic between them. Works with i18n and Draft & Publish.
+2026-09-30T22:03:19.657Z,tweetybird,0.1.1,johnrood,UNLICENSED,837824,Text Claude Code and Codex on your own Mac from your phone. They share one memory.
+2026-09-30T22:03:39.323Z,dsh-browser-use-bundle,0.2.0-rc.2,senfu,MIT,3363,Unofficial one-click bundle for DeepSeek Harness that wraps the official browser-use packages (Playwright MCP provider) and uses the Edge or Chrome already installed
+2026-09-30T22:06:37.654Z,superoceanlava,1.0.0,rrjj39322,ISC,86125752,
+2026-09-30T22:06:43.278Z,create-cesarq-starter,1.0.0,cesarlopezq,MIT,13210,Minimal React + TypeScript + Vite starter initializer
+2026-09-30T22:06:44.81Z,@mimi-ng/cli,0.1.0,nuki,MIT,133647,"Angular + Tailwind CSS 4 UI components that a CLI copies into your project, so you own the code. Schematics for ng add and ng generate."
+2026-09-30T22:07:12.484Z,fugacity,0.1.2,fair_dose,MIT,293207,"Chemical process simulation built for AI chat artifacts, starting with phase equilibria."
+2026-09-30T22:08:57.952Z,@pulsetechnologies/i18n,0.1.0,pulsetechnologies,UNLICENSED,58249,"Shared language list, detection, formatting and language picker for every Pulse product."
+2026-09-30T22:10:31.989Z,@dougborg/katana-sheets-toolkit,0.1.0,dougborg,MIT,855070,Katana MRP API client and Google Sheets integration bindings for Google Apps Script projects.
+2026-09-30T22:11:15.604Z,@gitmyabi/fresh,1.0.0,gitmyabi-bot,MIT,258734,"Auto-generated TypeScript type bindings for FRESH (build etherscan-fresh-bb6eefd8-1790806178050, commit 57255b1, branch etherscan)"
+2026-09-30T22:12:08.763Z,md-filter,0.1.0,semmelsamu,MIT,18661,Copy markdown files (and their attachments) whose metadata matches a Zod schema.
+2026-09-30T22:13:30.152Z,dsh-context-governor,0.2.2,mpinaev,MIT,140106,"Session context governor for DeepSeek Harness: prompt size and per-step cost in dollars (cache-read/cache-write aware), cache-hit, context bands, a per-session compaction threshold derived from the m…"
+2026-09-30T22:13:36.136Z,dsh-computer-use-bundle,0.2.0-rc.2,senfu,MIT,2604,Unofficial one-click bundle for DeepSeek Harness that wraps the official computer-use packages (embedded Cua Driver provider)
+2026-09-30T22:15:19.469Z,app-hud,0.8.0,ewjdev,MIT,719670,"Review your running app, understand its structure, and plan changes with coding agents."
+2026-09-30T22:15:37.773Z,easy-rate-limit,1.0.0,shreyzeous21,MIT,25846,Simple Express rate-limiting middleware with fixed-window counter
+2026-09-30T22:16:27.154Z,claude-background-control,0.2.0,wonnnarii,MIT,29165,MCP server giving Claude Code real macOS GUI control (click/type/inspect)
+2026-09-30T22:17:23.721Z,@aw-sales/channel-endpoint-web-react,0.0.0-stage,dev-awsales,,358,Temporary package placeholder for staged publishing
+2026-09-30T22:19:37.219Z,jvdm-ui,1.0.5,joaoduartemariucio,MIT,417503,"Design system em React 19 + Tailwind v4: tokens em oklch, tema claro/escuro e componentes em quatro camadas."
