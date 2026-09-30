@@ -1,0 +1,176 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-30T05:15:04.032Z,@eva/plugin-mixed-renderer,2.1.0-beta.17,jimizai,MIT,158426,"Eva.js world-space 2D sources, screen anchors and mixed rendering integration"
+2026-09-30T05:15:13.188Z,@eva/plugin-model-3d,2.1.0-beta.17,jimizai,MIT,1246570,Eva.js glTF resources and Model3D hierarchy integration
+2026-09-30T05:19:38.842Z,pi-cocore,1.0.0,randoneering,GPL-3.0-or-later,120097,Co/Core model provider and routing tiers for the pi coding agent
+2026-09-30T05:19:41.707Z,midi-realplayer,0.1.0,vaclis,MIT,15560403,"Drop-in multi-track MIDI player for web pages: a <midi-realplayer> custom element with track and piano-roll views, mute/solo mixer, SoundFont playback, and audio stems in sync."
+2026-09-30T05:19:46.146Z,@webmusic/audio,0.2.0,mrsteamedbun,MIT,10351153,"Digital audio for the web: immutable clip model, mp3/wav/ogg/flac decoding via optional WASM peers, playback, MIR analysis, transcription, views, Web Components and React bindings."
+2026-09-30T05:19:53.219Z,@webmusic/bridge,0.2.0,mrsteamedbun,MIT,243534,"Bridge between the score and audio families of the WebMusic ecosystem: synchronized score+audio playback on one AudioContext clock, score-to-clip offline rendering, and TimeMap/BeatGrid conversions.…"
+2026-09-30T05:20:51.719Z,@maucervera/ulika,0.1.0,maucervera,MIT,248596,Link a repository to Ulika. Scans your source locally and sends only the derived content manifest.
+2026-09-30T05:21:35.56Z,@argszero/cordis-plugin-ptc-ask-timeout-advisor,0.1.0,argszero,MIT,53574,"Tells a PTC program's next request what its own deadline hid: that the human question it was waiting on was aborted, not answered. Discussion #8368: in PTC mode the model can only call `run_code`, an…"
+2026-09-30T05:21:35.873Z,@gitmyabi/daifuku,1.0.0,gitmyabi-bot,MIT,99488,"Auto-generated TypeScript type bindings for Daifuku (build etherscan-daifuku-d7075f79-1790745594495, commit 07561fe, branch etherscan)"
+2026-09-30T05:23:20.89Z,iban-validator-js,0.0.1-security,npm,,440,security holding package
+2026-09-30T05:24:56.463Z,@acarmisc/backstage-plugin-litellm-common,0.1.0,acarmisc,Apache-2.0,49643,"Shared types, permissions, and schemas for the LiteLLM Backstage plugin"
+2026-09-30T05:24:57.93Z,@easyfe/iot-web-editor,0.0.1,han3ui,UNLICENSED,1583114,IoT SCADA canvas engine
+2026-09-30T05:26:24.87Z,@marcusok/progress-overlay,1.0.0,marcus_w,MIT,77737,"Framework-agnostic full-screen progress overlay: spinner for indeterminate work, percentage bar for streamed progress, glass panel with light/dark themes. Shared UI layer for @marcusok packages."
+2026-09-30T05:26:31.663Z,telegram-opencode-bot,1.2.0,yeasin22925,MIT,130049,Bridge between Telegram and a local OpenCode server
+2026-09-30T05:28:01.202Z,@ummah-pay/web-sdk,0.2.0,ummah-platform,SEE LICENSE IN LICENSE,6988975,"Ummah Pay white-label web SDK — Card, Apple Pay & Google Pay over the Ummah backend. React component + framework-agnostic mount."
+2026-09-30T05:28:37.495Z,dsh-math-snippets,1.3.1,minibluecan,MIT,88139,"LaTeX snippet expansion in the DSH web composer: Tab expands a short trigger into a formula template and drops the caret into the first hole, then walks the rest."
+2026-09-30T05:29:40.004Z,@cyd-prc/dsh-entropy-guard,0.2.1,wangmiaosheng,MIT,177089,"Gear-based autonomy governor for the DeepSeek Harness agent: the entropy-sdk EntropyRuntime core (gear ladder G0-G4, utility gate, slow-up/fast-down policy, tamper-evident audit chain) bound to the H…"
+2026-09-30T05:29:54.785Z,@c7sh8y9/mydsw,1.0.0,c7sh8y9,MIT,173672,在 DSH 里访问 chat.deepseek.com 网页版对话：侧边栏聊天面板（Markdown 渲染 + 图片上传 + 读历史 + 发消息）+ 一个 Agent 工具 deepseek_web。
+2026-09-30T05:30:06.425Z,radio-player-theme,0.0.1-security,npm,,442,security holding package
+2026-09-30T05:30:53.663Z,@prnt/dagr-graph,0.1.0,niiyeboah,MIT,448332,"Typed directed graph model for Dagr: stable node identity, zero dependencies."
+2026-09-30T05:31:03.204Z,@yandy0725/pi-sandbox,1.0.1,yandy0725,MIT,55563,"pi coding-agent extension: process-level sandbox (bwrap / landlock / seatbelt) — workspace writable, everything else readable, fail-closed"
+2026-09-30T05:31:15.189Z,@prnt/dagr-render,0.1.0,niiyeboah,MIT,1587950,WebGPU renderer for Dagr: a three.js WebGPURenderer scene with SDF shapes and spring animation.
+2026-09-30T05:31:27.529Z,@prnt/dagr-layout,0.1.0,niiyeboah,MIT,1649309,"Headless Sugiyama layout pipeline for Dagr, the dagre successor: incremental and animation first."
+2026-09-30T05:31:28.179Z,@vbansal67/my-awesome-test-3,0.0.1-security,npm,,466,security holding package
+2026-09-30T05:31:30.25Z,@prnt/dagr-vdsl,0.1.0,niiyeboah,MIT,114781,Toolkit for building a node-graph language on Dagr: the node spec adapter and its registry.
+2026-09-30T05:31:33.265Z,@prnt/dagr-react,0.1.0,niiyeboah,MIT,265460,React bindings for Dagr: the DagrCanvas component and hooks.
+2026-09-30T05:31:36.842Z,@vbansal67/not-again-bruh,0.0.1-security,npm,,460,security holding package
+2026-09-30T05:31:45.024Z,@vbansal67/npm-is-just-so-tuff,0.0.1-security,npm,,470,security holding package
+2026-09-30T05:31:45.199Z,@medusaheadmcp/core,0.2.0,mymelesjr,MIT,874222,
+2026-09-30T05:31:48.578Z,@medusaheadmcp/medusa,0.2.0,mymelesjr,MIT,92778,
+2026-09-30T05:31:53.594Z,@vbansal67/npm-is-like-so-so-tuff,0.0.1-security,npm,,476,security holding package
+2026-09-30T05:31:54.333Z,@medusaheadmcp/backend,0.2.0,mymelesjr,MIT,774239,
+2026-09-30T05:31:58.798Z,@medusaheadmcp/mcp,0.2.0,mymelesjr,MIT,7869,
+2026-09-30T05:32:00.927Z,@vbansal67/npm-is-so-so-tuff,0.0.1-security,npm,,466,security holding package
+2026-09-30T05:32:02.121Z,repo-aeo-mcp,0.2.0,whitebite,MIT,57265,"MCP server for continuous repository discoverability monitoring: npm search score, GitHub visibility signals, llms.txt freshness and site checks. Read-only by default."
+2026-09-30T05:32:07.78Z,@vbansal67/npm-is-so-tuff,0.0.1-security,npm,,460,security holding package
+2026-09-30T05:32:14.161Z,@vbansal67/npm-is-tuff,0.0.1-security,npm,,454,security holding package
+2026-09-30T05:32:20.016Z,@vbansal67/npm-is-tuff-bruh,0.0.1-security,npm,,464,security holding package
+2026-09-30T05:32:26.731Z,@vbansal67/npm-official-publisher,0.0.1-security,npm,,476,security holding package
+2026-09-30T05:32:37.619Z,@vbansal67/npm-publish,0.0.1-security,npm,,454,security holding package
+2026-09-30T05:32:45.418Z,@vbansal67/npm-publisher,0.0.1-security,npm,,458,security holding package
+2026-09-30T05:32:52.076Z,@vbansal67/npm-publishing,0.0.1-security,npm,,460,security holding package
+2026-09-30T05:32:54.44Z,@open-dy/opencard-taro,0.0.1-beta.1,rd.opendouyin,UNLICENSED,11001359,OpenCard Taro compiler and runtime toolchain
+2026-09-30T05:33:06.437Z,@vbansal67/npm-publishinginging,0.0.1-security,npm,,472,security holding package
+2026-09-30T05:33:12.728Z,@vbansal67/npm-publishinginginging,0.0.1-security,npm,,478,security holding package
+2026-09-30T05:33:18.62Z,@vbansal67/npm-publishinginginginging,0.0.1-security,npm,,484,security holding package
+2026-09-30T05:33:24.527Z,@vbansal67/npm-publishinginginginginging,0.0.1-security,npm,,490,security holding package
+2026-09-30T05:33:30.547Z,@vbansal67/official-npm-publisher,0.0.1-security,npm,,476,security holding package
+2026-09-30T05:33:36.429Z,@vbansal67/official-publisher,0.0.1-security,npm,,468,security holding package
+2026-09-30T05:33:42.423Z,@vbansal67/pacman-superfast,0.0.1-security,npm,,464,security holding package
+2026-09-30T05:33:48.306Z,@vbansal67/paper,0.0.1-security,npm,,442,security holding package
+2026-09-30T05:33:49.449Z,@2jumpsina/dsh-context-guard,0.3.3,kou1rest2,MIT,310001,"DSH context-pressure guard: when a session's next request would carry a dangerously large prompt, tell the user at turn end to write the handoff and start a new session. Consumes the official token-m…"
+2026-09-30T05:33:54.602Z,@vbansal67/proxys,0.0.1-security,npm,,444,security holding package
+2026-09-30T05:34:00.876Z,@vbansal67/run,0.0.1-security,npm,,438,security holding package
+2026-09-30T05:34:07.336Z,@vbansal67/sab,0.0.1-security,npm,,438,security holding package
+2026-09-30T05:34:11.92Z,@levrik/copycat,7.0.0,levrik,MIT,1891663,```js import { copycat } from '@snaplet/copycat'
+2026-09-30T05:34:13.851Z,@vbansal67/sim,0.0.1-security,npm,,438,security holding package
+2026-09-30T05:34:20.293Z,@vbansal67/slope,0.0.1-security,npm,,442,security holding package
+2026-09-30T05:34:24.772Z,@open-dy/vibecoding-sdk-taro,0.0.1-beta.1,rd.opendouyin,UNLICENSED,781646,"Runtime, UI, build and ESLint capabilities for Douyin Taro templates."
+2026-09-30T05:34:26.651Z,@vbansal67/slope2,0.0.1-security,npm,,444,security holding package
+2026-09-30T05:34:27.606Z,@open-dy/vibecoding-sdk-opencard,0.0.1-beta.1,rd.opendouyin,UNLICENSED,297984,"OpenCard runtime, build and ESLint capabilities for Douyin vibecoding templates."
+2026-09-30T05:34:30.598Z,@open-dy/vibecoding-cli,0.0.1-beta.1,rd.opendouyin,UNLICENSED,254754,"Command orchestration, validation and packaging for Douyin vibecoding Taro and OpenCard projects."
+2026-09-30T05:34:33.881Z,@vbansal67/static-proxy,0.0.1-security,npm,,456,security holding package
+2026-09-30T05:34:34.079Z,@open-dy/lucide-taro,0.0.1-beta.1,rd.opendouyin,ISC,791201,Lucide icon components and TabBar PNG utilities for Taro applications.
+2026-09-30T05:34:48.12Z,@rookiedj/aimcp,1.2.0,shen1454780468,MIT,1135327,"Local coding MCP server for ChatGPT, Gemini CLI, and other MCP clients with OAuth and Streamable HTTP."
+2026-09-30T05:35:10.546Z,@danxbot/docs,0.1.4,newms877,MIT,1706183,"Repo-agnostic docs package (DX-3336/DX-3337): a typed, versioned node-file format, a loader that builds an in-memory graph from a docs root, and a fail-loud `check` CLI."
+2026-09-30T05:35:13.459Z,n8n-nodes-nokfi,0.1.0,m4r10,MIT,253238,"n8n node for Nokfi: extract and validate invoices (PDF, image or text) and run financial analyses for small businesses."
+2026-09-30T05:35:34.705Z,n8n-nodes-crisphive,0.1.2,crisphive,MIT,180043,"n8n nodes for Crisphive — field operations on a deterministic solver: find callers, book and confirm jobs in one call, and trigger on job and customer events."
+2026-09-30T05:36:37.287Z,react-datekit,0.0.1,nurav,MIT,510701,"A modern, responsive React date and time picker with single date, range, multiple selection, presets, responsive layouts, and time selection."
+2026-09-30T05:37:46.538Z,@pearl_dev/core,0.1.1,pearl_dev_ai,UNLICENSED,375422,Shared foundation for Pearl Global Vietnam's internal NestJS services
+2026-09-30T05:37:55.523Z,opencode-leaner,0.1.0,laerciosantana,MIT,51973,"opencode plugin that helps you reduce the context size, making it lean and more efficient"
+2026-09-30T05:38:02.314Z,@readycode/reader,0.1.0,readycode,Apache-2.0,117076,"Ask huge PDFs, Word documents and spreadsheets specific questions: your AI gets only the passages that answer, with citations. A local MCP server for Claude Code, Cursor and Codex, plus a browser ver…"
+2026-09-30T05:40:09.75Z,@zaka13/thing,0.0.1-security,npm,,436,security holding package
+2026-09-30T05:41:09.867Z,@zebec-network/tron-transfer-sdk,1.0.0,niten.l,MIT,65980,Minimal SDK for transferring TRX and TRC-20 tokens (e.g. USDT) on TRON mainnet and testnet
+2026-09-30T05:41:17.853Z,@vbansal67/ap,0.0.1-security.1,npm,,438,security holding package
+2026-09-30T05:41:24.71Z,@vbansal67/aquapark,0.0.1-security.1,npm,,450,security holding package
+2026-09-30T05:41:31.505Z,@vbansal67/blooket,0.0.1-security.1,npm,,448,security holding package
+2026-09-30T05:41:37.793Z,@vbansal67/blox,0.0.1-security.1,npm,,442,security holding package
+2026-09-30T05:41:44.553Z,@vbansal67/capybara,0.0.1-security.1,npm,,450,security holding package
+2026-09-30T05:41:51.61Z,@vbansal67/ccl,0.0.1-security.1,npm,,440,security holding package
+2026-09-30T05:41:56.323Z,@tcpcore1/shared,0.1.0,tcpcore,MIT,96541,"Shared Zod schemas, TypeScript types and constants for TCPcore (kernel, adapters, CLI, web)."
+2026-09-30T05:41:59.2Z,@vbansal67/cr,0.0.1-security.1,npm,,438,security holding package
+2026-09-30T05:42:05.588Z,@vbansal67/crazycrashlanding,0.0.1-security.1,npm,,468,security holding package
+2026-09-30T05:42:11.58Z,@vbansal67/deepest-sword,0.0.1-security.1,npm,,460,security holding package
+2026-09-30T05:42:18.113Z,@vbansal67/dlb,0.0.1-security.1,npm,,440,security holding package
+2026-09-30T05:42:24.173Z,@vbansal67/dm,0.0.1-security.1,npm,,438,security holding package
+2026-09-30T05:42:32.088Z,@vbansal67/doblox,0.0.1-security.1,npm,,446,security holding package
+2026-09-30T05:42:38.557Z,@vbansal67/doblox-1,0.0.1-security.1,npm,,450,security holding package
+2026-09-30T05:42:44.646Z,@vbansal67/doblox2,0.0.1-security.1,npm,,448,security holding package
+2026-09-30T05:42:46.1Z,@gitmyabi/uqc,1.0.0,gitmyabi-bot,MIT,129476,"Auto-generated TypeScript type bindings for UQC (build etherscan-uqc-8806926a-1790746870320, commit 9489fce, branch etherscan)"
+2026-09-30T05:42:47.318Z,@redman89405/my-module,0.0.1-security,npm,,454,security holding package
+2026-09-30T05:42:50.991Z,@vbansal67/doblox-2,0.0.1-security.1,npm,,450,security holding package
+2026-09-30T05:43:00.335Z,@vbansal67/ds,0.0.1-security.1,npm,,438,security holding package
+2026-09-30T05:43:05.121Z,@vbansal67/ducklife6,0.0.1-security.1,npm,,452,security holding package
+2026-09-30T05:43:12.162Z,@vbansal67/false-hope,0.0.1-security.1,npm,,454,security holding package
+2026-09-30T05:43:18.014Z,@vbansal67/final-npm-uploader,0.0.1-security.1,npm,,470,security holding package
+2026-09-30T05:43:24.313Z,@vbansal67/flier,0.0.1-security.1,npm,,444,security holding package
+2026-09-30T05:43:30.24Z,@vbansal67/flyer,0.0.1-security.1,npm,,444,security holding package
+2026-09-30T05:43:34.438Z,@vitavision/workbench,0.1.0,vitalyvorobyev,MIT OR Apache-2.0,305383,"Studio-app building blocks on @vitavision/ui: app shell, split panes, tree view, playback bar and playhead store, file drop, toasts."
+2026-09-30T05:43:36.148Z,@vbansal67/fn,0.0.1-security.1,npm,,438,security holding package
+2026-09-30T05:43:38.132Z,@vitavision/three,0.1.0,vitalyvorobyev,MIT OR Apache-2.0,178727,"Framework-agnostic three.js building blocks for robot-cell scenes: CV/GL conventions, frame-tree runtime, robots, frusta, laser fans, targets, light gizmos. No React."
+2026-09-30T05:43:41.115Z,@vitavision/three-react,0.1.0,vitalyvorobyev,MIT OR Apache-2.0,101703,"React Three Fiber components over @vitavision/three: a Z-up scene canvas, baked-scenario frame trees read per frame, robots and gizmos in vitavision colours."
+2026-09-30T05:43:42.002Z,@vbansal67/fnaf2,0.0.1-security.1,npm,,444,security holding package
+2026-09-30T05:43:48.126Z,@vbansal67/fnaf2withhacks,0.0.1-security.1,npm,,462,security holding package
+2026-09-30T05:43:54.196Z,@vbansal67/gay,0.0.1-security.1,npm,,440,security holding package
+2026-09-30T05:44:00.16Z,@vbansal67/golf-orbit,0.0.1-security.1,npm,,454,security holding package
+2026-09-30T05:44:06.266Z,@vbansal67/my-awesome-test,0.0.1-security.1,npm,,464,security holding package
+2026-09-30T05:45:08.07Z,link-status-page,0.0.1-security,npm,,438,security holding package
+2026-09-30T05:45:11.589Z,web-vitals-polyfill-core-v1,0.0.1-security,npm,,460,security holding package
+2026-09-30T05:45:36.042Z,@tinrun/client,1.0.0,tinsystems,,39759,"Library for the page of an app opened in tin (tin.bar/<id>): user, launch data, theme, navigation. SDK v1 of the tin app standard."
+2026-09-30T05:45:54.595Z,@mr_haroon/live-chat-sdk,0.1.0,mr_haroon,MIT,365816,"NilaQ live-chat-sdk for React Native — embeds the same CDN/local widget.js (Home, Messages, Help, Tickets) in a fullscreen WebView so CDN uploads update the mobile UI automatically"
+2026-09-30T05:46:24.258Z,@firelordzuka/pulse-poc,0.0.1-security,npm,,456,security holding package
+2026-09-30T05:47:02.381Z,@nasebanal/cli,0.1.0,syatsuzuka,MIT,222405,"gcloud-style command-line interface for NASEBANAL APIs, generated from nb-api-specs OpenAPI contracts."
+2026-09-30T05:47:09.316Z,@atlasharness/atlascode,0.1.1,vincentlau2026,,2572840,AtlasCode — Coding Agent for the domestic computing ecosystem (Ascend NPU + domestic LLM backends)
+2026-09-30T05:47:12.676Z,dou-bot,0.6.0,fine_wei,MIT,749802,A lightweight decorator-based framework for official QQ bots.
+2026-09-30T05:47:16.693Z,@weave-os/checks,0.1.0,a-churchill,Apache-2.0,367495,"Advisory, per-concern AI code review for pull requests, driven by Markdown check files."
+2026-09-30T05:47:32.991Z,@omgbase/astro,0.1.0,usergenic,MIT,114055,Astro Content Loader and helpers to use omgbase as a CMS
+2026-09-30T05:47:35.626Z,@nasebanal/sdk,0.1.1,syatsuzuka,MIT,72042,"TypeScript SDK for the NASEBANAL APIs — typed clients generated from the nb-api-specs OpenAPI contracts, with auth handled for you."
+2026-09-30T05:48:17.003Z,@kalup/core,0.1.0,anzekop,Apache-2.0,41500,"Kalup runtime: typed HubSpot property codecs, inference and the config file types"
+2026-09-30T05:48:19.521Z,kalup,0.1.0,anzekop,Apache-2.0,895334,"Configuration as code for HubSpot: pull, compare, plan and apply properties and property groups"
+2026-09-30T05:49:24.708Z,ragacateslikodi,0.0.1-security,npm,,436,security holding package
+2026-09-30T05:50:01.431Z,opencode-limits-plugin,1.0.1,mkulik,,22126,Limity subskrypcji OpenCode Go (5h / tydzień / miesiąc) w bocznym panelu OpenCode
+2026-09-30T05:50:23.755Z,@tcpcore1/kernel,0.1.0,tcpcore,MIT,282974,"TCPcore governance kernel — identity, capability registry, risk gate, approval queue, audit trail, token broker and unified proxy for agent-callable APIs."
+2026-09-30T05:50:50.583Z,analytics-widget,0.0.1-security,npm,,438,security holding package
+2026-09-30T05:50:54.106Z,building-build,0.0.1-security,npm,,434,security holding package
+2026-09-30T05:50:57.6Z,feed-widget-helper,0.0.1-security,npm,,442,security holding package
+2026-09-30T05:51:17.856Z,@tcpcore1/adapters,0.1.0,tcpcore,MIT,232104,"TCPcore adapter format — loader, validator and the OpenAPI/Swagger/Postman/HAR to governed-adapter generator."
+2026-09-30T05:52:05.679Z,@tcpcore1/cli,0.1.0,tcpcore,MIT,127556,"tcpctl — scaffold, generate, validate and serve TCPcore governed adapters."
+2026-09-30T05:52:53.476Z,@fonnpo/mdc,0.23.1,fonnpo,MIT,162092,Nuxt MDC module
+2026-09-30T05:53:24.932Z,@simular-ai/sai-mcp,0.1.0,robin-simular,MIT,1026173,"Sai MCP server — drive your Sai computer-use agent from Claude Code, Codex, or Cursor."
+2026-09-30T05:54:03.36Z,@cat-gen/materia,0.0.1-security,npm,,442,security holding package
+2026-09-30T05:54:09.657Z,@cat-gen/material,0.0.1-security,npm,,444,security holding package
+2026-09-30T05:54:39.408Z,@cuty-ai/cli,0.1.0,cuty_ai,UNLICENSED,158696,Cuty image and video generation for coding agents
+2026-09-30T05:56:37.35Z,godot-safe-change-mcp,1.0.0,libai168,MIT,76729,An MCP server for reviewable and verifiable Godot project changes
+2026-09-30T05:56:44.662Z,struct-reader,0.1.1,jingchugaliaowa,MIT,177071,把文件完整映射到普通 class 的结构化读取器
+2026-09-30T05:57:18.226Z,@byokit/write,0.1.0,umeranjum17,Apache-2.0,80144,"Drafting in a person's voice: voice rules, platform limits, brief lines, model-free draft checks and thread splits over a pinned writing engine, plus an agent CLI."
+2026-09-30T05:57:23.351Z,@byokit/record,0.1.0,umeranjum17,Apache-2.0,95248,"Record a screen or a desktop into a take and make a video from it, through any recorder that implements the open recorder protocol v1 this kit defines."
+2026-09-30T06:00:30.683Z,mmm-mcp-server,0.1.1,nhoriecanal,MIT,153092,Matryoshka Mind Map の自分のデータをClaudeから直接読み書きするMCPサーバー
+2026-09-30T06:00:39.106Z,dsh-compat-layer,0.1.0,qingyun_long,MIT,43941,"Compatibility layer for DSH plugins: normalized session-event vocabulary registration (the replacement for the removed registerSessionEventType), event-name aliasing across historical spellings, and…"
+2026-09-30T06:00:45.522Z,dsh-media-input,0.1.0,qingyun_long,MIT,37042,Audio/video model input for DeepSeek Harness: registers OpenAI-compatible provider routes whose adapter turns attached media files into input_audio / video_url wire parts at request time (MiMo dialec…
+2026-09-30T06:00:56.821Z,dsh-subagent-pro,0.2.0,qingyun_long,MIT,49777,"Subagent Pro (slim): per-session delegation toggle, delegation-policy prompt section, reusable delegation templates, a delegation prompt budget, and a bulk select/clear/invert toolbar on the official…"
+2026-09-30T06:01:06.301Z,luasec,0.2.0,vaibhav_tomar,MIT,4742,Static security scanner for Lua in embedded firmware: finds remote code execution. Runs luasec without installing Lua tooling.
+2026-09-30T06:03:25.223Z,@maxax/sheet,1.0.0,max-builder,,11558203,Semantic Vue 3 + TypeScript source migration of the maxreport spreadsheet engine.
+2026-09-30T06:03:51.061Z,vite-plugin-svg-solid,0.1.0,wnhlee,MIT,19212,Import SVG files as Solid 2 components in Vite.
+2026-09-30T06:04:14.806Z,@ciplnew/bugtracking,1.0.0,ajitkumarm,MIT,15569,Report Node.js exceptions to BugTrack
+2026-09-30T06:05:05.044Z,@zjfcool/graph-vis,0.2.0-beta.1,zjfcool,MIT,1835586,A high-performance graph visualization library built on PixiJS.
+2026-09-30T06:06:41.036Z,@ayush-840/chunkkit,1.0.0,ayush-840,MIT,116781,Structure-aware text chunking for RAG and LLM pipelines. Zero dependencies.
+2026-09-30T06:07:29.197Z,@corvus-dotnet/json-schema,0.1.0,mwadams,Apache-2.0,510027,"A high-performance JSON Schema evaluator (draft 4 to 2020-12) that compiles schemas to specialised JavaScript, with results collection and annotations, ported from the Corvus.Text.Json V5 runtime eva…"
+2026-09-30T06:08:49.407Z,@manablox/config-typescript,0.50.0,daspete,MIT,5477,
+2026-09-30T06:08:50.702Z,@open-cr-agent/vcs-platform,0.1.2,majincheng_ocra,Apache-2.0,52341,"What Open-CR-Agent's code review platform adapters share: the review summary, its state, and who may command ocra"
+2026-09-30T06:08:50.935Z,@manablox/docs-theme,0.50.0,daspete,MIT,22941,The Starlight theme and config the Manablox documentation sites share.
+2026-09-30T06:08:52.466Z,@manablox/config-vitest,0.50.0,daspete,MIT,7176,The shared vitest settings of the Manablox packages and plugin repositories.
+2026-09-30T06:08:53.87Z,@manablox/license,0.50.0,daspete,MIT,13522,License keys and signed leases for the Manablox premium plugins.
+2026-09-30T06:09:00.759Z,@open-cr-agent/vcs-gitlab,0.1.2,majincheng_ocra,Apache-2.0,36672,GitLab merge request adapter for Open-CR-Agent
+2026-09-30T06:09:12.157Z,@manablox/admin-sdk,0.50.0,daspete,MIT,597961,"The Manablox admin's UI kit, stores and API client for admin plugins."
+2026-09-30T06:09:15.911Z,@manablox/plugin-license,0.50.0,daspete,MIT,205355,"License keys for the Manablox premium plugins: activations, signed leases and the features they unlock."
+2026-09-30T06:09:17.726Z,@manablox/plugin-workflows,0.50.0,daspete,MIT,1150713,"Workflows for Manablox: automations editors build in the admin, started by content changes, schedules, calls and other plugins."
+2026-09-30T06:09:19.094Z,@manablox/plugin-webhooks,0.50.0,daspete,MIT,269757,"Webhooks for Manablox: outgoing calls when content changes, incoming endpoints that start and stop workflows."
+2026-09-30T06:09:23.973Z,com.epi.e2e_test,1.2.2,brsnbugbounty,ISC,1354,Meta White Hat Researcher
+2026-09-30T06:09:33.17Z,@com2usplatform/hiveaxyl-tcbconnector-middleware,4.3.0,comsy-com2us,Apache-2.0,135674,"Hive Axyl TCB Connector Cloud Function 개발용 JavaScript 미들웨어 - Hive 인증 헤더 검증, 핸들러 래퍼, MySQL/DocDB/Storage 헬퍼"
+2026-09-30T06:10:18.239Z,universal-agent-plugins-opencode-events,0.1.0,ilyazelenko,Apache-2.0,15931,"`createObserver({client, emit})` accepts native `event` hook values as untrusted input and emits content-free wire v1 facts. A consumer can pass an OpenCode plugin hook's `client` and call `await obs…"
+2026-09-30T06:11:03.827Z,prismdown,0.0.1,vinowang,MIT,686,Prismdown — a markdown previewer. Name reserved while the app is under development.
+2026-09-30T06:12:31.252Z,mwasvg,0.1.0,kaidev1024,MIT,1222586,A React Native library for rendering SVG
+2026-09-30T06:13:00.37Z,@agdust/eslint-plugin-etc,3.0.0,agdust,MIT,59387,TypeScript ESLint rules from eslint-plugin-etc that have no modern equivalent. Maintained fork for ESLint 9/10 flat config.
+2026-09-30T06:14:00.972Z,tapmind-ads-admob-capacitor,1.0.0,devarsh.panchal,ISC,28793,A Capacitor plugin that injects the TapMind AdMob adapter into Capacitor apps. Supports Android and iOS.
+2026-09-30T06:14:28.966Z,@sogood360/openpartner,1.5.2,open-cowork,UNLICENSED,23820,企业级 AI 平台 - 员工工作台 / 协作平台 / 业务沉淀 / 自动化运行 (Windows/Linux)
+2026-09-30T06:15:16.323Z,@galaxyproject/olit,0.0.0,guerler,MIT,30476142,"Olit is an AI co-scientist that runs directly inside Galaxy, in the web browser."
+2026-09-30T06:15:23.312Z,@nimoxie/dsh-ui-tweaks,0.1.0,nimoxie,MIT,69566,dsh Web UI 微调合集：宽表格越界修复、对话区左侧自绘滚动条、插件更新检查面板（不含 dsh 本体）
+2026-09-30T06:16:26.647Z,capacitor-public-key-ssl-pinning,0.1.0,mcc.mobile,MIT,262375,SSL public key pinning for Capacitor and Ionic. Enforces base64 SHA-256 SPKI pins on the native TLS stack.
+2026-09-30T06:17:10.523Z,@citisen/dsh-notification,0.1.0,huangguisen,MIT,335161,"DeepSeek Harness plugin: per-state desktop notifications — a card per session state with its own bell, volume, and system-notification template"
+2026-09-30T06:17:31.641Z,dsh-long-memory,1.0.0,tclz9999,MIT,66953,DSH 超长记忆包：跨会话长期记忆、长文分块检索、聊天记录提取与精炼。纯 JS 混合检索（BM25 + CJK 二元分词），零第三方依赖。
+2026-09-30T06:19:11.046Z,@authoritydmc/flags-client,1.0.0,authoritydmc,MIT,10468,Universal JavaScript / TypeScript client SDK for flags-local with real-time SSE updates and offline evaluation
+2026-09-30T06:19:13.45Z,@authoritydmc/flags-react,1.0.0,authoritydmc,MIT,6389,"React hooks and components (<FeatureGate />, useFlag) for flags-local"
+2026-09-30T06:19:16.011Z,flags-local,1.0.0,authoritydmc,MIT,60954,"Zero-dependency local & remote Feature Flags server with live UI, SSE stream, and multi-tenant environments"
+2026-09-30T06:19:22.248Z,tweezer_dataset,0.1.0,arham.anwar,MIT,96117,"Dataset TypeScript untuk Indonesia: negara, bahasa, mata uang, timezone, hari libur nasional (API Kemendesa), dan bank OJK. Flat named exports dengan lookup O(1)."
