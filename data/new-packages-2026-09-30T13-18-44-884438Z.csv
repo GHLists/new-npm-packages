@@ -1,0 +1,200 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-30T12:15:32.007Z,@littlefriend/cli,0.1.0,kirby_zvndev,MIT,227293,"Set up Little Friend analytics from the terminal: projects, install snippets, keys, goals, funnels, session replay, the agent door, log drains and install checks."
+2026-09-30T12:18:55.264Z,@ndlib/component-library-next,1.0.0,atuskey_und,MIT,626902,"This is the repo for the NextJS Version of the Hesburgh Component Library, a set of React components that escapsulate the design patterns used by the Hesburgh Library IT department."
+2026-09-30T12:19:51.857Z,obix-driver-animation-frame,0.5.0,obinexusltd,MIT,202454,OBIX Animation Frame Driver - requestAnimationFrame scheduling and timeline orchestration
+2026-09-30T12:19:56.296Z,obix-driver-compositor,0.5.0,obinexusltd,MIT,140696,"OBIX Compositor Driver - Layer management, z-index optimization, and occlusion culling"
+2026-09-30T12:19:56.453Z,provingx-mcp,2.1.1,amitk2803,UNLICENSED,121008,"Provingx MCP Gateway — checks every MCP tool call against an agent passport and signs a receipt for it, local or hosted servers."
+2026-09-30T12:19:57.604Z,pi-codemode-compact,0.1.1,iamxeph,MIT,5375688,Compact single-line summary renderer for Pi's codemode tool
+2026-09-30T12:20:01.129Z,obix-driver-dom-mutation,0.5.0,obinexusltd,MIT,28615,OBIX DOM Mutation Driver - Efficient DOM diffing/patching
+2026-09-30T12:20:05.868Z,obix-driver-font-layout,0.5.0,obinexusltd,MIT,17185,"OBIX Font Layout Driver - Text measurement, web font loading, and layout calculation"
+2026-09-30T12:20:10.635Z,obix-driver-gpu-acceleration,0.5.0,obinexusltd,MIT,216263,OBIX GPU Acceleration Driver - WebGL/WebGPU canvas rendering and shader management
+2026-09-30T12:20:15.22Z,cantogen-mcp,0.2.0,canto-gen,MIT,55196,MCP server for 港嘢 Canto-Gen — manage your own voices and generate Cantonese TTS
+2026-09-30T12:20:15.314Z,obix-driver-input-event,0.5.0,obinexusltd,MIT,18029,OBIX Input Event Driver - Unified touch/mouse/keyboard/pointer event normalization
+2026-09-30T12:20:19.92Z,obix-driver-media-query,0.5.0,obinexusltd,MIT,19039,OBIX Media Query Driver - Responsive breakpoint detection and safe-area handling
+2026-09-30T12:20:30.043Z,obix-driver-network-stream,0.5.0,obinexusltd,MIT,180208,OBIX Network Stream Driver - WebSocket/SSE for telemetry and real-time state sync
+2026-09-30T12:20:40.142Z,obix-driver-storage-persistence,0.5.0,obinexusltd,MIT,18761,OBIX Storage Persistence Driver - LocalStorage/IndexedDB wrapper for state caching
+2026-09-30T12:20:44.988Z,obix-runtime-reactivity,0.5.0,obinexusltd,MIT,93119,"The reactivity of OBIX's native runtime, its own: ref, computed, watch, effects with dependency tracking, batching, an ordered update queue and cleanup. No framework, no DOM. Phase 6 (docs/recovery/n…"
+2026-09-30T12:20:51.559Z,obix-cli-build,0.5.0,obinexusltd,MIT,228549,"OBIX CLI - Build tooling, schema validation, semantic version X management"
+2026-09-30T12:20:57.338Z,obix-compiler-ir,0.5.0,obinexusltd,MIT,354889,"The canonical DOP IR of OBIX: the strongly typed, frontend-neutral, plain-data representation every syntax frontend lowers into — component, props, state, derived values, actions, effects, element, t…"
+2026-09-30T12:21:07.439Z,obix-compiler-isomorphic,0.5.0,obinexusltd,MIT,29785,"Server-side rendering for OBIX: state -> render -> fudguard -> HTML string, with no DOM anywhere in the path, and a markup-equality handoff check."
+2026-09-30T12:21:12.727Z,obix-compiler-jsx,0.5.0,obinexusltd,MIT,48378,JSX as an authoring syntax for OBIX components: JSX builds VNodes (data); creating one never runs component code.
+2026-09-30T12:21:17.587Z,obix-compiler-legacy-parser,0.5.0,obinexusltd,MIT,80025,"LEGACY compatibility track (D-46): the Level-0 OBIX section scanner + strict OBIX template/script parser, frozen. Produces an AST that must pass obix-spec.validateObixAST(). Depends only on obix-spec…"
+2026-09-30T12:21:28.378Z,obix-compiler-parser,0.5.0,obinexusltd,MIT,93620,"The .obix VueTS parser: the OFFICIAL Vue SFC parser behind parseObix / parseVueReference, reporting OBIX diagnostics with stable codes and positions. Phase 1 of the VueTS compiler recovery (docs/reco…"
+2026-09-30T12:21:33.508Z,obix-compiler-styles,0.5.0,obinexusltd,MIT,20428,Scoped CSS transformation for OBIX. One canonical scope token (from obix-spec). Depends only on obix-spec.
+2026-09-30T12:21:39.067Z,obix-compiler-typescript,0.5.0,obinexusltd,MIT,96702,"The TypeScript phase of the .obix compiler: removes TypeScript from the code the script and template frontends generate — types, type-only imports, generics, and the TypeScript constructs that emit c…"
+2026-09-30T12:21:48.882Z,@runmu.sh/brand,0.1.0,bitmuse,MIT,11926,"The runmu.sh look, shared by every site that wears it: the colour and type tokens, the header and footer (SiteShell), and the CSS the shell needs. No API, no session, no router."
+2026-09-30T12:22:18.646Z,codepic,0.1.0,hamedniroomand,MIT,296685,Turn code into PNG or SVG images from the command line.
+2026-09-30T12:22:30.237Z,n8n-nodes-nextforms,1.0.1,nextforms,MIT,19543,"Nextforms for n8n: trigger a workflow from a form's Send to app step, and read forms and responses."
+2026-09-30T12:22:30.639Z,@kematzy/pi-model-prices,1.0.1,kematzy,MIT,115673,"Live OpenRouter, OpenCode Zen, and OpenCode Go model lists in pi"
+2026-09-30T12:23:09.054Z,webassetgenerator,0.1.0,baicore,MIT,42143,"Lightweight, config-driven CLI build tool for modern web projects."
+2026-09-30T12:23:20.869Z,@yopem-ui/cli,0.0.2,~karyanayandi,MIT,64412,CLI for installing Yopem UI source components and StyleX setup
+2026-09-30T12:23:23.066Z,@yopem-ui/oxlint-plugin,0.0.2,~karyanayandi,MIT,75336,Oxlint rules for Yopem UI projects
+2026-09-30T12:23:53.963Z,@codemerge/kernel,2.4.0,s00d,MIT,420304,Headless document / ops / selection model for CodeMerge editors
+2026-09-30T12:23:56.902Z,@codemerge/hunspell,2.4.0,s00d,MIT AND BSD-3-Clause,119401,In-house Hunspell .aff/.dic engine (check / suggest) for CodeMerge
+2026-09-30T12:24:01.461Z,@codemerge/sdk,2.4.0,s00d,MIT,647551,Plugin API and UI primitives for CodeMerge editors
+2026-09-30T12:24:04.721Z,@codemerge/collaboration-server,2.0.0,s00d,MIT,332400,"Authoritative WebSocket collaboration server for CodeMerge (ops op-log, presence, REST)"
+2026-09-30T12:24:16.905Z,@ruck-plugins/jet-plugin,1.2.2,jiahe,,63909,扫描本机已安装的 JetBrains IDE，聚合各 IDE 最近打开的项目，支持模糊搜索与一键启动
+2026-09-30T12:24:58.315Z,obix-component-alert,0.5.0,obinexusltd,MIT,23046,Compatibility name: obix-component-alert now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:25:01.55Z,@ortho-earth/tile-formats,0.1.0,kenji.yoshida.home.2026,GPL-3.0-or-later,30926,"Format plugins for @ortho-earth/core and @ortho-earth/globe: MLT (MapLibre Tile) as the ""mlt"" tile format on top of @maplibre/mlt, and LAZ point records for COPC point clouds on top of laz-perf — eac…"
+2026-09-30T12:25:08.965Z,react-native-flux-desktop,0.1.0,panjingyu-666,MIT,16651011,"Self-contained desktop render stack for React (winit + softbuffer + napi-rs, Skia via @napi-rs/canvas) with an antd-style component & chart library. Compiled distribution."
+2026-09-30T12:25:09.402Z,obix-component-button,0.5.0,obinexusltd,MIT,23278,Compatibility name: obix-component-button now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:25:19.412Z,obix-component-card,0.5.0,obinexusltd,MIT,23016,Compatibility name: obix-component-card now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:25:29.317Z,obix-component-checkbox,0.5.0,obinexusltd,MIT,23286,Compatibility name: obix-component-checkbox now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:25:30.398Z,@zortexhq/cli-darwin-arm64,0.1.75,ngsanchong,SEE LICENSE IN LICENSE,464772974,"Zortex keeps a **local, encrypted vault** of your own data and works it for you from the command line. Your vault is local and encrypted; nothing leaves your machine except content-free telemetry cou…"
+2026-09-30T12:25:39.438Z,obix-component-datepicker,0.5.0,obinexusltd,MIT,23400,Compatibility name: obix-component-datepicker now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:25:44.252Z,obix-component-dropdown,0.5.0,obinexusltd,MIT,23481,Compatibility name: obix-component-dropdown now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:25:52.911Z,opencode-model-cost,0.1.2,jp-embedded,MIT,13021,"Live per-model tokens, cost, and TPS in the OpenCode TUI sidebar - one line per model for the whole session tree."
+2026-09-30T12:25:54.539Z,obix-component-fileupload,0.5.0,obinexusltd,MIT,23486,Compatibility name: obix-component-fileupload now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:25:59.405Z,obix-component-form,0.5.0,obinexusltd,MIT,23035,Compatibility name: obix-component-form now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:26:05.075Z,obix-component-image,0.5.0,obinexusltd,MIT,23203,Compatibility name: obix-component-image now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:26:15.538Z,obix-component-input,0.5.0,obinexusltd,MIT,23248,Compatibility name: obix-component-input now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:26:25.748Z,obix-component-link,0.5.0,obinexusltd,MIT,23019,Compatibility name: obix-component-link now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:26:30.518Z,rise-typescript-sdk,2.0.0,naveenkmt32,ISC,321,R1S3 P0c
+2026-09-30T12:26:30.803Z,obix-component-loading,0.5.0,obinexusltd,MIT,23159,Compatibility name: obix-component-loading now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:26:41.558Z,obix-component-modal,0.5.0,obinexusltd,MIT,23162,Compatibility name: obix-component-modal now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:26:46.613Z,obix-component-progress,0.5.0,obinexusltd,MIT,23232,Compatibility name: obix-component-progress now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:26:56.457Z,obix-component-radiogroup,0.5.0,obinexusltd,MIT,23451,Compatibility name: obix-component-radiogroup now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:27:01.418Z,obix-component-runtime,0.5.0,obinexusltd,MIT,142539,Compatibility name: obix-component-runtime now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:27:06.07Z,obix-component-select,0.5.0,obinexusltd,MIT,23240,Compatibility name: obix-component-select now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:27:16.619Z,obix-component-textarea,0.5.0,obinexusltd,MIT,23343,Compatibility name: obix-component-textarea now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:27:21.654Z,obix-component-toast,0.5.0,obinexusltd,MIT,23103,Compatibility name: obix-component-toast now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:27:32.169Z,obix-component-tooltip,0.5.0,obinexusltd,MIT,23320,Compatibility name: obix-component-tooltip now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:27:42.525Z,obix-component-video,0.5.0,obinexusltd,MIT,23130,Compatibility name: obix-component-video now resolves to obix-core-component. Contains no logic of its own — import from obix-core-component in new code.
+2026-09-30T12:27:46.27Z,harpy-run,2.6.3,alicomert,MIT,3266209,"Self-hosted control plane for AI coding agents — web, mobile and desktop"
+2026-09-30T12:27:52.946Z,obix-core-diagnostics,0.5.0,obinexusltd,MIT,48034,"Stable compatibility errors, human (stderr) and single-document JSON (stdout) reporters, and an injection-based doctor runner for the OBIX CLI."
+2026-09-30T12:27:58.742Z,obix-core-filesystem,0.5.0,obinexusltd,MIT,69392,"Project-root path resolution, byte/text reads, serialized safe writes and normalized watch invalidations with a polling fallback."
+2026-09-30T12:28:04.377Z,obix-core-ir,0.5.0,obinexusltd,MIT,37226,Canonical DOP artifact construction and the shared adapter execution primitive applyAction(). Depends only on obix-spec.
+2026-09-30T12:28:38.214Z,ibkr-tws-test-server,0.1.0,anatolyb,MIT,259572,"A local test server for the Interactive Brokers TWS API socket protocol, for testing trading programs: contracts, historical bars, market data, accounts, positions and the order lifecycle"
+2026-09-30T12:28:42.847Z,dsh-plugin-pet-theme,0.2.0,tingyu0516,MIT,146026640,"DSH character companion plugin: Hu Tao & Furina desktop pets plus the character theme (wallpaper, colors, appearance) in one installable package"
+2026-09-30T12:28:54.815Z,@maxanstey-meridian/tandem-studio,0.1.0,maxanstey,MIT,172620,Local TypeScript pipeline viewer and source editor for Tandem
+2026-09-30T12:29:29.181Z,@reekeer/unbundle,0.1.1,delewer,MIT,5248637,Recover readable client-side source code from a deployed website
+2026-09-30T12:29:56.888Z,senset-gptom-plugin,1.0.0,info.senset,,118462,GP Tom NFC card payment plugin for Senset Driver
+2026-09-30T12:30:19.979Z,mailrambo,0.1.0,humblepoc,MIT,14543,"Official Node.js client for the MailRambo email verification API - strict yes/no deliverability, disposable and catch-all detection."
+2026-09-30T12:30:29.41Z,talktrack,0.0.0,jmearman,,68,
+2026-09-30T12:30:39.13Z,playwright-talktrack,0.0.0,jmearman,,79,
+2026-09-30T12:31:23.418Z,obix-core-modules,0.5.0,obinexusltd,MIT,60124,"Host-delegating module resolution and loading, asset URL resolution and installed package-set validation for the OBIX CLI."
+2026-09-30T12:31:26.718Z,whatsapp-sdk-js,0.1.0-alpha.1,izurii,SEE LICENSE IN LICENSE FILE,210755,"SDK for interfacing with WhatsApp Business Platform in Typescript or Node.js using the Cloud API, hosted by Meta."
+2026-09-30T12:31:50.805Z,dsh-web-tinyfish,1.0.1,crackedopal,MIT,50177,"TinyFish search and fetch providers for DeepSeek Harness (dsh), backing the built-in web_search and web_fetch tools."
+2026-09-30T12:32:06.573Z,@vality/tsthrift,0.1.0,krickray,Apache-2.0,260611,"Thrift client, transport, and runtime for TypeScript and the web."
+2026-09-30T12:32:08.668Z,@vality/tsthrift-angular,0.1.0,krickray,Apache-2.0,69004,"Angular dependency injection, providers, and RxJS integration for tsthrift."
+2026-09-30T12:32:11.121Z,@vality/tsthrift-cli,0.1.0,krickray,Apache-2.0,189717,Thrift TypeScript model and metadata compiler CLI.
+2026-09-30T12:32:34.457Z,obix-core-native,0.5.0,obinexusltd,MIT,68799,"TypeScript native-provider registry, platform/ABI selection, lazy loading and managed handles. Node-API preferred; FFI opt-in and version-gated."
+2026-09-30T12:32:39.416Z,obix-core-process,0.5.0,obinexusltd,MIT,74522,"Tool resolution and shell-free asynchronous spawn with AbortSignal, timeout, drained bounded output and owned-child cleanup."
+2026-09-30T12:32:44.625Z,obix-core-scheduler,0.5.0,obinexusltd,MIT,90240,"Injected monotonic clock, opaque timer tokens, cancellation/disposal and interval-overrun policy. Bridges the frozen OBIX Timer contract."
+2026-09-30T12:32:49.901Z,obix-core-state-minimizer,0.5.0,obinexusltd,MIT,178769,"Automaton state minimizer for OBIX — partition-refinement FSM minimization, AST optimization, and Unicode structural normalization (USCN)."
+2026-09-30T12:33:04.215Z,obix-core-streams,0.5.0,obinexusltd,MIT,55052,"Web Streams + Uint8Array byte boundary with Node adapters: backpressure, streaming UTF-8 decode, abort/error propagation and lock/close ownership."
+2026-09-30T12:33:15.691Z,obix-driver-dom,0.5.0,obinexusltd,MIT,235879,"The OBIX browser driver: mount / update / unmount with keyed DOM morphing and delegated events, plus the small binding helpers (bindText, bindAttr, …). No business logic, no VDOM, no router, no store…"
+2026-09-30T12:33:27.908Z,obix-runtime-dom,0.5.0,obinexusltd,MIT,38893,"The DOM of OBIX's native runtime: the rules by which a value of the canonical IR becomes an attribute and becomes text, and the host operations the runtime builds and updates a page with — HTML's rul…"
+2026-09-30T12:33:27.923Z,@maxanstey-meridian/tandem-packets,0.1.0,maxanstey,MIT,11116,Typed Markdown and YAML packet file parsing for Tandem applications
+2026-09-30T12:33:34.597Z,obix-sdk-core,0.5.0,obinexusltd,MIT,10828,Compatibility name: obix-sdk-core now resolves to obix-core-runtime. Contains no logic of its own — import from obix-core-runtime in new code.
+2026-09-30T12:33:45.225Z,obix-binding-jsx,0.5.0,obinexusltd,MIT,148783,"JSX factory (h / Fragment) and the JSX integration layer (functional, OOP, reactive bridges and mount) for OBIX components. No React, no virtual DOM."
+2026-09-30T12:33:56.463Z,obix-compiler-legacy-template,0.5.0,obinexusltd,MIT,25284,"LEGACY compatibility track (D-46): pure semantic template analysis for the Level-0 OBIX grammar: binding + event descriptor construction and dependency extraction. No JS parsing, no DOM. Depends only…"
+2026-09-30T12:34:03.274Z,obix-compiler-react,0.5.0,obinexusltd,MIT,869516,"The React frontend of the OBIX compiler: React / TSX source lowered — read with the TypeScript compiler API, never by running React — into the canonical, frontend-neutral OBIX DOP IR of obix-compiler…"
+2026-09-30T12:34:08.339Z,obix-compiler-sfc,0.5.0,obinexusltd,MIT,59914,"The canonical SFC boundary of the .obix VueTS compiler: one Vue-independent, frozen representation of template / script / script setup / style / custom blocks (lang, src, scoped, module, attributes,…"
+2026-09-30T12:34:19.144Z,obix-compiler-validator,0.5.0,obinexusltd,MIT,33218,OBIX validation + the INDEPENDENT reference evaluator (referenceFold). Imports NO adapter. Depends on obix-spec and obix-ir only.
+2026-09-30T12:34:29.516Z,obix-core-state,0.5.0,obinexusltd,MIT,72791,OBIX State - State machine minimization (automata-based state management)
+2026-09-30T12:34:39.825Z,obix-core-web,0.5.0,obinexusltd,MIT,73493,Portable host contracts with explicit /dom and /server boundaries around the existing OBIX renderer. No DOM access from the portable root.
+2026-09-30T12:34:50.114Z,obix-core-workers,0.5.0,obinexusltd,MIT,98497,"Bounded worker pool and a versioned serializable job protocol (job id + module ref + action ref + data). Copy by default, explicit transfer."
+2026-09-30T12:34:55.878Z,obix-runtime-component,0.5.0,obinexusltd,MIT,341946,"The components of OBIX's native runtime: it reads canonical DOP IR (obix-dop-ir/3) as plain data and runs it — props, state, derived values, actions, effects, the view — building and updating the DOM…"
+2026-09-30T12:35:00.986Z,obix-compiler-a11y,0.5.0,obinexusltd,MIT,32706,Compile-time accessibility analysis for OBIX. A MANDATORY dependency of obix-compiler — there is no --no-a11y mode. Depends on obix-spec and obix-template.
+2026-09-30T12:35:07.104Z,obix-compiler-script,0.5.0,obinexusltd,MIT,202036,The Vue script frontend of the .obix compiler: compiles the normal <script> (JavaScript or TypeScript) of a canonical SFC with the OFFICIAL Vue script compiler (@vue/compiler-sfc compileScript) into…
+2026-09-30T12:35:07.317Z,ss-geodata-mcp,0.1.0,lasrod,MIT,494529,"Lets an MCP host (Claude Desktop, Claude Code, Cursor, …) drive the ss-geodata 3D viewer of Japan open in your browser."
+2026-09-30T12:35:17.465Z,obix-compiler-template,0.5.0,obinexusltd,MIT,201077,The Vue template frontend of the .obix compiler: compiles the <template> of a canonical SFC with the OFFICIAL Vue DOM compiler (@vue/compiler-dom) into a typed frontend artifact — Vue's template AST…
+2026-09-30T12:35:27.667Z,obix-jsx-adapter,0.5.0,obinexusltd,MIT,10061,Compatibility name: obix-jsx-adapter now resolves to obix-binding-jsx. Contains no logic of its own — import from obix-binding-jsx in new code.
+2026-09-30T12:35:32.812Z,obix-jsx-components,0.5.0,obinexusltd,MIT,37453,Compatibility name: obix-jsx-components now resolves to obix-binding-jsx. Contains no logic of its own — import from obix-binding-jsx in new code.
+2026-09-30T12:35:37.773Z,obix-jsx-integration,0.5.0,obinexusltd,MIT,10955,Compatibility name: obix-jsx-integration now resolves to obix-binding-jsx. Contains no logic of its own — import from obix-binding-jsx in new code.
+2026-09-30T12:35:48.661Z,obix-runtime-browser,0.5.0,obinexusltd,MIT,27270,"The browser entry of OBIX's native runtime: createObixApp(ir, options) makes an application of a root component of canonical DOP IR, and mounts it in a page. No Vue, no React. Phase 6 (docs/recovery/…"
+2026-09-30T12:35:59.237Z,@zortexhq/cli-darwin-x64,0.1.75,ngsanchong,SEE LICENSE IN LICENSE,464772964,"Zortex keeps a **local, encrypted vault** of your own data and works it for you from the command line. Your vault is local and encrypted; nothing leaves your machine except content-free telemetry cou…"
+2026-09-30T12:36:25.144Z,@circle-fin/borrow-kit,0.0.0,circle-npm-ci,,3646826,SDK for Circle Borrow Kit operations
+2026-09-30T12:36:25.67Z,@circle-fin/provider-borrow-service,0.0.0,circle-npm-ci,,2223936,Provider for BorrowKit's Circle-hosted lending backend
+2026-09-30T12:36:40.775Z,sanescript,0.0.0,wan9chi,MIT,1189,
+2026-09-30T12:38:48.523Z,@redocly/vite,8.3.1,romanhotsiy,MIT,2393320,Vite with full bundle mode in SSR (vitejs/vite#21626) — temporary Redocly fork of vite@8.3.1
+2026-09-30T12:39:57.844Z,@metamask-previews/watch-only-keyring,0.1.0-a1e782a,metamaskbot,ISC,7080,"A watch-only keyring that holds accounts imported by address, without any signing capability"
+2026-09-30T12:40:27.251Z,@oruclick/header-popup,1.0.1,oruclick,,21267,Shared header popup component
+2026-09-30T12:41:12.037Z,@barocss/render,0.12.0-rc.0,easylogic,MIT,19704,Experimental React renderer for validated BaroCSS profile-form screen specs
+2026-09-30T12:42:04.658Z,@prompteden/mcp-server,0.3.0,chartingalpha,MIT,799716,"Stdio MCP server for PromptEden projects, monitors, captured answers, and analytics."
+2026-09-30T12:43:15.096Z,@coachlogic/agenttrace,0.1.1,coachlogic,MIT,3038145,Local process discovery for AI coding agents
+2026-09-30T12:43:19.847Z,@hellgato/core,0.0.1-beta,restarea,MIT,81203,Node.js bridge for Stream Deck network input and display events
+2026-09-30T12:44:01.278Z,@karlangas12/mcp-auth-kit,1.0.0,karlangas12,MIT,68068,"Drop-in OAuthClientProvider wrapper for @modelcontextprotocol/sdk that fixes proactive token refresh, dynamic client registration retry, and trailing-slash resource normalization bugs seen across rea…"
+2026-09-30T12:44:05.623Z,@bd777/foundry-protocol,0.4.0,bd777,Apache-2.0,168264,
+2026-09-30T12:44:16.149Z,hellgato,0.0.1-beta,restarea,MIT,3054,Stream Deck network bridge for third-party hardware
+2026-09-30T12:44:30.681Z,@init-computer/sdk,0.1.3,wynterp,UNLICENSED,11571,"Official SDK for Init. Generate, deploy, and run backend endpoints in seconds, with compute, storage, and database included."
+2026-09-30T12:44:40.054Z,@init-computer/cli,0.1.3,wynterp,UNLICENSED,23504,"Official CLI for Init. Generate, deploy, and run backend endpoints from your terminal in seconds."
+2026-09-30T12:44:59.978Z,@bd777/foundry-worker,0.4.0,bd777,Apache-2.0,819760,Local Foundry worker daemon and workspace CLI
+2026-09-30T12:45:39.486Z,shareable-codes,1.0.0,ksilvennoinen,MIT,14272,Human-shareable codes: Crockford's Base32 idea with zBase32 alphabet order and a Damm checksum digit
+2026-09-30T12:45:59.136Z,@whitekiwi/tokens,0.1.0,whitekiwi,MIT,9185,PIP semantic design tokens for WhiteKiwi interfaces
+2026-09-30T12:46:01.281Z,@init-computer/mcp,0.1.0,wynterp,UNLICENSED,6893,MCP server for Init generated backend APIs.
+2026-09-30T12:46:05.735Z,@just1arale/queerworld-icons,1.0.0,just1arale,ISC,526,
+2026-09-30T12:46:26.621Z,@snorfyang/pi-switch,0.0.1,snorfyang,MIT,33523,Pi extension: keep multiple API keys per provider and switch automatically when one runs out of quota or hits its rate limit. DeepSeek for now.
+2026-09-30T12:47:04.702Z,@dzbuild/docs-mcp,0.1.0,dzbuild,MIT,509367,"MCP server that gives coding agents the DZBuild developer docs, API operations and examples over stdio."
+2026-09-30T12:47:24.595Z,obix-compiler-script-setup,0.5.0,obinexusltd,MIT,83687,"The <script setup> frontend of the .obix compiler: compiles the <script setup> (with any normal <script> it is merged with) of a canonical SFC with the OFFICIAL Vue script compiler — defineProps, def…"
+2026-09-30T12:47:34.176Z,pi-deepseek-cny,0.1.0,yangzhan,MIT,36062,为 DeepSeek 用户优化的 Pi 扩展包：人民币峰谷计价的 footer 状态行
+2026-09-30T12:48:11.278Z,@lookuptax/sdk,1.0.0,aruntk,MIT,50356,"Official LookupTax SDK — validate tax IDs (VAT, EIN, GSTIN, ABN…) against government registries."
+2026-09-30T12:48:55.397Z,@christianmoesl/pi-radar,0.1.0,christianmoesl,MIT,83133,Radar workspace tools and context for Pi coding agent
+2026-09-30T12:49:34.67Z,@little-nebulae/object-types,0.1.0,ryanluong,MIT,19018,
+2026-09-30T12:50:36.578Z,@rickvm/contact-client,0.1.0-alpha.0,rickvm,MIT,24433,Browser contact form controller for RickVM's contact service
+2026-09-30T12:50:42.117Z,@codua/codeoutline-win32-x64,0.1.0,codua,BSD-2-Clause,2606573,CodeOutline native runtime and Lua implementation for win32-x64
+2026-09-30T12:50:51.186Z,@lyln/lpm2,0.1.0,lyln,MIT,19609,"PM2 without the Windows named-pipe collision: per-instance IPC namespaces, no unhandled-EPERM crash, zero dependencies."
+2026-09-30T12:51:01.609Z,@codua/codeoutline-linux-x64,0.1.0,codua,BSD-2-Clause,2737636,CodeOutline native runtime and Lua implementation for linux-x64
+2026-09-30T12:51:12.291Z,@codua/codeoutline-darwin-universal,0.1.0,codua,BSD-2-Clause,4866537,CodeOutline native runtime and Lua implementation for darwin-universal
+2026-09-30T12:51:23.193Z,codeoutline,0.1.0,codua,BSD-2-Clause,26701,"MCP server for code exploration: symbols, line-numbered source and call paths"
+2026-09-30T12:51:44.493Z,@yangxj96/spring-vue-stack,1.2.0,yangxj96,MIT,259994,Portable Agent Skills package and scaffolder for Spring Boot 4 + Vue 3 projects.
+2026-09-30T12:51:49.992Z,reviewfixloop,0.0.1,exkazuu,Apache-2.0,632,ReviewFixLoop: multiple AI reviewers and your coding agent iterate on a pull request until no findings are left.
+2026-09-30T12:51:51.823Z,reviewer-protocol,0.0.1,exkazuu,Apache-2.0,674,"Reviewer Protocol: the protocol, manifest format, and TypeScript SDK for connecting reviewer harnesses to review orchestrators."
+2026-09-30T12:52:38.909Z,@opositatest/swimlane-mcp,0.0.1,alfonso_dev,MIT,40791,Unofficial read-only MCP server for KanbanFlow: list a person's tasks across all your boards from any MCP client. Not affiliated with KanbanFlow.
+2026-09-30T12:53:02.651Z,@unschema-graph/core,0.1.0,johanldx,MIT,1745714,"Framework-independent Schema.org JSON-LD builders, graph resolution, safe serialization, and static HTML auditing."
+2026-09-30T12:53:07.365Z,@unschema-graph/astro,0.1.0,johanldx,MIT,47511,"Astro integration, Schema component, content helpers, and dev toolbar for unschema-graph."
+2026-09-30T12:53:17.034Z,@unschema-graph/svelte,0.1.0,johanldx,MIT,7257,Svelte 5 Schema component and full unschema-graph core tooling for Svelte and SvelteKit.
+2026-09-30T12:53:39.389Z,@browzwork/agent,0.1.4,hamivo,UNLICENSED,38152,BrowzWork local Agent launcher
+2026-09-30T12:53:51.137Z,dsh-true-delete,0.2.0,eviancat,MIT,77011,"DSH plugin: delete an archived session's local files — transcript, projection cache, and its subagent sessions — after a two-step confirmation."
+2026-09-30T12:54:25.864Z,@qwenzy/codebase-health,2.0.0,qwenzy,MIT,500637,"Language-agnostic agent skills for keeping codebases healthy — audit structure, execute refactoring, prevent decay, and enforce clean code design."
+2026-09-30T12:55:57.388Z,@maptoolkit/maplibre-legend-control,1.0.0,muesliq,BSD-3-Clause,333787,A MapLibre GL JS control plugin that shows a legend of the map features currently visible in the viewport.
+2026-09-30T12:57:01.36Z,n8n-nodes-mailrambo,0.1.0,humblepoc,MIT,18126,"n8n node for MailRambo: strict yes/no email verification with reason codes (disposable, catch-all, mailbox not found) for lead lists and signups."
+2026-09-30T12:57:11.43Z,@falling-ts/dsh-start-command,0.1.0,yuanshang,MIT,60582,"DSH Cordis plugin: runs one configured shell command in the session's working directory before the first model request of a turn, but only when the user submits a prompt while no other agent is runni…"
+2026-09-30T12:57:16.039Z,@hilbras/code-cli,0.1.0,lacrous,MIT,29440,"The Hilbras Code terminal agent — one session, every surface. Speaks the Hilbras agent protocol to a Kernel server."
+2026-09-30T12:57:36.673Z,htmlhost-mcp,1.0.0,taikuun,MIT,24250,"MCP server for htmlhost.co — deploy, list, and manage sites from AI coding tools"
+2026-09-30T12:58:17.413Z,somora,2026.930.1,somora,MIT,19633819,"A self-hosted multi-agent harness: your agents, your models, one server — with memory, a shared wiki, a web desktop, a phone app and a terminal client."
+2026-09-30T12:58:23.214Z,@move-elevator/website-base-scss,0.1.0,mainbird,MIT,28290,"Shared SCSS foundation: design tokens, tools and base styles for website projects."
+2026-09-30T12:58:24.469Z,@myanlex/types,0.1.0-beta.0,mixin27,MIT,7771,Shared domain types for MyanLex
+2026-09-30T12:58:24.615Z,@whitekiwi/ui,0.1.0,whitekiwi,MIT,22586,PIP React components and styles for WhiteKiwi interfaces
+2026-09-30T12:58:34.009Z,@myanlex/core,0.0.0-stage,mixin27,,335,Temporary package placeholder for staged publishing
+2026-09-30T12:58:34.425Z,@munchi_oy/license-sdk,0.1.0,vnqt24,,19509,Client for the Munchi license service: cached entitlements and feature checks per venue
+2026-09-30T12:58:35.822Z,@hwayn/dsh-copilot,0.1.0,hwayn,MIT,69696,"A co-pilot for your DSH agent's instructions: read the system prompt as sections, write your own house rules into it, spot what repeats or contradicts, keep a logbook of every change - and roll it al…"
+2026-09-30T12:58:57.237Z,@myanlex/application,0.1.0-beta.0,mixin27,MIT,18299,Framework-independent MyanLex application services
+2026-09-30T12:59:17.017Z,@myanlex/sdk,0.1.0-beta.0,mixin27,MIT,20705,Typed HTTP client for the MyanLex language API
+2026-09-30T13:00:12.953Z,dsh-longtext-input,1.0.0,levodoubt,MIT,58635,DeepSeek Harness 长文本输入插件：在输入框工具栏加一个「长文本」按钮，弹出编辑器，保存后把正文写入工作区 .dsh-longtext/ 下的 md 文件，并把 @ 引用注入输入框。用于超长粘贴（报错日志、会议记录、文档）而不让聊天界面变乱。
+2026-09-30T13:00:49.954Z,@mimlet/core,0.1.0-alpha.0,jeffreynijs,MIT,94318,Schema-independent immutable test-data builders with Standard Schema validation.
+2026-09-30T13:00:56.55Z,node-red-contrib-osyshome,0.0.0-stage,anisan,,347,Temporary package placeholder for staged publishing
+2026-09-30T13:00:59.571Z,remiho-klubik-cyber-components,0.1.0,bob.cermak,,516636,"CyberGrid - cyberpunková knihovna komponent pro energetický dashboard (React + styled-components, light/dark, container queries)."
+2026-09-30T13:01:45.765Z,dsh-rail-zero,0.1.0,zfgcta,MIT,12852,"DSH web plugin: zero the collapsed left sidebar's 56px rail and get a working expand control - prefers dsh-qol's hamburger, falls back to the official toggle, then to a tiny floating button."
+2026-09-30T13:02:34.726Z,@harpy-run/harpy,2.6.3,alicomert,MIT,3266244,"Self-hosted control plane for AI coding agents — web, mobile and desktop"
+2026-09-30T13:02:51.045Z,@graphysdk/geom-candlestick,0.1.0,canastro,SEE LICENSE IN LICENSE.md,47932,Candlestick geom for the Graphy charting SDK (beta)
+2026-09-30T13:02:53.98Z,pi-edgee,0.1.0,kokakiwi,Apache-2.0,92691,"Connects pi to the Edgee Agent Gateway: an edgee provider with /login, a footer statusline and session metadata"
+2026-09-30T13:03:03.51Z,@graphysdk/geom-dumbbell,0.1.0,canastro,SEE LICENSE IN LICENSE.md,45755,Dumbbell geom for the Graphy charting SDK (beta)
+2026-09-30T13:03:23.37Z,crazylizenz,1.0.0,thewhiteman.1,MIT,113655,"Lizenzschlüssel ausstellen und prüfen — ein fertiger Lizenzserver zum Selbsthosten, ohne Shop und ohne Datenbank."
+2026-09-30T13:03:31.369Z,@graphysdk/geom-lollipop,0.1.0,canastro,SEE LICENSE IN LICENSE.md,44070,Lollipop geom for the Graphy charting SDK (beta)
+2026-09-30T13:03:43.236Z,@timecount/markdown,0.1.0,ascyltos,UNLICENSED,28275,"The markdown and lesson parser of the Timecount apps (GFM + LiaScript subset, sanitized HTML blocks) — also validates academy courses and handbook pages in the knowledge repo"
+2026-09-30T13:04:45.76Z,@10x-media/content-lock,0.1.0-beta.0,10xmedia-org,MIT,500627,"Planned and unplanned maintenance windows that freeze Payload content: 503 on every write channel, read-only admin, localized banners."
+2026-09-30T13:05:07.474Z,obix-core-data,0.5.0,obinexusltd,MIT,18503,"OBIX Data projection — identity over the DOP artifact. The caller explicitly owns state, payload and props. Depends on obix-core-spec and obix-core-ir."
+2026-09-30T13:05:36.33Z,@pitch-product/cli,0.1.0,kazkato91,,996289,"pitch: deploy a working demo to Pitch Product, rehearsed on your machine first, and send each viewer their own link."
+2026-09-30T13:06:26.367Z,@mimlet/adapter,0.1.0-alpha.0,jeffreynijs,MIT,19016,"Capability-aware adapter SDK, inspection and reusable conformance checks for test builders."
+2026-09-30T13:06:29.191Z,@mimlet/json-schema,0.1.0-alpha.0,jeffreynijs,MIT,54168,"Offline, validated, reproducible JSON Schema fixture generation with Standard Schema interoperability."
+2026-09-30T13:06:40.106Z,@mimlet/api,0.1.0-alpha.0,jeffreynijs,MIT,106326,Offline OpenAPI operation fixtures with direction-aware schemas and explicit HTTP serialization.
+2026-09-30T13:06:44.326Z,@mimlet/avro,0.1.0-alpha.0,jeffreynijs,MIT,36304,"Native Avro fixtures, explicit unions and lossless bigint binary codecs."
+2026-09-30T13:06:47.909Z,@mimlet/codegen,0.1.0-alpha.0,jeffreynijs,MIT,34195,"Deterministic schema-independent builder classes, owned output and CLI."
+2026-09-30T13:06:51.609Z,@mimlet/consumers,0.1.0-alpha.0,jeffreynijs,MIT,11938,"Explicit fixture loaders, Fetch mock responses and transactional batch handoff."
+2026-09-30T13:06:56.117Z,@mimlet/effect,0.1.0-alpha.0,jeffreynijs,MIT,11925,Native schema fixtures preserving input/output semantics and builder capabilities.
+2026-09-30T13:07:11.768Z,@mimlet/faker,0.1.0-alpha.0,jeffreynijs,MIT,11616,Locale-aware realistic fixtures with session-owned randomness and reference time.
+2026-09-30T13:07:16.889Z,@mimlet/fast-check,0.1.0-alpha.0,jeffreynijs,MIT,20291,"Shrink-aware fixture mapping, correlated scenarios, and replay with fast-check."
+2026-09-30T13:07:17.421Z,icyzip-e2ee-review,0.4.0,icyzip,Apache-2.0,159512,Reviewable IcyZip authenticated browser E2EE protocol v3 and standalone tests.
+2026-09-30T13:07:28.08Z,repo-aeo,0.2.0,whitebite,MIT,198939,"Audit and improve repository discoverability: GitHub metadata and topics, README structure, AGENTS.md, npm package surface, llms.txt and structured data."
+2026-09-30T13:07:45.556Z,@mimlet/graphql,0.0.0-stage,jeffreynijs,,337,Temporary package placeholder for staged publishing
+2026-09-30T13:07:55.231Z,@mimlet/playground,0.1.0-alpha.0,jeffreynijs,MIT,50753,Local-only schema playground with interruptible data-only fixture generation.
+2026-09-30T13:08:11.043Z,@mimlet/protobuf,0.1.0-alpha.0,jeffreynijs,MIT,39574,"Lossless native Protobuf fixture generation, verification and binary codecs with offline schema resolution."
+2026-09-30T13:08:13.397Z,@mimlet/typebox,0.1.0-alpha.0,jeffreynijs,MIT,17540,"Native typebox fixtures, strict validation and codecs for Mimlet."
+2026-09-30T13:08:15.566Z,@mimlet/typebox-legacy,0.1.0-alpha.0,jeffreynijs,MIT,16582,"Native @sinclair/typebox fixtures, strict validation and codecs for Mimlet."
+2026-09-30T13:08:18.064Z,@mimlet/valibot,0.1.0-alpha.0,jeffreynijs,MIT,7114,Native schema fixtures preserving input/output semantics and builder capabilities.
+2026-09-30T13:09:00.087Z,ai-aleks-tool,1.0.0,oleksandr_dev,MIT,49181,Distributes and synchronizes OpenSpec skills and commands into a project
+2026-09-30T13:10:43.855Z,holocore-ui,0.1.0-rc.1,antonio-molina-santos,MIT,64848,"A holographic orb for AI and voice agents (a zero-dependency Canvas 2D mode and a full WebGL mode), and the Antonio Molina brand tokens."
+2026-09-30T13:11:03.083Z,sveast,0.0.0,metonym,MIT,1412,"Placeholder package reserving the ""sveast"" name."
+2026-09-30T13:11:33.744Z,react-device-frameset-recent-models,1.4.0,mdmourao,MIT,260911,"React device frameset component with recent models (iPhone 17, iPhone Duo). Fork of react-device-frameset."
