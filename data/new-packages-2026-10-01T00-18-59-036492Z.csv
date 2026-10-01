@@ -1,0 +1,98 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-09-30T23:16:12.331Z,@privanet/protocol,0.3.0-alpha.5,doopydoop364,Apache-2.0,61688,"PrivaNet wire protocol: strict Zod schemas, the job-type registry and protocol version 1."
+2026-09-30T23:16:21.787Z,@privanet/shared,0.3.0-alpha.5,doopydoop364,Apache-2.0,20988,"PrivaNet shared client internals: bounded HTTPS/loopback transport, identity helpers and secret handling. Used by @privanet/sdk."
+2026-09-30T23:16:23.809Z,@privanet/sdk,0.3.0-alpha.5,doopydoop364,Apache-2.0,19563,PrivaNet application SDK: submit typed jobs to a PrivaNet Coordinator and wait for validated results.
+2026-09-30T23:18:45.285Z,@phatjng/graft-server,0.1.0,phatjng,MIT,12544,Graft's server runtime: web-standard request handling and SSR
+2026-09-30T23:19:12.448Z,@blackswampai/n8n-nodes-emdash,0.1.1,christopherjnelson,MIT,705944,n8n community node integration for EmDash CMS
+2026-09-30T23:19:54.229Z,stripe-test-server,0.1.0,anatolyb,MIT,879038,"A local test server for Stripe Billing: customers, prices, Checkout, subscriptions, schedules, invoices, the customer portal, test clocks and signed webhooks, for testing with the official stripe SDK"
+2026-09-30T23:20:43.692Z,@cartaforge/core,0.1.1,iamzapata,MIT,348758,"Carta Web Components — <carta-menu>, layouts, router, gestures, and accessible interactions."
+2026-09-30T23:20:51.494Z,peer-ai-workflow,1.0.0-next.0,abumahir980,MIT,184157,"Peer AI's workflow vocabulary, and the schemas for peer-ai.config.json and project state"
+2026-09-30T23:21:07.605Z,peer-ai-standards,1.0.0-next.0,abumahir980,MIT,282132,"Peer AI's engineering standards: 197 rules for every project, and stack profiles with the tools that enforce them"
+2026-09-30T23:21:25.526Z,peer-ai-skills,1.0.0-next.0,abumahir980,MIT,361353,"Peer AI's skills, in the Agent Skills format: each one does the work and proves what it checked"
+2026-09-30T23:21:40.785Z,peer-ai-eslint-config,1.0.0-next.0,abumahir980,MIT,18031,ESLint settings for the stack profiles a project lists in peer-ai.config.json
+2026-09-30T23:21:41.336Z,@emmabyte-eng/accessibility,0.1.0,emma.long,MIT,108230,Drop-in accessibility preferences widget for any web application
+2026-09-30T23:21:57.497Z,peer-ai,1.0.0-next.0,abumahir980,MIT,302900,"Keeps AI coding tools to a senior team's standard: planning, testing, security and compliance, with proof of every check"
+2026-09-30T23:22:08.472Z,@cartaforge/tokens,0.1.1,iamzapata,MIT,150180,"Carta design tokens — derive a complete, contrast-safe theme from a few brand seeds."
+2026-09-30T23:22:14.327Z,@cartaforge/phone-frame,0.1.1,iamzapata,MIT,26084,Installable React phone frame for previewing Carta menus.
+2026-09-30T23:22:14.377Z,@cartaforge/schema,0.1.1,iamzapata,MIT,120687,"The Carta menu data contract — runtime validation (Valibot), inferred TypeScript types, and JSON Schema."
+2026-09-30T23:24:58.002Z,@naotomo25/yukios-single-html,1.0.0,naotomo25,,25729136,
+2026-09-30T23:25:52.799Z,dsh-tinyfish,0.2.0,viztor,MIT,82961,"TinyFish-backed search and fetch providers for the DeepSeek Harness web capability seam (ctx.web) — $0 SERP and page extraction, direct or via Monid."
+2026-09-30T23:26:32.913Z,@yuchaocheng/yusijia,0.1.0-beta.1,yuchaocheng,UNLICENSED,137910,"Family content CLI and Agent Skill for photos, albums, timelines and diaries"
+2026-09-30T23:26:42.718Z,rainwind-snow,1.0.0,rrjj39322,ISC,93521573,
+2026-09-30T23:27:32.571Z,acoustic-room-mode-radar,1.0.0,datutu,MIT,45013,"Model Context Protocol (MCP) server for room acoustics engineering: Room modes (Axial, Tangential, Oblique), Bonello & Bolt criteria compliance, Schroeder cutoff frequency, Sabine & Norris-Eyring RT6…"
+2026-09-30T23:28:08.745Z,tabfarm,0.0.0,spooon,,111,Placeholder for Tab Farm. Not ready for use.
+2026-09-30T23:28:31.637Z,@echothread/mcp,0.1.0,agentdraft,MIT,12758,"MCP server for EchoThread: read and moderate your site's comments from Claude, ChatGPT or any MCP client."
+2026-09-30T23:28:32.208Z,@echothread/n8n-nodes-echothread,0.1.0,agentdraft,MIT,14799,"n8n nodes for EchoThread: start workflows on new comments, and approve, reject, mark spam or reply."
+2026-09-30T23:28:47.265Z,pi-skill-picker-jev,0.1.1,championswimmer,MIT,84029,Keep Pi's skill catalog out of context until Jev selects relevant skills
+2026-09-30T23:29:44.362Z,@missing-elements/h5p-cmi5,0.1.0,alekswebnet,MIT,28217,"cmi5 for h5p-offline-player: turns a page holding <h5p-player> into a cmi5 assignable unit. Launch handshake, statements to the LMS's LRS with the build's revision, passed or failed by the mastery sc…"
+2026-09-30T23:30:18.459Z,@tessellatepos/plugin-sdk,0.0.1-alpha,travisfriesen,Apache-2.0,23597,Curated contract surface for Tessellate POS plugins (client + server).
+2026-09-30T23:30:31.404Z,revenuedot,0.1.0,shadowwalker2014,MIT,97656,"RevenueDot CLI: move a project from RevenueCat to RevenueDot (catalog, customers, subscriptions, purchases) and verify the result."
+2026-09-30T23:30:33.088Z,@revenuedot/mcp,0.1.0,shadowwalker2014,MIT,43574,"MCP server for RevenueDot, the open-source subscription backend that works with the RevenueCat SDK. Manage products, entitlements, offerings, customers and webhooks from Claude, ChatGPT, Cursor and o…"
+2026-09-30T23:30:43.307Z,@castiron/eslint-config-react,0.1.0-alpha.0,jen-castiron,MIT,4368,ESLint configuration for Cast Iron Coding React + TypeScript projects
+2026-09-30T23:30:48.147Z,@cubertimer/scrambler,0.1.0,raph4-lsk,MIT,48692,"Random state scrambles for speedcubing puzzles, following the WCA method. Pure TypeScript, no dependency, works in React Native."
+2026-09-30T23:32:07.651Z,@synthetic-ai/illustrator-mcp,0.4.0,synthetic-ai,UNLICENSED,345293,"Control Adobe Illustrator with AI tools via MCP — 136 tools covering documents, layers, items, paths, shapes, text, color/gradients/patterns, symbols, clipping masks, brushes, align/distribute, 92 li…"
+2026-09-30T23:32:15.034Z,@usejomo/sdk,0.1.0,modecodes,MIT,789193,"The privacy layer for Robinhood Chain: private transactions for ETH and any token, from any app or agent. ERC-5564 stealth addresses, encrypted memos, scanning and stealth spending."
+2026-09-30T23:32:40.956Z,@usejomo/mcp,0.1.0,modecodes,MIT,14808,"JOMO's privacy layer as MCP tools: private transactions on Robinhood Chain from Claude, OpenAI, Antigravity or any MCP client, approved by you or by limits you set for an autonomous agent."
+2026-09-30T23:33:31.64Z,@hacloud/cli,0.1.0,hacloud,UNLICENSED,32219,"hacli, a CLI da Hospede Aqui: deploy, logs, variáveis e previews dos seus apps pelo terminal."
+2026-09-30T23:33:59.683Z,@chrissgon/perfectui-mcp,0.2.0,chrissgon,MIT,145072,"A read-only MCP server that answers questions about Perfect UI 1.0.0 from its own documentation and stylesheet, as a stdio bin and as a library for other transports."
+2026-09-30T23:34:01.855Z,telephone-water,1.0.0,rrjj39322,ISC,89794741,
+2026-09-30T23:34:01.971Z,syntaxmate,0.2.1,phongndo,MIT,3992501,"Fast TextMate syntax highlighting to HTML, ANSI, or token arrays, compiled to WebAssembly"
+2026-09-30T23:34:42.306Z,swedish-pii,1.2.0,okasi,MIT,5287117,Detection & masking of Personal Identifiable Information (PII) in Swedish text
+2026-09-30T23:35:10.328Z,@adea-ai/spatial,0.70.0,0xplayerone,Apache-2.0,57692,"Scene and asset manifest contracts plus the shell-to-engine spatial protocol for Adea workspaces: scene mount manifests, spawn URL helpers, and scene telemetry schemas. Pure types — no rendering, no…"
+2026-09-30T23:35:51.908Z,@vinihcrosa/lumem-desktop-darwin-arm64,0.7.0,vinihcrosa,MIT,126463288,O app de barra do Lumem para darwin-arm64. Instale com `lumem menubar install`.
+2026-09-30T23:36:01.317Z,@vinihcrosa/lumem-desktop-darwin-x64,0.7.0,vinihcrosa,MIT,133371515,O app de barra do Lumem para darwin-x64. Instale com `lumem menubar install`.
+2026-09-30T23:36:11.135Z,@vinihcrosa/lumem-desktop-linux-x64,0.7.0,vinihcrosa,MIT,296290525,O app de barra do Lumem para linux-x64. Instale com `lumem menubar install`.
+2026-09-30T23:36:21.142Z,@vinihcrosa/lumem-desktop-linux-arm64,0.7.0,vinihcrosa,MIT,301215875,O app de barra do Lumem para linux-arm64. Instale com `lumem menubar install`.
+2026-09-30T23:36:51.7Z,jdl-grammar,0.0.0,mshima,FSL-1.1-ALv2,761,TextMate grammar for the JHipster Domain Language (JDL). Placeholder: the first release is coming.
+2026-09-30T23:37:04.773Z,@chrissgon/light-site-auditor,0.1.0,chrissgon,MIT,75089,"Checks a small business's home page for weight, load time on 3G and accessibility (WCAG 2.1 AA), and explains the fixes in plain Portuguese. Real sites only with the owner's consent."
+2026-09-30T23:37:09.716Z,@billama/sdk,1.0.0,uberthoth,MIT,668947,"Official TypeScript/JavaScript SDK for Billama: Universal AI compute grid, billing clearinghouse, and streaming API."
+2026-09-30T23:38:29.273Z,pi-subagent-manager,0.1.1,championswimmer,MIT,106563,"Hierarchical, steerable subagent threads for pi"
+2026-09-30T23:38:47.506Z,@oneezy/skills-sync,0.2.0,oneezy,MIT,54373,"One skills library, every agent harness, every project on the machine. Restores third-party skills from skills-lock.json, links every skill into Claude Code, Codex, Goose and Hermes, and into the pro…"
+2026-09-30T23:39:14.978Z,@tensorkit/raydr,0.1.0,koolamusic,MIT,395391,"Hear your Claude Code sessions on your phone and answer them back: verbatim speech through ElevenLabs, taps and voice through Herdr."
+2026-09-30T23:39:29.424Z,@leismore/lmos-nodejs-unicode-print-chars,1.0.0,kyle.chinn.leismore,MIT,10323,A class represents a string of printable characters in Unicode.
+2026-09-30T23:39:44.956Z,@leo-alvarenga/pi-qol,0.1.1,leo-alvarenga,MIT,17701,"Small quality-of-life features for pi, individually toggleable"
+2026-09-30T23:40:16.76Z,countersignatory,0.1.0,countersignatory,MIT,20620,The going rate for a human minute. A dependency-free client for the Countersignatory quote API and Spot Index.
+2026-09-30T23:41:20.906Z,jdl-parser,0.0.1,mshima,Apache-2.0,262533,"The parser of the JHipster Domain Language (JDL), built from generator-jhipster."
+2026-09-30T23:43:32.727Z,jhipster-workbench,0.0.0,mshima,FSL-1.1-ALv2,672,"Tools for JHipster applications and blueprints, in memory: preview and apply changes keeping customizations. Placeholder: the first release is coming."
+2026-09-30T23:44:20.469Z,jhipster-agent,0.0.0,mshima,FSL-1.1-ALv2,604,MCP server exposing jhipster-workbench to AI agents. Placeholder: the first release is coming.
+2026-09-30T23:45:15.737Z,skiptingar,0.0.0,olafsson,MIT,1958,Icelandic hyphenation and typography for the web. In development: no code published yet.
+2026-09-30T23:46:51.779Z,@chrissgon/agent-ready-kit,0.1.0,chrissgon,MIT,60461,"Make a small site readable by AI agents from one data file: llms.txt, schema.org JSON-LD and a read-only MCP server."
+2026-09-30T23:47:15.476Z,evals-lab,0.1.0,grainboxlimited,UNLICENSED,47097071,"A browser bench for grading what a model answers: two wordings side by side over a set of files, scored against answers fixed in advance."
+2026-09-30T23:48:11.026Z,fito-tui,0.2.1,fitoplatform,UNLICENSED,1721272,"Fito for pi: case-based practice for software engineers, in your terminal."
+2026-09-30T23:48:20.662Z,tinker-jump-jump,0.1.0,surunzi,,842699,"Hold to charge, release to jump — land on the next platform!"
+2026-09-30T23:48:55.087Z,@redocly/realm-db-client,0.1.0,romanhotsiy,,299138,Hrana v3 client for Realm DB project databases
+2026-09-30T23:50:05.388Z,build-create-energy,1.0.0,rrjj39322,ISC,87201537,
+2026-09-30T23:52:52.891Z,create-waybetter,0.1.0,crtkafa,GPL-3.0-or-later,145177,"npm create waybetter: scaffold a wayBetter plugin (*.plugin.js, JS or TypeScript), theme (JSON with the waybetter theme schema) or a whole wayBetter app (Tauri 2 + waybetter-host + the waybetter runt…"
+2026-09-30T23:53:12.873Z,@hexagen-monaco/orchestration,0.1.0,mkrakowski,SEE LICENSE IN LICENSE,2387815,"Wave orchestration tooling: wave events, plan verification and review, status, gate and project health"
+2026-09-30T23:54:13.827Z,@openthink/pm,0.0.1,matt_saltline_digital,,457,"Name placeholder for pm, local-first ticketing for agents and humans. Install 0.1.0 or later."
+2026-09-30T23:55:59.978Z,@compootor/stooart-darwin-arm64,0.1.1,geektrovert,MIT,1881690,Policy-first task routing with Effect and optional Jev selection native executable for darwin-arm64
+2026-09-30T23:56:06.258Z,@compootor/stooart-linux-x64,0.1.1,geektrovert,MIT,2254945,Policy-first task routing with Effect and optional Jev selection native executable for linux-x64
+2026-09-30T23:56:14.648Z,@compootor/stooart,0.1.1,geektrovert,MIT,238885,Policy-first task routing with Effect and optional Jev selection
+2026-09-30T23:57:55.273Z,shopify-scope-guard,0.1.0,t7caret,MIT,24093,"Catch missing, redundant, and unproven Shopify access scopes with offline static analysis."
+2026-10-01T00:00:31.34Z,natural-design-system,0.15.1,chris-terterian,MIT,570709,"A natural goods e-commerce design system — React components, tokens and Storybook, mirrored with the Figma file ""Natural Design System""."
+2026-10-01T00:00:55.639Z,@agenticage/proof,0.1.0,rodmanl,,18420,
+2026-10-01T00:01:18.257Z,didww-connect,1.0.0,allexp1,MIT,22457,"Connect a DIDWW phone number to ANY AI voice platform: helps choose the platform, then wires the SIP trunk pair and number."
+2026-10-01T00:01:23.472Z,didww-to-elevenlabs,1.0.0,allexp1,MIT,14183,"Connect a DIDWW phone number to an ElevenLabs voice agent over SIP, as automatically as both platforms allow."
+2026-10-01T00:01:26.858Z,didww-to-livekit,1.0.0,allexp1,MIT,21036,"Connect a DIDWW phone number to a LiveKit Agents worker over SIP, on LiveKit Cloud or self-hosted: inbound trunk, dispatch rule to a named agent, optional outbound trunk."
+2026-10-01T00:01:31.639Z,didww-to-openai-realtime,1.0.0,allexp1,MIT,15106,"Point a DIDWW phone number directly at OpenAI's Realtime API over SIP, with a generated webhook backend for call control."
+2026-10-01T00:01:36.067Z,didww-to-retell,1.0.0,allexp1,MIT,12426,"Connect a DIDWW phone number to a Retell AI agent over custom telephony, with full MCP automation: Retell's official MCP can create agents AND import numbers."
+2026-10-01T00:01:38.775Z,playframe,0.1.0,iamdelrio,MIT,539210,Harness and engine for AI-built browser games
+2026-10-01T00:01:40.318Z,didww-to-ultravox,1.0.0,allexp1,MIT,12990,Connect a DIDWW phone number to an Ultravox Realtime voice agent over SIP.
+2026-10-01T00:01:45.058Z,didww-to-vapi,1.0.0,allexp1,MIT,13200,"Connect a DIDWW phone number to a Vapi assistant over BYO SIP trunking, as automatically as Vapi allows."
+2026-10-01T00:01:47.862Z,didww-to-vogent,1.0.0,allexp1,MIT,10675,Connect a DIDWW phone number to a Vogent voice agent over SIP import.
+2026-10-01T00:01:51.585Z,didww-to-xai,1.0.0,allexp1,MIT,12941,Point a DIDWW phone number at xAI's Grok voice over SIP.
+2026-10-01T00:04:15.355Z,aeo-measure,0.0.1,robertcoframe,Apache-2.0,1204,"Measure how AI answer engines (ChatGPT, Perplexity, Gemini, Claude) mention and recommend brands — AEO / GEO / AI-visibility measurement. Name reserved; full open-source release coming soon."
+2026-10-01T00:04:55.906Z,@melow/common,1.0.8,raytempera,ISC,9344,
+2026-10-01T00:07:08.455Z,neru-cli,0.5.0,luziv,MIT,11958,Neru in your terminal: a local-first coding agent that proposes changes you review and never acts without asking.
+2026-10-01T00:09:52.983Z,@atomicstrata/llmwiki-core,1.4.0-rc.1,atomicstrata,MIT,14058963,Engine-free llmwiki knowledge and domain SDK
+2026-10-01T00:12:28.875Z,extraer-datos-ine-mcp,1.0.0,rcfrias,MIT,13940,"Servidor MCP oficial de Extraer Datos de INE: extrae CURP, nombre, domicilio y clave de elector de credenciales INE/IFE desde Claude, Cursor y otros clientes MCP."
+2026-10-01T00:12:44.805Z,create-sapphire-template,1.0.0,melonnthecreator,,4747,
+2026-10-01T00:12:48.409Z,@hrxh12.x/typing-stats-sprinix-js,1.0.0,hrxh12.x,MIT,23472,A zero-dependency TypeScript library for calculating typing performance metrics
+2026-10-01T00:13:10.94Z,@rust-js/builtins,0.0.1,nguyenyou,MIT,17152,"JS's language, as rust-js compiles Rust to it: promises, errors, regular expressions, JSON"
+2026-10-01T00:13:35.05Z,@rust-js/webapi,0.0.1,nguyenyou,MIT,321468,The web platform for rust-js programs: DOM bindings generated from WebIDL
+2026-10-01T00:15:19.124Z,@acyclic-labs/cli-darwin-arm64,0.0.1,ramstar3000,Apache-2.0,13059226,The acyclic CLI binary for darwin-arm64.
+2026-10-01T00:15:21.756Z,@acyclic-labs/cli-darwin-x64,0.0.1,ramstar3000,Apache-2.0,14064860,The acyclic CLI binary for darwin-x64.
+2026-10-01T00:15:25.531Z,@acyclic-labs/cli-linux-arm64,0.0.1,ramstar3000,Apache-2.0,13543543,The acyclic CLI binary for linux-arm64.
+2026-10-01T00:15:29.473Z,@acyclic-labs/cli-linux-x64,0.0.1,ramstar3000,Apache-2.0,15268129,The acyclic CLI binary for linux-x64.
+2026-10-01T00:15:32.155Z,@acyclic-labs/cli,0.0.1,ramstar3000,Apache-2.0,31514,Spawn and follow Acyclic swarms from a terminal.
+2026-10-01T00:18:41.198Z,statify-rich-landing-website,0.0.0-stage,nebularstreams,,350,Temporary package placeholder for staged publishing
