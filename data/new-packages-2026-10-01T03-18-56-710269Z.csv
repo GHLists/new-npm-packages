@@ -1,0 +1,104 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-01T02:16:16.982Z,@ggbondex/pi-mail,0.2.0,ggbondex,MIT,88719,"Give pi an email address: when a session settles, pi mails you the result; you reply and the agent keeps working. Two mailboxes — one for pi, one for you, and they must differ."
+2026-10-01T02:16:40.062Z,@forjio/plugipay-cli,0.2.0,hachimimambo,,506068,CLI for Plugipay — a payments infrastructure (part of the Forjio commerce suite).
+2026-10-01T02:17:40.149Z,@rust-js/runtime,0.0.1,nguyenyou,MIT,106116,"The helpers the JS rust-js writes imports, released with the compiler, as @rescript/runtime is with ReScript. See docs/decisions/0103-runtime-package.md."
+2026-10-01T02:17:56.765Z,@rust-js/resources,0.0.1,nguyenyou,MIT,709739,"Pinned build inputs for rust-js React, web, and Serde bindings."
+2026-10-01T02:18:05.366Z,@rust-js/native,0.0.1,nguyenyou,MIT,7934795,
+2026-10-01T02:18:11.794Z,@rust-js/build,0.0.1,nguyenyou,MIT,58522,"Build preparation, manifests, and publication for rust-js hosts."
+2026-10-01T02:18:19.379Z,@rust-js/vite-plugin,0.0.1,nguyenyou,MIT,14774,"Compile Rust with rust-js in a Vite project, on start and on save. See docs/decisions/0041-react.md."
+2026-10-01T02:18:25.751Z,@rust-js/create,0.0.1,nguyenyou,MIT,68034,`bun create @rust-js my-app`: a Vite and React app written in Rust. See docs/decisions/0105-create.md.
+2026-10-01T02:20:53.524Z,@tillstack/notary-core,0.1.0,tillafrica,Apache-2.0,384318,"TillNotary core — RFC 6962 Merkle transparency-log algebra (inclusion + consistency proofs over an insert-only node store), pure RFC 9162 proof verifiers, crypto-agility suites with hybrid Ed25519 +…"
+2026-10-01T02:21:24.743Z,@aplanstudios/as-website-components,0.1.1,adamplant,SEE LICENSE IN LICENSE,1031308,Reusable React components and design primitives from Aplan Studios.
+2026-10-01T02:21:51.152Z,lz-string-es,1.0.0,antfu,MIT,27961,"An ESM-only build of lz-string, recompiled from the upstream source"
+2026-10-01T02:22:15.838Z,@huddle-ai/auth,0.1.0,harlenalvarez,,95632,React OAuth 2.0 authorization code flow with PKCE.
+2026-10-01T02:22:28.46Z,nfse-mei,0.2.0,lucasrainerigiandon,MIT,151333,"Emite a NFS-e do MEI no Emissor Nacional (nfse.gov.br) pelo terminal: preenche, confere e só emite com seu OK."
+2026-10-01T02:22:51.53Z,@tillstack/sdk-notary-node,0.1.0,tillafrica,Apache-2.0,424039,"TillNotary verifying client — submit an opaque hash, get back a receipt this SDK has ALREADY cryptographically verified (hybrid checkpoint signature, witness cosignature threshold, RFC 6962 inclusion…"
+2026-10-01T02:23:44.281Z,@thedesignagent/mcp,0.2.1,corymburnett,,50125,MCP server for TheDesignAgent — UX and visual judgment layer for agent-generated UI
+2026-10-01T02:24:03.84Z,dsh-chart-ascii,0.1.0,geeklei,MIT,39445,"Terminal ASCII charts for DeepSeek Harness: draw horizontal/vertical bar charts, line/scatter/area trend charts and one-line sparklines from plain `label,value` data or a file. Zero runtime dependenc…"
+2026-10-01T02:24:51.422Z,sprout-toolkit,0.3.0,carlos-tzin,MIT,4803,Deterministic procedural 2D asset generation for Expo + react-native-skia — Python CLI wrapper
+2026-10-01T02:24:56.322Z,dsh-plan-checkup,0.1.0,bear0117,MIT,162964,"Plan Checkup for DeepSeek Harness: checks each step of a plan with Jev or a local LLM before you approve it, and marks the results on the plan review card."
+2026-10-01T02:25:30.07Z,@wayleave/supabase,0.1.0,sendable.me,MIT,24830,"Identify, govern and meter AI agent traffic in Supabase Edge Functions. Complements Supabase Auth, never replaces it. Observe-only by default. Zero dependencies."
+2026-10-01T02:26:04.231Z,opendata-log,0.1.0,jcbraz,MIT,242418,"Typed, dependency-free client and producer/consumer streams for self-hosted OpenData Log"
+2026-10-01T02:26:26.45Z,@ascribed/cli-darwin-arm64,0.1.0,krollins,MPL-2.0,8966986,Ascribe native binary for macOS arm64.
+2026-10-01T02:26:31.266Z,@ascribed/cli-linux-arm64,0.1.0,krollins,MPL-2.0,10197788,Ascribe native binary for Linux arm64.
+2026-10-01T02:26:37.136Z,@ascribed/cli-linux-x64,0.1.0,krollins,MPL-2.0,10695396,Ascribe native binary for Linux x64.
+2026-10-01T02:26:41.163Z,@ascribed/cli-win32-x64,0.1.0,krollins,MPL-2.0,7905389,Ascribe native binary for Windows x64.
+2026-10-01T02:26:45.908Z,@ascribed/cli,0.1.0,krollins,MPL-2.0,26326,The Ascribe command-line tool.
+2026-10-01T02:26:50.046Z,@ascribed/elements,0.1.0,krollins,MPL-2.0,59954,Ascribe's web component library for the site output.
+2026-10-01T02:26:54.581Z,@ascribed/astro,0.1.0,krollins,MPL-2.0,82912,The Astro integration for Ascribe.
+2026-10-01T02:27:38.676Z,@suiteop/storefront,0.0.1,jean-losi,MIT,248097,"Typed client, React hooks and headless components for the SuiteOp Storefront API."
+2026-10-01T02:29:06.555Z,@pulsehub/runner,0.1.1,rafaeldavid20,,28248,"Local, credential-safe Pulse Runner"
+2026-10-01T02:30:00.395Z,openworldformat,0.1.0,yiwang,Apache-2.0,97791,"The Open World Format reference package: parse and fold a .world in pure JS, plus the reference three.js renderer."
+2026-10-01T02:31:18.856Z,@g4ai/ds,0.3.0,joaovitor2763,MIT,7119782,"Design system G4 OS: tokens, componentes React (Base UI + Tailwind v4), gráficos e blocos de tela para construir CRM, ATS, ERP e qualquer produto."
+2026-10-01T02:32:03.594Z,@kainoa/5c-cli,0.4.0,kainoa,MIT,3967301,5c — agent-first CLI for Claremont Colleges (5C) course search.
+2026-10-01T02:32:10.731Z,@kainoa/5c-mcp,0.4.0,kainoa,MIT,195913,5C Index MCP server — 5 tools over the shared 5c-core engine.
+2026-10-01T02:33:38.295Z,ai-data-scientist-skill,0.1.0,nahisaho,MIT,113799,GitHub Copilot Agent Skill: AI Data Scientist over Jupyter MCP (npm bootstrap for the Python implementation)
+2026-10-01T02:34:49.113Z,dsh-subagent-memory,0.2.0,qingyun_long,MIT,20938,"Subagent-scoped memory for DeepSeek Harness: memory_add/list/get tools for a delegated child's own notes, a cascade delete when the child settles, and an adjacency-checked service API (ctx.agentMemor…"
+2026-10-01T02:34:50.901Z,pinhole,1.0.0,luthira,GPL-3.0-only,15038221,Private Mac screen sharing and control from your terminal.
+2026-10-01T02:34:51.942Z,@bluewin/utils,1.0.0,securityresearch1,ISC,519,PoC package for dependency confusion testing - No malicious intent
+2026-10-01T02:35:21.532Z,@ticatec/topside-pro,1.0.0,henry.feng,MIT,212573,Enterprise pro components and data-managed CRUD templates based on topside web elements
+2026-10-01T02:35:23.366Z,@syntrends/sdk,0.1.0,surrplexie,MIT,39548,TypeScript client for the SynTrends Agent API (STP/1.0 over HTTP + SSE)
+2026-10-01T02:35:30.246Z,@yasuhito/clearhead,0.1.0,yasuhito,MIT,115535,A Pi extension that lets the LLM edit its own context to keep the next prompt lean.
+2026-10-01T02:37:27.124Z,@zhushanwen/pi-session-path,0.1.0,zhushanwen321,MIT,9196,"Active-path clipping for pi session entries — single shared implementation for state-rebuilding extensions (todo/plan/goal/scheduler), so revoked subtrees stay out of rebuild inputs (shared library,…"
+2026-10-01T02:37:27.14Z,@zhushanwen/pi-exec-skills,0.2.0,zhushanwen321,MIT,50175,Shared skill acquisition library for Pi extensions — disk-scanning discovery over pi's four skill roots (settings overrides + plan-exec frontmatter marker + name dedup) and the pi-registry execution…
+2026-10-01T02:38:07.765Z,wb-starter,1.0.0,johnpeters7,MIT,4161826,Modern website starter kit powered by WB Behaviors
+2026-10-01T02:39:03.195Z,p2p-cit,0.1.0,chasen-liao,MIT,73530,去中心化、无服务器的端到端加密终端聊天（命令名 cit）
+2026-10-01T02:39:43.668Z,create-wb-starter,1.0.0,johnpeters7,MIT,13036,"Create a website that uses wb-starter: plain HTML, x-* behaviors, no build step."
+2026-10-01T02:41:04.335Z,@msb235/blits,0.2.1,msb235,MIT,169728,"Concurrent effects: each on its own clock with its own state and weight, folded into one value per subject per frame"
+2026-10-01T02:41:56.762Z,gwd-motion,0.1.0,galvinalfito,MIT,201795,A modern animation toolkit for the web
+2026-10-01T02:41:58.496Z,@fbartho/danger-plugin-jest,1.4.0,fbartho,MIT,12447,Danger plugin for Jest
+2026-10-01T02:43:22.975Z,@armsys-tech/ui,1.0.0,armsys-tech,MIT,603934,Framework-independent design system and UI library by Armsys Technology.
+2026-10-01T02:43:31.255Z,maniflight,1.1.0,agrovr,MIT,1498450,"Read-only GitHub pull-request diagnostics: why a PR is blocked, what evidence is missing, and who has to move next."
+2026-10-01T02:44:36.708Z,@usequeek/create-app,0.14.0,usequeek,MIT,24227,npm create @usequeek/app — start a Queek installable app from the official starter.
+2026-10-01T02:45:39.511Z,dsh-piggy,0.25.0,clicgger,MIT,768595,🐖 一只住在 DeepSeek Harness 里的猪：吃你的真实工作长大，会学习、打工、旅行、生病、需要照顾
+2026-10-01T02:47:39.032Z,@agent-native/core-corpus,0.198.8,steve8708,MIT,65534351,Opt-in source corpus for Agent-Native Core source-search.
+2026-10-01T02:49:08.593Z,dsh-subscriptions,0.1.0,bowser-bot,MIT,2088248,Unified subscription providers and usage dashboard for DeepSeek Harness
+2026-10-01T02:50:43.69Z,@propelstudios/compute,0.1.0,ryanwmartin,,256105,Outbound local inference discovery and tunnel node for Propel Router
+2026-10-01T02:51:35.872Z,@deepwhale-cn/dsh-cn-pipl-check,0.1.0,feely0208,MIT,30930,个人信息保护合规：核对「隐私政策里承诺的」与「代码里真做的」是否一致 —— 权限、第三方 SDK、用户权利入口、敏感信息单独同意、数据跨境与留存。
+2026-10-01T02:52:50.785Z,@huythanh-dev/ht-recommend,0.1.0,datth,MIT,46011,Gui san pham tu backend website vao HT Recommendation
+2026-10-01T02:53:39.107Z,rollshade,0.1.0,tsuyatsuyatt,MIT,456618,"Ready-made spell and attack effects for three.js (WebGPU, TSL): charge-up, travel, impact, hit events, bloom and camera shake in one line per attack."
+2026-10-01T02:53:52.066Z,@cyanheads/unesco-heritage-mcp-server,0.1.1,cyanheads,Apache-2.0,616630,"Search UNESCO World Heritage sites, intangible heritage, and Man and the Biosphere reserves via MCP. STDIO or Streamable HTTP."
+2026-10-01T02:56:27.847Z,@toiroakr/actrun,0.32.0-fork.0,toiroakr,Apache-2.0,2228165,A local GitHub Actions runner (a soft fork of @mizchi/actrun)
+2026-10-01T02:56:43.449Z,paperclip-plugin-claude-accounts,0.4.0,victorl1m,MIT,1544115,"Per-user Claude accounts for Paperclip: each member signs in to Claude from the browser, picks which agents use it, and it stays signed in. No shell, no re-auth."
+2026-10-01T02:56:49.824Z,ccusage-lib,0.0.0,farreldarian,,48,
+2026-10-01T02:57:45.374Z,ai-rulebook,1.0.0,baikaifa,MIT,842240,一份规则源，自动生成 CLAUDE.md / AGENTS.md / Copilot 指令 —— 让仓库里的 AI 助手按同一套工程纪律干活
+2026-10-01T02:57:47.86Z,claude-code-effort-shortcut,0.1.0,richkuo,MIT,12099,Claude Code plugin: keyboard shortcuts that step the reasoning effort level up and down
+2026-10-01T02:59:07.956Z,@maschwenk/tsrs-darwin-arm64,0.1.0-ts7.1.0-dev.20260929,maschwenk,Apache-2.0,16427958,The darwin-arm64 binary for @maschwenk/tsrs
+2026-10-01T02:59:10.988Z,@maschwenk/tsrs-darwin-x64,0.1.0-ts7.1.0-dev.20260929,maschwenk,Apache-2.0,16664516,The darwin-x64 binary for @maschwenk/tsrs
+2026-10-01T02:59:15.819Z,@maschwenk/tsrs-linux-x64,0.1.0-ts7.1.0-dev.20260929,maschwenk,Apache-2.0,56312452,The linux-x64 binary for @maschwenk/tsrs
+2026-10-01T02:59:18.876Z,@maschwenk/tsrs,0.1.0-ts7.1.0-dev.20260929,maschwenk,Apache-2.0,63166,"A Rust port of the TypeScript 7 type checker: `tsc --noEmit`, faster"
+2026-10-01T02:59:23.082Z,uselayer,0.1.0,pemakenemi,MIT,34969,"Command line for the Layer API: the same prediction market on Kalshi and Polymarket, and whether a trade between them is profitable after fees."
+2026-10-01T02:59:31.328Z,@deepwhale-cn/dsh-cn-appstore-preflight,0.1.0,feely0208,MIT,25468,国内应用市场上架预检：App 备案、隐私政策可达性、权限使用场景说明、账号注销入口、未成年人保护、第三方 SDK 清单 —— 从上架材料角度做一次体检，并生成材料清单骨架。
+2026-10-01T02:59:39.897Z,@lightgallery/headless,3.0.0-beta.1,sachinchoolur,GPL-3.0-only,41968,"The framework-free core of lightGallery 3: everything a gallery needs to *decide*, with none of the rendering. State machine, settings resolution, gesture verdicts, spring physics, zoom and thumbnail…"
+2026-10-01T03:00:13.74Z,@arindam1729/fr,0.1.1,arindam1729,MIT,41946,"Ask a question about a codebase, get the files that matter. Every file gets a fast relevant/maybe/irrelevant decision from TypeSafe's Jev, streamed live as you type."
+2026-10-01T03:00:29.259Z,pi-antigravity-status,0.1.0,raythunder,,19281,Additive Pi status line for the active Antigravity account quota.
+2026-10-01T03:01:17.441Z,rc-grid-data,0.0.1,minion-dev,,5395685,A small React component package inspired by Ant Design.
+2026-10-01T03:02:43.197Z,@ai-ecoverse/wasi-zig,0.16.0-1,trieloff,MIT,54256042,Zig 0.16.0 compiler for slicc WASI (build-exe / wasm targets)
+2026-10-01T03:02:57.277Z,tailwindshades-cli,1.1.0,bourhaouta,MIT,45296,"Generate Tailwind CSS color palettes (50–950) from any color, for Tailwind v4, v3, v2 and v1"
+2026-10-01T03:03:06.79Z,tailwindshades-mcp,1.1.0,bourhaouta,MIT,12541,"MCP server that gives AI agents correct Tailwind CSS palettes (50–950) from any color, for Tailwind v4, v3, v2 and v1"
+2026-10-01T03:04:13.395Z,@lucian-seo/lucian-ui,0.1.1,lucian-seo,MIT,5049359,"React components, design tokens, and layout foundations for Gwang-eon's products."
+2026-10-01T03:04:14.231Z,naverseries-sdk,1.0.0,re0nyaa,MIT,73493,네이버 시리즈 비공식 TypeScript API 클라이언트
+2026-10-01T03:04:58.365Z,rag-explorer-doc-health,1.0.0,mind-f,MIT,3564560,RAG 文書健全性チェッカー: RAG に登録する前の文書の集まりを読み、誤答の原因になりうる文書の側の問題を拾う CLI（実行中は通信しない）
+2026-10-01T03:05:25.652Z,@nanoexpress/ultimate,3.0.0,dalisoft,UNLICENSED,698204,Ultimate solution based on nanoexpress and best-practices
+2026-10-01T03:05:27.808Z,imagera-code-darwin-arm64,1.18.33,alexadams6ix,MIT,140426400,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:05:33.987Z,umd-mcp,0.0.1,avivkeller,MIT,949198,MCP server exposing University of Maryland data
+2026-10-01T03:05:44.621Z,imagera-code-darwin-x64,1.18.33,alexadams6ix,MIT,145933706,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:06:03.71Z,imagera-code-darwin-x64-baseline,1.18.33,alexadams6ix,MIT,145933715,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:06:19.833Z,imagera-code-linux-arm64,1.18.33,alexadams6ix,MIT,180530636,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:06:38.652Z,imagera-code-linux-arm64-musl,1.18.33,alexadams6ix,MIT,190035157,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:06:39.697Z,@designesy/lab-builder,0.1.0,designesy,MIT,19772,"Turn a design thesis into a remixable, reviewable experiment that compiles into contract material. Scaffolds the full Designesy Lab anatomy — the missing layer between experiment and contract."
+2026-10-01T03:07:00.566Z,imagera-code-linux-x64,1.18.33,alexadams6ix,MIT,181972408,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:07:20.372Z,imagera-code-linux-x64-baseline,1.18.33,alexadams6ix,MIT,181018049,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:07:21.487Z,do0p-ai,1.0.1,vikam7,MIT,190062,Official Do0p AI Media Generation SDK — generate 2K images and HD videos with a single line of code
+2026-10-01T03:07:42.889Z,imagera-code-linux-x64-baseline-musl,1.18.33,alexadams6ix,MIT,191434370,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:08:02.318Z,imagera-code-linux-x64-musl,1.18.33,alexadams6ix,MIT,192171641,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:08:08.66Z,@deepwhale-cn/dsh-secret-scan,0.1.0,feely0208,MIT,24095,密钥与敏感信息扫描：提交前、发布前把代码里的 API Key、令牌、私钥、凭据文件、内部域名找出来 —— 输出默认打码，可作为 pre-commit / CI 卡口。
+2026-10-01T03:08:10.413Z,@jaxxstorm/bun-tailscale-bridge,0.1.0,jaxxstorm,MIT,90238761,Bun HTTP and SOCKS proxies backed by an independent userspace Tailscale node
+2026-10-01T03:08:18.756Z,imagera-code-windows-arm64,1.18.33,alexadams6ix,MIT,171865406,Imagera Code: a coding agent for your terminal.
+2026-10-01T03:08:26.997Z,@catalyst-cloud/sdk-replica-node,0.14.0,ryanrozich,MIT,1587,Optional node replica for the Catalyst SDK.
+2026-10-01T03:08:31.802Z,@catalyst-cloud/sdk-replica-browser,0.14.0,ryanrozich,MIT,1839,Optional browser replica for the Catalyst SDK.
+2026-10-01T03:09:20.871Z,jevvium,0.1.0,andrescarreon,MIT,248181,"Turn acceptance criteria into Appium tests. A decision model explores the app, then jevvium writes a plain, deterministic test from the path it found."
+2026-10-01T03:09:53.737Z,@ariferol01/tuval-studio-mcp,1.0.1,ariferol01,MIT,785945,Official MCP Server for Tuval Graphic Studio — Vision-in-the-loop AI Design Automation & Multi-Page PDF Catalogs
+2026-10-01T03:12:41.438Z,dsh-composer-live,0.2.11,zeusxx,MIT,295611,DSH Web 0.1.5+ 输入框增强（Lexical contenteditable 架构版）：markdown 实时渲染 + 代码块语法高亮/段落级等宽 + 格式工具栏（常驻顶条 + 选区浮动条）+ 70vh 展开 + 大段粘贴包代码块 + Esc 分发。纯浏览器端插件，零依赖，不改官方源码。仿 Open WebUI 输入体验。
+2026-10-01T03:16:00.166Z,@cyanheads/faa-traffic-delays-mcp-server,0.1.1,cyanheads,Apache-2.0,915416,"Track FAA ground stops, delay programs, airport delays, the operations plan, and ATCSCC advisories via MCP. STDIO or Streamable HTTP."
+2026-10-01T03:18:31.624Z,@feel-dev/next,0.2.0,nirbhay71,MIT,50444,Feel for Next.js: Alt + right-click any UI element to see the full stack behind it — component → frontend code → route handler → SQL → tables.
