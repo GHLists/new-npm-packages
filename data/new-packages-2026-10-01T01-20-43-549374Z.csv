@@ -1,0 +1,97 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-01T00:18:53.323Z,@panoptic-it-solutions/portal-kit,0.1.0,panopticnpmjs,MIT,96110,Shared pieces for Panoptic apps that sit behind the Panoptic Portal: the app launcher and its portal client.
+2026-10-01T00:24:51.317Z,@joyous-coder/nrm,2.1.5,joyous-coder,MIT,32929,"npm registry manager — Pana/nrm fork that fixes the npmrc _auth leak: switching registries no longer writes `_auth`, `always-auth`, `email`, `repository`, or `home` to the top level of ~/.npmrc"
+2026-10-01T00:26:31.211Z,beantal-kit,0.2.3,suhsaechan,MIT,23352,빈털 전용 Claude Code·Codex skill 키트 — npx beantal-kit 으로 마켓플레이스 등록
+2026-10-01T00:27:04.499Z,gexmonitor-connect,0.2.0,gexmonitor,MIT,59531,One-command GEX Monitor Skill + Remote MCP installer for AI clients
+2026-10-01T00:28:29.298Z,@codepress/blog,0.2.0,lightning.lu10,,209183,"Render a CodePress blog: registry, sanitizer, schema, SEO, feed, sitemap, content source and React renderer."
+2026-10-01T00:29:48.564Z,@onaeko/ui,1.0.0,onaeko,MIT,862543,Onaeko design system and React UI component library
+2026-10-01T00:30:16.56Z,@onaeko/icons,1.0.0,onaeko,MIT,5766,Onaeko icon set — curated Lucide icons for Onaeko products
+2026-10-01T00:30:32.063Z,@sakuzu/kata,1.0.0,asakaida,Apache-2.0,794375,"The design system of sakuzu: a numeric scale derived from the golden ratio, CSS tokens, base CSS and Svelte components for drawing applications."
+2026-10-01T00:33:01.998Z,@hanwha-ss1/capacitor-plugin,1.0.0,yeongyun,MIT,147462,Unified Capacitor plugin for Hanwha mobile integration features
+2026-10-01T00:34:40.831Z,@ai-ecoverse/wasm-binaryen,132.0.0-1,trieloff,Apache-2.0,74148011,Binaryen 132 wasm tools for slicc (wasm-opt and friends)
+2026-10-01T00:34:53.323Z,@ai-ecoverse/emscripten-cache,6.0.9-2,trieloff,MIT,100077502,Prebuilt Emscripten 6.0.9 sysroot for slicc (read-only seed)
+2026-10-01T00:35:19.292Z,@rioaxyz/sonrchart,0.1.0,bkingwood,MIT,4714422,"A themed, data-source-agnostic React charting component for financial candlestick charts, built on KLineChart."
+2026-10-01T00:35:22.496Z,@ai-ecoverse/wasm-emscripten,0.0.0-stage,trieloff,,350,Temporary package placeholder for staged publishing
+2026-10-01T00:38:43.967Z,create-dvor,1.0.0,6base,MIT,2983,Create a new Dvor OS store
+2026-10-01T00:41:46.974Z,@depup/chai,6.3.0-depup.0,chiefmikey,MIT,144328,BDD/TDD assertion library for node.js and the browser. Test framework agnostic. (with updated dependencies)
+2026-10-01T00:42:23.692Z,@beezping/adapter-kit,0.2.0,guidomodarelli,MIT,531517,Everything needed to build and conformance-test a custom Siteping store adapter
+2026-10-01T00:42:32.406Z,@atomicstrata/llmwiki-local-workflows,1.4.0-rc.2,atomicstrata,MIT,615423,Optional compiler-local workflow engine using explicit llmwiki core services
+2026-10-01T00:42:33.915Z,libmlow-wasm-fork,0.2.0,vinikjkkj,MIT,730315,"Fork of libmlow-wasm: WebAssembly bindings for opus_mlow (Opus + SMPL/MLow) raw packet encode/decode, with the MLow Companion."
+2026-10-01T00:42:58.266Z,@primeui-devkit/ts-config,0.1.0-rc.1,mert.sincan,SEE LICENSE IN LICENSE.md,7940,"Shared TypeScript configurations, one per kind of package, consumed with extends. They ship as JSON and are never built."
+2026-10-01T00:42:59.666Z,@primeui-devkit/commit,0.1.0-rc.1,mert.sincan,SEE LICENSE IN LICENSE.md,9930,Commit message rules shared across PrimeUI repositories. The engine is an internal detail.
+2026-10-01T00:43:01.258Z,@primeui-devkit/format,0.1.0-rc.1,mert.sincan,SEE LICENSE IN LICENSE.md,6725,Formatting rules shared across PrimeUI repositories. The engine is an internal detail.
+2026-10-01T00:43:02.775Z,@primeui-devkit/lint,0.1.0-rc.1,mert.sincan,SEE LICENSE IN LICENSE.md,28444,Lint rules shared across PrimeUI repositories. The engine is an internal detail.
+2026-10-01T00:43:05.421Z,@primeui-devkit/test-config,0.1.0-rc.1,mert.sincan,SEE LICENSE IN LICENSE.md,8534,"Shared vitest configurations as plain objects: node, dom and perf. Take one as it is, or merge a package's own settings over it with mergeConfig."
+2026-10-01T00:43:07.252Z,@primeui-devkit/bundle,0.1.0-rc.1,mert.sincan,SEE LICENSE IN LICENSE.md,143929,"Builds a publishable package from a description of it, then packs the result and checks that every subpath resolves with types under every module resolution. Run it with ""devkit bundle build"" from @p…"
+2026-10-01T00:43:09.009Z,@primeui-devkit/cli,0.1.0-rc.1,mert.sincan,SEE LICENSE IN LICENSE.md,125482,"One command, devkit, for the shared work of a PrimeUI repository: release dates, publishing and its checks, changelogs, versions, licences, change-scoped type checks, scaffolding and a tooling doctor."
+2026-10-01T00:43:10.387Z,@primeui-devkit/docs,0.1.0-rc.1,mert.sincan,SEE LICENSE IN LICENSE.md,38812,Extracts a typed API model from source and renders it as markdown tables. The documentation generator is an internal detail; its reflection model never surfaces.
+2026-10-01T00:43:13.267Z,@primeui-devkit/quality,0.1.0-rc.1,mert.sincan,SEE LICENSE IN LICENSE.md,52322,"Shared measurement harness for PrimeUI quality benchmarks: scenarios, browser timing statistics, accessibility scans and sealed result envelopes."
+2026-10-01T00:43:16.807Z,@beezping/server,0.1.0,guidomodarelli,MIT,593652,"Framework- and database-agnostic HTTP API for Siteping — pluggable auth, lifecycle hooks and any SitepingStore"
+2026-10-01T00:43:19.283Z,famulor,0.1.0,bekservice,MIT,781020,Official command-line interface for the Famulor voice AI platform: every REST API operation as a command.
+2026-10-01T00:43:44.732Z,@beezping/adapter-drizzle,0.1.0,guidomodarelli,MIT,848249,Drizzle ORM adapter for Siteping — PostgreSQL and Turso/libSQL
+2026-10-01T00:44:05.119Z,agnes-coder,0.1.0,jimioffice,MIT,62259,Agnes AI coding agent CLI —— 终端内直连 Agnes 对话，支持 run_shell/write_file/read_file/use_skill 工具、SKILL.md 与 zip 技能自动加载、流式对话及真 TUI（悬浮命令菜单 + 底部状态栏）。社区第三方客户端。
+2026-10-01T00:44:21.567Z,@beezping/adapter-localstorage,0.6.0,guidomodarelli,MIT,357525,localStorage adapter for Siteping — client-side feedback persistence without a server
+2026-10-01T00:44:45.941Z,@jakerains/scormplayer,0.1.0,jakerains,MIT,322573,"Open any SCORM package in your browser, click through it like an LMS would, and leave pinned notes you can hand to a teammate or an AI agent."
+2026-10-01T00:45:01.014Z,@beezping/adapter-memory,0.6.0,guidomodarelli,MIT,340489,"In-memory adapter for Siteping — zero dependencies, works everywhere"
+2026-10-01T00:45:32.434Z,@beezping/adapter-prisma,0.7.0,guidomodarelli,MIT,771625,Prisma adapter for Siteping — server-side request handlers
+2026-10-01T00:45:47.36Z,@aidenlab/juicebox-remote,2.0.0,theaidenlab,MIT,57033,Attach a juicebox.js viewer to a juicebox-mcp room so an LLM can drive it and peers stay in sync
+2026-10-01T00:45:53.297Z,@beezping/cli,0.6.0,guidomodarelli,MIT,1440173,CLI tool to set up Siteping in your project
+2026-10-01T00:46:12.409Z,@beezping/dashboard,0.3.0,guidomodarelli,MIT,1070677,Linear-style triage inbox React component for SitePing feedback
+2026-10-01T00:46:43.087Z,dcl-cat-kit,0.1.0,metaverseunknower,MIT,2821903,"Living cats for Decentraland SDK7 scenes: a daily routine, petting, calling, greeting, and cats that curl up by you"
+2026-10-01T00:46:46.139Z,@beezping/screenshot-storage,0.1.0,guidomodarelli,MIT,568026,"Screenshot storage for Siteping — Cloudflare Images, any S3-compatible bucket, your database (Drizzle: PostgreSQL, Turso/libSQL), the local filesystem, memory, or your own backend"
+2026-10-01T00:46:53.23Z,turnzero-cloud,0.0.1,twiddlingbits,Apache-2.0,565,"Reserved by Turn Zero. The turnzero-cloud command is served from https://turnzero.ai/packages/, not from this registry."
+2026-10-01T00:47:11.965Z,@beezping/widget,0.11.0,guidomodarelli,MIT,7563155,"Feedback widget for client review during development — annotations, bugs, questions directly on the site"
+2026-10-01T00:47:35.316Z,@beezping/integration-issues,0.1.0,guidomodarelli,MIT,323390,"Issue tracker integration for Siteping — one issue per feedback on GitHub, GitLab or your own tracker, kept in sync through @beezping/server lifecycle hooks"
+2026-10-01T00:48:00.687Z,ai-memory-skill,3.3.0,syedhumair,MIT,65403,Persistent memory system for AI assistants — supports Kiro and Claude Code
+2026-10-01T00:48:58.345Z,react-native-nfc-locator,0.1.0,nagarjunavs,MIT,339531,"Shows where a phone's NFC antenna is, with an explicit confidence level. TypeScript resolver chain, React Native UI and a TurboModule for platform signals."
+2026-10-01T00:49:25.242Z,@adaflow/mcp,0.1.0,cleiton.couto,MIT,41772,"Servidor MCP oficial da plataforma Adaflow — expõe especialistas, agentes autônomos, chat, repositórios de conhecimento, governança e billing como tools para Claude e outros clientes MCP"
+2026-10-01T00:49:50.315Z,@leaf233/dsh-model-gateway,1.0.0,leaf233,Apache-2.0,357947,"Model relay station for DeepSeek Harness (模型中转站): serve any registered DSH LLM provider (e.g. @tnnevol/dsh-codebuddy) over an OpenAI-compatible /v1 API, so other projects can call those models with a…"
+2026-10-01T00:50:39.373Z,claude-usage-analytics,0.1.0,alsov.dev,MIT,3185106,"Local dashboard for Claude Code usage: tokens, activity, models, tools, agents and projects"
+2026-10-01T00:51:34.273Z,@kechankrisna/payway-checkout,2.0.0,ke_chankrisna,MIT,115122,"ABA PayWay Ecommerce Checkout client for Node.js: purchase (KHQR, ABA Mobile deep link, hosted page), check, list, close, refund, exchange rates and callback verification."
+2026-10-01T00:52:46.88Z,@tree-ia/seiva,0.1.0,lucaslimasza,MIT,314911,"Public ad, local business and demand collectors (Meta Ad Library, Google Ads Transparency, Google Maps) with a stable zod schema and deterministic item identity."
+2026-10-01T00:53:53.034Z,menstruation,1.0.2,mbbsc0der,ISC,45962,A description about the various phases in the femail menstrual cycle
+2026-10-01T00:54:16.064Z,@liuhange/dsh-fin-aml-checker,3.1.0,liuhange,MIT,62199,"Financial AML large-transaction compliance inspection plugin: threshold detection, exemption filtering, timeliness check, and review override for anti-money-lauing reporting obligations"
+2026-10-01T00:54:47.321Z,@liuhange/dsh-research-data-provenance,3.1.0,liuhange,MIT,65577,"Research data provenance audit plugin: lineage completeness, reproducibility, six-dimension quality scoring with dual-regulation policy basis"
+2026-10-01T00:54:48.644Z,safezone-vault-arcade,1.0.0,safezone!,,7700864,SafeZone unblocked arcade portal
+2026-10-01T00:55:20.486Z,@liuhange/dsh-construction-data-inventory,3.1.0,liuhange,MIT,94430,"Construction project data asset inventory plugin: multi-source heterogeneous data adaptation, GB/T 51269 classification mapping, asset code generation, change traceability detection"
+2026-10-01T00:55:26.137Z,@sprint-logger/env,0.1.0,alaahedhly22,MIT,35966,Load a project's Sprint secrets into a command's environment. sprint-env run -- pnpm dev. Nothing is written to disk.
+2026-10-01T00:56:57.828Z,yatzy-solver,1.0.0,magnuslundstedt,MIT,230507,"Exact solver, rules engine and advisor for Scandinavian Yatzy and American rules (Yahtzee-compatible), in WebAssembly"
+2026-10-01T00:58:17.615Z,@leonard-memento/core,0.1.0,nemezzizz,MIT,21094,"Amnesia insurance for coding agents: injects your project's Markdown memory index into context compaction, so auto-summarization never forgets that memory exists. Zero dependencies."
+2026-10-01T00:58:20.992Z,claude-code-memento,0.1.0,nemezzizz,MIT,4406,"Amnesia insurance for Claude Code: injects your project's Markdown memory index into context compaction, so auto-summarization never forgets that memory exists. Zero dependencies."
+2026-10-01T00:58:22.864Z,codex-memento,0.1.0,nemezzizz,MIT,4679,"Amnesia insurance for Codex: injects your project's Markdown memory index into context compaction, so auto-summarization never forgets that memory exists. Zero dependencies."
+2026-10-01T00:58:50.835Z,openbyoai,0.1.0,amir36,MIT,5862,openbyoai - Bring Your Own AI.
+2026-10-01T00:58:53.058Z,artbucket,1.6.0,pwnera,AGPL-3.0-only,72938,"The Artbucket CLI: a thin client over its API, and a brand kept as files in a repository."
+2026-10-01T00:59:14.775Z,@hot-updater/plugin-insights,1.0.0-rc.20,gronxb,MIT,424736,"Hot Updater's Insights plugin: launch, download, and update failure events, for the server and the React Native app"
+2026-10-01T00:59:17.472Z,@ticatec/topside-elements,1.0.0,henry.feng,MIT,2460561,"A comprehensive UI component library for Svelte applications with rich form controls, data tables, layouts and interactive elements"
+2026-10-01T00:59:20.774Z,@hot-updater/plugin-api-keys,1.0.0-rc.20,gronxb,MIT,45183,Hot Updater's API keys plugin: protects client routes with API keys and manages them
+2026-10-01T01:00:01.463Z,@ticatec/topside-micro,1.0.0,henry.feng,MIT,94008,A powerful micro-frontend framework built on Svelte 5 for developing modular web applications with iframe-based architecture
+2026-10-01T01:00:07.683Z,homebridge-eg4,0.4.0,peterhgdietrich,MIT,116726,"Read-only Homebridge integration for EG4 solar, battery, GridBOSS, load, and generator status using EG4 Monitor."
+2026-10-01T01:01:42.768Z,@ticatec/topside-filter,1.0.0,henry.feng,MIT,20394,"A flexible and customizable filter panel component library for Svelte applications, with internationalization support"
+2026-10-01T01:01:46.071Z,@underflowai/mimic,0.2.0,olakolade,MIT,108774,Make AI phone calls with a few lines of code. Tools run locally — no webhooks needed.
+2026-10-01T01:02:03.597Z,rock-stone-glass,1.0.0,tgr543gr,ISC,85227330,
+2026-10-01T01:02:07.816Z,@oomol-lab/resource-cache,0.1.1,straybugs,Apache-2.0,108035,Persistent and session-scoped resource caching with freshness tracking and conditional revalidation.
+2026-10-01T01:03:25.181Z,@acms-subir/client,0.1.0,znp,MIT,88079,"Typed, dependency-free client for the ACMS public mobile API."
+2026-10-01T01:03:26.883Z,@acms-subir/native,0.1.0,znp,MIT,564726,React Native / Expo hooks and components for building your own app on an ACMS site.
+2026-10-01T01:03:29.206Z,hyperion-react-native-testapp,999.0.0,0x200notfound,MIT,241,Security Research PoC - Name Reservation
+2026-10-01T01:04:58.3Z,neuralos-engine-windows-x64,3.10.1,hyperspaceng,Apache-2.0,36584323,neuralOS engine (libneedle3) and base weights (needle3.cact) for win32-x64 — the platform payload for the neuralos package. Install neuralos instead of this package directly.
+2026-10-01T01:05:18.454Z,@quillllllll/rsm,3.1.4,quillllllll,MIT,6292523,"MCP server for testing, debugging, and controlling Roblox Studio from AI coding tools"
+2026-10-01T01:05:30.121Z,asbuiltby,0.1.0,asbuiltby,UNLICENSED,931444,Your AI writes the code. AsBuiltBy draws the blueprints. Local capture bridge for AsBuiltBy Cloud.
+2026-10-01T01:05:46.216Z,@quillllllll/rsm-inspector,3.1.4,quillllllll,MIT,6292592,DataModel read-only MCP server for inspecting and debugging Roblox Studio from AI coding tools
+2026-10-01T01:05:57.136Z,@hot-updater/protocol,1.0.0-rc.20,gronxb,MIT,83138,Data formats and pure computations shared by the Hot Updater app and server.
+2026-10-01T01:07:17.753Z,shipclear,0.2.0,adamtimmerberg,MIT,128209,"The last command before you launch. A free, local, cross-agent security gate for AI-built apps: prevents leaked secrets while you build, blocks them at commit time, and gives you a plain-English safe…"
+2026-10-01T01:08:01.822Z,@flipperdotfamily/sdk,0.2.0,flipperdotfamily,MIT,2669509,"Headless TypeScript SDK for flipper.family coin flips (viem): flips, native ETH, token listing, deployments, odds and settlement helpers. Robinhood Chain."
+2026-10-01T01:08:08.22Z,@flipperdotfamily/widget,0.2.0,flipperdotfamily,MIT,10268111,"Drop-in coin-flip widget for flipper.family: a framework-agnostic <flipper-widget> web component. Bring your own wallet (any EIP-1193 provider or viem WalletClient), theme it, white-label it."
+2026-10-01T01:08:11.517Z,@flipperdotfamily/angular,0.2.0,flipperdotfamily,MIT,36825,Angular standalone component for flipper.family: the drop-in <flipper-widget> coin flip with typed inputs and outputs (bring your own wallet). Angular 17+.
+2026-10-01T01:08:15.517Z,@flipperdotfamily/react,0.2.0,flipperdotfamily,MIT,29951,"React components and hooks for flipper.family: the drop-in <FlipperWidget /> (SSR-safe, bring your own wallet) and a headless useFlipperClient hook."
+2026-10-01T01:08:19.078Z,@flipperdotfamily/react-native,0.2.0,flipperdotfamily,MIT,292187,"The flipper.family flip widget for React Native: a WebView embed wired to your app's wallet, plus headless hooks for fully native UI."
+2026-10-01T01:08:21.841Z,@flipperdotfamily/svelte,0.2.0,flipperdotfamily,MIT,7827,Svelte 5 component for flipper.family: the drop-in <FlipperWidget> coin flip (bring your own wallet).
+2026-10-01T01:08:24.998Z,@flipperdotfamily/vue,0.2.0,flipperdotfamily,MIT,32449,"Vue 3 component, plugin and composable for flipper.family: the drop-in <FlipperWidget> (bring your own wallet) and a headless useFlipperClient."
+2026-10-01T01:12:02.422Z,etymon,0.1.0,landoncrabtree,MIT,585391,"A portable environment manager for coding agent skills, MCP servers, and agents"
+2026-10-01T01:15:16.56Z,@gitmyabi/wpunk,1.0.0,gitmyabi-bot,MIT,128342,"Auto-generated TypeScript type bindings for WPUNK (build etherscan-wpunk-af6a1125-1790817220663, commit 7232590, branch etherscan)"
+2026-10-01T01:15:19.262Z,@johnmorrisdotca/domino,1.0.0,johnmorrisdotca,MIT,59039,"Dominoes for JavaScript and TypeScript: double-nine, double-twelve and double-fifteen sets, and the full rules of Mexican Train for two to eight players, with a computer player, seeded deals that rep…"
+2026-10-01T01:17:03.826Z,@sie-js/ffs,0.1.0,perk11,MIT,415062,Reads and writes the filesystem of Siemens phones' fullflashes
+2026-10-01T01:18:58.793Z,protokuda,2.0.0,dennisdunn,MIT,24734,A Star Trek-ish stylesheet: what Michael Okuda might have drawn on his way to LCARS.
+2026-10-01T01:19:29.535Z,pkg-del-stardorty,0.0.0-stage,maitxn,,339,Temporary package placeholder for staged publishing
+2026-10-01T01:19:51.588Z,pkg-oidc-rev-irons-seers-raits-octet,,,,,
+2026-10-01T01:20:08.818Z,pkg-stage-panes-taube-cline-bring,1.0.0,maitxn,ISC,229,empty
+2026-10-01T01:20:28.946Z,pkg-rollback-metes-auric-sones-pearl,0.0.0-stage,maitxn,,358,Temporary package placeholder for staged publishing
