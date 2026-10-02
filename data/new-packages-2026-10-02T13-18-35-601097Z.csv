@@ -1,0 +1,165 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-02T12:14:56.355Z,@crooycom/pi-read-only,0.1.1,crooycom,MIT,14804,Read-only mode for Pi — question & discussion mode with no side effects
+2026-10-02T12:18:54.117Z,affise-attribution-module-persistent,1.7.16,affise,MIT,4809,Affise Attribution Module Persistent
+2026-10-02T12:20:46.077Z,affise-attribution-module-phone,1.7.16,affise,MIT,6507,Affise Attribution Module Phone
+2026-10-02T12:20:54.546Z,@dsh-workbench/module-hello,0.1.1,ckang1229,,5379,最小模块包（S1b 原型）：只认外壳的 workbenchUnits 服务，不认识外壳源码。用来证明「装 → 挂载 → 卸 → 消失」这条链路。
+2026-10-02T12:21:03.305Z,@dsh-workbench/module-tools,0.1.1,ckang1229,MIT,46640,模块包的构建与门禁工具：build（单文件 ESM 宿主侧 + 套 loader 壳的浏览器侧）、check（契约/产物边界/源码边界/卡片渲染）。模块包不再各带一份构建脚本。
+2026-10-02T12:21:21.483Z,@dsh-workbench/shared,0.1.1,ckang1229,MIT,456534,工作台与模块共享的纯代码与契约类型：类型、纯逻辑、哑组件、平台解析。宿主侧的东西从 /host 进（不影响浏览器产物）。
+2026-10-02T12:21:24.984Z,smithtalks-mcp,1.0.0,mozzi,MIT,34425,"MCP server for SmithTalks — a pseudonymous message network for AI agents. Claims with public adjudication, a marketplace between agents, and a sealed ledger you can verify without trusting the server."
+2026-10-02T12:21:43.441Z,affise-attribution-module-rustore,1.7.16,affise,MIT,6665,Affise Attribution Module RuStore
+2026-10-02T12:21:45.923Z,pi-roundtable-sandbox,0.7.0,weihung1017,MIT,75303,Sealed guest channels and an allow-listed credential broker for pi-roundtable
+2026-10-02T12:21:48.216Z,pi-better-model-select,0.1.4,msenebald,MIT,58821,"Better model select for pi — /bms opens a searchable model picker sorted by how often you actually use each model, with inline add, update and delete."
+2026-10-02T12:22:26.361Z,@dsh-workbench/core,0.1.1,ckang1229,,1242854,个人工作台：Agent 工作台外壳（左栏 + 常驻对话 + 自研右侧数据面板）。
+2026-10-02T12:23:08.032Z,affise-attribution-module-status,1.7.16,affise,MIT,7053,Affise Attribution Module Status
+2026-10-02T12:23:11.425Z,@biochep/astralsvg,1.0.0,biochep,,1638,Astral SVG
+2026-10-02T12:23:13.58Z,@shaik-noor/web-terminal-helper,0.1.0,shaik-noor,MIT,127456,Local helper daemon for web-terminal
+2026-10-02T12:23:19.921Z,@serverless-agents/harness,0.1.0,ananya150,MIT,84403,TypeScript contracts for durable Serverless Agents harnesses
+2026-10-02T12:23:26.663Z,@fluce/proctor,0.1.0,fluce,MIT,481556,"Agent-agnostic evaluation harness for coding agents and their plugins, skills and tools: xUnit lifecycle, one sandbox per trial, CTRF reports."
+2026-10-02T12:25:21.596Z,reborn-airbyte,1.0.1,kimsungjun,MIT,33690,"Airbyte Agents(호스팅 MCP · Context Store)를 클로드 코드에 붙이는 공식 명령(claude mcp add --transport http airbyte-agent https://mcp.airbyte.ai/mcp)과 그 뒤 인증 단계, 붙인 뒤 막아 둘 것(쓰기 권한 · 무료 월 1,000 작업 · 토큰 절감은 「최대」 수치)을 한…"
+2026-10-02T12:25:22.024Z,@fddarcbase/shared,1.20261002.1-beta.2,fddarcbase,MIT,19457460,
+2026-10-02T12:25:26.187Z,@fddarcbase/client,1.20261002.1-beta.2,fddarcbase,MIT,84712,单组织 Go 基础版的独立 TypeScript API 客户端。运行时只依赖 `@fddarcbase/shared`，不依赖 React、Semi UI、TanStack Query、Web 源码或浏览器存储。支持 workspace 开发和根目录 `pack:packages` 的编译后 tarball 交付，可在仓库外安装，并由普通 Node 直接导入 ESM。
+2026-10-02T12:25:29.594Z,@fddarcbase/elements,1.20261002.1-beta.2,fddarcbase,MIT,46424,"Composable ArcBase session, login, permission, avatar and file elements."
+2026-10-02T12:25:46.353Z,@fddarcbase/admin,1.20261002.1-beta.2,fddarcbase,MIT,70694686,Original ArcBase admin as an embeddable React component.
+2026-10-02T12:25:57.867Z,@kovenlabs/animated-icons,0.1.0-alpha.0,ayoub.ben,MIT,905362,Animated React icons with 1–3 color slots that read from your shadcn/ui theme.
+2026-10-02T12:26:07.597Z,@lydianpay/ldk-checkout-protocol,0.1.0,izzylydian,MIT,69221,"Intentionally scoped Lydian checkout protocol: wire types, protocol versioning and the wallet-catalog LDK capability contract consumed by the Lydian Development Kit."
+2026-10-02T12:26:19.941Z,affise-attribution-module-subscription,1.7.16,affise,MIT,7149,Affise Attribution Module Subscription
+2026-10-02T12:26:21.758Z,@jolly-pixel/console,1.0.0,fraxken,MIT,245204,Command palette and developer console for JollyPixel's editors
+2026-10-02T12:26:23.46Z,create-arcbase,1.20261002.1-beta.2,fddarcbase,MIT,38478226,从已交付包创建独立项目，保留原 `ArcBaseAdmin`、React Router 和 Semi UI 页面。Node 仅参与生成/开发/构建，生产直接运行宿主 Go 二进制。
+2026-10-02T12:27:31.867Z,vue-saas-kit,0.1.0-beta.1,eugenia-v,MIT,37893,Specialized Vue 3 SaaS dashboard UI kit built on top of modular-ui-kit-vue
+2026-10-02T12:27:46.013Z,crm-backend-generator,0.1.0-beta.1,umangpanchal,MIT,1263713,"Generate maintainable TypeScript CRM backends with auth, RBAC, REST, GraphQL, Prisma, Docker, and extensible adapters"
+2026-10-02T12:27:51.482Z,@caxperts/toolkit-plugin-sdk,2026.4.1,caxfw,MIT,144989,SDK for building Toolkit frontend plugins
+2026-10-02T12:27:55.851Z,affise-attribution-module-tiktok,1.7.16,affise,MIT,7053,Affise Attribution Module TikTok
+2026-10-02T12:29:14.625Z,@ag-ui/antigravity,0.0.1,_mme,MIT,16464,AG-UI integration for Google Antigravity - thin TypeScript client for Antigravity-backed AG-UI agents
+2026-10-02T12:29:17.725Z,@aplopes/notedeck-sdk,0.1.0,aplopes,MIT,17531,"Server-side SDK for connecting a third-party app to a NoteDeck user's recordings (sessions, transcripts, AI, audio) over a signed OAuth-style handshake."
+2026-10-02T12:29:29.712Z,payhumans-ai-cli,0.1.0,0xsachink,MIT,15593,A focused CLI for AI agents to fund human-executed fiat payments with USDC on Base
+2026-10-02T12:30:33.774Z,n8n-nodes-revamp,0.1.1,revamp-dev,MIT,48447,Create or redesign websites with Revamp and follow their progress from your workflows.
+2026-10-02T12:30:45.783Z,@semi-bot/semi-theme-tyidea,1.0.1,semi-bot,MIT,1512240,Semi theme generated by dsm. https://semi.design/dsm
+2026-10-02T12:31:25.136Z,@aihu/templates-cf-solo,0.2.0,srmcguirt,MIT,28115,Cloudflare Workers single-package solo template for Aihu
+2026-10-02T12:32:18.892Z,@pepepow/pepew-js,0.1.0,pepew,MIT,28118,"PEPEW protocol utilities for Payment URI parsing, serialization, address validation and amount handling."
+2026-10-02T12:32:41.533Z,@hajilongshi/dsh-reasoning-effort,0.9.0,hajilongshi,MIT,3355219,"Codex-style DeepSeek Harness model and reasoning selector with model-advertised effort levels, DSH-native themes, left-clipped radiation effects, and copy-ready reasoning-effort declaration guidance…"
+2026-10-02T12:33:35.899Z,@pepepow/pepewpay-merchant,0.1.0,pepew,MIT,23928,Server-side merchant helpers for the PEPEW Payment Platform.
+2026-10-02T12:34:26.028Z,jev-agent-tools,0.1.3,nomenak,MIT,728815,"Six evidence-oriented tools for pi and omp coding agents, compatible with the Jev API format."
+2026-10-02T12:35:50.027Z,convex-profile-cli,0.1.0,viettran210,MIT,236152,Named profiles for self-hosted and Convex Cloud deployments; wraps the official Convex CLI.
+2026-10-02T12:35:53.01Z,@matita/icons,0.1.1,ldons,MIT,315061,"Freehand pencil icons for the web: ruled strokes that overshoot, crossed corners, circles that overlap where the pen closes."
+2026-10-02T12:35:53.403Z,@black942026/harness-acp-bridge-pi-extension,0.1.0,black942026,MIT,48847,Thin Pi client for harness-acp-bridge with reverse-request user interaction
+2026-10-02T12:36:57.241Z,tongflow-studio,0.1.0,tongflow,AGPL-3.0-only,12216018,"TongFlow's media studio for agents: projects as plain folders, one TongFlow workflow per generated asset stored next to its outputs, deterministic media generation — served as an MCP server with a St…"
+2026-10-02T12:37:30.816Z,@dsh-libing/session-id,0.1.0,jinxing.lu,UNLICENSED,11462,在会话标题旁显示完整会话 ID，点击即可复制
+2026-10-02T12:37:33.814Z,mdlogic,0.3.0-beta.1,lemuridaelabs,UNLICENSED,165415,"The command-line client for Markdown Logic. Publish Markdown and structured documents, render PDF, DOCX, HTML and EPUB, cut releases and manage share links from your terminal or CI."
+2026-10-02T12:38:52.507Z,@nntoan/figma-mcp-rust,0.1.0,nntoan,MIT,50768379,"Zero-cost, unlimited Figma MCP server: no API key, no rate limits (Rust port of vkhanhqui/figma-mcp-go)"
+2026-10-02T12:39:28.577Z,@nexus-aethra/dsh-box-sandbox,0.1.0,nexus-aethra,MIT,99027,Host-side bridge from a DSH session to the DSH Box daemon: typed box_* tools an agent can call without a shell.
+2026-10-02T12:40:11.606Z,myrmo,0.2.0,martinm10,Apache-2.0,60290,"Myrmo client: shared memory of solved errors for AI agents. Fingerprints, redaction and the colony API."
+2026-10-02T12:40:13.207Z,myrmo-mcp,0.2.0,martinm10,Apache-2.0,34627,"MCP server for Myrmo: lets any MCP client search, follow, reinforce and publish trails of solved errors."
+2026-10-02T12:40:13.623Z,baileys-buttons,1.3.0,pooshpooshon,MIT,41645,"Send WhatsApp interactive buttons, lists and polls with Baileys (WhiskeySockets) — without touching Baileys' source"
+2026-10-02T12:40:19.581Z,@sbissoli/mcp-surface,0.1.0,sbissoli,MIT,92864,"Impressão digital da superfície de um servidor MCP: initialize (instructions + capabilities) + tools/resources/prompts + quem responde sem token, travados ao lado da versão — mudou sem subir a versão…"
+2026-10-02T12:40:22.271Z,founder-schema,0.1.0,harijoshi123,MIT,354788,"Shared Zod schemas for Founder Circle — single source of truth for API contracts, validation, and TypeScript types (backend + web client + app client)."
+2026-10-02T12:41:18.872Z,@little-nebulae/string-types,0.1.0,ryanluong,MIT,2900,
+2026-10-02T12:42:06.638Z,@episterra/epigo-sdk,0.1.0,episterra,UNLICENSED,4379640,"The EpiGo platform SDK for Episterra-built sites: typed tool calls, typed reads, config discovery and money helpers over an admin-approved site connection."
+2026-10-02T12:42:10.64Z,@display-studio/vite-plugin-shopify-theme,0.2.1,lucaargentieri,MIT,107780,A focused Vite 8 integration for Shopify themes
+2026-10-02T12:42:10.712Z,opentel-mcp-ui,0.1.0,thirumalaiboobathi,MIT,283541,"Zero-infrastructure local dashboard for opentel-mcp -- the silent failures, cost, and thrash loops standard OTel tracing misses"
+2026-10-02T12:42:29.273Z,creator-editing-studio,1.0.20260930,chharang2.0,UNLICENSED,300861,"Scaffolds a Creator Editing OS studio — components, scripts and rules for editing video from a plain-English brief."
+2026-10-02T12:42:32.556Z,befr-status,0.1.0,dunsin,MIT,19185,"Reports your AI agent's working status to Be-FR, so your phone stays free while your agents work and locks when they need you."
+2026-10-02T12:44:04.354Z,@zeroicey/engram,0.2.1,zeroicey,MIT,313801,"Portable project memory + scaffold for AI coding tools (.ai/ memory bank, cross-tool AGENTS.md/CLAUDE.md/.cursorrules contracts, ≤1.5KB context fingerprint)."
+2026-10-02T12:44:10.285Z,repo-fit,0.5.0,jimmysadek,MIT,281594,"Give your project a memory: a session briefing, one list of everything open, safe automatic saves and one rulebook for Claude Code and Codex. Works on new and existing projects."
+2026-10-02T12:45:11.376Z,@kud/opencode-ink,0.1.0,kud,MIT,25776,"A terminal switcher for running opencode servers: list every session, attach with a keystroke, stop headless instances"
+2026-10-02T12:45:19.048Z,naso-dev,1.0.0,contactmrval,MIT,221226,"A two-step setup for AI coding agents: generate a briefing the agent can trust, then keep it true mechanically."
+2026-10-02T12:45:44.086Z,ai-practicals,1.0.0,rohitmankar01,MIT,20951,25 Artificial Intelligence and Python practical programs for students
+2026-10-02T12:46:08.561Z,qewordly,0.1.0,creatorlz,,16623,Scaffold a Qewordly blog into any Next.js App Router site. Run: npx qewordly init
+2026-10-02T12:46:27.847Z,@muhadif/teamskills,0.1.0,muhadif,MIT,22558,"Install, publish, and share AI agent skills"
+2026-10-02T12:46:48.721Z,@lucasdicioccio/tramaj-js,0.0.0-stage,lucasdicioccio,,347,Temporary package placeholder for staged publishing
+2026-10-02T12:46:59.217Z,@lucasdicioccio/tramaj-react,0.0.0-stage,lucasdicioccio,,350,Temporary package placeholder for staged publishing
+2026-10-02T12:47:05.715Z,@weboxgames/shared,0.2.0,rickdevrocha,MIT,127406,Tipos e protocolo compartilhados do Webox Games (usado pelo @weboxgames/sdk).
+2026-10-02T12:47:12.161Z,@weboxgames/sdk,0.2.0,rickdevrocha,MIT,132507,"SDK do Webox Games: integra jogos web à plataforma (conquistas, rankings, saves, multiplayer, eventos...)."
+2026-10-02T12:47:28.248Z,@ab-tester/constants,0.0.2,bastianparedes,,53887,This was created by Bastián Paredes
+2026-10-02T12:47:38.676Z,three-ue-controls,0.1.0,aidannewsome,MIT,23550,Camera controls for three.js that feel and work like Unreal Engine's editor viewport.
+2026-10-02T12:47:46.161Z,@limiteddissolve/wander-mark-cli,1.1.2,limiteddissolve,MIT,68595,CLI tool for building and deploying Wander Mark static sites
+2026-10-02T12:49:34.129Z,ooxml-core,0.2.0,christophervr,Apache-2.0,30649512,"Shared OOXML logic for the Word, PowerPoint and Excel viewers: everything except the UI"
+2026-10-02T12:49:54.159Z,ooxml-ui,0.1.1,christophervr,Apache-2.0,87053,"Shared, format-neutral web components and styles for the Office viewers (Word, PowerPoint, Excel)"
+2026-10-02T12:51:25.041Z,@jcf-dev/resilience-ts,0.1.0,jcf-dev,MIT,207274,"Composable resilience pipelines for Node: retry, circuit breaker, timeout, rate limiter, fallback and hedging"
+2026-10-02T12:51:26.157Z,@cafinxmcp/openapi-mcp,1.1.3,cafinxmcp,UNLICENSED,101779,CAFINX 开放接口 MCP。用商户自己的 Access Key 和私钥签名，不把卡号和安全码交给模型。
+2026-10-02T12:52:04.943Z,@lacspace/extractive,1.0.0,thelacspace,SEE LICENSE IN LICENSE,62975,"Turn a full article into a compact brief for an AI writer — extractive TextRank summary, key-facts (numbers, money, percentages, dates, named entities), headline candidates and key phrases/hashtags,…"
+2026-10-02T12:52:08.432Z,@kapula/protocol,0.1.0-alpha.1,porrasm,MIT,187392,"Kapula wire protocol: zod schemas, constants and types shared by the server, the phone UI and drivers"
+2026-10-02T12:52:25.052Z,@kapula/server,0.1.0-alpha.1,porrasm,MIT,321850,"Kapula server core: sessions, signaling and the driver/player/host HTTP APIs over a pluggable store"
+2026-10-02T12:52:43.45Z,@kapula/phone,0.1.0-alpha.1,porrasm,MIT,523884,"Kapula phone UI: the React screens a player uses to join a session and play, host-agnostic"
+2026-10-02T12:53:23.805Z,jira-tempo-mcp,0.6.0,korrnals,MIT,10774,"MCP server for self-hosted Jira + Tempo Timesheets: track time, list worklogs, generate weekly reports. npm wrapper — installs and runs the Python package (PyPI: jira-tempo-mcp)."
+2026-10-02T12:53:46.258Z,@sentropic/bpmn-canvas,0.1.0,rhk,MIT,601555,"Framework-independent BPMN 2.0 editing canvas built on bpmn-js, with React and assistant-ui adapters."
+2026-10-02T12:54:22.744Z,@cipher208/opencode-doc-select,0.1.0,cipher208,MIT,23552,OpenCode plugin: open a file in a tmux pane and read back the text the user selected with the mouse.
+2026-10-02T12:54:46.71Z,@monstermann/barrels-treeshake,0.5.0,monstermann,MIT,25449,Replaces the members of imported namespaces with direct imports.
+2026-10-02T12:54:48.224Z,docx-core,0.1.0,christophervr,Apache-2.0,13296,"Framework-neutral DOCX document model, parser and serializer (thin entry point over ooxml-core/docx)"
+2026-10-02T12:54:50.35Z,talos-fluxer,0.1.0,sevetin,AGPL-3.0-only,4031920,"A portable, TypeScript-first Fluxer SDK"
+2026-10-02T12:54:53.838Z,docx-react-viewer,0.1.0,christophervr,Apache-2.0,822529,"React component for the DOCX editor. Self-contained: includes the editor, layout engine and legacy .doc reader."
+2026-10-02T12:55:00.122Z,docx-vue-viewer,0.1.0,christophervr,Apache-2.0,824597,"Vue 3 component for the DOCX editor. Self-contained: includes the editor, layout engine and legacy .doc reader."
+2026-10-02T12:55:04.915Z,docx-angular-viewer,0.1.0,christophervr,Apache-2.0,825009,"Angular standalone component for the DOCX editor. Self-contained: includes the editor, layout engine and legacy .doc reader."
+2026-10-02T12:55:10.523Z,docx-svelte-viewer,0.1.0,christophervr,Apache-2.0,825780,"Svelte 5 component for the DOCX editor. Self-contained: includes the editor, layout engine and legacy .doc reader."
+2026-10-02T12:55:16.226Z,docx-solid-viewer,0.1.0,christophervr,Apache-2.0,822691,"Solid component for the DOCX editor. Self-contained: includes the editor, layout engine and legacy .doc reader."
+2026-10-02T12:55:16.99Z,smalljudge,0.0.1,benhall,UNLICENSED,1165,SmallJudge CLI
+2026-10-02T12:55:21.85Z,docx-vanilla-viewer,0.1.0,christophervr,Apache-2.0,823410,"The plain <docx-editor> web component and mountEditor() for the DOCX editor, with no framework. Self-contained: includes the editor, layout engine and legacy .doc reader."
+2026-10-02T12:55:29.016Z,dsh-pet-seen,0.0.1,starwithfox,MIT,2550,Placeholder release. DSH (DeepSeek Harness) <-> desktop pet notice bridge: the pet's completion prompt is retracted only after the user has actually seen that result row.
+2026-10-02T12:55:31.15Z,smalljudges,0.0.1,benhall,UNLICENSED,785,Use smalljudge instead
+2026-10-02T12:55:33.653Z,@brunocarvalho/sanitize-html,1.0.0,brunocarvalhodearaujo,ISC,105182,Sanitizador de HTML contra XSS escrito em TypeScript.
+2026-10-02T12:55:43.325Z,htmx-ui,0.1.0,susonwaiba,MIT,136486,"Tailwind CSS v4 components for htmx apps: plain HTML, themeable with CSS variables, dark mode built in."
+2026-10-02T12:55:44.673Z,htmx-ui-engine,0.1.0,susonwaiba,MIT,147971,"Build htmx sites from Nunjucks pages: file-based routing, Tailwind, dev server with HMR and static builds, on Bun or Node."
+2026-10-02T12:55:46.065Z,create-htmx-ui,0.1.0,susonwaiba,MIT,15557,"Start a new htmx-ui site: npm create htmx-ui, pnpm create htmx-ui, yarn create htmx-ui, bun create htmx-ui."
+2026-10-02T12:56:13.974Z,@lix-js/storage-filesystem-linux-x64,0.19.0-bootstrap.0,samuelstroschein,,424774132,Native binary for @lix-js/storage-filesystem on linux-x64.
+2026-10-02T12:56:58.233Z,@lix-js/storage-filesystem-linux-arm64,0.19.0-bootstrap.0,samuelstroschein,,342253274,Native binary for @lix-js/storage-filesystem on linux-arm64.
+2026-10-02T12:57:04.34Z,@lix-js/storage-filesystem-darwin-arm64,0.19.0-bootstrap.0,samuelstroschein,,335431581,Native binary for @lix-js/storage-filesystem on darwin-arm64.
+2026-10-02T12:57:06.374Z,@gykh/enigma,1.0.0,sylvesterdas,MIT,26261,"⚡ Historically accurate, zero-dependency Enigma machine in Node.js: rotors I–VIII, reflectors, ring settings, plugboard & double-stepping. Strings, Buffers & Streams."
+2026-10-02T12:58:06.988Z,@miraiclip/assistant,0.1.0,vsareen0,MIT,256502,"An AI editing assistant for Miraiclip: a vendor-neutral ChatModel contract (OpenAI first; any OpenAI-compatible server works), an agent loop that edits a forked project and lands each request as one…"
+2026-10-02T12:58:18.144Z,@louisremi/dsh-docker-adapter,0.0.0-stage,louisremi,,351,Temporary package placeholder for staged publishing
+2026-10-02T12:58:38.176Z,n8n-nodes-moss-ai,3.1.5,x12363,MIT,71878,"Erase image watermarks and video text, and resolve share links using native 550W OAuth REST APIs"
+2026-10-02T12:59:45.494Z,@tcc-engine/frontend-typescript,26.10.0,hypervs,BUSL-1.1,88960,TypeScript frontend: compile supported programs into TCC artifacts
+2026-10-02T12:59:48.715Z,@tcc-engine/bindings-javascript,26.10.0,hypervs,BUSL-1.1,519832,JavaScript binding for the TCC WASM engine
+2026-10-02T12:59:54.097Z,iobroker.pfsense,0.1.1,alansru,MIT,409001,"Monitor and control pfSense firewalls through the pfSense REST API package: system health, interfaces, gateways, services, DHCP and presence, VPN, CARP, firewall rules and Wake-on-LAN"
+2026-10-02T13:00:16.996Z,@effect-aws/client-resource-groups-tagging-api,2.0.0-beta.8,f1oyd,MIT,49774,Effectful AWS Resource Groups Tagging API client
+2026-10-02T13:01:20.361Z,@ab-tester/debug-panel,0.0.2,bastianparedes,,227977,This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2026-10-02T13:02:26.266Z,@hey-research-lab/project-manifest,0.1.0,heyresearchlab,MIT,522450,"A machine-readable declaration format (/.well-known/hey-project.json) for Robinhood Chain projects: JSON Schema, TypeScript types, validator and CLI. Declared, not verified."
+2026-10-02T13:02:36.626Z,json-bigint-reviver,1.0.0,poggiplay,ISC,4637,Parse JSON numbers without losing precision. Integers outside JavaScript's safe range become `bigint`; everything else stays a regular `number`.
+2026-10-02T13:02:47.41Z,dsh-plugin-cohere,0.1.10,cn47mp,MIT,214759,"DSH native model provider for the Cohere v2 Chat API (https://api.cohere.com/v2/chat) — direct wire adapter, no proxy."
+2026-10-02T13:02:50.011Z,@hey-research-lab/agent-contract,0.1.0,heyresearchlab,MIT,2454606,"The public contract of HEY's agent answers (AgentIntelligenceResponse v1): Zod schemas, TypeScript types, capability and unknown vocabularies, fixtures and test vectors."
+2026-10-02T13:03:07.291Z,outmapper,0.1.0,anisaydar,Apache-2.0,1450290,A local-first workspace for building and exploring interconnected knowledge maps.
+2026-10-02T13:03:27.131Z,@thenavidm/firefly-mcp-cli,2.0.0,thenavidm,AGPL-3.0-or-later,348990,"Adobe Firefly MCP server and CLI for Claude Code, Codex and AI agents. 14 tools for Image 5 generation and editing, video, generative fill, expansion, composites, upscaling, reference uploads, jobs a…"
+2026-10-02T13:03:27.733Z,@hey-research-lab/research-receipts,0.1.0,heyresearchlab,MIT,396660,"Specification, JSON Schema and stateless validator for AgentResearchReceipt v1: what an agent cited and concluded about a Robinhood Chain project."
+2026-10-02T13:04:22.951Z,@hey-research-lab/cli,0.1.0,heyresearchlab,MIT,88269,"Terminal client for HEY Research Lab's public API: Robinhood Chain projects, ships, changes, evidence and unknowns, with JSON output for scripts and agents."
+2026-10-02T13:04:45.706Z,resolve402-mcp,0.1.2,ckremer,MIT,10445,"MCP server for Resolve402: French company directors with their probable business email, paid per call with x402 (USDC on Base or Solana)."
+2026-10-02T13:04:45.779Z,@hey-research-lab/rhchain-registry,0.1.0,heyresearchlab,MIT,283890,"A community-maintained, CI-validated registry of Robinhood Chain infrastructure (DEXes, factories, launchpads, protocols, explorers, RPC) with public sources for every entry."
+2026-10-02T13:05:12.527Z,@hey-research-lab/chainprint,0.1.0,heyresearchlab,MIT,659071,"Detects evidence that a source repository targets Robinhood Chain (chain id 4663) and explains a deterministic confidence. A marker is evidence, not identity."
+2026-10-02T13:05:24.114Z,@lacspace/commentguard,1.0.0,thelacspace,SEE LICENSE IN LICENSE,55982,"Comment moderation for English, romanized Nepali and Devanagari — scores spam, abuse, hate, doxxing and link-spam and returns an allow / review / flag / hide action, with PII detection (Nepali phone,…"
+2026-10-02T13:05:32.406Z,@lacspace/hookwriter,1.0.0,thelacspace,SEE LICENSE IN LICENSE,89053,"Deterministic platform copy from facts — hooks, titles, captions, CTAs and descriptions in many styles (question, number-led, what-it-means, contrast, breaking, how-to, quote…), English and Nepali, t…"
+2026-10-02T13:05:35.709Z,@hey-research-lab/embed,0.1.0,heyresearchlab,MIT,136689,"Dependency-free <hey-project> Web Component and URL builder for embedding HEY's builder evidence widgets, served by heyresearch.xyz."
+2026-10-02T13:05:41.295Z,@lacspace/postbandit,1.0.0,thelacspace,SEE LICENSE IN LICENSE,41274,"A tiny Thompson-sampling multi-armed bandit to learn the best option per platform — posting time, format (video/image/carousel/text), thumbnail or title variant — from engagement rewards. Beta poster…"
+2026-10-02T13:05:48.05Z,@workweaver/cli,0.1.13,admin-workweaver,AGPL-3.0-or-later,1855,"Workweaver turns a goal you state in plain language into finished work, with a receipt for every decision."
+2026-10-02T13:06:02.71Z,@reactionary/acp,0.10.31,asger.jensen,,53253,HTTP adapter for exposing Reactionary checkout capabilities through the Agentic Commerce Protocol (ACP) checkout surface.
+2026-10-02T13:06:10.986Z,@reactionary/mcp,0.10.31,asger.jensen,,63291,`@reactionary/mcp` exposes an instantiated Reactionary client surface as a Model Context Protocol (MCP) HTTP service.
+2026-10-02T13:06:20.772Z,@reactionary/ucp,0.10.31,asger.jensen,,207804,Framework shell for exposing Reactionary through a Universal Commerce Protocol (UCP) HTTP surface.
+2026-10-02T13:06:27.473Z,@ng-galien/trust,0.1.0,ng-galien,MIT,67448894,"TRUST server, web interface, Runner and agent skills in one command"
+2026-10-02T13:06:30.168Z,@reactionary/feeds,0.10.31,asger.jensen,,7282319,Reusable product-feed generation for Reactionary clients.
+2026-10-02T13:06:31.551Z,tourist-trip-schema,0.1.0,firstpoint,MIT,40563,Build valid schema.org TouristTrip JSON-LD for tour itineraries. Zero dependencies.
+2026-10-02T13:06:50.101Z,@datainbox/chat-sdk,0.1.0-beta.1,david-datastreams,SEE LICENSE IN LICENSE,30891,Headless browser SDK for the Datainbox public webchat protocol.
+2026-10-02T13:06:58.717Z,dsh-session-dock,0.1.0,moze30,MIT,58447,"DSH Web session tools: recall a conversation turn, compact the context on demand, and permanently delete archived sessions."
+2026-10-02T13:07:04.946Z,rhizo-co-terraform-provider-google-beta,1.0.0,jgrobbel,MPL-2.0,450426311,Prebuilt google-beta Provider for Terraform CDK (cdktf)
+2026-10-02T13:07:24.402Z,@tengence/search-sdk,0.1.0,tengence,MIT,38460,"Tengence Search SDK: lazy auto-registration, dataset/search-app initialization, data push and full-text search (thin HTTP client, no local business database). 通智搜索 SDK：自动注册 + 初始化 + 推送 + 搜索（薄 HTTP 客户端）"
+2026-10-02T13:07:35.288Z,@tengence/search-cli,0.1.0,tengence,MIT,36561,通智搜索 CLI：初始化 + 文件推送 + 搜索（@tengence/search-sdk 的 CLI 入口层，与 MCP 服务器共享同一本地身份）
+2026-10-02T13:07:45.015Z,@tengence/search-mcp,0.1.1,tengence,MIT,20826,"Tengence Search MCP server: initialize search apps, push data and search via official APIs (thin wrapper, lazy auto-registration). 通智搜索 MCP 服务器：初始化 + 推送 + 搜索（薄封装，启动自动注册）"
+2026-10-02T13:07:45.189Z,rhizo-co-terraform-provider-google,1.0.0,jgrobbel,MPL-2.0,413341775,Prebuilt google Provider for Terraform CDK (cdktf)
+2026-10-02T13:08:02.674Z,@dkangme2/forestal-ohiggins-design-system,0.1.0,dkangme2,UNLICENSED,443017,"Design System de Forestal O'Higgins: tokens, tema claro/oscuro y componentes React accesibles (WCAG 2.2 AA) basados en la Guía de Identidad Visual Grupo O'Higgins 2023."
+2026-10-02T13:08:10.874Z,@skillsync/cli,0.1.1,codingdud,,232570,Browser-authenticated CLI for syncing native AI Harness files with SkillShare.
+2026-10-02T13:08:17.538Z,@ozanarslan/native-jsx,0.1.0,ozanarslan,MIT,49576,Lowercase intrinsic elements for React Native
+2026-10-02T13:08:55.724Z,likvid-ui,0.1.0,d3forge,MIT,2172,Likvid UI — glass-кит React-компонентов в стиле Apple Liquid Glass
+2026-10-02T13:09:15.37Z,nautcms,0.1.0-alpha.0,chrisdott,MIT,5237171,An Astro-native CMS that bolts onto an existing project with one command
+2026-10-02T13:09:25.912Z,strapi-export-import-content,0.1.0,anrail,MIT,175979,"Round-trip export and import of collection entries as CSV, JSON or XLSX from the Content Manager list view"
+2026-10-02T13:10:32.562Z,@benjamind10/helm-daemon,0.1.1,benjamind10,,1649244,"The host side of Helm: runs Helm sessions on a remote Linux box, reached through an ssh tunnel."
+2026-10-02T13:11:19.35Z,@joowani/tree-sitter-mcp-darwin-arm64,0.1.0,joowani,MIT,34828279,The darwin-arm64 binary for tree-sitter-mcp
+2026-10-02T13:11:24.246Z,@joowani/tree-sitter-mcp-darwin-x64,0.1.0,joowani,MIT,34478393,The darwin-x64 binary for tree-sitter-mcp
+2026-10-02T13:11:29.376Z,@joowani/tree-sitter-mcp-linux-arm64,0.1.0,joowani,MIT,35204996,The linux-arm64 binary for tree-sitter-mcp
+2026-10-02T13:11:33.29Z,@joowani/tree-sitter-mcp-linux-x64,0.1.0,joowani,MIT,35204238,The linux-x64 binary for tree-sitter-mcp
+2026-10-02T13:11:37.239Z,@joowani/tree-sitter-mcp-win32-arm64,0.1.0,joowani,MIT,33464697,The win32-arm64 binary for tree-sitter-mcp
+2026-10-02T13:11:41.748Z,@joowani/tree-sitter-mcp-win32-x64,0.1.0,joowani,MIT,33603955,The win32-x64 binary for tree-sitter-mcp
+2026-10-02T13:11:56.653Z,@codefusion-cc/passkeys,0.1.0,xeonfx,MIT,69293,"WebAuthn passkeys on WebCrypto alone for a fresh step-up check before something sensitive: registration and assertions verified in a Cloudflare Worker (ES256, Ed25519, RS256), the ceremonies in the p…"
+2026-10-02T13:12:08.527Z,@mxstage/mxstage,0.2.4,mxstage-tsunagi,BUSL-1.1,8158030,"A local-only AI workbench for correcting IBM Maximo data: every change is staged, diffed and approved by a human before it is written to Maximo."
+2026-10-02T13:12:09.775Z,@reppr/backend,0.2.2,reppr,,25153294,"Reppr model storage, Piqoff registration and server PDF printing"
+2026-10-02T13:12:16.067Z,@civ-clone/base-unit-action-join-city,0.1.0,dom111,MIT,29458,"This package provides the `JoinCity` `Action` for `Unit`s: a unit (in Civilization, a Settlers) joining one of its player's cities, adding one to its size."
+2026-10-02T13:13:04.321Z,@reppr/frontend,0.2.2,reppr,,32313963,"Reppr report and catalogue designer, browser host and static assets"
+2026-10-02T13:13:44.614Z,@lacspace/trends,1.0.0,thelacspace,SEE LICENSE IN LICENSE,91518,"Trending topics and hashtags for a region from official/public sources only — Google Trends daily RSS (geo), YouTube Data API mostPopular (optional key), and Wikipedia pageviews — merged across scrip…"
+2026-10-02T13:15:06.383Z,tealbrick,0.3.0-rc.1,tealbrick,MIT,2249,Tealbrick kit CLI for explicit Portal-connected agent setup
+2026-10-02T13:15:15.276Z,@neo-tickets/passport,0.0.0-stage,neoleon,,343,Temporary package placeholder for staged publishing
+2026-10-02T13:15:50.988Z,cypress-performance-ui,1.0.0,petrosplakogiannis,MIT,13627,Cypress performance UI
+2026-10-02T13:16:04.435Z,@nordhealth/provet-pay-elements,0.15.0,jagoncalves14,SEE LICENSE IN LICENSE.md,2928212,"Embeddable Provet Pay card tokenizer — the Adyen Web v6 Sessions flow, mounted on the consumer’s own page and backed by Provet."
