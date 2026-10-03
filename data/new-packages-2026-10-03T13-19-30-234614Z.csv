@@ -1,0 +1,153 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-03T12:14:00.915Z,@thenavidm/testimonial-mcp-cli,2.0.1,thenavidm,AGPL-3.0,279350,"Testimonial.to shared task CLI and local MCP for current Space REST, separate public-use consent, exact reviewed imports and private bounded exports."
+2026-10-03T12:16:34.031Z,@veriworkly/ats-engine,0.1.0,gautam-raj,MIT,676081,"Reads a resume the way an applicant tracking system does, shows what it would store, and scores it with a published rubric. Deterministic, locale-aware, browser- and edge-safe."
+2026-10-03T12:18:42.881Z,@vbel/core,0.1.0,st3fansrb,Apache-2.0,150611,"Frozen event envelope, RFC 8785 canonicalization, hashing and ed25519 signing. No I/O."
+2026-10-03T12:19:04.479Z,@vbel/adapter-identity-ledger,0.1.0,st3fansrb,Apache-2.0,24194,"IdentityResolver over entity registrations carried in the ledger itself, rather than over a file the verifier has to be given separately."
+2026-10-03T12:19:07.857Z,@vbel/adapter-identity-static,0.1.0,st3fansrb,Apache-2.0,24357,"IdentityResolver over a static, explicitly-configured trust registry. The trust root is the file itself — see src/static-registry.ts."
+2026-10-03T12:19:10.251Z,@vbel/adapter-solana,0.1.0,st3fansrb,Apache-2.0,35080,"LedgerAdapter implementation over the SPL Memo program, Solana devnet. Execution only — config is injected, never read from process.env here."
+2026-10-03T12:19:13.255Z,@vbel/adapter-ethereum,0.1.0,st3fansrb,Apache-2.0,29260,"LedgerAdapter implementation over Ethereum calldata transactions. Execution only — config is injected, never read from process.env here."
+2026-10-03T12:19:15.324Z,@vbel/records,0.1.1,st3fansrb,Apache-2.0,104365,"Records for verifiable business events: a chain with payloads that may be withheld, a link codec, a verdict per record, selective disclosure and identity claims that travel with the chain. Domain-neu…"
+2026-10-03T12:19:38.021Z,dsh-academic-web-proxy,0.2.0,zappin,MIT,244645,"Academic URL proxying and metadata-based paper download filenames with Simplified Chinese, Traditional Chinese and US English settings for DeepSeek Harness"
+2026-10-03T12:20:30.537Z,next-skill-router,1.0.0,crown.aliy,MIT,142794,"Cost-aware, local-first skill routing for AI agents. MCP server + CLI."
+2026-10-03T12:20:39.837Z,@lndrstrll/pomuku-i18n,0.1.0,lndrstrll,MIT,11867,"pomuku's translations setup: i18next in english, italiano and español, with the strings every app shares"
+2026-10-03T12:20:42.194Z,@lndrstrll/pomuku-data,0.1.0,lndrstrll,MIT,37453,"pomuku's api client for the web apps: copies kept on the device, shown at once and refreshed in the background, outdated saves refused, and saves queued while offline"
+2026-10-03T12:20:44.117Z,@lndrstrll/pomuku-config,0.1.0,lndrstrll,MIT,5523,"pomuku's presets for an app's web build: typescript, oxlint, vite and vitest"
+2026-10-03T12:20:45.956Z,@lndrstrll/pomuku-server,0.1.0,lndrstrll,MIT,161347,"pomuku's backend core: a hono app built from an app's schema, with a database adapter, migrations, google sign-in, access tokens, a history log and a two-way sync with a google sheet"
+2026-10-03T12:20:47.997Z,@lndrstrll/pomuku-ui,0.1.0,lndrstrll,MIT,107242,"pomuku's shared interface: shadcn components, theme tokens each app overrides, the loading, busy and retry states, and the page shell"
+2026-10-03T12:20:49.793Z,@lndrstrll/pomuku-auth,0.1.0,lndrstrll,MIT,24645,"pomuku's sign-in for the web apps: google sign-in traded for a session with the backend, remembered on the device, with the sign-in control and the wall for private pages"
+2026-10-03T12:20:57.517Z,@loopengineering/diffs,0.0.0,azizbecha,Apache-2.0,311,Reserved for loopengineering/code. Under development.
+2026-10-03T12:20:59.457Z,@loopengineering/trees,0.0.0,azizbecha,Apache-2.0,311,Reserved for loopengineering/code. Under development.
+2026-10-03T12:21:01.392Z,@loopengineering/highlighter,0.0.0,azizbecha,Apache-2.0,323,Reserved for loopengineering/code. Under development.
+2026-10-03T12:21:03.522Z,@loopengineering/theme,0.0.0,azizbecha,Apache-2.0,311,Reserved for loopengineering/code. Under development.
+2026-10-03T12:21:05.996Z,@loopengineering/path-store,0.0.0,azizbecha,Apache-2.0,321,Reserved for loopengineering/code. Under development.
+2026-10-03T12:21:08.093Z,@loopengineering/diffs-native,0.0.0,azizbecha,Apache-2.0,325,Reserved for loopengineering/code. Under development.
+2026-10-03T12:22:26.486Z,@jimioffice/dsh-emil-skills,0.1.0,jimioffice,MIT,303611,Emil Kowalski's design-engineering skills (emilkowalski/skills) bundled for DeepSeek Harness as a skill provider.
+2026-10-03T12:22:29.07Z,@royalcat/opencode-dcp-rc,4.0.0,royalcat,AGPL-3.0-or-later,1341730,OpenCode DCP fork: hidden context compression with a selection-only compress tool (Sleev-style)
+2026-10-03T12:23:29.235Z,agentmaxxin,0.1.0,debanjannnyaps,MIT,60041,Scaffold a Next.js AI agent with tools and its own crypto wallet (Gemini + x402). Run: npx agentmaxxin my-agent
+2026-10-03T12:23:30.6Z,n8n-nodes-mostlyrender,0.1.0,maxcelar,MIT,49469,"n8n community node for MostlyRender: render your templates to PNG, JPEG, WebP or PDF and screenshot any public webpage via the MostlyRender API."
+2026-10-03T12:23:52.288Z,@keshavsoft/json-fs,1.3.1,keshavsoft,MIT,22197,JSON-driven folder and file scaffolding engine. Takes a JSON source-of-truth tree and creates the real folder/file structure on disk.
+2026-10-03T12:23:57.181Z,autotel-db,0.0.0,jagreehal,Apache-2.0,69089,"Shared vocabulary for database query insight: a statement hash for grouping, and db.plan.* attributes from any database's query plan"
+2026-10-03T12:24:31.89Z,autotel-mongodb,0.0.0,jagreehal,Apache-2.0,39424,"MongoDB query insight for OpenTelemetry: value-free db.query.text that groups, and db.plan.* from explain() with an ESR index suggestion"
+2026-10-03T12:25:30.751Z,cortex-rag,1.0.2,akshay_ravikanti,MIT,653025,"Codebase Intelligence Engine & MCP Server — AST semantic chunking, tri-hybrid retrieval (BM25 + vectors + graph), and grounded LLM synthesis for any repository."
+2026-10-03T12:27:05.275Z,@nielaoganbu/deepseek-harness-troubleshooting,1.0.0,nielaoganbu,,7437,A DeepSeek Harness skill that consults a preferred troubleshooting guide before self-debugging.
+2026-10-03T12:27:37.347Z,@openatlas/sdk,0.1.0,benedict258,MIT,33763,"TypeScript client for the hosted N-ATLaS models (Nigeria's sovereign LLM + Hausa/Yoruba/Igbo/Nigerian-English ASR). Non-commercial use only, per the N-ATLaS license."
+2026-10-03T12:28:45.401Z,@netzlabor/pi-session-memory,0.2.0,j-koester,MIT,32363,"Pi extension that gives the agent access to knowledge from previous sessions – auto-injected project memory, full-text search, LLM-generated summaries, and cross-project session access."
+2026-10-03T12:28:49.269Z,tanvir143-api,1.0.4,tanvir143,MIT,239954,"Instagram messaging API with cookie-based account sessions, real-time MQTT messaging, and bot-friendly utilities."
+2026-10-03T12:29:03.798Z,@tsforge7/heleket-sdk-nestjs,0.1.5,exact_07,ISC,58661,heleket sdk for nestjs
+2026-10-03T12:30:28.542Z,@chaindaddy/mcp,0.4.2,cdops,MIT,218788,"MCP server for Chain Daddy: search tickers, launch or import a token, and run its creator store"
+2026-10-03T12:30:45.063Z,@sprigr/apps-file-indexing,0.1.0,neberg,MIT,137737,"The shared file-indexing loop for marketplace apps that mirror a cloud drive into the platform's ACL-enforced file index (`<companyId>-app-<slug>-acl-files`). microsoft-365 (OneDrive and SharePoint),…"
+2026-10-03T12:31:08.88Z,@mvtjs/utils,0.1.0,yortus,MIT,704486,"Optional, renderer-agnostic helpers for MVT (Model-View-Ticker): updateView and refreshView, change detection, tweens, and the base for JSX targets"
+2026-10-03T12:31:19.809Z,x4-script-mcp,0.1.0,chemodun,Apache-2.0,119298,"MCP server for X4: Foundations scripts: checks, the elements and attributes of the game's schemas, expression types, scripts, cues and texts, for AI agents that write AI scripts and Mission Director…"
+2026-10-03T12:31:23.029Z,@mvtjs/html,0.1.0,yortus,MIT,201636,"MVT (Model-View-Ticker) for the DOM: updateView and refreshView over its elements, and a JSX runtime at ./jsx"
+2026-10-03T12:31:37.639Z,@mvtjs/pixi,0.1.0,yortus,MIT,159162,"MVT (Model-View-Ticker) for Pixi.js: updateView and refreshView over its containers, performance metrics, and a JSX runtime at ./jsx"
+2026-10-03T12:31:52.147Z,@mvtjs/three,0.1.0,yortus,MIT,65754,"MVT (Model-View-Ticker) for three.js: updateView and refreshView over its objects, a pointer picker, and a JSX runtime at ./jsx"
+2026-10-03T12:32:32.902Z,@nguyenduy1412/react-native-blur,1.0.2,nguyenduy1412,MIT,55012,"High-performance native BlurView for Expo and React Native: RenderEffect on Android, UIVisualEffectView on iOS"
+2026-10-03T12:33:34.678Z,claude-org,0.1.0,harieshokunin,MIT,34130,"Switch Claude Code between multiple Anthropic organizations, with automatic failover on the 5-hour rate limit"
+2026-10-03T12:33:50.997Z,@animuni-express/flowcore,0.2.1,animuni-express,,200042,"The document engine that powers [FlowNotes](https://github.com/Animuni-Express/FlowNotes) — parse almost any classroom document into clean, structured Markdown."
+2026-10-03T12:34:36.148Z,@skillmanager/shared,0.1.2,kingdani69,MIT,124234,"Shared types, adapters, and utilities for SkillManager"
+2026-10-03T12:34:41.151Z,@skillmanager/cli,0.1.1,kingdani69,MIT,76513,"SkillManager CLI — install AI agents into Cursor, Claude, Codex, and Gemini"
+2026-10-03T12:34:54.294Z,@humanive/learn-core,0.1.2,junjiezhou1122,MIT,53321,Shared core logic for Learn workspace system
+2026-10-03T12:34:57.681Z,@greenloom/loom-core,0.20.0,romeet09,MIT,6627732,Core utilities and shared functionality for Loom UI
+2026-10-03T12:35:24.4Z,n8n-nodes-compasslab-article-extractor,0.1.2,acc777,MIT,257993,"n8n node for Article Extractor to Clean Text and Markdown (CompassLab): Turn any web page or PDF link into clean Markdown and text, with title, author, date and language."
+2026-10-03T12:35:33.976Z,n8n-nodes-compasslab-contact-extractor,0.1.2,acc777,MIT,253800,"n8n node for Website Contact Extractor for Emails and Phones (CompassLab): Find a company's published business emails, phones, social profiles, address and VAT ID from its domain."
+2026-10-03T12:35:43.283Z,n8n-nodes-compasslab-email-validator,0.1.2,acc777,MIT,255058,"n8n node for Email Validator with MX and Disposable Check (CompassLab): Validate email addresses: syntax, MX records, disposable and role addresses, free providers, typo suggestions."
+2026-10-03T12:35:52.805Z,n8n-nodes-compasslab-holidays,0.1.2,acc777,MIT,262658,"n8n node for Public Holidays and Business Days (CompassLab): Public holidays for 250 countries and regions, plus business-day math: is it a working day, add days, count days."
+2026-10-03T12:35:56.423Z,@humanive/learn-cli,0.1.2,junjiezhou1122,MIT,30676,CLI tool for building project-centric learning workspaces
+2026-10-03T12:36:02.819Z,n8n-nodes-compasslab-link-preview,0.1.2,acc777,MIT,251509,"n8n node for Link Preview and URL Metadata (CompassLab): Link previews for any URL: title, description, image, favicon, site name and canonical URL, within 5 seconds."
+2026-10-03T12:36:11.896Z,scopecairn,0.1.0,ramadhanigb19,MIT,83696,ScopeCairn — Codebase Intelligence & Agent Optimization Layer (local-first)
+2026-10-03T12:36:13.702Z,n8n-nodes-compasslab-pdf-to-text,0.1.2,acc777,MIT,253886,"n8n node for PDF to Text and Markdown (CompassLab): Extract the text of a PDF (URL or file) as plain text, Markdown or page by page, with metadata and scanned-page flags."
+2026-10-03T12:36:22.859Z,n8n-nodes-compasslab-phone-validator,0.1.2,acc777,MIT,255333,"n8n node for Phone Number Validator and Formatter (CompassLab): Validate and format phone numbers from any country: E.164, national format, type, country, region, time zone."
+2026-10-03T12:36:32.784Z,n8n-nodes-compasslab-qr-barcode,0.1.2,acc777,MIT,262719,"n8n node for QR Code and Barcode Generator and Reader (CompassLab): Generate QR codes and EAN-13, UPC-A, Code 128, Code 39 barcodes (PNG or SVG), and read them from images."
+2026-10-03T12:36:42.963Z,n8n-nodes-compasslab-social-links,0.1.2,acc777,MIT,255215,"n8n node for Social Links Finder for Company Profiles (CompassLab): Find a company's official LinkedIn, X, Instagram, YouTube, TikTok, GitHub and more from its domain."
+2026-10-03T12:36:52.256Z,n8n-nodes-compasslab-tech-stack,0.1.2,acc777,MIT,251889,"n8n node for Website Technology Stack Detector (CompassLab): Detect the technologies behind any website: CMS, shop platform, analytics, CDN, hosting, payments and more."
+2026-10-03T12:37:55.184Z,@greenloom/loom,1.0.0,romeet09,MIT,51082758,The Design System that powers Green Loom AI
+2026-10-03T12:38:00.735Z,@greenloom/loom-mcp,1.0.0,romeet09,MIT,1659161,Model Context Protocol server for Loom UI
+2026-10-03T12:39:12.111Z,@luckypiggy/zhihu-ai-cli,0.1.0-test.1,luckypiggy,UNLICENSED,255116,智护 Pilot CLI：认证、数字员工、资产、指标、告警、指定告警诊断和巡检只读能力（P1 Read-only）
+2026-10-03T12:39:43.191Z,guerydb,1.0.0,coolguy2000,,2904717,GueryDB - High Performance Database Language Engine
+2026-10-03T12:39:54.408Z,@hollis-labs/kit-admin,0.1.0,chrispian,MIT,57428,"Controlled manifest-driven admin navigation and page composition; host-owned data, routes and commands."
+2026-10-03T12:40:27.96Z,cs2-c4-damage,0.1.0-beta.1,starfie1d,Apache-2.0,447735,CS2 C4 damage prediction from baked map fields and Game State Integration snapshots
+2026-10-03T12:42:02.654Z,@gitmyabi/xaum,1.0.0,gitmyabi-bot,MIT,372946,"Auto-generated TypeScript type bindings for XAUM (build etherscan-xaum-2103e845-1791031222750, commit 31913f5, branch etherscan)"
+2026-10-03T12:42:18.673Z,@ezuikit/control-message,0.0.1-beta.1,freeshine,MIT,42734,message / toast notification control for ezviz
+2026-10-03T12:42:28.075Z,dsh-browser-plus,0.5.0,particlelight,MIT,1771456,"Enhanced shared browser for DeepSeek Harness: one visible window with isolated task views, a page task manager, non-stealing background tasks, built-in toolbar and operation trail, and pinned Electro…"
+2026-10-03T12:43:36.378Z,@vstlmkh/forge,1.0.1,vstlmkh,MIT,326760,"A reusable agent harness for any repository: test-first ticket cycle, Markdown tracker, typed knowledge base, role agents and the hooks that keep them honest."
+2026-10-03T12:43:56.165Z,@burnbound/mcp,0.1.0,martinvarelaa,UNLICENSED,1628917,MCP server that lets an AI agent pay x402 APIs under a Burnbound spending policy and check its budget and history.
+2026-10-03T12:46:24.938Z,simperator-mcp,0.1.0,simperator,MIT,88551,Simperator Official Model Context Protocol (MCP) Server
+2026-10-03T12:46:38.177Z,@formgong/core,0.1.0,formgong,MIT,66569,"Tiny, typed, zero-dependency client for Formgong, the form backend for contact forms: submissions go to email, Telegram and webhooks. Browser, Node, Deno, Bun and edge. A Formspree / Web3Forms altern…"
+2026-10-03T12:46:47.35Z,@formgong/next,0.1.0,formgong,MIT,38692,"Next.js contact forms with Formgong: Server Action helper (useActionState), Route Handler helper and App Router client components. Submissions go to email, Telegram and webhooks. A Formspree / Web3Fo…"
+2026-10-03T12:46:49.356Z,@formgong/vue,0.1.0,formgong,MIT,32833,"Vue 3 / Nuxt contact form without a backend: <ContactForm>, <FormgongForm> and useFormgong(). Submissions go to email, Telegram and webhooks via Formgong. A Formspree / Web3Forms alternative."
+2026-10-03T12:46:51.929Z,@formgong/svelte,0.1.0,formgong,MIT,16988,"Svelte / SvelteKit contact form without a backend: use:formgong action, createFormgong() store, <FormgongForm> and <ContactForm>. Submissions go to email, Telegram and webhooks via Formgong. A Formsp…"
+2026-10-03T12:46:54.322Z,@formgong/astro,0.1.0,formgong,MIT,16471,"Astro contact form without a backend: <FormgongForm> and <ContactForm> components with progressive enhancement, plus a server helper for Astro Actions. Submissions go to email, Telegram and webhooks…"
+2026-10-03T12:46:57.109Z,formgong,0.2.0,formgong,MIT,65092,"Formgong CLI: create a form backend and add a working contact form to Next.js, React, Vue, Svelte, Astro or plain HTML in one command. Submissions go to email and Telegram. npx formgong init"
+2026-10-03T12:47:47.694Z,cubix-ui,0.1.0,amin.ebdali,MIT,143683,"Add Cubix components to your app. Initialize tokens, copy registry items, and scaffold frameworks."
+2026-10-03T12:48:05.044Z,@gitmyabi/ei,1.0.0,gitmyabi-bot,MIT,60329,"Auto-generated TypeScript type bindings for EI (build etherscan-ei-1cc372bd-1791031662385, commit 8fd835b, branch etherscan)"
+2026-10-03T12:48:20.843Z,snapagent-mcp,0.1.0,seanbenhur,MIT,15871,"Official Model Context Protocol (MCP) server for SnapAgent — screenshot, PDF, and live text extraction for AI agents"
+2026-10-03T12:48:36.552Z,dsh-local-memento,1.0.1,jan__paul__dahlke,MIT,741670,"Bounded-file memory for DeepSeek Harness local agents (ME.md + project MEMORY.md vault, cache-stable inject, inbox, Memory rightbar). No store, no embeddings, no LLM calls."
+2026-10-03T12:48:53.644Z,agent-shim,0.0.0,jmearman,,69,
+2026-10-03T12:49:01.591Z,shim-agent,0.0.0,jmearman,,69,
+2026-10-03T12:49:10.042Z,epoxy-planner,0.1.0,agoes,MIT,16254,Unit-explicit epoxy volume estimates and a JSON-to-CSV batch CLI for fabrication job lists.
+2026-10-03T12:49:37.99Z,filepac,1.0.1,abdulamk,MIT,48603,Lightweight text-based file bundler (.pac.txt) by Abdul AMK
+2026-10-03T12:51:36.194Z,evrima-rcon,0.0.0-dev,williamd5,GPL-3.0-only,57933,TypeScript RCON client for The Isle: Evrima.
+2026-10-03T12:51:55.059Z,@saadjs/pi-notify,0.1.0,saadjs,MIT,9238,Ghostty desktop notifications with sound and response previews when Pi finishes out of focus
+2026-10-03T12:53:20.571Z,xykj-login-ui,0.1.0,danielwu365999,,269050,统一用户中心共享登录布局与表单
+2026-10-03T12:55:02.653Z,documenclient,1.0.5,leostuart4,ISC,21927,This package helps me
+2026-10-03T12:55:26.918Z,vde-open,0.1.0,yuki-yano,MIT,2296227,"A local document viewer shared by agents and people: open Markdown and HTML documents, search and read them from the CLI, and ask the person questions."
+2026-10-03T12:55:27.723Z,mcplsb,0.1.0,dev-camo,MIT,63731978,Local read-only language intelligence for MCP agents
+2026-10-03T12:56:40.074Z,@snowmap.fr/expo-volume-keys,1.0.0,timbtimbtimb,MIT,11699,"Use the hardware volume buttons as input on Android. While a listener is subscribed the keys are consumed, so they stop changing the volume."
+2026-10-03T12:58:12.968Z,@formgong/angular,0.1.0,formgong,MIT,150458,"Angular contact form without a backend: standalone <formgong-contact-form>, formgongForm directive and FormgongService (signals) for Reactive and template-driven forms. Submissions go to email, Teleg…"
+2026-10-03T12:58:27.904Z,dsh-github-flow,0.1.0,newany,MIT,119607,"GitHub Flow: Native GitHub CLI (gh) integration for DeepSeek Harness — Agent Tools, Slash Commands, and Web UI Workspace"
+2026-10-03T12:58:34.764Z,fullbleed,0.1.1,krflol,MIT,6230285,"Generate PDFs from HTML and CSS in Node.js with the Fullbleed Rust engine, bundled fonts, and optional PNG previews."
+2026-10-03T12:58:40.025Z,@razorwind/eslint,0.0.2,stormie-bot,Apache-2.0,194567,Razorwind ESLint plugin generator to create eslint rules that can be used as design system guidelines.
+2026-10-03T12:59:42.497Z,devcrew-kit,0.0.1,jainikpatel1743,MIT,146114,"An AI dev crew for Claude Code and any Agent Skills tool: agents, skills and workflow commands that take requirements to a tested, released product. Install per project or globally with one npx comma…"
+2026-10-03T12:59:53.775Z,pi-bidi,0.1.0,shaharyair,MIT,15319,"Renders right-to-left text (Hebrew, Arabic, Persian) correctly in Pi on terminals without bidi support."
+2026-10-03T13:00:18.3Z,@swisper.ai/cards-ui,0.0.1,hlibl,Apache-2.0,660171,Swisper cards beautiful ui elements
+2026-10-03T13:00:19.34Z,@razorwind/stylelint,0.0.2,stormie-bot,Apache-2.0,124597,Razorwind Stylelint plugin generator to create stylelint rules that can be used as design system guidelines.
+2026-10-03T13:01:24.857Z,waypoint-consumer,0.1.0,arun4infra,UNLICENSED,71707,"What an app needs to run Waypoint sessions through its own BFF and SDK: the session API contract, the SDK's routes to Waypoint's consumer surface, and the BFF's relay to them."
+2026-10-03T13:01:29.901Z,insider-signals-mcp,1.0.0,tradestarinsider,MIT,8999,Local stdio MCP proxy for the TradeStar Insider server — filing-verified SEC Form 4 insider-buy signals. No API key.
+2026-10-03T13:01:44.63Z,@idvalidator/global-iban,1.0.0,baimpriyatna,Apache-2.0,153054,"IBAN (ISO 13616) structural validation: country code, per-country length, and ISO 7064 mod-97-10 checksum"
+2026-10-03T13:01:47.682Z,@quickgesture/core,0.1.0,quickgesture,Apache-2.0,93908,A lightweight web gesture interaction component library
+2026-10-03T13:01:47.917Z,@idvalidator/global-currency,1.0.0,baimpriyatna,Apache-2.0,284409,"ISO 4217 currency reference data: code validation, minor-unit precision, and major/minor unit conversion"
+2026-10-03T13:02:09.939Z,@qualflare/webdriverio,0.1.0,qualflare-admin,Apache-2.0,548638,"Native WebdriverIO reporter for Qualflare — web and mobile (Appium) runs, with per-attempt retry history, flakiness, the screenshots WebdriverIO takes, device capabilities and author-facing metadata,…"
+2026-10-03T13:02:33.55Z,lisardggy,0.1.0,dreamofice,MIT,82703,Another Yggdrasil server written in TypeScript
+2026-10-03T13:03:36.639Z,suprkandi,0.1.0,suprkandi,Apache-2.0,50679,"Open-source hybrid testing and RPA platform with plain-English DSL, web, desktop, database automation, and automatic evidence reporting."
+2026-10-03T13:04:28.23Z,dsh-nutstore-backup,0.1.1,yang_sh,MIT,193078,坚果云（Nutstore WebDAV）备份插件：在 DSH 设置里登录坚果云，增量备份会话记录、插件配置与工作区记忆，并在新机器上一键恢复。
+2026-10-03T13:04:39.622Z,pi-bolt-linux-x64,0.5.1,kushalkhemka,MIT,54729119,The Pi-Bolt 0.5.1 executable (linux-x64) for its installer. Install Pi-Bolt with the pi-bolt package or install.sh.
+2026-10-03T13:04:46.752Z,pi-bolt-linux-x64-baseline,0.5.1,kushalkhemka,MIT,54768372,The Pi-Bolt 0.5.1 executable (linux-x64-baseline) for its installer. Install Pi-Bolt with the pi-bolt package or install.sh.
+2026-10-03T13:04:54.879Z,pi-bolt-linux-x64-jit,0.5.1,kushalkhemka,MIT,54800355,The Pi-Bolt 0.5.1 executable (linux-x64-jit) for its installer. Install Pi-Bolt with the pi-bolt package or install.sh.
+2026-10-03T13:07:28.994Z,humanfm,0.0.1,vitaldb,UNLICENSED,661,Anatomical digital twin pipeline: hospital CT/MRI to population-scale generative model and surgical-sim-ready meshes
+2026-10-03T13:07:30.985Z,bodyfm,0.0.1,vitaldb,UNLICENSED,579,Whole-body anatomical foundation model for medical imaging and digital twins
+2026-10-03T13:07:51.163Z,@vitaldb/mindfm,0.0.1,vitaldb,UNLICENSED,558,Brain-constraint-spec-driven neural network foundation models
+2026-10-03T13:08:11.181Z,@itworksfine/capacitor-appodeal,0.1.0,jongbonga,MIT,243140,"Capacitor plugin for Appodeal: interstitial, rewarded video and banner ads with Appodeal mediation on Android and iOS"
+2026-10-03T13:10:42.65Z,@yusukeshib/pi-ping,0.1.0,yusukeshib,MIT,12890,Opt-in periodic wake-up messages for idle Pi sessions.
+2026-10-03T13:11:52.204Z,@origin-coding/templify,1.0.0,origin-coding,Apache-2.0,16242564,"Fill DOCX templates from command-line values, CSV, and XLSX."
+2026-10-03T13:12:57.98Z,@portrayal/aurcore-ais2001,0.1.0,portrayal,Apache-2.0,152074,"Portrayal drawings of the AurCore AIS2001: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:01.338Z,@portrayal/aurcore-ais2001p,0.1.0,portrayal,Apache-2.0,156285,"Portrayal drawings of the AurCore AIS2001P: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:03.734Z,@portrayal/aurcore-ais2002,0.1.0,portrayal,Apache-2.0,174153,"Portrayal drawings of the AurCore AIS2002: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:06.15Z,@portrayal/aurcore-ais2002p,0.1.0,portrayal,Apache-2.0,179906,"Portrayal drawings of the AurCore AIS2002P: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:08.086Z,@portrayal/aurcore-ais2003,0.1.0,portrayal,Apache-2.0,214634,"Portrayal drawings of the AurCore AIS2003: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:10.378Z,@portrayal/aurcore-ais2003p,0.1.0,portrayal,Apache-2.0,223026,"Portrayal drawings of the AurCore AIS2003P: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:12.848Z,@portrayal/aurcore-ais2004,0.1.0,portrayal,Apache-2.0,235922,"Portrayal drawings of the AurCore AIS2004: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:15.377Z,@portrayal/aurcore-ais2004p,0.1.0,portrayal,Apache-2.0,242352,"Portrayal drawings of the AurCore AIS2004P: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:17.882Z,@portrayal/aurcore-ais4001,0.1.0,portrayal,Apache-2.0,190522,"Portrayal drawings of the AurCore AIS4001: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:20.524Z,@portrayal/aurcore-ais4001p,0.1.1,portrayal,Apache-2.0,196790,"Portrayal drawings of the AurCore AIS4001P: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:22.771Z,@portrayal/casa-c100g,0.5.13,portrayal,Apache-2.0,1494551,"Portrayal drawings of the Casa Systems C100G: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:25.488Z,@portrayal/casa-c40g,0.5.14,portrayal,Apache-2.0,1382913,"Portrayal drawings of the Casa Systems C40G: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:27.478Z,@portrayal/celestica-ds1000,0.1.0,portrayal,Apache-2.0,736257,"Portrayal drawings of the Celestica DS1000: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:30.042Z,@portrayal/celestica-ds2000,0.1.0,portrayal,Apache-2.0,1000265,"Portrayal drawings of the Celestica DS2000: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:32.861Z,@portrayal/celestica-ds3000,0.1.0,portrayal,Apache-2.0,861129,"Portrayal drawings of the Celestica DS3000: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:34.73Z,@modelwise/cli,0.1.0,juliofeferman,MIT,37286,"Connect Claude Code to Modelwise: sign in, send its telemetry, and upload past sessions. Only counts and timings leave your machine."
+2026-10-03T13:13:35.324Z,@portrayal/celestica-ds3001,0.1.0,portrayal,Apache-2.0,2442115,"Portrayal drawings of the Celestica DS3001: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:37.861Z,@portrayal/celestica-ds4000,0.2.0,portrayal,Apache-2.0,3520776,"Portrayal drawings of the Celestica DS4000: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:40.312Z,@portrayal/celestica-ds4001,0.2.0,portrayal,Apache-2.0,931512,"Portrayal drawings of the Celestica DS4001: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:43.199Z,@portrayal/celestica-ds4100,0.1.0,portrayal,Apache-2.0,377557,"Portrayal drawings of the Celestica DS4100: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:45.657Z,@portrayal/celestica-ds4101,0.1.0,portrayal,Apache-2.0,677236,"Portrayal drawings of the Celestica DS4101: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:47.989Z,@portrayal/celestica-ds5000,0.1.0,portrayal,Apache-2.0,729080,"Portrayal drawings of the Celestica DS5000: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:50.79Z,@portrayal/celestica-ds6000,0.1.0,portrayal,Apache-2.0,1555850,"Portrayal drawings of the Celestica DS6000: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:52.877Z,@portrayal/celestica-ds6001,0.1.1,portrayal,Apache-2.0,500531,"Portrayal drawings of the Celestica DS6001: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:55.455Z,@portrayal/celestica-es1000,1.0.0,portrayal,Apache-2.0,3729142,"Portrayal drawings of the Celestica ES1000: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:13:57.981Z,@portrayal/celestica-es1010,3.0.3,portrayal,Apache-2.0,1199930,"Portrayal drawings of the Celestica ES1010: every configuration's faces, its configurations and its source manifest."
+2026-10-03T13:14:20.459Z,@awesome-markdown/core,1.6.0,pjore,MIT,35558,"Backend-agnostic domain logic for awesome-markdown: board rendering, homeless detection, mutation application, and markdown (de)serialization of entities. Extracted from `apps/provider-fs` so any bac…"
+2026-10-03T13:14:24.607Z,@defied/prism-cli,0.1.0,sgattix,MIT,937168,"Defied Prism CLI: add accessible React and Vue components to your project as source you own, styled with Tailwind CSS, CSS Modules or plain CSS."
+2026-10-03T13:16:21.36Z,wb-shopping-mcp,0.1.0,0xbadc0ffee,MIT,107397,"Unofficial Wildberries MCP server for buyer-side product search, prices, product cards, and reviews."
+2026-10-03T13:17:27.695Z,@chu-me/chart-player,0.1.0,ehredev,MIT,818291,"CHUNITHM 채보 재생기 — 노트 필드 캔버스, 판정 범위와 겹침 깎임, 소리, 재생 화면 (React)"
+2026-10-03T13:18:11.998Z,efficient-web,0.0.0-stage,victormau,,335,Temporary package placeholder for staged publishing
+2026-10-03T13:19:27.006Z,n8n-nodes-weio,0.1.0,weioai,MIT,244420,"n8n community node for the Weio website-facts API: check a website HTTPS certificate (free tier, no key) and read public business contact facts (API key). Made by Weio, Inc."
