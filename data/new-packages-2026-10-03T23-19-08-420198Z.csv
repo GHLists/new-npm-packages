@@ -1,0 +1,81 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-03T22:14:43.335Z,@vincweb/code-atlas,0.2.0,vincweb,MIT,612843,"Map and audit a TypeScript codebase — the feature dependency graph, its layers, its metrics, scripted and AI audit rules, and a CI guard against regressions"
+2026-10-03T22:17:55.681Z,@mulkatz/favicon-fetch,1.0.0,mulkatz,MIT,18221,"Universal favicon fetcher with smart fallback chain. One call, best icon, works everywhere — Node.js, Deno, Bun, Cloudflare Workers."
+2026-10-03T22:19:01.148Z,csizer-darwin-amd64,0.1.2,junior19,MIT,15320205,csizer native binary for darwin/amd64
+2026-10-03T22:19:05.008Z,csizer-darwin-arm64,0.1.3,junior19,MIT,14594271,csizer native binary for darwin/arm64
+2026-10-03T22:19:08.702Z,csizer-linux-amd64,0.1.2,junior19,MIT,14819806,csizer native binary for linux/amd64
+2026-10-03T22:19:12.507Z,csizer-linux-arm64,0.1.3,junior19,MIT,14025182,csizer native binary for linux/arm64
+2026-10-03T22:19:14.145Z,csizer,0.1.3,junior19,MIT,2162,Evidence-based container workload tracking and ECS Fargate sizing recommendations (installs the csizer native binary)
+2026-10-03T22:21:42.074Z,opencode-mobile-push,0.1.0,ichiwaki,MIT,11173,OpenCode plugin that sends end-to-end encrypted push notifications to your phone when the agent finishes or needs you.
+2026-10-03T22:21:45.475Z,@thatg33k/seene,0.1.3,thatg33k,MIT,825266,Cinematic scene studio for real React interfaces. Seene by THATG33K.
+2026-10-03T22:21:57.878Z,@ai-ecoverse/wasi-zig-libc-src,0.16.0-15,trieloff,MIT AND Apache-2.0 WITH LLVM-exception,3590426,wasi-libc's C sources for @ai-ecoverse/wasi-zig: zig cc for wasm32-wasi CPUs and modes beyond the prebuilt baseline
+2026-10-03T22:22:25.142Z,@revenact-ai/cli,0.1.0,revenact-ai,,24530,Deploy applications with Revenact
+2026-10-03T22:24:05.126Z,buildkeel,0.0.1,vibhutib,UNLICENSED,800,"Installer for BuildKeel, which keeps requirements, tests and code connected in Claude Code and Antigravity. Not released yet: see https://buildkeel.ai"
+2026-10-03T22:24:52.457Z,@beyond-digital/aiux-protocol-types,0.1.1,jaex,MIT,251818,"AIUX Protocol v1 TypeScript types, generated from protocol/schemas/v1."
+2026-10-03T22:24:55.652Z,@beyond-digital/aiux-transport-js,0.1.1,jaex,MIT,63004,Host-side JS transport helpers feeding AIUXEvent batches.
+2026-10-03T22:25:00.741Z,@beyond-digital/aiux-core,0.1.1,jaex,MIT,5975323,"JS session package over the AIUX WASM core — AiuxSession wrapper, streaming EventBuffer, snapshot subscriptions, MockCore."
+2026-10-03T22:25:04.206Z,@beyond-digital/aiux-adapter-sse,0.1.1,jaex,MIT,30040,Adapter: SSE streams → AIUXEvent[].
+2026-10-03T22:25:04.656Z,dsh-ctxopt-compaction,0.0.1,chunsi-m,GPL-3.0-only,81619,"Bounded context compaction, session-scoped summary reuse, explicit memory controls, and diagnostic-preserving tool pruning for DeepSeek Harness."
+2026-10-03T22:25:07.415Z,@beyond-digital/aiux-adapter-websocket,0.1.1,jaex,MIT,25732,Adapter: WebSocket streams → AIUXEvent[].
+2026-10-03T22:25:10.92Z,@beyond-digital/aiux-adapter-ai-sdk,0.1.1,jaex,MIT,20324,Adapter: Vercel AI SDK streams → AIUXEvent[].
+2026-10-03T22:25:14.491Z,@beyond-digital/aiux-web,0.1.1,jaex,MIT,218840,"React DOM renderer for AIUX surfaces (plan §12) — session subscription → DOM/ARIA, theme roles → CSS custom properties, every protocol part + Surface Schema primitive."
+2026-10-03T22:25:26.436Z,@beyond-digital/aiux-expo,0.1.1,jaex,MIT,153806620,Expo SDK 57 bridge — the complete AIUX surface behind one native boundary (plan §10).
+2026-10-03T22:26:13.795Z,csizer-darwin-x64,0.1.3,junior19,MIT,15320199,csizer native binary for darwin/x64
+2026-10-03T22:26:20.845Z,csizer-linux-x64,0.1.3,junior19,MIT,14819800,csizer native binary for linux/x64
+2026-10-03T22:26:30.564Z,react-designapp,0.0.1,macintoshhelper,MIT,2729037,A React renderer for Sketch.app
+2026-10-03T22:28:30.611Z,@appeeky/agentthumbs,0.2.1,erencan,FSL-1.1-MIT,672038,"Give your AI agent a real phone: MCP server, CLI and TypeScript library for Android phones and iPhones."
+2026-10-03T22:29:07.703Z,@vladimir-chernov/my-ui-lib,0.0.1,vladimir-chernov,MIT,15642,Personal React component library
+2026-10-03T22:31:08.55Z,n8n-nodes-ollaya,1.0.1,cogniwork-fr,MIT,494446,"Ollaya: ask typed questions to System One models and route items by the answer, with calibrated probabilities (unofficial fork of @typesafe-ai/n8n-nodes-typesafe-ai)"
+2026-10-03T22:33:37.44Z,checkthisfile,0.1.3,uningeniero,MIT,23968,"Offline file integrity for applications and coding agents: SHA-256, exact-file comparison and portable folder manifests. No network, account or telemetry."
+2026-10-03T22:34:22.806Z,@gibs/quotes,1.13.0,gibsdev,ISC,466885,"Isomorphic core for asking cross-chain bridge aggregators (LI.FI, Relay, NEAR Intents) for display and execution quotes — the wire contract, refusal reading, and the shared guards a host wraps every…"
+2026-10-03T22:35:02.227Z,payload-plugin-notifications,1.1.0,mhmodhsn,MIT,45552,"A durable, recipient-scoped notification inbox plugin for Payload CMS 3"
+2026-10-03T22:36:03.003Z,@gibs/bridge-indexer,1.13.0,gibsdev,ISC,256393,"Reads a Gibs Finance bridge indexer: transfer archive, delivery receipts, and live crossing status."
+2026-10-03T22:36:15.305Z,@rootnative/seo,0.0.0-alpha.22,raajnadar,MIT,51340,"Search-engine metadata for a React Native web export — head tags, JSON-LD builders, headings, HTML shell, sitemap, and robots."
+2026-10-03T22:38:08.788Z,@kibt/www-nuxt-i18n,99.0.1,kibt,MIT,2871,Compatibility shim.
+2026-10-03T22:38:24.334Z,@hmharness/browser,0.23.21,swsgbl,MIT,62095,"hmharness BrowserOS driver — discovers, trust-pins and launches the BrowserOS AI browser (Chromium fork), then drives it over the Chrome DevTools Protocol. Client only, zero dependencies, dedicated p…"
+2026-10-03T22:39:01.48Z,@vectordevai/cli-windows-arm64,1.99.99,krishdafish,SEE LICENSE IN LICENSE,214886703,Vector CLI binary for windows-arm64
+2026-10-03T22:39:12.847Z,prompt-optimizer-mcp-engine,0.1.0,terngg,MIT,257468,"Give every AI agent better instructions. Local-first MCP server, portable Agent Skill, and optimization SDK."
+2026-10-03T22:40:01.666Z,@cosmintrica/culinary-assets,0.1.0,cosmintrica,(CC0-1.0 AND MIT),15873768,"54 transparent culinary illustrations: ingredients, cookware, utensils and appliances. CC0 artwork, MIT code."
+2026-10-03T22:40:35.9Z,even-pilot,1.1.8,liamchu,UNLICENSED,51695499,"Linux installer for Even-Pilot: monitor existing Pi, Codex and Claude sessions on Even G2"
+2026-10-03T22:41:31.063Z,@ankhorage/api,0.2.0,artiphishle,MIT,27628,Framework-neutral executable API runtime and transport contract for Ankhorage.
+2026-10-03T22:41:42.88Z,@cherami/sdk,0.1.0,gourraguis,MIT,382599,"Official Cherami HTTP client for Node.js: inboxes, correspondence, drafts, attachments and conversations."
+2026-10-03T22:43:16.284Z,@vfvrpq/road-turns,1.0.0,vfvrpq,MIT,37032,Find hairpin turns & turn clusters in road geometry from OpenStreetMap Overpass data (cross-window bearing analysis)
+2026-10-03T22:45:16.969Z,proschi,0.1.0,proschi,MIT,551487,Command-line checker and language server for Proschi architecture diagrams
+2026-10-03T22:45:55.86Z,@archival/carriers-toolchain,0.1.0,jesseditson,AGPL-3.0-or-later,274872,"Builds archival carriers: installs from the lockfile, strips types with swc, and links ES modules."
+2026-10-03T22:46:54.909Z,agentwright,0.0.1,jeffan,,412,Agentwright by Momentic. Under development.
+2026-10-03T22:47:29.874Z,claudecodebridgetolocal,1.0.0,geronimodennis,UNLICENSED,35533,ClaudeCodeBridgeToLocal: a cross-platform Claude Desktop to local or LAN Ollama bridge
+2026-10-03T22:49:14.214Z,@nanogent/nanohq-highlight,0.11.0,boonkgim,,245027,
+2026-10-03T22:49:40.925Z,@nanogent/nanohq-relay,0.11.0,boonkgim,,54792,NanoHQ relay for bridging daemon and client connections
+2026-10-03T22:50:01.312Z,@nanogent/nanohq-protocol,0.11.0,boonkgim,,15904198,NanoHQ shared protocol schemas and wire types
+2026-10-03T22:50:13.951Z,@nanogent/nanohq-client,0.11.0,boonkgim,,399743,NanoHQ client SDK package
+2026-10-03T22:50:18.094Z,@nanogent/nanohq-plugin,0.11.0,boonkgim,,150975,NanoHQ plugin SDK package
+2026-10-03T22:51:17.195Z,@nanogent/nanohq-server,0.11.0,boonkgim,,38394194,NanoHQ backend server
+2026-10-03T22:52:43.693Z,@ab.honeycomb/theme-runtime,0.1.0-beta.1,honeycombadmin,SEE LICENSE IN LICENCE,33236,"The Honeycomb theme render contract: bundle assembly, the Liquid engine and filters, document splitting, money formatting and the mock RenderContext."
+2026-10-03T22:52:46.61Z,@ab.honeycomb/theme-preview-dist,0.1.0-beta.1,honeycombadmin,SEE LICENSE IN LICENCE,17284383,Prebuilt storefront and theme configurer that @ab.honeycomb/theme-cli serves during `bee dev`. Build artifacts only.
+2026-10-03T22:52:48.637Z,@ab.honeycomb/theme-cli,0.1.0-beta.1,honeycombadmin,SEE LICENSE IN LICENCE,186614,"Build, preview and validate a Honeycomb storefront theme on your own machine."
+2026-10-03T22:53:23.253Z,@involvex/yt-dlp,2026.8.21,involvex-org,Unlicense,70295246,A feature-rich command-line audio/video downloader - Node.js wrapper with TypeScript API
+2026-10-03T22:53:52.992Z,@tzam-org/oidc,0.1.1,carlosocarvalho,,33428,"OIDC agnóstico, sem dependências: provedor (authorization code + PKCE S256 obrigatório, código de uso único, id_token RS256, discovery, JWKS, userinfo, logout back-channel) e cliente (PKCE, validação…"
+2026-10-03T22:53:58.391Z,@tzam-org/providers,0.1.1,carlosocarvalho,,57852,"Provedores de login agnósticos e multi-org: herança global → org → app, drivers (senha, e-mail, magic link, OTP, GitHub, Google, Microsoft Entra ID), cliente OIDC do Entra (PKCE, nonce, state no serv…"
+2026-10-03T22:54:51.14Z,@tileflow/react-native,0.0.0-bootstrap.0,tileflow.dev,Apache-2.0,12279,Package registration for Tileflow React Native. Runtime releases use the alpha tag.
+2026-10-03T22:57:46.599Z,@pixieworks/pixiecore_pre,0.1.1,naoi,Apache-2.0,1212305,Clean-room TypeScript runtime for documented Prompt-Oriented Programming contracts
+2026-10-03T22:58:44.328Z,@ceo.paludetto/pi-settings,0.1.0,ceopaludetto,MIT,85359,Standard-schema backed settings loader for pi plugins and skills
+2026-10-03T23:00:13.445Z,codevariability-js,0.2.0,otaviouss,MIT,43316,Structural similarity analysis for JavaScript and TypeScript source-code collections.
+2026-10-03T23:00:37.103Z,esewa-sdk,0.1.1,sghimire2022,MIT,250429,"Unofficial, type-safe TypeScript SDK for the eSewa payment gateway (ePay v2 and Token payment). Zero dependencies, runs on Node 18+, Bun, Deno and edge runtimes."
+2026-10-03T23:03:51.383Z,@frontmcp/plugin-webmcp,1.9.0,davidfrontegg,Apache-2.0,59607,WebMCP plugin for FrontMCP - expose an in-browser FrontMCP server's tools to browser agents through document.modelContext
+2026-10-03T23:04:25.405Z,mimir-terminal,0.2.0,enliven,MIT,30446,"The Mimir Terminal in your own terminal: prediction markets from Mimir, agents on your own AI."
+2026-10-03T23:05:20.63Z,@miao-vision/pi,0.10.3,gumingcn,MIT,110766,Miao Vision extension and skill for the Pi coding agent
+2026-10-03T23:05:27.391Z,@ondra_honc/kztl,1.0.0,ondra_honc,,22383,"Kazda Tag Language je hlavní nástroj pro psaní struktury webu pro framework: ""Prumka Styl"""
+2026-10-03T23:07:39.839Z,@marasuchus/kit,0.1.0,arielrenones,MIT,24930,"Everyday helpers: dates, money/number formatting and Argentina (es-AR) presets"
+2026-10-03T23:09:25.41Z,i18n-le-mcp,1.0.0,nolindnaidoo,MIT,39668,"Audit translation catalogues: missing keys, broken placeholders. Never returns a translation."
+2026-10-03T23:09:26.028Z,@heaventreeuk/passcrunch-core,0.1.0,heaventree,MIT,23286,"Cryptographically secure password, passphrase and random-string generation, with honest entropy and crack-time estimates. Zero dependencies; runs locally."
+2026-10-03T23:09:39.086Z,@heaventreeuk/passcrunch-mcp,0.1.0,heaventree,MIT,22657,"PassCrunch MCP server: lets AI agents generate cryptographically secure passwords, passphrases and random strings, and check strength, entirely locally."
+2026-10-03T23:10:35.934Z,@thewhatmatters/wmds,0.2.0,randydigital,MIT,2578538,"WhatMatters Design System — React components, Tailwind v4 theme, and Storybook patterns"
+2026-10-03T23:11:23.698Z,@bumail/jmap,0.1.0,stevegires,MIT,511229,"A JMAP server (RFC 8620, RFC 8621) on alxia: the session, the API with back-references, Mailbox, Email and Thread, blob download and upload, serving any @bumail/store"
+2026-10-03T23:12:13.036Z,@alex_atm/re-entry-host-sdk,0.3.3-preview.0,alex_atm,MIT,405830,Preview Host SDK for the application-neutral Re-entry protocol.
+2026-10-03T23:14:56.139Z,dsh-workbuddy-console,2.0.0,dhdbvcg,MIT,1397841,"WorkBuddy console for DeepSeek Harness, in one plugin: the account/model pool (merged from dsh-workbuddy-xdpool), the skill market with an in-composer skill picker, batch check-in, pending tasks, ses…"
+2026-10-03T23:15:31.374Z,@lob-ox/core-darwin-arm64,0.0.1,lob.bowen,UNLICENSED,2105986,DSH lifecycle guard core (Node launcher) for darwin-arm64 — requires Node >=18.
+2026-10-03T23:15:38.555Z,@lob-ox/core-darwin-x64,0.0.1,lob.bowen,UNLICENSED,2105968,DSH lifecycle guard core (Node launcher) for darwin-x64 — requires Node >=18.
+2026-10-03T23:15:39.91Z,@lob-ox/core-linux-x64,0.0.1,lob.bowen,UNLICENSED,2105959,DSH lifecycle guard core (Node launcher) for linux-x64 — requires Node >=18.
+2026-10-03T23:16:10.713Z,slop-radar,1.1.0,rene.fichtmueller,MIT,80701,"Find AI slop in English and German text: 600+ buzzwords, 16 structural patterns and a 0-100 score. CLI, Node.js library, browser demo and Claude Code skill."
+2026-10-03T23:18:00.744Z,gitwhy-ai,0.1.0,adityakumarroy,MIT,11483,Ask why a line of code exists. Reads its git history and explains it in plain English.
+2026-10-03T23:18:39.489Z,pk-annotator,0.6.0,paulbkimdev,MIT,2458551,"Dev-only browser annotation overlay for Vite apps that sends picked elements, captures, and prompts to Claude Code and Codex through an MCP server."
