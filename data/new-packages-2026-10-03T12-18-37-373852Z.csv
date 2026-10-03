@@ -1,0 +1,132 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-03T11:14:31.313Z,@rhythmjs/climax,0.0.1,htmujahid,ISC,20229,General-purpose building blocks for Rhythm CLIs. Currently: command documentation and --help output (doc-only middlewares plus a module that renders help from the cli's registered commands).
+2026-10-03T11:14:31.372Z,@oliphaunt/extension-vector-wasix-windows-x64-msvc,0.3.0,oliphaunt,MIT AND PostgreSQL,393763,
+2026-10-03T11:14:41.859Z,@oliphaunt/liboliphaunt-wasix-tools-darwin-arm64,0.2.2,oliphaunt,MIT AND PostgreSQL AND Unicode-3.0,1721126,Target AOT PostgreSQL tools for the Oliphaunt WASIX tools package.
+2026-10-03T11:14:49.626Z,@oliphaunt/liboliphaunt-wasix-tools-linux-arm64-gnu,0.2.2,oliphaunt,MIT AND PostgreSQL AND Unicode-3.0,1817645,Target AOT PostgreSQL tools for the Oliphaunt WASIX tools package.
+2026-10-03T11:16:01.88Z,@oliphaunt/liboliphaunt-wasix-tools-linux-x64-gnu,0.2.2,oliphaunt,MIT AND PostgreSQL AND Unicode-3.0,1874143,Target AOT PostgreSQL tools for the Oliphaunt WASIX tools package.
+2026-10-03T11:16:11.031Z,@oliphaunt/liboliphaunt-wasix-tools-win32-x64-msvc,0.2.2,oliphaunt,MIT AND PostgreSQL AND Unicode-3.0,1828238,Target AOT PostgreSQL tools for the Oliphaunt WASIX tools package.
+2026-10-03T11:16:27.157Z,@oliphaunt/seed-native-android-datum64-icu,0.2.2,oliphaunt,MIT AND PostgreSQL,40609894,PostgreSQL native icu cluster seed for android-datum64.
+2026-10-03T11:16:41.319Z,@oliphaunt/seed-native-ios-datum64-icu,0.2.2,oliphaunt,MIT AND PostgreSQL,40611399,PostgreSQL native icu cluster seed for ios-datum64.
+2026-10-03T11:16:50.28Z,@oliphaunt/seed-native-linux-arm64-gnu-icu,0.2.2,oliphaunt,MIT AND PostgreSQL,40609894,PostgreSQL native icu cluster seed for linux-arm64-gnu.
+2026-10-03T11:16:53.139Z,@pierregoutheraud/identicons-core,1.0.0,httpete,MIT,106628,Framework-agnostic engine that draws seeded pixel identicons on a canvas
+2026-10-03T11:16:58.884Z,@oliphaunt/seed-native-linux-x64-gnu-icu,0.2.2,oliphaunt,MIT AND PostgreSQL,40609880,PostgreSQL native icu cluster seed for linux-x64-gnu.
+2026-10-03T11:17:12.088Z,@oliphaunt/seed-native-macos-arm64-icu,0.2.2,oliphaunt,MIT AND PostgreSQL,40609858,PostgreSQL native icu cluster seed for macos-arm64.
+2026-10-03T11:17:12.179Z,@kwirthmagnify/kwirth-plugin-webamp,0.1.0,kwirthmagnify,,985659,"Webamp music player channel plugin for Kwirth - a Winamp 2 clone running in a Kwirth tab, with drag-and-drop audio and skin support"
+2026-10-03T11:17:15.042Z,@pierregoutheraud/react-identicons,1.0.0,httpete,MIT,15553,React component to generate identicons
+2026-10-03T11:17:24.844Z,@oliphaunt/seed-native-windows-x64-msvc-icu,0.2.2,oliphaunt,MIT AND PostgreSQL,40610976,PostgreSQL native icu cluster seed for windows-x64-msvc.
+2026-10-03T11:18:54.92Z,@oliphaunt/seed-wasix-icu,0.2.2,oliphaunt,MIT AND PostgreSQL,1713934,PostgreSQL wasix icu cluster seed for portable.
+2026-10-03T11:19:04.822Z,dsh-opencode-zen-plugin,0.3.1,a42null,MIT,97864,OpenCode Console (Zen) models for DeepSeek Harness (DSH): fill in your Console API key under Settings → Plugins and the Console's chat models become selectable.
+2026-10-03T11:20:53.804Z,dsh-ui-projects,0.1.1,fn-x,MIT,1074355,Extensible UI project system for the dsh Web GUI: a UI project registry plus a dynamically rendered Settings > UI section. It ships no UI project of its own — every project is a separate package.
+2026-10-03T11:20:58.322Z,@fn-x/dsh-plugin-liquid-glass,1.0.1,fn-x,MIT,111785,"Liquid Glass as a UI project package for dsh-ui-projects: an iOS-style translucent material, with its own first-paint sheet and its own maintenance wrapper."
+2026-10-03T11:21:04.175Z,@fn-x/dsh-plugin-skin,1.0.3,fn-x,MIT,3221,"Aggregate package for dsh UI skins. Installs every skin in packages/ through its dependencies, and registers none of them itself."
+2026-10-03T11:22:29.844Z,dsh-plugin-library,0.1.1,wangchunleio,MIT,253030,本地文件资料库：内容寻址的不可变修订、派生的可检索正文、文件夹与模型工具。
+2026-10-03T11:22:52.017Z,dsh-plugin-connectors,0.1.1,wangchunleio,MIT,120706,管理 MCP 连接器，以及每个会话可用的工具范围。
+2026-10-03T11:22:55.874Z,dsh-plugin-experts,0.1.1,wangchunleio,MIT,348264,可复用的专家角色：草稿、不可变的已发布修订，以及按会话采用。
+2026-10-03T11:23:00.22Z,dsh-plugin-skills,0.1.1,wangchunleio,MIT,312198,DSH 已安装技能的管理：目录、详情、SKILL.md 编辑、启用/停用与可恢复的回收站。
+2026-10-03T11:23:03.386Z,dsh-plugin-projects,0.1.1,wangchunleio,MIT,138507,项目工作区：把指令、计划、任务与资料引用放在一起。
+2026-10-03T11:23:07.384Z,dsh-plugin-office,0.1.1,wangchunleio,MIT,1376949,跟着会话走的可编辑文档工作副本（markdown / html / text），共用修订计数与模型工具。
+2026-10-03T11:23:29.607Z,dsh-plugin-market-bridge,0.1.1,wangchunleio,MIT,11144,把已安装的 dshmarket 面板接进「插件」页，与 WorkDSH 的做法一致。
+2026-10-03T11:24:13.436Z,@koko-anime/formats,0.2.0,seba9989,MIT,522923,"Koko-ASS, Koko-Lexicon i Koko-Pack — parser, zapis i walidacja formatów projektu Koko-Anime (polski lektor z syntezy Kokoro PL)."
+2026-10-03T11:25:04.126Z,afleet,0.1.0,c3z,UNLICENSED,125095,Docker-style compose for agentic loops. Successor to flota.
+2026-10-03T11:25:07.631Z,neon-lite,0.1.2,flaxodotdev,MIT,27353,A tiny local Neon-shaped SQLite development server
+2026-10-03T11:27:42.171Z,fydbek,0.0.1,vojtechjurasek,UNLICENSED,493,"Website feedback widget for clients, designers, QA and copywriters, built for AI agents via MCP."
+2026-10-03T11:27:45.824Z,mergebrief,0.0.1,mergebrief,,919974,MergeBrief CLI — humans and AI agents over the read/write API.
+2026-10-03T11:28:39.085Z,@withbuddi/plugin-news,0.2.2,withbuddi,Apache-2.0,367294,"The news on the topics you follow, from feeds you can see, grouped into stories on your own machine."
+2026-10-03T11:30:03.554Z,asciiloom,2.0.0,aliyilmazco,MIT,108501,"README-focused image-to-ASCII CLI with text, Markdown, and accessible SVG output."
+2026-10-03T11:30:14.953Z,lens-github-actions,0.1.0,nevalla,MIT,651477,"See the GitHub Actions runs of your repositories next to what each cluster runs of them: services, Flux image automation, Helm charts and GitOps syncs."
+2026-10-03T11:31:26.867Z,vue-apple-file-upload,0.1.0,lvjson,,53542,Apple-style file upload component for Vue 2
+2026-10-03T11:32:01.529Z,on-device-chat,0.1.1,adarrsh_dev,Apache-2.0,5340449,"Local-first on-device AI chat widget and autonomous browser agent powered by Chrome Built-in Gemini Nano, Gemma 4, and MiniLM"
+2026-10-03T11:32:09.162Z,@caseflux-id/pdf-bundle,0.1.0,rucciva,Apache-2.0,14204952,"Bundle HTML, PNG, JPEG and PDF documents into one PDF in the browser."
+2026-10-03T11:33:26.657Z,@nodegrove/vram-mcp,1.0.0,nodegroveio,(MIT AND CC-BY-4.0),87731,"MCP server: can this open LLM run on my GPU? VRAM, KV cache, speed ceilings and what would fit instead, with the exact math nodegrove.io uses. Any Hugging Face repo, any GPU."
+2026-10-03T11:33:36.446Z,@nodegrove/llm-math,1.0.0,nodegroveio,(MIT AND CC-BY-4.0),85102,"How much VRAM an open LLM needs and how fast it can run on a GPU: the memory, KV-cache and speed arithmetic behind nodegrove.io, with model data read from config.json and GPU specs from the makers."
+2026-10-03T11:33:44.878Z,dsh-theme-herta,0.1.0,yunmengyuan,MIT,6518498,给 DeepSeek Harness 的黑塔主题：ASCII 开机开场、紫罗兰配色令牌、可换背景与「黑塔外观」设置页。· Herta theme for DeepSeek Harness.
+2026-10-03T11:34:51.219Z,opencode-castlegate,0.1.1,martins6,MIT,59166,"OpenCode plugin that auto-approves tool calls when they match the user's session intent, validated by a lightweight model."
+2026-10-03T11:35:37.72Z,mirrorbook,0.1.0,shadowcz007,,30331,"Publish HTML to a shareable URL. Agent-friendly: non-interactive, --json output, stable exit codes."
+2026-10-03T11:37:21.278Z,@gitmyabi/xdna,1.0.0,gitmyabi-bot,MIT,93565,"Auto-generated TypeScript type bindings for xDNA (build etherscan-xdna-8e57c277-1791027415760, commit ac380db, branch etherscan)"
+2026-10-03T11:37:48.948Z,@pixpilot/shadcn-dashboard,0.1.0,pixpilot-org,MIT,63906,"Responsive dashboard shell (sidebar, mobile sheet, header, main) and page building blocks built with shadcn/ui."
+2026-10-03T11:38:18.805Z,@auditcore/layout,0.1.0,janpow,MIT,61323,"Wiederverwendbare Seitenlayouts, Anmeldung und Exportaktionen für FlowAudit"
+2026-10-03T11:39:16.138Z,crl-elevate-auth,1.0.0,tibil.ai,MIT,457464,"Framework-agnostic JWT validation and API permission checking, configured at bootstrap. Adapters for Express and NestJS (Express or Fastify)."
+2026-10-03T11:39:24.632Z,scenic-prism,0.1.1,jamesporter,PolyForm-Noncommercial-1.0.0,454051,"Describe a background and a CSG object tree, get a progressively path-traced image on a WebGPU canvas."
+2026-10-03T11:39:28.141Z,scenic-prism-fluent,0.1.1,jamesporter,PolyForm-Noncommercial-1.0.0,56065,"A chainable API over scenic-prism: sphere(1).translate([0, 1, 0]).paint(materials.chrome), producing the same plain scene data."
+2026-10-03T11:39:31.856Z,scenic-prism-react,0.1.1,jamesporter,PolyForm-Noncommercial-1.0.0,29541,scenic-prism as a React component: <SceneRenderer spec={scene} /> path-traces a scene with WebGPU onto a canvas you style yourself.
+2026-10-03T11:39:35.509Z,scenic-prism-playwright,0.1.1,jamesporter,PolyForm-Noncommercial-1.0.0,82023,"Render a scenic-prism scene to an image file from Node, by path-tracing it in a headless browser driven by Playwright."
+2026-10-03T11:39:39.641Z,scenic-prism-standalone,0.1.1,jamesporter,PolyForm-Noncommercial-1.0.0,101544,"Turn a scenic-prism scene into one self-contained HTML file or React component: the compiled WGSL, a minimal WebGPU render loop, and nothing else."
+2026-10-03T11:39:49.062Z,@clawscale/tokens,0.1.0,pensievelabshq,Apache-2.0,70139,Clawscale design tokens as CSS variables and typed JavaScript values.
+2026-10-03T11:39:52.206Z,@clawscale/react,0.1.0,pensievelabshq,Apache-2.0,854731,"Clawscale for React: Blueprint's data-dense components with a refined look, ready for Next.js."
+2026-10-03T11:40:02.786Z,@dingji_cherubino/dsh-full-featured-hub,2.1.0,dingji_cherubino,MIT,2128873,"DeepSeek Harness (DSH) plugin: ONE extensible HUD card above the composer that hosts many panels behind a tab strip. Ships with two: subscription quota (OpenCode GO, DeepSeek, GLM, Kimi, Grok, MiMo,…"
+2026-10-03T11:40:32.133Z,billingengine-mcp,0.1.0,timokleemann,MIT,17453,"MCP server for BillingEngine: create customers and invoices, look up invoices and record payments from Claude, Cursor and other MCP clients."
+2026-10-03T11:40:36.753Z,@wtfalch/hr,0.1.0,wtfalch,MIT,34773,"Working hours per person (weekday, start, end, IANA time zone), keyed on the people person id and scoped to an organisation. The person or an admin writes; colleagues in the organisation read. Includ…"
+2026-10-03T11:42:44.555Z,@crepesourcing/happn,1.0.1,looorent,MIT,20203,Consume flu events through RabbitMQ
+2026-10-03T11:44:07.089Z,@rafikidb/sdk,0.1.1,nasr-full-stack-developer,MIT,80511,"TypeScript client for RafikiDB - data, auth and realtime."
+2026-10-03T11:44:33.161Z,@intentset/core,0.1.0,gxclarke,MIT,390150,"Intentset core: the frontmatter carrier, typed graph, validator, impact traversal and export. No dependencies."
+2026-10-03T11:44:34.503Z,@intentset/markset-adapter,0.1.0,gxclarke,MIT,12213,"The one place Markset is imported: turns a Markset document into the input core validates, with syntax diagnostics kept separate."
+2026-10-03T11:44:35.88Z,@intentset/architecture,0.1.0,gxclarke,MIT,427321,"Traceable VSA checks: path claims, import graph, layer matrix, resources, exceptions, baseline."
+2026-10-03T11:44:37.304Z,@intentset/verification,0.1.0,gxclarke,MIT,188279,"Run records, evidence freshness classification, and test-reporter adapters."
+2026-10-03T11:44:37.801Z,@futuregensystems/softechlog,1.3.0,ayushparida,MIT,92852,Server-side SDK for Softechlog — drop-in user activity logging & customer-facing activity feeds
+2026-10-03T11:44:38.703Z,@intentset/publisher,0.1.0,gxclarke,MIT,200008,Audience and release projection of reviewed knowledge into Markset documents with provenance.
+2026-10-03T11:44:39.796Z,@megacode/cli,0.3.0,michaljach,MIT,250540,"Minimal multi-provider coding agent for the terminal (Anthropic, OpenAI, Gemini, OpenAI-compatible)"
+2026-10-03T11:44:40.122Z,@intentset/atlas,0.1.0,gxclarke,MIT,222803,"Static review pages over an export: capabilities, behaviors, ownership, verification, publication readiness."
+2026-10-03T11:44:41.366Z,@intentset/mcp,0.1.0,gxclarke,MIT,82431,"Read-only MCP server over an Intentset export, with the publication projection for customer context."
+2026-10-03T11:44:43.293Z,@intentset/conformance-suite,0.1.0,gxclarke,MIT,3811555,"The conformance cases and schemas as data, for implementations that are not this one. No dependencies."
+2026-10-03T11:44:44.828Z,@intentset/cli,0.1.0,gxclarke,MIT,376996,"The intentset command: validate, graph, architecture check, evidence, impact, review, publish, serve, context, mcp."
+2026-10-03T11:45:01.325Z,@wayza/human,0.1.0,wayza,Apache-2.0,95180,Your agent already pauses for approval. Now it can reach the person.
+2026-10-03T11:46:46.199Z,n8n-nodes-wayza,0.1.1,wayza,MIT,63364,n8n community node: ask a real person through Wayza and wait for their signed answer.
+2026-10-03T11:47:59.873Z,yyd-flow-designer,0.1.0,yyd_bingo,MIT,330576,YYD Flow designer (process orchestration UI)
+2026-10-03T11:48:03.758Z,@xelexis/x-broker-darwin-arm64,0.0.0-stage,xelexis-admin,,352,Temporary package placeholder for staged publishing
+2026-10-03T11:48:41.093Z,@xelexis/x-broker-darwin-x64,0.0.0-stage,xelexis-admin,,350,Temporary package placeholder for staged publishing
+2026-10-03T11:48:44.158Z,@xelexis/x-broker-linux-x64,0.0.0-stage,xelexis-admin,,349,Temporary package placeholder for staged publishing
+2026-10-03T11:48:47.537Z,@xelexis/x-broker-win32-x64,0.0.0-stage,xelexis-admin,,349,Temporary package placeholder for staged publishing
+2026-10-03T11:48:49.694Z,@xelexis/x-broker,0.0.0-stage,xelexis-admin,,339,Temporary package placeholder for staged publishing
+2026-10-03T11:48:56.123Z,@doconda/sdk,0.1.0,doconda,,38405,"TypeScript SDK for Doconda: generate, review and edit Word, PowerPoint, Excel and PDF documents from AI agents (Vercel AI SDK, OpenAI, Claude, Bedrock, Vertex AI)."
+2026-10-03T11:49:27.611Z,back-dismiss,0.1.1,m.gamal.develop,MIT,132244,Make the mobile back button close your overlays instead of navigating away
+2026-10-03T11:49:56.914Z,@openwapp/fingerprints,0.1.0,kedom1337,GPL-3.0-only,3368064,"The enthec/webappanalyzer technology fingerprints, kept in sync with upstream."
+2026-10-03T11:50:09.263Z,@openwapp/icons,0.1.0,kedom1337,GPL-3.0-only,68887032,"The enthec/webappanalyzer technology icons, kept in sync with upstream."
+2026-10-03T11:50:11.531Z,@openwapp/matcher,0.1.0,kedom1337,MIT,118053,Matches technology fingerprints against what was observed on a website.
+2026-10-03T11:50:12.638Z,@openwapp/collector,0.1.0,kedom1337,MIT,81649,Visits a website and reports which technologies it is built with.
+2026-10-03T11:50:14.314Z,@openwapp/cli,0.1.0,kedom1337,MIT,29625,Command line interface that reports which technologies a website is built with.
+2026-10-03T11:50:16.49Z,@yingzaicc/xmind-to-md,0.1.0,yingzaicc,MIT,118016,把 XMind 思维导图转换成 Markdown 文档：一份导图一份文档，输出与导图同目录同名；幂等——源未变不写盘、源有改动原地覆盖；保留备注、标记、标签、超链接、批注、附件与工作表关系。零运行期依赖，Node ≥ 20。
+2026-10-03T11:52:41.727Z,opencode-courier,0.1.0,ivopogace,MIT,85835,"OpenCode V2 plugin: spawn sessions, message them, and wake idle sessions without polling."
+2026-10-03T11:52:49.755Z,@doconda/mcp,0.1.0,doconda,,5781,"Doconda MCP server: create, review and edit Word, PowerPoint, Excel and PDF documents from Claude Code, Codex, Cursor and any MCP client."
+2026-10-03T11:53:02.624Z,@throughlinehq/browser,0.1.0,mads-throughline,MIT,105416,"Record Throughline Events from a tenant's frontend, for the Contact whose session it is."
+2026-10-03T11:53:29.477Z,@gitmyabi/not,1.0.0,gitmyabi-bot,MIT,44746,"Auto-generated TypeScript type bindings for NOT (build etherscan-not-0027449b-1791028315911, commit 42556b1, branch etherscan)"
+2026-10-03T11:53:48.434Z,paperclip-plugin-gitea,1.0.3,namhoang,MIT,24862,"Gitea bridge for Paperclip: webhook mirroring (issues, PRs, comments, push) and per-agent tools"
+2026-10-03T11:53:48.622Z,@ordercaddie/app-sdk,1.0.0,ordercaddie-dev,MIT,186439,"Build an app for the Caddie dashboard: the embed bridge, the block document and the helpers your backend runs."
+2026-10-03T11:55:13.715Z,@valancex/valance,0.1.0,valancex,MIT,54191,"VALANCE application composition: starts a NEXUS application, renders it with MESH, and realizes it on a PORT target."
+2026-10-03T11:56:28.145Z,@mygsoft/context-diet,1.0.0,mygsoft,MIT,21692033,Smart AI Context Optimizer & Adaptive MCP Server with Global Language Support
+2026-10-03T11:56:34.015Z,ourdoc,0.6.3,jbaehova,UNLICENSED,102229,Shared project context for people and coding agents
+2026-10-03T11:56:47.164Z,homebridge-linksys-velop,1.0.0,orenasher,MIT,54421,"Linksys Velop parental controls in Apple Home: pause a device's internet, switch its schedule on or off, see whether it is connected, restart the router. Built for and tested on the Velop MX4200."
+2026-10-03T11:57:12.528Z,castapi,0.1.1,asaslabsltd,MIT,5670,Verify CastAPI customer webhook signatures in Node.js
+2026-10-03T11:57:32.013Z,higherdata,0.2.0,craig-higherops,SEE LICENSE IN LICENSE,3424157,"Find, enrich and clean B2B data with HigherData."
+2026-10-03T11:58:48.342Z,@cyd-prc/dsh-threat-gate,0.1.1,wangmiaosheng,MIT,70384,"Session-level threat scoring for the DeepSeek Harness: a port of the EntropyRuntime session threat tracker (PATCH-02) — sliding-window signal accumulation, three scoring rules, three levels — measuri…"
+2026-10-03T11:59:03.542Z,opencode-merman,0.1.1,4nkitd,MIT,963349,"Native terminal Mermaid rendering for OpenCode V2, derived from the official Merman renderer"
+2026-10-03T11:59:10.865Z,opencode-dcp-rc,4.0.0,royalcat,AGPL-3.0-or-later,1341390,OpenCode DCP fork: hidden context compression with a selection-only compress tool (Sleev-style)
+2026-10-03T11:59:44.172Z,dsh-acrylic,0.1.0,n3kok0,MIT,625567,"Windows 10 (Fluent) acrylic theme for the DSH Web GUI and desktop app: Win10 light/dark --dsw-* token palette, site-wide square corners, and bounded backdrop-filter acrylic on the sidebar, task board…"
+2026-10-03T11:59:44.957Z,opencharm,0.0.0,mfbz,MIT,1922,"OpenCharm: a face, a voice and one key for the AI agent you already use. Not released yet."
+2026-10-03T12:00:28.862Z,libpakfile,1.0.0,dell-optiplex-790,MIT,31642,"Library for reading and writing to .pak files, includes a command-line tool to run them as code"
+2026-10-03T12:00:58.403Z,@iny/ui,1.0.0,iny,,451874,Typed Solid 2 components and themes built with daisyUI.
+2026-10-03T12:01:39.821Z,create-pkg-kit,0.1.0,rafidjs,MIT,82634,"A production-ready CLI for scaffolding modern npm packages with configurable language, package manager, testing framework, and npm metadata."
+2026-10-03T12:02:29.09Z,@elementx-ai/rclip,0.1.0,spark64,MIT,492921,"Share text and files between machines, people and AI agents through Remote Clipboard rooms."
+2026-10-03T12:02:42.966Z,serpacksven,1.0.0,leostuart4,ISC,21902,This package helps me
+2026-10-03T12:03:57.262Z,@surimi/theme,0.9.0,carnageous,,21528,"Design tokens and themes for Surimi, as plain CSS custom properties."
+2026-10-03T12:04:36.737Z,@saadjs/pi-git-status,0.1.0,saadjs,MIT,9575,"Live Git branch, changed files, and line counts in the Pi footer"
+2026-10-03T12:06:30.252Z,@qbtc/ecpair,4.0.0,qbtc,MIT,50222,Client-side Bitcoin JavaScript library ECPair
+2026-10-03T12:07:06.46Z,claude-keep-going,0.14.0,someonewithpc,MIT,401935,Automatically retry Claude Code sessions on subscription rate limits and sustained API overload (529/500/503) with exponential backoff
+2026-10-03T12:07:17.875Z,create-nisc,0.2.0,moccadroid,Apache-2.0,200817,"npm create nisc — a new nisc application: a few questions, then an app with the right structure, its rulebook, and a first screen that works."
+2026-10-03T12:07:33.026Z,leakhound,0.1.0,gs_ba1,MIT,142113,"Security scanner for vibe-coded Next.js / Vite + Supabase apps: leaked keys, public env secrets, .env in git, missing RLS"
+2026-10-03T12:08:00.776Z,pi-codex-auto-review,0.1.0,buyong,Apache-2.0,41016853,"Codex의 ‘Approve for me’에서 영감을 받은 Pi용 자동 실행 승인 검토 확장. 규칙과 Pi의 현재 모델로 도구 실행을 검토하고, 필요한 경우 사용자 승인을 요청합니다."
+2026-10-03T12:09:56.936Z,dsh-turn-price,0.1.0,littlefish04,MIT,81269,"DeepSeek Harness (dsh) plugin: shows the CNY cost of every completed turn under the turn, from per-model cache-hit / cache-miss / cache-write / output rates, with weekly peak-valley multipliers and l…"
+2026-10-03T12:10:12.399Z,@ghub/terms-client,0.1.0,egelhaus,Elastic-2.0,101023,"The client every Gelhaus Solutions product uses to ask GPlatform Terms where an account stands and to record an acceptance: a verified snapshot cache, an outbox, and nobody locked out while the servi…"
+2026-10-03T12:10:34.358Z,dsh-agentteams-dashboard,0.2.0,yuanhenglizhen2050,MIT,1116674,DeepSeek Harness plugin: manage AgentTeams (agentscope-ai/AgentTeams) from the DSH Web/Desktop GUI
+2026-10-03T12:11:30.09Z,ops-drift-gate,0.0.0-stage,kylelloyd63,,336,Temporary package placeholder for staged publishing
+2026-10-03T12:12:33.921Z,@lelouch_021015/amadeus,0.6.2,lelouch_021015,MIT,2346322,Amadeus: an evidence-aware research CLI built on Pi with Python MCP tools
+2026-10-03T12:13:04.448Z,aiscale,0.1.0,danishshahshanil666,UNLICENSED,8757,Connect your machine to AIScale in one command.
+2026-10-03T12:13:33.467Z,@paradox-design/components,0.1.0,velemir,MIT,73823,Paradox Design System components — framework-agnostic web components built with Lit
+2026-10-03T12:13:35.791Z,@paradox-design/icons,0.1.0,velemir,MIT,59390,"Paradox Design System icon registry — any SVG source, no framework dependency"
+2026-10-03T12:13:36.169Z,@paradox-design/core,0.1.0,velemir,MIT,17850,Base class and shared mechanisms for Paradox Design System components
+2026-10-03T12:13:37.488Z,@paradox-design/themes,0.1.0,velemir,MIT,31828,Paradox Design System themes — overrides of the semantic token layer
+2026-10-03T12:13:37.542Z,@paradox-design/styles,0.1.0,velemir,MIT,49357,"Paradox Design System global styles — reset, base, typography, layout, utilities, a11y"
+2026-10-03T12:13:39.432Z,@paradox-design/tokens,0.1.0,velemir,MIT,120321,"Design tokens for Paradox Design System — CSS, SCSS, TypeScript and JSON output"
+2026-10-03T12:15:37.45Z,@blackswampai/n8n-nodes-emdash,0.1.3,christopherjnelson,MIT,692201,n8n community node integration for EmDash CMS
+2026-10-03T12:16:06.75Z,@valyrix/web-sdk,1.0.0,mauli-waghmore,Apache-2.0,960972,"Valyrix Web Analytics SDK — privacy-first, zero-dependency browser telemetry with offline batching and automatic SPA page tracking."
+2026-10-03T12:16:28.446Z,weasel-icons,0.1.0,vinod-murugan,MIT,140836,Stateful animated React SVG icons. Icons that overreact beautifully.
+2026-10-03T12:18:28.139Z,searchstral,0.0.0-stage,cokoghenun,,333,Temporary package placeholder for staged publishing
