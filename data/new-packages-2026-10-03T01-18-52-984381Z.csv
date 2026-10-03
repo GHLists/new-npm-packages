@@ -1,0 +1,91 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-03T00:15:55.753Z,@inizioevoke/veeva-astroclm,1.0.2,evoke-cjamodeo,,391361,```sh npm create astro@latest -- --template minimal ```
+2026-10-03T00:20:23.422Z,iaf-agent-bridge,1.0.1,kekkoiaf,MIT,198905,MCP bridge that lets a supervisor such as Codex send work to Cursor Agent over ACP and continue the same session until the request is complete.
+2026-10-03T00:20:37.907Z,@usecontextlayer/tools,0.11.3,alizain,,11381,
+2026-10-03T00:20:47.283Z,betterterms,0.0.1,hanselhansel,MIT,683,"Better terms on every bill, plan, and offer. A negotiation toolkit for any AI agent. Placeholder release; the toolkit installs as agent skills."
+2026-10-03T00:20:55.979Z,@qubeejs/react,1.0.0-rc.1,andreaalhena,MIT,359093,"React hooks for @qubeejs/core: lists whose state lives in the URL of your router, fetched for you, and a query builder per component or per subtree"
+2026-10-03T00:21:20.559Z,@mrmartineau/lil-debugger,1.1.0,mrmartineau,ISC,42570,"A tiny, framework-agnostic dev tool. Hold Ctrl+Shift to see the data-debug value of any element."
+2026-10-03T00:23:31.827Z,joao-gabriel-portfolio,1.0.0,eugab.dev,MIT,9037,Portfólio interativo de João Gabriel que roda diretamente no terminal.
+2026-10-03T00:24:23.14Z,dsh-page-refresh,1.0.0,day-day-dream,MIT,2990,"Refresh button in the DeepSeek Harness conversation header (desktop-first, client-only, zero tokens)."
+2026-10-03T00:25:38.621Z,@hmharness/lsp,0.23.16,swsgbl,,71175,hmharness LSP Client/Manager — drives external language servers (LSP 3.18 over stdio) for agent code intelligence. Client only: we never implement language servers.
+2026-10-03T00:25:47.381Z,@jspreadsheet/gantt,8.0.0,hodeware,,56818,Gantt Chart extension for Jspreadsheet.
+2026-10-03T00:25:52.129Z,tiny-viewport-unit-calc,1.0.0,regex33xxx,MIT,5197,Tiny utility for viewport unit calculations
+2026-10-03T00:26:26.424Z,@nz-open-data-connectors/nz-sources,0.1.0,olitreadwell,,127672,"Uniform TypeScript adapters for NZ public data sources. Every adapter has the same shape: a live fetch, a strict parse, and a committed fixture fallback so builds work offline."
+2026-10-03T00:26:34.796Z,@uk-open-data-connectors/uk-sources,0.1.0,olitreadwell,,236594,Uniform TypeScript adapters for UK public data sources
+2026-10-03T00:26:42.164Z,@usa-open-data-connectors/usa-sources,0.1.2,olitreadwell,,311652,Uniform TypeScript adapters for US public data sources
+2026-10-03T00:26:55.274Z,@shipd-ai/cli,0.1.0,leonard_datacurve,,102621,Shipd admin CLI — run quest checks on Harbor tasks or existing tasks
+2026-10-03T00:27:36.364Z,@spliceloom/sdk,0.1.0,spliceloom,MIT,811575,"Splice SDK — search, verify, install and run sandboxed skills, and read live Robinhood Chain and market data with provenance, from TypeScript."
+2026-10-03T00:28:55.149Z,@derlio-titeams/email-service,1.0.0,derliodev,MIT,70676,Reusable Email/Notification Service for Node.js with adapter architecture
+2026-10-03T00:29:07.856Z,css-env-function-shim,1.0.0,regex33xxx,MIT,5268,CSS env() function shim for legacy browsers
+2026-10-03T00:32:21.527Z,relic-bridge,0.0.0,matiashidalgo,Apache-2.0,12004,Unofficial MCP server for New Relic via NerdGraph (placeholder: under development)
+2026-10-03T00:32:40.951Z,@nz-open-data-connectors/stats-nz,0.1.0,olitreadwell,,50734,Shared client for the [Aotearoa Data Explorer (ADE) API](https://www.stats.govt.nz/tools/aotearoa-data-explorer/ade-api-user-guide/) - the current Stats NZ data API (the old `api.stats.govt.nz` open…
+2026-10-03T00:34:31.487Z,@fluentui-react-native/native-core,0.0.1,microsoft1es,MIT,226533,Modern native components and modules for Fluent UI React Native.
+2026-10-03T00:36:15.836Z,onforge,0.1.0,alexiscuevases,MIT,58871,Deploy apps to OnForge from your terminal.
+2026-10-03T00:37:03.565Z,@ahoo-wang/wow-client,9.2.0-rc.0,ahoo-wang,Apache-2.0,1795868,"TypeScript client for Wow (https://github.com/Ahoo-Wang/Wow): commands, snapshot and event-stream queries, and the query DSL, built on Fetcher."
+2026-10-03T00:37:07.644Z,@ahoo-wang/wow-react,9.2.0-rc.0,ahoo-wang,Apache-2.0,181801,"React hooks for Wow (https://github.com/Ahoo-Wang/Wow) queries: single, list, paged, count and list-stream. Requires React 19.3 or later."
+2026-10-03T00:37:12.233Z,@ahoo-wang/wow-generator,9.2.0-rc.0,ahoo-wang,Apache-2.0,1190670,"Generates TypeScript models, Fetcher decorator clients and Wow command and query clients from a local or remote OpenAPI 3 document. The Wow clients follow the CQRS model of the Wow DDD framework (htt…"
+2026-10-03T00:37:19.196Z,@ahoo-wang/wow-view-engine,9.2.0-rc.0,ahoo-wang,Apache-2.0,15487733,"Configurable data view engine for Wow-based business applications: definitions in code, view configs as data, records, analyses and dashboards."
+2026-10-03T00:37:23.525Z,@ahoo-wang/wow-view-store,9.2.0-rc.0,ahoo-wang,Apache-2.0,155592,The Wow view store as the view engine's ViewStore: saved views and preferences of @ahoo-wang/wow-view-engine on a Wow server (https://github.com/Ahoo-Wang/Wow).
+2026-10-03T00:37:53.275Z,@lodestarfo/arc-naming-contracts,0.1.0,lodestar010,AGPL-3.0-only,480613,"Interfaces, ABIs, TypeScript types, and deployed addresses for the .arc naming service on Arc (testnet). Resolve names, register names, and sponsor gas via the paymaster — without vendoring the contr…"
+2026-10-03T00:38:40.781Z,popover-anchor-polyfill,1.0.0,regex33xxx,MIT,4954,Polyfill for HTML popover anchor positioning
+2026-10-03T00:38:41.011Z,openreadout,0.1.0,richardzimring,MIT OR Apache-2.0,26413,Read raw lab-instrument files without vendor software. Installs the prebuilt OpenReadout binary for your platform.
+2026-10-03T00:39:59.762Z,opencode-browser-cli,0.0.1,mandarin3d,MIT,25119707,Set up the OpenCode Browser extension: registers its helper with your browsers and connects it to opencode.
+2026-10-03T00:40:10.159Z,@rcompat/path,0.1.0,terrablue,MIT,7054,Portable path utilities
+2026-10-03T00:40:42.56Z,@msb235/blits-quarks,0.1.0,msb235,MIT,18819,"Drives three.quarks particle systems from a blits mix: how many particles each subject emits, where, and with what start values"
+2026-10-03T00:40:51.673Z,docs-wiki,1.0.0,quirl,MIT,319002,"Backlinks, search, link lint, and a local web UI over a repo's markdown. Plain files, no database, zero runtime dependencies."
+2026-10-03T00:41:44.38Z,@rclr-labs/dsh-locale-pt-br,0.1.0,rncintra,MIT,686799,Pacote de idioma pt-BR (Português do Brasil) para o DeepSeek Harness: registra o idioma e os dicionários dos 57 namespaces da interface
+2026-10-03T00:43:16.884Z,openfilm,0.0.1,animspark,Apache-2.0,688,"OpenFilm: make any video, change anything. A film is a web page that draws any moment of itself. Coming soon."
+2026-10-03T00:43:17.146Z,css-anchor-pos-fallback,1.0.0,regex33xxx,MIT,4950,Polyfill for CSS anchor positioning fallback
+2026-10-03T00:47:13.545Z,lobbyhop,0.1.1,kellymilligan,MIT,611696,"Agent-first multiplayer for browser games and experiences: share a URL, play together. Lockstep and state-sync rooms on Cloudflare Durable Objects or Node."
+2026-10-03T00:47:28.331Z,css-scroll-state-polyfill,1.0.0,regex33xxx,MIT,4957,Polyfill for CSS scroll-state container queries
+2026-10-03T00:48:15.866Z,@potential-agents/cli,0.1.2,potencial-ventures,MIT,98948,Declarative GitOps CLI for Potential Agents
+2026-10-03T00:49:08.836Z,@tokenhud/darwin-arm64,0.1.0,lanceqz,MIT,78658103,The tokenhud binary for macOS arm64
+2026-10-03T00:49:21.887Z,@tokenhud/darwin-x64,0.1.0,lanceqz,MIT,85829307,The tokenhud binary for macOS x64
+2026-10-03T00:49:37.455Z,@tokenhud/linux-arm64-musl,0.1.0,lanceqz,MIT,96998437,The tokenhud binary for Linux arm64 (musl)
+2026-10-03T00:49:53.448Z,@tokenhud/linux-arm64,0.1.0,lanceqz,MIT,97964039,The tokenhud binary for Linux arm64
+2026-10-03T00:49:57.951Z,@relations-dil/relations,0.2.0,gaf3,MIT,268268,"A simple, flexible DIL (data interface layer). Define models once, independent of backend; set the source at runtime."
+2026-10-03T00:50:08.174Z,@tokenhud/linux-x64-musl,0.1.0,lanceqz,MIT,98643319,The tokenhud binary for Linux x64 (musl)
+2026-10-03T00:50:25.016Z,@tokenhud/linux-x64,0.1.0,lanceqz,MIT,98376885,The tokenhud binary for Linux x64
+2026-10-03T00:50:38.89Z,@tokenhud/win32-arm64,0.1.0,lanceqz,MIT,94104778,The tokenhud binary for Windows arm64
+2026-10-03T00:50:39.441Z,logangriffinsspecial,1.0.1,logangriffinprox,,1509,
+2026-10-03T00:50:52.554Z,@tokenhud/win32-x64,0.1.0,lanceqz,MIT,103228608,The tokenhud binary for Windows x64
+2026-10-03T00:50:59.083Z,tokenhud,0.1.0,lanceqz,MIT,59980,"Live terminal heads-up display for coding-agent usage, limits and cost"
+2026-10-03T00:52:22.866Z,@opalseed/pack,0.1.0,opalseed,UNLICENSED,32647,"The Opalseed booster pack: pre-rendered foil wrapper sprites, a framework-free tear, and a React component."
+2026-10-03T00:54:44.272Z,css-starting-style-polyfill,1.0.0,regex33xxx,MIT,4982,Polyfill for CSS @starting-style rule
+2026-10-03T00:56:52.099Z,css-field-sizing-polyfill,1.0.0,macsec9292,MIT,4960,Polyfill for CSS field-sizing property
+2026-10-03T00:57:03.505Z,@alliecatowo/git-why,0.1.0,alliecatowo,Apache-2.0,826039,Semantic archaeology for Git. Find the history that explains the code.
+2026-10-03T00:57:05.484Z,daggler-cli,0.1.0,alliecatowo,MIT,465980,The daggler CLI — run Daggler's static analysis and security policies over GitHub Actions workflows from the terminal.
+2026-10-03T00:57:07.523Z,jupyterlite-webmcp,0.1.1,alliecatowo,MIT,999338,Expose the live JupyterLite workspace to a compatible browser agent through WebMCP.
+2026-10-03T00:57:09.572Z,storybook-addon-webmcp,0.1.0,alliecatowo,MIT,461643,"Compiles the live semantic state of your Storybook into a WebMCP capability surface, so a browser agent works inside the exact Storybook session you are using."
+2026-10-03T00:57:11.776Z,swagger-ui-webmcp,0.1.0,alliecatowo,Apache-2.0,243104,"Swagger UI plugin that exposes a documented API to in-browser agents as WebMCP tools, inheriting the page's login and environment."
+2026-10-03T00:57:47.217Z,@thenavidm/cloudflare-mcp-cli,2.0.0,thenavidm,AGPL-3.0-or-later,1047976,"Focused Cloudflare MCP and shared CLI with current DNS/Rulesets schemas, private profiles and reviewed mutation workflows."
+2026-10-03T00:59:53.503Z,scheduler-zero,0.1.0,kareem717,MIT,1635977,Command-line client for the Scheduler Zero API
+2026-10-03T01:00:26.581Z,stake-ts,1.0.0,fhorray,MIT,439813,Unofficial TypeScript API wrapper for Stake.com with Cloudflare bypass & full typings
+2026-10-03T01:00:35.509Z,@zebbern/htb,0.1.0,zebbern,MIT,157360,"MCP server giving AI agents live control of Hack The Box labs (machines, challenges, flags, VPN) via the bundled zero-dependency HTB Agent Toolkit CLI."
+2026-10-03T01:01:21.049Z,@flexai/ai-sdk-provider,0.1.0,flexai-bot,MIT,28611,Vercel AI SDK provider for FlexAI — open-weight models served behind an OpenAI-compatible API
+2026-10-03T01:01:41.493Z,@accordsync/core,0.1.0,crossben,Apache-2.0,42292,"Accord's pure merge core: hybrid logical clocks, operations and merge strategies"
+2026-10-03T01:01:43.475Z,@accordsync/server,0.1.0,crossben,Apache-2.0,55762,"Accord sync server (Node, Hono, PostgreSQL)"
+2026-10-03T01:01:45.783Z,@accordsync/simulator,0.1.0,crossben,Apache-2.0,28501,Deterministic network and device simulator for Accord convergence tests
+2026-10-03T01:01:47.848Z,@accordsync/client,0.1.0,crossben,Apache-2.0,37892,"Accord local-first client: storage adapters, background sync, conflict API"
+2026-10-03T01:03:41.443Z,@rafflex/dev,0.1.0,r14ull,MIT,287274,"Build, preview, and check Rafflex marketplace games and blocks locally, with the platform's own rules."
+2026-10-03T01:03:45.413Z,@twobrake/create-monorepo,0.1.1,twobrake,MIT,8545,The installer for an opinionated monorepo starter for TypeScript built on the Bun ecosystem.
+2026-10-03T01:04:12.26Z,lgnice,1.0.0,logangriffinprox,,1004,
+2026-10-03T01:04:38.548Z,@banksia/okf,0.0.1,luism,,178927,Open Knowledge Format (OKF v0.2) universal SDK and Node.js adapter
+2026-10-03T01:07:23.256Z,@comms-id/address,0.2.0,comms-id,SEE LICENSE IN LICENSE,89410,Typed client for the Comms.ID Address API: autocomplete suggestions and resolved Australian addresses
+2026-10-03T01:07:30.833Z,@comms-id/address-react,0.2.0,comms-id,SEE LICENSE IN LICENSE,17202,"React hook and component for Comms.ID Address autocomplete: accessible, no layout shift, with the data attribution"
+2026-10-03T01:07:38.101Z,@comms-id/abn,0.2.0,comms-id,SEE LICENSE IN LICENSE,150013,"Typed client for the Comms.ID ABN API (suggest, lookup) and local ABN and ACN validate and format that need no network"
+2026-10-03T01:07:45.012Z,@comms-id/abn-react,0.2.0,comms-id,SEE LICENSE IN LICENSE,17817,"React hook and component for Comms.ID ABN search: a name or an ABN or ACN, accessible, no layout shift, with the data attribution"
+2026-10-03T01:07:52.358Z,@comms-id/relay,0.1.0,comms-id,SEE LICENSE IN LICENSE,14079,"Server relay for Comms.ID products: your backend forwards your own users' requests, signed as your registered app"
+2026-10-03T01:07:54.708Z,@gitmyabi/contract,1.0.0,gitmyabi-bot,MIT,59969,"Auto-generated TypeScript type bindings for Contract (build etherscan-contract-079596b3-1790989578682, commit 72f812d, branch etherscan)"
+2026-10-03T01:08:01.092Z,@comms-id/company,0.2.0,comms-id,SEE LICENSE IN LICENSE,74655,"Typed client for the Comms.ID Company API: Australian companies from ASIC's public registers: search by name, look up one by ACN"
+2026-10-03T01:08:08.041Z,@comms-id/charity,0.2.0,comms-id,SEE LICENSE IN LICENSE,163678,"Typed client for the Comms.ID Charity API: the ACNC register record and details of an Australian charity, looked up by ABN"
+2026-10-03T01:08:15.575Z,@comms-id/oric,0.2.0,comms-id,SEE LICENSE IN LICENSE,159714,"Typed client for the Comms.ID Indigenous corporation API: Aboriginal and Torres Strait Islander corporations on the ORIC register: search, and look up one by ICN, ABN or portal id"
+2026-10-03T01:08:24.682Z,@comms-id/asx,0.2.0,comms-id,SEE LICENSE IN LICENSE,91203,"Typed client for the Comms.ID ASX API: ASX-listed companies: suggest as a user types, and look one up"
+2026-10-03T01:08:35.714Z,@comms-id/sanctions,0.2.0,comms-id,SEE LICENSE IN LICENSE,56692,"Typed client for the Comms.ID Sanctions API: screening of one individual, entity or vessel against the Australian Sanctions Consolidated List"
+2026-10-03T01:08:42.886Z,@comms-id/logo,0.2.0,comms-id,SEE LICENSE IN LICENSE,51807,"Typed client for the Comms.ID Website logo API: a company's logo, resolved from its website address"
+2026-10-03T01:09:41.784Z,@maitxn/pkg-rollback-oases-pitas-clomb-kisan,1.0.0,maitxn,ISC,251,empty
+2026-10-03T01:10:20.413Z,@org-rollback-zakat-adore-marae-frigs/pkg-rollbackfrigs,1.0.0,maitxn,ISC,273,empty
+2026-10-03T01:10:49.745Z,@cerebral-work/lizard,0.1.0,todie,MIT,15021,"Installer for lizard, the estate onboarding and control TUI. Downloads the release binary with your own gh login and verifies its SHA-256."
+2026-10-03T01:10:51.642Z,@org-rollback-labra-pique-gluey-jewel/pkg-rollbackjewel,1.0.0,maitxn,ISC,273,empty
+2026-10-03T01:15:59.713Z,css-interop-observer-polyfill,1.0.0,macsec9292,MIT,4999,Polyfill for CSS interop observer API
+2026-10-03T01:18:40.457Z,unblend,1.0.0,ryan5453,MIT,157703,"Browser-side music source separation with ONNX HTDemucs, RoFormer and SCNet models."
