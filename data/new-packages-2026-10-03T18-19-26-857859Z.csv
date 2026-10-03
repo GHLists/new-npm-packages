@@ -1,0 +1,182 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-03T17:15:15.763Z,@atcn/usage,1.3.2,fadnisnikhil,Apache-2.0,24462,"Opt-in anonymous usage reporting for ATCN: the saved choice, the report format, and the sender. Off by default."
+2026-10-03T17:15:18.406Z,@atcn/core,1.3.2,fadnisnikhil,Apache-2.0,63749,"Deterministic ATCN logic: delegation bounds, clearing policy evaluation, allocation, journal balance, closure-package verification"
+2026-10-03T17:15:20.611Z,@atcn/verifiers,1.3.2,fadnisnikhil,Apache-2.0,27612,"Deterministic ATCN verifier plugins (JUnit tests, ESLint, patch digest, external attestation)"
+2026-10-03T17:15:22.764Z,@atcn/subledger,1.3.2,fadnisnikhil,Apache-2.0,210154,"Agent Work Subledger: deterministic attribution, roll-up, exceptions, signed receipts and closures, and offline verification"
+2026-10-03T17:15:27.097Z,@atcn/sdk,1.3.2,fadnisnikhil,Apache-2.0,91553,"TypeScript SDK for ATCN: sign events, build terms and evidence envelopes, call the API, verify webhooks, closures, and closure packages"
+2026-10-03T17:15:29.47Z,@atcn/verify-cli,1.3.2,fadnisnikhil,Apache-2.0,19011,"Offline verifier for ATCN closure packages, subledger task closures, and provider receipts: atcn-verify <document.json> --keys <keys.json>"
+2026-10-03T17:15:31.743Z,@atcn/local-runner,1.3.2,fadnisnikhil,Apache-2.0,105475,"Run an ATCN job on your machine: capture the work, reconcile its costs, and verify the signed result offline. No account or API needed."
+2026-10-03T17:16:01.443Z,@solidports/recharts,0.1.1,lovrozagar,MIT,3926640,SolidJS 1:1 port of Recharts charting library
+2026-10-03T17:17:58.42Z,@systembook/content,0.3.0,mateusvillain,MIT,252467,"Conteúdo do SystemBook em arquivos: parser de .md/.mdx para os blocos do CMS, árvore de navegação a partir das pastas e o mapeamento canônico entre nós Tiptap e blocos."
+2026-10-03T17:18:04.146Z,@systembook/docs-site,0.3.0,mateusvillain,MIT,530414,"Documentação pública do SystemBook e renderização de conteúdo, independentes da fonte de dados (CMS ou arquivos estáticos)."
+2026-10-03T17:18:07.141Z,@systembook/cli,0.3.0,mateusvillain,MIT,236948,CLI do SystemBook: previews de componentes (os dois modos) e o build do site estático a partir de arquivos .md/.mdx.
+2026-10-03T17:19:55.836Z,@alxia/core,0.1.0,stevegires,MIT,474362,"A zero-dependency, type-safe HTTP framework for Bun: routes validated with any Standard Schema, typed from the request to the client"
+2026-10-03T17:19:56.678Z,@alxia/env,0.1.0,stevegires,MIT,35853,"Environment variables, validated and typed with any Standard Schema, failing at startup with every issue"
+2026-10-03T17:19:58.081Z,@alxia/zod,0.1.0,stevegires,MIT,52277,"Zod 4 for alxia: query and path coercions a client can type, and the OpenAPI converter that documents a Date as it crosses the wire"
+2026-10-03T17:19:59.905Z,@alxia/cache,0.1.0,stevegires,MIT,118374,"HTTP response caching for alxia: TTL, stale-while-revalidate, one load for concurrent misses, tags, ETags — in memory, or in Redis with @alxia/redis"
+2026-10-03T17:20:00.831Z,@alxia/client,0.1.0,stevegires,MIT,103993,"The typed fetch client of an @alxia/core app, inferred from its type: no codegen, no spec"
+2026-10-03T17:20:02.436Z,@alxia/compress,0.1.0,stevegires,MIT,57919,"Response compression for alxia: zstd, Brotli, gzip and deflate, negotiated, streamed, with no dependency"
+2026-10-03T17:20:03.75Z,@alxia/context-storage,0.1.0,stevegires,MIT,50765,"The request's context anywhere it runs — a service, a repository, a logger — through AsyncLocalStorage: alxia's hono/context-storage, typed by the app"
+2026-10-03T17:20:05.044Z,@alxia/cors,0.1.0,stevegires,MIT,43965,"CORS for alxia: preflights answered before routing, and the headers a browser needs on every response"
+2026-10-03T17:20:06.295Z,@alxia/graphql,0.1.0,stevegires,MIT,85949,"GraphQL for alxia with GraphQL Yoga: its plugins, subscriptions over SSE and GraphiQL, behind the app's hooks, its resolvers reading the app's typed context"
+2026-10-03T17:20:07.61Z,@alxia/janus,0.1.0,stevegires,MIT,142281,"Identities and sessions for alxia on @nxgt/janus: the user typed in the context, the session cookie kept and renewed, a typed 401"
+2026-10-03T17:20:09.025Z,@alxia/jwt,0.1.0,stevegires,MIT,94678,"JSON Web Tokens for alxia, on Web Crypto: HS256, ES256, RS256, EdDSA, and a typed bearer guard"
+2026-10-03T17:20:10.291Z,@alxia/language,0.1.0,stevegires,MIT,74819,"The request's language for alxia, typed as the languages you support: from the query, a cookie, the path or Accept-Language, weights and regions included"
+2026-10-03T17:20:11.546Z,@alxia/logger,0.1.0,stevegires,MIT,45909,"Request logging for alxia: a request id, structured log lines, Server-Timing, and a log bound to the request"
+2026-10-03T17:20:12.725Z,@alxia/openapi-routes,0.1.0,stevegires,MIT,38708,"Checks that an @alxia/core app routes every operation of an OpenAPI document, and only those"
+2026-10-03T17:20:14.466Z,@alxia/openapi,0.1.0,stevegires,MIT,102753,"The OpenAPI 3.2 document of an @alxia/core app, from its route schemas"
+2026-10-03T17:20:15.839Z,@alxia/rate-limit,0.1.0,stevegires,MIT,51902,"Rate limiting for alxia, typed: the 429 is part of every route behind it, and the client reads it"
+2026-10-03T17:20:17.467Z,@alxia/react-router,0.1.0,stevegires,MIT,222163,"alxia as the server of a React Router framework app: server rendering behind the app's hooks, loaders reading its typed context, the client's assets served"
+2026-10-03T17:20:18.365Z,@alxia/secure-headers,0.1.0,stevegires,MIT,44243,"Secure HTTP headers for alxia: HSTS, CSP, nosniff and the rest, each one adjustable"
+2026-10-03T17:20:19.56Z,@alxia/telemetry,0.1.0,stevegires,MIT,56059,"Traces and logs for alxia on @nxgt/telemetry: one server span per request around everything it runs, the traceparent continued, the route as its name"
+2026-10-03T17:20:20.769Z,@alxia/i18n,0.1.0,stevegires,MIT,64170,"Translations for alxia on @nxgt/i18n: t() bound to the request's language, keys typed by your catalogue, ICU messages"
+2026-10-03T17:20:22.215Z,@alxia/redis,0.1.0,stevegires,MIT,120851,"Redis for alxia on @nxgt/redis and @nxgt/redis-guard: a rate-limit store every process shares, idempotent routes, caches and locks in the context"
+2026-10-03T17:22:30.811Z,@kreijstal/wanix,0.4.0-watch.1,kreijstal,MIT,22447876,Wanix (tractordev/wanix) with file watching: memfs implements fs.WatchFS and #watch streams the namespace's changes
+2026-10-03T17:22:46.151Z,mcpspan,0.1.0,krwndev,MIT,152556,"Self-hosted analytics for MCP servers: which tools, resources and prompts get used, by which client, how fast, and why they fail."
+2026-10-03T17:22:57.966Z,@readletjs/core,0.1.1,jaklimoff,MIT,542670,"Framework-agnostic document rendering, text layer and selection for the browser."
+2026-10-03T17:23:01.079Z,@readletjs/pdf,0.1.0,jaklimoff,MIT,2670249,"PDF backend for Readlet, built on pdf.js."
+2026-10-03T17:23:03.619Z,@readletjs/react,0.1.1,jaklimoff,MIT,110607,React bindings for Readlet.
+2026-10-03T17:23:59.206Z,darshan-cli-first,1.0.0,palli-gopi-npm,ISC,498614,A simple CLI that creates a folder with a Virat Kohli image
+2026-10-03T17:24:18.077Z,store-gateway-node,0.1.0,coen_ddt,MIT,10408,"Optional combiner for the three common-store API skins (REST / GraphQL / gRPC): config-driven per-skin enable switches, all skins optional peer deps"
+2026-10-03T17:27:02.151Z,dsh-bulletin-announce,0.3.17,southsnowl,Apache-2.0,98728,办公室公告机制：一个追加式的公告文件（AI 只往后加，改和删是用户的事）+ 每步之前把新公告送进会话（开桌补课、压缩后重发）
+2026-10-03T17:27:06.033Z,dsh-bulletin-dispatch,1.3.20,southsnowl,Apache-2.0,206031,跨桌投递：认桌（读会话标题的 NN- 前缀）+ 按桌投递（单子挂在「桌」上，谁先来谁取走）+ 会话回收 + 给人看的状态表。一个包、多功能、可逐个开关。
+2026-10-03T17:27:10.638Z,dsh-bulletin-panel,0.3.31,southsnowl,Apache-2.0,284485,办公室侧边栏面板：在右侧栏看公告与投递状态；公告可由用户在这里发布、编辑（投递状态只读）。权威文件仍在 00-通用\。
+2026-10-03T17:27:19.314Z,codeassembly-guidance,0.0.0,williamthorsen,,125,"Placeholder for `codeassembly-guidance`, awaiting first release."
+2026-10-03T17:27:39.184Z,stellarium-ts,0.1.0,christopherquallet,ISC,23052,A Stellarium Node in TypeScript.
+2026-10-03T17:29:15.304Z,@abusufiyans/ispeed,1.0.0,abusufiyans,MIT,223566,A live terminal internet speed test powered by Cloudflare.
+2026-10-03T17:29:56.969Z,ng-postcode-js,0.1.1,adeniyikayode_,MIT,45512,"Parse, validate and format Nigeria's NIPOST digital postcode (NDAPS) offline, plus a client for the postcode.gov.ng API."
+2026-10-03T17:30:08.271Z,@fraziym/axoniz,0.1.3,akikfaraji,MIT,12598137,"AXONIZ — Autonomous Local Agentic System. 100% offline AI agent with tool use, multi-memory, code graph, swarm orchestration, and computer control."
+2026-10-03T17:30:11.469Z,pi-shake,0.1.0,k3_2o,MIT,49792,"Elide heavy context (tool results, large blocks, images, thinking) via pi context_edit overlays"
+2026-10-03T17:30:59.61Z,ng-postcode-mcp,0.1.0,adeniyikayode_,MIT,56884,"MCP server for Nigeria's NIPOST digital postcode (NDAPS): validate, look up, autocomplete and find postcodes by location."
+2026-10-03T17:32:16.038Z,@wispro/monitorjs,1.0.1,wispro,MIT,27487,"Privacy-First Server Endpoint Latency & Runtime APM Profiler for Node.js, Express, NestJS, and Fastify"
+2026-10-03T17:32:29.942Z,@disko-game/build-darwin-arm64,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,1710936,The darwin-arm64 native addon of @disko-game/build
+2026-10-03T17:32:32.605Z,@disko-game/build-darwin-x64,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,1865394,The darwin-x64 native addon of @disko-game/build
+2026-10-03T17:32:35.833Z,@disko-game/build-linux-arm64-gnu,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,1756382,The linux-arm64-gnu native addon of @disko-game/build
+2026-10-03T17:32:38.991Z,@disko-game/build-linux-arm64-musl,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,1776843,The linux-arm64-musl native addon of @disko-game/build
+2026-10-03T17:32:41.488Z,@disko-game/build-linux-x64-gnu,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,2026600,The linux-x64-gnu native addon of @disko-game/build
+2026-10-03T17:32:44.926Z,@disko-game/build-linux-x64-musl,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,2026701,The linux-x64-musl native addon of @disko-game/build
+2026-10-03T17:32:47.239Z,@disko-game/build-win32-x64-msvc,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,1859905,The win32-x64-msvc native addon of @disko-game/build
+2026-10-03T17:32:51.445Z,@disko-game/room-darwin-arm64,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,14934418,The darwin-arm64 native addon of @disko-game/room
+2026-10-03T17:32:55.002Z,@disko-game/room-darwin-x64,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,17218984,The darwin-x64 native addon of @disko-game/room
+2026-10-03T17:32:59.016Z,@disko-game/room-linux-arm64-gnu,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,15420544,The linux-arm64-gnu native addon of @disko-game/room
+2026-10-03T17:33:02.825Z,@disko-game/room-linux-arm64-musl,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,15547485,The linux-arm64-musl native addon of @disko-game/room
+2026-10-03T17:33:07.102Z,@disko-game/room-linux-x64-gnu,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,18524210,The linux-x64-gnu native addon of @disko-game/room
+2026-10-03T17:33:09.032Z,@quickcasa/accessibility-widget,1.0.0,pattt,MIT,97516,"A free, open source accessibility toolbar you add to any website with one script tag."
+2026-10-03T17:33:11.779Z,@disko-game/room-linux-x64-musl,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,18787503,The linux-x64-musl native addon of @disko-game/room
+2026-10-03T17:33:15.426Z,@disko-game/room-win32-x64-msvc,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,18742075,The win32-x64-msvc native addon of @disko-game/room
+2026-10-03T17:33:18.349Z,@disko-game/build,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,80375,"The disko game build pipeline: source walk, TypeScript emit, canonical archive and release checks"
+2026-10-03T17:33:20.987Z,@disko-game/room,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,71359,Host disko rooms from Node.js
+2026-10-03T17:33:24.077Z,@disko-game/cli,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,74601,"The disko command: run games in a test room, publish them and sign in to disko"
+2026-10-03T17:33:26.602Z,@disko-game/create,0.1.0-alpha.1,gabrielbrunop,SEE LICENSE IN LICENSE,50919,Create a disko game or room project: npm create @disko-game -- game <dir> --ts
+2026-10-03T17:34:07.547Z,pixel-openspace,0.1.2,leduss,MIT,578449,"Your scheduled jobs (launchd, cron, systemd timers) as pixel-art workers in an open space, in your browser."
+2026-10-03T17:34:10.184Z,jev-docs-mcp,1.0.0,mohitsharmamsh8,MIT,11201,MCP server for searching and reading the official TypeSafe Jev documentation
+2026-10-03T17:34:20.853Z,@jrootr/agent-trace,0.2.0,jrootr,MIT,442895,"See what your AI agent actually did: an interactive timeline and call tree for Claude Code sessions and OpenTelemetry traces, in one self-contained HTML file."
+2026-10-03T17:35:13.34Z,@cyanmycelium/mcp-vault,0.1.0,gaume,Apache-2.0,223802,"The vault.v1 contract above an mcp-broker: secrets and config files shared between slots, sealed end to end, access decided by the broker, stored in OpenBao."
+2026-10-03T17:35:20.39Z,@errevion/crewmate,0.1.0,errevion,MIT,666779,CLI-based workflow engine for contract-driven agent development
+2026-10-03T17:35:29.135Z,@ustcode-ai/ai,3.0.0,enthusjast-ustc,MIT,2937352,"Schema-first APIs for text, images, video, speech, and transcription, built with Effect."
+2026-10-03T17:35:35.222Z,@ustcode-ai/util,3.0.0,enthusjast-ustc,MIT,231277,
+2026-10-03T17:35:53.719Z,@ustcode-ai/protocol,3.0.0,enthusjast-ustc,MIT,2237581,
+2026-10-03T17:36:12.9Z,@ustcode-ai/client,3.0.0,enthusjast-ustc,MIT,1007220,Private generation target for clients derived directly from USTCode's authoritative Effect `HttpApi`.
+2026-10-03T17:36:17.92Z,@jhasatyam/medium-common,1.0.2,jhasatyam,MIT,4984,Shared validation schemas for Medium clone
+2026-10-03T17:36:21.18Z,valencia-avisos-mcp,0.1.0,naroh,,74018,Servidor MCP y CLI para el sistema de avisos del Ayuntamiento de Valencia (AppValencia / viaPublica)
+2026-10-03T17:36:32.628Z,laspalmas-avisos-mcp,0.1.0,naroh,,61880,Servidor MCP y CLI para el sistema de avisos del Ayuntamiento de Las Palmas de Gran Canaria (LPGC Tu Ciudad / LPGC Avisa)
+2026-10-03T17:36:52.856Z,@neomaventures/managed-app,0.1.1,dannybster,MIT,42373,"Managed NestJS application fixture for e2e tests — boots from a module path, caches one instance per path, closes automatically."
+2026-10-03T17:37:33.115Z,@ustcode-ai/cli-darwin-x64-baseline,3.0.0,enthusjast-ustc,MIT,167326216,
+2026-10-03T17:37:34.853Z,@ustcode-ai/cli-darwin-arm64,3.0.0,enthusjast-ustc,MIT,157633509,
+2026-10-03T17:37:35.098Z,@ustcode-ai/cli-linux-arm64,3.0.0,enthusjast-ustc,MIT,176278041,
+2026-10-03T17:37:37.456Z,@ustcode-ai/cli-linux-x64-baseline-musl,3.0.0,enthusjast-ustc,MIT,180487979,
+2026-10-03T17:37:38.924Z,@ustcode-ai/cli-linux-x64-baseline,3.0.0,enthusjast-ustc,MIT,180225750,
+2026-10-03T17:37:39.327Z,@ustcode-ai/cli-linux-x64-musl,3.0.0,enthusjast-ustc,MIT,180487970,
+2026-10-03T17:37:39.723Z,@ustcode-ai/cli-windows-arm64,3.0.0,enthusjast-ustc,MIT,173740787,
+2026-10-03T17:37:40.017Z,@ustcode-ai/cli-darwin-x64,3.0.0,enthusjast-ustc,MIT,167326207,
+2026-10-03T17:37:41.678Z,@ustcode-ai/cli-linux-arm64-musl,3.0.0,enthusjast-ustc,MIT,175312326,
+2026-10-03T17:37:41.769Z,@ustcode-ai/cli-linux-x64,3.0.0,enthusjast-ustc,MIT,180225741,
+2026-10-03T17:37:43.509Z,@ustcode-ai/cli-windows-x64-baseline,3.0.0,enthusjast-ustc,MIT,186049784,
+2026-10-03T17:37:44.13Z,@ustcode-ai/cli-windows-x64,3.0.0,enthusjast-ustc,MIT,186049775,
+2026-10-03T17:37:48.639Z,@ustcode-ai/cli,3.0.0,enthusjast-ustc,MIT,7132,
+2026-10-03T17:38:24.48Z,nerf-watch,0.1.0,abelo9996,MIT,100625,Find out when your coding agent quietly got worse or more expensive. Reads local Claude Code and Codex session logs and flags changes you did not make.
+2026-10-03T17:38:37.081Z,openai-agents-msb,0.2.0,iyimifr,MIT,138385,Drop-in run() replacement and sandbox tools that give @openai/agents agents an isolated microsandbox workspace.
+2026-10-03T17:39:29.882Z,@ustcode-ai/cli-node-windows-x64,0.0.0-dev-10,enthusjast-ustc,MIT,155163204,
+2026-10-03T17:39:31.744Z,@ustcode-ai/cli-node-darwin-arm64,0.0.0-dev-10,enthusjast-ustc,MIT,188012204,
+2026-10-03T17:39:32.291Z,@ustcode-ai/cli-node-linux-arm64,0.0.0-dev-10,enthusjast-ustc,MIT,193199406,
+2026-10-03T17:39:32.706Z,@ustcode-ai/cli-node-linux-x64,0.0.0-dev-10,enthusjast-ustc,MIT,196844990,
+2026-10-03T17:39:34.741Z,@ustcode-ai/cli-node-windows-arm64,0.0.0-dev-10,enthusjast-ustc,MIT,138078280,
+2026-10-03T17:39:37.173Z,@ustcode-ai/cli-node,0.0.0-dev-10,enthusjast-ustc,MIT,6602,
+2026-10-03T17:39:48.439Z,dsh-cpa-switch,0.1.2,cslkkl,MIT,174458,DeepSeek Harness 插件：在 DSH 里管理 CLIProxyAPI 的账号 —— 余额、签到、任务、切换账号，并让 CPA 随 DSH 启停。
+2026-10-03T17:39:58.455Z,@lucidrail/sdk,0.1.0,lucidrail,MIT,73108,"Ask Lucidrail before a consequential tool call: authorize, wait for a person, report the outcome."
+2026-10-03T17:40:09.224Z,@ustcode-ai/plugin,3.0.0,enthusjast-ustc,MIT,123545,
+2026-10-03T17:40:16.898Z,@jwilleke/oidc-auth-server,0.2.0,jswilleke,MIT,120481,"OpenID Connect authorization server for Node apps: a thin, hardened wrapper around node-oidc-provider with device authorization (RFC 8628), UserInfo, refresh rotation and PKCE, where the host app kee…"
+2026-10-03T17:40:20.205Z,@ustcode-ai/plugin-browser,3.0.0,enthusjast-ustc,MIT,223513,USTCode's desktop browser plugin
+2026-10-03T17:40:31.079Z,@allin-ai/agentkit-hub,0.6.0,df007df,MIT,2306640,Embedded Hub SDK and standalone web console.
+2026-10-03T17:40:39.21Z,@allin-ai/agentkit-client,0.6.0,df007df,MIT,821920,"Standalone persistent Agent Client: connect to a Hub, durably execute local platform agents and policy-gated capabilities, and report state upstream."
+2026-10-03T17:41:08.618Z,@ustcode-ai/core,3.0.0,enthusjast-ustc,MIT,4465939,Core runtime services for USTCode.
+2026-10-03T17:41:22.602Z,@abelo9996/snap-back,0.1.0,abelo9996,MIT,71691,Undo for any coding agent. Snapshots your project into a shadow git repo so one command rolls back what the agent did.
+2026-10-03T17:41:35.159Z,@abelo9996/agent-fence,0.1.0,abelo9996,MIT,102147,One permission policy for every coding agent.
+2026-10-03T17:41:35.718Z,@ustcode-ai/simulation,3.0.0,enthusjast-ustc,MIT,76790,
+2026-10-03T17:42:15.792Z,@ustcode-ai/server,3.0.0,enthusjast-ustc,MIT,836394,
+2026-10-03T17:42:31.564Z,burrowbox,0.1.0,burrowbox,MIT,432535,"TypeScript client for the Burrowbox API: persistent Linux computers for AI agents, with a desktop, a signed-in browser, a credential vault and an MCP endpoint per machine."
+2026-10-03T17:42:32.568Z,@allocator-one/rcl,4.5.0,mstroeck,MIT,4552363,Review Council — multi-model AI code review CLI
+2026-10-03T17:42:53.91Z,@ustcode-ai/sdk,3.0.0,enthusjast-ustc,MIT,50781,"In-process USTCode host for Promise and Effect applications. The SDK executes Server's assembled HTTP router in memory, opening no listener and adding no network hop."
+2026-10-03T17:43:02.884Z,@ustcode-ai/ui,3.0.0,enthusjast-ustc,MIT,4378609,
+2026-10-03T17:44:09.801Z,pagesieve-cli,0.3.0,julius383,MIT,150877,A secondary client for extracting data based on the PageSieve ScrapeConfig. Provides Playwright and Cheerio based crawlers.
+2026-10-03T17:44:39.399Z,@destinatarium/node,0.1.0,pablotw,MIT,28381,SDK oficial de Destinatarium para Node.js
+2026-10-03T17:44:59.56Z,react-web-pdf-editor,0.1.2,allinone644,MIT,4692520,"View and edit PDFs in the browser with React: text, ink, highlights, images, signatures, page edits, and export."
+2026-10-03T17:45:49.105Z,@wbline/pi-vision,0.1.0,wongbin,MIT,75925,Vision capabilities for Pi coding agent — image understanding and visual analysis
+2026-10-03T17:46:50.749Z,@gitmyabi/expz,1.0.0,gitmyabi-bot,MIT,261289,"Auto-generated TypeScript type bindings for EXPZ (build etherscan-expz-66140900-1791049514183, commit 7f23240, branch etherscan)"
+2026-10-03T17:49:13.342Z,@waveso/cues,0.1.0,wavesocial,MIT,93293,"How the interface answers you: sounds synthesized as they play, from measured recipes, through a mixer with a limiter, with no files to load."
+2026-10-03T17:49:25.561Z,uh-scan,0.2.0,unicorn-horn,MIT,100881,Design system telemetry scanner: counts where your components are used and uploads the result to UHScan.
+2026-10-03T17:51:08.394Z,@gitmyabi/etgp,1.0.0,gitmyabi-bot,MIT,77954,"Auto-generated TypeScript type bindings for ETGP (build etherscan-etgp-a96f31f1-1791049843807, commit 971f8e2, branch etherscan)"
+2026-10-03T17:51:13.778Z,cavetto,0.0.1,cavetto-admin,MIT,457,Placeholder for Cavetto (https://cavetto.dev). Not yet released.
+2026-10-03T17:51:33.087Z,@slidesend/core,0.1.0-alpha.0,nexusflow-ug,Apache-2.0,919065,"The core of Slidesend: decks in TypeScript, plugins, designs, sessions, the stage, phone and desk views, and the slidesend command."
+2026-10-03T17:51:36.205Z,@slidesend/create,0.1.0-alpha.0,nexusflow-ug,Apache-2.0,69955,npm create @slidesend: a new Slidesend talk that explains how it is made.
+2026-10-03T17:51:39.332Z,@slidesend/agent,0.1.0-alpha.0,nexusflow-ug,Apache-2.0,111484,"An AI agent chat for the audience of a Slidesend talk, on Amazon Bedrock."
+2026-10-03T17:51:42.375Z,@slidesend/aws,0.1.0-alpha.0,nexusflow-ug,Apache-2.0,223890,"Hosting for Slidesend talks on AWS: the backend on AWS Blocks, deploy, bootstrap with OIDC, and the GitHub Actions workflow."
+2026-10-03T17:51:45.485Z,@slidesend/basics,0.1.0-alpha.0,nexusflow-ug,Apache-2.0,167541,"The section template, generic blocks, polls and text questions, and the default design for Slidesend talks."
+2026-10-03T17:52:09.453Z,create-store-app,0.1.1,coen_ddt,MIT,8590,Scaffold a data-driven app on common-store (nodejs-store / storepy)
+2026-10-03T17:54:34.946Z,tlgrm,0.0.1,isuvorov,ISC,219,
+2026-10-03T17:54:46.287Z,@dungarees/bin-shared-domain,0.0.0,eggdice,,278,Placeholder reserving the name. The first real release comes from productkind/monorepo.
+2026-10-03T17:54:47.134Z,@cogs/biome-config,0.2.0,catesandrew,MIT,1859,Shared Biome configuration for the catesworks fleet
+2026-10-03T17:55:21.1Z,@gawlo/cli,0.1.0,manaseer,,53817,Gawlo CLI — AI-native application security testing
+2026-10-03T17:55:25.582Z,@anotherdev/agent-workflow,0.1.1,anotherdev,MIT,229603,"Bounded agent workflow kit: install and maintain an OpenCode project workflow with isolated worktrees, managed templates, and verification contracts."
+2026-10-03T17:55:29.834Z,iobroker.solinteg,0.1.1,bueste,MIT,229551,"ioBroker adapter for Solinteg hybrid inverters (MHT series and INTEG-M-compatible rebrands such as Wattsonic and M-TEC Energy Butler) with any attached battery (e.g. Dyness STACK100), via local Modbu…"
+2026-10-03T17:55:37.483Z,@dungarees/react,0.0.0,eggdice,,266,Placeholder reserving the name. The first real release comes from productkind/monorepo.
+2026-10-03T17:56:05.847Z,@dungarees/ssr-react,0.0.0,eggdice,,270,Placeholder reserving the name. The first real release comes from productkind/monorepo.
+2026-10-03T17:56:55.489Z,@vybestack/llxprt-code-zed-acp,0.0.0-bootstrap.0,acoliver,Apache-2.0,175,Package-name bootstrap for LLxprt Code Zed ACP
+2026-10-03T17:57:15.875Z,@wraith-ops/uri-js,4.4.2,wraith-ops,BSD-2-Clause,315744,"Maintained fork of uri-js with security fixes. An RFC 3986/3987 compliant, scheme extendable URI/IRI parsing/normalizing/resolving/serializing library for JavaScript."
+2026-10-03T17:57:28.651Z,setuptier,0.1.0,nuclear101,UNLICENSED,53914,"SetupTier CLI: measure what your AI setup adds. Sign in, scan your loadout (names only), run challenges."
+2026-10-03T17:58:01.988Z,@tokentop/agent-pi,0.1.0,nigel-dev,MIT,51213,Pi coding agent session and token tracking for tokentop
+2026-10-03T18:00:43.561Z,@usewind/browser,0.1.0,eqm26,MIT,107423,"The ""Connect with Wind"" button web component (<wind-connect>) and a connection-status helper. No secrets, browser-only."
+2026-10-03T18:00:54.491Z,@usewind/node,0.1.0,eqm26,MIT,356732,"Server SDK for Connect with Wind — OAuth connect routes, atomic refresh-token rotation, and billed inference calls."
+2026-10-03T18:01:10.377Z,@moo-m/mdev,1.0.0,moo-m,ISC,176052,"In-browser developer tools: Console, Elements, Application and Sources in floating windows. Built with TypeScript and Shadow DOM, no framework."
+2026-10-03T18:02:27.844Z,sentrygate,0.1.1,mnjkshrm,MIT,3616615,"Local on-device guard between your app and an LLM: catch prompt injections (a 421M decision model run in-process via ONNX Runtime) and mask PII before the prompt leaves the machine. No API calls, not…"
+2026-10-03T18:03:08.531Z,@asifjahmed/claudemanager,0.1.0,asifjahmed,MIT,467581,"Monitor several Claude Max accounts and route Claude Code traffic to the one with the most headroom, switching before a usage window fills"
+2026-10-03T18:03:12.498Z,opencode-image-gen,0.1.1,girardidev,MIT,38662,OpenCode plugin that generates images with your ChatGPT Plus/Pro subscription
+2026-10-03T18:03:25.739Z,@edumalin/platform,3.0.0,rraziel,,988625,Platform libraries for Edumalin
+2026-10-03T18:03:28.239Z,@edumalin/application,3.0.0,rraziel,,62263,Application core functions and communication bridge
+2026-10-03T18:04:09.148Z,@edumalin/id,3.0.0,rraziel,,2885192,Types and functions the Edumalin platform identifiers
+2026-10-03T18:04:10.556Z,@edumalin/react,3.0.0,rraziel,,5636,React helpers for the Edumalin platform
+2026-10-03T18:04:12.68Z,@edumalin/vue,3.0.0,rraziel,,5616,Vue helpers for the Edumalin platform
+2026-10-03T18:04:14.517Z,@edumalin/analytics,3.0.0,rraziel,,60971,Types and client for the Edumalin analytics API
+2026-10-03T18:04:19.767Z,@edumalin/document,3.0.0,rraziel,,316491,Types and client for the Edumalin document API
+2026-10-03T18:04:22.824Z,@edumalin/identity,3.0.0,rraziel,,128572,Types and client for the Edumalin identity API
+2026-10-03T18:04:38.589Z,@jsm-mit/chat-sharded-package,0.1.0,jsm-mit,ISC,419257,"Wrapper TypeScript package for the chat group (coordinator, core, workers): projects, rooms, multi-party chats, messages and a poller for agent hosts. Takes the coordinator's id and finds the caniste…"
+2026-10-03T18:04:38.609Z,tip-glide,0.1.0,lumberjacque,MIT,73646,"One shared tooltip, gliding between elements. Framework agnostic and dependency free."
+2026-10-03T18:05:11.121Z,@edumalin/api,3.0.0,rraziel,,5047028,Types and client for the Edumalin GraphQL API
+2026-10-03T18:05:13.217Z,@edumalin/activity,3.0.0,rraziel,,49056,Types and functions for Edumalin activities
+2026-10-03T18:05:14.783Z,@edumalin/angular,0.0.0-dev.152,rraziel,,24571,Angular helpers for the Edumalin platform
+2026-10-03T18:10:14.303Z,neuract,0.1.0,lordcat,MIT,9371,A minimal neural network with training and reward feedback.
+2026-10-03T18:10:22.666Z,projectx-client,0.1.0,rsl_98,UNLICENSED,348653,"Typed HTTP client for the ProjectX backend. Mirrors SharedKernel/SDKs HttpSignature constants, DTOs, and module services."
+2026-10-03T18:10:55.124Z,keep-alive-ping,1.0.0,shubham.katal.58,ISC,6516,Keeps a free-tier website awake by sending automatic requests to it at any interval you set.
+2026-10-03T18:11:45.093Z,@glueeeed/gluechat-crypto-darwin-arm64,1.0.0,glueeeed,MIT,2450145,Crypto module written in Rust for GlueChat
+2026-10-03T18:11:51.509Z,@glueeeed/gluechat-crypto-darwin-x64,1.0.0,glueeeed,MIT,3378350,Crypto module written in Rust for GlueChat
+2026-10-03T18:11:56.056Z,@glueeeed/gluechat-crypto-win32-x64-msvc,1.0.0,glueeeed,MIT,1870168,Crypto module written in Rust for GlueChat
+2026-10-03T18:12:01.176Z,@glueeeed/gluechat-crypto-linux-x64-gnu,1.0.0,glueeeed,MIT,3381411,Crypto module written in Rust for GlueChat
+2026-10-03T18:12:05.678Z,@glueeeed/gluechat-crypto,1.0.0,glueeeed,MIT,41967,Crypto module written in Rust for GlueChat
+2026-10-03T18:13:35.123Z,loclizr,0.1.0,yasinmiran,MIT,268174,"Typed message functions and default-on catalog checks, generated from your translation files."
+2026-10-03T18:14:18.679Z,alpinejs-lsp,0.1.0,rillwz,MIT,38230,"Alpine.js language server: diagnostics, completions, hover for x- directives in HTML. CLI linter + stdio LSP for opencode/IDE/CI."
+2026-10-03T18:14:44.524Z,@sujanpraba/guardscan,1.0.1,sujanpraba,MIT,23425,"Zero-config pre-commit guard: missing tests, lint violations and security issues in new code (Python, JS/TS, Java, Go)."
+2026-10-03T18:15:13.227Z,@inttegro/react-native,0.5.0,yawboakye,MIT,92143,Inttegro SDK for React Native
+2026-10-03T18:15:53.86Z,yibinthesis-dsh,0.0.0-stage,loydgik,,337,Temporary package placeholder for staged publishing
+2026-10-03T18:15:59.317Z,@tunacad/simulation-bridge,0.2.0,jamal-elouafi,ISC,1396540,Local authenticated external simulation Bridge and bounded provider adapters for TunaCAD.
+2026-10-03T18:19:12.519Z,pi-exit-extension,0.0.0-stage,sleuth56,,339,Temporary package placeholder for staged publishing
+2026-10-03T18:19:20.292Z,noxeval,0.0.0-stage,marcusrdrigues,,329,Temporary package placeholder for staged publishing
