@@ -1,0 +1,171 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-03T06:16:42.605Z,@x1a0f3n9/dsh-plugin-manager,0.1.7-rc.2,x1a0f3n9,MIT,382338,"Current-profile plugin and bundle management shared by dsh CLI, Web and agent tools"
+2026-10-03T06:16:52.961Z,@x1a0f3n9/dsh-ptc-runtime-node,0.1.7-rc.2,x1a0f3n9,MIT,136849,Sandboxed Node process implementation of the DeepSeek Harness PTC execution capability
+2026-10-03T06:17:57.885Z,@x1a0f3n9/dsh-session-format-v3-to-v4,0.1.7-rc.2,x1a0f3n9,MIT,165540,Streaming tool-role migration and delivery validation from Session V3 to V4
+2026-10-03T06:18:20.25Z,@kineco-au/bacpac-importer,0.1.0,kineco,MIT,74773,"Convert a SQL Server .bacpac to SQLite or Postgres. Reads the export directly, tables and data, with no SQL Server, SqlPackage or .NET."
+2026-10-03T06:20:32.582Z,@x1a0f3n9/dsh-util-code-language,0.1.7-rc.2,x1a0f3n9,MIT,19254,Single file-extension to syntax-highlighting language table shared by Client code surfaces and the Host read card
+2026-10-03T06:22:22.618Z,@x1a0f3n9/dsh-workflow-ptc,0.1.7-rc.2,x1a0f3n9,MIT,151863,Workflow orchestration in the shared sandboxed Node PTC runtime
+2026-10-03T06:22:34.742Z,@neokaal/codenames,0.1.0,nkadmin,Apache-2.0,1723089,"Memorable codename generator for releases, projects, and environments"
+2026-10-03T06:23:50.045Z,qoder-transfer,0.1.3,senknight,MIT,73411,Standalone OpenAI-compatible relay that exposes Qoder large models to AI agents
+2026-10-03T06:24:08.494Z,@x1a0f3n9/dsh-experimental-auto-review,0.1.7-rc.2,x1a0f3n9,MIT,51259,Per-tool LLM authorization review for the DeepSeek Harness Auto permission preset
+2026-10-03T06:24:12.865Z,@x1a0f3n9/dsh-experimental-speech-to-text,0.1.7-rc.2,x1a0f3n9,MIT,39086,Experimental speech recognition with independently selectable providers
+2026-10-03T06:24:17.693Z,@x1a0f3n9/dsh-experimental-api-speech-to-text,0.1.7-rc.2,x1a0f3n9,MIT,75562,Authenticated experimental speech transcription for browser clients
+2026-10-03T06:24:30.824Z,kizunasync,0.2.6-alpha.2,smartsquadteam,Apache-2.0,213474,The kizunasync command line for Supabase projects: provisions the Kizuna Sync SQL pack and runs the native kizunasync binary.
+2026-10-03T06:24:32.763Z,@x1a0f3n9/dsh-client-ui-plugin-manager,0.1.7-rc.2,x1a0f3n9,MIT,277645,"Plugin management for the dsh web client: the sidebar Plugins panel installs, enables, disables, retries, and composes installed plugin packages"
+2026-10-03T06:24:37.727Z,@x1a0f3n9/dsh-experimental-client-ui-voice-input,0.1.7-rc.2,x1a0f3n9,MIT,244828,Record speech and insert editable text into the conversation draft
+2026-10-03T06:24:42.705Z,@x1a0f3n9/dsh-experimental-speech-to-text-sensevoice,0.1.7-rc.2,x1a0f3n9,MIT,72453,Local SenseVoice ONNX transcription with a managed sherpa-onnx process
+2026-10-03T06:24:47.757Z,@x1a0f3n9/dsh-experimental-voice-input-bundle,0.1.7-rc.2,x1a0f3n9,MIT,12052,Experimental voice input with local SenseVoice; downloads its runtime on first use
+2026-10-03T06:24:54.417Z,@voult/core,0.0.0,devolabode,MIT,263,Placeholder: not released yet
+2026-10-03T06:25:05.518Z,@taljacob/runtime-config,0.1.0,taljacob,MIT,94559,"Build a web app once, set its settings when it is deployed - and refuse to start when they are missing or wrong."
+2026-10-03T06:25:14.554Z,@lxchapu/dsh-session-purge,0.1.0,lxchapu,MIT,55907,彻底删除 DSH 会话：单条删除 + 仅看已归档时一键全部删除（带二次确认）
+2026-10-03T06:25:15.683Z,@voult/next,0.0.0,devolabode,MIT,263,Placeholder: not released yet
+2026-10-03T06:25:15.791Z,@gate-forge/witness,0.8.0,umiddey,Apache-2.0,1021412,"Gateforge runner-neutral witness: the loopback HTTP witness proxy, the per-test session tagging contract, and the runner-adapter contract every test runner (Playwright, Cypress, pytest+httpx, Jest/Vi…"
+2026-10-03T06:25:20.06Z,@gate-forge/pack-alembic,0.8.0,umiddey,Apache-2.0,143709,"Alembic migration obligations pack: static lineage verification, engine-run roundtrip on disposable database, data-preservation checks, and multi-developer merge safety."
+2026-10-03T06:25:33.08Z,@x1a0f3n9/dsh-skill-office,0.1.7-rc.2,x1a0f3n9,MIT,56935,"Bundled Word, PowerPoint, and Excel workflows and structural checks"
+2026-10-03T06:25:34.384Z,create-voult-app,0.0.0,devolabode,MIT,268,Placeholder: not released yet
+2026-10-03T06:25:37.655Z,@x1a0f3n9/dsh-tool-workspace-dependencies,0.1.7-rc.2,x1a0f3n9,MIT,33895,"The load_workspace_dependencies tool: absolute paths into a bundled Python, Node.js, and pnpm payload"
+2026-10-03T06:26:47.958Z,@x1a0f3n9/dsh-api-account-controller,0.1.7-rc.2,x1a0f3n9,MIT,86322,Expose safe account operations over authenticated Remote
+2026-10-03T06:26:52.808Z,@x1a0f3n9/dsh-api-job-controller,0.1.7-rc.2,x1a0f3n9,MIT,119170,Job Remote observation stream and the reference-counted client job-output service
+2026-10-03T06:27:02.974Z,@x1a0f3n9/dsh-api-terminal-controller,0.1.7-rc.2,x1a0f3n9,MIT,307812,"Session-owned interactive terminals with shell discovery, screen recovery and typed Remote control"
+2026-10-03T06:27:13.752Z,@getmanza/sdk,1.0.1,mhenrixon,MIT,79395,"TypeScript SDK for the Manza API. Runtime-agnostic (Node, Bun, Deno, browsers, Cloudflare Workers)."
+2026-10-03T06:27:35.934Z,tanvir143,1.0.0,tanvir143,MIT,366580,"Bot-first Instagram Chat API with MQTT realtime messaging, session persistence, media, thread management, and InstaBot/FCA-compatible APIs."
+2026-10-03T06:27:37.677Z,@x1a0f3n9/dsh-client-shortcuts,0.1.7-rc.2,x1a0f3n9,MIT,154726,Application keyboard command registry and physical-key routing
+2026-10-03T06:27:57.051Z,retail-print-kit,0.2.1,arkaprovam,MIT,507247,"Receipt printers, cash drawers and label printers for Node.js and Electron: ESC/POS (Epson and compatibles), Star, ZPL, TSPL, EZPL; USB, network and serial; templates, previews, a visual designer and…"
+2026-10-03T06:29:05.115Z,@dbcode/mcp,1.0.1,mikeburgh,MIT,6180,MCP server for DBCode: lets AI agents query your databases through your DBCode connections.
+2026-10-03T06:29:13.142Z,sahajlipi,0.1.0-alpha.1,ojastechadmin,MIT,74880,Dependency-free Roman Nepali to Unicode typing engine and browser input adapters
+2026-10-03T06:29:23.756Z,@x1a0f3n9/dsh-client-ui-settings-account,0.0.0-stage,x1a0f3n9,,362,Temporary package placeholder for staged publishing
+2026-10-03T06:29:27.967Z,@x1a0f3n9/dsh-client-ui-settings-agent-loop,0.1.7-rc.2,x1a0f3n9,MIT,23350,Settings page of the agent loop on the dsh web client's Plugins page: the parallel tool-call cap of the agent-loop namespace
+2026-10-03T06:29:52.817Z,@x1a0f3n9/dsh-client-ui-settings-shell,0.1.7-rc.2,x1a0f3n9,MIT,25394,Settings page of the shell executor on the dsh web client's Plugins page: the command timeout and the per-stream output cap of the shell namespace
+2026-10-03T06:29:57.906Z,@x1a0f3n9/dsh-client-ui-settings-subagent,0.1.7-rc.2,x1a0f3n9,MIT,68755,"Settings page of Subagent delegation on the dsh web client's Plugins page: recursion depth, parallel capacity, and the models agents may choose for subagents"
+2026-10-03T06:30:03.382Z,@x1a0f3n9/dsh-client-ui-settings-web-search,0.1.7-rc.2,x1a0f3n9,MIT,32867,"Settings page of the DeepSeek web-search provider on the dsh web client's Plugins page: its API key, endpoint, and per-request search budget"
+2026-10-03T06:30:07.881Z,@x1a0f3n9/dsh-client-ui-shortcuts,0.1.7-rc.2,x1a0f3n9,MIT,84272,"Keyboard shortcut reference, recording, and local preference editing"
+2026-10-03T06:30:17.954Z,@x1a0f3n9/dsh-client-ui-sidebar-browser,0.1.7-rc.2,x1a0f3n9,MIT,119051,Sandboxed Web browser tabs for the right Sidebar
+2026-10-03T06:30:38.032Z,@x1a0f3n9/dsh-client-ui-sidebar-terminal,0.1.7-rc.2,x1a0f3n9,MIT,736382,Interactive shell tabs for the right Sidebar
+2026-10-03T06:31:23.441Z,@cuppet-code/runtime-win32-arm64,0.2.0-alpha.7,officially-aditya,Apache-2.0,149569336,
+2026-10-03T06:31:48.416Z,@x1a0f3n9/dsh-office-to-pdf,0.1.7-rc.2,x1a0f3n9,MIT,112790,Shared Office-to-PDF conversion with bounded queues and caching
+2026-10-03T06:31:50.588Z,@cuppet-code/runtime-darwin-x64,0.2.0-alpha.7,officially-aditya,Apache-2.0,124216915,
+2026-10-03T06:31:53.118Z,relayloft,0.1.0,mikewiskey,MIT,80378,"Connect an app to Relayloft, the Resend-compatible email API, with one command: npx relayloft init"
+2026-10-03T06:32:05.446Z,@cuppet-code/runtime-win32-x64,0.2.0-alpha.7,officially-aditya,Apache-2.0,154039597,
+2026-10-03T06:32:15.927Z,pi-blinking-cursor,1.0.0,soringfs,MIT,11138,A Pi extension that uses an activity-aware hardware cursor in the TUI editor.
+2026-10-03T06:32:18.017Z,@x1a0f3n9/dsh-workspace-changes,0.1.7-rc.2,x1a0f3n9,MIT,137605,"Per-turn workspace file changes recorded from git working-tree snapshots and whole-file captures, with per-file comparisons, for the DeepSeek Harness"
+2026-10-03T06:32:35.876Z,@guionardo/gs-secrets,0.4.0,guionardo,MIT,8205,"Poor-man's secret vault: encrypted, file-based storage for API keys and passwords."
+2026-10-03T06:32:41.536Z,@xano-sdk/mcp-oauth,1.0.0,xanojustin,MIT,93990,"Hosted OAuth sign-in for Xano SDK MCP servers: a branded sign-in and consent page, the endpoints behind it, and the oauth block for mcpServer()."
+2026-10-03T06:32:47.983Z,@x1a0f3n9/dsh-browser-use,0.1.7-rc.2,x1a0f3n9,MIT,14913,Exclusive named browser-use provider registration
+2026-10-03T06:33:13.404Z,@x1a0f3n9/dsh-computer-use,0.1.7-rc.2,x1a0f3n9,MIT,14668,Exclusive named computer-use provider registration
+2026-10-03T06:33:18.38Z,@x1a0f3n9/dsh-experimental-browser-use-runtime,0.1.7-rc.2,x1a0f3n9,MIT,46126,Session-owned browser resource lifecycles and MCP integration for experimental providers
+2026-10-03T06:33:23.062Z,@x1a0f3n9/dsh-experimental-browser-use-chrome-devtools-mcp,0.1.7-rc.2,x1a0f3n9,MIT,20571,Experimental per-Session Chromium browser tools through chrome-devtools-mcp
+2026-10-03T06:33:27.995Z,@x1a0f3n9/dsh-experimental-browser-use-playwright-mcp,0.1.7-rc.2,x1a0f3n9,MIT,20482,Experimental per-Session Chromium browser tools through @playwright/mcp
+2026-10-03T06:33:32.883Z,@x1a0f3n9/dsh-experimental-browser-use-stagehand-native,0.1.7-rc.2,x1a0f3n9,MIT,62829,Experimental Stagehand browser tools with separately configured native models
+2026-10-03T06:33:35.304Z,@muoceon/oauth-client,0.1.0,cayihuo,MIT,94873,"Pure-logic OAuth 2.0 / OIDC client — authorization code flow with PKCE, token exchange, refresh, userinfo. Cross-platform via user-supplied storage/crypto/fetch adapters."
+2026-10-03T06:33:37.638Z,@angularr/cli,22.2.1,angularr,MIT,1506929,CLI tool for Angular
+2026-10-03T06:33:38.069Z,@x1a0f3n9/dsh-experimental-computer-use-cua-driver-mcp,0.1.7-rc.2,x1a0f3n9,MIT,22288,Experimental computer use through an installed Cua Driver MCP executable
+2026-10-03T06:33:41.33Z,@gestaltrun/dsh-model-center,0.1.0-gestaltrun.0,beibeimao,MIT,256900,Model configuration and per-model reasoning defaults for Gestaltrun Desktop
+2026-10-03T06:33:43.071Z,@x1a0f3n9/dsh-experimental-computer-use-cua-driver-native,0.1.7-rc.2,x1a0f3n9,MIT,29056,Experimental computer-use provider embedding the Cua Driver native npm SDK
+2026-10-03T06:33:49Z,@x1a0f3n9/dsh-experimental-inspector,0.1.7-rc.2,x1a0f3n9,MIT,749637,Experimental cross-realm CDP hub for Host debugging and Client Runtime inspection
+2026-10-03T06:33:53.128Z,@x1a0f3n9/dsh-experimental-ptc-runtime-python,0.1.7-rc.2,x1a0f3n9,MIT,284767,CPython subprocess implementation of the DeepSeek Harness PTC execution seam
+2026-10-03T06:33:58.254Z,@x1a0f3n9/dsh-experimental-webworker-runtime,0.1.7-rc.2,x1a0f3n9,MIT,1118565,"Browser-only harness runtime: in-memory VFS, module transform and loader, postMessage tunnel, and the dedicated Web Worker assembly, with the Node-compatibility layer that lets the host tree run unch…"
+2026-10-03T06:33:59.109Z,@gestaltrun/dsh-account-pool,0.1.0-gestaltrun.0,beibeimao,MIT,340493411,"Embedded CLIProxyAPI accounts, quota observations, and model access for Gestaltrun"
+2026-10-03T06:34:02.942Z,@angularr/core,1.0.67,angularr,,529381,Core Libs
+2026-10-03T06:34:03.192Z,@x1a0f3n9/dsh-experimental-webworker-packer,0.1.7-rc.2,x1a0f3n9,MIT,76524,Build-time packer for the browser runtime's base VFS image and ordered data-overlay archives
+2026-10-03T06:34:04.959Z,@gestaltrun/dsh-plugin-updater,0.1.0-gestaltrun.0,beibeimao,MIT,61640,In-app updates for Gestaltrun product bundles from the Plugins detail page
+2026-10-03T06:34:08.026Z,@x1a0f3n9/dsh-ssh,0.1.7-rc.2,x1a0f3n9,MIT,100052,Shared OpenSSH connection and versioned POSIX remote helper
+2026-10-03T06:34:13.439Z,@x1a0f3n9/dsh-fs-ssh,0.1.7-rc.2,x1a0f3n9,MIT,16984,Filesystem provider over the shared POSIX SSH helper
+2026-10-03T06:34:17.928Z,@x1a0f3n9/dsh-host-product-telemetry-otel,0.1.7-rc.2,x1a0f3n9,MIT,23996,Explicit product usage events exported through OpenTelemetry HTTP logs
+2026-10-03T06:34:47.957Z,@x1a0f3n9/dsh-sandbox-ssh,0.1.7-rc.2,x1a0f3n9,MIT,12017,Remote POSIX sandbox argv provider over the shared SSH helper
+2026-10-03T06:35:33.012Z,@x1a0f3n9/dsh-subprocess-ssh,0.1.7-rc.2,x1a0f3n9,MIT,28897,Subprocess and terminal provider over the shared POSIX SSH helper
+2026-10-03T06:38:32.441Z,@vessel-dsp/compiler,0.2.0,indiejoseph,MIT,2897374,Headless circuit compiler turning .vdsp documents into executable simulation Programs.
+2026-10-03T06:41:27.747Z,@avament-pub/navbar-ui,0.1.0,faisal143,MIT,134073,Self-contained Avament navbar UI for React / Next.js apps
+2026-10-03T06:42:39.762Z,@aerovato/operator-claude-code,0.1.0,kmeh,BSD-3-Clause,7612,Operator Memory adapter for Claude Code.
+2026-10-03T06:44:04.003Z,@mayarin/sdk,0.1.0-next.0,r1z,Apache-2.0,746891,"TypeScript client for Mayarin: commerce, payments, webhooks and x402 gates."
+2026-10-03T06:44:05.972Z,@mayarin/react,0.1.0-next.0,r1z,Apache-2.0,33483,React pay button and checkout hook for Mayarin.
+2026-10-03T06:45:19.487Z,movetowhop,0.1.0,coleschaffer,MIT,243847,"Plan and prepare a migration to Whop from Kajabi, Skool, Circle, Stan, Teachable, Patreon and more: platforms, plans, fee comparisons, local member-export conversion, course outlines and Whop API pay…"
+2026-10-03T06:45:27.132Z,@joinarchon/cli,0.1.1,joinarchon,SEE LICENSE IN LICENSE,47250,"Command-line client for Archon: sign in once, then drive tasks, previews and deploys from a terminal or a script, and run any agent inside a shared session."
+2026-10-03T06:45:30.822Z,silent-baileys,1.0.0,silent-tech-offc,MIT,41434,"Drop-in enhanced replacement for @whiskeysockets/baileys — high-level SilentClient, multi-session manager, and rich interactive messages (buttons, lists, carousels)"
+2026-10-03T06:46:03.451Z,@thenavidm/flodesk-mcp-cli,2.0.0,thenavidm,AGPL-3.0,331897,"Flodesk shared MCP and task CLI for current subscribers, native batch upserts, draft campaigns, workflows, custom fields, webhooks and exact reviewed account work."
+2026-10-03T06:46:14.711Z,@uppercut-labs/n64-backgrounds,0.1.0,uppercut-labs,SEE LICENSE IN LICENSE,230499,N64-inspired procedural worlds behind ordinary websites
+2026-10-03T06:46:20.764Z,@uppercut-labs/dreamcast-backgrounds,0.1.0,uppercut-labs,SEE LICENSE IN LICENSE,453092,Dreamcast-inspired procedural worlds behind ordinary websites
+2026-10-03T06:46:30.501Z,@nagular/cli,0.0.0-stage,angularr,,334,Temporary package placeholder for staged publishing
+2026-10-03T06:47:11.656Z,@nagular/core,1.0.67,angularr,,529380,Core Libs
+2026-10-03T06:47:43.223Z,@bearly/sqlite,0.1.0,beorno,MIT,6949,One shared single-statement assertion for native SQLite SQL text
+2026-10-03T06:47:44.586Z,@bearly/durable-file,0.1.0,beorno,MIT,16510,Crash-durable atomic files and strict verdict artifacts
+2026-10-03T06:47:46.106Z,@bearly/watchdog,0.1.0,beorno,MIT,25313,"A watchdog on its own thread: it sees a main thread that spins, and logs or kills"
+2026-10-03T06:48:17.17Z,@shopwell-ag/admin-eslint-rules,2.0.0,gouxiaosong,Apache-2.0,36915,Shopwell Administration ESLint rules
+2026-10-03T06:48:20.767Z,@shopwell-ag/admin-stylelint-rules,2.0.0,gouxiaosong,Apache-2.0,18138,This package provides custom stylelint rules for Shopwell Administration development.
+2026-10-03T06:48:24.751Z,@shopwell-ag/storefront-eslint-rules,2.0.0,gouxiaosong,Apache-2.0,33719,Shopwell Storefront ESLint rules
+2026-10-03T06:51:19.214Z,@muoceon/email-service,0.1.0,cayihuo,MIT,65860,"Platform-agnostic email client with adapter pattern — template system, multi-provider support (Resend, SendGrid, Mailgun, SMTP), pure logic core."
+2026-10-03T06:51:21.987Z,@asher191919/dsh-skills-hub,0.1.0,asher191919,MIT,642705,"Skills Hub for DeepSeek Harness: a skill marketplace panel in the web GUI — browse, search, filter and install skills from ClawHub and SkillHub"
+2026-10-03T06:51:32.51Z,@gitmyabi/dollz,1.0.0,gitmyabi-bot,MIT,309957,"Auto-generated TypeScript type bindings for DOLLZ (build etherscan-dollz-ede8dcc9-1791010186629, commit 663ca4b, branch etherscan)"
+2026-10-03T06:51:46.064Z,@babell/core,8.0.6,angularr,MIT,167824,Babel compiler core.
+2026-10-03T06:54:03.337Z,@andycmaj/opentui-app,0.1.0,andycunn,,133668,App framework + design library for @opentui/solid terminal UIs
+2026-10-03T06:54:22.383Z,@elthratech/shopagent-react,0.1.1,elthratech,MIT,24211,"Drop-in React chat widget for ShopAgent-OS, a self-hosted e-commerce AI agent. Answers product, order status, and policy questions against your own store backend."
+2026-10-03T06:55:05.241Z,labull-framework,0.1.0,softpug1023,MIT,624354,Labull 前端 SDK：主题 CSS + 登录态 / 外壳组件 / magic block（四块合一，一个包）
+2026-10-03T06:55:32.628Z,@angularr/router,2.2.0,angularr,MIT,47003,Simple middleware-style router
+2026-10-03T06:55:36.382Z,@copylee/dsh-remote-control,0.1.0,copylee,MIT,96961,DSH 扫码远程控制：本机确认配对、官方界面手机适配、untun 免费公网穿透与局域网直连
+2026-10-03T06:55:42.52Z,@nagular/router,0.0.0-stage,angularr,,337,Temporary package placeholder for staged publishing
+2026-10-03T06:55:54.517Z,@lwlee2608/pi-footer,0.1.0,lwlee2608,MIT,9868,"A compact Pi footer with context, cost, cache usage, and a run timer."
+2026-10-03T06:56:25.121Z,@keshavsoft/tag-to-json,1.5.2,keshavsoft,MIT,67817,Zero-dependency native DOM element to declarative JSON specification extractor. Perfect companion for json-to-tag.
+2026-10-03T06:56:44.426Z,@vessel-dsp/runtime,0.2.0,indiejoseph,MIT,3089835,Real-time MNA simulation runtime and solver console for VesselDSP Program ROMs.
+2026-10-03T06:57:26.618Z,@intyga/verify,0.0.0-bootstrap.0,slaxxarn,Apache-2.0,589,Placeholder that only reserves this package for the INTYGA release workflow. It contains no code. Real versions are published from the release workflow.
+2026-10-03T06:57:26.774Z,foremerge-darwin-arm64,0.5.1,naw103,Apache-2.0,22010235,The Foremerge binary for macOS on Apple silicon. Install the foremerge package instead.
+2026-10-03T06:57:28.059Z,@naanouff/w3dts-logger,0.0.22,naanouff,UNLICENSED,23949,High-performance logging utility for W3DTS engine
+2026-10-03T06:57:31.23Z,@naanouff/w3dts-input,0.0.21,naanouff,UNLICENSED,41769,Declarative input action maps and resolution for W3DTS
+2026-10-03T06:57:34.024Z,@naanouff/w3dts-animation,0.0.14,naanouff,UNLICENSED,20614,"glTF-oriented animation runtime (curves, mixer, skin palette) for W3DTS"
+2026-10-03T06:57:37.25Z,foremerge-darwin-x64,0.5.1,naw103,Apache-2.0,23140580,The Foremerge binary for macOS on Intel. Install the foremerge package instead.
+2026-10-03T06:57:37.684Z,@naanouff/w3dts-loader-hdr,0.0.18,naanouff,UNLICENSED,13826,"Radiance RGBE (.hdr) parser for W3DTS (CPU-only, no WebGPU)."
+2026-10-03T06:57:39.084Z,stateful-ai-video,0.1.1,kenntinio,MIT,29427,"Stateful AI video memory — sample clips, keep structured JSON memory across steps, and adjudicate point endings with Gemini Flash (or any multimodal model)."
+2026-10-03T06:57:42.768Z,@naanouff/w3dts-core,0.0.36,naanouff,UNLICENSED,1579958,Core ECS and Rendering engine for W3DTS
+2026-10-03T06:57:44.518Z,@pepperhorn/react-music-tools,0.1.0,pepperhorn,MIT,361578,"A metronome and an instrument tuner as drop-in React components, with a ready-made header toolbar and a precompiled stylesheet."
+2026-10-03T06:57:46.082Z,@naanouff/w3dts-physics,0.0.28,naanouff,UNLICENSED,269673,Physics engine integration for W3DTS
+2026-10-03T06:57:48.205Z,foremerge-linux-arm64,0.5.1,naw103,Apache-2.0,22734836,The Foremerge binary for Linux arm64 (glibc). Install the foremerge package instead.
+2026-10-03T06:57:49.199Z,@intyga/sdk,0.0.0-bootstrap.0,slaxxarn,Apache-2.0,580,Placeholder that only reserves this package for the INTYGA release workflow. It contains no code. Real versions are published from the release workflow.
+2026-10-03T06:57:58.051Z,@naanouff/w3dts-gproc,0.2.8,naanouff,UNLICENSED,4834091,Geometry Processing library for W3DTS
+2026-10-03T06:57:59.128Z,foremerge-linux-x64,0.5.1,naw103,Apache-2.0,25485241,The Foremerge binary for Linux x64 (glibc). Install the foremerge package instead.
+2026-10-03T06:58:11.596Z,@intyga/mcp-proxy,0.0.0-bootstrap.0,slaxxarn,Apache-2.0,598,Placeholder that only reserves this package for the INTYGA release workflow. It contains no code. Real versions are published from the release workflow.
+2026-10-03T06:58:15.796Z,nuxt-surface,0.1.0,ilyasemenov,MIT,23651,"Serve several sites from one Nuxt app, each with its own pages at the same URLs."
+2026-10-03T06:58:34.967Z,@intyga/mcp-sdk,0.0.0-bootstrap.0,slaxxarn,Apache-2.0,592,Placeholder that only reserves this package for the INTYGA release workflow. It contains no code. Real versions are published from the release workflow.
+2026-10-03T07:01:11.489Z,shuaipotian-edge,1.2.1,shuaipotian,MIT,793181,让任何 AI agent 操控你自己的 Chrome——带着全部登录态。MCP + Chrome 扩展，Claude Code / Codex / Cursor / Gemini CLI 通用。
+2026-10-03T07:01:59.166Z,@k4black/hex-cli,0.1.0,k4black,MIT,24053,"hex: a thin, deterministic control plane that runs agent CLIs (Claude Code, Codex, Pi, opencode) over a bounded, journaled graph"
+2026-10-03T07:02:40.953Z,web-mascot,0.0.2,commentout64,SEE LICENSE IN LICENSE,3733237,Embeddable browser mascot engine: run Shimeji-format mascot packs inside any web page (NeurolingsCE-Qt web port).
+2026-10-03T07:02:45.135Z,jubarte-redlines,0.11.0,arthrod,AGPL-3.0-only,59037,Command line for the jubarte DOCX redline engine (WebAssembly): `npx jubarte-redlines redline a.docx b.docx -o redline.docx` writes a tracked-changes document that opens cleanly in Microsoft Word; li…
+2026-10-03T07:03:54.686Z,@o3co/auth-provider-mfa,0.0.1,yoshi49535,Apache-2.0,909628,"Multi-factor authentication for @o3co/auth-provider — a second factor after a password login, and a step-up at /authorize"
+2026-10-03T07:03:58.099Z,@o3co/auth-provider-standard,0.0.1,yoshi49535,Apache-2.0,78806,"Standard, replaceable implementations of the duties outside @o3co/auth-provider: mail senders for the one-time codes it issues"
+2026-10-03T07:04:00.463Z,@o3co/auth-provider-test-kit,0.0.1,yoshi49535,Apache-2.0,297096,Contract suites and a fake Store for implementations of auth.provider's ports
+2026-10-03T07:04:30.405Z,@naanouff/w3dts-audio,0.0.19,naanouff,UNLICENSED,28707,"Web Audio API playback for W3DTS — buffer load, SFX, master gain, clean dispose"
+2026-10-03T07:04:33.38Z,@naanouff/w3dts-multiplayer-p2p,0.0.18,naanouff,UNLICENSED,42981,P2P multiplayer session and ECS replication utilities for W3DTS
+2026-10-03T07:04:41.105Z,@doc-cheap/node-red-doc-cheap,0.1.0,doc-cheap,MIT,43534,"Node-RED nodes for doc.cheap – read passports, ID cards and driving licences into structured fields. Free: 100 documents every month, then $0.01 each"
+2026-10-03T07:05:09.085Z,worksplice,0.1.0,roycelee,MIT,33159328,Local workspace for collaborating with persistent pi coding agents
+2026-10-03T07:05:19.818Z,@jinke00001/pi-pet-desktop-win32-x64-part1,0.8.0-trial.3,jinke00001,UNLICENSED,62118098,Pi Pet 0.8.0-trial.3 verified win32-x64 desktop payload part 1/2; install pi-pet-companion
+2026-10-03T07:05:20.607Z,@shubhajit-paul-web/envguard,1.0.0,shubhajit-paul-web,MIT,53914,"A lightweight, zero-dependency environment variable validator for Node.js."
+2026-10-03T07:07:02.863Z,@bitwardne/cli,1.0.1,angularr,MIT,48445,A tool for rapidly building command line apps
+2026-10-03T07:07:24.894Z,@bitwardne/jslib,1.1.0,angularr,ISC,3050,A module that loads some modules that are useful in javascript
+2026-10-03T07:07:39.073Z,@bitwardne/mcp-server,0.0.9,angularr,MIT,7556,mcp server
+2026-10-03T07:07:46.509Z,@mathplot/core,0.1.0,gerarldlee,MIT,217605,"Framework-free engine for mathplot: equation parsing, function/heatmap/surface samplers, chart data parsing, and mathplot fence parsing."
+2026-10-03T07:07:57.522Z,@mathplot/react,0.1.0,gerarldlee,MIT,155721,"Interactive React plot components powered by @mathplot/core: 2D functions, heatmaps, 3D surfaces, and bar/line/pie charts."
+2026-10-03T07:08:06.173Z,@mathplot/markdown,0.1.0,gerarldlee,MIT,20849,Mount live mathplot plots onto ```mathplot code fences in any markdown-rendered HTML.
+2026-10-03T07:08:30.9Z,mcp-catalog-snapshot,1.0.0,huzaifa-io,MIT,26434,Collect complete MCP catalogs with hard pagination bounds and atomic last-known-good snapshots.
+2026-10-03T07:09:32.62Z,@vessel-dsp/chain,0.1.0,indiejoseph,MIT,625802,"Headless audio signal chain graph engine for VesselDSP circuits, guitar profiling, amp shaping, and cabinet IRs."
+2026-10-03T07:09:35.922Z,@iterate-com/petshop-sdk,0.1.0-canary.20261002T221037000Z-a01d2acb39eac420002cdc1a024e17be9b734815,mmkale,Apache-2.0,14814,"A vendor SDK for the dummy pet shop (internal-packages/dummy-petshop): its capnweb pets API, typed"
+2026-10-03T07:09:39.002Z,@iterate-com/voice,0.1.0-canary.20261002T221037000Z-a01d2acb39eac420002cdc1a024e17be9b734815,mmkale,Apache-2.0,153007,"Voice for Iterate projects: a GPT-Live conversation per press, answered by the project's agents"
+2026-10-03T07:10:30.644Z,@humayunkabir/jev-router-mcp,0.1.0,humayunkabir,MIT,13711,MCP server that routes a question to the best tool using a Jev decision engine (/v1/systemone). Works with any Jev-compatible server — Laya is one.
+2026-10-03T07:10:32.38Z,ai-stream-auditor,1.0.0,huzaifa-io,MIT,27443,Audit decoded OpenAI Responses and Anthropic Messages event lifecycles for silent or malformed stream endings.
+2026-10-03T07:10:35.72Z,knowyourtokens-client,2.3.0,sarveshtalele,MIT,14705,"TypeScript/JavaScript client for the Know Your Tokens local API (token, tool, skill and MCP observability for AI coding agents)"
+2026-10-03T07:10:45.787Z,knowyourtokens,2.3.0,sarveshtalele,MIT,2380994,"Local-first token observability for every AI coding agent: Claude Code, Codex CLI, Gemini CLI, OpenCode and more. Debug prompts, context and cost."
+2026-10-03T07:11:01.364Z,@iterate-com/github-sync,0.1.0-canary.20261002T221037000Z-a01d2acb39eac420002cdc1a024e17be9b734815,mmkale,Apache-2.0,26397,"Keeps a project's config repo and its GitHub repository one history: GitHub's pushes are pulled in, the project's commits are pushed out"
+2026-10-03T07:11:04.026Z,@iterate-com/ai-linter,0.1.0-canary.20261002T221037000Z-a01d2acb39eac420002cdc1a024e17be9b734815,mmkale,Apache-2.0,88450,"Lints a GitHub repository's pull requests against the repository's own rules folder, with an LLM and TypeSafe's Jev, as a check and review threads"
+2026-10-03T07:11:07.129Z,@iterate-com/docs,0.1.0-canary.20261002T221037000Z-a01d2acb39eac420002cdc1a024e17be9b734815,mmkale,Apache-2.0,72635,"Live co-editing for a project's docs: one processor per open doc holds its text as Yjs, autosaves it to its repo, and keeps its comments"
+2026-10-03T07:11:12.723Z,@iterate-com/ui,0.1.0-canary.20261002T221037000Z-a01d2acb39eac420002cdc1a024e17be9b734815,mmkale,Apache-2.0,3159167,"iterate's React components, built to import from a URL in a no-build page"
+2026-10-03T07:11:28.98Z,@techysy/cardsheet,0.1.0,yu_shiyang,MIT,28989,把若干图片拼到一张可打印的大图上（纸张预设 / 间距 / 裁切线），打印后按格裁切
+2026-10-03T07:11:30.896Z,@cranl/sdk,0.1.1,alihajem,MIT,162821,CranL SDK for TypeScript and JavaScript
+2026-10-03T07:11:34.508Z,@flareboard/js,0.1.0,go7hic,PolyForm-Noncommercial-1.0.0,29984,"Flareboard product analytics for the browser: tracking, autocapture, identity, consent and feature flags, with React bindings."
+2026-10-03T07:11:45.855Z,@vessel-dsp/player,0.1.0,indiejoseph,MIT,154432,"Embeddable HTML Custom Element (<vessel-player>) and Web Audio player for VesselDSP circuits, guitar profiling, NAM, and cabinet IRs."
+2026-10-03T07:11:54.737Z,@yurdeth/image-analyze-mcp,1.0.0,yurdeth,MIT,15868,"Generic image analysis MCP server — works with ANY OpenAI-compatible multimodal endpoint (Z.ai GLM Coding Plan, OpenAI, OpenRouter, Ollama, LM Studio, vLLM…). One tool: analyze_image — accepts LOCAL…"
+2026-10-03T07:12:30.13Z,@newtalaria/cli,0.5.3,dunatron,MIT,9724,Upload JavaScript source maps to Talaria for a release
+2026-10-03T07:12:50.978Z,@kiceio/mcp,0.2.0,jtassy,MIT,35758,"Outils MCP du CRM kicé : définitions à enregistrer dans un serveur MCP existant, ou serveur stdio autonome."
+2026-10-03T07:13:40.811Z,@jinke00001/pi-pet-desktop-win32-x64-part2,0.8.0-trial.3,jinke00001,UNLICENSED,62118097,Pi Pet 0.8.0-trial.3 verified win32-x64 desktop payload part 2/2; install pi-pet-companion
+2026-10-03T07:14:15.095Z,@mathplot/remark,0.1.0,gerarldlee,MIT,15476,Remark plugin that turns ```mathplot code fences into <MathPlot> components for MDX and react-markdown.
+2026-10-03T07:14:15.991Z,@mathplot/web,0.1.0,gerarldlee,MIT,22472,"Custom elements for mathplot: <mathplot-plot>, <mathplot-2d>, <mathplot-3d>, <mathplot-heatmap>, <mathplot-bar>, <mathplot-line>, <mathplot-pie> for non-React sites."
+2026-10-03T07:16:39.436Z,@tauroid/build,0.0.1,hilly12,Apache-2.0,10290992,"Tauroid's build toolchain: bundling, lowering, the sim-math rewrite, assets, typecheck and glTF import."
+2026-10-03T07:16:41.097Z,@tauroid/renderer,0.0.1,hilly12,Apache-2.0,4046306,"The wgpu renderer: 2D sprites/tiles/text and a 3D PBR path, compiled to wasm."
+2026-10-03T07:16:42.879Z,@tauroid/host,0.0.1,hilly12,Apache-2.0,4314015,"The deterministic runtime: loads the sim core, owns the tick, scenes and the draw seam."
+2026-10-03T07:16:54.412Z,tauroid,0.0.1,hilly12,Apache-2.0,1993336,"Tauroid — describe a game, build a game. The SDK, the runtime, and the CLI."
+2026-10-03T07:18:35.477Z,@cortiqa/kricko,0.1.0,cortiqa-dev,Apache-2.0,14736,Run AI. Offline. Everywhere. Official JavaScript/TypeScript SDK and CLI for Kricko local LLM engine by Cortiqa.
