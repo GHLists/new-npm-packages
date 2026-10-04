@@ -1,0 +1,158 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-04T21:15:44.27Z,@statewalker/webrun-http-events,0.1.0,mkotelnikov,MIT,86677,Generic publish/subscribe over Server-Sent Events: a standard FetchHandler and a matching client.
+2026-10-04T21:17:17.01Z,@wiltech-labs/ngx-styles,1.0.1,wilferraciolli,Apache-2.0,15571,"Shared Material 3 Sass partials — breakpoints, spacing scale, and design-system mixins (page-title, banner, state-layer, focus-ring, ...) that read --mat-sys-* tokens. Raw .scss, no compile step."
+2026-10-04T21:18:36.683Z,@meshd/auth,0.1.0,drakegriffith_,MIT,9108,Sign in with comms: an Auth.js provider
+2026-10-04T21:19:48.387Z,@waluscha/user-module,1.0.0,waluscha,ISC,719,
+2026-10-04T21:19:52.112Z,openclaw-private,0.1.0,sghibiri,MIT,227069,"OpenClaw Private: keeps private agents on attested or local models, allowlists their internet access, approves actions and skills"
+2026-10-04T21:20:15.004Z,openclaw-private-tinfoil,0.1.0,sghibiri,MIT,66652,OpenClaw Private: Tinfoil provider that verifies the hardware enclave before every request
+2026-10-04T21:20:41.664Z,openclaw-private-privatemode,0.1.0,sghibiri,MIT,68973,OpenClaw Private: Privatemode (EU) provider that verifies the hardware enclave before every request
+2026-10-04T21:20:41.894Z,hardhat-spack,3.0.2,phoebehollowdviqu18367,MIT,270179,This document describes the management of vulnerabilities for the project and all modules within the organization.
+2026-10-04T21:21:28.837Z,@benfavre/ma-vie-numerique-cli,0.2.1,benfavre,ISC,7136,Official read-only CLI for Ma Vie Numérique local search and calendars
+2026-10-04T21:21:31.47Z,@seekrit/vault-executor,0.1.1,mileszim,MIT,297184,The Seekrit Vault executor: a Cloudflare Worker you deploy into your own account that decrypts your end users' credentials just in time and applies them to outbound requests — so neither your backend…
+2026-10-04T21:21:48.494Z,@abaziz/rohingya-converter,0.1.0,abaziz,MIT,14532,Offline Hanifi Rohingya ↔ Rohingyalish Unicode script converter and transliteration library.
+2026-10-04T21:23:09.96Z,@esauflores/pi-agent-prompts,0.1.0,esauflores,MIT,12113,Coding profiles: inject a prompt file as a persistent system-prompt mode
+2026-10-04T21:23:18.774Z,@statewalker/webrun-content-store,0.2.2,mkotelnikov,MIT,33703,"Domain-neutral, content-addressed large-object store with content-defined chunking over the storage BlobStore"
+2026-10-04T21:23:20.818Z,@statewalker/webrun-content-transfer,0.2.2,mkotelnikov,MIT,50332,"Resumable, chunk-aware content transfer over webrun-streams"
+2026-10-04T21:23:22.761Z,@statewalker/webrun-files-sync,0.2.2,mkotelnikov,MIT,63752,rclone-like file-synchronisation engine (copy/sync/bisync/move/check) over the webrun-files FilesApi
+2026-10-04T21:23:24.709Z,@statewalker/webrun-merge,0.2.1,mkotelnikov,MIT,50107,Domain-neutral three-way merge/diff engine over the webrun-files FilesApi
+2026-10-04T21:23:27.22Z,@statewalker/webrun-storage,0.2.1,mkotelnikov,MIT,32730,Domain-neutral byte-persistence seam (BlobStore + KvStore with CAS) over the webrun-files FilesApi
+2026-10-04T21:25:57.918Z,pianocv,0.2.1,mattfillipe,Apache-2.0,598592,"Finds every key of a piano or keyboard in a camera image, live: the KeyNet runtime and its Rust keyboard core"
+2026-10-04T21:26:18.395Z,open-source-scout-mcp,2.0.2,rahul-pamula,,139347,Scout MCP Orchestration Server
+2026-10-04T21:26:56.599Z,chiworm-pract4,1.0.0,chiworm,ISC,568,
+2026-10-04T21:27:02.749Z,@ghostystudio/browser-mcp,0.2.0,hectorbliss,MIT,20226,"MCP server that gives any coding agent (Claude Code, Cursor, Codex…) the user's own Chrome through the Ghosty for Chrome extension — locally via native messaging or remotely via Ghosty Studio."
+2026-10-04T21:27:10.784Z,@glympt/mcp,0.1.0,serkandrgn,MIT,51374,"Glympt MCP adapter for domain technology enrichment, filtered prospecting, saved lists and CSV exports."
+2026-10-04T21:28:20.937Z,@third-ralph/tegh,0.0.0,thirdralph,Apache-2.0,931,Name placeholder. tegh is a Python tool: install it with `pip install tegh`.
+2026-10-04T21:29:39.759Z,@gurps-sheet/engine,0.1.1,arlindosilvaneto,UNLICENSED,209816,"Combat engine toolkit for GURPS 4th Edition: dice manager, roll modifiers, and a resettable combat state machine."
+2026-10-04T21:30:22.935Z,sharesecure-mcp,1.13.0,ishman2000,MIT,115214,"Local MCP server for ShareSecure: assistants share and receive files end to end encrypted on your own computer, without the file or its key passing through the AI or the server"
+2026-10-04T21:30:57.134Z,tallyback,0.0.2,enkilabscorp,Apache-2.0,12026,Tallyback: a verification layer that confirms an agent's requested action actually happened. Pre-release; reserved by EnkiLabs.
+2026-10-04T21:31:00.732Z,@foldedspacelabs/metistry-connections,0.16.1,mattcolf,Apache-2.0,1376,"Metistry connections: the files in .metistry/connections/ read against the connection-type registry, and one pooled MCP client (stdio or Streamable HTTP) that refuses an unlisted tool before it dials…"
+2026-10-04T21:31:07.989Z,modelbrain-mcp,0.1.0,mfirth,MIT,6796,"Thin MCP stdio client for ModelBrain, a local memory layer for AI assistants. Connects to the ModelBrain desktop app already running on your computer; does not bundle ModelBrain itself."
+2026-10-04T21:31:12.097Z,@foldedspacelabs/metistry-mcp-live-capture,0.16.1,mattcolf,Apache-2.0,15625,"Metistry live-capture bridge: app audio through a Core Audio process tap scoped to the apps you choose, or one window or display you pick in the macOS picker; your microphone; and on-device transcrip…"
+2026-10-04T21:32:23.134Z,@raoh/199x-notation,0.2.0-dev.249.20261004151417.gfdcd7f67956b,kawasima,Apache-2.0,1008524,"The rules for reading text that Raoh and Souther share: Unicode 18.0.0 case conversion and normalization, White_Space, order and length in scalar values, temporal text, and the pattern language"
+2026-10-04T21:32:57.966Z,@pixpilot/svg-to-app-icons,0.1.0,pixpilot-org,MIT,27557,Generate app icon assets from SVG files.
+2026-10-04T21:33:32.959Z,pi-file,0.1.0,boadij,Apache-2.0,18821,Create temporary Markdown files from Pi command text and embed them in the input editor.
+2026-10-04T21:34:00.517Z,@raoh/core,0.9.0-dev.15.20261004151401.ge5893e0cc07d,kawasima,Apache-2.0,202833,"Decoders that turn untyped boundary input into typed domain values, reporting every issue with its path"
+2026-10-04T21:34:33.149Z,@anja.codes/vitakit,0.1.0,anja.codes,MIT,176752,"Structured CV data in, academic website and LaTeX CV out."
+2026-10-04T21:35:00.266Z,@anja.codes/create-vitakit,0.1.0,anja.codes,MIT,34404,Scaffold a vitakit project: an academic website and a LaTeX CV from one set of files.
+2026-10-04T21:36:41.805Z,chromaforge,1.0.0,shazarkk,MIT,90400,"ChromaForge deterministic color conversion, analysis, generation, and design token tools."
+2026-10-04T21:37:19.051Z,gavia-ui,0.7.0,0whitewolf0,MIT,968814,"Gavia UI — a free, open source Vue 3 and TypeScript component library and design system"
+2026-10-04T21:37:33.584Z,postext-epub,0.1.0,drnachio,MIT,725239,"Browser-native EPUB 3 writer for Postext documents: fixed-layout (pre-paginated) books that reproduce every printed page with real text, and reflowable books in semantic XHTML styled from the same co…"
+2026-10-04T21:37:58.401Z,@ahena/cli,0.1.0-beta.1,hcao89,SEE LICENSE IN LICENSE,560713,"Ahena: the control plane for your application stack. Connect, configure, verify and diagnose Supabase, Cloudflare, Resend, Stripe, Firebase and AI providers with your own accounts."
+2026-10-04T21:38:14.369Z,elizaos-plugin-musedin,0.1.0,musedin,MIT,66837,"elizaOS plugin for MusedIn, the job network for AI agents: find jobs, join in one request, apply, post jobs, read the inbox."
+2026-10-04T21:38:54.711Z,wolfpack-extension-changes,0.1.0,sgtbeatdown,MIT,21172,Read-only Git status context view for Wolfpack.
+2026-10-04T21:39:00.391Z,@ntutbox/map,0.9.0,poterpan,MIT,137311,北科盒子（NTUT Box）校園與室內地圖：2.5D 樓層圖、空教室著色、校園白模，讀取公開的校園資料 CDN
+2026-10-04T21:39:39.859Z,@tonresistor/bonding-curve-sdk,0.1.0,tonresistor,MIT,492290,TypeScript SDK for bonding curve V2 contracts
+2026-10-04T21:39:53.509Z,@postra/node,1.0.0,krisrz,AGPL-3.0,11849,"Node.js client for the Postra public API: schedule posts, upload media and list channels"
+2026-10-04T21:41:06.31Z,@portrayal/cisco-asr-9001,3.0.0,portrayal,Apache-2.0,408183,"Portrayal drawings of the Cisco ASR 9001: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:08.701Z,@portrayal/cisco-asr-9006,3.0.0,portrayal,Apache-2.0,493754,"Portrayal drawings of the Cisco ASR 9006: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:11.659Z,@portrayal/cisco-asr-9010,1.0.1,portrayal,Apache-2.0,492012,"Portrayal drawings of the Cisco ASR 9010: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:11.766Z,superwiki,0.1.0,mhmtsrfglu,MIT,203062,"Agent skills that turn docs/ into an LLM-maintained wiki and task tracker. Obsidian-friendly. Works with Claude Code, Codex and Copilot CLI."
+2026-10-04T21:41:13.722Z,@portrayal/cisco-asr-9901,1.0.1,portrayal,Apache-2.0,1735529,"Portrayal drawings of the Cisco ASR 9901: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:16.186Z,@portrayal/cisco-asr-9902,1.0.2,portrayal,Apache-2.0,1731361,"Portrayal drawings of the Cisco ASR 9902: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:18.992Z,@portrayal/cisco-asr-9903,1.0.2,portrayal,Apache-2.0,2332150,"Portrayal drawings of the Cisco ASR 9903: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:21.257Z,@portrayal/cisco-asr-9904,3.0.0,portrayal,Apache-2.0,157664,"Portrayal drawings of the Cisco ASR 9904: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:23.528Z,@portrayal/cisco-asr-9906,1.0.0,portrayal,Apache-2.0,160985,"Portrayal drawings of the Cisco ASR 9906: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:25.969Z,@portrayal/cisco-asr-9910,1.0.0,portrayal,Apache-2.0,191047,"Portrayal drawings of the Cisco ASR 9910: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:28.707Z,@portrayal/cisco-asr-9912,2.0.0,portrayal,Apache-2.0,725125,"Portrayal drawings of the Cisco ASR 9912: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:30.734Z,@portrayal/cisco-asr-9922,2.0.0,portrayal,Apache-2.0,1061926,"Portrayal drawings of the Cisco ASR 9922: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:33.471Z,@portrayal/commscope-ch3000,3.2.1,portrayal,Apache-2.0,3184437,"Portrayal drawings of the CommScope CH3000: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:36.987Z,@portrayal/components,0.1.0,portrayal,Apache-2.0,21662992,Portrayal component skins: the SVG every device drawing's parts are made of.
+2026-10-04T21:41:39.33Z,@portrayal/dell-r660,5.0.0,portrayal,Apache-2.0,3152066,"Portrayal drawings of the Dell PowerEdge R660: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:41.813Z,@portrayal/dell-r740xd,27.0.0,portrayal,Apache-2.0,5921605,"Portrayal drawings of the Dell PowerEdge R740xd: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:44.18Z,@portrayal/edgecore-agr110,8.2.8,portrayal,Apache-2.0,939960,"Portrayal drawings of the Edgecore AS5916-54XL: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:46.52Z,@portrayal/edgecore-agr130,0.1.8,portrayal,Apache-2.0,943125,"Portrayal drawings of the Edgecore AS5916-54XKS: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:49.895Z,@portrayal/edgecore-agr560,2.0.8,portrayal,Apache-2.0,1276941,"Portrayal drawings of the Edgecore AS9947-36XKB: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:52.377Z,@inneranimalmedia/agentsam-campaign,2.6.11,inneranimalmedia,MIT,12940,"Portable AgentSam campaign intelligence for promotional planning, product launches, SEO/content strategy, merchandising, audience targeting, conversion, brand consistency, and evidence-backed campaig…"
+2026-10-04T21:41:52.725Z,@portrayal/edgecore-ais800-32d,1.0.5,portrayal,Apache-2.0,1195822,"Portrayal drawings of the Edgecore AIS800-32D: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:54.643Z,@portrayal/edgecore-ais800-32o,1.0.5,portrayal,Apache-2.0,930616,"Portrayal drawings of the Edgecore AIS800-32O: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:57.036Z,@portrayal/edgecore-ais800-64d,3.0.3,portrayal,Apache-2.0,1990093,"Portrayal drawings of the Edgecore AIS800-64D: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:41:57.08Z,@hdevlop/avrts,0.1.0,hdevlop,MIT,1394130,"ATmega328P simulator with chip-level timing, peripheral, bootloader, and browser-worker support"
+2026-10-04T21:41:59.795Z,@portrayal/edgecore-ais800-64o,3.0.4,portrayal,Apache-2.0,1883627,"Portrayal drawings of the Edgecore AIS800-64O: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:42:01.851Z,@portrayal/edgecore-amx3200,1.0.5,portrayal,Apache-2.0,500317,"Portrayal drawings of the Edgecore AMX3200: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:42:04.186Z,@portrayal/edgecore-as5912-54x,3.0.4,portrayal,Apache-2.0,1208315,"Portrayal drawings of the Edgecore AS5912-54X: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:42:06.96Z,@portrayal/edgecore-as7326-56x,3.0.4,portrayal,Apache-2.0,1446656,"Portrayal drawings of the Edgecore AS7326-56X: every configuration's faces, its configurations and its source manifest."
+2026-10-04T21:42:17.372Z,@houndtidlabs/cli,0.1.6-alpha.2,houndtidlabs,MIT,174959383,Houndtid Bot command-line launcher
+2026-10-04T21:43:59.643Z,@mostajs/web-search,0.1.0,apolocine,AGPL-3.0-or-later,32801,"Interroger le web par plusieurs outils (API de recherche, IA à recherche intégrée, collecte autorisée, abonnements) et rendre des résultats normalisés, datés et tracés, avec les conditions d'usage de…"
+2026-10-04T21:44:00.697Z,@phnx-labs/cli-docs,0.1.0,themuqsit,FSL-1.1-Apache-2.0,32787,"Generate a searchable command reference (Markdown, JSON, HTML with a command-tree sidebar) from a Commander program"
+2026-10-04T21:44:16.163Z,@mostajs/collecte,0.2.0,apolocine,AGPL-3.0-or-later,46947,"Enregistrer tout ce qu'une veille récolte — collecte, requête, observation, document, versions, analyse, piste — avec les dates de recherche, de publication, de modification et de mise à jour, sans r…"
+2026-10-04T21:44:24.743Z,react-drift-rail,0.1.0,saeedet,MIT,86603,"A small, accessible React rail with native scrolling and pointer dragging."
+2026-10-04T21:44:25.825Z,mfe-federation-config,1.0.0,alexandrd,MIT,12289,"Shared Module Federation configuration: manifest, webpack base factory and types generator"
+2026-10-04T21:45:13.511Z,@kkeyboard/lexical,0.1.7,raingsei,,9586,Lexical editor adapter for the KKeyboard host contract
+2026-10-04T21:46:11.16Z,ras-stack-config,1.0.0,richardsolomou,MIT,10141,Shared TypeScript and Oxlint presets with optional import boundaries.
+2026-10-04T21:47:35.745Z,pi-codemode-diff,0.1.0,hyein-cbio,MIT,30831,Show edit and write diffs inside Pi codemode calls without adding them to model context.
+2026-10-04T21:52:04.917Z,@racelink/create-overlay,2.2.0,alexander-2049,MIT,1090,Create a Racelink overlay project: npm create @racelink/overlay@latest my-overlay
+2026-10-04T21:53:49.918Z,@invana/charts,0.0.32,rrmerugu,MIT,586856,"Invana Design System - Charts: time series on uPlot, small marks in DOM/SVG"
+2026-10-04T21:54:01.883Z,@invana/blocks,0.0.32,rrmerugu,MIT,770856,"Invana Design System - Blocks: reusable drawings from a JSON spec, shared by conversations, boards and pages"
+2026-10-04T21:54:14.566Z,@invana/assistant,0.0.32,rrmerugu,MIT,782538,"Invana Design System - JSON-driven analyst assistant: thread, asks, answers and follow-ups"
+2026-10-04T21:54:26.434Z,@invana/boards,0.0.32,rrmerugu,MIT,389878,Invana Design System - JSON-driven boards assembled from design-kit panels
+2026-10-04T21:54:54.804Z,@shivaedev/work-fleet,0.0.0,shivaefrost,MIT,351,Placeholder to reserve the package name.
+2026-10-04T21:55:38.299Z,@pvogel/nestjs-auth,0.10.1,pvogel,MIT,198542,Maintained fork of @eropple/nestjs-auth: authentication and rights-tree authorization for NestJS 10+.
+2026-10-04T21:56:15.894Z,@abgular/core,22.2.1,anfular,MIT,7058613,Angular - the core framework
+2026-10-04T21:56:39.483Z,@ahgular/core,0.0.0-stage,anfular,,335,Temporary package placeholder for staged publishing
+2026-10-04T21:57:16.607Z,@angilar/core,0.0.0-stage,anfular,,335,Temporary package placeholder for staged publishing
+2026-10-04T21:57:34.483Z,@angjlar/core,22.2.1,anfular,MIT,7058613,Angular - the core framework
+2026-10-04T21:58:15.142Z,@anguar/core,22.2.1,anfular,MIT,7058612,Angular - the core framework
+2026-10-04T21:58:54.956Z,@angulaar/core,22.2.1,anfular,MIT,7058614,Angular - the core framework
+2026-10-04T21:59:18.323Z,@angullar/core,0.0.0-stage,anfular,,336,Temporary package placeholder for staged publishing
+2026-10-04T21:59:38.589Z,@angulqr/core,0.0.0-stage,anfular,,335,Temporary package placeholder for staged publishing
+2026-10-04T21:59:57.821Z,@angulr/core,22.2.1,anfular,MIT,7058612,Angular - the core framework
+2026-10-04T22:00:48.971Z,@angupar/core,22.2.1,anfular,MIT,7058613,Angular - the core framework
+2026-10-04T22:01:10.321Z,@anngular/core,22.2.1,anfular,MIT,7058614,Angular - the core framework
+2026-10-04T22:01:26.453Z,@anuglar/core,22.2.1,anfular,MIT,7058613,Angular - the core framework
+2026-10-04T22:01:28.487Z,@cjd3v/shotapi,0.1.0,cjd3v,MIT,8834,"Official Node.js client for ShotAPI — screenshots, OG cards, HTML-to-PNG and URL-to-PDF as an API"
+2026-10-04T22:01:31.795Z,@clibuilder/axi,0.0.0,unional,MIT,29461,Agent-facing output conventions (AXI) for clibuilder CLIs
+2026-10-04T22:01:47.179Z,@anular/core,0.0.0-stage,anfular,,334,Temporary package placeholder for staged publishing
+2026-10-04T22:02:24.351Z,@axium-lab/euro-pii,1.0.2,luisperis.com,MIT,213150,"Europe-first PII detection and anonymization: regex, checksums and context words. Zero dependencies."
+2026-10-04T22:02:51.668Z,@qngular/core,22.2.1,anfular,MIT,7058613,Angular - the core framework
+2026-10-04T22:03:05.925Z,@nikcli-ai/gadget,1.428.0,nikoemme_nikcli,MIT,195196,"Build nikcli gadgets: devices that pair with a nikcli server, run commands for the agent, push messages into sessions and draw what it answers"
+2026-10-04T22:03:11.624Z,@anfular/core,22.2.1,anfular,MIT,7058613,Angular - the core framework
+2026-10-04T22:03:34.419Z,@nikcli-ai/plugin-gadgets,1.428.0,nikoemme_nikcli,MIT,142290,"nikcli plugin: the gadgets bridge, the `gadget` tool for the agent, and /gadget commands in the TUI"
+2026-10-04T22:03:39.984Z,@nikcli-ai/bench-tui,1.428.0,nikoemme_nikcli,,220561,Standalone test interface and benchmark dashboard for Bun packages
+2026-10-04T22:04:39.529Z,goldsanta-pract4,1.0.0,goldsanta,ISC,702,
+2026-10-04T22:05:27.299Z,@abgular/cli,22.2.1,anfular,MIT,1506767,CLI tool for Angular
+2026-10-04T22:05:36.803Z,@ahgular/cli,22.2.1,anfular,MIT,1506767,CLI tool for Angular
+2026-10-04T22:05:54.362Z,@angilar/cli,22.2.1,anfular,MIT,1506767,CLI tool for Angular
+2026-10-04T22:06:04.013Z,@angjlar/cli,22.2.1,anfular,MIT,1506767,CLI tool for Angular
+2026-10-04T22:06:20.581Z,@anguar/cli,22.2.1,anfular,MIT,1506766,CLI tool for Angular
+2026-10-04T22:06:36.979Z,@angulaar/cli,22.2.1,anfular,MIT,1506768,CLI tool for Angular
+2026-10-04T22:06:42.82Z,adsmith,0.0.0,acmegeek,Apache-2.0,184,Name hold.
+2026-10-04T22:06:45.07Z,@angullar/cli,22.2.1,anfular,MIT,1506768,CLI tool for Angular
+2026-10-04T22:06:54.495Z,@angulqr/cli,22.2.1,anfular,MIT,1506767,CLI tool for Angular
+2026-10-04T22:06:57.899Z,@sidioralabs/rex,0.2.0,sidiora-labs,MIT,1428531,Sidiora Labs' framework for web application interfaces that AI agents can write and operate.
+2026-10-04T22:06:59.093Z,@miyannishar/wreck-it,0.1.0,miyannishar,MIT,222773,Wreck your app before your users do. Agent-driven testing for vibe-coded apps.
+2026-10-04T22:07:03.283Z,@angulr/cli,22.2.1,anfular,MIT,1506766,CLI tool for Angular
+2026-10-04T22:07:24.001Z,@angupar/cli,22.2.1,anfular,MIT,1506767,CLI tool for Angular
+2026-10-04T22:07:28.846Z,@project516/yt-dlp-wasm,0.1.0,project516,AGPL-3.0-or-later AND Unlicense,2977771,"yt-dlp running unmodified on Pyodide, in browsers and Node.js"
+2026-10-04T22:08:27.407Z,jake-publish-sandbox,0.0.0-stage,mde,,342,Temporary package placeholder for staged publishing
+2026-10-04T22:09:22.106Z,@forgestacks/cli,0.1.1,codinglabe,MIT,112336,ForgeStacks CLI — local PC and Linux server agent (forgestacks / fs)
+2026-10-04T22:09:38.739Z,@commenteme/tokens,0.1.0,zeluizr,MIT,34673,"Tokens de design de commente.me (kit de marca v3.1): CSS, JSON, TypeScript e tema do Tailwind 4."
+2026-10-04T22:10:00.941Z,@commenteme/icons,0.1.0,zeluizr,MIT,41752,"Ícones de commente.me (kit de marca v3.1): os 9 dos módulos e os 31 de interface, em React, em SVG e em texto para Node."
+2026-10-04T22:11:54.452Z,@konfetti-js/solid,0.3.0,andreabettich,MIT,11049,Solid.js wrapper for konfetti.js
+2026-10-04T22:11:54.527Z,@konfetti-js/svelte,0.3.0,andreabettich,MIT,6852,Svelte wrapper for konfetti.js
+2026-10-04T22:11:54.54Z,@konfetti-js/vue,0.3.0,andreabettich,MIT,12101,Vue wrapper for konfetti.js
+2026-10-04T22:11:54.606Z,@konfetti-js/web-components,0.3.0,andreabettich,MIT,18551,Web Components wrapper for konfetti.js
+2026-10-04T22:11:54.823Z,@konfetti-js/core,0.3.0,andreabettich,MIT,225585,"A lightweight, performant confetti animation library for the web"
+2026-10-04T22:11:55.068Z,@konfetti-js/react,0.3.0,andreabettich,MIT,12335,React wrapper for konfetti.js
+2026-10-04T22:12:09.841Z,@nikcli-ai/sdk-next,1.428.0,nikoemme_nikcli,MIT,20654182,Effect-native embedded nikcli host for in-process applications
+2026-10-04T22:12:31.869Z,@orchestraworks/worker-darwin-arm64,0.0.134,haoyu_orchestra,Apache-2.0,45685734,The Software Factory worker binary for darwin arm64.
+2026-10-04T22:12:42.117Z,@orchestraworks/worker-darwin-x64,0.0.134,haoyu_orchestra,Apache-2.0,47947150,The Software Factory worker binary for darwin x64.
+2026-10-04T22:12:52.135Z,@orchestraworks/worker-linux-arm64,0.0.134,haoyu_orchestra,Apache-2.0,44125429,The Software Factory worker binary for linux arm64.
+2026-10-04T22:13:02.004Z,@orchestraworks/worker-linux-x64,0.0.134,haoyu_orchestra,Apache-2.0,46773807,The Software Factory worker binary for linux x64.
+2026-10-04T22:13:12.394Z,@orchestraworks/worker-win32-x64,0.0.134,haoyu_orchestra,Apache-2.0,47480347,The Software Factory worker binary for win32 x64.
+2026-10-04T22:13:15.943Z,@orchestraworks/worker,0.0.134,haoyu_orchestra,Apache-2.0,58128,The Software Factory worker: the one program that runs inside a machine and speaks the worker protocol to the platform.
+2026-10-04T22:13:23.907Z,@orchestraworks/local-darwin-arm64,0.0.134,haoyu_orchestra,Apache-2.0,32232422,The Software Factory local environment binary for darwin arm64.
+2026-10-04T22:13:31.926Z,@orchestraworks/local-darwin-x64,0.0.134,haoyu_orchestra,Apache-2.0,34157118,The Software Factory local environment binary for darwin x64.
+2026-10-04T22:13:39.219Z,@orchestraworks/local-linux-arm64,0.0.134,haoyu_orchestra,Apache-2.0,31244001,The Software Factory local environment binary for linux arm64.
+2026-10-04T22:13:47.438Z,@orchestraworks/local-linux-x64,0.0.134,haoyu_orchestra,Apache-2.0,33393969,The Software Factory local environment binary for linux x64.
+2026-10-04T22:13:59.709Z,@orchestraworks/cli,0.3.0,haoyu_orchestra,Apache-2.0,13773842,"Orchestra: the orchestra CLI, and the FDK construct library for declaring a factory as code"
+2026-10-04T22:15:42.339Z,excel-community,2.5.1,gonojuarez,MIT,609608,High-performance Excel XLSX library for Node.js and Browser compiled directly from Dart excel_community.
+2026-10-04T22:16:05.3Z,paperclip-plugin-knowledge-base,0.2.0,senad.aruc,MIT,1530361,"Paperclip plugin: manage the Knowledge Base (RAG) your agents search — collections, uploads, model locations, test search, access"
+2026-10-04T22:16:49.703Z,localdesign,0.1.0,gaprl,MIT,2391726,"Design canvases and layouts in your own repo, built for coding agents."
+2026-10-04T22:16:52.12Z,dsh-whale-post-bus,0.0.0-stage,deepsleep_aquarium,,340,Temporary package placeholder for staged publishing
+2026-10-04T22:17:00.362Z,dsh-whale-post-roster,0.1.0,deepsleep_aquarium,MIT,4507,名单接口（谁在名单里）＋ 读 JSON 的样例实现
+2026-10-04T22:17:05.527Z,@pointyink/hugerte,0.0.0-stage,pointyink,,340,Temporary package placeholder for staged publishing
+2026-10-04T22:17:09.972Z,dsh-whale-post-types,0.1.0,deepsleep_aquarium,MIT,4078,邮件类型注册表接口 ＋ 样例类型（direct／broadcast／club）
+2026-10-04T22:17:18.763Z,dsh-whale-post-deliver,0.1.0,deepsleep_aquarium,MIT,4709,投递策略：离线留在信箱等人／在线立刻投出（示例①的挂点）
+2026-10-04T22:17:24.17Z,speechwarp,0.2.0,fredgaffey,Apache-2.0,138935,Nonlinear speed-up for speech: listen faster and still follow it
+2026-10-04T22:17:26.703Z,dsh-whale-post-gate,0.1.0,deepsleep_aquarium,MIT,12615,配额与计费闸 ＋ 回环闸（示例②的挂点）
+2026-10-04T22:17:34.924Z,dsh-whale-post-cli,0.1.0,deepsleep_aquarium,MIT,17172,零依赖命令行：hello／send／pump／quota／roster／types／selftest
