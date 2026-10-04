@@ -1,0 +1,52 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-04T00:15:43.384Z,@nestledjs/upgrader,0.2.0,justinhandley,MIT,242428,Control-plane CLI for propagating Nestled template upgrades to downstream projects.
+2026-10-04T00:15:55.15Z,@graphty/cytoscape-extensions,0.0.0-placeholder.0,apowers313,MIT,1144,Placeholder: reserves the name for graphty's Cytoscape.js extensions until their first release.
+2026-10-04T00:16:46.887Z,@radyko/carrel,0.1.0,radyko,MIT,2655179,"A quiet desktop app that guides you through reading research papers, and keeps your papers and notes as plain files."
+2026-10-04T00:20:47.843Z,@limno/spec,0.1.0,armie03,FSL-1.1-MIT,24990,"Limno change-set types, prompt rendering and merge helpers."
+2026-10-04T00:20:55.387Z,@limno/overlay,0.1.0,armie03,FSL-1.1-MIT,1259749,Limno's in-page editor: a self-contained overlay bundle for visual edits on a running app.
+2026-10-04T00:20:57.272Z,@limno/mcp,0.1.0,armie03,FSL-1.1-MIT,12130,"Limno MCP server: lets coding agents fetch visual changes, report progress and reply to comments."
+2026-10-04T00:20:59.597Z,@limno/core,0.1.0,armie03,FSL-1.1-MIT,56991,"Limno's framework-neutral dev tooling: JSX source stamping, the change-set store and the endpoints the editor talks to."
+2026-10-04T00:21:02.062Z,@limno/vite-plugin,0.1.0,armie03,FSL-1.1-MIT,8611,"Limno for Vite + React: source-stamped JSX, the visual editor overlay and the change-set server."
+2026-10-04T00:21:04.11Z,@limno/next,0.1.0,armie03,FSL-1.1-MIT,13532,Limno for Next.js: edit your running app visually and hand exact changes to your coding agent.
+2026-10-04T00:21:06.297Z,@limno/webpack,0.1.0,armie03,FSL-1.1-MIT,13850,Limno for webpack and Rspack: edit your running React app visually and hand exact changes to your coding agent.
+2026-10-04T00:25:34.628Z,notarize-mcp,0.2.0,krishchow,MIT,2369547,"Local stdio MCP server + skill for Apple code signing, notarization, certificates, provisioning, entitlements, Gatekeeper debugging, TestFlight and App Store Connect."
+2026-10-04T00:26:37.598Z,@ryancollins7/web-agent,1.0.1,ryancollins7,MIT,3794270,Web Agent local MCP tools
+2026-10-04T00:27:57.028Z,even-keel,0.0.1,namerek,MIT,531,"Runs Claude Code sessions on tracker issues one after another, paced to subscription limits. Placeholder — first release coming soon."
+2026-10-04T00:29:23.283Z,@gitmyabi/motoswaprouter02,1.0.0,gitmyabi-bot,MIT,162119,"Auto-generated TypeScript type bindings for MotoSwapRouter02 (build etherscan-motoswaprouter02-6f0b6a0d-1791073668162, commit 3706689, branch etherscan)"
+2026-10-04T00:29:47.913Z,auto-tts,0.1.1,kms413,AGPL-3.0-or-later,301564,"Unlimited text to speech with selectable voices and speaking tones, powered by edge-tts."
+2026-10-04T00:34:41.937Z,vault-mdsvex,0.1.1,quantology,,471677,Index an Obsidian vault and rewrite its syntax for mdsvex.
+2026-10-04T00:35:09.978Z,@raven_app/raven.js,0.1.0,raven_app,ISC,141760,"SDK for building Raven bots on https://ravenapp.xyz (REST /api/v1 + live gateway, polling fallback)"
+2026-10-04T00:35:15.477Z,@rightless/icons,1.0.2,nqqt,ISC,33214,immediately usable icons for any projects
+2026-10-04T00:36:45.346Z,@npm-ken/pi-bootstrap,1.0.0,npm-ken,,255836,"Bootstrap Pi sessions with user-managed memories and command output. Replace tagged request text, or save it to a file and insert a reference, using `commands/*.toml`."
+2026-10-04T00:36:54.035Z,@1delta/calldata-sdk-sol,0.0.2,delta-achthar,MIT,3931756,"⚒️ Builds Solana transactions for the lenders the SDK serves — the peer of @1delta/calldata-sdk: same entrypoints, instructions instead of composer calldata, artifacts that expire. No viem, no Solana…"
+2026-10-04T00:37:14.727Z,@inneranimalmedia/agentsam-platform,1.0.0,inneranimalmedia,Apache-2.0,112261,"Portable AgentSam platform capability contracts: one capability interface for Web/PWA, Capacitor, Expo, and Tauri Mobile hosts. UI asks for capabilities, never for platforms."
+2026-10-04T00:37:32.696Z,@inneranimalmedia/agentsam-runtime-state,1.0.0,inneranimalmedia,Apache-2.0,51025,"One semantic runtime vocabulary for AgentSam: runtime event -> runtime-event-adapter -> loading scene, compact status, activity timeline, and agentsam.runtime.v1 analytics."
+2026-10-04T00:37:50.062Z,@inneranimalmedia/agentsam-telemetry,1.0.0,inneranimalmedia,Apache-2.0,54759,"AgentSam analytics/event ingestion boundary: typed event envelopes, durable local spool (batching, backoff, dedupe), authenticated Worker gateway transport, and the device credential policy."
+2026-10-04T00:38:04.777Z,@inneranimalmedia/agentsam-browser-surface,1.0.0,inneranimalmedia,Apache-2.0,68220,AgentSamBrowserSurface: a portable Browse/Build browser capability with a provider registry so the lightweight Local Studio browser and the AgentSam Browser Shell can be swapped behind one stable hos…
+2026-10-04T00:38:25.757Z,@gobing-ai/ts-ai-decision,0.5.14,robinmin2026,Apache-2.0,151181,@gobing-ai/ts-ai-decision — Declarative YAML decision catalog over the ts-ai-runner DecisionMaker surface.
+2026-10-04T00:38:56.304Z,@inneranimalmedia/agentsam-platform-web,1.0.0,inneranimalmedia,Apache-2.0,68379,"Web and installable-PWA implementation of the AgentSam capability contract: OPFS filesystem, getUserMedia capture, Web Share, Async Clipboard, Notification API, and periodic background sync."
+2026-10-04T00:39:09.486Z,@inneranimalmedia/agentsam-platform-capacitor,1.0.0,inneranimalmedia,Apache-2.0,56493,Capacitor implementation of the AgentSam capability contract with dependency-injected plugins so the package compiles without the native toolchain.
+2026-10-04T00:39:17.455Z,@alisio/plugin-laya,0.1.0,gustavogutierrez,MIT,290405,"Local Laya decision provider for Alisio: fast select, boolean and ordinal decisions from a managed, isolated Laya server, with explicit-consent setup and no data leaving the machine."
+2026-10-04T00:39:27.286Z,@inneranimalmedia/agentsam-platform-expo,1.0.0,inneranimalmedia,Apache-2.0,63285,Expo / React Native implementation of the AgentSam capability contract with dependency-injected expo-* modules and keychain-backed secure storage.
+2026-10-04T00:39:44.342Z,@inneranimalmedia/agentsam-platform-tauri,1.0.0,inneranimalmedia,Apache-2.0,39037,"Tauri v2 (desktop + mobile) implementation of the AgentSam capability contract over a single structural bridge, with Rust owning device authority."
+2026-10-04T00:40:16.454Z,@inneranimalmedia/agentsam-proof,1.0.0,inneranimalmedia,Apache-2.0,86451,"The one cross-platform AgentSam proof: a nine-step scenario every lane must pass, the lane comparison metric schema, and the shared capability demonstration screen."
+2026-10-04T00:41:02.735Z,@inneranimalmedia/agentsam-abs,1.0.0,inneranimalmedia,Apache-2.0,78005,"AgentSam Auto Browser Shell: dual-mode Explore/Build browser surface with provider-agnostic generative navigation, sandboxed previews, deterministic history, and packaged runtime scenes."
+2026-10-04T00:42:24.087Z,@morita-protocol/sdk,0.1.1,rizky_reza,MIT,67199,Official Client SDK for Morita Protocol - In-game inventory and player authentication
+2026-10-04T00:44:26.882Z,@morita-protocol/server,0.1.1,rizky_reza,MIT,43823,Official Server SDK for Morita Protocol - Game server minting and player account binding
+2026-10-04T00:45:46.966Z,@hunchoweb/nclean,0.1.1,hunchoweb,MIT,64468,Clean up forgotten Node.js dependencies.
+2026-10-04T00:49:35.63Z,justalerts,2.0.0,dnmjustme,MIT,37621,"Lightweight, accessible, dependency-free alerts and toast notifications for the browser."
+2026-10-04T00:49:46.455Z,@comms-id/theme,0.1.0,comms-id,SEE LICENSE IN LICENSE,393182,"Shared Comms.ID theme: colours, typography, spacing and component defaults"
+2026-10-04T00:49:58.578Z,@gesetz/sqlite-compat,3.0.0-rc.8,capevace,,7219,Optional better-sqlite3 cache driver for gesetz on runtimes without node:sqlite
+2026-10-04T00:50:03.633Z,@gesetz/tsc,3.0.0-rc.8,capevace,,10658,
+2026-10-04T00:53:47.398Z,orca-review-loop,0.1.1,kalywang,Apache-2.0,47431,Deterministic Claude implementation and Codex review/fix loop for Orca
+2026-10-04T00:56:23.36Z,docqlite,1.0.2,carc1n0gen,MIT,34943,SQLite3 wrapper with a MongoDB-like document API
+2026-10-04T01:01:52.617Z,pi-hydra,0.1.0,pandysp,MIT,178413,Extra heads for your pi coding agent: live oversight through prompt-cache replay
+2026-10-04T01:02:18.325Z,@ghostmind-dev/agento,0.3.0,ghostmind_dev,MIT,567800,"agento: the agent engine (tool loop and guards, Jev as the guide, USD budgets, go/pause/stop hooks, an append-only event log) as a library, plus the `agento` command: a terminal agent that also runs…"
+2026-10-04T01:04:57.025Z,olav-tasks,0.1.0,olavai,MIT,742712,Local Markdown project board and file workspace
+2026-10-04T01:06:13.482Z,claudecord,0.1.0,kdhanda,MIT,1064366,"Run Claude Code, agy and Codex agents on any machine as a Discord team"
+2026-10-04T01:08:49.015Z,dsh-ai-suplex,0.4.0,kmagwenzi,MIT,34348,"The 7-7-7 execution loop for DeepSeek Harness — plan, run, capture, close, compound, with a human gate."
+2026-10-04T01:09:00.543Z,@gitmyabi/whatifpresale,1.0.0,gitmyabi-bot,MIT,116919,"Auto-generated TypeScript type bindings for WhatIfPresale (build etherscan-whatifpresale-a5ec9bb6-1791076042736, commit 1feb3fb, branch etherscan)"
+2026-10-04T01:16:29.446Z,@dsh-libing/knowledge-base,0.1.0,jinxing.lu,UNLICENSED,1206016,知识治理：Word/PDF 导入、图表复核、可恢复任务与固定版本证据检索
+2026-10-04T01:17:20.7Z,@chartxpert/charting-ai-library,0.1.0,difinsllc,Apache-2.0,28208,"ChartXpert Charting AI Library — the official integration layer for AI-powered live financial charts, with a typed, bilingual (AR/EN) API."
+2026-10-04T01:18:18.535Z,hath0r-cli-node-plugin,0.3.0,somesayray,Apache-2.0,17786,"Official Hath0r CLI Node.js Plugin & SDK: non-bypassable enterprise governance engine, AgentGraph quad-graph query bridge, and zero-prompt-tax security gate for Node.js AI agents."
+2026-10-04T01:18:23.543Z,hath0r-agentic-cli,0.3.0,somesayray,Apache-2.0,16870,"Non-bypassable enterprise governance engine, AgentGraph query bridge, and zero-prompt-tax security gate for Node.js AI agents."
