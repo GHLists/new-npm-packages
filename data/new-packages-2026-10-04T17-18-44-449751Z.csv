@@ -1,0 +1,174 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-04T16:16:19.862Z,@martinomagnifico/tablechart,0.1.0,martinomagnifico,MIT,155460,"Simple charts from an HTML or Markdown table: column, bar, line, area, waterfall and donut, with annotations. A chart builds when it scrolls into view."
+2026-10-04T16:18:40.602Z,@akta/txn-graph-rn,0.2.0,krby,MIT,57415,React Native renderer for the Akita txn-graph visualizer. Built on react-native-svg + Reanimated + Gesture Handler.
+2026-10-04T16:18:47.167Z,@adibacsi/pi-jack,1.0.2,adibacsi,MIT,65328,"JACK (JSON Agent Contractor Kit): Pi extension for delegating to subagents under a JSON Schema contract, for structured, reliable, and type-safe agent responses."
+2026-10-04T16:18:48.089Z,@sonsu-lee/oxc-config,0.1.0,sonsu-lee,MIT,20872,Composable personal Oxlint and Oxfmt configurations
+2026-10-04T16:19:16.424Z,@luma.gl/slang,10.0.0-alpha.2,ibgreen,MIT,1273630,Experimental TypeScript Slang to GLSL and WGSL transpiler for luma.gl
+2026-10-04T16:19:33.227Z,homebridge-camera-ffmpeg-ptz,1.0.1,slebrin,ISC,329177,Homebridge Plugin Providing FFmpeg-based Camera Support with PTZ Controls
+2026-10-04T16:20:01.702Z,silverbullet-mcp,1.0.0,u.diamaaa,MIT,28659,"MCP bridge that exposes a SilverBullet space's /.fs HTTP API as MCP tools — list, read, write, append, delete and search markdown pages."
+2026-10-04T16:20:36.928Z,dsh-todos,0.1.0,houdinis,MIT,192125,"Todoist-style todos with a dashboard, agent tools and due reminders. · 类 Todoist 的待办管理 + 仪表盘，内建 Agent 工具与到期提醒。"
+2026-10-04T16:23:03.318Z,translate-angular,0.0.3,tkt-tech,MIT,44212,"Atomic, modular translation library for Angular standalone applications and components."
+2026-10-04T16:23:27.195Z,@frink-okn/actor-http-throttle,0.1.0,balhoff,MIT,94279,"A Comunica HTTP actor that paces requests per host: requests in flight, requests per second, and backoff learned from 429 and 503 responses"
+2026-10-04T16:23:30.858Z,@frink-okn/actor-query-source-identify-hypermedia-sparql-bounded,0.1.0,balhoff,MIT,100665,"Comunica's SPARQL endpoint source with bounded COUNT queries, timed by the server, and source selection that accepts a bounded count without an ASK"
+2026-10-04T16:23:32.808Z,@gitmyabi/openrouter,1.0.0,gitmyabi-bot,MIT,70706,"Auto-generated TypeScript type bindings for OpenRouter (build etherscan-openrouter-50cfe7c1-1791130914760, commit b4bc6a5, branch etherscan)"
+2026-10-04T16:23:33.925Z,@frink-okn/actor-query-source-identify-kgf,0.1.0,balhoff,MIT,79089,Native Knowledge Graph Fragments query source for Comunica
+2026-10-04T16:23:36.599Z,@frink-okn/actor-rdf-join-multi-bind-block,0.1.0,balhoff,MIT,189742,"A Comunica bind join that sends the smallest entry in blocks through every other entry that takes bindings, and an OPTIONAL join that sends its left rows in blocks the same way"
+2026-10-04T16:23:40.351Z,@frink-okn/actor-rdf-join-multi-bind-round-trip,0.1.0,balhoff,MIT,63192,Comunica's inner and OPTIONAL bind joins with each bound probe charged the requests it sends
+2026-10-04T16:23:42.532Z,@frink-okn/actor-rdf-join-selectivity-bound,0.1.0,balhoff,MIT,49419,"A Comunica join-selectivity actor that caps any other estimate with an upper bound on the join size, and gives a cross product its exact size"
+2026-10-04T16:23:42.859Z,@m9ter1a/virm,0.1.0,m9ter1a,MIT,239417,"Watch Reddit for what you care about. A decision model sorts every post into Urgent, Worth a look, FYI or Noise, and only Urgent interrupts you."
+2026-10-04T16:23:45.987Z,@frink-okn/actor-rdf-join-selectivity-void,0.1.0,balhoff,MIT,46581,A Comunica join-selectivity actor that estimates from published VoID statistics
+2026-10-04T16:23:48.138Z,@perkyzz/emvb,0.1.0,perkyzz,MIT,777861,Visual page builder plugin for EmDash CMS
+2026-10-04T16:23:50.759Z,@frink-okn/kgf-sparql,0.1.0,balhoff,MIT,352482,Comunica SPARQL engine tuned for Knowledge Graph Fragments endpoints
+2026-10-04T16:25:10.711Z,@andreaspapav/openimg,1.2.0,andreaspapav,MIT,178308,"openimg (Open Image) is a set of JavaScript packages for working with images on the web. It includes a React component, server-side code for Node and Bun, and a Vite plugin. Every part is built to wo…"
+2026-10-04T16:25:49.694Z,dsh-turn-model,0.1.0,wajotary,MIT,16613,在 DeepSeek Harness 每个已完成回合的操作行前显示该回合实际使用的模型名（纯文本，无图标）。Show which model answered each completed turn.
+2026-10-04T16:26:15.412Z,@stacksjs/ts-heic,0.0.2,chrisbreuer,MIT,122467,A pure TypeScript HEIC/HEIF decoder with zero native dependencies.
+2026-10-04T16:26:46.196Z,@gitmyabi/tdx,1.0.0,gitmyabi-bot,MIT,60106,"Auto-generated TypeScript type bindings for TDX (build etherscan-tdx-e596e08d-1791131179616, commit 5c618bd, branch etherscan)"
+2026-10-04T16:27:13.415Z,@cqrs-ddd/pipeline-job-context,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,85497,"Carries the tenant, correlation id and principal of a request into the queue jobs it enqueues, and gives system-started work an explicit context"
+2026-10-04T16:27:17.194Z,@cqrs-ddd/pipeline-tenant,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,44502,"The current tenant: the running pipeline's tenant, or the tenant of a runWithTenant scope"
+2026-10-04T16:27:33.471Z,@cqrs-ddd/pipeline,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,215588,"Framework-neutral pipeline engine: wrap functions and methods with behaviors such as logging, caching or idempotency"
+2026-10-04T16:27:36.514Z,@cqrs-ddd/pipeline-correlation,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,88179,"Correlation id propagation for any Node.js application: HTTP middleware, queue and message consumers, cron jobs"
+2026-10-04T16:27:39.478Z,@tensium/core,0.0.1,jmcbca04,MIT,485,"An agent-native programming language — strict, self-checking, compiles to TypeScript. Work in progress."
+2026-10-04T16:27:39.674Z,@cqrs-ddd/cqrs,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,105463,"Command, query and event buses with handler decorators and a pipeline per handler, built by createCqrs() with no framework and no container"
+2026-10-04T16:27:46.766Z,@cqrs-ddd/pipeline-audit,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,116208,"Audit records for @cqrs-ddd/pipeline: who did what, in which tenant, with redacted payloads, to a log or PostgreSQL sink"
+2026-10-04T16:27:47.825Z,@dev_zf/dsh-conversation-search,0.1.0,dev_zf,MIT,113302,"In-conversation keyword search for DSH: find text in the current Session transcript, highlight every match, and jump to its exact position"
+2026-10-04T16:27:49.737Z,@cqrs-ddd/pipeline-cache,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,105484,"Result caching for @cqrs-ddd/pipeline on cache-manager and Keyv stores, with keys partitioned by tenant, principal and permission scope"
+2026-10-04T16:27:52.883Z,@cqrs-ddd/pipeline-casl,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,138534,"CASL authorization for @cqrs-ddd/pipeline: type-level checks before the handler, entity and field checks after it"
+2026-10-04T16:27:55.844Z,@cqrs-ddd/pipeline-deadletter,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,122223,"Dead letters for @cqrs-ddd/pipeline: captures failed commands and events with their context to a queue or table, and redrives them"
+2026-10-04T16:27:59.833Z,@cqrs-ddd/pipeline-feature-flags,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,101797,Feature flags for @cqrs-ddd/pipeline through OpenFeature: an operation runs only while its flag is on
+2026-10-04T16:28:03.037Z,@cqrs-ddd/pipeline-idempotency,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,162667,Idempotency for @cqrs-ddd/pipeline: deduplicates commands by an operation key and replays completed responses within the caller's scope
+2026-10-04T16:28:06.026Z,@cqrs-ddd/pipeline-opentelemetry,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,91298,"OpenTelemetry tracing, metrics and span attribute behaviors for @cqrs-ddd/pipeline"
+2026-10-04T16:28:09.16Z,@cqrs-ddd/pipeline-rate-limit,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,95796,"Rate limiting for @cqrs-ddd/pipeline, with keys partitioned by tenant, principal and operation"
+2026-10-04T16:28:12.344Z,@cqrs-ddd/pipeline-resilience,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,113596,"Retry, timeout, circuit breaker, bulkhead and fallback policies (cockatiel) for @cqrs-ddd/pipeline"
+2026-10-04T16:28:15.614Z,@cqrs-ddd/pipeline-zod,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,111023,"Zod validation for @cqrs-ddd/pipeline: validates and parses the input of a command, query, event or wrapped function"
+2026-10-04T16:28:17.186Z,rdloom,0.1.0,vimalbhatt,MIT,238030,Add rdloom components to your project. You own the code; the lock file keeps it upgradable.
+2026-10-04T16:28:18.793Z,@cqrs-ddd/nestjs,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,89301,"NestJS adapter for the @cqrs-ddd packages: runs @nestjs/cqrs handlers through their pipelines, answers every package error as a NestJS HttpException, and wires correlation and job context"
+2026-10-04T16:28:19.742Z,@rdloom/mcp,0.1.0,vimalbhatt,MIT,351611,"MCP server that gives AI coding agents the rdloom specs: props, usage rules, accessibility requirements, tokens and source."
+2026-10-04T16:28:24.297Z,hazeglow,0.0.0,scoobynko,MIT,61,
+2026-10-04T16:28:36.78Z,shruti-jadhav-first-module,1.0.0,shrutijadhav,ISC,374,
+2026-10-04T16:29:58.113Z,@cinema9989/contracts,1.0.2,sqrt9989,,2366,Protobuf definitions and generated TypeScript types
+2026-10-04T16:30:04.119Z,veriq-sdk,0.2.0,ecolyt.ai,MIT,86454,"Official Node.js SDK for the Veriq AI search, extract, map, and crawl API (beta)"
+2026-10-04T16:30:55.442Z,wwbnlp,0.1.0,phughesmcr,CC-BY-NC-SA-3.0,3198980,World Wellbeing NLP: reproducible weighted-lexicon research tools.
+2026-10-04T16:31:40.761Z,outlook-teams-mcp,0.1.2,yamensharaf,MIT,84091,"MCP server for Outlook mail and Microsoft Teams via Microsoft Graph, with your own sign-in and preview-before-send safeguards"
+2026-10-04T16:31:47.855Z,@victorycode/sdk,1.0.0,kiranguragai,MIT,1633433,OpenAPI client for @victorycode/sdk
+2026-10-04T16:33:47.917Z,@vovacinema/core,1.0.1,vovafcsm,ISC,974,Core utilities and shared setup
+2026-10-04T16:33:57.575Z,wp-genesis-custom-blocks-skill,0.1.2,qnnp,MIT,25719,"Agent skill: manage Genesis Custom Blocks on WordPress through wpops (availability probe, block JSON, templates)."
+2026-10-04T16:34:37.029Z,xedonium,0.1.0,ankityadavpurson,MIT,257780,"Minimal, theme-aware React + Tailwind UI components extracted from Boot Bridge"
+2026-10-04T16:35:05.842Z,@paymentsnp/sdk,1.0.0,subaseyy,MIT,113171,"Official TypeScript/JavaScript SDK and CLI for the Paymentsnp payment API (eSewa, Khalti and Fonepay checkout for Nepal)."
+2026-10-04T16:35:46.629Z,@radajakub/clankers,3.0.1,radajakub,MIT,45559,Get notified when long-running Node.js tasks finish
+2026-10-04T16:36:48.186Z,@ziamana/bruine,0.1.0,ziamana,MIT,3144094,"Interactive terminal coding agent that runs your own models, local or OpenAI-compatible"
+2026-10-04T16:36:58.117Z,@wasmedia/whugin,0.1.0,rogerhoward,GPL-2.0-or-later,12268571,Hugin panorama stitching compiled to WebAssembly for browsers
+2026-10-04T16:37:46.995Z,@wsj060618/dsh-skin-studio,0.1.0,wsj060618,MIT,27921,"DeepSeek Harness enhancement plugin: a custom background image with a frosted-glass scrim (backdrop blur), leaving the original theme untouched."
+2026-10-04T16:37:55.115Z,swarm-x402-mcp,0.1.0,swarm-operator,MIT,8671,"MCP server for SWARM's x402 services: pay per call in USDC on Base, no account or API key."
+2026-10-04T16:38:08.946Z,n8n-nodes-besa,0.1.0,dorigjo,MIT,332669,"Verify signed BESA manifests, gate tool calls through BESA admission policy, and issue signed BESA execution receipts from an n8n workflow."
+2026-10-04T16:40:43.766Z,eslint-plugin-deep-esrules,1.0.1,vollmond148,ISC,102508,custom esrules for deep-linter
+2026-10-04T16:40:44.205Z,@schmock/devtools,2.6.0,khalic,MIT,46269,"Chrome DevTools visibility for Schmock mocks: console and Performance-panel reporting, and a service-worker relay for the Network panel"
+2026-10-04T16:42:23.032Z,@thepedroofficial/mcp,1.0.1,thepedro.si,MIT,11107,"MCP server for The Pedro — AI security scanner with auto-fix. Scan, find and fix vulnerabilities from Claude, Cursor, or any MCP-compatible AI."
+2026-10-04T16:43:06.925Z,sarahmy-first-module2026,1.0.0,sarahhadfa15,ISC,474,a simple node.js module containing add and greet function.
+2026-10-04T16:43:27.339Z,@nazarslota/agent-kit,0.1.1,nazarslota,,46672,"Extensions and tools for coding agents (Pi, Claude Code, Codex)"
+2026-10-04T16:43:32.652Z,dsh-backdrop-plugin,1.0.0,guhong_x,MIT,36808,Image-background skin for DeepSeek Harness (web + desktop): import your own light/dark wallpapers through the built-in panel (no artwork bundled). No DSH source changes.
+2026-10-04T16:43:55.76Z,specfun-sdk,0.1.0,hush0,MIT,14576,"Launch SPEC.fun coins from your own site, put SPEC rules on any Token-2022 token, and scan any Solana token's transfer hook."
+2026-10-04T16:44:03.744Z,specfun-cli,0.1.0,hush0,MIT,9317,"SPEC.fun command line: write and test transfer-hook rules locally, scan any Solana token, launch from your own wallet."
+2026-10-04T16:44:18.465Z,@growthpath/site-catalogue,0.0.0,vladbisceanu,,37190,"GrowthPath's section catalogue: every section and page type of a site with its content slots, variants and sketch spec, and the zod schema of that JSON. Generated from @growthpath-ai/site-cms."
+2026-10-04T16:45:04.799Z,styleskills,0.2.0,pranavred,MIT,42213,"Install design-system skills (Apple, Linear, Stripe, …) into Claude Code, Codex, or Gemini CLI with one command."
+2026-10-04T16:46:03.841Z,n8n-nodes-augusto-wa-gateway,0.1.0,roggia,MIT,7764,n8n community node for Augusto WA Gateway
+2026-10-04T16:46:27.762Z,@sakuraa/baileys,1.0.0,sakura-md,MIT,8460422,A WebSockets library for interacting with WhatsApp Web
+2026-10-04T16:46:34.666Z,mock-llm,0.1.0,andrewfooteqa,MIT,280343,"In-process mock of LLM provider APIs (OpenAI, Anthropic, Gemini, Bedrock) for testing apps with the official SDKs — no tokens spent."
+2026-10-04T16:47:23.221Z,@guru.prasath/model-opencode,0.1.0,guruprasath,Apache-2.0,50570,Strands Agents model provider for OpenCode endpoints (opencode-zen and opencode-go) via OpenAI-compatible Chat Completions
+2026-10-04T16:48:16.579Z,@zuku/zwf,0.1.1,zuku,MIT,104553,"ZWF HTML5 game package specification, compiler and inspector for ZUKU Jump"
+2026-10-04T16:48:21.928Z,agui-inspector,0.0.0,dogganidhal,MIT,1333733,"Static assets of the AG-UI inspector, a developer tool that records, validates and drives AG-UI servers."
+2026-10-04T16:49:17.525Z,zuku-engine-next2d,0.1.1,zuku,,169339,Public Next2D Jump package contract and runtime adapter.
+2026-10-04T16:50:01.66Z,opencode-context-relay-chatgpt,2026.1.0-dev.7,s3tupw1zard,AGPL-3.0-only,131394,WIP read-only ChatGPT MCP bridge for OpenCode Context Relay.
+2026-10-04T16:50:40.08Z,@loaders.gl/arcgis,5.0.0-alpha.8,ibgreen,MIT,1859298,ArcGIS REST data sources for geospatial visualization
+2026-10-04T16:51:13.815Z,xive.js,0.1.1,taylor-mcgaw,MIT,113241,Build bots for Xive hubs.
+2026-10-04T16:51:32.044Z,@intentset/help,0.5.0,gxclarke,MIT,33909,"Reads the help file intentset publish writes and binds its tips to the controls of a product's interface. No dependencies, runs in a browser."
+2026-10-04T16:51:50.666Z,n3-match-bgp,0.1.0,jeswr,MIT,19364,"Matches basic graph patterns against an N3.js Store or any RDF/JS dataset, yielding RDF/JS Bindings"
+2026-10-04T16:52:02.613Z,assertlens,0.1.0,srdaniel,Apache-2.0,80487,Local correctness checks and advisory Jev pull-request review.
+2026-10-04T16:52:19.821Z,@zuku/sdk,0.2.0,zuku,SOL,355672,TypeScript SDK for the zuku Platform API
+2026-10-04T16:52:45.863Z,dsh-jailbreak,0.1.0,lcgaming,MIT,100621,Native jailbreak control for DeepSeek Harness: an openable composer-bar mode switch (off / lowered / full) that drives the content-handling system-prompt section and synthetic-history priming.
+2026-10-04T16:52:47.554Z,@clous/server,0.1.4,efekanbahceci,MIT,142825,Clous Runtime Engine - Dynamic Type-Safe CRUD Server with RLS & Web Panel Integration
+2026-10-04T16:52:53.662Z,@nestjs-pipeline/cqrs-ddd,0.5.0,aristoteliss,SEE LICENSE IN LICENSE,41804,"The NestJS adapter of the @cqrs-ddd packages under the @nestjs-pipeline name: re-exports @cqrs-ddd/nestjs, which holds the code"
+2026-10-04T16:53:15.779Z,@plume-press/sdk,0.1.0,jankocian,MIT,591901,"Typed, server-side reads of a website's published Plume content."
+2026-10-04T16:53:30.728Z,@fitzzero/quickdraw-lint,5.0.0-rc.1,fitzzero,MIT,199463,"oxlint plugin, base config and baseline command for quickdraw apps"
+2026-10-04T16:53:33.68Z,@jetonpeche/csv-airstream,1.1.0,jetonpeche,MIT,62266,"Ultra-lightweight, zero-dependency streaming CSV reader & writer based on Web Streams with resilient Result pattern"
+2026-10-04T16:53:38.359Z,@fitzzero/quickdraw-skills,5.0.0-rc.1,fitzzero,MIT,56740,"Agent rules and skills for quickdraw 5.0 apps, linked into .claude/ by the quickdraw-skills command"
+2026-10-04T16:53:38.857Z,spendly,0.1.2,akhileshdalvi,AGPL-3.0-only,793863,Spendly command-line interface
+2026-10-04T16:53:46.142Z,@fitzzero/quickdraw-codemod,5.0.0-rc.1,fitzzero,MIT,574717,"Moves a quickdraw 4.x app to 5.0 (contracts, defineService, the typed client) and reports what is left to decide"
+2026-10-04T16:53:56.35Z,@atolljs/devtools,0.1.7,jwhenry123,MIT,201158,Devtools transport + local dashboard server for AtollJS instrumentation events
+2026-10-04T16:54:07.938Z,@plume-press/cli,0.4.0,jankocian,MIT,2887757,The plume command: set up a website's Plume CMS and check its builds.
+2026-10-04T16:56:41.293Z,faf-sv,0.1.0,wolfejam.dev,MIT,4801,Svelte CLI add-on: writes project.faf (AI context) for a Svelte or SvelteKit project with faf-cli
+2026-10-04T16:57:32.815Z,@hoyasumii/linkedin,0.1.0,hoyasumii,MIT,336380,"Unofficial LinkedIn SDK and MCP server to create, edit and delete your own posts, with a CLI that logs in and installs the server"
+2026-10-04T16:57:33.401Z,@paymentsnp/mcp,0.1.0,subaseyy,MIT,27724,"Model Context Protocol (MCP) server for Paymentsnp: let Claude, Cursor and other MCP clients read checkouts, payments, invoices and reconciliation."
+2026-10-04T16:58:18.533Z,dsh-client-ui-wallpaper,1.0.0,wjdmz,MIT,849952,把本地图片/视频（Dynamic Wallpaper.app 素材）用作 DSH 桌面客户端壁纸：铺满窗口、背景模糊、面板/左右侧栏独立透明度、自动深浅字、视频缩略图、轮换与播放列表同步。· Use local images or videos as the DSH desktop client background.
+2026-10-04T16:58:24.703Z,@permitojs/react,0.1.0,sweberdev,MIT,224724,"Accessible, privacy-first consent banner, preference center and consent gates for React and Next.js."
+2026-10-04T16:58:24.973Z,@permitojs/core,0.1.0,sweberdev,MIT,242991,"Privacy-first, framework-agnostic consent engine. No network calls, no tracking."
+2026-10-04T16:59:55.1Z,postlane-mcp,0.1.0,zwebso,MIT,11407,"MCP server for the Postlane transactional email API: send_email, get_email, and list_emails."
+2026-10-04T17:00:48.632Z,@cocoviral/mcp-server,1.5.4,litbox,MIT,70759,"CocoViral MCP server - give your agent AI image and video generation, Director Studio, video analysis and dubbing, and Viral Flow graphs."
+2026-10-04T17:01:04.098Z,@owasp-webshield/vue,2.0.0,cybersreejith,Apache-2.0,59414,"Vue 3 adapter for OWL (OWASP Webshield Library): a plugin, category-aligned composables, guard components, a sanitizing v-safe-html directive and a Vue Router guard for @owasp-webshield/core"
+2026-10-04T17:01:04.83Z,@owasp-webshield/node,2.0.0,cybersreejith,Apache-2.0,53112,"Framework-neutral server layer for OWL (OWASP Webshield Library): per-request auth, access control, CSRF, validation, security headers, SSRF checks and error mapping on top of @owasp-webshield/core"
+2026-10-04T17:01:13.566Z,@bethel-nz/latch,0.0.1,bethel-nz,MIT,120138,"A permission system for AI agents, declared in one YAML file."
+2026-10-04T17:01:30.292Z,@cocoviral/cli,1.5.4,litbox,MIT,63351,"CocoViral CLI - generate AI images and video, drive Director Studio, and build, run and deliver Viral Flow graphs from your terminal."
+2026-10-04T17:01:58.842Z,@refactor-ai/ts-rename,0.1.3,wooboox,,171746,Rename a symbol and its semantic references.
+2026-10-04T17:02:48.404Z,@refactor-ai/ts-imports,0.1.3,wooboox,,171765,Sort imports or explicitly remove unused imports.
+2026-10-04T17:02:50.761Z,@refactor-ai/ts-format,0.1.3,wooboox,,171725,Format a file with the TypeScript formatter.
+2026-10-04T17:02:52.88Z,@refactor-ai/ts-extract-function,0.1.3,wooboox,,171967,Extract selected statements or an expression into a named function.
+2026-10-04T17:02:55.063Z,@refactor-ai/ts-extract-variable,0.1.3,wooboox,,171919,Extract an expression into a named constant.
+2026-10-04T17:02:57.872Z,@refactor-ai/ts-rename-file,0.1.3,wooboox,,171810,Rename a source file to match a selected declared type.
+2026-10-04T17:02:59.684Z,@refactor-ai/ts-move-type,0.1.3,wooboox,,171816,Move a selected top-level type into another file or project.
+2026-10-04T17:03:02.181Z,@refactor-ai/csharp-rename,0.1.3,wooboox,,216062,Rename a symbol and its semantic references.
+2026-10-04T17:03:04.954Z,@refactor-ai/csharp-imports,0.1.3,wooboox,,216100,Remove unused C# using directives identified by Roslyn.
+2026-10-04T17:03:07.237Z,@refactor-ai/csharp-format,0.1.3,wooboox,,216047,Format a C# file with the Roslyn Formatter API.
+2026-10-04T17:03:09.338Z,@refactor-ai/csharp-rename-file,0.1.3,wooboox,,216131,Rename a source file to match a selected declared type.
+2026-10-04T17:03:11.623Z,@refactor-ai/csharp-sync-namespace,0.1.3,wooboox,,216216,Align a C# file's namespace with RootNamespace and its project-relative folders.
+2026-10-04T17:03:13.722Z,@refactor-ai/csharp-move-type,0.1.3,wooboox,,216192,Move a selected top-level type into another file or project.
+2026-10-04T17:03:21.495Z,@deepseekstudio/dsh-deepseek-pet,0.2.4,janfors5,MIT,16194452,DeepSeek 桌宠：把「DSH 账户余额 + 蓝鲸女仆桌宠」连起来。宿主端查询余额、通过 127.0.0.1 回环接口喂给桌面悬浮窗，并提供 pet_balance / pet_control 两个模型工具。
+2026-10-04T17:04:13.801Z,@vyr-e/latch,0.0.1,bethel-nz,MIT,120134,"A permission system for AI agents, declared in one YAML file."
+2026-10-04T17:04:40.119Z,@owasp-webshield/express,2.0.0,cybersreejith,Apache-2.0,27611,"Express adapter for OWL (OWASP Webshield Library): middleware for authentication, access control, CSRF, validation, security headers, SSRF checks and security error handling"
+2026-10-04T17:04:41.321Z,@owasp-webshield/next,2.0.0,cybersreejith,Apache-2.0,55278,"Next.js adapter for OWL (OWASP Webshield Library): App Router route handler guards, middleware CSRF checks, security headers, server-side sessions and client components"
+2026-10-04T17:04:41.613Z,@syntopica/test-quality,0.1.0,cristiandeluxe,MIT,77528,"Test-suite cost audit: find where a vitest suite spends its time and memory (DOM environments for DOM-free tests, files run twice, uncached local gates, hooks that repeat a gate)"
+2026-10-04T17:05:03.284Z,@coppica/persuasion-mcp,1.0.1,coppica,MIT AND CC-BY-4.0,3643092,"A free MCP server that helps any AI write and check marketing copy: the nine questions every reader asks, 766 persuasion techniques from real ads, copy diagnostics and A/B test math. No API key, no A…"
+2026-10-04T17:05:33.226Z,unplugin-console-highlight,0.0.1,overflowzy,MIT,159212,"An unplugin console transformer with turbo-style prefix/suffix labels and runtime value syntax highlighting that adapts to browser, terminal and plain environments"
+2026-10-04T17:06:17.401Z,@asmblyr-collaborative/contracts,0.1.0-beta.1,yniphe,MIT,289855,Shared wire contracts for Asmblyr
+2026-10-04T17:06:41.889Z,taurusai,0.1.0,santoshrbtx,MIT,93560,"TaurusAI - a lightweight local AI agent harness/runtime built from scratch with Node.js, TypeScript, Express and the official OpenAI SDK."
+2026-10-04T17:07:27.828Z,@asmblyr-collaborative/sdk,0.1.0-beta.1,yniphe,MIT,79855,Typed HTTP and fluent collection client for Asmblyr
+2026-10-04T17:08:18.143Z,tickpak,0.0.1,davetemplin,MIT,143,
+2026-10-04T17:08:37.999Z,zeenat-user-module,1.0.0,zeenat-26,ISC,1884,
+2026-10-04T17:08:47.395Z,@asmblyr-collaborative/kit,0.1.0-beta.1,yniphe,MIT,140860,Plugin authoring toolkit for Asmblyr
+2026-10-04T17:08:48.642Z,@syntopica/ui-quality,0.1.0,cristiandeluxe,MIT,318353,"Design gate for rendered web UIs: drive the real routes in Playwright, light and dark, at several widths, and report contrast, clipping, misaligned columns, cramped controls, wasted width and off-pal…"
+2026-10-04T17:09:27.812Z,@zuku/zwf-runtime,0.1.1,zuku,MIT,95985,ZUKBOX .zwf runtime — WebAssembly player core and its host loader.
+2026-10-04T17:09:48.338Z,ai-nomad,0.2.0,serkankorkut,MIT,93168,"Your AI session, anywhere. Continue Claude Code, Codex and Cursor sessions on any machine and in any of the three tools, end-to-end encrypted in your own private GitHub repo."
+2026-10-04T17:09:55.115Z,@asmblyr-collaborative/cli,0.1.0-beta.1,yniphe,MIT,22420,Connect to Asmblyr and generate typed collection and plugin clients
+2026-10-04T17:10:37.964Z,dsh-gui-browser,2.1.0,swoop111,MIT,177719,"Operable live view of the Session's built-in Chromium in the GUI right Sidebar, with the viewer's input reported to the model"
+2026-10-04T17:11:32.229Z,@ww-consulting/capacitor-native-tab-bar,0.1.0,phillipplum,MIT,41101,Capacitor plugin that renders the app tab bar as a native iOS 26 Liquid Glass UITabBar
+2026-10-04T17:11:34.588Z,@chronq/sdk,0.1.0,theboringdude,MIT,27166,"Publish to a chronq instance, and verify that a delivery really came from it."
+2026-10-04T17:11:57.311Z,@zuku/lang,0.1.0,zuku,MIT,775876,Validated ZUKBOX UI locale pairs with browser-safe URL lookup and integrity-checked loading.
+2026-10-04T17:12:14.457Z,test-chain-core,0.0.1,jacobley,MIT,26793,Framework-agnostic internals for chaining test hooks with typed context
+2026-10-04T17:12:16.677Z,juniper-validator,0.0.1,jacobley,MIT,8977,StandardSchema compliance for juniper.
+2026-10-04T17:12:17.884Z,vitest-chain,0.0.1,jacobley,MIT,14544,Chain vitest methods together for deterministic and type safe tests
+2026-10-04T17:12:32.687Z,@run-cloud/ui,0.0.0-stage,timothylindblom,,335,Temporary package placeholder for staged publishing
+2026-10-04T17:14:05.78Z,turnweft,0.1.0-alpha.0,handong66,MIT,403425,"Persistent agent sessions for Claude Code and Codex: delegate to Dim, Droid, Grok, OpenCode and agy in your real project."
+2026-10-04T17:14:33.475Z,@cloneowner/bridge,0.1.0,jone-studio,,128660,CloneOwner Bridge device onboarding and local agent
+2026-10-04T17:14:41.367Z,zororo-phumulani-ui,0.1.0,zororophumulani,UNLICENSED,329898,"Shared Zororo Phumulani React components, design tokens, fonts, native assets and email presentation."
+2026-10-04T17:14:50.59Z,@aimform/guard,0.1.0,adamhalasz,MIT,226996,Aimform Control Element resource admission and usage guard contracts.
+2026-10-04T17:14:52.967Z,@aimform/db,0.1.0,adamhalasz,MIT,273706,"Aimform DB — the authoritative typed relational database surface, driver boundary, schema/query builder, and migration runner."
+2026-10-04T17:14:55.227Z,@aimform/identity,0.1.0,adamhalasz,MIT,525313,"Aimform Identity — language-neutral identity, authentication, access, relationships, attestations, transitions and federation."
+2026-10-04T17:14:57.518Z,@aimform/capabilities,0.1.0,adamhalasz,MIT,226040,"Aimform Capabilities — transport-neutral capability contracts, registry, gateway, and invocation pipeline for external access (MCP, REST, SDK, realtime, local)."
+2026-10-04T17:15:02.349Z,@aimform/packages,0.1.0,adamhalasz,MIT,89233,"Provider-neutral package, installation, grant, binding, and runtime snapshot contracts for Aimform."
+2026-10-04T17:15:06.561Z,@caleana-ai/web-sdk,0.2.0,caleana-engineering,MIT,65716,SDK for building interactive tools and output plugins for Caleana
+2026-10-04T17:15:06.948Z,@aimform/network-client,0.1.0,adamhalasz,MIT,37399,Runtime-neutral Aimform HTTP client and Network transport contracts.
+2026-10-04T17:15:08.188Z,opencode-scopeseed,2026.1.0-dev.6,s3tupw1zard,GPL-2.0-only,78146,Project-level feature discovery and lifecycle orchestration over Spec Kit for OpenCode.
+2026-10-04T17:15:19.223Z,@aimform/telemetry,0.1.0,adamhalasz,MIT,69386,"Aimform provider-neutral execution telemetry, lineage, failure classification, and repair evidence."
+2026-10-04T17:15:21.38Z,@aimform/workflows,0.1.0,adamhalasz,MIT,305429,Aimform workflow capability contracts for durable execution and runtime boundaries.
+2026-10-04T17:15:27.609Z,@paretoops/cli-darwin-arm64,1.0.0,manasacertiqa,SEE LICENSE IN LICENSE,3899749,ParetoOps native binary for darwin arm64
+2026-10-04T17:15:28.982Z,@aimform/browser,0.1.0,adamhalasz,MIT,69720164,"Aimform Browser Automation System — deterministic browser primitives, policy, profiles, and human takeover seams."
+2026-10-04T17:15:29.496Z,@paretoops/cli-darwin-x64,1.0.0,manasacertiqa,SEE LICENSE IN LICENSE,4398451,ParetoOps native binary for darwin x64
+2026-10-04T17:15:31.504Z,@paretoops/cli-linux-arm64,1.0.0,manasacertiqa,SEE LICENSE IN LICENSE,4197984,ParetoOps native binary for linux arm64
+2026-10-04T17:15:32.335Z,@aimform/device,0.1.0,adamhalasz,MIT,17238,Aimform provider-neutral Device and Computer Use contracts with permission-aware host bridges.
+2026-10-04T17:15:34.042Z,@paretoops/cli-linux-x64,1.0.0,manasacertiqa,SEE LICENSE IN LICENSE,4780174,ParetoOps native binary for linux x64
+2026-10-04T17:15:36.214Z,@paretoops/cli-win32-arm64,1.0.0,manasacertiqa,SEE LICENSE IN LICENSE,3834672,ParetoOps native binary for win32 arm64
+2026-10-04T17:15:39.131Z,@paretoops/cli-win32-x64,1.0.0,manasacertiqa,SEE LICENSE IN LICENSE,4307750,ParetoOps native binary for win32 x64
+2026-10-04T17:15:40.305Z,jenkui,0.1.0,wiscaksono,MIT,114946,"A terminal UI for Jenkins: browse jobs, stream console output, trigger and abort builds."
+2026-10-04T17:15:40.989Z,pareto-ops,1.0.0,manasacertiqa,SEE LICENSE IN LICENSE,23206,"Cost per successful task for LLM apps: the Pareto frontier of cost vs accuracy, and CI gates for cost and accuracy regressions."
+2026-10-04T17:15:53.806Z,opencode-scopelane,2026.1.0-dev.1,s3tupw1zard,GPL-2.0-only,117067,"OpenCode V2 plugin for intelligent Git branching, worktree isolation, semantic commits, and safe automated pushes."
+2026-10-04T17:18:04.783Z,@vandeurenglenn/wrtc-linux-arm64,0.7.2,vandeurenglenn,BSD-2-Clause,23451733,Native linux/arm64 binary for @vandeurenglenn/wrtc
+2026-10-04T17:18:09.832Z,mdat-plugin-api-help,0.3.0,kitschpatrol,MIT,56862,Mdat plugin to generate API documentation from TypeScript source files using JSDoc and type information.
+2026-10-04T17:18:13.412Z,@gitmyabi/fortune,0.0.0-stage,gitmyabi-bot,,339,Temporary package placeholder for staged publishing
