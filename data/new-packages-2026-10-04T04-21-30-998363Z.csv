@@ -1,0 +1,91 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-04T03:19:43.028Z,@enavermate/react-native-splitflap,0.5.0,enavermate,MIT,251018,"Departure-board text for React Native: every letter rolls, flips or flickers into place, played natively"
+2026-10-04T03:22:41.756Z,@daxzeit/pi-jev-vcc-memory-relevance,0.1.2,daxzeit,MIT,1360566,"Logit-scored memory relevance for the Pi coding agent — ranked hints (priors, not verdicts) over your long-term memory index, via JEV (default) or a fully local scorer"
+2026-10-04T03:24:42.641Z,agmen,0.0.0,dylanpiercey,MIT,629,Self-hosted workspace for running coding agents across repos. Coming soon — currently published as @dylanpiercey/work.
+2026-10-04T03:27:41.545Z,@d0nj/dsh-browser-tool,0.1.0,d0nj,MIT,88598,"Real-browser tool for DeepSeek Harness agents: drive Chromium/Firefox/WebKit through Playwright (navigate, snapshot, act, eval, console, screenshots, tabs, storage, network mocking, tracing)."
+2026-10-04T03:28:31.162Z,@teamshift/sandbox-mcp,0.1.0,teamshift,Apache-2.0,298579,"Mock small-business MCP servers (CRM, inbox, calendar, invoicing, phone) backed by a realistic fictional company, for testing AI agents end-to-end without real accounts."
+2026-10-04T03:28:35.455Z,@teamshift/smb-workflows,0.1.0,teamshift,Apache-2.0,131948,"Verified small-business tasks for AI agents (quote follow-up, missed-call callbacks, invoice reminders, CRM cleanup and more), each graded on the end state of a sandboxed business, not on what the ag…"
+2026-10-04T03:28:39.904Z,@teamshift/workflow-lint,0.1.0,teamshift,Apache-2.0,72138,"Preflight linter for AI-agent and automation workflows (n8n exports and a generic YAML/JSON spec): catches missing error handling, unsafe retries, unapproved money/delete/send actions, missing timeou…"
+2026-10-04T03:28:40.722Z,labora,0.0.0,dylanpiercey,MIT,631,Self-hosted workspace for running coding agents across repos. Coming soon — currently published as @dylanpiercey/work.
+2026-10-04T03:28:43.369Z,@teamshift/webhook-inspect,0.1.0,teamshift,Apache-2.0,75599,"Verify, explain and debug webhook signatures (Stripe, GitHub, Shopify, Slack, Twilio, generic HMAC) with a browser-safe WebCrypto core, plus a local capture server and replay CLI."
+2026-10-04T03:28:45.082Z,dump-code,1.0.2,tonygeez,MIT,14857,Recursively dump a project's files into a single markdown file
+2026-10-04T03:28:48.053Z,@teamshift/permission-planner,0.1.0,teamshift,Apache-2.0,66953,"Turn a list of intended AI-agent actions into the minimum OAuth scopes and API permissions (Google, Microsoft Graph, Slack, HubSpot, QuickBooks, Stripe, Shopify), a risk tier and a recommended human-…"
+2026-10-04T03:29:30.939Z,@molecule/api-agent-runtime-pi,1.0.0,vialoh,Apache-2.0,75983,"Pi coding-agent runtime — unattended runs on any Pi-supported model provider in ephemeral cloud sandboxes; artifacts-only return, per-run credentials, deny-by-default egress"
+2026-10-04T03:29:36.738Z,@molecule/api-agent-transcript-pi,1.0.0,vialoh,Apache-2.0,36593,Reads Pi coding-agent session files and pi --mode json output into a normalized agent session
+2026-10-04T03:31:05.607Z,@teamshift/fake-business,0.1.0,teamshift,Apache-2.0,198827,"Generate a realistic, fully fictional small business — CRM, quotes, jobs, invoices, emails, calls and an event timeline with labeled mess — for testing AI agents, integrations, demos and CRMs."
+2026-10-04T03:32:50.408Z,@jini-ai/ui-kit,0.1.0,ai-oss,Apache-2.0,181430,"Framework-free UI contract, injected React facades and native defaults."
+2026-10-04T03:32:52.392Z,shopee-mcp,0.1.0,awandigital,MIT,18947,"MCP server yang menjembatani AI assistant ke Shopee lewat browser extension pendamping (cek login, cari produk, bandingkan harga, verifikasi varian). Butuh extension pendamping (lihat README) agar bi…"
+2026-10-04T03:33:04.74Z,@jini-ai/agent-plugins,0.4.0,ai-oss,Apache-2.0,438271,"Support for Agent Plugins, the open, vendor-neutral spec (v1.0.0, published 2026-08-06, Technical Steering Committee with maintainers from Amazon, Cursor, Google, Microsoft, OpenAI, and Vercel) for b…"
+2026-10-04T03:33:12.587Z,@longzai-intelligence-git/fetch-scheduler,0.1.7,joydragon,,16670,Longzai Intelligence Git 多仓拉取调度引擎
+2026-10-04T03:33:20.597Z,@jini-ai/oauth,0.2.0,ai-oss,Apache-2.0,156884,"OAuth 2.x client with discovery, registration, PKCE, device grants and refresh."
+2026-10-04T03:33:35.809Z,@jini-ai/analytics,0.2.0,ai-oss,Apache-2.0,58642,"Framework-free visitor analytics ingestion, aggregation and storage contracts for marketing applications."
+2026-10-04T03:34:24.3Z,@capuchoo/recorder,0.1.0,aybinv7,MIT,437920,"Session recording for Capacitor apps: replay, console, network, performance, telemetry and SQLite changesets, streamed to Capuchoo from a worker"
+2026-10-04T03:34:30.34Z,@jini-ai/db,0.2.0,ai-oss,Apache-2.0,415217,"Database ports, connection helpers, ownership, isolated Kysely kernels and migrations. All peers are optional; drivers are injected."
+2026-10-04T03:34:57.851Z,dsh-orb,0.1.0,mini-yifan,MIT,37797100,Installable Orb bundle. Inserts the Computer Use preset and the floating-ball host.
+2026-10-04T03:35:35.02Z,@jini-ai/sandbox,0.4.0,ai-oss,Apache-2.0,203354,"Execution/sandbox sibling to @jini-ai/vibecoding's edit loop: boot an environment, mount files, install deps, run commands, preview, and tear down — behind one interface with a driver-neutral core. I…"
+2026-10-04T03:35:40.981Z,@jini-ai/server,0.5.0,ai-oss,Apache-2.0,216385,Host composition requires the external host's SQLite opener for durable storage:
+2026-10-04T03:35:49.777Z,@jini-ai/user-management,0.2.0,ai-oss,Apache-2.0,641387,"Runtime-separated user management contracts and Node authentication, authorization, and administration services."
+2026-10-04T03:35:53.139Z,youtube-codemode-mcp,1.0.0,poamslayer,MIT,648013,"Code Mode MCP server for the YouTube Data, Analytics, and Reporting APIs. Three tools: docs, search, execute."
+2026-10-04T03:35:53.428Z,@jini-ai/cms-forms,0.2.0,ai-oss,Apache-2.0,62284,"Framework-free configurable form validation, audited definitions, anonymous submissions and notification services with injected host ports."
+2026-10-04T03:36:11.953Z,@starci/cli,1.0.0,starciteacher,MIT,917544,The single catalog-driven command line for StarCi apps and runtimes.
+2026-10-04T03:37:05.585Z,@kineco-au/osgridref-converter,1.0.1,kineco,MIT,19894,Converts to and from OS Grid Refs and WGS84 (latitude and longitude) coordinate systems
+2026-10-04T03:38:08.725Z,@longzai-intelligence-rss-markdown/config,0.0.2,joydragon,UNLICENSED,12331,Longzai Intelligence Rss Markdown 配置
+2026-10-04T03:38:16.324Z,@longzai-intelligence-rss-markdown/core,0.0.2,joydragon,UNLICENSED,28607,Longzai Intelligence Rss Markdown 转换引擎
+2026-10-04T03:38:21.79Z,@longzai-intelligence-rss-markdown/cli,0.0.2,joydragon,UNLICENSED,8664,Longzai Intelligence Rss Markdown 工具 CLI
+2026-10-04T03:39:01.694Z,@jini-ai/vibecoding,0.4.0,ai-oss,Apache-2.0,133000,"Conversational artifact authoring: a target-agnostic edit loop — addressable parts, validated replace, operation-level undo/redo, and per-turn snapshot/rewind. Framework-free in `/core`; tagged-regio…"
+2026-10-04T03:39:02.46Z,@sophialin/dsh-context-continuity,0.1.10,sophialin,MIT,238897,"A subject's context lived as one continuous timeline across many physical Sessions: rollover, checkpoints, and lineage."
+2026-10-04T03:42:10.025Z,@pennant/js,1.1.0,gizmo0506,MIT,8808,Browser JavaScript client for the Pennant feature-flag evaluate API
+2026-10-04T03:42:12.019Z,@pennant/node,1.1.0,gizmo0506,MIT,8637,Node.js client for the Pennant feature-flag evaluate API
+2026-10-04T03:42:14.605Z,@pennant/react,1.1.0,gizmo0506,MIT,15852,React client for the Pennant feature-flag evaluate API
+2026-10-04T03:42:16.966Z,@pennant/vue,1.1.0,gizmo0506,MIT,26388,Vue 3 client for the Pennant feature-flag evaluate API
+2026-10-04T03:42:23.27Z,mirrors-sdk,0.2.2,idyeetya1,,38348,Send canonical traces and append server-selected context to a system prompt
+2026-10-04T03:43:17.378Z,nate-skills,1.0.0,chrstphrsln,MIT,144951,Practical Guardrails for AI Coding Agents.
+2026-10-04T03:45:11.669Z,gua-value-tools,0.0.0,plumrice,MIT,48126,"Gua Value v1 types, validation and equality"
+2026-10-04T03:45:12.372Z,castling-financial,0.1.0,castling,UNLICENSED,39224,SEC filing-backed Castling data from your terminal
+2026-10-04T03:46:28.815Z,@dcrays/mbh-session,0.3.0,lvgx,,77497,DeepSeek Harness cloud session history importer for Mobook
+2026-10-04T03:47:16.89Z,@intelip/tabellio,0.7.0,intelip,Apache-2.0,2043572,Tabellio: GitHub-native context and evidence for agentic development.
+2026-10-04T03:48:28.184Z,@ushawarma/stack,0.1.0,ushawarma,,21586038,"Reusable, agent-safe development stacks"
+2026-10-04T03:48:37.324Z,fupf-glyph,0.0.1,elzup,MIT,99328,"Render 256 (4^4) pattern glyphs as SVG strings. Zero dependencies, framework-free."
+2026-10-04T03:48:39.191Z,supabase-grant-lint,0.1.0,tyoukyou23,MIT,459393,"Catch missing RLS, GRANT and REVOKE in Supabase migrations before they ship — tables without row level security, SECURITY DEFINER functions callable by anon, REVOKEs that hit the wrong overload, and…"
+2026-10-04T03:48:40.32Z,@gitmyabi/pld,1.0.0,gitmyabi-bot,MIT,80819,"Auto-generated TypeScript type bindings for PLD (build etherscan-pld-3b77152d-1791085626340, commit 366085f, branch etherscan)"
+2026-10-04T03:49:04.603Z,dsh-hitl,0.1.0,shelbean,MIT,1627495,"Human-in-the-loop gate for DSH tool calls: mount any tool behind an approve / modify / reject decision card in the DSH Web UI, with an optional countdown."
+2026-10-04T03:50:32.356Z,n8n-nodes-aster,0.1.1,ryan_asterwise,MIT,27464,Generate text with Aster Work
+2026-10-04T03:50:38.389Z,@longzai-intelligence-okr-markdown/config,0.0.4,joydragon,UNLICENSED,8836,Longzai Intelligence OKR Markdown 契约与配置
+2026-10-04T03:52:02.02Z,@jiayuguo33/dsh-probe-1791085918,0.0.1,jiayuguo33,MIT,112,probe
+2026-10-04T03:52:14.3Z,@ayayaq/vivi,0.1.0,ayayaq,Apache-2.0,125436,"A small headless, provider-neutral tool-calling agent loop"
+2026-10-04T03:52:22.016Z,cev-node,0.0.0,cartercole,Apache-2.0,118,Placeholder; the first release is 0.1.0.
+2026-10-04T03:54:32.88Z,pi-cpt,0.1.0,likelz,,14424,Dedicated compaction model and custom context status for Pi.
+2026-10-04T03:54:33.34Z,@push.rocks/smartscad,0.1.1,lossless,MIT AND GPL-3.0-or-later,59017975,Fast native OpenSCAD rendering for Node.js: a long-lived OpenSCAD worker with warm geometry caches and multi-core Manifold.
+2026-10-04T03:54:46.141Z,eslint-plugin-stoic-angular,0.0.0,lacolaco,MIT,65428,"ESLint plugin that imposes strict design constraints on Angular code, with rules drawn from Five Lines of Code"
+2026-10-04T03:54:54.245Z,@nxgt/backup,0.1.0,stevegires,MIT,255832,"Encrypted, verifiable backups on Bun: zstd then age encryption, a manifest written last that pins every object, and several repositories at once"
+2026-10-04T03:55:13.491Z,@d0nj/dsh-web-search-multi,0.1.0,d0nj,MIT,77554,"Multi-backend web search provider for DeepSeek Harness: configure Exa, Tavily, Parallel and Firecrawl at once and route between them explicitly or by strategy (fixed, round-robin, random, failover, m…"
+2026-10-04T03:57:30.74Z,@apolloscooters/react-native-wheel-picker-native,0.1.0,christian-apollo,MIT,46011,"The real iOS and Android wheel picker for React Native, built so it never reloads under a touch"
+2026-10-04T03:57:35.541Z,@gate-avn/sdk,0.1.0-dev.1,gatenetwork,Apache-2.0,6729,Protocol-neutral client for live authority-state verification at action time.
+2026-10-04T03:58:04.707Z,@delacour/react-native-bottom-sheet,0.1.0-alpha.0,urbanchrisy,MIT,404168,"Headless bottom sheet engine for React Native — no tokens, no className"
+2026-10-04T03:59:56.491Z,@opendecider/web,0.7.0,manjunathshiva,Apache-2.0,44573,"OpenDecider on the device: opendecider-nano in the browser (WebGPU or WebAssembly), Node, Bun or Deno, so the text never leaves it. Typed decisions, routing and a prompt guard with the API of @opende…"
+2026-10-04T04:00:39.758Z,@gitmyabi/ethvaultimpl,1.0.0,gitmyabi-bot,MIT,313420,"Auto-generated TypeScript type bindings for EthVaultImpl (build etherscan-ethvaultimpl-1bf68a9d-1791086341987, commit 997929f, branch etherscan)"
+2026-10-04T04:01:47.317Z,@everpod-ai/sdk,0.1.0,dehtechnologies,MIT,8776,Official JavaScript SDK for the Everpod API.
+2026-10-04T04:02:05.378Z,@twinsearth/agent-universe-for-angent,1.9.9,twinsearth,MIT,102336,AU4A — 一切为智能体服务，人类兼任观察者。Agent 自主自治经济体（身份/能力图/协商/经济/安全/学习/委员会），人类只读观察。
+2026-10-04T04:02:54.541Z,@ggdna/dna-github,0.0.0,gabriel.gatzsche,MIT,13526,"DNA layer: GitHub repository setup (branch rules, PR settings, quick check workflow)"
+2026-10-04T04:02:58.01Z,npryx,1.0.0,lohan_jacobs,ISC,68299,"A security-first superset of npx: previews install-script, provenance, age, popularity and typosquat signals before running a remote package, fails closed, and remembers approvals."
+2026-10-04T04:04:46.176Z,foops,0.1.0,csperando,MIT,274080,"Detect multiple monitors and spoofed display APIs in the browser, with reports you re-score on your server."
+2026-10-04T04:05:01.753Z,@skillme/cli,0.2.0,goodfreindsbadtimes,MIT,33420,"Install Skill Me skills as SKILL.md folders for Codex (.agents/skills), Cursor (.cursor/skills), and Claude Code (.claude/skills)."
+2026-10-04T04:06:22.244Z,pi-twitterapi.io,0.1.1,jagaliano,MIT,221878,twitterapi.io-backed X/Twitter search extension for pi coding agent
+2026-10-04T04:07:44.784Z,@kamanai/ui-theme,0.0.0-stage,yspl,,339,Temporary package placeholder for staged publishing
+2026-10-04T04:07:50.799Z,@kamanai/ui-pair-components,0.0.0-stage,yspl,,349,Temporary package placeholder for staged publishing
+2026-10-04T04:07:57.071Z,@kamanai/ui-chatbot-core,0.0.0-stage,yspl,,346,Temporary package placeholder for staged publishing
+2026-10-04T04:08:03.192Z,@kamanai/ui-chatbot,0.0.0-stage,yspl,,341,Temporary package placeholder for staged publishing
+2026-10-04T04:08:09.879Z,@kamanai/ui-scenarios,0.0.0-stage,yspl,,343,Temporary package placeholder for staged publishing
+2026-10-04T04:08:34.924Z,ezy-board-viewer,0.1.0,loshop,MIT,486046,Ezy 画板 / 云笔记预览组件：渲染、翻页、缩放，并支持导出 SVG / MP4 / PDF
+2026-10-04T04:08:54.823Z,disity,1.0.0,huy.duong,ISC,22929,Lightweight dependency injection for TypeScript applications
+2026-10-04T04:12:26.851Z,@smithsoft-studios/jazmin,1.0.0,smithsoft,MIT,421496,"JAZMIN (Javascript Secure Zipped Multi Index Notation) - compact, indexed, optionally encrypted tabular file format with JSON/CSV/XML conversion."
+2026-10-04T04:13:57.67Z,@stacksjs/stx-vscode,0.2.351,chrisbreuer,MIT,300206,"stx language support for VS Code extensions to embed: the hovers, completions, diagnostics, grammar, snippets and language configuration behind the stx extension."
+2026-10-04T04:14:23.205Z,dsh-skills-stock,1.3.0,kkutysllb,MIT,3766268,DSH 原生 A 股量化投研技能包：适配自 KStock 2.0 桌面端精选技能体系（41 个技能：个股研究 / 选股与策略 / 场景编排 / 品种专项 / 市场全景 / 数据查询 / 图表呈现），激活即注册为 runtime skill，配 workspace 侧边栏「投研工作台」（策略/因子/选股/报告四库 + 数据源凭据配置）。
+2026-10-04T04:14:32.456Z,novaos-cli,0.0.0-reserved.0,tamas-orbitronai,MIT,205,Command-line tool for NovaOS agents. First release coming soon.
+2026-10-04T04:14:51.643Z,@tryonit/core,0.1.0,arbab-naseer,MIT,594076,"Platform-agnostic core of TryOnIt, the open-source virtual try-on SDK: asset manifest validation, state store, face/hand/body anchor math and smoothing filters. Zero dependencies, no DOM."
+2026-10-04T04:14:56.823Z,@tryonit/web,0.1.0,arbab-naseer,MIT,667061,"Client-side virtual try-on engine for the browser: real-time makeup, glasses, hats, earrings, watches, rings, hair color and clothing overlays using MediaPipe and WebGL. Framework-free mount() for Vu…"
+2026-10-04T04:15:01.898Z,@tryonit/react,0.1.0,arbab-naseer,MIT,325156,"React components and hooks for TryOnIt, the free open-source virtual try-on SDK. Drop-in <TryOnButton> for e-commerce product pages: virtual makeup, glasses, hats, jewelry, watches and clothing. Work…"
+2026-10-04T04:15:32.25Z,rn-architecture-generator,1.0.0,abhishekkashyap260398,MIT,3903512,"Interactive CLI that generates production-ready React Native (TypeScript) projects with a selectable architecture, navigation, Firebase messaging, i18n, API/storage services and more."
+2026-10-04T04:16:41.212Z,@mp-consulting/homebridge-ai-core,2.0.0,mickael-palma,MIT,182038,"Slim AI core for Homebridge plugins — provider adapters (Anthropic, OpenAI, Gemini, OpenAI-compatible), secret redaction, prompts, Assistant features and the plugin settings UI routes. No MCP depende…"
+2026-10-04T04:17:03.827Z,@mp-consulting/homebridge-ai-kit,2.0.0,mickael-palma,MIT,1033459,"AI toolkit for Homebridge — an MCP server that lets AI assistants control accessories, manage plugins and monitor Homebridge, plus the shared AI building blocks used by Homebridge Glass UI and MP Con…"
+2026-10-04T04:20:25.649Z,pi-streamline,0.1.0,fallanic,MIT,34445,Opencode-style compact tool and subagent rendering for Pi.
