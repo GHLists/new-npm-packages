@@ -1,0 +1,119 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-05T19:18:15.658Z,@lyrestudio/protocol,0.9.7-beta.106,jonathanbakhit,SEE LICENSE IN LICENSE,26618821,Paseo shared protocol schemas and wire types
+2026-10-05T19:18:18.789Z,@lyrestudio/relay,0.11.0-beta.3,jonathanbakhit,SEE LICENSE IN LICENSE,3212755,Paseo relay for bridging daemon and client connections
+2026-10-05T19:18:22.599Z,@lyrestudio/highlight,0.11.0-beta.3,jonathanbakhit,SEE LICENSE IN LICENSE,3285892,Runtime dependency of the Lyre Studio CLI. Install the CLI with:
+2026-10-05T19:18:26.034Z,@lyrestudio/client,0.11.0-beta.3,jonathanbakhit,SEE LICENSE IN LICENSE,3697467,Paseo client SDK package
+2026-10-05T19:18:26.04Z,@poqpoq/harry-babylon,0.1.0,poqpoq,MIT,454180,"Babylon.js runtime for avatars exported by Harry: declared spring bones (tails, hair, soft tissue), surface jiggle, and a clip binder."
+2026-10-05T19:18:29.121Z,@lyrestudio/plugin,0.11.0-beta.3,jonathanbakhit,SEE LICENSE IN LICENSE,3197778,Paseo plugin SDK package
+2026-10-05T19:18:59.887Z,@lyrestudio/server,0.11.0-beta.3,jonathanbakhit,SEE LICENSE IN LICENSE,59859578,Paseo backend server
+2026-10-05T19:19:04.308Z,@lyrestudio/cli,0.11.0-beta.3,jonathanbakhit,SEE LICENSE IN LICENSE,3861072,Lyre CLI - control your projects and AI agents from the command line
+2026-10-05T19:19:18.476Z,gov-tariff-widget,1.0.0,groundtruth-api,MIT,3721,"Embed live US tariff rates (base + China-stacked + EU) in any website with one line. Free sample rows, one-time payment unlocks full schedule, referral link back to GovContract Radar."
+2026-10-05T19:20:27.182Z,agent-social-space,0.1.1,bookis,MIT,27995,"Live in Agent Social Space, an infinite canvas where agents meet, talk and build, from a locked-down command line: no local tools, a secret guard on everything the agent says, and a human channel on…"
+2026-10-05T19:21:12.018Z,ficbook,1.0.0,celt_is_god,MIT,2160,
+2026-10-05T19:22:07.679Z,opendevhub,0.1.0,timrichter,,13287067,Local dashboard to orchestrate opencode v2 agents running in devcontainers
+2026-10-05T19:22:31.541Z,@rustywelch/pi-extensions,1.0.1,rustywelch,MIT,18758,"Pi extensions: context-window awareness with self-compaction, and structured code search."
+2026-10-05T19:22:49.831Z,@openbooking-sh/core,0.1.0,jhelleve,Apache-2.0,155854,"OpenBooking domain model, BookingProvider interface and the agent-safe booking engine."
+2026-10-05T19:22:53.674Z,@openbooking-sh/adapter-a2a,0.1.0,jhelleve,Apache-2.0,28674,A2A (Agent2Agent) Agent Card generation for OpenBooking. Stub: task handling is not implemented yet.
+2026-10-05T19:22:56.613Z,@openbooking-sh/adapter-mcp,0.1.0,jhelleve,Apache-2.0,71808,Expose an OpenBooking BookingService as a small set of agent-friendly MCP tools.
+2026-10-05T19:22:56.882Z,@openbooking-sh/provider-calcom,0.1.0,jhelleve,Apache-2.0,73839,BookingProvider for Cal.com (hosted) and Cal.diy (self-hosted) via Cal.com API v2.
+2026-10-05T19:22:56.909Z,@openbooking-sh/provider-memory,0.1.0,jhelleve,Apache-2.0,111414,"In-memory reference BookingProvider for OpenBooking, with a demo restaurant seed."
+2026-10-05T19:22:56.982Z,@openbooking-sh/booking-page,0.1.0,jhelleve,Apache-2.0,154141,"Public booking page for an OpenBooking business: pre-filled links, structured data and WebMCP tools."
+2026-10-05T19:22:57.427Z,@openbooking-sh/studio,0.1.0,jhelleve,Apache-2.0,297513,"OpenBooking Studio: dashboard for bookings, AI-agent activity and availability."
+2026-10-05T19:22:57.795Z,@openbooking-sh/notifications,0.1.0,jhelleve,Apache-2.0,63038,Booking confirmation and cancellation emails with calendar invites (.ics) for OpenBooking.
+2026-10-05T19:22:58.123Z,@openbooking-sh/adapter-ucp,0.1.0,jhelleve,Apache-2.0,84626,Universal Commerce Protocol (UCP) discovery profile and booking-session REST endpoints for OpenBooking.
+2026-10-05T19:23:00.415Z,@openbooking-sh/google-calendar,0.1.0,jhelleve,Apache-2.0,69565,"Google Calendar sync for OpenBooking: busy times block availability, bookings appear as events."
+2026-10-05T19:23:00.65Z,@openbooking-sh/server,0.1.0,jhelleve,Apache-2.0,36851,"Mount every OpenBooking adapter (MCP, UCP, A2A) and the .well-known discovery documents on one Hono app."
+2026-10-05T19:23:03.896Z,@openbooking-sh/hosted,0.1.0,jhelleve,Apache-2.0,352677,"Hosted multi-business OpenBooking: sign-up, Studio settings, one MCP app across all businesses."
+2026-10-05T19:23:05.984Z,@openbooking-sh/postgres,0.1.0,jhelleve,Apache-2.0,84494,"Postgres storage for OpenBooking: bookings and holds, idempotency, Studio activity and connector records."
+2026-10-05T19:24:59.423Z,@bkazemi/verily,0.1.0,bkazemi,MIT,1208377,Self-hosted account-to-account verification for Node.js
+2026-10-05T19:25:09.039Z,spellguard,0.1.1,codingashishdev,MIT,74072,"Deterministic spell checker for code and docs: repo-native vocabulary, SymSpell suggestions, terminology-consistency lint, agent-friendly output. Fully local, one dependency."
+2026-10-05T19:26:19.927Z,@leopoletto/ogrun,0.1.0,leopoletto,,666184,Per-platform Open Graph and Twitter Card validator
+2026-10-05T19:26:29.84Z,wrosecode,1.0.0,whiterose717,MIT,65906,A terminal coding agent written in Rust
+2026-10-05T19:27:43.755Z,react-goal-calendar,0.1.0,gsync,MIT,37900,"Presentational React components for goal tracking: progress-ring calendars, summary donuts and streak stats."
+2026-10-05T19:27:53.97Z,faultkit,1.0.0,sahilsharma30,MIT,173076,"Framework-agnostic, OpenAPI-compliant error handling and cloud-native structured logging (Pino/Loki) for TypeScript and Node.js backends."
+2026-10-05T19:28:48.409Z,@json_1013/core-geografico-isa-mapa,0.1.0-poc,json_1013,,5502816,Mapa de Core ISA (ArcGIS) como librería: componente React y montaje para proyectos sin React.
+2026-10-05T19:31:01.296Z,px402,0.0.1,prxvt,MIT,471,"Privacy-preserving x402 payments for AI agents, on Base. Release coming soon."
+2026-10-05T19:32:52.758Z,complirules,1.0.0,halilylmz,MIT,10375260,"Compliance-as-Code & Legal AI Guardrail CLI for Cursor, Claude Code, and Windsurf"
+2026-10-05T19:34:22.517Z,@bridgeline-digital/hawksearch-app-cli,0.2.1,rsambathbl,ISC,61160,Deploy and publish Hawk Apps (Services-built tools embedded in HawkSearch hosts) with just a publisher key.
+2026-10-05T19:34:32.899Z,@indy-center/indy-larry,1.0.0,radar_contact_lost,ISC,265055,Discord bot showing which Indy Center (ZID) facilities are online on vNAS
+2026-10-05T19:34:41.295Z,@wasmedia/wvips,0.2.0,rogerhoward,Apache-2.0 AND LGPL-2.1-or-later AND LGPL-3.0-or-later AND MIT AND BSD-2-Clause AND BSD-3-Clause AN…,11074409,libvips compiled to WebAssembly for browsers
+2026-10-05T19:35:17.766Z,@rayspec/bundle-contract,1.9.0,iloveautomation,FSL-1.1-ALv2,887284,"The **bundle contract** in code: the format of a RaySpec application bundle (`.ray`), of the encrypted migration snapshot and of the managed hosting receipt. It carries the JSON Schemas and vocabular…"
+2026-10-05T19:35:21.249Z,@rayspec/bundle,1.9.0,iloveautomation,FSL-1.1-ALv2,225192,"The one reader and writer of RaySpec application bundles (`.ray`). The CLI reads and writes bundles through it, and a hosting service imports the same package, so every consumer accepts and refuses e…"
+2026-10-05T19:35:23.888Z,@rayspec/bundle-closure,1.9.0,iloveautomation,FSL-1.1-ALv2,247248,"What goes into an application bundle (`.ray`), decided from the spec without running anything. `rayspec pack` builds on it: this package computes the explicit inclusion list, the preview and the mani…"
+2026-10-05T19:36:38.735Z,@ezeo/cli,0.1.0,jamaklab,MIT,907331,"Ezeo SEO command line — the same command registry as a CLI and as an MCP server, acting as the person who logged in."
+2026-10-05T19:36:46.596Z,reels-kit,0.1.1,arbab-rafiq,Apache-2.0,299951,"Generic, FlashList-powered vertical video feed (Instagram Reels-style) for React Native, with pluggable video adapters"
+2026-10-05T19:37:22.739Z,@wilsoon/auth-provider-wilsoon,3.0.0,calorious,MIT,158128,"WilsoonID provider profile for @wilsoon/auth-core: claim mapping, permission registration, live access and method escalation"
+2026-10-05T19:38:54.388Z,@kubuno/views-migrate,0.1.0,kubuno-auth,AGPL-3.0-or-later,161842,"Codemod from React/TSX screens of Kubuno web modules to .kbview / .kbcontrol views with a TypeScript code-behind (vskubuno WEB-VIEWS.md §6.2, WV-11): @ui elements, Tailwind layout, i18next strings, s…"
+2026-10-05T19:38:59.705Z,internallib_v30,1.0.1,sendcon,ISC,423,
+2026-10-05T19:40:09.45Z,halfie,0.0.1,hankenstein-dev,UNLICENSED,752,"Halfie: your website as code, edited by your own AI agent. Start at https://halfie.co.uk/start"
+2026-10-05T19:41:49.643Z,@ploutosservices/estate-table,1.0.0,umittal,Apache-2.0,55054,"One look and one behaviour for plain HTML tables: a stylesheet and a small script — sort, filter, copy to a spreadsheet or an email. No framework, no build step."
+2026-10-05T19:42:02.095Z,sharath-arth-operations,1.0.0,snadig0525,MIT,321,
+2026-10-05T19:42:46.933Z,@gyst/navigation-typescript,0.1.2,chenxin-yan,MIT,6116,Optional TypeScript/JavaScript definition and usage navigation for gyst
+2026-10-05T19:42:53.219Z,abiyz,0.0.1,abiyz,SEE LICENSE IN LICENSE,5082,The Abiyz command line.
+2026-10-05T19:43:03.666Z,api-dependency-intelligence,1.0.0,tarunteja,,538135,"We keep your integrations alive when your API vendors change theirs, and we prove it is safe before anything goes live."
+2026-10-05T19:43:20.717Z,@jspreadsheet/server-agent,13.0.0,hodeware,,157882,"AI agent for Jspreadsheet Server: a streamed chat that reads and changes the spreadsheet with tools, with hooks for quotas, usage and chat persistence."
+2026-10-05T19:43:57.388Z,llm-tuner,0.1.0,ronald32acunadev,MIT,1388785,Detects your hardware and finds the fastest configuration to run local LLMs with LM Studio or Ollama.
+2026-10-05T19:45:10.323Z,ai-sdk-sandbox-sbx,1.0.0,fpasquet,MIT,91053,"Docker Sandboxes (sbx) sandbox sessions for AI SDK harness agents: Claude Code, Codex and friends in a local microVM."
+2026-10-05T19:46:17.253Z,internallib_v875,1.0.1,sendcon,ISC,424,
+2026-10-05T19:47:07.177Z,cinq-git,0.1.0,abritton_2002,MIT,385001,"A Git platform where AI coding agents check each other's work, built on Cloudflare (Artifacts, Durable Objects, Containers, Workers)."
+2026-10-05T19:49:49.667Z,cesium-vector-tileset,0.0.1,xiankq,MIT,4421158,Render Mapbox Vector Tiles in Cesium
+2026-10-05T19:50:55.867Z,@skillgild/sdk,0.0.0-bootstrap.0,skillgild-dev,MIT,35304,"Official TypeScript and JavaScript client for SkillGild, the marketplace for hosted AI agent skills. Search the catalog, run hosted skills and drive hybrid tool sessions from Node.js, Bun, Deno or th…"
+2026-10-05T19:52:01.378Z,texel-mcp,0.8.1,brunovncsvrnz,MIT,844035,"MCP server and CLI that compile Minecraft skins and textures from JSON specs (palette + drawing ops) to PNG, with a review an AI agent can act on."
+2026-10-05T19:52:03.89Z,asqie-cms-next,0.1.0,naletka,MIT,177044,"Typed Next.js SDK for Asqie CMS: fetch client, cache tags and webhook revalidation."
+2026-10-05T19:52:33.597Z,@sfxcode/formkit-openvue,0.8.1,sfxcode.com,MIT,238543,OpenVue based [FormKit Inputs](https://sfxcode.github.io/formkit-openvue/guide/inputs.html) for using [FormKit](https://formkit.com/) with the [OpenVue](https://github.com/openvi-foundation/openvue)…
+2026-10-05T19:52:41.277Z,@boopdotgames/game-agent,0.1.0,rshtirmer-ogp,MIT,82060,"Connect your coding agent (Claude Code, Codex, Cursor, Gemini CLI, VS Code, ...) to the Boop creator MCP and make Boop microgames."
+2026-10-05T19:52:59.241Z,@modusense/web-sdk,0.1.0,farkass,MIT,354881,"ModuSense logging SDK for browser applications (Angular, React, Vue, plain JavaScript)."
+2026-10-05T19:53:25.815Z,debt-finder,1.0.0,tsukuru-dev,BSD-3-Clause,339581,Find ageing code comments and stale Git branches across a repository.
+2026-10-05T19:53:37.252Z,@lelouchhe/pi-usage,0.1.0,lelouchhe,MIT,51921,Configurable usage and cost reporting for Pi coding agent
+2026-10-05T19:53:55.926Z,@mileniumhq/paperapi,0.1.0,pxltail,MIT,391602,"Runtime bridge between Paperboard panels and the host: terminals, processes, packages, files, and config."
+2026-10-05T19:54:15.281Z,usesnout,0.2.2,biffbuster,MIT,412909,"Context gating and token optimization for AI coding agents: trims bulky files, logs, docs, command and MCP output before they enter context, and reports what it saved."
+2026-10-05T19:54:24.826Z,@mileniumhq/paperui,0.1.0,pxltail,MIT,1546429,SolidJS component library and design system for Paperboard panels and desktop-class web apps.
+2026-10-05T19:54:26.804Z,@coreweave/forge-agent-lens-for-openclaw,0.2.0,wandb-coreweave,Apache-2.0,212377,OpenClaw plugin that traces agent sessions to CoreWeave Forge for observability and debugging.
+2026-10-05T19:54:33.349Z,@mileniumhq/create-panel,0.1.0,pxltail,MIT,32034,Scaffold a Paperboard panel: npm create @mileniumhq/panel
+2026-10-05T19:54:47.576Z,@solidifact/dsh-session-list-cache,0.1.0,solidifact,Apache-2.0,25174,dsh web plugin: stop an open page from rebuilding every stored session's list row every 5 seconds
+2026-10-05T19:54:48.999Z,varstor-react,0.0.1,ismoroz,MIT,13072,Seamless integration of Varstor state manager into React applications with a React-like hook usage flow
+2026-10-05T19:54:49.061Z,@solidifact/dsh-auto-archive,0.1.0,solidifact,Apache-2.0,26437,"dsh web plugin: archive finished dsh sessions that have been idle for three weeks, once a night"
+2026-10-05T19:54:52.238Z,@azure-tools/typespec-foundry-core,0.1.0-dev.2,microsoft1es,MIT,6487,Shared TypeSpec definitions for Azure AI Foundry.
+2026-10-05T19:54:54.377Z,verdix-guard,0.1.0,verdix5,MIT,57008,"Pre-send guard for AI agents on Base: screens the recipient of every x402 payment or viem transfer with Verdix before it is signed, and blocks danger. Paid per check via x402, cached, under a daily b…"
+2026-10-05T19:55:12.411Z,cogniz,0.0.1,vostride,,82,
+2026-10-05T19:55:22.883Z,@baas-id/react,0.2.2,jtgdeb,SEE LICENSE IN LICENSE.md,2476066,"BaaS identity verification for React: guided ID and face capture with on-device quality gating, server-side verdicts, phone handoff. Requires a BaaS account."
+2026-10-05T19:55:30.048Z,@souvik65/bug-finder-kit,1.0.0,souvik65,MIT,5320,Installs the bug-finder skill into your coding agent
+2026-10-05T19:55:41.188Z,@customyai/provisioning,0.1.0,customyco,MIT,94581,"Customy Provisioning: create, find and clean up TEST users (identity provisioning) with an Access API key, over @customyai/core. Includes withEphemeralUsers for CI."
+2026-10-05T19:55:51.778Z,@customyai/openfeature-provider,0.1.0,customyco,MIT,83223,"OpenFeature provider for Customy Experiments: server and web, with local evaluation over the Access flags snapshot or remote evaluation (POST /v1/flags/evaluate), change events, track() to conversion…"
+2026-10-05T19:56:24.58Z,@aiyoplane/langgraph,1.0.0,rashonmassey,Apache-2.0,24726,AEAP Composition Boundary Adapter for LangGraph. Thin wrapper that attaches the Runtime Decision Point to LangGraph node invocations.
+2026-10-05T19:57:55.325Z,@timmo001/effect-triage-client,0.0.0,timmo001,Apache-2.0,327,"Effect client for a triage server. Placeholder release, use a later version."
+2026-10-05T19:58:44.756Z,kmo-ideastoliveornotliveby,0.1.0,monk24211,MIT,3020,A clean starter npm package for the kmo-ideastoliveornotliveby project.
+2026-10-05T19:59:37.951Z,@codebrew-ai/codebrew,0.1.0,anay0305,MIT,85176,"Connect Claude Code, Codex and OpenCode to Codebrew."
+2026-10-05T20:00:35.798Z,sam-file,1.0.1,cassyboi-dev,MIT,2659,This tool helps you create files in your project directly from the terminal
+2026-10-05T20:00:50.114Z,wherelive,0.1.0,hbarkallah,MIT,1041525,"Typed where/select/listen for Firebase apps: filter rows you already hold, or listen to only the attributes you selected, with one description. Built for the frontend, runs unchanged in Node."
+2026-10-05T20:01:50.969Z,@stefanolabs/autodev-provider-kit,0.1.0,victor-stefano,MIT,62795,"Write, check and build a provider that lets AutoDev drive another agent CLI."
+2026-10-05T20:02:16.582Z,@timmo001/effect-triage,0.0.0,timmo001,Apache-2.0,402,"Effect schemas and protocol for triage, which captures crashes and errors and decides which are worth fixing. Placeholder release, use a later version."
+2026-10-05T20:02:30.857Z,genailabs-skills,0.1.0,salim4n,MIT,31043,Installer les skills de construction IA des élèves GenAI Labs
+2026-10-05T20:03:14.024Z,@unified-api/js-directory,1.0.0,roymap,ISC,669,Javascript component for Unified.to's Integrations Directory
+2026-10-05T20:03:29.407Z,@dev.fast/whiteboard,0.2.0,thesiti92,MIT,2565790,"The `@dev.fast/whiteboard` package provides the `whiteboard` CLI for headless review authoring, sharing, and agent trace capture. It requires Node 24. An npm install also provides `review` as an alia…"
+2026-10-05T20:04:24.481Z,veyora,0.1.0,risheee,UNLICENSED,172327,"The Veyora command line: a zero-dependency MCP client for the Veyora research server, with a stdio bridge for MCP hosts that only launch local servers."
+2026-10-05T20:04:34.864Z,cdk8s-plus-35,0.0.1,cdk8s-team,,2015,OIDC trusted publishing setup package for cdk8s-plus-35
+2026-10-05T20:05:04.735Z,@blueprintsfi/blueprints.js,1.0.0,marximimus,MIT,67110,Free and open-source TypeScript library for working with Blueprints
+2026-10-05T20:05:04.789Z,@dynatrace/openfeature-provider-node,0.0.0-stage,toddbaert,,358,Temporary package placeholder for staged publishing
+2026-10-05T20:05:11.75Z,@terrascale/sdk,0.0.1,terrascale-admin,Apache-2.0,804582,"JavaScript SDK, typed with JSDoc, for project-scoped C# TerraBase v1 and hosted TerraScale identity."
+2026-10-05T20:06:46.656Z,@zkella/sdk,0.1.0,zkella,Apache-2.0,287286,TypeScript SDK for the ZKELLA confidential finance protocol on Stellar Soroban
+2026-10-05T20:06:48.207Z,@popjoker/knew,0.1.0,heymichaelp,UNLICENSED,248854,"The people-intelligence engine's pure core: the contract, the lenses, the brief, the reconciliation plan, the prompt text, and the HTTP client. No database, no model, no React."
+2026-10-05T20:08:07.349Z,@scorbit/feed,0.0.0,jayadelson,MIT,112,Reserved; first release coming soon.
+2026-10-05T20:10:01.876Z,@joshuahurley/polymerge,0.2.0,joshuahurley,MIT,1436948,"Structural diff and three-way merge for 3D models (STL, OBJ, glTF/GLB), with a browser viewer and git drivers."
+2026-10-05T20:10:13.86Z,graphql-heel,0.1.0,benjie,MIT,6067,GraphQL Have-Errors-Elevate-Locally - implements GraphQL error propagation on the client side.
+2026-10-05T20:10:46.284Z,facturator,0.2.0,lopo3894,MIT,6994537,"SDK en TypeScript para generar, firmar, validar y enviar comprobantes electrónicos a SUNAT."
+2026-10-05T20:10:49.781Z,switch-framework-router,0.3.0,switcher.faiz,MIT,78629,Layouts and navigation for Switch Framework. Import from switch-framework-router (Expo-style).
+2026-10-05T20:11:02.166Z,opencode-usage-limits,0.2.0,gamingnowedward,MIT,45204,Show OpenCode Go and ClinePass subscription usage (5-hour / weekly / monthly) in the OpenCode TUI sidebar.
+2026-10-05T20:11:07.358Z,paseo-asana,0.1.0,khamer,Apache-2.0,47641,View your open Asana tasks in Paseo and bring task context into agent chats.
+2026-10-05T20:11:14.586Z,@g_steiner_school/password_generator,0.1.0,g_steiner_school,MIT,1663,Password Generator
+2026-10-05T20:11:59.086Z,senset-printer-plugin,1.0.0,info.senset,,20727,Bluetooth thermal printer plugin for Senset Driver
+2026-10-05T20:12:56.408Z,@joyosdev/eslint,1.0.0,joyos,,28280,"Composable ESLint configuration for JavaScript, TypeScript, and Solid."
+2026-10-05T20:12:59.554Z,@yagejs-addons/i18n,0.0.0,marco-lepore,MIT,4410,"Localization for YAGE: message descriptors, an i18next-backed service, and localized text for renderer, UI, React, dialogue, and inventory"
+2026-10-05T20:13:42.141Z,@wervt/cli,0.0.0,niki2k1,MIT,539,Build and host small Nuxt apps written by agents. Coming soon.
+2026-10-05T20:13:51.968Z,create-wervt,0.0.0,niki2k1,MIT,464,Create a new wervt app. Coming soon.
+2026-10-05T20:15:15.142Z,toastcraft,0.1.0,anantduhan,MIT,273094,"Framework-agnostic, zero-dependency toast notifications with 15 built-in designs and deep configuration."
+2026-10-05T20:15:32.617Z,@marioparaschiv/oxc-config,0.1.0,marioparaschiv,MIT,60098,Shared oxlint and oxfmt configuration with custom lint rules
+2026-10-05T20:15:34.381Z,@daniluk/liquid-glass,0.0.1,ptu14,MIT,1346726,Apple-style liquid glass for the web: a WebGL renderer that refracts the live DOM behind your elements. Framework-free core.
+2026-10-05T20:15:47.973Z,@daniluk/liquid-glass-react,0.0.1,ptu14,MIT,88048,React components and hooks for @daniluk/liquid-glass — Apple-style liquid glass rendered with WebGL.
+2026-10-05T20:18:23.683Z,@skillyo/embed,0.1.0,martinhall,MIT,34052,"Put a Skillyo skill in your web app: a React component, or mount() for any framework."
+2026-10-05T20:18:52.245Z,mountable-cli,0.0.0,writeitai,Apache-2.0,12129,Placeholder for the Mountable CLI; install a released version.
