@@ -1,12 +1,48 @@
 {
   "list": {
-    "count": 105,
-    "from": "2026-10-05T01:20:10.995805Z",
-    "path": "data/new-packages-2026-10-05T02-19-40-134642Z.csv",
-    "to": "2026-10-05T02:19:40.134642Z"
+    "count": 120,
+    "from": "2026-10-05T02:19:40.134642Z",
+    "path": "data/new-packages-2026-10-05T03-19-12-423781Z.csv",
+    "to": "2026-10-05T03:19:12.423781Z"
   },
-  "pending": [],
-  "seq": 134523971,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@atlasauth/cli-banner",
+      "since": "2026-10-05T02:19:40.134642Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@atlasauth/create-atlas-app",
+      "since": "2026-10-05T02:19:40.134642Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@atlasauth/upgrade",
+      "since": "2026-10-05T02:19:40.134642Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@johnhenry/data-plot",
+      "since": "2026-10-05T02:19:40.134642Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@nextoolsolutions/mcp-glpi",
+      "since": "2026-10-05T02:19:40.134642Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@nextoolsolutions/mcp-glpi-core",
+      "since": "2026-10-05T02:19:40.134642Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@trigora/client",
+      "since": "2026-10-05T02:19:40.134642Z"
+    }
+  ],
+  "seq": 134530802,
   "source_truncated": false,
-  "window": "2026-10-05T02:19:40.134642Z"
+  "window": "2026-10-05T03:19:12.423781Z"
 }
