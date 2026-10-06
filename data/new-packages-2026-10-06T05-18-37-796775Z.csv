@@ -1,0 +1,99 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-06T04:15:46.212Z,@edgescrum/ds-foundation,0.4.0,mnoritake-edgescrum,MIT,27186,"Edgescrum design system — foundation layer. DTCG JSON as the source of truth, built to CSS variables and a Tailwind v4 theme. The minimum bar every Edgescrum product meets."
+2026-10-06T04:15:46.344Z,@edgescrum/ds-core,0.5.0,mnoritake-edgescrum,MIT,234871,Edgescrum design system — core layer. Audience-agnostic React components (Tailwind CSS v4). Consumers must include this package in Tailwind's @source scan.
+2026-10-06T04:16:41.322Z,@fwdslsh/unify-lab-reports-template,0.1.2,itlackey,MIT,205844,A configurable Unify lab reports site with a static health dashboard and optional bounded collection.
+2026-10-06T04:17:40.436Z,@assistant-ui/vue,0.0.1,okisdev,MIT,577457,Vue bindings for assistant-ui
+2026-10-06T04:18:21.233Z,@cf-lite/vue,0.4.0,erichdev,MIT,17238,"Vue 3 adapter for cf-lite (SFC routes, renderToWebStream SSR, hydration, HMR)"
+2026-10-06T04:19:02.391Z,@graphql-workbench/execute-query,0.2.0,idosela,MIT,1237236,A web component for GraphQL variables and consumer-owned query execution
+2026-10-06T04:19:26.893Z,@graphql-workbench/schema-explorer,0.3.0,idosela,MIT,2681558,A macOS Finder-style column view web component for exploring GraphQL schemas
+2026-10-06T04:20:00.017Z,@graphql-workbench/graphql-workbench-store,0.1.0,idosela,MIT,1125120,Signal-backed coordinator for GraphQL schema and execution components
+2026-10-06T04:20:22.72Z,@graphql-workbench/graphql-store-core,0.1.0,idosela,MIT,16346,Shared reactive store primitives for GraphQL web components
+2026-10-06T04:20:34.824Z,@jakobf1/apple-mail-mcp,0.6.2,jakobf1,MIT,48471,"A privacy-first, local MCP server for Apple Mail on macOS."
+2026-10-06T04:21:01.241Z,@graphql-workbench/query-list,0.1.0,idosela,MIT,425117,A web component that lists GraphQL queries with status and row actions
+2026-10-06T04:23:11.799Z,@pi-kit/rewind,0.1.0,j7an,MIT,25231,Claude Code-style rewind of code and conversation for the Pi coding agent. No third-party runtime dependencies.
+2026-10-06T04:23:35.867Z,@infra-x/oxfmt-presets,0.0.1,gaoxiu,MIT,5235,Oxfmt formatting and Tailwind class sorting presets.
+2026-10-06T04:24:06.247Z,@infra-x/oxlint-presets,0.0.1,gaoxiu,MIT,35665,Composable Oxlint presets and Electron process checks.
+2026-10-06T04:24:26.037Z,@infra-x/tsconfig-presets,0.0.1,gaoxiu,MIT,18628,Composable TypeScript presets and pure project configuration inputs.
+2026-10-06T04:24:55.294Z,@theholocron/holocron-plugin-netlify,2.0.0-alpha.1,thenewton,MIT,20684,"Holocron plugin for Netlify. Implements the deployment capability against Netlify's REST API, plus exports verifyToken + AUTH_HINT for `holocron auth`."
+2026-10-06T04:26:14.279Z,tinyts-util,1.0.1,0xasuma1,MIT,175,Small utility helpers for TypeScript projects
+2026-10-06T04:26:47.824Z,@bubbleportal/protocol,0.4.0,leoborne,UNLICENSED,17905,The game-facing BubblePortal command and event contract.
+2026-10-06T04:26:51.058Z,@bubbleportal/sdk,0.4.0,leoborne,UNLICENSED,170659,"Game SDK for BubblePortal: runtime transport, shared commands, and deterministic game engine."
+2026-10-06T04:26:57.177Z,@bubbleportal/devtools,0.4.0,leoborne,UNLICENSED,911859,"Local game simulator, project tools and SDK migration utilities."
+2026-10-06T04:27:16.093Z,@cairn-ink/memory,0.1.0,chichieh,Apache-2.0,33946,One-command setup of the Cairn Memory Claude Code plugin.
+2026-10-06T04:28:34.687Z,@jadedm/nestjs-verify-ses,0.6.0,jadedm,MIT,15826,Amazon SES email provider adapter for @jadedm/nestjs-verify.
+2026-10-06T04:29:38.575Z,navocode,0.2.0,120devin,Apache-2.0,747772,Interactive architecture authoring and PR review for coding agents
+2026-10-06T04:30:04.079Z,@coledtaylor/helm-plugin-sdk,1.0.0,riplakish,MIT,108676,"Types, the manifest schema and helpers for building Helm plugins. The runtime - the window.helm bridge, theme tokens and primitives stylesheet - comes from the running Helm."
+2026-10-06T04:30:37.964Z,dsh-usage-dock,0.3.0,slacom,MIT,88444,套餐用量角标（Slacom 定制版）：在左侧状态栏显示 OpenCode Go / GLM Z.AI / GLM 智谱 / Kimi Code / DeepSeek 官网余额 / OpenAI Codex 订阅额度，支持 5小时 / 周限 / 月限窗口与「设置 → 插件」配置卡片。
+2026-10-06T04:31:46.921Z,@scarlet_kit/up,0.1.0,cherry_mage,MIT,146953,跨平台的项目扫描、构建与服务器部署命令行工具。
+2026-10-06T04:32:05.745Z,@simplishelf/super-data-grid,0.2.0,nahushr18,MIT,1225416,"A plug-and-play React data grid with server-side data, saved views, filters, and custom cells."
+2026-10-06T04:34:11.556Z,@fylane/browser,0.1.0,fylane,MIT,25729,"The official Fylane browser upload SDK — a capability in, a file up, progress along the way. No API key ever touches the page."
+2026-10-06T04:34:13.346Z,@fylane/node,0.1.0,fylane,MIT,52345,"The official Fylane SDK for Node.js — upload, process, and fetch results with one call."
+2026-10-06T04:34:14.624Z,@fylane/react,0.1.0,fylane,MIT,34926,"The official Fylane React upload component — drop zone, progress, retry, multipart; your backend mints the session, the browser never sees a key."
+2026-10-06T04:35:40.347Z,@geminixiang/pi-gpt-image,0.2.0,geminixiang,MIT,25781,Generate and edit images through the active GPT provider's hosted image tool
+2026-10-06T04:35:51.145Z,@foldkit/node,0.0.0,devin_jameson,MIT,17165,Node.js host adapter for Foldkit server-rendered applications
+2026-10-06T04:36:05.667Z,dsh-visual-system,1.4.0,qinjiu325,MIT,572342,Wallpaper-driven visual system for the DeepSeek Harness Web GUI — one preset.json swaps the whole colour system and background
+2026-10-06T04:40:24.262Z,@discuss-ds/tokens,0.1.0,leaduxdesigner-discuss,UNLICENSED,84672,Design tokens (CSS custom properties) for the Discuss design system
+2026-10-06T04:40:34.894Z,@discuss-ds/ui,0.1.0,leaduxdesigner-discuss,UNLICENSED,1039993,Discuss design system React component library
+2026-10-06T04:41:02.467Z,dsh-wallport,0.2.1,cjian,MIT,218827,DSH_WallPort —— 给 DeepSeek Harness 的开机画面换一块墙纸：7 套内置动画 + 用 AI 现场生成。
+2026-10-06T04:41:30.571Z,dsh-computer-use-mode,0.1.1,evangelimo,MIT,187779,"Computer-use mode for DeepSeek Harness: native-resolution screen capture plus mouse, keyboard and window control, for operating software that has no agent-facing integration."
+2026-10-06T04:43:22.204Z,@megamaxwin88/istanbul-hamal-widget,1.0.0,megamaxwin88,MIT,10862,İstanbul Hamal Merkezi Şişli — enquiry widget. Official: https://istanbulhamalmerkezi.com.tr/sisli-hamal/
+2026-10-06T04:44:26.435Z,pro-app,0.1.1,brunooneto,UNLICENSED,5122,Connect Claude Code or Codex to your PROApp workspace.
+2026-10-06T04:45:20.762Z,@troiaquants/sdk,0.1.0,trojahn299,MIT,212869,"SDK da TroiaQuants: contas de corretora, cotações, ordens e tempo real em JavaScript, no navegador e no Node."
+2026-10-06T04:45:49.053Z,@lglen/pi-to-md-cli,0.1.0,lglen,MIT,48677,"Convert pi-coding-agent session JSONL files to conversation-first Markdown, with an interactive session picker."
+2026-10-06T04:46:15.178Z,@stencil-hq/tern,0.1.0,can1357,MIT,346512,"Talk to Tern over the Tern Surface Protocol: typed nodes and TSX, diffing, flow control, events, and a plain-text fallback."
+2026-10-06T04:47:38.894Z,@vishu_123/restaurant-ui,2.1.0,vishu_123,,17286,This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+2026-10-06T04:49:00.295Z,@korbitbr/sdk,0.1.0,gabealvss,MIT,262139,"SDK oficial da Korbit para Node.js: pagamentos PIX e cartão, catálogo, assinaturas, saldo, saques e webhooks — com idempotência automática, retries e erros tipados."
+2026-10-06T04:49:38.498Z,@nest-rn-lens/nest,0.1.0,isaarg2312,MIT,48113,NestJS interceptor that reports every request together with the React Native screen that made it. Part of NestRN Lens.
+2026-10-06T04:49:43.232Z,@openmcp-app/oma-store,0.1.0,secondfirst,MIT,2309353,"The App Store for open-mcp-apps: ready-made single-HTML apps an AI can install, open and change."
+2026-10-06T04:51:11.398Z,dsh-feishu-plugin,0.1.0,murphy.mo,MIT,787938,"Feishu/Lark bridge for DeepSeek Harness (dsh): one Feishu topic = one dsh session, in-card approvals and questions, long connection with no public endpoint. Minimal permissions: p2p read + send-as-bo…"
+2026-10-06T04:51:58.124Z,@kirkyapp/cli,0.1.0,kirky-wf,UNLICENSED,5566,Kirky command-line tool.
+2026-10-06T04:52:00.809Z,@kirkyapp/sdk,0.1.0,kirky-wf,UNLICENSED,5395,Kirky embeddable assistant SDK.
+2026-10-06T04:53:08.461Z,@mylasertools/laser-svg,0.1.0,mylasertools-dev,MIT,74439,Validate and fix SVG files for common laser-cutting problems.
+2026-10-06T04:53:10.722Z,flow-image-mcp,0.8.0,sameer-madushan,MIT,89024,"MCP server + Chrome extension: generate images with Google Flow in your own signed-in browser, from Claude Code or any MCP client. No API key."
+2026-10-06T04:53:57.361Z,dsh-git-plus,0.1.36,bitxeno,MIT,314265,"dsh panel plugin: sidebar git management — Local Changes / All Commits, branch/tag/stash management, merge with conflict handling."
+2026-10-06T04:54:38.4Z,create-spotifyplus-app,1.0.1,lenerd46,,77019,Create a Spotify Plus extension
+2026-10-06T04:55:24.028Z,@cwolf-systems/playwright-cesium,0.1.0,nickesoto,Apache-2.0,143449,"Playwright helpers for testing CesiumJS scenes: know when a scene has finished drawing, hold time and the camera still, step frames exactly, find places on the canvas, and read its pixels."
+2026-10-06T04:58:49.232Z,@osm-editor-kit/react-map-gl-draw,0.0.2,tordans,MIT,277295,"Draw and edit points, lines and polygons on a react-map-gl (MapLibre) map as a controlled React component: value in, onChange out, styles as layer styles."
+2026-10-06T04:59:59.579Z,@onceworlds/engine,1.0.0,gowravthota,,13023476,"The Onceworlds game engine: entities, components, systems, fixed-step time, and the platform's rooms, matches and saves built in."
+2026-10-06T05:00:51.714Z,plansom-sdk,0.0.1,abhishek-plansom,Apache-2.0,327190,TypeScript/JavaScript client SDK for Plansom's be3 v3 API.
+2026-10-06T05:02:04.619Z,@toolchainjp/mf-invoice-mcp-server,0.1.0,kosukefujimoto,MIT,182060,マネーフォワード クラウド請求書 API v3 を MCP ツールとして公開する MCP サーバー
+2026-10-06T05:02:52.599Z,@lukefwalton/answer-engine,3.0.0-alpha.1,lukefwalton,Apache-2.0,365837,"A retrieval substrate for a personal archive: every fragment carries a disclosure policy, hits carry provenance, and the only object a consumer hands to a model or a caller cannot hold more than that…"
+2026-10-06T05:03:36.173Z,@anarkisti/korpi,0.1.0,anarkisti,MIT,602079,"A 2.5D pixel-world kit: worlds that are a function of time and seed, drawn into one depth raster"
+2026-10-06T05:03:54.742Z,@inventarch/compliance-system,0.0.0-stage,crowncodes,,351,Temporary package placeholder for staged publishing
+2026-10-06T05:03:56.879Z,@inventarch/governance-system,0.0.0-stage,crowncodes,,351,Temporary package placeholder for staged publishing
+2026-10-06T05:03:59.121Z,@inventarch/hook-authoring-system,0.0.0-stage,crowncodes,,355,Temporary package placeholder for staged publishing
+2026-10-06T05:04:00.839Z,@inventarch/learning-system,0.0.0-stage,crowncodes,,349,Temporary package placeholder for staged publishing
+2026-10-06T05:05:06.723Z,@inventarch/work-system,0.0.0-stage,crowncodes,,345,Temporary package placeholder for staged publishing
+2026-10-06T05:05:08.482Z,@inventarch/workspace-system,0.0.0-stage,crowncodes,,350,Temporary package placeholder for staged publishing
+2026-10-06T05:05:35.299Z,@black-market/interface-system,0.3.27,abysshopper,MIT,483931,Portable React primitives with scoped Abyss design tokens and plain CSS.
+2026-10-06T05:05:58.678Z,dev-ai-agents,0.5.0,chetan11fb,MIT,121675,"Production-oriented DEV-AI engineering agents, skills, workflows and MCP configurations for VS Code + GitHub Copilot."
+2026-10-06T05:07:03.771Z,@devframes/hub-ui-onboard,1.2.1,antfu,MIT,39087,A tiny stand-in for the devframe hub UI: a floating button that installs it on demand.
+2026-10-06T05:07:26.293Z,muckbase,0.0.2,benjackgill,MIT,850,Small utilities used by Muckbase.
+2026-10-06T05:08:23.257Z,@vibedev-si/dsh-vibedev,0.2.1,crider,MIT,1590567,VibeDev 账号与模型：在 DeepSeek Harness 里登录 VibeDev，与 DeepSeek 账号并存，使用 VibeDev 网关的模型（Claude、GPT 等），并生成图片、视频、音乐和播客 · VibeDev account and models for DeepSeek Harness: sign in to VibeDev next to the DeepSeek a…
+2026-10-06T05:08:32.982Z,@pradip1995/segment-category-strip,0.1.1,pradip1995,MIT,7471,
+2026-10-06T05:08:33.764Z,@pradip1995/segment-vertical-collection-scroll,0.1.1,pradip1995,MIT,2547091,
+2026-10-06T05:08:35.503Z,@kvman/sdk,0.1.0,ibndeif,MIT,126055,"The kvman extension API: the ctx types, zod, and the shared shapes."
+2026-10-06T05:08:37.719Z,@kvman/kvai,0.1.0,ibndeif,MIT,328217,"kvai: LLM calls through providers and models, for every kvman extension."
+2026-10-06T05:08:38.022Z,@kvman/kernel,0.1.0,ibndeif,MIT,551624,"The kvman kernel: jobs, workers, storage, extensions, and HTTP."
+2026-10-06T05:08:38.027Z,@kvman/kvwebui,0.1.0,ibndeif,MIT,2774120,"kvwebui: the kvman web app, built from what the extensions contribute."
+2026-10-06T05:08:40.279Z,@kvman/testkit,0.1.0,ibndeif,MIT,245190,createTestKernel: the real kvman kernel for extension tests.
+2026-10-06T05:08:40.586Z,@kvman/kvcoder,0.1.0,ibndeif,MIT,1291451,"kvcoder: the app-building harness, with one run tool over connectors, sections, and its conversation UI."
+2026-10-06T05:08:43.349Z,@kvman/kvcustomizer,0.1.0,ibndeif,MIT,197273,"kvcustomizer: the kvcoder extension for customizing kvman, building extensions and presets and managing the running app."
+2026-10-06T05:08:45.061Z,kvman,0.1.0,ibndeif,MIT,59599,"kvman, an app that works like a small operating system: a kernel runs extensions, and a preset shapes them."
+2026-10-06T05:10:24.084Z,@absolutejs/bvm-linux-x64,0.1.0,alexkahndev,MIT,5579920,bvm for linux-x64 (see @absolutejs/bvm)
+2026-10-06T05:10:27.483Z,@absolutejs/bvm-linux-arm64,0.1.0,alexkahndev,MIT,4838774,bvm for linux-arm64 (see @absolutejs/bvm)
+2026-10-06T05:10:28.211Z,@swiftuijs/twill,0.1.0,evecalm,MIT,2344494,"Twill: a JS/TS syntax-sugar language with trailing closures, guards, block-scoped defer, build plugins, type checking, and editor support."
+2026-10-06T05:10:31.886Z,@absolutejs/bvm-darwin-arm64,0.1.0,alexkahndev,MIT,5943785,bvm for darwin-arm64 (see @absolutejs/bvm)
+2026-10-06T05:10:35.23Z,@absolutejs/bvm-darwin-x64,0.1.0,alexkahndev,MIT,6437107,bvm for darwin-x64 (see @absolutejs/bvm)
+2026-10-06T05:10:39.291Z,@absolutejs/bvm-windows-x64,0.1.0,alexkahndev,MIT,5668132,bvm for windows-x64 (see @absolutejs/bvm)
+2026-10-06T05:10:42.665Z,@absolutejs/bvm-windows-arm64,0.1.0,alexkahndev,MIT,4686122,bvm for windows-arm64 (see @absolutejs/bvm)
+2026-10-06T05:10:44.721Z,@absolutejs/bvm,0.1.0,alexkahndev,MIT,3993,"Install, switch and verify Bun versions (official and AbsoluteJS builds) on Linux, macOS and Windows"
+2026-10-06T05:10:49.392Z,@infosupport/it-academy-cli,7.1.0,infosupport-npa,UNLICENSED,6162475,CLI for serving slick Reveal.js presentations for the Info Support IT Academy
+2026-10-06T05:11:09.956Z,@swiftuijs/twill-formatter,0.1.0,evecalm,MIT,53700,"Prettier plugin for Twill: format trailing closures, guards, defer and TS/TSX while preserving source syntax."
+2026-10-06T05:11:12.088Z,@swiftuijs/twill-linter,0.1.0,evecalm,MIT,36341,"ESLint flat configurations for Twill with TypeScript rules, original-source diagnostics and safe fixes."
+2026-10-06T05:11:13.637Z,@swiftuijs/twill-export,0.1.0,evecalm,MIT,41164,Export a checked Twill source project to formatted native TypeScript.
+2026-10-06T05:11:16.023Z,@swiftuijs/twill-highlight,0.1.0,evecalm,MIT,39602,Portable Twill and TwillX TextMate grammars and browser-compatible Shiki highlighting.
+2026-10-06T05:13:51.51Z,fliiper-mcp,0.1.0,apilynk,UNLICENSED,21180,Servidor MCP para consultar los movimientos de cuenta de Fliiper con una API key (header x-api-key).
+2026-10-06T05:14:33.174Z,@simplishelf/polyform,0.1.1,nahushr18,MIT,1294802,Config driven React forms built from reusable field components.
+2026-10-06T05:14:40.593Z,@capacms/cli,0.1.0,kirby_zvndev,UNLICENSED,93567,"The capa command line: Capa content, models and keys from a terminal, a script or an agent, and capa init for Claude Code, Codex and Cursor."
+2026-10-06T05:15:23.245Z,zone4code-cmd,0.1.0,zone4code,MIT,47149,"Zone4build from your terminal: create projects, prompt the AI agent, plan with the capability roadmap and run checks."
