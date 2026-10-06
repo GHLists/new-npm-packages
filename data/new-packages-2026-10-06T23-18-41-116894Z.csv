@@ -1,0 +1,150 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-06T22:14:56.665Z,@better-fs-tools/ai-sdk,0.1.0,garethandrew,MIT,52345,"The Better FS Tools read, edit, write, apply_patch, and bash tools for AI SDK 7."
+2026-10-06T22:15:21.211Z,@better-fs-tools/cloudflare-computer,0.1.0,garethandrew,MIT,41862,A readable and writable filesystem over a Cloudflare Computer workspace (experimental).
+2026-10-06T22:15:23.633Z,@better-fs-tools/fs,0.1.0,garethandrew,MIT,81008,"The filesystem contract, POSIX path helpers, an in-memory filesystem, and a conformance suite."
+2026-10-06T22:15:27.668Z,@better-fs-tools/cloudflare-shell,0.1.0,garethandrew,MIT,40381,A readable and writable filesystem over a Cloudflare Shell Workspace.
+2026-10-06T22:15:30.936Z,@better-fs-tools/just-bash,0.1.0,garethandrew,MIT,57650,A readable and writable filesystem and a bash command runner over just-bash.
+2026-10-06T22:15:35.062Z,@better-fs-tools/pi,0.1.0,garethandrew,MIT,54061,"The Better FS Tools read, edit, write, apply_patch, and bash tools and extension for the Pi coding agent."
+2026-10-06T22:15:38.34Z,@better-fs-tools/read,0.1.0,garethandrew,MIT,347293,A bounded file reader for TypeScript agent tools.
+2026-10-06T22:15:41.026Z,@better-fs-tools/shell,0.1.0,garethandrew,MIT,125660,A bash tool for TypeScript agents: a small run core with hooks and defaults.
+2026-10-06T22:15:45.337Z,@better-fs-tools/write,0.1.0,garethandrew,MIT,421634,"Edit, write, and apply_patch tools for TypeScript agents."
+2026-10-06T22:15:49.125Z,@better-fs-tools/node,0.1.0,garethandrew,MIT,86237,"The Node filesystem, a SHA-256 digest, a bash runner, and the zero-config read, edit, write, apply_patch, and bash tools for Node and Bun."
+2026-10-06T22:17:18.912Z,@ai-matrx/entity-data,0.3.1,armanisadeghi,MIT,763845,"Platform records through the one DataPort: a thin typed client over the store's entity doors (list, get, columns) with the store's refusal sentences carried verbatim, a host DataPort for entity alias…"
+2026-10-06T22:17:43.48Z,@apsis-io/perseid,0.3.1,malformed,Apache-2.0,300535,"The Perseid vocabulary for TypeScript guests: the ADR-0075 reconciliation step contract, the aperture expression language, resume conditions, invariants, backstop and wake. The ts half of the apsis-p…"
+2026-10-06T22:18:20.198Z,@gavinc-cn/dsh-patch-ask-expand,0.1.0,gavinc-cn,MIT,20058,让 Web GUI 里「提问 / 回答」这一行（ask_user_question）默认展开：启动时对 dsh-client-ui-tool 的 client bundle 打一个幂等文本补丁。
+2026-10-06T22:18:42.976Z,@brain-db/sdk,0.0.1,nirajkishore,Apache-2.0,928632,Hand-written client SDK for the Brain memory database. Speaks Brain's BRN0 wire protocol directly over TCP.
+2026-10-06T22:20:24.308Z,@fortenv/secrets,0.1.0,atopala,Apache-2.0,99048,Remove ambient access to environment secrets with explicit function grants
+2026-10-06T22:20:26.905Z,@vasakgroup/plugin-display-manager,2.0.0,jdecima,GPL-3.0-or-later,14217,"A Tauri plugin for per-monitor brightness (backlight through sysfs and logind, external screens through DDC/CI) and night light settings on Linux."
+2026-10-06T22:21:56.414Z,@quark-fw/plugin-cron,0.1.22,druslee,ISC,20675,In-process cron scheduler for the Quark framework with a Redis lock across instances and per-job status (published as raw TS sources; consumers run tsx)
+2026-10-06T22:21:58.352Z,@quark-fw/plugin-health,0.1.22,druslee,ISC,7555,"/healthz endpoint for the Quark framework: registered checks (db, redis, cron heartbeats) with 200/503 (published as raw TS sources; consumers run tsx)"
+2026-10-06T22:23:07.158Z,@oyebanos/pwt-schema,1.1.0,oyebanos,UNLICENSED,39101,"The PWT Firestore schema — collection paths, field names and controlled vocabularies, as one definition every consumer imports. Zero dependencies, by design."
+2026-10-06T22:25:17.033Z,jodit-plugin-code,1.0.0,timurseiidov,MIT,1948459,"Jodit editor plugin that inserts code blocks with syntax highlighting: language choice, live preview, line numbers, inline styles with CSS variables, and a copy button runtime for the site"
+2026-10-06T22:25:54.522Z,@nordible/invoice-mcp,1.0.0,xameeramir,MIT,21404,Model Context Protocol (MCP) server for Nordible Free Invoice Generator (https://free-invoice-generator.nordible.co)
+2026-10-06T22:26:33.78Z,lanka-schools,1.0.0,mmsalmanfaris,MIT,18738225,"Comprehensive Sri Lanka schools dataset & TypeScript library. 10,146 schools, 396 national schools, 100 educational zones, 25 districts, and 9 provinces with MOE Census IDs, GPS coordinates, Sinhala/…"
+2026-10-06T22:26:51.034Z,@gavinc-cn/dsh-autocommit,0.1.0,gavinc-cn,MIT,20722,"自动提交守卫: 本会话改过文件却想接着跑下一回合时挡下并提示模型先提交 (agent/turn-stopping + tools/pre-execute 双触点, 经 agent.steer 强制再跑一步); 默认绝不自行提交, 仅 commitOnApproval=true 时在审批弹窗路径代提交。"
+2026-10-06T22:27:03.902Z,@axnic/pulumi-pocket-id,0.1.0,anicolaie,Apache-2.0,237527,[![GitHub release](https://img.shields.io/github/v/release/axnic/pulumi-pocket-id?logo=github&sort=semver)](https://github.com/axnic/pulumi-pocket-id/releases/latest) [![Go Reference](https://pkg.go.…
+2026-10-06T22:27:20.178Z,@gavinc-cn/dsh-dim-text,0.1.0,gavinc-cn,MIT,4765,"把 Web GUI 文字梯度整体调暗一档: 经官方扩展点 ctx.theme.overrideTokens 覆盖 --dsw-alias-label-primary/secondary/tertiary, 仅深色模式生效。"
+2026-10-06T22:27:39.328Z,@gavinc-cn/dsh-session-unread-persist,0.1.0,gavinc-cn,MIT,15967,"把 Web GUI 会话列表的「已完成未查看」绿点 (uiSession.completionUnread) 持久化到 localStorage: 刷新页面、重开浏览器后绿点仍在, 点开会话后照常消失。"
+2026-10-06T22:27:53.414Z,@gavinc-cn/dsh-turn-labels,0.5.0,gavinc-cn,MIT,50557,"把 Web GUI 右侧的轮次刻度轨换成常驻文字: 每轮一行显示该轮用户提问, 当前轮高亮, hover 显示提问+回答预览, 点击跳转该轮; 每轮文字行下方为 ask_user_question 各加一条原版小横杠, 点击跳到该提问的位置(展开候选限定在同一会话滚动区内, 避免误点侧栏按钮)。列宽跟着正文栏宽度自适应(无下限, 文字超宽截断), 正文拉宽后不压正文。"
+2026-10-06T22:28:37.736Z,@ludentes/galatea-life-schemas,0.1.0,opcheese,Apache-2.0,334031,
+2026-10-06T22:28:40.831Z,@ludentes/galatea-life-test-clock,0.1.0,opcheese,Apache-2.0,28726,
+2026-10-06T22:28:44.351Z,ignore-creation,1.2.1,cassyboi-dev,ISC,9224,> The Aim
+2026-10-06T22:28:44.568Z,@ludentes/galatea-life-binding,0.1.0,opcheese,Apache-2.0,23322,
+2026-10-06T22:28:48.34Z,@ludentes/galatea-life-sim,0.1.0,opcheese,Apache-2.0,334545,
+2026-10-06T22:28:50.057Z,@caucejs/base,0.3.0,lautidamo,MIT,18282,"The base of Cauce: the errors, the clock and the contract of a value that travels with async work. No dependencies, no runtime APIs."
+2026-10-06T22:28:53.139Z,@ludentes/galatea-life-harness,0.1.0,opcheese,Apache-2.0,2142986,
+2026-10-06T22:29:11.279Z,@gavinc-cn/sandbox-path-allowlist,0.1.0,gavinc-cn,MIT,7438,"沙箱路径白名单: 对配置目录内的 write/edit 沙箱升权请求自动放行, 在 Web 弹框 answerer 之前短路 approval/request 瀑布, 用户不再收到弹框。"
+2026-10-06T22:29:13.803Z,@caucejs/di,0.3.0,lautidamo,MIT,55150,"The dependency injection of Cauce: a registry checked by the compiler, three lifetimes, scopes that dispose what they built, and extensions."
+2026-10-06T22:29:16.632Z,spendpreflight,0.1.1,spendpreflight,MIT,18555,Spend guard for x402 agents: allow/hold/block every payment against your rules before your agent pays. Optional sanctions + new-domain screening via the SpendPreflight API.
+2026-10-06T22:29:25.224Z,@gavinc-cn/kanban-board,0.1.0,gavinc-cn,MIT,163192,"任务看板: 待开发/正在开发/阻塞/待审核/已完成。拖入正在开发自动创建会话由 agent 执行, 完成自动进待审核, agent 提问/请求审批自动进阻塞, 回答后自动继续。"
+2026-10-06T22:29:32.024Z,@ziedzzz/demo-canary,1.0.0,ziedzzz,MIT,6998,Harmless OWASP IoT supply-chain static-analysis training fixture
+2026-10-06T22:29:43.882Z,@caucejs/config,0.3.0,lautidamo,MIT,38488,"The configuration of Cauce: layered sources, and settings classes validated with any Standard Schema while the application is composed."
+2026-10-06T22:30:04.101Z,@caucejs/hosting,0.3.0,lautidamo,MIT,34141,"The host of Cauce: it composes the configuration and the container, starts what runs with the application, and stops it in order."
+2026-10-06T22:30:20.294Z,@caucejs/node,0.3.0,lautidamo,MIT,18593,The Node.js adapter of Cauce: what the other packages leave to the runtime.
+2026-10-06T22:30:49.583Z,high-council,0.1.1,kitlangton,MIT,6550750,1996 Civilization II High Council and retro video-game briefings for your day in OpenCode V2.
+2026-10-06T22:31:14.501Z,@hytale-ts/server,0.2.0,matical,MIT,724904,Write Hytale server logic in TypeScript.
+2026-10-06T22:31:56.368Z,french-open-data,0.3.0,arti-0,MIT,106088,"Typed, zero-dependency TypeScript clients for French public open-data APIs: company search (API Recherche d'Entreprises / Sirene), BODACC legal announcements, and France Travail job offers."
+2026-10-06T22:32:06.203Z,@rbrowton/learning,0.10.0,rbrowton,UNLICENSED,328285,"Multi-sided learning platform UI for React: learner layouts (Letters / Notebook / Focus / Library), guide cohort view, framework view. Re-skin via theme tokens and deep-merged labels."
+2026-10-06T22:32:23.514Z,@floez-werk/piagent-realtime-provider-maxtokens,0.1.1,floezwerk,MIT,30641,"Pi extension: clamps max_completion_tokens for OpenRouter requests to the smallest provider endpoint limit, so OpenRouter's length filter stops excluding providers."
+2026-10-06T22:32:50.248Z,pi-session-mcp,0.6.1,plagor,MIT,368620,Local stdio MCP server for controlled Pi coding-agent sessions
+2026-10-06T22:35:46.189Z,@floyoai/sdk,0.2.0,nico.floyo,MIT,291961,Official Node.js SDK for the Floyo API
+2026-10-06T22:36:25.64Z,@babel/plugin-proposal-filtered-namespaces,0.0.0,nicolo-ribaudo,MIT,115,Placeholder
+2026-10-06T22:37:09.54Z,@ai-matrx/rich-content,0.0.0,armanisadeghi,MIT,2001,Reserved package for AI Matrx rich content. Implementation is under development; this bootstrap contains no runtime API.
+2026-10-06T22:38:07.381Z,@ai-matrx/rich-editor,0.0.0,armanisadeghi,MIT,2013,Reserved package for AI Matrx rich editor. Implementation is under development; this bootstrap contains no runtime API.
+2026-10-06T22:38:50.404Z,@octane-xplat/shaders,0.0.1,aleclarson,MIT,358,Placeholder stub — no supported API yet. First real release ships via octane-xplat's lockstep release workflow.
+2026-10-06T22:42:02.87Z,faceshape-react,0.1.0,ketze,MIT,627503,Composable animated SVG characters for React
+2026-10-06T22:42:21.569Z,@silo-server/evidence,1.0.0,silomedia,UNLICENSED,353519,"Publish Silo QA evidence (screenshots, recordings, notes) to the private evidence site"
+2026-10-06T22:43:18.403Z,@ceracharlescc/minecraft-agent,4.0.0,ceracharlescc,MIT,343633,Stateful Minecraft agent perception and action runtime powered by Mineflayer.
+2026-10-06T22:44:24.46Z,drumreel,0.1.0-alpha.0,mubashirjamali,MIT,216414,Public Drumreel CLI — thin client for hosted walkthrough jobs (API only)
+2026-10-06T22:45:00.111Z,mcp-retriever,0.0.24,keiranhaax,MIT,43402516,MCP server for multi-provider web search and content retrieval
+2026-10-06T22:45:44.66Z,lanyard-ssh,1.0.0,riomar0001,MIT,138328,"Lanyard: switch git accounts (GitHub, GitLab, Hugging Face, ...) and manage SSH hosts, keys, ssh-agent and known_hosts, from the system tray or the command line."
+2026-10-06T22:46:06.991Z,lotusai,1.0.0,opuscode,MIT,10827,LotusAI setup: point Claude Code or the Claude desktop app at the LotusAI API
+2026-10-06T22:46:44.674Z,lanka-validations,1.0.0,mmsalmanfaris,MIT,371236,"High-performance, zero-dependency Sri Lankan data validation library for TypeScript and JavaScript. Validate and parse Sri Lankan National Identity Card (NIC), phone numbers, passport, driving licens…"
+2026-10-06T22:48:09.307Z,@vasakgroup/plugin-power-profiles,2.0.0,jdecima,GPL-3.0-or-later,8771,A Tauri plugin to read and change the power profile (power-profiles-daemon) over D-Bus on Linux.
+2026-10-06T22:48:23.034Z,@poluri-org/poluri-1006,1.0.0,poluri007,,223,
+2026-10-06T22:49:10.771Z,@rightkit/theme,0.1.0,adrdsouza,MIT OR Apache-2.0,45472,"Brand file to CSS tokens generator for Right Suite apps: light/dark/system, derived dark accent, WCAG contrast and hard-coded-colour checks, runtime brand application."
+2026-10-06T22:49:13.763Z,@rightkit/i18n,0.1.0,adrdsouza,MIT OR Apache-2.0,18266,Shared locale catalog and React provider for Right Suite apps.
+2026-10-06T22:49:15.612Z,@rightkit/doc-render,0.1.0,adrdsouza,MIT OR Apache-2.0,83979,"Brand-neutral, read-only document renderer (Markdown, sanitized HTML, safe email frame) for Right Suite readers."
+2026-10-06T22:49:17.718Z,@rightkit/media-ui,0.1.0,adrdsouza,MIT OR Apache-2.0,152944,Brand-neutral media player and image viewer/editor for Right Suite apps.
+2026-10-06T22:49:17.972Z,@rezlazyco/openclaw-cursor,0.1.8,rezlazyco,MIT,169030,OpenClaw Cursor agent harness and model provider plugin backed by @cursor/sdk.
+2026-10-06T22:49:19.96Z,@rightkit/shell,0.1.0,adrdsouza,MIT OR Apache-2.0,21015,"Typed renderer bridge for the rightkit-shell Tauri crate: window controls, menu/tray events, deep links, autostart, rich clipboard, engine calls."
+2026-10-06T22:49:21.492Z,@rightkit/app-shell,0.1.0,adrdsouza,MIT OR Apache-2.0,149475,"Brand-neutral React frame for Right Suite desktop apps: optional fused sidebar+titlebar layout with slots, command palette, shortcut registry/help, toasts, modals, context menus, ui kit, theme hooks."
+2026-10-06T22:49:24.655Z,@rightkit/settings-ui,0.1.0,adrdsouza,MIT OR Apache-2.0,75740,"Settings panel frame and standard sections (appearance, updates, license, legal, diagnostics, models, API keys, about) persisted through rightkit-settings."
+2026-10-06T22:49:26.788Z,@rightkit/onboarding,0.1.0,adrdsouza,MIT OR Apache-2.0,39036,"First-run onboarding framework: ordered steps, progress, skip/resume, legal gate first, permissions, model download and licence/trial steps."
+2026-10-06T22:49:29.518Z,@rightkit/pdf-ui,0.1.0,adrdsouza,MIT OR Apache-2.0,60723,Brand-neutral read-only PDF viewer (pdf.js) for Right Suite apps.
+2026-10-06T22:49:43.23Z,css-flow-render-shim,1.0.0,brahimhamidi,,5277,CSS flow render shim polyfill
+2026-10-06T22:50:47.777Z,@meteroid/node,0.27.1,gaspb,Apache-2.0,3803883,Meteroid API client
+2026-10-06T22:52:12.581Z,@xano-sdk/rbac,0.1.0,xano-lachlan,MIT,66265,"Roles and permissions for a Xano SDK workspace: one role → permission map on your auth table, guards for endpoints, MCP and agent tools, a safe role-change API with an audit record and Xano tests gen…"
+2026-10-06T22:52:26.349Z,@xano-sdk/agents,0.1.0,xano-lachlan,MIT,196158,"Let people connect their AI agents to a Xano SDK workspace safely: scoped, expiring, revocable agent keys and an MCP server wrapper, plus approvals so a person OKs an agent's action before it runs. W…"
+2026-10-06T22:52:42.051Z,pi-multiedit,0.1.0,jkeskikangas,MIT,84596,"Transactional multi-file edit tool for pi: text, regex, line-anchor, ast-grep and JSON selectors in one atomic call"
+2026-10-06T22:52:55.347Z,@gruntsoft/gruntfoot,1.0.2,gruntsoft,MIT,156945,"A flexible footer customization extension for Pi coding agent, including a full-replacement footer with real-time color customization, themes, and an easy toggle option that persists across sessions."
+2026-10-06T22:53:39.885Z,@fractaal/pi-telemetry,0.86.0,fractaal,MIT,123063,Vendor-neutral telemetry contracts and typed schema utilities for pi
+2026-10-06T22:53:55.491Z,@quark-fw/plugin-uploads,0.1.22,druslee,ISC,35149,"File uploads for the Quark framework: local/S3 storage, image variants via sharp, cached image serving route, authorize/onSaved hooks (published as raw TS sources; consumers run tsx)"
+2026-10-06T22:54:01.837Z,@corndev/eslint-plugin,1.0.0-beta.1,thecpdubguy,MIT,20205,"Corn UI lint rules: props a component does not read, and values outside the ones it accepts"
+2026-10-06T22:54:09.246Z,sqlite-dropbox,0.1.0,philmeta,MIT,70189,"Share a SQLite database between devices through a self-syncing folder (Dropbox, Google Drive, iCloud, Syncthing) with a single-writer lease."
+2026-10-06T22:55:00.625Z,@backtickjs/core,0.1.1,jfbisson4,MIT,26326,"The cs tag for Backtick client scripts, and the types for the values that cross from server to client"
+2026-10-06T22:55:03.427Z,create-backtick-app,0.1.1,jfbisson4,MIT,46231,"Creates a Backtick app: React Native, React or Solid, with screens from your server on Node or Bun"
+2026-10-06T22:55:04.89Z,@backtickjs/react-native-client,0.1.1,jfbisson4,MIT,9949,"Runs a Backtick server's screens in a React Native app, with the app's own packages"
+2026-10-06T22:55:08.571Z,@backtickjs/bundler,0.1.1,jfbisson4,MIT,82019,Runs Backtick server components and bundles a screen per request: one JavaScript file for the client
+2026-10-06T22:55:10.612Z,@backtickjs/compiler,0.1.1,jfbisson4,MIT,250021,"Internal: the compiler for Backtick client scripts, used by the build plugins, backtick-tsc and the editor tooling"
+2026-10-06T22:55:12.166Z,@backtickjs/bun-plugin,0.1.1,jfbisson4,MIT,15274,"Runs a Backtick server on Bun without a build step, compiling its files and client scripts as they load"
+2026-10-06T22:55:14.714Z,@backtickjs/language-plugin,0.1.1,jfbisson4,MIT,16403,Internal: the Volar language plugin that shows TypeScript what a Backtick client script means
+2026-10-06T22:55:16.665Z,@backtickjs/node-plugin,0.1.1,jfbisson4,MIT,13106,"Runs a Backtick server on Node without a build step, compiling its files and client scripts as they load"
+2026-10-06T22:55:18.764Z,@backtickjs/prettier-plugin,0.1.1,jfbisson4,MIT,22100,A Prettier plugin that formats the code inside Backtick client scripts
+2026-10-06T22:55:20.912Z,@backtickjs/tspatch-plugin,0.1.1,jfbisson4,MIT,9489,Compiles Backtick client scripts when you build your server ahead of time with ts-patch's tspc
+2026-10-06T22:55:23.16Z,@backtickjs/language-service,0.1.1,jfbisson4,MIT,23976,"Internal: Backtick's diagnostics and completions, layered on TypeScript's language service"
+2026-10-06T22:55:24.708Z,@backtickjs/tsc,0.1.1,jfbisson4,MIT,20534,backtick-tsc: tsc that type-checks Backtick client scripts and every splice crossing into them
+2026-10-06T22:55:27.214Z,@backtickjs/react,19.2.3,jfbisson4,MIT,41611,"The React adapter for Backtick: React's API as client values your scripts splice, and a JSX runtime for server components"
+2026-10-06T22:55:29.808Z,@corndev/query,1.0.0-beta.1,thecpdubguy,MIT,38415,"Async server-state cache with no dependencies — dedupe, staleness, retries, invalidation"
+2026-10-06T22:55:30.014Z,@backtickjs/solid-js,1.9.14,jfbisson4,MIT,87728,"The Solid adapter for Backtick: Solid's API as client values your scripts splice, and a JSX runtime for server components"
+2026-10-06T22:55:32.312Z,@backtickjs/react-native,0.86.3,jfbisson4,MIT,51836,The React Native adapter for Backtick: React Native's API as client values your scripts splice
+2026-10-06T22:55:33.116Z,@corndev/query-react,1.0.0-beta.1,thecpdubguy,MIT,22390,React bindings for @corndev/query — useQuery and useMutation
+2026-10-06T22:55:34.326Z,@backtickjs/typescript-plugin,0.1.1,jfbisson4,MIT,6163,Internal: the tsserver plugin that type-checks Backtick client scripts in your editor
+2026-10-06T22:55:36.293Z,@corndev/store,1.0.0-beta.1,thecpdubguy,MIT,33100,Redux-shaped state container with no dependencies — usable with or without Corn UI
+2026-10-06T22:55:39.014Z,@corndev/store-react,1.0.0-beta.1,thecpdubguy,MIT,15451,"React bindings for @corndev/store — and for any store with getState/subscribe, including Redux"
+2026-10-06T22:55:44.447Z,@corndev/ui,1.0.0-beta.1,thecpdubguy,MIT,483185,Corn UI Library - Vanilla JavaScript Components
+2026-10-06T22:55:45.353Z,@gitmyabi/som,1.0.0,gitmyabi-bot,MIT,225933,"Auto-generated TypeScript type bindings for sOM (build etherscan-som-a01892d9-1791327248833, commit 049a488, branch etherscan)"
+2026-10-06T22:55:46.725Z,pi-view-system-prompt,0.1.0,unrelentingfox,MIT,11002,Inspect Pi's system prompt in an external editor
+2026-10-06T22:55:47.634Z,@corndev/ui-hooks,1.0.0-beta.1,thecpdubguy,MIT,45657,"React hooks that every app writes anyway — debounced callbacks, disclosure, clipboard, media queries — with no dependencies beyond React"
+2026-10-06T22:55:50.876Z,@corndev/ui-icons,1.0.0-beta.1,thecpdubguy,MIT,19324,Corn UI — vanilla JS icon set (Lucide-based)
+2026-10-06T22:55:54.142Z,@corndev/ui-icons-react,1.0.0-beta.1,thecpdubguy,MIT,21852,Corn UI — React icon components (Lucide-based)
+2026-10-06T22:55:56.958Z,@corndev/ui-markdown,1.0.0-beta.1,thecpdubguy,MIT,69268,Corn UI — render a markdown string with CornUI styles (vanilla JS)
+2026-10-06T22:56:01.089Z,@corndev/ui-markdown-react,1.0.0-beta.1,thecpdubguy,MIT,7032,Corn UI — React markdown component
+2026-10-06T22:56:03.939Z,@corndev/ui-notifications,1.0.0-beta.1,thecpdubguy,MIT,23202,Corn UI — Toast and Alert notification components
+2026-10-06T22:56:08.404Z,@corndev/ui-notifications-react,1.0.0-beta.1,thecpdubguy,MIT,25030,Corn UI — React notification components
+2026-10-06T22:56:11.933Z,@corndev/ui-overlays,1.0.0-beta.1,thecpdubguy,MIT,71588,"Corn UI — Overlay components: Modal, Drawer, Accordion, Tooltip, Popover"
+2026-10-06T22:56:15.54Z,@corndev/ui-overlays-react,1.0.0-beta.1,thecpdubguy,MIT,96829,Corn UI — React overlay components
+2026-10-06T22:56:18.991Z,@corndev/ui-react,1.0.0-beta.1,thecpdubguy,MIT,302885,Corn UI Library - React Components
+2026-10-06T22:58:14.143Z,css-display-flow-polyfill,0.0.0-stage,brahimhamidi,,347,Temporary package placeholder for staged publishing
+2026-10-06T22:58:14.485Z,rust-webp-converter,0.1.1,pedromneto97,MIT,43830,"Fast image to WebP conversion for Node.js, with animated GIF support, powered by libwebp and napi-rs"
+2026-10-06T22:58:23.84Z,rust-webp-converter-darwin-arm64,0.1.1,pedromneto97,MIT,2473093,"Fast image to WebP conversion for Node.js, with animated GIF support, powered by libwebp and napi-rs"
+2026-10-06T22:58:26.97Z,rust-webp-converter-linux-arm64-gnu,0.1.1,pedromneto97,MIT,2505746,"Fast image to WebP conversion for Node.js, with animated GIF support, powered by libwebp and napi-rs"
+2026-10-06T22:58:30.004Z,rust-webp-converter-linux-arm64-musl,0.1.1,pedromneto97,MIT,2502734,"Fast image to WebP conversion for Node.js, with animated GIF support, powered by libwebp and napi-rs"
+2026-10-06T22:58:33.005Z,rust-webp-converter-win32-x64-msvc,0.1.1,pedromneto97,MIT,2920988,"Fast image to WebP conversion for Node.js, with animated GIF support, powered by libwebp and napi-rs"
+2026-10-06T22:58:36.69Z,rust-webp-converter-linux-x64-gnu,0.1.1,pedromneto97,MIT,3030615,"Fast image to WebP conversion for Node.js, with animated GIF support, powered by libwebp and napi-rs"
+2026-10-06T22:58:41.196Z,rust-webp-converter-linux-x64-musl,0.1.1,pedromneto97,MIT,2878427,"Fast image to WebP conversion for Node.js, with animated GIF support, powered by libwebp and napi-rs"
+2026-10-06T22:59:10.32Z,css-overflow-flow-fix,0.0.0-stage,brahimhamidi,,343,Temporary package placeholder for staged publishing
+2026-10-06T22:59:39.677Z,zrouterctl,0.1.0,saifelyzal,MIT,42175598,"Manage your ZRouter account, virtual routers, API keys, credits, and usage from the terminal."
+2026-10-06T23:00:10.685Z,@pluswithai/cli,0.2.1,pluswithai-team,MIT,42623,Run Pluswithai tests from CI and the terminal.
+2026-10-06T23:01:17.943Z,@chativa/vue,0.9.0,aimtune,MIT,1631,"Chativa Vue 3 — typed Vue components (ChatIva, ChatBotButton, GenUIMessage), a ChativaPlugin and composables wrapping the Chativa chat widget for Vue 3 / Nuxt 3 apps."
+2026-10-06T23:01:21.03Z,@chativa/vue2,0.9.0,aimtune,MIT,1715,"Chativa Vue 2 — Vue 2.7 / Nuxt 2 wrapper components (ChatIva, ChatBotButton, GenUIMessage) and a Vue.use() plugin for the Chativa chat widget. Maintenance-mode package for legacy Vue 2 codebases."
+2026-10-06T23:01:23.696Z,@chativa/svelte,0.9.0,aimtune,MIT,1882,"Chativa Svelte — typed Svelte 5 components (ChatIva, ChatBotButton, ChativaProvider), readable stores and an SSR-safe registerChativa() for Svelte/SvelteKit apps."
+2026-10-06T23:01:31.092Z,@blixis-io/security,0.0.0,blixis,MIT,93,placeholder
+2026-10-06T23:01:44.53Z,@blixis-io/health,0.0.0,blixis,MIT,91,placeholder
+2026-10-06T23:02:13.463Z,thegoalbuddy,0.5.0,plgonzalezrx8,MIT,14426111,"A goal operating loop for Codex and Claude Code: goal oracles, local boards, receipts, and verification."
+2026-10-06T23:02:58.097Z,@poluri-org/poluri-1006-02,0.0.0-stage,poluri,,348,Temporary package placeholder for staged publishing
+2026-10-06T23:03:33.291Z,@chativa/angular,0.9.0,aimtune,MIT,191369,"Chativa Angular — standalone components (chativa-chat-iva, chativa-chat-bot-button, chativa-genui-message), an NgModule and ChativaService wrapping the Chativa chat widget for Angular 16+ apps."
+2026-10-06T23:03:47.488Z,novaterm,0.1.1,diegolopez02081,MIT,14642296,NovaTerm desktop terminal for Windows x64 — launch with npx novaterm
+2026-10-06T23:05:08.245Z,@existera/ui,1.0.2,galuhidam,MIT,4039741,Modern UI Library
+2026-10-06T23:06:00.008Z,@mirage-cli/windsor,0.1.0,alexbruf,MIT,4313,Windsor.ai CLI as an importable mirage / Cloudflare-Worker command via @mirage-cli/core.
+2026-10-06T23:06:13.313Z,@mirage-cli/windsor-cli,0.1.0,alexbruf,MIT,61479,"Windsor.ai CLI: explore connectors, accounts and fields, and query or download rows from any of Windsor's 350+ connectors with SQL-like filters. Read-only. Mirage / Cloudflare-Worker compatible."
+2026-10-06T23:08:08.817Z,@ntutbox/map-indoor,0.11.0,poterpan,MIT,159536,北科盒子（NTUT Box）校園與室內地圖：2.5D 樓層圖、空教室著色、校園白模，讀取公開的校園資料 CDN
+2026-10-06T23:09:40.336Z,atelier-gate,0.1.0,friday-vasu,Apache-2.0,15397329,
+2026-10-06T23:10:38.346Z,hollerpost-mcp,0.1.0,utopiancreations,MIT,84204,"MCP server for Hollerpost: let your own AI agent draft, preview, schedule and report on email campaigns in your Hollerpost workspace."
+2026-10-06T23:10:40.125Z,@brahimhamidi/css-layout-polyfill,0.0.0-stage,brahimhamidi,,355,Temporary package placeholder for staged publishing
+2026-10-06T23:11:36.88Z,@forgeax/engine-dawn-node,0.3.9,forgeax-admin,MIT,50222,Engine-owned Node Dawn carrier; official webgpu 0.4 API with a source-built Metal timestamp correction.
+2026-10-06T23:11:46.881Z,@forgeax/engine-navigation,0.3.9,forgeax-admin,Apache-2.0,358092,"Bounded graph/grid and static NavMesh queries, local avoidance and ECS physical character following."
+2026-10-06T23:11:48.581Z,@forgeax/engine-path,0.3.9,forgeax-admin,Apache-2.0,190000,Saved Scene paths and world-distance ECS following.
+2026-10-06T23:11:57.316Z,@forgeax/engine-terrain,0.3.9,forgeax-admin,Apache-2.0,418707,"Landscape heightfield authoring, queries and deterministic section kernels."
+2026-10-06T23:15:04.622Z,expo-google-tag-manager,0.1.0,amerllica,MIT,20665,Expo config plugin that sets up Google Tag Manager for Firebase on iOS and Android during prebuild
+2026-10-06T23:17:33.935Z,@taigrr/gojev,0.0.0-stage,taigrr,,335,Temporary package placeholder for staged publishing
