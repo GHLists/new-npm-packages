@@ -1,0 +1,143 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-06T10:16:18.379Z,@extraorbital/anthropic,0.1.0,smarcombes,MIT,4035,"An API key for Anthropic, and the base URL of a proxy or gateway when the key does not go to Anthropic directly."
+2026-10-06T10:16:21.809Z,@extraorbital/authlocker,0.1.0,smarcombes,MIT,5667,"The AuthLocker client behind email codes, SMS codes and Google or GitHub sign-in, and the ways in a deployment offers."
+2026-10-06T10:16:25.747Z,@extraorbital/betterauth,0.1.0,smarcombes,MIT,4298,"The secret Better Auth signs sessions with, and the public origin the app serves them from."
+2026-10-06T10:16:31.974Z,@wix/auto_sdk_app-tools_tools-host,1.0.0,wix-ci-publisher,MIT,266615,
+2026-10-06T10:16:34.785Z,@extraorbital/gladia,0.1.0,smarcombes,MIT,4231,"A key for Gladia and the URL to spend it at: an account's own key, or a broker's virtual key with the broker's own front."
+2026-10-06T10:16:38.525Z,@extraorbital/mongo,0.1.0,smarcombes,MIT,4288,"The connection string for a MongoDB database, credentials included, and which database in it to use."
+2026-10-06T10:16:43.507Z,@extraorbital/neon,0.1.0,smarcombes,MIT,4070,"The connection string for a Neon Postgres database, and optionally its direct, unpooled twin."
+2026-10-06T10:16:48.419Z,@extraorbital/openai,0.1.0,smarcombes,MIT,4143,"An API key for OpenAI, or for any OpenAI-compatible gateway named by a base URL."
+2026-10-06T10:16:53.457Z,@extraorbital/photon,0.1.0,smarcombes,MIT,3333,Which Photon instance to search addresses against. No key: the public instance is the default.
+2026-10-06T10:17:01.783Z,@extraorbital/s3,0.1.0,smarcombes,MIT,5289,"A bucket and a key pair for any S3-compatible store: AWS, Cloudflare R2, Backblaze, MinIO, Tigris."
+2026-10-06T10:17:06.061Z,@extraorbital/supabase,0.1.0,smarcombes,MIT,4780,"A Supabase project's URL, its service-role key and the Postgres connection string behind it."
+2026-10-06T10:17:10.44Z,@extraorbital/turn,0.1.0,smarcombes,MIT,5039,"A TURN relay for the peers that cannot reach each other directly. Optional: without it, connections use STUN alone."
+2026-10-06T10:19:11.304Z,@typescript-agent-harness/tools,0.17.0,michaelvendor,MIT,38728,Tool registry and local filesystem tools
+2026-10-06T10:20:46.597Z,@cloudware-de/gatekeeper-protocol,0.1.0,cloudware_dev,GPL-2.0-or-later,316114,"Cloudware Gatekeeper protocol core: encoding, KDF, challenge, token"
+2026-10-06T10:21:16.85Z,@storyshelf/affected,0.5.3,guptasiddhant,MIT,67913,Affected capture for StoryShelf: dependency-graph tracing that selects the stories impacted by a change.
+2026-10-06T10:21:18.391Z,@cloudware-de/gatekeeper-widget,0.1.0,cloudware_dev,GPL-2.0-or-later,218615,Cloudware Gatekeeper checkbox widget (Web Component). T-211 Artikel 8.
+2026-10-06T10:21:30.356Z,@storyshelf/auth,0.5.3,guptasiddhant,MIT,350365,"Better Auth engine for StoryShelf: opaque DBAdapter bridge, shelf factory, and auth presets."
+2026-10-06T10:21:30.413Z,@cloudware-de/gatekeeper-react,0.1.0,cloudware_dev,GPL-2.0-or-later,10365,Cloudware Gatekeeper React wrapper around <gatekeep-widget>. T-306 Artikel 8 / SSR.
+2026-10-06T10:21:36.016Z,@storyshelf/db-mysql,0.5.3,guptasiddhant,MIT,250192,"MySQL/MariaDB database adapter for StoryShelf (mysql2 + Drizzle, PlanetScale/TiDB compatible)."
+2026-10-06T10:21:39.927Z,@storyshelf/db-postgres,0.5.3,guptasiddhant,MIT,276655,"Postgres database adapter for StoryShelf (postgres.js + Drizzle, RDS/Cloud SQL/Supabase/Neon compatible)."
+2026-10-06T10:21:53.844Z,@storyshelf/notify-chat,0.5.3,guptasiddhant,MIT,27330,Chat notification providers for StoryShelf (Slack and Teams incoming webhooks).
+2026-10-06T10:21:57.664Z,@storyshelf/notify-email,0.5.3,guptasiddhant,MIT,32230,"Email notification transport for StoryShelf (SMTP, Mailpit, log, HTTP APIs)."
+2026-10-06T10:22:01.768Z,@storyshelf/observability,0.5.3,guptasiddhant,MIT,64714,"StoryShelf observability: OpenTelemetry tracing, metrics, and log correlation over @storyshelf/core adapters."
+2026-10-06T10:22:06.086Z,@storyshelf/app,0.5.3,guptasiddhant,MIT,1526530,"StoryShelf app: Hono app, API routes, and server-rendered UI over @storyshelf/core."
+2026-10-06T10:22:10.609Z,@storyshelf/queue-azure,0.5.3,guptasiddhant,MIT,57243,Azure capture queue adapter for StoryShelf: Storage Queues or Service Bus.
+2026-10-06T10:22:13.514Z,@storyshelf/queue-gcp,0.5.3,guptasiddhant,MIT,34628,GCP capture queue adapter for StoryShelf: Cloud Pub/Sub.
+2026-10-06T10:22:15.112Z,@aj1181/kiln,0.1.1,aj1181,MIT,352264,A Lovable-grade product shell for terminal coding agents. One command turns an empty directory into a running app you can look at.
+2026-10-06T10:22:16.827Z,@storyshelf/queue-redis,0.5.3,guptasiddhant,MIT,34969,"Redis capture job queue adapter for StoryShelf (self-hosted, Docker Compose)."
+2026-10-06T10:22:27.011Z,@xian0x5a/pi-durable-subagents,0.1.0,xian0x5a,MIT,1547192,Durable Pi agents that collaborate asynchronously under explicit Owner and Spawner supervision.
+2026-10-06T10:22:28.509Z,@storyshelf/runner-puppeteer,0.5.3,guptasiddhant,MIT,58249,"Puppeteer CaptureRunner for StoryShelf (Chromium via chrome-headless-shell, smaller image)."
+2026-10-06T10:22:40.413Z,@storyshelf/storage-azure,0.5.3,guptasiddhant,MIT,35692,Azure Blob Storage adapter for StoryShelf.
+2026-10-06T10:22:44.162Z,@yanqd0/dsh-dev-dsh,0.1.0,yanqd0,MIT,619725,"dsh plugin for developing dsh plugins: ships the out-of-tree authoring method as a skill that installs with the plugin, plus opt-in experimental submodules"
+2026-10-06T10:22:47.168Z,@storyshelf/storage-gcs,0.5.3,guptasiddhant,MIT,26744,Google Cloud Storage adapter for StoryShelf.
+2026-10-06T10:23:13.008Z,@mainbrella/sdk,0.1.0,andrewarrow,GPL-3.0-only,89043,Mainbrella container automation client
+2026-10-06T10:23:55.891Z,@msiric/redue,0.1.0-alpha.1,msiric,Apache-2.0,290671,Persistent verification state for developers and coding agents.
+2026-10-06T10:24:48.134Z,@ai-composer/testing,0.1.1,deepakchopkar,MIT,27696,Shared contract-test helpers for AI Composer adapters. Use this package when implementing or maintaining an adapter to check that it follows the common editor behavior.
+2026-10-06T10:24:48.634Z,@ai-composer/vue,0.1.1,deepakchopkar,MIT,83787,"Vue 3 adapter for AI Composer. It provides Composition API integration, reactive editor state, `v-model` support, and composable components for building an AI chat input or prompt editor."
+2026-10-06T10:24:52.521Z,@ai-composer/plugin-mention,0.1.1,deepakchopkar,MIT,14711,"Optional `@` mention trigger plugin for AI Composer. Provide suggestion items such as people, teams, or documents; accepted suggestions are stored as typed document nodes."
+2026-10-06T10:26:13.886Z,@stratl.ai/sdk,0.1.0,vyana-compute,Apache-2.0,60744,Stratl SDK: record AI decisions as Stratl Record Format (SRF) evidence
+2026-10-06T10:26:35.582Z,@jsswift/knowledge-mcp,0.1.0,ccamavi,MIT,13880,Read-only MCP for the installed JSswift version's documentation
+2026-10-06T10:26:55.841Z,@wgtechlabs/mdd-engine,0.1.0,warengonzaga,MIT,50589,Headless Markdown documentation compiler for mdd
+2026-10-06T10:27:03.347Z,@serverlessinbox/artifact-registry-cdk,0.1.2,jwpkg,Apache-2.0,388727,CDK construct that deploys the per-region S3 buckets of an artifact registry
+2026-10-06T10:27:07.932Z,roweather,0.2.0,ronotbroyt,UNLICENSED,74917,"Ro-Weather in your terminal: forecast, warnings, lightning, storm risk and radar."
+2026-10-06T10:27:09.856Z,roweather-radar,0.1.0,ronotbroyt,UNLICENSED,1999,"Rain radar in your terminal: a map around you, the rain at your spot and the nearest rain. Part of Ro-Weather."
+2026-10-06T10:27:46.649Z,zambool,0.1.0,vivekraman,ISC,27426,A data-coded component framework for AI
+2026-10-06T10:28:12.078Z,@storyshelf/worker,0.5.3,guptasiddhant,MIT,38017,Remote capture worker for StoryShelf: polls a CaptureQueue and runs the capture pipeline with any CaptureRunner.
+2026-10-06T10:28:51.575Z,astro-module,0.1.0,bharatunicorn,MIT,121474,"Module migrations, permissions, and Astro page/API scaffold for Astro projects"
+2026-10-06T10:28:52.423Z,@fiddle-digital/jitzy-plugin-sdk,0.0.1,penev_palemiya,UNLICENSED,110437,"Plugin SDK for building custom Jitzy animations, themes, connector styles, and renderer extensions."
+2026-10-06T10:29:19.131Z,craft-ledger,0.1.0,metamol0627,MIT,128464,minne・Creema の注文 CSV を月別にまとめる（作品代金・送料・販売手数料・振込予定額）
+2026-10-06T10:29:30.285Z,@fiddle-digital/jitzy,0.0.1,penev_palemiya,UNLICENSED,522828,"High-performance WebGL runtime for DOM-attached markers, connectors, and interactive topology overlays."
+2026-10-06T10:29:30.492Z,@fitchmultz/pi-verbosity-control,0.6.1,fitchmultz,MIT,23695,Per-model OpenAI verbosity control for Pi with optional native footer status
+2026-10-06T10:29:31.971Z,@dileep-ct/grove,1.0.1,dileep-ct,MIT,220555,"One git worktree per branch for Laravel apps, each with its own URLs, databases, dependencies and logs"
+2026-10-06T10:29:48.042Z,@fiddle-digital/jitzy-three,0.0.1,penev_palemiya,UNLICENSED,96246,Three.js bridge for projecting world-space anchors into @fiddle-digital/jitzy targets.
+2026-10-06T10:30:25.456Z,@fareszedney/payload-plugin-pdf-templates,1.0.0,fareszedney,,28829,"Adds a configurable PDF-template collection and reusable PDF generation, interpolation, template preparation, and media upload utilities to Payload 3. The `@pdfme/*` packages are dependencies of this…"
+2026-10-06T10:30:30.95Z,@onebudgetspec/cli-win32-arm64,0.1.2,nickderobertis,MIT,3105753,"The onebudgetspec binary for win32-arm64, installed by @onebudgetspec/cli."
+2026-10-06T10:30:33.573Z,@onebudgetspec/cli-win32-x64,0.1.2,nickderobertis,MIT,3620305,"The onebudgetspec binary for win32-x64, installed by @onebudgetspec/cli."
+2026-10-06T10:31:54.584Z,@anyanalytics/analytics,0.1.0,vexilio,SEE LICENSE IN LICENSE.md,79271,"AnyAnalytics SDK for games, apps and websites"
+2026-10-06T10:32:07.773Z,@ai-composer/react,0.1.1,deepakchopkar,MIT,109255,"React components and hooks for building customizable AI chat inputs and prompt editors. Compose the input, attachments, suggestions, and toolbar, or start with the ready-to-use `<AIComposer />`."
+2026-10-06T10:32:14.308Z,@xchonnect/dapp,0.1.0-rc.1,xchonnect,Apache-2.0,848078,Xchonnect dApp SDK: pair with mobile wallets and send CHIP-0002 requests.
+2026-10-06T10:32:23.429Z,inertia-native,0.1.0-beta.2,zumkorn,MIT,44293,Drive Inertia.js navigation and bridge components from Hotwire Native (iOS & Android)
+2026-10-06T10:33:08.181Z,designyourqr,1.0.0,steven1337,MIT,32884,"Generate designed, scannable QR codes as SVG - custom module and eye shapes, gradients, presets and logo embedding. The open engine behind designyourqr.com."
+2026-10-06T10:33:35.683Z,@rigai/transport-http,0.1.1,haymant,MIT,43385,WebSocket transport client for RIGA-compatible browser clients.
+2026-10-06T10:33:57.86Z,@rigai/transport-tauri,0.1.1,haymant,MIT,661,Tauri transport boundary for RIGA-compatible desktop clients.
+2026-10-06T10:33:59.357Z,@fourbits-studio/tool-gateway,0.1.1,sinsamuth,MIT,5509,"A lightweight, type-safe and extensible AI tool gateway for TypeScript, Node.js and Bun."
+2026-10-06T10:34:40.16Z,sparkng,21.1.10,aronno1920,SEE LICENSE IN LICENSE.md,10276592,"SparkNG is an open source UI library for Angular featuring a rich set of 80+ components, a theme designer, various theme alternatives such as Material, Bootstrap, Tailwind, premium templates and prof…"
+2026-10-06T10:34:47.66Z,@astondb/gateway,0.3.0,peter.molnar,MIT,1395459,"Internal library of `@astondb/gateway-local`, not meant to be used directly."
+2026-10-06T10:34:51.124Z,@astondb/login-list,0.3.0,peter.molnar,MIT,3453,"Internal library of `@astondb/gateway-local`, not meant to be used directly."
+2026-10-06T10:34:54.059Z,@astondb/gateway-local,0.3.0,peter.molnar,MIT,19740,"Runs your AstonDB v5 app on your own machine, with only Node and no Docker."
+2026-10-06T10:35:33.87Z,@neuralis/admin,0.1.0,eszesalex,FSL-1.1-ALv2,1694448,"The management layer of Neuralis — where owners and admins govern a workforce of humans AND agents with one vocabulary: who is in which project, what each role may do (feature grants + priority), wha…"
+2026-10-06T10:35:41.833Z,papercliped,1.1.0-beta.2,og.kpnworld,MIT,463310,"Papercliped — connect Claude and ChatGPT to your Paperclip: control agents, sync, report. MCP server + hosted multi-tenant OAuth bridge + separate operator panel."
+2026-10-06T10:35:41.901Z,@neuralis/machine-core,0.1.0,eszesalex,FSL-1.1-ALv2,864899,"The hands and eyes of the Neuralis workforce: an agent here does not get a browser-shaped API, it gets a computer. Provides a per-user persistent virtual desktop (LinuxServer Webtop, XFCE on Ubuntu,…"
+2026-10-06T10:36:05.992Z,@kurrent/pulumi-kurrentcloud,0.0.0-stub.0,timur.nugaev,Apache-2.0,790,Placeholder that reserves the name for the Kurrent Cloud Pulumi provider. Not usable; install 0.3.0 or later.
+2026-10-06T10:37:12.159Z,@sneaps/whatsapp-chat,0.1.0,benoiteveillard,MIT,45609,"Floating WhatsApp click-to-chat button for EmDash sites (native plugin, no WhatsApp Business API)."
+2026-10-06T10:38:02.322Z,@cardnexus/cardnexus-public,0.2.0,cardnexus,Apache-2.0,3451256,"The CardNexus Public API provides programmatic access to the CardNexus marketplace and catalogue — games, expansions, and products across Magic: The Gathering, Pokémon, One Piece, and the other games…"
+2026-10-06T10:38:55.284Z,@txco/web-abi,0.1.0,mankins,MIT,51053,"The TxCo Web ABI conformance kit: the txco-web.json schema and validator, the envelope ↔ Fetch bridge every runner uses, and a harness that checks a build's server/ Fetch handler."
+2026-10-06T10:39:01.331Z,@ofzza/tsschema,0.1.0-alpha.1,ofzza,MIT,88571,"Helps generate TS data models, provides TS utility types for deep type inference and provides TS runtime utilities for type reflection, all based off of a JSON schema"
+2026-10-06T10:39:03.904Z,@connect4/contracts,1.0.0,moluy1307,UNLICENSED,114952,Versioned Connect4 protocol contracts for native WebSocket clients and backend.
+2026-10-06T10:40:28.561Z,netvein-mcp,0.6.0,dongdev,MIT,794124,"Local-first Chrome CDP reverse engineering & wire-level traffic MCP server, for Claude Code, Cursor, Codex, OpenCode, Gemini, AntiGravity, and Hermes Agent — zero DOM bloat, stealth bot bypass, 100%…"
+2026-10-06T10:40:38.898Z,pi-context-guard-jev,0.1.0,alandarev,MIT,142467,"Keep big tool outputs from bloating your Pi context: after each run, the Jev classifier keeps only the lines your work still needs, verbatim and recallable, with savings in the status bar. Claude + O…"
+2026-10-06T10:40:41.746Z,selora,0.3.0,tox2c,MIT,371490,Open-source CLI for the Selora API gateway
+2026-10-06T10:43:25.219Z,@jacklika/dsh-todo-anchor,0.1.0-alpha.0,jacklika,MIT,24363,"Re-injects the session task list into every prompt. `todo_write` replaces the whole list and nothing reads it back, so a list written once and left stale misreports progress; this plugin observes suc…"
+2026-10-06T10:43:49.246Z,@invince/browser,0.1.0,jemimah,MIT,103839,"Browser error monitoring SDK for Invince — captures errors, unhandled rejections, network failures, and breadcrumbs."
+2026-10-06T10:43:54.852Z,@invince/node,0.1.0,jemimah,MIT,91070,"Server-side error and performance monitoring SDK for Invince — captures exceptions, unhandled rejections, outgoing HTTP call timing, and custom transactions."
+2026-10-06T10:44:21.832Z,@twofactor.tech/forest.banyan.for-self.access-toolkit,0.0.1,yarnfog,,12955,Install the dependencies:
+2026-10-06T10:44:55.742Z,feedwire,0.1.0,jeff9james,MIT,24699,A /feedback endpoint for your API so AI agents can report bugs and missing features. Express middleware.
+2026-10-06T10:46:08.73Z,vishal18-sumoftwonumbers,1.0.0,vishal18,ISC,333,
+2026-10-06T10:46:20.811Z,@marcmeese/n8n-nodes-doc2doc,0.0.2,marcmeese,MIT,120935,"n8n Nodes für die doc2doc API: Dokumente zwischen Formaten konvertieren (PDF, DOCX, Markdown, ...)"
+2026-10-06T10:46:25.976Z,@marcmeese/n8n-nodes-mediatranscriber,0.0.1,marcmeese,MIT,107812,"n8n Nodes für die MediaTranscriber API: Audio/Video (Datei oder URL) mit WhisperX transkribieren (JSON, TXT, SRT)"
+2026-10-06T10:46:33.044Z,@ttoss/errors,0.1.0,pedroarantes,MIT,17117,"Zero-dependency expected-error contract: errors an operation anticipates and handles, kept out of error tracking"
+2026-10-06T10:46:40.92Z,newbee-sdd,1.0.0,qieb,MIT,67094,"规格驱动开发（SDD）工作流与多工具适配套件 - 支持 dsh, OpenCode, Claude Code, Cursor, Codex"
+2026-10-06T10:47:03.805Z,@crescendolab/agentlab-cli,0.0.0,vdustr,UNLICENSED,745,Placeholder for the Agent Lab CLI. The executable will be provided in a future release.
+2026-10-06T10:47:23.611Z,angular-avatar-player,0.1.0,mateuszpsuja,MIT,236847,"Animated SVG avatar component for Angular. Blinking, eye movement, head idle motion and lip sync, rendered as pure vector SVG with no images or runtime assets."
+2026-10-06T10:47:32.448Z,fumadocs-test-reports,0.1.0,shenxianovo,MIT,50123,Test report adapters and React UI for Fumadocs
+2026-10-06T10:47:46.609Z,react-avatar-player,0.1.0,mateuszpsuja,MIT,94891,"Animated SVG avatar components and hooks for React. Blinking, eye movement, head idle motion and lip sync, rendered as pure vector SVG with no images or runtime assets."
+2026-10-06T10:48:04.409Z,create-amos-server,1.0.0,amosmurmu,ISC,73547,Minimal Node.js TypeScript Express PostgreSQL starter
+2026-10-06T10:48:10.765Z,@jclanker/dbmanager,1.0.0,jclanker,ISC,8104,"Small promise-based wrapper around better-sqlite3 with WAL mode, batched transactional statements and optional query timing logs"
+2026-10-06T10:48:17.514Z,@spleenteo/datocms-dev-bar,0.1.0,spleenteo,MIT,550843,"A local-only dev bar for DatoCMS sites: draft/published, visual editing and an X-Ray of the page's queries, loaded into any Node dev server without touching your code."
+2026-10-06T10:48:22.174Z,@profullstack/encrypt,0.1.0,moshcoder,MIT,24056,"Quantum-resistant encrypt/decrypt: qrypt.chat's ML-KEM-1024 + HKDF-SHA-256 + ChaCha20-Poly1305 by default, with room for more algorithms. Library, CLI and MCP server."
+2026-10-06T10:49:59.553Z,aas-configuration-web-component,1.0.0,desai2112,,174080,Framework-agnostic AAS configuration form built with Angular Elements.
+2026-10-06T10:50:01.514Z,@guardbee/mcp-threat-rules,0.1.0,guardbee.ai,MIT,68866,"GuardBee MCP bridge to Agent Threat Rules (ATR) — evaluate agent/MCP events against the open Sigma-like detection standard for prompt injection, tool poisoning, context exfiltration, and MCP attacks"
+2026-10-06T10:50:23.881Z,changelog-modal-element,1.0.0,minhaj.me.bd,MIT,317953,Universal web component and markdown sanitization engine for rendering interactive changelog modals across any web stack.
+2026-10-06T10:50:27.952Z,@agenteco/sdk,0.1.1,saypotsan,,228285,"AgentEco SDK and agent runtime: createSellerAgent, hire() and the capability registry for self-hosted agents (src/sdk), plus the shared negotiation policy, capability code, hashes and on-chain client…"
+2026-10-06T10:51:43.164Z,@datarealiser/agent-framework,0.1.0,datarealiser,MIT,30432,"A minimal Node.js + TypeScript framework for building tool-using Claude agents, with a built-in MCP client for external tool servers"
+2026-10-06T10:52:24.771Z,prism-authts,1.0.0,coral518518,MIT,78221,Zero-dependency Cloudflare Worker & Edge middleware for Prism OAuth2/OIDC SSO authentication
+2026-10-06T10:52:58.534Z,node-red-contrib-roborock-local,0.1.0,nomiels,MIT,174842,"Node-RED nodes for local LAN control of Roborock vacuums, with a built-in Roborock account login to fetch device keys."
+2026-10-06T10:53:33.466Z,@neuralis/brain-core,0.1.0,eszesalex,FSL-1.1-ALv2,9939546,"The brain of Neuralis: any system a connector can reach — local directories, repositories, machine sandboxes, the vector memory itself — joins ONE URI-addressed, vector-indexed, project/user/agent-sc…"
+2026-10-06T10:53:34.177Z,@nebos1/promptov,0.0.1,nebos1,ISC,41215,A small CLI that turns a vague visual idea into a useful image prompt for AI image generators.
+2026-10-06T10:53:56.719Z,leashed-wallet-cli-platform,0.5.1,poom5741,MIT,60489,"Leashed Agent Platform CLI — fork of thaifi-wallet-cli. Pair a ThaiFi wallet, deploy AI agents with on-chain leash, register marketplace services, audit receipts."
+2026-10-06T10:54:49.2Z,@navipartner/demo-video,0.4.0,petergotil,UNLICENSED,174410,"Marketing demo videos of a React app, filmed by Playwright against the app's own e2e mocks."
+2026-10-06T10:55:24.038Z,@globalmpc/dapp-stats,0.1.0,agent-mpc,MIT,89846,"Compute a dApp's own activity numbers from chain data — daily transactions, active wallets, holders, return rate and the sponsored-vs-user-paid gas split — and publish them as dated JSON and a self-c…"
+2026-10-06T10:55:46.016Z,hridoy-ultimate,8.0.0,alpha-kakashi,MIT,34469446,"Facebook Chat API by HR ID OY | Stable • Auto Re-login • Full E2EE Support — send messages, media, reactions & more in encrypted chats, hassle-free"
+2026-10-06T10:56:57.567Z,bayma-repl,0.12.1,tabular16books,MIT,33898,"Set up bayma, a durable engine for REPL sessions, and launch its MCP servers in Docker: npx bayma-repl init"
+2026-10-06T10:57:16.174Z,@dvdevcz/linters,0.2.2,littlewallcz,,37415,Shared lint configs of Digital Vision CZ in one package:
+2026-10-06T10:57:20.281Z,yomio-mcp-stdio,1.0.0,yomio,MIT,17614,Connect an MCP-compatible AI client to Yomio with browser sign-in
+2026-10-06T10:57:20.346Z,koishi-plugin-smmcat-sourcebydpsk,0.0.2,smmmax,MIT,35267,让大肥鱼帮我查出处！
+2026-10-06T10:58:53.702Z,@mbelinky/openclaw-claude-sessions,0.1.0-beta.1,mbelinky,MIT,22056,Ask existing Claude Code sessions through OpenClaw agents on any channel
+2026-10-06T10:59:18.355Z,wit-form,0.1.0,nikhilag,MIT,172616,Performant React forms where every field is a Jotai atom
+2026-10-06T10:59:22.396Z,@mejazbese21/react-window-sticky-grid,1.4.0,mejazbese21,,42818,"Virtualized React grid with sticky header and pinned columns, for very large row and column counts."
+2026-10-06T11:00:03.618Z,@tevui/table,1.0.0,andreluizbsn,ISC,25262,"A React table component with configurable columns, cell formatting, row actions, an empty-state message, and link-based pagination."
+2026-10-06T11:01:38.068Z,@gyral/mcp,0.2.0,mikezupper,MIT,773080,"Gyral MCP server: docs search, API lookup, examples, scaffolding and snippet checks for coding agents."
+2026-10-06T11:02:03.175Z,n8n-nodes-email-spam-tester,0.1.0,tanichev,MIT,304001,"n8n nodes for Email Spam Tester: test an email before sending it (SPF, DKIM, DMARC, blocklists, content, folder at email providers) and check every email a newsletter sends"
+2026-10-06T11:02:46.644Z,@detiq/api-tests,1.1.26,tucnow,,24023,
+2026-10-06T11:04:16.668Z,@redue/cli,0.1.0-alpha.2,msiric,Apache-2.0,291566,Persistent verification state for developers and coding agents.
+2026-10-06T11:04:20.571Z,print-vishal,1.0.0,vishal18,ISC,299,
+2026-10-06T11:04:34.378Z,salispay-paymentgateway,1.0.0,balasaraswathi_credopay,MIT,13285,Salispay Payment Gateway API wrapper
+2026-10-06T11:05:47.833Z,@sofar.sh/core-win32-x64,0.34.0,jithinkumar,MIT,2701189,sofar's native hot-path core (sofar-core) for win32-x64. Installed by sofar.sh as an optional dependency; never depend on it directly.
+2026-10-06T11:05:49.244Z,@cdxpay/payments,1.0.0,ecampere,MIT,13620,"Carregador do SDK de pagamentos da CDX Pay: formulário de cartão isolado, a página da loja recebe só um token."
+2026-10-06T11:07:20.968Z,react-native-keys-next,1.0.0-beta.1,prithin_babu,MIT,45458708,🔐 Protected ENV variables for React Native (maintained fork of react-native-keys with React Native 0.75+ / New Architecture support)
+2026-10-06T11:09:14.276Z,@anvia/azure,0.0.0-bootstrap.0,indrazm,MIT,860,Registry bootstrap placeholder for the Anvia Azure provider. Not a functional release.
+2026-10-06T11:10:09.537Z,@diephp/qrcode,1.0.0,diephp,MIT,237815,"Compact browser QR code generator: styled dots and corners, logo with safe auto-sizing, SVG/PNG/JPEG/WebP export with transparency."
+2026-10-06T11:10:35.827Z,@sofar.sh/core-darwin-arm64,0.34.0,jithinkumar,MIT,2390355,sofar's native hot-path core (sofar-core) for darwin-arm64. Installed by sofar.sh as an optional dependency; never depend on it directly.
+2026-10-06T11:10:39.984Z,@sofar.sh/core-darwin-x64,0.34.0,jithinkumar,MIT,2785575,sofar's native hot-path core (sofar-core) for darwin-x64. Installed by sofar.sh as an optional dependency; never depend on it directly.
+2026-10-06T11:10:59.377Z,@sofar.sh/core-linux-arm64,0.34.0,jithinkumar,MIT,2562005,sofar's native hot-path core (sofar-core) for linux-arm64. Installed by sofar.sh as an optional dependency; never depend on it directly.
+2026-10-06T11:11:03.659Z,@sofar.sh/core-linux-x64,0.34.0,jithinkumar,MIT,2983217,sofar's native hot-path core (sofar-core) for linux-x64. Installed by sofar.sh as an optional dependency; never depend on it directly.
+2026-10-06T11:13:13.511Z,privacy-redact,0.1.0,gitcommitshow,Apache-2.0,30737,"Library for detecting private content, redacting it, and handling document metadata. Browser components cover OCR, faces, barcodes, and PDF pages."
+2026-10-06T11:13:34.641Z,mewitfsimtfultmis,0.1.1,l3lackmegas,WTFPL,53869,MY ELYSIA WEB IS TOO FAST SO I MADE THIS FUCKING USELESS LIBRARY TO MAKE IT SLOWER
+2026-10-06T11:15:43.312Z,quelltest,0.1.0,shashankbindal,MIT,12461,Offline-first edge-case discovery and production-readiness scoring for JavaScript and TypeScript projects.
+2026-10-06T11:16:00.674Z,@usedigisign/react-native-verification-sdk,0.0.1,omofolarin_digisign,MIT,152960,DigiSign verification WebView SDK for React Native and Expo
+2026-10-06T11:16:29.321Z,aidme-mcp-linux-arm64,0.1.1,imvhb,Apache-2.0 OR MIT,11765689,AidMe operator runtime for linux-arm64 (aarch64-unknown-linux-musl).
+2026-10-06T11:16:57.654Z,@pubb/sdk,0.2.0,redoh,MIT,40731,Pubb SDK for real-time messaging - a Pusher-compatible alternative
+2026-10-06T11:17:47.271Z,pankek,0.1.0,pankek,MIT,64302,"Press a hotkey, click a React component, see exactly which network/API calls it made."
+2026-10-06T11:18:06.557Z,delight-mcp,0.0.0-stage,fulliron,,333,Temporary package placeholder for staged publishing
