@@ -1,0 +1,110 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-05T23:15:20.554Z,@naesofteak/naeso,1.0.0,naesofteak,MIT,66363,Naesofteak Package Manager for macOS
+2026-10-05T23:16:25.002Z,@g9tm/signalr-supernetcore-client,2.10.0,imankari,MIT,476714,"TypeScript twin of the G9SignalRSuperNetCore .NET client for browsers, Node and Lynx: resilient connection, JWT authorize route, resumable file upload/download, connection quality monitor and error c…"
+2026-10-05T23:16:30.82Z,@g9tm/signalr-supernetcore-lynx,2.10.0,imankari,MIT,194410,"Lynx support for the G9SignalRSuperNetCore TypeScript client: a binary WebSocket native module (Android OkHttp, iOS URLSessionWebSocketTask, Lynxtron/Node), runtime shims and a ready-made G9Client fa…"
+2026-10-05T23:17:49.506Z,@openagt/agent-data,0.0.1,suleimansh,MIT,114885,"A branch of the project's repository used as a file store for coding-agent skills. Checked out under .branches/; every write is one sync-commit-push cycle that re-applies when it loses a race, from a…"
+2026-10-05T23:17:58.862Z,@openagt/skill-logs,0.0.1,suleimansh,MIT,86072,"The agent logs for coding agents: the record of every run made on a project, its card and its diary, kept on a branch of the project's repository and read with the logs command."
+2026-10-05T23:18:10.642Z,@openagt/dashboard,0.8.0,suleimansh,MIT,6963174,The (AI) Framework: a local dashboard and daemon for coding agents. It starts an agent through the project's own start hook and shows every agent from the files it keeps; it runs no coding agent itse…
+2026-10-05T23:18:28.895Z,@semq/sdk,1.0.0,eugeniobatch,PolyForm-Noncommercial-1.0.0,198469,"TypeScript binding for the SEMQ codec, compiled to WebAssembly."
+2026-10-05T23:19:46.984Z,@aiyoplane/microsoft-agent-framework,1.0.1,rashonmassey,Apache-2.0,23150,AEAP Composition Boundary Adapter for the Microsoft Agent Framework. Thin wrapper that attaches the Runtime Decision Point to agent middleware and workflow execution.
+2026-10-05T23:20:24.628Z,gudong-content-cli,0.1.0,gudong_tx,MIT,107673,"CLI tool that lets AI agents read your Good Content (好内容) read-later library from S3/WebDAV. No MCP needed, just a command."
+2026-10-05T23:20:31.604Z,@sagelabs/dice-mcp-server,1.4.1,guan-tends,MIT,127258,"Stateless dice engine MCP tool server - generic d20-style notation, L5R 4e Roll & Keep, and L5R 5e ring/skill symbol dice, via the Model Context Protocol."
+2026-10-05T23:20:55.056Z,@sagelabs/calculator-mcp-server,1.0.0,guan-tends,MIT,99208,"Scientific calculator MCP tool server - safe expression evaluation, symbolic calculus (derivative, simplify, solve, integral), statistics, and matrix operations, via the Model Context Protocol."
+2026-10-05T23:22:03.072Z,mcp-esimgamer-ping,1.0.0,stocky-product-owner,MIT,5673,An official MCP Server to calculate international gaming latency (ping) for traveling gamers.
+2026-10-05T23:22:49.183Z,@azzerty23/zenstack-orpc,0.1.0,azzerty23,MIT,300538,"Generate a fully typed oRPC v2 router (RPC + OpenAPI/REST, live queries, files) from a ZenStack v3 schema"
+2026-10-05T23:23:04.514Z,picgo-plugin-axmipic,0.1.0,axmishell,MIT,7984,AXmiPic 图床上传插件（PicGo / PicList）
+2026-10-05T23:24:29.187Z,@rex0220/print-craft-authoring-tools,0.1.0,rex0220,MIT,532408,rex0220 印刷屋プラグイン（kintone）の設定 JSON を AI で作る・確かめるための tools（fields / record / pull / normalize / preview / diff / buttons / version）。計算式エンジンと印刷屋のコードは利用者の印刷屋プラグインの zip から読む
+2026-10-05T23:24:41.326Z,@lspd-ai/core,0.1.0,christina_greer,Apache-2.0,181652,"The LSPD TypeScript client core: app login, token refresh and revocation, the session store, and the request layer. Pure: it never prompts and never holds a secret."
+2026-10-05T23:24:49.651Z,tree-sitter-spectra,0.2.0-rc.1,seanfroste,MIT,408376,Tree-sitter grammar for the SPECTRA input language
+2026-10-05T23:25:10.075Z,@lspd-ai/cli,0.1.0,christina_greer,Apache-2.0,897769,"lspd, the LSPD command-line client for the public API, in TypeScript over @lspd-ai/core. A thin oclif front end: it prompts, formats, and passes values into the core."
+2026-10-05T23:25:19.972Z,serializable-result,0.1.0,jackson-y,,18258,A plain-data Result type that survives React Server Function serialization.
+2026-10-05T23:26:45.557Z,@ambolt/vies,0.1.0,ambolt,MIT,15557,"EU VIES VAT number check: offline syntax validation, retry on VIES member-state errors, request queue, consultation number. Zero dependencies, typed."
+2026-10-05T23:27:12.96Z,pxtk-cli,0.2.1,jdeffner,GPL-3.0-or-later,26244655,Standalone Paradox Modding Toolkit commands and local MCP tools.
+2026-10-05T23:29:31.576Z,artifacture,0.8.1,theclaymethod,MIT,25057921,"Charts, diagrams, and presentations from editable source, exported as standalone HTML."
+2026-10-05T23:29:59.972Z,@fitchmultz/pi-calculator,4.1.1,fitchmultz,MIT,36044,Deterministic high-precision calculator tool for Pi
+2026-10-05T23:30:18.668Z,@rules-cascade/common,1.0.0-alpha.2,yarlis1410,Apache-2.0,52870,"Rule Cascade's shared contract: the rule, bundle and manifest types and the five-field cron schedule that core, client and server all use."
+2026-10-05T23:30:25.438Z,@rules-cascade/core,1.0.0-alpha.2,yarlis1410,Apache-2.0,299407,Rule Cascade core for browsers and Node.js: compile YAML/JSON business rule contracts to bundles and evaluate them identically to every other runtime.
+2026-10-05T23:30:30.689Z,@rules-cascade/client,1.0.0-alpha.2,yarlis1410,Apache-2.0,45146,"Rule Cascade in the browser and in Node.js clients: fetch, cache and refresh the client manifest, and evaluate it in a React form with useRuleEvaluation."
+2026-10-05T23:30:37.265Z,@rules-cascade/server,1.0.0-alpha.2,yarlis1410,Apache-2.0,121843,Stateless HTTP rule server for Rule Cascade: serves manifests and evaluates operations. Run as many replicas as you need.
+2026-10-05T23:31:06.324Z,@persona/layout-editor-remote-module,0.0.0-bootstrap.0,garb-persona,SEE LICENSE,4988,Placeholder release. Use 0.5.0 or later.
+2026-10-05T23:31:22.504Z,email-visual-builder,0.1.0,patriciunista,Apache-2.0,1617180,"A visual email builder for React: a versioned document model, a drag-and-drop editor, and deterministic email-safe HTML export. Also renders landing pages."
+2026-10-05T23:31:26.056Z,@atengk/mcp-server-rocketmq-win32-x64,1.1.0,atengk,Apache-2.0,154800962,Windows x64 native binary for @atengk/mcp-server-rocketmq
+2026-10-05T23:31:45.642Z,@atengk/mcp-server-rocketmq-linux-x64,1.1.0,atengk,Apache-2.0,157569946,Linux x64 native binary for @atengk/mcp-server-rocketmq
+2026-10-05T23:32:06.686Z,@atengk/mcp-server-rocketmq-darwin-arm64,1.1.0,atengk,Apache-2.0,154137242,macOS Apple Silicon (arm64) native binary for @atengk/mcp-server-rocketmq
+2026-10-05T23:32:07.945Z,@atengk/mcp-server-rocketmq,1.1.0,atengk,Apache-2.0,8785,Apache RocketMQ 5 Model Context Protocol (MCP) server native binary wrapper for npx instant execution
+2026-10-05T23:34:38.825Z,@paper-route/mcp,0.1.0,dbk2002,UNLICENSED,25607,"Send photographs to a Paper Route magazine from your own machine, at full resolution."
+2026-10-05T23:34:44.574Z,@usdf/sdk,0.1.0,usdf,MIT,208103,"Client for the USDF metered inference gateway: run a prompt paid from a prepaid key or per request with x402 in USDF or USDG, OpenAI-compatible chat completions with receipts, batch jobs, quotes, bal…"
+2026-10-05T23:34:45.87Z,@termix-ssh/plugin-sdk,1.0.0,bugattiguy527,Apache-2.0,3952172,"The contract between Termix core and a plugin: types, the capability catalog and the manifest schema."
+2026-10-05T23:36:54.088Z,@tazziedevil/core,0.1.0,toddyg1981,,44904,"TazzieDevil 2.0 core domain — tier configuration and feature-gating primitives (pure, no runtime deps)."
+2026-10-05T23:36:55.564Z,@eldermael/neo-pokepet-pi,0.2.1,eldermael,MIT,185395,"A cute, colorful pet companion for the pi coding agent. Use classic ASCII pets or Petdex image pets that live below your editor and react to tools, tests, commits, PRs, reviews, subagents, model swap…"
+2026-10-05T23:36:58.897Z,@tazziedevil/billing,0.1.0,toddyg1981,,10051,"TazzieDevil 2.0 billing domain — Stripe plan key mapping (pure, no runtime deps)."
+2026-10-05T23:37:03.692Z,@tazziedevil/agent-router,0.1.0,toddyg1981,,44728,"TazzieDevil 2.0 agent router — sovereign identity guardrail, agent registry, and identity/team context injection."
+2026-10-05T23:37:08.504Z,@tazziedevil/mcp-server,0.1.0,toddyg1981,,115648,"TazzieDevil 2.0 — MCP server (stdio transport) exposing the platform API as tazzie_* tools, backed 1:1 by @tazziedevil/sdk."
+2026-10-05T23:39:43.887Z,ccproxy-client,0.1.0,ragonline,MIT,15652,Zero-dependency client for a ccproxy server: an OpenAI/Anthropic-compatible API served by the Claude Code CLI
+2026-10-05T23:39:46.244Z,ccproxy-server,0.1.0,ragonline,MIT,110755,"OpenAI- and Anthropic-compatible HTTP API served by your local Claude Code CLI, with API keys, admin console and request logs"
+2026-10-05T23:43:58.545Z,@probara/cypress-reporter,0.1.0,gustavocynch,Apache-2.0,613195,Cypress reporter that sends every test result to Probara.
+2026-10-05T23:45:06.878Z,stadiaref,3.0.0,samuel.d.clarke,MIT,354672,"An address for every part of the screen. StadiaRef shows data-ref attributes as labels you can point at and copy. For websites, web apps and PWAs."
+2026-10-05T23:47:30.373Z,@meshscale/sdk,0.1.7,oncehumanv2,,97249,Official TypeScript SDK for MeshScale
+2026-10-05T23:47:43.342Z,@pearl-framework/openapi,2.0.0,skd09,MIT,30843,Pearl.js OpenAPI — generate an OpenAPI 3.1 document from your routes and FormRequest schemas
+2026-10-05T23:47:43.955Z,@pearl-framework/cache,2.0.0,skd09,MIT,43472,Pearl.js cache — tagged key/value caching with in-memory and Redis stores
+2026-10-05T23:49:46.145Z,@shukelabs/jq,1.0.0,shukebeta,MIT,8167,"The jq command for machines that can only install npm packages: official jq compiled to WebAssembly (via jq-wasm), no native binary."
+2026-10-05T23:51:08.495Z,@craftedstudios/avatars,1.0.0,craftedstudios,MIT,83068,"Live shader avatars from any name, email or user ID, plus presence cursors. One WebGL context for the whole page, a PNG export and a React entry."
+2026-10-05T23:51:38.625Z,open-source-scout-monorepo,2.0.0,rahul-pamula,MIT,40818440,"> **Scout is a dual-engine architecture for the AI era.** Use the **v1 Cloud Dashboard** to manage your GitHub contributions, and the **v2 Local MCP** to safely orchestrate AI agents directly in your…"
+2026-10-05T23:52:34.688Z,@diegohh0411/n8n-nodes-system-one,0.2.3,diegohh0411,MIT,308476,"n8n community node for System One decision models (Jev, Clef) via OpenRouter, TypeSafe, Cloudflare Workers AI, or any compatible endpoint"
+2026-10-05T23:55:03.429Z,serpx-seo-meta-check,1.0.1,serpxai,MIT,17194,"Fast zero-dependency CLI for checking titles, meta descriptions, canonical tags, robots directives, headings and essential on-page SEO metadata."
+2026-10-05T23:55:39.167Z,@supersuit/transcript-md,0.1.0,garyfromcw,SEE LICENSE IN LICENSE,275999,"Local transcript.md records: lossless codec, validation, revisions and citations"
+2026-10-05T23:55:55.817Z,raqib,0.1.0,mroqui,MIT,75361,"Audit the instruction files your AI coding agent silently obeys: AGENTS.md, copilot-instructions.md, CLAUDE.md, .cursorrules."
+2026-10-05T23:56:38.356Z,@sst-community/svelte-kit-sst,3.0.0,_mustachio,MIT,26680,Adapter for SvelteKit apps to work on AWS Lambda and AWS Lambda@Edge.
+2026-10-05T23:57:18.625Z,@bett3r-dev/pv3-adapter-authentication-local-magiclink,1.2.1,tomasruizr,MIT,4239,
+2026-10-05T23:57:24.318Z,pixharvest-mcp,1.0.0,groundtruth-api,MIT,4367,"US Trade Data Chip (MCP) — live 2026 stacked tariff rates (base + Section 301 + IEEPA) + federal contract opportunities from SAM.gov. Source-linked, refreshed hourly. Part of GovContract Radar."
+2026-10-05T23:58:00.702Z,upcontent,0.1.0,mmaluesgo,,150732,"--- heading: Upcontent description: Turn a documentation repository into a fast, searchable, customizable static portal. ---"
+2026-10-05T23:58:21.33Z,pixharvest-us-trade-mcp,1.0.0,groundtruth-api,MIT,4385,"US Trade Data Chip (MCP) — live 2026 stacked tariff rates (base + Section 301 + IEEPA) + federal contract opportunities from SAM.gov. Source-linked, refreshed hourly. Part of GovContract Radar."
+2026-10-06T00:01:49.079Z,@dotdotgod/hermes,0.6.0,dotdotgod,Elastic-2.0,1861941,Hermes CLI and messaging-gateway adapter without Plan Mode.
+2026-10-06T00:02:12.859Z,@pi-in-go/pigpen-a2a,0.1.0,mkinsy,MIT,361218,"A2A (Agent2Agent) for PiG: serve PiG tasks to A2A agents and call remote A2A agents, on the upstream Go SDK a2a-go. The listener is off unless configured."
+2026-10-06T00:02:15.769Z,@pi-in-go/pigpen-acp,0.1.0,mkinsy,MIT,1167203,Agent Client Protocol (ACP) for PiG: pig-acp lets an editor such as Zed drive a PiG agent over stdio JSON-RPC. A Go port of pi-acp.
+2026-10-06T00:02:18.913Z,@pi-in-go/pigpen-ahp,0.1.0,mkinsy,MIT,6060264,"Go port of pi-ahp: serves the running PiG session to remote Microsoft Agent Host Protocol clients over WebSocket, with reconnect and auth. No listener unless you ask; no remote filesystem or terminal…"
+2026-10-06T00:02:21.339Z,@pi-in-go/pigpen-angry-pigs,0.1.0,mkinsy,MIT,283858,"Angry Pigs: a pixel-art slingshot game with towers, birds and physics, opened with /angry-pigs (Go). Nothing runs until you type the command."
+2026-10-06T00:02:24.919Z,@pi-in-go/pigpen-ask-user-question,0.1.0,mkinsy,MIT,1504735,"Go port of @juicesharp/rpiv-ask-user-question: a structured questionnaire the model can put to you, with typed options instead of free-form replies (partial: the dialog walker; the interactive questi…"
+2026-10-06T00:02:27.701Z,@pi-in-go/pigpen-context-info,0.1.0,mkinsy,MIT,123646,"Context-window and cost inspection for PiG: /context, /tools, /cost, /prompts, and an optional two-line status footer"
+2026-10-06T00:02:29.697Z,@pi-in-go/pigpen-dev-skills,0.1.0,mkinsy,MIT,78858,"General software-development Skills adapted from public sources: TDD with a mutation gate, diagnosing bugs, handoff, research, grilling, prototyping, code review and commit messages"
+2026-10-06T00:02:32.172Z,@pi-in-go/pigpen-dirty-repo-guard,0.1.0,mkinsy,MIT,72492,Go port of Pi's dirty-repo-guard example: blocks a session switch or fork while the git tree has uncommitted changes unless you allow it
+2026-10-06T00:02:34.677Z,@pi-in-go/pigpen-extension-equivalence,0.1.0,mkinsy,MIT,436791,"Differential harness that proves a Go port of a Pi extension behaves like the TypeScript original, plus a static check for Pi APIs the Go SDK lacks"
+2026-10-06T00:02:37.033Z,@pi-in-go/pigpen-extension-port,0.1.0,mkinsy,MIT,82186,"Test-first, proof-checked procedure for porting Pi TypeScript extensions to native Go PiG extensions"
+2026-10-06T00:02:40.372Z,@pi-in-go/pigpen-goal,0.1.0,mkinsy,MIT,4593307,"Go port of pi-goal-x: durable goals kept as files under .pi/goals (/goal-direct, /sisyphus-direct, /goal-list, /goal-pause, /goal-clear, /goal-unfocus) (partial: storage and the direct lifecycle, not…"
+2026-10-06T00:02:42.352Z,@pi-in-go/pigpen-herdr,0.1.0,mkinsy,MIT,67730,PiG agent-state reporter (Go extension) for the herdr terminal workspace manager
+2026-10-06T00:02:44.816Z,@pi-in-go/pigpen-jev,0.1.0,mkinsy,MIT,975147,"Jev for PiG: a typed judge for tool calls and tool output, plus a jev_ask tool. Opt-in, tells you what leaves the machine, and judges with the model PiG is configured with or the TypeSafe API. Go por…"
+2026-10-06T00:02:47.562Z,@pi-in-go/pigpen-ollama-native,0.1.0,mkinsy,MIT,61488,"PiG model provider (Go extension) for Ollama's native /api/chat, with the model list read from the server"
+2026-10-06T00:02:54.197Z,@pi-in-go/pigpen-permissions,0.1.0,mkinsy,MIT,15535813,"Go port of pi-permission-system: allow, ask and deny rules for tool calls, with last-match-wins wildcard patterns and a tool_call gate (partial: the rule engine and tool-name gating, not the approval…"
+2026-10-06T00:02:57.287Z,@pi-in-go/pigpen-pi-typesafe,0.1.0,mkinsy,MIT,1115170,"Go port of pi-typesafe's extension: the batched typesafe_evaluate tool, the /typesafe command (login, consent, usage, sample test, playground) and result renderers. Off until the operator enables it.…"
+2026-10-06T00:02:59.978Z,@pi-in-go/pigpen-pi-typesafe-api,0.1.0,mkinsy,MIT,279029,"Typed Go API for extension authors, a port of pi-typesafe's library half: one admission rule, request and spend caps, key store and auth state, judgment backends (TypeSafe, OpenRouter, Command Code,…"
+2026-10-06T00:03:02.903Z,@pi-in-go/pigpen-pig-doctor,0.1.0,mkinsy,MIT,264287,"Finds and safely fixes cruft in a PiG setup: duplicate or broken extensions, unpruned caches, orphaned agent directories, legacy files. Read-only by default; every removal is backed up and restorable"
+2026-10-06T00:03:05.798Z,@pi-in-go/pigpen-pig-music,0.1.0,mkinsy,MIT,1678117,"Pig Music: a full-screen music player for PiG that keeps playing while it is hidden. /music opens the player (YouTube Music through yt-dlp, played by mpv); /music setup and /music doctor check the ma…"
+2026-10-06T00:03:05.851Z,abcfajs,0.1.0,modabber,MIT,549385,abcjs with Persian microtonal accidentals: koron (کرن) and sori (سری)
+2026-10-06T00:03:10.652Z,@pi-in-go/pigpen-pig-play,0.1.0,mkinsy,MIT,122460,"The shared pig sprite catalogue, half-block pixel rasterizer, arcade scenery and terminal game plumbing that Pigpen's pig games build on (Go libraries and licensed art, no extension of its own)"
+2026-10-06T00:03:13.73Z,@pi-in-go/pigpen-pig-runner,0.1.0,mkinsy,MIT,283306,"PiG Runner: the pixel-art pig obstacle runner, opened with /runner or /pig-runner (Go). Nothing runs until you type the command."
+2026-10-06T00:03:16.442Z,@pi-in-go/pigpen-pig-snake,0.1.0,mkinsy,MIT,325376,"Pig Snake: a snake game whose head is the PiG pig and whose every eaten apple adds another pig to the line, so a herd forms behind the leader. Explicit /pig-snake command only."
+2026-10-06T00:03:19.155Z,@pi-in-go/pigpen-powerline,0.1.0,mkinsy,MIT,1635484,"Go port of pi-powerline-footer: a powerline-style status bar of configurable segments (model, path, git, tokens, cost, context, time) with presets, separators and /powerline (partial: the bar, not th…"
+2026-10-06T00:03:20.963Z,@pi-in-go/pigpen-session-ingest,0.1.0,mkinsy,MIT,100129,"read_session: a token-safe tool that lets the model query Pi and PiG JSONL session transcripts (contents, search, single turns, tool usage, stats)"
+2026-10-06T00:03:25.7Z,@pi-in-go/pigpen-subagents,0.1.0,mkinsy,MIT,13939032,"Go port of pi-subagents: agent and chain definitions, their discovery, the subagent tool's list and get actions, and single-agent and chain runs through a child pig process (partial: no parallel, asy…"
+2026-10-06T00:03:33.793Z,@abelfuentes/ui-controls,0.2.0,abelfuentes,MIT,777069,Controles UI atómicos como Web Components. Funcionan en cualquier página.
+2026-10-06T00:04:12.756Z,macbox,0.6.2,abhishekray07,MIT,9092,"A real Mac for your coding agent: build, test, run, and tap through iOS apps from any machine. CLI and MCP server."
+2026-10-06T00:05:42.438Z,@fitchmultz/pi-ask-question,0.5.1,fitchmultz,MIT,49172,Pi extension that adds an interactive ask_question tool and /grill-me pressure-test mode
+2026-10-06T00:07:24.834Z,@gg-web-engine/mobile-controls,0.0.78,andygura,Apache-2.0,196525,"On-screen touch controls for gg-web-engine: buttons, sticks, d-pads, look areas and tilt steering over the game canvas"
+2026-10-06T00:09:14.622Z,morse-bralie,0.2.0,obinexusltd,MIT,109168,"English alphabet Braille and Morse toolkit for the web: AVL lookup, growing dot/dash grids, accessible renderers, sound and vibration playback, and touch input."
+2026-10-06T00:09:30.662Z,terrawatch-cli,0.3.0,terrawatchapp,MIT,24221,"Compress your AI prompts before they hit Claude Code, Codex, or any terminal AI tool."
+2026-10-06T00:10:17.012Z,@webda/decorators,4.0.0-beta.3,loopingz,LGPL-3.0-only,33300,Decorators utils
+2026-10-06T00:10:20.164Z,@webda/test,4.0.0-beta.3,loopingz,LGPL-3.0-only,68127,Test for NodeJS projects
+2026-10-06T00:10:23.713Z,@webda/serialize,4.0.0-beta.3,loopingz,LGPL-3.0-only,148431,Serializer for JS
+2026-10-06T00:10:27.396Z,@webda/utils,4.0.0-beta.3,loopingz,LGPL-3.0-only,253081,Utils function for NodeJS projects
+2026-10-06T00:10:28.819Z,@webda/compiler,4.0.0-beta.3,loopingz,LGPL-3.0-only,183282,Expose API with Lambda
+2026-10-06T00:10:30.443Z,@webda/cache,4.0.0-beta.3,loopingz,,62633,"A flexible method-level caching library with decorator support, TTL expiration, and multiple storage strategies"
+2026-10-06T00:10:32.791Z,@webda/models,4.0.0-beta.3,loopingz,LGPL-3.0-only,325260,Webda Models implementation
+2026-10-06T00:10:38.669Z,@webda/debug,4.0.0-beta.3,loopingz,LGPL-3.0-only,425159,Development debug server for Webda applications
+2026-10-06T00:10:44.041Z,@webda/fs,4.0.0-beta.3,loopingz,LGPL-3.0-only,133805,"Filesystem-based implementations of Store, Binary, and Queue for Webda"
+2026-10-06T00:12:28.898Z,@pnpm/esm-loader,0.1.0,pnpmuser,MIT,17208,Experimental Node.js loader for pnpm content-addressable store files
+2026-10-06T00:12:51.795Z,playwright-e2e-mcp,0.1.0,trajectiq,MIT,500901,"MCP server that runs, debugs, and inspects Playwright end-to-end tests from any MCP client"
+2026-10-06T00:13:44.879Z,@getgameable/voxy,0.0.0-stage,gameable,,339,Temporary package placeholder for staged publishing
+2026-10-06T00:16:17.71Z,carlos-hebert-dev-my-first-mcp,1.0.0,uebit,MIT,1426,"Meu primeiro servidor MCP, com a tool greet"
+2026-10-06T00:16:58.675Z,pi-live-file-guard,0.1.0,mrthnx96,MIT,30233,Prevent stale writes across concurrent Pi sessions using read hashes and a Git common-dir bus.
+2026-10-06T00:18:43.034Z,agent-cowork-memory,0.3.0,rxthlessbeatss,MIT,150508,"Shared memory and delegation for Codex, Cursor, Claude Code, and OpenCode."
+2026-10-06T00:19:09.681Z,@enavermate/splitflap,0.5.0,enavermate,MIT,359573,"Split-flap departure-board text for the web: every letter rolls, flips or flickers into place. A <split-flap> element for HTML, Vue, Svelte and Angular, a React component and a framework-free player"
