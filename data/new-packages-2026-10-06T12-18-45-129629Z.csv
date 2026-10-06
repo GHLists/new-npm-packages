@@ -1,0 +1,164 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-06T11:16:08.814Z,@recurr-dev/core,0.1.1,ydde21,MIT,79584,"Recurr incident record schema, redaction, and execution diff engine"
+2026-10-06T11:16:17.805Z,@recurr-dev/store,0.1.1,ydde21,MIT,38120,Recurr incident storage — filesystem + PostgreSQL backends
+2026-10-06T11:16:20.876Z,@recurr-dev/replay,0.1.1,ydde21,MIT,32981,Recurr replay engine — reconstructs captured executions in an isolated child process
+2026-10-06T11:16:24.654Z,@recurr-dev/sdk,0.1.1,ydde21,MIT,189987,Recurr capture & replay SDK for Node.js — records incident execution context and replays it safely
+2026-10-06T11:16:28.415Z,@recurr-dev/server,0.1.1,ydde21,MIT,35119,"Recurr collector, query API + developer UI server — ingests execution records and serves the debugging workspace"
+2026-10-06T11:16:31.682Z,@recurr-dev/cli,0.1.2,ydde21,MIT,57012,"Recurr CLI — inspect, replay, diff and regression-test production incidents"
+2026-10-06T11:19:44.77Z,craftwire,0.4.2,siracozmen,MIT,244121,MCP hub that lets AI agents see and drive Minecraft (Craftwire by UXPLIMA)
+2026-10-06T11:20:53.495Z,presign-guard-ai-sdk,0.1.0,fritsie13,MIT,15911,"Safety checks for Vercel AI SDK agents that pay: tools to check a transaction or signature before signing, a token before buying, a wallet's open approvals, and an x402 endpoint before paying it (pre…"
+2026-10-06T11:22:03.328Z,xi-agent,0.1.0,floscr,MIT,17074330,"Xi — an extendable coding harness for the terminal, with a web UI that joins the same sessions."
+2026-10-06T11:22:43.074Z,zerodep-use,1.0.0-rc.4,kenconnet666,MIT,284044,zerodep-js 的可选应用工具，提供路由、浏览器持久化和编辑历史。通过同版本 `zerodep-js` peer 共享响应式与组件所有权；不依赖 Vue、React 或 Svelte。
+2026-10-06T11:22:46.174Z,@moodinary/ui,0.1.2,kniteee13,MIT,515728,Componentes React y tokens del sistema de diseño de Moodinary.
+2026-10-06T11:22:54.976Z,zerodep-js-native-win32-x64,1.0.0-rc.4,kenconnet666,Apache-2.0 AND MIT,29990425,zerodep-js 原生 Go 编译器的 win32-x64 平台包，由对应架构的 GitHub Actions runner 构建、测试并打包。包含固定 TypeScript 7.1、框架转换、标准库与构建摘要。由 `zerodep-js-native` 的可选依赖选择安装，用户无需 Go。
+2026-10-06T11:22:55.483Z,@moodinary/sprites,0.1.2,kniteee13,MIT,1006948,"Marca de Moodinary en pixeles: cielo, nubes, niebla, clima, transiciones, texto pixelado e íconos."
+2026-10-06T11:23:01.3Z,zerodep-js-native-win32-arm64,1.0.0-rc.4,kenconnet666,Apache-2.0 AND MIT,28214829,zerodep-js 原生 Go 编译器的 win32-arm64 平台包，由对应架构的 GitHub Actions runner 构建、测试并打包。包含固定 TypeScript 7.1、框架转换、标准库与构建摘要。由 `zerodep-js-native` 的可选依赖选择安装，用户无需 Go。
+2026-10-06T11:23:09.414Z,zerodep-js-native-linux-x64,1.0.0-rc.4,kenconnet666,Apache-2.0 AND MIT,29760148,zerodep-js 原生 Go 编译器的 linux-x64 平台包，由对应架构的 GitHub Actions runner 构建、测试并打包。包含固定 TypeScript 7.1、框架转换、标准库与构建摘要。由 `zerodep-js-native` 的可选依赖选择安装，用户无需 Go。
+2026-10-06T11:23:12.654Z,fragile-inputs,1.0.1,sdet_emre,MIT,189735,"Edge-case input strings for QA/SDET testing — 486 annotated values that break forms, search, databases, exports and assistive tech, across 21 industries plus accessibility."
+2026-10-06T11:23:17.803Z,zerodep-js-native-linux-arm64,1.0.0-rc.4,kenconnet666,Apache-2.0 AND MIT,28289704,zerodep-js 原生 Go 编译器的 linux-arm64 平台包，由对应架构的 GitHub Actions runner 构建、测试并打包。包含固定 TypeScript 7.1、框架转换、标准库与构建摘要。由 `zerodep-js-native` 的可选依赖选择安装，用户无需 Go。
+2026-10-06T11:23:26.002Z,zerodep-js-native-darwin-x64,1.0.0-rc.4,kenconnet666,Apache-2.0 AND MIT,30485774,zerodep-js 原生 Go 编译器的 darwin-x64 平台包，由对应架构的 GitHub Actions runner 构建、测试并打包。包含固定 TypeScript 7.1、框架转换、标准库与构建摘要。由 `zerodep-js-native` 的可选依赖选择安装，用户无需 Go。
+2026-10-06T11:23:34.416Z,zerodep-js-native-darwin-arm64,1.0.0-rc.4,kenconnet666,Apache-2.0 AND MIT,29128404,zerodep-js 原生 Go 编译器的 darwin-arm64 平台包，由对应架构的 GitHub Actions runner 构建、测试并打包。包含固定 TypeScript 7.1、框架转换、标准库与构建摘要。由 `zerodep-js-native` 的可选依赖选择安装，用户无需 Go。
+2026-10-06T11:23:50.088Z,@cyberneurova/browser-mcp,1.0.0,pixillated,MIT,69801,MCP server that lets any LLM-driven agent drive Chrome/Edge via the CyberNeurova browser extension.
+2026-10-06T11:24:00.169Z,@styloviz/affix,1.0.0,rshossain,MIT,74975,"Pin an element while the page scrolls, with the placeholder that stops the jump. Optional container boundary so a pinned sidebar parks at the end of its section instead of floating over the footer."
+2026-10-06T11:24:03.744Z,reborn-autopilot,1.0.0,kimsungjun,MIT,49281,"클로드 코드에 「내 분야 + 공개 인스타 아이디」를 말하면 30일치 릴스·캐러셀·스토리·훅 콘텐츠 캘린더를 한 장으로 짜 주는 스킬(content-autopilot)을 스킬 폴더에 놓고, 파일이 실제로 늘었는지 다시 셉니다. 인스타 계정에 로그인하거나 연결하지 않습니다 — 공개 웹 조사와 직접 붙여 준 숫자만 씁니다. 캘린더는 초안이며 효과를 약속하지 않…"
+2026-10-06T11:24:05.98Z,@styloviz/anchor,1.0.0,rshossain,MIT,101942,"An ""on this page"" navigation list that tracks scroll position with an IntersectionObserver and smooth-scrolls to a section on click. Vertical (side-rail) and horizontal (pill-row) layouts."
+2026-10-06T11:24:11.769Z,@styloviz/barcode-1d,1.0.0,rshossain,MIT,107269,"Code 128, EAN-13 and EAN-8 rendered as SVG from a real encoder: mod-103 and mod-10 check characters computed rather than trusted, EAN-13's leading digit carried in the left-half parity, subset-C pack…"
+2026-10-06T11:24:18.985Z,@styloviz/citation-sources,1.0.0,rshossain,MIT,135479,"Numbered citations attached to an answer, with the coverage strip that names the passages nothing supports. 3 variants: inline chips, source cards and a side panel."
+2026-10-06T11:24:30.749Z,chefgent,0.1.1,cybertheory,MIT,9378,CLI for chefgent individual meals and event catering. Generates an agent skill and talks to the hosted Convex MCP.
+2026-10-06T11:24:36.464Z,@design-systems-orion/motion,0.2.0,mateusarcestr,,9255,Política e movimento acessível para componentes do Design System Orion
+2026-10-06T11:24:39.954Z,@jon.kern/spale,0.0.1,jon.kern,MIT,549,A web component library — pieces split off for use. In active development.
+2026-10-06T11:25:11.323Z,@styloviz/image-compare,1.0.0,rshossain,MIT,94576,"A before/after wipe that admits when it is not one: it measures both images' intrinsic sizes and says so when their aspect ratios disagree, because then part of what the reader sees as ""the change"" i…"
+2026-10-06T11:25:14.532Z,dsh-plugin-miliastra-toolbox,0.1.0,dudukl,MIT,49602,DeepSeek Harness plugin: 千星沙箱知识库（节点/指南/教程/FAQ）查询工具与技能
+2026-10-06T11:25:32.597Z,@design.estate/wcctools,5.1.0,lossless,MIT,10867349,"A set of web component tools for creating element catalogues, enabling the structured development and documentation of custom elements and pages."
+2026-10-06T11:25:41.442Z,dynamic-translator-node,1.0.0,dev-translter,MIT,9815,Official Node.js SDK for Dynamic Translator API. Real-time multi-language AI translation service.
+2026-10-06T11:25:42.736Z,@onurdrsn/flakecheck,0.1.0,onurdrsn,MIT,15112,CLI for ingesting test reports and reviewing FlakeCheck results
+2026-10-06T11:25:54.42Z,pi-facc,0.2.1,xihuang_hk,MIT,42639,EVA「活動限界」style prompt-cache TTL countdown widget for pi (Anthropic 5min five-phase + DeepSeek 12h macro mode)
+2026-10-06T11:26:08.126Z,@vyiiw/bundle,0.0.0-stage,a.kilyakus,,335,Temporary package placeholder for staged publishing
+2026-10-06T11:26:11.067Z,@veeemlab/datto-bcdr-mcp,0.1.0,veeemlab,MIT,126166,"Datto BCDR (SIRIS, ALTO, Cloud SIRIS) MCP server: fleet-wide backup health checks, client overview, screenshot verification. Read-only, rate-limit safe, flat schemas."
+2026-10-06T11:26:16.108Z,fuzzy-score-js,0.1.0,itveev,MIT,30060,"Fast, explainable fuzzy scoring for client-side search."
+2026-10-06T11:26:32.327Z,@k-kinzal/doc-ui,1.2.1,k-kinzal,MIT,1069263,"CSS for documents and reports, with a Markdown-to-HTML CLI"
+2026-10-06T11:27:07.293Z,@styloviz/back-up,1.0.0,rshossain,MIT,60504,"Back and Up as two different controls, because they are two different promises: back is history and may leave the site, up is hierarchy and is always defined. A back control with nothing behind it go…"
+2026-10-06T11:28:03.276Z,clientportal-required-documents,1.0.1,anbujosephd,UNLICENSED,348986,Required Documents (eSignature client package) page for Expo / React Native apps
+2026-10-06T11:28:33.636Z,aidme-mcp-linux-x64,0.1.1,imvhb,Apache-2.0 OR MIT,11932329,AidMe operator runtime for linux-x64 (x86_64-unknown-linux-musl).
+2026-10-06T11:29:01.44Z,claude-hud-enhanced,0.0.0,jmearman,,78,
+2026-10-06T11:29:53.106Z,@styloviz/sidebar-nav,1.0.0,rshossain,MIT,89100,"The reusable half of a dashboard sidebar: grouped items, sub-navigation, a collapsed rail and a mobile drawer — with no router dependency and no brand welded in. Bring your own header and footer."
+2026-10-06T11:29:55.926Z,@styloviz/jump-menu,1.0.0,rshossain,MIT,43770,"Compact navigation as a single native select: grouped destinations, the current one shown, and the platform picker on touch. The small form of a tab strip or an anchor rail."
+2026-10-06T11:29:59.051Z,@styloviz/kbd,1.0.0,rshossain,MIT,38094,"A native `<kbd>` wrapper for rendering keyboard shortcuts and hint keys, with three visual variants and two sizes so every shortcut hint in the kit shares one styled source instead of one-off utility…"
+2026-10-06T11:30:09.476Z,@styloviz/password-strength,1.0.0,rshossain,MIT,54396,"A dependency-free password guidance meter that pairs alongside any text input — a segmented bar, a strength band, and up to three suggestions. Length carries three of the four points and character va…"
+2026-10-06T11:30:12.29Z,dsh-direction,0.2.0,reza.mh67,MIT,115645,"Text direction for the DeepSeek Harness Web UI: an Auto / RTL / LTR control for the conversation and the whole shell, with per-block bidi detection and left-to-right code islands. پلاگین جهت متن (راس…"
+2026-10-06T11:30:13.209Z,@styloviz/phone-input,1.0.0,rshossain,MIT,110063,"A phone number field with a country selector (local flag assets, no remote images) that drives @styloviz/forms' sv-input-mask phone-us/phone-intl presets. Ships alongside sv-phone-flag, the picker's…"
+2026-10-06T11:30:17.579Z,@styloviz/scroll-area,1.0.0,rshossain,MIT,88558,"A styled scrollbar drawn over a genuinely scrolling element — never in place of one. Minimum grabbable thumb with the track arithmetic corrected for it, click-to-page on the track, and edge fades tha…"
+2026-10-06T11:30:38.881Z,@styloviz/watermark,1.0.0,rshossain,MIT,91714,"A repeating overlay tiled from the ROTATED bounding box, so the marks neither collide nor gap at an angle. Staggered rows, an opacity band that says which way it is wrong, and a signature a host can…"
+2026-10-06T11:30:45.968Z,@websublime/line-colors,0.1.0-e94e2a80185a7b907f52a985611a575977fabb1f-SNAPSHOT,miguelramos,MIT,232723,"Radix-derived color palette: 31 hues (12-step base + 12-step alpha) plus four special scales (`blackA`, `whiteA`, `blackP3A`, `whiteP3A`). One CSS subpath per hue."
+2026-10-06T11:30:48.348Z,@websublime/line-core,0.1.0-e94e2a80185a7b907f52a985611a575977fabb1f-SNAPSHOT,miguelramos,MIT,112223,"`LineElement` base class, Zag.js state-machine controller, shared style mixins, and reactive controllers for line://ui components. Lit 3 + Shadow DOM."
+2026-10-06T11:30:51.664Z,@websublime/line-schemas,0.1.0-e94e2a80185a7b907f52a985611a575977fabb1f-SNAPSHOT,miguelramos,MIT,31304,"Zod schemas for the line://ui design system contracts (theme manifests, role maps, token shapes). Pure TypeScript, no runtime deps beyond `zod`."
+2026-10-06T11:30:54.748Z,@websublime/line-themes,0.0.1-e94e2a80185a7b907f52a985611a575977fabb1f-SNAPSHOT,miguelramos,MIT,147669,"Role-mapped theme layers (accent, gray, semantics, aliases, defaults) consumed via CSS subpaths. Depends on `@websublime/line-colors` and `@websublime/line-schemas` (wired in B2)."
+2026-10-06T11:30:56.856Z,@websublime/line-tokens,0.1.0-e94e2a80185a7b907f52a985611a575977fabb1f-SNAPSHOT,miguelramos,MIT,27519,"Primitive design tokens (typography, sizing, shadows, easings, z-index, opacity, motion, radii, border-width, focus-ring, breakpoints) and decorative families (aspects, animations, gradients, masks,…"
+2026-10-06T11:31:00.214Z,@websublime/line-icons,0.1.0-e94e2a80185a7b907f52a985611a575977fabb1f-SNAPSHOT,miguelramos,MIT,13670,Icon resolver registry for the line://ui design system. The package bundles no icons; it dispatches icon lookups to resolvers you register.
+2026-10-06T11:31:02.814Z,@websublime/line-utils,0.1.0-e94e2a80185a7b907f52a985611a575977fabb1f-SNAPSHOT,miguelramos,MIT,28833,Pure functional helpers for the line://ui design system — contrast validation and color mixing utilities. No DOM dependencies.
+2026-10-06T11:31:04.944Z,@websublime/line-components,0.0.1-e94e2a80185a7b907f52a985611a575977fabb1f-SNAPSHOT,miguelramos,MIT,2515,"Headless web component implementations for the line://ui design system. Empty in Phase 00 — the build pipeline is wired and smoke-tested, but no components ship until Phase 1."
+2026-10-06T11:32:38.504Z,@guardbee/mcp-audit-gap-auditor,0.2.0,guardbee.ai,MIT,74720,"MCP server that audits MCP server source for OWASP MCP08:2025 (Lack of Audit and Telemetry) — missing tool-call logging, raw args/results in logs, disabled audit sinks, and tool errors swallowed with…"
+2026-10-06T11:33:10.124Z,@nestjs-transactional/workflows,3.0.0,igorgolovanov,MIT,27772,Durable workflows for @nestjs-transactional: @nestjs/workflows starts and signals inside the transaction @Transactional opened
+2026-10-06T11:33:10.635Z,@nestjs-transactional/drizzle,3.0.0,igorgolovanov,MIT,46743,"Drizzle ORM adapter for @nestjs-transactional/core: the db you inject joins the transaction, with savepoints and multiple databases"
+2026-10-06T11:33:14.482Z,@gitmyabi/stt,1.0.1,gitmyabi-bot,MIT,288989,"Auto-generated TypeScript type bindings for STT (build etherscan-stt-9b4d5fc4-1791286295477, commit 03a1529, branch etherscan)"
+2026-10-06T11:34:30.965Z,diezy-libsignal-node,1.0.0,dzyclutch,GPL-3.0,131786,"Clean, secure and high-performance Open Whisper Systems' libsignal protocol for Node.js"
+2026-10-06T11:35:17.584Z,captchetat-angularv8,0.0.1-security,npm,,446,security holding package
+2026-10-06T11:36:15.049Z,landed-agents,0.3.0,omersukruvarol,Apache-2.0,1981353,Did your AI agents' work actually land? A local-first outcome ledger for Claude Code and Codex.
+2026-10-06T11:36:43.178Z,@meshdrop-go/core,1.0.61,aamirali51,MIT,743210,"Zero-cloud P2P messenger and file-transfer engine. Platform-agnostic core for MeshDrop (iOS, Android, macOS, Windows, Linux). No Electron, no IPC, no cloud."
+2026-10-06T11:36:45.126Z,@meshdrop-go/host,0.1.3,aamirali51,MIT,224331,Headless MeshDrop node: boots MeshEngine (@meshdrop-go/core) without Electron and exposes the exact app protocol contract over a token-authed localhost HTTP + WebSocket API.
+2026-10-06T11:37:11.196Z,reborn-adcheck,1.0.0,kimsungjun,MIT,64468,"광고비를 쓰기 전에 클로드에게 2차 의견을 받는 클로드 코드 스킬 AgriciDaniel/claude-ads(MIT · v2.0.2)를 고정 판으로 받아 스킬·에이전트만 스킬 폴더에 놓고, 파일이 실제로 늘었는지 다시 셉니다. 한국어 안내 스킬이 같이 깔립니다. --check 가 깔기 전에 이 컴퓨터를 재 줍니다. 저장소는 남이 만든 오픈소스이고 저희는…"
+2026-10-06T11:37:15.17Z,@roj-ai/kompjutr-platform,0.2.10,matej21,,153521,Run the Roj SDK against a [Kompjutr](https://www.npmjs.com/package/@kompjutr/do) workspace. This adapter uses `@kompjutr/do` **0.1.2** from npm.
+2026-10-06T11:38:08.669Z,krushi-india,1.0.0,developeratlantiser,,192516,Krushi India browser assets distributed through npm and jsDelivr
+2026-10-06T11:38:23.607Z,@expo-google-fonts/libre-caslon-condensed,0.4.0,jake7,MIT AND OFL-1.1,2250651,Use the Libre Caslon Condensed font family from Google Fonts in your Expo app
+2026-10-06T11:38:26.122Z,@expo-google-fonts/kripa,0.4.0,jake7,MIT AND OFL-1.1,2464701,Use the Kripa font family from Google Fonts in your Expo app
+2026-10-06T11:38:28.25Z,@expo-google-fonts/isometra,0.4.0,jake7,MIT AND OFL-1.1,220078,Use the Isometra font family from Google Fonts in your Expo app
+2026-10-06T11:38:32.103Z,@expo-google-fonts/clarity-city,0.4.0,jake7,MIT AND OFL-1.1,2572063,Use the Clarity City font family from Google Fonts in your Expo app
+2026-10-06T11:38:44.779Z,sqlscope-rs,0.0.0-stage,dcalsky,,333,Temporary package placeholder for staged publishing
+2026-10-06T11:39:52.402Z,@zh-xx/antu,0.9.0,zh-xx,AGPL-3.0-or-later,6643740,"Antu: legal diagrams (fact, procedure, relationship, justification) from JSON, as one offline HTML page. The command line and the MCP server."
+2026-10-06T11:40:16.823Z,framegrove,1.0.0,bamstudio,MIT,548494,"App Store, Google Play and iPhone Duo screenshot generator. MCP server and CLI that render store screenshots and Apple Creative Assets from templates, captions and real app screenshots."
+2026-10-06T11:41:17.819Z,@seithr/core,6.3.28,grid23,MIT,193613,Seithr v6 Core - Fine-grained reactive push-pull DAG and DOM reconciler
+2026-10-06T11:41:21.4Z,praxiflow,1.4.4,sidhxntt,MIT,23595861,"Composable frontend, backend, full-stack, and production-backend project generator."
+2026-10-06T11:41:27.158Z,@jonibach/postcard,0.2.1,jonibach,,1214824,"Postcard: a warm, playful, framework-agnostic style guide (CSS tokens, components and a few vanilla helpers) from the GT Retrospective tour site."
+2026-10-06T11:41:27.242Z,agentfaces,0.0.0,hammedajibade,MIT,940062,"Expressive faces for AI agents. Work states like thinking, working, needs you and done, for React, React Native and plain SVG."
+2026-10-06T11:41:28.979Z,ultraframes,0.0.1,solim,,566,Placeholder release that reserves the ultraframes package name.
+2026-10-06T11:41:41.927Z,@seithr/machine,6.3.28,grid23,MIT,18743,Seithr v6 Machine - Pure deterministic finite state automata and algebraic commands
+2026-10-06T11:41:46.799Z,@kb1rma/libcomm14cux-ts,0.0.0,kb1rma,GPL-3.0-only,404480,TypeScript library for communicating with the Lucas 14CUX engine ECU over a serial port using the Web Serial API
+2026-10-06T11:42:04.761Z,@seithr/schema,6.3.28,grid23,MIT,41376,Seithr v6 Schema - Standard Schema v1 validation engine and combinators
+2026-10-06T11:42:43.271Z,@mastra-community/auth-oidc,0.0.1,mohankumarelec,Apache-2.0,337926,Mastra generic OpenID Connect (OIDC) Auth integration
+2026-10-06T11:43:39.125Z,@pankek/fetchr,0.1.1,pankek,MIT,64437,"Press a hotkey, click a React component, see exactly which network/API calls it made."
+2026-10-06T11:43:55.742Z,@akashpriyadarshii/agentprobe,0.0.1,akashpriyadarshii,MIT,129243,"The open-source Lighthouse for AI Agents. Audits agentic web readiness, llms.txt, crawler access, and DOM actionability."
+2026-10-06T11:44:03.798Z,pi-wsearch,0.1.0,k3_2o,MIT,91803,Pi extension: web.search + web.fetch
+2026-10-06T11:44:39.751Z,lens-extension-inspect,0.1.0,nawitus,MIT,8774,"See every pod of a cluster as a box, and zoom into one to see its containers and their processes."
+2026-10-06T11:44:51.515Z,deploydoubles,0.1.0,janpeterwiersma,MIT,47982,"Verify that a deploy actually works: reads the app's deploy report, runs outside checks, returns one exit code."
+2026-10-06T11:44:57.528Z,mijnhostingpartner-dns-cli,1.0.0,cveld,MIT,44626,Manage MijnHostingPartner DNS records from the command line.
+2026-10-06T11:45:18.045Z,@logictan/dsh-delegation-guard,0.1.0,logictan,MIT,28663,DSH plugin that refuses one-shot subagent delegations and arms a self-waking checkpoint so a seat that dies silently cannot leave the delegating session waiting forever. DSH 派单守护子插件。
+2026-10-06T11:46:17.164Z,@deploydoubles/checks,0.1.0,janpeterwiersma,MIT,82229,Generates the deploy report (/.well-known/deploy-report) for Node.js apps: a Next.js route handler and an in-process scheduler.
+2026-10-06T11:47:11.464Z,hereby-tools,1.1.0,gergof,MIT,9786,Small collection of highly opinionated tools to work with Hereby task runner
+2026-10-06T11:47:35.469Z,@seithr/store,6.3.28,grid23,MIT,114843,"Seithr v6 Store - Modular domain aggregates, lenses, and atomic transactions"
+2026-10-06T11:47:37.903Z,@seithr/a11y,6.3.28,grid23,MIT,50765,"Seithr v6 A11y - Native top layer directives, focus trapping, roving tabindex, and live regions"
+2026-10-06T11:47:42.222Z,@seithr/motion,6.3.28,grid23,MIT,65360,Seithr v6 Motion - Closed-form analytical spring ODEs and zero-allocation gesture physics
+2026-10-06T11:47:54.404Z,brainkit-agents,11.0.0,chocochocopipip,MIT,380957,Claude Code + brain (Obsidian vault) + Orca: a structure-only template for a memory-keeping partner and a dev agent
+2026-10-06T11:48:19.301Z,agent-lookout,0.2.0,olanetsoft,MIT,1545228,"Shows the AI agent sessions on your computer in one browser page, and which need you."
+2026-10-06T11:48:40.385Z,@mahiframework/socialite,0.1.4,bradietilley,MIT,144322,Socialite — OAuth sign-in with third-party providers for Mahi.
+2026-10-06T11:49:54.97Z,node-red-contrib-raspi5-stepper,1.0.0,mschweitzer,MIT,35188,"Raspberry Pi 5 28BYJ-48 stepper motor with ULN2003 driver, pure JavaScript Node-RED node with selectable GPIOs, direction, steps or turns, half/full/wave step"
+2026-10-06T11:50:02.401Z,aidme-mcp-windows-x64,0.1.1,imvhb,Apache-2.0 OR MIT,11668570,AidMe operator runtime for win32-x64 (x86_64-pc-windows-gnullvm).
+2026-10-06T11:51:43.899Z,@howaboua/pi-codex-guardian,0.0.1,howaboua,MIT,71244,"Action-bound Codex Guardian approval for Pi, Code Mode and Notebook Mode."
+2026-10-06T11:52:08.719Z,jsonforms-shadcn-renderers,0.1.0,jonas-de,MIT,728154,"shadcn/ui-styled renderer set for JSONForms, with full control/layout coverage and overridable components"
+2026-10-06T11:52:25.544Z,sellat-mcp,0.2.0,sellat,MIT,39148,"MCP server for SELLAT: proof of existence from Claude, Cursor or any MCP client. Hashes locally — your files never leave your machine. Polygon, Bitcoin and the FNMT qualified eIDAS seal."
+2026-10-06T11:53:10.283Z,node-red-contrib-raspi5-neopixel,1.0.0,mschweitzer,MIT,39191,"Raspberry Pi 5 WS2812 / NeoPixel pure JavaScript Node-RED node with SPI0/SPI1, selectable color order (RGB/GRB/...), brightness, per-pixel control and effects"
+2026-10-06T11:53:29.121Z,@seithr/router,6.3.28,grid23,MIT,83608,"Seithr v6 Router - Store-integrated unidirectional routing, nested outlets, and view transitions"
+2026-10-06T11:53:32.583Z,@seithr/server,6.3.28,grid23,MIT,99943,"Seithr v6 Server - Universal SSR, Declarative Shadow DOM streaming, and WinterCG compliance"
+2026-10-06T11:53:36.486Z,@seithr/islands,6.3.28,grid23,MIT,32242,Seithr v6 Islands - Declarative client hydration islands and interaction directives
+2026-10-06T11:53:38.978Z,@seithr/testing,6.3.28,grid23,MIT,157812,"Seithr v6 Testing - Sandboxed test fixtures, platform mocks, and Chrome CDP runner"
+2026-10-06T11:53:41.349Z,@remit_protocol/sdk,0.1.0,remit_protocol,UNLICENSED,54677,Scoped agent payments on Robinhood Chain testnet
+2026-10-06T11:53:42.237Z,@seithr/compiler,6.3.28,grid23,MIT,84634,Seithr v6 Compiler - AST reactivity transform and Vite HMR plugin
+2026-10-06T11:54:07.944Z,claude-desktop-switch,0.1.0,notsilverfish,MIT,222435,The claude-switch CLI: save Claude Desktop logins as profiles and switch accounts without signing in again (Windows).
+2026-10-06T11:55:19.91Z,@ilyaonishchik/perf-ui,1.0.0,ilyaonishchik,,7710,Small React component library
+2026-10-06T11:55:26.599Z,sevenzip-httprange-parser,0.1.1,haarli,MIT,282969,"Parse and extract files from remote 7z archives over HTTP byte ranges, in the browser."
+2026-10-06T11:55:57.907Z,@groundcover/gpu-timerange,0.1.0,netaneldr,MIT,119478,"Turns a typed time expression into a time range, with a small model that runs in the browser"
+2026-10-06T11:56:47.921Z,jupytermind,0.3.0,nahisaho,MIT,804854,GitHub Copilot Agent Skill: AI Data Scientist over Jupyter MCP (npm bootstrap for the Python implementation)
+2026-10-06T11:57:17.737Z,diezyxhao-baileys,1.1.23,dzyclutch,MIT,7052301,DIEZYXHAO BAILEYS - Advanced WhatsApp Web API Library with Latest Protocol Support
+2026-10-06T11:57:37.273Z,@noahbleau/unifio,1.0.5,noahbleau,MIT,6866,A mock implementation for RPI-IO on any platform for Node.js
+2026-10-06T11:57:45.283Z,@seithr/custom-element,6.3.28,grid23,MIT,56111,Seithr v6 Custom Element - First-class component authoring engine and shared constructed stylesheets
+2026-10-06T11:57:47.877Z,@seithr/react-bridge,6.3.28,grid23,MIT,6635,Seithr v6 React Bridge - React component interop and bidirectional reactive bridge
+2026-10-06T11:57:51.396Z,@thefuturesociety/pages-kit,1.0.0,tfs_operations,MIT,99240,"Zero-dependency form elements for The Future Society's staff pages: <tfs-record-form>, <tfs-picker>, <tfs-rich-text>."
+2026-10-06T11:57:52.234Z,create-seithr,6.3.28,grid23,MIT,157746,Seithr v6 CLI - Zero-ceremony scaffolding CLI engine for next-generation reactive applications
+2026-10-06T11:58:16.212Z,aidme-mcp-windows-arm64,0.1.1,imvhb,Apache-2.0 OR MIT,10732650,AidMe operator runtime for win32-arm64 (aarch64-pc-windows-gnullvm).
+2026-10-06T11:58:49.743Z,dsh-fullscreen-input,1.0.0,alyichen,MIT,191818,全屏输入面板：输入框工具栏上的一个图标，点开后在全屏窗口里写多行文本。Enter 只换行、仅 Ctrl+Enter（或点右下角发送按钮）才提交，彻底绕开中文输入法下 Shift+Enter 被误判成发送的问题。面板与主输入框共享同一份草稿——引用、附件、粘贴、拖放都与它一致，Esc 关闭不丢内容。
+2026-10-06T11:58:56.911Z,@flicx/cli,0.2.0,deepak2603,UNLICENSED,2123429,"Flicx CLI: the things Flicx Sheet can do, from a terminal"
+2026-10-06T12:02:38.678Z,lambda-decide,0.1.0,saddamazad,Apache-2.0,83266,"Typed, calibrated System One decisions (Choice / Score / Noul) for AWS Lambda: client, confidence gating, and a CDK gateway construct for Jev or any /v1/systemone backend."
+2026-10-06T12:03:22.724Z,ng-sp-deploy,0.1.1,eslamelsayed0,MIT,17336,Build and deploy an Angular app as a classic SharePoint On-Premises page (SitePages + SiteAssets).
+2026-10-06T12:03:35.671Z,@e2b/claude-toolsets,0.0.1,ondrej-e2b,Apache-2.0,305753,E2B drivers for the browser and computer use toolsets in the Claude SDKs
+2026-10-06T12:04:32.602Z,reborn-workfinder,1.0.0,kimsungjun,MIT,19605,「내 일 찾기」 — 질문 5개로 클로드에게 맡길 일 5가지와 그대로 복사해 쓸 지시문을 표로 만들어 주는 클로드 코드 스킬. 리본랩스 무료특강 선물.
+2026-10-06T12:04:40.409Z,strapi-plugin-cookiesregtech,1.0.0,skynettechnologies,MIT,153108,"CookiesRegTech cookie consent: guided connect from the Strapi admin, plus the config endpoint and snippet for the site frontend."
+2026-10-06T12:04:48.155Z,ecinc-cloud-moaeim,9.7.2,wendaozi,ISC,2900197,易臣云办公手机版-即时通讯(EIM)
+2026-10-06T12:04:59.359Z,ecinc-cloud-moaecoaim,9.7.12,wendaozi,ISC,1147431,易臣云办公手机版-工作设置、通讯录(支持IM)
+2026-10-06T12:05:10.012Z,@jcendal/opencode-digital-pet,0.2.0-dev.0,jcendal,Apache-2.0,4657065,"An OpenCode virtual-pet plugin with /digital-pet-spawn, /digital-pet-freeze, /digital-pet-unfreeze, /digital-pet-set, /digital-pet-dex, and /digital-pet-history commands."
+2026-10-06T12:05:21.753Z,codefossil,0.1.0,ludicolijn1985,MIT,5732607,"Ask your Git history why code exists — evidence-first answers with provenance, hotspots, impact and dead-intent detection. Local-first."
+2026-10-06T12:06:30.576Z,@noxhere/sdk,0.1.0,jaspernoboxdev,PolyForm-Noncommercial-1.0.0,80999,Unified TypeScript SDK for every NoxHere resource
+2026-10-06T12:06:33.12Z,@codewarstools/codewars-api-schemas,1.0.0,andriikot,MIT,11567,JSON Schemas for Codewars API
+2026-10-06T12:07:10.433Z,localize-chess-san,1.0.0,nick513,MIT,30123,"Localize chess algebraic notation piece letters (Nf3 → Pf3 in Dutch, Sf3 in German, etc.)"
+2026-10-06T12:08:00.932Z,words-counter-application,1.0.0,krishna93x,,755,A CLI application to count words in a file
+2026-10-06T12:08:05.095Z,@ultimatelemon-eu/mcp-http,1.0.0,hallosouf,MIT,7792,"Run an MCP server over stateless Streamable HTTP: /mcp, /healthz, a base path for proxies, and errors that never leak a stack trace."
+2026-10-06T12:08:10.969Z,@h2loop/oscilloscope,0.1.0,pulkit-h2loop,UNLICENSED,225761,"Hydron plugin: drive any SCPI oscilloscope over LAN (Tektronix/Keysight/Rigol/generic) — discover, configure, measure, capture waveforms and screenshots."
+2026-10-06T12:08:18.134Z,@ultimatelemon-eu/fetch-client,1.0.0,hallosouf,MIT,13033,"fetch for rate-limited APIs: a token bucket that stays under the limit, Retry-After on 429, timeouts, one retry on 5xx, typed errors and logs without credentials."
+2026-10-06T12:08:23.114Z,@h2loop/power_profiler,0.0.0,pulkit-h2loop,UNLICENSED,172473,Measure and interpret power consumption on embedded hardware with a Nordic Power Profiler Kit II (PPK2).
+2026-10-06T12:09:10.18Z,@surfacerelay/browser-runtime,0.1.0-alpha.1,kefyusuf,Apache-2.0,72558,Experimental alpha 0.1.0-alpha.1; unofficial reference runtime.
+2026-10-06T12:09:10.466Z,@application-kit/transaction-outbox,0.1.0,uwl,MIT,61831,"Transactional outbox на TypeORM: запись событий в одной транзакции с изменением, роутинг через Debezium, версия контракта события"
+2026-10-06T12:09:20.71Z,magniscan-mcp,1.0.0,tadeka,MIT,11900,"Magniscan security scanner MCP server — scan any URL from Claude Code, Cursor or Windsurf"
+2026-10-06T12:10:24.732Z,@ebullient/qrspi-x,0.10.0,ebullient,Apache-2.0,119135,CLI helper for the QRSPI-X agent workflow plugin
+2026-10-06T12:10:34.645Z,@marcmeese/n8n-nodes-jev,0.0.1,marcmeese,MIT,139781,"n8n Nodes für Jev (TypeSafe System One): Ja/Nein-Fragen, Klassifizieren, Bewerten und Verzweigen mit kalibrierten Wahrscheinlichkeiten – direkt oder über einen LiteLLM-Proxy"
+2026-10-06T12:10:41.421Z,pi-flcc,1.0.0,xihuang_hk,MIT,504184,Anime-style prompt-cache TTL countdown widget for pi (Anthropic 5min five-phase + DeepSeek 12h macro mode)
+2026-10-06T12:11:42.939Z,@gitmyabi/silv2,1.0.0,gitmyabi-bot,MIT,171516,"Auto-generated TypeScript type bindings for sILV2 (build etherscan-silv2-7e77dcb1-1791288602576, commit 221182a, branch etherscan)"
+2026-10-06T12:11:43.489Z,@upc-pbb/paybybank,0.1.0,gorin_i,,121069,"UPC PayByBank payment widget — renders a pay button and opens the payment page in an embedded overlay, a redirect, or a new window."
+2026-10-06T12:12:10.446Z,@lidofinance/api-rpc-proxy,1.0.0,lidofinance-ui,MIT,149039,"Fastify RPC proxy: JSON-RPC validation/allowlisting, per-IP rate limiting, chain health probing and prom-client metrics"
+2026-10-06T12:12:29.299Z,@fundedfast/sdk,1.3.0,support_funded_fast,MIT,485416,Official TypeScript SDK for the FAST platform - Skill Challenge engine for sportsbook operators
+2026-10-06T12:12:40.108Z,dsh-feiyufm-core,0.0.0-stage,a7m0sphere,,338,Temporary package placeholder for staged publishing
+2026-10-06T12:13:08.334Z,remi-embed-api,1.0.3,yumber81,ISC,26628,Embed remi sass application
+2026-10-06T12:13:49.683Z,kanban-mcp,0.7.0,nadimtuhin,,30433,"MCP server for the Kanban Pro app: read/create/move boards, lists, cards and sprints with an API key"
+2026-10-06T12:13:57.478Z,@agntn/curves,0.0.0,oritwoen,MIT,181425,"Arithmetic on elliptic curves you define and on secp256k1, written from the specs"
+2026-10-06T12:14:32.062Z,@zklogic/braces,3.0.5,arfanmirza,MIT,46706,"Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed."
+2026-10-06T12:16:31.471Z,@almadar/db,0.1.1,javasop,BSL-1.1,775038,"Database clients, bootstrap and every storage adapter behind the @almadar/core PersistenceAdapter contract."
+2026-10-06T12:17:29.375Z,hygienex-edge,1.0.0,abhishek611plus,MIT,22965,"One-command installer for the Hygienex edge agent (AMC kitchen-hygiene programme): checks Docker, writes the config, pulls the agent image and starts it on the restaurant's box."
+2026-10-06T12:18:30.751Z,searxng-search-mcp,0.0.0,murat-kooda-ai,,2035,OIDC trusted publishing setup package for searxng-search-mcp
+2026-10-06T12:18:31.196Z,mudra-gold-buyer,0.0.0-stage,developeratlantiser,,338,Temporary package placeholder for staged publishing
