@@ -1,0 +1,251 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-07T14:13:57.476Z,@bugwalk/koa,0.2.2,vasanth7781,Apache-2.0,20065,Koa middleware for Bugwalk
+2026-10-07T14:13:58.005Z,@bugwalk/browser,0.2.2,vasanth7781,Apache-2.0,72451,"Browser SDK for Bugwalk: page views, clicks, fetch, and uncaught errors"
+2026-10-07T14:13:58.005Z,@bugwalk/node,0.2.2,vasanth7781,Apache-2.0,42658,"Node.js SDK for Bugwalk: request scopes, error capture, and trace joining"
+2026-10-07T14:13:58.115Z,@bugwalk/angular,0.2.2,vasanth7781,Apache-2.0,24337,"Angular adapter for Bugwalk: providers, ErrorHandler, and router instrumentation"
+2026-10-07T14:13:58.188Z,@bugwalk/express,0.2.2,vasanth7781,Apache-2.0,20829,Express middleware for Bugwalk
+2026-10-07T14:13:58.218Z,@bugwalk/hono,0.2.2,vasanth7781,Apache-2.0,21370,Hono middleware for Bugwalk
+2026-10-07T14:13:58.229Z,@bugwalk/core,0.2.2,vasanth7781,Apache-2.0,93765,"Event model, batching, redaction, and transport for Bugwalk. Runtime agnostic."
+2026-10-07T14:13:58.322Z,@bugwalk/nestjs,0.2.2,vasanth7781,Apache-2.0,41083,"NestJS module for Bugwalk: interceptor, exception filter, and graceful shutdown"
+2026-10-07T14:13:58.343Z,@bugwalk/fastify,0.2.2,vasanth7781,Apache-2.0,20928,Fastify plugin for Bugwalk
+2026-10-07T14:13:58.466Z,@bugwalk/next,0.2.2,vasanth7781,Apache-2.0,30885,Next.js adapter for Bugwalk: App Router and Pages Router client instrumentation
+2026-10-07T14:14:00.241Z,@bugwalk/nuxt,0.2.2,vasanth7781,Apache-2.0,16707,Nuxt module for Bugwalk: zero-config client instrumentation
+2026-10-07T14:14:00.359Z,@bugwalk/schema,0.2.2,vasanth7781,Apache-2.0,52951,Event types and JSON Schema for the Bugwalk wire format
+2026-10-07T14:14:00.424Z,@bugwalk/server,0.2.2,vasanth7781,Apache-2.0,171702,"Self-hostable Bugwalk server: Postgres schema, ingest, and issue detection"
+2026-10-07T14:14:00.76Z,@bugwalk/react,0.2.2,vasanth7781,Apache-2.0,24942,"React adapter for Bugwalk: provider, hooks, and an error boundary"
+2026-10-07T14:14:00.82Z,@bugwalk/wizard,0.2.0,vasanth7781,Apache-2.0,46501,Set up Bugwalk in an existing project: npx @bugwalk/wizard
+2026-10-07T14:14:00.848Z,@bugwalk/svelte,0.2.2,vasanth7781,Apache-2.0,29196,SvelteKit adapter for Bugwalk: client and server hooks
+2026-10-07T14:14:00.936Z,@bugwalk/vue,0.2.2,vasanth7781,Apache-2.0,21753,"Vue adapter for Bugwalk: plugin, composable, and router instrumentation"
+2026-10-07T14:15:49.112Z,@tanod-labs/sdk,0.1.0,tanod-labs,MIT,70562,"TypeScript client for Tanod: pay-per-call security tools for AI agents (address risk, contract scan, MCP/skill package scan, chain reads), paid with x402 USDC on Base. Free daily tier, no signup."
+2026-10-07T14:15:56.562Z,@better-compute/fleet,0.1.0,legionedge,Apache-2.0,225806,"FleetConfig as code for better-compute: export, plan and apply sites, pools, offers, quotas, flavors and provider accounts."
+2026-10-07T14:16:01.799Z,@better-compute/inventory,0.1.0,legionedge,Apache-2.0,408921,"Hardware inventory for better-compute: section hashing, diffs, GPU model mapping, labels and health conditions."
+2026-10-07T14:16:04.125Z,@better-compute/observability,0.1.0,legionedge,Apache-2.0,225367,"Metrics for better-compute: a bounded Prometheus registry, the standard better_compute_* series, a metered IamPort and backlog gauges."
+2026-10-07T14:16:05.163Z,@ippopay-tech/loan-chat-ui,0.1.2,stephenprakash5,MIT,775647,"IppoPay loan chat — React web SDK plus WebView bundle for React Native, Flutter, Kotlin, and Swift"
+2026-10-07T14:16:06.881Z,@tanod-labs/ai-sdk,0.1.0,tanod-labs,MIT,35232,"Vercel AI SDK tools for Tanod: address risk checks, smart-contract scans, MCP/skill package scans, web/DNS/chain reads for AI agents. Pay per call with x402 (USDC on Base); free daily tier, no signup."
+2026-10-07T14:16:15.454Z,@better-compute/console-kit,0.1.0,legionedge,Apache-2.0,453586,"Framework-free view models for better-compute consoles: resource stores with pagination, live event refresh and permission-aware actions."
+2026-10-07T14:16:17.458Z,@better-compute/driver-sdk,0.1.0,legionedge,Apache-2.0,327928,"bcx, the better-compute out-of-process driver protocol: serveDriver runs a defineDriver object as a plugin, externalDriver hosts one over auto-mTLS gRPC."
+2026-10-07T14:16:18.987Z,@better-compute/mcp,0.1.0,legionedge,Apache-2.0,234086,"Model Context Protocol tools for better-compute: pools, capacity, GPU reservations and node status for AI agents, gated by better-iam."
+2026-10-07T14:16:28.882Z,@better-compute/metal,0.1.0,legionedge,Apache-2.0,703836,"Bare-metal lifecycle for better-compute: power, management, boot, deploy and inspect drivers."
+2026-10-07T14:16:33.145Z,@better-compute/vps,0.1.0,legionedge,Apache-2.0,1351924,"VPS instances for better-compute: runtimes, flavors and external providers."
+2026-10-07T14:16:52.821Z,@better-compute/cli,0.1.0,legionedge,Apache-2.0,1903144,The better-compute command line.
+2026-10-07T14:17:40.417Z,@velocitycubed/ffmpeg-kit-native-binaries,0.1.0,danievds,SEE LICENSE IN distribution/THIRD-PARTY-NOTICES.md,181578866,PeezJob FFmpeg native binaries and pinned source from one verified GitHub Release
+2026-10-07T14:18:42.885Z,dsh-hs-classify,0.0.0-stage,perrylink,,337,Temporary package placeholder for staged publishing
+2026-10-07T14:18:52.847Z,dsh-icd-rule-check,0.0.0-stage,perrylink,,340,Temporary package placeholder for staged publishing
+2026-10-07T14:18:53.192Z,dsh-lawcite-adapter,0.0.0-stage,perrylink,,341,Temporary package placeholder for staged publishing
+2026-10-07T14:19:06.136Z,dsh-lc-doc-check,0.0.0-stage,perrylink,,338,Temporary package placeholder for staged publishing
+2026-10-07T14:19:07.833Z,@hannanel100/worktree-diff-viewer,0.4.0,hannanel100,MIT,1863423,Local web UI that lists every worktree of a git repository and shows what each worktree's branch changed against a base branch of your choice.
+2026-10-07T14:19:08.009Z,dsh-learning-gap-check,0.0.0-stage,perrylink,,344,Temporary package placeholder for staged publishing
+2026-10-07T14:19:16.158Z,dsh-medrec-qc,0.0.0-stage,perrylink,,335,Temporary package placeholder for staged publishing
+2026-10-07T14:19:28.692Z,dsh-nsfc-form-check,0.0.0-stage,perrylink,,341,Temporary package placeholder for staged publishing
+2026-10-07T14:19:28.948Z,@higgsfield/higgsedit,0.0.0,olekhan,UNLICENSED,260,Placeholder for the higgsedit CLI. Not usable yet; releases are published from CI.
+2026-10-07T14:19:29.836Z,dsh-nurse-record-check,0.0.0-stage,perrylink,,344,Temporary package placeholder for staged publishing
+2026-10-07T14:19:41.858Z,dsh-origin-rvc-check,0.0.0-stage,perrylink,,342,Temporary package placeholder for staged publishing
+2026-10-07T14:19:48.754Z,dsh-ota-review-check,0.0.0-stage,perrylink,,342,Temporary package placeholder for staged publishing
+2026-10-07T14:19:51.298Z,@higgsfield/video-editor-mcp,0.0.0,olekhan,UNLICENSED,295,Placeholder for the Higgsfield Video Editor MCP server. Not usable yet; releases are published from CI.
+2026-10-07T14:19:51.586Z,@champion-trade/design-system,2.0.0,fahad26,,2633243,Champion Trade Design System — shadcn/ui components with Tailwind CSS v4
+2026-10-07T14:20:12.299Z,dsh-permit-report-check,0.0.0-stage,perrylink,,345,Temporary package placeholder for staged publishing
+2026-10-07T14:20:12.991Z,dsh-paper-doc-adapter,0.0.0-stage,perrylink,,343,Temporary package placeholder for staged publishing
+2026-10-07T14:20:18.317Z,dsh-pipeline-check,0.0.0-stage,perrylink,,340,Temporary package placeholder for staged publishing
+2026-10-07T14:20:24.377Z,dsh-pleading-draft,0.0.0-stage,perrylink,,340,Temporary package placeholder for staged publishing
+2026-10-07T14:20:27.163Z,dsh-policy-brief-draft,0.0.0-stage,perrylink,,344,Temporary package placeholder for staged publishing
+2026-10-07T14:20:33.783Z,tempmail10min-client,1.0.0,whoisalfaz.me,MIT,4736,"Official Node.js client SDK for TempMail10min - High-speed, anonymous disposable temporary email API with customizable 5-30m lifespans."
+2026-10-07T14:20:49.147Z,react-modal-registry,0.1.0,sauravhathi,MIT,81449,"Type-safe, headless modal registry and promise-based manager for React"
+2026-10-07T14:20:50.573Z,dsh-power-ticket-check,0.0.0-stage,perrylink,,344,Temporary package placeholder for staged publishing
+2026-10-07T14:21:05.069Z,dsh-ppap-check,0.0.0-stage,perrylink,,336,Temporary package placeholder for staged publishing
+2026-10-07T14:21:08.683Z,dsh-protest-deadline,0.0.0-stage,perrylink,,342,Temporary package placeholder for staged publishing
+2026-10-07T14:21:16.784Z,dsh-railway-window,0.0.0-stage,perrylink,,340,Temporary package placeholder for staged publishing
+2026-10-07T14:21:25.714Z,dsh-repair-order-qc,0.0.0-stage,perrylink,,341,Temporary package placeholder for staged publishing
+2026-10-07T14:21:30.738Z,ls-the-practical-guide-to-ai-tools-muy74b88,1.0.0,linkstack,MIT,7018,The Practical Guide To Ai Tools
+2026-10-07T14:21:37.092Z,ls-the-practical-guide-to-ai-tools-muy74gwx,1.0.0,linkstack,MIT,6243,The Practical Guide To Ai Tools
+2026-10-07T14:21:43.173Z,dsh-review-reply-check,0.0.0-stage,perrylink,,344,Temporary package placeholder for staged publishing
+2026-10-07T14:21:45.446Z,dsh-rulefile-check,0.0.0-stage,perrylink,,340,Temporary package placeholder for staged publishing
+2026-10-07T14:21:50.114Z,dsh-safety-brief-check,0.0.0-stage,perrylink,,344,Temporary package placeholder for staged publishing
+2026-10-07T14:21:53.25Z,dsh-site-log-check,0.0.0-stage,perrylink,,340,Temporary package placeholder for staged publishing
+2026-10-07T14:21:58.731Z,ls-the-practical-guide-to-ai-tools-muy74xnd,1.0.0,linkstack,MIT,6932,The Practical Guide To Ai Tools
+2026-10-07T14:21:59.3Z,@serghei/tevu,0.0.0-stage,serghei,,335,Temporary package placeholder for staged publishing
+2026-10-07T14:22:06.932Z,dsh-soe-decision-check,0.0.0-stage,perrylink,,344,Temporary package placeholder for staged publishing
+2026-10-07T14:22:09.982Z,ls-the-practical-guide-to-ai-tools-muy756mg,1.0.0,linkstack,MIT,6195,The Practical Guide To Ai Tools
+2026-10-07T14:22:12.041Z,@grida/fx-darwin-x64,0.1.0-alpha.1,softmarshmallow,,17505745,The grida-fx engine for macOS on Intel (x64). @grida/fx installs it; use @grida/fx.
+2026-10-07T14:22:14.083Z,dsh-soilwater-check,0.0.0-stage,perrylink,,341,Temporary package placeholder for staged publishing
+2026-10-07T14:22:17.068Z,dsh-sop-sync-check,0.0.0-stage,perrylink,,340,Temporary package placeholder for staged publishing
+2026-10-07T14:22:28.17Z,dsh-spc-gbt-adapter,0.0.0-stage,perrylink,,341,Temporary package placeholder for staged publishing
+2026-10-07T14:22:40.28Z,dsh-tender-extract,0.0.0-stage,perrylink,,340,Temporary package placeholder for staged publishing
+2026-10-07T14:22:40.573Z,ls-the-practical-guide-to-ai-tools-muy75tmt,1.0.0,linkstack,MIT,6174,The Practical Guide To Ai Tools
+2026-10-07T14:22:45.998Z,manygit,0.0.1,nazmussayad,,1323,
+2026-10-07T14:22:48.852Z,dsh-tender-matrix,0.0.0-stage,perrylink,,339,Temporary package placeholder for staged publishing
+2026-10-07T14:22:50.234Z,dsh-power-loss-split,0.0.0-stage,perrylink,,342,Temporary package placeholder for staged publishing
+2026-10-07T14:22:59.967Z,@grida/fx-linux-x64-gnu,0.1.0-alpha.1,softmarshmallow,,19173013,The grida-fx engine for Linux on x64 with glibc 2.28 or later. @grida/fx installs it; use @grida/fx.
+2026-10-07T14:23:00.132Z,dsh-warranty-calc,0.0.0-stage,perrylink,,339,Temporary package placeholder for staged publishing
+2026-10-07T14:23:17.069Z,ls-the-practical-guide-to-ai-tools-muy76lyj,1.0.0,linkstack,MIT,6729,The Practical Guide To Ai Tools
+2026-10-07T14:23:50.06Z,@grida/fx-linux-arm64-gnu,0.1.0-alpha.1,softmarshmallow,,17043991,The grida-fx engine for Linux on arm64 with glibc 2.28 or later. @grida/fx installs it; use @grida/fx.
+2026-10-07T14:24:01.037Z,@gomisarita/persistent-chatbot,0.1.0,gomisarita,MIT,104736,"Drop-in AI chat widget: survives page refresh, streams tokens, renders markdown, keeps API keys on the server. Zero dependencies."
+2026-10-07T14:24:14.248Z,@davideddr/strapi-provider-upload-google-cloud-storage,5.0.4-fork.1,davideddr,MIT,103909,Community Google Cloud Storage Provider for Strapi Upload
+2026-10-07T14:25:49.626Z,@sneak0906/soc-detection-test-6067,1.0.1,sneak0906,MIT,1606,Benign purple-team detection test artifact. Safe to ignore/remove.
+2026-10-07T14:26:04.071Z,@worldcoin/walletkit-web,0.27.1,dzejkop,,41810042,WalletKit enables users to hold credentials and prove their humanity with World ID.
+2026-10-07T14:26:38.441Z,abx-artist-kit,0.4.2,keyrunnftart,MIT,117918,"unofficial MCP for artists launching on ABX (Art Blocks' open protocol): deploy cost per chain, edition preview, preflight, mint check, collectors, rebuild from chain. read-only, never signs."
+2026-10-07T14:27:19.93Z,@domicile-desktop/system-apps,0.0.0-alpha-a330bf5f3aae,cprussin,MIT,44495,"Installed applications and bookmarks for a Domicile shell's launcher, read through @domicile-desktop/sdk/system."
+2026-10-07T14:28:10.567Z,@deepfirstsearch/agent-pay-turnkey,0.1.0,deepfirstsearch,MIT,5566,"Turnkey-held keys as Agent Safe payers: x402 payments signed inside Turnkey, inside an owner-signed budget"
+2026-10-07T14:28:19.878Z,@homotope/engine,0.1.0,sroman91,MIT,547345,"Raster-to-vector engine (PNG/JPEG → SVG, DXF, PDF, EPS, centerline) in pure TypeScript: no DOM, no dependencies, runs in a Web Worker and in Node."
+2026-10-07T14:28:25.734Z,n8n-nodes-dochub,0.1.2,kislak7,MIT,300529,n8n community nodes for DocHub webhooks and document download
+2026-10-07T14:28:50.5Z,pinrail-sdk,1.0.0,pnezis,Apache-2.0,305922,"Write and test a pinrail plugin: the SDK the app serves, a shell to develop a view in the browser, and a Playwright harness to test it alone"
+2026-10-07T14:29:01.769Z,@wundercorp/quantpay,0.2.0,builderstudio,,38997,"QuantPay SDK for x402 payments, checkout, facilitator discovery, and programmable stablecoin settlement."
+2026-10-07T14:29:07.05Z,ag-grid-enterprise-charts-enterprise,0.0.1-reserved,seanlandsman,UNLICENSED,152,Reserved by AG Grid Ltd. Not for use.
+2026-10-07T14:29:14.988Z,pathdency,0.0.0,kido,UNLICENSED,320,Package under development
+2026-10-07T14:29:21.245Z,@kshlm/dsh-neuralwatt-provider,0.1.0,kshlm,MIT,35973,Neuralwatt LLM provider plugin for DeepSeek Harness — dynamic model discovery with capability mapping over an OpenAI-compatible API
+2026-10-07T14:29:51.208Z,getyap,0.1.0,aryanshaw,MIT,11183,"Install Yap into Claude Code: ask how a feature of your codebase works and get a short narrated video, fact-checked against the code."
+2026-10-07T14:29:53.994Z,@opentermsarchive/issue-reporter,0.0.0,ndpnt,EUPL-1.2,65119,Reports the tracking failures of an Open Terms Archive collection as issues on GitHub or GitLab
+2026-10-07T14:30:06.38Z,@mnaoumov/create-obsidian-plugin,1.0.1,mnaoumov,MIT,460333,Create Obsidian plugin from modern templates.
+2026-10-07T14:30:09.702Z,@susaplay/mcp,0.1.0,susagames,Apache-2.0,948416,"MCP server for SusaPlay: check Unity projects, inspect and publish WebGL builds, and read games and analytics from an AI coding assistant"
+2026-10-07T14:30:20.462Z,@ezerlab/claude-codex,0.3.0,ezeryliu,UNLICENSED,29870,Use Claude Code as the harness with an isolated CLIProxyAPI provider and an existing Codex ChatGPT login.
+2026-10-07T14:30:30.887Z,@domicile-desktop/system-audio,0.0.0-alpha-a330bf5f3aae,cprussin,MIT,45418,"Volume, mute, devices, streams and level meters for a Domicile shell, through pactl and parec."
+2026-10-07T14:30:55.875Z,@zjarlin/aio-device,0.11.0,zjarlin,MIT,1732507,设备助手
+2026-10-07T14:31:04.585Z,@lacspace/bounce,1.0.0,thelacspace,SEE LICENSE IN LICENSE,271177,"Bounce, complaint and auto-reply classifier for email campaigns and webmail: parses RFC 3464 delivery status notifications (Reporting-MTA, Final-Recipient, Action, Status, Diagnostic-Code, Remote-MTA…"
+2026-10-07T14:31:14.455Z,@lacspace/email-builder,1.0.0,thelacspace,SEE LICENSE IN LICENSE,387541,"Block-based email template builder: a JSON document of blocks (header, text, image, button, divider, spacer, columns, social, footer, html, quote, list, table) renders to bulletproof table-based resp…"
+2026-10-07T14:31:25.391Z,@lacspace/email-lint,1.0.0,thelacspace,SEE LICENSE IN LICENSE,363960,"Pre-send email linter for webmail and campaign tools: tells you in plain English what will hurt deliverability or render badly before you hit send. 41 stable rules covering Gmail clipping (~102KB), r…"
+2026-10-07T14:32:14.544Z,@htl-syterme/express-x-trust,1.0.0,htl-syterme,MIT,1715,"X-Trust human presence middleware for Express. Zero KYC, zero PII. HMAC-SHA256."
+2026-10-07T14:32:15.306Z,@copylee/dsh-academic,0.3.1,copylee,MIT,3704485,DeepSeek Harness 学术插件：连接本机 Zotero；多源论文检索（arXiv、OpenAlex、Crossref、PubMed 等）、阅读开放获取全文、获取引文、核验参考文献；内置文献综述、论文精读、写作润色、模拟审稿等学术技能。
+2026-10-07T14:32:30.03Z,@violetix/baileys,0.3.18,cv3inx,MIT,11126502,"Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types."
+2026-10-07T14:32:54.853Z,@glion/lint-profile-segment-order,0.21.0,melek-somai,MIT,19928,Lints the segment order of an HL7v2 message against its message structure
+2026-10-07T14:33:02.654Z,@eleven.spectacles/virtual-try-on,3.0.1,yordan.ramchev,UNLICENSED,169219,Nuxt module: virtual try-on for 3D eyewear over a live camera feed (MediaPipe + TresJS).
+2026-10-07T14:33:19.426Z,@r00tkids/rootsqz-darwin-arm64,0.4.1,sebbert,MIT,4527403,The aarch64-apple-darwin executable of rootsqz.
+2026-10-07T14:33:23.577Z,@r00tkids/rootsqz-darwin-x64,0.4.1,sebbert,MIT,4677921,The x86_64-apple-darwin executable of rootsqz.
+2026-10-07T14:33:26.441Z,@r00tkids/rootsqz-linux-arm64,0.4.1,sebbert,MIT,3687867,The aarch64-unknown-linux-musl executable of rootsqz.
+2026-10-07T14:33:30.875Z,@r00tkids/rootsqz-linux-x64,0.4.1,sebbert,MIT,4035049,The x86_64-unknown-linux-musl executable of rootsqz.
+2026-10-07T14:33:34.591Z,@r00tkids/rootsqz-win32-x64,0.4.1,sebbert,MIT,4054211,The x86_64-pc-windows-msvc executable of rootsqz.
+2026-10-07T14:33:37.681Z,@r00tkids/rootsqz,0.4.1,sebbert,MIT,15780,"Compresses and packs JavaScript and assets into one HTML file, for demoscene intros and size restricted challenges."
+2026-10-07T14:33:40.88Z,@r00tkids/rollup-plugin-rootsqz,0.4.1,sebbert,MIT,31534,Rollup / Vite plugin that compresses and bundles code and assets into one HTML file with rootsqz.
+2026-10-07T14:34:37.992Z,@planmo/shared,1.0.1,doofx0071,MIT,3011,"PlanMo shared utilities, constants, and low-level helpers."
+2026-10-07T14:34:42.263Z,@planmo/schema,1.0.1,doofx0071,MIT,149412,"PlanMo canonical project model, state, and artifact schemas (versioned, Zod-validated)."
+2026-10-07T14:34:45.608Z,@planmo/core,1.0.1,doofx0071,MIT,64591,"PlanMo deterministic core: canonical project model, safe filesystem writer, planning compiler."
+2026-10-07T14:34:48.87Z,@planmo/scanner,1.0.1,doofx0071,MIT,221979,"PlanMo repository adoption engine: safe untrusted scanning, stack/test/CI detection, prompt-injection isolation, dry-run adopt."
+2026-10-07T14:34:49.166Z,@lacspace/mail-merge,1.0.0,thelacspace,SEE LICENSE IN LICENSE,166457,"Mail merge for webmail and email campaigns: turn a CSV or spreadsheet of recipients plus a subject/HTML/text template into one personalised message per recipient, with a validation report before anyt…"
+2026-10-07T14:34:49.713Z,@weatherboard/maps,0.1.0,arw_wb,MIT,192618,"Maps for client sites: a Google Maps adapter, a weekly-route map (RouteMap) and ""when will it be closest to me?"". Subpath imports only; there is no barrel."
+2026-10-07T14:34:51.567Z,planmo,1.0.1,doofx0071,MIT,22261,"PlanMo — CLI-first, agent-native project planning and execution workspace generator."
+2026-10-07T14:34:51.973Z,@cogitator-ai/studio,0.1.0,el1fe,MIT,1614415,"Cogitator Studio: a local debugger for agent projects with chat, traces, costs, approvals, workflow runs and time-travel forks"
+2026-10-07T14:35:33.37Z,@glion/transform-profile-groups,0.21.0,melek-somai,MIT,23437,Unified plugin to group HL7v2 segments into the segment groups their event schema defines
+2026-10-07T14:35:51.626Z,sockodds-mcp,0.1.0,jameselle,MIT,89871,MCP server that lets Claude answer 'what are the odds on X right now' with the SockOdds sports odds API.
+2026-10-07T14:36:03.677Z,@domicile-desktop/system-backlight,0.0.0-alpha-a330bf5f3aae,cprussin,MIT,17802,"Screen brightness for a Domicile shell: reads /sys/class/backlight, watches it and sets it through logind, on @domicile-desktop/sdk/system."
+2026-10-07T14:36:20.53Z,@lacspace/sequence,1.0.0,thelacspace,SEE LICENSE IN LICENSE,185718,"Multi-step follow-up email sequences as a pure state machine: no I/O, no timers, no storage. Given a sequence, a plain-JSON enrollment and `now`, nextAction() says send / wait (with the exact next ti…"
+2026-10-07T14:36:25.291Z,ls-satsspin-de-com-muy7niii,1.0.0,linkstack,MIT,6057,Satsspin.De.Com
+2026-10-07T14:36:26.796Z,callbook-mcp,0.1.0,onreins,MIT,792118,"Give your trading agent a public, checkable track record: it seals each call on Arc before the market moves, and Callbook scores it."
+2026-10-07T14:36:34.716Z,hardhat-bits,2.21.0,ryan.danial915,MIT,4739658,This document describes the management of vulnerabilities for the project and all modules within the organization.
+2026-10-07T14:36:36.677Z,eslint-plugin-safe-dates,0.1.0,haridev1049,MIT,8406,ESLint rules that prevent timezone bugs in JavaScript date handling
+2026-10-07T14:36:41.047Z,ls-satsspin-de-com-muy7nu6u,1.0.0,linkstack,MIT,5899,Satsspin.De.Com
+2026-10-07T14:36:44.905Z,ls-satsspin-de-com-muy7nxon,1.0.0,linkstack,MIT,5876,Satsspin.De.Com
+2026-10-07T14:37:11.927Z,ultrastiching-skill-setup,0.2.0,mixbayes,UNLICENSED,29876,全局安装 UltraStiching CLI、配置支持的 MCP，并提供通用 Skill 安装资源
+2026-10-07T14:37:41.391Z,ls-satsspin-de-com-muy7p3m9,1.0.0,linkstack,MIT,6201,Satsspin.De.Com
+2026-10-07T14:37:53.521Z,@fomopad/sdk,0.1.0,fomopad,MIT,7434,Typed non-custodial client for fomopad market and indexing APIs.
+2026-10-07T14:37:58.051Z,@fomopad/mcp,0.1.1,fomopad,MIT,7105,Non-custodial MCP server for fomopad public market APIs.
+2026-10-07T14:38:02.514Z,ls-satsspin-de-com-muy7pl1b,1.0.0,linkstack,MIT,6090,Satsspin.De.Com
+2026-10-07T14:38:09.084Z,ls-satsspin-de-com-muy7pq69,1.0.0,linkstack,MIT,6286,Satsspin.De.Com
+2026-10-07T14:38:55.125Z,@nori-zk/ethereum-solana-bridge,0.0.1,jk89,MIT,283198,NoriTokenBridge contract
+2026-10-07T14:39:35.048Z,@mengleifudge/pi-collab,0.3.0,mengleifudge,MIT,295765,Local collaboration rooms for independent Pi sessions
+2026-10-07T14:39:39.016Z,@nori-zk/nori-bridge-solana-sdk,0.0.1,jk89,Apache-2.0,2138080,Nori bridge Solana SDK: track Ethereum proof requests through the bridge to Solana and build their witnesses
+2026-10-07T14:39:42.593Z,@runic-artifex/translations-svelte,0.6.0-preview.2,viktorjannicke,MIT,20079,Svelte 5 localization and RMF2 inline-content helpers for Runic Translations
+2026-10-07T14:39:46.062Z,@reabot6/kontx,1.0.0,reabot6,MIT,225567,"Understand, audit and defend any codebase — yours or AI-written. Works with Claude, GPT, Gemini, Groq, Ollama and any OpenAI-compatible API."
+2026-10-07T14:40:10.531Z,@lacspace/nepse-ipo,1.0.0,thelacspace,SEE LICENSE IN LICENSE,121370,"Pure parsers for Nepal (NEPSE) IPO data, with no fetching inside. Turns the nepalipaisa.com GetIpos JSON into clean Issue objects: ordinary/local/migrant-worker tranches mapped to general/locals/fore…"
+2026-10-07T14:40:12.374Z,@statusbeat/sdk,0.2.0,lach1anm,MIT,35414,Send heartbeats from your Discord bot to Statusbeat for uptime monitoring.
+2026-10-07T14:40:14.828Z,@runic-artifex/translations-sveltekit,0.6.0-preview.2,viktorjannicke,MIT,37291,SvelteKit locale routing and request integration for Runic Translations
+2026-10-07T14:40:36.03Z,@runic-artifex/views-effect,0.0.0-bootstrap.0,viktorjannicke,MIT,596,Name reservation for @runic-artifex/views-effect. The first real release is published by the Runic Artifex release workflow; install the preview dist-tag instead.
+2026-10-07T14:41:13.158Z,@peax/consent-core,0.6.0,maxsim,Apache-2.0,228456,Framework-independent consent state and runtime primitives.
+2026-10-07T14:41:26.195Z,pyy-tools-mymykai,1.0.0,mymykai,ISC,9293,``` npm install pyy-tools1 ```
+2026-10-07T14:42:26.277Z,@sooreyaml/agent-desk-sdk,0.1.0,sooreyaml,,49237,Server-side TypeScript client for the Agent Desk Platform API
+2026-10-07T14:43:32.181Z,pdf-to-html-deck,0.1.0,liangstech,MIT,86009,"Turn a PDF book into a chaptered, diagram-rich, animated single-file HTML slide deck — with theme presets and GitHub Pages deploy"
+2026-10-07T14:43:40.753Z,@cognite/facets,0.46251.0,cognitecicd,Apache-2.0,1167,Primitives for composable extension points.
+2026-10-07T14:44:26.438Z,grafana-mcp,0.1.2,itzhouq,MIT,59244,"Project-level read-only Grafana MCP server: Loki/Prometheus/Tempo/Alerts with test-prod switching and per-project context. Zero deps, runs on bun."
+2026-10-07T14:45:17.182Z,@md2nativedocx/core,0.1.0,nicolasbridelance,CC0-1.0,1835673,"Mermaid engine of md2nativedocx (Markdown to native Word, Mermaid diagrams included). Pure TypeScript: Mermaid text (all 29 diagram types) -> AST -> layout -> native, editable OOXML/DrawingML shapes…"
+2026-10-07T14:45:20.282Z,@md2nativedocx/pandoc-filter,0.1.0,nicolasbridelance,CC0-1.0,16724,Pandoc Lua filter for md2nativedocx (Markdown to native Word): converts ```mermaid code blocks in a Markdown-to-docx conversion into editable OOXML shapes.
+2026-10-07T14:45:22.566Z,@md2nativedocx/pptx,0.1.0,nicolasbridelance,CC0-1.0,85805,Rewrites the DrawingML shapes produced by @md2nativedocx/core into a .pptx deck (one slide per Mermaid block) — no new per-diagram translators.
+2026-10-07T14:45:25.608Z,@md2nativedocx/cli,0.1.0,nicolasbridelance,CC0-1.0,120491,"Complete Markdown to Word (.docx) converter, or PowerPoint (.pptx), with editable diagrams — all 29 Mermaid types become real shapes, SmartArt and charts that readers can change in Word, not flattene…"
+2026-10-07T14:46:33.619Z,@ian-pascoe/pi-guardian,0.0.0,ianpascoe_,MIT,183403,Model-reviewed gating of risky Pi agent tool calls before they run.
+2026-10-07T14:47:31.482Z,claudesprites,1.0.0,sumukh1219,MIT,137374,"Interactive, floating pixel-art Claude mascot sprites for React and Next.js websites"
+2026-10-07T14:48:10.322Z,@domicile-desktop/system-battery,0.0.0-placeholder,cprussin,MIT,287,Placeholder; real versions are published from cprussin/domicile.
+2026-10-07T14:48:12.564Z,@domicile-desktop/system-network,0.0.0-placeholder,cprussin,MIT,287,Placeholder; real versions are published from cprussin/domicile.
+2026-10-07T14:48:14.69Z,@domicile-desktop/system-bluetooth,0.0.0-placeholder,cprussin,MIT,289,Placeholder; real versions are published from cprussin/domicile.
+2026-10-07T14:49:11.644Z,tallia,0.1.0,tallia,MIT,46970,JavaScript and TypeScript SDK for the Tallia API
+2026-10-07T14:49:40.852Z,@mic-struct/create-mic-service,0.0.1,cedvict,MIT,65848,Create a tested MIC Node.js service with HTTP and operator CLI entrypoints.
+2026-10-07T14:49:42.955Z,@mic-struct/mic-client,0.0.1,cedvict,MIT,39692,"Service-to-service HTTP client with authentication, resilience hooks, and native OpenTelemetry tracing for MIC applications."
+2026-10-07T14:49:45.188Z,@mic-struct/mic-core,0.0.1,cedvict,MIT,427706,"Core MIC static and governed runtime contracts, event tooling, and native OpenTelemetry tracing for Node.js and TypeScript services."
+2026-10-07T14:49:47.454Z,@mic-struct/mic-datastore,0.0.1,cedvict,MIT,543952,"Portable storage, scheduling, caching, sharding, locking, idempotency, outbox, queue, and authenticated realtime contracts for MIC Node services."
+2026-10-07T14:49:49.115Z,@mic-struct/mic-express,0.0.1,cedvict,MIT,20047,Express adapter for MIC route specs.
+2026-10-07T14:49:51.518Z,@mic-struct/mic-fastify,0.0.1,cedvict,MIT,17152,Fastify adapter for MIC route specs.
+2026-10-07T14:49:53.62Z,@mic-struct/mic-hono,0.0.1,cedvict,MIT,17728,Hono adapter for MIC route specs.
+2026-10-07T14:49:55.767Z,@mic-struct/mic-kafka,0.0.1,cedvict,MIT,43564,Apache Kafka queue adapter for MIC Node services.
+2026-10-07T14:49:58.257Z,@mic-struct/mic-nats,0.0.1,cedvict,MIT,33791,NATS JetStream queue adapter for MIC Node services.
+2026-10-07T14:49:59.968Z,@mic-struct/mic-nest,0.0.1,cedvict,MIT,11034,NestJS Express adapter for MIC route specs.
+2026-10-07T14:50:01.644Z,ls-blockchain-will-launch-new-mining-operation-with-nm-muy850bo,1.0.0,linkstack,MIT,6091,Blockchain Will Launch New Mining Operation With Nm
+2026-10-07T14:50:01.646Z,@mic-struct/mic-node-http,0.0.1,cedvict,MIT,21033,Node HTTP adapter for MIC route specs with native OpenTelemetry route tracing.
+2026-10-07T14:50:03.514Z,@mic-struct/mic-observability,0.0.1,cedvict,MIT,167017,"Structured logging, OpenTelemetry tracing, Sentry filtering, redaction, and guarded Prometheus and StatsD metrics for MIC Node services."
+2026-10-07T14:50:06.25Z,@mic-struct/mic-platform,0.0.1,cedvict,MIT,251049,"Authorization, rate limiting, and identity-provider primitives for MIC Node services."
+2026-10-07T14:50:08.425Z,@mic-struct/mic-redis,0.0.1,cedvict,MIT,151913,"Redis cache, locking, scheduling, rate limiting, CQRS read model, and realtime adapters for MIC Node services."
+2026-10-07T14:50:10.899Z,@mic-struct/mic-resilience,0.0.1,cedvict,MIT,19452,Resilience primitives for MIC applications.
+2026-10-07T14:50:18.897Z,ls-blockchain-will-launch-new-mining-operation-with-nm-muy85ddi,1.0.0,linkstack,MIT,6610,Blockchain Will Launch New Mining Operation With Nm
+2026-10-07T14:50:25.601Z,supercarto,0.4.6,jeff9james,Apache-2.0,1441014,"LLM-native spatial middleware. Give an AI agent a map of any location on earth as a token-budgeted topological graph, with indoor floors, weather, and traffic, that it can reason over directly."
+2026-10-07T14:50:25.692Z,lupi-obaas,1.0.0,ayphilip,UNLICENSED,3241561,Lupi Open Banking as a Service - UK (OBIE) & Nigeria (CBN) open banking platform
+2026-10-07T14:50:30.326Z,idicon,0.1.0,jorge_canozo,UNLICENSED,92608,"Avatares SVG únicos y deterministas a partir de un id: personas, personajes, objetos y formas con cara, en paletas de hasta 6 colores."
+2026-10-07T14:51:13.858Z,ls-blockchain-will-launch-new-mining-operation-with-nm-muy86jq4,1.0.0,linkstack,MIT,6368,Blockchain Will Launch New Mining Operation With Nm
+2026-10-07T14:51:28.917Z,ls-blockchain-will-launch-new-mining-operation-with-nm-muy86uzc,1.0.0,linkstack,MIT,6180,Blockchain Will Launch New Mining Operation With Nm
+2026-10-07T14:52:01.385Z,ls-blockchain-will-launch-new-mining-operation-with-nm-muy87jg6,1.0.0,linkstack,MIT,6604,Blockchain Will Launch New Mining Operation With Nm
+2026-10-07T14:52:10.309Z,bugxhunter,0.4.0,cintelisai,MIT,638913,"BugXHunter: an AI security-testing agent with a sandboxed runner, a passkey-sealed key vault and read-only GitHub access. `npx bugxhunter` runs it on your machine."
+2026-10-07T14:52:21.238Z,@know-n/colp,0.1.0,know-n,Apache-2.0,7023812,Node.js implementation of The Collection Protocol (COLP)
+2026-10-07T14:52:32.54Z,decidus,0.0.1,hakimk,ISC,287,Open-source observability for decision models
+2026-10-07T14:52:39.411Z,@next-safe-action/codemod,0.0.0,theedoran,ISC,340,
+2026-10-07T14:52:53Z,@know-n/colp-conformance,0.1.0,know-n,Apache-2.0,58834,Black-box conformance runner for servers implementing The Collection Protocol (COLP)
+2026-10-07T14:53:37.192Z,@simmalugnt-se/payload-templates,0.1.0,johnrybo,MIT,76871,Page templates for Payload Admin
+2026-10-07T14:54:04.115Z,dsh-mcp-ops,0.1.0,rengy-dev,MIT,1242968,"MCP 服务管理：增删改查与启停、连接测试、工具按需检索与全量注入、进程级与服务级环境变量（含密钥）；MCP service management: CRUD, connection tests, tool injection, environment variables and secrets"
+2026-10-07T14:54:05.394Z,dsh-outerwilds-theme,0.1.0,xikan0,SEE LICENSE IN LICENSE,3739409,以《星际拓荒》为主题的 DSH Web 与 Windows Desktop 外观插件
+2026-10-07T14:54:49.357Z,@authologic/omni-websdk,0.0.345,marek.rogozinski,SEE LICENSE IN LICENSE file,2253424,"Identity verification widget by Authologic. Framework-agnostic web component, one function to start."
+2026-10-07T14:55:05.893Z,eslint-config-nicolaskeita,0.1.0,spynight,MIT,11912,Shared TypeScript ESLint rules and project structure checks
+2026-10-07T14:56:43.39Z,coc-golang,0.1.0,wongxy,MIT,97971,Go language support for coc.nvim using gopls
+2026-10-07T14:57:15.658Z,prism-context-imagegen,0.1.0,xiaoxin_xinyi,,43376,Context-aware image generation for Codex through a configurable local MCP server.
+2026-10-07T14:57:26.114Z,@scandinavianairlines/vite-plugin-babel,1.0.0,lfantone,MIT,13032,Runs Babel in Vite during all commands
+2026-10-07T14:57:33.141Z,@capnative/capacitor-secure-storage,8.0.0,marioshtika,MIT,38884,Secure key-value storage for Capacitor using iOS Keychain and Android Keystore (AES-GCM).
+2026-10-07T14:57:37.985Z,tool-dom,0.0.1,testing74,,19867,This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+2026-10-07T14:57:39.816Z,@rightkit/qa-chrome,0.1.0,adrdsouza,MIT OR Apache-2.0,33140,"Zero-dependency Chrome for Testing resolver, launcher and graceful close for Right Suite QA harnesses."
+2026-10-07T15:00:41.453Z,@aplopes/notedeck-app-sdk,0.3.1,aplopes,MIT,921330,"Build NoteDeck on-device apps in AssemblyScript: a scene-graph UI SDK that compiles (via WebAssembly) to a sandboxed NDVM app the NoteDeckOS compositor renders, plus the `notedeck` CLI (build, instal…"
+2026-10-07T15:01:26.758Z,@tealbrick/contract,0.1.0-alpha.0,tealbrick,MIT,187129,"Teal Brick miniapp contract kit: tealbrick.miniapp/v1 manifest validator, control endpoints and grant verification"
+2026-10-07T15:01:29.603Z,token-carbon,1.0.0,jasonzhu1207,MIT,108491,Geeky Vibe Coding Carbon Footprint & Thermal Receipt Generator
+2026-10-07T15:01:56.999Z,a24-shop-app,1.0.0,kcrlee,UNLICENSED,979258,This repository maintains 3 Shopify custom app configurations and extentsion. Each subdirectory is a discrete app in the Type/Code Partner Dashboard (https://partners.shopify.com/1602090).
+2026-10-07T15:02:19.955Z,agentic-graphjs,0.1.0,makara,Apache-2.0,517063,"Durable-step graph runtime: channels with reducers, a super-step interpreter over a compiled graph, router edges, and checkpointed persistence. The DI base is Awilix — the convenience face registers…"
+2026-10-07T15:02:34.504Z,@nova-lab/flow,1.0.0-dev.1,egorkozelskij,UNLICENSED,86716,Canvas graph editor and viewer powered by Nova
+2026-10-07T15:03:39.357Z,svg-text-editor,1.0.0-beta.1,formfabrik,ISC,37217,SVG rich text editor built with Vue and Vite
+2026-10-07T15:03:50.539Z,tool-exchange,0.0.1,testing74,,21046,This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+2026-10-07T15:04:13.637Z,ls-currencynews-muy8n8rd,1.0.0,linkstack,MIT,6403,Currencynews
+2026-10-07T15:04:25.932Z,ls-currencynews-muy8nijg,1.0.0,linkstack,MIT,6220,Currencynews
+2026-10-07T15:04:28.801Z,tool-width-page,0.0.1,testing74,,21368,This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+2026-10-07T15:04:53.601Z,ls-currencynews-muy8o42u,1.0.0,linkstack,MIT,6683,Currencynews
+2026-10-07T15:04:58.154Z,ls-currencynews-muy8o7ly,1.0.0,linkstack,MIT,6581,Currencynews
+2026-10-07T15:05:06.902Z,cookielessaudiences,1.0.0,websitecategorization,MIT,13261,"Node.js client for the Cookieless Audiences API: page-level audience segmentation (demographics, interests, purchase intent, B2B firmographics, personas) and IAB content categorization for any URL, w…"
+2026-10-07T15:05:12.923Z,resumereaderapi,1.0.0,websitecategorization,MIT,12174,"Node.js client for the Resume Reader API: parse PDF, DOCX and scanned resumes into 114 structured JSON fields, and normalize job titles, skills and locations."
+2026-10-07T15:05:17.326Z,@lacspace/booking,1.0.0,thelacspace,SEE LICENSE IN LICENSE,127050,"Meeting slot finder and calendar invites: free slots from busy intervals with working hours, IANA time zones via Intl (DST-correct, half/quarter-hour offsets like Asia/Kathmandu +05:45), buffers arou…"
+2026-10-07T15:05:18.967Z,acquisitionuniverse,1.0.0,websitecategorization,MIT,11949,"Toolkit for acquisition target screening: write a thesis brief, rank screened companies with a weighted composite that zeroes out group-owned targets, and measure signal coverage across the 15 common…"
+2026-10-07T15:05:22.276Z,tuffite,0.0.0,funelk,MIT or Apache-2.0,7905,To install dependencies:
+2026-10-07T15:06:17.364Z,@craigts.dev/standards,0.1.0,craigtsmith,MIT,178826,"oxlint, oxfmt, fallow and tsconfig presets for craigts.dev projects."
+2026-10-07T15:06:30.685Z,@canaille-cms/cli,0.0.0,adlg,UNLICENSED,192,Réservation du nom : la première vraie version est publiée par la CI de canaille-cms.
+2026-10-07T15:06:33.176Z,@lacspace/mail-classify,1.0.0,thelacspace,SEE LICENSE IN LICENSE,117412,"Fast, explainable email categoriser for webmail inboxes: tags a message with one of 10 categories (team, clients, personal, finance, calendar, newsletters, notifications, recruiting, social, promotio…"
+2026-10-07T15:06:40.359Z,ls-currencynews-muy8qdph,1.0.0,linkstack,MIT,6412,Currencynews
+2026-10-07T15:06:44.638Z,@canaille-cms/cli-darwin-arm64,0.0.0,adlg,UNLICENSED,205,Réservation du nom : la première vraie version est publiée par la CI de canaille-cms.
+2026-10-07T15:06:47.508Z,vmail-mcp,0.1.0,ongtungduong,MIT,426560,"Unofficial MCP server for Viettel VMail (IMAP/SMTP) — lets AI assistants search, read, organize and send VMail"
+2026-10-07T15:06:52.222Z,@skanqrcode/mcp-server,1.0.0,skanqrcode,Apache-2.0,15344,Official SkanQRCode MCP server: check whether a URL or IP is safe before an AI agent fetches or opens it.
+2026-10-07T15:06:55.419Z,@canaille-cms/cli-darwin-x64,0.0.0,adlg,UNLICENSED,203,Réservation du nom : la première vraie version est publiée par la CI de canaille-cms.
+2026-10-07T15:06:59.914Z,@canaille-cms/cli-linux-arm64,0.0.0,adlg,UNLICENSED,204,Réservation du nom : la première vraie version est publiée par la CI de canaille-cms.
+2026-10-07T15:07:02.014Z,opposite,0.1.2,julianseitz,MIT,4157,A lightweight Typescript utility for managing pairs of opposite values.
+2026-10-07T15:07:04.413Z,@canaille-cms/cli-linux-x64,0.0.0,adlg,UNLICENSED,202,Réservation du nom : la première vraie version est publiée par la CI de canaille-cms.
+2026-10-07T15:07:08.892Z,@canaille-cms/cli-win32-x64,0.0.0,adlg,UNLICENSED,202,Réservation du nom : la première vraie version est publiée par la CI de canaille-cms.
+2026-10-07T15:07:54.536Z,okf-catalog,0.1.0,drathm,Apache-2.0,1099736,"An MCP server that serves a company's Open Knowledge Format (OKF) bundle to AI agents, with citations, provenance and a publish loop: qmd done right for OKF."
+2026-10-07T15:08:18.482Z,holydot,0.0.0-bootstrap.0,dbasile,Apache-2.0,154315,Public HolyCodex-inspired instructions and work contracts for an existing dot
+2026-10-07T15:08:40.91Z,repoflux,1.0.0,ignatiylapkin44,MIT,69804,"Lightning-fast, AST-aware repository bundler and live MCP context server for AI pair programming"
+2026-10-07T15:09:03.403Z,@lacspace/mail-extract,1.0.0,thelacspace,SEE LICENSE IN LICENSE,262987,"Extract structured data from email bodies: schema.org JSON-LD and basic microdata (Order, Invoice, FlightReservation, LodgingReservation, FoodEstablishmentReservation, EventReservation, ParcelDeliver…"
+2026-10-07T15:09:07.343Z,opencode-theme-select,0.1.0,kolpzs,MIT,8104,opencode plugin: /theme-select to list and apply themes (built-in or custom) to the project's tui.json — no model round-trip needed
+2026-10-07T15:09:45.344Z,session-to-html-skill,1.0.0,achani,MIT,13321,Install the session-to-html OpenCode skill and /session-to-html command
+2026-10-07T15:10:15.472Z,@lacspace/mail-providers,1.0.0,thelacspace,SEE LICENSE IN LICENSE,67982,"IMAP/SMTP server presets and MX-based provider detection for connecting mailboxes: Hostinger, Titan, GoDaddy, Google Workspace/Gmail, Microsoft 365/Outlook, Zoho, Yahoo and iCloud. providerFromMx() m…"
+2026-10-07T15:10:50.972Z,datanote,1.0.0,davidefornelli,Apache-2.0,891491,"The engine of your second brain: Markdown notes as database tables, for you and your agents."
+2026-10-07T15:11:26.86Z,@lacspace/mail-search,1.0.0,thelacspace,SEE LICENSE IN LICENSE,130904,"Gmail-style mail search parser that returns a neutral AST instead of a database query: from:, to:, cc:, subject:, has:attachment, is:unread/read/starred/replied/suspicious/verified/list/important, in…"
+2026-10-07T15:11:38.964Z,@lacspace/match,1.0.0,thelacspace,SEE LICENSE IN LICENSE,138477,"Safe, generic condition evaluator for rules, filters and automations: evaluate a list of { field, op, value } conditions against any object with all/any matching, dotted paths, array fields (any elem…"
+2026-10-07T15:12:05.056Z,@swalest/design-system,1.0.0,swalest,,436195,````markdown # Tourism Hub Design System
+2026-10-07T15:12:50.045Z,fairdrop-mcp,1.0.0,dniskav,MIT,32311,Send and receive local files between AI agents and browsers with fAir Drop (WebRTC P2P with relay fallback)
+2026-10-07T15:13:09.53Z,sapling2d,0.1.0,kwoktung,MIT,609288,"Code-first, agent-friendly 2D game engine: PixiJS rendering, planck.js physics, Godot-style node tree. Runs in the browser and as a WeChat Mini Game, with deterministic headless testing."
+2026-10-07T15:13:28.529Z,dsh-saxon-workbench,0.1.0,saxonzeng,MIT,12869,个人工作台 Personal Workbench —— DSH 桌面端侧边栏入口的内嵌壳（双形态之一）
+2026-10-07T15:16:48.013Z,wringli,0.1.0,alexdickson,MIT,82830,Run several JS minifiers and keep the smallest Brotli output
+2026-10-07T15:17:55.235Z,dataclaw-agent-kit,0.0.0-stage,geodataclaw,,340,Temporary package placeholder for staged publishing
+2026-10-07T15:18:32.495Z,ls-coinnews-de-com-muy95ngr,0.0.0-stage,linkstack,,349,Temporary package placeholder for staged publishing
