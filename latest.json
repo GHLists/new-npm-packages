@@ -1,12 +1,38 @@
 {
   "list": {
-    "count": 120,
-    "from": "2026-10-08T00:19:06.060544Z",
-    "path": "data/new-packages-2026-10-08T01-18-33-588027Z.csv",
-    "to": "2026-10-08T01:18:33.588027Z"
+    "count": 149,
+    "from": "2026-10-08T01:18:33.588027Z",
+    "path": "data/new-packages-2026-10-08T02-21-33-090233Z.csv",
+    "to": "2026-10-08T02:21:33.090233Z"
   },
-  "pending": [],
-  "seq": 135304466,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@swiftbrowser/kit",
+      "since": "2026-10-08T01:18:33.588027Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@swiftbrowser/kit-darwin-arm64",
+      "since": "2026-10-08T01:18:33.588027Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@swiftbrowser/kit-linux-arm64",
+      "since": "2026-10-08T01:18:33.588027Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@swiftbrowser/kit-linux-x64",
+      "since": "2026-10-08T01:18:33.588027Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@xbrother2026/pkg-kernel-dac",
+      "since": "2026-10-08T01:18:33.588027Z"
+    }
+  ],
+  "seq": 135312900,
   "source_truncated": false,
-  "window": "2026-10-08T01:18:33.588027Z"
+  "window": "2026-10-08T02:21:33.090233Z"
 }
