@@ -1,0 +1,134 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-09T04:14:36.382Z,@holland-vip/causet-linux-x64-gnu,0.21.0,jwh3times,MIT,8905486,The causet cst executable for x86_64-unknown-linux-gnu.
+2026-10-09T04:15:33.22Z,@3sixty/modules,0.20.0-next.1,3sixty-bot,Apache-2.0,160131,Helper classes for loading and executing from modules
+2026-10-09T04:16:15.436Z,@asrun/cli-darwin-arm64,0.1.0,sampot,MIT,3806647,Native asrun CLI binary for darwin-arm64. Installed automatically as an optionalDependency of the `asrun` package.
+2026-10-09T04:16:19.376Z,@asrun/cli-darwin-x64,0.1.0,sampot,MIT,4799101,Native asrun CLI binary for darwin-x64. Installed automatically as an optionalDependency of the `asrun` package.
+2026-10-09T04:16:22.779Z,@asrun/cli-linux-arm64,0.1.0,sampot,MIT,4786084,Native asrun CLI binary for linux-arm64 (glibc >= 2.17). Installed automatically as an optionalDependency of the `asrun` package.
+2026-10-09T04:16:26.534Z,@asrun/cli-linux-x64,0.1.0,sampot,MIT,5831222,Native asrun CLI binary for linux-x64 (glibc >= 2.17). Installed automatically as an optionalDependency of the `asrun` package.
+2026-10-09T04:16:30.205Z,@asrun/cli-win32-x64,0.1.0,sampot,MIT,4794194,Native asrun CLI binary for win32-x64. Installed automatically as an optionalDependency of the `asrun` package.
+2026-10-09T04:19:19.668Z,@knitkode/utils,3.0.0,knitkoder,MIT,236124,"Tree-shakeable TypeScript utilities: type guards, object and array helpers, case conversion, URL and cookie helpers."
+2026-10-09T04:19:19.877Z,@3sixty/web,0.20.0-next.1,3sixty-bot,Apache-2.0,391916,Classes for use with web operations
+2026-10-09T04:19:24.073Z,@knitkode/dom,3.0.0,knitkoder,MIT,56575,"Tiny, tree-shakeable DOM helpers: selectors, event delegation, scroll and resize listeners, measurements."
+2026-10-09T04:19:24.489Z,@knitkode/node,3.0.0,knitkoder,MIT,24258,"Node.js helpers: file system utilities, dependency version lookup and SWC modularize-imports transforms."
+2026-10-09T04:19:25.736Z,@knitkode/api,3.0.0,knitkoder,MIT,33990,Type-safe API client factory with optional SWR hooks and Next.js API response helpers.
+2026-10-09T04:19:30.403Z,@knitkode/browser,3.0.0,knitkoder,MIT,37561,"Browser helpers: URL search and hash navigation, storage clients, gtag, device detection, zoned dates."
+2026-10-09T04:19:30.494Z,@knitkode/react,3.0.0,knitkoder,MIT,94741,"React hooks and components: scroll, resize and measure hooks, polymorphic helpers, a headless calendar and form antispam."
+2026-10-09T04:19:50.131Z,useyuva,0.0.4,productdevbook,MIT,487722,"Yuva for the web: a headless client for contacts, the <yuva-chat> element, React hooks and a typed /v1 client."
+2026-10-09T04:20:18.511Z,@lingara/embed,0.0.0-reserved.0,token-cjg,MIT,172,Reserved for the Lingara embed widget. Install @lingara/embed@next.
+2026-10-09T04:20:55.83Z,@asterisk-labs/geozl,0.19.0,csaybar,BSD-3-Clause,3221209,GeoZL raster codecs for OpenZL as a wasm64 module.
+2026-10-09T04:21:06.98Z,amplitude-ai-node,1.0.0,sdk.dev,MIT,677,Reserved by Amplitude. The Amplitude AI SDK is @amplitude/ai.
+2026-10-09T04:21:34.652Z,@agentinbox/cli,0.0.0,scopsy,ISC,211,
+2026-10-09T04:22:14.309Z,@kztek/sdk-pgs,0.0.2,namgk94,UNLICENSED,1776618,"KZTEK Parking Guidance System SDK — hiển thị bản đồ bãi xe, trạng thái ô đỗ real-time và chỉ đường xuyên tầng (MapLibre GL JS + ngraph.path)"
+2026-10-09T04:22:44.951Z,@lenso/cache,0.1.0,liorael,MIT,46927,"Typed finite-TTL JSON caching. The ordinary service is independent of Lenso. `/memory`, `/redis` and `/plugin` are separate entries; the root entry imports neither Bun Redis nor Lenso, Auth, DB, Mana…"
+2026-10-09T04:22:50.311Z,pi-codemode-tidy,0.1.3,orionoxe,MIT,15101,"Tidy transcript rendering for Pi's codemode tool: summarized nested calls, readable JSON output, and always-visible script errors — Ctrl+O expands the original view"
+2026-10-09T04:23:00.584Z,@3sixty/qr,0.20.0-next.1,3sixty-bot,Apache-2.0,239948,Creating QR codes
+2026-10-09T04:23:21.073Z,@lenso/api-keys,0.1.1,liorael,MIT,77259,"API Key credentials for application-owned users, service accounts and agents. No User table, account linking, automatic realm, listener or management entry."
+2026-10-09T04:23:24.337Z,@lenso/audit,0.2.0,liorael,MIT,91195,"`@lenso/audit` records who did what to which resource, in which scope, when, and with what outcome. Log/OTel remains the runtime diagnostic channel. Audit is not an authorization engine, compliance c…"
+2026-10-09T04:23:27.766Z,@lenso/authorization,0.2.0,liorael,MIT,94745,"A composable authorization engine for trusted application facts. It has no User table, required organization, HTTP transport, database, authentication method or Lenso runtime dependency. RBAC is one…"
+2026-10-09T04:23:31.028Z,@lenso/limits,0.2.0,liorael,MIT,107385,"Request rate, periodic numeric quota, and weighted concurrency leases. These are admission controls, not balances, money, billing, or an exactly-once system."
+2026-10-09T04:23:34.324Z,@lenso/notifications,0.2.0,liorael,MIT,217892,"`@lenso/notifications` provides ordinary async notification services, versioned plain-text templates, preferences, durable logical records and separate delivery attempts. Lenso, Auth, Tasks, Manage a…"
+2026-10-09T04:23:38.466Z,@lenso/organization,0.2.0,liorael,MIT,54164,"Optional business organizations, memberships and invitations. The root entry is an ordinary async service with no runtime dependencies on Lenso, Auth, Drizzle, Manage, Tasks or notification providers."
+2026-10-09T04:23:41.633Z,@lenso/payments,0.1.1,liorael,MIT,84046,"`@lenso/payments` persists provider payment/refund requests and verified results. It does not price products, grant memberships, maintain a wallet or implement an accounting ledger."
+2026-10-09T04:23:44.809Z,@lenso/scheduler,0.2.0,liorael,MIT,165862,"`@lenso/scheduler` decides **when to enqueue**. The existing `@lenso/tasks` queue remains the only worker, retry budget and task-state authority. No worker, timer, HTTP endpoint, CLI operation or Man…"
+2026-10-09T04:23:46.302Z,@ixo/domain.md,0.3.1,michael-ixo,Apache-2.0,4726695,"Authority-aware domain.md specification, validator, authoring library, and CLI"
+2026-10-09T04:23:51.511Z,@linhnguyen96114/agentkit-engineer-cli,7.6.0,linhnguyen96114,MIT,1942174,"A comprehensive boilerplate template for building professional software projects with AI CLI Coding Agents. Supports Claude Code, Cursor AI, Gemini CLI, Augment Code, Antigravity, OpenCode, and OpenA…"
+2026-10-09T04:23:57.256Z,qq-native-client-darwin-arm64,0.0.1,lc_cn,UNLICENSED,128572962,QQ native runtime for darwin arm64
+2026-10-09T04:25:06.369Z,@titan-design/review-schema,0.1.0,hjewkes,MIT,327249,Zod schemas for titan-review rounds (titan-review/round@2) and their feedback (titan-review/feedback@1)
+2026-10-09T04:25:23.619Z,dsh-prompt-zh,1.2.0,mileskent,MIT,77845,把 DSH 内置的系统提示词、MCP 指导说明以及各插件动态注入的提示词片段本地化为简体中文。工具的 description 与参数 schema 有意保持英文。
+2026-10-09T04:26:16.37Z,dsh-url-router,0.1.2,dddmuc,MIT,63945,DSH Web GUI 地址栏路由插件：每个界面都有自己的链接（会话 / 主面板 / 插件页与组件页 / 任务看板），整行即真链接，只写 fragment。
+2026-10-09T04:28:16.494Z,@nascencestudio/medialibrary,0.1.1,nascence-dev,MIT,382008,"A media library for StudioCMS: upload, browse and reuse images, video, audio, documents and remote videos"
+2026-10-09T04:29:57.849Z,@kevlns/ship-cli,0.1.1,kevlns,MIT,231477,"Cross-platform game shipping CLI. Validate, package and push builds to game platforms (Steam via steamcmd VDF builds, WeChat mini games via miniprogram-ci). Never publishes to players on its own."
+2026-10-09T04:30:49.836Z,@kevlns/art-workshop,0.1.2,kevlns,MIT,109701,美术工坊：统一风格的多工程图片生成与编辑工具
+2026-10-09T04:31:44.473Z,sf-plugin-preflight,0.8.0,visparashar,Apache-2.0,32352,"Salesforce CLI plugin for sf-preflight: see what a Salesforce change sets off before it ships. Adds `sf preflight analyze`, `tests`, `agents`, `incidents`, `rollback` and more."
+2026-10-09T04:32:20.95Z,qq-native-client-win32-x64,0.0.1,lc_cn,UNLICENSED,174878807,QQ native runtime for win32 x64
+2026-10-09T04:33:02.586Z,n8n-nodes-modal-sandbox,1.0.0,fgsobn,UNLICENSED,29519,Owner-operated Modal Sandbox nodes with n8n-managed Modal API credentials
+2026-10-09T04:33:39.676Z,clirevenue,1.0.0,clirevenue,SEE LICENSE IN LICENSE,85468,Install the CLIRevenue SDK and configure ad delivery in your project.
+2026-10-09T04:34:03.069Z,@johnhenry/objectify-cli-darwin-arm64,0.0.2,johnhenry,MIT,6832498,objectify CLI binary for macOS (Apple Silicon / arm64)
+2026-10-09T04:34:12.713Z,foxplug,1.0.1,osakasaul,MIT,14888,"Every release or push becomes a changelog entry and ready-to-post launch updates in FoxPlug, waiting for your approval. Works in GitLab CI, Bitbucket Pipelines, CircleCI or a terminal."
+2026-10-09T04:34:27.515Z,@johnhenry/objectify-cli-darwin-x64,0.0.2,johnhenry,MIT,7054822,objectify CLI binary for macOS (Intel / x64)
+2026-10-09T04:34:49.374Z,@theaiinc/oasis-echo-sdk,0.2.0,stevetrantheaiinc,MIT,245746,Client SDK for the oasis-echo voice AI server — works in browsers and Node.js backends
+2026-10-09T04:34:53.131Z,@theaiinc/oasis-echo-expo,0.2.0,stevetrantheaiinc,MIT,133959,"Voice with an oasis-echo server from Expo apps (Android and iOS): the connection (events, actions, audio socket) and whole calls with the phone's speech recognition and voice, or the server's voice"
+2026-10-09T04:35:44.746Z,bagan,0.1.0,phothinmaung,,205,
+2026-10-09T04:35:46.779Z,glassrender,0.1.1-beta,feralthedogg,,692029,Real-time refractive glass material renderer for WebGL2.
+2026-10-09T04:36:43.294Z,@ekworp/opencode-mystatus,1.2.7,ekworp,MIT,83990,"Check all your AI subscription quotas in one command. Supports OpenAI, Zhipu AI, Z.ai, and Google Antigravity. More platforms coming soon."
+2026-10-09T04:37:09.617Z,terrible-harness,1.6.2,nanopowered08,MIT,2447808,The most terrible harness (Antigravity and) I ever made.
+2026-10-09T04:37:15.982Z,@ts-series/lite-client,2.0.0,rechenplaner,Unlicense,106334,"A driver-agnostic TypeScript ORM for SQLite that maps database schemas directly to type-safe, high-performance query classes."
+2026-10-09T04:37:37.462Z,@asteroidai/cli,1.8.193,asteroidai,MIT,561183,The asteroid command-line interface for the Asteroid platform.
+2026-10-09T04:37:38.007Z,glassrender-react,0.1.1-beta,feralthedogg,,25742,React components for the GlassRender glass material renderer.
+2026-10-09T04:38:29.346Z,@gitmyabi/aec,1.0.0,gitmyabi-bot,MIT,25007,"Auto-generated TypeScript type bindings for AEC (build etherscan-aec-50181a66-1791520609329, commit 46ad758, branch etherscan)"
+2026-10-09T04:39:29.728Z,glassrender-svelte,0.1.1-beta,feralthedogg,,30560,Svelte components for the GlassRender glass material renderer.
+2026-10-09T04:39:49.213Z,miner-agent,0.1.1,niuyuhu,MIT,62909,Local guardian and status reporter for IOTA Train at Home miners
+2026-10-09T04:40:38.689Z,@voiflow/sdk,0.1.0,salman-voiflow-admin,MIT,189692,"VoiFlow 4.0 server-side SDK for the public /v1 API: businesses, agents, journeys, calls, conversations, campaigns, AI work, webhooks."
+2026-10-09T04:40:58.844Z,glassrender-vue,0.1.1-beta,feralthedogg,,45215,Vue components for the GlassRender glass material renderer.
+2026-10-09T04:41:35.119Z,@gitmyabi/give,1.0.1,gitmyabi-bot,MIT,70759,"Auto-generated TypeScript type bindings for GIVE (build etherscan-give-95669a65-1791520870489, commit b70dbf4, branch etherscan)"
+2026-10-09T04:42:55.701Z,paseo-canvas,0.1.0,supermomonga,MIT,12956815,Workspace-shared GFM canvases for Paseo
+2026-10-09T04:42:57.387Z,spp-lang,0.1.0,willmartian,MIT,178531,"Specs that run. Written by agents, read by people."
+2026-10-09T04:43:27.562Z,@office-kit/pptx-editor,0.1.0,baseballyama,MIT,10762822,"Embeddable browser editor for .pptx presentations, built on @office-kit/pptx"
+2026-10-09T04:46:20.754Z,ci-local,0.1.0,danolez,MIT,272529,Build container images on your own machine and publish them to a registry from a git pre-push hook
+2026-10-09T04:46:22.011Z,react-native-youtube-custom-player,0.1.0,dharamvir,MIT,87816,"YouTube player for React Native with fully custom controls, hidden YouTube UI, and a fullscreen hook — built on react-native-webview and the YouTube IFrame Player API."
+2026-10-09T04:46:53.575Z,slop-sentry-deploy,2.1.0,azmin,MIT,7833,The Grand Master's SLOP-SENTRY Ecosystem Deployment Package
+2026-10-09T04:46:54.476Z,uitheme-rn,0.1.0-alpha,tonyedgal,MIT,133194,Native appearance and color palettes for React Native and Expo
+2026-10-09T04:48:09.261Z,@intentius/chant-lexicon-sql,0.112.0,lex00,Apache-2.0,7781485,"SQL lexicon for chant — database schema as typed declarations, one dialect at a time; ClickHouse first, with types read from a pinned server's catalog"
+2026-10-09T04:51:11.629Z,@openkey/sdk-capacitor,0.1.0-beta.0,skgbafa,SEE LICENSE IN LICENSE.md,304080,Capacitor native sign-in and secure TinyCloud delegation storage for OpenKey
+2026-10-09T04:53:51.688Z,@robota-sdk/agent-organization,3.0.0-beta.93,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,63480,Canonical JSON and generic organization budget contracts
+2026-10-09T04:53:59.551Z,dsh-hono,0.2.1,tuimao,MIT,56740,Hono route services for the DeepSeek Harness WebServer and Cordis lifecycle
+2026-10-09T04:54:07.622Z,@robota-sdk/agent-ui-web,3.0.0-beta.93,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,2772166,"Browser-safe React session presentation, wire reducer, WebSocket client and runtime-host contract for consumer-owned agent renderers."
+2026-10-09T04:54:08.122Z,@robota-sdk/product-config,3.0.0-beta.93,jungyoun,AGPL-3.0-only OR LicenseRef-Commercial,227558,Explicit product configuration contracts and host loading
+2026-10-09T04:54:14.195Z,@3sixty/tools-models,0.20.0-next.1,3sixty-bot,Apache-2.0,179056,Shared models for tooling packages
+2026-10-09T04:54:20.496Z,tellur,0.0.1,kazuito,,43,
+2026-10-09T04:54:30.898Z,sf-plugin-apex-formatter,0.1.0,louisfico,MIT,681518,A Ruby-free TypeScript port of Louis Fico's tree-sitter Apex formatter for Salesforce CLI.
+2026-10-09T04:54:46.524Z,zynapse-vault-cli,0.1.0,zynapse,MIT,20715,Command-line client for Zynapse Vault
+2026-10-09T04:54:55.617Z,dsh-elysia,0.2.1,tuimao,MIT,59729,Elysia route services for the DeepSeek Harness WebServer and Cordis lifecycle
+2026-10-09T04:55:47.509Z,@kne/fastify-oidc,0.1.1,lingtong,ISC,145786,基于 oidc-provider 的 Fastify OIDC 认证插件，支持 standalone / central 多项目单点登录、租户与跨项目令牌
+2026-10-09T04:56:07.758Z,@brianbrady/glasshouse-domain,0.1.0,poisonsushi,MIT,72782,"Zod domain model for Agentic Flows: runs, spans, events, evidence, and redaction."
+2026-10-09T04:56:09.143Z,expect-llm,0.1.0,himanshu-dev-111,MIT,49469,"Zero-dependency Vitest/Jest matchers for LLM output — assert valid JSON, schema shape, required content, structured snapshots, and an optional bring-your-own judge, in the test runner you already use."
+2026-10-09T04:56:11.606Z,@brianbrady/glasshouse-telemetry-client,0.1.0,poisonsushi,MIT,7338,Emit runtime telemetry from agents and CI jobs to an Agentic Flows server.
+2026-10-09T04:56:16.361Z,@brianbrady/glasshouse,0.1.0,poisonsushi,MIT,905877,Self-hosted Agentic Flows server and web UI: observability for agentic software-development workflows.
+2026-10-09T04:56:33.491Z,voiflow,0.1.0,salman-voiflow-admin,MIT,189672,"VoiFlow 4.0 server-side SDK for the public /v1 API: businesses, agents, journeys, calls, conversations, campaigns, AI work, webhooks."
+2026-10-09T04:57:07.746Z,tellu,0.0.1,kazuito,,42,
+2026-10-09T04:58:00.08Z,@allbluecn/collab-core,0.2.0,urmynami,AGPL-3.0-or-later,132579,AllBlue 多人协作共享基础：room 命名注册表 + HMAC 协作 ticket + TipTap 内容 Yjs 导出器/种子化 + 画布场景 Y 树序列化（客户端/服务端子路径隔离）
+2026-10-09T04:59:00.881Z,zynapse-vault-mcp,0.1.0,zynapse,MIT,14171,Local stdio MCP server for Zynapse Vault
+2026-10-09T04:59:08.897Z,spurt-coupon-addon,1.0.0,wdpraveenkrr,ISC,100309,Standalone Coupon Addon component with built-in API handling and Tailwind CSS styling
+2026-10-09T04:59:52.288Z,@3sixty/tools-core,0.20.0-next.1,3sixty-bot,Apache-2.0,971652,Shared utilities and models for tooling packages
+2026-10-09T05:02:18.078Z,@produck/es-abstract-member-constructor,0.1.1,lichaozhy,MIT,6077,Constructor parsers for declaring the members of an abstract constructor.
+2026-10-09T05:02:43.361Z,weapp-stylex,0.1.0,icebreaker,MIT,11833,"Official StyleX runtime and WeChat mini-program adapters for native, Wevu, Taro and uni-app"
+2026-10-09T05:04:47.761Z,@journ/reckoner,0.1.2,thommorais,MIT,8647,WebGL shader art for React. Each art is one canvas component that draws with a small GLSL program. Web only.
+2026-10-09T05:05:02.26Z,@3sixty/ts-to-jsonld-context,0.20.0-next.1,3sixty-bot,Apache-2.0,91941,Generate JSON-LD contexts from source model definitions
+2026-10-09T05:05:13.798Z,@bonprix-ds/codemods,0.0.0-stage,enix79,,342,Temporary package placeholder for staged publishing
+2026-10-09T05:06:38.79Z,@jaccard-ai/cli,0.0.0,jaccard-releasebot,SEE LICENSE IN README.md,219,Placeholder. Releases are published from CI.
+2026-10-09T05:06:51.343Z,@easy-cms/plugin-ecommerce,0.45.0,scton54,MIT,165967,"A shop for Easy CMS: products and variants, prices in several currencies, carts (guests too), checkout with Stripe or bank transfer, orders, stock, customer accounts, and React and Vue hooks"
+2026-10-09T05:07:59.057Z,vite-plugin-dev-source-map,0.1.0,sexymee,MIT,17065,Give original source files distinct URLs in Vite dev sourcemaps for reliable DevTools navigation.
+2026-10-09T05:08:45.301Z,@3sixty/ts-to-openapi,0.20.0-next.1,3sixty-bot,Apache-2.0,241443,Generate OpenAPI specifications from REST route definitions
+2026-10-09T05:12:11.539Z,@forge-go/dashboard-kit,0.1.0,juicycleff,,801444,
+2026-10-09T05:12:14.127Z,@forge-go/dashboard-runtime,0.1.0,juicycleff,,25419,
+2026-10-09T05:12:16.895Z,@forge-go/dashboard-plugin,0.1.0,juicycleff,,112282,
+2026-10-09T05:12:19.784Z,@forge-go/dashboard-host,0.1.0,juicycleff,,181559,
+2026-10-09T05:12:22.742Z,@forge-go/dashboard-next,0.1.0,juicycleff,,31560,
+2026-10-09T05:12:24.725Z,@3sixty/ts-to-schema,0.20.0-next.1,3sixty-bot,Apache-2.0,133010,Generate JSON Schemas from source model definitions
+2026-10-09T05:12:25.962Z,@forge-go/dashboard-plugin-authsome,0.1.0,juicycleff,,418535,
+2026-10-09T05:12:28.789Z,@forge-go/dashboard-plugin-bastion,0.1.0,juicycleff,,98364,
+2026-10-09T05:12:31.901Z,@forge-go/dashboard-plugin-chronicle,0.1.0,juicycleff,,217233,
+2026-10-09T05:12:34.62Z,@forge-go/dashboard-plugin-core,0.1.0,juicycleff,,61901,"The core plugin mounts at the dashboard root. You can inspect services, health checks, metrics, traces, audit activity, extensions, and deployment information. The host puts these pages under Workspa…"
+2026-10-09T05:12:34.839Z,@ubhub/maps,0.1.0,monmap,MIT,367453,"Official UBHUB SDK for React and Next.js: vector maps, place search, typed geocoding, reverse geocoding and routing for Mongolia."
+2026-10-09T05:12:37.34Z,@forge-go/dashboard-plugin-cortex,0.1.0,juicycleff,,178282,"You can configure agents and their composition, run them, review approvals, inspect conversation memory and follow orchestration and messaging activity from the Forge dashboard."
+2026-10-09T05:12:39.979Z,@forge-go/dashboard-plugin-ctrlplane,0.1.0,juicycleff,,92544,"You can manage workloads, their replicas and deployment history from `/@ctrlplane`. Register this plugin in your Forge dashboard shell and register the Ctrlplane Go extension before the dashboard ext…"
+2026-10-09T05:12:42.767Z,@forge-go/dashboard-plugin-dispatch,0.1.0,juicycleff,,70610,
+2026-10-09T05:12:45.615Z,@forge-go/dashboard-plugin-herald,0.1.0,juicycleff,,304928,
+2026-10-09T05:12:48.334Z,@forge-go/dashboard-plugin-keysmith,0.1.0,juicycleff,,267815,
+2026-10-09T05:12:51.305Z,@forge-go/dashboard-plugin-ledger,0.1.0,juicycleff,,268978,
+2026-10-09T05:12:54.052Z,@forge-go/dashboard-plugin-nexus,0.1.0,juicycleff,,153183,
+2026-10-09T05:12:56.972Z,@forge-go/dashboard-plugin-relay,0.1.0,juicycleff,,142346,
+2026-10-09T05:12:59.922Z,@forge-go/dashboard-plugin-sentinel,0.1.0,juicycleff,,294550,
+2026-10-09T05:13:02.69Z,@forge-go/dashboard-plugin-shield,0.1.0,juicycleff,,74000,
+2026-10-09T05:13:05.686Z,@forge-go/dashboard-plugin-streaming,0.1.0,juicycleff,,53678,
+2026-10-09T05:13:08.403Z,animation-grabber,0.2.0,shotcowboystyle,MIT,31663,"Grab GSAP tweens, timelines and ScrollTriggers from any page that uses GSAP, as runnable code. Built for AI coding agents."
+2026-10-09T05:13:09.022Z,@forge-go/dashboard-plugin-trove,0.1.0,juicycleff,,130120,
+2026-10-09T05:13:12.603Z,@forge-go/dashboard-plugin-vault,0.1.0,juicycleff,,305326,
+2026-10-09T05:13:15.478Z,@forge-go/dashboard-plugin-warden,0.1.0,juicycleff,,467018,
+2026-10-09T05:13:21.249Z,@forge-go/dashboard-plugin-weave,0.1.0,juicycleff,,172477,
+2026-10-09T05:13:43.171Z,dsh-ikuai-mcp,0.1.1,mingshi350,MIT,85989,DSH plugin: control iKuai (爱快) soft routers over their JSON API. Zero-dependency Node MCP stdio server exposing 11 read tools plus a write-gated generic API call; iKuai credentials live in the DSH cr…
+2026-10-09T05:14:01.664Z,node-util-printhelp,0.0.1,jonasgeiler,MIT,31649,"Utility to generate and print CLI help text from a Node.js `util.parseArgs` configuration, designed minimally to resemble a potential future Node.js built-in."
+2026-10-09T05:14:52.173Z,@send0/sdk,0.2.0,dev-send0,MIT,291413,Official TypeScript SDK for send0: email inboxes for AI agents
+2026-10-09T05:14:55.421Z,@send0/mcp,0.2.0,dev-send0,MIT,20678,MCP server for send0: give any agent an email inbox
+2026-10-09T05:14:59.17Z,@send0/ai-sdk,0.2.0,dev-send0,MIT,20611,send0 tools for the Vercel AI SDK: give any agent an email inbox
+2026-10-09T05:15:02.716Z,@send0/langchain,0.0.0-stage,dev-send0,,338,Temporary package placeholder for staged publishing
