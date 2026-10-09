@@ -1,0 +1,152 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-09T02:15:19.893Z,@anhlp/alp,0.3.0,anhlp,,858977,"ALP command line and alpd, the per-user daemon that runs filesystem-defined Codex and Claude Code agent teams"
+2026-10-09T02:18:50.487Z,@ai-ecoverse/wasm-ncurses-utils,6.5.0-1,trieloff,X11-distribute-modifications-variant,503345,"ncurses clear, tput, tset and reset for slicc (WASM / emscripten, SLICC homescoop)"
+2026-10-09T02:19:00.61Z,@hartaithan/trophy-scout,1.0.1,hartaithan,MIT,125997,"Browser client for the Trophy Scout API. It manages the session token for you, wraps the JSON endpoints and turns the streaming (SSE) endpoints into promises with progress callbacks."
+2026-10-09T02:19:07.286Z,gamma-reader,1.1.0,bencode,MIT,15845375,"Read, edit and run a git working tree in Gamma Reader, served from your machine"
+2026-10-09T02:20:15.66Z,@he0119/dsh-tailnet-admin,0.1.0,he0119,MIT,99487,把 Tailnet / 反向代理页面当作「本机」来用：启用 host 持久化设置，并按需关闭浏览器会话校验（Host/Origin 栅栏保持不动）。
+2026-10-09T02:20:29.198Z,@ketvietlab/ketspec,0.1.41,ketvietlab,MIT,758606,"Spec: an API reference and try-it console for OpenAPI 3 documents, built on the Két design system."
+2026-10-09T02:22:03.148Z,@takebox-ai/harness-haijun-code,1.0.111,takebox-ai,Apache-2.0,1795870,"<p align=""center""> <img src=""assets/haijun-logo.png"" alt=""Haijun"" width=""500""> </p>"
+2026-10-09T02:22:09.902Z,jira-ticket-reporter,0.1.1,wastepanda,,55561,Embeddable Jira ticket dialog. The host supplies the API client; Jira credentials stay on the server.
+2026-10-09T02:22:21.279Z,overlane,0.1.9,owenob1,UNLICENSED,10963252,"Overlane: connect a GitHub project to your coding agents. One portable CLI with project memory, tasks, a code index, guardrails and the Claude Code and Codex plugin."
+2026-10-09T02:22:55.195Z,@inchill/react-whiteboard,1.0.0,inchill,MIT,191533,"A lightweight, zero-dependency infinite-canvas whiteboard component for React."
+2026-10-09T02:25:05.467Z,qoder2api,0.1.7,duchenggong,MIT,38016597,Install and launch the qoder2api local protocol bridge
+2026-10-09T02:25:36.404Z,better-room,0.1.0,willzys,Apache-2.0,320431,room-scoped contextual authorization plugin for better auth
+2026-10-09T02:25:40.197Z,dsh-hongguo,0.0.1,iasiv5,MIT,845,Hongguo (red fruit) helpers for DeepSeek Harness (dsh): playful utilities in the dsh ecosystem.
+2026-10-09T02:25:48.422Z,dsh-huangguo,0.0.1,iasiv5,MIT,857,Huangguo (yellow fruit) helpers for DeepSeek Harness (dsh): playful utilities in the dsh ecosystem.
+2026-10-09T02:25:58.71Z,pi-zip,0.2.2,purboo,MIT,173161,"Keeps long Pi sessions cheap without losing anything: folds old tool output only when the prompt cache has already gone cold, and every fold can be recalled byte for byte. Zero config."
+2026-10-09T02:26:13.985Z,@godspeedai/cognate,0.1.0,sprime01,Apache-2.0,14776,"Cognate SDK umbrella: one import for the reference runtime, the headless client, and their core contracts."
+2026-10-09T02:26:31.943Z,@godspeedai/cognate-a2a,0.1.0,sprime01,Apache-2.0,21063,A2A adapter: publishes a runtime agent as an A2A agent; continuations map to input-required tasks.
+2026-10-09T02:26:35.032Z,@godspeedai/cognate-ag-ui,0.1.0,sprime01,Apache-2.0,48669,"AG-UI projection and interoperability adapter: outbound event mapping, inbound actions through native authorization, SSE endpoint with reconnect (spec §24). Internal events are never AG-UI aliases."
+2026-10-09T02:26:48.418Z,@godspeedai/cognate-artifacts,0.1.0,sprime01,Apache-2.0,21542,"Durable, addressable, content-hashed artifacts with access policy, retention, and tombstones (spec §13.1)."
+2026-10-09T02:26:59.362Z,@godspeedai/cognate-capabilities,0.1.0,sprime01,Apache-2.0,28630,"Two-phase capability selection: deterministic eligibility, then contained adaptive ranking with durable explanations (spec §8.2, §17, §30)."
+2026-10-09T02:27:04.319Z,@godspeedai/cognate-cli,0.1.0,sprime01,Apache-2.0,30645,`cognate create` (starter generation with profiles) and `cognate dev` (runtime + Connect + AG-UI + UI server) (spec §37 Phase 10).
+2026-10-09T02:27:14.779Z,@godspeedai/cognate-client,0.1.0,sprime01,Apache-2.0,42783,"Headless client: runs, reconnecting event subscriptions, derived run state, shared projections, continuations, frontend capabilities, artifacts. No React (spec §25.1)."
+2026-10-09T02:27:21.058Z,lanboard,0.7.0,boomsi,MIT,89371,LAN message board. npx lanboard and anyone on your WiFi can post messages that show up live on every screen — scan the terminal QR code to join.
+2026-10-09T02:27:21.079Z,@godspeedai/cognate-cognitive-api,0.1.0,sprime01,Apache-2.0,27509,"Dependency-free CognitiveIndex contract, retrieval pipeline, indexing projection, and conformance kit (spec §14–16)."
+2026-10-09T02:27:32.614Z,@godspeedai/cognate-cognitive-memory,0.1.0,sprime01,Apache-2.0,17243,In-process exact-cosine CognitiveIndex and a deterministic hashing embedder; the fallback implementation for core cognition.
+2026-10-09T02:27:43.357Z,@godspeedai/cognate-cognitive-ruvector,0.1.0,sprime01,Apache-2.0,18796,RuVector-backed CognitiveIndex (reference cognitive implementation; vector_search only per ADR-0004 / DEBT-007).
+2026-10-09T02:27:49.573Z,@godspeedai/cognate-cognitive-rvf,0.1.0,sprime01,Apache-2.0,32091,"Optional RVF-backed CognitiveIndex with snapshot/branch, Cognate-owned integrity manifests, and attached/detached import classification (spec §18; DEBT-006 mitigations)."
+2026-10-09T02:28:01.221Z,@godspeedai/cognate-continuations,0.1.0,sprime01,Apache-2.0,54593,"Durable continuations and external commitments on the durable store (spec §9.3, §12)."
+2026-10-09T02:28:17.914Z,@godspeedai/cognate-events,0.1.0,sprime01,Apache-2.0,48949,"Event envelope, durable store port, and the store conformance kit."
+2026-10-09T02:28:26.038Z,@cicctencent/jtui,2.2.13,jiamao,MIT,58384920,A Component Library for Vue 3
+2026-10-09T02:28:28.429Z,@godspeedai/cognate-execution,0.1.0,sprime01,Apache-2.0,50290,"Framework-owned execution-world contracts: filesystem and process ports, replaceable providers, and the filesystem.*/process.* capability component. No transport or library types."
+2026-10-09T02:28:33.481Z,@godspeedai/cognate-execution-ssh,0.1.0,sprime01,Apache-2.0,44748,"SSH host as an execution world: SFTP filesystem and remote exec over ssh2, with mandatory host-key verification, ProxyJump and clean disposal. Same contracts as every other provider."
+2026-10-09T02:28:44.521Z,@godspeedai/cognate-execution-wsl,0.1.0,sprime01,Apache-2.0,29400,WSL distribution as an execution world: filesystem and process ports over `wsl.exe -e sh -s`. Same contracts as every other provider.
+2026-10-09T02:28:50.282Z,@godspeedai/cognate-kernel-api,0.1.0,sprime01,Apache-2.0,58779,"Framework-owned kernel contract: contexts, scopes, capabilities, components, fibers, effects. No engine types."
+2026-10-09T02:28:58.035Z,1f916-client,0.1.0,twzrd1111,MIT,63280,"Zero-dependency client for 1F916 (https://1f916.ai), the society for AI agents: register, post, record mandates, seal memory, bind an Ed25519 key. One file, Node 22+."
+2026-10-09T02:29:01.637Z,@godspeedai/cognate-kernel-cordis,0.1.0,sprime01,Apache-2.0,42385,Cordis-backed implementation of @godspeedai/cognate-kernel-api. The only package allowed to import cordis.
+2026-10-09T02:29:12.326Z,@godspeedai/cognate-mcp,0.1.0,sprime01,Apache-2.0,16940,MCP adapter: exposes runtime capabilities as MCP tools through the runtime's authorization path.
+2026-10-09T02:29:17.246Z,@godspeedai/cognate-profile,0.1.0,sprime01,Apache-2.0,15829,defineProfile: reusable application compositions that select and configure components without new kernel concepts (spec §29).
+2026-10-09T02:29:17.808Z,@sjohansson/astro-votes,0.1.0,sjohansson,MIT,85825,"Like and dislike buttons for static Astro sites. Votes go to your analytics tool as events, a CI job writes the totals to a JSON file, and the site shows them at build time. No database."
+2026-10-09T02:29:27.837Z,@godspeedai/cognate-profile-copilot,0.1.0,sprime01,Apache-2.0,29727,"Copilot reference profile: a composition of runtime, runs, continuations, frontend capabilities, state and artifact projections, AG-UI, React, and Astryx (spec §29.1). No kernel additions."
+2026-10-09T02:29:33.995Z,@godspeedai/cognate-profile-harness,0.1.0,sprime01,Apache-2.0,33465,"Harness reference profile: model providers, tool registry, agent loop, sessions, storage, skills, scheduler, sandbox, replaceable services, subagents (spec §29.2). No kernel additions."
+2026-10-09T02:29:44.746Z,@godspeedai/cognate-projections,0.1.0,sprime01,Apache-2.0,21794,"Checkpointed, idempotent, rebuildable projections over the durable event log (spec §11)."
+2026-10-09T02:29:51.143Z,@godspeedai/cognate-proto,0.1.0,sprime01,Apache-2.0,75192,Generated TypeScript bindings for the canonical proto/ sources. Generated files are never edited by hand (spec §21).
+2026-10-09T02:30:03.582Z,@godspeedai/cognate-protocol-connect,0.1.0,sprime01,Apache-2.0,43914,Maps RuntimeService to the generated Connect service (server routes and a remote client). Transport-agnostic.
+2026-10-09T02:30:15.261Z,@godspeedai/cognate-protocol-connect-bun,0.1.0,sprime01,Apache-2.0,17923,"Serves the Connect runtime service on Bun.serve with authentication, payload limits, and deadlines; provides a fetch transport."
+2026-10-09T02:30:19.886Z,@godspeedai/cognate-provider-local,0.1.0,sprime01,Apache-2.0,14966,"Deterministic offline ModelProvider for tests, demos, and fallback; scripted by rules, never a real model."
+2026-10-09T02:30:31.221Z,@godspeedai/cognate-provider-openai-compatible,0.1.0,sprime01,Apache-2.0,26414,"ModelProvider for OpenAI-compatible chat completion endpoints (llama.cpp, vLLM, Ollama's /v1, hosted APIs) over fetch; no SDK."
+2026-10-09T02:30:35.766Z,@ngthuc/kill-process,1.0.0,ngthuc,MIT,45594,Kill process running on given port
+2026-10-09T02:30:42.096Z,@godspeedai/cognate-react,0.1.0,sprime01,Apache-2.0,29478,"React 19 bindings over the headless client: runs, projections, frontend capabilities, continuations, artifacts (spec §25.2). No Astryx."
+2026-10-09T02:30:48.085Z,@godspeedai/cognate-realitytrace,0.1.0,sprime01,Apache-2.0,41075,"Observation port, committed-outbox delivery, receipts, strict gating, and the SXR CLI adapter (spec §20). RealityTrace stays unchanged."
+2026-10-09T02:30:58.745Z,@godspeedai/cognate-runtime-api,0.1.0,sprime01,Apache-2.0,65267,"Transport-independent runtime service contract, agent authoring surface, and service conformance kit (ADR-0011)."
+2026-10-09T02:31:03.614Z,@godspeedai/cognate-runtime-bun,0.1.0,sprime01,Apache-2.0,144003,"Bun reference runtime: composes kernel, durable store, runs, continuations, commitments, artifacts, and cognition behind RuntimeService."
+2026-10-09T02:31:29.723Z,ripide-core,0.0.0,harlan_zw,MIT,411,Package name reservation for RipIDE.
+2026-10-09T02:31:43.571Z,@qzsy/dewu-sdk,0.1.0,liuhuapiaoyuan1,MIT,1384229,得物开放平台 TypeScript SDK，零第三方运行时依赖。
+2026-10-09T02:32:42.31Z,dream-sdk,0.2.0,dream-npm,UNLICENSED,28208,"Dream SDK and the `dream` CLI: wake your agent when you say ""dream, ..."" out loud, and reach the user mid-task. No dependencies."
+2026-10-09T02:32:50.548Z,@godspeedai/cognate-store-memory,0.1.0,sprime01,Apache-2.0,28460,"In-memory DurableStore with the same semantics as the SQLite store (tests, ephemeral runtimes)."
+2026-10-09T02:33:02.684Z,@godspeedai/cognate-store-sqlite,0.1.0,sprime01,Apache-2.0,43858,Authoritative DurableStore on bun:sqlite (spec §13).
+2026-10-09T02:33:14.247Z,@godspeedai/cognate-ui-astryx,0.1.0,sprime01,Apache-2.0,22271,"Reference Astryx surfaces over @godspeedai/cognate-react: shell, chat, approvals, artifacts, run and state inspection, themes (spec §25.3). A renderer, not the ontology."
+2026-10-09T02:33:24.927Z,ripide-vue,0.0.0,harlan_zw,MIT,410,Package name reservation for RipIDE.
+2026-10-09T02:34:09.882Z,@chrissliu/neuma,0.1.0-preview.1,chrissliu,,914949,NEUMA 本机智能体与项目工作台（Apple 芯片 Mac 试用版）
+2026-10-09T02:34:39.531Z,ripide-api,0.0.0,harlan_zw,MIT,410,Package name reservation for RipIDE.
+2026-10-09T02:35:31.022Z,@wyreup/mammoth,0.2.0,tamler,BSD-2-Clause,854493,Maintained Mammoth DOCX library distribution without the standalone CLI
+2026-10-09T02:35:31.043Z,@wyreup/exceljs,0.2.0,tamler,MIT,1921582,Maintained ExcelJS library distribution with native UUID generation
+2026-10-09T02:38:14.123Z,vow-agent-sdk,0.1.0,bagstreet,MIT,2285,Zero-dependency client for the Vow Agent API
+2026-10-09T02:38:43.975Z,@none-0128/zc-runner-runtime,0.0.0-stage,none-0128,,350,Temporary package placeholder for staged publishing
+2026-10-09T02:39:00.675Z,@unabandoned/fernet,0.4.0,00o-sh,MIT,14833,Javascript implementation of Fernet symmetric encryption https://github.com/kr/fernet-spec
+2026-10-09T02:39:15.077Z,create-ewp,0.1.0,binceengine,MIT,131859,"Create an Easy Windows Pack desktop project with Vanilla, Vue or React"
+2026-10-09T02:39:39.727Z,narwhalapi,0.1.0,nusantara-dev,MIT,283149,Typed server-side client for the Narwhal API
+2026-10-09T02:39:55.904Z,easywindowspack,0.1.0,binceengine,MIT,67724,Shared WebView window frame and development CLI for easy-windows-pack
+2026-10-09T02:40:05.413Z,dsh-deps-audit,0.1.0,geeklei,MIT,32571,"Dependency audit for DeepSeek Harness: parse_lock (parse npm/pnpm lockfile into structured packages), find_duplicates (detect multiple coexisting versions of same package), unused_deps (report deps d…"
+2026-10-09T02:41:07.584Z,@hope_phenom/dsh-plugin-code-quality,0.1.1,hope_phenom,MIT,54370,DeepSeek Harness plugin adding two code-quality commands as user-invocable skills: /simplify (behavior-preserving cleanups over the current diff) and /code-review (multi-angle bug hunt with an indepe…
+2026-10-09T02:41:12.624Z,elizaos-plugin-vibekast,0.1.0,vibekast,MIT,117191,"Forecast the weekly Bitcoin close on VibeKast, a distribution market on Base Sepolia, and compete on its AI agent leaderboard."
+2026-10-09T02:41:51.866Z,@narumitw/pi-inspect,0.1.0,narumitw,MIT,1532796,Read-only browser inspector for Pi session context and live tool calls.
+2026-10-09T02:41:53.655Z,@lapxo/head,0.1.0,nahumdev,MIT,275529,"An MCP server that folds: it runs bound as a process, hands a model what bound printed, and lands what it read as receipts."
+2026-10-09T02:43:01.861Z,@tapirus/db,1.0.1,tapirus,MIT,26279,Official TypeScript & JavaScript SDK for TapirusDB — The Safe-Rust Embedded Multi-Model AI Database Engine
+2026-10-09T02:43:53.501Z,ts-gem-lsp,0.0.1,mantou132,MIT,14476346,TypeScript 7 language server proxy for Gem
+2026-10-09T02:44:31.653Z,@narwhalapi/mcp,0.1.0,narwhalapi,MIT,13070,Stdio bridge to the Narwhal API Model Context Protocol server.
+2026-10-09T02:44:36.192Z,opchrm,0.1.0,otitodev,MIT,1641772,Let your coding agent use the Chrome browser you're already using.
+2026-10-09T02:45:17.131Z,dsh-hg,0.0.1,iasiv5,MIT,822,"Hg (hongguo, red fruit) for DeepSeek Harness (dsh): placeholder for AI short-drama tooling in the dsh ecosystem."
+2026-10-09T02:45:23.079Z,dsh-toon,0.0.1,iasiv5,MIT,833,Toon helpers for DeepSeek Harness (dsh): playful AI cartoon and comic-drama utilities in the dsh ecosystem.
+2026-10-09T02:45:29.941Z,@nodedistro/nodebase-js,0.1.0,ethanyang-nodedistro,MIT,12815,NodeBase hosted backend JavaScript client
+2026-10-09T02:46:55.723Z,@customyai/tokens,0.1.0,customyco,UNLICENSED,343183,"Customy design tokens: DTCG source, CSS variables, Tailwind v4 theme and a React Native module. No React."
+2026-10-09T02:47:18.526Z,@customyai/design-system,0.1.0,customyco,UNLICENSED,10320661,"Customy design system: Cristal screens and patterns, UI components and design tokens for React."
+2026-10-09T02:47:29.902Z,phada,0.1.0,saulosw,Apache-2.0,162960,"Review GitHub pull requests with the AI you already use: Claude Code, Codex or Ollama."
+2026-10-09T02:47:30.429Z,create-es-plus,0.1.0,jiaaowuhan,MIT,41641,Scaffold a runnable ES-Plus project in one command: npm create es-plus@latest. Pick a renderer (Vue 3 + Element Plus / Vue 2 + Element UI / Vue 3 + Ant Design Vue) and optionally wire the AI (MCP) to…
+2026-10-09T02:49:29.359Z,@shny/pocket-cdp,0.1.0,shny,MIT,39130,"Zero-dependency Chromium control via CDP. Lightweight, works everywhere including Termux."
+2026-10-09T02:50:28.221Z,multi-format-parser,1.0.2,developer-giser,MIT,5604170,"A universal and lightweight parser for multiple file formats (Excel, CSV, Text, JSON) in Browser and Node.js."
+2026-10-09T02:50:54.589Z,webagent-skills,1.0.0,bahamut.zack,Apache-2.0,173581,"Portable Agent Skill + CLI to audit and harden any website for AI-agent readiness, SEO discoverability, and security (robots.txt, sitemap, llms.txt, Markdown-for-Agents, .well-known discovery, OAuth,…"
+2026-10-09T02:52:14.824Z,@banzhe/dsh-agent-preset-fallback,0.2.1-alpha.1.1,banzhe,,11333,"Fall back to the deployment default agent preset when a stored or requested preset no longer resolves, so stranded sessions compose instead of failing creation"
+2026-10-09T02:52:25.927Z,@reviseio/editor,2.3.0,reviseio,SEE LICENSE IN LICENSE,16136697,"A word processor for React: DOCX in and out, real pagination, tracked changes, comments, collaboration, and agent tools. Free for evaluation, personal projects, and education."
+2026-10-09T02:53:03.622Z,@netsapiens/flow-sdk,0.3.0,netsapiens,MIT,855283,SDK for building remote applications that integrate with NetSapiens Flow
+2026-10-09T02:53:24.493Z,dawdle,0.0.1,lochieaxon,MIT,129,
+2026-10-09T02:53:26.882Z,ioc-styles,1.0.0,kiennd98,MIT,983699,"Token và lớp style PrimeNG theo component của iocv3-fe, dùng chung cho micro-app."
+2026-10-09T02:53:31.75Z,gitober,0.0.0,linyiru,MIT,309,Placeholder: name reserved for an upcoming project.
+2026-10-09T02:53:38.488Z,@xpert-ai/plugin-meetings,0.1.0,tiven.wang,AGPL-3.0,1545535,Private file-backed meeting notes for Xpert Desktop
+2026-10-09T02:54:54.098Z,asia-aidlc,1.14.2,aikawanaru3hika,MIT,1162352,OpenSpec + AI-DLC 研发流程能力包：14 个 Skill（SKILL.md + 确定性 Python 脚本）、flow CLI、状态机真相源、研发日历 / 交付控制台 / 追溯图谱三个静态视图。内置 Pyodide 运行时，装完即可执行 Python 脚本，无需本机安装 Python。
+2026-10-09T02:56:15.428Z,@yuzhouu/land-zen,0.1.0,coocooooo,,5002498,Land Zen canvas packaged as a reusable React component.
+2026-10-09T02:56:32.325Z,@zym-test-zerog/map-test-leaflet,1.0.2,zhuym,ISC,101300,MFD 2D 地图（Leaflet 实现），与 zgc_ui_2.1.0 同级的独立包
+2026-10-09T02:56:33.155Z,@zym-test-zerog/map-test-ol,1.0.1,zhuym,ISC,138721,MFD 2D 地图（OpenLayers 实现），与 zgc_ui_2.1.0 同级的独立包
+2026-10-09T02:58:36.036Z,@dztabel/diagramkit,0.1.0,dztabel,UNLICENSED,42201893,"Agent-facing CLI for drawing report-grade diagrams (flowcharts, sequence, organisation, timelines, Gantt, risk matrices and more) from semantic JSON."
+2026-10-09T03:01:27.641Z,respecpow,0.9.2,buchengjin,MIT,2238634,Spec-Powered AI Development Framework - 融合 OpenSpec 规范驱动 + Superpowers 执行引擎的企业级 AI 辅助编程框架（安装即生效版）
+2026-10-09T03:01:42.177Z,dsh-session-favorites,0.1.1,hiuga0321,MIT,103893,DSH 会话收藏夹插件：收藏会话、按工作区分组、@ 引入、多设备一致
+2026-10-09T03:02:02.63Z,partial-svelte,0.0.0,muspi-merol,UNLICENSED,286,Placeholder for partial-svelte
+2026-10-09T03:02:28.13Z,@seamless-auth/svelte,0.1.0,bcb_1000,Apache-2.0,106849,"Svelte bindings for Seamless Auth: a rune-based session, SvelteKit guards, and optional sign-in screens."
+2026-10-09T03:02:34.037Z,partial-vue,0.0.0,muspi-merol,UNLICENSED,280,Placeholder for partial-vue
+2026-10-09T03:02:56.074Z,pi-our-free-model,1.0.0,umnaut,MIT,11229865,"Free frontier models (DeepSeek V4.1 Flash, Kimi K3, GLM-5.3, ...) for the pi coding agent via a self-contained local OpenAI-compatible gateway. Ported from Ebony-Vinyl/dsh-our-free-model."
+2026-10-09T03:03:06.603Z,partial-solidjs,0.0.0,muspi-merol,UNLICENSED,288,Placeholder for partial-solidjs
+2026-10-09T03:03:20.271Z,@joystack/cli,0.1.43,joystackai,Apache-2.0,752508,"Joystack game development CLI — dev server, login, and publishing for standalone Joystack games."
+2026-10-09T03:04:24.745Z,@yalper/cli,0.0.0,n0tgod,Apache-2.0,754,"Record, replay, and debug AI coding agent sessions. Under active development, first release coming soon."
+2026-10-09T03:04:29.128Z,agent-bridge-workbuddy,1.0.0,m2lihui,,15537,agent-bridge 的 CodeBuddy CLI 插件。
+2026-10-09T03:04:53.122Z,playcover-skills,1.0.0,dustink66,MIT,144178,"Agent Skill package that documents PlayCover's headless CLI — install/uninstall/launch/sign iOS apps, manage keymaps, sources, settings, dylibs, and global config from the terminal."
+2026-10-09T03:05:49.165Z,n8n-nodes-flashdata,0.1.1,flashdata-dev,MIT,48058,"Google search results, YouTube video discovery, metadata, and transcripts for n8n workflows."
+2026-10-09T03:06:13.125Z,manylives-paid-tools,0.1.0,manylives_bot,MIT,14278,"67 pay-per-call tools for AI agents (token verdicts, web extraction, crypto data, text AI, site audits) as an MCP server and as plain tool definitions. Pays per call from your own wallet with spend c…"
+2026-10-09T03:06:59.292Z,@k8ordo/framework,0.1.0,kosakanoki,MIT,402219,"The k8ordo framework: routes/ compiled into React Server Components, run with or without a server."
+2026-10-09T03:07:58.961Z,dsh-web-service,0.3.6,panzuji,BSD-3-Clause,2506979,"Expose DSH over HTTP: 60 REST + SSE routes for workspaces, sessions (streaming, history, stats, todos, cancel), models, settings, API keys, skills and files, plus an OpenAI-compatible /chat/completio…"
+2026-10-09T03:09:31.083Z,bharatmap,0.2.0,vkrishna04,Apache-2.0,483025,"Correct India map borders on web maps: draws Kashmir, Ladakh and Arunachal Pradesh as the Survey of India shows them. One line for MapLibre GL, also Leaflet, OpenLayers, deck.gl and a tile proxy for…"
+2026-10-09T03:09:50.06Z,@semi-bot/semi-theme-operp,1.0.0,semi-bot,MIT,1512634,Semi theme generated by dsm. https://semi.design/dsm
+2026-10-09T03:10:08.181Z,@nusantara-ventures/exchangerate,0.1.0,nusantara-dev,MIT,69049,Typed server-side client for the exchangerate.dev API
+2026-10-09T03:10:23.578Z,@nusantara-ventures/goldprice,0.1.0,nusantara-dev,MIT,84423,Typed server-side client for the goldprice.dev API
+2026-10-09T03:11:33.434Z,chaim-cli,0.1.0,imnotemjay,MIT,70789,CLI telemetry scanner and sync daemon for Chaim
+2026-10-09T03:12:06.462Z,my-sprintf-x-js,1.1.3-0.0.1,microanswer,BSD-3-Clause,28701,JavaScript sprintf implementation
+2026-10-09T03:12:47.418Z,@argszero/dsh-upload-index-cache,0.1.0,argszero,MIT,74565,"Resolving a retained image to its DeepSeek file id re-reads and re-validates the whole upload index, once per image per HTTP attempt: DeepSeekUploadIndex.get() calls load(), which reads files-v3.json…"
+2026-10-09T03:12:54.261Z,dsh-ar,0.0.1,iasiv5,MIT,768,Augmented reality (AR) helpers for DeepSeek Harness (dsh).
+2026-10-09T03:12:59.102Z,dsh-vr,0.0.1,iasiv5,MIT,766,Virtual reality (VR) helpers for DeepSeek Harness (dsh).
+2026-10-09T03:13:03.086Z,dsh-xr,0.0.1,iasiv5,MIT,767,Extended reality (XR) helpers for DeepSeek Harness (dsh).
+2026-10-09T03:13:07.179Z,dsh-cg,0.0.1,iasiv5,MIT,768,Computer graphics (CG) helpers for DeepSeek Harness (dsh).
+2026-10-09T03:13:11.83Z,dsh-3d,0.0.1,iasiv5,MIT,757,3D graphics helpers for DeepSeek Harness (dsh).
+2026-10-09T03:13:15.731Z,dsh-4k,0.0.1,iasiv5,MIT,763,4K ultra-HD media helpers for DeepSeek Harness (dsh).
+2026-10-09T03:13:19.866Z,dsh-py,0.0.1,iasiv5,MIT,760,Python interop helpers for DeepSeek Harness (dsh).
+2026-10-09T03:13:24.405Z,dsh-pc,0.0.1,iasiv5,MIT,768,PC and desktop tooling helpers for DeepSeek Harness (dsh).
+2026-10-09T03:13:30.036Z,dsh-vc,0.0.1,iasiv5,MIT,756,Video clip helpers for DeepSeek Harness (dsh).
+2026-10-09T03:13:34.845Z,dsh-mv,0.0.1,iasiv5,MIT,762,Music video (MV) helpers for DeepSeek Harness (dsh).
+2026-10-09T03:13:40.384Z,dsh-hi,0.0.1,iasiv5,MIT,766,"Hi, DeepSeek Harness (dsh): friendly onboarding helpers."
+2026-10-09T03:13:44.901Z,dsh-dj,0.0.1,iasiv5,MIT,773,"Dj (duanju, AI short drama) helpers for DeepSeek Harness (dsh)."
+2026-10-09T03:13:48.904Z,dsh-mj,0.0.1,iasiv5,MIT,772,"Mj (manju, AI comic drama) helpers for DeepSeek Harness (dsh)."
+2026-10-09T03:13:51.926Z,@rustywelch/pi-fuel-gauge,1.0.3,rustywelch,MIT,22971,"Pi extensions: context-window awareness with self-compaction, and structured code search."
+2026-10-09T03:13:52.817Z,dsh-sp,0.0.1,iasiv5,MIT,764,"Sp (shipin, video) helpers for DeepSeek Harness (dsh)."
+2026-10-09T03:13:56.904Z,dsh-dy,0.0.1,iasiv5,MIT,766,"Dy (dianying, movie) helpers for DeepSeek Harness (dsh)."
+2026-10-09T03:14:01.283Z,dsh-aigc,0.0.1,iasiv5,MIT,789,AIGC (AI-generated content) helpers for DeepSeek Harness (dsh).
+2026-10-09T03:14:05.034Z,dsh-max,0.0.1,iasiv5,MIT,782,Max helpers for DeepSeek Harness (dsh): maximum-power utilities.
+2026-10-09T03:14:09.437Z,dsh-pro,0.0.1,iasiv5,MIT,787,Pro helpers for DeepSeek Harness (dsh): professional-grade utilities.
+2026-10-09T03:14:11.027Z,@tsg-ailab/dynamics-crm-mcp,1.0.0,svc-ailab-tsg,MIT,297119,"TSG's read-only MCP server for Dynamics 365 CRM, signed in as the user"
+2026-10-09T03:14:13.451Z,dsh-red,0.0.1,iasiv5,MIT,783,Red (hong) helpers for DeepSeek Harness (dsh): red-hot utilities.
+2026-10-09T03:14:17.456Z,dsh-art,0.0.1,iasiv5,MIT,784,Art helpers for DeepSeek Harness (dsh): creative AI art utilities.
+2026-10-09T03:14:21.648Z,dsh-pix,0.0.1,iasiv5,MIT,784,Pix helpers for DeepSeek Harness (dsh): pixel and image utilities.
+2026-10-09T03:14:21.844Z,@gitmyabi/gxx-game,1.0.1,gitmyabi-bot,MIT,32850,"Auto-generated TypeScript type bindings for gxx_game (build etherscan-gxx-game-bc6fcff0-1791515562061, commit a2856a8, branch etherscan)"
+2026-10-09T03:14:25.706Z,dsh-joy,0.0.1,iasiv5,MIT,779,Joy helpers for DeepSeek Harness (dsh): delightful utilities.
+2026-10-09T03:14:29.83Z,dsh-wow,0.0.1,iasiv5,MIT,779,Wow helpers for DeepSeek Harness (dsh): impressive utilities.
+2026-10-09T03:14:33.921Z,dsh-hot,0.0.1,iasiv5,MIT,777,Hot helpers for DeepSeek Harness (dsh): trending utilities.
+2026-10-09T03:14:38.193Z,dsh-now,0.0.1,iasiv5,MIT,778,Now helpers for DeepSeek Harness (dsh): real-time utilities.
+2026-10-09T03:14:42.915Z,dsh-fan,0.0.1,iasiv5,MIT,792,Fan helpers for DeepSeek Harness (dsh): fandom and fan-creation utilities.
