@@ -1,0 +1,234 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-09T06:15:04.333Z,@3sixty/api-processors,0.20.0-next.0,martyn3sixty,Apache-2.0,128833,"Reusable request and route processors for logging, context handling, and content negotiation."
+2026-10-09T06:16:08.749Z,@3sixty/entity-storage-models,0.20.0-next.0,martyn3sixty,Apache-2.0,362517,"Shared models for storage contracts, requests, responses and connector capabilities."
+2026-10-09T06:17:12.194Z,@3sixty/logging-connector-console,0.20.0-next.0,martyn3sixty,Apache-2.0,39500,"Sends log events to the console for local development, debugging, and lightweight runtime diagnostics."
+2026-10-09T06:17:50.212Z,@muha-sdk/codex-adapter,0.1.13,gaosipa,MIT,184765,Official Codex adapter for Muha SDK.
+2026-10-09T06:18:15.895Z,@3sixty/logging-connector-elk,0.20.0-next.0,martyn3sixty,Apache-2.0,98643,Delivers log events to an Elasticsearch endpoint using the bulk API for ELK-based observability pipelines.
+2026-10-09T06:19:19.744Z,@3sixty/logging-connector-file,0.20.0-next.0,martyn3sixty,Apache-2.0,65772,Writes log events to size-limited files on disk with rotation and retention for local log persistence.
+2026-10-09T06:20:12.355Z,trickle-structured,0.1.0,himanshu-dev-111,MIT,41172,"Stream a typed, schema-validated object out of an LLM response — one call wires an SSE stream to incremental JSON parsing and schema coercion, yielding deep-partial snapshots as tokens arrive and a f…"
+2026-10-09T06:20:20.737Z,worker-sync-db,0.1.0,profyt,MIT,310870,"Offline-first IndexedDB for web apps: live multi-tab updates and sync to your own API (TypeScript, optional React hooks)"
+2026-10-09T06:20:23.381Z,@3sixty/logging-connector-opentelemetry,0.20.0-next.0,martyn3sixty,Apache-2.0,78024,Forwards log events to OpenTelemetry-compatible observability pipelines via OTLP.
+2026-10-09T06:20:35.673Z,@yashsharma/agent-floor,0.1.0,yashsharma,MIT,72534,"See every Claude Code session running on your machine, and the subagents they spawn, as a live pixel-art office or a terminal table."
+2026-10-09T06:20:49.345Z,@crawlora-org/reddit,0.1.1,tonywangio,MIT,64071,Typed JavaScript client for the Crawlora Reddit API
+2026-10-09T06:21:00.437Z,spinkit-react,0.1.1,jatin_ux,MIT,69497,"Tiny, accessible, dependency-free loading spinners for React."
+2026-10-09T06:21:01.757Z,@crawlora-org/tiktok,0.1.1,tonywangio,MIT,93744,Typed JavaScript client for the Crawlora TikTok API
+2026-10-09T06:21:07.031Z,@crawlora-org/amazon,0.1.1,tonywangio,MIT,45402,Typed JavaScript client for the Crawlora Amazon API
+2026-10-09T06:21:12.958Z,@phestus/queue-module,0.1.0,leto2,MIT,7721,"The queue module for Phestus, providing queue management and task dispatch capabilities for modular applications."
+2026-10-09T06:21:12.972Z,@crawlora-org/imdb,0.1.1,tonywangio,MIT,106006,Typed JavaScript client for the Crawlora IMDb API
+2026-10-09T06:21:27.079Z,@3sixty/logging-service,0.20.0-next.0,martyn3sixty,Apache-2.0,60775,Exposes logging operations through service routes and API contracts for server-side integration.
+2026-10-09T06:21:46.174Z,qq-native-client-win32-arm64,0.0.1,lc_cn,UNLICENSED,139045365,QQ native runtime for win32 arm64
+2026-10-09T06:21:58.771Z,@phestus/event-module,0.1.0,leto2,MIT,8604,"The event module for Phestus, providing event publishing and subscription capabilities for modular applications."
+2026-10-09T06:21:58.913Z,qq-native-client,0.0.1,lc_cn,,1015292,"TypeScript/npm QQ client SDK under development, using a QQ native kernel under ordinary Node.js. No QQ/Electron executable is launched. Native singletons run in an isolated **Node.js** child process…"
+2026-10-09T06:22:25.438Z,@webmcp-validator/core,0.1.0,webmcpworld,MIT,601208,"Core engine, types, validator, and scoring for WebMCP"
+2026-10-09T06:22:28.918Z,webmcp-validator-sdk,0.1.0,webmcpworld,MIT,15573,"TypeScript/Node.js SDK to scan, audit, and validate WebMCP implementations"
+2026-10-09T06:22:30.702Z,@3sixty/telemetry-processors,0.20.0-next.0,martyn3sixty,Apache-2.0,68149,Route processors for recording telemetry metrics.
+2026-10-09T06:22:33.042Z,webmcp-validator-cli,0.1.0,webmcpworld,MIT,68710,"Command-line interface to audit, scan, and validate WebMCP tools"
+2026-10-09T06:22:34.587Z,@codepawlhq/67js,0.3.0,codepawl_vn,MIT,542438,"A browser graphics engine for interactive worlds, animation and cinematic media, with memory-aware CPU/GPU export"
+2026-10-09T06:22:35.564Z,pixling,0.1.1,makzent,MIT,2165,"The pixel artist for your coding agent: 8-direction sprites, VFX and living maps from JSON specs"
+2026-10-09T06:23:34.2Z,@3sixty/telemetry-producers,0.20.0-next.0,martyn3sixty,Apache-2.0,45409,Metrics producers for collecting Node.js process and system telemetry.
+2026-10-09T06:23:43.709Z,@parcha/pi-durable-disk,0.0.0-bootstrap.0,miguel-parcha,Apache-2.0,485,Placeholder that holds the name. Releases come from https://github.com/Parcha-ai/agentrun.
+2026-10-09T06:24:37.987Z,@3sixty/telemetry-service,0.20.0-next.0,martyn3sixty,Apache-2.0,174623,Telemetry service implementation with REST entry points.
+2026-10-09T06:24:53.593Z,@phestus/job-module,0.1.0,leto2,MIT,13754,"The job module for Phestus, providing job registration and handler management for asynchronous task processing."
+2026-10-09T06:25:12.127Z,@deliverart/sdk-js-integration-diagnostics,2.40.0-dev.2,deliverart,,673553,"Shared integration diagnostics, verification and explicit recovery contracts"
+2026-10-09T06:25:19.689Z,banso-dsh-base,0.1.0,tindada,MIT,6834,Minimal standalone SDK runtime bundle for Banso DSH
+2026-10-09T06:25:23.258Z,banso-dsh-prompt,0.1.0,tindada,ISC,11659,Banso research instructions and per-turn reference time
+2026-10-09T06:25:26.172Z,banso-dsh-materials,0.1.0,tindada,ISC,32064,Session-local research materials derived from web tool events
+2026-10-09T06:25:29.043Z,banso-dsh-web-search-tavily,0.1.0,tindada,ISC,15938,Tavily search provider for DeepSeek Harness
+2026-10-09T06:25:34.219Z,banso-dsh-web-fetch-jina,0.1.0,tindada,ISC,14444,Jina Reader fetch provider for DeepSeek Harness
+2026-10-09T06:25:36.758Z,banso-dsh-tool-web,0.1.0,tindada,ISC,35698,Web search receipts and focus-based reading with saved evidence
+2026-10-09T06:25:39.887Z,banso-dsh,0.1.0,tindada,ISC,11271,Banso research bundle for DeepSeek Harness
+2026-10-09T06:25:41.692Z,@3sixty/tracing-models,0.20.0-next.0,martyn3sixty,Apache-2.0,155627,"Defines shared tracing contracts, span shapes, and connector interfaces used across the repository."
+2026-10-09T06:26:02.636Z,@onjunctiondev/auth,0.1.1,gsvprharsha,MIT,55970,Headless auth SDK for Junction — email/password sessions with per-project JWTs and RLS claims.
+2026-10-09T06:26:15.681Z,@paidafk/linux-x64,0.1.0,paidafk,UNLICENSED,3507232,PaidAFK's local agent. (Linux x64 binary)
+2026-10-09T06:26:35.059Z,@loophole-ai/cli,1.0.1,garvagnihotri,AGPL-3.0,56612,Terminal-based AI assistant for software development
+2026-10-09T06:26:44.756Z,@phestus/workflow-module,0.1.0,leto2,MIT,23203,"The workflow module for Phestus, providing event-driven workflow orchestration and coordination of asynchronous jobs."
+2026-10-09T06:26:45.025Z,@3sixty/automation-actions,0.20.0-next.0,martyn3sixty,Apache-2.0,31074,Actions for automation operations in the TWIN framework. Provides reusable logic for automation workflows and integrations.
+2026-10-09T06:27:48.799Z,@3sixty/data-processing-converters,0.20.0-next.0,martyn3sixty,Apache-2.0,31274,Connector implementations that convert source data into canonical processing formats
+2026-10-09T06:28:15.244Z,@phestus/api-module,0.1.0,leto2,MIT,7669,"The API module for Phestus, providing API endpoint registration and request handling for modular applications."
+2026-10-09T06:28:20.783Z,india-location-db,1.0.0,mohit_dev,MIT,28092621,"Short and fast India states, districts, cities location data with lat/lng, pincodes, languages, and place autocomplete suggestions"
+2026-10-09T06:28:46.822Z,@miragon/bpmn-cli,0.1.0,alexander.praschek,MIT,2245503,"AI-friendly CLI for editing BPMN 2.0 models semantically: agents name elements and operations, never XML or BPMNDI. Keeps hand-made diagrams (incremental layout), redraws engine-owned ones, and offer…"
+2026-10-09T06:28:52.319Z,@3sixty/data-processing-extractors,0.20.0-next.0,martyn3sixty,Apache-2.0,29440,Connector implementations that extract data from external systems for processing
+2026-10-09T06:29:12.813Z,@viorant/cli,1.0.3-beta.1,adivora,,4392898,"Viorant CLI — build, sign, and deploy .vio artifacts"
+2026-10-09T06:29:32.784Z,@phestus/auth-module,0.1.0,leto2,MIT,3692,"The authentication and authorization module for Phestus, providing provider-driven identity verification and access control."
+2026-10-09T06:29:49.922Z,@knorby/drugcentral-client,0.1.0,knorby,Apache-2.0,385040,"A fully-typed, zero-dependency TypeScript client for the DrugCentral API. Universal: Node, React Native, browsers, Bun, and Deno."
+2026-10-09T06:29:52.172Z,polyedge,1.0.0,kaeose,MIT,133002,Official TypeScript/Node.js SDK for PolyEdge ultra-low latency Polymarket mempool trade streaming and real-time on-chain analytics API.
+2026-10-09T06:30:07.631Z,mule-agent,0.49.0,slickofficials,UNLICENSED,507261,"Mule — boring always-on agent: chat, call hook, does tasks"
+2026-10-09T06:30:55.987Z,codex-toolbox-bridge,0.1.0,qiguoqiang,MIT,58192,Local macOS BLE bridge for the AI Passport Codex Toolbox
+2026-10-09T06:31:25.773Z,@phestus/cache-module,0.1.0,leto2,MIT,4042,"The cache module for Phestus, providing provider-driven caching operations for modular applications."
+2026-10-09T06:31:36.033Z,@stackql/mcp-wringer,0.1.0,jeffreyaven,MIT,2753888,Protocol robustness fuzzer for Model Context Protocol servers.
+2026-10-09T06:31:52.911Z,@scopmx/surveybase-server,1.1.0,mituls,UNLICENSED,120843,Survey backend. Mount it on the host Express app and the host MongoDB.
+2026-10-09T06:32:01.127Z,@scopmx/surveybase-widget,1.1.0,mituls,UNLICENSED,503803,Survey frontend: the admin (<SurveyAdmin />) and the pop-up survey widget.
+2026-10-09T06:32:05.506Z,@muha-sdk/opencode-adapter,0.1.13,gaosipa,MIT,343363,Official OpenCode adapter for Muha SDK.
+2026-10-09T06:32:25.564Z,@doany-ai/calendar,0.1.0-alpha.0,kalvinrc9,MIT,172031,"Booking the business's services, on a Doany site: calendar hooks and default components (service list, date and time picker, booking flow, class sessions, booking status)"
+2026-10-09T06:32:29.725Z,@phestus/api-client-module,0.1.0,leto2,MIT,7205,"The API client module for Phestus, providing client-side utilities for interacting with APIs exposed by Phestus applications."
+2026-10-09T06:32:41.59Z,@doany-ai/forms,0.1.0-alpha.0,kalvinrc9,MIT,33435,The business's forms on a Doany site: a form hook and a default component that renders a form's questions and submits the answers
+2026-10-09T06:33:17.024Z,@phestus/cron-module,0.1.0,leto2,MIT,5937,"The cron module for Phestus, providing scheduled task execution and recurring job coordination for modular applications."
+2026-10-09T06:33:32.791Z,@th-batman/3d-viewer-angular,0.2.1,th-batman,MIT,58374,Official Angular component wrapper for `@3d-viewer/core`. Renders photorealistic 3D jewelry and customizer canvases in Angular 18+ enterprise applications (including standalone components and legacy…
+2026-10-09T06:33:34.657Z,lp-telegram-notifier,1.0.0,evanyan22,MIT,15465,"A loopengine ability: a send_telegram_message tool that sends a plain message to a Telegram chat, group, or channel from a configured bot — relaying a summary, finding, or notification somewhere a hu…"
+2026-10-09T06:34:23.093Z,@phestus/middleware-module,0.1.0,leto2,MIT,6598,"The middleware module for Phestus, providing reusable request-processing middleware and an execution pipeline for modular applications."
+2026-10-09T06:35:27.9Z,@th-batman/3d-viewer-vue,0.2.1,th-batman,MIT,14638,"Official Vue 3 component wrapper for `@3d-viewer/core`. Renders 3D jewelry customizers in Nuxt 3, Vite, and standard Vue 3 applications."
+2026-10-09T06:35:29.239Z,dsh-window-drag-probe,0.7.1,adamcjm,MIT,56035,窗口拖动：窗口一加载就在顶部自动装好一条可拖拽带（本机 macOS 拖不动窗口的解法），并从插件页提供按钮打开面板读取 computed app-region、recall 标记与窗口位移（deepseek-harness discussion #9112）。
+2026-10-09T06:35:44.451Z,@phestus/worker-module,0.1.0,leto2,MIT,4844,"The worker module for Phestus, providing worker registration and lifecycle management for distributed and asynchronous workloads."
+2026-10-09T06:36:12.695Z,dsh-voice-input-shortcut,0.1.0,wanhua3,MIT,10024,"Keyboard shortcut for the DSH voice input composer button: start recording, press again to stop and transcribe."
+2026-10-09T06:36:23.37Z,@daformat/point-and-shoot,1.0.1,daformat,Zero-Clause BSD,487317,"point-and-shoot, a zero-dependency library to point at anything on a page and capture it: a spotlight morphs onto the block under the pointer, a click shoots it, a drag captures an area. Lifted out o…"
+2026-10-09T06:37:09.597Z,@edmicro/olkit-icons,1.0.13,onluyen_dev,MIT,95770194,Icon collections and components for Ôn Luyện Design System
+2026-10-09T06:37:11.29Z,dsh-lan-share,0.1.0,byzhao999,MIT,354702,"LAN sharing for DeepSeek Harness: discover other DSH devices on the local network, send text and files to a chosen device, receive text/files with accept-or-ask policy, and watch transfer progress —…"
+2026-10-09T06:37:11.326Z,@gwall/std-ui,0.0.1,winnie_xiang,MIT,3887161,巨沃标准 Vue3 组件库（由低代码 gw-* 组件标准化改造而来，117 个入口：表单/列表/图表/布局/业务组件等标准 API 组件）
+2026-10-09T06:37:40.173Z,@co-messi/supercut,0.1.0,co-messi,MIT,19871843,"An AI director that films your real web app by itself: it decides the money moments, drives a browser to perform them, and renders a cinematic 60s launch video — camera, motion blur, music, done"
+2026-10-09T06:37:52.641Z,@phestus/queue-plugin,0.1.0,leto2,MIT,4359,"The queue plugin for Phestus, integrating the queue module with the BullMQ provider for background job processing."
+2026-10-09T06:38:19.579Z,@adamcjm/dsh-memo,0.2.1,adamcjm,MIT,963721,"Memo plugin for DeepSeek Harness: sidebar quick capture, local SQLite storage, private GitHub repo sync, and image/screenshot support."
+2026-10-09T06:38:25.73Z,@arki/theme,0.2.1,afurculita,MIT,20728,Light / dark / system theme provider and no-flash init script for ARKI React apps.
+2026-10-09T06:38:32.353Z,@arki/icons,0.1.1,afurculita,MIT,19650,"Icon sets for ARKI apps — Iconify, Phosphor, Simple Icons and flag packs behind one React entry point."
+2026-10-09T06:38:37.766Z,@arki/react-hooks,0.1.1,afurculita,MIT,30118,"Curated React hooks for ARKI apps — Mantine, usehooks-ts, hotkeys and local-storage hooks under one import."
+2026-10-09T06:38:43.48Z,@arki/design-systems,0.1.1,afurculita,MIT,4214624,"Shared visual foundations for ARKI web apps — semantic colour tokens, Tailwind v4 theme bridges and the atelier / workbench / arena design systems with bundled fonts."
+2026-10-09T06:38:48.075Z,@arki/ui,0.1.4,afurculita,MIT,381906,"React component library for ARKI apps — Base UI primitives styled with Tailwind v4 semantic tokens: forms, overlays, navigation, data display and charts."
+2026-10-09T06:39:14.453Z,@everydaydevopsio/hail,0.1.1,markcallen,ISC,90331,Playwright-native testing for real application email workflows
+2026-10-09T06:39:16.775Z,@knorby/eu-cosing-client,0.1.0,knorby,Apache-2.0,306309,A universal TypeScript client for the European Commission's CosIng cosmetic ingredient database.
+2026-10-09T06:39:31.298Z,@phestus/bullmq,0.1.0,leto2,MIT,17144,"The BullMQ provider for Phestus, implementing queue processing and background job execution using BullMQ and Redis."
+2026-10-09T06:40:43.659Z,react-native-spotlight-walkthrough,0.1.0,yash_chouhan,MIT,340305,"Interactive spotlight walkthroughs for React Native: pass-through targets, animated gesture simulations, audio/TTS narration, show-once persistence and a fully themeable UI."
+2026-10-09T06:40:47.111Z,@dayme/scriptc-raylib,0.1.1,dayme,Zlib,549028,"Typed raylib bindings for scriptc — 501 native FFI functions, no JS engine in the binary"
+2026-10-09T06:41:06.809Z,vueuse-bmap-jsapi,1.0.0,istillku,MIT,16482,Vue 3 composition API wrapper for Baidu Map JSAPI (百度地图GL)
+2026-10-09T06:41:08.291Z,@xforge-tom/cc-expand,1.1.1,swniab,MIT,4403,cc增强模块
+2026-10-09T06:41:11.873Z,@seekbuddy/dsh-ui,0.2.0-beta.0,kissycn,MIT,1532395,"Unofficial React components in the DeepSeek Harness (DSH) web UI design system: the DSH primitives plus the components DSH does not provide (cards, tabs, pagination, messages, upload, date/time picke…"
+2026-10-09T06:41:14.88Z,@xforge-tom/cc-store,2.0.10,swniab,MIT,23257,状态管理模块
+2026-10-09T06:41:19.446Z,@xforge-tom/cc-request,1.0.2,swniab,MIT,8118,网络请求模块
+2026-10-09T06:41:24.282Z,@xforge-tom/cc-number,1.0.1,swniab,MIT,3827,防内存挂数字类型
+2026-10-09T06:41:26.767Z,@phestus/express-api,0.1.0,leto2,MIT,7184,"The Express API provider for Phestus, integrating Express 5 with the Phestus API and middleware modules to handle HTTP requests and route registration."
+2026-10-09T06:41:28.633Z,vueuse-bmap-vgl,1.0.0,istillku,MIT,30595,Vue 3 composition API wrapper for Baidu MapVGL (百度地图GL 可视化图层库)
+2026-10-09T06:41:29.826Z,@xforge-tom/cc-random,1.3.0,swniab,MIT,5437,种子随机模块
+2026-10-09T06:41:36.502Z,@xforge-tom/cc-astar,1.4.2,swniab,MIT,24218,A星寻路模块
+2026-10-09T06:41:42.726Z,@xforge-tom/cc-quadtree,2.0.2,swniab,MIT,22261,四叉树碰撞检测模块
+2026-10-09T06:41:47.455Z,@xforge-tom/cc-sap,2.0.6,swniab,MIT,26359,SAP碰撞检测模块
+2026-10-09T06:41:53.68Z,@xforge-tom/cc-sat,1.2.4,swniab,MIT,24230,SAT碰撞检测
+2026-10-09T06:41:59.024Z,@xforge-tom/cc-rvo2,1.0.1,swniab,MIT,56360,动态避障模块
+2026-10-09T06:42:12.388Z,@xforge-tom/cc-ecs,3.0.5,swniab,MIT,123159,ECS模块
+2026-10-09T06:42:18.686Z,@xforge-tom/cc-emath,1.2.0,swniab,MIT,8230,数学计算模块
+2026-10-09T06:42:23.646Z,@xforge-tom/cc-decimal,1.4.9,swniab,MIT,28523,定点数学计算模块
+2026-10-09T06:42:27.544Z,@xforge-tom/cc-decimal-vec2,1.0.8,swniab,MIT,9177,定点数二维向量
+2026-10-09T06:42:32.752Z,@xforge-tom/cc-decimal-vec3,1.0.5,swniab,MIT,9338,定点数三维向量
+2026-10-09T06:42:37.549Z,@xforge-tom/cc-decimal-sat,1.2.1,swniab,MIT,24885,定点数SAT碰撞检测
+2026-10-09T06:42:41.888Z,@tamitami/npm-test,1.0.0,tamitami,MIT,335,
+2026-10-09T06:42:42.879Z,@xforge-tom/cc-decimal-sap,1.0.2,swniab,MIT,28298,定点数SAP碰撞检测模块
+2026-10-09T06:42:47.047Z,@xforge-tom/cc-decimal-random,1.3.0,swniab,MIT,5762,定点数随机模块
+2026-10-09T06:42:51.808Z,@xforge-tom/cc-xml-parser,1.0.1,swniab,MIT,6468,XML解析器模块
+2026-10-09T06:42:56.792Z,@xforge-tom/cc-minisdk,1.0.1,swniab,MIT,125178,小游戏SDK模块
+2026-10-09T06:42:57.924Z,@muha-sdk/kimi-adapter,0.1.13,gaosipa,MIT,129410,Official Kimi Code adapter for Muha SDK.
+2026-10-09T06:43:01.324Z,@xforge-tom/cc-comp-toggle,1.1.1,swniab,MIT,7878,Toggle组件
+2026-10-09T06:43:06.328Z,@xforge-tom/cc-comp-rich-text,1.0.10,swniab,MIT,35891,富文本组件
+2026-10-09T06:43:06.559Z,@phestus/in-memory,0.1.0,leto2,MIT,20613,"An in-memory service adapter for Phestus, providing in-memory schema definition, data storage, and query management for development, testing, and lightweight applications."
+2026-10-09T06:43:11.167Z,@xforge-tom/cc-comp-spring-arm,1.0.1,swniab,MIT,10077,弹簧臂组件
+2026-10-09T06:43:15.553Z,@xforge-tom/cc-comp-animation,1.0.2,swniab,MIT,7171,animation组件
+2026-10-09T06:43:58.497Z,@fe6/seatcraft,4.0.0,fe6,UNLICENSED,24084798,番知云选座 4.0：座位图设计器、2D/3D 选座渲染器和数据适配器
+2026-10-09T06:44:21.276Z,generative-frame,0.0.1,yonom,MIT,1164938,"Stream model-generated HTML and SVG widgets into Safe Content Frames, with a host bridge, theming, diagnostics, screenshots, tools, and prompts"
+2026-10-09T06:44:50.155Z,@loopstates/linten,1.0.0,loopstates-admin,MIT,58433,"Universal CLI & SDK for auditing llms.txt Spec v2 syntax, link health, AI token budgets, and companion compilation."
+2026-10-09T06:45:18.219Z,@loopstates/astro-linten,1.0.0,loopstates-admin,MIT,12286,Official Astro & Starlight integration for auditing llms.txt link health and compiling companion archives during build.
+2026-10-09T06:45:36.165Z,@loopstates/docusaurus-plugin-linten,1.0.0,loopstates-admin,MIT,11795,Official Docusaurus plugin for auditing llms.txt link health and synthesizing companion archives on build.
+2026-10-09T06:45:47.383Z,product-mode,1.0.1,sohaibt,MIT,45278,"CLI tool for product-mode principles - helps teams ship the right thing, not just ship fast"
+2026-10-09T06:45:48.62Z,@loopstates/next-linten,1.0.0,loopstates-admin,MIT,12532,Official Next.js build plugin for auditing public/llms.txt and synthesizing companion archives during next build.
+2026-10-09T06:46:01.777Z,@loopstates/vitepress-plugin-linten,1.0.0,loopstates-admin,MIT,13625,Official VitePress & Vite plugin for auditing llms.txt link health and compiling companion archives on buildEnd.
+2026-10-09T06:46:13.799Z,@xayztech/libsignal-node,1.0.0,xayztech,GPL-3.0,127015,"Open Whisper Systems' libsignal for Node.js (republished mirror, vendored via vendor-libsignal.sh)"
+2026-10-09T06:47:08.474Z,scaffzap,1.0.0,sabtain05,MIT,86002,Instantly generate project boilerplate and convert data structures.
+2026-10-09T06:47:35.542Z,@usebruno/api-docs-core,0.1.0,sid-bruno,MIT,460449,Bruno API Docs core for Node: serves a Bruno collection's docs from inside your own app. Framework wrappers are one line over this.
+2026-10-09T06:48:10.731Z,@usebruno/api-docs-express,0.1.0,sid-bruno,MIT,4534,"Serve a Bruno collection as API docs from inside your own Express app, behind your own auth."
+2026-10-09T06:48:16.094Z,@usebruno/api-docs-fastify,0.1.0,sid-bruno,MIT,6801,"Serve a Bruno collection as API docs from inside your own Fastify app, behind your own auth."
+2026-10-09T06:48:22.605Z,@usebruno/api-docs-nestjs,0.1.0,sid-bruno,MIT,8927,"Serve a Bruno collection as API docs from inside your own NestJS app, behind your own auth."
+2026-10-09T06:48:46.634Z,@muha-sdk/pi-adapter,0.1.13,gaosipa,MIT,257513,Official Pi SDK adapter for Muha SDK.
+2026-10-09T06:49:03.228Z,dsh-duck-fleet,0.1.0,larry_page,MIT,261892,"DuckFleet: one flock of machines, one command. Add a machine once and its ACP delegation tool appears — drive one, several, or all of them from natural language. ／ 鸭群：一群机器，一声令下。添加一台机器即自动获得它的派活工具，用自然语…"
+2026-10-09T06:53:26.702Z,@someok/pi-session-history,0.1.0,someokpub,MIT,79506,通过独立 /history 命令选择并恢复 pi 会话
+2026-10-09T06:54:09.452Z,@mitcsutt/kiln-structure,0.0.0,mitcsutt,MIT,67438,"Kiln's recommended structure for React web apps, with an ESLint preset that enforces it"
+2026-10-09T06:55:59.562Z,@omnigrid/resize-plugin,0.1.0,kirzyka,MIT,16531,Headless column resize plugin for OmniGrid
+2026-10-09T06:56:21.021Z,@app777/node-appp,1.0.0,app777,MIT,145960,Full-stack MERN application starter
+2026-10-09T06:56:29.251Z,akalforge,0.0.1,jasdeepkhalsa,MIT,1573,Renamed to @akal/supaforge. This package forwards to it.
+2026-10-09T06:56:52.063Z,opencode-metrics-plugin-lite,0.5.0,dear-xml,MIT,270426,"opencode plugin: auto-records every session's metrics (tokens/rounds/steps/sub-agents/hvigor builds) to snapshot JSON. Zero DB, zero config."
+2026-10-09T06:56:52.541Z,neu-browser-mcp,0.1.0,yanzhen,Apache-2.0,50353,"MCP server for remote browser sessions, with pluggable browser backends"
+2026-10-09T06:57:26.882Z,dsh-age,1.0.0,moxi-ai,ISC,323,
+2026-10-09T06:57:38.339Z,opencode-lobster-auth,0.1.0,jasery,MIT,53041,OpenCode provider plugin: NetEase Youdao LobsterAI (有道龙虾)
+2026-10-09T06:58:08.937Z,ruang-kerja-bridge,1.0.0,ihsanabuhanifah,MIT,13907,Bridge lokal agar aplikasi web Ruang Kerja bisa membuka MySQL / PostgreSQL dari browser tanpa mengirim password ke server.
+2026-10-09T06:58:34.877Z,@byndyusoft-ui/use-resize-observer,0.0.1,sadcitizen,Apache-2.0,10353,React-хук Byndyusoft UI для наблюдения за размерами элементов
+2026-10-09T06:58:49.935Z,spurtcommerce-vendorratingandreview,1.0.0,piccotalent208,MIT,127561,Standalone Vendor Rating and Review module for Spurtcommerce
+2026-10-09T06:58:54.423Z,@jiuliyear/pi-personalization,0.1.1,jiuliyear,MIT,3574673,"Portable Pi appearance extensions, a theme, and version-guarded ALPS customization patches"
+2026-10-09T06:59:18.725Z,@moneyforward/mfui-react-router,0.0.0,oss-frontend-moneyforward,SEE LICENSE IN LICENSE,2104,Placeholder to enable npm Trusted Publishing.
+2026-10-09T06:59:31.834Z,@cosmosapp/stellar-metamask-adapter,0.1.0,cosmoslatam,MIT,52744,"SEP-43 adapter that lets Stellar/Soroban dApps use MetaMask: official MetaMask Stellar support on mainnet, Stellar Snap on testnet/futurenet"
+2026-10-09T06:59:56.059Z,ahpio,0.0.1,softov,,44,
+2026-10-09T06:59:58.14Z,@yuva-devlab/agent-core,0.2.0,yuva.devlab,MIT,107311,"Universal tool contracts, type-safe tool definition factory, and dynamic prompt compiler for DevLab"
+2026-10-09T06:59:58.384Z,@yuva-devlab/events,0.2.0,yuva.devlab,MIT,92189,"Standardized domain event envelopes, in-memory event bus, transactional outbox pattern, and idempotency for DevLab"
+2026-10-09T06:59:58.529Z,@yuva-devlab/auth-react,0.2.0,yuva.devlab,MIT,85571,"Client-side React authentication provider, hooks, and automatic platform kill-switch screen for DevLab"
+2026-10-09T06:59:58.556Z,@yuva-devlab/rag,0.2.0,yuva.devlab,MIT,118297,"High-performance retrieval augmented generation, document chunking, embeddings, and vector similarity for DevLab"
+2026-10-09T06:59:58.641Z,@yuva-devlab/billing,0.2.0,yuva.devlab,MIT,114705,"Token metering, cost ledgers, pricing matrices, and budget quota enforcement for DevLab"
+2026-10-09T06:59:58.903Z,@yuva-devlab/auth-server,0.2.0,yuva.devlab,MIT,89385,"Server-side authentication guards, cached JWKS validator, and kill-switch middleware for DevLab"
+2026-10-09T06:59:58.914Z,@yuva-devlab/errors,0.2.0,yuva.devlab,MIT,102678,"Standardized domain error hierarchy, error codes, and Result monad for DevLab platform"
+2026-10-09T06:59:58.944Z,@yuva-devlab/regex,0.2.0,yuva.devlab,MIT,48958,"Centralized, security-hardened regular expressions and lexical patterns for DevLab platform"
+2026-10-09T06:59:59.211Z,@yuva-devlab/ai-client,0.2.0,yuva.devlab,MIT,404747,"Unified multi-provider AI client, streaming adapters, cascade fallback, and self-healing structured outputs for DevLab"
+2026-10-09T07:00:01.69Z,@yuva-devlab/resilience,0.2.0,yuva.devlab,MIT,297095,"Enterprise-grade reliability engineering, circuit breakers, timeouts, retries with jitter, bulkheads, and chaos injection for DevLab"
+2026-10-09T07:00:01.999Z,@yuva-devlab/sdk,0.2.0,yuva.devlab,MIT,42819,"Unified Master DevLab Platform Client combining AI inference, RAG, swarms, billing, caching, and events"
+2026-10-09T07:00:02.106Z,@yuva-devlab/semantic-cache,0.2.0,yuva.devlab,MIT,72799,High-performance semantic vector caching and cosine similarity deduplication for DevLab
+2026-10-09T07:00:06.22Z,@cosmosapp/stellar-snap,0.2.0,cosmoslatam,MIT,785999,"MetaMask Snap that adds native Stellar accounts, signing and payments to MetaMask"
+2026-10-09T07:01:16.322Z,@lonestone/boilerstone-cli,1.2.0,lonestone-team,ISC,317267,"Lonestone boilerplate installer, project setup, and upgrade CLI"
+2026-10-09T07:01:45.094Z,@wan27/cli,0.1.0,dieselniu,MIT,45506,Generate images and videos with your wan2-7.io account from the terminal or any MCP client
+2026-10-09T07:02:08.036Z,@lzy_szds/sdk,1.0.2,lzyszds,MIT,15225,QQLink ecosystem frontend JS SDK for third-party webpages running inside QQLink App.
+2026-10-09T07:02:35.758Z,@kidlab/dsh-kid-coder,0.2.0,baixiaoustc,MIT,48292,给小朋友的编程学习启蒙插件：一个包 = 一张 🐵「小教室·跑代码」卡片（真跑 Python/海龟画图）+ 五个模型工具（kid_run / kid_explain / kid_practice / kid_review / kid_steps），零第三方依赖、无构建步骤。
+2026-10-09T07:02:47.675Z,@kidlab/dsh-kid-sysmon,0.2.0,baixiaoustc,MIT,32056,给小朋友的「电脑体检 / 资源监控」启蒙插件：一个包 = 一张 🐻「小熊体检」卡片 + 一个 system_status 工具，查 CPU/内存/磁盘/网络/电池/负载/Top 进程的真实数据（免 sudo，零第三方依赖，无构建）。
+2026-10-09T07:02:51.573Z,@kidlab/dsh-kid-network,0.2.0,baixiaoustc,MIT,40128,给小朋友的网络启蒙插件：一个包 = 一张 🕊️「信鸽邮局」卡片 + 五个模型工具（net_my_identity / net_trace_trip / net_test_speed / net_who_is_home / net_dns），零第三方依赖、无构建步骤。
+2026-10-09T07:02:57.029Z,@kidlab/dsh-kid-storage,0.2.0,baixiaoustc,MIT,39162,给小朋友的「存储 / 大仓库」启蒙插件：分区全景 + 主目录占用榜 + 大件行李榜三个模型工具，外加一张常驻输入条上方的 🐿️ 卡片（DeepSeek Harness / Cordis）。
+2026-10-09T07:03:01.911Z,@kidlab/dsh-kid-memory,0.2.0,baixiaoustc,MIT,49034,给小朋友的内存启蒙插件：一个包 = 一张 🦉「记忆小管家·电脑的工作台」卡片 + 四个模型工具（mem_now / mem_pressure / mem_workbench / mem_top），零第三方依赖、无构建步骤。
+2026-10-09T07:03:06.189Z,@kidlab/dsh-kid-security,0.2.0,baixiaoustc,MIT,49476,给小朋友的「电脑安全 / 城堡守卫」启蒙插件：防火墙、磁盘加密、锁屏、远程端口、登录记录五个模型工具，外加一张常驻输入条上方的 🐕 卡片（DeepSeek Harness / Cordis bundle）。
+2026-10-09T07:03:12.535Z,@kidlab/dsh-kid-process,0.2.0,baixiaoustc,MIT,53185,给小朋友的进程启蒙插件：一个包 = 一张 🐝 工人点名卡片 + 四个模型工具（proc_count / proc_busiest / proc_family / proc_badge），零第三方依赖、无构建步骤。
+2026-10-09T07:03:25.666Z,@adasouls/alma-cli,0.1.0,adasouls,MIT,64095,"Command-line onboarding for the ALMA protocol: give a working agent an identity, declared limits and a signed history from the terminal."
+2026-10-09T07:03:31.631Z,@gitmyabi/minterfilterv2,1.0.0,gitmyabi-bot,MIT,137424,"Auto-generated TypeScript type bindings for MinterFilterV2 (build etherscan-minterfilterv2-a2ccfe29-1791529303085, commit 04a4206, branch etherscan)"
+2026-10-09T07:03:39.079Z,@muha-sdk/agy-adapter,0.1.13,gaosipa,MIT,121702,Official native AGY CLI adapter for Muha SDK.
+2026-10-09T07:04:35.82Z,@lordusevpn/shangshutai-contracts,0.1.0,lordusevpn,MIT,621576,Current public Shangshutai Gateway contracts and validation schemas
+2026-10-09T07:05:38.777Z,hello-go-cli-demo,0.1.0,tonybai_cn,MIT,8293008,"A hello world CLI written in Go, shipped via npm"
+2026-10-09T07:05:50.677Z,@gitmyabi/bbch,1.0.0,gitmyabi-bot,MIT,154826,"Auto-generated TypeScript type bindings for BBCH (build etherscan-bbch-85c4edc4-1791529522533, commit 8223269, branch etherscan)"
+2026-10-09T07:05:53.448Z,dsh-web-search-session,0.1.0,yedaotian,MIT,51383,Route DSH web search through the current session's model plus a self-hosted retrieval backend.
+2026-10-09T07:05:57.313Z,@fossilui/modals,0.1.0,harikalyan,MIT,11013,Animated modal components from Fossil UI.
+2026-10-09T07:06:00.735Z,@fossilui/inputs,0.1.0,harikalyan,MIT,14406,Animated input components from Fossil UI.
+2026-10-09T07:06:04.183Z,@fossilui/navbars,0.1.0,harikalyan,MIT,14616,Animated navbar components from Fossil UI.
+2026-10-09T07:06:07.42Z,@fossilui/heroes,0.1.0,harikalyan,MIT,14300,Animated hero section components from Fossil UI.
+2026-10-09T07:06:14.219Z,nbg-rates-mcp,0.1.0,longman,MIT,58703,"GEL exchange rates from the National Bank of Georgia (NBG) for AI agents, with correct per-unit values and date semantics. Not affiliated with NBG."
+2026-10-09T07:06:26.781Z,indodax-mcp,1.1.1,d1zzy4-jethools,SSPL-1.0,1661485,"MCP server for INDODAX spot trading: market reads, paper execution, deterministic risk, emulated stops, and a gated live path"
+2026-10-09T07:07:04.618Z,@heartlandone/vega-angular-sandbox-pr-3342-3fbf51dc82f653598c1ee1ef42d50939a613a01c,2.105.0,aprilzhu,UNLICENSED,2040527,Angular specific wrapper for @globalpayments/vega
+2026-10-09T07:07:05.518Z,@vjsp/cli-darwin-arm64,3.1.0,vjsp,MIT,319082172,
+2026-10-09T07:07:13.409Z,@heartlandone/vega-vue-sandbox-pr-3342-3fbf51dc82f653598c1ee1ef42d50939a613a01c,2.105.0,aprilzhu,UNLICENSED,147755,Vue specific wrapper for @globalpayments/vega
+2026-10-09T07:07:25.102Z,@heartlandone/vega-react-sandbox-pr-3342-3fbf51dc82f653598c1ee1ef42d50939a613a01c,2.105.0,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-10-09T07:07:26.638Z,@heartlandone/vega-sandbox-pr-3342-3fbf51dc82f653598c1ee1ef42d50939a613a01c,2.105.0,aprilzhu,UNLICENSED,39640156,Vega - the design system of Global Payment Systems
+2026-10-09T07:07:48.156Z,@vjsp/cli-darwin-x64,3.1.0,vjsp,MIT,324367074,
+2026-10-09T07:08:00.876Z,@xayztech/baileys,1.0.0,xayztech,MIT,12853423,A WebSockets library for interacting with WhatsApp Web — XYCoolcraft fork of Baileys
+2026-10-09T07:08:07.221Z,@398ja/nap-core,0.12.0,398ja,MIT,28022,Pure protocol helpers for the NAP (Nostr Authentication Protocol) HTTP profile. Browser and server.
+2026-10-09T07:08:10.567Z,@398ja/nap-server,0.12.0,398ja,MIT,119417,"Stateful server-side NAP flow: challenges, completion, sessions, ACL."
+2026-10-09T07:08:11.961Z,tailwindcss-keyframe-utils,2.0.4,artur_smith,MIT,17756,"Namespaced, tree-shaken Animate.css keyframes and utilities for Tailwind CSS"
+2026-10-09T07:08:13.497Z,@398ja/nap-adapter-express,0.12.0,398ja,MIT,44569,Express adapter for @imani/nap-server.
+2026-10-09T07:08:16.375Z,@398ja/nap-adapter-fastify,0.12.0,398ja,MIT,42630,Fastify adapter for @imani/nap-server.
+2026-10-09T07:08:19.298Z,@398ja/nap-client-http,0.12.0,398ja,MIT,6263,HTTP request helpers for the NAP login flow. Runtime-agnostic.
+2026-10-09T07:08:22.21Z,@398ja/nap-client-web,0.12.0,398ja,MIT,79124,"Browser session client for NAP: NIP-07 signers, session lifecycle, idle lock, re-unlock."
+2026-10-09T07:08:25.904Z,@398ja/nap-client-nip46,0.12.0,398ja,MIT,35346,"NIP-46 remote signer (bunker://, nostrconnect://) for NAP."
+2026-10-09T07:08:26.826Z,@vjsp/cli-darwin-x64-baseline,3.1.0,vjsp,MIT,324367083,
+2026-10-09T07:08:28.96Z,@398ja/nap-react,0.12.0,398ja,MIT,74280,React bindings for the NAP browser client.
+2026-10-09T07:08:31.881Z,@398ja/nap-store-postgres,0.12.0,398ja,MIT,18077,Postgres stores for @imani/nap-server.
+2026-10-09T07:08:35.337Z,@398ja/nap-voucher,0.12.0,398ja,MIT,101042,Mint-backed (Cashu voucher) authorisation for NAP.
+2026-10-09T07:09:05.269Z,@vjsp/cli-linux-arm64,3.1.0,vjsp,MIT,356757015,
+2026-10-09T07:09:47.986Z,@vjsp/cli-linux-arm64-musl,3.1.0,vjsp,MIT,352302373,
+2026-10-09T07:10:15.519Z,next-build-doctor,0.1.0,adeshsuryandev,MIT,46812,Read a Next.js project and report build-memory and build-performance risks.
+2026-10-09T07:10:23.861Z,@vjsp/cli-linux-x64,0.0.0-stage,vjsp,,341,Temporary package placeholder for staged publishing
+2026-10-09T07:11:03.394Z,@vjsp/cli-linux-x64-baseline,3.1.0,vjsp,MIT,357405369,
+2026-10-09T07:11:31.41Z,@arki/math,0.0.2,afurculita,MIT,552743,"Zero-dependency math toolkit — exact Decimal and Rational arithmetic on bigint, explicit rounding modes, float helpers that round what you typed, descriptive statistics, Intl-backed locale formatting…"
+2026-10-09T07:11:40.87Z,@goku_12/stream-zip-downloader,1.0.0,goku_12,MIT,90107,"Universal high-performance browser streaming ZIP downloader for large files & folders (5GB-100GB+) from any cloud storage (AWS S3, GCS, Azure Blob, Cloudflare R2, MinIO, or custom CDN/HTTP URLs) dire…"
+2026-10-09T07:11:42.423Z,@vjsp/cli-linux-x64-baseline-musl,3.1.0,vjsp,MIT,354141060,
+2026-10-09T07:11:55.924Z,@seema24jauhari/nestjs-rate-shield,1.0.1,seema24jauhari,MIT,223626,Redis-backed rate limiter for NestJS with sliding-window and token-bucket algorithms
+2026-10-09T07:12:24.367Z,@vjsp/cli-linux-x64-musl,3.1.0,vjsp,MIT,354878331,
+2026-10-09T07:12:49.877Z,dsh-lock,0.1.0,sometin,MIT,58008,密码门禁：打开 DSH 时先显示密码界面，解锁后才能使用；支持手动锁定与自动锁定，密码以 scrypt 单向哈希存储。
+2026-10-09T07:13:01.515Z,w-templates,1.1.0,nhatthach2703,MIT,330403,"Bootstrap AI-agent workflow templates (AGENTS.md, .agents/, docs/, setup) into a project."
+2026-10-09T07:13:27.3Z,@vjsp/cli-windows-arm64,3.1.0,vjsp,MIT,350479973,
+2026-10-09T07:13:30.884Z,@molecule/api-ai-speech-whistle,1.0.0,vialoh,Apache-2.0,97662,"Whistle speech provider for molecule.dev — Cactus Compute's 16.9 MB seven-language speech-to-text running in-process on CPU via the needle WASM engine (no server, no key)"
+2026-10-09T07:13:36.309Z,@molecule/app-ai-voice-whistle,1.0.0,vialoh,Apache-2.0,85169,"On-device Whistle ai-voice provider for molecule.dev — Cactus Compute's 16.9 MB seven-language speech-to-text in the browser (CPU-only WASM, no WebGPU)"
+2026-10-09T07:13:40.64Z,@miragon/operate,0.0.0-bootstrap.0,alexander.praschek,MIT,1877863,"AI-first command line interface for the Camunda 7 REST API. Works with Operaton, CIB seven and Camunda 7."
+2026-10-09T07:14:06.898Z,@vjsp/cli-windows-x64,3.1.0,vjsp,MIT,355271230,
+2026-10-09T07:14:14.541Z,@huaweidevtools/aishell-dsh-brand,0.0.1-beta.0,huawei-developers,Apache-2.0,44124,AI Shell brand reskin for DSH web — replaces sidebar and hero brand marks with AI Shell SVG
+2026-10-09T07:14:37.538Z,@caidewu/backforge,0.1.0,caidewu,MIT,28569,为 vite 前端演示项目生成 AI 友好的 Flask+SQLite 后端骨架与一键部署能力
+2026-10-09T07:14:40.168Z,@huaweidevtools/aishell-dsh-credentials-store,0.0.1-beta.0,huawei-developers,Apache-2.0,52984,Credential storage + SDK-HMAC-SHA256 signing for aishell DSH plugins
+2026-10-09T07:14:43.31Z,@huaweidevtools/aishell-dsh-client-credentials,0.0.1-beta.0,huawei-developers,Apache-2.0,141285,AI Shell credentials settings panel — web form for storing Huawei Cloud AK/SK in the credential store
+2026-10-09T07:14:46.035Z,@huaweidevtools/aishell-dsh-llm,0.0.1-beta.0,huawei-developers,Apache-2.0,37453,"aishell LLM gateway adapter for DSH — OpenAI-compatible, Huawei Cloud AK/SK auth via credential store"
+2026-10-09T07:14:48.706Z,@huaweidevtools/aishell-dsh-ops-deploy,0.0.1-beta.0,huawei-developers,Apache-2.0,78392,Mounts the huaweicloud-ops-deploy MCP server onto DSH via dsh-mcp-client
+2026-10-09T07:14:51.097Z,@huaweidevtools/aishell-dsh-base,0.0.1-beta.0,huawei-developers,Apache-2.0,13757,aishell DSH profile base layer — aggregates aishell plugin packages over dsh-base
+2026-10-09T07:16:35.441Z,evalmark,0.0.0-reserved,jboix,MIT,645,Eval history kept in your own repository. A placeholder: the first release comes from https://github.com/jboix/evalmark.
+2026-10-09T07:16:40.695Z,@yichong6/canva-core,0.1.0-alpha.6,yichong6,UNLICENSED,278594,YiChong Canva 应用的公司后端 SDK：账户、额度、R2 上传、模型任务与文件工具；不依赖 React 和 @canva/*
+2026-10-09T07:17:33.163Z,nod-sdk,0.2.0,alphataco,MIT,70773,Connect any AI agent to Nod: propose Solana transactions that a human approves on their phone.
