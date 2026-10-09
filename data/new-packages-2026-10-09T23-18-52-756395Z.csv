@@ -1,0 +1,129 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-09T22:16:02.072Z,@bitwise-operations/twill,0.1.0,mikemacleod,MIT,458093,"The twill fabric: a typed registry + resolve/route protocol for execution environments (agent ↔ workspace). Registry server, localhost provider, and the twill CLI."
+2026-10-09T22:16:06.423Z,@bitwise-operations/twill-pi,0.1.0,mikemacleod,MIT,96551,"pi substrate for the twill fabric: config, registry client, consumer identity, per-kind session state, the embedded provider, and the /twill status command."
+2026-10-09T22:16:11.726Z,@bitwise-operations/twill-pi-workspace,0.1.0,mikemacleod,MIT,123913,Workspace kind adapter for the twill fabric pi substrate: resolve/attach/claim/detach tools and the path-scoped write guard.
+2026-10-09T22:16:14.286Z,@m_ai_l/core,1.0.0-rc.1,m_ai_l,Apache-2.0,416712,m_AI_l async inter-agent messaging core
+2026-10-09T22:16:56.412Z,@djtobia/neobrutal-vue,0.2.1,djtobia,MIT,177106,"Neo-brutalist Vue 3 component library with light/dark/custom themes, a 12 column grid and WCAG 2.2 AA accessibility"
+2026-10-09T22:17:17.215Z,@m_ai_l/mcp,1.0.0-rc.1,m_ai_l,Apache-2.0,182829,m_AI_l MCP server + tools
+2026-10-09T22:17:19.24Z,@smthrs/capability,1.0.0-rc.3,fucory,MIT,719410,Capability values and permission failures: the leaf vocabulary of the Smithers permission kernel
+2026-10-09T22:19:07.817Z,@smthrs/crypto,1.0.0-rc.3,fucory,MIT,328082,Strict SHA-256 hashing with injected and synchronous Effect entry points
+2026-10-09T22:20:24.263Z,@timmo001/effect-system-bridge,5.12.1,timmo001,Apache-2.0,227996,An Effect v4 connector for System Bridge
+2026-10-09T22:20:33.339Z,@lettrove/embed,1.0.0-rc.0,lettrove-team,MIT,144034,"The embeddable drag-and-drop email editor and page builder for web apps: put Lettrove in your product in a few lines, white-labeled, with AI built in. The editor loads from lettrove-embed.com; this p…"
+2026-10-09T22:20:36.508Z,@lettrove/react,1.0.0-rc.0,lettrove-team,MIT,31203,"<LettroveEditor />: the embeddable drag-and-drop email editor and page builder as a React component. White-labeled, AI built in, HTML that renders in every inbox."
+2026-10-09T22:20:40.309Z,@lettrove/vue,1.0.0-rc.0,lettrove-team,MIT,45829,"<LettroveEditor />: the embeddable drag-and-drop email editor and page builder as a Vue 3 component. White-labeled, AI built in, HTML that renders in every inbox."
+2026-10-09T22:20:43.232Z,@lettrove/node,1.0.0-rc.0,lettrove-team,MIT,64907,"Lettrove for your server: mint editor tokens, export and render designs, verify webhooks, erase users. Node 20+ and edge runtimes; refuses to run in a browser."
+2026-10-09T22:20:56.74Z,@smthrs/artifacts,1.0.0-rc.3,fucory,MIT,1070135,"Effect service for the Smithers content-addressed artifact store, local and remote"
+2026-10-09T22:21:23.762Z,@wirecat/cli-core,0.0.0,leemour,MIT,264,Placeholder: releases of @wirecat/cli-core are published from CI
+2026-10-09T22:22:45.432Z,@smthrs/database,1.0.0-rc.3,fucory,MIT,860830,"A driver-neutral SQL contract with a bounded write-retry seam, plus the composed migration ladder"
+2026-10-09T22:24:47.616Z,search-memory-mcp,1.0.0,kefyusuf,ISC,313423,"Free web search and long-term memory for AI assistants via MCP. No API keys; cache, memory and index stay local."
+2026-10-09T22:24:59.556Z,claudemotion,0.1.0,litanghui,MIT,1711244,"Turn any document, script, lesson notes, PPT, meeting notes, blog post or idea into interactive motion with your own coding agent."
+2026-10-09T22:25:26.455Z,worktown,0.0.1,devwithalex,MIT,416,A Tiny Tower-style pixel town for managing your coding agents. Under construction.
+2026-10-09T22:25:27.012Z,@shelbyb/daywalker-sdk,0.1.0,shelbyb,MIT,40885,Validate Daywalker API tokens and make domain-signed calls to Daywalker Auth from any service.
+2026-10-09T22:26:08.426Z,@secundus-studio/stift-cli,0.4.32,alex_web,SEE LICENSE IN LICENSE,17073,CLI around @secundus-studio/stift-generator: stift generate / watch / compile.
+2026-10-09T22:26:21.448Z,@secundus-studio/stift-persisters,0.4.32,alex_web,SEE LICENSE IN LICENSE,42010,"Offline pack storage for @secundus-studio/stift-core: OPFS, IndexedDB (idb-keyval), and Cache Storage PersisterAdapters, plus a best-effort fallback chain."
+2026-10-09T22:26:23.735Z,@smthrs/jj,1.0.0-rc.3,fucory,MIT,6531535,Jujutsu version control as a portable Effect host service
+2026-10-09T22:26:26.707Z,@secundus-studio/stift-react,0.4.32,alex_web,SEE LICENSE IN LICENSE,81814,"React adapter for @secundus-studio/stift-core: StiftProvider, useTranslation, useLocale, usePackStatus, useFormatter."
+2026-10-09T22:26:32.553Z,@secundus-studio/stift-tanstack-devtool-plugin,0.4.32,alex_web,SEE LICENSE IN LICENSE,172992,"TanStack Devtools plugin for stift: active-namespace highlighting, missing-key/param logs, pack state, inline editor."
+2026-10-09T22:26:38.328Z,@secundus-studio/stift-tanstack-router-plugin,0.4.32,alex_web,SEE LICENSE IN LICENSE,31826,"TanStack Router integration: rewrite.input/output, shouldRedirect, persist-vs-infer locale adapters."
+2026-10-09T22:26:43.686Z,@secundus-studio/stift-vite-plugin,0.4.32,alex_web,SEE LICENSE IN LICENSE,68877,"Vite plugin wiring @secundus-studio/stift-generator into the build: dev raw-JSON, prod compiled packs, devtools file-write bridge."
+2026-10-09T22:27:07.232Z,robot-heads-solid,0.1.0-beta.0,jhomra21,MIT,116012,"Animated TV-headed robot avatars for Solid, drawn with Canvas 2D."
+2026-10-09T22:28:13.059Z,@smthrs/journal,1.0.0-rc.3,fucory,MIT,2589503,Effect services for the Smithers event journal: the immutable run history and the owner fence on its durable channel
+2026-10-09T22:28:16.144Z,context-brake,1.0.0,dougcunha,MIT,9689698,Context telemetry and an advisory brake for coding-agent harnesses
+2026-10-09T22:28:16.322Z,@k13engineering/hash-cache,0.0.2,simon.kadisch,LGPL-2.1-only,73762,A cache of data by its hash
+2026-10-09T22:29:00.988Z,dsh-compact-selected-model,0.1.0,denabr,MIT,8396,"DeepSeek Harness plugin: /compact and auto-compaction summarize with the model currently selected in the session, not the model that finished the last turn"
+2026-10-09T22:30:02.23Z,@smthrs/kernel,1.0.0-rc.3,fucory,MIT,2175245,"Capability kernel: effect tiers, monotone capability sets, grant store, and permission-decorating layers over the Host services"
+2026-10-09T22:30:36.426Z,@hijinx-world/ui,0.1.0,hijinx.world,MIT AND OFL-1.1,557142,"Hijinx World web components, built on Web Awesome."
+2026-10-09T22:31:10.752Z,@gitmyabi/gse,1.0.0,gitmyabi-bot,MIT,94192,"Auto-generated TypeScript type bindings for GSE (build etherscan-gse-e530441f-1791584976129, commit 95324b2, branch etherscan)"
+2026-10-09T22:31:25.805Z,@art-liz/tokens,0.1.0,artur_ribeiro,MIT,42360,Design tokens do Art-Liz Design System.
+2026-10-09T22:31:44.083Z,@krizaka/i18n,0.1.0-beta.1,wusama,Apache-2.0,152157,"The i18n engine of every Krizaka app: typed message keys and placeholders from en.json, format(), plurals through @krizaka/intl, <Rich> (<b>, <a>), a React provider, and the krizaka-i18n CLI that che…"
+2026-10-09T22:31:50.801Z,@smthrs/keys,1.0.0-rc.3,fucory,MIT,142425,Canonical flow-key derivation and stored-key validation
+2026-10-09T22:31:53.157Z,diaspore,0.1.2,radkawar,MIT,506722,"Run Diaspore bundles (portable, sandboxed Python) in Node"
+2026-10-09T22:32:27.574Z,noskip,1.0.1,dariushq,MIT,157209,"Anti-cheat for AI coding agents. Catches Claude Code, Codex, Cursor and Gemini CLI when they skip, weaken or delete tests to make them pass."
+2026-10-09T22:33:39.242Z,@smthrs/migrate,1.0.0-rc.3,fucory,MIT,6151748,Upgrades Smithers 0.x projects to Smithers 1.0 flows and writes an auditable migration report
+2026-10-09T22:34:39.25Z,spacetime-build,0.0.1,3blave-clockworklabs,ISC,787,Reserved for SpacetimeDB. Not yet ready for use.
+2026-10-09T22:35:28.943Z,@smthrs/notifications,1.0.0-rc.3,fucory,MIT,870245,"Durable notification queue, admission policy, and journal projection for flows"
+2026-10-09T22:36:47.546Z,nested-lib,0.0.0-stage,xwise898,,332,Temporary package placeholder for staged publishing
+2026-10-09T22:36:57.514Z,ogmake-mcp,0.1.2,frastylol,MIT,37528,Local stdio MCP server for ogmake.com og:image generation.
+2026-10-09T22:37:16.873Z,@aphrody/rg-ui,1.0.4,yohan971,UNLICENSED,545807,"Rose Griffon, Achillea and Azalee shared UI on the Aphrody Bun Base UI fork and native Material 3 tokens"
+2026-10-09T22:37:47.495Z,n8n-nodes-ogmake,0.1.0,frastylol,MIT,34490,"n8n community node for ogmake: render OG images and PDFs from templates, and build signed image URLs."
+2026-10-09T22:38:19.457Z,@art-liz/react,0.1.0,artur_ribeiro,MIT,43286,Componentes React do Art-Liz Design System.
+2026-10-09T22:38:20.728Z,@gobing-ai/ts-decision-clef,0.5.20,robinmin2026,Apache-2.0,55035,@gobing-ai/ts-decision-clef — Hosted Clef decision backend driving Cloudflare Workers AI over the portable ts-infra APIClient seam.
+2026-10-09T22:38:38.165Z,@cloverhound/webex-cli-darwin-arm64,0.17.0-rc.2,eumansky,MIT,19297135,The darwin-arm64 binary for @cloverhound/webex-cli
+2026-10-09T22:38:44.941Z,@cloverhound/webex-cli-darwin-x64,0.17.0-rc.2,eumansky,MIT,20847731,The darwin-x64 binary for @cloverhound/webex-cli
+2026-10-09T22:38:51.88Z,@cloverhound/webex-cli-linux-arm64,0.17.0-rc.2,eumansky,MIT,19202826,The linux-arm64 binary for @cloverhound/webex-cli
+2026-10-09T22:38:52.503Z,@art-liz/create-app,0.1.0,artur_ribeiro,MIT,17126,Cria aplicações React com Vite já conectadas ao Art-Liz Design System.
+2026-10-09T22:38:59.771Z,@cloverhound/webex-cli-linux-x64,0.17.0-rc.2,eumansky,MIT,20894464,The linux-x64 binary for @cloverhound/webex-cli
+2026-10-09T22:39:07.197Z,@cloverhound/webex-cli-win32-arm64,0.17.0-rc.2,eumansky,MIT,19186792,The win32-arm64 binary for @cloverhound/webex-cli
+2026-10-09T22:39:10.03Z,@smthrs/plan,1.0.0-rc.3,fucory,MIT,1777718,"The persisted flows plan: a keyed action graph, its append-only store, and its diff"
+2026-10-09T22:39:14.855Z,@cloverhound/webex-cli-win32-x64,0.17.0-rc.2,eumansky,MIT,21096030,The win32-x64 binary for @cloverhound/webex-cli
+2026-10-09T22:39:21.6Z,@cloverhound/webex-cli,0.17.0-rc.2,eumansky,MIT,3716,"CLI and MCP server for Webex Admin, Calling, Contact Center, Devices, Meetings, and Messaging APIs"
+2026-10-09T22:41:00.082Z,@smthrs/flow,1.0.0-rc.3,fucory,MIT,4050220,"The flow authoring model: flows, actions, durable waits, retry policy, and the runtime port they execute against"
+2026-10-09T22:41:21.506Z,n8n-nodes-phpipam-ens,1.0.0,poelle,MIT,42980,"n8n community node for the phpIPAM REST API (sections, subnets, addresses incl. upsert, VLANs, devices)"
+2026-10-09T22:41:46.906Z,@twinsearth/w2m-dsh-plugin,0.4.7,twinsearth,MIT,1273124,"DSH: Windows2MacOS — drive the same project on online Windows and macOS machines from one DeepSeek account, across networks and regions. P2P hole punching is the default path (relay + shared server a…"
+2026-10-09T22:42:10.614Z,oxlint-plugin-require-js-extension,0.1.1,jeremytenjo,MIT,5068,Oxlint JavaScript plugin that requires .js extensions and index.js directory imports.
+2026-10-09T22:42:55.841Z,@smthrs/build,1.0.0-rc.3,fucory,MIT,1445319,Bazel-style TypeScript workflow orchestration with explicit pnpm installation
+2026-10-09T22:43:53.936Z,famulor-sdk,0.1.0,bekservice,MIT,3176049,Official TypeScript and JavaScript SDK for the Famulor voice AI platform.
+2026-10-09T22:44:15.016Z,campus-world-map,0.1.1,ayoolavictor,,49344,"Reads the campus maps published to Sanity: manifests, map JSON, and the collisions, spawn, spaces, portals and desks on each map."
+2026-10-09T22:44:48.718Z,@smthrs/core,1.0.0-rc.3,fucory,MIT,427581,Flow metadata and Markdown lowering over @smthrs/flow
+2026-10-09T22:45:15.573Z,@tp-prepare/vitepress-module-graph,0.1.0,wely6743,MIT,147488,"Плагин VitePress: граф модулей и треков, CLI module-graph"
+2026-10-09T22:46:11.088Z,@bundles.trade/client,0.1.3,bundles.trade,,82279,Connect external strategies to index and agentic bundles on Bundles.trade.
+2026-10-09T22:47:16.707Z,nitro-cjs-requirer,99.0.1,xwise898,MIT,2868,Compatibility shim.
+2026-10-09T22:47:26.402Z,@bobcao3/cpi-harness,0.0.3,bobcao3,MIT,934676,
+2026-10-09T22:48:29.655Z,@smthrs/model,1.0.0-rc.3,fucory,MIT,2699364,"Schema-first Effect model protocols, routes, and streaming events for flows"
+2026-10-09T22:48:35.523Z,nitro-bundled-dep,99.0.1,xwise898,MIT,2865,Compatibility shim.
+2026-10-09T22:49:34.016Z,apex-arc,0.1.0,apexfaucet,MIT,9099,"Five calls for apps on Arc: send guard (address poisoning, fake USDC, sanctions), token price with 24h change, wallet balance in USD, wallet history with poisoning flags, token info. Pay with a prepa…"
+2026-10-09T22:49:46.72Z,browser-runtime-vue,0.0.1,mizulu,,12667,Vue 3 SFC compiler and reactive renderer adapter for browser-module-runtime.
+2026-10-09T22:49:55.09Z,some-very-long-package-name,3.0.0,xwise898,MIT,2894,Compatibility shim.
+2026-10-09T22:50:19.01Z,@smthrs/patterns,1.0.0-rc.3,fucory,MIT,2968372,"Higher-order flow patterns and decorators for flows. It composes @smthrs/flow and the one effect model in @smthrs/plan/Effects, and imports no Node built-ins."
+2026-10-09T22:51:13.405Z,another-very-long-name,0.0.0-stage,xwise898,,344,Temporary package placeholder for staged publishing
+2026-10-09T22:51:40.13Z,@i098/get-shit-done-codex,1.25.1,i098,MIT,1352749,"A meta-prompting, context engineering and spec-driven development system for OpenAI Codex (CLI and Desktop). Fork of get-shit-done by TÂCHES, adapted for Codex."
+2026-10-09T22:52:30.754Z,cloudflare_module,99.0.1,xwise898,MIT,2865,Compatibility shim.
+2026-10-09T22:53:04.261Z,mocker-nuxt,1.0.3,svurekeep,MIT,261948,Nuxt Nitro mocking gateway with strategy registry and API proxy
+2026-10-09T22:54:03.443Z,@smthrs/plan-store,1.0.0-rc.3,fucory,MIT,232568,The persisted plan's append-only SQLite store and the migrations that own its tables
+2026-10-09T22:54:43.638Z,local-workspace-mcp,0.1.0,petercbennett,MIT,166200,"Read-oriented local workspace MCP server: bounded filesystem, git and named-task tools over explicitly authorized roots."
+2026-10-09T22:54:50.059Z,signalk-calc-paths,0.1.0,peter-petrik,GPL-3.0-or-later,500070,"Signal K plugin to calculate new paths from existing ones: a formula over live values, a daily, weekly, monthly or yearly counter on a running total, and a sum that integrates a rate over time."
+2026-10-09T22:54:58.364Z,@tlsft/zod-to-code,0.2.0,tlsft,MIT,26682,Generate JavaScript/TypeScript code from Zod schemas.
+2026-10-09T22:55:29.171Z,distill-ui,0.0.1,jbarnes829,MIT,15579,Copy distill-ui components into your project: Svelte 5 components styled with plain CSS.
+2026-10-09T22:55:53.093Z,@smthrs/platform-browser,1.0.0-rc.3,fucory,MIT,548377,Browser implementations of Effect platform services backed by ZenFS and just-bash
+2026-10-09T22:55:53.79Z,@aphrody/bun-agent-plugin,1.4.3-aphrody.1,yohan971,MIT,3028849,"The aphrody-labs/bun fork as a plugin for Claude Code, Codex and Antigravity/Gemini CLI: MCP server, hooks and skills"
+2026-10-09T22:56:14.066Z,@nmmty/adapter-browser,1.0.0,hitomihiumi,MIT,18777,"Browser adapter for @nmmty/lazycanvas, powered by the native HTMLCanvasElement."
+2026-10-09T22:56:20.364Z,@nmmty/adapter-node,1.0.0,hitomihiumi,MIT,9505,"Node.js adapter for @nmmty/lazycanvas, powered by @napi-rs/canvas."
+2026-10-09T22:56:25.638Z,@nmmty/adapter-react,1.0.0,hitomihiumi,MIT,40733,"React bindings for @nmmty/lazycanvas: a <Scene> component, layer components and animation hooks."
+2026-10-09T22:57:30.8Z,@abdalkaderdev/repocast,0.1.0,abdalkaderdev,MIT,139915,Turn a GitHub repo into a narrated 60-90 second launch video
+2026-10-09T22:57:45.137Z,@jamesainslie/lathe,0.0.0,jamesainslie,MIT,413,"Name placeholder for Lathe, a fork of T3 Code. Install @jamesainslie/lathe@nightly instead."
+2026-10-09T22:57:45.841Z,@smthrs/platform-node,1.0.0-rc.3,fucory,MIT,104874616,Node.js Host bundle for flows: Effect's Node platform services composed into the closed Host surface
+2026-10-09T22:57:48.038Z,@jamesainslie/lathe-darwin-arm64,0.0.0,jamesainslie,MIT,439,"Name placeholder for Lathe, a fork of T3 Code. Install @jamesainslie/lathe@nightly instead."
+2026-10-09T22:57:50.566Z,@jamesainslie/lathe-linux-arm64,0.0.0,jamesainslie,MIT,437,"Name placeholder for Lathe, a fork of T3 Code. Install @jamesainslie/lathe@nightly instead."
+2026-10-09T22:57:53.096Z,@jamesainslie/lathe-linux-x64,0.0.0,jamesainslie,MIT,433,"Name placeholder for Lathe, a fork of T3 Code. Install @jamesainslie/lathe@nightly instead."
+2026-10-09T22:59:20.669Z,@wirecat/cli-tasks,0.0.0,leemour,MIT,267,Placeholder: releases of @wirecat/cli-tasks are published from CI
+2026-10-09T22:59:22.256Z,@internity/cli,0.1.0,internity,,16016,Run Internity assignment verification checks locally
+2026-10-09T22:59:23.46Z,@wirecat/cli-messaging,0.0.0,leemour,MIT,279,Placeholder: releases of @wirecat/cli-messaging are published from CI
+2026-10-09T22:59:26.777Z,@wirecat/cli-messaging-sqlite,0.0.0,leemour,MIT,329,Placeholder: releases of @wirecat/cli-messaging-sqlite are published from CI
+2026-10-09T22:59:31.131Z,@wirecat/cli-messaging-onnx,0.0.0,leemour,MIT,323,Placeholder: releases of @wirecat/cli-messaging-onnx are published from CI
+2026-10-09T22:59:34.019Z,@wirecat/tg-cli,0.0.0,leemour,MIT,258,Placeholder: releases of @wirecat/tg-cli are published from CI
+2026-10-09T22:59:36.294Z,@smthrs/platform-bun,1.0.0-rc.3,fucory,MIT,755195,Bun Host bundle for flows: Effect's Bun platform services composed into the closed Host surface
+2026-10-09T22:59:37.616Z,@wirecat/max-cli,0.0.0,leemour,MIT,261,Placeholder: releases of @wirecat/max-cli are published from CI
+2026-10-09T22:59:42.754Z,@wirecat/cli-memo,0.0.0,leemour,MIT,264,Placeholder: releases of @wirecat/cli-memo are published from CI
+2026-10-09T23:00:23.519Z,@super-assist/server,0.2.0,mertdogar,MIT,9579,"Reads what the Super Assist panel sends, ready for the AI SDK's streamText."
+2026-10-09T23:00:36.673Z,company-id-validators,0.1.0,matias.maquieira,MIT,85802,"Offline validators for European company identifiers and EU VAT numbers: check digits and formats for ES, FR, GB, IE, PL, NO, FI, SE, BE, HR, DK, EE, SK, CH, US and LEI. Zero dependencies."
+2026-10-09T23:00:38.547Z,visual-living-plan,0.1.0,marco-calderon,MIT,12861,"Agent-authored living plans with human interaction, live updates, and a swappable execution canvas"
+2026-10-09T23:01:25.816Z,@smthrs/plugin,1.0.0-rc.3,fucory,MIT,561476,"Vite-style typed plugin kernel for flows: hooks, resolution, and config execution"
+2026-10-09T23:01:57.269Z,getaura,0.1.1,johnfazio1,UNLICENSED,2826927,Aura helps you and your coding agent follow best practices while you vibe code.
+2026-10-09T23:03:03.674Z,@frameshell/whisper-cpp,0.1.0,thomaspraun,Apache-2.0,52284,Official Frameshell transcription provider: whisper.cpp with DTW word onsets and energy-derived word ends.
+2026-10-09T23:03:14.746Z,@smthrs/registry,1.0.0-rc.3,fucory,MIT,2565762,Portable flow descriptor discovery and progressive-disclosure registry services
+2026-10-09T23:03:17.459Z,duo-data-utilities,0.1.1,hiesem,MIT,190526,"IBAN, ISIN, VAT/tax ID and GTIN barcode validation plus 29 more pay-per-call utilities (timezone, geo, hash and more) for AI agents (x402, no API key)"
+2026-10-09T23:03:17.994Z,@frameshell/hyperframes,0.1.0,thomaspraun,Apache-2.0,44218,Official Frameshell clip adapter: HyperFrames HTML compositions rendered headlessly to VP9 WebM with alpha.
+2026-10-09T23:04:49.49Z,dsh-connect-opencode,0.1.0,serra006,MIT,63080,把本机 OpenCode（opencode serve）的免费模型接入 DeepSeek Harness 模型选择器。
+2026-10-09T23:05:03.977Z,@smthrs/harness,1.0.0-rc.3,fucory,MIT,7623600,The Smithers built-in agent loop: a cell-first controller whose model turns produce JavaScript cells that run in a persistent realm and reach the world only through durable flow calls
+2026-10-09T23:05:57.773Z,@eclinick/demo-workbench,0.2.0,eclinick,UNLICENSED,142754,"Local video rendering, immutable evidence and an extracted version gallery"
+2026-10-09T23:06:53.374Z,@smthrs/mcp,1.0.0-rc.3,fucory,MIT,845994,Model Context Protocol client and flow adapter: projects a remote MCP server's tools as ordinary FlowBinding.Source entries
+2026-10-09T23:08:17.843Z,@easbot/gateway-sdk,0.3.29,jallenhou,MIT,73548,Easbot Gateway SDK — REST + WebSocket client for the EasBot Gateway server (multi-channel messaging routing hub)
+2026-10-09T23:08:28.107Z,@pezkuwi/braces,3.0.4,mamoste,MIT,46236,"Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed."
+2026-10-09T23:08:42.66Z,@smthrs/run-store,1.0.0-rc.3,fucory,MIT,1330405,"Effect services for flows run state, attempts, and ownership arbitration"
+2026-10-09T23:08:46.342Z,paralith-mcp,0.1.0,tylerwarburton,UNLICENSED,513791,"MCP server for Paralith on AO: an AI with one 24-word phrase plays Rune Realm, trades and bridges PUSD (TEST deployment)."
+2026-10-09T23:09:12.545Z,@filingsift/client,0.1.0,filingsift,Apache-2.0,24000,Dependency-free typed client for the FilingSift REST API v1
+2026-10-09T23:10:13.103Z,@easbot/acp,0.3.29,jallenhou,MIT,396454,"EASBot ACP (Agent Communication Protocol) adapter — multi-channel server / client / connection layer for the Agent Client Protocol (stdio / http / websocket), with config loader, L2 cache and standal…"
+2026-10-09T23:10:32.299Z,@smthrs/control,1.0.0-rc.3,fucory,MIT,4572088,Control services and RPC projections for flows
+2026-10-09T23:12:52.86Z,@gamercury/bantam-sdk,0.1.0,bazokhan,MIT,14524,Browser TypeScript client for Bantam authoritative leaderboards (BantamClient).
+2026-10-09T23:16:31.182Z,opencode-agents-view,0.1.0,eamo5,GPL-2.0-only,278235,Claude-style background agents view for the OpenCode V2 terminal.
+2026-10-09T23:17:52.211Z,@smthrs/evals,0.0.0-stage,fucory,,335,Temporary package placeholder for staged publishing
