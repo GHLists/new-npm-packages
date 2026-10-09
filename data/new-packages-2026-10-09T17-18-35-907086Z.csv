@@ -1,0 +1,149 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-09T16:14:29.516Z,@lyteboat/eval,0.1.0,willishu,MIT,32560,"lyteboat's eval bundle over dsh-base: run an agent's eval cases through dsh's session controller, record them, replay them without a model, and compare two runs"
+2026-10-09T16:14:32.029Z,@lyteboat/inspect,0.1.0,willishu,MIT,23497,"lyteboat's inspect bundle over dsh-base: mount one agent the way the business modes do and print what it is made of (its tools and how each reaches the model, its skills and their checks, its eval ca…"
+2026-10-09T16:14:34.508Z,@lyteboat/turn-metrics,0.1.0,willishu,MIT,37754,"lyteboat's turn metrics: the recorder a service mounts (one line per turn in a UTC day file, from the turn's outcome, and a heartbeat file of the running turns) and the reader the Studio mounts"
+2026-10-09T16:14:36.887Z,@lyteboat/serve,0.1.0,willishu,MIT,25378,"lyteboat's service bundle over dsh-base: serve every agent of the --agents directories over HTTP (POST /chat, GET /agents, GET /health) through dsh's session controller"
+2026-10-09T16:14:39.251Z,@lyteboat/session-index,0.1.0,willishu,MIT,54903,"lyteboat's session index: an agent's stored sessions listed, searched, folded into a timeline, and read as stored, through read handles that never take a session's write ownership"
+2026-10-09T16:14:41.693Z,@lyteboat/studio-auth,0.1.0,willishu,MIT,60160,"lyteboat Studio's sign-in: operator-managed accounts (scrypt), admin/editor/viewer role grants, signed bearer tokens, and gateway mode"
+2026-10-09T16:14:44.63Z,@lyteboat/studio-api,0.1.0,willishu,MIT,230983,"lyteboat Studio's HTTP API under /api/studio on the host web server: the Host allowlist and security headers, sign-in, role checks, users, the system page, and the agent radar, with an audit log of e…"
+2026-10-09T16:14:47.741Z,@lyteboat/studio-web,0.1.0,willishu,MIT,485084,lyteboat Studio's pages: a React single-page app (src/client) built into lib/web and served at /studio on the host web server under a strict CSP
+2026-10-09T16:14:50.309Z,@lyteboat/studio,0.1.0,willishu,MIT,35098,"lyteboat's Studio workshop bundle over dsh-base and @lyteboat/base: the agents of the --agents directories inspected without running a session, behind Studio's own sign-in and roles, on /api/studio;…"
+2026-10-09T16:14:52.999Z,@lyteboat/pnpm-plugin-kernel,0.1.0,willishu,MIT,251630,lyteboat's kernel for pnpm projects: list it under configDependencies and pnpm installs the official @deepseek-ai/dsh-* 0.2.0-rc.2 packages with lyteboat's patches applied
+2026-10-09T16:14:56.118Z,@lyteboat/testkit,0.1.0,willishu,MIT,135185,"lyteboat's test harness: the unit host (dsh's invariants, the dsh services, the kernel's agent loop) and the in-process MockAdapter for unit tests, in-process composition boots for bundle and agent t…"
+2026-10-09T16:14:57.486Z,@rhizogrip/spore,1.0.2,clbrge,Apache-2.0,23482574,"A runtime for AI agents you run on your own Linux machines: kernel-confined, spend-limited, recorded, and driven from Node, the command line or HTTP."
+2026-10-09T16:14:59.574Z,@lyteboat/cli,0.1.0,willishu,MIT,91606,"The lyteboat launcher: profile templates, patch stack, and boot over the official DeepSeek Harness packages"
+2026-10-09T16:15:02.513Z,@rhizogrip/spore-cli,1.0.2,clbrge,Apache-2.0,165999,"The spore command: define, send, watch and manage spores from a terminal."
+2026-10-09T16:16:03.617Z,@niq.run/lark-worker,0.1.1,p1n,MIT,70017,Feishu/Lark WebSocket bridge Worker for niq — forwards Feishu messages to a bound reason worker and pushes its replies back. Built on @niq.run/worker-sdk.
+2026-10-09T16:16:46.04Z,@depup/rxjs,7.8.2-depup.1,chiefmikey,Apache-2.0,4494942,Reactive Extensions for modern JavaScript (with updated dependencies)
+2026-10-09T16:17:18.447Z,@imbetterlol/astralsvg,1.0.0,imbetterlol,,4961631,school
+2026-10-09T16:20:37.65Z,depbot-policy,0.1.0,heyhadi,MIT,60350,"One policy file → dependabot.yml, a safe auto-merge workflow, a block list, and a weekly review rotation"
+2026-10-09T16:20:39.67Z,@ai-ecoverse/wasm-qpdf,12.4.2-1,trieloff,Apache-2.0,3216022,"qpdf PDF merge/split/rotate/decrypt/linearize tool for slicc (WASM / emscripten, SLICC homescoop)"
+2026-10-09T16:21:06.017Z,@covant/cli,0.0.1,amjad_khan,Apache-2.0,2570,"Covant: AI-native work management that will anticipate, explain and act, on infrastructure the customer owns. Initial release establishing the @covant scope; the first functional release will follow."
+2026-10-09T16:21:49.415Z,@ai-ecoverse/wasm-poppler,26.10.0-2,trieloff,GPL-2.0-only OR GPL-3.0-only,5659996,"poppler PDF utilities (pdftotext, pdftoppm, pdfinfo, …) for slicc (WASM / emscripten, SLICC homescoop)"
+2026-10-09T16:22:27.892Z,with-artifact,0.0.0,rickygi,MIT,482,Placeholder package for With Artifact CI/OIDC setup
+2026-10-09T16:22:44.891Z,@zwischen-ai/zwischen,0.70.4,flowalto,UNLICENSED,265835,Zwischen client with an automatically installed private Python runtime
+2026-10-09T16:22:45.755Z,presync,0.1.0,moralezz,MIT,244698,Safe folder synchronization before running development commands
+2026-10-09T16:22:51.279Z,@hilo/addon-live2d,0.0.0-bootstrap.0,06wj,ISC,405,Bootstrap placeholder; not a usable addon
+2026-10-09T16:22:56.723Z,@hilo/addon-assets,0.0.0-bootstrap.0,06wj,ISC,405,Bootstrap placeholder; not a usable addon
+2026-10-09T16:23:02.481Z,@hilo/addon-audio,0.0.0-bootstrap.0,06wj,ISC,404,Bootstrap placeholder; not a usable addon
+2026-10-09T16:24:04.671Z,finance-tracker-mcp,1.0.0,2t0r,,871971,MCP server and headless E2EE client for Finance Tracker
+2026-10-09T16:24:15.195Z,slotdiff,0.1.0-alpha.1,rohit.solia,MIT,150783,Storage layout diff for upgradeable Solidity contracts: compare a local build or a live deployment against another
+2026-10-09T16:24:15.499Z,@verifyblind/server,1.0.0,verifyblind,Apache-2.0,144290,Server-side verification of VerifyBlind result tokens and webhooks for Node.js (zero dependencies).
+2026-10-09T16:24:21.649Z,sandstone-screenshake,1.0.0,mizab,MIT,10210,A library to simplify the creation of screen shake effect.
+2026-10-09T16:24:49.088Z,crewbus,10.0.2,eamonpluto,MIT,1359019,"Zero-dependency message bus for AI coding-agent crews: message another agent, inserted into context, just a tool call."
+2026-10-09T16:24:58.503Z,@verifyblind/react-native,0.1.0,verifyblind,Apache-2.0,69359,React Native wrapper for the VerifyBlind Android and iOS SDKs (zero-knowledge identity verification)
+2026-10-09T16:25:06.325Z,@companydata/mcp-server,1.1.0,tkcompanydata,ISC,12543,"MCP server for the CompanyData API: company search, enrichment and city lookup from official business registers in 200+ countries. Local (stdio) or hosted at https://companydata.com/mcp/."
+2026-10-09T16:28:37.111Z,string-range-tokens,1.0.0,fscss-ttr,MIT,13184,"Turn strings into per-letter token arrays and rebuild words, paths and URLs from index ranges. JS and TypeScript, zero dependencies."
+2026-10-09T16:29:23.716Z,@gitmyabi/1337skulls,1.0.0,gitmyabi-bot,MIT,224613,"Auto-generated TypeScript type bindings for 1337skulls (build etherscan-1337skulls-9251dec8-1791563263809, commit 11078fc, branch etherscan)"
+2026-10-09T16:29:47.807Z,chromecast2mqtt,0.1.0,handijk,MIT,45203,"Interface between Google Cast devices (Chromecast, Google Home, Nest speakers, Android TV) and MQTT"
+2026-10-09T16:30:12.29Z,dsh-session-path,0.1.2,vfvrpq,MIT,68822,DeepSeek Harness plugin: copy a session's log path (and an agent-readable handoff) so another session can read it and continue the work.
+2026-10-09T16:30:15.479Z,denon2mqtt,0.1.0,handijk,MIT,35852,Interface between Denon and Marantz AV receivers (the telnet protocol on port 23) and MQTT
+2026-10-09T16:30:56.619Z,n8n-nodes-navette,0.1.2,slabb,MIT,24708,"n8n community node for navette — the browser for agents. Drive the system WebView: navigate, read, screenshot, click, type, evaluate, cookie state, one-command login."
+2026-10-09T16:30:59.165Z,create-memory,0.0.1,smthomas,UNLICENSED,674,Standalone memory service for AI agents and applications. In development.
+2026-10-09T16:32:05.509Z,wechat-cli-local-win32-x64,0.3.1,misaki-chihiro,Apache-2.0,14696561,Windows x64 executable for wechat-cli-local
+2026-10-09T16:32:09.353Z,@studyzy/dsh-lazy-tools,0.0.1,studyzy,MIT,200011,CodeBuddy-style deferred tool loading for DeepSeek Harness: keep tool schemas out of the model context until the model loads them on demand via tool_search / defer_execute_tool.
+2026-10-09T16:32:11.347Z,wechat-cli-local,0.3.1,misaki-chihiro,Apache-2.0,17246,Query and export local WeChat data from the command line (Windows x64)
+2026-10-09T16:32:27.325Z,@protobase/schema,0.1.0,mderijcke,Apache-2.0,129299,"Resource, field, view and access definitions for Protobase configs."
+2026-10-09T16:32:31.901Z,@protobase/layout,0.1.0,mderijcke,Apache-2.0,54932,"Composed pages for Protobase, written as JSX that compiles to plain data, with its JSX runtime."
+2026-10-09T16:32:35.446Z,@protobase/query,0.1.0,mderijcke,Apache-2.0,76630,"Kysely list, filter, count and aggregate queries over Protobase resources."
+2026-10-09T16:32:39.118Z,@protobase/client,0.1.0,mderijcke,Apache-2.0,40773,Typed fetch client for the Protobase REST API.
+2026-10-09T16:32:42.936Z,@protobase/server,0.1.0,mderijcke,Apache-2.0,212964,"The Protobase REST API as a Hono app, with Better Auth sign-in."
+2026-10-09T16:32:47.092Z,@protobase/ui,0.1.0,mderijcke,Apache-2.0,389934,The Protobase admin app and the React hooks and components for custom UI.
+2026-10-09T16:32:51.46Z,@protobase/cli,0.1.0,mderijcke,Apache-2.0,124438,"The protobase command: scaffold, doctor, dev, build and serve a Protobase project."
+2026-10-09T16:33:16.582Z,nuxt-foresite,1.0.0,devon.foresite,MIT,8535,Foresite for Nuxt: privacy-first website analytics with no cookies.
+2026-10-09T16:33:19.4Z,docusaurus-plugin-foresite,1.0.0,devon.foresite,MIT,6393,Foresite for Docusaurus: privacy-first website analytics with no cookies.
+2026-10-09T16:33:55.211Z,@vidge-ai/vidgedb,0.1.0,irvine68,Apache-2.0,93694,"JavaScript/TypeScript client for VidgeDB — drive the `vidgedb --service` JSON-RPC subprocess from Node. Zero runtime dependencies (ESM + CJS, typed)."
+2026-10-09T16:33:57.219Z,@vidge-ai/node-red-contrib-vidgedb,0.1.0,irvine68,Apache-2.0,56569,"Node-RED nodes for VidgeDB: visual connector to a VidgeDB digital-twin database over the JSON-RPC 2.0 stdin/stdout service (spawn managed as a subprocess). Query, ingest telemetry, deviation checks a…"
+2026-10-09T16:34:25.981Z,@15ms/shiki-id,1.0.0,sartrey,MIT,21703,A compact self-describing identifier encoder.
+2026-10-09T16:34:39.178Z,@kilnjs/native,0.0.0,joao.kdouk,MIT,494739,"KilnUI for React Native: the same component API, native implementations throughout."
+2026-10-09T16:34:43.111Z,@kilnjs/web,0.0.0,joao.kdouk,MIT,548710,"KilnUI for the web: real DOM, real CSS, no react-native-web."
+2026-10-09T16:35:24.179Z,@amadv/ocli,1.0.0,amadv,Apache-2.0,67987,"The Office CLI — structured JSON access to Jira, Bitbucket, GitHub, Confluence, Azure DevOps, SonarQube, Jenkins, and more, built for AI coding agents. One command does what three meetings couldn't."
+2026-10-09T16:35:38.262Z,@chainvara/cosigner,1.2.1,g0tze,SEE LICENSE IN LICENSE,4356408,"Chainvara API co-signer: your own machine approves every transfer and holds your half of every split and MPC key. One file, no dependencies, Node.js 20+."
+2026-10-09T16:36:00.762Z,robot-heads,0.1.0,fayazahmed,MIT,90095,"Animated 3D robot heads for React: glossy TV-headed bots in four shapes, with LED-matrix faces that show what an agent is doing (thinking, searching, listening, speaking and more). 2D canvas, no WebG…"
+2026-10-09T16:36:11.104Z,computer-use-turbo,0.1.0,afaaq_io,MIT,132763,"MCP server that lets any AI agent operate the desktop apps on macOS, Windows and Linux, in the background and safely. Needs the Computer Use Turbo helper app."
+2026-10-09T16:36:11.778Z,runit-dev,0.7.0,itsmeabhinav,MIT,113762,"Run any project with one command: detects the stack, installs only what is missing, starts it and prints a clickable localhost link"
+2026-10-09T16:36:15.732Z,@littlebugyang/dsh-notify,1.0.0,littlebugyang,MIT,153692,"Message reminders for the DeepSeek Harness web GUI: browser, system, webhook (Feishu/DingTalk/WeCom/generic JSON) and sound notifications when a task turn finishes or execution waits for user confirm…"
+2026-10-09T16:36:16.045Z,morocco-geo-data,1.0.0,bra7lil,MIT,16563,"Static in-memory dataset and utility functions for Moroccan regions, cities, and neighborhoods."
+2026-10-09T16:36:23.596Z,@littlebugyang/dsh-study-mode,1.0.0,littlebugyang,MIT,88533,"DeepSeek Harness (DSH) profile bundle that declares the 学习模式 (study-mode) agent preset — a full coding agent that teaches while it works: the `teach` skill drives a probe → plan → teach loop, and the…"
+2026-10-09T16:37:02.944Z,@rhizogrip/spore-plugin-brave,0.1.0,clbrge,Apache-2.0,17159,"Web search for spores through the Brave Search API, the key held by the runner"
+2026-10-09T16:37:11.105Z,@rhizogrip/spore-plugin-browser,0.2.0,clbrge,Apache-2.0,18022,"A browser for spores: the agents' own Chrome, reached over CDP and driven by agent-browser"
+2026-10-09T16:37:13.139Z,@rhizogrip/spore-plugin-discord,0.2.0,clbrge,Apache-2.0,59728,"Discord for spores: people and spores in one channel, each spore addressed by its role, run as a service"
+2026-10-09T16:37:20.918Z,@rhizogrip/spore-plugin-documents,0.1.0,clbrge,Apache-2.0,15935,"Documents for spores: xlsx, docx, pptx, odt and PDF, importable by the programs an agent writes"
+2026-10-09T16:37:26.292Z,@rhizogrip/spore-plugin-images,0.1.0,clbrge,Apache-2.0,13904,"Images for spores: sharp, importable by the programs an agent writes"
+2026-10-09T16:37:27.756Z,@agentarium/cli,0.0.0,touching-grass,MIT,156,Placeholder: name reserved for Agentarium. Real releases are published from CI.
+2026-10-09T16:37:33.804Z,@jsm-mit/rabbit-standalone-package,0.1.1,jsm-mit,ISC,101569,Wrapper TypeScript package for rabbit-rust: a queue of tasks in channels.
+2026-10-09T16:37:34.92Z,@kalyptos/bifrost,5.0.0,kalyptos-main,Apache-2.0,30660,TypeScript client for the Bifrost Danish address API
+2026-10-09T16:37:34.989Z,@rhizogrip/spore-plugin-mcp,0.1.0,clbrge,Apache-2.0,23936,"MCP for spores: a client the agent runs inside its own sandbox, its results in files"
+2026-10-09T16:37:37.432Z,@rhizogrip/spore-plugin-sluice,0.1.1,clbrge,Apache-2.0,20373,"Host commands for spores, as a sluice broker's rules allow them"
+2026-10-09T16:37:42.16Z,@rhizogrip/spore-plugin-ssh,0.1.2,clbrge,Apache-2.0,17643,"SSH for spores: the keys a host's ssh-agent holds, usable and never readable"
+2026-10-09T16:37:50.049Z,@rhizogrip/spore-plugin-telegram,0.2.0,clbrge,Apache-2.0,58173,"Telegram for spores: a bot of yours in chats, each chat reaching its spore, run as a service"
+2026-10-09T16:39:05.327Z,kairos-command,1.0.2,potatobakedyash,,2003878,Terminal client and CLI for Kairos
+2026-10-09T16:39:07.131Z,cubby-host,0.1.0,clintonlj,UNLICENSED,629,Cubby.Host command-line interface
+2026-10-09T16:39:45.757Z,@rantoine/open-poll-slide-cli,0.1.0,rantoine,MIT,270298,Scaffold an open-poll-slide workspace (a fork of open-slide with live polling sessions) with agent skills preconfigured.
+2026-10-09T16:39:49.731Z,@rantoine/open-poll-slide-core,0.1.0,rantoine,MIT,1868228,"Runtime and CLI for open-poll-slide, a fork of open-slide with live interactive polling sessions."
+2026-10-09T16:39:59.325Z,create-web-lens,0.1.0,c4205m,MIT,20431,"Scaffold a Snapchat Web Lens game: PlayCanvas, Vite, TypeScript, and the Web Lens API."
+2026-10-09T16:40:25.398Z,tripo-studio-plugin,0.3.4,sourcebug,MIT,27918922,"Codex plugin for Tripo Studio member-account image and 3D workflows, shared model/image asset groups, persistent headless auth, durable tasks and provenance."
+2026-10-09T16:41:12.658Z,strapi-plugin-bff-views,1.0.0,jmichalec-vl,MIT,244310,"Configurable BFF aggregate endpoints for Strapi v5: one request returns a fully populated, transformed page payload backed by parallel decomposed queries."
+2026-10-09T16:44:37.544Z,@animated-waffle/react-native,0.1.0,spacemeowx2,MIT,19697,Headless React Native voice SDK for Animated Waffle Agents.
+2026-10-09T16:44:56.612Z,kibi-plugin-ui,0.1.0,looted,AGPL-3.0-or-later,11253,Experimental Kibi check policy that keeps UI components on their agreed design patterns
+2026-10-09T16:45:35.794Z,@archmap/mermaid,0.1.5,ai-org-labs,Apache-2.0,10958908,"Readable Mermaid diagrams with ArchMap layouts, routing and BPMN-style lanes. Browser ESM bundle."
+2026-10-09T16:45:47.68Z,@simular-ai/sai-sdk,0.0.0-placeholder,robin-simular,MIT,608,Placeholder release so npm trusted publishing can be configured. Not the SDK.
+2026-10-09T16:46:03.068Z,aidit,0.2.0,onurceri,MIT,4004339,"Local dashboard for managing MCP servers and agent skills across Claude Code, Codex, Cursor, Gemini CLI, VS Code and 25+ AI coding tools. Localhost only, no cloud, no telemetry."
+2026-10-09T16:46:07.584Z,underdot-collections,2.0.0,lab43,ISC,5857,Page collections for Underdot
+2026-10-09T16:46:12.178Z,underdot-helpers,2.0.0,lab43,ISC,8327,Template helpers for Underdot
+2026-10-09T16:48:03.787Z,qq-cli-local,0.3.2,misaki-chihiro,UNLICENSED,136123,"Local Classic PCQQ history, search and export CLI"
+2026-10-09T16:48:31.369Z,defuss-tauri,0.2.0,kyr0,MIT,146541,Framework-independent Tauri launcher for HTTP(S) URLs and static directories.
+2026-10-09T16:49:25.62Z,@whytest/core,0.1.0,whytest,MIT,953484,"WhyTest engine: stack detection, crawling, architecture mapping, LLM test generation, Playwright execution and reporting."
+2026-10-09T16:49:35.781Z,@fitzyracing/fetch-event-source,2.0.2,fitzyracing,MIT,84684,"A better API for making Event Source requests, with all the features of fetch() (maintained fork of @microsoft/fetch-event-source that also works in Node.js)"
+2026-10-09T16:49:48.281Z,@whytest/cli,0.1.0,whytest,MIT,64681,"WhyTest CLI and local agent: map, test and report on any web app - including apps running on localhost."
+2026-10-09T16:51:09.146Z,@cjser/fast-equals__v5_4_4,5.4.4-cjser.2,nanahira,MIT,312469,"A blazing fast equality comparison, either shallow or deep"
+2026-10-09T16:51:12.851Z,dsh-chat-plus,1.1.0,kr-atg,MIT,23390416,DeepSeek Harness 对话体验增强套件（零源码改动、纯插件注入）。Seeker 双栏执行大盘：右栏任务 / 操作面板 / 子智能体 / 产出物四张卡 + 记忆钉底，左栏只留一行状态卡与贴进对话流的思考卡、问答卡（字号跟随官方「设置 → 字号」）。正文可出卡片：html 沙箱（跑真 HTML/JS）、diagram 流程图、iu 原生交互卡、proto-tabs。另有对话截图、down…
+2026-10-09T16:52:13.16Z,@h47io/sync-receiver,1.0.0,wkpdd,MIT,443184,"Receive a NewStore website sync in Node: the catalogue, the photographs, the stock, the orders and the repair tickets of an offline-first shop, over one authenticated endpoint. Framework-agnostic cor…"
+2026-10-09T16:52:51.06Z,aernyth,0.1.0,lcthong,Apache-2.0,202763,"On-chain delivery receipts for paid API calls on Arc: the provider commits, irrevocably, to the exact bytes it returned for a payment."
+2026-10-09T16:53:56.89Z,iwuyu-cli-lib,1.0.0,iwuyu,ISC,287,
+2026-10-09T16:54:23.469Z,headlesshunt,1.0.0,headlesshunt,MIT,11629,"CLI for headlesshunt, the launch board run by AI agents: list, launch, vote and comment from the terminal."
+2026-10-09T16:54:32.549Z,@dexvis/threejs-tree-editor,0.1.0,eicdev,MIT,97160,"Three.js scene-tree editing, merging and outlining utilities for detector geometry (rulesets, skip-flags, geometry processor)"
+2026-10-09T16:54:55.211Z,@dexvis/viewport-gizmo,0.1.0,eicdev,MIT,147264,"Interactive camera-orientation cube for three.js viewports. Fork of three-viewport-gizmo: cube-only, WebGPURenderer support, configurable view orientations (HENP/CAD axis conventions), roll and home…"
+2026-10-09T16:54:57.012Z,drawio-ai-kit,2.0.0,sparklabx,MIT,5697441,"Helps an AI draw correct, beautiful draw.io diagrams: ground-truth AWS/Azure/GCP/OSS icon catalogs, a declarative layout engine, a validator, and one agent skill. Zero-dependency drawio-ai CLI."
+2026-10-09T16:55:04.735Z,@luxehouze/hallmark,0.0.0,luxehouze,UNLICENSED,2815,"Luxehouze Commerce design system: tokens, themes, and Svelte components shared by Luxehouze and Archivve."
+2026-10-09T16:56:27.825Z,@osrs-tracker/logger,0.1.0,freekmencke,Apache-2.0,34688,"Structured JSON logs for the OSRS Tracker Express and Nest apps, on pino and pino-http"
+2026-10-09T16:56:47.577Z,@dexvis/app-features,0.1.0,eicdev,MIT,198371,"Angular app composition machinery: feature packs over DI multi-providers, layered config (defaults < server < localStorage < URL < runtime), a serializable command bus with URL startup commands, and…"
+2026-10-09T16:57:19.635Z,zcode-pro,0.16.0,duanluan,Apache-2.0,745011,ZCode Pro — 为 ZCode 桌面版增加界面增强（不修改客户端文件，通过 ZCode Pro 快捷方式启动即可），核心功能：项目自定义别名
+2026-10-09T16:57:30.181Z,hanekawa,1.0.0,threos,ISC,244,
+2026-10-09T16:57:40.797Z,@aplok/bedrock-builder,0.1.0,trenbankai,Zlib,323739,Build tools for Minecraft Bedrock add-ons.
+2026-10-09T16:58:38.919Z,@thebraz/queuelite,0.1.1,thebraz,MIT,99329,A lightweight persistent SQLite job queue for Node.js
+2026-10-09T16:59:43.406Z,ahime-tenders,1.0.0,ahime,MIT,1312,Thin client for the Tenders API (REST and MCP tools).
+2026-10-09T17:00:05.393Z,mantur-ui,0.1.0,xuwei2023,,164336,"Mantur React account components and client, built with Radix and Tailwind CSS v4."
+2026-10-09T17:00:09.238Z,@ai-ecoverse/wasm-tailscale,1.104.1-3,trieloff,BSD-3-Clause,30188688,"Tailscale's tsconnect client (Go, js/wasm) with the APIs SLICC needs to use a tailnet as a network transport: streaming fetch, raw dial, exit nodes, status; shields up"
+2026-10-09T17:01:07.734Z,koota-animation,0.0.1,autochthe,MIT,36701,"Keyframe animation for koota traits, with an optional three.js transform bridge"
+2026-10-09T17:01:16.199Z,vibeg-kit,1.0.0,cobanov,MIT,167270,"Make web games that play on every screen and device: a full-window canvas framed for any shape, keyboard, mouse, gamepad and touch through one input API, on-screen controls, device-aware prompts, men…"
+2026-10-09T17:03:47.891Z,ksp-vendor-pack,0.0.0-stage,dot2027,,337,Temporary package placeholder for staged publishing
+2026-10-09T17:03:51.454Z,kwp-core,0.0.0-stage,dot2027,,330,Temporary package placeholder for staged publishing
+2026-10-09T17:04:24.581Z,dsh-balance-peek,1.0.0,whywhywhy,MIT,39568,在 DSH 侧边栏底部用两行极简文字显示 DeepSeek 余额、当日花费与当前峰/谷时段。Minimal text balance / daily-spend / peak-valley readout at the DSH sidebar foot.
+2026-10-09T17:04:30.244Z,fpgen-js,1.3.0,jwriter20,Apache-2.0,107681,A fast and comprehensive browser fingerprint generator. A TypeScript port of scrapfly/fingerprint-generator (fpgen).
+2026-10-09T17:04:52.169Z,python-random,1.0.0,jwriter20,PSF-2.0 AND BSD-3-Clause,32745,"CPython's random module in TypeScript, bit for bit: the same seed draws the same numbers as Python's random.Random."
+2026-10-09T17:05:30.903Z,meant-lang,0.1.0,akurkin,MIT,344034,"A small, checkable language for how an application should behave, with a deterministic checker and simulator that coding agents work from."
+2026-10-09T17:05:41.798Z,prit-deshbhratar-common,1.0.2,prit_03,ISC,13369,
+2026-10-09T17:06:34.572Z,@pulumi-internal/reserved,0.0.0,pulumi-bot,UNLICENSED,790,Reserved scope for Pulumi's internal packages. Not for installation.
+2026-10-09T17:07:28.341Z,@raevon/omniroute,0.0.0-stage,raevon,,339,Temporary package placeholder for staged publishing
+2026-10-09T17:07:36.209Z,dsh-whale-post-verify,0.2.0,deepsleep_aquarium,MIT,18698,安全校验（信封验签 ＋ 名单白名单）；★默认禁用，禁用期间会提示开启，连提三天后不再提
+2026-10-09T17:08:25.99Z,@atsh/atsh,0.0.2,atsh,MIT,1543,Hello world.
+2026-10-09T17:10:27.383Z,@sanqianx/ai-coding-knowledge-engine,0.1.0,yinglongxu,Apache-2.0,309716,Knowledge engine module for project-knowledge: commit-boundary triggered knowledge analysis/generation (trigger plane) and retrieval for development assistants (retrieval plane).
+2026-10-09T17:12:13.78Z,@delicious-ai/bidlens-widget,0.1.0,wwdai,UNLICENSED,4350431,The BidLens chat widget as a framework-free <bidlens-widget> custom element. Importing the package registers the element.
+2026-10-09T17:12:26.256Z,@wral/wral-election-map,0.1.2,kbarbour,UNLICENSED,57379,"<wral-election-map>: a public election results map. Its own artifact, separate from the elections mod."
+2026-10-09T17:12:57.229Z,@wirecat/cli-meetings,0.1.0,leemour,MIT,15786,"The shared layer for meeting tools: one model for meetings, transcripts, chat and summaries, the WebVTT parser, and the source port each provider implements"
+2026-10-09T17:13:22.746Z,@delicious-ai/bidlens-capacitor,0.1.3,wwdai,UNLICENSED,43406,Capacitor bridge for <bidlens-widget>: native iOS and Android photo picking that keeps the EXIF/LiDAR/GPS metadata the web view strips. Import it once and the widget uses it wherever the plugin is av…
+2026-10-09T17:13:25.724Z,@actualwave/codemirror-lang-js-completion,0.1.0,actualwave,MIT,42463,"Lightweight JavaScript completion for CodeMirror 6: globals and type-inferred member suggestions (strings, arrays, Map/Set/Date/Promise, object literals, classes) with no TypeScript compiler or worker"
+2026-10-09T17:13:46.229Z,@merittdev/mira-react-native,0.1.0,mhmdhammoud,UNLICENSED,106728,"Mira's try-on sheet and stylist screen for React Native and Expo apps, on @merittdev/mira/headless."
+2026-10-09T17:13:46.405Z,@delicious-ai/bidlens-angular,0.1.0,wwdai,UNLICENSED,13330,"Angular wrapper for the <bidlens-widget> custom element: typed inputs and outputs, no CUSTOM_ELEMENTS_SCHEMA needed."
+2026-10-09T17:14:29.754Z,map-atlas,1.0.0,jojin1709,MIT,313053,"Custom dependency-free slippy map engine with React wrapper, routing, geocoding, and more."
+2026-10-09T17:15:10.402Z,@gitmyabi/croakz,1.0.0,gitmyabi-bot,MIT,142369,"Auto-generated TypeScript type bindings for CROAKZ (build etherscan-croakz-7cae7b9b-1791566009907, commit 1b0330c, branch etherscan)"
+2026-10-09T17:15:38.286Z,domlet,0.0.0-stage,alex.wei,,328,Temporary package placeholder for staged publishing
+2026-10-09T17:15:47.475Z,vibeg-cli,0.1.0,cobanov,MIT,374780,"Build, test and publish browser games on vibeg.lol: a local game page with online rooms, publishing, review status and an MCP server for coding agents."
+2026-10-09T17:15:53.597Z,sarvam-agents-client,0.0.0-stage,brahmansh-sarvam,,342,Temporary package placeholder for staged publishing
+2026-10-09T17:16:58.453Z,react-native-flux-desktop-chart,0.1.0,panjingyu-666,MIT,478462,"Chart component suite (Skia-drawn, @ant-design/charts-style data model) for react-native-flux-desktop. Independent package that depends on the ui core."
+2026-10-09T17:17:05.712Z,react-native-flux-desktop-pro,0.1.0,panjingyu-666,MIT,90307,"Higher-order composite components (ProForm, TrendCard, ...) for react-native-flux-desktop. Independent package depending on the ui core and the chart suite."
+2026-10-09T17:17:12.824Z,react-native-flux-desktop-dev,0.0.0-stage,panjingyu-666,,351,Temporary package placeholder for staged publishing
+2026-10-09T17:17:21.911Z,react-native-flux-desktop-web3,0.0.0-stage,panjingyu-666,,352,Temporary package placeholder for staged publishing
+2026-10-09T17:17:29.922Z,react-native-flux-desktop-webview,0.1.0,panjingyu-666,,834520,"Independent WebView branch for react-native-flux-desktop (Chromium via wry; Windows=WebView2). Opt-in, keeps the main package 'zero-webview' default."
+2026-10-09T17:17:40.764Z,@stillmap/serve,0.2.0,wipeair,Apache-2.0,95390,"Serve rendered stillmaps over HTTP. Framework-neutral Request to Response, with caching and signed URLs."
