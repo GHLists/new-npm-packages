@@ -1,38 +1,283 @@
 {
   "list": {
-    "count": 365,
-    "from": "2026-10-10T09:18:43.596149Z",
-    "path": "data/new-packages-2026-10-10T10-19-23-376622Z.csv",
-    "to": "2026-10-10T10:19:23.376622Z"
+    "count": 374,
+    "from": "2026-10-10T10:19:23.376622Z",
+    "path": "data/new-packages-2026-10-10T11-19-46-919751Z.csv",
+    "to": "2026-10-10T11:19:46.919751Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@dialexjs/language-server",
-      "since": "2026-10-10T09:18:43.596149Z"
+      "package": "@crossbind/port-spatialite-standalone-napi-darwin-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
     },
     {
       "attempts": 1,
-      "package": "@zukhruf/election",
-      "since": "2026-10-10T09:18:43.596149Z"
+      "package": "@crossbind/port-spatialite-standalone-napi-darwin-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
     },
     {
       "attempts": 1,
-      "package": "@zukhruf/fencing",
-      "since": "2026-10-10T09:18:43.596149Z"
+      "package": "@crossbind/port-spatialite-standalone-napi-linux-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
     },
     {
       "attempts": 1,
-      "package": "@zukhruf/fs",
-      "since": "2026-10-10T09:18:43.596149Z"
+      "package": "@crossbind/port-spatialite-standalone-napi-linux-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
     },
     {
       "attempts": 1,
-      "package": "@zukhruf/lease",
-      "since": "2026-10-10T09:18:43.596149Z"
+      "package": "@crossbind/port-spatialite-standalone-napi-linuxmusl-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-spatialite-standalone-napi-linuxmusl-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-spatialite-standalone-napi-win32-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-spatialite-standalone-napi-win32-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-linuxmusl",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-napi",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-napi-darwin-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-napi-darwin-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-napi-linux-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-napi-linux-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-napi-linuxmusl-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-napi-linuxmusl-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-napi-win32-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-napi-win32-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-sqlite3-standalone-wasi",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-linuxmusl",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-napi",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-napi-darwin-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-napi-darwin-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-napi-linux-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-napi-linux-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-napi-linuxmusl-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-napi-linuxmusl-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-napi-win32-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-napi-win32-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-tiff-standalone-wasi",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-linuxmusl",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-napi",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-napi-darwin-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-napi-darwin-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-napi-linux-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-napi-linux-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-napi-linuxmusl-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-napi-linuxmusl-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-napi-win32-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-napi-win32-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-webp-standalone-wasi",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-linuxmusl",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-standalone-napi",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-standalone-napi-darwin-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-standalone-napi-darwin-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-standalone-napi-linux-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-standalone-napi-linux-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-standalone-napi-linuxmusl-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-standalone-napi-linuxmusl-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-standalone-napi-win32-arm64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zlib-standalone-napi-win32-x64",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zstd-linuxmusl",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@crossbind/port-zstd-standalone-napi",
+      "since": "2026-10-10T10:19:23.376622Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@parley-im/parley",
+      "since": "2026-10-10T10:19:23.376622Z"
     }
   ],
-  "seq": 135918057,
+  "seq": 135925388,
   "source_truncated": false,
-  "window": "2026-10-10T10:19:23.376622Z"
+  "window": "2026-10-10T11:19:46.919751Z"
 }
