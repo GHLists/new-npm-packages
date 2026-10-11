@@ -1,12 +1,23 @@
 {
   "list": {
-    "count": 165,
-    "from": "2026-10-11T09:18:43.204754Z",
-    "path": "data/new-packages-2026-10-11T10-20-41-928672Z.csv",
-    "to": "2026-10-11T10:20:41.928672Z"
+    "count": 272,
+    "from": "2026-10-11T10:20:41.928672Z",
+    "path": "data/new-packages-2026-10-11T11-19-47-08835Z.csv",
+    "to": "2026-10-11T11:19:47.08835Z"
   },
-  "pending": [],
-  "seq": 136079238,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@labeleer/api",
+      "since": "2026-10-11T10:20:41.928672Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@valfuse-node/express",
+      "since": "2026-10-11T10:20:41.928672Z"
+    }
+  ],
+  "seq": 136087024,
   "source_truncated": false,
-  "window": "2026-10-11T10:20:41.928672Z"
+  "window": "2026-10-11T11:19:47.08835Z"
 }
