@@ -1,33 +1,293 @@
 {
   "list": {
-    "count": 109,
-    "from": "2026-10-12T03:18:33.718209Z",
-    "path": "data/new-packages-2026-10-12T04-19-10-342255Z.csv",
-    "to": "2026-10-12T04:19:10.342255Z"
+    "count": 178,
+    "from": "2026-10-12T04:19:10.342255Z",
+    "path": "data/new-packages-2026-10-12T05-20-05-325537Z.csv",
+    "to": "2026-10-12T05:20:05.325537Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@3sixty/data-json-ld",
-      "since": "2026-10-12T03:18:33.718209Z"
+      "package": "@qlzt/dsh-base",
+      "since": "2026-10-12T04:19:10.342255Z"
     },
     {
       "attempts": 1,
-      "package": "@ohos-ports/nuxt-vite-builder",
-      "since": "2026-10-12T03:18:33.718209Z"
+      "package": "@qlzt/dsh-chunked-list",
+      "since": "2026-10-12T04:19:10.342255Z"
     },
     {
       "attempts": 1,
-      "package": "@sdxc/assets-middleware",
-      "since": "2026-10-12T03:18:33.718209Z"
+      "package": "@qlzt/dsh-client-ui-agent-preset",
+      "since": "2026-10-12T04:19:10.342255Z"
     },
     {
       "attempts": 1,
-      "package": "@sdxc/database-middleware",
-      "since": "2026-10-12T03:18:33.718209Z"
+      "package": "@qlzt/dsh-client-ui-cordis",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-cordis-client-runner",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-deepseek-account-platform",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-experimental-agent-team",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-experimental-agent-team-profile",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-experimental-client-ui-agent-team",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-experimental-inspector",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-experimental-inspector-profile",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-experimental-session-inspector",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-experimental-tool-agent-team",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-headless",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-home-paths",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-jobs-local",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-launch-environment",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-otel",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-plugin-manager",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-ptc-runtime-node",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-settings",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-spill-local",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-spill-policy",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-storage",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-storage-domain",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-storage-json",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-subagent",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-subagent-fork-in-process",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-subagent-spawn-in-process",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-subprocess-local",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-bash",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-call-timeout-policy",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-fs",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-fs-search",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-goal",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-jobs",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-present",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-pwsh",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-skill",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-subagent",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-subagent-control",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-todo",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-web",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-workflow",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tool-working-directory",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-tools",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-typert-loader",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-typert-registry",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-user-approval",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-util-code-language",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-web",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-web-fetch-http",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-web-search-deepseek",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-workflow-ptc",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@qlzt/dsh-working-directory",
+      "since": "2026-10-12T04:19:10.342255Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@tx1/tx1",
+      "since": "2026-10-12T04:19:10.342255Z"
     }
   ],
-  "seq": 136211319,
+  "seq": 136220856,
   "source_truncated": false,
-  "window": "2026-10-12T04:19:10.342255Z"
+  "window": "2026-10-12T05:20:05.325537Z"
 }
