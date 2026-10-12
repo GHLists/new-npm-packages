@@ -1,53 +1,43 @@
 {
   "list": {
-    "count": 250,
-    "from": "2026-10-12T09:18:38.6492Z",
-    "path": "data/new-packages-2026-10-12T10-18-59-385274Z.csv",
-    "to": "2026-10-12T10:18:59.385274Z"
+    "count": 190,
+    "from": "2026-10-12T10:18:59.385274Z",
+    "path": "data/new-packages-2026-10-12T11-20-28-238242Z.csv",
+    "to": "2026-10-12T11:20:28.238242Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "package": "@asybrain/asybrain-agent",
+      "since": "2026-10-12T10:18:59.385274Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dokebi/cli",
+      "since": "2026-10-12T10:18:59.385274Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dokebi/core",
+      "since": "2026-10-12T10:18:59.385274Z"
+    },
+    {
+      "attempts": 4,
       "package": "@ideaswork/cli-offline",
       "since": "2026-10-12T07:18:37.479668Z"
     },
     {
       "attempts": 1,
-      "package": "@malipetek/dsh-ai-workspace",
-      "since": "2026-10-12T09:18:38.6492Z"
+      "package": "@nodari-pruidze/form-builder-js",
+      "since": "2026-10-12T10:18:59.385274Z"
     },
     {
       "attempts": 1,
-      "package": "@nuxt/scripts-devtools",
-      "since": "2026-10-12T09:18:38.6492Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@qilin-agent/node-addon-system-darwin-arm64",
-      "since": "2026-10-12T09:18:38.6492Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@qilin-agent/node-addon-system-darwin-x64",
-      "since": "2026-10-12T09:18:38.6492Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@qilin-agent/node-addon-system-linux-arm64",
-      "since": "2026-10-12T09:18:38.6492Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@qilin-agent/node-addon-system-linux-x64",
-      "since": "2026-10-12T09:18:38.6492Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@splithub/stats",
-      "since": "2026-10-12T09:18:38.6492Z"
+      "package": "@ohos-ports/lerna-publish",
+      "since": "2026-10-12T10:18:59.385274Z"
     }
   ],
-  "seq": 136277371,
+  "seq": 136290793,
   "source_truncated": false,
-  "window": "2026-10-12T10:18:59.385274Z"
+  "window": "2026-10-12T11:20:28.238242Z"
 }
