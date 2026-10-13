@@ -1,0 +1,197 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-13T20:15:35.99Z,@ghostmind-dev/block,0.3.1,ghostmind_dev,MIT,124426,"The sandboxed html block: the document it runs in, the libraries it may name, and the functions its host lends it."
+2026-10-13T20:16:30.048Z,@moyarich/console,0.1.0,moyarich,MIT,450724,"React console and ANSI process-output UI with capture, object inspection, serialization, and iframe/WebSocket transports."
+2026-10-13T20:18:19.527Z,@sparkelf/dsh-patch-llm-pi-ai-npm-transport,0.2.1-alpha.28,forestlightelf,MIT,1872,"Data-only patch teaching the published @sparkelf/dsh-llm-pi-ai build that a gateway-truncated response stream is a transport failure, so the default retry set retries it"
+2026-10-13T20:19:59.543Z,@onboarded-platform/engine,0.2.0,bjacobso,MIT,596187,The pure decision kernel that the DSL's journeys and the Onboarded platform both run.
+2026-10-13T20:20:12.426Z,@onboarded-platform/runtime,0.1.0,bjacobso,MIT,328292,Install with `npm install @onboarded-platform/runtime`. See [formula evaluation](https://github.com/OnboardedInc/onboarded-platform/blob/main/docs/formula-evaluators.md) to supply a calculator.
+2026-10-13T20:20:21.312Z,@onboarded-platform/dsl,0.1.0,bjacobso,MIT,753245,Install with `npm install @onboarded-platform/dsl`. See [formula evaluation](https://github.com/OnboardedInc/onboarded-platform/blob/main/docs/formula-evaluators.md) to supply a calculator.
+2026-10-13T20:20:29.669Z,@onboarded-platform/ui,0.1.0,bjacobso,MIT,996603,Install with `npm install @onboarded-platform/ui`. See [formula evaluation](https://github.com/OnboardedInc/onboarded-platform/blob/main/docs/formula-evaluators.md) to supply a calculator.
+2026-10-13T20:20:32.441Z,@onboarded-platform/cli,0.1.0,bjacobso,MIT,226394,Install with `npm install -g @onboarded-platform/cli`.
+2026-10-13T20:21:09.644Z,@ohos-ports/nativescript-doctor,2.0.18-beta.0,virtfans,Apache-2.0,155396,Library that helps identifying if the environment can be used for development of {N} apps.
+2026-10-13T20:21:16.518Z,oneko,0.1.0,0xdhrv,MIT,1745397,"A tiny pixel cat for React, Vue, Svelte, Solid, and the browser. Bundled engine and 24 coats, no CDN required."
+2026-10-13T20:21:47.084Z,@argszero/dsh-overflow-recovery,0.1.0,argszero,MIT,58140,"A session whose request exceeds the model's context window and whose summarizer cannot fit that same window has no way out: every later message replays the same oversized history into the same 400, s…"
+2026-10-13T20:22:13.164Z,@hyper.authio/admin,0.7.0,auth.io,MIT,3936124,"Authio Admin API client for Node.js and edge runtimes: every operation generated from the server's OpenAPI document, grouped by area and typed by path, with account credentials, envelopes, errors, pa…"
+2026-10-13T20:22:15.152Z,@hyper.authio/bff,0.7.0,auth.io,MIT,392859,"Backend-for-Frontend for Authio on Express: server-side sessions, login/logout/user endpoints, anti-forgery, token refresh, remote API proxy and back-channel logout. Tokens never reach the browser."
+2026-10-13T20:22:24.665Z,@divayth/brick-ui,0.0.1,divayth,,40712,React components for Brick UI
+2026-10-13T20:23:24.164Z,@observertc/samples-deflate-codec,3.7.0,balazskreith,Apache-2.0,444339,"Zero-dependency compressed delta codec for ObserveRTC ClientSamples - each sample encodes as the difference from the previous one, field names dictionary-coded, deflate-compressed"
+2026-10-13T20:23:33.599Z,@maxhealth.tech/elysia-mcp,1.0.0,quotentiroler,Apache-2.0,187135,Auto-generate MCP tools and resources from Elysia routes via introspection. TypeBox-to-Standard-Schema bridge and tool execution; the HTTP edge lives in @maxhealth.tech/mcp-http.
+2026-10-13T20:23:49.311Z,suppression-census,0.1.0,kanavj,MIT,56963,"Fail CI when your codebase gains a new eslint-disable, @ts-ignore, skipped test, or lint rule switched off."
+2026-10-13T20:23:54.24Z,@ohos-ports/parcel-runtime-react-refresh,2.13.3-beta.0,lljry,MIT,6731,
+2026-10-13T20:24:21.361Z,bun-test-network-guard,0.1.0,kanavj,MIT,26105,"Stop bun test from reaching the internet: remote fetch calls throw, requests to localhost still work."
+2026-10-13T20:24:31.48Z,eel-conformance,0.1.0,kanavj,Unlicense,93586,"Executable specification of EEL2, the expression language of MilkDrop presets: 82 portable JSON cases, a JSON Schema, and a runner contract any implementation can satisfy."
+2026-10-13T20:24:45.11Z,flash-guard,0.1.0,kanavj,Unlicense,223092,"WCAG 2.3.1 flash and red-flash analysis for frame sequences, plus a live governor that holds a canvas under the threshold while it is being shown. Pure TypeScript, no dependencies."
+2026-10-13T20:24:53.403Z,@plagtech/vendure-spraay-plugin,0.1.0,plagtech,MIT,284501,"Admin-approved, noncustodial USDC batch payouts to sellers on Base for Vendure, powered by the Spraay batch contract and gateway."
+2026-10-13T20:24:56.198Z,milkdrop-toolchain,0.1.0,kanavj,Unlicense,2129147,"Parse, compile, analyze, format and export MilkDrop .milk presets in TypeScript: EEL2 interpreter and JIT, IR, HLSL shader analysis, GLSL and WGSL generation."
+2026-10-13T20:25:08.994Z,@dahoai/sitesonar-client,0.1.0,etugrand,MIT,107395,"Typed client for the SiteSonar v2 API, generated from its OpenAPI schema"
+2026-10-13T20:26:06.936Z,@ashtrath/oxlint-plugin-slop,0.1.0,ashtrath,MIT,70149,Oxlint rules that flag low-value code and prose patterns.
+2026-10-13T20:26:22.546Z,@ashtrath/oxc-config,0.1.0,ashtrath,MIT,88824,Ashtrath's OXC (oxlint + oxfmt) config
+2026-10-13T20:26:46.48Z,fullshield,0.0.1,kathan2404,ISC,324,Full-cycle security for Node.js - in development
+2026-10-13T20:26:56.242Z,replier-sdk,1.0.0,mbnaj,MIT,24889,Official Node.js / TypeScript SDK for the Replier.net WhatsApp API
+2026-10-13T20:27:15.393Z,vexik-ai,1.0.0,qwerff2145,MIT,22859,VEXIK — Ultra-fast 500 tok/s AI Coding CLI with Cyber Pet (GPT-OSS 120B)
+2026-10-13T20:27:36.256Z,pi-refine,1.0.1,bakhbk,MIT,44973,Refine chaotic ideas into structured prompts
+2026-10-13T20:27:40.278Z,@ohos-ports/parcel-transformer-sass,2.16.4-beta.0,lljry,MIT,31885,
+2026-10-13T20:27:49.002Z,@forinda/kickjs-inertia,0.0.0,forinda,MIT,78955,"Inertia.js adapter for KickJS — server-driven pages rendered by React, Vue or Svelte"
+2026-10-13T20:28:01.82Z,@gtt-community/gtt-cli,1.1.2,gtt-community,Apache-2.0,5203,GTT CLI - the operational doorway into GTT Bootstrap (installs the native gtt binary)
+2026-10-13T20:28:42.721Z,pindeck,2.8.0,ehabets,MIT,380662,"PinDeck: a local editor for HTML slide decks. Pin elements, describe the change, and Claude Code edits the slides."
+2026-10-13T20:29:44.955Z,@typefold/client,0.2.1,berkerde,,99578,TypeScript and JavaScript client for the Typefold API: render published reports and templates to PDF or XLSX.
+2026-10-13T20:30:34.352Z,@sshadows/bc-toolbox-envelope,0.1.0,sshadows,MIT,17973,"Shared machine envelope for the bc-toolbox: MCP isError body and CLI --json envelope, with stable error codes and JSON Schemas"
+2026-10-13T20:30:43.211Z,pluginlabs,0.0.0,szdziedzic,ISC,288,PluginLabs command line. First release coming soon.
+2026-10-13T20:30:49.551Z,@dvina/widget-kit,0.0.36,emiryumak,MIT,1131542,"Dvina's design kit for generated widgets: its tokens, one stylesheet for HTML and React, a small script, React components, and the composer of a saved widget's page."
+2026-10-13T20:30:59.34Z,@claritypropertyinvestmentsorg/property-mcp,0.1.1,claritypropertyinvestments,MIT,18347,"MCP server for Clarity Property Investments: UK buy-to-let data and deal checks for AI assistants, paid per call in USDC over x402."
+2026-10-13T20:31:31.898Z,@substrate-system/actor-typeahead,0.0.2,nichoth,MPL-2.0,131574,A small web component that progressively enhances an <input> element into an autocomplete for ATProto handles.
+2026-10-13T20:31:37.908Z,@drumee/infra-layer,0.1.0-alpha.1,somanos,AGPL-3.0-only,110322,IL-1 infrastructure contracts and Nginx gateway planning.
+2026-10-13T20:31:50.325Z,n8n-nodes-bridgly,0.1.1,deepak-sangle,MIT,456873,n8n community node for Bridgly: structured public data from social and developer platforms
+2026-10-13T20:32:07.448Z,dokuha-cli,0.1.0,golybidoof,MIT,1333835,"読破 (dokuha) — browserless CLI that downloads volumes from BookWalker, CMOA, ebookjapan, Kindle and k-manga, and can hand them to mokuro-bridge for OCR."
+2026-10-13T20:32:23.629Z,@flagtide/openfeature-web-provider,1.0.0,shnaps,MIT,15455,"OpenFeature web provider for flagtide: flags evaluated locally in the browser and kept current over a WebSocket, behind the vendor neutral OpenFeature API."
+2026-10-13T20:32:24.431Z,@try-works/tool-mode-extension-sdk,0.1.0,try-working,MIT,218089,"Author-facing SDK for Tool Mode extensions: TMX manifest schema, validation, lifecycle state and management errors"
+2026-10-13T20:32:40.817Z,@try-works/extension-desert-ant-tongue,0.1.0,try-working,MIT,17493,First-party Tool Mode extension implementing tool-mode/lang_detect on the Desert Ant Labs Tongue model
+2026-10-13T20:32:51.294Z,@try-works/extension-desert-ant-voz,0.1.0,try-working,MIT,19649,First-party Tool Mode extension implementing tool-mode/stt_transcribe on the Desert Ant Labs Voz speech model
+2026-10-13T20:34:02.604Z,@ask-loft/loft-darwin-arm64,2.0.1,askloft,Apache-2.0,4972611,The loft binary for darwin on arm64; install @ask-loft/loft instead.
+2026-10-13T20:34:06.247Z,@ask-loft/loft-darwin-x64,2.0.1,askloft,Apache-2.0,5327525,The loft binary for darwin on x64; install @ask-loft/loft instead.
+2026-10-13T20:34:09.746Z,@ask-loft/loft-linux-arm64,2.0.1,askloft,Apache-2.0,5616088,The loft binary for linux on arm64; install @ask-loft/loft instead.
+2026-10-13T20:34:09.83Z,@setu-ts/mail-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,556,"Email over log, SMTP, SES, or SendGrid, with a zero-dependency template engine"
+2026-10-13T20:34:13.389Z,@ask-loft/loft-linux-x64,2.0.1,askloft,Apache-2.0,6007730,The loft binary for linux on x64; install @ask-loft/loft instead.
+2026-10-13T20:34:16.259Z,netcup-sdk,0.1.0,gusnips,MIT,454894,Manage Netcup servers from JavaScript or TypeScript with the SCP REST API
+2026-10-13T20:34:17.154Z,@ask-loft/loft-win32-arm64,2.0.1,askloft,Apache-2.0,3785888,The loft binary for win32 on arm64; install @ask-loft/loft instead.
+2026-10-13T20:34:17.537Z,create-toto-app,0.1.0,totoluto,MIT,179081,"Scaffold a new toto-stack app: secure Express 5 + Prisma backend with auth/MFA/RBAC and a React client, pre-wired."
+2026-10-13T20:34:21.679Z,@ask-loft/loft-win32-x64,2.0.1,askloft,Apache-2.0,4506778,The loft binary for win32 on x64; install @ask-loft/loft instead.
+2026-10-13T20:34:21.894Z,@omni-gate/sdk-core,0.1.0,henry.feng,MIT,27891,Common HTTP client base for OmniGate backend service SDKs (axios + @ticatec/node-exception error mapping)
+2026-10-13T20:34:24.579Z,@ask-loft/loft,2.0.1,askloft,Apache-2.0,14350,"Author, check, format and publish a specification in the Loft Specification Format"
+2026-10-13T20:34:36.512Z,next-routed,1.0.0,slxca,MIT,83487,"Type-safe, composable API route handlers for the Next.js App Router"
+2026-10-13T20:34:38.902Z,@omni-gate/mail-sdk-api,0.1.0,henry.feng,MIT,24416,Backend SDK for sending mails through OmniMailService internal APIs
+2026-10-13T20:34:49.008Z,toto-stack,0.1.0,totoluto,MIT,643678,"Secure full-stack web app foundation: Express 5 + Prisma sessions, auth (password + TOTP MFA), RBAC, CSRF, rate limiting, user management, background jobs and extensible services."
+2026-10-13T20:35:06.811Z,@omni-gate/oss-sdk-api,0.1.0,henry.feng,MIT,26491,Backend HTTP SDK for OmniGate OSS service
+2026-10-13T20:35:10.267Z,@omni-gate/omni-sdk-api,0.1.0,henry.feng,MIT,43084,Backend HTTP SDK for OmniGate OmniPlatform Service
+2026-10-13T20:35:22.14Z,@omni-gate/runtime-asset-sdk-api,0.4.0,henry.feng,MIT,58559,Backend SDK for accessing OmniRuntimeAssetService internal APIs
+2026-10-13T20:35:35.529Z,@omni-gate/webhooks-sdk-api,0.1.0,henry.feng,MIT,43774,Client SDK for subscribing to OmniGate WebHook events via Redis Streams
+2026-10-13T20:35:37.272Z,sinatra.dev,0.0.1,bmsaadat,UNLICENSED,755,The command-line client for Sinatra (sinatra.dev). Not released yet.
+2026-10-13T20:36:15.303Z,roastduck,0.0.0,maxmilton,MIT,1303,WIP
+2026-10-13T20:36:31.004Z,@trizendigital/parkour,0.1.0,mrcollison,UNLICENSED,632873,"A deterministic third-person parkour runner for three.js: plug in your world, a physics engine backend and a figure."
+2026-10-13T20:36:38.586Z,@trizendigital/parkour-box3d,0.1.0,mrcollison,UNLICENSED,36604,The box3d physics engine backend for @trizendigital/parkour.
+2026-10-13T20:36:42.286Z,@trizendigital/parkour-rapier,0.1.0,mrcollison,UNLICENSED,13178,The Rapier physics engine backend for @trizendigital/parkour.
+2026-10-13T20:36:52.911Z,@trizendigital/parkour-demo,0.1.0,mrcollison,UNLICENSED,102047961,"The parkour demo: the game at parkour.trizen.dev with the Y Bot, its courses, the QA replay player, the benchmark, and the tools and tests behind @trizendigital/parkour."
+2026-10-13T20:36:53.112Z,@nolebase/vitepress-plugin-graph-view,2.21.0,nekomeowww,MIT,37386,A VitePress plugin that provides a graph view for your pages.
+2026-10-13T20:37:04.167Z,@gusnips/netcup,1.0.0,gusnips,MIT,2498,"Same package as netcup-sdk, under the @gusnips name. Installs netcup-sdk and re-exports all of it."
+2026-10-13T20:37:22.061Z,pi-adversarial-review,0.1.0,johnfink8,MIT,224862,An adversarial review gate for the pi coding agent: a panel of reviewer agents must clear the working tree before `git commit` runs.
+2026-10-13T20:38:02.223Z,@cucwd/frontend-plugin-account-custom-fields,1.0.0,sc.workforce.development,AGPL-3.0,132849,"Frontend plugin that adds custom account fields (ZIP code, ethnicity, employment, school enrollment, community) to the Open edX Account MFE through plugin slots."
+2026-10-13T20:38:06.749Z,@ohos-ports/plasmohq-parcel-optimizer-encapsulate,0.0.8-beta.0,lljry,MIT,3872,Plasmo ECMAScript Encapsulation for Extension
+2026-10-13T20:38:07.552Z,@instructure/ui-card,11.7.9,matyas.szabo,MIT,116999,"A basic wrapper component for grouping content with padding, border radius, shadow, and background."
+2026-10-13T20:39:12.969Z,macro-kernel-record-reader,1.0.0,robdotty,MIT,800,Generated package
+2026-10-13T20:39:17.035Z,@invonetwork/phaser,1.0.0,ourinvo,SEE LICENSE IN LICENSE,31566,"INVO game economy for Phaser 4: wallet, premium currency via INVO hosted checkout, item shop, soft-currency earnings and loyalty events, with a drop-in UI over your game canvas."
+2026-10-13T20:39:37.304Z,@invonetwork/three,1.0.0,ourinvo,SEE LICENSE IN LICENSE,30179,"INVO game economy for Three.js: wallet, premium currency via INVO hosted checkout, item shop, soft-currency earnings and loyalty events, with purchased items appearing in your 3D world and a drop-in…"
+2026-10-13T20:40:01.669Z,@sitesonar/client,0.1.0,etugrand,MIT,107367,"Typed client for the SiteSonar v2 API, generated from its OpenAPI schema"
+2026-10-13T20:40:15.999Z,@setu-ts/messaging-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,583,"Message broker over in-memory, Redis Streams, RabbitMQ, NATS, or Kafka, with request-reply"
+2026-10-13T20:40:31.257Z,string-target-mapper-hash,1.0.0,robdotty,MIT,790,Generated package
+2026-10-13T20:41:21.405Z,@setu-ts/metrics-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,568,"Prometheus counters, gauges, histograms, and summaries with built-in HTTP metrics"
+2026-10-13T20:41:54.494Z,deployai,0.0.1,yobotn,UNLICENSED,353,DeployAI CLI. Coming soon. https://deployai.co.il
+2026-10-13T20:42:24.412Z,@setu-ts/microservice-starter,0.0.0-bootstrap.0,dkpaul91,MIT,594,"createMicroserviceApp — REST plus messaging, queues, resilience, and telemetry"
+2026-10-13T20:42:36.011Z,fetch-hash-cache-atomic,1.0.0,robdotty,MIT,776,Generated package
+2026-10-13T20:42:36.989Z,@davidlee49/launchgate,0.5.0,dlee2812,MIT,53690,"A launch-gate library: hide work in progress, kill a shipped feature, no platform required."
+2026-10-13T20:43:18.585Z,erasabilize,0.1.1,lgarron,MPL-2.0,60082,Rewrite TypeScript to erasable syntax for `node` compat.
+2026-10-13T20:43:27.064Z,@setu-ts/multi-tenancy-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,596,"Tenant resolution by subdomain, header, path, or JWT, with schema/database/column isolation"
+2026-10-13T20:43:36.392Z,@kovo-security/cli,0.1.0,kovo-admin,SEE LICENSE IN LICENSE,1935146,Kovo's command-line client: `kovo deps check` judges a lockfile diff's changed and new dependency versions.
+2026-10-13T20:43:40.059Z,sillydev,1.0.0,gamer3514,MIT,506944,"JavaScript and TypeScript client, CLI and MCP server for the Silly Development panel API."
+2026-10-13T20:43:57.167Z,astrarch,0.0.1-preview.0,pky562,MIT,6819,"Astrarch: an orchestrator Agent that runs and governs a fleet of coding agents on your own subscriptions. This version provides `astrarch doctor`, a machine readiness check."
+2026-10-13T20:44:02.005Z,juce-sdk,1.0.0,bizskool,MIT,130933,Jūce Mobile SDK - Battery health monitoring for React Native
+2026-10-13T20:44:29.717Z,@setu-ts/notification-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,573,"Email, SMS, push, and Slack notifications over one injectable HTTP seam"
+2026-10-13T20:45:32.885Z,@setu-ts/openapi-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,559,"OpenAPI 3.1 generated from routes, with a Zod transformer and Swagger UI"
+2026-10-13T20:45:36.094Z,opencode-quota-board,0.1.0,gilvex,MIT,53967,Provider quotas and balances for OpenCode V2
+2026-10-13T20:45:42.386Z,rawstate-core,1.0.0,nullselbst,Apache-2.0,228926,"Raw state, kept honest: plain data with types, atomic transactions, relations and rules, and checked borders. No dependencies, about 9 KB gzipped."
+2026-10-13T20:45:57.735Z,@davidlee49/components,0.1.2,dlee2812,MIT,33754,"React component families, installed from a GitHub tag. First family: page-tabs, a row of resizable, reorderable panels."
+2026-10-13T20:46:16.677Z,pippo-mascot,0.1.0,rajdevxd,MIT,21286,An interactive character that watches the cursor and blinks when you poke it.
+2026-10-13T20:46:22.618Z,@corpussanctum/atlas-mcp,0.1.0,corpussanctum,Apache-2.0,86760,"Pre-action authorization for AI agents, as an MCP server. Permit / deny / escalate against a signed delegation chain, with post-quantum signed receipts."
+2026-10-13T20:46:35.68Z,@setu-ts/queue-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,562,"Background jobs over memory, Redis, or RabbitMQ, with retries and cron scheduling"
+2026-10-13T20:46:55.737Z,create-pluginlabs,0.0.0,pluginlabs-bot,ISC,304,Start a PluginLabs plugin. First release coming soon.
+2026-10-13T20:46:55.801Z,rawstate-react,1.0.0,nullselbst,Apache-2.0,31440,"React bindings for rawstate: hooks for states, collections and views, store scopes for SSR and tests. Under 1 KB gzipped."
+2026-10-13T20:47:03.424Z,rawstate-idb,1.0.0,nullselbst,Apache-2.0,65862,"Saves a rawstate store to IndexedDB, loads it at start and keeps browser tabs in sync. Atomic writes, versions and migrations. About 3 KB gzipped."
+2026-10-13T20:47:10.693Z,rawstate-devtools,1.0.0,nullselbst,Apache-2.0,44678,"Devtools for rawstate: every commit with its origin, time travel, a panel in the page and a bridge to the Redux DevTools extension. Nothing in production. About 3 KB gzipped."
+2026-10-13T20:47:28.988Z,@notrealstudio/keymap,0.1.0,juliangarrettblues,MIT,25094,"Hot keys as data: a table of bindings in layers (scheme → plugins → user overrides), chords by physical key (any keyboard layout), `when` contexts, collisions, hints for tooltips. Zero dependencies,…"
+2026-10-13T20:47:38.317Z,@setu-ts/react-router-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,573,"React Router v7 framework-mode SSR with file-based routing, as a plugin"
+2026-10-13T20:47:38.54Z,expo-liquid-glass-ui-android,0.1.0,aboodyalaze,MIT,178744,"Native Liquid Glass components for Expo on Android: GlassView, GlassButton, GlassCard, GlassSwitch, GlassSlider, GlassSheet, GlassMenu"
+2026-10-13T20:47:54.069Z,@vaernjs/vaern,0.0.1,administrator_devlogix,MIT,18800,"Vaern — an agent-native JavaScript & TypeScript runtime with capability sandboxing, deterministic replay and sovereignty enforcement."
+2026-10-13T20:48:33.971Z,@notrealstudio/speak,0.1.0,juliangarrettblues,MIT,242062,"Текст → речь: движки за одним интерфейсом (Gemini TTS в Vertex и AI Studio, Google Chirp 3 HD, Microsoft Edge read-aloud, любой OpenAI-совместимый /v1/audio/speech), каталог голосов с резолвом коротк…"
+2026-10-13T20:48:36.506Z,@faqir-ui/template,1.2.5,narcis75..gmail.com,MIT,271102,"Zero-dependency, isomorphic Faqir template language: manifest-checked component calls, context escaping, audit-clean output"
+2026-10-13T20:48:41.091Z,@setu-ts/realtime-backplane-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,598,Cross-replica fan-out so WebSocket rooms and SSE channels reach every instance
+2026-10-13T20:49:43.802Z,@setu-ts/resilience-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,572,"Circuit breaker, retry, timeout, and bulkhead composed around any async call"
+2026-10-13T20:50:39.484Z,@basicrum/basicrum-astro,0.1.2,ceckoslab,MIT,160081,Basicrum real user monitoring for Astro with non-consent and consent-controlled loaders.
+2026-10-13T20:50:46.777Z,@setu-ts/rest-starter,0.0.0-bootstrap.0,dkpaul91,MIT,563,createRestApp — a pre-wired REST plugin set with per-plugin option arms
+2026-10-13T20:51:45.93Z,@gametorch/ibh,0.1.0,gametorch-owner,MIT,668378,ibh — the application-agnostic in-browser agent harness. Drop-in on any site; every action is gated by an explicit capability manifest.
+2026-10-13T20:51:47.603Z,@broberg/editor,0.0.1,cbroberg,MIT,1247,"PLACEHOLDER — not functional yet. Reserves the name for the fleet's shared WYSIWYG editor on TipTap (headless core + React/Preact adapters; epic F101, docs/features/F101-editor.md in broberg-ai/compo…"
+2026-10-13T20:51:47.949Z,@gametorch/ibh-angular,0.1.0,gametorch-owner,MIT,15225,Angular bindings for ibh — a drop-in <ibh-chat> in-browser agent component gated by a capability manifest.
+2026-10-13T20:51:49.786Z,@setu-ts/runtime,0.0.0-bootstrap.0,dkpaul91,MIT,547,"Runtime services and HTTP adapters for Node.js, Deno, Bun, and Cloudflare Workers"
+2026-10-13T20:51:49.793Z,@gametorch/ibh-react,0.1.0,gametorch-owner,MIT,11946,React bindings for ibh — a drop-in <IbhChat /> in-browser agent component gated by a capability manifest.
+2026-10-13T20:51:51.879Z,@gametorch/ibh-solid,0.1.0,gametorch-owner,MIT,13066,"SolidJS bindings for ibh — a drop-in <IbhChat /> component and use:ibhChat directive, gated by a capability manifest."
+2026-10-13T20:51:54.331Z,@gametorch/ibh-svelte,0.1.0,gametorch-owner,MIT,12692,"Svelte 5 bindings for ibh — a drop-in <IbhChat /> component and use:ibhChat action, gated by a capability manifest."
+2026-10-13T20:51:55.897Z,@gametorch/ibh-vue,0.1.0,gametorch-owner,MIT,15571,Vue 3 bindings for ibh — a drop-in <IbhChat /> in-browser agent component gated by a capability manifest.
+2026-10-13T20:52:25.651Z,@the-a2ui/renderer,0.1.0,doanhtu07,MIT,310271,React Native A2UI renderer
+2026-10-13T20:52:28.944Z,@companion-app/satellite-protocol,0.1.0,julusian,MIT,66536,Wire protocol definitions for the Bitfocus Companion Satellite API
+2026-10-13T20:52:52.553Z,@setu-ts/scheduler-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,550,"Cron, interval, and delayed jobs with distributed locking"
+2026-10-13T20:53:53.527Z,@localizify/cli,1.0.0,localizify,MIT,11615,"Localizify CLI: push source strings, AI-translate, pull translation files"
+2026-10-13T20:53:55.343Z,@setu-ts/sdk,0.0.0-bootstrap.0,dkpaul91,MIT,538,"Portable HTTP client with retry, circuit breaker, rate limiting, and OpenAPI codegen"
+2026-10-13T20:54:08.437Z,hookmcp-mcp,0.1.0,hookmcp,MIT,16401,"Read-only MCP server to search the HookMCP directory of 800+ MCP servers and get ready-to-paste configs for Claude Desktop, Cursor, VS Code and Claude Code."
+2026-10-13T20:54:13.489Z,milestack,0.1.0,superyang666,Apache-2.0,839543,Local-first project progress and task context database shared by developers and coding agents.
+2026-10-13T20:54:49.941Z,sumo-agents,0.1.0,sumododda,MIT,716748,One repo you talk to: a local memory engine and working process for coding agents.
+2026-10-13T20:54:58.031Z,@setu-ts/secrets-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,569,"Secrets over env, AWS KMS, GCP Secret Manager, Azure Key Vault, or HashiCorp Vault"
+2026-10-13T20:56:00.882Z,@setu-ts/service-discovery-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,614,"Service discovery over static config, Consul, Kubernetes, or DNS-SRV, with balancing and ejection"
+2026-10-13T20:56:47.777Z,@gacpro/cli,0.0.0,channelmatter,,187,Reserved for GAC Pro
+2026-10-13T20:57:01.209Z,@gjermundgaraba-designs/pixel-paper,0.11.0,bjaanes,MIT,2166167,
+2026-10-13T20:57:03.907Z,@setu-ts/session-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,567,Encrypted cookie sessions with pluggable stores and synchronizer-token form CSRF
+2026-10-13T20:57:42.984Z,@ohos-ports/pact-foundation-pact-node,10.18.0-beta.0,lljry,MIT,42968654,Core of @pact-foundation/pact. You almost certainly don't want to depend on this directly.
+2026-10-13T20:57:56.665Z,@kirchdev/duxt-typesense,0.1.0,tituskirch,MIT,19126,Opt-in Typesense search and build-time synchronization for duxt.
+2026-10-13T20:58:06.727Z,@setu-ts/sse-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,550,"Server-Sent Events with named channels, heartbeat, and Last-Event-ID replay"
+2026-10-13T20:58:08.707Z,@kirchdev/duxt-meilisearch,0.1.0,tituskirch,MIT,25340,Opt-in Meilisearch search and atomic build-time synchronization for duxt.
+2026-10-13T20:58:33.197Z,@lamalibre/feria,0.3.0,code.lama,PolyForm-Noncommercial-1.0.0,386098,"Feria core library — types, schemas, and server domain logic"
+2026-10-13T20:58:51.449Z,@lamalibre/feria-server-ui,0.3.0,code.lama,PolyForm-Noncommercial-1.0.0,806288,Feria server UI — host-agnostic Svelte components and SPA build
+2026-10-13T20:58:54.189Z,@lamalibre/feria-serverd,0.3.0,code.lama,PolyForm-Noncommercial-1.0.0,166243,Feria server REST daemon — Fastify host for the dev registry and release artefact store
+2026-10-13T20:58:56.956Z,@lamalibre/feria-server,0.3.0,code.lama,PolyForm-Noncommercial-1.0.0,155978,"Feria server operational CLI (thin, no Fastify)"
+2026-10-13T20:59:00.577Z,@lamalibre/create-feria,0.3.0,code.lama,PolyForm-Noncommercial-1.0.0,758295,Zero-prompt npx installer for Feria — server provisioner
+2026-10-13T20:59:09.612Z,@setu-ts/static-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,571,"Static files with conditional requests, Range, precompressed sidecars, and SPA fallback"
+2026-10-13T20:59:15.832Z,@rooagi/membrick-linux-x64-gnu,0.4.0,rooagidev,Apache-2.0,65059089,Membrick's Rust MemoryService binding and CLI for Node.js
+2026-10-13T20:59:25.033Z,@rooagi/membrick-linux-arm64-gnu,0.4.0,rooagidev,Apache-2.0,60206700,Membrick's Rust MemoryService binding and CLI for Node.js
+2026-10-13T20:59:32.846Z,@rooagi/membrick-darwin-x64,0.4.0,rooagidev,Apache-2.0,58422756,Membrick's Rust MemoryService binding and CLI for Node.js
+2026-10-13T20:59:39.901Z,@rooagi/membrick-darwin-arm64,0.4.0,rooagidev,Apache-2.0,53974151,Membrick's Rust MemoryService binding and CLI for Node.js
+2026-10-13T20:59:47.256Z,@rooagi/membrick-win32-x64-msvc,0.4.0,rooagidev,Apache-2.0,51312402,Membrick's Rust MemoryService binding and CLI for Node.js
+2026-10-13T20:59:49.894Z,@toko-cloud/cli,0.1.0-beta.1,jigsawye,,279939,Run the toko tenant CLI with npx.
+2026-10-13T21:00:00.589Z,membrick,0.4.0,rooagidev,Apache-2.0,114391612,Membrick's Rust MemoryService binding and CLI for Node.js
+2026-10-13T21:00:10.392Z,wuira,0.1.0,stellayazilim,MIT,71331,TypeScript and JSX UI framework and addon CLI for WoW Forever
+2026-10-13T21:00:12.66Z,@setu-ts/storage-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,562,"Object storage over S3, B2, GCS, Azure Blob, local, or memory, with uploads"
+2026-10-13T21:00:18.221Z,@gjermundgaraba-designs/plain-garden,0.7.0,bjaanes,MIT,461506,
+2026-10-13T21:00:31.682Z,wobbl,0.1.0,sohan-bhat,MIT,31687,Simulate anything before you build it. Runs the Wobbl CLI and MCP server with npx.
+2026-10-13T21:00:37.105Z,@gjermundgaraba-designs/plain-main,0.7.0,bjaanes,MIT,431204,
+2026-10-13T21:00:39.879Z,@gjermundgaraba-designs/simple-rat,0.7.0,bjaanes,MIT,181762,
+2026-10-13T21:01:15.863Z,@setu-ts/telemetry-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,569,OpenTelemetry tracing with W3C propagation and optional auto-instrumentation
+2026-10-13T21:01:29.078Z,n8n-nodes-hazelchat,0.1.0,hazelchat,MIT,33675,"Hazelchat nodes for n8n: start a workflow when a visitor leaves an enquiry with your Hazelchat website agent, or read recent enquiries."
+2026-10-13T21:02:19.026Z,@setu-ts/testing,0.0.0-bootstrap.0,dkpaul91,MIT,531,"Test app factory, mock plugins, and request injection for Setu-TS"
+2026-10-13T21:03:09.638Z,@first-ledger/nu-client,1.0.4-b.10,ajkagy,MIT,977200,A newly designed and optimized client plugin for interacting with the XRP Ledger.
+2026-10-13T21:03:21.712Z,@setu-ts/validation-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,563,"Zod-based validation with RFC 9457, NestJS, or default error shapes"
+2026-10-13T21:04:25.061Z,@setu-ts/view-plugin,0.0.0-bootstrap.0,dkpaul91,MIT,564,"Server-rendered HTML: view engines for JSX and html-tag components, named by reference"
+2026-10-13T21:06:35.314Z,@towerism/selfhost-kit,0.0.0,mfracker,MIT,348,Placeholder that bootstraps npm trusted publishing. Use >=0.1.0.
+2026-10-13T21:06:44.243Z,azure-vm-pricing-mcp,0.1.0,vdionisopoulos,MIT,23427,"MCP server for Azure VM sizes and prices: find the cheapest VM for your requirements, estimate monthly cost with reservations, compare sizes and regions. Weekly data from cld2day.com."
+2026-10-13T21:07:14.041Z,@ohos-ports/prettier-plugin-ruby,4.0.4-beta.0,lljry,MIT,88158,prettier plugin for the Ruby programming language
+2026-10-13T21:07:46.214Z,@corescense/cowcat,0.3.1,corescense,MIT,154837,CowCat — a minimal Claude-Code-style CLI coding agent for domestic (China) LLM providers
+2026-10-13T21:08:54.07Z,@3akhp/prts-mcp-linux-x64,3.0.0-alpha.1,3akhp,MIT,60346547,PRTS-MCP native Rust payload (linux-x64)
+2026-10-13T21:09:14.976Z,@3akhp/prts-mcp-linux-arm64,3.0.0-alpha.1,3akhp,MIT,58207704,PRTS-MCP native Rust payload (linux-arm64)
+2026-10-13T21:09:17.153Z,meebly,1.0.0,meebly,MIT,177013,Meebly CLI for authentication and agent management
+2026-10-13T21:09:20.935Z,form-honeypot-guard,1.0.0,mrlouiswright,MIT,85698,"Block form spam bots without a captcha: honeypot + signed timing tokens + JS proof + rate limiting. Webpack 5 and Vite plugins, a <2 kB client, and Express, Fastify, Next.js and Fetch API (Netlify/Ve…"
+2026-10-13T21:10:04.881Z,opencode-followups,0.1.0,mv2a,MIT,25357,OpenCode v2 TUI plugin: suggests 3-5 next prompts after every assistant turn
+2026-10-13T21:10:05.134Z,@forumulate/embed,1.0.0,thinklikeajew,MIT,103148,"Add Forumulate comments, search, changelog and content to any website: Web Components, mount functions and a typed client for the public read API."
+2026-10-13T21:10:17.219Z,ultimate-brain,0.1.1,superuser-sentina,MIT,369173,CLI for an AI-assisted Markdown and Git second brain
+2026-10-13T21:10:54.25Z,@ilmak17/speko-takehome,0.1.0,ilmak17,UNLICENSED,54536477,"Local CLI for the speko TTS router take-home: offline demo, local router, TTS and metrics clients, saved benchmark reports."
+2026-10-13T21:11:02.62Z,@3akhp/prts-mcp-windows-x64,0.0.0-stage,3akhp,,349,Temporary package placeholder for staged publishing
+2026-10-13T21:11:03.09Z,bitbucket-dc-axi,0.0.0-stage,postpersonality,,338,Temporary package placeholder for staged publishing
+2026-10-13T21:11:38.806Z,@sumirati/mcp-gitlab,1.0.0,sumirati,MIT,64935,Model Context Protocol (MCP) server for GitLab API v4
+2026-10-13T21:11:45.647Z,@3akhp/prts-mcp-darwin-arm64,0.0.0-stage,3akhp,,350,Temporary package placeholder for staged publishing
+2026-10-13T21:11:52.553Z,@3akhp/prts-mcp-darwin-x64,0.0.0-stage,3akhp,,348,Temporary package placeholder for staged publishing
+2026-10-13T21:12:12.569Z,@flowscripter/io-gateway-http,0.0.0,vectronic,MIT,61136,Local HTTP gateway serving pluggable-io-framework IOProvider locations to tools that only speak HTTP
+2026-10-13T21:12:20.927Z,@3akhp/prts-mcp-data,0.0.0-stage,3akhp,,342,Temporary package placeholder for staged publishing
+2026-10-13T21:12:24.686Z,@3akhp/prts-mcp-runtime,0.0.0-stage,3akhp,,345,Temporary package placeholder for staged publishing
+2026-10-13T21:12:27.244Z,prts-mcp,0.0.0-stage,3akhp,,330,Temporary package placeholder for staged publishing
+2026-10-13T21:12:58.006Z,@mairwunnx/minecraft-mcp,2.0.0,mairwunnx,MIT,446260,MCP server that lets AI agents read and manage a Minecraft server through WorldAPI
+2026-10-13T21:13:38.063Z,@civicfs/wigwag,0.0.0-stage,civicfs,,337,Temporary package placeholder for staged publishing
+2026-10-13T21:14:16.25Z,@qartisan/playwright-loupe,0.0.1,gcapdivila,MIT,117322,"Loupe — a clear, insightful HTML reporter for Playwright: project overview, history, flakiness and error categories, using native Playwright APIs only."
+2026-10-13T21:15:18.935Z,@application-kit/security,0.1.0,uwl,MIT,19084,"Примитивы безопасности без доменных понятий: одноразовый секрет (выпуск, хеш, сверка постоянным временем, годность), TOTP по RFC 6238 с защитой от повтора, AES-256-GCM для коротких строк, QR в data-U…"
+2026-10-13T21:16:32.931Z,@rootcat/node,0.1.0,guchu,Apache-2.0,266121,"Zero-code OpenTelemetry tracing for Node services that report to the Rootcat host agent, with the line of application code behind every database and HTTP client span."
+2026-10-13T21:16:44.826Z,agentlane,0.0.0-stage,north-star-hq,,331,Temporary package placeholder for staged publishing
+2026-10-13T21:17:02.128Z,houden-kit,0.0.0-stage,giacomeli.dev,,332,Temporary package placeholder for staged publishing
+2026-10-13T21:17:06.102Z,@kalyptos/narcissus,0.0.0,kalyptos-main,BSD-3-Clause,244958,"A WebGPU engine and tools for Guldmund Trees, streamed gaussian-splat scenes"
+2026-10-13T21:18:36.841Z,brag-scaled,0.0.0-stage,bhavya-dhoot,,333,Temporary package placeholder for staged publishing
