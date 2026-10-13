@@ -1,0 +1,110 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-13T00:14:23.9Z,@just-every/spool,0.1.0,zemaj,MIT,373144,"Send JavaScript errors from browsers, Node and Cloudflare Workers to your own Spool installation."
+2026-10-13T00:16:49.507Z,@magnaboy/aws-sigv4,0.0.1,gc,,62611,
+2026-10-13T00:16:57.593Z,@magnaboy/cli-linux,0.0.1,gc,,70912,
+2026-10-13T00:19:05.793Z,@firfi/unii,0.1.0,firfi,MIT,58723,Independent UNII memory core with caller-owned compression and storage
+2026-10-13T00:19:49.898Z,tailwind-react-music-player,5.0.1,alifeinbinary,MIT,147371,"Accessible, themeable HTML5 music player component for React, styled with Tailwind CSS"
+2026-10-13T00:20:48.364Z,@postline/sdk,0.1.0,nzklabs,UNLICENSED,4199,Reads a Postline project's published articles.
+2026-10-13T00:21:06.391Z,@postline/next,0.1.0,nzklabs,UNLICENSED,10113,"Postline for the Next.js App Router: webhook, cache tags, health."
+2026-10-13T00:21:10.462Z,@postline/cli,0.1.0,nzklabs,UNLICENSED,29003,Installs Postline in a Next.js App Router project.
+2026-10-13T00:21:37.788Z,@seed-hypermedia/ui,0.1.0,ericvicenti,Apache-2.0,97836,Shared Seed Hypermedia React components and design tokens
+2026-10-13T00:21:46.486Z,@tangen/connectors-google,0.3.10,raghunathj,MIT,42399,"The Google connector pack for Tangen: one Google connection, Sheets and Search Console capabilities, typed services and Flow actions. Tangen ships no connectors of its own - install the providers you…"
+2026-10-13T00:21:49.231Z,@tangen/connectors-resend,0.1.1,raghunathj,MIT,23610,"The Resend connector pack for Tangen: an email sending connection an operator manages, a verified-domain picker, a typed email service, a Flow action and a form destination. Tangen ships no connector…"
+2026-10-13T00:21:51.608Z,@tangen/connectors-slack,0.1.7,raghunathj,MIT,26470,"The Slack connector pack for Tangen: one Slack workspace connection by OAuth or by bot token, channel picking, a typed chat service and a Flow action. Tangen ships no connectors of its own - install…"
+2026-10-13T00:21:53.844Z,@tangen/connectors-smtp,0.1.1,raghunathj,MIT,27855,"The SMTP connector pack for Tangen: send email through any SMTP server as a connection an operator manages, with a typed email service, a Flow action and a form destination. Tangen ships no connector…"
+2026-10-13T00:21:55.945Z,@tangen/ext-auth,0.2.1,raghunathj,MIT,151874,"Site users for a Tangen site: email and password, one-time codes by email or SMS, SSO (Google, GitHub, any OpenID Connect provider), anonymous sessions, profile fields, and the admin to manage them"
+2026-10-13T00:21:58.499Z,@tangen/ext-flows,0.2.1,raghunathj,MIT,330537,"Tangen Flows — Shopify-Flow-style automations: trigger, conditions, actions, run logs. No developer required."
+2026-10-13T00:22:01.617Z,@tangen/ext-forms,0.2.1,raghunathj,MIT,376174,"Forms for a Tangen site: a builder, public embeds, headless schema and submit routes, submissions, notifications, webhooks, spam protection and localization"
+2026-10-13T00:22:04.445Z,@tangen/ext-notes,0.2.1,raghunathj,MIT,14980,"Editor notes for Tangen: internal, per-entry notes for the people who work on the content - never delivered to a site"
+2026-10-13T00:22:07.318Z,@tangen/ext-seo,0.2.1,raghunathj,MIT,367814,"Production SEO for a Tangen site: metadata, canonical URLs, robots, sitemaps, redirects and structured data"
+2026-10-13T00:22:09.463Z,@tangen/icons,0.0.26,raghunathj,MIT,71197,The icon set the Tangen Admin renders. Internal to the platform
+2026-10-13T00:22:11.585Z,@tangen/realtime,0.1.5,raghunathj,MIT,66157,"The Tangen realtime client - lazy, one multiplexed connection per tab, WebSocket with automatic SSE fallback, reconnect with cursor resume. Framework-neutral; depends on @tangen/sdk for auth and base…"
+2026-10-13T00:22:13.943Z,@tangen/realtime-react,0.1.3,raghunathj,MIT,14915,"React bindings for @tangen/realtime - a provider, useRealtime, useRealtimeStatus, useRealtimeEvent, usePresence and usePresenceSelector. Selector-based, so a component re-renders only when its slice…"
+2026-10-13T00:22:16.082Z,@tangen/realtime-admin,0.1.4,raghunathj,MIT,25010,"Realtime for the Tangen admin, Studio and admin-facing extensions: per-environment clients over @tangen/realtime and the useRealtime React hook. Builds on the primitive; never a second transport."
+2026-10-13T00:22:18.424Z,@tangen/studio-schema,0.1.2,raghunathj,MIT,252118,"The canonical Tangen Studio contract - page/block/component schema, style values, style properties, tokens and breakpoints. Depends on nothing: every other Studio package reads this, so it can never…"
+2026-10-13T00:22:20.481Z,@tangen/studio-compiler,0.1.2,raghunathj,MIT,116503,"Turns a Tangen Studio page schema into published artifacts - stylesheets today, runtime manifests next. Framework-free: compilation happens on a server, never in the visitor's browser."
+2026-10-13T00:22:22.985Z,@tangen/types,0.2.0,raghunathj,MIT,1392677,Type definitions and config helpers for the Tangen headless CMS
+2026-10-13T00:22:26.276Z,@tangen/db,0.1.54,raghunathj,MIT,428248,Database client and system schema (Drizzle + postgres.js) for the Tangen headless CMS
+2026-10-13T00:22:30.18Z,@tangen/graphql,0.1.25,raghunathj,MIT,68521,GraphQL API for Tangen CMS — a schema generated from your content model. Optional: install only when you enable GraphQL.
+2026-10-13T00:22:32.59Z,@tangen/helpers,0.1.21,raghunathj,MIT,9134,"Request, response, and validation helpers for Tangen custom routes"
+2026-10-13T00:22:33.809Z,@gitmyabi/aavediscountrateagent,1.0.0,gitmyabi-bot,MIT,47094,"Auto-generated TypeScript type bindings for AaveDiscountRateAgent (build etherscan-aavediscountrateagent-529e2374-1791850933504, commit c0882f6, branch etherscan)"
+2026-10-13T00:22:34.864Z,@tangen/knowledge,0.1.24,raghunathj,MIT,50841,"Knowledge (RAG) for Tangen CMS — embeddings, semantic search, ask-with-citations. Optional: install only when you enable knowledge."
+2026-10-13T00:22:36.979Z,@tangen/knowledge-pdf,0.1.21,raghunathj,MIT,2732,PDF text extraction for the Tangen knowledge base — plugs into KnowledgeConfig.extractors. Install only if you index PDF documents.
+2026-10-13T00:22:39.301Z,@tangen/logging,0.0.24,raghunathj,MIT,11970,"Structured logging with redaction, used across the Tangen platform. Internal to the platform"
+2026-10-13T00:22:42.287Z,@tangen/mcp,0.1.24,raghunathj,MIT,36756,MCP (Model Context Protocol) server for Tangen CMS — agent-operable content tools. Optional: install only when you enable MCP.
+2026-10-13T00:22:44.381Z,@tangen/porter,0.1.3,raghunathj,MIT,27865,"Porter - data movement for Tangen CMS: promote, export/import bundles, remote transfer. A porter carries your goods safely between places."
+2026-10-13T00:22:47.262Z,@tangen/schema,0.1.43,raghunathj,MIT,127613,"Schema definition helpers (defineType, fields) for Tangen content models"
+2026-10-13T00:22:50.216Z,@tangen/api,0.2.1,raghunathj,MIT,3123166,"The Tangen API server - createServer, the REST surface, and the runtime capability registry"
+2026-10-13T00:22:52.858Z,@tangen/cli,0.2.1,raghunathj,MIT,833271,"Tangen CLI — push schemas, scaffold workspaces, generate types"
+2026-10-13T00:22:57.224Z,@tangen/extension-testkit,0.2.0,raghunathj,MIT,25186,"Test an extension against the real Tangen kernel: a ctx built from its grants, fake peers, contribution assertions."
+2026-10-13T00:22:59.386Z,@tangen/sdk,0.1.45,raghunathj,MIT,87366,"TypeScript SDK for querying content, globals, and search from a Tangen CMS API"
+2026-10-13T00:23:01.56Z,@tangen/astro,0.1.3,raghunathj,MIT,2252,Astro integration for Tangen - SSR timings middleware for the Tangen Toolbar
+2026-10-13T00:23:04.098Z,@tangen/nextjs,0.1.23,raghunathj,MIT,9888,Next.js integration helpers for Tangen — draft-mode preview handler
+2026-10-13T00:23:06.603Z,@tangen/toolbar,0.1.11,raghunathj,MIT,82135,"Floating Tangen toolbar for site frontends - page vitals, SDK request timings, console capture and edit-this-page. Optional: install only on sites that want the dev toolbar."
+2026-10-13T00:23:09.353Z,@tangen/ui,0.2.1,raghunathj,MIT,177473,Shared UI component library for Tangen admin and apps
+2026-10-13T00:23:12.849Z,@tangen/admin,0.2.1,raghunathj,MIT,2533675,The Tangen Admin application - the content editing UI a Tangen project serves
+2026-10-13T00:27:53.602Z,@kya-brasil/agent-tools,0.1.0,marcelfons,MIT,28149,"KYA Brasil for AI agents: verify that an agent acts for a Brazilian company (e-CNPJ-signed, KYB-checked credential), check an action against its mandate, or give your own agent a credential. x402 pay…"
+2026-10-13T00:28:37.531Z,@archymedes/cli-darwin-arm64,3.0.0,chrisnk1,Apache-2.0,12944249,The Archymedes CLI interface for darwin-arm64. Installed by archymedes-cli; not meant to be installed directly.
+2026-10-13T00:28:44.533Z,@archymedes/cli-darwin-x64,3.0.0,chrisnk1,Apache-2.0,13568945,The Archymedes CLI interface for darwin-x64. Installed by archymedes-cli; not meant to be installed directly.
+2026-10-13T00:28:53.389Z,@archymedes/cli-linux-arm64,3.0.0,chrisnk1,Apache-2.0,12792166,The Archymedes CLI interface for linux-arm64. Installed by archymedes-cli; not meant to be installed directly.
+2026-10-13T00:29:00.825Z,@archymedes/cli-linux-x64,3.0.0,chrisnk1,Apache-2.0,13414752,The Archymedes CLI interface for linux-x64. Installed by archymedes-cli; not meant to be installed directly.
+2026-10-13T00:29:08.375Z,@archymedes/cli-win32-arm64,3.0.0,chrisnk1,Apache-2.0,12971204,The Archymedes CLI interface for win32-arm64. Installed by archymedes-cli; not meant to be installed directly.
+2026-10-13T00:29:15.476Z,@archymedes/cli-win32-x64,3.0.0,chrisnk1,Apache-2.0,13829310,The Archymedes CLI interface for win32-x64. Installed by archymedes-cli; not meant to be installed directly.
+2026-10-13T00:29:19.238Z,@crostream/widget-runtime,0.1.0,crothers,Apache-2.0,417268,"The CroStream widget runtime: the sandboxed frame, the host library, the renderer, the sl API model and the checks for .csw widgets."
+2026-10-13T00:31:37.641Z,@railgrid/auth-node,0.1.1,crwilhit,Apache-2.0,23340,Server-side Railgrid Auth identity verification for Node.js applications
+2026-10-13T00:36:19.929Z,@leocavalcante/pi-tmux,0.1.1,leocavalcante,MIT,323345,"Name your tmux window from your current Pi task and active session history with a short, lowercase AI summary."
+2026-10-13T00:36:56.271Z,@ascenda-one/agent-events,0.1.35,ascenda-one-com,Apache-2.0,27027,Experimental v0 event contract for coding-agent activity: a JSON Schema and TypeScript types for the events Ascenda's collectors write locally.
+2026-10-13T00:37:30.001Z,unmedia,0.0.0,demomacro,ISC,220,
+2026-10-13T00:39:10.101Z,hooksentinel,1.0.0,trgaming39,MIT,22796,Developer Webhook Replay & DLQ Backup Proxy CLI — Zero-config webhook forwarding and tunneling for localhost
+2026-10-13T00:39:32.257Z,master-duel-ai-advisor,0.3.0,duelist01,Apache-2.0,925910,"Yu-Gi-Oh! Master Duel deckbuilding tools for AI assistants: card lookup, rarity and banlist, as an MCP server and a Claude skill"
+2026-10-13T00:40:32.697Z,unpalette,0.0.0,demomacro,ISC,222,
+2026-10-13T00:41:25.856Z,@theholocron/holocron-plugin-checkly,2.0.0-alpha.1,thenewton,MIT,13063,"Holocron plugin for Checkly. Implements the monitoring capability against Checkly's REST API, plus exports verifyToken + AUTH_HINT for `holocron auth`."
+2026-10-13T00:41:29.732Z,create-vitul-app,0.2.0,litevar,Apache-2.0 OR MIT,1029,Create a Vitul application
+2026-10-13T00:41:55.128Z,@mauriciosec/pi-ctf,1.0.1,mauriciosec,MIT,403648,"High-velocity Jeopardy CTF solving framework for Pi: native pwn MCP, instant triage, 7 category playbooks, auto flag detection, subagents, goal loop & MCP adapter."
+2026-10-13T00:44:15.48Z,pi-turn-stats,0.1.1,leilei12138235,MIT,206264,"Pi extension: /turns viewer and get_turn_stats tool for per-prompt model, cost, and processing-time statistics in the current session branch."
+2026-10-13T00:44:28.556Z,@litevar/vitul,0.2.0,litevar,Apache-2.0 OR MIT,1199,Vitul CLI for creating and building Vitul applications
+2026-10-13T00:45:30.092Z,cortexdb-dsh-memory,2.125.0,cy_li,MIT,42763,"CortexDB memory for DeepSeek Harness: recall before each prompt, session capture, and memory tools over the CortexDB gRPC sidecar"
+2026-10-13T00:47:32.011Z,@wireio/ql-shared,0.1.2,wn-user,,1269117,"WIRE QL shared core: query-engine protocol, client, values, paging, renderers, grammar tooling, catalog, profiles and file stores"
+2026-10-13T00:47:38.807Z,@wireio/ql-tool-cli,0.1.2,wn-user,,28947276,WIRE QL command line (wql / wire-ql) and terminal workbench (wire-ql-tui) for the node query engine
+2026-10-13T00:48:25.91Z,@junejs/pdf,0.1.0-dev.0,linyiru,MIT,43755,June — PDF output as an agent capability: a render_pdf tool over a replaceable PdfRenderer (Typst on WebAssembly by default).
+2026-10-13T00:50:07.472Z,@lef237/hagumi,0.1.0,lef237,MIT,164442,"A small, playful coding partner that grows with you."
+2026-10-13T00:51:06.267Z,vue-components-mkay,0.0.1,jonathan-martz,MIT,881,Vue Components by Jonny M
+2026-10-13T00:52:02.82Z,@gitmyabi/evc,1.0.0,gitmyabi-bot,MIT,75658,"Auto-generated TypeScript type bindings for EVC (build etherscan-evc-b62d18de-1791852699076, commit 1a85936, branch etherscan)"
+2026-10-13T00:56:51.157Z,breakhound,0.1.1,kwy404,MIT,356783,"Find bugs in any JavaScript or TypeScript library automatically, no tests required: breakhound reads the TypeScript types, generates edge case inputs (time zones, unicode, -0, NaN), runs every export…"
+2026-10-13T00:59:23.854Z,@openvideomenu/core,1.0.0-preview.1,tyson133,Apache-2.0,293833,"Parse, validate, resolve and navigate Open Video Menu manifests. No dependencies; runs in browsers and Node."
+2026-10-13T00:59:26.901Z,@openvideomenu/asset-server,1.0.0-preview.1,tyson133,Apache-2.0,214525,Proof-of-concept LAN server that hands menu manifests and menu art to TV apps. Read-only; serves only files a manifest names as menu art; never media.
+2026-10-13T00:59:29.649Z,@openvideomenu/cli,1.0.0-preview.1,tyson133,Apache-2.0,42629,"Open Video Menu command line: validate manifests and bundles, preview menus in a browser, and pack or unpack bundles."
+2026-10-13T00:59:32.406Z,@openvideomenu/renderer-web,1.0.0-preview.1,tyson133,Apache-2.0,601320,"Reference 10-foot web renderer for Open Video Menu menus. Plugs into any host through playback, input and media-resolver adapters."
+2026-10-13T01:00:18.443Z,quoxcli,0.2.0,quox,SEE LICENSE IN LICENSE,3052111,Quox: the conversational front door to your self-hosted AI agent control plane
+2026-10-13T01:01:07.965Z,dsh-acceptance,0.2.0,polinni,MIT,1098656,Agent 交付验收台：任务级的凭证工作台 —— 逐条原始需求 ↔ 证据的映射，证据绑定的版本与过期。
+2026-10-13T01:01:20.518Z,@composy/website-vanilla,0.0.2,swimly,MIT,19162428,Vanilla website application built on LDesign website core
+2026-10-13T01:02:02.378Z,@composy/website-vue,0.0.2,swimly,MIT,4890702,Vue website application built on LDesign website core
+2026-10-13T01:03:19.035Z,@siteverdict/mcp,0.2.0,aman_thakran,MIT,637106,"SiteVerdict MCP server: website audit tools for AI agents (tracking & consent, speed & revenue, WCAG accessibility, domain/email health, AI-search readiness) powered by Apify Actors."
+2026-10-13T01:03:19.806Z,@adeildo/pi-peers,0.0.0,adeildo,MIT,312,Placeholder. The first release comes from the pi-harness release workflow.
+2026-10-13T01:03:37.005Z,@cognium/html-index,0.1.0,elarasu,MIT,177815,"Static index of built HTML: elements with roles, accessible names, labels and hidden-ness, the IDREF graph, media, CSS rules, frames and shadow trees, plus a file index. Observations only; ARIA table…"
+2026-10-13T01:04:17.704Z,@glintbase/scanner-core,3.3.0,connex01,Apache-2.0,789963,"Glintbase ARS 3.2 agent-readiness scoring engine: the same probes, check registry and scoring used by scan.glintbase.dev"
+2026-10-13T01:04:57.202Z,kwilos.js,0.7.1,nogginly,MPL-2.0,172188,"An easy-to-use, dependency-free, entity-based JavaScript graphics toolkit for HTML5 Canvas"
+2026-10-13T01:04:57.386Z,deepseek-coordination,0.1.0,eloyhere,MIT,812793,"Cross-platform atomic OS-interaction surface for the DeepSeek Harness: one argument-stable verb set implemented natively on each OS, with byte-exact charset, BOM and line-ending handling."
+2026-10-13T01:05:04.596Z,@openendurance/config-ort,0.1.0,kcargile,Apache-2.0,32260,Shared OSS Review Toolkit (ORT) license-compliance configuration for Open Endurance Initiative repositories.
+2026-10-13T01:06:45.272Z,opencode-future-clock,0.1.0,tormentalabs,MIT,48929,opencode v2 plugin that makes the model perceive the current year as real year + N (only the year changes).
+2026-10-13T01:08:14.414Z,vitepress-plugin-mermaid-image-preview,0.1.0,sinosaurus,MIT,24163,"Mermaid and image previews for VitePress, with zoom, pan and touch gestures."
+2026-10-13T01:09:44.637Z,guard-hooks,0.1.0,reidify,MIT,103339,"Hooks that block an agent write that would damage a file (lost BOM, mojibake, changed line endings) and classify an action's risk level."
+2026-10-13T01:09:57.873Z,@forthtilliath/backup-crypto,0.0.0-stage,forthtilliath,,350,Temporary package placeholder for staged publishing
+2026-10-13T01:10:06.713Z,@forthtilliath/expo-backup,0.0.0-stage,forthtilliath,,348,Temporary package placeholder for staged publishing
+2026-10-13T01:10:11.265Z,@forthtilliath/expo-backup-ui,0.0.0-stage,forthtilliath,,351,Temporary package placeholder for staged publishing
+2026-10-13T01:10:16.35Z,@forthtilliath/expo-config-plugins,0.0.0-stage,forthtilliath,,356,Temporary package placeholder for staged publishing
+2026-10-13T01:10:44.375Z,@shahimat/harness,0.1.0,shahimat,MIT,78840,Harness для проектов на контрактах ai-prompts: генераторы и проверки
+2026-10-13T01:12:31.24Z,laymate-skill,1.0.0,wwnetboy,MIT,3960568,公众号排版助手 Skill：根据主题撰写或排版文章，套用 59 款模板生成可切换样式、一键复制的微信公众号 HTML。WeChat Official Account article skill with 59 switchable templates.
+2026-10-13T01:13:44.497Z,personal-pc-scanner-mcp,0.1.0,tedorigawa001,MIT,137108,"MCP server that lets AI agents inspect a personal PC read-only with osquery, ClamAV and Wazuh (runs the Python server; needs Python 3.11+)"
+2026-10-13T01:14:09.063Z,hosannaith-client,0.1.0,hossanaith,MIT,12498,Tiny client for the Hosannaith x402 reliability oracle on Algorand — pay-per-call endpoint reliability scores.
+2026-10-13T01:14:48.186Z,codex-transfer,0.1.0,waterkyuu11,UNLICENSED,9607,Cross-platform installer for the codex-transfer Go CLI
+2026-10-13T01:16:33.947Z,pkg-stage-vetch-muset-tuffs-coffs,1.0.0,maitxn,ISC,229,empty
+2026-10-13T01:17:06.36Z,1pass-keychain-darwin-arm64,0.2.0,2seo,MIT,5265299,The kc binary of 1pass-keychain for darwin-arm64. Install 1pass-keychain instead.
+2026-10-13T01:17:09.959Z,1pass-keychain-darwin-x64,0.2.0,2seo,MIT,5908413,The kc binary of 1pass-keychain for darwin-x64. Install 1pass-keychain instead.
+2026-10-13T01:17:14.165Z,1pass-keychain-linux-arm64,0.2.0,2seo,MIT,7220032,The kc binary of 1pass-keychain for linux-arm64. Install 1pass-keychain instead.
+2026-10-13T01:17:18.4Z,1pass-keychain-linux-x64,0.0.0-stage,2seo,,346,Temporary package placeholder for staged publishing
+2026-10-13T01:18:14.161Z,pkg-del-uregtater,0.0.0-stage,maitxn,,339,Temporary package placeholder for staged publishing
+2026-10-13T01:18:16.634Z,@org-mlw-begad-rodes-wheel-peins/pkg-mlw-discs-truss-yapok-whats,0.0.0-stage,maitxn,,386,Temporary package placeholder for staged publishing
+2026-10-13T01:18:17.088Z,pkg-stage-uniq-crypt-hulas-proso-fancy,0.0.0-stage,maitxn,,360,Temporary package placeholder for staged publishing
+2026-10-13T01:18:19.98Z,@org-del-sprad-burry-uhlan-drama/pkg-del-drama,0.0.0-stage,maitxn,,368,Temporary package placeholder for staged publishing
+2026-10-13T01:18:32.397Z,dsh-plugin-session-cost-pill,0.0.0-stage,emceemc,,350,Temporary package placeholder for staged publishing
