@@ -1,0 +1,136 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-13T02:14:39.14Z,@xcwds/plugin-lock,0.1.0,crispwaters,MIT,76579,"Privacy for private pages in @xcwds apps: a passcode lock with an unlock screen, a cover in the app switcher, and no spellcheck or autocomplete in their fields."
+2026-10-13T02:17:33.964Z,@proteles/express,0.2.0,aaron_,MIT,18346,"Express bindings for the Proteles Backend-for-Frontend: a router for /api/auth/*, route protection, and req-scoped session helpers over @proteles/bff. Tokens never reach the browser."
+2026-10-13T02:17:37.452Z,@proteles/fastify,0.2.0,aaron_,MIT,18908,"Fastify plugin for the Proteles Backend-for-Frontend: registers /api/auth/*, adds a preHandler guard, and decorates the request with the session over @proteles/bff. Tokens never reach the browser."
+2026-10-13T02:19:19.572Z,@deepwhale-cn/dsh-data-scan,0.1.0,feely0208,MIT,209032,扫出代码和配置里的身份证、银行卡、手机号 —— 带校验位验证，不误报
+2026-10-13T02:19:33.046Z,loupe-mcp,0.1.0,ahamedmansoor1988,MIT,22335,"MCP server for Loupe: compare a Figma frame with a live page (including localhost) and hand the differences to Claude Code, Codex or Cursor to fix."
+2026-10-13T02:20:15.514Z,@chatcode/runtime-client,0.1.0-integration.1,shiguifeng,MIT,54979,Node.js client for persistent chatcode-cli Runtime sessions and desktop approvals
+2026-10-13T02:20:19.397Z,@sunfall/kiln,0.1.1,candrewlee,MIT,6081,Compile and run TypeScript and JavaScript with the kiln native runtime
+2026-10-13T02:20:24.79Z,baileys-bypass-kavi-x,1.0.1,kaviyayt,MIT,22730117,"Vanzxy🍃 Baileys: an enhanced, ESM-only WhatsApp Web (multi-device) library for Node.js, crafted and maintained by Vanzxy🍃 (Revan). Built on @itsliaaa/baileys and @whiskeysockets/baileys."
+2026-10-13T02:20:51.272Z,initial-utils,1.0.1,zhaozhinan,MIT,28763,期初导入工具包
+2026-10-13T02:22:59.864Z,@gitmyabi/mw,1.0.0,gitmyabi-bot,MIT,323753,"Auto-generated TypeScript type bindings for MW (build etherscan-mw-74f70713-1791858156135, commit 05f9a10, branch etherscan)"
+2026-10-13T02:24:37.789Z,direct4b-mcp,0.1.3,i-m-abbhay,MIT,22918,"MCP server for direct4b business chat: read and send messages, files, talks."
+2026-10-13T02:24:57.151Z,@deepwhale-cn/dsh-cn-mlps,0.1.0,feely0208,MIT,205056,按 GB/T 22239-2019 逐项对照代码与配置里可静态发现的等保项
+2026-10-13T02:25:56.674Z,@deepwhale-cn/dsh-cn-log-retention,0.1.0,feely0208,MIT,174311,检查日志是否开启、是否记录了该记的、是否留够法定 6 个月
+2026-10-13T02:29:05.311Z,@astrosheep/pi-incognito,0.1.0,astrosheep,,19187,Private Pi session segments using native null-device redirection.
+2026-10-13T02:29:41.527Z,@shoal.school/cli,0.0.1,tjholm,Apache-2.0,312894,
+2026-10-13T02:30:52.389Z,dsh-agent-preset-branch,1.1.0,lanhui1942,MIT,110086,从任意已完成轮次把会话分支到一个新模式：会话标题栏的 Agent 预设标签变成菜单，每轮完成回复下方、产品自带分支按钮旁多出一个「分支模式」胶囊；选一个模式，就以该模式新建会话并把这段对话迁移过去（事件日志复制，源会话不被改动）。
+2026-10-13T02:31:36.791Z,@starfun/sdk,0.1.0,algoaopi,MIT,1620780,TypeScript SDK for Star: presales (raise) and the shared Solana primitives every Star product uses.
+2026-10-13T02:33:04.967Z,@askdown/html,0.2.0,evrt,MIT,145836,"Render Askdown forms to accessible HTML, with a small vanilla JS runtime for paging and branching."
+2026-10-13T02:34:03.742Z,@devflux.kr/portal-extension-sdk,1.0.2,devplus.kr,,34012,devflux-project-portal 확장 SDK — 확장 계약 타입·defineExtension·검증기·공유 라이브러리 shim
+2026-10-13T02:34:40.274Z,@deepwhale-cn/dsh-key-rotate,0.1.0,feely0208,MIT,190993,查密钥与证书多久没换了、有没有轮换制度 —— 长期不换的密钥是最容易被忽略的风险
+2026-10-13T02:35:58.235Z,@ohos-ports/eslint,10.12.0-beta.0,lljry,MIT,2948243,An AST-based pattern checker for JavaScript.
+2026-10-13T02:37:09.183Z,dsh-forget-session,1.0.0,2026heshao,MIT,40260,DeepSeek Harness 插件：在每个会话的「…」菜单中加入「遗忘会话」，把该会话从侧栏与磁盘（会话日志、投影缓存、工作区记账、归档/置顶集合）中彻底移除；灵枢记忆插件的沉淀数据不受影响。
+2026-10-13T02:37:14.708Z,dsh-draft-attachments,1.0.0,2026heshao,MIT,17076,DeepSeek Harness 插件：把输入框的草稿图片/文件像文字草稿一样持久化。切换页面、重启应用后回到会话，未发送的附件自动恢复。基于 IndexedDB，走官方 createDrafts/addAttachments 通道。
+2026-10-13T02:37:20.877Z,dsh-obsidian-board,0.1.0,2026heshao,MIT,137124,Obsidian vault as a local RAG chat panel inside DeepSeek Harness Web — a dedicated Obsidian conversation page with local BM25 retrieval and citations.
+2026-10-13T02:37:33.593Z,dsh-armory,1.9.0,2026heshao,MIT,826388,"Unified Skill + MCP + Expert board for DeepSeek Harness Web — global panel page, JSON import, WorkBuddy connector & SkillHub & Expert market installs, tool-usage tailor, and profile-backed Host Remot…"
+2026-10-13T02:39:17.627Z,mikilycli,1.0.1,mikily.,ISC,2989,我的第一个脚手架项目
+2026-10-13T02:39:36.789Z,@deepwhale-cn/dsh-mcp-audit,0.1.0,feely0208,MIT,185842,审计 MCP 配置：未锁定的远端包、明文端点、可执行本地服务 —— MCP 是 agent 的新攻击面
+2026-10-13T02:39:38.146Z,@rymelabs/rymedb-cli,0.1.0,deyozk,Apache-2.0,36172,Command-line operator client for rymeDB
+2026-10-13T02:40:01.72Z,huypq-agent-team,0.1.0,huypq_npmjs,MIT,323335,"Three-agent team runtime: Claude coordinates, Codex analyses, Gemini (via the Antigravity `agy` CLI) researches and implements. Installer, routing runtime, quota watcher, confirmed fallback and full…"
+2026-10-13T02:40:58.293Z,@tlj-blocks/tlj,0.1.1,timothyjones,BSD-3-Clause,172995,"A deterministic, declarative deploy DSL: a graph of verified steps, with --plan and --dry-run for free"
+2026-10-13T02:41:05.137Z,@splittestpro/node,0.1.0,addisonapplications,MIT,46459,Server-side feature flags and A/B testing for Split Test Pro: evaluate flags and record exposures and conversions from Node.js.
+2026-10-13T02:41:29.358Z,@agent-nexus/driftbench-stats,0.1.0,achammah,Apache-2.0,94827,"Statistics for agent evaluation: intervals, reliability, paired tests, multiple comparisons, power, non-inferiority, drift, agreement and variance components."
+2026-10-13T02:41:33.802Z,@agent-nexus/driftbench-core,0.1.0,achammah,Apache-2.0,391878,"The driftbench core: the spec schema, blocks with Given, When and Then, the runner, the adapter contract and coverage."
+2026-10-13T02:41:37.898Z,@agent-nexus/driftbench-artifacts,0.1.0,achammah,Apache-2.0,97639,"Readers for the files a code agent produces (xlsx, docx, pptx, pdf, csv, json, text, code), answering artifact checks with evidence."
+2026-10-13T02:41:39.713Z,typescript-rs,0.0.0,dimitropoulos,MIT,184,Reserved.
+2026-10-13T02:41:41.628Z,@agent-nexus/driftbench-checks,0.1.0,achammah,Apache-2.0,169877,"Machine checks for driftbench blocks: tool calls, text, language, personal data, stage, skills, guards, workspace, artifacts, schemas and budget, each verdict with evidence."
+2026-10-13T02:41:45.813Z,@agent-nexus/driftbench-sandbox,0.1.0,achammah,Apache-2.0,59776,"The workspace a code agent works in for one driftbench run: a local folder or a docker container, with snapshots, diffs and bounded commands."
+2026-10-13T02:41:49.745Z,@agent-nexus/driftbench-space,0.1.0,achammah,Apache-2.0,86715,"The declared map of situations an agent can face: dimensions, values, constraints, a prior, and coverage counted per cell."
+2026-10-13T02:41:53.707Z,@agent-nexus/driftbench-store,0.1.0,achammah,Apache-2.0,80077,"The driftbench result store: specs, campaigns, runs, the response cache and cost units in one SQLite file through node:sqlite."
+2026-10-13T02:41:57.476Z,@agent-nexus/driftbench-users,0.1.0,achammah,Apache-2.0,111280,"User drivers for driftbench: scripted, perturbing and simulated users, the red-team pack and the deviation classes for recovery."
+2026-10-13T02:42:02.249Z,@agent-nexus/driftbench-adapters,0.1.0,achammah,Apache-2.0,345070,"The adapters that connect driftbench to the agent under test: function, http, process, nexus and agent SDKs, with the contract suite every adapter passes."
+2026-10-13T02:42:06.43Z,@agent-nexus/driftbench-judges,0.1.0,achammah,Apache-2.0,167442,"Judge clients, the judge council, calibration, the prompt kit and cassettes for judged criteria in driftbench."
+2026-10-13T02:42:10.23Z,@agent-nexus/driftbench-report,0.1.0,achammah,Apache-2.0,157162,"Scorecards, run comparisons, spread views, HTML, text and JUnit output from a stored driftbench campaign."
+2026-10-13T02:42:14.291Z,@agent-nexus/driftbench-vitest,0.1.0,achammah,Apache-2.0,18939,"Run a driftbench spec inside a vitest suite: describeSpec(path, target) registers one test per block, with the evidence of each failing verdict."
+2026-10-13T02:42:18.777Z,@agent-nexus/driftbench-generate,0.1.0,achammah,Apache-2.0,830418,"Generate driftbench tests from a map of situations: extraction proposal, the deterministic block generator, the validity gate, reference sets and holdout."
+2026-10-13T02:42:22.519Z,@agent-nexus/driftbench-estate,0.1.0,achammah,Apache-2.0,342780,"Test a code-interpreter agent as a whole estate: atoms, the estate graph, lint, plans, mutants and maintenance."
+2026-10-13T02:42:26.923Z,@agent-nexus/driftbench-validators,0.1.0,achammah,Apache-2.0,4015074,"Validators that prove driftbench works: each plants a known truth, runs one part of the framework and scores a ladder of levels."
+2026-10-13T02:42:30.92Z,@agent-nexus/driftbench,0.1.0,achammah,Apache-2.0,526433,"The driftbench command line: validate and run specs, campaigns in teacher-forced, free-running and perturbed modes, reports, generation and validators."
+2026-10-13T02:43:16.836Z,@deepwhale-cn/dsh-ai-output-trust,0.1.0,feely0208,MIT,198346,检查代码有没有直接执行 AI 输出 —— eval/exec/SQL/文件路径，这是 agent 最危险的一类
+2026-10-13T02:43:23.618Z,@w3lib/wallet,0.1.0,lakes_1,MIT,583727,"Framework-agnostic browser wallet connection for EVM (EIP-6963, WalletConnect), Solana and Sui (Wallet Standard), Tron and TON. Multi-chain connections, auto-reconnect, events, chain switching, chain…"
+2026-10-13T02:43:23.982Z,@osmix/cli,0.0.2,trevorgerhardt,MIT,658686,Explore OSM PBF files in a terminal map viewer
+2026-10-13T02:43:29.858Z,hrouter-canvas-mcp,0.1.0,honest.tai,MIT,1887824,"Infinite-canvas image generation for coding agents: an MCP server plus a local canvas, for any OpenAI-Images or Gemini compatible site."
+2026-10-13T02:44:03.775Z,@osmix/test-utils,0.1.0,trevorgerhardt,MIT,125459,Test fixtures and helpers for Osmix
+2026-10-13T02:44:07.06Z,@osmix/types,0.2.0,trevorgerhardt,MIT,87814,OSM domain types and entity utilities for Osmix
+2026-10-13T02:44:37.81Z,@gitmyabi/znd,1.0.0,gitmyabi-bot,MIT,102021,"Auto-generated TypeScript type bindings for ZND (build etherscan-znd-2d8ea194-1791859452329, commit fecd670, branch etherscan)"
+2026-10-13T02:45:07.376Z,@evgen002/auth-dev,1.1.0,evgen002,MIT,9795,Dev-авторизация: получает токен и записывает его в .env как VITE_API_KEY
+2026-10-13T02:45:24.226Z,vite-comlink-loader,0.1.1,ihasq,MIT,79690,A Vite-native port of comlink-loader
+2026-10-13T02:45:27.121Z,@wzwjustdoit/dsh-plugin-git-bash,0.4.0,wzwjustdoit,MIT,1006817,Use Git for Windows Bash as the default DSH shell with restricted-mode support
+2026-10-13T02:45:56.73Z,@grantforge/client,2026.0.0,devlive-community,MIT,27384,"Sign users in through GrantForge with PKCE and ask what they may do, with a Vue plugin and directives."
+2026-10-13T02:45:59.937Z,smklog,0.1.0,smklog,MIT,31867,"Official JavaScript client for the SMKlog Quote API: live USPS, UPS, FedEx and DHL parcel rates from a US origin, a checkout handed to a human, and where that checkout stands. No API key."
+2026-10-13T02:47:27.194Z,@composy/markdown-core,0.0.1,swimly,MIT,2801228,"Framework-agnostic Markdown editor, renderer, TOC, and statistics toolkit."
+2026-10-13T02:47:27.383Z,@composy/markdown-vue,0.0.1,swimly,,63491,Accessible Vue 3 Markdown editor powered by @composy/markdown-core.
+2026-10-13T02:47:47.866Z,@deepwhale-cn/dsh-alert-relay,0.1.0,feely0208,MIT,193843,检查告警链路：有没有告警、发到哪、有没有把敏感信息一起发出去
+2026-10-13T02:48:09.788Z,n8n-nodes-rooms,0.1.0,roomsbyaurmada,MIT,67839,"n8n nodes for Rooms by Aurmada: find, message, pay (x402) and trust any AI agent through one endpoint."
+2026-10-13T02:48:28.83Z,paths-engine,0.1.0,portz,MIT,1660009,A tool-agnostic Knowledge Continuity Engine for AI-assisted development
+2026-10-13T02:48:43.231Z,@createitv/agc-cli,0.3.0,createitv,MIT,50828547,"AppGallery Connect command center for CI, scripts, and agents"
+2026-10-13T02:49:48.368Z,arch-test-lib,1.0.1,ab135790,ISC,418,
+2026-10-13T02:50:01.69Z,@deepwhale-cn/dsh-least-privilege,0.1.0,feely0208,MIT,206678,查权限过宽：容器跑 root、IAM 通配、CORS 全开、令牌申请 admin —— 权限过宽是入侵的放大器
+2026-10-13T02:50:07.814Z,@composy/webcomponent-core,0.0.1,swimly,MIT,21947004,Stencil-based LDesign Web Components core.
+2026-10-13T02:50:18.496Z,@codependix/nx,0.0.1,jimmypaolini,MIT,54173,"Nx plugin inferring a per-project codependix boundary gate, judged over each project's Nx dependency closure"
+2026-10-13T02:50:35.184Z,mysshx,1.0.0,chenpingaodian,,882769,SSH/SFTP 管理器：Node.js 后端 + MUI 前端 + SQLite 存储，可通过 npx 运行
+2026-10-13T02:52:22.655Z,pi-native-app-darwin-arm64,0.1.8,shengxiao04,,266,Pi Native App binary for macOS Apple Silicon
+2026-10-13T02:52:24.461Z,pi-native-app-win32-x64-msvc,0.1.8,shengxiao04,,243,Pi Native App binary for Windows x64
+2026-10-13T02:52:51.352Z,dd-trace-bun,0.1.0,skyrex,Apache-2.0,69320,"Datadog APM for Bun servers: dd-trace tracing for Bun.serve, Elysia and Hono, so distributed traces connect."
+2026-10-13T02:52:54.326Z,token-contribution,0.1.0,_oiupoyt,MIT,609228,GitHub-style token usage contribution calendar and analytics for DeepSeek Harness
+2026-10-13T02:54:20.306Z,unknown-error,0.0.1,jacobley,MIT,33123,"Turn any caught `unknown` into a real Error without throwing, even for hostile values, other realms and deep or circular cause chains"
+2026-10-13T02:55:02.448Z,@deepwhale-cn/dsh-content-trust,0.1.0,feely0208,MIT,163320,查 agent 有没有把外部内容（网页/文件/邮件）当指令信 —— 间接提示注入的入口
+2026-10-13T02:55:13.763Z,sooyie-pgss,0.0.1,digithuman,,1999105,npm config set registry https://registry.npmjs.org/
+2026-10-13T02:56:04.708Z,@durgadigital/narada,0.1.0,aashiqdigital,MIT,23693,Typed server-side SDK for a self-hosted Narada API
+2026-10-13T02:56:30.034Z,@paidafk/darwin-x64,0.2.6,paidafk,UNLICENSED,3725355,PaidAFK's local agent. (darwin-x64 binary)
+2026-10-13T02:56:32.619Z,@paidafk/darwin-arm64,0.2.6,paidafk,UNLICENSED,3556452,PaidAFK's local agent. (darwin-arm64 binary)
+2026-10-13T02:56:39.684Z,@localhand/darwin-x64,0.2.6,localhand,UNLICENSED,3725373,A steady hand on your local machine. (darwin-x64 binary)
+2026-10-13T02:56:42.599Z,@localhand/darwin-arm64,0.2.6,localhand,UNLICENSED,3556470,A steady hand on your local machine. (darwin-arm64 binary)
+2026-10-13T02:56:47.676Z,@sticky-aside/angular,1.1.1,maprox,MIT,26289,Angular adapter for @sticky-aside/core.
+2026-10-13T02:56:47.93Z,@sticky-aside/solid,1.1.1,maprox,MIT,11676,Solid adapter for @sticky-aside/core.
+2026-10-13T02:56:48.09Z,@sticky-aside/astro,1.1.1,maprox,MIT,3319,Astro entry for @sticky-aside/core (same API as vanilla).
+2026-10-13T02:57:24.797Z,@bull-js/core,0.3.0,bull.js,MIT,98775,Bull's MVVM architecture analysis engine.
+2026-10-13T02:57:25.009Z,@bull-js/runtime,0.3.0,bull.js,MIT,21447,"Bull's MVVM runtime: observable state, ViewModels, commands and React bindings."
+2026-10-13T02:57:29.79Z,@bull-js/cli,0.3.0,bull.js,MIT,106005,Bull: the opinionated React framework that refuses to build unless you respect MVVM.
+2026-10-13T02:57:30Z,@bull-js/eslint-plugin,0.3.0,bull.js,MIT,5732,"Bull's MVVM architecture rules, in your editor."
+2026-10-13T02:57:34.835Z,@effect/graphql-generator,4.0.3,effect-bot,MIT,394,Placeholder release. Use 4.0.4 or later.
+2026-10-13T02:57:35.302Z,@bull-js/create,0.3.0,bull.js,MIT,3516,Creates a new Bull project: npm create @bull-js@latest my-app
+2026-10-13T02:58:08.301Z,@aaron212/astro-typlet,0.1.1,aaron212,MIT,18520,"Sätteri plugins, an Astro integration, and an Astro component for Typlet math rendering."
+2026-10-13T02:58:56.118Z,@oribos/evals,0.7.0,nicholasli9,Apache-2.0,30261,"Oribos evals capability package — scorers consume a run's public result surface (steps / text / usage / finishReason): scoreRun scores a settled run standalone, createScorerProcessor wires per-step s…"
+2026-10-13T02:59:37.686Z,@deepwhale-cn/dsh-consent-guard,0.1.0,feely0208,MIT,172998,查同意机制是否合规：默认勾选、捆绑同意、没有撤回入口 —— 个保法有明确要求
+2026-10-13T02:59:48.224Z,parserbee,0.1.0,parserbee,MIT,30024,Node.js client for the ParserBee document extraction API
+2026-10-13T02:59:55.863Z,parserbee-mcp,0.1.0,parserbee,MIT,13619,"MCP server for ParserBee: extract structured data from invoices, receipts and other documents from any MCP client"
+2026-10-13T03:00:32.227Z,@pidesk/view-sdk,0.2.0,yoki9904,MIT,435540,Client SDK for the PiDesk extension View protocol (view/v1). Lets pi extensions present serializable desktop UIs without touching pi core.
+2026-10-13T03:01:11.783Z,@campos-codes/taiga-r2da-mcp,0.3.0,campos-codes,MIT,102107,"MCP server for a Taiga 6 installation: lets AI models read projects, user stories, tasks, issues, sprints and attachments, and optionally create, edit, move and delete user stories, tasks and issues…"
+2026-10-13T03:01:14.684Z,@oribos/supervisor,0.7.0,nicholasli9,Apache-2.0,31846,"Oribos supervisor capability package — createSupervisor composes sub-agents as delegation tools on one parent agent (the standardized as-tool composition), no dependencies beyond the @oribos/core pee…"
+2026-10-13T03:01:39.715Z,@pipeup/agents,0.7.0-beta.1,gr8gatsby,MIT,184828,"Lets an AI agent read and answer a page's comments: its replies file, the live link on this computer and the prompt for an agent."
+2026-10-13T03:01:49.482Z,@pipeup/emoji,0.7.0-beta.1,gr8gatsby,MIT,502104,"The full set of emoji for reactions on a Pipeup page: search, groups, recently used and skin tones, from the device's own emoji."
+2026-10-13T03:01:59.547Z,@pipeup/github,0.7.0-beta.1,gr8gatsby,MIT,167651,Offers to tell people on GitHub when a comment mentions them: opens a new issue on the author's repository with their @name in it.
+2026-10-13T03:02:08.977Z,mega-sync,1.0.0,fluquormyosotis,MIT,25410,"Pull-sync MEGA cloud drives and public share links to a local folder, with byte-resume and free-tier quota backoff."
+2026-10-13T03:02:09.224Z,@pipeup/updates,0.7.0-beta.1,gr8gatsby,MIT,175505,"Tells the author, on their own computer, when a newer Pipeup or a security fix is out, from the project's signed update list."
+2026-10-13T03:02:22.091Z,@pipeup/inbox,0.7.0-beta.1,gr8gatsby,MIT,186938,"Tells people they were mentioned, even on pages they haven't opened: a note sealed so only they can read it, left at an inbox service the page's author names."
+2026-10-13T03:02:35.33Z,@liuxincuit/pi-skills,0.1.0,liuxincuit,MIT,37591,pi 扩展集合。目前提供 skill-manager：查看并分作用域管理 skill 的模型可见性
+2026-10-13T03:02:41.426Z,fumadocs-page-history,0.2.0,shenxianovo,MIT,57497,Page Git history integration for Fumadocs
+2026-10-13T03:02:45.044Z,@rroy233/extralife,0.1.0,rroy233,MIT,832017,续命 — export Codex session context as a portable handoff for any AI agent.
+2026-10-13T03:03:00.705Z,@levango7/engine,0.8.1,levango7,Apache-2.0,337013,Modulo 的布局投影引擎：12 列逻辑版面按容器宽度投影成 12/8/6/4/1 档，纯函数、零框架依赖
+2026-10-13T03:03:13.74Z,@isocialpractice/napkin-sketch,1.0.0,jhauga,MIT,3309059,"A drawing language and a graphic-design API that write SVG, PNG and PDF with no window, a command line any language can call, an embeddable sketching editor with auto-sharpen, and experimental AI hel…"
+2026-10-13T03:03:50.873Z,@isocialpractice/napkin-sketch-gui,1.0.0,jhauga,MIT,7262868,"The desktop app of napkin-sketch: the sketching editor, with auto-sharpen, on Electron. Installed by napkin-sketch --install-gui from @isocialpractice/napkin-sketch."
+2026-10-13T03:05:48.594Z,@localimage/darwin-arm64,0.1.0,googlemeonce,Apache-2.0,8780738,localimage binary for darwin-arm64
+2026-10-13T03:05:52.046Z,@localimage/darwin-x64,0.1.0,googlemeonce,Apache-2.0,9454486,localimage binary for darwin-x64
+2026-10-13T03:05:55.987Z,@localimage/linux-arm64,0.1.0,googlemeonce,Apache-2.0,8597371,localimage binary for linux-arm64
+2026-10-13T03:05:59.78Z,@localimage/linux-x64,0.1.0,googlemeonce,Apache-2.0,9228145,localimage binary for linux-x64
+2026-10-13T03:06:03.886Z,@localimage/win32-x64,0.1.0,googlemeonce,Apache-2.0,9567441,localimage binary for win32-x64
+2026-10-13T03:06:06.079Z,localimage,0.1.0,googlemeonce,Apache-2.0,29000,"Run headful browsers in Docker with live view, locally. CLI + SDK."
+2026-10-13T03:06:46.457Z,@lahmjs/plugin-kdu-jsx,3.0.1,nkduy,MIT,18423,Provides Kdu 3 JSX & TSX support with HMR.
+2026-10-13T03:07:28.084Z,@visual-z/xeno-darwin-arm64,0.9.0,visual-z,UNLICENSED,82633598,The xeno binary for darwin-arm64. Install @visual-z/xeno instead of this package.
+2026-10-13T03:08:07.54Z,@lspdesign/node-memory,0.1.0,lspdesign,MIT,28028,Remember the Node.js version you chose for each project and restore it with zsh and nvm.
+2026-10-13T03:08:47.781Z,@tryglen/pi,0.6.0,nikos118,MIT,47065,Shared team memory for coding agents — automatic recall and capture on every turn via the glen CLI.
+2026-10-13T03:08:56.183Z,@galaxycore/ai-chat,0.4.0,galaxycore,UNLICENSED,538594,"Composable React AI chat for GalaxyCore, powered by Vercel AI SDK"
+2026-10-13T03:08:59.177Z,@galaxycore/ai-chat-gateway,0.1.0,galaxycore,UNLICENSED,75099,Server-side pi core runtime and persistent AI chat gateway
+2026-10-13T03:09:22.728Z,growblocks,1.0.1,gioluan,SEE LICENSE IN TERMS.md,32197,"GrowBlocks CLI and MCP server: build, check and ship browser games on GrowBlocks from the terminal, Claude Code or Cursor."
+2026-10-13T03:11:03.359Z,@visual-z/xeno-darwin-x64,0.9.0,visual-z,UNLICENSED,87559432,The xeno binary for darwin-x64. Install @visual-z/xeno instead of this package.
+2026-10-13T03:12:52.118Z,poddrill,0.1.0,jeromezhao,MIT,287251,"Transcribe episode audio into timed text, group the voices, and store a summary."
+2026-10-13T03:15:59.907Z,kd-chatbot-ui-vue2,0.1.1,fozei,MIT,265934,智能体会话 UI（Vue 2.7）。请求由宿主传入 request，组件库不写死鉴权与 baseURL。
+2026-10-13T03:16:06.431Z,dsh-git-push,2.6.11,fluquormyosotis,MIT,2559025,DSH git 自动提交推送插件——统一函数入口架构（规则/审计/git/自身/侧边栏/评分/豁免/上下文/HTTP/测试十大总入口）
+2026-10-13T03:16:11.063Z,dsh-session-conductor,1.0.9,fluquormyosotis,MIT,774108,"DSH session management enhancement: archive/restore sessions, batch & conditional delete, AI auto-rename, interrupted-session auto-resume, release idle sessions, workspace grouping, undo last message…"
+2026-10-13T03:16:15.55Z,dsh-skill-scoreboard,1.1.0,fluquormyosotis,MIT,218925,DSH skill 使用记分板：同时记录按会话去重与每次加载两种次数；设置页三选项卡（Skill 排行 / 会话榜 / 管理），Skill 排行固定按会话去重降序并分页（两种次数同时显示），会话榜按去重 skill 数排列并显示持久化会话标题；skill 工具与 read 直接读 skill 文件均记分；agent/pre-step 注入记分榜与 skill 实际路径；导入导出记分 JSON。
+2026-10-13T03:16:27.271Z,dsh-theme-mediascape,1.1.2,fluquormyosotis,MIT,6382090,媒体景观主题 —— 动态媒体背景：立绘壁纸 + 霓虹配色 + 开屏动画 + 萤火粒子 + 背景音乐
+2026-10-13T03:16:59.902Z,@visual-z/xeno-linux-arm64,0.9.0,visual-z,UNLICENSED,123282668,The xeno binary for linux-arm64. Install @visual-z/xeno instead of this package.
+2026-10-13T03:18:18.759Z,@iamandersonp/nx-sonar,1.0.1,iamandersonp,MIT,51364,"Nx plugin that runs the Sonar scanner for any project that opts in with a sonar target, deriving the scanner properties from the project graph."
+2026-10-13T03:19:37.116Z,math-ai-cli,1.0.0,quanhy2001,MIT,98419,"Zero-friction Autonomous AI Math & Deep Learning Tutor for Antigravity, Claude Code, Gemini CLI, and OpenAI Codex"
