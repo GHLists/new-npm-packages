@@ -1,0 +1,147 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-13T05:15:33.474Z,@whyshu/argent-flow,0.1.0,whyshu,MIT,49814,Argent on DSH — 流程编排（多源 case / 字段缺口 / 放行闸门 / 派发）；文鳐是第一个 flow
+2026-10-13T05:16:24.044Z,@juyanjy/dsh-codex-bridge,0.1.0,juyanjy,MIT,130705,"Observe and steer a local Codex (OpenAI) session from DeepSeek Harness, over the codex app-server protocol."
+2026-10-13T05:17:10.251Z,@nalebc/reach,0.1.1,nalebc,MIT,62294087,"Your devices, within reach. A private mobile workspace for your computers."
+2026-10-13T05:19:07.892Z,@vnpykit/renderer,0.1.0-alpha.1,visionnumbers,Apache-2.0,54297,Safe DOM renderer for VNPyKit protocol v1 applications
+2026-10-13T05:19:31.317Z,@htzgw/httable,1.0.0,manjusakaj,MIT,125347,Vue 3 + Element Plus 的配置驱动可编辑表格：编辑控件常驻，跨页跨查询条件保留修改，统一校验与保存，支持主子表。
+2026-10-13T05:20:39.601Z,@ohos-ports/rollup-plugin-polyfill-node,0.13.0-beta.0,ljry,MIT,1058230,rollup-plugin-polyfill-node ===
+2026-10-13T05:20:49.992Z,@whyshu/argent-gateway,0.2.0,whyshu,MIT,148924,Argent on DSH — 飞书网关（hermes gateway 的 dsh 官方化实现，决策⑱）：lark-cli 事件消费 + ctx.agents 常驻持久会话 agent，每 Bot 路由到独立 agent，@ 准入 + 多轮上下文跨轮保留；任务驱动（自动审查/自主模式）+ 角色管理 UI
+2026-10-13T05:21:17.177Z,stylepick,0.0.1,tomchenorg,MIT,211,Placeholder — work in progress.
+2026-10-13T05:21:20.466Z,@aiot-toolkits/plugin-sdk,4.0.2,aiot-nexus,UNLICENSED,492323,"Types, PluginFrame client, and CLI for AIoT Toolkits independent plugins."
+2026-10-13T05:21:27.3Z,@infodb/chatgpt-plan,0.1.1,infodb,MIT,57180,"Sign in with ChatGPT (plan usage) and the Responses API over the user's ChatGPT plan, for local apps (TypeScript)"
+2026-10-13T05:21:28.943Z,tetris-battle,0.1.0,matiasdrejer,MIT,61700,"Tetris for the terminal, with battles over the LAN, and as a pane inside Claude Code"
+2026-10-13T05:21:43.207Z,@bgub/fig-better-auth,0.1.0,bgub,MIT,19293,Native Fig session and token integration for Better Auth
+2026-10-13T05:22:04.413Z,@bgub/fig-convex,0.1.0,bgub,MIT,35216,Native Fig queries and Suspense over Convex clients
+2026-10-13T05:22:05.753Z,@bgub/fig-virtual,0.1.0,bgub,MIT,5263,Native Fig adapter for TanStack Virtual Core
+2026-10-13T05:22:06.55Z,@bgub/fig-charts,0.1.0,bgub,MIT,4731,Native Fig adapter for TanStack Charts
+2026-10-13T05:22:39.897Z,vaiperui,0.0.1-beta,matheussantosspbr,ISC,250404,Biblioteca de componentes React do vaiperui.
+2026-10-13T05:23:04.045Z,dsh-ab-knowledge,0.1.1,aiscope,MIT,3046533,A **self-contained knowledge-base service** for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness).
+2026-10-13T05:24:04.375Z,@thechandanbhagat/pm2-notifier,0.1.0,chandan.bhagat,MIT,22226563,"Configurable PM2 CPU and lifecycle alerts for Teams, Slack, Discord and webhooks"
+2026-10-13T05:25:01.336Z,@sixthsummit/ship-angular,4.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,1809132,Frontend-only Angular framework for typed ShipAPI operations and agent-safe applications
+2026-10-13T05:25:27.79Z,@sixthsummit/ship-auth-firebase,1.1.0-alpha-20261013055832,haruhunab1320,Apache-2.0,30035,Firebase credential and actor adapters for Ship Hono applications
+2026-10-13T05:25:29.475Z,@sixthsummit/ship-cache-redis,0.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,27366,Redis cache backend adapter for declared Ship read caching
+2026-10-13T05:25:31.184Z,@sixthsummit/ship-api-claude-plugin,0.1.2-alpha-20261013055832,haruhunab1320,Apache-2.0,101104,"Claude Code plugin for ShipAPI v4 — agents, slash commands, and skills for module design / scaffolding / convention review."
+2026-10-13T05:25:32.954Z,@sixthsummit/ship-contract,1.3.0-alpha-20261013055832,haruhunab1320,Apache-2.0,217097,"Portable Ship client manifest, HTTP client, and OpenAPI projection"
+2026-10-13T05:25:34.939Z,@sixthsummit/ship-drizzle,1.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,286308,Drizzle unit-of-work and repository adapters for the Ship application kernel
+2026-10-13T05:25:37.186Z,@sixthsummit/ship-hono,1.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,238345,Hono transport and credential adapter for the Ship application kernel
+2026-10-13T05:25:39.172Z,@sixthsummit/ship-jobs-bullmq,0.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,72618,"BullMQ job backend, Redis lock provider and OpenTelemetry metrics for Ship declared jobs"
+2026-10-13T05:25:40.837Z,@sixthsummit/ship-core,1.1.1-alpha-20261013055832,haruhunab1320,Apache-2.0,1079262,Transport- and infrastructure-independent Ship application kernel
+2026-10-13T05:25:42.617Z,@sixthsummit/ship-api-mcp-server,0.1.2-alpha-20261013055832,haruhunab1320,Apache-2.0,90617,"MCP server exposing ShipAPI route-registry introspection tools to Claude Code, Cursor, and other LLM agents"
+2026-10-13T05:25:44.737Z,@sixthsummit/ship-observability-otel,1.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,46415,"Optional OpenTelemetry tracing, SDK, and Prometheus metrics integration for Ship applications"
+2026-10-13T05:25:46.842Z,@sixthsummit/ship-testing,1.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,240585,Portable parity fixtures and real PostgreSQL test harnesses for Ship applications
+2026-10-13T05:25:48.494Z,@sixthsummit/ship-webhooks,0.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,72705,Optional provider webhook verifiers for Ship inbound webhook operations
+2026-10-13T05:25:50.219Z,@sixthsummit/ship-cli,1.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,170014,Deterministic application graph and API contract tools for Ship projects
+2026-10-13T05:25:51.994Z,@sixthsummit/ship-realtime-socketio,0.2.0-alpha-20261013055832,haruhunab1320,Apache-2.0,211308,Socket.IO and Redis realtime gateway adapter for declared Ship channels
+2026-10-13T05:25:52.288Z,@whyshu/argent-ml,0.1.0,whyshu,MIT,10158,Argent on DSH — MercadoLibre 查询工具（只读 CDP：货件状态/店铺窗口/全链校验）
+2026-10-13T05:25:54.803Z,@sixthsummit/ship-api,4.1.1-alpha-20261013055832,haruhunab1320,Apache-2.0,1762493,ShipAPI Framework — TypeScript backend on Hono + Drizzle + pluggable AuthProvider + BullMQ + OpenTelemetry. Designed to be edited by AI coding agents.
+2026-10-13T05:26:30.594Z,@vnpykit/runtime-pyodide,0.1.0-alpha.1,visionnumbers,Apache-2.0,48658,Worker-first Pyodide runtime for VNPyKit browser applications
+2026-10-13T05:27:49.122Z,@falling-ts/pi-start-command,1.0.0,yuanshang,MIT,11522,会话开始前运行一条配置好的启动命令（PI_START_COMMAND）
+2026-10-13T05:28:20.394Z,magpie-claude-science,0.1.0,shiyang1026,MIT,69828,Magpie Agent and middleware with an explicit local service installer for Claude Science
+2026-10-13T05:28:24.415Z,@zenoct26/zen_add_mult,1.0.3,abhijeetdgole,ISC,854,Scoped package for add and mult belongs to organiation zenoct26!
+2026-10-13T05:31:18.951Z,@sudoku-sleuth/open-rules,0.1.1,m.afifi,MIT,2020874,The Open Rules formula language and linter for Sudoku rule definitions.
+2026-10-13T05:31:45.058Z,dsh-general-agentics,0.1.0-alpha.1,bryan-cmf,MIT,33953,"General Agentics distribution bundle for DeepSeek Harness (DSH): one install brings the General Agentics white-label brand, curated plugins, bundled skills, and MCP pre-configuration. Built on DeepSe…"
+2026-10-13T05:31:51.817Z,@lisgen/programmer-linux-x64,0.1.0,hilarl,Apache-2.0,55590080,lisgen-programmer (Lisgen Programmer) native binary for linux-x64
+2026-10-13T05:33:08.127Z,@lisgen/programmer-win32-x64,0.1.0,hilarl,Apache-2.0,54125858,lisgen-programmer (Lisgen Programmer) native binary for win32-x64
+2026-10-13T05:33:11.738Z,@lisgen/programmer,0.1.0,hilarl,Apache-2.0,12317,Lisgen Programmer: the Lisgen coding agent for your terminal
+2026-10-13T05:33:50.894Z,@videntia/envault,0.1.0,rintoj,,152891,"`envault` is a command-line client for the Envault secrets/environment-variable manager. It mirrors the web app vault: your projects, their environments, and every variable (open or secret) live on t…"
+2026-10-13T05:35:23.77Z,@awesomedog/soma-darwin-arm64,0.10.5,awesomedog,MIT,54910733,Soma binary for darwin-arm64. Install @awesomedog/soma instead.
+2026-10-13T05:35:34.877Z,@awesomedog/soma-linux-x64,0.10.5,awesomedog,MIT,66130662,Soma binary for linux-x64. Install @awesomedog/soma instead.
+2026-10-13T05:35:45.426Z,@awesomedog/soma-win32-x64,0.10.5,awesomedog,MIT,52741794,Soma binary for win32-x64. Install @awesomedog/soma instead.
+2026-10-13T05:35:48.52Z,@awesomedog/soma,0.10.5,awesomedog,MIT,79399,"Local-first semantic search for your documents, PDFs, images, audio and video."
+2026-10-13T05:36:03.926Z,create-reportwright,1.0.0,arunmallik005,MIT,98286,"npm create reportwright: a working ReportWright app (Node, React, Vue, Svelte or Angular) with a sample report, in one command."
+2026-10-13T05:36:48.789Z,@marcura/dadesk-ui-local-auth,1.0.0,islyfoxxy,,101182,Direct Auth0 sign-in for running DA-Desk UIs locally without the Docker auth gateway
+2026-10-13T05:37:16.635Z,bow-test,1.0.0,ngynbow-npm-1,ISC,230,test
+2026-10-13T05:37:17.081Z,@vnpykit/embed,0.1.0-alpha.1,visionnumbers,Apache-2.0,181433,Framework-independent browser embedding API for VNPyKit
+2026-10-13T05:38:04.434Z,@fengyimou/zhiying,0.3.1-zhiying.1,fengyimou,SEE LICENSE IN LICENSE,8341996,"zhiying: internal fork of Hypit (https://github.com/hypit-ai/hypit, © Hypit.AI) with faster startup, single-decode frame grids and the reference analysis package commands. Same license as Hypit; not…"
+2026-10-13T05:38:46.947Z,@qhago/scanner,0.1.0-beta.0,luissullca,MIT,4127206,"Barcode & QR scanner for the web, Node and Bun — ZXing-C++ in WebAssembly, multi-frame fusion, optional AI detector."
+2026-10-13T05:39:05.988Z,@qhago/ai,0.0.0,luissullca,MIT,299,Reservado: en desarrollo. Usa @beta.
+2026-10-13T05:39:33.712Z,@healthya-team/pharmacy-analytics,1.0.0,ajinkyabengal01,MIT,1714244,"Unified analytics package for pharmacy platforms: Google Analytics 4, Mixpanel funnels, and Google Search Console with Sanity Studio dashboards."
+2026-10-13T05:40:05.972Z,brass-common,1.0.0,ngynbow-npm-1,ISC,230,
+2026-10-13T05:40:11.874Z,yichong-web,0.1.0,yichong6,UNLICENSED,62240,YiChong Web 后端 SDK：Replicate 任务与 R2 上传
+2026-10-13T05:41:34.843Z,@dirwell/core,0.0.1-alpha,vdustr,MIT,155845,Framework-neutral directory listing and static publication kernel.
+2026-10-13T05:41:39.35Z,@dirwell/theme-plain,0.0.1-alpha,vdustr,MIT,31824,A minimal native HTML theme with no browser JavaScript.
+2026-10-13T05:41:44.085Z,@dirwell/server,0.0.1-alpha,vdustr,MIT,105643,Host-neutral directory listing Request/Response handler.
+2026-10-13T05:41:48.242Z,@dirwell/share-image,0.0.1-alpha,vdustr,MIT,962342,Optional build-time metadata and PNG share-image rendering.
+2026-10-13T05:41:49.732Z,releasecrew,0.1.0,samuelne,,59404,ReleaseCrew runner: writes your launches with the Claude or ChatGPT plan you already have.
+2026-10-13T05:41:52.114Z,@dirwell/integrations,0.0.1-alpha,vdustr,MIT,276549,Explicit-theme build adapters for Vite and unplugin hosts.
+2026-10-13T05:41:55.888Z,@dirwell/theme-ledger,0.0.1-alpha,vdustr,MIT,249229,Svelte-owned searchable directory explorer.
+2026-10-13T05:41:59.602Z,@dirwell/theme-crosswave,0.0.1-alpha,vdustr,MIT,321184,Vue-owned media navigation with VueUse gamepad support.
+2026-10-13T05:42:03.943Z,@dirwell/cli,0.0.1-alpha,vdustr,MIT,22214,Explicit-theme build and live-server commands for Dirwell.
+2026-10-13T05:42:07.981Z,@dirwell/theme-authoring,0.0.1-alpha,vdustr,MIT,51314,Paired Svelte/Vue theme compilation and native development HMR.
+2026-10-13T05:43:19.351Z,@dashideyizhizuo/bridge-host,0.4.0-preview.1,dashideyizhizuo,Elastic-2.0,214162,Cross-platform browser-authorized Bridge Host with foreground and native user-session adapters.
+2026-10-13T05:43:43.899Z,@skillsaas/microsoft-excel,0.2.2,skillsaas,MIT,86082,"Agent skill (SKILL.md) for Microsoft Excel: read, create, edit, recalculate and verify .xlsx/.xlsm/.csv with openpyxl, xlsxwriter, pandas, Office.js, Office Scripts, VBA and Microsoft Graph. Includes…"
+2026-10-13T05:44:46.019Z,@vnpykit/cli,0.1.0-alpha.1,visionnumbers,Apache-2.0,68955,"CLI for creating, serving, and building VNPyKit browser applications"
+2026-10-13T05:45:07.204Z,arcnano-x402,0.1.2,0xsmoothy,MIT,99806,Drop-in HTTP X402 payment middleware with sub-8ms off-chain ZK Groth16 verification & Arc Testnet batch settlement for Express and Node.js
+2026-10-13T05:45:48.403Z,@oceanalt/goat-plugin,0.1.0,water66,MIT,58333,"GOAT SDK plugin: check payments, x402 signatures and approvals with OceanAlt before an agent signs them. Two tools, plus an optional wallet-client guard that blocks or asks a human. No keys, no custo…"
+2026-10-13T05:45:53.89Z,@oceanalt/plugin-elizaos,0.1.0,water66,MIT,55103,"ElizaOS plugin: a CHECK_PAYMENT action and a payment-policy provider that ask OceanAlt about a payee before an agent pays, plus an opt-in guard that holds named payment actions until the payee is all…"
+2026-10-13T05:46:00.737Z,mainworthy,0.0.0,endqwerty,UNLICENSED,297,Mainworthy: test case management. Placeholder; the first release is not out yet.
+2026-10-13T05:46:25.555Z,@agrhub/core,1.3.3,dmtan90,SEE LICENSE IN LICENSE,696740,"Core project state, commands and patches for the AgrHub video editor (fork of @openvideo/core)"
+2026-10-13T05:46:34.726Z,@agrhub/engine-pixi,1.3.3,dmtan90,SEE LICENSE IN LICENSE,15711770,PixiJS/WebCodecs rendering engine for the AgrHub video editor (fork of @openvideo/engine-pixi)
+2026-10-13T05:46:40.795Z,@agrhub/timeline,1.3.3,dmtan90,SEE LICENSE IN LICENSE,964676,Fabric.js timeline for the AgrHub video editor (fork of @openvideo/timeline)
+2026-10-13T05:46:45.079Z,@agrhub/video-renderer,1.3.3,dmtan90,SEE LICENSE IN LICENSE,46520,Headless video renderer: runs @agrhub/engine-pixi inside a Playwright browser and returns a Buffer (fork of @openvideo/video-renderer)
+2026-10-13T05:46:52.194Z,pwd-gen-test,0.1.0,clemens2,ISC,311,
+2026-10-13T05:47:22.026Z,@felipepasc/core-sdk,0.1.1,felipepasc,UNLICENSED,62458,"Cliente da API de integração do Core: métricas, assinantes, lançamentos, orçamentos e cobranças."
+2026-10-13T05:48:34.901Z,@rezics/termspaces,0.1.0,mythedger,MIT,111879,Declarative tmux workspaces for humans and coding agents
+2026-10-13T05:51:40.821Z,@better-workflows/core,6.0.0-alpha.1,stephen-taipei,Apache-2.0,130779,"Evidence binding, action gate and provider reconciliation for AI coding agents."
+2026-10-13T05:51:48.107Z,@lightninglabs/aperture-core,0.0.1,roasbeef,MIT,218386,"L402 protocol core: macaroon operations, pricing, receipts, policy"
+2026-10-13T05:51:49.538Z,microsoft-excel,0.2.2,skillsaas,MIT,86005,"Agent skill (SKILL.md) for Microsoft Excel: read, create, edit, recalculate and verify .xlsx/.xlsm/.csv with openpyxl, xlsxwriter, pandas, Office.js, Office Scripts, VBA and Microsoft Graph. Includes…"
+2026-10-13T05:52:00.086Z,@lightninglabs/aperture-client,0.0.1,roasbeef,MIT,542537,"L402 buyer SDK: paying fetch, token cache, budget policies"
+2026-10-13T05:52:51.829Z,@sublim_analytics/tracker,0.1.1,sublimanalytics,MIT,3360346,Privacy-first web analytics tracker for Sublim Analytics
+2026-10-13T05:52:53.196Z,@weapp-tailwindcss/env,0.0.0-stage,icebreaker,,344,Temporary package placeholder for staged publishing
+2026-10-13T05:53:12.652Z,@xemahq/url-path-guard,0.1.0,edup,LicenseRef-Xema-BSL-1.1,19597,"Refuses path-placeholder values that could add, drop or climb a URL path segment, and asserts a built URL stays under its base path."
+2026-10-13T05:55:09.886Z,n8n-nodes-arcnm,0.1.0,mngapps,MIT,45777,Turn a CAD file into an itemised manufacturing cost for machined and sheet-metal parts.
+2026-10-13T05:56:03.176Z,@sakataa/baileys,1.0.0,sakataa,MIT,17805158,A WebSockets library for interacting with WhatsApp Web.
+2026-10-13T05:57:14.22Z,@zearchcomputer/mcp,0.1.0,brandononchain,MIT,156254,"Zearch MCP server: research with answers you can check, and paragraph-level verification of your own text."
+2026-10-13T05:57:58.507Z,purplemux-improved,0.5.2,lynxstirp,MIT,27494232,Manage multiple Claude Code sessions from your browser
+2026-10-13T05:58:09.105Z,@gitmyabi/pulsesmartwallet,1.0.0,gitmyabi-bot,MIT,120672,"Auto-generated TypeScript type bindings for PulseSmartWallet (build etherscan-pulsesmartwallet-271d3fbb-1791871065438, commit caef2b2, branch etherscan)"
+2026-10-13T05:58:30.841Z,@sendpanda/sdk,0.1.0,thebugeater,MIT,26490,The official server-side JavaScript and TypeScript SDK for SendPanda transactional email.
+2026-10-13T05:59:03.718Z,flodely,1.0.0,marruv,ISC,470,"Flodely is coming soon, see flodely.dev"
+2026-10-13T05:59:17.35Z,@sendpanda/webhooks,0.1.0,thebugeater,MIT,15956,Verify SendPanda webhook signatures and typed events on your server.
+2026-10-13T05:59:27.827Z,@codefusion-cc/ui,0.1.0,xeonfx,MIT,286209,"The token contract every CodeFusion look fills: typed roles (colours, fonts, radii, shadows, control heights, motion), defineLook checked at compile time, lookProblems for WCAG 2.2 AA contrast and ta…"
+2026-10-13T05:59:28.933Z,pi-roundtable-line,0.9.13,weihung1017,MIT,83966,"A LINE Messaging API transport for pi-roundtable: a signed webhook that persists events before it answers, a durable inbox worker, and an allowlist of the groups and chats it mirrors"
+2026-10-13T05:59:36.364Z,opencode2-cliproxyapi-provider,0.1.0,kelch,MIT,252934,OpenCode v2 provider plugin for CLIProxyAPI (CPA)
+2026-10-13T06:01:04.305Z,create-nativo,0.1.0,bastndev,MIT,2996,"A minimal TypeScript library package with ESM, CommonJS, and declaration outputs."
+2026-10-13T06:01:11.159Z,@reactor-models/fast-h3-omni,0.2.0,derewah,MIT,502518,Strongly-typed SDK for the FastH3Omni model on Reactor
+2026-10-13T06:01:24.394Z,multimd-table,0.1.0-beta.1,murlors,MIT,113261,Parser-independent MultiMarkdown tables with a native remark adapter
+2026-10-13T06:01:32.272Z,@gjsify/xeddsa,0.62.0,jumplink,MIT,9092,XEdDSA signatures over Curve25519 (Signal specification) and the Curve25519 ⇄ Ed25519 key mapping. Pure TypeScript on @noble/curves.
+2026-10-13T06:02:44.465Z,@flowduet/form-create,0.1.0,mackwan84,Apache-2.0,91977,FlowDuet 表单集成：流程设计文档编解码、FormCreate 表单设计与渲染、组合编辑装配
+2026-10-13T06:03:37.506Z,react-native-nitro-sms-user-consent,0.1.0,hexhad,MIT,137222,"react-native-nitro-sms-user-consent — Android SMS User Consent API (one-tap OTP reading) for React Native, built with Nitro"
+2026-10-13T06:04:19.121Z,@lightninglabs/pi-402,0.0.1,roasbeef,MIT,138203157,Pay for Pi inference with Lightning: an L402 + walletdk extension for the Pi coding agent
+2026-10-13T06:05:13.695Z,@moritz_gregor/password-generator,1.0.0,moritz_gregor,ISC,1130,Ein einfaches Node.js-Modul zum Generieren von Passwörtern.
+2026-10-13T06:05:14.51Z,@huaqiu/dsh-eda-selection,0.5.6,ethan-chien,,89844,Ambient 'Current Selection' chip above the DSH composer plus a dynamic system-prompt section describing the focused EDA editor's selection.
+2026-10-13T06:05:44.608Z,@huaqiu/dsh-sidebar-entry,0.5.6,ethan-chien,,28506,
+2026-10-13T06:06:42.101Z,firesidefm-mcp-server,0.1.0,jkotzker,MIT,52458,Unofficial MCP server for the Fireside.fm podcast hosting API
+2026-10-13T06:07:29.729Z,@aehrc/questionnaire-test-toolkit,0.1.0,leoniedickson,Apache-2.0,132481,Behavioural test toolkit for FHIR Questionnaire forms: DOM interaction helpers and a renderer harness.
+2026-10-13T06:09:45.369Z,@cafeshop-ai/pi-auto-router,0.2.0,shirtiny,MIT,60332,Configurable classifier-powered model router for Pi with optional image input
+2026-10-13T06:09:56.696Z,@gntik-ai/codemods,0.5.0,gntik-js,MIT,22344,jscodeshift transforms that migrate products across @gntik-ai/* breaking changes; run through `gntik-ui upgrade`.
+2026-10-13T06:09:56.839Z,@gntik-ai/tokens,0.2.1,gntik-js,MIT,126944,"gntik-ui brand tokens: CSS variables for light, dark and high-contrast themes, plus a Tailwind v4 bridge."
+2026-10-13T06:09:56.942Z,@gntik-ai/cli,0.5.0,gntik-js,MIT,70894,"gntik-ui command line: init a product, add components, blocks and page templates, list and eject — with --json for agents."
+2026-10-13T06:09:57.143Z,@gntik-ai/icons,0.5.0,gntik-js,MIT,4577,lucide icons for gntik-ui with brand size tokens; the single icon source for gntik-ai products.
+2026-10-13T06:10:01.531Z,@gntik-ai/editor,0.5.0,gntik-js,MIT,72294,"Monaco code editor themed by the gntik-ui brand tokens (dark, light, high contrast)."
+2026-10-13T06:10:01.55Z,@gntik-ai/flow,0.5.0,gntik-js,MIT,63317,"React Flow (@xyflow/react 12) canvas, nodes and edges themed by the gntik-ui brand tokens."
+2026-10-13T06:10:01.656Z,@gntik-ai/charts,0.5.0,gntik-js,MIT,268571,"Recharts 3 charts themed by the gntik-ui brand tokens: area, bar, line, combo, donut, bar list, funnel, sankey, radar, heatmap and mini bars, with token ramps, empty/loading/error states, threshold a…"
+2026-10-13T06:10:01.864Z,@gntik-ai/ui,0.5.0,gntik-js,MIT,3149025,"gntik-ui React components and layouts on Base UI, styled with the brand tokens."
+2026-10-13T06:10:06.574Z,@gntik-ai/chat,0.5.0,gntik-js,MIT,296249,"AI chat pack for gntik-ui: chat layout, messages, streaming markdown, composer, tool calls and citations."
+2026-10-13T06:10:07.204Z,@gntik-ai/blocks,0.5.0,gntik-js,MIT,2569376,"gntik-ui blocks: page chrome, data display, tables, forms, feedback, billing, team and builder sections composed from @gntik-ai/ui."
+2026-10-13T06:10:11.442Z,@gntik-ai/templates,0.5.0,gntik-js,MIT,2182172,"gntik-ui page templates: complete product pages (auth, dashboard, resources, settings, system) on the kit layouts and blocks."
+2026-10-13T06:10:37.409Z,vlc-mcp-server,0.1.0,quantumnovice,MIT,25628,Control VLC Media Player through the Model Context Protocol.
+2026-10-13T06:11:39.027Z,@erick0412-dev/dsh-restart,0.1.7,erick0412-dev,MIT,626695,DSH 重启插件：可配置的重启方式（Node 原生 / 旧 PowerShell 适配）与重启后自动继续提示。
+2026-10-13T06:12:16.09Z,@appxiom/ios-skills,1.0.0,dp-bg,UNLICENSED,48570,"CLI to install Appxiom iOS SDK integration skills (core, swiftui & screens, network, goal tracking, activity trails, test issue) into a project's coding agent skills directory."
+2026-10-13T06:12:44.185Z,@cafeshop-ai/pi-openai-search,0.1.0,shirtiny,MIT,55409,OpenAI web search that automatically follows the current Pi session connection
+2026-10-13T06:12:47.549Z,@cafeshop-ai/pi-context,0.1.0,shirtiny,MIT,44337,A Pi extension that displays context-window usage and message composition
+2026-10-13T06:12:50.412Z,@cafeshop-ai/pi-subagent,0.2.0,shirtiny,MIT,27457,A lightweight Pi extension for delegating isolated tasks to subprocess agents
+2026-10-13T06:12:54.297Z,@cafeshop-ai/pi-theme-cafecode,0.1.0,shirtiny,MIT,288251,A CaféCode visual theme and UI extension for Pi maintained by cafecodework
+2026-10-13T06:13:13.27Z,os-ca-prgms,1.0.0,parzival0802,MIT,15076,"A collection of Operating System programs covering process scheduling, deadlock avoidance & prevention, paging, file allocation, file organization, bootloader simulation, and shell scripting."
+2026-10-13T06:13:45.37Z,shas-tool,0.3.1,asuranempire,MIT,59720,"SHA's Tool — download any video from YouTube, X, Instagram, Threads & 1800+ sites — right from your terminal. paste. download. done."
+2026-10-13T06:13:56.221Z,@1ui/mcp,0.0.1,1ui,MIT,393998,"Model Context Protocol server for [1UI](https://1ui.dev). It lets MCP clients such as Claude Code, Cursor, and Windsurf inspect and edit designs through the running app, reusing the same tool definit…"
+2026-10-13T06:15:29.658Z,@vokril/icons,0.0.0-stage,berkansozer,,335,Temporary package placeholder for staged publishing
+2026-10-13T06:15:49.12Z,@homurajs/core,26.10.13,wpy030414,,10019,homura 基座：运行环境探测、配置装载、日志、TTL-KV
+2026-10-13T06:15:50.916Z,@homurajs/3p,26.10.13,wpy030414,,18862,homura 第三方平台能力抽象：能力分片接口（capability 声明 + supports 守卫协商），钉钉为第一个实现
+2026-10-13T06:15:52.773Z,@homurajs/app-kit,26.10.13,wpy030414,,15889,homura 组装入口：createApp 中间件链装配 + 双形态 RuntimeAdapter（standalone / qw-pages）
+2026-10-13T06:15:54.333Z,@homurajs/db,26.10.13,wpy030414,,20863,homura 持久层：Drizzle 双 driver（postgres-js / node:sqlite）、双方言 schema 配方、迁移双轨、supabase 直连
+2026-10-13T06:15:56.078Z,@homurajs/storage,0.0.0-stage,wpy030414,,339,Temporary package placeholder for staged publishing
+2026-10-13T06:15:57.975Z,@homurajs/auth,26.10.13,wpy030414,,33679,homura 认证：通用标准 OAuth2 (Authorization Code Flow) 客户端 + 自管 session（HS256 短 JWT + opaque refresh rotate）
+2026-10-13T06:15:59.801Z,@homurajs/license,26.10.13,wpy030414,,19093,homura 激活客户端：注册、心跳、停服守卫（对接 ../homura-genuine 中央授权服务，契约先行）
+2026-10-13T06:16:12.013Z,@munei89/figma-parity,0.0.0-stage,munei89,,343,Temporary package placeholder for staged publishing
+2026-10-13T06:16:15.145Z,cordova-plugin-sentry-sdk,0.1.0,belov_maxim,Apache-2.0,34354,"Starts the native Sentry SDKs (sentry-cocoa, sentry-android) through their public API and keeps the user, tags and contexts your JavaScript SDK sets in sync, so a native crash is reported with the co…"
+2026-10-13T06:16:28.607Z,@osimart/create-storefront,1.0.0,ositcom,UNLICENSED,1186950,"Osimart storefront platform — logic, platform pages and CLI; extended by every theme repo"
