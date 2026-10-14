@@ -1,12 +1,28 @@
 {
   "list": {
-    "count": 135,
-    "from": "2026-10-14T03:19:09.488383Z",
-    "path": "data/new-packages-2026-10-14T04-19-20-304372Z.csv",
-    "to": "2026-10-14T04:19:20.304372Z"
+    "count": 256,
+    "from": "2026-10-14T04:19:20.304372Z",
+    "path": "data/new-packages-2026-10-14T05-20-10-474403Z.csv",
+    "to": "2026-10-14T05:20:10.474403Z"
   },
-  "pending": [],
-  "seq": 136766990,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@hozo/media",
+      "since": "2026-10-14T04:19:20.304372Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kinis-ai/assessment-kit",
+      "since": "2026-10-14T04:19:20.304372Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kue-qa/react-native-bare",
+      "since": "2026-10-14T04:19:20.304372Z"
+    }
+  ],
+  "seq": 136776724,
   "source_truncated": false,
-  "window": "2026-10-14T04:19:20.304372Z"
+  "window": "2026-10-14T05:20:10.474403Z"
 }
