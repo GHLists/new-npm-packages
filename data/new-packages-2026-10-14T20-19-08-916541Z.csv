@@ -1,0 +1,134 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-14T19:16:59.037Z,@prexjs/wrappy,1.0.0,qev,MIT,7778,Lightweight TypeScript utility that wraps functions while preserving their own properties and callback decorations.
+2026-10-14T19:17:20.984Z,@prexjs/async-hooks,1.0.0,qev,MIT,7689,Lightweight TypeScript utility providing an AsyncResource implementation for asynchronous context tracking.
+2026-10-14T19:19:17.21Z,@lovett/board,0.1.0,edwinlovett,,2371823,"Ported from the Tasks lens in `ignite-workspace` (`apps/workspace/src/lenses/tasks/`, ADR-146, merged at `8cb8b40f`) under **ADR-0001**. Route: `/w/:workspaceId/board`."
+2026-10-14T19:19:56.212Z,pi-show-opencode-go-quota,0.1.0,luohuidong,MIT,34653,Shows OpenCode Go subscription quota (5h / weekly / monthly windows) in the pi TUI status bar.
+2026-10-14T19:21:23.817Z,@ibisllc/billing-metering,0.1.0,ibisllc,BUSL-1.1,175718,"Usage metering for any service: per-account counters, plans with allowances and allow/throttle/stop policies, idempotent edge reports and budget leases, with pluggable stores."
+2026-10-14T19:21:26.451Z,@ibisllc/billing-store-d1,0.1.0,ibisllc,BUSL-1.1,19051,"Cloudflare D1 MeterStore for @ibisllc/billing-metering: counters and idempotent batches in two tables, one round trip per batch."
+2026-10-14T19:21:29.115Z,@ibisllc/billing-store-postgres,0.1.0,ibisllc,BUSL-1.1,24652,"PostgreSQL MeterStore for @ibisllc/billing-metering, on pg, PGlite or any client with a query(text, values) method. Every operation is one statement."
+2026-10-14T19:21:31.236Z,@ibisllc/billing-store-sqlite,0.1.0,ibisllc,BUSL-1.1,17969,"SQLite MeterStore for @ibisllc/billing-metering, on node:sqlite, better-sqlite3 or any driver with the same synchronous surface."
+2026-10-14T19:21:40.019Z,unitpost-cli,0.1.0,docreator,MIT,665390,"Official Unitpost command-line interface — send email and SMS, manage contacts, domains, templates, webhooks and automations from your terminal, scripts and CI."
+2026-10-14T19:21:52.117Z,@gitmyabi/tlton,1.0.0,gitmyabi-bot,MIT,173080,"Auto-generated TypeScript type bindings for TLTon (build etherscan-tlton-992651bf-1792005688379, commit a6133da, branch etherscan)"
+2026-10-14T19:22:04.955Z,@codeceptjs/lint,0.1.0,davert,MIT,26922,"Linter for CodeceptJS tests, page objects and helpers"
+2026-10-14T19:22:11.273Z,@moltenship/calendar-temporal,1.0.0-rc.1,moltenship,MIT,52380,Framework-independent Temporal utilities for Moltenship Time.
+2026-10-14T19:22:12.811Z,@agent-sh/chrome-bridge,0.9.0,avifenesh,MIT,187084,"Let Claude Code, Codex and other MCP agents drive your real Chrome: your tabs, logins and profile, via an extension, native messaging and one shared MCP server."
+2026-10-14T19:22:17.798Z,chamfer-ui,0.1.0-alpha.1,insannurjaman,MIT,60304,Original source installer for Chamfer UI
+2026-10-14T19:22:18.098Z,@gala-chain/gala-mcp-server,1.0.0-rc.0,aschuler-gala,MIT,3050987,"The Gala MCP server: 322 tools in selectable toolsets. core (wallets and keys, GALA balance and transfer, cross-chain bridging, wrap/unwrap: @gala-chain/gala-core-sdk), launchpad (pools, bonding-curv…"
+2026-10-14T19:22:25.657Z,@moltenship/calendar-core,1.0.0-rc.1,moltenship,MIT,330552,"Framework-independent calendar data, projection, layout, and interaction engine."
+2026-10-14T19:22:29.721Z,@moltenship/calendar-dnd,1.0.0-rc.1,moltenship,MIT,74856,"Pointer drag, resize, and create interactions for Moltenship Time views."
+2026-10-14T19:22:38.518Z,x402-scrape-mcp,1.0.0,6mickswagger9,,2511,MCP server for x402 scrape API: scrape URLs and extract structured data. Pay per call with USDC on Base.
+2026-10-14T19:22:41.864Z,@moltenship/calendar-react,1.0.0-rc.1,moltenship,MIT,133858,Headless React integration for Moltenship Time.
+2026-10-14T19:22:45.765Z,@moltenship/calendar,1.0.0-rc.1,moltenship,MIT,10458,DX-first supported facade for Moltenship Time.
+2026-10-14T19:22:58.301Z,@moltenship/calendar-dnd-kit,1.0.0-rc.1,moltenship,MIT,23607,Optional dnd-kit adapter for Moltenship Time: drag your items into the calendar and events out.
+2026-10-14T19:23:11.515Z,@moltenship/ics,1.0.0-rc.1,moltenship,MIT AND Unicode-3.0,131358,"Typed, Temporal-native iCalendar (RFC 5545) parsing with Standard Schema support."
+2026-10-14T19:23:17.177Z,@moltenship/calendar-recurrence,1.0.0-rc.1,moltenship,MIT,201184,"Range-bounded recurrence for Moltenship Time: RRULE expansion, exceptions and series edits."
+2026-10-14T19:23:23.398Z,@moltenship/calendar-testing,1.0.0-rc.1,moltenship,MIT,107650,"Test helpers for apps built on Moltenship Time: a deterministic environment, typed builders and fixtures, a render and hydration harness, queries, and keyboard and pointer drivers."
+2026-10-14T19:23:25.221Z,@njweber/manifest-check,0.1.1,njweber,MIT,16372,Audit an Android manifest (from an .aab or a text AndroidManifest.xml) for debuggable/cleartext/exported/permission problems — dependency-free.
+2026-10-14T19:23:32.603Z,@wajub/angular,1.8.1,wajubhq,MIT,311737,"Wajub Components for Angular — provideWajub, a service, standalone embed components and a confirm helper"
+2026-10-14T19:24:39.277Z,brag-build,0.1.0,brag-build,MIT,138241,Turn your Claude Code and Codex sessions into decision cards on Brag.
+2026-10-14T19:26:42.453Z,fontpool,1.1.0,travisvaleri,MIT,22051,"MCP server that searches Fontshare, Fontsource, Google and Bunny in one catalog, downloads real woff2 files into your project and writes the @font-face rules."
+2026-10-14T19:26:49.727Z,create-itaca,0.1.0,alejandroelbaz,MIT,206761,"Scaffold Itaca Technologies standard stacks: Astro or Next.js + React + Tailwind + shadcn/ui, deployed to AWS behind Cloudflare."
+2026-10-14T19:27:18.172Z,@softure-ai/llm,0.1.0,jarmatys,MIT,64264,"SOFTURE AI language model access: schema-validated structured output over an AI SDK model, timeouts, stable error codes, token usage and cost records, OpenTelemetry spans and a fake model for tests."
+2026-10-14T19:28:44.2Z,@njweber/android-manifest-check,0.1.0,njweber,MIT,16380,Audit an Android manifest (from an .aab or a text AndroidManifest.xml) for debuggable/cleartext/exported/permission problems — dependency-free.
+2026-10-14T19:29:03.378Z,@ciromaciel/tasks-improvements,1.0.0,ciro-maciel,MIT,42839,"The Tasks' improvement build: an approved suggestion built on the Tasks' machines, one engine and a manifest per product that says how it is tested, previewed and published."
+2026-10-14T19:29:43.859Z,@conloca/cloud-astro,0.2.1,niko_nt2,FSL-1.1-ALv2,622700,Astro integration that registers each build's editor bundle at an editor endpoint
+2026-10-14T19:29:52.659Z,@fireota/react-native,0.1.0,sujal-85,MIT,47589,"Over-the-air JavaScript updates for React Native apps, served from your own Firebase project by FireOTA."
+2026-10-14T19:30:09.372Z,@fireota/cli,0.1.0,sujal-85,MIT,16252,Build FireOTA update packages and publish React Native OTA releases from a terminal or CI.
+2026-10-14T19:31:15.278Z,context-autopsy,0.2.0,alistairclark7,MIT,138151,"Find out what's actually filling your coding agent's context window. Breaks Claude Code, Codex, Cursor, OpenCode, Pi, Gemini CLI, Qwen Code, Cline, Roo, Kilo, Droid, Amp and Goose sessions down into…"
+2026-10-14T19:31:21.397Z,@lightback/mcp,0.2.1,alxhawk,MIT,315810,Local feedback bridge and MCP tools for Claude Code and Codex.
+2026-10-14T19:32:05.87Z,@ironflow/agent,0.44.1,sahina,LicenseRef-Ironflow-EULA,561808,"Ironflow agent for ACP editors (Zed, JetBrains): writes Ironflow application code"
+2026-10-14T19:32:57.275Z,@megatk/ygomd-card-images-00,1.0.1,megatk,UNLICENSED,70450169,决斗档案中文卡面固定分区 00，包含原图及缩略图
+2026-10-14T19:33:06.432Z,canvas-lms-mcp-local,1.0.0,fireiscoolsolo,MIT,155598,"Student-focused Canvas LMS MCP server: 209 tools for grades, deadlines, submissions and study planning. Runs locally over stdio."
+2026-10-14T19:33:46.609Z,@kairos.trade/sdk,0.1.0,kairostrade,MIT,161672,"Kairos SDK: market data, wallet trading (sign-what-we-send) and external signing. No runtime dependencies."
+2026-10-14T19:34:35.945Z,@atthebunga/gurmukhi-search-utils,0.1.0,thehimmat,MIT,29158,"Gurmukhi search building blocks: spelling-variant folding, first-letter search, word tokenizing, syllable parsing, and a {category} pattern language"
+2026-10-14T19:34:35.951Z,@atthebunga/gurmukhi-legacy,0.1.0,thehimmat,MIT,66784,"Convert legacy Gurmukhi font text (AnmolLipi/GurbaniAkhar, Asees, Joy, AnandpurSahib, Satluj, SONY) to Unicode, and Unicode back to AnmolLipi"
+2026-10-14T19:34:36.014Z,@atthebunga/gurmukhi-phonetics,0.1.0,thehimmat,MIT,22183,"Gurmukhi to IPA pronunciation, and a fuzzy phonetic key for matching spoken or romanized queries"
+2026-10-14T19:34:36.098Z,@atthebunga/gurmukhi-mcp,0.2.0,thehimmat,MIT,20638,"MCP server for Gurmukhi and Gurbani: phonetic typing, IPA pronunciation, legacy-font conversion, Gurbani search and the word dictionary"
+2026-10-14T19:34:36.103Z,@atthebunga/gurmukhi-core,0.2.0,thehimmat,MIT,60142,"Framework-agnostic engine for real-time Gurmukhi input: layouts, keystroke resolution, and a pure editing controller"
+2026-10-14T19:34:36.643Z,@atthebunga/gurmukhi-element,0.2.0,thehimmat,MIT,84844,"Gurmukhi phonetic input for any framework or plain HTML: <gurmukhi-input>, <gurmukhi-keyboard>, and attachGurmukhi()"
+2026-10-14T19:35:50.53Z,@njweber/screenshot-check,0.1.0,njweber,MIT,10775,"Check store screenshots against the Google Play / App Store rules — dimensions, format, aspect ratio, count. Dependency-free."
+2026-10-14T19:37:10.032Z,@lazehq/cli,0.1.2,rchaves,UNLICENSED,1192061,"The Laze command line: sign in, read and post in chat, and connect your own Claude Code or Codex session as an agent."
+2026-10-14T19:37:21.073Z,astro-fedifeed,1.0.1,yplog,MIT,55321,An Astro component that renders the latest posts of a Mastodon or Pixelfed account or a PeerTube account or channel from its RSS / Atom feed.
+2026-10-14T19:37:24.379Z,lolzteam-mcp,1.0.1,liwidale,MIT,807856,MCP server that lets AI assistants search and read the LOLZTEAM Forum and LZT Market through their official APIs.
+2026-10-14T19:38:40.155Z,@hallaxius/omo-beta,0.1.0-beta.1,airshakur88,MIT,683051,"OpenCode V2 agent orchestration with durable plans, parallel delegation and verification"
+2026-10-14T19:38:55.874Z,@pi-plugins/claude-cli,0.0.0,kedom1337,MIT,4031153,Use a Claude subscription in pi by running each model request through the Claude Code CLI.
+2026-10-14T19:39:22.116Z,@panoptesui/core,1.0.0,panoptesui,MIT,24005,"Core data protocols, dynamic filtering, sorting and query engine for Panoptes UI"
+2026-10-14T19:39:32.489Z,@panoptesui/react,1.0.0,panoptesui,MIT,958272,Panoptes UI High-Performance Enterprise DataGrid and Components for React
+2026-10-14T19:40:04.185Z,@paul_mbr/pwd-gen,1.1.0,paul_mbr,ISC,1249,**Hinweis:** Dieses npm-Modul wurde im Rahmen eines Schulprojekts erstellt. Es dient ausschließlich zu Lern- und Übungszwecken. Bitte nicht für produktive Anwendungen verwenden.
+2026-10-14T19:41:05.429Z,digitalmakerai,1.0.0,digitalmakerai,MIT,22480,"Command line and MCP bridge for Digital Maker AI: make faceless YouTube videos, Shorts, whiteboard videos, animated podcasts, thumbnails and channel research from any AI agent or terminal."
+2026-10-14T19:41:41.992Z,web-bridger,0.1.0,gvins,MIT,38096,"Tiny, transport-agnostic pub/sub contract for messaging across iframes, Web Workers, or any custom postMessage-like channel."
+2026-10-14T19:41:53.274Z,sheet-lite,0.3.0,naaach!,MIT,390459,"Lightweight and secure library to read, write and edit Excel (XLSX) without breaking your file. Zero transitive dependencies."
+2026-10-14T19:42:09.451Z,@strategicos/tokens,0.1.1,pierry-strategicos,UNLICENSED,15335,"Tema Strategicos para Tailwind v4: cores, fonte, raio, sombras, claro e escuro."
+2026-10-14T19:42:40.349Z,@strategicos/ui,0.1.1,pierry-strategicos,UNLICENSED,242819,Componentes React da Strategicos (shadcn + Radix + Tailwind v4).
+2026-10-14T19:42:57.42Z,@obsidiandeep/feedback-robot,0.1.0,obsidiandeep,MIT,446871,"A green robot that floats over your web app while you build it. Drag its hand onto what you mean, write what should change, and the message (with a screenshot, the element and the console's errors) l…"
+2026-10-14T19:43:21.931Z,@aulay/runtime,0.1.0,aulay,Apache-2.0,14393,Install the Aulay runtime on this computer: `npx @aulay/runtime`.
+2026-10-14T19:44:29.091Z,@runomine/node,0.1.0,runomine,MIT,154318,"Cookieless, server-side analytics for runomine: pageviews and revenue events from your Node backend. Express, Next.js and Fetch-API frameworks."
+2026-10-14T19:44:37.333Z,@bobfrankston/mftwalk,0.1.2,bobfrankston,ISC,57055,"Fast NTFS directory sizes and file search by reading the Master File Table directly (WizTree-style), pure TypeScript"
+2026-10-14T19:44:40.032Z,@fufaich/page-preview-task-lab3,1.0.1,fufaich,MIT,7990,Browser custom element that displays a preview of an HTML page
+2026-10-14T19:45:04.589Z,@ya-modbus/driver-dds024mr,0.1.1,groupsky,GPL-3.0-or-later,229455,Sinotimer DDS024MR 3-phase energy meter driver for ya-modbus
+2026-10-14T19:45:07.991Z,@ya-modbus/driver-sdm630,0.1.0,groupsky,GPL-3.0-or-later,252696,Eastron SDM630 3-phase energy meter driver for ya-modbus
+2026-10-14T19:45:52.783Z,@flexkit/schema,0.1.0,danielkratohvil,MIT,84271,"Flexkit project configuration: schema types, defineConfig/defineEntity, and the serializer that turns a flexkit.config.ts into the deployable JSON schema."
+2026-10-14T19:46:22.105Z,@flexkit/tools,0.1.0,danielkratohvil,MIT,181282,"Define, serve and run Flexkit custom tools and code skills from your own server: defineTool, defineSkill, defineTools, createToolsHandler and the local runtime behind `flexkit dev`."
+2026-10-14T19:47:10.728Z,@criscoelho/boilerplates,0.1.1,criscoelho,UNLICENSED,10140569,"Componentes React whitelabel, utils/hooks, presets CSS, animações e fontes — cada item importável sozinho, com índice otimizado para IA (llms.txt)."
+2026-10-14T19:47:30.755Z,@skilledcrow/itoka,0.1.0,steelthedev,MIT,73182,"The Itoka API for JavaScript and TypeScript: DNS zones and records, domains, orders, and webhooks."
+2026-10-14T19:47:45.814Z,@leofcoin/faucet,0.1.0,vandeurenglenn,MIT,22472,Operator-funded faucet for the Leofcoin Peach testnet
+2026-10-14T19:47:51.923Z,homebridge-bewave-mqtt,1.0.0,rmarobert,MIT,96170,BE WAVE (HYBRID) MQTT plugin voor HomeBridge
+2026-10-14T19:48:40.936Z,@basthon/xcc-wasm,0.1.0,casatir,MIT,504331,"Persistent C REPL in WebAssembly (xcc compiler and libc), for Basthon"
+2026-10-14T19:49:00.771Z,@esvigy/react,0.1.0,nickfrost1,MIT,2576598,"Esvigy illustration components for React. 100% vector, tree-shakable, and customizable with micro-animations."
+2026-10-14T19:49:04.074Z,runomine,0.1.0,runomine,MIT,83509,"The runomine command line: log in from the browser, set up cookieless analytics in a project in one command (`runomine init`), and read your numbers from the terminal."
+2026-10-14T19:49:20.512Z,@fatihky/talkative,0.1.0,fatihky,MIT,16475465,Self-hosted multi-provider AI chat app
+2026-10-14T19:50:00.194Z,iobroker.mx400,0.0.1,gauda,MIT,540992,ioBroker adapter for Buderus MX400 (K40 RF gateway) to control and monitor heating system
+2026-10-14T19:50:15.224Z,forgekit-amg-astro,1.1.0,err_407,ISC,23425,"CLI para crear proyectos Astro con React, Tailwind, ESLint y Prettier"
+2026-10-14T19:50:45.212Z,@lessspam/widget,0.1.0,lukegrokbot,MIT,73469,toll.js: the invisible check for forms. Self-hosted page script and workers.
+2026-10-14T19:51:16.211Z,@lessspam/server,0.1.0,lukegrokbot,MIT,207783,"Toll issuer and verifier for Node: HTTP API, Express middleware, fetch helper."
+2026-10-14T19:51:19.772Z,@lessspam/agent,0.1.0,lukegrokbot,MIT,55453,Toll client for automated callers. Test mode: does the work for a write on a Toll site.
+2026-10-14T19:51:36.832Z,@hsinyau/waline,0.1.1,hsinyau,MIT,3047620,client for waline comment system
+2026-10-14T19:51:56.894Z,@lessspam/mcp,0.1.0,lukegrokbot,MIT,36233,Local MCP server for the three Toll write tools. Calls a site's existing /v1 API; no network service of its own.
+2026-10-14T19:52:18.068Z,@getwaylight/embed,1.0.0,jaydrogers,UNLICENSED,2283932,"Waylight visual feedback and bug-reporting widget. Drop-in launcher with screenshot capture, annotation, and technical-context collection."
+2026-10-14T19:52:58.101Z,@push.rocks/smartsea,1.0.0,lossless,MIT,279022,"The in-executable runtime for Node.js single executable applications: SEA detection, atomic extraction of embedded asset trees into a cache keyed by content hash, and a native addon loader."
+2026-10-14T19:53:08.733Z,@tereo-io/sdk,0.1.0,aaron0619,Apache-2.0,482033,"One SDK for app services to reach Tereo: auth, files, webhooks and audit over a single @dianemo/core request handler"
+2026-10-14T19:53:39.154Z,continuum-ai-sdk,0.1.0,transtech_eas,MIT,14166,"Thin wrapper around the official openai/@anthropic-ai/sdk clients, preconfigured for the Continuum AI gateway"
+2026-10-14T19:53:45.336Z,brovin_social_media_amdin,1.0.0,b0bc41k,ISC,37115,
+2026-10-14T19:55:21.254Z,wirescope,0.1.0,azizcodes,MIT,622177,"In-app network inspector and API explorer for React — like React Query Devtools, but for every request your app makes."
+2026-10-14T19:55:30.618Z,app-store-kit,1.1.0,allexp1,MIT,729543,"A Claude skill that takes an iOS/iPadOS app from code to the App Store and keeps it updated: code pre-check against Apple's rules, product page in every language, screenshots, build upload, and App S…"
+2026-10-14T19:55:46.329Z,@fairmind-ai/hopper-hq,0.1.0,alexiocassani,Apache-2.0,1541046,A local office building where you watch your coding-agent sessions work.
+2026-10-14T19:58:22.056Z,@madduck/squoredata,0.0.0-stage,madduck,,341,Temporary package placeholder for staged publishing
+2026-10-14T19:58:55.847Z,@megatk/ygomd-card-images-02,1.0.0,megatk,UNLICENSED,69591247,决斗档案中文卡面固定分区 02，包含原图及缩略图
+2026-10-14T19:59:02.627Z,@strlngco/fallback,1.0.1,strlngco,MIT,160354,"Deterministic snapshot, diff, and restore CLI for Shopify stores."
+2026-10-14T19:59:18.506Z,genesisproof-cli,0.1.4,freerave,UNLICENSED,42726,"Build, publish and run lightweight GENESIS tools. Commands: gen and genesis."
+2026-10-14T19:59:22.257Z,@helpvox/sdk,0.1.0,helpvox,MIT,27708,"Build apps for HelpVox: REST client, webhook and tool-call verification, OAuth install flow."
+2026-10-14T19:59:22.924Z,@viamrobotics/post-message-sdk,0.2.0,devin-viam,Apache-2.0,176681,"Call Viam machine APIs from a sandboxed iframe through a RobotClient held by the parent window, over window.postMessage."
+2026-10-14T19:59:33.368Z,create-viam-control,0.1.0,devin-viam,Apache-2.0,30117,Scaffold a Svelte custom control UI for one model of a Viam module.
+2026-10-14T20:00:01.903Z,@helpvox/cli,0.1.0,helpvox,MIT,19909,"Create, run and publish HelpVox apps from the terminal."
+2026-10-14T20:00:56.564Z,gowin-mcp,0.2.1,papipapito,AGPL-3.0-or-later,257497,"MCP server that turns Gowin EDA build reports into structured data: resource usage, fMax per clock, timing violations with a pass/fail/unknown gate, pin assignment, synthesis/PnR warnings, and build-…"
+2026-10-14T20:01:30.123Z,socials-homes,1.0.0,b2one,MIT,44646,"Official JavaScript SDK and CLI for the Socials Homes API: covered cities, plans and prices, and live rental listing counts per city and budget. Read-only, no API key."
+2026-10-14T20:01:46.503Z,@not-govuk/task-list,0.19.3,daniel-ac-martin,MIT,8468,"A component to show all the tasks a user needs to do, and allow them to easily identify which ones are done and which they still need to do."
+2026-10-14T20:02:13.803Z,headmark,0.0.0,ajiho,ISC,244,
+2026-10-14T20:02:46.496Z,@oathbuild/mcp-server,0.1.0,oathbuild,MIT,27903,"OATH as tools for Claude and any MCP client: plan and execute actions inside a signed OATH, gas paid by the hosted relayer."
+2026-10-14T20:03:06.842Z,@modisign/mcp,0.1.0,slvdev,MIT,25772248,Discover and render Modisign animated overlays locally through MCP
+2026-10-14T20:04:29.436Z,@semi-bot/semi-theme-hy-cloud,1.0.0,semi-bot,MIT,1512773,Semi theme generated by dsm. https://semi.design/dsm
+2026-10-14T20:04:53.856Z,@muraqib/core,1.0.3,jenanabuhasanein,ISC,1265950,"Muraqib Core - Unified Developer Environment Guardian & Performance Auditor. AI-complementary DevTool for detecting security vulnerabilities, performance issues, and architecture violations in AI-gen…"
+2026-10-14T20:05:24.164Z,preventionlabs-mcp,1.0.1,preventionlabs,UNLICENSED,5901,"Preventionlabs MCP server: let AI agents see what's broken on a live website, from the outside."
+2026-10-14T20:05:42.333Z,@nicl4s11/password-gen-4b,0.1.0,nicl4s11,ISC,1158,
+2026-10-14T20:05:46.936Z,create-amg-astro,1.0.0,err_407,ISC,1689,"pnpm create amg-astro: proyectos Astro con React, Tailwind, ESLint y Prettier"
+2026-10-14T20:06:14.724Z,x402-translate-mcp,1.0.0,6mickswagger9,,2490,MCP server for x402 translate API: translate text between 100+ languages and detect language. Pay per call with USDC on Base.
+2026-10-14T20:06:32.088Z,@riserbenefits/cli,0.0.0,fdengineering,UNLICENSED,279,Placeholder. The Riser CLI will be published here.
+2026-10-14T20:06:40.601Z,prisma-rrhh,0.4.54,micki.lahor,ISC,324289,Proyecto rrhh con múltiples esquemas de Prisma para centralizar la estructura de bd
+2026-10-14T20:06:48.097Z,@rolt/cli,0.0.0,aadiarurolt,UNLICENSED,426,Rolt: code review from your laptop. Reserved; the client ships soon.
+2026-10-14T20:09:42.048Z,@nullclear/shared,1.0.0,nullclear,MIT,54347,"Shared types, ABIs, crypto schemas and chain configurations for NullClear"
+2026-10-14T20:09:44.048Z,@nullclear/x402-arbiter,1.0.0,nullclear,MIT,45903,NullClear Developer and Agent SDK for safe x402 calls with deferred schema escrow
+2026-10-14T20:09:46.396Z,@nullclear/mcp,1.0.0,nullclear,MIT,13735,Model Context Protocol server for autonomous agents using NullClear
+2026-10-14T20:09:56.121Z,@barqel/barq-logger,1.0.0,hassankerdash,,25541,"Zero-dependency, high-performance structured HTTP logging and tracing plugin for Barq"
+2026-10-14T20:10:18.314Z,@barqel/barq-openapi,1.0.0,hassankerdash,,44064,Zero-dependency OpenAPI 3.1 spec and interactive docs generator for Barq
+2026-10-14T20:10:20.541Z,artiste,1.0.0,snarcraft,MIT,567326,"ἄπειρον — the platform factory: one boundless source, every platform you will ever build. Zero dependencies."
+2026-10-14T20:11:31.352Z,factusmart,1.0.0,factusmart,MIT,96853,"SDK oficial de Node.js / TypeScript para el API de facturación electrónica de FactuSmart (SUNAT, Perú)."
+2026-10-14T20:11:43.429Z,@george2f/eslint-plugin-clean-code,0.3.0,george2f,MIT,734825,ESLint rules derived from the book Clean Code (Robert C. Martin)
+2026-10-14T20:11:51.864Z,tripilot-e2e,0.2.0-alpha.7,sueltonlima,MIT,335404,"Android E2E: natural commands, UI tree, local OCR and local or corporate text AI."
+2026-10-14T20:12:46.512Z,@paradevai/pdv,0.0.0,kitenite,UNLICENSED,144,reserved
+2026-10-14T20:13:56.03Z,@hive-oss/plugin-sdk,0.3.0,hive-oss,Apache-2.0,81819,Typed TypeScript SDK for Hive plugins and protocol 2
+2026-10-14T20:14:03.21Z,node-connectwisecpq,0.1.0,maxs05,MIT,1068403,Fully-typed TypeScript SDK for the ConnectWise CPQ (Sell API) quotes API. Zero runtime dependencies. Built for building MCP servers and integrations.
+2026-10-14T20:14:42.67Z,cgraph-mcp,0.9.3,nxtsoftlabs,MIT,7836,CGraph code graph MCP server for coding agents; runs the verified native release for your platform
+2026-10-14T20:15:22.127Z,@bazariodev/net-monitor,0.1.0,bazario,MIT,32303,Dependency-free browser network state observation.
+2026-10-14T20:15:36.46Z,tripilot-react-native,0.2.0-alpha.7,sueltonlima,MIT,6000,Small React Native helpers and opt-in Expo configuration for TriPilot E2E.
+2026-10-14T20:16:05.935Z,@activeagents/browser-sidecar,1.9.0,tonsoffun,MIT,123840,"One sandbox's browser for the Active Agent dashboard: Chromium driven over Playwright MCP, recorded with rrweb."
+2026-10-14T20:18:36.364Z,safebyok,0.0.0,mrflip,Apache-2.0,374248,"Bring-your-own-key vault: end-to-end encrypted, browser-side storage for API keys and other small secrets, over a pluggable database layer"
