@@ -1,38 +1,23 @@
 {
   "list": {
-    "count": 133,
-    "from": "2026-10-14T19:19:06.749827Z",
-    "path": "data/new-packages-2026-10-14T20-19-08-916541Z.csv",
-    "to": "2026-10-14T20:19:08.916541Z"
+    "count": 200,
+    "from": "2026-10-14T20:19:08.916541Z",
+    "path": "data/new-packages-2026-10-14T21-19-06-5813Z.csv",
+    "to": "2026-10-14T21:19:06.5813Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "package": "@bauglir/claude-guards",
+      "since": "2026-10-14T20:19:08.916541Z"
+    },
+    {
+      "attempts": 3,
       "package": "@ciromaciel/improvements",
       "since": "2026-10-14T18:19:09.264762Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@coffeesoftware/mestre",
-      "since": "2026-10-14T19:19:06.749827Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@flowmind/cli",
-      "since": "2026-10-14T19:19:06.749827Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kovalenko/material-carousel",
-      "since": "2026-10-14T19:19:06.749827Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@sanity/pandacss-tsdown-plugin",
-      "since": "2026-10-14T19:19:06.749827Z"
     }
   ],
-  "seq": 136974473,
+  "seq": 136985858,
   "source_truncated": false,
-  "window": "2026-10-14T20:19:08.916541Z"
+  "window": "2026-10-14T21:19:06.5813Z"
 }
