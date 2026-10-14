@@ -1,0 +1,226 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-13T22:15:58.966Z,@gang-of-beads/pi-web-goals,0.1.1,hanxiaodu,MIT,41774,"PI WEB plugin for pi-goal: a Goals tab listing the project's goals with their status and task progress, and short rows for goal events in the conversation."
+2026-10-13T22:15:59.921Z,@gang-of-beads/pi-web-subagents,0.1.0,hanxiaodu,MIT,73290,"PI WEB plugin for pi-subagents: a Subagents tab listing the session's runs with their output, a reply card for a child's supervisor request, and short rows for subagent notices."
+2026-10-13T22:16:10.367Z,@gang-of-beads/pi-web-workflows,0.1.0,hanxiaodu,MIT,36623,PI WEB plugin that draws the pi-dynamic-workflows `workflow` tool as a live progress card.
+2026-10-13T22:16:13.107Z,@gang-of-beads/pi-web-background-runs,0.1.0,hanxiaodu,MIT,26460,"PI WEB plugin for pi-background-tasks: a Background tab listing the session's tasks, a running count in the activity line, and task-ended notices in the conversation."
+2026-10-13T22:16:21.438Z,@notrealstudio/pi-ext-session-meta,0.8.0,juliangarrettblues,,83971,"pi-расширение: свойства чата в файле сессии (nr-session-meta, /meta) и адаптер pi над общей RP-сборкой nr-chat-store/assembly (system, контекст, рецепт nr-prompt-recipe)"
+2026-10-13T22:16:51.026Z,@nfckit/pcsc,1.0.0,nfckit,MIT,98011,"PC/SC bridge for NFC Kit with reader discovery, card lifecycle events, and APDU transactions"
+2026-10-13T22:19:21.396Z,@matick-io/ui,0.1.0,stormsc,Apache-2.0,1535556,This package contains the Matick UI design system.
+2026-10-13T22:19:23.476Z,@matick-io/ui-timeline,0.1.0,stormsc,Apache-2.0,28844,"A tree-structured timeline of markers, segments and keyframes over a clock, with timecode helpers. Follows a ui-media player, or any clock passed as props."
+2026-10-13T22:19:25.533Z,@matick-io/ui-commands,0.1.0,stormsc,Apache-2.0,26926,VS Code-style command palette (Ctrl/Cmd+P) for apps built on Matick UI. Register commands by context and run them by search.
+2026-10-13T22:19:27.388Z,@matick-io/ui-properties,0.1.0,stormsc,Apache-2.0,160439,"Property grids and inline editors: rows, scrub inputs, colour picker, curve and gradient fields, record editors. Entity-agnostic; the platform's schema editors live in ui-entity-types."
+2026-10-13T22:19:29.325Z,@matick-io/ui-media,0.1.0,stormsc,Apache-2.0,35499,"Frame-accurate playback of video, audio and stills: a shared media context, stage, video and image surfaces, transport controls, hotkeys and audio peaks. Drives a ui-timeline Timeline placed inside i…"
+2026-10-13T22:19:31.294Z,@matick-io/ui-shell,0.1.0,stormsc,Apache-2.0,55336,"Shared app shell for Matick apps: AppLayout (title bar + window-controls slot), the customizable icon sidebar (pinned / More-overflow) and its Customize-navigation dialog. Data-driven from a per-app…"
+2026-10-13T22:20:53.406Z,@radix-ui/env-check,0.0.1,chancestrickland,MIT,7769,
+2026-10-13T22:21:23.239Z,@notrealstudio/backend-tauri,0.2.0,juliangarrettblues,MIT,83671,"Транспорт nr-ui-protocol через Tauri invoke: createTauriBackend (webview) и createProtocolHost (sidecar), стримы run/watch/services.stream событиями"
+2026-10-13T22:22:09.853Z,@joseprio/sqz,1.0.0,joseprio,MIT,4147771,"Convert between PNG/APNG, GIF, WebP and AVIF and squeeze the result: lossless, palette-quantized or lossy at a target SSIMULACRA2 score."
+2026-10-13T22:23:48.123Z,astro-d1-reactions,1.0.0,mrmartineau,MIT,105089,"Astro integration for page reactions backed by Cloudflare D1: unique reads, hearts, reader highlights and a public stats page"
+2026-10-13T22:23:56.823Z,@gitmyabi/erc721delegate,1.0.0,gitmyabi-bot,MIT,91227,"Auto-generated TypeScript type bindings for ERC721Delegate (build etherscan-erc721delegate-f849de01-1791930213876, commit 7fcade1, branch etherscan)"
+2026-10-13T22:24:59.033Z,@ape-egg/overlens,1.0.0,kortes,,36678,"Visual regression review straight from GitHub: crawls every deploy, diffs the screenshots and reports in the PR — run from a GitHub workflow."
+2026-10-13T22:25:30.66Z,busybots,0.2.1,youmdingding,MIT,2866262,"Watch your coding agents (Claude Code, Codex, Gemini CLI, OpenCode, Cursor, Conductor) bustle around a little pixel-art world."
+2026-10-13T22:25:53.964Z,@gitmyabi/bat,1.0.1,gitmyabi-bot,MIT,235037,"Auto-generated TypeScript type bindings for BAT (build etherscan-bat-f1d08a1a-1791930328783, commit 1e43cc2, branch etherscan)"
+2026-10-13T22:26:15.11Z,@siratik/wp-component-library,0.1.0,builtnorth,GPL-2.0-or-later,220805,Library of components for use in the WordPress block editor.
+2026-10-13T22:26:31.689Z,@notrealstudio/backend-local,0.2.0,juliangarrettblues,MIT,20068,"ProtocolBackend над каталогом для nr-ui-protocol: .mds-сессии (nr-chat-store) + файлы пространства (backend-fs), без сети и без модели — бэкенд exz v2"
+2026-10-13T22:29:51.099Z,@nfckit/server,1.0.0,nfckit,MIT,59183,"Server-side NFC Kit bridge for synchronized remote reader state, snapshots, and APDU routing"
+2026-10-13T22:29:59.998Z,@ohos-ports/sentry-esbuild-plugin,5.4.1-beta.0,virtfans,MIT,32565,Official Sentry esbuild plugin (OpenHarmony port)
+2026-10-13T22:30:46.931Z,@55gms/ads-edge,1.2.1,jiayangc,SEE LICENSE IN LICENSE,85239,Edge module for the 55GMS ad server: serves ads from a cached manifest and reports hourly stats
+2026-10-13T22:31:21.583Z,message-board,0.0.0,julianbenegas,MIT,246,Reserved for vboard: https://www.npmjs.com/package/vboard
+2026-10-13T22:31:40.946Z,matterbridge-frigate,0.2.0,tammeryousef,ISC,1711110,Frigate NVR cameras in Matter
+2026-10-13T22:32:26.309Z,rpg-engine,0.1.0,stefanocaronia,(MIT AND CC-BY-4.0 AND CC-BY-3.0),7840380,"Play a tabletop role-playing game with an AI as your game master: the AI tells the story; RPG Engine remembers the world, rolls the dice and keeps the accounts."
+2026-10-13T22:32:59.799Z,@ax-design/scroll,0.1.0,losses,MIT,46470,"Web component that implements the horizontal scroller of Axiom Design System: vertical wheels, touchpads and keys scroll it sideways, like the Windows 8 Start screen."
+2026-10-13T22:33:56.997Z,sri-sentinel,1.0.0,mrlouiswright,MIT,51091,"Subresource Integrity (SRI) generator and checker: hashes <script> and <link> resources in built HTML (sha256/384/512, local and CDN), writes integrity + crossorigin, fails CI on missing, wrong or st…"
+2026-10-13T22:34:52.45Z,@ostenverse/assin-api-node,3.2.0,devmasterostenverse,MIT,89587,SDK oficial da API de assinatura digital Assin para Node.js
+2026-10-13T22:34:58.767Z,solid-countup,1.0.1,d6f4e5,MIT,80171,"A Solid component that animates a number from one value to another — a take on CountUp.js that renders declaratively, follows props reactively, and formats through Intl.NumberFormat."
+2026-10-13T22:36:09.774Z,@paterapatera/sdd-orc,0.1.1,paterapatera,MIT,522557,Cursor、Codex、Claude Code へ SDD のスキルを入れる
+2026-10-13T22:36:13.024Z,@zunialab/mcp,0.1.0,danbaruka,Apache-2.0,71649,"MCP server for building with the Zunia wallet: searches the live docs, integration guides, SDK versions on npm, chain info, sign-in checks and IBC helpers"
+2026-10-13T22:36:39.732Z,@dsgraph/cli,0.2.0,arez-xd,MIT,25560,"dsgraph CLI: scan, check and diff design tokens (DTCG 2025.10, CSS custom properties) from folders, npm and GitHub."
+2026-10-13T22:36:53.11Z,@dsgraph/mcp,0.2.0,arez-xd,MIT,45047,"MCP server for design tokens: find the token for a value, read a token with its references, compare versions, run checks. DTCG, token JSON and CSS; folders, npm and GitHub."
+2026-10-13T22:38:02.393Z,foldtoc,0.1.1,jycd25,MIT,37892,Generate a Markdown table of contents whose sub-sections are collapsed behind <details> toggles. A drop-in replacement for doctoc.
+2026-10-13T22:38:10.573Z,@vasakgroup/plugin-vsk-store,0.2.0,jdecima,GPLv3,50505,"Client for the VasakOS system store: verified owner, sync status and change notices (Created for VasakOS)"
+2026-10-13T22:38:35.308Z,@masjidun/cli,0.1.0,masjidun-admin,UNLICENSED,2241647,Kommandozeile und MCP-Server für Masjidun
+2026-10-13T22:39:59.863Z,grind-tracker,0.1.1,jycd25,Apache-2.0,51065,"Local-first spaced-repetition tracker for things you're learning, with a local web UI."
+2026-10-13T22:40:00.707Z,cookie-sentinel,1.0.0,mrlouiswright,MIT,56576,"Audit Set-Cookie headers for security issues: missing Secure/HttpOnly/SameSite, __Host-/__Secure- prefix violations, broad Domain/Path, long expiry, cookies over HTTP, oversized cookies, JWTs and ema…"
+2026-10-13T22:42:22.078Z,@tbarho/yoshimi,0.0.1-dry.0,tbarho,MIT,2907032,"Your team of always-on AI agents, on your own Vercel account."
+2026-10-13T22:42:24.371Z,create-yoshimi,0.0.1-dry.0,tbarho,MIT,1710,npm create yoshimi: install Yoshimi on your Vercel account.
+2026-10-13T22:42:27.99Z,@notrealstudio/backend-acp,0.5.0,juliangarrettblues,MIT,249595,"ACP (Agent Client Protocol) с двух сторон: любой ProtocolBackend как ACP-агент (stdio + WebSocket) и внешний ACP-агент (Claude Code, opencode, Gemini CLI) как ProtocolBackend"
+2026-10-13T22:43:31.23Z,knowledge-assistant,0.1.2,jycd25,MIT,198861,"Local-first personal knowledge base with RAG: import PDFs, notes and email, hybrid vector + keyword search, and cited Q&A over your own documents. Runs entirely on your machine."
+2026-10-13T22:43:32.795Z,@aurora-hospital/ui,0.1.1,elviomarcos1,MIT,136935,"Accessible Angular design system for real-time hospital dashboards: bed occupancy, patient status, vital signs and surgical schedules, readable at a glance."
+2026-10-13T22:44:54.895Z,@kognitivedev/genui,0.3.2,vserifsaglam,MIT,294920,"Generative UI protocol for Kognitive: Zod block catalogs, streaming partial-JSON decoding, validation, prompt guides and the render tool"
+2026-10-13T22:45:10.991Z,@ortho-earth/h3,0.1.0,kenji.yoshida.home.2026,GPL-3.0-or-later,15446,"H3 cells for @ortho-earth/globe: cell ids → GeoJSON polygons, point binning into H3 cells (count/sum/mean/min/max with MapLibre expressions), zoom → resolution, and map.addH3() which draws the cells…"
+2026-10-13T22:45:17.407Z,@agentsmarket/lint,0.1.0,vladimirmyshkovski,MIT,91457,"Static analysis for PIPELINE.md files — catches deprecated version pins, missing cost ceilings, malformed structured_json, dangling $stages references, and invalid EVM author addresses BEFORE publish."
+2026-10-13T22:45:24.218Z,core-kernel,0.1.0,macndesign,MIT,289491,"Blocos base de DDD/Clean Architecture (Result, Entity, ValueObject, UseCase, ports) para Bun e Node"
+2026-10-13T22:45:51.776Z,@supersuit/group-md,0.1.0,garyfromcw,MIT,75641,"A written standard for the record of a group of people and its chat threads, with a checker, a finder and a reconciler."
+2026-10-13T22:46:29.388Z,aurora-edu,1.0.1,axononymous,ISC,2633078,Aurora proxy UI
+2026-10-13T22:47:29.667Z,@notrealstudio/nr-chat-widget,0.3.0,juliangarrettblues,MIT,336591,"<nr-chat> — ванильный Web Component чата nrchat (Shadow DOM, без фреймворка): лента со стримом, карточки тулов, апрувов и вопросов, транспорты nr-ui-protocol (HTTP/SSE) и ACP (WebSocket), тулы страни…"
+2026-10-13T22:48:44.07Z,@ohos-ports/snaplet-seed,0.98.0-beta.1,virtfans,FSL-1.1-MIT,1062246,An auto-generated ORM-like library for generating seed data tailored to your own database
+2026-10-13T22:48:51.551Z,@ohos-ports/temporalio-worker,1.24.0-beta.0,ljry,MIT,1215775,Temporal.io SDK Worker sub-package
+2026-10-13T22:50:15.999Z,license-sentinel,1.0.0,mrlouiswright,MIT,100864,"License compliance gate for npm projects: reads node_modules and npm/pnpm/yarn lockfiles, resolves SPDX expressions and LICENSE texts, enforces allow/deny lists, presets and project-license compatibi…"
+2026-10-13T22:50:23.91Z,aster-dox,0.0.0,guzman109,Apache-2.0,12077,Accessible static C++ documentation from Doxygen XML. The first release is on its way.
+2026-10-13T22:51:00.877Z,@ainative/sandpack-client,2.19.8,ainative-studio,Apache-2.0,242684,"AINative fork of @codesandbox/sandpack-client, pointed at AINative's self-hosted sandpack bundler"
+2026-10-13T22:51:08.138Z,@copilot-bridge/cli,0.1.0,alexselig,MIT,100250,"Let your app use the GitHub Copilot CLI the user is already logged into — no API keys. Core spawn helpers, a localhost HTTP bridge, a browser client, and a React status hook."
+2026-10-13T22:51:33.16Z,@costglass/mcp,1.0.0,sohrabkhan,Apache-2.0,32417,CostGlass Model Context Protocol (MCP) Server for FinOps and Cloud Cost Intelligence
+2026-10-13T22:51:39.193Z,@extriber/tripmeter-browser,1.0.1,extriber_so,ISC,73392,Tripmeter browser and WebView event collection SDK
+2026-10-13T22:51:42.767Z,@siratik/ui-kit,0.1.0,builtnorth,GPL-2.0-or-later,314268,NPM package for very minimal global and common CSS and JS.
+2026-10-13T22:52:32.736Z,@notrealstudio/nr-nodes,0.2.1,juliangarrettblues,MIT,187091,"Node-graph editor: headless core (registry, graph ops, validation, groups, layered auto-layout) and a React canvas with ports, connections, inspector and undo."
+2026-10-13T22:53:16.331Z,@jrmc/adonis-queue-dashboard,0.1.0,batosai,MIT,228784,"A standalone, read-only queue dashboard for AdonisJS"
+2026-10-13T22:54:54.913Z,@kre64/hello-npm-test,0.0.0-stage,kre64,,343,Temporary package placeholder for staged publishing
+2026-10-13T22:54:54.986Z,phone-drop,1.4.1,jorran,MIT,81048,"AirDrop for your terminal and AI agents: move files between your computer and your phone with one QR scan over local Wi-Fi. No app, no cloud, no file size limit."
+2026-10-13T22:56:37.236Z,@ohos-ports/spectrum-web-components-shared,1.12.4-beta.0,virtfans,Apache-2.0,179094,"The `@spectrum-web-components/shared` package provides essential base classes, mixins, and utilities that support developing Spectrum Web Components. This package contains foundational tools for focu…"
+2026-10-13T22:57:57.741Z,@notrealstudio/nr-skins,0.1.0,juliangarrettblues,MIT,86077,"Скины nrchat как данные (skin-spec): контракт токенов и селекторов, разбор шапки .skin.css, валидатор (css-tree), наследование base, файловый источник SkinsOps для serveBackend"
+2026-10-13T22:59:59.899Z,gloop-ui,0.1.0,fabiobiondi,MIT,354397,"Soft, blobby, fluid React components with liquid ""goo"" animations."
+2026-10-13T23:00:07.215Z,@ohos-ports/splunk-otel-web,3.2.0-beta.0,ljry,Apache-2.0,7777790,Splunk distribution of Open Telemetry for browser environment.
+2026-10-13T23:00:59.127Z,@solosoficial/plugin-kubernetes,2026.1010.0-canary.0,lucasisaque45,MIT,251764,Kubernetes sandbox provider plugin for Paperclip environments
+2026-10-13T23:01:56.314Z,jlens-cli-linux-x64,0.14.0,thkprado,MIT,4900023,"The jlens binary for linux x64, run by jlens-cli"
+2026-10-13T23:02:00.568Z,jlens-cli-linux-arm64,0.14.0,thkprado,MIT,4411000,"The jlens binary for linux arm64, run by jlens-cli"
+2026-10-13T23:02:04.916Z,jlens-cli-darwin-x64,0.14.0,thkprado,MIT,4287461,"The jlens binary for darwin x64, run by jlens-cli"
+2026-10-13T23:02:09.313Z,jlens-cli-darwin-arm64,0.14.0,thkprado,MIT,3973990,"The jlens binary for darwin arm64, run by jlens-cli"
+2026-10-13T23:02:35.124Z,@ohos-ports/scrypted-snapshot,0.2.68-beta.1,ljry,,199422,Snapshot Plugin for Scrypted
+2026-10-13T23:02:46.225Z,@ohos-ports/storybook-addon-mcp,10.6.2-beta.0,virtfans,MIT,74049,Help agents automatically write and test stories for your UI components
+2026-10-13T23:03:01.044Z,wamr3d,0.1.0,aymen94,,872071,WAMR3D: a 3D engine core in WebAssembly
+2026-10-13T23:04:01.566Z,carriel,0.0.1,deokwons9004dev,MIT,2002,"Carriel is a Mac app, and its carriel command comes with it. This package only points there."
+2026-10-13T23:06:21.142Z,@xemahq/peer-analysis,0.1.0,edup,Apache-2.0,64053,"Build-time analyzer that reads a package's typed peer seams (service-registry lookups, configured peer clients, SDK facilities) from its TypeScript source and reports each peer edge, or a finding whe…"
+2026-10-13T23:06:38.832Z,@skutopia-ai-builders/iap,0.1.0,skutopia-ai-builders,UNLICENSED,19362,Express middleware that verifies the Google Cloud IAP assertion and puts the signed-in user on req.user.
+2026-10-13T23:06:48.393Z,@xemahq/pnpm-plugin-one-version-line,0.1.0,edup,Apache-2.0,16237,pnpm config-dependency plugin: refuses an install in which a workspace member declares a catalogued or first-party dependency with a literal range.
+2026-10-13T23:07:11.207Z,@rafaelaugusto/jolt,0.1.0-beta.0,rafaelaugusto,MIT,181135,"Native animations for NativeScript: presets, springs, keyframes and stagger in one call."
+2026-10-13T23:07:30.401Z,@blogbuddy/sdk,1.0.1,vahangev,MIT,835915,"Render a BlogBuddy blog on your own site: server components, React hooks, and SEO helpers."
+2026-10-13T23:07:59.736Z,@delimitus/ssc-files,0.0.3,mihirp381,MIT,13576,"Keep files through the SSC cell's file broker: signed links, no storage credentials. Zero dependencies."
+2026-10-13T23:08:02.503Z,@delimitus/ssc-data,0.0.3,mihirp381,MIT,13525,Read a database your org connected through the SSC cell's data gateway: no database credentials. Zero dependencies.
+2026-10-13T23:09:20.217Z,@gitmyabi/tubby,1.0.0,gitmyabi-bot,MIT,138501,"Auto-generated TypeScript type bindings for TUBBY (build etherscan-tubby-ca7ca7bc-1791932934993, commit edeb5f5, branch etherscan)"
+2026-10-13T23:11:33.84Z,tailwind-form-core,0.0.0-stage,bopew55142,,340,Temporary package placeholder for staged publishing
+2026-10-13T23:11:39.478Z,@delimitus/ssc-identity,0.0.3,mihirp381,MIT,17411,Read the identity note the SSC gateway attaches to every request (X-SSC-Identity). Zero dependencies.
+2026-10-13T23:11:42.111Z,@delimitus/ssc-reconnect,0.0.3,mihirp381,MIT,13673,Keep a WebSocket or an event stream going past the SSC request limit (X-SSC-Request-Deadline). Zero dependencies.
+2026-10-13T23:12:48.207Z,uszyist,1.0.1,croogie,MIT,41333,Read-only Todoist daily workflow CLI
+2026-10-13T23:13:40.019Z,@willyandres77/desproteger-renombrar,1.0.0,willyandres77,,11112,Desprotege y renombra facturas PDF para usar desde Node.js y Next.js
+2026-10-13T23:14:46.534Z,@launchtarqly/codegen,0.1.0,tarq,,712556,Generates type-safe wrappers around the official LaunchDarkly SDKs
+2026-10-13T23:14:54.421Z,use-dezucons,0.1.0,pranavjangbahadur,,55542,"Pixel faces whose shape, palette, and emotion combine."
+2026-10-13T23:15:53.895Z,japan-postal-mcp,0.0.0-stage,ashkobo,,338,Temporary package placeholder for staged publishing
+2026-10-13T23:15:57.399Z,japan-bank-mcp,0.0.0-stage,ashkobo,,336,Temporary package placeholder for staged publishing
+2026-10-13T23:16:00.136Z,japan-invoice-mcp,0.0.0-stage,ashkobo,,339,Temporary package placeholder for staged publishing
+2026-10-13T23:16:48.476Z,@joelverhagen-gh/validation-auto-suspension-smoke,0.0.0,joelverhagen-gh,UNLICENSED,414,Benign baseline for controlled npm publisher-containment testing
+2026-10-13T23:18:33.075Z,vomero,0.0.0,yyx990803,MIT,173,
+2026-10-13T23:19:27.717Z,telegram-agent-relay,0.1.1,tacnoman,MIT,38354,"Two-way walkie-talkie connecting Telegram to local AI agent sessions (Orca, Claude, Codex, OpenCode, tmux, cmux)"
+2026-10-13T23:20:23.53Z,@kitlangton/skulk,0.1.0,kitlangton,MIT,146103,"Durable timers, event triggers, and conditional session wake-ups for OpenCode agents."
+2026-10-13T23:22:23.476Z,@aura-react-comp/motion,0.1.1,landy.li,MIT,91908,Aura 动效组件库 — 令牌驱动的场景化动画组件（进出场、数字与文字特效、滚动驱动、编排、手势）
+2026-10-13T23:22:43.74Z,@ohos-ports/types-whatwg-streams,3.2.1-beta.0,ljry,MIT,2024,"Stub TypeScript definitions entry for typescript, which provides its own types definitions (HarmonyOS/OpenHarmony port)"
+2026-10-13T23:22:47.097Z,tailwind-input-kit,0.0.0-stage,fesebak651,,340,Temporary package placeholder for staged publishing
+2026-10-13T23:23:05.074Z,@ohos-ports/udecode-plate-ui-list,21.5.1-beta.0,ljry,MIT,38796,List UI for Plate
+2026-10-13T23:23:44.672Z,@holmes-agent/reserved,0.0.1,gilliangroks,MIT,848,Namespace reservation for the holmes-agent project. This package holds the @holmes-agent scope; real packages will follow.
+2026-10-13T23:24:15.891Z,@coproduct/react-native-sdk,1.0.0,basilb,Apache-2.0,1939457,Coproduct React Native SDK scaffold
+2026-10-13T23:25:21.443Z,@guygrigsby/pi-agent-select,0.1.0,guygrigsby,MIT,24698,"Pick subagent models from pi's live registry with agent-select: cost or quality ranking, scored by recorded test and CI verdicts ahead of declared scores."
+2026-10-13T23:25:24.881Z,@bhbr/egalite,1.0.0,bhbr,ISC,13129,
+2026-10-13T23:26:37.287Z,zingolib-bundle-pin,0.1.0,zancas,MIT,19368,Pins and fetches zingolib's published Prebuilt Bundles for a consumer of the Binding Layer.
+2026-10-13T23:26:40.629Z,ethiodeploy,0.1.0,brooksolo,MIT,36276,Deploy and manage EthioDeploy projects from your terminal.
+2026-10-13T23:29:51.182Z,@baginskisoftware/dotenv,0.1.1,eduardobcosta,BSD-3-Clause,50345,Type-safe environment variable validation for JavaScript runtimes.
+2026-10-13T23:30:26.784Z,@gramstore/agent,0.1.0,levsmagin,MIT,78396,"Agent SDK for gram.store — scan TON token auctions, place bids, and trade post-graduation tokens programmatically."
+2026-10-13T23:30:47.928Z,@amsozzer/lintel,0.1.0,amsozzer,MIT,316050,"Catch Supabase RLS leaks in the pull request that introduces them: PR diffs, leak probes, CLI + REST + MCP."
+2026-10-13T23:32:36.888Z,rok-code,0.1.0,mrguineabird,SEE LICENSE IN LICENSE.md,454546,"ROK Code - the ROK team's agentic coding CLI, powered by ROK's own API."
+2026-10-13T23:32:55.5Z,@vibefield/puppeteer-core,0.2.0,jamesyong-42,MIT,1101843,"Core contracts for the puppeteer agent runtime: events, session state reducer, adapter interfaces. Zero I/O."
+2026-10-13T23:33:03.509Z,@ohos-ports/types-puppeteer,7.0.4-beta.0,virtfans,MIT,1929,"Stub TypeScript definitions entry for puppeteer, which provides its own types definitions"
+2026-10-13T23:33:12.298Z,tilcai-sdk,0.1.0,tilcai,MIT,356379,"SDK de Node.js para TilcAI: pagos USDC crosschain (CCTP V2) desde Avalanche y Monad hacia Stellar, emisión de cuentas inteligentes (SCA), x402, vault de desembolsos y monitorización"
+2026-10-13T23:33:57.015Z,homebridge-powerpetdoor,1.0.0,txcharlie,MIT,96864,"Control High Tech Pet Power Pet Wi-Fi doors from Apple Home, locally, with no cloud."
+2026-10-13T23:35:42.553Z,rolepost-darwin-arm64,0.1.0,jacob_stein,MIT,66619493,"The rolepost binary for darwin arm64. Install rolepost, not this package."
+2026-10-13T23:35:59.308Z,rolepost-darwin-x64,0.1.0,jacob_stein,MIT,73691773,"The rolepost binary for darwin x64. Install rolepost, not this package."
+2026-10-13T23:36:16.467Z,google-maps-saved,0.1.0,gautamg795,MIT,166471,Read Google Maps Saved lists through the signed-in Maps web session and export them as Takeout-format CSV/ZIP or JSON
+2026-10-13T23:36:17.732Z,rolepost-linux-arm64,0.1.0,jacob_stein,MIT,85641880,"The rolepost binary for linux arm64. Install rolepost, not this package."
+2026-10-13T23:36:36.192Z,rolepost-linux-x64,0.1.0,jacob_stein,MIT,85681994,"The rolepost binary for linux x64. Install rolepost, not this package."
+2026-10-13T23:36:48.84Z,@ohos-ports/types-mapbox__mapbox-gl-draw,1.4.9-beta.0,virtfans,MIT,24133,TypeScript definitions for @mapbox/mapbox-gl-draw
+2026-10-13T23:39:03.517Z,@vibefield/puppeteer-view-sdk,0.2.0,jamesyong-42,MIT,849910,"The monitor-view contract: the model a Godview view receives, the three commands it may call, and nothing else."
+2026-10-13T23:39:05.957Z,@vibefield/puppeteer-monitor,0.2.0,jamesyong-42,MIT,240751,Transport-neutral external store for Puppeteer agent monitor snapshots and notifications.
+2026-10-13T23:39:08.198Z,@vibefield/puppeteer-react,0.2.0,jamesyong-42,MIT,7444,React hooks and portable view contracts for Puppeteer agent monitors.
+2026-10-13T23:39:11.433Z,@vibefield/puppeteer-views,0.2.0,jamesyong-42,MIT,2338183,"Godview's monitor views for Puppeteer agents: the swarm on WebGPU, the list, the rain, the timeline, the instrument bar, the usage column and the find sheet, host-agnostic behind injected ports."
+2026-10-13T23:39:14.394Z,@vibefield/puppeteer-surface,0.2.0,jamesyong-42,MIT,7776705,Vendor-neutral evidence and Agent Surface Model (ASM) runtime for captured coding-agent behavior.
+2026-10-13T23:39:20.02Z,@vibefield/puppeteer-imposter,0.2.0,jamesyong-42,MIT,981319,One executable that impersonates every coding agent from versioned Surface models and vendor-native channels.
+2026-10-13T23:39:22.464Z,@vibefield/puppeteer-native-observation,0.2.0,jamesyong-42,MIT,48917,Bounded native file observation and metadata subprocess primitives for Puppeteer agent adapters.
+2026-10-13T23:39:24.811Z,@vibefield/puppeteer-record,0.2.0,jamesyong-42,MIT,97773,"Own-action record: the append-only JSONL log of what the puppeteer runtime itself did (injections, workspace finals, exits, policy conflicts)."
+2026-10-13T23:39:27.102Z,@vibefield/puppeteer-workspaces,0.2.0,jamesyong-42,MIT,80335,"Workspace modes for puppeteer sessions: direct, exclusive, git-worktree, and copy providers with final metadata."
+2026-10-13T23:39:29.432Z,@vibefield/puppeteer-adapter-acp,0.2.0,jamesyong-42,MIT,123754,"Generic Agent Client Protocol (ACP) adapter: transport connectors, session/update normalization, lifecycle, permissions, and deterministic prompt injection."
+2026-10-13T23:39:31.958Z,@vibefield/puppeteer-adapter-antigravity,0.2.0,jamesyong-42,MIT,278761,Antigravity adapter for Puppeteer: native TUI launch and durable transcript normalization.
+2026-10-13T23:39:34.63Z,a2a-way,0.0.1,celumin,MIT,480,An open pathway for Agent-to-Agent communication.
+2026-10-13T23:39:34.781Z,@vibefield/puppeteer-adapter-claude,0.2.0,jamesyong-42,MIT,809024,"Claude Code native adapter: hook registry, loopback hook bridge, event normalizer, settings generation."
+2026-10-13T23:39:37.618Z,@vibefield/puppeteer-adapter-codex,0.2.0,jamesyong-42,MIT,658869,"Codex native adapter: app-server (JSON-RPC) structured driver — notification normalizer, session driver, structured injection."
+2026-10-13T23:39:40.09Z,@vibefield/puppeteer-adapter-copilot,0.2.0,jamesyong-42,MIT,238729,GitHub Copilot CLI adapter for Puppeteer: native TUI launch and durable session-event normalization.
+2026-10-13T23:39:42.244Z,@vibefield/puppeteer-testing,0.2.0,jamesyong-42,MIT,44090,Vendor-neutral test harness and AgentAdapterBinding conformance suite for Puppeteer adapters.
+2026-10-13T23:39:44.897Z,@vibefield/puppeteer-adapter-grok,0.2.0,jamesyong-42,MIT,475879,"Grok adapter for Puppeteer: native TUI, shared leader lifecycle, and ACP control composition."
+2026-10-13T23:39:47.233Z,@vibefield/puppeteer-adapter-kimi,0.2.0,jamesyong-42,MIT,386930,"Kimi Code adapter for Puppeteer: native TUI launch, durable-wire observation, and guarded prompt control."
+2026-10-13T23:39:50.431Z,@vibefield/puppeteer-adapter-opencode,0.2.0,jamesyong-42,MIT,492371,"OpenCode adapter for Puppeteer: private serve backend, HTTP/SSE observation and control, and exact-session native TUI attach."
+2026-10-13T23:39:53.15Z,@vibefield/puppeteer-adapter-hermes,0.2.0,jamesyong-42,MIT,495494,"Hermes Agent adapter for Puppeteer: owned tui_gateway WebSocket host, native --tui attach, and structured observation."
+2026-10-13T23:39:55.652Z,@vibefield/puppeteer-adapter-pi,0.2.0,jamesyong-42,MIT,290765,"Pi adapter for Puppeteer: native TUI launch, durable session observation, and normalized agent events."
+2026-10-13T23:39:58.026Z,@vibefield/puppeteer-runtime,0.2.0,jamesyong-42,MIT,1072902,"Unified Puppeteer agent runtime: provider registry, session lifecycle, workspace isolation, events, and action recording."
+2026-10-13T23:40:00.15Z,@vibefield/puppeteer-builtin-providers,0.2.0,jamesyong-42,MIT,96031,Optional turn-key composition of the Puppeteer runtime and official agent adapters.
+2026-10-13T23:40:16.616Z,@processcart/sdk,0.1.0,wwelti,MIT,913931,"TypeScript client for the Process Cart API: typed methods for every operation, cursor pagination, idempotency keys, retries and webhook signature verification."
+2026-10-13T23:43:26.552Z,@ohos-ports/smithery-cli,4.11.1-beta.1,lljry,,1911047,An NPX command to install and list Model Context Protocols from Smithery
+2026-10-13T23:43:34.031Z,@stickly-live/node,0.1.1,tarunmottlia,MIT,31365,"Verify Stickly reward webhooks and sign user identity tokens. Zero dependencies, for any Node server — Next.js, Express, Hono, Fastify, Remix."
+2026-10-13T23:43:42.56Z,@stickly-live/widget,0.1.1,tarunmottlia,MIT,44244,"The Stickly rewards widget — a Preact + Shadow DOM bundle your users see. Reward GitHub stars, Discord joins, G2 reviews and referrals in your own product credits."
+2026-10-13T23:43:54.393Z,sigelo-contact,0.1.2,csigelo,MIT,1034728,"Agent contacts for sigelo identities: invite codes, a contact store, end-to-end encrypted envelopes with hybrid post-quantum key agreement, and an MQTT carrier. Client code (MIT); the relay server is…"
+2026-10-13T23:44:29.641Z,@ohos-ports/theia-core,1.76.0-beta.0,virtfans,EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0,18188006,Theia is a cloud & desktop IDE framework implemented in TypeScript.
+2026-10-13T23:44:47.27Z,effect-prophet,0.1.0,jer-k,MIT,1607130,Effect-based time-series forecasting with a Rust/WASM numerical backend
+2026-10-13T23:44:48.561Z,@ohos-ports/ts-safeql-plugin-utils,5.3.0-beta.1,virtfans,MIT,196045,
+2026-10-13T23:44:53.98Z,paperclip-adapter-live-agent,0.1.0,selfspark,MIT,72173,"Hire agents that are already awake in their own harness (Claude Code, Hermes, grok, opencode, Ollama, anything that can make an HTTP request) into Paperclip through a mailbox. Paperclip holds no prov…"
+2026-10-13T23:45:23.769Z,@zeroclover/pi-tps,0.1.1,zeroclover,AGPL-3.0-only,174873,"Tokens-per-second readout in the footer: live speed while streaming and one summary per agent run, with burst detection and calibrated estimates"
+2026-10-13T23:45:35.486Z,@curtisai/shared,0.1.2,jordannewell,BUSL-1.1,55599,Curtis shared package
+2026-10-13T23:45:38.058Z,@curtisai/llms,0.1.2,jordannewell,BUSL-1.1,413690,Curtis llms package
+2026-10-13T23:45:40.447Z,@curtisai/agents,0.1.2,jordannewell,BUSL-1.1,40120,Curtis agents package
+2026-10-13T23:45:40.851Z,create-zlens-app,0.0.1,duckcode,Apache-2.0,503,ZLens (DuckCode AI Labs): governed analytics for dbt teams. Coming soon; see the repository.
+2026-10-13T23:45:42.779Z,@curtisai/core,0.1.2,jordannewell,BUSL-1.1,263081,Curtis core package
+2026-10-13T23:45:45.056Z,@curtisai/protocol,0.1.2,jordannewell,BUSL-1.1,6032,Curtis protocol package
+2026-10-13T23:46:43.164Z,@openaudit/cli,0.1.0,anton_wester,MIT,1271347,"Audit codebases, URLs, running apps, containers, IaC and mobile builds for security, accessibility, performance, SEO and more. Agent-ready via MCP."
+2026-10-13T23:47:28.915Z,@ohos-ports/univerjs-preset-sheets-table,1.0.4-beta.0,ljry,Apache-2.0,154767,Preset for table features in Univer Sheets.
+2026-10-13T23:49:30.231Z,@frontpanel/css,0.1.0,dulanh,MIT,100750,"Early-2000s hardware skin as plain CSS: liquid-chrome bezels, gel buttons, LCDs and LEDs. Tokens, classes and an optional Tailwind 4 entry."
+2026-10-13T23:49:45.319Z,@frontpanel/vue,0.1.0,dulanh,MIT,36811,"Vue 3 components for the Frontpanel early-2000s hardware skin: a scale-to-fit device frame, windows, chrome and gel buttons, caps, LCDs and LEDs, built on Reka UI."
+2026-10-13T23:49:50.652Z,dsh-model-block-picker,1.0.0,luetta,MIT,426873,DeepSeek Harness 模块化模型选择器：根据模型来源（Provider 如 CodeBuddy、Qoder、DeepSeek 等）分块展示，支持分块下钻、全局搜索与推理强度调节。
+2026-10-13T23:50:59.646Z,@perkyzz/emvb-mcp,0.5.0,perkyzz,MIT,486090,Local (stdio) MCP server for EmVB pages: lets AI agents build EmDash pages through your site's EmDash MCP endpoint.
+2026-10-13T23:51:00.174Z,@layerzerolabs/pubkey-policy-solana-contracts,1.2.82,layerzero-bot,MIT,173126,
+2026-10-13T23:51:02.274Z,@layerzerolabs/pubkey-policy-hook-solana-contracts,1.2.82,layerzero-bot,MIT,41288,
+2026-10-13T23:51:04.731Z,@layerzerolabs/token-manager-solana-contracts,1.2.82,layerzero-bot,MIT,453767,
+2026-10-13T23:51:07.192Z,@layerzerolabs/console-oft-contracts-solana,1.2.82,layerzero-bot,MIT,968414,Console OFT top-level Solana contracts
+2026-10-13T23:51:14.273Z,cortico-provider-coo,0.2.0,phantivia,AGPL-3.0-or-later,204637,"Coo Pet Provider: DeepSeek, Qwen, Kimi, GLM, Doubao, MiniMax, StepFun, Baidu Qianfan, OpenRouter, OpenAI, Anthropic, Gemini and xAI for Cortico, over Responses, Chat Completions, the Messages API or…"
+2026-10-13T23:53:11.506Z,@nteract/sift-csv,0.0.1,rgbkrk,BSD-3-Clause,824,Placeholder that reserves @nteract/sift-csv for trusted publishing. It contains no code; install @nteract/sift-csv@nightly or a later stable version.
+2026-10-13T23:54:28.237Z,astro-rankcli,0.0.1,integrallis,MIT,17985,"Astro integration for SEO automation - sitemap, robots.txt, meta injection - RankCLI"
+2026-10-13T23:54:35.991Z,vite-plugin-rankcli,0.0.1,integrallis,MIT,18704,"Vite plugin for SEO validation, sitemap generation, and meta tag injection - RankCLI"
+2026-10-13T23:54:44.328Z,next-rankcli,0.0.1,integrallis,MIT,25192,"Next.js plugin for SEO automation - metadata generation, sitemap, robots.txt - RankCLI"
+2026-10-13T23:54:48.421Z,@glinr/theauth-extension,0.1.0,gdsks,MIT,102236,"OAuth 2.1 authentication for Manifest V3 browser extensions (PKCE, refresh, optional DPoP)"
+2026-10-13T23:54:51.667Z,@gitmyabi/rsm,1.0.0,gitmyabi-bot,MIT,279802,"Auto-generated TypeScript type bindings for RSM (build etherscan-rsm-e946809a-1791935665499, commit 15a8f09, branch etherscan)"
+2026-10-13T23:55:03.443Z,@yxtec/agent-studio-client,0.0.2,lining9411,MIT,105180,Agent Studio 运行时 API 的 Node.js / TypeScript 客户端
+2026-10-13T23:55:57.293Z,react-native-homeviewos,1.0.0,brentvatne,ISC,241,
+2026-10-13T23:56:30.222Z,react-native-home-view,1.0.0,brentvatne,ISC,240,
+2026-10-13T23:56:42.502Z,expo-home-view,1.0.0,brentvatne,ISC,232,
+2026-10-13T23:56:52.958Z,expo-homeviewos,1.0.0,brentvatne,ISC,233,
+2026-10-13T23:57:43.341Z,@lint-suite/eslint-arrow-fits-line,1.0.0,f0rty-tw0,MIT,8511,Require expression-bodied arrow functions to fit on one line
+2026-10-13T23:57:43.578Z,@lint-suite/eslint-max-condition-operands,1.0.0,f0rty-tw0,MIT,7757,Limit operands in if statement conditions
+2026-10-13T23:57:43.78Z,@lint-suite/eslint-chain-fits-line,1.0.0,f0rty-tw0,MIT,7635,Require member call chains to keep every call on one line
+2026-10-13T23:57:43.837Z,@lint-suite/eslint-chain-receiver-name,1.0.0,f0rty-tw0,MIT,8563,Require call chains to start from a named receiver
+2026-10-13T23:57:43.864Z,@lint-suite/eslint-explicit-accessibility,1.0.0,f0rty-tw0,MIT,12767,Require TypeScript class members to declare accessibility
+2026-10-13T23:57:43.966Z,@lint-suite/eslint-no-inline-return-object,1.0.0,f0rty-tw0,MIT,9748,Require returned object literals to be named first
+2026-10-13T23:57:44.177Z,@lint-suite/eslint-no-call-in-condition,1.0.0,f0rty-tw0,MIT,18246,Disallow calls that decide if conditions
+2026-10-13T23:57:44.373Z,@lint-suite/eslint-no-inline-object-types,1.0.0,f0rty-tw0,MIT,7027,Require object type literals to be named aliases
+2026-10-13T23:57:44.395Z,@lint-suite/eslint-no-grouped-condition,1.0.0,f0rty-tw0,MIT,9198,Disallow mixed-operator groups in conditions
+2026-10-13T23:57:44.418Z,@lint-suite/eslint-modular-boundaries,1.0.0,f0rty-tw0,MIT,106154,"Enforce module boundaries between workspace projects by tag, without depending on Nx"
+2026-10-13T23:57:44.481Z,@lint-suite/eslint-no-nested-object-value,1.0.0,f0rty-tw0,MIT,16524,Require nested object property values to be named
+2026-10-13T23:57:44.691Z,@lint-suite/eslint-no-spread-expression,1.0.0,f0rty-tw0,MIT,9080,Require spread arguments to be names or member access
+2026-10-13T23:57:44.694Z,@lint-suite/eslint-one-line-guard,1.0.0,f0rty-tw0,MIT,9338,Require lone guard statements to fit on one line
+2026-10-13T23:57:44.721Z,@lint-suite/eslint-no-unstyled-classes,1.0.0,f0rty-tw0,MIT,44132,Disallow Angular template classes that no component stylesheet selects
+2026-10-13T23:57:44.804Z,@lint-suite/eslint-no-unused-exports,1.0.0,f0rty-tw0,MIT,40202,Disallow exports that no other file in the TypeScript program imports
+2026-10-13T23:57:44.888Z,@lint-suite/eslint-ternary-branch-shape,1.0.0,f0rty-tw0,MIT,8065,Require ternary branches to use simple expressions
+2026-10-13T23:57:44.994Z,@lint-suite/eslint-no-unused-angular-fields,1.0.0,f0rty-tw0,MIT,139744,Disallow unread instance fields and methods in Angular components and directives
+2026-10-13T23:57:45.09Z,@lint-suite/eslint-type-placement,1.0.0,f0rty-tw0,MIT,14481,Require types and type-only imports to use prescribed file placement
+2026-10-13T23:57:45.263Z,@lint-suite/eslint-readonly-type-properties,1.0.0,f0rty-tw0,MIT,10816,Require readonly primitive type properties and mutable array syntax
+2026-10-13T23:57:45.28Z,@lint-suite/eslint-test-file-shape,1.0.0,f0rty-tw0,MIT,16378,Restrict test-support file shapes and enforce stub and mock exports
+2026-10-13T23:57:45.32Z,@lint-suite/eslint-util-purity,1.0.0,f0rty-tw0,MIT,13165,Disallow impure operations in utility modules
+2026-10-13T23:57:56.56Z,apitame,0.1.0,betocanfield,MIT,1131054,"Turn an OpenAPI spec or a SQL database into a safe, curated MCP server plus agent skills. One command."
+2026-10-13T23:58:07.258Z,privatekey,0.0.1,synthetism,MIT,2726,"The boundary for private keys — who may use a key, and when. The product is @privatekey/*."
+2026-10-13T23:58:40.789Z,@walfro90/orion-mcp,0.1.0,walfro90,MIT,15025,"Conecta tu asistente de IA (Claude Desktop, Claude Code, Cursor…) a Orion, el CRM de prospección en LinkedIn de EBOOMS, con tu propio usuario."
+2026-10-14T00:02:53.636Z,@jst-stack/mcp,0.1.0,antonio_belousov,MIT,63670,"MCP server and Pi extension for JST architecture workflows: start tasks, scaffold slices, surface recipes, and run quality gates."
+2026-10-14T00:05:54.557Z,studyup,1.0.0,npmuserspaceman5,ISC,73812317,StudyUp Game Portal
+2026-10-14T00:06:06.885Z,@ocahub/kit,0.1.0,robertoalves.me,UNLICENSED,342046,Módulo Nuxt da plataforma: páginas e componentes da loja (prateleira e detalhe do produto) ligados aos endpoints públicos do sales-api
+2026-10-14T00:06:07.634Z,mercadopublico,0.0.2,damkandev,MIT,2462,SDK TypeScript para la API de Mercado Público (ChileCompra). En construcción.
+2026-10-14T00:06:14.098Z,@gmahechas-org/devtools-ts-tsx,4.23.15,automation-gmahechas,,2774,Pins one tsx install. The `tsx` binary always runs the `tsx` version declared in this package. This package does not publish a tsx config.
+2026-10-14T00:08:48.482Z,puck-kit,0.1.0,octanium,MIT,882346,Webflow-style building blocks and style engine for Puck
+2026-10-14T00:12:17.055Z,@shgroup/opencode-serenity-plugin-v2,0.1.0,shgroup,MIT,209785,Serenity — 为 OpenCode v2 Agent 提供认知容器 (CCC) 基础设施。基于 @opencode/plugin v2 API（Plugin.define + Context 域）。
+2026-10-14T00:13:42.425Z,@ohos-ports/shopify-react-native-skia,2.14.0-beta.0,virtfans,MIT,18481996,"High-performance React Native Graphics using Skia [HarmonyOS/OpenHarmony port by ohos-ports - WASM fallback build: ships vendored canvaskit-wasm (WebAssembly) software-raster backend, no native binar…"
+2026-10-14T00:13:58.723Z,@ohos-ports/types-react-native-web,0.19.3-beta.1,virtfans,MIT,52332,TypeScript definitions for react-native-web (HarmonyOS port via @ohos-ports)
+2026-10-14T00:14:17.498Z,@bendyline/gezel-inference,0.1.0,bendylinesupport,MIT,12999423,"Shared on-device inference, model management and knowledge runtime for Gezel hosts."
+2026-10-14T00:14:45.463Z,@oiper/brand,0.0.0,nazmussayad,,850362,The official OiPer logo as React components. Use these across services so the brand mark stays consistent everywhere.
+2026-10-14T00:18:36.559Z,rae-faang,0.1.0,enzovezzaro,MIT,2115236,RAE — FAANG Product Intelligence & Open-Source Replication Engine
+2026-10-14T00:19:01.943Z,@ai-matrx/sync,0.0.0,armanisadeghi,MIT,1551,Name reservation only; no usable API. Do not adopt.
+2026-10-14T00:21:31.895Z,@microsoft/fabric-slicers,0.0.0-stage,microsoft1es,,347,Temporary package placeholder for staged publishing
+2026-10-14T00:21:57.351Z,pipcode,0.0.0-stage,karim-dev,,329,Temporary package placeholder for staged publishing
