@@ -1,33 +1,443 @@
 {
   "list": {
-    "count": 112,
-    "from": "2026-10-15T01:19:05.298294Z",
-    "path": "data/new-packages-2026-10-15T02-19-05-7743Z.csv",
-    "to": "2026-10-15T02:19:05.7743Z"
+    "count": 450,
+    "from": "2026-10-15T02:19:05.7743Z",
+    "path": "data/new-packages-2026-10-15T03-19-09-215241Z.csv",
+    "to": "2026-10-15T03:19:09.215241Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@agilehub/latex-formula",
-      "since": "2026-10-15T01:19:05.298294Z"
+      "package": "@haybarn/ext-cronjob-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
     },
     {
       "attempts": 1,
-      "package": "@jennefer-dev/cli",
-      "since": "2026-10-15T01:19:05.298294Z"
+      "package": "@haybarn/ext-cronjob-h1-5-6-wasm-eh",
+      "since": "2026-10-15T02:19:05.7743Z"
     },
     {
       "attempts": 1,
-      "package": "@minikas/ui",
-      "since": "2026-10-15T01:19:05.298294Z"
+      "package": "@haybarn/ext-cronjob-h1-5-6-wasm-threads",
+      "since": "2026-10-15T02:19:05.7743Z"
     },
     {
       "attempts": 1,
-      "package": "@niubai/pdfedit",
-      "since": "2026-10-15T01:19:05.298294Z"
+      "package": "@haybarn/ext-cronjob-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-crypto-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-crypto-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-crypto-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-crypto-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-curl_httpfs-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-curl_httpfs-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-curl_httpfs-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-curl_httpfs-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-curl_httpfs-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-cwiqduck-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-cwiqduck-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-cwiqduck-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dash-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dash-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dash-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dash-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dash-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dash-h1-5-6-wasm-eh",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dash-h1-5-6-wasm-mvp",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dash-h1-5-6-wasm-threads",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dash-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-databricks-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-databricks-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-databricks-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-databricks-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-databricks-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-databricks-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datadog-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datadog-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datadog-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datadog-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datadog-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datadog-h1-5-6-wasm-eh",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datadog-h1-5-6-wasm-mvp",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datadog-h1-5-6-wasm-threads",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datadog-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datasketches-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datasketches-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datasketches-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datasketches-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datasketches-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datasketches-h1-5-6-wasm-eh",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datasketches-h1-5-6-wasm-mvp",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datasketches-h1-5-6-wasm-threads",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-datasketches-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dbn-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dbn-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dbn-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dbn-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dbn-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dbn-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dc-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dc-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dc-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dc-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-dc-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-decimal_arithmetic-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-decimal_arithmetic-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-decimal_arithmetic-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-decimal_arithmetic-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-decimal_arithmetic-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-decimal_arithmetic-h1-5-6-wasm-eh",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-decimal_arithmetic-h1-5-6-wasm-mvp",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-decimal_arithmetic-h1-5-6-wasm-threads",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-decimal_arithmetic-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-deferred_columns-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-deferred_columns-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-deferred_columns-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-deferred_columns-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-deferred_columns-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-deferred_columns-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-delta_classic-h1-5-6",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-delta_classic-h1-5-6-darwin-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-delta_classic-h1-5-6-darwin-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-delta_classic-h1-5-6-linux-arm64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-delta_classic-h1-5-6-linux-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-delta_classic-h1-5-6-wasm-eh",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-delta_classic-h1-5-6-wasm-mvp",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-delta_classic-h1-5-6-wasm-threads",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-delta_classic-h1-5-6-win32-x64",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@openendurance/config-typescript",
+      "since": "2026-10-15T02:19:05.7743Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@peable.to/pay",
+      "since": "2026-10-15T02:19:05.7743Z"
     }
   ],
-  "seq": 137025856,
+  "seq": 137035415,
   "source_truncated": false,
-  "window": "2026-10-15T02:19:05.7743Z"
+  "window": "2026-10-15T03:19:09.215241Z"
 }
