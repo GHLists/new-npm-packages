@@ -1,0 +1,151 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-16T03:16:37.933Z,@resumekit/schema,0.1.0,sgilcruz,MIT,417285,"Zod schemas for a structured resume, the resumekit template catalog, and the presentation overlay a candidate's edits are recorded in."
+2026-10-16T03:16:38.022Z,@mlx-bun/app-host,1.0.0,joshua.rossi,MIT,20164,"Host-side loader for mlx-bun application modules: manifest validation, activation and mounting"
+2026-10-16T03:16:46.157Z,@jhillyerd/pi-acp,0.1.0,jhillyerd,MIT,363123,ACP adapter for pi coding agent (fork: wires ACP mcpServers to pi's built-in MCP)
+2026-10-16T03:16:47.684Z,@resumekit/react,0.1.0,sgilcruz,MIT,7448279,"Editable, paginated resume templates for React: about thirty print-accurate designs, an in-place editing kit, a static renderer and a self-contained export bundle."
+2026-10-16T03:17:08.286Z,@fernohq/analytics-next,1.84.3,somtojf,MIT,2931858,"Analytics Next (aka Analytics 2.0) is the latest version of Segment’s JavaScript SDK - enabling you to send your data to any tool without having to learn, test, or use a new API every time."
+2026-10-16T03:17:51.732Z,@fernohq/analytics-node,3.1.0,somtojf,MIT,293699,https://www.npmjs.com/package/@fernohq/analytics-node
+2026-10-16T03:18:45.553Z,@looktap/cli,0.2.1,lakpriya1024,AGPL-3.0-only,562021,"Let AI agents drive iPhone and Android devices from the shell: read the screen, tap, type, swipe, screenshot, read logs and crashes. No server to start and zero dependencies."
+2026-10-16T03:20:02.727Z,@lune_99/pi-lune-extensions-core,0.1.0,lune_99,MIT,515300,Shared infrastructure for the Lune series of Pi extensions
+2026-10-16T03:20:18.745Z,@valkvlabs/edgekv-darwin-arm64,0.0.0-stage,valkv,,352,Temporary package placeholder for staged publishing
+2026-10-16T03:20:42.262Z,tdl-mcp,1.1.0,rixile9999,MIT,37554,"Read-only Telegram MCP server wrapping the tdl CLI — list chats, read recent messages, download media. Never sends."
+2026-10-16T03:20:43.012Z,@valkvlabs/edgekv-darwin-x64,0.0.0-stage,valkv,,350,Temporary package placeholder for staged publishing
+2026-10-16T03:20:55.792Z,@winner-fed/build-huipro,1.1.0,winner-fed,MIT,235693,HuiPro 1.0 子包构建工具 - 独立版本，不依赖 WinJS 框架
+2026-10-16T03:21:02.16Z,@valkvlabs/edgekv-linux-arm64-gnu,0.0.0-stage,valkv,,355,Temporary package placeholder for staged publishing
+2026-10-16T03:21:07.137Z,@hraness/sponge,0.1.2,benzguo,UNLICENSED,1728,The future Sponge native app. The CLI is currently inactive.
+2026-10-16T03:21:13.241Z,@valkvlabs/edgekv-linux-arm64-musl,0.0.0-stage,valkv,,356,Temporary package placeholder for staged publishing
+2026-10-16T03:21:28.572Z,@mlx-bun/hub,1.0.0,joshua.rossi,MIT,77433,Local model registry and Hugging Face artifact transfers for MLX models on Apple Silicon
+2026-10-16T03:21:30.755Z,@valkvlabs/edgekv-linux-x64-gnu,0.0.0-stage,valkv,,353,Temporary package placeholder for staged publishing
+2026-10-16T03:21:34.937Z,@doikayt/rellib1,1.0.3,datalackey,MIT,6726,<!-- TOC:START --> - [Starter project](#starter-project) - [Build Pipeline](#build-pipeline) - [Component Diagram](#component-diagram) - [Components Table](#components-table) - [Component Details](#c…
+2026-10-16T03:21:50.202Z,@valkvlabs/edgekv-linux-x64-musl,0.0.0-stage,valkv,,354,Temporary package placeholder for staged publishing
+2026-10-16T03:21:54.217Z,@mlx-bun/mlx,1.0.0,joshua.rossi,MIT,160180022,Bun bindings for MLX on Apple Silicon
+2026-10-16T03:21:58.868Z,@mlx-bun/inference,1.0.0,joshua.rossi,MIT,4594550,Composable inference kernels and graphs for MLX in Bun
+2026-10-16T03:22:02.032Z,@mlx-bun/app-services,1.0.0,joshua.rossi,MIT,65376,"Core-service implementations for mlx-bun application hosts: the Whisper model host, the local model catalog, storage, verb parsing and route mounting"
+2026-10-16T03:22:05.681Z,@valkvlabs/edgekv-win32-x64-msvc,0.1.0,valkv,MIT OR Apache-2.0,6408254,"The win32-x64-msvc build of the native library behind @valkvlabs/edgekv. Install @valkvlabs/edgekv, not this."
+2026-10-16T03:22:06.204Z,@mlx-bun/module-benchmarks,1.0.0,joshua.rossi,MIT,50597,Answer-quality benchmarks module for mlx-bun applications: launches the capability evaluation runner (scripts/eval-serve.ts) as a job and keeps its results history
+2026-10-16T03:22:10.059Z,@mlx-bun/module-chat,1.0.0,joshua.rossi,MIT,453802,"Chat module for mlx-bun applications: the default assistant, a Pi agent over the served model on a WebSocket, saved chats, tool approvals and the browser panel"
+2026-10-16T03:22:11.092Z,@valkvlabs/edgekv,0.1.0,valkv,MIT OR Apache-2.0,53050,"Client for ValkvEdgeKV, the local-first key-value database"
+2026-10-16T03:22:13.163Z,@mlx-bun/module-datasets,1.0.0,joshua.rossi,MIT,116704,"Dataset-building module for mlx-bun applications: thirteen JSONL templates, an in-process generation job that calls the served model, and a Docker verifier for generated Python"
+2026-10-16T03:22:16.309Z,@mlx-bun/module-memory,1.0.0,joshua.rossi,MIT,641308,"Markdown memory vault, read-only chat tools, synthesis, scheduling and memory panel"
+2026-10-16T03:22:19.045Z,@mlx-bun/module-metrics,1.0.0,joshua.rossi,MIT,61398,"Metrics and performance module for mlx-bun applications: live serving metrics from the host's events, and bench-serve run history"
+2026-10-16T03:22:22.365Z,@mlx-bun/training,1.0.0,joshua.rossi,MIT,434115,"Composable LoRA, preference, and diffusion training for MLX on Apple Silicon"
+2026-10-16T03:22:25.672Z,@mlx-bun/module-models,1.0.0,joshua.rossi,MIT,87089,"Model management module for mlx-bun applications: the hub and library routes, model switching, downloads and cache cleanup, adapter mounting, merge and export, the ls, get, scan, fit, gc and upload v…"
+2026-10-16T03:22:28.542Z,@mlx-bun/quantize,1.0.0,joshua.rossi,MIT,192561,"Quantization for MLX checkpoints on Apple Silicon: calibration, sensitivity, mixed-precision allocation, rotation, Trellis packing, and safetensors output"
+2026-10-16T03:22:28.9Z,@leadpoet/client,0.1.2,leadpoet-team,MIT,457523,"Leadpoet API client, CLI, and MCP adapter"
+2026-10-16T03:22:32.945Z,@mlx-bun/module-quantize,1.0.0,joshua.rossi,MIT,77977,"Quantization module for mlx-bun applications: the quantize job, its web routes, and the convert verb"
+2026-10-16T03:22:36.445Z,@mlx-bun/module-train,1.0.0,joshua.rossi,MIT,150005,"Training module for mlx-bun applications: LoRA fine-tuning (SFT, DPO, ORPO), adapter fusion and drafter training, as the finetune job, its web routes, and the train, train-watch, fuse and draft verbs"
+2026-10-16T03:22:39.488Z,@mlx-bun/module-transcription,1.0.0,joshua.rossi,MIT,182461,Speech-to-text module for mlx-bun applications: Whisper transcription over HTTP and the transcribe and dictate verbs
+2026-10-16T03:22:42.294Z,@mlx-bun/web-shell,1.0.0,joshua.rossi,MIT,43653,"The web shell of mlx-bun applications: navigation, routing, theme, command palette and mounting of module panels, for the app's browser UI and native webviews"
+2026-10-16T03:24:24.68Z,emdash-plugin-r2-variants,0.1.0,rjstech,MIT,31974,Image variants plugin for EmDash CMS - stores each resized image in R2 once and serves it without a Worker transform
+2026-10-16T03:25:12.09Z,dsh-judge-tools,0.1.0,syyr1987,MIT,9749,DSH (DeepSeek Harness) 判分/评测通用工具插件：text_stats 精确字数统计 + evaluate_expression 安全表达式求值，适配 DSH 0.2.1-alpha.3
+2026-10-16T03:27:06.935Z,@codeplans/cli,0.7.7,sylonzero,MIT,58959,"Command-line tool for CodePlans: script workspace setups, work with code plans, tasks and work items from your terminal."
+2026-10-16T03:28:07.171Z,@cniska/agent-gates-darwin-arm64,0.1.0,crisu83,MIT,62673160,The darwin-arm64 build of @cniska/agent-gates.
+2026-10-16T03:28:19.233Z,@deepwhale-cn/dsh-tool-vet,0.0.0-stage,feely0208,,348,Temporary package placeholder for staged publishing
+2026-10-16T03:28:49.866Z,@pybara/donate-widget,1.0.0-beta.1,pybara-dev,MIT,581954,Embeddable donation widget for Internet Computer crypto payments
+2026-10-16T03:29:00.604Z,@cniska/agent-gates,0.1.0,crisu83,MIT,7710,Gate your agents' work: git hooks and GitHub workflows that refuse a bad commit locally and in CI.
+2026-10-16T03:29:34.721Z,@armanckeser/downstream,0.1.0,armanckeser,MIT,12152029,"Read a change downstream from its entry points, with the agent in the margin."
+2026-10-16T03:29:42.267Z,@cniska/agent-gates-linux-x64,0.1.0,crisu83,MIT,81766253,The linux-x64 build of @cniska/agent-gates.
+2026-10-16T03:29:46.387Z,kempo-store-credit,0.0.2,dustinpoissant,MIT,85682,"Store credit for kempo: a money balance per customer, in the currency kempo-products uses, that is added by an administrator or a refund and applied at checkout"
+2026-10-16T03:29:54.539Z,vinder,0.1.4,jmelahman,MIT,13578,"Vendor npm dependencies into a no-build project: bundle them with esbuild, check the result is current, and audit it against OSV."
+2026-10-16T03:30:39.656Z,kempo-credit-claims,0.0.2,dustinpoissant,MIT,51279,"Claim links for kempo-credits — a link that gives credits to whoever opens it and signs in, for a launch, a newsletter or an apology"
+2026-10-16T03:30:48.583Z,tradergrid-ibkr-bridge,0.2.0,sksaustin316,UNLICENSED,746559,Relays your Interactive Brokers market data from TWS or IB Gateway to TraderGrid. Read-only: it places no orders and reads no account.
+2026-10-16T03:30:54.405Z,@calmify/next,1.0.2,esaintdev,MIT,8743,Receive articles from Calmify in a Next.js app: a route handler and a one-time pairing command.
+2026-10-16T03:32:10.732Z,dsh-js-tools,0.1.0,syyr1987,MIT,9730,DSH (DeepSeek Harness) 通用测量工具插件：text_stats 精确字数统计 + evaluate_expression 安全表达式求值，适配 DSH 0.2.1-alpha.3
+2026-10-16T03:33:38.865Z,@jasonbelmonti/mdx-dialogue,0.1.0-beta.1,jasonbelmonti,MIT,9091916,Interactive MDX and React Flow conversations for Codex MCP Apps and GitHub Copilot Canvas.
+2026-10-16T03:34:30.027Z,@ahmedrowaihi/mediabunny-prores,1.61.4-beta.126,ahmedrowaihi,MPL-2.0,1167776,"Apple ProRes decoder extension for Mediabunny, based on TurboRes."
+2026-10-16T03:35:27.126Z,@rigee/plugin-api,0.2.0,initisan,MIT,82604,The contract a Rigee plugin is written against.
+2026-10-16T03:35:46.589Z,@springbrand/contracts,0.1.0-alpha.0,yzend922,UNLICENSED,718550,API、Web、Agent 和 Auth 共用的业务接口合约：每个业务领域的 Zod schema 和推导出的 TypeScript 类型。
+2026-10-16T03:35:50.313Z,@springbrand/agent-config-editor,0.1.0-alpha.0,yzend922,UNLICENSED,502811,"The Agent Config editor shared by SP Web and Eval Web. It owns the existing SP Behavior, Model, Thinking, Connector Toolkit, Component Connector, Extension, Action, Skill and Reference editor, select…"
+2026-10-16T03:36:11.302Z,astrail-schema,0.9.1,iskl,Apache-2.0,105307,Versioned Astrail JSON Schemas and generated TypeScript types
+2026-10-16T03:36:15.089Z,@action-state-group/capsule-viewer,0.0.0,actionstategroup,Apache-2.0,511,Placeholder to enable npm trusted publishing. Real releases start at 0.1.0.
+2026-10-16T03:37:20.378Z,p5.viz,0.0.1,pearmini,ISC,76451,A data storytelling library for p5.js.
+2026-10-16T03:37:51.1Z,astrail-core,0.9.1,iskl,Apache-2.0,595141,Portable Astrail workspace resolver and lifecycle core
+2026-10-16T03:38:55.378Z,@atlaskit/editor-plugin-numbered-headings,0.1.0,atlassianartifactteam,Apache-2.0,59420,Numbered headings plugin for @atlaskit/editor-core
+2026-10-16T03:39:43.005Z,@skb_skb/kb-utils,2.0.1,skb_web,MIT,81900,"Vue3 utilities, directives and composables for KB"
+2026-10-16T03:39:46.507Z,@skb_skb/kb-element,2.0.1,skb_web,MIT,22083,Element Plus extensions for KB (Vue3)
+2026-10-16T03:39:49.864Z,@skb_skb/kb-uniapp,2.0.1,skb_web,MIT,25592,Uni-app Vue3 components for KB
+2026-10-16T03:39:53.998Z,@ahmedrowaihi/mediabunny-mp3-encoder,1.61.4-beta.126,ahmedrowaihi,MPL-2.0,1693303,"MP3 encoder extension for Mediabunny, based on LAME."
+2026-10-16T03:39:55.515Z,@looktap/mcp,0.2.0,lakpriya1024,AGPL-3.0-only,37571,"MCP server that lets AI agents drive iPhone and Android devices: read the screen as text, tap by label, type, swipe, screenshot, read logs and crashes."
+2026-10-16T03:39:59.799Z,@ahmedrowaihi/mediabunny-aac-encoder,1.61.4-beta.126,ahmedrowaihi,MPL-2.0,4709776,"AAC encoder extension for Mediabunny, based on libavcodec."
+2026-10-16T03:40:01.234Z,@medipha/feed,0.1.0,tuantran1989,UNLICENSED,1397926,Embeddable Medic-ERP newsfeed module for React applications.
+2026-10-16T03:40:04.926Z,@ahmedrowaihi/mediabunny-flac-encoder,1.61.4-beta.126,ahmedrowaihi,MPL-2.0,1633278,"FLAC encoder extension for Mediabunny, based on libFLAC."
+2026-10-16T03:40:10.704Z,@ahmedrowaihi/mediabunny-ac3,1.61.4-beta.126,ahmedrowaihi,MPL-2.0,5443336,"AC-3 and E-AC-3 (Dolby Digital) decoder and encoder extension for Mediabunny, based on libavcodec."
+2026-10-16T03:40:33.465Z,lumaspinner,1.0.0,mewithkrishna,MIT,508996,"Zero-dependency, accessible loading UI library with 30+ spinners, skeletons, progress gauges, 3D perspective loaders, and interactive mini-games for the modern web."
+2026-10-16T03:42:35.537Z,@certrust/mcp,1.0.0,certrust,,8858,"Connect AI assistants to Certrust: issue, verify and manage Open Badges 3.0 credentials. A stdio bridge to the hosted MCP endpoint (https://api.certrust.app/mcp)."
+2026-10-16T03:42:42.301Z,@ahmedrowaihi/mediabunny-dts,1.61.4-beta.126,ahmedrowaihi,MPL-2.0,7588986,"DTS decoder and encoder extension for Mediabunny, based on libavcodec."
+2026-10-16T03:43:16.979Z,reddit-readonly-mcp,0.1.0,nite07,MIT,102953,Read-only Reddit MCP server that reads public data from datacenter IPs without Reddit app credentials (Android client token).
+2026-10-16T03:44:06.023Z,hexo-theme-noviluna,1.1.1,dingyi222666,MIT,142160,"A quiet, typographic Hexo theme — one column, hairlines, and nothing else."
+2026-10-16T03:46:00.768Z,astrail-target-codex,0.9.1,iskl,Apache-2.0,121065,Temporary package placeholder for staged publishing
+2026-10-16T03:46:17.352Z,astrail,0.9.1,iskl,Apache-2.0,256492,Temporary package placeholder for staged publishing
+2026-10-16T03:46:28.786Z,astrail-templates,0.9.1,iskl,Apache-2.0,11322,Temporary package placeholder for staged publishing
+2026-10-16T03:46:29.681Z,@reus-able/kioku-net,0.2.0,youranreus,,1996030,Local-first shared memory for personal agents
+2026-10-16T03:46:50.897Z,paseo-todo-board,0.1.0,fourfthawaiian,MIT,45271,Kanban board generated from markdown todo lists in each Paseo workspace
+2026-10-16T03:47:16.605Z,@ailura/nestjs-platform-hono-socket-io,0.2.0,ailura,MIT,30696,The Socket.IO bridge of @ailura/nestjs-hono-adapter: the stock @nestjs/platform-socket.io IoAdapter serving on Hono.
+2026-10-16T03:47:17.374Z,pi-bolt-linux-arm64-jit,0.9.2,kushalkhemka,MIT,54387738,The Pi-Bolt 0.9.2 executable (linux-arm64-jit) for its installer. Install Pi-Bolt with the pi-bolt package or install.sh.
+2026-10-16T03:47:26.119Z,pi-bolt-linux-arm64,0.9.2,kushalkhemka,MIT,54343378,The Pi-Bolt 0.9.2 executable (linux-arm64) for its installer. Install Pi-Bolt with the pi-bolt package or install.sh.
+2026-10-16T03:47:40.58Z,@opencharacter/spec,0.1.0,well_adjusted_warpig,Apache-2.0,4923939,"Open Character Format (OCF) specification: written spec, JSON Schemas, fixed sets and the shared test suite."
+2026-10-16T03:48:08.407Z,@opencharacter/5e-srd-5.1,0.1.0,well_adjusted_warpig,CC-BY-4.0,12297037,Open Character Format pack: the 5E System Reference Document 5.1.
+2026-10-16T03:48:10.651Z,@opencharacter/fate-core,0.1.0,well_adjusted_warpig,CC-BY-3.0,1153489,"Open Character Format pack: the Fate Core System SRD (the character sheet, skill rolls, stress and consequences, stunts, milestones, contests, extras, NPCs and mobs)."
+2026-10-16T03:48:13.085Z,@opencharacter/mork-borg-core,0.1.0,well_adjusted_warpig,SEE LICENSE IN LICENSE,801505,"Unofficial, mechanics-only Open Character Format model of MÖRK BORG. No rules or flavor text."
+2026-10-16T03:48:13.28Z,@opencharacter/mothership-1e,0.1.0,well_adjusted_warpig,SEE LICENSE IN LICENSE,364418,"Unofficial, mechanics-only Open Character Format model of Mothership. No rules or flavor text."
+2026-10-16T03:48:13.354Z,@opencharacter/fitd-crew,0.1.0,well_adjusted_warpig,SEE LICENSE IN LICENSE,761319,"Unofficial, mechanics-only Open Character Format model of a Forged in the Dark crew."
+2026-10-16T03:48:13.407Z,@opencharacter/fitd-scoundrel,0.1.0,well_adjusted_warpig,SEE LICENSE IN LICENSE,817311,"Unofficial, mechanics-only Open Character Format model of a Forged in the Dark scoundrel."
+2026-10-16T03:48:16.775Z,@opencharacter/orc-2e,0.1.0,well_adjusted_warpig,SEE LICENSE IN LICENSE,22793299,"Open Character Format pack: Second Edition fantasy rules (Player Core, Player Core 2 and GM Core) under the ORC License."
+2026-10-16T03:48:19.09Z,@opencharacter/text,0.1.0,well_adjusted_warpig,Apache-2.0,163142,"Open Character Format (OCF) wording helper: turns engine output (choices, pauses, options, issues, roll summaries and dice) into finished text from pack and spec messages."
+2026-10-16T03:48:19.332Z,@opencharacter/packs,0.1.0,well_adjusted_warpig,SEE LICENSE IN LICENSE,3482279,"Every official Open Character Format pack, as releases by pack ID, and their English text."
+2026-10-16T03:48:19.532Z,@opencharacter/engine,0.1.0,well_adjusted_warpig,Apache-2.0,2148071,"Open Character Format (OCF) reference engine in TypeScript: formulas, sheets, options, changes, actions and upgrades."
+2026-10-16T03:48:49.024Z,@ailura/nestjs-platform-hono-graphql,0.1.0-beta,ailura,MIT,94897,"The GraphQL bridge of @ailura/nestjs-hono-adapter: the stock @nestjs/apollo driver answering on Hono, in its own package."
+2026-10-16T03:48:54.231Z,@zhongbenkeji2/skills-prototype-factory,1.0.0,zhongbenkeji2,UNLICENSED,12091589,原型工厂是一套多端高保真、可点击 HTML 原型生产流程。技能包包含需求梳理、视觉方向、图片素材、页面实现、逐页精修和交付检查所需的技能、模板与脚本。
+2026-10-16T03:49:01.592Z,@ailura/nestjs-platform-hono-multipart,0.1.0-beta,ailura,MIT,152726,"The upload island of @ailura/nestjs-hono-adapter: multer-shaped multipart parsing, in its own package."
+2026-10-16T03:49:13.714Z,@ailura/nestjs-platform-hono-serve-static,0.1.0-beta,ailura,MIT,72480,"The static-asset bridge of @ailura/nestjs-hono-adapter: @nestjs/serve-static reading through the transport, in its own package."
+2026-10-16T03:49:27.316Z,@ailura/nestjs-platform-hono-ws,0.2.0,ailura,MIT,43664,The WebSocket bridge of @ailura/nestjs-hono-adapter: the stock @nestjs/platform-ws WsAdapter serving on Hono.
+2026-10-16T03:50:37.096Z,bravais,0.0.0-stage,jcwang587,,329,Temporary package placeholder for staged publishing
+2026-10-16T03:50:55.167Z,promptzilla,1.0.0,andymccutcheon,MIT,210776,"Skills-backed MCP prompts, tools, and a durable prompt optimization pipeline. Local stdio server plus optional self-hosted Cloudflare Workers deployment."
+2026-10-16T03:51:22.762Z,babel-harness,0.1.3,gthgomez,Apache-2.0,13648047,"Local coding agent runtime for Babel — chat, plan, and deep modes with TUI/REPL"
+2026-10-16T03:51:28.35Z,dfmi-market-mcp,0.1.0,dfmi-admin,MIT,19405,"MCP server for the dfmi x402 agent market: browse services, get quotes, claim test dUSD, and buy pay-per-request services with spend caps."
+2026-10-16T03:51:37.481Z,@kovo-internal-testing/u7-canary,1.0.0,kovo-admin,UNLICENSED,471,Kovo-owned synthetic U7 continuity drill fixture
+2026-10-16T03:52:45.136Z,@datastream/azure,0.8.0,willfarrell,MIT,54125,"Azure service streaming integrations for Blob Storage, Queue Storage, Service Bus, Event Hubs, and Cosmos DB, plus Entra ID auth for the Event Hubs Kafka endpoint"
+2026-10-16T03:52:53.631Z,ac-ai-line,0.1.0,mishanasledov,MIT,45333,"Read an Assetto Corsa track's AI line (ai/fast_lane.ai) and place any position on the lap: distance round, off the line, past the edge, which corner."
+2026-10-16T03:53:00.81Z,acsm-race-control,0.1.0,mishanasledov,MIT,32363,"Assetto Server Manager's live timing feed: collisions, drivers joining and leaving, and the session, with no UDP plugin needed."
+2026-10-16T03:53:09.44Z,@datastream/avro,0.8.0,willfarrell,MIT,23401,"Apache Avro encode/decode transform streams (Node, via avsc)"
+2026-10-16T03:53:27.283Z,open-payments-ilp,0.1.0-alpha.0,dayjobdoor,Apache-2.0,1206725,"Web Standards toolkit for Open Payments and Interledger: ILP/STREAM codecs, HTTP message signatures, GNAP, and a Better Auth GNAP plugin. Effect-native."
+2026-10-16T03:53:44.79Z,@datastream/sqlite,0.8.0,willfarrell,MIT,16206,"SQLite query and insert streams (Node, via node:sqlite)"
+2026-10-16T03:54:33.788Z,safebyok-graphql,0.0.0,mrflip,Apache-2.0,185433,"GraphQL storage for safebyok: the schema and resolvers that carry a server-side VaultDB's verbs, and the VaultDB over an urql Client that calls them from the browser."
+2026-10-16T03:54:52.552Z,@limidus/kdb-client,0.9.1,msft_davja,AGPL-3.0-or-later,255008,"TypeScript client for KDB - wire codec, transports and the document/SQL/lease operation set."
+2026-10-16T03:55:59.807Z,safebyok-argon2-wasm,0.0.0,mrflip,Apache-2.0,41769,"A WebAssembly key deriver for safebyok: Argon2id through hash-wasm, under the same keyDeriverSpecs and labels as the core's pure-JavaScript deriver, deriving the same bytes."
+2026-10-16T03:56:26.934Z,dsh-bossintroduce,0.1.2,lym1c,MIT,239534,DeepSeek Harness 插件：在 Boss 直聘求职者侧浏览岗位，为每条 JD 生成只属于它的自我介绍并发给 HR（可见浏览器 + CDP 状态机 + 文案护栏）
+2026-10-16T03:56:28.116Z,opencode-orchestrator-uni,0.1.0,onive,MIT,214084,"Native OpenCode V2 plugin that registers the orchestrator agent kit (root orchestrator, audit subagents, fix-runner) and exposes the kit's process documents as the audit-kit reference."
+2026-10-16T03:56:30.21Z,safebyok-indexeddb,0.0.0,mrflip,Apache-2.0,130119,"IndexedDB storage for safebyok: a VaultDB that keeps vault bundles and lockboxes as ciphertext in this browser, each verb one IndexedDB transaction, and the template for a key-value backend of your o…"
+2026-10-16T03:56:40.529Z,safebyok-postgres,0.0.0,mrflip,Apache-2.0,199114,"Postgres storage for safebyok: the tables that hold vault bundles and lockboxes as ciphertext, and the server-side VaultDB over them, with no driver of its own."
+2026-10-16T04:00:00.432Z,@master.g/pi-usage-hud,0.1.0,master.g,MIT,52074,"Persistent pi HUD showing the subscription usage of the current model's provider (Codex, Kimi, Zhipu)"
+2026-10-16T04:00:22.705Z,@rezwanul7/http-client,0.1.2,rezwanul7,,215295,
+2026-10-16T04:01:05.077Z,@runtimed/wasm,0.0.1,rgbkrk,BSD-3-Clause,2123,Code-free placeholder for the public runtimed WASM package; install a real release once available.
+2026-10-16T04:01:15.281Z,zapsign-mcp,1.0.0,blancasj,MIT,54881,"An MCP server for ZapSign's API: reads run freely, every write asks first, and the model sees a filtered copy of each answer."
+2026-10-16T04:03:22.957Z,@ssworks/admin-server,0.4.1,ssworks,MIT,1102481,관리자 API 공통 NestJS 모듈 — 응답 봉투 · 예외 필터 · 검증 파이프 · DB 연결(TLS · 소켓) · 코어 스키마 · 인증 · 세션 · 감사 · 역할 · 사용자 · 팀 · 약관 · IP 접근 제어.
+2026-10-16T04:04:29.599Z,@wake-protocol/bytes,0.6.0,nozomi-hiragi,Apache-2.0,22936,"Immutable byte values, fixed-width integers, and branded types for the WAKE protocol"
+2026-10-16T04:04:34.891Z,@wake-protocol/codec,0.6.0,nozomi-hiragi,Apache-2.0,19500,Length-prefixed codec and text (ASCII/Latin-1/UTF-8) utilities for the WAKE protocol
+2026-10-16T04:04:39.903Z,@wake-protocol/crypto,0.6.0,nozomi-hiragi,Apache-2.0,29351,"Web Crypto API wrappers (SHA-256, HMAC, HKDF, AES-256-GCM, P-256) for the WAKE protocol"
+2026-10-16T04:04:44.329Z,open-tuya,0.0.0-stage,cheziyi,,331,Temporary package placeholder for staged publishing
+2026-10-16T04:04:45.007Z,@wake-protocol/core,0.6.0,nozomi-hiragi,Apache-2.0,97029,"WAKE protocol core: KX, SM, ET, TA and KR messages, key schedule and errors"
+2026-10-16T04:04:50.364Z,@wake-protocol/client,0.6.0,nozomi-hiragi,Apache-2.0,109231,"WAKE protocol client (KX, SM, KR, TA, ET) for browsers and Node.js"
+2026-10-16T04:04:56.246Z,@wake-protocol/server,0.6.0,nozomi-hiragi,Apache-2.0,174390,"Framework-agnostic WAKE protocol server (KX, SM, KR, TA, ET) built on Request and Response"
+2026-10-16T04:05:11.48Z,@tech-style/strapi-remote-backup-pro,0.1.0,eharain,MIT,491257,"Back up and restore any Strapi v4/v5 instance remotely over the admin API — no plugin installed in Strapi. CLI, local API, and pluggable backup destinations."
+2026-10-16T04:05:13.972Z,@loomcli/prompts,0.0.0,dbtlr,MIT,1539,Placeholder reserved for the first synchronized Loom CLI prompts release.
+2026-10-16T04:05:54.466Z,runescape-wiki-mcp,1.2.0,birdwell,MIT,156080,"RS3 Grand Exchange prices, item lookup, player hiscores, and RuneScape Wiki content"
+2026-10-16T04:06:31.947Z,retro-feedback-mcp,0.1.0,devace93,MIT,177064,"MCP server for retro, the user-feedback service: triage bug reports, feedback and feature requests, manage public roadmaps and changelogs, with role-based tool access and audit logging."
+2026-10-16T04:06:52.23Z,sophiafx,0.1.7,shnimlz,MIT,101803,"Ultra-lightweight, high-performance TypeScript client and orchestrator for axAudio Discord voice engines."
+2026-10-16T04:07:07.645Z,@convosite/client,0.1.0,convosite,MIT,90219,Framework-agnostic JavaScript and TypeScript client for the Convosite runtime API.
+2026-10-16T04:07:08.267Z,n8n-nodes-ampli,0.1.0,annicorn,MIT,218970,"n8n community node for Ampli: generate viral-template social posts and schedule them to TikTok, Instagram, Pinterest, LinkedIn, Threads, Facebook, YouTube and X"
+2026-10-16T04:07:48.995Z,@tapestry-ui/tooltip,0.1.0,ryurage,MIT,21810,"A WCAG 2.1 AA tooltip for Preact that obeys 1.4.13 — dismissible with Escape, hoverable, and persistent. Headless behaviour, skin via CSS. Closed content leaves the DOM. Forged inside a woven-tapestr…"
+2026-10-16T04:07:51.401Z,@bigbinary/neeto-team-members-playwright,1.0.1,neetohq,Apache-2.0,50816,Playwright helpers for the neeto team members nano.
+2026-10-16T04:09:14.537Z,@repogo/plugins,0.1.24,repo_go,FSL-1.1-ALv2,13008,Write RepoGo plugins: collections and methods over SQLite that agents and cards call
+2026-10-16T04:09:54.139Z,@zhushanwen/pi-canvas,0.2.0,zhushanwen321,MIT,115041,Problem-solving canvas toolface for pi: six deferred canvas_* tools bridging the agent to the taiji runtime CanvasService via the CANVAS_MARKER select channel (problem-solve-canvas)
+2026-10-16T04:10:34.017Z,metrics-mcp,0.1.0,devace93,MIT,114067,"MCP server for metrics, the privacy-friendly web-analytics service: read page views, visitors, pages, referrers, countries and devices per project, inspect raw events and manage projects, with role-b…"
+2026-10-16T04:15:51.708Z,@swiftbrowser/wasm-sdk,0.9.0,dabbott,SEE LICENSE IN LICENSE.txt,71380808,"The Swift SDK for WebAssembly's base, for the Swift compiler built as WebAssembly (@swiftbrowser/wasm-compiler): the WASI sysroot, clang's headers and the Swift standard library (Swift 6.4.0, wasm32-…"
+2026-10-16T04:16:00.325Z,@swiftbrowser/wasm-sdk-foundation,0.9.0,dabbott,SEE LICENSE IN LICENSE.txt,59346781,"Foundation for the Swift SDK for WebAssembly: its modules, archives and C headers (Swift 6.4.0, wasm32-unknown-wasip1)."
+2026-10-16T04:16:05.193Z,@transl8.ai/review-sdk,0.9.2,transl8.ai,MIT,1957169,"Browser SDK for in-context translation review with [transl8.ai](https://transl8.ai). It adds a review launcher to your page: reviewers hover keyed text, inspect and propose translations, ask the AI f…"
+2026-10-16T04:17:02.329Z,stremio-tizenbrew,1.0.0,monsterxiii,MIT,8254,Stremio Web launcher module for TizenBrew
+2026-10-16T04:17:11.633Z,@tounsoo/todae,0.0.0,tounsoo,MIT,1645085,"A low-level React design system to build a company design system on: components, headless hooks and DTCG design tokens."
+2026-10-16T04:18:14.025Z,options-expiration,1.0.0,moshejs,MIT,36968,"US listed options expiration dates — monthly third-Friday, weekly, 0DTE, quarterly, end-of-month and VIX expiries, shifted correctly for exchange holidays (Good Friday, Juneteenth), plus early-close-…"
+2026-10-16T04:18:26.573Z,options-greeks,1.0.0,moshejs,MIT,41949,"Black-Scholes-Merton (with dividend yield) and Black-76 option prices, greeks (delta, gamma, vega, theta, rho, vanna, charm, vomma) and a robust implied-volatility solver. Double-precision normal CDF…"
+2026-10-16T04:18:37.8Z,futures-calendar,1.0.0,moshejs,MIT,52842,"CME Group futures calendar — month codes, contract-symbol parsing (ESZ5, CLF26), last-trade dates from each exchange's termination rule for ES, NQ, CL, NG, GC, ZN, 6E, ZC, BTC and more, plus front-mo…"
