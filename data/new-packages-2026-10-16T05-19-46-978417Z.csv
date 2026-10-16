@@ -1,0 +1,107 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-16T04:16:05.066Z,@swiftbrowser/wasm-sdk-icu,0.9.0,dabbott,SEE LICENSE IN LICENSE.txt,41743420,"ICU's code for the Swift SDK for WebAssembly's Foundation: lib_FoundationICU.a, its 34 MB data member emptied (Swift 6.4.0, wasm32-unknown-wasip1)."
+2026-10-16T04:16:12.319Z,@swiftbrowser/wasm-sdk-icu-data,0.9.0,dabbott,SEE LICENSE IN LICENSE.txt,34048242,"ICU's data for the Swift SDK for WebAssembly's Foundation: the whole icudt76l.dat package, which @swiftbrowser/cli trims to an app's languages (Swift 6.4.0)."
+2026-10-16T04:16:16.424Z,@swiftbrowser/wasm-sdk-testing,0.9.0,dabbott,SEE LICENSE IN LICENSE.txt,5030617,"XCTest and Swift Testing for the Swift SDK for WebAssembly: their modules and archives, for `swiftbrowser test` (Swift 6.4.0, wasm32-unknown-wasip1)."
+2026-10-16T04:16:22.429Z,@swiftbrowser/wasm-sdk-cxx,0.9.0,dabbott,SEE LICENSE IN LICENSE.txt,13005830,"C++ for the Swift SDK for WebAssembly: libc++'s headers and Swift's C++ interop modules (Swift 6.4.0, wasm32-unknown-wasip1)."
+2026-10-16T04:16:28.457Z,@swiftbrowser/playground,0.9.0,dabbott,SEE LICENSE IN LICENSE.txt,16964019,"What SwiftBrowser's playground reads besides the packages it shares with the CLI: which files of @swiftbrowser/wasm-tools, the @swiftbrowser/wasm-sdk packages and @swiftbrowser/kit a compile in the b…"
+2026-10-16T04:17:43.467Z,@transl8.ai/plugin-sdk,0.1.1,transl8.ai,MIT,11840,"Stable TypeScript **contracts** for transl8.ai validator plugins: types, result shapes, and version constants. No runtime, no plugin loader, no sandbox — this package cannot execute anything."
+2026-10-16T04:21:31.8Z,dsh-ai-code-quality,0.1.0,lkdx0220,MIT,35757,"ai-code-quality (cq) tools for DeepSeek Harness (dsh): deterministic code-quality pipeline — doctor/scan/triage/baseline/diff/gate/waiver/spec-drift — aggregating ruff, mypy, radon, vulture, pytest-c…"
+2026-10-16T04:22:52.601Z,helipod-mcp,0.1.1,leamida,MIT,3815287,"MCP server for Helipod: containers, VPS, domains and email from Claude Code, Codex, Cursor and other AI tools."
+2026-10-16T04:23:08.695Z,@yezack/dsh-temp-workspace,0.2.0,yezack,MIT,243804,"DSH web client plugin: a temporary workspace (临时工作区) — every conversation it contains is deleted at the next Harness restart (immediately or after a delay), optionally behind a confirm dialog. Temp w…"
+2026-10-16T04:23:52.04Z,@opentrain-ai/studio-core,0.0.0-bootstrap.0,opentrain-paperclip,UNLICENSED,790,"Bootstrap placeholder for @opentrain-ai/studio-core (OpenTrain Studio, A5-O6 card A5O6-ACC4-79438). Real versions are published by .github/workflows/npm-publish.yml from environment studio-release-pu…"
+2026-10-16T04:24:56.95Z,@fluentui/react-calendar-preview,0.0.0-nightly-20261016-0404.1,uifabricteam,MIT,1935802,Fluent UI React Calendar components
+2026-10-16T04:25:02.013Z,@duyquangnvx/harness,0.1.0,duyquangnvx,MIT,59135,"Shared repo config: Biome, tsconfig, lefthook and Ruff presets, a lint-on-edit hook for Claude Code, and the release script"
+2026-10-16T04:25:26.171Z,@opentrain-ai/studio-mod-text,0.0.0-bootstrap.0,opentrain-paperclip,UNLICENSED,802,"Bootstrap placeholder for @opentrain-ai/studio-mod-text (OpenTrain Studio, A5-O6 card A5O6-ACC4-79438). Real versions are published by .github/workflows/npm-publish.yml from environment studio-releas…"
+2026-10-16T04:25:47.791Z,@terrytsai/lodot,0.1.0,terrytsai,MIT,4284,Small TypeScript utilities for everyday application code.
+2026-10-16T04:25:50.668Z,@aiquants/route-revalidation,0.1.1,fehde,MIT,27226,"One declarative rule for React Router's shouldRevalidate: which destinations, submissions, paths and query changes run a route's loader again, built by a single function every app and package shares."
+2026-10-16T04:25:51.536Z,emaki-mcp,0.1.0,kavel,MIT,20524,"MCP server for emaki (emaki.ai), the Japanese-language AI video generator for Seedance 2.5 and Seedance 2.0: generate video and images from Claude, Cursor or any MCP client on your emaki credits."
+2026-10-16T04:26:16.889Z,@opentrain-ai/studio-acc4-scratch,0.0.0-bootstrap.0,opentrain-paperclip,UNLICENSED,814,"Bootstrap placeholder for @opentrain-ai/studio-acc4-scratch (OpenTrain Studio, A5-O6 card A5O6-ACC4-79438). Real versions are published by .github/workflows/npm-publish.yml from environment studio-re…"
+2026-10-16T04:26:40.5Z,@gitmyabi/serv,1.0.0,gitmyabi-bot,MIT,151392,"Auto-generated TypeScript type bindings for SERV (build etherscan-serv-40e3d1a4-1792124774994, commit 24f681e, branch etherscan)"
+2026-10-16T04:26:46.418Z,emaki-ai,0.1.0,kavel,MIT,15372,"Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for Seedance 2.5 and Seedance 2.0"
+2026-10-16T04:26:50.148Z,@promact/email-service,1.0.0,roshnishah,MIT,42453,"Provider-agnostic email sending service (AWS SES, SendGrid, SMTP, Azure Communication Services)"
+2026-10-16T04:26:52.87Z,@promact/feature-flag-management,1.0.0,roshnishah,MIT,26573,"Provider-agnostic feature flag service (PostHog, LaunchDarkly, Unleash)"
+2026-10-16T04:26:56.179Z,@promact/file-service,1.0.0,roshnishah,MIT,38534,"Provider-agnostic file storage service (AWS S3, Azure Blob Storage) — Node.js port of the .NET file-service nuget package"
+2026-10-16T04:26:56.181Z,@streamuilib/react,0.1.0,sohanrout,MIT,91934,"Neobrutalism UI components for React and Tailwind CSS v4: hard edges, offset shadows, every state styled, plus animated icons."
+2026-10-16T04:29:55.219Z,nekopi,1.0.0,k3scat,MIT,2399610,"A minimal Pi flavor: one bash tool, source operations through nek."
+2026-10-16T04:30:49.189Z,@farmslot/review-dispatch,0.1.1,abreton,MIT,122304,"Shared review and dispatch selection, validation, and view model"
+2026-10-16T04:30:52.347Z,@mcpeak/audit,0.3.1,storyrago,MIT,673207,"Pre-use security audit for MCP servers, with optional Docker-sandboxed runs"
+2026-10-16T04:30:52.469Z,@mcpeak/optimize,0.2.2,storyrago,MIT,109790,Lossless compression of MCP tool definitions with an overlay proxy
+2026-10-16T04:31:17.953Z,paseo-baton,0.1.3,dennyferra,Apache-2.0,143423,"Writes a handoff document when a Paseo agent goes idle, then lets you continue the task in a fresh agent."
+2026-10-16T04:32:41.724Z,@austencloud/tka-pictograph,0.1.1,austencloud,Elastic-2.0,5553660,"Draws The Kinetic Alphabet's pictographs as SVG, in Node or a browser, from Austen Cloud's own renderer and art."
+2026-10-16T04:33:14.586Z,@nmdlabs/whyline,0.4.0,babajay,MIT,126242,"git blame for AI agents: which prompt wrote this line, what the agent was thinking, and what it cost"
+2026-10-16T04:33:38.776Z,@utpalsinghdev/pi-context-window,0.1.0,utpalsinghdev,MIT,20922,"Show the agent the context window size, usage, and a planning threshold you set."
+2026-10-16T04:33:56.543Z,@ashwinhprasad/zoho-analytics-mcp-server,1.0.0,ashwinhprasad,MIT,460203,Mcp server implementation for Zoho Analytics Plugin
+2026-10-16T04:34:04.265Z,@wbline/pi-plan-build,0.0.1,wongbin,MIT,79928,"Plan/Build dual-mode for the Pi coding agent: read-only planning, explicit approval, step-wise execution."
+2026-10-16T04:35:37.713Z,wand-kit,0.1.0,carlos-toledo,SEE LICENSE IN PROMPT.md,17270346,"One HTML design surface for every sales and marketing material, on either Wand brand: decks, documents, one-pagers, case studies, social cards. Every export (PDF, PNG, PowerPoint, one-file HTML) is r…"
+2026-10-16T04:36:03.176Z,hiro-tracker,0.1.1,olanism,MIT,457154,"Private, single-user, local-first internship application tracker with a 4-stage Kanban workflow and zero-setup CLI"
+2026-10-16T04:36:14.695Z,@humjs/preact-ssr-precompile,0.1.0,oaly2000,MIT,73468,Precompile safe Preact JSX for SSR while preserving interactive elements
+2026-10-16T04:36:33.377Z,@gitmyabi/pt,1.0.0,gitmyabi-bot,MIT,87281,"Auto-generated TypeScript type bindings for PT (build etherscan-pt-bbb32f99-1792125370466, commit 69d3679, branch etherscan)"
+2026-10-16T04:36:44.317Z,@zogien/native-darwin-arm64,0.11.0-fork.1,zogien,Apache-2.0,3362076,The native CLI binary for macOS on Apple silicon (arm64)
+2026-10-16T04:36:49.051Z,@zogien/native-darwin-x64,0.11.0-fork.1,zogien,Apache-2.0,3437392,The native CLI binary for macOS on Intel (x64)
+2026-10-16T04:36:53.835Z,@zogien/native-linux-arm64-gnu,0.11.0-fork.1,zogien,Apache-2.0,3199528,The native CLI binary for Linux arm64 (glibc)
+2026-10-16T04:36:58.903Z,@zogien/native-linux-arm64-musl,0.11.0-fork.1,zogien,Apache-2.0,3254215,The native CLI binary for Linux arm64 (musl)
+2026-10-16T04:37:06.11Z,@zogien/native-linux-x64-gnu,0.11.0-fork.1,zogien,Apache-2.0,3507158,The native CLI binary for Linux x64 (glibc)
+2026-10-16T04:37:13.026Z,@zogien/native-linux-x64-musl,0.11.0-fork.1,zogien,Apache-2.0,3566901,The native CLI binary for Linux x64 (musl)
+2026-10-16T04:37:19.834Z,@zogien/native-win32-arm64,0.11.0-fork.1,zogien,Apache-2.0,3444001,The native CLI binary for Windows on ARM (arm64)
+2026-10-16T04:37:26.439Z,@zogien/native-win32-x64,0.11.0-fork.1,zogien,Apache-2.0,3807493,The native CLI binary for Windows x64
+2026-10-16T04:37:34.626Z,@zogien/native,0.11.0-fork.1,zogien,Apache-2.0,39950405,"Community-maintained fork of Native SDK: TypeScript, Native markup, and native desktop tooling"
+2026-10-16T04:38:35.806Z,@constantine-24/ngx-datetime-picker,1.0.1,koverboard,MIT,386201,"Configurable Angular date, time, datetime and range picker built on Angular CDK and Material, with a first-class TC39 Temporal adapter."
+2026-10-16T04:39:06.99Z,@antseed/provider-free-model-router,0.1.0,shahafan,,72394,IRP routing provider for Antseed that ranks the best free models among a buyer's candidates by live Artificial Analysis scores
+2026-10-16T04:39:09.036Z,@antseed/provider-irp-router,0.1.0,shahafan,,52737,Routing provider for Antseed that serves any Inference Routing Protocol (IRP) router as an irp-suggest routing service
+2026-10-16T04:39:53.386Z,botmancers,0.1.0,not-so-fat,MIT,65045,Botmancers MCP bridge: a Streamable HTTP MCP server that hands tasks to a Botmancers coordinator (contract botmancers.mcp.v1).
+2026-10-16T04:40:16.269Z,@vanhiep99w/docs-kit,0.1.0,vanhiep99w,MIT,46375,Reusable documentation components and build-time integrations for MDX and Fumadocs.
+2026-10-16T04:40:42.165Z,email-imap-mcp,1.0.0,laotongye,MIT,20898,"Read-only IMAP email access for WorkBuddy: list mailboxes, search messages, read message text. Never marks mail as read, never sends or deletes."
+2026-10-16T04:40:57.834Z,react-histogram,0.0.0-stage,eleves2025,,337,Temporary package placeholder for staged publishing
+2026-10-16T04:41:02.168Z,add-sg-mcp,1.1.0,sg-user,Apache-2.0,286272,"Connect your coding agents to StackGuardian: installs the StackGuardian MCP server and skills into Claude Code, Codex, Cursor, VS Code, Gemini CLI, OpenCode and more with a single command."
+2026-10-16T04:42:24.049Z,themora,1.0.0,matayo-ayo,MIT,1732591,Framework-independent animated theme management with native browser transitions.
+2026-10-16T04:43:38.881Z,agentriders,0.1.0,maxcr,MIT,38214,"Verifiable, metadata-only flight records for people who run AI agents. Signs a Claude Code session with a device key and earns a Verified flight badge on agentriders.com."
+2026-10-16T04:43:57.47Z,json-renderers-guard,0.1.0,keshavsoft,,28898,Shared input contracts and validation for JSON renderer packages
+2026-10-16T04:44:14.259Z,@agentriders/mcp,0.1.0,maxcr,MIT,38058,"MCP server that lets an AI agent file its own AgentRiders flight log — grounded in real session telemetry, metadata-only, and routed through human review."
+2026-10-16T04:45:15.081Z,audio-infrastructure,0.0.5,joi7osk,ISC,156,
+2026-10-16T04:45:42.498Z,@toolsenabled/toolsengine,0.1.8,josh_toolsenabled,MIT,471292,"Portable, curated ToolsEngine capabilities over stdio MCP."
+2026-10-16T04:47:35.23Z,mobile-dev-kit,1.0.1,ahmadhussain0335,MIT,1018815,"Installs the mobile-dev-kit Agent Skills for Android, iOS and Flutter into AI coding tools."
+2026-10-16T04:48:05.075Z,@thedriveai/cli,0.1.1,bigyankarki,MIT,22730,"The Drive AI from a shell: sign in or sign up as an agent, put files in, find, read and organize them with previewed, undoable changes."
+2026-10-16T04:48:58.795Z,@microsoft/copilot-studio-mcp,1.0.0,microsoft1es,,2828572,"Microsoft Copilot Studio MCP bridge for sign-in, environment selection, connector setup, and access to cloud-hosted tools and authoring Skills."
+2026-10-16T04:49:03.698Z,@cratis/scene.blueprint.crm,4.44.0,einari,MIT,825458,"Leads, contacts, companies and deals for a sales team, with a pipeline, record pages and quick create."
+2026-10-16T04:49:08.255Z,@blogger-hbs/plugin-lucide,0.0.1,kumardeo,MIT,23957,Lucide icons for blogger-hbs themes.
+2026-10-16T04:49:49.323Z,@solti/sdk,0.1.1,joseph1191,UNLICENSED,48166,"Solti Platform TypeScript SDK — submit and orchestrate workloads, manage connections and cronjobs without managing infrastructure."
+2026-10-16T04:51:54.676Z,dsh-spill-hygiene,0.1.0,hj01857655,MIT,45740,Reclaims orphaned subprocess spill files that dsh's own spill sweep never sees.
+2026-10-16T04:53:03.451Z,@tooldroid/pixel-field,1.0.0,tooldroid,MIT,290212,"Full-bleed animated pixel noise field for React, rendered on a canvas."
+2026-10-16T04:53:49.885Z,@inlinemeet/call-ui,0.1.0,hassannazar,SEE LICENSE IN LICENSE,3750164,The InlineMeet call screen: a React component for putting video calls inside your own product.
+2026-10-16T04:54:23.848Z,gitstress,0.11.0,kilopal,MIT,4028905,Friday-afternoon bottleneck diagnostic. Predict which line dies first under concurrency before you deploy.
+2026-10-16T04:54:46.965Z,emaki-ai-provider,0.1.0,kavel,MIT,15877,"emaki provider for the Vercel AI SDK: generateVideo with Seedance 2.5 and Seedance 2.0 (text to video, image to video) and generateImage, on one emaki.ai API key"
+2026-10-16T04:56:33.229Z,dsh-article-review,0.2.1-alpha.1,biogod,MIT,1331480,Annotation-driven Markdown manuscript review with proposals and human review baselines
+2026-10-16T04:56:50.793Z,@agentic-kit/permissions,0.2.0,pyramation,SEE LICENSE IN LICENSE,520343,"harness-neutral permissions for a coding agent — tool-call classification, workspace boundary, bash risk signals, modes, grants, and secret redaction"
+2026-10-16T04:57:28.215Z,pi-bg-handoff,0.6.1,voorjaar,MIT,1112535,"Spots long-running Bash commands and moves them to background tasks, with host-side wait tools and the background-commands skill"
+2026-10-16T04:59:43.469Z,@stackguardian/mcp-wizard,1.2.1,sg-user,Apache-2.0,287397,"Connect your coding agents to StackGuardian: installs the StackGuardian MCP server and skills into Claude Code, Codex, Cursor, VS Code, Gemini CLI, OpenCode and more with a single command."
+2026-10-16T05:00:52.065Z,opencode-plugin-shuorenhua,1.0.3,sanjusss,,36587,OpenCode 插件：自动注入 shuorenhua 中文写作规则（技能正文进 system，每条用户消息附加提醒句）
+2026-10-16T05:01:56.533Z,safebyok-fastkey,0.0.0,mrflip,Apache-2.0,41741,"A WebAssembly key deriver for safebyok: Argon2id through hash-wasm, under the same keyDeriverSpecs and labels as the core's pure-JavaScript deriver, deriving the same bytes."
+2026-10-16T05:02:28.932Z,@parkgraph/agent-sdk,0.0.0-stage,winsparking,,342,Temporary package placeholder for staged publishing
+2026-10-16T05:02:36.017Z,parkgraph,0.0.0-stage,winsparking,,331,Temporary package placeholder for staged publishing
+2026-10-16T05:03:16.644Z,@logic-pad/cspuz-solver,0.0.0-stage,hlysine,,345,Temporary package placeholder for staged publishing
+2026-10-16T05:04:48.129Z,kenteiscript,0.1.0,snakajima,MIT,1904230,"KenteiScript: a small JSON language for quizzes and tests, written by an LLM, with answers in the taker's own words graded by a decision model (TypeSafe JEV). Includes MulmoKentei, a sample runtime o…"
+2026-10-16T05:05:44.396Z,pi-chat-helper,0.2.0,zhubblego,MIT,216041,pi coding agent 扩展包：浏览器会话轨迹回放 + TUI 提问跳转面板（trajectory web viewer + question panel）
+2026-10-16T05:05:59.66Z,@maximoguk/cfos,0.1.0,maximoguk,Apache-2.0,155480,"Scaffold, configure and deploy a self-hosted Cloudflare OS."
+2026-10-16T05:06:23.446Z,bhumi-sdk2.0,2.0.1,vks.bst006,,236349,"Bhumi 3D map engine for three.js - quadtree tile LOD, terrain, buildings and tile providers"
+2026-10-16T05:06:44.462Z,musubix6,0.1.1,nahisaho,MIT,1959091,"Spec-driven (SDD) and test-driven (TDD) agent skills for GitHub Copilot CLI: lean-sdd-tdd, sdd-spec-interview, sdd-reverse-spec, tech-writer, japanese-prose and more."
+2026-10-16T05:06:49.807Z,@salesforce-ux/context-extractor,1.2.0,salesforce-ux,ISC,179049,Extracts contextual metadata from component bundles and classifies styling hooks suggestions for SLDS design token replacement
+2026-10-16T05:07:33.252Z,@momasiku/dsh-pilot,0.5.7,momasiku,MIT,147215,"Desktop vision and control for DeepSeek Harness - the whole Windows machine, any application, not browser automation: screen_view captures the live screen as an image the model can see, desktop_contr…"
+2026-10-16T05:08:12.108Z,jiahe-pig-ui,1.0.0,noi_lin,ISC,51001,
+2026-10-16T05:08:49.774Z,brewly,2.1.0,raymundo.salser,MIT,498066,Checks macOS system idle time on a weekday schedule and prevents long idle periods.
+2026-10-16T05:09:38.866Z,agent-silent-failures,0.1.0,jj-aleksi,MIT,389775,"A measured, executable catalog of silent agent failures, shipped as code-only Mastra scorers."
+2026-10-16T05:10:37.689Z,html-video-element-webworker-polyfill,0.1.0,stepancar,Apache-2.0,179340,"HTMLVideoElement inside Web Workers: a main-thread <video> mirrored into the worker with synchronous state, events and VideoFrames, plus Canvas 2D / WebGL / WebGPU polyfills."
+2026-10-16T05:10:41.711Z,opencode-fixed-aliases,0.2.0,ebaloo,Apache-2.0,22852,"Governed, fixed model aliases for OpenCode agents"
+2026-10-16T05:11:00.213Z,@advocado-labs/cado-editor,1.0.4,advocado,MIT,3497625,A canvas-based rich text editor with a headless UI
+2026-10-16T05:11:05.633Z,@bankofai/x402-tron-extensions,3.0.0-beta.1,bobo123123hhh,Apache-2.0,592412,TRON resource-sponsoring extensions for official x402 Core
+2026-10-16T05:12:43.278Z,@nativescript/compiler,9.2.0-alpha.0,nativescript-bot,Apache-2.0,26226852,"Compiles a NativeScript app written with Vue, Angular, Svelte, React, Solid or Octane into a native iOS or Android app with no JavaScript runtime."
+2026-10-16T05:12:57.677Z,@nodetool-ai/node-catalog,0.8.4-a13.1,mgeorgi,MIT,1243527,Generated node metadata and exact pack ownership for NodeTool
+2026-10-16T05:13:16.616Z,dsh-workspace-sorter,0.1.0,mrbeandev,MIT,12071,Independent last-used workspace ordering in the DeepSeek Harness sidebar view-options menu.
+2026-10-16T05:13:41.292Z,platzidate-stivcode,1.0.0,stivcodex,MIT,929,Una utilidad para manejar fechas en formato timestamp y longtime.
+2026-10-16T05:13:52.431Z,@infoxchange/locations-api,0.0.0-dev.38854028725,ix-devs,UNLICENSED,191312,"TypeScript client for the Infoxchange Locations API, generated from its OpenAPI schema."
+2026-10-16T05:14:41.609Z,namedaemon,0.1.0,krasenslavov,MIT,17363,"Client and CLI for NameDaemon: .com domain availability, brandability scores, name ideas, TLD costs and domain health."
+2026-10-16T05:15:03.828Z,gephyr,0.1.0,sdb001,MIT,47642,Gephyr CLI: set up and publish your app's MCP connector from a terminal or an AI coding agent. Also an MCP server (gephyr mcp).
+2026-10-16T05:15:25.799Z,termify-app,1.0.0,silenceisprogrammer,MIT,168849,"Termify - a Spotify-style music player for your terminal. No account, no API keys, no ads."
+2026-10-16T05:17:26.602Z,tss-effect-serverfn,0.1.0,rc312,MIT,174062,Typed Effect execution and safe failure boundaries for TanStack Start server functions.
+2026-10-16T05:17:28.124Z,react-native-animated-codes,0.0.0-stage,dhaval-devstree,,349,Temporary package placeholder for staged publishing
+2026-10-16T05:19:02.582Z,@x18n/node,0.0.0-stage,antfu,,332,Temporary package placeholder for staged publishing
+2026-10-16T05:19:04.319Z,@x18n/ui,0.0.0-stage,antfu,,330,Temporary package placeholder for staged publishing
