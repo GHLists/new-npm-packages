@@ -1,0 +1,112 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-17T06:15:35.529Z,@vouchington/edge,0.2.0,jongleberry,MIT,78020,"Cloudflare Worker builders: security headers, CSP, basic auth, origin proxying, cache policy, and a Sentry tunnel."
+2026-10-17T06:15:39.032Z,@vouchington/oauth-server,0.2.0,jongleberry,MIT,53973,"Generic OAuth 2.0 authorization-server building blocks with injected stores (RFC 6749, 7591, 7636, 8414)."
+2026-10-17T06:15:49.445Z,@fastify-utils/error,1.0.0,xcfio,MIT,239208,RFC 9457 Problem Details for HTTP APIs - A standardized error handling package for Node.js
+2026-10-17T06:15:58.735Z,@tschk/moonshine-angular,0.4.4,undivisible,ISC,5025,Native signal bridges and rendering with optional legacy angular entries
+2026-10-17T06:16:21.998Z,@tschk/moonshine-dom,0.4.4,undivisible,ISC,173916,"Independent Moonshine DOM, SSR and reactive rendering"
+2026-10-17T06:16:29.105Z,@tschk/moonshine-nuxt,0.4.4,undivisible,ISC,4733,Native signal bridges and rendering with optional legacy nuxt entries
+2026-10-17T06:21:28.306Z,@colliepwa/durable-sdk,0.1.0,altansprq,MIT,262129,"Show a durable agent on your phone through Collie: approvals, chat and history over a private socket. Experimental."
+2026-10-17T06:21:45.888Z,vhcos-update,1.10.3,hcosclub,UNLICENSED,8162527,VHCOS 在线更新源（版本清单 + 安装包）。不是给别人 import 的库，是给客户端拉取更新用的数据包。
+2026-10-17T06:21:50.676Z,vhcos,1.10.3,hcosclub,UNLICENSED,146511,VHCOS 官网页面（单文件静态站）。
+2026-10-17T06:22:41.014Z,dsh-plugin-folder-sessions,0.1.0,kgw1,MIT,290437,"DSH plugin: the New Session button creates a fresh session workspace folder under a configurable root, and renaming an auto-created workspace renames its folder too."
+2026-10-17T06:22:46.425Z,@venizia/vulcan-okf,0.1.0-0,venizia-developer,MIT,107193,"VULCAN knowledge tooling: OKF v0.2 conformance check (plus --strict house rules), gen, coverage and the offline graph explorer for a project's .agents/knowledge bundle. Bun-only."
+2026-10-17T06:22:48.541Z,@venizia/vulcan-atlas,0.1.0-0,venizia-developer,MIT,5743712,"MCP knowledge server: search and read the wiki, changelogs and knowledge bundle by section, with citations. Bun-only, zero-dependency transport."
+2026-10-17T06:22:50.247Z,@venizia/vulcan,0.1.0-0,venizia-developer,MIT,126495,"VULCAN - one setup, one workflow for every project: init, sync, doctor, upgrade, and `vulcan x` for the shipped tools. Bun-only."
+2026-10-17T06:24:05Z,@serviceme/ms-harness-team-workflow-bundle,0.2.0,serviceme,,228558,"DSH Host plugin for managed team workflow, role presets, guards, and delivery evidence."
+2026-10-17T06:24:11.007Z,@serviceme/ms-harness-team-remote,0.2.0,serviceme,,362580,"DSH Host plugin owning device identity, pairing, remote Web relay, and presence."
+2026-10-17T06:24:14.8Z,@serviceme/ms-harness-team-models,0.2.0,serviceme,,132190,"DSH Host plugin for remote model settings, catalog sync, and legacy provider migration."
+2026-10-17T06:24:18.544Z,@serviceme/ms-harness-team-bundle,0.1.7,serviceme,,24052,"Team default DSH install entry that composes workflow, remote, and models capability plugins."
+2026-10-17T06:25:34.861Z,pi-stereo-view,0.1.0,alexshpunt,MIT,120915,Keep Pi conversation separate from tool output and agent activity.
+2026-10-17T06:26:30.838Z,@hanzo/studio,0.1.0,zeekay,BSD-3-Clause,285992,"Hanzo Studio: a chat that makes images, posters, documents, slides, type systems, 3D, video and sound, with every result open in a tab beside it. Mounted by the Hanzo app at hanzo.ai/studio and serve…"
+2026-10-17T06:27:39.77Z,@yitom/annotations,0.1.1,yitom,,56110,
+2026-10-17T06:27:52.076Z,@yitom/reader-core,0.1.1,yitom,,312797,
+2026-10-17T06:27:57.131Z,@strictly/oxlint,0.0.41,madmaw,MIT,40747,Shared oxlint configuration for strictly style workspaces
+2026-10-17T06:27:58.336Z,@yitom/chat-ui,0.1.1,yitom,,479092,Montree 聊天渲染 UI：无头 hooks + 默认样式组件（ACP/传输零耦合，交互经回调回宿主）
+2026-10-17T06:28:06.565Z,@yitom/chat-session,0.1.1,yitom,,151413,Montree 聊天会话绑定层：线程/审批/模型配置状态 + ACP 事件归约 + React 绑定与 ChatPanel（对接 acp-client 直接工作）
+2026-10-17T06:28:15.655Z,@yitom/chat-core,0.1.1,yitom,,222100,Montree 聊天渲染纯逻辑：消息显示模型、时间线分组、工具展示映射（零 react，可被任意 UI 复用）
+2026-10-17T06:28:18.052Z,@strictly/vitest,0.0.41,madmaw,MIT,5140,Vitest assertion helpers that narrow types
+2026-10-17T06:28:22.95Z,@yitom/contracts,0.1.1,yitom,,410746,
+2026-10-17T06:28:25.523Z,@strictly/storybook,0.0.41,madmaw,MIT,17951,"Storybook configuration and assertion helpers for React, Mantine, MobX and Lingui"
+2026-10-17T06:28:29.361Z,@vouchington/api-client,0.1.0,jongleberry,MIT,70696,"Browser and server API request wrappers, errors, admission idempotency, and a paginated-list React hook."
+2026-10-17T06:28:31.595Z,bash-explainer,0.1.1,sf624,MIT,2257384,"Explain shell scripts line by line in the terminal, like regex101 for bash. Offline, no AI."
+2026-10-17T06:29:38.327Z,koishi-plugin-ll-aimgr,1.0.2,lee1094,MIT,68192,李浅浅自用插件。Koishi plugin: 群聊内容审查 —— 本地关键词闸门命中后送 AI 判定，按规则撤回/禁言；模型拒答或请求失败时转人工而不静默放过，避免 fail-open。支持观察模式、分级日志、词表热更新、图片 OCR/多模态。
+2026-10-17T06:29:52.062Z,checkd-browser,1.1.0,twelve-ai,MIT,2067747,"Check’d production monitoring for the browser: errors, failed requests, Web Vitals, custom events and opt-in session replay."
+2026-10-17T06:29:59.402Z,eslint-plugin-vuekit,11.0.0-alpha.0,sxzz,MIT,1022346,Modern ESLint plugin for Vue 3
+2026-10-17T06:30:25.143Z,@dongmingzhixiu/vuexir-compiler,0.1.0,dongmingzhixiu,MIT,278183,Vue SFC → IR → 原生源码（SwiftUI / Compose）编译器核心：纯函数、零 IO
+2026-10-17T06:30:28.984Z,@dongmingzhixiu/vuexir-templates,0.1.0,dongmingzhixiu,MIT,5871,原生工程模板与运行时桥（SwiftUI Runtime / Compose Runtime / xcodegen / gradle）
+2026-10-17T06:30:32.336Z,@dongmingzhixiu/vuexir,0.1.1,dongmingzhixiu,MIT,70480,vrn 命令行：build ios|android、preview、doctor
+2026-10-17T06:30:34.954Z,@dongmingzhixiu/vuexir-vite-plugin,0.1.0,dongmingzhixiu,MIT,6534,Vite 插件：多页预览中间件（/__vrn/*）+ IR 查看 + HMR 增量 codegen
+2026-10-17T06:30:37.719Z,@oceanbase/seekdb-node-win32-x64,1.4.0,hnwyllmm,Apache-2.0,193007708,seekdb native runtime for win32/x64
+2026-10-17T06:32:17.961Z,create-vuexir,0.1.0,dongmingzhixiu,MIT,6007,脚手架：npx create-vrn-app my-app（Vue SFC + router.ts + vrn.config.ts）
+2026-10-17T06:33:49.012Z,@peretyn/sdk,0.1.0,thanoswasbusy,MIT,123137,Peretyn TypeScript SDK — typed client for the Peretyn runtime.
+2026-10-17T06:34:32.402Z,@coderminer/fetch-event-source,3.0.1,coderminer,MIT,99643,"A better API for making Event Source requests, with all the features of fetch() - maintained fork of @microsoft/fetch-event-source"
+2026-10-17T06:35:06.656Z,wobbree,0.1.1,nodxu,MIT,16115,"A minimal library for managing Three.js objects: owners free what they create, and lists keep scene objects in step with your data."
+2026-10-17T06:35:08.991Z,ng-useanimations,0.1.0-beta.0,nandakyawwin,MIT,5217453,Tree-shakable animated SVG icons for Angular and Ionic.
+2026-10-17T06:35:11.249Z,og-transform,0.2.0,icaroch,MIT,5945,Filtra campos de un JSON mediante patrones con comodines
+2026-10-17T06:35:24.385Z,checkd-node,1.0.0,twelve-ai,MIT,59391,"Check’d production monitoring for Node.js: errors and custom events, with Express, Fastify and AdonisJS helpers."
+2026-10-17T06:36:45.453Z,@intabia-fusion/yama,0.2.2,intabia-fusion,EPL-2.0,1804648,Yet another multi-repository manager: monorepo build system and dependency tools
+2026-10-17T06:36:49.639Z,@ykdz/reins-sdk,0.2.0,ykdz,MIT,318215,Lightweight SDK for the Reins control plane.
+2026-10-17T06:37:11.818Z,@opendevicedb/mcp,0.1.0,smichea,AGPL-3.0-or-later,163911,"MCP server for OpenDeviceDB: look up, claim and publish reverse-engineered device protocols"
+2026-10-17T06:37:40.021Z,@puranderdua/ui,0.1.0,puranderdua8,MIT,31378,"Token-driven design system: Text, Heading and Button."
+2026-10-17T06:38:08.18Z,@oceanbase/seekdb-node,1.4.0,hnwyllmm,Apache-2.0,26828,Local seekdb lifecycle bindings for Node.js and TypeScript
+2026-10-17T06:39:25.098Z,@pagabem/sdk,0.1.0,pagabem,,79481,"SDK TypeScript oficial do PagaBem para Node.js, browser e React."
+2026-10-17T06:39:28.219Z,@pagabem/react,0.1.0,pagabem,,123520,Componentes React oficiais do PagaBem.
+2026-10-17T06:39:30.802Z,@buildkitgg/react-theme,0.1.1,acraswell,MIT,5611,
+2026-10-17T06:40:34.202Z,margin-desk,0.1.1,robval,MIT,310718,"A quiet desk beside your AI coding sessions: every repository and git worktree with its changes, Markdown with Mermaid, and comments on any line or image that reach your Claude Code session."
+2026-10-17T06:40:39.294Z,checkd-cli,0.1.0,twelve-ai,MIT,143894,"Check’d from the terminal and CI: start test runs, follow them live, read findings and AI reports."
+2026-10-17T06:41:27.724Z,@mayur-00/observer,1.0.3,mayur-00,ISC,14503,A lightweight Express error-handling utility for returning consistent JSON error responses from your API.
+2026-10-17T06:41:52.435Z,dsh-douyin-browser-local,1.3.1,lockybee,MIT,770183,DSH 原生抖音工具与独立 DeepSeek 本地助手
+2026-10-17T06:42:16.272Z,@buildkitgg/shadcn-theme,0.1.1,acraswell,MIT,9916,
+2026-10-17T06:42:24.483Z,ask-user-more,0.1.0,votrinhan88,MIT,3392425,AskUserMore — richer multiple-choice questions for Claude Code
+2026-10-17T06:43:28.993Z,@buildkitgg/fluentui-theme,0.1.1,acraswell,MIT,9780,
+2026-10-17T06:44:08.014Z,@makerkit/loop,0.0.0,makerkit,,5366724,"A local, document-first workspace for PRDs (product requirements documents) that works **alongside your coding agent**: Claude Code, Codex, OpenCode, Cursor, or any agent that supports MCP."
+2026-10-17T06:45:23.961Z,db-drifter-cli,0.3.0,db-drifter,MIT,24886,"db_drifter command-line client — connect a source database, create isolated branches, print connection strings."
+2026-10-17T06:46:26.68Z,checkd-mcp,0.1.0,twelve-ai,MIT,32433,"MCP server that lets AI assistants (Claude Code, Cursor, VS Code) use Check’d: runs, results, AI reports, findings and usage."
+2026-10-17T06:46:33.654Z,@mageyuki/opencode-observability-plugin,0.5.2-mageyuki.1,mageyuki,MIT,3203146,Unofficial fork of the Langfuse OpenCode plugin that also links generations to Langfuse prompt versions.
+2026-10-17T06:46:53.962Z,veridic,0.4.1,cph0r,MIT,322157,"Know what your code really does, with proof, before you change it. Evidence-backed specs, honest test coverage and an agent-readiness report for existing codebases."
+2026-10-17T06:47:03.019Z,@vouchington/sentry,0.1.0,jongleberry,MIT,26400,"Sentry SDK init options, data-collection policy, event filtering, coded errors, and capture helpers."
+2026-10-17T06:48:11.47Z,@moon16u/dsh-plugin-session-copy,0.4.0,moon16u,MIT,30977,"Copy the current session's title, storage directory, or working directory from the web session header"
+2026-10-17T06:48:16.488Z,@thealtoclef/omp-claude-bridge,2026.10.17,thealtoclef,MIT,372828,"Claude Code (via the Agent SDK) as a model provider for the omp coding agent, plus an AskClaude tool. An omp port of pi-claude-bridge."
+2026-10-17T06:51:49.956Z,dsh-phone-butler,0.1.0,lifestream,MIT,64466,"Treat a real Android phone as a device the agent can inspect and tidy up over adb: storage surveys, per-app data sizes, cache clearing, screenshots. No root required."
+2026-10-17T06:52:08.261Z,kinako-cli,0.0.46-nightly.20261015.17,niranjan94,MIT,20752,Kinako CLI. Downloads the self-contained executable for this platform from the GitHub Release.
+2026-10-17T06:52:21.657Z,@ops_pilot/cli-win32-x64,0.1.6,digitracks,Apache-2.0,318153,Native pilot binary for win32-x64
+2026-10-17T06:52:36.95Z,conquistador,0.8.0,hungv47,MIT,2795,"The Conquistador CLI: skills, agent installation, MCP, and plugins."
+2026-10-17T06:53:28.271Z,@ops_pilot/cli-linux-x64,0.1.6,digitracks,Apache-2.0,662217,Native pilot binary for linux-x64
+2026-10-17T06:54:46.477Z,@wranglebot/cli,0.1.0,jordannewell,BUSL-1.1,67732,"Agent supervisor: deterministic guardrails, loop-breaking, and .curt emission for coding agents (Claude Code, Codex)."
+2026-10-17T06:54:51.8Z,@ops_pilot/cli-darwin-x64,0.1.6,digitracks,Apache-2.0,611660,Native pilot binary for darwin-x64
+2026-10-17T06:55:09.886Z,locho_web,0.1.0-beta.1,trchopan,MIT,5017405,Browser Locho TCP tickets and bounded streaming HTTP over WASM
+2026-10-17T06:56:10.21Z,deepseek-search-mcp,1.0.0,caelix,MIT,19958,Local MCP server for DeepSeek web search
+2026-10-17T06:56:35.698Z,dsh-galaxy-effort-slider,0.0.0-stage,meiyisiaaa,,346,Temporary package placeholder for staged publishing
+2026-10-17T06:57:19.715Z,starlight-myog,0.1.0,hboon,MIT,14920,"Starlight plugin that adds a MyOG.social og:image and twitter:image to every docs page, generated from each page's URL"
+2026-10-17T06:57:54.56Z,wokitoki,0.2.0,pandeyvishwas51-oss,Apache-2.0,125421,"Walkie-talkies for AI coding agents: Claude Code and Codex message each other peer to peer, end-to-end encrypted, via MCP. No server, no account."
+2026-10-17T06:58:51.402Z,@workwae/sdk,0.1.0-alpha.1,ww-wolfe,UNLICENSED,2166781,"Typed client for the workwae email, calendar and contacts API, with pagination, error and webhook signature helpers"
+2026-10-17T06:59:04.552Z,dsh-bootstrap,0.1.0,why-sir,MIT,232807,DSH 新人引导插件：按领域推荐插件、一键安装、导出/导入环境码、按环境码一键切换插件开关。
+2026-10-17T07:00:19.961Z,social-characters-client,1.0.0,luttje,MIT,205719,"Client, admin client and dev commands for the Social Characters API."
+2026-10-17T07:01:27.869Z,@creationengine/dsh-creationengine,0.1.0-dev.1,marvinyang,UNLICENSED,9778121,"CreationEngine unified DSH plugin: AC auth + AI Gateway models, with login-bound default model."
+2026-10-17T07:03:02.312Z,@dhanushnehru/agentcheck,0.1.0,dhanushnehru,MIT,38867,"Scan AI coding-agent config files (CLAUDE.md, AGENTS.md, .cursor/rules, MCP configs) for hidden prompt-injection attacks."
+2026-10-17T07:03:13.098Z,dsh-turn-music,0.1.0,ramwin,MIT,105654,"DeepSeek Harness 回合提醒音乐插件：对话（回合）结束时自动播放音乐提醒你回来，可在设置里开关、自定义音乐路径或上传音频，内置电话「叮铃铃」铃声；浮标可随时暂停。Turn-finished music reminder for DSH Web — enable in Settings, point at any local audio file or upload one, bun…"
+2026-10-17T07:03:46.358Z,cortico-world-qq-promax,0.1.0,kpect,AGPL-3.0-or-later,12101321,QQ ProMAX: Cortico QQ 私聊、群聊、空间、语音和桌宠扩展，支持 OneBot v11 / SnowLuma / NapCat。
+2026-10-17T07:04:27.822Z,@rupa-ui/react-native,0.1.0,raihanevanza_,MIT,124701,"React Native components (Android and iOS) for the Rupa design system, themed by @rupa-ui/tokens."
+2026-10-17T07:06:20.149Z,n8n-nodes-vivere,0.1.0,bergie007,MIT,58982,"n8n node for Vivere: report when a workflow runs, finishes or fails, with item counts and AI cost, and create heartbeat monitors"
+2026-10-17T07:07:48.44Z,@devwithkd/eslint-plugin,0.1.0,devwithkd,MIT,31231,"ESLint rules for the layered Next.js pattern: colocated server actions, wrapped action exports, module boundaries, import limits."
+2026-10-17T07:07:54.569Z,chairon,0.1.0,aurivynn,AGPL-3.0-only,92713,An Eris styled library for building Geometry Dash bots.
+2026-10-17T07:07:59.816Z,@devwithkd/foundation,0.1.0,devwithkd,MIT,96344,"Layered-architecture building blocks for Next.js apps: server action and route adapters, authz, list/query contracts, Drizzle repositories, audit, Redis and React helpers. Ships TypeScript source."
+2026-10-17T07:08:12.103Z,google-ai-scraper,0.2.15,balakumar.dev,MIT,2120,MCP server that returns Google AI Overviews as clean Markdown. Thin launcher for the google-ai-scraper PyPI package (needs uv or pipx).
+2026-10-17T07:10:25.621Z,@shardflux/desktop-darwin-x64,0.9.1,marcsmeds,Apache-2.0,313496199,Shardflux for macOS (Intel): the desktop app for your cloud coding agents
+2026-10-17T07:10:50.206Z,jev-compare,0.1.0,six.django,MIT,433699,"AI visual image comparison for UI review: a 1–10 similarity score, located differences with bounding boxes, and fix suggestions. Built on the TypeSafe AI (Jev) SDK."
+2026-10-17T07:11:30.465Z,dsh-markdown-render,0.1.0,geeklei,MIT,32059,"Zero-dependency Markdown renderer for DeepSeek Harness: CommonMark + GFM subset to HTML (headings, fenced/indented code, nested lists & quotes, task lists, tables with alignment, inline formatting) a…"
+2026-10-17T07:12:05.95Z,@waucaptcha-sdk/client,1.7.0,khangdasac,MIT,373387,"Browser SDK for WAU Captcha: fetch and answer challenges, or drop in a ready-made widget."
+2026-10-17T07:12:13.427Z,@zllling/pageway-protocol,0.1.0,zllling,MIT,17195,AG-UI protocol contracts and streaming transport for Pageway
+2026-10-17T07:12:16.179Z,@waucaptcha-sdk/react,1.6.0,khangdasac,MIT,88089,"React component for WAU Captcha: <WauCaptcha />, inline or in a modal, with the token in your form."
+2026-10-17T07:13:01.244Z,@waucaptcha-sdk/server,1.6.0,khangdasac,MIT,23817,"Node.js SDK for WAU Captcha: redeem the tokens your frontend obtained, with your secret key."
+2026-10-17T07:14:27.325Z,@hketen/paperclip-omp-adapter,0.8.0,hketen,MIT,176657,External Paperclip adapter for the Oh My Pi coding-agent CLI
+2026-10-17T07:14:44.115Z,starbio-cli,1.0.0,kanghen,MIT,17898,Developer CLI for deploying static projects to StarBio Cloud
+2026-10-17T07:14:50.403Z,@tenbilsoft/pub-mcp,0.0.0-stage,ysl0715,,341,Temporary package placeholder for staged publishing
+2026-10-17T07:15:08.896Z,@zllling/pageway-agent,0.1.0,zllling,MIT,84760,Fetch-native AG-UI agent handler for OpenAI-compatible APIs
+2026-10-17T07:15:28.348Z,mitra_engine,0.0.0,hojat72elect,,12357955,A 2D game engine for the web
+2026-10-17T07:15:50.584Z,dev8ball,0.0.0-stage,vbot-muse,,330,Temporary package placeholder for staged publishing
+2026-10-17T07:17:12.158Z,dsh-daylist,0.10.0,guhong_x,MIT,893960,DSH scheduling host for the generic Arona assistant and its proposal-based task-allocation tools
+2026-10-17T07:17:46.003Z,staleprobe,0.1.0,ragul2007,MIT,293987,Observe-only cache staleness detection for Node.js. Probe your cache. Measure the truth.
+2026-10-17T07:18:13.517Z,xlsx-context,1.3.0,batd92,Apache-2.0,477458,Convert .xlsx workbooks into structured context and Markdown for AI applications.
+2026-10-17T07:18:17.754Z,screendocs,0.1.0,rubensmota13,MIT,309242,"Automatically screenshot, record and document every screen of a website, including pages behind login."
+2026-10-17T07:19:18.331Z,mercure-n-body,0.0.0-stage,msbowen,,336,Temporary package placeholder for staged publishing
