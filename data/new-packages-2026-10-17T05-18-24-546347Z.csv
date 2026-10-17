@@ -1,0 +1,170 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-17T04:13:57.676Z,@3sixty/dlt-account,0.20.0-next.0,3sixty-bot,Apache-2.0,82332,Account management utilities for distributed ledger operations.
+2026-10-17T04:14:21.545Z,@ascariodev/sereno-browser,0.1.0,ascariodev,MIT,67674,Sereno SDK for the browser.
+2026-10-17T04:14:27.819Z,@amends-dev/channel,0.1.0,sarib,MIT,35493,"Channels that bring external conversations in: the contract every channel transport implements, receiving what a system sends and replying in its conversations."
+2026-10-17T04:14:41.686Z,@amends-dev/sandbox,0.1.0,sarib,MIT,136581,"Sandboxes that agents work in: the contract every sandbox provider implements, with Effect's own file system and processes inside, and the conformance suites each provider runs."
+2026-10-17T04:14:44.167Z,@amends-dev/sandbox-daytona,0.1.0,sarib,MIT,129632,"Sandboxes on Daytona for the @amends-dev/sandbox contract: a Linux machine of its own for each sandbox, made from a snapshot of its template's version."
+2026-10-17T04:14:46.305Z,@amends-dev/sandbox-local,0.1.0,sarib,MIT,33819,"Sandboxes as directories on this machine, for the @amends-dev/sandbox contract: for development, tests, and agents you would trust on this machine anyway."
+2026-10-17T04:14:46.313Z,@amends-dev/sandbox-e2b,0.1.0,sarib,MIT,96325,Sandboxes on E2B for the @amends-dev/sandbox contract.
+2026-10-17T04:14:46.366Z,@amends-dev/sandbox-vercel,0.1.0,sarib,MIT,100257,Sandboxes on Vercel for the @amends-dev/sandbox contract.
+2026-10-17T04:14:46.72Z,@amends-dev/harness,0.1.0,sarib,MIT,474482,"Runs an agent, such as opencode or one in your own process over an Effect AI language model, and streams every agent's turns in one format."
+2026-10-17T04:14:48.752Z,@amends-dev/harness-claude,0.1.0,sarib,MIT,108820,Claude Agent SDK behind the amends sandbox bridge.
+2026-10-17T04:14:48.851Z,@amends-dev/harness-codex,0.1.0,sarib,MIT,132926,Codex app-server as an agent for the amends harness contract
+2026-10-17T04:14:48.869Z,@amends-dev/harness-amends,0.1.0,sarib,MIT,120520,"An agent in your own process for the @amends-dev/harness contract: a loop over an Effect AI language model, with tools for the files and the shell of a sandbox."
+2026-10-17T04:14:49.26Z,@amends-dev/harness-opencode,0.1.0,sarib,MIT,403677,"opencode as an agent for the @amends-dev/harness contract: opencode works in a sandbox behind its bridge, which the agent's template installs there."
+2026-10-17T04:18:30.557Z,@pumpkin-plugins/static-analysis,0.0.0,filiphsandstrom,MIT,761,Metadata-only placeholder for the upcoming static analysis package
+2026-10-17T04:19:01.624Z,@3sixty/nft-models,0.20.0-next.0,3sixty-bot,Apache-2.0,57296,"Shared NFT interfaces, request and response models, and connector contracts."
+2026-10-17T04:19:09.243Z,@gusnips/cnpj,0.1.2,gusnips,MIT,121113,"Look up a Brazilian company by CNPJ, the new CNPJ with letters too. Your own registry server first if you have one, then Minha Receita, BrasilAPI, cnpj.ws and ReceitaWS, all mapped to one record. Use…"
+2026-10-17T04:19:56.382Z,@dungle-scrubs/hub-ui,0.3.0,dungle-scrubs-org,MIT,2001424,Legacy Lab UI components retained for Reviewsion support
+2026-10-17T04:20:33.449Z,editormate,1.0.0,praveenojha,Commercial,34663822,"Commercial Remote Control for AI Coding Agents (Cursor, VS Code, Antigravity, Claude Code via Telegram, Discord, WhatsApp)"
+2026-10-17T04:21:34.059Z,@yugoo-design/yugoo-design-git-native,0.1.0-beta.2,yugoo-design,MIT,7914649,"Node-only local Git binding for Yugoo Design, with bounded object-header access."
+2026-10-17T04:21:50.312Z,dsh-av-continuous,0.1.1,fuhaoyun,MIT,371545,"Continuous video frame sampling plus local VAD-gated transcription for DeepSeek Harness, aligned on one timeline. · 为 DSH 提供连续视频抽帧与本地离线语音转写，画面与语音按时间轴对齐。"
+2026-10-17T04:22:08.875Z,@camelkit/core,0.0.1,0n1zuka,GPL-3.0-only,324663,CamelKit Client Core
+2026-10-17T04:23:06.434Z,@celec7/yam3x,0.1.1,celec7,MIT,1719254,Add editable Material 3 Expressive Vue components to your app.
+2026-10-17T04:24:05.663Z,@3sixty/notarization-models,0.20.0-next.0,3sixty-bot,Apache-2.0,58701,"Shared notarization interfaces, request and response models, and connector contracts."
+2026-10-17T04:24:19.492Z,opencode-tool-guardian,0.2.1,zademy,MIT,203003,"Deterministic, local-first observer for OpenCode V2 tool calls: duplicates, failure loops, command risk, excessive search and output cost. No LLM calls."
+2026-10-17T04:24:53.225Z,@bedrock-server-manager/api-client,0.1.0-beta.1,dmedina559,MIT,398433,"A browser-independent ESM client for Bedrock Server Manager. Core operation names, parameters, request bodies, and successful response types come from the pinned backend OpenAPI contract."
+2026-10-17T04:25:17.968Z,@thzero/library_server_messaging_discord,0.19.1,thzero,MIT,13711,![GitHub package.json version](https://img.shields.io/github/package-json/v/thzero/library_server_messaging_discord) ![David](https://img.shields.io/david/thzero/library_server_messaging_discord) [![…
+2026-10-17T04:27:51.162Z,@bedrock-server-manager/frontend,1.3.0-beta.7,dmedina559,MIT,3538233,Prebuilt Bedrock Server Manager web interface
+2026-10-17T04:28:42.003Z,@rich-netlist/runtime,0.1.0-preview.8,many_question,MIT AND CC0-1.0 AND OFL-1.1,2192927,"The RNL core as WebAssembly: SPICE and Spectre netlists with their RNL records read into the Documents a viewer draws, the editor interface's snapshots, and edits written back into the netlist."
+2026-10-17T04:29:09.331Z,@3sixty/api-auth-entity-storage-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,77996,REST clients for authentication and admin operations against entity storage endpoints.
+2026-10-17T04:30:25.942Z,@rigelbuild/dl-list,1.0.0,zireael13,MIT OR Apache-2.0,20650,"Lists design-ledger decisions for a consumer repository. It reads `designsRoot` and `surfaceDepth` from the ledger config, parses entries with the shared design-ledger-gate parser, then prints one li…"
+2026-10-17T04:31:03.059Z,@rigelbuild/comment-scan,0.0.0,zireael13,MIT OR Apache-2.0,97997,Language-aware source comment scanning and Markdown structure fingerprinting.
+2026-10-17T04:31:39.003Z,@ai-for-dev/providers,0.1.0,gouarin,MIT,10947,Pi providers for the AI4Dev course models (ILAAS and IA4Dev)
+2026-10-17T04:31:59.32Z,@unstale/cli-darwin-arm64,0.0.0,draperjt,UNLICENSED,216,Reserved for the unstale project.
+2026-10-17T04:32:02.179Z,@unstale/cli-darwin-x64,0.0.0,draperjt,UNLICENSED,214,Reserved for the unstale project.
+2026-10-17T04:32:05.143Z,@unstale/cli-linux-arm64,0.0.0,draperjt,UNLICENSED,215,Reserved for the unstale project.
+2026-10-17T04:32:08.105Z,@unstale/cli-linux-x64,0.0.0,draperjt,UNLICENSED,213,Reserved for the unstale project.
+2026-10-17T04:32:10.603Z,@unstale/cli-win32-x64,0.0.0,draperjt,UNLICENSED,213,Reserved for the unstale project.
+2026-10-17T04:32:28.272Z,@sacms/sdk,1.1.0,zonggonau,MIT,46662,TypeScript SDK for SaCMS headless CMS
+2026-10-17T04:32:31.66Z,engineering-grimoires,0.2.0,dion_stylish_23,MIT,69657,Interactive installer and catalog for reusable engineering skills.
+2026-10-17T04:33:53.658Z,rooklang,0.3.0,qwern-9876r,MIT,1192788,"A language with JavaScript semantics, Go-style syntax, goroutines on real threads and static types that compiles to readable JavaScript"
+2026-10-17T04:34:02.28Z,@data-matters.io/agent-harness,0.1.0,marciobarroso,UNLICENSED,147284,"Spec-Driven Development with Claude Code: gates, task loop and standards installed into a product repository"
+2026-10-17T04:34:13.142Z,@3sixty/api-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,32929,REST client implementation for consuming information and hosting endpoints.
+2026-10-17T04:35:09.769Z,ai-reflex,0.1.0,mrfentmen,MIT,7983,Pre-action verification for AI agents. Read .reflex files and check rules before actions.
+2026-10-17T04:35:13.652Z,ai-adaptability,0.1.0,mrfentmen,MIT,3425,Context adapter for AI agents. Adjusts behavior to different situations.
+2026-10-17T04:35:14.697Z,@noppu-labs/opencode-review,0.8.4,noppu,MIT,195263,"Code review skills for PHP, TypeScript, and Python: comment audit, writing comments, type-safety review, correctness review, a three-stage PR review orchestrator, and PR comments"
+2026-10-17T04:35:15.798Z,ai-attention,0.1.0,mrfentmen,MIT,3372,Event-triggered hooks for AI agents. Focuses attention at the right moment.
+2026-10-17T04:35:18.147Z,ai-balance,0.1.0,mrfentmen,MIT,3650,Trade-off analyzer for AI agents. Weighs options intelligently.
+2026-10-17T04:35:20.465Z,ai-clarity,0.1.0,mrfentmen,MIT,3085,Simplification engine for AI agents. Makes complex things simple.
+2026-10-17T04:35:22.714Z,ai-common-sense,0.1.0,mrfentmen,MIT,4876,Real-world validation middleware for AI agents.
+2026-10-17T04:35:25.052Z,ai-conscience,0.1.0,mrfentmen,MIT,4314,Ethical evaluation for AI agents. A moral compass for actions.
+2026-10-17T04:35:27.221Z,ai-courage,0.1.0,mrfentmen,MIT,3500,Strategy generator for AI agents. Tries unconventional approaches when standard ones fail.
+2026-10-17T04:35:29.396Z,ai-curiosity,0.1.0,mrfentmen,MIT,6068,Background exploration daemon for AI agents. Proactively discovers useful context.
+2026-10-17T04:35:31.435Z,ai-dignity,0.1.0,mrfentmen,MIT,4866,Tone monitor for AI agents. Ensures respectful interactions.
+2026-10-17T04:35:33.69Z,ai-discipline,0.1.0,mrfentmen,MIT,5275,Quality linter for AI output. Enforces coding standards and best practices.
+2026-10-17T04:35:35.881Z,ai-empathy,0.1.0,mrfentmen,MIT,5251,User mental state modeling for AI agents. Understands and adapts.
+2026-10-17T04:35:38.964Z,ai-focus,0.1.0,mrfentmen,MIT,5170,Context filter for AI agents. Narrows attention to only what matters.
+2026-10-17T04:35:41.221Z,ai-foresight,0.1.0,mrfentmen,MIT,3692,Consequence simulator for AI agents. Predicts what will happen before acting.
+2026-10-17T04:35:43.317Z,ai-grace,0.1.0,mrfentmen,MIT,4400,Elegant error handling for AI agents. Graceful degradation.
+2026-10-17T04:35:45.593Z,ai-habit,0.1.0,mrfentmen,MIT,5052,Automatic behaviors for AI agents. Develops through repetition.
+2026-10-17T04:35:47.959Z,ai-hindsight,0.1.0,mrfentmen,MIT,5310,Failure learning for AI agents. Learns from past mistakes to prevent recurrence.
+2026-10-17T04:35:50.474Z,ai-human,0.1.0,mrfentmen,MIT,25378,The Human AI capability system. 20 concepts named after human qualities.
+2026-10-17T04:35:52.996Z,ai-humility,0.1.0,mrfentmen,MIT,3747,Confidence gate for AI agents. Admits uncertainty instead of hallucinating.
+2026-10-17T04:35:55.264Z,ai-imagination,0.1.0,mrfentmen,MIT,2976,Alternative generator for AI agents. Generates diverse approaches to problems.
+2026-10-17T04:35:57.31Z,ai-instinct,0.1.0,mrfentmen,MIT,6510,Fast pattern matching for AI agents. Gut feelings without full reasoning.
+2026-10-17T04:35:59.673Z,ai-judgment,0.1.0,mrfentmen,MIT,3797,Multi-dimensional quality scorer for AI decisions.
+2026-10-17T04:36:01.978Z,ai-muscle-memory,0.1.0,mrfentmen,MIT,5406,Cached execution paths for AI agents. Develops muscle memory.
+2026-10-17T04:36:04.046Z,ai-patience,0.1.0,mrfentmen,MIT,4355,Action queue system for AI agents. Holds actions until conditions are met.
+2026-10-17T04:36:06.717Z,ai-peripheral,0.1.0,mrfentmen,MIT,5268,Always-on context awareness for AI agents. Like peripheral vision.
+2026-10-17T04:36:08.871Z,ai-precision,0.1.0,mrfentmen,MIT,3821,Numerical exactness verification for AI agents.
+2026-10-17T04:36:09.193Z,create-ixia,0.1.0,phntmbandit,MIT,659203,"Scaffold an Ixia Starter app with the features you need, including Neon + Drizzle, auth, dark mode, and localization."
+2026-10-17T04:36:10.478Z,@thlinh/pi-auto-approval,0.1.1,thlinh,MIT,104585,Regex-based approval gates for Pi bash tool calls.
+2026-10-17T04:36:11.783Z,ai-rhythm,0.1.0,mrfentmen,MIT,3892,Pacing engine for AI agents. Controls response timing.
+2026-10-17T04:36:14.166Z,ai-taste,0.1.0,mrfentmen,MIT,3543,Aesthetic evaluation for AI output. Knows what looks good.
+2026-10-17T04:36:16.92Z,ai-wisdom,0.1.0,mrfentmen,MIT,3881,Distilled judgment database for AI agents. Accumulates wisdom over time.
+2026-10-17T04:36:19.259Z,ai-wonder,0.1.0,mrfentmen,MIT,2917,Novelty detector for AI agents. Recognizes interesting findings.
+2026-10-17T04:36:26.056Z,@mrfentmen/ai-flow,0.1.1,mrfentmen,MIT,4110,Performance state monitor for AI agents. Maintains optimal operating state.
+2026-10-17T04:36:39.595Z,@mrfentmen/ai-resilience,0.1.0,mrfentmen,MIT,7263,"Adaptive retry system for AI agents. Tries differently, not just again."
+2026-10-17T04:36:41.597Z,@mrfentmen/ai-trust,0.1.0,mrfentmen,MIT,3303,Reliability tracker for AI agents. Builds trust through consistent behavior.
+2026-10-17T04:37:04.902Z,fs-utils-async,1.0.1,jesusgraterol,MIT,42365,"The fs-utils-async package provides a collection of well-tested, asynchronous file system utility functions. It mirrors fs-utils-sync name for name, promotes consistency and readability across projec…"
+2026-10-17T04:37:28.416Z,node-process-utils,1.0.1,jesusgraterol,MIT,23504,"The node-process-utils package runs child processes with bounded time and output, and stops the process trees it owns: graceful then forced process-group shutdown on POSIX, and taskkill on Windows. E…"
+2026-10-17T04:38:40.638Z,8-n-8,0.0.2,ferreira-jefferson,GPL-3.0-only,8380903,"Mapa visual de código: nós e arestas no estilo n8n, do repositório até as linhas reais."
+2026-10-17T04:39:16.895Z,@3sixty/api-server-fastify,0.20.0-next.0,3sixty-bot,Apache-2.0,135143,Fastify web server integration for exposing API routes with consistent runtime behaviour.
+2026-10-17T04:41:44.678Z,custom-dashboard-grid,0.1.0,bduffaut,MIT,507148,"Draggable, resizable dashboard grid for Vue 3. Give it widgets, it handles the rest."
+2026-10-17T04:41:47.015Z,@bedrock-server-manager/runtime,0.1.0-beta.1,dmedina559,MIT,108413,"Bedrock Server Manager application state, session, and WebSocket coordination"
+2026-10-17T04:41:56.369Z,@bedrock-server-manager/storage,0.1.0-beta.1,dmedina559,MIT,11957,"Validated, versioned Bedrock Server Manager preferences with injectable persistence"
+2026-10-17T04:42:15.612Z,@beautinique/frontend-tryon,1.0.1,beautinique,MIT,2486963,"The virtual try-on of the Beautinique frontends: live camera or photo, for lips, face, eyes, hair and nails."
+2026-10-17T04:42:41.75Z,@wha7ever/dsh-gotify-notify,0.1.1,wha7ever,MIT,65142,"Gotify push alerts for DeepSeek Harness: get pinged when the harness asks you a question, waits for an approval, finishes a turn, or fails"
+2026-10-17T04:44:20.901Z,@3sixty/api-service,0.20.0-next.0,3sixty-bot,Apache-2.0,190659,Information and hosting service implementations with generated REST route handlers.
+2026-10-17T04:46:37.155Z,@yuuichi/open-webui-assets,0.12.3-ym.1,hoshinoyuuichi,SEE LICENSE IN README.md,61737184,Open WebUI frontend build (immutable assets) mirrored via cdn.cbd.int for mainland-China acceleration
+2026-10-17T04:48:06.957Z,json-transformer-found,1.2.1,keshavsoft,MIT,3111432,"Pure JSON Specification Compiler with jsonToSpec namespace: (structure, data) -> Spec JSON"
+2026-10-17T04:49:18.471Z,@ssaulgoodman420/sacred-cli,0.1.17,ssaulgoodman420,,105604,Sacred artist workspace sync CLI.
+2026-10-17T04:49:25.435Z,@3sixty/api-tenant-processor,0.20.0-next.0,3sixty-bot,Apache-2.0,261268,Tenant resolution services and route handlers that derive tenant context from API keys.
+2026-10-17T04:50:23.924Z,@beautinique/frontend-tryon-assets,1.0.0,beautinique,MIT,16890638,"The models and images of the Beautinique try-on: MediaPipe models, eye patterns, lip textures and sample models."
+2026-10-17T04:51:05.668Z,@unstale/cli,0.0.0,draperjt,UNLICENSED,203,Reserved for the unstale project.
+2026-10-17T04:51:20.75Z,@wq2/narrow-one-types,0.0.0,6x68,,370501,
+2026-10-17T04:51:27.744Z,@unstale/create,0.0.0,draperjt,UNLICENSED,206,Reserved for the unstale project.
+2026-10-17T04:52:55.187Z,init-webslop,0.1.0,dylansbogar,MIT,20788,"Scaffold a web app on the shadcn Vite template with TanStack Query, Router and Table"
+2026-10-17T04:52:59.082Z,adaptability,0.1.0,mrfentmen,MIT,3447,Context adapter for AI agents. Adjusts behavior to different situations.
+2026-10-17T04:53:01.512Z,astuteness,0.1.0,mrfentmen,MIT,3844,Numerical exactness verification for AI agents.
+2026-10-17T04:53:04.164Z,circumspection,0.1.0,mrfentmen,MIT,3114,Simplification engine for AI agents. Makes complex things simple.
+2026-10-17T04:53:06.204Z,conscience,0.1.0,mrfentmen,MIT,4336,Ethical evaluation for AI agents. A moral compass for actions.
+2026-10-17T04:53:08.257Z,contextaware,0.1.0,mrfentmen,MIT,6093,Background exploration daemon for AI agents. Proactively discovers useful context.
+2026-10-17T04:53:12.029Z,dignified,0.1.0,mrfentmen,MIT,4890,Tone monitor for AI agents. Ensures respectful interactions.
+2026-10-17T04:53:15.651Z,equilib,0.1.0,mrfentmen,MIT,3672,Trade-off analyzer for AI agents. Weighs options intelligently.
+2026-10-17T04:53:17.397Z,flowive,0.1.1,mrfentmen,MIT,4124,Performance state monitor for AI agents. Maintains optimal operating state.
+2026-10-17T04:53:19.437Z,foresightful,0.1.0,mrfentmen,MIT,3717,Consequence simulator for AI agents. Predicts what will happen before acting.
+2026-10-17T04:53:21.594Z,habituate,0.1.0,mrfentmen,MIT,5078,Automatic behaviors for AI agents. Develops through repetition.
+2026-10-17T04:53:22.626Z,@metkasu/cordova-plugin-hkh-billing,0.0.0-stage,metkasu,,357,Temporary package placeholder for staged publishing
+2026-10-17T04:53:23.996Z,humankind,0.1.0,mrfentmen,MIT,25412,The Human AI capability system. 20 concepts named after human qualities.
+2026-10-17T04:53:26.006Z,humility,0.1.0,mrfentmen,MIT,3769,Confidence gate for AI agents. Admits uncertainty instead of hallucinating.
+2026-10-17T04:53:29.979Z,instinctive,0.1.0,mrfentmen,MIT,6535,Fast pattern matching for AI agents. Gut feelings without full reasoning.
+2026-10-17T04:53:31.926Z,judicious,0.1.0,mrfentmen,MIT,3820,Multi-dimensional quality scorer for AI decisions.
+2026-10-17T04:53:34.842Z,overcome,0.1.0,mrfentmen,MIT,7272,"Adaptive retry system for AI agents. Tries differently, not just again."
+2026-10-17T04:53:36.998Z,peripheral,0.1.0,mrfentmen,MIT,5290,Always-on context awareness for AI agents. Like peripheral vision.
+2026-10-17T04:53:38.856Z,perspicacity,0.1.0,mrfentmen,MIT,5199,Context filter for AI agents. Narrows attention to only what matters.
+2026-10-17T04:53:40.931Z,practicality,0.1.0,mrfentmen,MIT,4898,Real-world validation middleware for AI agents.
+2026-10-17T04:53:42.997Z,prevail,0.1.0,mrfentmen,MIT,4376,Action queue system for AI agents. Holds actions until conditions are met.
+2026-10-17T04:53:43.371Z,@tonyweckstrom/llm-cassette,0.2.0,tonyweckstrom,MIT,21428,"Tallenna LLM-kutsujen vastaukset kerran ja toista ne testeissä: nopeat, ilmaiset ja vakaat testit ilman verkkoa. Record/replay for fetch-based LLM clients."
+2026-10-17T04:53:45.029Z,reflexes,0.1.0,mrfentmen,MIT,8001,Pre-action verification for AI agents. Read .reflex files and check rules before actions.
+2026-10-17T04:53:47.07Z,respectfully,0.1.0,mrfentmen,MIT,4429,Elegant error handling for AI agents. Graceful degradation.
+2026-10-17T04:53:47.597Z,dsh-connect-trae-models,0.1.0,dragonhorizon-xtihc,MIT,469096,把多个 Trae 账号聚合成一个自动容错换号的模型池：多账号轮转、手动签到、积分自动化、模型/积分包到期提醒与可选模型配置页面。
+2026-10-17T04:53:49.238Z,retrospectively,0.1.0,mrfentmen,MIT,5338,Failure learning for AI agents. Learns from past mistakes to prevent recurrence.
+2026-10-17T04:53:51.035Z,rhythmful,0.1.0,mrfentmen,MIT,3917,Pacing engine for AI agents. Controls response timing.
+2026-10-17T04:53:52.911Z,tasteful,0.1.0,mrfentmen,MIT,3568,Aesthetic evaluation for AI output. Knows what looks good.
+2026-10-17T04:53:54.802Z,trustful,0.1.0,mrfentmen,MIT,3317,Reliability tracker for AI agents. Builds trust through consistent behavior.
+2026-10-17T04:53:57.264Z,wonderous,0.1.0,mrfentmen,MIT,2942,Novelty detector for AI agents. Recognizes interesting findings.
+2026-10-17T04:54:06.591Z,courage,0.1.0,mrfentmen,MIT,3522,Strategy generator for AI agents. Tries unconventional approaches when standard ones fail.
+2026-10-17T04:54:08.35Z,imagination,0.1.0,mrfentmen,MIT,2998,Alternative generator for AI agents. Generates diverse approaches to problems.
+2026-10-17T04:54:29.188Z,@3sixty/entity-storage-connector-memory,0.20.0-next.0,3sixty-bot,Apache-2.0,122518,"In-memory connector for local development, testing and short-lived workloads."
+2026-10-17T04:55:07.503Z,claude-pool,0.1.0,kbastwad,MIT,56321,Multi-account token pooling and seamless failover manager for Claude Code CLI
+2026-10-17T04:56:08.312Z,concentrated,0.1.0,mrfentmen,MIT,3397,Event-triggered hooks for AI agents. Focuses attention at the right moment.
+2026-10-17T04:56:10.895Z,ethicsguard,0.1.0,mrfentmen,MIT,5298,Quality linter for AI output. Enforces coding standards and best practices.
+2026-10-17T04:56:13.237Z,empathetic,0.1.0,mrfentmen,MIT,5276,User mental state modeling for AI agents. Understands and adapts.
+2026-10-17T04:56:15.346Z,musclemem,0.1.0,mrfentmen,MIT,5424,Cached execution paths for AI agents. Develops muscle memory.
+2026-10-17T04:56:17.587Z,shrewdness,0.1.0,mrfentmen,MIT,3907,Distilled judgment database for AI agents. Accumulates wisdom over time.
+2026-10-17T04:56:56.891Z,@askeleven/reply-clock,0.1.0,ataskeleven,MIT,92912,"How long do people wait for your reply? Grades your email first-reply times from an mbox export or straight over IMAP: median, share answered, after hours, new contacts. Headers only, never bodies. S…"
+2026-10-17T04:58:11.53Z,@dsh-mobile-app/desktop-extension,0.2.0-beta.1,yangjiyuan,Apache-2.0,72019791,DeepSeek Harness 原生移动端完整插件：安全网关、配对、远程连接与增强服务
+2026-10-17T04:58:38.902Z,@ozankurt/bonfire,1.0.0,ozankurt,MIT,208359,Dramatic full-screen notifications and dialogs inspired by Soulsborne games
+2026-10-17T05:02:12.998Z,tokzip,0.0.0-placeholder.0,exkazuu,UNLICENSED,652,Placeholder for the upcoming tokzip release. No compression API is included.
+2026-10-17T05:02:15.305Z,synodcode,1.0.0,synodcode,ISC,291,
+2026-10-17T05:04:51.645Z,dsviz,2.0.0,jessewilliamson,MIT,866426,"Interactive, animated SVG teaching diagrams"
+2026-10-17T05:06:12.089Z,@wordup-md/unstorage-drivers,0.1.0,manutopik,MIT,41444,"Isomorphic unstorage drivers for git forges and beyond, loaded one by one through subpath exports."
+2026-10-17T05:07:14.759Z,@gendo-cash/agent,0.1.0,ardey26,Apache-2.0,1553029,"Connect an AI agent to a gendo budget: an MCP server with its own key, paired from the gendo app."
+2026-10-17T05:07:27.375Z,@raghuvamsi_rv/compresspics,0.1.0,raghuvamsi_rv,MIT,18144,"Fast, private, in-browser photo compression with RAW (NEF, DNG, CR2, ARW, PEF) support. Runs in a Web Worker with OffscreenCanvas. Zero dependencies."
+2026-10-17T05:07:38.207Z,@weibaohui/dsh-favorites,0.1.0,weibaohui,MIT,158447,dsh 插件 · 会话收藏夹：左侧会话行收藏/星标，收藏夹主面板支持文件夹分门别类、备注、自定义显示名、继续会话、Fork 新会话、会话基本统计与 fork 关系图。
+2026-10-17T05:08:19.105Z,@tonyweckstrom/evalkit,0.3.0,tonyweckstrom,MIT,75281,"Aja sama prompt-sarja usealla mallilla ja estä regressiot CI:ssä: CLI, joka vertaa tuloksia edelliseen hyväksyttyyn ajoon. Eval runner with a regression gate for CI."
+2026-10-17T05:08:23.569Z,@grantry/js,0.1.0,jb77777,MIT,301521,Authentication for any JavaScript application. No framework required.
+2026-10-17T05:08:34.455Z,@grantry/react,0.1.0,jb77777,MIT,3635429,"Grantry for React: sign-in, sign-up, user profile, pricing and checkout components, hooks, and server-side token verification."
+2026-10-17T05:08:39.959Z,@grantry/vue,0.1.0,jb77777,MIT,38304,"Experimental: authentication, accounts and billing state for Vue 3 applications, as composables over @grantry/js. No prebuilt components."
+2026-10-17T05:08:49.068Z,dsh-cuda,0.1.0,lifestream,MIT,109456,"Run Python work on the local CUDA GPU from DeepSeek Harness: device status, foreground and background runs, durable job logs, peak-VRAM facts."
+2026-10-17T05:08:49.672Z,@grantry/nextjs,0.1.0,jb77777,MIT,90359,"Grantry authentication for Next.js: the React components and hooks, server-side auth() and route-protecting middleware."
+2026-10-17T05:08:52.272Z,@pumpkin-plugins/wasi-capabilities,0.0.0,filiphsandstrom,MIT,448,Non-functional placeholder for the WASI capability metadata package
+2026-10-17T05:08:54.349Z,dsh-eslat,1.0.0,amador_aguilar,MIT,77473,EsLat — etiquetas en español para las llamadas a herramientas y los resúmenes de estado de la interfaz web de DeepSeek Harness (DSH)
+2026-10-17T05:09:15.036Z,dsh-gemini-kitten-widget,0.1.0,lifestream,MIT,503117,DSH 界面右下角的 Gemini 猫娘额度挂件：显示 Google Gemini API 免费层今日已用/剩余次数（20 次/模型/天，UTC 午夜重置），可按型号切换查看、按额度变色预警、拖拽吸附、点击换台词。
+2026-10-17T05:10:08.082Z,@shzd/bun-geos-darwin-arm64,0.0.1,abdukahhars,MIT AND LGPL-2.1-or-later,3844205,GEOS 3.14.1 binaries + shim for @shzd/bun-geos on darwin-arm64 — do not install directly.
+2026-10-17T05:11:28.752Z,demoforpublish,1.0.0,shaikhabdulrahim,ISC,3157,"This package is only for testing purpose, how to publish package on npm registry"
+2026-10-17T05:11:31.647Z,@shzd/bun-geos-darwin-x64,0.0.1,abdukahhars,MIT AND LGPL-2.1-or-later,4103281,GEOS 3.14.1 binaries + shim for @shzd/bun-geos on darwin-x64 — do not install directly.
+2026-10-17T05:11:49.436Z,@shzd/bun-geos-linux-arm64-gnu,0.0.1,abdukahhars,MIT AND LGPL-2.1-or-later,5322008,GEOS 3.14.1 binaries + shim for @shzd/bun-geos on linux-arm64-gnu — do not install directly.
+2026-10-17T05:11:54.14Z,@shzd/bun-geos-linux-arm64-musl,0.0.1,abdukahhars,MIT AND LGPL-2.1-or-later,5284582,GEOS 3.14.1 binaries + shim for @shzd/bun-geos on linux-arm64-musl — do not install directly.
+2026-10-17T05:11:59.316Z,@shzd/bun-geos-linux-x64-gnu,0.0.1,abdukahhars,MIT AND LGPL-2.1-or-later,5569676,GEOS 3.14.1 binaries + shim for @shzd/bun-geos on linux-x64-gnu — do not install directly.
+2026-10-17T05:12:04.049Z,@shzd/bun-geos-linux-x64-musl,0.0.1,abdukahhars,MIT AND LGPL-2.1-or-later,5443450,GEOS 3.14.1 binaries + shim for @shzd/bun-geos on linux-x64-musl — do not install directly.
+2026-10-17T05:12:09.503Z,@shzd/bun-geos-win32-x64,0.0.1,abdukahhars,MIT AND LGPL-2.1-or-later,3283955,GEOS 3.14.1 binaries + shim for @shzd/bun-geos on win32-x64 — do not install directly.
+2026-10-17T05:12:13.357Z,@shzd/bun-geos,0.0.1,abdukahhars,MIT,260568,"Bun-native TypeScript bindings for GEOS 3.14 — PostGIS-grade overlays, topology repair, and coverage algebra at native speed."
+2026-10-17T05:12:17.438Z,nim-toolchain,0.1.0,aleclarson,MIT,16374,"A pinned native Nim compiler, standard library, and Nimble for npm projects"
+2026-10-17T05:12:47.345Z,@iron6909/coding-skills,5.1.0,iron6909,MIT,489172,极简 coding agent 技能集，专注清晰流程和本地化开发
+2026-10-17T05:13:35.971Z,opencode-skill-audit-tui,0.4.0,zademy,,28756,OpenCode v2 TUI plugin: context occupancy and loaded-skill accounting in the footer
+2026-10-17T05:14:42.138Z,xp-rover,0.1.0,julace,MIT,823369,"Rover, the Windows XP search companion dog, animated for any website"
+2026-10-17T05:15:22.791Z,@codewithraheem/devkit,0.1.0,codewithraheem,MIT,497818,"A lightweight, TypeScript-first utility toolkit for modern JavaScript developers. Learn. Build. Innovate."
+2026-10-17T05:16:38.096Z,wechat-article,0.0.1,nashaofu,MIT,131044,微信公众号文章创作 Skill 与 draft-only CLI。Agent 负责选题、研究、写作、排版和审校；CLI 只校验最终文件并执行草稿同步。
