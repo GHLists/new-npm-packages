@@ -1,12 +1,23 @@
 {
   "list": {
-    "count": 113,
-    "from": "2026-10-16T23:19:01.755005Z",
-    "path": "data/new-packages-2026-10-17T00-18-30-588351Z.csv",
-    "to": "2026-10-17T00:18:30.588351Z"
+    "count": 105,
+    "from": "2026-10-17T00:18:30.588351Z",
+    "path": "data/new-packages-2026-10-17T01-18-28-490629Z.csv",
+    "to": "2026-10-17T01:18:28.490629Z"
   },
-  "pending": [],
-  "seq": 137559783,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@bevyl-ai/ts-aep",
+      "since": "2026-10-17T00:18:30.588351Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@noust-app/mcp",
+      "since": "2026-10-17T00:18:30.588351Z"
+    }
+  ],
+  "seq": 137566503,
   "source_truncated": false,
-  "window": "2026-10-17T00:18:30.588351Z"
+  "window": "2026-10-17T01:18:28.490629Z"
 }
