@@ -1,28 +1,43 @@
 {
   "list": {
-    "count": 144,
-    "from": "2026-10-18T10:18:24.780094Z",
-    "path": "data/new-packages-2026-10-18T11-18-51-144613Z.csv",
-    "to": "2026-10-18T11:18:51.144613Z"
+    "count": 208,
+    "from": "2026-10-18T11:18:51.144613Z",
+    "path": "data/new-packages-2026-10-18T12-20-21-671875Z.csv",
+    "to": "2026-10-18T12:20:21.671875Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "package": "@aparte/secrets",
+      "since": "2026-10-18T11:18:51.144613Z"
+    },
+    {
+      "attempts": 2,
       "package": "@duyquangnvx/pnpm-publish-probe",
       "since": "2026-10-18T10:18:24.780094Z"
     },
     {
       "attempts": 1,
-      "package": "@raultov/media-transcriber-mcp",
-      "since": "2026-10-18T10:18:24.780094Z"
+      "package": "@firestitch/blueprint",
+      "since": "2026-10-18T11:18:51.144613Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "package": "@ogygie/ui",
+      "since": "2026-10-18T11:18:51.144613Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@royreznik/oura-ring-mcp",
+      "since": "2026-10-18T11:18:51.144613Z"
+    },
+    {
+      "attempts": 3,
       "package": "@sidkang/pi-jj",
       "since": "2026-10-18T09:18:33.450311Z"
     }
   ],
-  "seq": 137773969,
+  "seq": 137780647,
   "source_truncated": false,
-  "window": "2026-10-18T11:18:51.144613Z"
+  "window": "2026-10-18T12:20:21.671875Z"
 }
