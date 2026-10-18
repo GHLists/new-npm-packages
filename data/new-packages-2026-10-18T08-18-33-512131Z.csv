@@ -1,0 +1,152 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-18T07:14:22.668Z,@dsd486/dsh-sync,0.2.3,dsd486,MIT,113065,DSH 分类配置与文件同步：设置 UI、敏感类别确认、GitHub 双向同步与 Agent 排障工具。
+2026-10-18T07:17:53.839Z,@toyonix/web-kit,0.1.0,toyonix,MIT,724291,"Shared design system, components, and tooling for every toyonix static site."
+2026-10-18T07:17:58.597Z,@furry-plugins/diffy,0.0.1,themink,,15265,Give a short description of what @furry-plugins/diffy does
+2026-10-18T07:18:38.609Z,@3sixty/logging-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,26231,Provides a client for interacting with logging service endpoints from applications and services.
+2026-10-18T07:20:05.911Z,slidev-md-lint,0.1.1,mksmkss,MIT,14009,Slidev の .md に書いた Vue（HTML）部分を ESLint でチェック・自動整形する共有設定（Prettier 設定つき）
+2026-10-18T07:20:38.829Z,@pillardash-oss/cio-icon,0.1.0,pillardash-oss,MIT,410424,The handcrafted CIO icon set as reusable Svelte components.
+2026-10-18T07:21:09.466Z,@vzlentin/harness,0.1.0,vzlentin,,188132,"A durable agent harness on Pi, starting with observable, persistent subagents"
+2026-10-18T07:21:22.913Z,dsh-agenote,0.1.1,brokenshine,MIT,48243,DeepSeek Harness 的 agenote 集成插件：会话开始注入知识库健康度、turn 结束检测完成信号并转交 agenote-review 流程，外加 /agenote-summarize|curate|health 斜杠命令。行为规范由 agenote-skills 定义，插件只做事件触发与命令快捷入口。
+2026-10-18T07:22:32.469Z,dsh-crossterm,0.3.33,hyq33080,MIT,182173,DSH 跨终端互联：同一账号下的多个 DSH 终端/进程互发邮件与文件（主题内联、正文落盘，收件方自己读）
+2026-10-18T07:22:41.072Z,dsh-for-agi-splash,0.2.0,wminks,MIT,502362,DSH-for-AGI 开屏动画：9.9 秒冷启动片头，五幕走完 DSH 真实启动链（插件装载 → 运行时连接 → 工具接入 → 上下文装配 → 智能体就位），中文旁白 + 全片音效，点击或 Esc 随时跳过。
+2026-10-18T07:22:56.549Z,dsh-compaction-ledger,0.1.1,konlue,MIT,82670,"Compaction ledger for the DeepSeek Harness: audit every context compaction (what was shadowed, when, at what token cost) and let the model recall pruned content on demand"
+2026-10-18T07:23:27.842Z,@vzlentin/pi-subagent,0.1.0,vzlentin,,6321,"The subagent tool of harness in Pi: the subagent tool, the /subagent command and the subagents widget"
+2026-10-18T07:23:30.721Z,@vzlentin/workflows,0.1.0,vzlentin,,245644,Ship one work item onto a new branch through durable Pi sessions
+2026-10-18T07:23:33.005Z,@vzlentin/pi-workflows,0.1.0,vzlentin,,14742,The workflow tool of workflows in Pi
+2026-10-18T07:23:42.985Z,@3sixty/telemetry-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,45073,REST client for interacting with telemetry service endpoints.
+2026-10-18T07:24:16.703Z,@gyoungwe/pi-evidence,0.1.0,gyoungwe,MIT,64946,"Portable evidence manifests, provenance, checkpoints and replay proofs for native Pi"
+2026-10-18T07:24:35.811Z,@siriuslan/atomic-git-commits,1.0.0,siriuslan,MIT,38101,"Pi skill that builds multi-part changes as small, dependency-ordered steps and records each one as an atomic git commit titled TICKET-description"
+2026-10-18T07:24:51.614Z,dsh-remote-pure,0.10.0,suyingke,MIT,38803,"Control a remote DeepSeek Harness project over SSH: remote runtime, local panel, on-demand history."
+2026-10-18T07:25:28.997Z,dsh-pick,0.2.2,aicivilization,MIT,1470107,帮你在 DSH 生态里选对插件：说需求 → 找候选 → 多维比较 → 出结论。下载量是证据，AI 是推理。
+2026-10-18T07:25:43.023Z,dsh-glass-plugin,0.2.2,wwwfz,MIT,880338,"Floating glass status bar for DeepSeek Harness: a frameless always-on-top window that shows session progress, pending approvals and questions."
+2026-10-18T07:26:01.106Z,@gyoungwe/pi-connectors,0.1.0,gyoungwe,MIT,49334,"Host-neutral, read-only connector declarations and provenance receipts for native Pi"
+2026-10-18T07:26:08.188Z,@gyoungwe/desktop-ui-pack,0.1.0,gyoungwe,MIT,3449,Optional Drone Desktop UI contributions loaded by the installed package boundary
+2026-10-18T07:26:25.982Z,@deepraxis/cli,0.1.0-dev.e57ae6a,deepracticexnpm,SEE LICENSE IN LICENSE,642197,Praxis CLI for the Deepraxis public API
+2026-10-18T07:26:38.826Z,dsh-dyou-wine,0.1.0-alpha.13,doveli,MIT,5335662,"D友の酒 · Dyou Wine: fixed-rhythm page bounce, a flying whale-girl pet and bundled BGM for DeepSeek Harness."
+2026-10-18T07:26:41.792Z,@q253595422/dsh-imagegen-video,1.7.7,q253595422,Apache-2.0,14192145,"AI image AND video generation plugin for the dsh web GUI, forked from @dickpy/dsh-imagegen. Images: text-to-image and image-to-image through configurable provider channels (gpt-image-2 / grok-imagine…"
+2026-10-18T07:26:53.46Z,@yee94/qk80mk2,0.1.0,xiaobe,SEE LICENSE IN LICENSE,7443045,QK80 MK2 static theme uploader over USB CDC
+2026-10-18T07:27:42.41Z,seraphine-group-digest,0.1.0,wanwujiehuyi,MIT,1042610,"Seraphine: local QQ/WeChat group intelligence for DeepSeek Harness — collect messages, track key members, generate human-approved reports, extract schedules. MCP server + DSH bundle."
+2026-10-18T07:28:20.932Z,@theplaintheory/consent,1.0.0,gagank,MIT,26508,Framework-agnostic loader and helpers for the Plain Theory consent script (plain-consent.js).
+2026-10-18T07:28:22.328Z,@hyl320/token-nomad,1.0.1,hyl320,MIT,34564,A project-level context-as-code skill for cross-IDE AI development.
+2026-10-18T07:28:29.609Z,@theplaintheory/react,1.0.0,gagank,MIT,15051,"React bindings for Plain Theory consent: provider, hooks and consent-gated components. Works with Next.js, Vite, Remix and CRA."
+2026-10-18T07:28:31.934Z,@theplaintheory/vue,1.0.0,gagank,MIT,15575,"Vue 3 and Nuxt bindings for Plain Theory consent: plugin, useConsent composable and ConsentGate."
+2026-10-18T07:28:34.196Z,@theplaintheory/svelte,1.0.0,gagank,MIT,10336,Svelte and SvelteKit stores for Plain Theory consent. Works with Svelte 4 and 5.
+2026-10-18T07:28:36.401Z,berkelium-studio,0.2.0,sudeepreddy,SEE LICENSE IN https://github.com/kmmohaimenulhaque-code/Berkelium-Neural-Rendering-Studio/blob/mai…,9759,"Installs and opens Berkelium Studio, the neural rendering studio (3D viewport, code editor, free AI chat)."
+2026-10-18T07:28:37.617Z,@theplaintheory/angular,1.0.0,gagank,MIT,22640,"Angular 17.1+ bindings for Plain Theory consent: a signals service, providePlainConsent() and the *plainConsentAllowed directive. SSR-safe."
+2026-10-18T07:28:47.976Z,@3sixty/tracing-connector-console,0.20.0-next.0,3sixty-bot,Apache-2.0,40421,Writes completed spans to the console for development visibility.
+2026-10-18T07:29:30.963Z,ahmdmlndy_courses_manager,1.0.0,ahmdmlndy,ISC,2040,
+2026-10-18T07:30:06.063Z,@mkappelhof/biome-config,1.0.0,mauricekap,MIT,13467,Shared Biome configuration (linting + formatting)
+2026-10-18T07:30:37.855Z,@gitmyabi/balanceclaim,1.0.0,gitmyabi-bot,MIT,61214,"Auto-generated TypeScript type bindings for BalanceClaim (build etherscan-balanceclaim-7cc324f1-1792308611116, commit 5186abe, branch etherscan)"
+2026-10-18T07:32:02.626Z,@kinocode/dsh-japanese,0.1.0,asakura080909191016,MIT,392366,"Japanese language and typography pack for DeepSeek Harness: 日本語 UI, complete dictionary, and Japanese-first fonts."
+2026-10-18T07:32:36.118Z,upload-motion,0.1.0,mohsinzia,MIT,555727,"Animated, accessible file uploads for React: 17 motion presets on top of a real, framework-agnostic upload engine with progress, retries, cancellation and validation."
+2026-10-18T07:32:54.27Z,@hwip/mcp-server,0.1.0,njir,Apache-2.0,366239,"Hwip MCP server — AI agent notifications, prompts, and input via MCP protocol"
+2026-10-18T07:33:52.703Z,@3sixty/tracing-connector-opentelemetry,0.20.0-next.0,3sixty-bot,Apache-2.0,86466,Exports spans to an OTLP compatible endpoint using OpenTelemetry for consumption by observability backends.
+2026-10-18T07:33:59.44Z,@sentropic/artifacts,0.1.0,rhk,MIT,198359,"Generic configurable artifacts MCP and artifact service: StorageScope/Artifact/Binding/Release model, canonical manifests, object authorization, idempotent intents (spec-v8 §9). Single 0.1.0 candidat…"
+2026-10-18T07:33:59.642Z,device-annotate,0.1.0,timcheng112,MIT,1683462,"Capture native mobile screenshots with agent-device, then annotate them with numbered highlights and assertion results."
+2026-10-18T07:34:20.05Z,@spaceflight99/mimir,0.12.10,spaceflight99,,12474,Install and launch the Windows x64 MIMIR desktop application
+2026-10-18T07:35:51.526Z,dsh-plugin-structured-prompt,0.4.0,yuchenliao,MIT,282823,DSH 结构化提示词插件（两个可独立装载的组件）：结构化提示词表单 + 模型可调用的构建工具（可选用模板起步、可选直投子代理），以及提示词库检索（prompts.chat，宿主代发、检索结果不经过构建器）。模板库数据在 src/components/structured/shared/templates.json
+2026-10-18T07:36:31.275Z,pi-acp-provider,1.0.1,r-dson,MIT,53720,"Pi agent provider extension that delegates execution to any Agent Client Protocol (ACP) agent, such as GitHub Copilot CLI or Gemini CLI."
+2026-10-18T07:37:08.85Z,panchayati,0.2.0,vamsivilla001,MIT,185888,"MCP server: a shared council where the AI agents on this PC talk, propose, vote, organise tasks and consult each other read-only."
+2026-10-18T07:37:25.298Z,@jwilleke/ngdpbase-types,0.0.0,jswilleke,Apache-2.0,551,Placeholder that reserves this name. Not installable: the real package is published from GitHub Actions with provenance at each ngdpbase release.
+2026-10-18T07:37:50.595Z,node-red-contrib-ampio-v2,1.0.0,agpl1,ISC,169641,"Ampio node (device/v1 MQTT API), installable alongside node-red-contrib-ampio"
+2026-10-18T07:37:59.017Z,@osdlc/osd,0.0.1-stage,sksizer,MIT OR Apache-2.0,606,Reserved for an upcoming release from osdlc/osdlc. Not usable yet.
+2026-10-18T07:38:01.968Z,@jeweis/dsh-sync,0.9.1,jeweis,MIT,1280759,"Cross-device sync, encrypted backups and offline recovery for DeepSeek Harness"
+2026-10-18T07:38:01.976Z,@osdlc/config-layers,0.0.1-stage,sksizer,MIT OR Apache-2.0,636,Reserved for an upcoming release from osdlc/osdlc. Not usable yet.
+2026-10-18T07:38:10.59Z,afriradar,0.1.0,risingtell,MIT,35908,"Buy African fund data (SEC Nigeria weekly, CMA Kenya quarterly) per request, paid in USDC on Solana over x402. SDK, CLI and MCP server for the AfriRadar Data API."
+2026-10-18T07:38:42.271Z,dsh-ollama-web,1.0.0,explorrrr,MIT,46601,Ollama Cloud web search provider for DeepSeek Harness
+2026-10-18T07:38:57.042Z,@3sixty/tracing-facades,0.20.0-next.0,3sixty-bot,Apache-2.0,80589,"Applies tracing to factory produced components using a facade, without modifying them."
+2026-10-18T07:40:19.45Z,@kinocode/dsh-mobile,0.3.2,asakura080909191016,MIT,182431,"DeepSeek Harness host plugin for the DSH Mobile Android app: pair with a QR, use DSH on the phone through its own HTTPS gateway, answer approvals and questions from notifications, push turn completio…"
+2026-10-18T07:40:24.108Z,dsh-ollama-web-client,1.0.0,explorrrr,MIT,16469,Web UI settings card for the dsh-ollama-web search provider
+2026-10-18T07:40:54.685Z,@abhiramkrishna/spacetime-grid,0.1.0,abhiramkrishna,MIT,146371,"An animated, instanced three.js grid with idle waves, a cursor gravity well and click ripples."
+2026-10-18T07:41:44.861Z,@motus-ai/seed-plugin-tools,0.1.0,yeuolir,UNLICENSED,22597,
+2026-10-18T07:41:57.562Z,@abhiramkrishna/contribution-skyline,0.1.0,abhiramkrishna,MIT,175010,"GitHub contributions rendered as glowing three.js bars, standalone or as a spacetime-grid layer."
+2026-10-18T07:42:00.226Z,sunshine-control-mcp,0.1.1,ga2006088445,GPL-3.0-only,1448306,Sunshine screen capture and batched remote input over MCP for Ubuntu/Linux
+2026-10-18T07:42:20.606Z,ahmdmlndy47-courses-manager,1.0.0,ahmdmlndy,ISC,2055,
+2026-10-18T07:42:30.652Z,@furry-plugins/blind,0.0.4,themink,,15447,Give a short description of what @furry-plugins/blind does
+2026-10-18T07:43:15.625Z,@itrocks/property-group,0.0.2,baptistepillot,ISC,7902,Group class properties by business topic with a shared class and property decorator
+2026-10-18T07:43:29.237Z,tokenarea,0.1.0,shivangblame,MIT,22544,"Headless React textarea with trigger-based suggestions (like {{variables}}) and colored tokens. Unstyled, zero dependencies besides React."
+2026-10-18T07:44:01.731Z,@3sixty/tracing-processors,0.20.0-next.0,3sixty-bot,Apache-2.0,62184,Processors which record spans for inbound and outbound REST requests.
+2026-10-18T07:44:19.559Z,@twelvebit/web,0.1.0,twelvebit,MIT,54789,"twelvebit analytics for web apps: page views, goals, identify and revenue hints. Zero dependencies, SSR-safe."
+2026-10-18T07:44:30.889Z,@twelvebit/react-native,0.1.0,twelvebit,MIT,52363,"twelvebit analytics for React Native and Expo: screen views, goals, identify, offline queue."
+2026-10-18T07:45:05.751Z,@husamay/quest,0.1.2,husamay,,137058,"Quest — install Quest Skills into a consumer repo, plus Fill / Operator tooling"
+2026-10-18T07:46:04.542Z,@layerhop/widget,0.2.0,omermaksutii,MIT,405626,"Embed the LayerHop cross-chain swap widget in any site: React component, framework-agnostic mount() and a drop-in <script> tag"
+2026-10-18T07:46:07.163Z,@layerhop/sdk,0.1.0,omermaksutii,MIT,249390,LayerHop SDK — best-price cross-chain and same-chain swaps
+2026-10-18T07:46:09.753Z,@layerhop/cli,0.1.0,omermaksutii,MIT,66450,"LayerHop command line: quotes, order status, deep links, project scaffolding and a local mock devnet"
+2026-10-18T07:46:12.075Z,@layerhop/mcp,0.1.1,omermaksutii,MIT,278181,"LayerHop MCP server: let AI agents (Claude, ChatGPT, Cursor, ...) quote and prepare cross-chain swaps. Holds no keys and never signs."
+2026-10-18T07:46:14.911Z,@layerhop/react,0.1.0,omermaksutii,MIT,90511,"React hooks for LayerHop cross-chain swaps: quotes, transactions, order tracking and a wallet-agnostic useSwap state machine"
+2026-10-18T07:46:30.734Z,@flashdata-dev/piece-google-search,0.1.0,flashdata-dev,MIT,1029942,"Collect web evidence for an AI agent with Google result titles, snippets and source URLs. Snippets are not full page content."
+2026-10-18T07:46:39.251Z,@tezzcorp/auth-sdk,1.0.0,tezzcorp-dev,MIT,18708,Official pure JavaScript SDK for Tezz Auth
+2026-10-18T07:47:24.591Z,@geoblocks/cesium-bvh,0.2.0,fredj,BSD-3-Clause,32793,"Rays and nearest-point queries against a triangle soup: the nearest hit along a ray, whether any lies within a distance, how many, every one, and the closest triangle to a point; and, over line segme…"
+2026-10-18T07:49:06.401Z,@3sixty/tracing-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,31874,Provides a client for interacting with tracing service endpoints from applications and services.
+2026-10-18T07:50:03.936Z,dsh-whale-jump,0.1.1,charlie1216,MIT,356734,DSH 小鲸鱼跳：等回复时玩一局。新会话空状态页与对话流下方的入口，canvas 跑酷小游戏（跳跃/下潜/氧气/计分/最高分）。
+2026-10-18T07:51:08.622Z,qq-mcp-bridge,0.1.0,wanwujiehuyi,MIT,81630,"QQ official bot (bot.q.qq.com) MCP bridge for DeepSeek Harness: private-chat receive/reply and proactive push. No external dependencies, no credentials in the package."
+2026-10-18T07:51:41Z,dsh-xh-deepworker,0.1.0,pandamustard,MIT,728252,DeepWorker —— DSH 客户端插件：会话历史操作（重试本轮 / 在此分支 / 编辑重发 / 引用回复 / 选模式新建）、独立笔记页（Markdown · 标签筛选 · 编辑重存 · 搜索 · 导出导入）、总结存入笔记（确定性摘要 · 让模型总结，临时会话跑完自动归档）、会话内查找（高亮命中 + anchorKey 定位）、专注锁（服务级拦截切换会话）。
+2026-10-18T07:53:59.281Z,dsh-desktop-mcp-bridge,0.2.1-rc2,qirui_hu,MIT,290411,"Unofficial, opt-in MCP bridge to an existing official DeepSeek Harness Desktop runtime"
+2026-10-18T07:54:11.157Z,@3sixty/tracing-service,0.20.0-next.0,3sixty-bot,Apache-2.0,97143,Exposes tracing operations through service routes and API contracts for server-side integration.
+2026-10-18T07:54:28.159Z,universal-prompt-gate-mcp,0.1.1,nbhson43,Apache-2.0,162302,"MCP server that gates prompts: rewrites, shows original/rewritten/cancel, and returns only the approved prompt."
+2026-10-18T07:54:41.95Z,@superinstance/quilt-core,0.3.2,superinstance,MIT,362872,"Quilt cell model: yaml+zod cell kinds, a typed engine, and the operations that make a cell a cell."
+2026-10-18T07:54:55.845Z,@furry-installers/plugins,10.0.0,themink,,22634,Plugin installer for multiple targets.
+2026-10-18T07:55:47.226Z,picgo-plugin-exif-metadata,1.1.0,thun888,MIT,38902,"Automatically add author, copyright, source URL and license metadata to images before uploading with PicGo, with placeholder expansion ({year}, {filename}) and checkbox-based control over GPS and oth…"
+2026-10-18T07:56:18.99Z,deskflow-addon,1.0.0,silverfox0338,SEE LICENSE IN LICENSE.md,34722,"Create, check, package and install addons for DeskFlow, the Windows desktop layer."
+2026-10-18T07:56:52.933Z,@forgedevstack/bear-x-charts,0.1.0,john.yaghobieh,MIT,3322,Bear X charts plus BearProvider. Styles come from @forgedevstack/bear/styles.css.
+2026-10-18T07:56:55.898Z,@forgedevstack/bear-x-ai,0.1.0,john.yaghobieh,MIT,4337,"Bear X AI chat kit. Composer, streaming, tools, citations, and approvals. Requires @forgedevstack/bear styles."
+2026-10-18T07:56:59.473Z,@forgedevstack/bear-x-code,0.1.0,john.yaghobieh,MIT,2392,"Bear X code tools. CodeEditor, Terminal, DiffViewer, JsonViewer, and DiffSquares. Requires @forgedevstack/bear styles."
+2026-10-18T07:57:01.658Z,n8n-nodes-connextify,1.0.0,connextify,MIT,480980,n8n community node for Connextify URL shortener and QR generator
+2026-10-18T07:57:03.116Z,@forgedevstack/bear-map,0.1.0,john.yaghobieh,MIT,1550,Map component for Bear. Separate library. Requires @forgedevstack/bear styles.
+2026-10-18T07:57:06.955Z,@forgedevstack/kanban,0.1.0,john.yaghobieh,MIT,1545,Kanban board for Bear. Separate library. Requires @forgedevstack/bear styles.
+2026-10-18T07:58:09.635Z,@baack-software/baack-ts-client,0.0.2,baack-software,Apache-2.0,156198,Official TypeScript client for Baack.co Headless CMS
+2026-10-18T07:58:21.997Z,flareum,0.0.1,flareum,UNLICENSED,185,Reserved by Flareum. Use @flareum/mcp.
+2026-10-18T07:58:23.111Z,@superinstance/quilt-sdk,0.2.5,superinstance,MIT,167242,"Agent substrate primitives for Quilt: resolveArtifact, validateManifest, publishArtifact, publishRunTrace, resolveTemplate. The five functions that turn Quilt sheets into executable, auditable, repla…"
+2026-10-18T07:58:31.305Z,anshul,1.1.3,anshul_av001,,8961,A shortcut to create a backend structure with express.
+2026-10-18T07:59:15.748Z,@3sixty/automation-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,32819,"REST client operations for creating, updating, retrieving, and querying managed documents. Facilitates integration with automation services and external systems."
+2026-10-18T07:59:25.511Z,dsh-chatgpt-composer,0.1.4,wesley_wei,MIT,174684,"Session-scoped ChatGPT composer target selector with explicit browser actions, historical model readback, and read-only agent context checks"
+2026-10-18T07:59:48.896Z,create-views-api,0.0.0,simonyarde,,4982,Creates a starter web site project using the Views API.
+2026-10-18T08:00:31.2Z,@furry-plugins/artie,0.0.2,themink,,15290,Give a short description of what @furry-plugins/artie does
+2026-10-18T08:00:37.519Z,rootcue,0.2.0,rptechnologies,MIT,62590,Official JavaScript/TypeScript client for the RootCue API by RootPro Technologies
+2026-10-18T08:00:40.522Z,@moneymoves/sdk,1.0.0,soke-dev,MIT,48690,"The Money Moves Business SDK for Node.js: checkouts, payments, settlements, refunds, balance, rates, events and webhook signatures."
+2026-10-18T08:00:50.783Z,astronautical-asteroid,0.0.1,forgebuild,,81545907,```sh npm create astro@latest -- --template minimal ```
+2026-10-18T08:01:00.466Z,@mkappelhof/stylelint-config,1.0.0,mauricekap,MIT,4122,Shared Stylelint configuration for CSS/SCSS
+2026-10-18T08:01:18.596Z,dsh-vba-bridge,0.1.0,alexltr,MIT,2411555,"Read, edit and verify Excel VBA projects — modules, UserForms, export and procedure lists — through Excel COM, exposed as DSH tools."
+2026-10-18T08:01:26.336Z,@flashdata-dev/piece-google-news,0.1.0,flashdata-dev,MIT,1029905,Monitor a company or topic with Google News headlines and source links for a daily briefing. Does not retrieve article full text.
+2026-10-18T08:02:01.011Z,@mkappelhof/agent-instructions,1.0.0,mauricekap,MIT,13103,Shared instructions for AI coding agents working on React/Next.js and Astro projects
+2026-10-18T08:02:07.365Z,thecopierparts-mcp,1.0.1,darkodev,MIT,2939,MCP server for the thecopierparts.com copier-parts catalog (stdio).
+2026-10-18T08:02:18.837Z,fe-storage-util,0.1.0,dongxiang678,MIT,21737,轻量浏览器 localStorage / sessionStorage 工具库，支持过期时间、命名空间、自动序列化，零依赖。
+2026-10-18T08:02:54.539Z,dsh-tmux-xc,0.1.0,wesley_wei,MIT,319877,"DeepSeek Harness plugin: cross-conversation remote tmux over SSH — host→session→window→pane panel, composer references, and approval-gated agent tools"
+2026-10-18T08:03:14.429Z,@flashdata-dev/piece-google-images,0.1.0,flashdata-dev,MIT,1029950,"Build an image-reference shortlist with original image URLs, thumbnails and source pages. Does not download or license images."
+2026-10-18T08:03:18.67Z,@flashdata-dev/piece-google-shopping,0.1.0,flashdata-dev,MIT,1030034,"Collect product listings for a buying comparison, with available merchant and price fields. Search snapshots do not guarantee stock or checkout prices."
+2026-10-18T08:03:22.654Z,@flashdata-dev/piece-google-video-search,0.1.0,flashdata-dev,MIT,1030088,"Find videos across websites for a research shortlist, with links and available duration and publisher fields. Does not download video files."
+2026-10-18T08:03:27.026Z,@flashdata-dev/piece-google-places,0.1.0,flashdata-dev,MIT,1029989,"Build a local-business shortlist from a category and location, with available addresses, ratings and contact details. Some fields may be absent."
+2026-10-18T08:03:31.664Z,@flashdata-dev/piece-youtube-search,0.1.0,flashdata-dev,MIT,1029634,Discover a small set of YouTube videos for a research workflow. Request 1–20 results; actual count can be lower.
+2026-10-18T08:03:36.595Z,@flashdata-dev/piece-youtube-extended-search,0.1.0,flashdata-dev,MIT,1029916,"Collect a larger YouTube candidate set for downstream research filtering. Request 1–700 results, with a separate rate from standard search; actual count varies."
+2026-10-18T08:03:36.815Z,@mrsafalpiya/strictly-laravel,0.2.0,mrsafalpiya,MIT,129355,Strictly Laravel: end-to-end type safety for Laravel + Inertia + React (npm side of the Overlay).
+2026-10-18T08:03:40.435Z,@flashdata-dev/piece-youtube-metadata,0.1.0,flashdata-dev,MIT,1029137,Enrich a known video ID with metadata and available chapters or format information before choosing research sources. Does not download media.
+2026-10-18T08:03:45.067Z,@flashdata-dev/piece-youtube-transcript,0.1.0,flashdata-dev,MIT,1029310,"Read an existing transcript for timestamped notes. Defaults to English automatic captions; no ASR, translation or fallback to another caption track."
+2026-10-18T08:03:49.085Z,@flashdata-dev/piece-youtube-captions,0.1.0,flashdata-dev,MIT,1029261,"Read existing uploader-provided captions for editorial review. Defaults to English manual captions; no ASR, translation or automatic fallback."
+2026-10-18T08:03:53.262Z,@flashdata-dev/piece-youtube-license-metadata,0.1.0,flashdata-dev,MIT,1029058,Record a video's Creative Commons license label for a separate rights review. This does not grant training rights or retrieve creator third-party training settings.
+2026-10-18T08:03:55.833Z,@dsh-xhl/dsh-px0-preview,1.0.0,wojiaoxiaomayun,,53756,Preview workspace files with px0 in the right sidebar.
+2026-10-18T08:03:57.444Z,@flashdata-dev/piece-youtube-channel,0.1.0,flashdata-dev,MIT,1028925,Snapshot a channel profile and recent videos for monitoring. Request 1–100 recent videos (default 20); statistics and videos may be unavailable.
+2026-10-18T08:04:01.857Z,@flashdata-dev/piece-youtube-autocomplete,0.1.0,flashdata-dev,MIT,1029195,Expand a topic prefix with YouTube search suggestions for content planning. Defaults to language en and region US; suggestions are not search-volume measurements.
+2026-10-18T08:04:05.698Z,@flashdata-dev/piece-youtube-cloud-storage,0.1.0,flashdata-dev,MIT,1032689,"Deliver YouTube video or audio to your cloud storage, then inspect the asynchronous job and delivery manifest. Billed by delivered bytes; use media only with the rights your use requires."
+2026-10-18T08:04:18.093Z,novelaid-cli,0.1.0,mituha,MIT,56828,Novel writing assistant powered by Pi Coding Agent SDK
+2026-10-18T08:04:19.917Z,@3sixty/data-processing-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,37252,REST client for calling data processing service endpoints from applications
+2026-10-18T08:04:28.249Z,@paritylabs/par3,0.0.0-bootstrap.0,pho3nix90,MIT,7369,Par3 CLI. Downloads the self-contained executable for this platform from the GitHub Release.
+2026-10-18T08:04:32.565Z,@agentcairn/core,0.1.0,itsmemac,MIT,135557,"Neo4j-backed memory layer for Agent Cairn: memories, briefings, project identity and accounts."
+2026-10-18T08:04:36.725Z,@agentcairn/mcp-server,0.1.0,itsmemac,MIT,293649,"Agent Cairn server: MCP endpoint, JSON API and dashboard for shared agent memory."
+2026-10-18T08:04:45.871Z,fluxdown-plugin-sdk,0.1.0,zerx-lab,AGPL-3.0-or-later,1166987,"Types, JSX runtime, manifest validator and CLI for building FluxDown plugins."
+2026-10-18T08:05:27.497Z,@bona-fide/sdk,0.1.0,tonymorony,MIT,205625,"Typed ABIs, keys, signatures and deployments for Bona Fide's refundable Deposits and Bounty wallets on Arc"
+2026-10-18T08:05:28.962Z,paseo-plugin-switch-provider,0.1.0,anh-chu,MIT,54808,"Continue a Paseo agent session on another provider and model, keeping the full history."
+2026-10-18T08:05:29.829Z,api-orchestrator,1.0.0,deokarkira,MIT,264985,"A comprehensive, configurable API infrastructure toolkit for frontend applications. Configure once. Use everywhere."
+2026-10-18T08:05:57.765Z,@fibril/react-roslib,0.1.0,f0reach,MIT,56893,"React hooks for roslib 2.x (rosbridge): connections, topics, services, actions."
+2026-10-18T08:06:39.804Z,local-contractor-mcp,1.0.0,janmalmstrom,MIT,19087,"MCP servers connecting AI agents with local contractors and service providers — water damage, locksmith, ketamine therapy, TMS, weight loss across US cities."
+2026-10-18T08:07:34.752Z,apipulse-express,1.0.0,amanr01,MIT,11795,A lightweight Express API monitoring and statistics toolkit
+2026-10-18T08:07:56.224Z,kspace-oss-sdk,1.0.0,zhaoknpm,MIT,510472,KSpace - 阿里云 OSS 协议兼容的 TypeScript SDK（Node.js + Browser 双环境）
+2026-10-18T08:08:52.95Z,dsh-ai-courses,0.1.0,aix-plugin,MIT,4335798,AI 课程 — 把学习诉求与手头资料变成结构化、可讲授、纯本地的课程
+2026-10-18T08:09:24.669Z,@3sixty/mailbox-connector-gmail,0.20.0-next.0,3sixty-bot,Apache-2.0,154193,Gmail connector for email mailbox ingestion.
+2026-10-18T08:11:51.371Z,peel-bridge,0.6.1,joalof,UNLICENSED,9972,"The Peel local bridge: send captures from the Peel browser extension to the Peel Figma plugin, saved as files on your own computer. No dependencies."
+2026-10-18T08:12:17.452Z,flint-vchart,0.1.0,yoshino_s,MIT,64253,Compile Microsoft Flint chart specifications to VisActor VChart specifications
+2026-10-18T08:13:32.934Z,@byte-42/fantastico-sdk,0.21.0,xgnali,MIT,219375,FANTASTICO SDK — client OpenAI-compatibile con orchestrazione dei tool del marketplace e budget per conto
+2026-10-18T08:14:31.497Z,@rwese/wze-websearch,0.6.0,rwese,MIT,317801,"Agent-agnostic web search: a SearXNG-backed search core shared by a CLI, an MCP server, and a pi extension wrapper."
+2026-10-18T08:15:39.61Z,vstgui-mcp,0.1.0,banxeng,UNLICENSED,27038,Lets Claude Code or Codex build audio plugin GUIs in Figma with the VST GUI Pro plugin
+2026-10-18T08:15:54.838Z,ohmyswitch,0.0.0,wesley-young,UNLICENSED,280,Placeholder for ohmyswitch
+2026-10-18T08:16:48.198Z,agentcairn,0.1.0,itsmemac,MIT,88092,The cairn command: link projects to a shared memory and wire Agent Cairn into Claude Code.
+2026-10-18T08:18:28.747Z,ota-core,0.0.0-stage,hellovibo.in,,330,Temporary package placeholder for staged publishing
