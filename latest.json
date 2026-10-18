@@ -1,12 +1,28 @@
 {
   "list": {
-    "count": 92,
-    "from": "2026-10-18T02:19:31.55459Z",
-    "path": "data/new-packages-2026-10-18T03-18-43-990809Z.csv",
-    "to": "2026-10-18T03:18:43.990809Z"
+    "count": 110,
+    "from": "2026-10-18T03:18:43.990809Z",
+    "path": "data/new-packages-2026-10-18T04-21-28-145056Z.csv",
+    "to": "2026-10-18T04:21:28.145056Z"
   },
-  "pending": [],
-  "seq": 137727565,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@langchian/langchian",
+      "since": "2026-10-18T03:18:43.990809Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@marinoscar/kvox-eval",
+      "since": "2026-10-18T03:18:43.990809Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@tidelight/cli",
+      "since": "2026-10-18T03:18:43.990809Z"
+    }
+  ],
+  "seq": 137733745,
   "source_truncated": false,
-  "window": "2026-10-18T03:18:43.990809Z"
+  "window": "2026-10-18T04:21:28.145056Z"
 }
