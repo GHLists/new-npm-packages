@@ -1,0 +1,142 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-18T19:14:08.574Z,@enyalai/mcp-local,0.1.0,enyal,Apache-2.0,18852,"ENYAL end-to-end messaging for MCP clients, running on your own machine (stdio)."
+2026-10-18T19:19:14.442Z,sag-cli,0.1.0,sunminh,MIT,82565,One command per repo for a multi-agent coding pipeline
+2026-10-18T19:19:23.598Z,@atlastodo/client-core,0.1.11-rc.5,sejder,AGPL-3.0-only,450760,"Atlas core client: hybrid logical clocks, the op log and per-field LWW merge, end-to-end encryption, the local store and the sync client"
+2026-10-18T19:19:28.03Z,@atlastodo/shared,0.1.11-rc.5,sejder,AGPL-3.0-only,1722069,"Atlas shared logic: the portable task rules, recurrence, quick add, filters, i18n and theme used by every Atlas client"
+2026-10-18T19:19:30.825Z,@atlastodo/sdk,0.1.11-rc.5,sejder,AGPL-3.0-only,76708,Headless Atlas client for integrations: signs in with a personal API token and syncs an account's tasks into memory
+2026-10-18T19:20:01.486Z,@ilha/void,0.1.1,ryuz,MIT,58071,"Ilha pages, server rendering, islands, forms, and navigation for Void"
+2026-10-18T19:20:04.011Z,@ilha/devtools,0.1.0,ryuz,MIT,158798,"Inspect live Ilha islands from the browser, a panel, or a coding agent"
+2026-10-18T19:20:25.891Z,byterivet,1.0.0,byterivet,MIT,41949,"Generate valid test files of an exact byte size (1 byte to 2 GB) in 20 formats: PDF, PNG, DOCX, XLSX, CSV, JSON, ZIP, MP4, WAV and more."
+2026-10-18T19:20:35.151Z,@glot-i18n/runtime,0.4.0,orizn,MIT,306912,"Long-tail locales at zero cost: on-device UI translation (Chrome Translator API) with glot's guarantees — masked placeholders, glossary, plural structure, WASM validation, source fallback."
+2026-10-18T19:20:40.392Z,@glot-i18n/overlay,0.4.0,orizn,MIT,40665,"Edit translations directly in your running app, with AI. Alt+click any text. Pairs with `glot dev`."
+2026-10-18T19:20:44.257Z,@sheetpane/import,0.1.0,aarya11,MIT,179845,"Read an .xlsx or .csv file into the plain JavaScript Workbook object @sheetpane/export writes — raw values, display text, merges, and everything the plugins read. No runtime dependency but @sheetpane…"
+2026-10-18T19:20:45.501Z,@glot-i18n/feedback,0.4.0,orizn,MIT,10979,"Let native speakers flag a wrong, awkward or unclear translation in production (< 4 kB, Shadow DOM, accessible). Feeds glot's feedback loop."
+2026-10-18T19:20:50.664Z,@glot-i18n/insights,0.4.0,orizn,MIT,6617,Cookieless locale demand + conversion beacon for glot Insights (< 2 kB).
+2026-10-18T19:20:55.831Z,@glot-i18n/db,0.4.0,orizn,MIT,7556,Localized database content for Prisma and Drizzle: read glot_translations (filled by `glot db sync`) with source fallback.
+2026-10-18T19:21:01.277Z,@glot-i18n/edge,0.4.0,orizn,MIT,9841,Edge templates for glot on-demand locales: Cloudflare Worker (static/marketing sites) and Next.js proxy (locale URLs + Accept-Language).
+2026-10-18T19:21:05.487Z,@glot-i18n/visual-qa,0.4.0,orizn,MIT,38225,"Visual QA for localized UIs: detects overflowing, truncated, untranslated and tofu text per locale with Playwright."
+2026-10-18T19:21:09.761Z,@glot-i18n/agent-qa,0.4.0,orizn,MIT,33413,Task parity QA: an agent (Claude vision or a scripted mock) runs the same tasks in every locale of your app and measures who succeeds.
+2026-10-18T19:21:14.746Z,@sunminh/sag,0.1.0,sunminh,MIT,82570,One command per repo for a multi-agent coding pipeline
+2026-10-18T19:21:34.63Z,@yushi_61/opencode-discord-presence,0.8.1,yushi_61,MIT,293006,"Discord Rich Presence plugin for OpenCode V1 and V2 - Display your current AI agent, model, and status in Discord"
+2026-10-18T19:22:06.2Z,@blackbelt-technology/pi-dashboard-craft-apps,0.9.0,robertcsakany,MIT,889172,"Headless ArtCraft Crafting Apps for pi agents: provisions the <app>-cli binary of PhotoCraft, VectorCraft, FilmCraft, LightCraft, PdfCraft, EffectCraft, DesignCraft, FigCraft, WordCraft, SoundCraft,…"
+2026-10-18T19:22:06.983Z,@haau3/sdk,0.1.1,brian-haau3,MIT,537636,"TypeScript SDK for the haau3 platform API: scheduling, provider directory, terminology, questionnaires, plan benefits and medication lists, as typed calls."
+2026-10-18T19:22:27.161Z,aseprite-lua-mcp,0.1.1,alpsei,MIT,17081,Lightweight MCP server that runs LLM-generated Lua scripts through Aseprite's headless CLI
+2026-10-18T19:22:37.34Z,@blackbelt-technology/pi-dashboard-photocraft,0.9.0,robertcsakany,MIT,3693,Deprecated: superseded by @blackbelt-technology/pi-dashboard-craft-apps (PhotoCraft plus 12 more ArtCraft Crafting Apps). This shim depends on it and forwards the pi-photocraft bin so existing .pi/mc…
+2026-10-18T19:22:39.826Z,@blackbelt-technology/pi-dashboard-context-mode-settings-plugin,0.9.0,robertcsakany,MIT,40131,Dashboard settings surface for the context-mode pi extension — persists logical tuning keys to ~/.pi/context-mode/settings.json and projects them to context-mode's environment for dashboard-spawned a…
+2026-10-18T19:22:42.579Z,@blackbelt-technology/pi-dashboard-obs-studio-plugin,0.9.0,robertcsakany,MIT,196596,"OBS Studio for pi agents and the dashboard — detect/install, obs-websocket provisioning as a managed service, the pi-obs CLI and skill, and a remote scene/virtual-camera/record panel."
+2026-10-18T19:22:45.184Z,@blackbelt-technology/pi-dashboard-skill-atlas-plugin,0.9.0,robertcsakany,MIT,98595,"Dashboard plugin showing every skill pi loads in a folder or globally as a typed relation graph (references, same package, shared tool), rebuilt automatically when skills change."
+2026-10-18T19:22:47.848Z,@blackbelt-technology/pi-dashboard-web-access-plugin,0.9.0,robertcsakany,MIT,26269,"Dashboard rendering for the pi-web-access extension — compact, safe chat cards for web-search-results custom entries (search, fetch)."
+2026-10-18T19:22:55.453Z,haau3,0.0.0,brian-haau3,MIT,427,This name is held by haau3. The haau3 platform API's TypeScript SDK is @haau3/sdk.
+2026-10-18T19:24:44.482Z,@indexyz/dsh-prompt-suggestions,0.1.0,indexyz,MIT,167839,Suggest the user's next message as dim composer text after a successful reply
+2026-10-18T19:25:14.451Z,@sheetpane/charts,0.1.0,aarya11,MIT,195118,"Charts for sheetpane — a frame at the chart's anchor with its title and Show source cells; later, own SVG for bar, column, line, pie and scatter — through the `overlay` hook."
+2026-10-18T19:25:15.817Z,@lyra_wang/dsh-feishu-remote,0.1.0,lyra_wang,MIT,37518,Run tasks on your own computer from Feishu: a Feishu bot to local agent bridge (default backend: dsh headless).
+2026-10-18T19:25:17.11Z,@sheetpane/comments,0.1.0,aarya11,MIT,102487,Comments and notes for sheetpane — the file's notes and threaded comments read into the error pane; every sheetpane error written back as a threaded comment on export.
+2026-10-18T19:25:20.084Z,@sheetpane/condfmt,0.1.0,aarya11,MIT,129412,"Conditional formatting for sheetpane — cellIs, containsText, duplicates, top10, colour scales, data bars — rendered through the `decorate` hook after @sheetpane/styles."
+2026-10-18T19:25:22.946Z,create-sheetpane,0.1.0,aarya11,MIT,49835,"`npm create sheetpane` — a working sheetpane app in vanilla, React, Next.js, Vue, Angular or Svelte: the sheet and its errors panel, a sample file and rules file, one test, and the agent skills."
+2026-10-18T19:25:25.997Z,@sheetpane/export,0.1.0,aarya11,MIT,258380,Turn a plain JavaScript object into an .xlsx or .csv file. No runtime dependencies.
+2026-10-18T19:25:28.661Z,@sheetpane/fixtures,0.1.0,aarya11,MIT,77637,"Known workbooks for testing a sheetpane host: the showcase, its rules sample, CSV dialects and edge cases, with a manifest of what each holds."
+2026-10-18T19:25:31.408Z,@sheetpane/formulas,0.1.0,aarya11,MIT,118175,"Formula recalculation for sheetpane — edit a cell and every dependent formula updates — as a plugin on the `derive` hook, backed by IronCalc (WASM, lazy-loaded)."
+2026-10-18T19:25:34.566Z,@sheetpane/grid,0.1.0,aarya11,MIT,1452213,"View and edit .xlsx and .csv files inside any web page: the <sheetpane-excel> and <sheetpane-errors> web components, always in sync through one in-memory workbook."
+2026-10-18T19:25:37.313Z,@sheetpane/images,0.1.0,aarya11,MIT,48168,"Images for sheetpane — pictures anchored in the sheet drawn in sheet space through the `overlay` hook; view only, kept on export."
+2026-10-18T19:26:07.628Z,opencode-gigacode,0.0.0-stage,expiracy,,339,Temporary package placeholder for staged publishing
+2026-10-18T19:26:10.903Z,@serper-live/mcp,0.1.0,serper-live-npm,MIT,19767,"MCP server for Serper.live: live Google search results, domain positions and open markets for AI agents"
+2026-10-18T19:26:27.234Z,conveyor-graph-compose,0.1.0,autonomous,ISC,184812,"Composable constructors for conveyor-graph topologies, with a Node stream façade"
+2026-10-18T19:26:55.091Z,@philbob/hololink-ui,0.4.0,philbob81,MIT,1831891,"Hololink UI: a framework-agnostic, accessible Web Component library built with Stencil."
+2026-10-18T19:27:12.778Z,@agentregistrar/discovery,1.0.2,sdairs,Apache-2.0,96613,Agent Identity v1 (agent-identity-v1) discovery schema and conformance validator
+2026-10-18T19:27:20.584Z,@kinetica/gpudb-api,7.2.3-3,kyle.sutton,MIT,3190376,Kinetica Database JavaScript/TypeScript API
+2026-10-18T19:28:21.724Z,@sequenceholdings/platform,0.1.0,tailaiwang,UNLICENSED,509346,"Shared platform transport, contracts and authority-specific clients"
+2026-10-18T19:28:49.556Z,@tsc-lua/darwin-arm64,0.1.0,cherryjimbo,MIT,22970861,The darwin-arm64 executable for tsc-lua
+2026-10-18T19:28:54.229Z,@tsc-lua/darwin-x64,0.1.0,cherryjimbo,MIT,22773171,The darwin-x64 executable for tsc-lua
+2026-10-18T19:28:58.506Z,@tsc-lua/linux-arm64,0.1.0,cherryjimbo,MIT,22837513,The linux-arm64 executable for tsc-lua
+2026-10-18T19:29:01.059Z,@notemark/toolbar,0.1.0,mikhailcodes,MIT,10163,Notemark's feedback toolbar for your preview and staging sites. Invisible to visitors.
+2026-10-18T19:29:04.418Z,@tsc-lua/linux-arm64-musl,0.1.0,cherryjimbo,MIT,22996388,The linux-arm64-musl executable for tsc-lua
+2026-10-18T19:29:08.515Z,@tsc-lua/linux-x64,0.1.0,cherryjimbo,MIT,22831927,The linux-x64 executable for tsc-lua
+2026-10-18T19:29:12.708Z,@tsc-lua/linux-x64-musl,0.1.0,cherryjimbo,MIT,23003770,The linux-x64-musl executable for tsc-lua
+2026-10-18T19:29:15.901Z,@xemahq/installation-egress-client,0.1.0,edup,LicenseRef-Xema-BSL-1.1,28938,> Reads the installation's egress destination policy from biome-host.
+2026-10-18T19:29:16.756Z,@tsc-lua/win32-arm64,0.0.0,cherryjimbo,MIT,257,Placeholder for the tsc-lua win32-arm64 executable
+2026-10-18T19:29:19.549Z,@medv/nameit,0.1.0,medv,MIT,16814,Rename PDF bills and other files with AI
+2026-10-18T19:29:21.656Z,@tsc-lua/win32-x64,0.1.0,cherryjimbo,MIT,22850583,The win32-x64 executable for tsc-lua
+2026-10-18T19:29:25.287Z,@xemahq/workflow-client-nest,0.1.0,edup,LicenseRef-Xema-BSL-1.1,16028,"Shared NestJS-side resolution of the Temporal namespace and task queue a service's workflow client starts workflows on, read from the verified resolved deployment's lock (never the environment), plus…"
+2026-10-18T19:29:42.411Z,@yadavmandeep/veratum,1.3.0,mandeepyadav,MIT,831142,"Veratum — universal AI engineering harness, skill & MCP runtime for Antigravity, Claude Code, Cursor, Windsurf, Cline, GitHub Copilot and OpenCode. Persistent project memory, blast-radius analysis, s…"
+2026-10-18T19:29:56.612Z,agentregistrar,0.0.1,sdairs,UNLICENSED,415,Name reservation for Agent Registrar (https://agentregistrar.dev). This is not a usable package.
+2026-10-18T19:30:25.521Z,@sheetpane/mcp,0.1.0,aarya11,MIT,160108,"A Model Context Protocol server for sheetpane: describe the API, inspect a workbook, draft and check a rules file, explain an SP code, find a skill — deterministic, read-only, over stdio."
+2026-10-18T19:30:27.869Z,@sheetpane/numfmt,0.1.0,aarya11,MIT,82976,"Excel number formats for sheetpane — currency, dates, fractions, elapsed time, conditional sections, locales — as a plugin on the `format` hook."
+2026-10-18T19:30:30.29Z,@sheetpane/skills,0.1.0,aarya11,MIT,138163,"Agent skills for sheetpane — Claude Code, Kiro and Codex — and the `sheetpane-skills` installer that copies them into a host repository."
+2026-10-18T19:30:32.949Z,@sheetpane/styles,0.1.0,aarya11,MIT,184943,"Cell styles for sheetpane — fill, bold, italic, underline, colour, borders, alignment, wrap — as a plugin on the `decorate` hook. Never a font family (SR-LAW-5)."
+2026-10-18T19:30:35.47Z,@sheetpane/testing,0.1.0,aarya11,MIT,61542,"Test helpers for hosts that embed sheetpane: locators, actions and reading a download back, for Playwright and Vitest browser mode."
+2026-10-18T19:30:37.922Z,@sheetpane/validation,0.1.0,aarya11,MIT,87086,"Data validation for sheetpane — the workbook's own `<dataValidations>` rules checked on load and on every edit, landing in <sheetpane-errors> — as a plugin on the `validate` hook."
+2026-10-18T19:30:40.147Z,@sheetpane/visibility,0.1.0,aarya11,MIT,25184,"Hide and unhide rows, columns and sheets for sheetpane — menus, Google Sheets' shortcuts, a click on the grid's hidden-span markers — written into the download. Core already honours and marks what a…"
+2026-10-18T19:31:29.223Z,n8n-nodes-terramarbrands,0.1.0,yokharian,MIT,422526,"n8n community nodes for the Terramar Brands API (wsTerramarV2): catalog, cart, orders, profile, awards, lineage, payments and more."
+2026-10-18T19:31:39.643Z,omnihilbras,0.5.104,lacrous,MIT,56288828,OmniHilbras CLI - Start and manage OmniHilbras server
+2026-10-18T19:32:01.539Z,@usecds/s3,0.1.1,checkin247,Apache-2.0,33877,"S3-compatible storage for CDS: the publisher's store, and a signed downloader for devices"
+2026-10-18T19:33:11.479Z,@alexzeng666/dsh-quota,0.1.0,alexzeng666,MIT,32697,"Caps CPU / memory / wall clock for agent-run commands, killing them on overrun."
+2026-10-18T19:33:17.149Z,@alexzeng666/dsh-crashlab,0.1.0,alexzeng666,MIT,854356,"Attribution report when a process dies: exit-code semantics, event log, minidump stack."
+2026-10-18T19:33:23.232Z,@alexzeng666/dsh-probe,0.1.0,alexzeng666,MIT,2181994,"Traces which APIs any process calls, and with what arguments."
+2026-10-18T19:33:29.703Z,@alexzeng666/dsh-timelab,0.1.0,alexzeng666,MIT,1417924,"Speeds up, slows down, or shifts the target process's clock."
+2026-10-18T19:33:35.36Z,@alexzeng666/dsh-verify,0.1.0,alexzeng666,MIT,877929,"Verifies the agent's work instead of trusting it: run, assert, attribute, report."
+2026-10-18T19:33:35.59Z,stuckbot,0.0.0-stage,vld333,,330,Temporary package placeholder for staged publishing
+2026-10-18T19:33:50.276Z,arabic-pdf-repair,0.3.2,genpdf,Apache-2.0,155458,"Make Arabic text in old PDFs copyable and searchable again (glyph names, Windows-1256 and Latin-slot fonts, Diwan XT) without changing how pages look."
+2026-10-18T19:34:18.793Z,@tscomfy/client,0.2.0,kiaa,MIT,228715,"Runs tscomfy workflows on a ComfyUI server: queueing, live progress and previews, outputs, uploads."
+2026-10-18T19:34:55.825Z,@lilydesignsystem/locale-translations,0.1.0,joelparkerhenderson,MIT OR Apache-2.0 OR GPL-2.0-only OR GPL-3.0-only OR BSD-3-Clause,537712,"Lily Design System - per-locale label packs (46 locales) and loaders for the data grid, kanban board, calendar, Gantt chart and filter helpers"
+2026-10-18T19:36:00.543Z,vibelang-darwin-arm64,0.0.1,fucory,Apache-2.0,32389177,The native VibeLang compiler for darwin on arm64. Install vibelang instead; it selects this package.
+2026-10-18T19:36:04.937Z,vibelang-darwin-x64,0.0.1,fucory,Apache-2.0,33670957,The native VibeLang compiler for darwin on x64. Install vibelang instead; it selects this package.
+2026-10-18T19:36:19.46Z,vibelang-linux-arm64,0.0.1,fucory,Apache-2.0,31514530,The native VibeLang compiler for linux on arm64. Install vibelang instead; it selects this package.
+2026-10-18T19:36:23.963Z,vibelang-linux-x64,0.0.1,fucory,Apache-2.0,32919448,The native VibeLang compiler for linux on x64. Install vibelang instead; it selects this package.
+2026-10-18T19:36:26.396Z,vibelang,0.0.1,fucory,Apache-2.0,232461,The VibeLang compiler and language server: a readable syntax for Effect that compiles to TypeScript
+2026-10-18T19:36:28.906Z,vibelang-runtime,0.0.1,fucory,MIT,383988,The VibeLang continuation kernel and generated-code runtime helpers.
+2026-10-18T19:36:31.097Z,vibelang-vite,0.0.1,fucory,MIT,14127,Compile VibeLang source modules with vibelang in Vite and Vitest
+2026-10-18T19:36:33.226Z,create-vibelang,0.0.1,fucory,MIT,12665,Create a VibeLang application: bun create vibelang my-app
+2026-10-18T19:38:10.918Z,@monako_research/coding-plan-agents,1.1.0-rc.1,monako_ai,AGPL-3.0-only,547452,Monako Code subscription adapters for omp and Pi
+2026-10-18T19:39:07.032Z,automated-product-engineer,0.3.0,ryanschue,MIT,853925,"Install product-engineering skills, reference apps, architecture guides, templates, testing, CI, and delivery automation for AI coding agents."
+2026-10-18T19:39:38.714Z,android-design,1.0.0,allexp1,MIT,172129,"An agent skill for Claude Code: Google's Android design guidance and Material 3 Expressive, with the reasoning beneath them and a method for applying them. Current to Android 17."
+2026-10-18T19:39:46.133Z,play-store-kit,1.0.0,allexp1,MIT,380753,"A Claude skill that takes an Android app to Google Play and keeps it there: artifact pre-check against Play requirements, signed App Bundle upload, review, staged rollout and recovery through the off…"
+2026-10-18T19:40:43.096Z,@pantarey.io/ngx-planning-board,0.1.0,pantarey.io,MIT,680596,"Resource planning board for Angular: rows x time axis with layers of entries, per-row availability, grouping frames, style rules and result columns. Early development and test phase (0.x): the API ch…"
+2026-10-18T19:41:20.892Z,dsh-sacc-translator-cpu,0.1.18,piaomiaozhilei,,81295,SACC 原格式文档翻译 CPU
+2026-10-18T19:41:55.131Z,@netwin/maple,0.1.0,netwin,MIT,207262,A secure JavaScript interpreter written in TypeScript
+2026-10-18T19:42:06.594Z,dsh-sacc-translator-cuda,0.1.18,piaomiaozhilei,,81460,SACC 原格式文档翻译 CUDA
+2026-10-18T19:43:56.83Z,@valkyrianlabs/payload-markdown-docs-consumer,1.3.1,cooperlarson,MIT,32833,"Read published projects (docs sets, docs groups and technology stacks) from one or more payload-markdown-docs sites."
+2026-10-18T19:44:18.759Z,whileitruns,0.1.0,admincortex,MIT,9991,"Know when your coding agent is done, without doomscrolling while it runs. Sends only start/stop events - never prompts or code."
+2026-10-18T19:45:02.708Z,@damiensmith1/cairn,0.1.0,damiensmith1,MIT,495744,"Searchable memory for your Claude Code sessions: local hybrid search with reranking, a CLI, and an MCP server for agents."
+2026-10-18T19:45:02.717Z,@merkleforge/core,0.2.0,dicethedev,MIT OR Apache-2.0,62766,"Merkle tree and Merkle proof interfaces for TypeScript: MerkleTree and HashFunction types, proof types, errors, and Rust-compatible (bincode, serde) proof codecs. Part of MerkleForge."
+2026-10-18T19:45:05.445Z,@merkleforge/hash-wasm,0.2.0,dicethedev,MIT OR Apache-2.0,11219,"Fast WebAssembly Keccak-256 and SHA-256 for Merkle trees, about 6x faster Keccak, same output as @merkleforge/hash. Part of MerkleForge."
+2026-10-18T19:45:05.553Z,@merkleforge/variants,0.2.0,dicethedev,MIT OR Apache-2.0,262131,"Merkle trees for TypeScript: binary Merkle tree with multiproofs, sparse Merkle tree with non-membership proofs, and Ethereum Merkle Patricia trie. Matches the Rust crates byte for byte. Part of Merk…"
+2026-10-18T19:45:05.729Z,@merkleforge/hash,0.2.0,dicethedev,MIT OR Apache-2.0,14369,"SHA-256, Keccak-256, and BLAKE3 hash functions for Merkle trees, with domain-separated leaf and node hashing. Pure JS on @noble/hashes. Part of MerkleForge."
+2026-10-18T19:45:08.573Z,@merkleforge/ethereum,0.2.0,dicethedev,MIT OR Apache-2.0,31041,"Verify Ethereum eth_getProof (EIP-1186) account and storage proofs against a trusted state root, with no trust in the RPC. Part of MerkleForge."
+2026-10-18T19:46:22.824Z,react-native-ai-animations,0.8.0,ahmetkar,MIT,481068,"Animated React Native and Expo components for AI chat apps: streaming text, shimmer loading text, thinking and status indicators, voice orbs and waveforms, image and video generation loaders, questio…"
+2026-10-18T19:46:29.773Z,@alex-dbs/rulekeeper,1.0.0,alex-dbs,Apache-2.0,327822,"<p align=""center""> <img src=""rulekeeper-icon.webp"" alt=""Rulekeeper shield logo"" width=""144""> </p>"
+2026-10-18T19:47:27.815Z,cppmodel,0.9.0,hristoskov,SEE LICENSE IN LICENSE,42457789,Write CppModel simulations in Node.js
+2026-10-18T19:49:15.724Z,@workeryard/underfetch,0.1.0,0x4d4d4f,MIT,1280749,"HTTP over raw sockets for Cloudflare Workers: SOCKS and HTTP(S) proxies, TLS in WebAssembly, HTTP/1.1 and HTTP/2, and a handshake that can look like Chrome, Firefox or Safari."
+2026-10-18T19:49:57.38Z,@ambryon/construct,0.1.0,ambryon,MIT,86521,"Parsers and exporters that turn GenBank, SnapGene and FASTA files into ambryon Constructs."
+2026-10-18T19:50:49.192Z,krafta,0.1.0,erayendes,MIT,953586,"Check, audit and scan interfaces against explicit design rules. A CI gate and an agent review in one package."
+2026-10-18T19:50:54.482Z,@tutorflow/content-api-sdk,0.1.0,jinho,UNLICENSED,923912,"TypeScript client for the TutorFlow Content API: typed routes, retries, pagination, run polling, ETags and webhook verification."
+2026-10-18T19:51:06.668Z,@headpat/cli,0.1.1,fayevr,UNLICENSED,45779,Command line for the Headpat panel
+2026-10-18T19:52:21.97Z,@ebitex/visitors-sdk,0.1.223,johnaskew,Apache-2.0,65165,"Recognise a returning visitor with their consent, honour Global Privacy Control and your own consent tool, and let them forget their device, from any site. No forms needed."
+2026-10-18T19:54:54.989Z,write-once-markdown,0.0.0,danhezcode,MIT,2735,Official Markdown integration for write-once.
+2026-10-18T19:55:10.512Z,tx-explainer,0.1.0,adjalildchougui,MIT,83095,"Decode Solana transactions into plain language (System, SPL Token/Token-2022, ATA, Compute Budget, Memo, Anchor via IDL)"
+2026-10-18T19:55:11.893Z,idl-codegen,0.1.0,adjalildchougui,MIT,72292,Anchor IDL (0.30+) to typed TypeScript and Dart clients
+2026-10-18T19:55:16.15Z,write-once-github,0.0.0,danhezcode,MIT,2774,Official GitHub repository integration for write-once.
+2026-10-18T19:55:18.797Z,devnet-fixtures,0.1.0,adjalildchougui,MIT,27833,"Create funded keypairs, mints and ATAs on devnet/localnet from a YAML spec, for CI"
+2026-10-18T19:55:32.65Z,@scanverion/liveness-react,0.1.0,tomasfilip,Apache-2.0,9542,Scanverion React camera capture for short-lived liveness sessions.
+2026-10-18T19:55:54.928Z,adwarp,0.2.0,stanrym,MIT,240418,"Open-source ad agent for LinkedIn Ads and Google Ads. Drafts campaigns, audiences and reports from Claude or any MCP client."
+2026-10-18T19:57:12.087Z,paseo-telegram,0.1.1,salatov,MIT,503557,"Connect Telegram DMs, groups and topics to Paseo chats and workspaces, with optional Bots profiles."
+2026-10-18T19:57:32.876Z,opencode-self-improvement,0.1.0,alex.bogartz,MIT,128091,"Durable memory for opencode: remember facts, decisions, and commands across sessions, plus a one-command per-repo setup (/repo-init)."
+2026-10-18T19:58:24.032Z,dz-geodata,0.1.1,adjalildchougui,MIT AND ODbL-1.0,11563797,"Algeria's 69 wilayas, daïras and communes as GeoJSON/TopoJSON with Arabic/French/English names, ONS codes and lookup helpers."
+2026-10-18T19:59:22.29Z,@tulip-systems/notifications,0.12.4,burakgozen,AGPL-3.0,154312,
+2026-10-18T20:00:52.016Z,@metigan/forms,1.0.0,frantchessico,MIT,266767,"Embed Metigan forms anywhere: a framework-free core, a DOM renderer, React and Vue components."
+2026-10-18T20:02:15.891Z,@bettercms-ai/react,0.2.0,sujayshukla,,24621,"BetterCMS for React apps (Vite and other client-rendered React): provider, hooks, draft mode by link, and the section and field components."
+2026-10-18T20:02:48.541Z,@newfoundcodes/helvetium-boilerplate,0.1.0,nathannestein,AGPL-3.0-only,126703,"Production-ready full-stack Helvetium project boilerplate and programmatic initializer for Helvetium Boot, Helvetium DOM, and Helvetium Alps."
+2026-10-18T20:03:36.975Z,payload-markdown-docs-consumer,1.3.1,cooperlarson,MIT,32818,"Read published projects (docs sets, docs groups and technology stacks) from one or more payload-markdown-docs sites."
+2026-10-18T20:04:57.201Z,@analyzemail/mcp,0.1.0,ataskeleven,MIT,32656,"MCP server for Analyzemail: let an AI agent verify an email address, clean a list file and download the verified addresses. Zero dependencies."
+2026-10-18T20:04:59.311Z,@analyzemail/inbound-guard,0.1.0,ataskeleven,MIT,39368,"Score an incoming email as cold outreach, with the reasons: sequencer fingerprints, look-alike sending domains, new domains, follow-up patterns. CLI, MCP server and library. Zero dependencies."
+2026-10-18T20:06:30.12Z,lucynui,0.1.0,peaseernest,MIT,481686,"Desktop apps from plain HTML, CSS and JS. No React, no Rust, no Electron."
+2026-10-18T20:06:56.504Z,oh-my-openspec,0.0.1,alexeyco,MIT,211,Name holder. The OpenSpec flow plugin for OpenCode will be published here.
+2026-10-18T20:06:59.97Z,@abranzhrl1212/agent-harness,0.7.2,abranzhrl1212,MIT,25483706,High-performance native Rust MCP server for AI code assistants
+2026-10-18T20:07:26.966Z,@evertonferreira96/agents,0.1.0,evertonferreira96,UNLICENSED,3726923,"Personal agents, rules, hooks and skills for Claude Code (portable to Cursor and Codex through AGENTS.md), installable into any project."
+2026-10-18T20:09:37.895Z,@tcpassos/moodle-student-mcp,0.2.0,tcpassos,MIT,151941,"MCP server that lets AI assistants read your Moodle as a student: courses, deadlines, grades, forums and files."
+2026-10-18T20:10:23.884Z,@myclawbots/cli,0.1.0,myclawbots,MIT,59800,"Use MyClawBots from any AI agent or terminal, no MCP support needed: post to social accounts, stage media and read insights through the MyClawBots API, plus an installable agent skill."
+2026-10-18T20:12:30.712Z,@arbol-ai/sdk,1.20261017.200040,eusoumaxi,Apache-2.0,696730,"The Arbol API for TypeScript and JavaScript, generated by Cloudflare Forge from the platform's public OpenAPI."
+2026-10-18T20:14:31.961Z,@aistastudio/myc-darwin-arm64,0.6.7,aistastudio,MIT,92473690,Native myc binary for darwin arm64
+2026-10-18T20:15:53.66Z,@engramlabs/mcp,0.1.0-alpha,phanijapps,MIT,10088,Local-first agentic memory: the engram MCP server launcher. Memory + knowledge graph + beliefs + code intelligence for any MCP client.
+2026-10-18T20:16:19.062Z,penultimate,0.1.1,mrjw,MIT,9293,"A justBeforeEach hook for Vitest, inspired by Quick"
+2026-10-18T20:18:01.579Z,@m5dev/gitinfo,0.0.0-stage,m5dev,,336,Temporary package placeholder for staged publishing
+2026-10-18T20:18:33.576Z,sandtable-ai,0.0.0-stage,uliseis,,334,Temporary package placeholder for staged publishing
