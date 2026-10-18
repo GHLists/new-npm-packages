@@ -1,0 +1,110 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-18T08:14:29.052Z,@3sixty/mailbox-connector-imap,0.20.0-next.0,3sixty-bot,Apache-2.0,73455,IMAP connector for email mailbox ingestion.
+2026-10-18T08:18:23.383Z,@konyu-studio/vibe-anywhere,0.1.0,kwin1113,UNLICENSED,43565899,Vibe Anywhere Local Agent 安装与管理命令行
+2026-10-18T08:18:30.032Z,business-time-primitives,1.0.1,pavellazarchuk,MIT,94674,"Business hours and SLA math as pure functions — add business time, business time between, open now / opens at, business days with cutoffs, pausable SLA clocks. Split and overnight shifts, holidays, d…"
+2026-10-18T08:18:39.191Z,@spawnkit/cli,0.1.0,acraswell,UNLICENSED,730407,"Create, extend, and publish standalone browser games with SpawnKit"
+2026-10-18T08:19:26.566Z,@krometra/ui-kit,0.3.0,creshman,MIT,965285,"UI-kit на Vue 3 со сменными темами, светлой и тёмной схемой; интерактивные компоненты на zag.js"
+2026-10-18T08:19:33.205Z,@3sixty/mailbox-connector-outlook,0.20.0-next.0,3sixty-bot,Apache-2.0,198169,Outlook connector for email mailbox ingestion.
+2026-10-18T08:21:41.992Z,@cyber-world/cw-core,0.1.0,zhouchengcheng,MIT,439874,cyber-world M1 world core: node:sqlite registry (skills/humans) with ordered migrations and in-process world singleton
+2026-10-18T08:21:48.215Z,@cyber-world/cw-skills,0.1.0,zhouchengcheng,MIT,94590,"cyber-world M1 world skill library: folder-import staging, SKILL.md scanning, materialization into data/skills/<id>/ and the world SkillProvider for ctx.skills"
+2026-10-18T08:21:54.367Z,@cyber-world/cw-humans,0.1.0,zhouchengcheng,MIT,88625,cyber-world M1 digital humans: registry CRUD over cw-core plus one-way idempotent agent-preset sync into <dshHome>/.agent-presets/cw-human-<id>/
+2026-10-18T08:21:54.872Z,@portalshq/capability-interaction-orchestrator,0.2.0,bmejia220,MIT,164906,"Reusable interaction orchestration for Portals: input windows, submission gateway, arbitration engine, moderation gateway, billing controller, and event publisher"
+2026-10-18T08:22:00.091Z,@cyber-world/cw-team,0.1.0,zhouchengcheng,MIT,352809,"cyber-world M2 team orchestration: company=workspace registration, digital-human binding to resident sessions with pinned permission tiers, @-mention routing over sessionController.prompt"
+2026-10-18T08:22:05.951Z,@cyber-world/cw-group-tools,0.1.0,zhouchengcheng,MIT,212939,cyber-world M2 host tools for digital humans: cw_group_reply / cw_group_handoff write back into task groups over cw-team @-routing; cw_group_plan registers plan/checklist items as pending group tasks…
+2026-10-18T08:22:13.285Z,@cyber-world/cw-api,0.1.0,zhouchengcheng,MIT,280130,"cyber-world remote face: world/skills/humans (M1) + companies/group messages/tasks (M2) over the Typert Gateway (source-mode discovery, zero DSH checkout changes)"
+2026-10-18T08:22:26.369Z,@cyber-world/cw-client,0.1.0,zhouchengcheng,MIT,2365085,cyber-world M0 client half: sidebar card that calls cwApi/echo over the Connection RPC
+2026-10-18T08:22:34.995Z,@cyber-world/cw-bundle,0.1.0,zhouchengcheng,MIT,3517,cyber-world DSH bundle facade: declares the bundle patch that mounts every cw-* plugin into a DSH profile
+2026-10-18T08:22:43.557Z,cyber-world,0.1.0,zhouchengcheng,MIT,15222,"cyber-world distribution CLI: cw init/start/open/doctor/stop for a no-source DSH-based cyber-world instance (base: @deepseek-ai/dsh, MIT)"
+2026-10-18T08:23:32.934Z,kalibra-sdk,0.2.1,sujithappikatla,MIT,311111,"Kalibra SDK: trace what happens inside your AI app, link it to Kalibra eval runs, record and replay tools, and run evals as code. Zero dependencies; switch it off for production."
+2026-10-18T08:24:00.674Z,steamharness,0.1.0,hookvibe,MIT,18672537,Core SDK and runtime APIs for SteamHarness projects.
+2026-10-18T08:24:16.567Z,@steamharness/cli,0.1.0,hookvibe,MIT,8087832,Unified local and server workspace CLI for SteamHarness projects.
+2026-10-18T08:24:37.242Z,@3sixty/mailbox-connector-pop3,0.20.0-next.0,3sixty-bot,Apache-2.0,68620,POP3 connector for email mailbox ingestion.
+2026-10-18T08:24:58.446Z,sphegatti,1.0.0,hellovibo.in,MIT,31791,Self-hostable OTA update platform for React Native Android
+2026-10-18T08:25:28.229Z,dsh-enhancement,1.0.0,feng-yifan,MIT,623665,DSH 增强套件：远程安全访问网关（密码/HTTPS）、PWA 安装与图标、桌面通知与 Web Push、设置页。
+2026-10-18T08:25:47.712Z,triqual,0.0.0-stage,lordmont,,329,Temporary package placeholder for staged publishing
+2026-10-18T08:29:17.799Z,sourcespool,0.2.0,justinreyes28,MIT,144305,"A Windows terminal media reference library with source context, duplicates and portable metadata"
+2026-10-18T08:29:18.817Z,aero-chat-cli,0.1.0,iamjaved026,MIT,548238,"Lightweight, self-hostable terminal client for the Aero messaging platform by Javed Hussain (@iamjaved026). Features Socket.IO realtime chat, auto JWT refresh, friends management, multimedia attachme…"
+2026-10-18T08:29:41.113Z,@3sixty/mailbox-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,51625,REST client for calling mailbox service endpoints.
+2026-10-18T08:31:05.448Z,ai-sdk-sandbox-microsandbox,0.1.0,fpasquet,MIT,124382,"microsandbox sandbox sessions for AI SDK harness agents: Claude Code, Codex and friends in a local microVM booted from any OCI image."
+2026-10-18T08:31:41.988Z,@turbopress-de/cli,0.1.1,turbopress,MIT,30965,Command-line client for the turbopress Hosting API
+2026-10-18T08:32:18.26Z,@itrocks/property-expand,0.0.1,baptistepillot,ISC,5142,Mark properties for expansion in metadata-driven interfaces and tools
+2026-10-18T08:32:42.316Z,dsh-gpt-niang-quota,1.5.1,tokyo112,MIT,1901136,DSH 桌面陪伴挂件：Codex 订阅额度监控、手动程序路径与自定义回复，纯 DOM 实现。
+2026-10-18T08:33:07.036Z,dotenvaaaaa4,18.0.57,allocateorca,BSD-2-Clause,30759,Loads environment variables from .env file
+2026-10-18T08:34:16.092Z,@azulores/koishi-plugin-wordle,1.0.2,azulores,MIT,2420701,Wordle 猜单词游戏 for Koishi：图片棋盘 + QWERTY 键盘，支持指定字母数、自定义词库与提示语
+2026-10-18T08:34:37.595Z,tree-project,0.1.0,tuvshuutoogii,MIT,16327,"Small, framework-agnostic CSS: buttons, cards, inputs, layout, dark mode etc"
+2026-10-18T08:34:45.049Z,@3sixty/trust-models,0.20.0-next.0,3sixty-bot,Apache-2.0,38899,"Defines shared trust data models and interfaces for credentials, proofs, and trust components"
+2026-10-18T08:35:55.3Z,@lunmark/vokativ,0.0.1,ivancerovina,MIT,19157,"The Serbian vocative (vokativ) of a person's name, in Latin or Cyrillic."
+2026-10-18T08:37:31.57Z,@drscrewdriver/bash-payload-win32-x64,0.1.0,drscrewdriver,SEE LICENSE IN LICENSE.txt,417895701,"Pinned Git-for-Windows runtime payload for dsh-bash-terminal-ts (win32-x64, bash 5.2.37(1)). Contents: the upstream tree plus provenance/trust records; licenses travel with it."
+2026-10-18T08:38:10.124Z,lanehash,1.0.1,pavellazarchuk,MIT,47922,"A fast non-cryptographic 64-bit hash designed for JavaScript engines: pure 32-bit integer math (no BigInt, no WebAssembly), strings hashed straight from UTF-16 without encoding, byte-identical result…"
+2026-10-18T08:39:43.815Z,mac-cleanup-agent,1.0.0,willcoliveira00,MIT,202229,"Free up disk space on your Mac safely: scan, report, approve, clean. A CLI and Claude Code plugin for developers, QA engineers, PMs and creators. Trash-first, protected data, before/after results."
+2026-10-18T08:39:46.125Z,@baack-software/baack-ts-components,0.0.1,baack-software,Apache-2.0,129244,Content components that render Baack items so the Baack editor can edit them in place
+2026-10-18T08:39:48.799Z,@3sixty/nft-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,32170,HTTP client for calling NFT service endpoints from applications.
+2026-10-18T08:43:04.959Z,dotenv-async3,0.0.0-stage,allocateorca,,335,Temporary package placeholder for staged publishing
+2026-10-18T08:43:26.401Z,@mlscript/tree-sitter-mlscript,0.1.0,chengluyu,MIT,61499274,Mlscript grammar for tree-sitter
+2026-10-18T08:43:57.217Z,boopstick,0.1.0,pranaypratyush,Apache-2.0,148131,Pure comparison of explicit UI obligations against declared observations
+2026-10-18T08:44:41.504Z,page-compare,0.1.0,qiu8310,,471538,本地打开一个页面，和一张设计稿并排看。覆盖叠在右列上。字体、溢出和位置微调都发生在页面里面，刷新就没了，不改源代码。
+2026-10-18T08:44:52.548Z,@3sixty/notarization-rest-client,0.20.0-next.0,3sixty-bot,Apache-2.0,31226,HTTP client for calling notarization service endpoints from applications.
+2026-10-18T08:45:57.846Z,@actualwave/rn-playground-net,0.1.0,actualwave,MIT,364812,"Sockets, HTTP/WebSocket servers, router and static files for React Native (Hermes) — Uint8Array and promises, no Node streams."
+2026-10-18T08:47:49.664Z,invictus-bracket,0.1.0,suhanoff,MIT,159705,"Headless single-elimination bracket engine and layout geometry. Seeding, byes, two-leg ties, winner propagation, plus card and connector coordinates you render yourself."
+2026-10-18T08:48:50.92Z,dice-ui,0.1.1,yeonseong,MIT,28572,"Themeable React 3D dice with controlled state, accessible interaction, and reduced-motion support."
+2026-10-18T08:49:30.029Z,@opencraw/driver-client,0.1.1,russoedu,MIT,17843,"A thin TypeScript client for OpenCraw's driver: the conformance suite's reference client, and a way to drive the engine from another process"
+2026-10-18T08:49:31.203Z,@eherve/angular-material-organigram,22.0.0,eherve,,61482,"Angular 22 template-driven organization trees with lazy branches, multi-row connectors, keyboard activation, drag scrolling and ancestor highlighting."
+2026-10-18T08:49:56.953Z,@3sixty/engine-core,0.20.0-next.0,3sixty-bot,Apache-2.0,180259,Core runtime lifecycle and state orchestration for engine instances.
+2026-10-18T08:50:22.882Z,json-merge3,1.0.1,pavellazarchuk,MIT,70410,"Three-way merge for JSON — like git merge, for objects. Merges two edits of the same document against their common base, keeps every non-conflicting change, and reports real conflicts with JSON Point…"
+2026-10-18T08:50:37.982Z,@ffxixslh/utils,0.0.2,ffxixslh,,5731,Useful utilities and helpers
+2026-10-18T08:50:47.54Z,@fidesbuild/core,0.2.0,fidesbuild,MIT,33850,"FIDES core: the signed FIDES format, EIP-712 hashing and the Transaction Builder planning stages. No network access."
+2026-10-18T08:50:52.553Z,@fidesbuild/contracts,0.2.0,fidesbuild,MIT,72531,"FIDES contract ABIs, deployed addresses and Robinhood Chain constants."
+2026-10-18T08:50:57.807Z,@fidesbuild/sdk,0.2.0,fidesbuild,MIT,39322,"FIDES TypeScript SDK: create and verify FIDES, build, simulate and execute agent workflows."
+2026-10-18T08:51:00.109Z,sourcey-docs-mcp,0.1.0,auscaster,AGPL-3.0-only,40416,Read and search a built Sourcey documentation site over MCP.
+2026-10-18T08:51:03.117Z,@fidesbuild/x402,0.2.0,fidesbuild,MIT,21793,FIDES x402 adapter: pay x402 services inside the budget a signed FIDES allows.
+2026-10-18T08:51:08.109Z,@fidesbuild/mcp,0.2.0,fidesbuild,MIT,7738,FIDES MCP adapter: check every MCP tool call against a signed FIDES.
+2026-10-18T08:51:13.474Z,@fidesbuild/cli,0.2.0,fidesbuild,MIT,11050,"FIDES command line: create, inspect, build, simulate, execute and revoke FIDES."
+2026-10-18T08:51:18.528Z,@fidesbuild/mcp-server,0.4.0,fidesbuild,MIT,42093,"FIDES as tools for Claude and any MCP client: plan and execute actions inside a signed FIDES, gas paid by the hosted relayer."
+2026-10-18T08:52:05.165Z,galaxypop-admob-unity-adapter,0.1.0,craigmgauthier,UNLICENSED,8991,Unity AdMob iOS mediation adapter with a native contextual-only privacy configuration route (Galaxy Pop).
+2026-10-18T08:53:16.471Z,betterloop-scan,0.1.1,bhuvan.purohit77,,39919,"Local, read-only scan of how much damage the AI coding agents on this machine could do"
+2026-10-18T08:53:25.381Z,@ggalmazor/decoy,1.1.0,ggalmazor,MIT,104755,"Redaction that paints a pixelated decoy phrase over the secret instead of pixelating the secret. Web app, CLI, and MCP server; everything runs on your machine."
+2026-10-18T08:54:12.493Z,ochatr,0.0.1,nickreames,MIT,1529,Omni Chat Room: multi-model AI productivity
+2026-10-18T08:55:01.762Z,@3sixty/api-auth-entity-storage-service,0.20.0-next.0,3sixty-bot,Apache-2.0,499437,Authentication service implementation and REST routes backed by entity storage.
+2026-10-18T08:55:28.508Z,@agentx-social/sdk,0.1.0,drj-agentx,MIT,368072,"TypeScript / JavaScript SDK for AgentX, the social network and economy for AI agents."
+2026-10-18T08:55:41.443Z,@hrbully/zt-cli,0.1.0,hrbully,UNLICENSED,67021,纸条官方只读命令行工具
+2026-10-18T08:56:10.797Z,n8n-nodes-preflight,0.1.0,preflightsocial,MIT,251327,"n8n nodes for Preflight (preflight.social): check posts against every network's publishing rules, then schedule or publish them to YouTube, TikTok, Instagram, Facebook, Threads, LinkedIn, Pinterest,…"
+2026-10-18T08:56:22.449Z,@siriuslan/pi-software-design-philosophy,1.0.0,siriuslan,MIT,36505,"Pi skill applying the ideas of John Ousterhout's A Philosophy of Software Design to design, implementation, code review and refactoring"
+2026-10-18T08:56:48.876Z,preva-cli,1.0.0,mouseiah,MIT,46662,"Same Git, just with a preview."
+2026-10-18T08:57:00.097Z,pdflince-mcp,1.1.1,gsiesto,MIT,2101135,Privacy-first client-side PDF toolkit and local Model Context Protocol (MCP) server.
+2026-10-18T08:57:01.607Z,oc-claude,0.1.2,m4rocks,MIT,124638,Run Claude Code with automatic handoff between a Claude subscription session and OpenCode's models.
+2026-10-18T08:59:15.327Z,@mattguk/homebridge-script2,1.0.4,mattguk,MIT,317480,"Fork of homebridge-script2. HomeKit script switches with file or command state, shared reads, serialized actions and optional early acknowledgement"
+2026-10-18T09:00:05.651Z,@3sixty/tracing-connector-entity-storage,0.20.0-next.0,3sixty-bot,Apache-2.0,137414,"Persists spans to entity storage for durable retention, querying, and downstream processing."
+2026-10-18T09:01:48.496Z,@actualwave/rn-playground-blocks,0.1.0,actualwave,MIT,277872,"Building blocks for React Native: themed components and containers, one subpath entry each."
+2026-10-18T09:02:05.838Z,pi-cache-stats,1.5.0,dorokuma,MIT,114728,Pi Agent extension for prompt-cache observation and prefix diagnostics
+2026-10-18T09:05:09.621Z,@3sixty/vault-connector-entity-storage,0.20.0-next.0,3sixty-bot,Apache-2.0,106857,Entity storage backed connector for persisted vault key and secret workflows
+2026-10-18T09:05:25.275Z,@inglorious/i18n,1.0.0,iceonfire,MIT,22331,Internationalization for Inglorious Web: an i18next instance driven by a store entity.
+2026-10-18T09:05:49.014Z,@yechayo/dsh-pick,0.1.0,yechayo,MIT,47876,"Pick an element in the DSH sidebar browser, or drag a region over a PDF preview, and drop the screenshot plus its DOM/text into the composer as a chip."
+2026-10-18T09:08:00.307Z,jianpu-pitch,0.1.0,kisnows,MIT,8029,"Offline numbered-music pitch helpers: scale degrees to MIDI, note names and frequencies. By 简谱小站."
+2026-10-18T09:08:20.427Z,@azulores/koishi-plugin-dedide,1.0.0,azulores,MIT,34849,群聊整活合集 for Koishi：问玩法、复读、Mock 历史消息模仿（名人名言格式）、聊天词云
+2026-10-18T09:08:35.931Z,codex-task-bar-macos,0.1.0,nickxiao42,UNLICENSED,1062874,A macOS menu bar app for tracking Codex tasks
+2026-10-18T09:08:46.853Z,@anycon/protocol,0.1.0,anycon,Apache-2.0,911456,"TypeScript side of the Anycon protocol: generated types, envelope msgpack codec, JSON-RPC, and the Noise wasm wrapper."
+2026-10-18T09:08:49.769Z,dsh-window-control,1.4.2,yunlizemeng,MIT,879813,"Tired of going fullscreen by hand every time you open Harness? This plugin fills the screen for you - auto-maximize (keeps the window buttons) or true fullscreen on launch, then maximize / restore /…"
+2026-10-18T09:08:53.178Z,@astracodex/mailer,1.0.2,astracodex,MIT,63668,Kirim email dengan mudah melalui HTTP API
+2026-10-18T09:08:56.515Z,@anycon/sdk,0.1.0,anycon,Apache-2.0,634294,"Anycon TypeScript SDK (client side): pairing, connecting to nodes, sessions, and permissions. Works in Node and the browser."
+2026-10-18T09:08:57.957Z,@remotedraw/receiver-web,0.5.0,axiosozo,MIT,27066,Framework-independent RemoteDraw receiver and custom element.
+2026-10-18T09:09:20.949Z,@ateeducacion/mind-elixir-export-mermaid,0.1.1,erseco,MIT,17676,"Export Mind Elixir mind maps to Mermaid mindmap syntax, for lightweight vector output with Mermaid or Pele"
+2026-10-18T09:09:28.978Z,@remotedraw/elements,0.5.0,axiosozo,MIT,2191913,"RemoteDraw capture components as framework-free custom elements, plus the web-adapter bridge page."
+2026-10-18T09:10:03.795Z,@remotedraw/server,0.5.0,axiosozo,MIT,35517,Server-only RemoteDraw API client and authenticated session endpoints for Fetch runtimes.
+2026-10-18T09:10:10.228Z,dsh-voice-loop,0.1.0,juxiaowei111,MIT,80121,DSH 语音闭环：内置语音转写完成后自动发送，并把每轮回答压成一两句用自然中文音色念出来。
+2026-10-18T09:10:14.359Z,@3sixty/vault-connector-hashicorp,0.20.0-next.0,3sixty-bot,Apache-2.0,203283,HashiCorp Vault connector for transit cryptography and KV secret workflows
+2026-10-18T09:11:02.141Z,buggers,1.0.1,jaidevxr,SEE LICENSE IN LICENSE,4445,"Buggers CLI — Automated PR Code Review, OWASP SAST Flaw Detection & Bug Triage"
+2026-10-18T09:11:14.422Z,qinerduo-hft-models,1.0.0,jyxu0529,MIT,3728539,"hFT-Transformer piano transcription model (ONNX, int4b32) used by the 琴耳朵 web app"
+2026-10-18T09:11:17.25Z,dsh-dual-bridge,0.12.0,marco111z,MIT,494591,分流对话（Plugins of Conversation Departure）：为 @deepseek-ai/dsh（DeepSeek Harness）提供的侧边栏插件，把项目上下文打包成结构化 prompt 并复制到剪贴板，配合同屏打开的 DeepSeek 网页版做免费项目阅读/答疑；支持 PDF/Word/PPT/Excel 文本提取与图片 OCR，无法识别的文件自动导出到桌面供拖拽上传。纯…
+2026-10-18T09:11:40.571Z,@qasimha/sdk,0.0.0-stage,qasimha,,334,Temporary package placeholder for staged publishing
+2026-10-18T09:11:55.787Z,gxw2-libraries,1.1.0,serhioromano,MIT,440192,"Pi skill routing GX Works 2 Structured Text tasks to the bundled Coolmay AlarmManager, ModbusDriver, TimeControl and Utils manuals."
+2026-10-18T09:12:49.776Z,@laaielichter/stashpad,0.2.0,laaielichter,MIT,234429,"Local memory for any AI agent: plain Markdown files with sources, dates, a review queue, search and optional encryption. CLI and MCP server, no dependencies."
+2026-10-18T09:13:23.57Z,@remotedraw/react-native,0.5.0,axiosozo,MIT,730997,RemoteDraw capture components and receiver for React Native and Expo.
+2026-10-18T09:13:25.241Z,@idevconn/payment-providers,0.1.0,kudenv,Apache-2.0,2546002,Provider-neutral payment capabilities and PayPal adapter extracted from EmployeeDrivenContent
+2026-10-18T09:13:52.513Z,skyzai-pay,3.0.0,kreatordedarkness,MIT,19654,Accept Hedera USDC payments with Skyzai Pay
+2026-10-18T09:14:42.506Z,@lushdawn/dsh-codex-memories,0.1.0,lushdawn,MIT,117007,"Codex-style file-based long-term memory for DSH: two-stage LLM extraction, consolidated MEMORY.md handbook, prompt-injected memory summary, and search/read/list/note tools."
+2026-10-18T09:14:49.873Z,agathos-os,0.13.1,laaielichter,MIT,3077682,"The good guardian for your local AI agents. Finds rogue agents, poisoned MCP servers and hidden instructions on Windows and macOS."
+2026-10-18T09:14:53.556Z,react-floating-dock,0.1.0,lemonod,MIT,62971,"A WhatsApp-style floating bottom navigation dock for React, with an animated active-tab pill and an overflow sheet for extra destinations. Framework-agnostic — bring your own router."
+2026-10-18T09:15:52.188Z,numbertoroman,1.0.0,walkerryan,MIT,9979,"Convert numbers to Roman numerals and back, with strict validation."
+2026-10-18T09:17:10.853Z,zooop,0.0.0-stage,senzh95,,327,Temporary package placeholder for staged publishing
+2026-10-18T09:17:13.114Z,vokolla-mcp-doctor,0.1.0,vokolla,MIT,27830,"Check Vokolla MCP connections, inspect available tools and generate remote-client configuration."
+2026-10-18T09:17:28.341Z,homebridge-xiaomi-camera-native,1.0.1,kosztyk,MIT,118356,"Direct Xiaomi MISS/CS2 cameras for Homebridge with HomeKit video, snapshots and pan/tilt."
