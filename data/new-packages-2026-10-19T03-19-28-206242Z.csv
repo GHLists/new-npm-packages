@@ -1,0 +1,132 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-19T02:15:22.967Z,@angela_lwh/dsh-archive-purge,1.0.3,angela_lwh,MIT,103316,"Delete action for archived DeepSeek Harness sessions: permanently removes the session log, its Workspace membership, and its archive mark."
+2026-10-19T02:18:03.177Z,@xt765/dsh-message-edit,0.1.0,xt765,MIT,257734,Inline user message edit & resend plugin for DeepSeek Harness (用户消息原位编辑与重发插件：气泡下方铅笔图标 + 圆角内联编辑框 + 分支回退重发 / 当前会话追发)
+2026-10-19T02:19:49.984Z,@duyquangnvx/create-agent-cli,0.2.0,duyquangnvx,,268251,Creates a new Agent CLI repository wired to @duyquangnvx/agent-cli.
+2026-10-19T02:20:18.648Z,scbee-mcp,0.1.1,akthanuman19,Apache-2.0,28313,"MCP server for ScBee: launch-readiness score, agent search and the agent board. Read-only by default."
+2026-10-19T02:21:42.851Z,@skavelo/sdk,0.1.0,skavelo,Elastic-2.0,573485,"Skavelo's in-product AI guide: answers your users' questions, walks them through your app and runs actions they approve."
+2026-10-19T02:22:04.134Z,@kohltastrophe/aplex,1.0.0,kohltastrophe,MIT,1217652,"Fast, offline $0 structural codebase context graph (WASM tree-sitter + Luau/Roblox + 60fps Canvas viz + CLI + MCP)"
+2026-10-19T02:22:48.672Z,sakuralang-darwin-arm64,0.1.0-alpha.1,icantcodefyi,MIT OR Apache-2.0,16898548,The `sakura` binary for aarch64-apple-darwin; install `sakuralang` instead.
+2026-10-19T02:22:56.138Z,sakuralang-linux-x64-gnu,0.1.0-alpha.1,icantcodefyi,MIT OR Apache-2.0,19349474,The `sakura` binary for x86_64-unknown-linux-gnu; install `sakuralang` instead.
+2026-10-19T02:22:58.637Z,sakuralang,0.1.0-alpha.1,icantcodefyi,MIT OR Apache-2.0,14640,The Sakura Lang compiler and toolchain: the `sakura` command
+2026-10-19T02:23:48.284Z,@haoshi/cli,1.0.0,montisan,MIT,152743,号视 Agent Bridge CLI — 供各类 Agent（Cursor / Claude Code / Codex / WorkBuddy / Trae 等）查询与维护本机号视数据
+2026-10-19T02:24:10.246Z,@ctc-front/bridge-next,0.1.0,pdeng,UNLICENSED,124978,CTC Front 团队框架无关的跨窗口通信 SDK
+2026-10-19T02:24:14.519Z,@ctc-front/build-meta,0.2.0,pdeng,UNLICENSED,38766,CTC Front 团队统一构建元数据生成工具
+2026-10-19T02:24:18.736Z,@ctc-front/self-monitor-auth,0.1.1,pdeng,UNLICENSED,36497,CTC Front 团队 secure-ls 鉴权存储工具
+2026-10-19T02:24:19.192Z,@ctc-front/gf-framework-auth,0.2.0,pdeng,UNLICENSED,29387,CTC Front 基座同源子应用 token 读取工具
+2026-10-19T02:24:20.706Z,@haoshi/mcp,1.0.0,montisan,MIT,93637,号视 Agent Bridge MCP Server — 供支持 MCP 的各类 Agent 使用（查询 + 账号元数据写操作）
+2026-10-19T02:24:54.547Z,uni-editor,0.1.0,liuhjdenpm,ISC,39618353,"Framework-independent rich text editor for educational content, formulas and floating tables."
+2026-10-19T02:25:25.498Z,dsh-media-player,1.0.0,wilson.cheng.assistant,MIT,581914,"Browser-native video and audio playback in the DSH right Sidebar, streamed over an authenticated HTTP Range route so a remote browser can play and seek large files without opening a native app on the…"
+2026-10-19T02:27:15.976Z,@isahaq/kosh-views,0.1.0,isahaq,MIT,106014,"View schemas: list, kanban, form, pivot, chart, calendar, gantt, map, hierarchy, cohort, spreadsheet, dashboard (RFC 0004)"
+2026-10-19T02:27:17.956Z,@isahaq/kosh-modules-sdk,0.1.0,isahaq,MIT,40556,"defineModule, defineView, defineMenu, defineAction, defineReport, defineNotification (RFC 0001)"
+2026-10-19T02:27:19.641Z,@isahaq/kosh-search,0.1.0,isahaq,MIT,20548,"Shared search, filter, group-by, favorites and saved-views layer (RFC 0004)"
+2026-10-19T02:27:21.699Z,@isahaq/kosh-server,0.1.0,isahaq,MIT,340852,"Fastify app, module loader, REST/OpenAPI generator, auth, Shutro environment per request (RFC 0002)"
+2026-10-19T02:27:24.09Z,@isahaq/kosh-ui,0.1.0,isahaq,MIT,316037,"React app shell, design system and view renderers (RFC 0007)"
+2026-10-19T02:27:25.758Z,@isahaq/kosh-cli,0.1.0,isahaq,MIT,14204,kosh new | dev | module:create | migrate | build (RFC 0001)
+2026-10-19T02:27:27.6Z,@isahaq/kosh-permissions,0.1.0,isahaq,MIT,105544,"Roles, groups, ACL, field security, action permissions and approval rules on Shutro security (RFC 0003)"
+2026-10-19T02:27:29.727Z,@isahaq/kosh-reporting,0.1.0,isahaq,MIT,506766,"Pivot engine (GROUPING SETS / ROLLUP / CUBE), comparisons, scheduled reports, PDF designer, Excel export (RFC 0005)"
+2026-10-19T02:27:31.279Z,@isahaq/kosh-storage,0.1.0,isahaq,MIT,69079,Attachments on S3-compatible storage (RFC 0006)
+2026-10-19T02:27:41.203Z,dsh-vnc-client,0.1.0,wilson.cheng.assistant,MIT,309092,VNC client tab for the DeepSeek Harness right sidebar: an RFB client that connects to any VNC/RFB server over a WebSocket-to-TCP bridge running in the Host
+2026-10-19T02:27:46.665Z,dsh-c-cleaner,0.5.0,wuyu1327083461,MIT,1422063,C-drive escape monitor and safe cleaner for DeepSeek Harness
+2026-10-19T02:28:31.205Z,@kerrshift/agentdiff,0.7.0,sahilgangurde,MIT,5554,"See what your AI coding agent actually did, and what it cost. Local spend report for Claude Code sessions."
+2026-10-19T02:31:13.973Z,@object-works/md-to-pdf,1.0.0,object-works,,70520,Markdown を PDF に変換する CLI。Mermaid 図と、見出し・図がページ境界で切れない組版に対応します。
+2026-10-19T02:31:58.461Z,@pharrox/plugin-loader,0.0.0-alpha.0,pharrox,,356,
+2026-10-19T02:32:29.484Z,@kangsicj/nexussync,1.0.0,kangsicj,UNLICENSED,659744,"Watch-together userscript: media sync, cinema mode, live AI subtitles, chat bubbles and quick ink for Tampermonkey and iOS Userscripts."
+2026-10-19T02:33:04.997Z,yuezhiye-dsh-closet,0.1.2,yuezhiye,MIT,173471,收纳间 · DSH 插件的临时脚本与日志管理器：按工作区登记脚本、只读扫描遗留物、一键清运进可还原回收站。
+2026-10-19T02:33:18.855Z,@intrect/lyra-browser,0.1.2,unohee,MIT,12995,"npx launcher for lyra, an MCP server that gives an agent a persistent, logged-in Chromium you can watch and take over."
+2026-10-19T02:33:23.149Z,@zanii/guard,0.1.0,zanii,Apache-2.0,96740,"Stop attacks on AI agents before they land, and prove what was stopped: an inline guard before every action (canaries, tool pinning, exfiltration sequences, taint from untrusted content, rate limits)…"
+2026-10-19T02:35:51.14Z,jg-nestjs,0.1.1,jesusgraterol,MIT,142362,"NestJS for HTTP APIs: an ApiException, a filter and an interceptor for the jg-api-response envelope, schema validation, CORS, and app bootstrap."
+2026-10-19T02:36:23.501Z,jg-react-router,0.1.1,jesusgraterol,MIT,65984,"React Router helpers: a page outlet that focuses each new page and restores scroll on Back and Forward, and dialogs that close when the route changes."
+2026-10-19T02:38:07.667Z,@deepmetier/openai-deepmetier,1.6.2,rjmyj,MIT,2129603,OpenAI integrations for LangChain.js
+2026-10-19T02:39:01.746Z,pxsig,0.0.1,djdonovanbk,MIT,605,"Visual regression for Storybook: pixel signatures with their baseline images, a Rust engine, a dashboard, a Storybook addon and an MCP server. First release coming soon."
+2026-10-19T02:39:32.448Z,@emitwave/js,0.1.0,mykelcodex,MIT,25362,Browser client SDK for EmitWave — connect and subscribe to real-time channels.
+2026-10-19T02:40:15.156Z,@feecc/dsh-windows,1.0.0,feecc,MIT,17688,Published via @feecc/bamboo — 2 volume(s)
+2026-10-19T02:40:38.8Z,kosh-erp,0.1.0,isahaq,MIT,858826,"Kosh: a modern ERP framework on TypeScript, PostgreSQL and the Shutro ORM — typed end to end, permissions enforced on the server, metadata-driven views, reporting, documents and a chatter on every re…"
+2026-10-19T02:44:58.12Z,@emitwave/node,0.1.0,mykelcodex,MIT,8421,Server-side Node.js SDK for publishing signed events to EmitWave.
+2026-10-19T02:45:12.12Z,@feecc/dsh-windows-01,1.0.0,feecc,MIT,199229744,Volume 01/2 of @feecc/dsh-windows
+2026-10-19T02:45:19.625Z,@factoryz/apollo,99.9.1,whdtl2,ISC,359,
+2026-10-19T02:45:33.736Z,@kangsicj/dcinsideenhancer,1.0.2,kangsicj,MIT,475579,DCInside filter & enhancer userscript for mobile and PC (디시인사이드 차단·편의 유저스크립트)
+2026-10-19T02:45:45.857Z,@testlane/cli,0.5.2,haven.jv,Apache-2.0,1523896,A local credential broker for coding agents: keep stored passwords out of normal agent interactions and issue sessions for approved sandbox and test apps.
+2026-10-19T02:45:45.911Z,@emitwave/vue,0.1.0,mykelcodex,MIT,12981,Vue 3 client SDK for EmitWave — subscribe to real-time channels with composables.
+2026-10-19T02:45:56.044Z,@emitwave/react,0.1.0,mykelcodex,MIT,11208,React client SDK for EmitWave — subscribe to real-time channels with hooks.
+2026-10-19T02:45:58.534Z,haoyoubox-mcp,1.0.0,rootchen99,Apache-2.0,57396,Publish local HTML or Markdown files as expiring password-protected HaoyouBox links.
+2026-10-19T02:45:58.587Z,@hudsonkit/arc,0.13.3,arach,MIT,5544233,"A visual explanation toolkit for software systems — interactive diagrams, guided stories, animated flows, visual editing, and CLI + MCP tools"
+2026-10-19T02:46:04.25Z,@emitwave/next,0.1.0,mykelcodex,MIT,4587,Next.js (App Router) client SDK for EmitWave — SSR-safe real-time hooks.
+2026-10-19T02:46:33.737Z,@hudsonkit/arc-viewer,0.13.3,arach,MIT,2681374,"Native React renderers for diagrams as code, including interactive Mermaid sequences"
+2026-10-19T02:46:37.895Z,@feecc/dsh-windows-02,1.0.0,feecc,MIT,89857848,Volume 02/2 of @feecc/dsh-windows
+2026-10-19T02:47:09.474Z,@hudsonkit/arc-iso,0.13.3,arach,MIT,408103,Isometric diagrams as code for React and the browser
+2026-10-19T02:47:30.758Z,docfacts,0.1.0,atlas1,MIT,100177,"Check a technical document against the reference it was written from. Reports commands, flags, variables, exit codes and endpoints the reference does not support. Runs nothing, sends nothing."
+2026-10-19T02:47:48.156Z,@hudsonkit/arc-mcp,0.13.3,arach,MIT,1333750,"MCP server for Arc — AI agents author, validate, render, and diff architecture diagrams as code"
+2026-10-19T02:48:06.2Z,@han_05/dsh-code-navigation,0.1.0,han_05,MIT,267438,Code navigation and retrieval toolkit for DeepSeek Harness.
+2026-10-19T02:48:18.78Z,@aeonsparx/clangd-mcp-server,0.1.1,aeonsparx-admin,MPL-2.0,317725,MCP server that bridges Claude Code with clangd LSP for enhanced C++ code intelligence
+2026-10-19T02:50:17.115Z,popnow,0.1.0,popnow,MIT,318400,"Official TypeScript SDK for the PopNow API: AI video, image, music and speech generation with Kling, Seedance, Wan, Nano Banana, Flux and more."
+2026-10-19T02:50:33.919Z,dsh-gold,0.1.0,k19810703,MIT,28060,DeepSeek Harness 黄金现货行情插件：注册 gold_quote 工具，一次取回沪金99（元/克）与伦敦金（美元/盎司）并折算人民币/克。零运行时依赖。
+2026-10-19T02:50:54.795Z,anchor-ai-sdk,0.0.1,hrithikkoduri,MIT,508377,"Loop-first, sandbox-first agent framework: engine, tools, LLM client, sandbox adapters."
+2026-10-19T02:51:43.395Z,@popnow/cli,0.1.0,popnow,MIT,108553,"Official command-line client for the PopNow API: generate AI video, images, music and speech from your terminal or CI."
+2026-10-19T02:52:02.271Z,@leo_aifirst/video-workbench,0.1.0,leo_aifirst,SEE LICENSE IN NPM-LICENSE.txt,13412,Zero-dependency npm launcher for a separately installed Workbench production checkout
+2026-10-19T02:52:03.143Z,n8n-nodes-popnow,0.1.0,popnow,MIT,240651,"n8n community node for PopNow (popnow.ai): AI video, image, music and speech generation with Kling, Seedance, Wan, Nano Banana, Flux, Suno and more, priced in credits before every run."
+2026-10-19T02:52:04.011Z,@ezychat/desktop,0.1.40,jazztong,MIT,346857,"EzyChat core: the Electron desktop shell (window, tray, status window, OS service, updater)."
+2026-10-19T02:52:38.087Z,@codergartenau/adaptive-content,0.1.1,codergarten,MIT,15229,"A tiny web component that shows only the one content variant that fits the available width. Write once, adapt everywhere."
+2026-10-19T02:52:39.43Z,pi-ysk,0.1.0,wassname2,UNLICENSED,64600,"A periodic, tool-free session observer using Claude Code's You should know prompt"
+2026-10-19T02:52:42.415Z,pi-quick-oracles,0.1.0,wassname2,MIT,15369,"Short, token-bounded second opinions through Pi subagents."
+2026-10-19T02:52:46.043Z,dsh-web-search-custom,1.0.0,puciguala,Apache-2.0,69809,Use configured model providers for OpenAI Responses web search in DeepSeek Harness
+2026-10-19T02:53:08.465Z,@fcsmc/commercial-analytics,99.9.1,whdtl2,ISC,370,
+2026-10-19T02:53:25.039Z,@razcrypto/checkout,1.0.4,worldxgrowth,MIT,24530,RazCrypto Gateway browser checkout (checkout.js): opens hosted crypto checkout in a modal. Publishable key only.
+2026-10-19T02:53:29.477Z,@razcrypto/react-native,1.0.0,worldxgrowth,MIT,19944,"Open RazCrypto Gateway crypto checkout (QR, wallet links, live status) in a React Native app with a publishable key."
+2026-10-19T02:54:15.881Z,create-bareship,0.3.0,praveen.codeit,MIT,20110,Create a React Native app from the Bareship template in one command: npx create-bareship Acme.
+2026-10-19T02:54:24.114Z,@medicine-wheel/capabilities,0.21.0,jgi,MIT,38397,"The platform-features and capabilities layer of the Medicine Wheel Developer Suite — what the platform can do, which repositories and services provide it, who said so and from what, with the 55-word…"
+2026-10-19T02:54:32.924Z,@fmr-ap149494/apex-base-component,99.9.1,whdtl2,ISC,376,
+2026-10-19T02:54:47.924Z,anychat-mcp,0.1.0,enebin,MIT,233041,MCP server that guides a coding agent through setting up AnyChat in an iOS app.
+2026-10-19T02:55:12.766Z,@ohos-ports/query,0.6.0-beta.0,lljry,Apache-2.0,193937,"An simple, relational SDK for querying TypeScript and JavaScript data structures"
+2026-10-19T02:55:33.928Z,tauri-cef-webview,0.2.0,tuimao,MIT,15508,Embed native CEF child webviews in Tauri with a <webview> element
+2026-10-19T02:55:56.988Z,soft-frosted-icons,1.0.0,dev-junaid,MIT,1804891,"136 frosted glass SVG icons in two finishes, outline and duo-tone, on one 48px grid. Web component, SVG strings, React wrapper and plain SVG files. No dependencies."
+2026-10-19T02:56:01.272Z,@medicine-wheel/developer-repository-mapping,0.21.0,jgi,MIT,251934,"Repository mapping for the Medicine Wheel Developer Suite — owner hubs of JSONL rows in <owner>/<owner>/.miadi/repository-mapping/, a lifecycle state machine checked against git, a meta mapping that…"
+2026-10-19T02:56:33.828Z,enigma-vamiga,0.1.3,nuskooler,SEE LICENSE IN LICENSE,10251610,"The vAmiga Amiga emulator core as WebAssembly for Node.js: boot, snapshot, restore, drive frame by frame, serial I/O and hard disk persistence. Built for ENiGMA½ BBS Amiga doors."
+2026-10-19T02:56:51.355Z,@2jmalvarez/opencode-editor,0.1.0,2jmalvarez,MIT,147209,Local OEC editor and project explorer for the OpenCode 2 terminal.
+2026-10-19T02:56:56.806Z,@fmr-ap153177/apex-kit-icons,99.9.1,whdtl2,ISC,371,
+2026-10-19T02:58:00.822Z,@zanii/zk,0.1.0,zanii,Apache-2.0,39615,"Small, honest privacy primitives for Zanii: Pedersen commitments on ristretto255 with provable aggregates (a total or count opened while every individual value stays hidden), hash-chain threshold pro…"
+2026-10-19T02:58:02.711Z,getcontinuum,0.1.2,pranavoar,MIT,2007158,Keep AI coding work continuous across sessions and agents. Local-first: nothing leaves your machine.
+2026-10-19T02:58:04.728Z,@zanii/robotics,0.1.0,zanii,Apache-2.0,48542,"Receipts for embodied AI: owner-bound device identities, safety envelopes checked before a command reaches an actuator, device-signed telemetry, emergency stops, and a tamper-evident black box for in…"
+2026-10-19T02:58:08.326Z,@zanii/energy,0.1.0,zanii,Apache-2.0,36144,"Agent actions on the grid, made provable: meter-signed readings, flexibility and demand-response dispatch with verified delivery, EV charging sessions, and renewable-origin claims that cannot be coun…"
+2026-10-19T02:58:11.663Z,@zanii/trading,0.1.0,zanii,Apache-2.0,36353,"Accountable agent trading desks: pre-trade checks (limits, restricted lists, fat-finger bands) recorded before an order leaves, best-execution evidence across venues, clock-sync statements, and order…"
+2026-10-19T02:58:15.58Z,@zanii/elections,0.1.0,zanii,Apache-2.0,35381,"Chain of custody for election operations, not vote casting: sealed-container and equipment custody with co-signed handoffs, tabulation batches whose totals add up, and a registry of AI-generated poli…"
+2026-10-19T02:58:19.477Z,@zanii/education,0.1.0,zanii,Apache-2.0,29959,"Integrity for AI in learning and assessment: AI-assistance declarations per assignment, provable submission times, assessment-rubric versions, tutor-session summaries and grade-change trails, with st…"
+2026-10-19T02:58:22.997Z,@zanii/legal-ai,0.1.0,zanii,Apache-2.0,31723,"AI-assisted legal work, accountable: per-task work receipts with human review, supervising-lawyer sign-off, citation checks against an injected resolver (unresolvable citations are flagged, not trust…"
+2026-10-19T02:58:26.55Z,@zanii/regulator,0.1.0,zanii,Apache-2.0,34964,"A supervisor's toolkit for AI oversight: scoped live feeds of receipts, provably random audit samples (seed committed before the draw), incident-reporting deadline clocks for the EU AI Act, NIS2, DOR…"
+2026-10-19T02:58:30.859Z,@zanii/carbon,0.1.0,zanii,Apache-2.0,26524,"Compute-emissions receipts for AI: energy per model call from measured or declared power, grid carbon intensity by region and hour, and period totals ready for Scope 3 / CSRD reporting, with every fi…"
+2026-10-19T02:58:34.301Z,@zanii/agent-bank,0.1.0,zanii,Apache-2.0,37027,"Treasury accounts for AI agents: spending policy (per transaction, per day, per merchant category, allowed counterparties) checked before money moves, a double-entry journal that always balances, and…"
+2026-10-19T02:58:52.14Z,dsh-useful-tools,0.1.25,fluquormyosotis,MIT,355206,DSH 有用小工具箱：命令读文件自动算已读（mark_read）+ 快捷命令（quick_command）+ 插件同步（sync_plugin）+ 后端模拟（minihost）+ 前端预览（preview）+ UI 静态骨架检查（ui_check）+ 插件验证（verify_plugin）+ 测试环境（test_env）+ 工具清单（useful_tools）
+2026-10-19T02:59:26.223Z,@bsvkey/dtn-custody,0.0.0-stage,interence,,341,Temporary package placeholder for staged publishing
+2026-10-19T03:00:08.041Z,@pharrox/basic-plugin,0.0.0-alpha.0,pharrox,,1371,
+2026-10-19T03:00:23.786Z,unplugin-favicon-identity,0.1.0,cffhidol,MIT,208227,"Give every project a stable, readable dev-server favicon so you can tell browser tabs apart at a glance"
+2026-10-19T03:00:36.306Z,arthron,0.0.1,lapidix,MIT,110385,"Composable fetch client — create from config, plug in interceptors and middleware"
+2026-10-19T03:00:45.765Z,pi-request-stats,1.0.0,dusklight,MIT,110457,"Pi extension reporting per-request time split into thinking/answer/tool-call generation vs tool execution, per-phase tokens-per-second, compaction counts, and estimated request cost."
+2026-10-19T03:01:13.997Z,@yewdiel21/motion-kit,0.9.0,yewdiel21,UNLICENSED,2701905,"Motion toolkit for vanilla, Astro and React: GSAP recipes, accessible components, 19 themes, CSS controls and optional WebGL effects."
+2026-10-19T03:01:40.035Z,@kira905/dsh-butler-archive,0.3.3,kira905,AGPL-3.0-only,197639,"DSH web plugin: browse, preview, restore and delete sessions that were physically moved out of the sessions directory (archived sessions). Zero runtime dependencies."
+2026-10-19T03:01:45.508Z,@kira905/dsh-ecosystem-panel,0.4.4,kira905,AGPL-3.0-only,236611,"Read-only ecosystem overview panel for a DSH instance: plugin bundles, cordis.patch inserts, patch health, skills, upgrade health and decoupling health. One tab per category. Zero runtime npm depende…"
+2026-10-19T03:01:51.386Z,@kira905/dsh-firstaid,0.1.3,kira905,AGPL-3.0-only,326365,只读诊断 + 回滚演练的急救台：把「起不来 / 假死 / 要撤销改动 / 数据被删」压成一个入口，产出可整段交给 AI 或同事的现场体检报告（零第三方依赖）
+2026-10-19T03:01:57.163Z,@kira905/dsh-session-title-live,0.2.4,kira905,AGPL-3.0-only,175895,"Live session-title provider for dsh: regenerates the session title after EVERY user message (automatic: ""all-prompts""), summarizing the most recent messages within a byte budget. Zero dependencies."
+2026-10-19T03:02:03.9Z,@kira905/dsh-session-toolkit,0.1.1,kira905,AGPL-3.0-only,281815,"Session-lifecycle toolkit for DeepSeek Harness: handoff fact collection, model-facing session tails, cross-machine session landing, context pressure check, session axis marks, and inactive-session ar…"
+2026-10-19T03:02:09.977Z,@kira905/dsh-task-board-local,1.1.4,kira905,Apache-2.0,1279900,"Self-maintained DSH Web task board (forked from @linxin666/dsh-client-ui-task-board 0.3.4, detached from upstream): human acceptance gate, card kinds (once/recurring/interactive), and editable notes…"
+2026-10-19T03:02:19.08Z,@journeyapps/common-xml,0.0.0-dev-20261019030214,journeyapps-admin,,150215,"Shared XML parsing, serialization and incremental updates"
+2026-10-19T03:02:38.203Z,@icos-react/chat-szrsdk,1.0.0-rc.1,ftgone,,2715097,React chat components with pluggable transports
+2026-10-19T03:02:57.807Z,@rub1cc/pi-adaptive-scroll,0.1.2,rub1.cc,,8809,Precise slow scrolling and adaptive acceleration for Pi's fullscreen transcript
+2026-10-19T03:03:14.32Z,@rub1cc/pi-apply-patch,0.1.0,rub1.cc,,68966,Codex-compatible apply_patch tool with rich diff rendering for Pi
+2026-10-19T03:03:29.712Z,@rub1cc/pi-renderer,0.1.0,rub1.cc,,149795,Compact Codex-style tool rendering for Pi
+2026-10-19T03:03:44.32Z,@rub1cc/pi-sandbox,0.1.0,rub1.cc,,114639,Codex-style permissions and OS-level sandboxing for Pi
+2026-10-19T03:03:56.945Z,@rub1cc/pi-statusline,0.1.0,rub1.cc,,11248,"Responsive two-row model, context, usage, and extension status footer for Pi"
+2026-10-19T03:04:22.815Z,@forge/usage,0.1.0-next.0,atlassianartifactteam,SEE LICENSE IN LICENSE.txt,6382,Forge Usage SDK
+2026-10-19T03:04:42.991Z,capkey,0.0.1,frendlix,MIT,374,Spend caps and trust scores for AI agents - coming soon
+2026-10-19T03:07:57.683Z,vlr-stats-scraper,1.0.0,overyander,ISC,14763,"Scrapes player stats from vlr.gg and stores them in a local SQLite database, grouped by tournament or stage."
+2026-10-19T03:08:46.045Z,@kubohiroya/turbowarp-sesame,0.1.1,kubohiroya,MPL-2.0,601592,A TurboWarp extension for the Candy House Sesame Web API.
+2026-10-19T03:08:53.28Z,dsh-skin-deepsea-tui,0.2.58,keithtmaxwell,PolyForm-Noncommercial-1.0.0,28746644,深海终端：角色栏、终端窗口框线、蓝色消息卡片、实时 CPU 波形和可选 CRT 动效。
+2026-10-19T03:09:10.642Z,@kubohiroya/turbowarp-document-data,0.1.1,kubohiroya,MPL-2.0,680967,Named HTML and Markdown document trees for TurboWarp and HTTP response bodies.
+2026-10-19T03:09:35.002Z,dsh-plugin-danmu,0.0.0,xueelf,,303,
+2026-10-19T03:10:47.635Z,crosssync,0.1.0,royal_z,MIT,578088,Cross-browser bookmark & history sync CLI (Chrome + Edge)
+2026-10-19T03:10:59.125Z,cortico-world-gpt-sovits-for-coopanion,0.1.0,phantivia,MIT,682679,"Cortico World for Coopanion: speaks the pet's lines aloud with GPT-SoVITS (V5 on NVIDIA GPUs, a CPU tier otherwise), installing a portable runtime and weights in one click"
+2026-10-19T03:11:40.835Z,convex-railway-buckets,0.1.0,leoisadev,Apache-2.0,396182,"Store files in Railway Buckets from Convex: presigned browser uploads, metadata in Convex, durable deletes."
+2026-10-19T03:11:55.357Z,react-thai,0.1.0,tonklasocute,MIT,1030953,"Accessible React components for Thai forms: Buddhist-calendar (พ.ศ.) date picker and Thai address autocomplete, plus Thai ID, phone and baht-text helpers."
+2026-10-19T03:14:09.077Z,sleepy-js-util,0.1.0,dagisolo,MIT,2705,A lightweight Promise-based sleep utility for JavaScript and TypeScript.
+2026-10-19T03:14:23.48Z,pi-links,0.1.0,waqiju,MIT,20049,Pick and open links from your Pi conversations.
+2026-10-19T03:15:50.375Z,airdrop-llm,0.0.0-stage,mohit061,,333,Temporary package placeholder for staged publishing
+2026-10-19T03:17:05.495Z,fetchwork,1.0.0,ayiin,MIT,74284,"A high-performance, lightweight, and type-safe web framework built natively for Bun."
+2026-10-19T03:18:48.022Z,enclave-link,0.0.0-stage,avgvstvs96,,334,Temporary package placeholder for staged publishing
