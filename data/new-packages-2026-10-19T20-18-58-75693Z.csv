@@ -1,0 +1,179 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-19T19:15:49.713Z,@ohos-ports/buffer-equal-constant-time,1.0.1-beta.0,lljry,BSD-3-Clause,5610,Constant-time comparison of Buffers
+2026-10-19T19:16:36.428Z,@longzai-intelligence-remote-machine/core,0.0.1,joydragon,,4993,Longzai Intelligence 核心包
+2026-10-19T19:17:13.994Z,@forked-run/langgraph,0.1.0,frostbase-dev,Apache-2.0,31661,"LangGraph checkpointer backed by forked: every checkpoint is a commit, fork threads, rewind time travel for real, and keep side effects effectively-once."
+2026-10-19T19:17:19.146Z,@forked-run/mcp,0.1.0,frostbase-dev,Apache-2.0,25130,"MCP server that gives any agent undo: checkpoint, fork, rewind and replay its own state through forked, with an effectively-once side-effect log."
+2026-10-19T19:17:36.369Z,@pi-in-go/pigpen-aot-runtime,0.1.0,mkinsy,MIT,165400,The aot TypeScript runtime slot for PiG (Go): compiles a session's TypeScript extensions into one executable in the background and runs it from the next start.
+2026-10-19T19:17:40.939Z,@pi-in-go/pigpen-bench-ext10,0.1.0,mkinsy,MIT,15627,"The ten bench-ext extensions of the overhead bench as Go factories, fused into one Piglet Binary: no subprocess, no IPC."
+2026-10-19T19:17:44.239Z,@pi-in-go/pigpen-bench-ext10-ts,0.1.0,mkinsy,MIT,12651,"The ten bench-ext extensions of the overhead bench as TypeScript files (no imports, no dependencies): the source the aot runtime compiles and the Node cell runs."
+2026-10-19T19:17:47.548Z,@pi-in-go/pigpen-bun-runtime,0.1.0,mkinsy,MIT,48243,"The Bun TypeScript runtime slot for PiG (Go): installs a pinned, signature-checked Bun and runs TypeScript and JavaScript extensions on it instead of Node."
+2026-10-19T19:17:56.916Z,@pi-in-go/pigpen-hardening,0.1.1,mkinsy,MIT,473856,"Shared Go library for the opt-in enterprise profile of Pigpen Packages: profile loading, per-request credential files, an allow-listed egress transport, closed-field audit events, headless helpers, a…"
+2026-10-19T19:18:11.75Z,@pi-in-go/pigpen-pig-model-tweaks,0.1.1,mkinsy,MIT,177115,"PiG model-selection tweaks (Go extension): remember the picked model, pin an OpenRouter model to one provider, and guard prompts against a wrong model"
+2026-10-19T19:18:27.495Z,@pi-in-go/pigpen-ponytail,0.1.0,mkinsy,MIT,332450,"Go port of @dietrichgebert/ponytail for PiG: the lazy-senior-dev ruleset (lite, full, ultra), /ponytail and its review, audit, gain, debt and help commands, and six Skills"
+2026-10-19T19:18:32.596Z,@pi-in-go/pigpen-rpiv-web-tools,0.1.0,mkinsy,MIT,1352022,"Go port of @juicesharp/rpiv-web-tools: web_search over ten backends (Brave, Tavily, Serper, Exa, You.com, Jina, Firecrawl, Perplexity, SearXNG, Ollama), web_fetch and /web-tools; nothing starts until…"
+2026-10-19T19:18:38.296Z,@pi-in-go/pigpen-superpowers,0.1.0,mkinsy,MIT,903181,"The skills of obra/superpowers (Jesse Vincent): brainstorming, writing and executing plans, test-driven development, systematic debugging, code review and verification skills, at a pinned release, wi…"
+2026-10-19T19:18:42.53Z,@pi-in-go/pigpen-tintinweb-subagents,0.1.0,mkinsy,MIT,3298406,"Go port of @tintinweb/pi-subagents (partial): Claude Code-style subagents for PiG (the Agent tool, get_subagent_result, steer_subagent, /agents, the event-bus protocol pi-tasks uses), each agent a ch…"
+2026-10-19T19:18:43.282Z,@invoir/n8n-nodes-invoir,0.1.0,moravac,MIT,91445,"n8n node for Invoir: generate and validate EU e-invoices (Factur-X, ZUGFeRD, XRechnung, Peppol BIS) as PDF/A-3 and XML"
+2026-10-19T19:18:46.409Z,@pi-in-go/pigpen-tintinweb-tasks,0.1.0,mkinsy,MIT,2974829,"Go port of @tintinweb/pi-tasks: Claude Code-style task tracking for PiG (seven task tools, /tasks, a live widget, reminders, and task execution through @tintinweb/pi-subagents)"
+2026-10-19T19:18:50.166Z,@pi-in-go/pigpen-todo,0.1.0,mkinsy,MIT,1219886,"Go port of @juicesharp/rpiv-todo: a todo tool for the model, the /todos command and a live overlay that survives reload and compaction"
+2026-10-19T19:18:54.821Z,@pi-in-go/pigpen-typesafe,0.1.1,mkinsy,MIT,2125482,"Shared Go client for the TypeSafe AI API (a port of the official TypeScript SDK) with an own-model backend that answers the same typed questions with the model PiG is configured with. Libraries only,…"
+2026-10-19T19:19:00.894Z,@pi-in-go/pigpen-warden,0.1.1,mkinsy,MIT,4564230,"Go port of DevMortimer's pi-warden: guardrails that steer instead of interrupt. Holds irreversible tool calls, flags off-task and off-plan calls, breaks stuck loops and asks for verification of unver…"
+2026-10-19T19:19:05.428Z,@pi-in-go/pigpen-websearch,0.1.1,mkinsy,MIT,3914121,"Go port of pi-web-access (first slice): web_search, fetch_content, get_search_content and source_check with SSRF-guarded fetching and retained sources"
+2026-10-19T19:19:07.512Z,@guardbee/ner,0.1.1,guardbee.ai,MIT,56705,"Optional NER backend for GuardBee: finds Turkish person names with a local BERTurk model (ONNX, offline), in-process or as a sidecar HTTP service"
+2026-10-19T19:19:09.386Z,@pi-in-go/pigpen-piglet-a2a,0.1.0,mkinsy,MIT,4641,"PiG that speaks A2A (Agent2Agent): call remote A2A agents from tools, and serve PiG tasks to A2A agents when you configure a listener. Off until configured."
+2026-10-19T19:19:12.523Z,@pi-in-go/pigpen-piglet-acp,0.1.0,mkinsy,MIT,4803,"PiG for editors: an agent that an Agent Client Protocol client such as Zed drives through the pig-acp companion, with /acp to show how to configure it."
+2026-10-19T19:19:16.59Z,@pi-in-go/pigpen-piglet-bench-aot,0.1.0,mkinsy,MIT,3422,"PiG with the aot TypeScript runtime slot: compiles a session's TypeScript extensions into one executable in the background, for pi-arena."
+2026-10-19T19:19:20.155Z,@pi-in-go/pigpen-piglet-bench-bun,0.1.0,mkinsy,MIT,3461,"PiG with the Bun TypeScript runtime slot: installs a pinned, signature-checked Bun and runs TypeScript extensions on it, for pi-arena."
+2026-10-19T19:19:21.984Z,@rivium/auth-react-native,0.1.0,rivium,MIT,187560,Rivium Auth SDK for React Native - hosted sign-in for your users
+2026-10-19T19:19:24.86Z,@pi-in-go/pigpen-piglet-bench-ext10,0.1.0,mkinsy,MIT,3907,"The ten bench-ext extensions of the overhead bench, fused into one Piglet Binary, for pi-arena."
+2026-10-19T19:19:27.409Z,@camphoric/camphoric-event-import-spec,1.0.0,willfulbard,MIT,67393,"The contract a Camphoric event module satisfies: the event import object's TypeBox schema and types, its validator, and the shared conformance tests."
+2026-10-19T19:19:29.064Z,@pi-in-go/pigpen-piglet-bench-ext10-aot,0.1.0,mkinsy,MIT,4388,"The ten bench-ext TypeScript extensions with the aot runtime, which compiles them on first start, for pi-arena."
+2026-10-19T19:19:34.52Z,@pi-in-go/pigpen-piglet-bench-ext10-split,0.1.0,mkinsy,MIT,4606,"The ten bench-ext extensions split five Go-fused and five TypeScript compiled by the aot runtime, for pi-arena."
+2026-10-19T19:19:38.841Z,@pi-in-go/pigpen-piglet-bench-lean,0.1.0,mkinsy,MIT,3989,"The lean bench Piglet: PiG with every built-in extension, extra model API and feature stripped (opt-in, keep mode), for footprint comparisons."
+2026-10-19T19:19:43.503Z,@pi-in-go/pigpen-piglet-bench-standard,0.1.0,mkinsy,MIT,3805,PiG Standard for pi-arena: the two pig games and the Bun runtime slot in one Piglet Binary.
+2026-10-19T19:19:46.928Z,@pi-in-go/pigpen-piglet-herdr,0.1.0,mkinsy,MIT,15409,"PiG with the herdr agent-state reporter: idle, working and blocked in herdr's sidebar, notifications and `herdr agent wait`."
+2026-10-19T19:19:50.872Z,@pi-in-go/pigpen-piglet-jev,0.1.0,mkinsy,MIT,4412,"PiG with Jev, a typed judge for tool calls and tool output (destructive? leaks data? beyond scope? secret in the output?). Off until you run /jev on, which shows what leaves the machine first; it fai…"
+2026-10-19T19:19:54.265Z,@pi-in-go/pigpen-piglet-pig-essentials,0.1.0,mkinsy,MIT,10931,"A fast single-binary PiG with the essentials, no Node: web search and fetch (rpiv-web-tools), sub-agents (tintinweb pi-subagents, a tested slice), Claude Code-style task tracking (tintinweb pi-tasks)…"
+2026-10-19T19:19:57.77Z,@pi-in-go/pigpen-piglet-pig-extension-porter,0.1.0,mkinsy,MIT,7704,"Port a Pi TypeScript extension to a Go PiG extension: SDK gap check, tests first, differential equivalence against the original, mutation check, binary build and a Package with provenance."
+2026-10-19T19:20:01.808Z,@pi-in-go/pigpen-piglet-pig-games,0.1.0,mkinsy,MIT,5865,"PiG with two pixel-art games, PiG Runner (/runner) and Angry Pigs (/angry-pigs), starring the pig you chose with PiG's /sprite. Nothing starts until you type a command."
+2026-10-19T19:20:05.622Z,@pi-in-go/pigpen-piglet-pig-music,0.1.0,mkinsy,MIT,4936,"PiG with a music player: /music opens a full-screen YouTube Music player (yt-dlp resolves, mpv plays) that keeps playing while it is hidden. Nothing starts until you type /music."
+2026-10-19T19:20:09.478Z,@pi-in-go/pigpen-piglet-pig-popular,0.1.0,mkinsy,MIT,6370,"PiG with Go ports of popular Pi extensions: the rpiv-todo task list (tool, /todos, live overlay), the ask_user_question tool (dialog walker; the tabbed questionnaire is not ported), the powerline sta…"
+2026-10-19T19:20:12.526Z,@pi-in-go/pigpen-piglet-pig-porter,0.1.0,mkinsy,MIT,5063,"Port Pi work to native PiG. Today that is Pi TypeScript extensions to Go, through the pig-extension-porter composition it extends."
+2026-10-19T19:20:15.537Z,@pi-in-go/pigpen-piglet-pig-typesafe,0.1.0,mkinsy,MIT,5070,The typesafe_evaluate tool and /typesafe command (Go port of pi-typesafe). Off until enabled; content goes to api.typesafe.ai unless the own-model backend (the model PiG is configured with) is select…
+2026-10-19T19:20:18.723Z,@pi-in-go/pigpen-piglet-pig-warden,0.1.0,mkinsy,MIT,5303,"PiG with warden: irreversible calls held before they run, off-task calls flagged, stuck loops and unverified done claims called out. Off until /warden enable; it shows what leaves the machine before…"
+2026-10-19T19:20:21.958Z,@pi-in-go/pigpen-piglet-pig-with-batteries,0.1.1,mkinsy,MIT,15700,"The batteries-included Piglet: default PiG with curated extensions. Today: the herdr agent-state reporter, the read_session tool, the /context, /tools, /cost and /prompts inspection commands, PiG Run…"
+2026-10-19T19:20:48.726Z,@camphoric/camphoric-event-import-tools,1.2.0,willfulbard,MIT,204522,"Camphoric REST client, login, the event importer (creator and organization loader), e2e scaffolding for an event's registration form, and the runner that posts generated registrations to an event."
+2026-10-19T19:20:50.858Z,atera-mcp,0.2.1,valentin-auclerc,MIT,115140,"MCP server for the Atera RMM/PSA API v3: tickets, customers, contacts, agents, alerts, contracts, billing and more. Read-only by default."
+2026-10-19T19:20:55.838Z,tiltshot,0.1.0,davemee94,UNLICENSED,1871642,"Cinematic 3D launch trailers from app screenshots: a studio, a CLI and an MCP server for AI agents, on one engine."
+2026-10-19T19:21:25.905Z,effect-csv,0.1.0,ballatech,MIT,204893,Streaming CSV parsing and writing for Effect v4 with Schema-typed rows and no runtime dependencies
+2026-10-19T19:21:40.856Z,caliper-harness,0.1.3,saraoz01,MIT,15533,"A local coding harness with tools, planning and durable project memory"
+2026-10-19T19:21:48.955Z,z-shield,0.1.0,zeesu-royalist,MIT,89676,"API abuse detection, rate limiting, and temporary IP blocking middleware for Node.js and Express"
+2026-10-19T19:21:52.371Z,@sopflow/sop-ap,0.1.0,howlilabs,MIT,19517,SOP AP profile and readiness rules for Sopflow
+2026-10-19T19:22:45.326Z,componentbook,0.1.0,bangseongbeom,MIT,47509,Generate MDX documentation for your components
+2026-10-19T19:23:23.465Z,@dile/scanner,0.0.2,midesweb,MIT,69891,"Web Component to scan documents in the browser: edge detection, perspective correction and multipage PDF or JPEG output, powered by scanic and jsPDF"
+2026-10-19T19:24:08.254Z,@maaniz/cairn,0.1.0,mani94,MIT,61513,Shared team memory for AI coding agents. Your agents leave markers. The next one doesn't get lost.
+2026-10-19T19:24:12.361Z,@usebuzzer/cli,0.1.0,usebuzzer,MIT,362857,"Set Buzzer up from a terminal or a coding agent: sign in, create an agent, a widget and an email inbox, and hand the identity signing secret straight to your server's env file."
+2026-10-19T19:24:41.652Z,@usebuzzer/sdk,0.4.0,usebuzzer,MIT,331881,"The Buzzer REST API client for TypeScript and JavaScript: one typed method per public operation, identity tokens for the chat widget, and a contact-support tool for your MCP server. No dependencies."
+2026-10-19T19:24:43.631Z,dsh-weixin-pro,0.3.0,8guangnian,MIT,106516,微信 ClawBot (iLink) 通道插件：把微信消息接入 DeepSeek Harness 会话，按用户隔离、原生注入与回发，支持图片/文件/视频收发与 1GB 级流式传输。
+2026-10-19T19:25:31.782Z,xidlc-win32-arm64,0.0.1-security,npm,,149,security holding package
+2026-10-19T19:25:52.567Z,@tinycloud/telemetry-preview,0.1.0-alpha.0,skgbafa,EGPL,263472688,Synthetic-only tc-apps diagnostics alpha CLI and MCP
+2026-10-19T19:26:01.714Z,mcmodsdevbridge,1.0.3,dr7s,Apache-2.0,822675,"Minecraft 26.3 mod development bridge for DeepSeek Harness: starts a real dedicated server and a real client, connects and ops, runs a scenario JSON of probe HTTP calls, collects evidence and tears e…"
+2026-10-19T19:26:37.756Z,@payforge/node,1.0.0,kurotsukiya-xx,MIT,73413,Official server SDK for the PayForge API.
+2026-10-19T19:26:59.523Z,pi-codemode-diff-native,0.1.4-pig,hyein-cbio,MIT,321401,Native Go extension package for pi-codemode-diff on PiG.
+2026-10-19T19:27:00.425Z,@gentrail/ai,0.4.1,ethanthoma,Apache-2.0,199864,"Gentrail SDK: governance tracing, PII redaction, inline policy enforcement, and evidence capture for AI agents"
+2026-10-19T19:27:26.878Z,@microsurveysai/react-native,0.1.0,dutello,MIT,537705,"React Native SDK for MicroSurveys — native in-app surveys, triggered on-device by the events you already track."
+2026-10-19T19:27:44.869Z,@sopflow/adapter-sop-ta,0.1.0,howlilabs,MIT,41505,Compatibility adapter between legacy sop-ta procedure rows and Sopflow
+2026-10-19T19:27:51.363Z,@sopflow/react,0.1.0,howlilabs,MIT,906532,"React SOP editor, diagram and workflow UI for SOPFlow"
+2026-10-19T19:28:00.931Z,pi-local-orchestrator,1.0.0,xpokss,MIT,801431,"Agent skill for pi: orchestrate large projects in sequential phases with fresh-context worker sessions in visible pi TUI windows, zero local GPU contention."
+2026-10-19T19:28:32.38Z,@payforge/react,1.0.0,kurotsukiya-xx,MIT,31764,React bindings for PayForge hosted card fields. Keeps card data out of your servers.
+2026-10-19T19:29:07.273Z,@chymeral/node-sdk,1.0.0,lubi-git,MIT,180108,Official Node.js and TypeScript client SDK for applications compatible with the Chymeral Link Protocol (CLP).
+2026-10-19T19:29:43.719Z,@payforge/cli,1.0.0,kurotsukiya-xx,MIT,18744,Local development toolkit for PayForge integrations.
+2026-10-19T19:29:55.468Z,get-cairn,0.1.0,mani94,MIT,2123,Alias for @maaniz/cairn: run `npx get-cairn init` to set up Cairn for Claude Code.
+2026-10-19T19:30:20.943Z,@baack-software/baack-ts-editor,0.1.0,baack-software,Apache-2.0,950074,"Edit Baack content in place, on your own site's pages"
+2026-10-19T19:30:26.987Z,nodebb-plugin-mbox-import,0.1.0,2256avi,MIT,4439,Import MBOX email archives into NodeBB with threading and duplicate detection.
+2026-10-19T19:30:47.968Z,oh-my-clm,0.1.8,devzjqx,MIT,424801,A Pi extension and minimal DSH bridge for self-editable live context inspired by the Facebook Research CLM harness.
+2026-10-19T19:30:56.797Z,@scriptwithahmad/u-lib,0.1.1,scriptwithahmad,MIT,302622,"Accessible React components with refined surfaces, light and dark themes, and optional motion."
+2026-10-19T19:30:58.307Z,@fxfunds/developer-resources,1.0.0,fxfunds-admin,MIT,24519,"FXFunds Developer Resources — catalog of FXFunds open-source npm and PyPI packages, API references and USDT network reference (ERC20, TRC20, TON) with offline address and transaction-hash format chec…"
+2026-10-19T19:31:26.246Z,@incodetech/prizma-enterprise-agent,3.0.0,nacimshehin,UNLICENSED,1449856,"Prizma Enterprise, queryable: a frozen index per released version plus a CLI and an MCP server, so an agent answers for the version a project installed instead of inventing it."
+2026-10-19T19:31:34.564Z,@incodetech/prizma-core-agent,0.15.0,nacimshehin,UNLICENSED,600812,"Prizma Core, queryable: a generated index of the library on web, Android and iOS, plus a CLI and an MCP server so an agent reads the system instead of inventing it. Answers for the Prizma Core versio…"
+2026-10-19T19:31:42.554Z,@osva-ai/connector-postgres,0.1.0,piyushwadhwa,Apache-2.0,189121,"OSVA Connector Profile V1 PostgreSQL MCP connector (connection test, catalog discovery, bounded read-only SELECT)"
+2026-10-19T19:33:04.896Z,@vn.unifyid/integrity-verifier,1.0.1,vnova,MIT,100857,"Verify UnifyID records against signed, hash-chained checkpoints without trusting UnifyID: the record's Merkle proof, UnifyID's signature, and the checkpoint on UnifyID's anchor contract and Sign Prot…"
+2026-10-19T19:33:20.061Z,ipcomet,0.1.0,ishantsingh12,MIT,7816,"What is my IP? Print your public IP address and look up any IP or domain from the terminal, using the free ipcomet.com API."
+2026-10-19T19:34:57.712Z,@introspection-sdk/aauth-resource,0.36.0,brightsparc,Apache-2.0,46935,"Make an HTTP API an AAuth resource (draft-hardt-oauth-aauth-protocol -11): signed quotes, the person-token and auth-token challenges with an R3 proposal and a budget, and serving that proposal to its…"
+2026-10-19T19:35:00.319Z,@ohos-ports/heic2any,0.0.4-beta.0,lljry,MIT,2756425,Converting HEIC/HEIF to PNG/JPEG/GIF (HarmonyOS Node.js port: node-worker libheif asm.js decoder + pure-JS PNG/JPEG encoders)
+2026-10-19T19:36:10.93Z,@volute_cvc/cvc,0.0.0,meirka,Apache-2.0,12382,Placeholder for the CVC command-line launcher; the first real release is 0.7.1
+2026-10-19T19:37:38.16Z,@tillcast/html-render,0.1.0,miedzikd,Apache-2.0,942934,"The Tillcast HTML renderer for JavaScript: the same Rust that the Tillcast print service uses to draw receipts, compiled to WebAssembly. It renders blocks and ReceiptLine text to HTML for a screen, H…"
+2026-10-19T19:37:54.207Z,@tillcast/preview,0.1.0,miedzikd,Apache-2.0,156227,"A receipt preview for a web page: a React component and a framework-free mount function that draw a receipt (blocks or ReceiptLine text) as it would print on 80 mm paper, in the browser, with the Til…"
+2026-10-19T19:37:54.449Z,poteto-mode,0.0.1,nichoth,SEE LICENSE IN LICENSE,644326,"Install poteto-mode and every skill it depends on into a repo, per project."
+2026-10-19T19:38:08.763Z,use-as-dictionary,1.0.0,giorginho,MIT,48152,Webpack and Vite plugins for Compression Dictionary Transport with Shared Brotli dictionaries
+2026-10-19T19:39:00.017Z,smallpics-js,0.1.0,smallpics,MIT,37568,Small Pics URL generation for JavaScript
+2026-10-19T19:39:32.838Z,opencode-supervisor,0.1.0,vimtor,MIT,26981,OpenCode plugin that stops a session run when it breaks your instructions.
+2026-10-19T19:39:55.02Z,@taskyon/rumoca,0.10.3-taskyon.1,yeus,Apache-2.0,60935238,WebAssembly bindings for Rumoca compile and optional simulation surfaces
+2026-10-19T19:40:35.369Z,@runbound/runtime,0.1.0-alpha.1,brianacoit,SEE LICENSE IN LICENSE,3581251,"Runbound Runtime for Node.js: runs a workload under policy, guarding protected built-ins and recording what it did as audit evidence."
+2026-10-19T19:41:51.859Z,mimidb-client,0.1.0,d3lete_,MIT,7227,Zero-dependency JavaScript and TypeScript client for mimiDB
+2026-10-19T19:42:10.142Z,@resemblio/mcp-server,0.2.1,resemblio,MIT,88626,"Model Context Protocol server for Resemblio - extract trademark-stripped, brand-faithful, code-bearing design systems from any URL. Inspirado, no copiado."
+2026-10-19T19:42:20.999Z,ol-floors,1.0.0,lucasloe,MIT,522140,Composable OpenLayers primitives for React and floor-plan editing.
+2026-10-19T19:43:34.689Z,@mailsai/playwright,0.1.0,mailsai,MIT,70738,"Playwright fixture for mails.ai: give each test its own email address, then wait for the sign-up code or link sent to it."
+2026-10-19T19:43:57.317Z,@d3lete_/mimidb,0.1.0,d3lete_,MIT,7236,Zero-dependency JavaScript and TypeScript client for mimiDB
+2026-10-19T19:44:09.494Z,cennge-ui,0.1.0,cennge,MIT,2841046,"Tactile, dark-first React components on Radix UI and Tailwind CSS v4."
+2026-10-19T19:44:57.083Z,@oss-idle/addon-sdk,0.5.0,adrriii,AGPL-3.0-only,159121,"oss!idle Addon SDK - build oss!idle add-ons in TypeScript. An Addon base class with automatic teardown, shadow-root React overlays, bridges to the game's database and beatmap store, and a bundler tha…"
+2026-10-19T19:45:30.329Z,@reelsprom/mcp,0.0.1,vverbski,UNLICENSED,2824,РилсПром — MCP-сервер: агент монтирует Reels из записи говорящей головы
+2026-10-19T19:45:36.619Z,@sakhalabs/ui,1.1.0,sakha.labs26,MIT,133375,"Sakhā Labs React UI component library — CSS-variable themed, bilingual (NE/EN) ready, mobile-first, WCAG AA, zero runtime deps beyond React."
+2026-10-19T19:45:52.614Z,@oss-idle/addon-sdk-create,0.2.1,adrriii,AGPL-3.0-only,38086,Scaffold an oss!idle add-on: npx @oss-idle/addon-sdk-create@latest my-addon
+2026-10-19T19:46:16.804Z,@getitdone-gmbh/kette-design,0.3.0,alexfriedl,MIT,5609251,"Free React components of the Get IT Done design system for complex software: primitives plus general components such as sidebar, data grid, date picker, multiselect, file upload, charts and kanban. s…"
+2026-10-19T19:46:49.65Z,@episkope/exhibits,0.1.0,adreastrian,MIT,47981,CLI for the Exhibits HTML publishing service. Requires an authorized account.
+2026-10-19T19:47:28.85Z,@switchkick/core,0.1.0,eased_tech,Apache-2.0,71045,"Pure routing policy for switchkick: decision inputs in, model and effort out."
+2026-10-19T19:47:46.459Z,nexus-installer,0.1.0,rayvega,SEE LICENSE IN CLI-LICENSE.md,21519,Public bootstrap CLI for installing the proprietary NEXUS self-hosted distribution.
+2026-10-19T19:47:46.899Z,@switchkick/jev,0.1.0,eased_tech,Apache-2.0,38320,"Thin Jev Decisions API client for switchkick, with timeouts and fail-open behavior."
+2026-10-19T19:48:05.992Z,@zukhruf/sqlite-drift,0.3.30,ezzabuzaid,MIT,16372,"Declarative schema management for SQLite. A declaration lists the CREATE statements of the tables, indexes, views and triggers that one caller owns. The package compares them with the text that SQLit…"
+2026-10-19T19:48:07.706Z,sdd-clinic,0.1.0,ashugh,MIT,1395529,"A local, spec-driven development workspace for Codex and Claude CLI"
+2026-10-19T19:48:08.121Z,@zukhruf/sqlite-federation,0.3.30,ezzabuzaid,MIT,25873,One read-only handle over many SQLite databases. Each statement attaches the databases that it names and detaches them when it ends. Thus a host can keep more databases than the attach limit of SQLit…
+2026-10-19T19:48:18.719Z,@oneteam-app/apps-cli,0.1.0-alpha.0,guidsen,MIT,26322,"Set up and check Oneteam login in an app: init, validate, doctor."
+2026-10-19T19:48:22.238Z,@packpath/digital-link,0.1.0,52bit,Apache-2.0,1028949,"Parse, build and validate GS1 Digital Link URIs and GS1 element strings. Zero dependencies; runs in browsers, Node.js and Cloudflare Workers."
+2026-10-19T19:49:08.124Z,@totemsdk/eefi,0.1.0,gheeklabs,MIT,48609,"Eefi generic contracts — neutral capital, market, risk and exercise agreement schemas with canonical digests"
+2026-10-19T19:49:20.081Z,@oneteam-app/apps,0.1.0-alpha.0,guidsen,MIT,104447,"Oneteam login, employee context and permission checks for apps launched from Oneteam. Framework-agnostic core with Next.js and React adapters."
+2026-10-19T19:49:35.008Z,@box-kite/create,2.2.7,mprocopenco,MIT,137465,Start a Vite + React app with Box Kite and a design in it: npm create @box-kite@latest my-app -- --design mono
+2026-10-19T19:50:02.742Z,twitch-gql-queries-all,1.0.0-all.202610191949,dmitryscaletta,MIT,5305453,Type-safe requests to twitch public GraphQL API
+2026-10-19T19:50:21.556Z,@jeanc18rlos/runtime,0.1.0,jeanc18rlos,GPL-3.0-only,13623745,FNX/FSS prototype and motion playback using the Fanta Rust engine
+2026-10-19T19:50:24.908Z,homingo-ops,0.0.0-stage,homingo,,333,Temporary package placeholder for staged publishing
+2026-10-19T19:50:41.502Z,@formancy/health-core,0.1.0,sharkysan,SEE LICENSE IN LICENSE.md,177885,"Formancy Health's core: FHIR R4 JSON written and read without losing a digit, and R4's primitives held to their types, for the release of the HL7® FHIR® standard its resources are written for, R4 4.0…"
+2026-10-19T19:50:46.16Z,@formancy/health-document,0.1.0,sharkysan,SEE LICENSE IN LICENSE.md,144788,"Formancy Health's documents: a document Bundle and its Composition, and a DocumentReference and Binary carrying a PDF's bytes unchanged, for the HL7® FHIR® standard, R4 4.0.1, built from what the hos…"
+2026-10-19T19:50:50.406Z,@formancy/health-questionnaire,0.1.0,sharkysan,SEE LICENSE IN LICENSE.md,232348,"Formancy Health's questionnaire: a formancy form as a Structured Data Capture Questionnaire, and its answers as a QuestionnaireResponse, for the HL7® FHIR® standard, R4 4.0.1, each refused whole wher…"
+2026-10-19T19:50:52.518Z,mockshift-sdk,0.3.1,keera_innovations,MIT,59310,"Sync Express/HTTP routes into Mockshift as testable requests, with payload, schema and assertion inference."
+2026-10-19T19:50:56.059Z,@formancy/health-ch,0.1.0,sharkysan,SEE LICENSE IN LICENSE.md,147410,"Formancy Health for Switzerland: CH Core 6.0.0 and CH ORF 3.0.2, the patient, the practitioner's role, the service request and the CH ORF document around a form's answers, naming its Questionnaire by…"
+2026-10-19T19:53:26.824Z,@maroonedsoftware/saml,0.1.0,knoxcoder,MIT,65019,"SAML 2.0 service-provider toolkit for ServerKit: per-provider configuration from a pluggable source, IdP metadata parsing, and SP metadata generation on @node-saml/node-saml."
+2026-10-19T19:53:36.688Z,iconspace,0.1.0,abhinavstwt,,26560,"Add IconSpace animated icons to your React project, and connect your AI tools to the IconSpace MCP server."
+2026-10-19T19:54:19.219Z,@magnitudeai/cli,0.1.0,arafeymasood,MIT,46255,Install Magnitude skills into your coding agents
+2026-10-19T19:55:16.489Z,@rivinia/theme,0.1.0,abdelfattahqandil21,MIT,12929,"The shared Rivinia design-token layer: one import, one place to set the whole component ecosystem's colours, shapes and type."
+2026-10-19T19:55:18.005Z,unofficial-trackjs-mcp,0.1.0,olaj,MIT,39911,"Unofficial MCP server for the TrackJS Data API. Read-only tools for querying JavaScript errors, error trends, and page views. Not affiliated with TrackJS."
+2026-10-19T19:56:05.993Z,@amitkaps/craftz,0.1.0,amitkaps,MIT,137817,"craftz — one way to build, check, deploy and release."
+2026-10-19T19:56:37.839Z,reviewapp-annotate,0.1.0,wyattades,MIT,919447,"Comment on review-apps and previews (Vercel, Cloudflare, Netlify, etc.), all stored in a PR comment"
+2026-10-19T19:57:08.747Z,@tufayl/normal-language-palo,0.1.0,tufaylahmed,MIT,1850,"Today there is no small, installable CLI that does this well: build a normal language to palo alto scm filters converter"
+2026-10-19T19:57:18.285Z,remesso-wallet,0.2.4,eagle1,MIT,903860,"An agent wallet on Celo whose spending is capped on-chain by its human. MCP server for Codex, Cursor, Claude and any MCP host: pay people and agents in USD₮, USDC or USA₮, pay x402 APIs, ask to be pa…"
+2026-10-19T19:57:39.123Z,@ohos-ports/scaleflex-ui,3.0.9-beta.0,lljry,MIT,2351126,React UI components library by Scaleflex Company
+2026-10-19T19:57:49.439Z,@supa-magic/omp-role-fleet,1.5.1,bafxyz,MIT,291394,Split a task into agent roles and dispatch them in parallel waves — zero configuration
+2026-10-19T19:59:41.857Z,@noitenow/cli,0.1.0-alpha.6,ryuz,Apache-2.0,550535,Noite CLI: deploy CI-built dist over Git smart-HTTP (no server build needed)
+2026-10-19T19:59:41.866Z,react-repos,1.0.2,madhav168,MIT,1531155,"You can’t burn ashes twice, but you can always start a new fire."
+2026-10-19T19:59:50.6Z,plume-ui-react,0.1.0,darioegb,MIT,136892,"A lightweight TypeScript React UI component library, themed with CSS variables."
+2026-10-19T20:00:42.911Z,@threahq/t3code-remote,0.1.0,kristoffer_remback,MIT,55102,"A T3 Code connector that bridges a local T3 Code server to a Threa scratchpad: each Threa turn becomes one T3 thread run, with its activity traced back as steps."
+2026-10-19T20:02:54.692Z,notionic,0.8.2,nublson,MIT,157377,"Render Notion API blocks as React Server Components, styled with Tailwind CSS and shadcn/ui tokens."
+2026-10-19T20:03:18.777Z,@jeanc18rlos/sdk,0.1.0,jeanc18rlos,GPL-3.0-only,73498,"Typed clients for Fanta creative runs, native FNX tools and curated knowledge"
+2026-10-19T20:04:08.312Z,@ohos-ports/clean-yaml-object,1.0.0-beta.1,lljry,,11540,Clean up an object prior to serialization
+2026-10-19T20:04:10.442Z,@vaut/cli,0.1.0,cchevli,MIT,179923,vaut - the CLI for Vaut file hosting
+2026-10-19T20:04:36.383Z,bun-elm-plugin,0.1.1,ricardocasares,MIT,81528,Bun bundler plugin for Elm with hot module replacement under Bun.serve()
+2026-10-19T20:05:36.055Z,@bltstr/bamboo-bot,0.2.0,bluetoaster,MIT,118974,Client for the bamboo-bot scraping and crawling service
+2026-10-19T20:06:52.535Z,@bitakit/query,0.2.0,mva.vesal,MIT,10501,BitaKit plugin with one shared TanStack Query client for every plugin and the React tree.
+2026-10-19T20:06:55.661Z,@bitakit/strapi,0.2.0,mva.vesal,MIT,103959,"Headless BitaKit plugin for Strapi 5: content, Users & Permissions authentication, uploads and a shared query cache."
+2026-10-19T20:07:37.364Z,lumeai-linux-x64,0.1.0,be1lnash3,MIT,211166880,Lume CLI — нативный движок для linux-x64
+2026-10-19T20:07:56.804Z,@openreceive/vendure,0.4.30,openreceive,MIT,35852,"Accept Bitcoin Lightning payments in Vendure with your own wallet and optional USDT, USDC, SOL and ETH swaps."
+2026-10-19T20:08:14.106Z,agent-manor,0.1.0,lolipop-1x1,MIT,17486464,本地优先的 Agent 历史与仓库代码活动分析工具
+2026-10-19T20:08:17.759Z,pi-durable-expo-env,0.1.0,verysmallwoods,MIT,74453,Expo-based mobile execution environment for Pi Durable on Android and iOS
+2026-10-19T20:08:23.783Z,rpsa-eslint-config,0.1.0,ahmedrangel,MIT,10452,RPSA ESLint configuration preset.
+2026-10-19T20:08:53.762Z,@matthewlovestocode/ts-project-mapper,0.0.2,matthewlovestocode,MIT,55234,Maps a TypeScript project's imports/exports into a graph and generates AI-agent-friendly documentation.
+2026-10-19T20:09:46.932Z,mathglyph,0.6.1,8xb300,MIT,250467,"A tiny text effect: monospace text where letters swap to math glyphs, breathe, and scramble under the pointer."
+2026-10-19T20:09:53.898Z,lumeai-windows-x64,0.1.0,be1lnash3,MIT,163760836,Lume CLI — нативный движок для windows-x64
+2026-10-19T20:10:15.914Z,tiktok-live-agency,0.1.0,tiktools,MIT,446217,"Unofficial TikTok LIVE agency SDK by tik.tools: find creators to recruit, track diamonds and live status across your roster, and build your own agency dashboard. Not affiliated with or endorsed by Ti…"
+2026-10-19T20:10:29.236Z,diego-date,1.0.0,juandicar09,ISC,991,Una utilidad para manejar fechas y en formato timestamp y long
+2026-10-19T20:10:29.455Z,lumeai-cli,0.1.0,be1lnash3,MIT,6500,Lume — AI-агент для терминала от LumeAi
+2026-10-19T20:10:42.392Z,sena-data,1.0.0,joshan001,MIT,1065,Una utilidad para manejar las fechas en formato timestamp y convertirlas a un formato legible para el usuario.
+2026-10-19T20:10:44.207Z,piolin,1.0.0,santiago_carp,ISC,987,una utilidad para manejar fechas en formato timestamp y long
+2026-10-19T20:10:54.211Z,sena-date-davinci,1.0.0,davidabb2000,MIT,1015,Una utilidad para manejar fechas en formato timestamp y long time
+2026-10-19T20:11:17.642Z,@eta-mu/fork-tax,0.1.0,risuki,GPL-3.0-or-later,4137588,"Fork Tax handoff planning, snapshot manifests, payment outcomes, and verification"
+2026-10-19T20:11:23.426Z,@eta-mu/session-mycology,0.1.0,risuki,GPL-3.0-or-later,5758988,"Session reflection, lesson, spore, incubation, and promotion records"
+2026-10-19T20:11:29.12Z,@smallpics/smallpics-js,0.1.0,smallpics-dev,MIT,37701,Small Pics URL generation for JavaScript
+2026-10-19T20:11:29.244Z,@eta-mu/receipt-river,0.1.0,risuki,GPL-3.0-or-later,4682736,"Receipt River records, validation, local archaeology, and projections"
+2026-10-19T20:11:31.453Z,@crscreditapi/crs-calhacks-mcp-server,1.0.0,crs-mcp,MIT,1050995,"CalHacks hackathon MCP server for the CRS Credit API sandbox - integration guide, product docs, schemas, test data, OpenAPI spec, and request debugging. Hackathon use only."
+2026-10-19T20:11:47.572Z,wishop,1.2.0,wishop,MIT,135522,The official Node.js client for the Wishop API
+2026-10-19T20:12:28.07Z,n8n-nodes-autoagencia,0.1.0,shietnar,MIT,86108,"AutoAgencia CRM, AIMailCheck and LeadAdsPilot nodes for n8n"
+2026-10-19T20:12:56.121Z,n8n-nodes-allratestoday,0.1.0,chathurangac8,MIT,41538,"n8n community node for AllRatesToday: official central-bank exchange rates (keyless, 120+ sources) and real-time market rates with conversion"
+2026-10-19T20:13:20.709Z,@taciturnaxolotl/pirateship-api,0.3.1,taciturnaxolotl,MIT,39223,An unoffical typed wrapper for the PirateShip API
+2026-10-19T20:13:29.681Z,clawsh-win32-x64,0.0.1-init,varogonz95,SEE LICENSE IN LICENSE,7558234,"The clawsh binary for win32 x64. Install ""clawsh"" instead; it picks this up."
+2026-10-19T20:13:51.882Z,web-scraper-kit,0.1.0,mugnaini-dev,MIT,37345,A lightweight and configurable web scraping library for Node.js
+2026-10-19T20:14:12.437Z,memro-cli,0.1.0,memro,SEE LICENSE IN LICENSE,25853,"Connect Claude Code, Codex, Cursor, Antigravity, OpenCode and other AI tools to Memro memory with one command."
+2026-10-19T20:14:19.818Z,ts-css-modules-lsp,0.1.0,krixpello,MIT,116840,A vtsls proxy with CSS Modules source definitions over LSP
+2026-10-19T20:14:43.581Z,envlockup,0.2.0,dbilli,MIT,119524,Encrypted .env files you can commit. Decrypt with the SSH key you already have.
+2026-10-19T20:15:29.756Z,sena-date-oliver-77,1.0.0,olivern007,MIT,1107,Una utilidad para manejar fechas en formato timestamp y long time
+2026-10-19T20:15:38.092Z,mi_npmsmn,1.0.0,simon_80tb,ISC,1005,una utilidad para manejar fechas en formato timestamp y long time
+2026-10-19T20:17:27.264Z,clawsh-darwin-arm64,0.0.0-stage,varogonz95,,341,Temporary package placeholder for staged publishing
+2026-10-19T20:17:40.519Z,clawsh-linux-arm64,0.0.1-init,varogonz95,SEE LICENSE IN LICENSE,7025916,"The clawsh binary for linux arm64. Install ""clawsh"" instead; it picks this up."
+2026-10-19T20:18:12.596Z,@seoasist/mcp,0.0.0-stage,evasoftbilisim,,335,Temporary package placeholder for staged publishing
