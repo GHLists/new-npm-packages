@@ -1,12 +1,28 @@
 {
   "list": {
-    "count": 126,
-    "from": "2026-10-20T00:21:31.465441Z",
-    "path": "data/new-packages-2026-10-20T01-20-03-204398Z.csv",
-    "to": "2026-10-20T01:20:03.204398Z"
+    "count": 141,
+    "from": "2026-10-20T01:20:03.204398Z",
+    "path": "data/new-packages-2026-10-20T02-19-58-104634Z.csv",
+    "to": "2026-10-20T02:19:58.104634Z"
   },
-  "pending": [],
-  "seq": 138142173,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/redis-server",
+      "since": "2026-10-20T01:20:03.204398Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@sifende/mcp",
+      "since": "2026-10-20T01:20:03.204398Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@u-chat/vue",
+      "since": "2026-10-20T01:20:03.204398Z"
+    }
+  ],
+  "seq": 138149864,
   "source_truncated": false,
-  "window": "2026-10-20T01:20:03.204398Z"
+  "window": "2026-10-20T02:19:58.104634Z"
 }
