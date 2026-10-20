@@ -1,0 +1,317 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-20T06:14:28.43Z,@knyazevai/dsh-package-manifest,0.2.1,knyazevai,MIT,16833,Shared type declarations for package.json.dsh configuration fields
+2026-10-20T06:14:41.5Z,@knyazevai/dsh-hmr,0.2.1,knyazevai,MIT,111995,Coordinated module and profile configuration hot reload
+2026-10-20T06:14:45.857Z,@knyazevai/dsh-config-editor,0.2.1,knyazevai,MIT,20265,Persist plugin configuration through profile patches and Loader reconciliation
+2026-10-20T06:14:54.708Z,@knyazevai/dsh-agent-preset-registry,0.2.1,knyazevai,MIT,197414,Declarative Agent preset registry and profile-backed editing
+2026-10-20T06:14:59.632Z,@knyazevai/dsh-agent-preset,0.2.1,knyazevai,MIT,95802,Declare an Agent capability composition in Cordis YAML
+2026-10-20T06:15:16.429Z,@knyazevai/dsh-deque,0.2.1,knyazevai,MIT,14211,Zero-dependency circular deque with amortized constant-time end operations and bounded vacant storage
+2026-10-20T06:15:26.553Z,@knyazevai/dsh-api-remote-access,0.2.1,knyazevai,MIT,146637,Method-level Remote access control for non-owner Peers and the per-Peer access snapshot
+2026-10-20T06:15:31.608Z,@knyazevai/dsh-lazy-require,0.2.1,knyazevai,MIT,10123,"Caller-relative, success-cached lazy loading for CommonJS-compatible Host dependencies"
+2026-10-20T06:16:38.95Z,@knyazevai/dsh-deepseek-account,0.2.1,knyazevai,MIT,37976,Read account state and resolve official API credentials
+2026-10-20T06:16:47.7Z,@knyazevai/dsh-deepseek-account-platform,0.2.1,knyazevai,MIT,148945,Authorize DeepSeek accounts through browser PKCE
+2026-10-20T06:16:52.895Z,@knyazevai/dsh-deepseek-llm-api-extensions,0.2.1,knyazevai,MIT,24499,Additive request-field registry for the official DeepSeek LLM API adapter
+2026-10-20T06:17:11.314Z,@knyazevai/dsh-chunked-list,0.2.1,knyazevai,MIT,13666,Persistent append-only chunked lists with bounded copying and JSON checkpoint validation
+2026-10-20T06:17:20.247Z,@knyazevai/dsh-session-format,0.2.1,knyazevai,MIT,51968,Streaming adjacent Session format migration machinery
+2026-10-20T06:17:25.02Z,@knyazevai/dsh-session-format-v0-to-v1,0.2.1,knyazevai,MIT,133612,Frozen released-v0 Session codec and identity migration to v1
+2026-10-20T06:17:26.282Z,@xt-ws/xt-ai-workflow,0.1.0,gorphensu,UNLICENSED,92751,AI 研发工作流工具箱：init 负责全局 openspec 安装、仓库级 openspec 初始化与 Matt Pocock 技能的仓库级安装
+2026-10-20T06:17:29.451Z,@knyazevai/dsh-session-format-v1-to-v2,0.2.1,knyazevai,MIT,57617,Frozen released-v1 Session codec and assistant-stream migration to v2
+2026-10-20T06:17:34.266Z,@knyazevai/dsh-session-format-v2-to-v3,0.2.1,knyazevai,MIT,88120,"Streaming system-prompt, canonical-envelope and PTC migration into V3"
+2026-10-20T06:17:38.927Z,@knyazevai/dsh-session-format-v3-to-v4,0.2.1,knyazevai,MIT,165627,Streaming tool-role migration and delivery validation from Session V3 to V4
+2026-10-20T06:17:43.295Z,@knyazevai/dsh-session-format-catalog,0.2.1,knyazevai,MIT,32595,Build-static first-party Session format codec and migration catalog
+2026-10-20T06:17:46.741Z,@biatec/chat-widget,0.1.0,scholtz,MIT,1461021,"Embeddable Biatec AI chat widget: a Vue 3 plugin, plus a standalone build with Vue bundled for React, Docusaurus and plain HTML hosts."
+2026-10-20T06:18:04.275Z,@knyazevai/dsh-util-time,0.2.1,knyazevai,MIT,10592,"Zero-dependency time vocabulary shared by wire boundaries: canonicalClientTimeZone (IANA zone validation and canonicalization only, no formatting)"
+2026-10-20T06:18:30.421Z,@knyazevai/dsh-llm-deepseek-account,0.2.1,knyazevai,MIT,59698,DeepSeek account provider authentication and discovery
+2026-10-20T06:18:34.641Z,@knyazevai/dsh-llm-deepseek-api-key,0.2.1,knyazevai,MIT,19681,DeepSeek api-key provider authentication and discovery
+2026-10-20T06:18:43.972Z,@knyazevai/dsh-otel,0.2.1,knyazevai,MIT,39033,Cordis service for independent ordinary-event and byte-bounded Session-log OTLP channels
+2026-10-20T06:19:02.417Z,@knyazevai/dsh-plugin-manager,0.2.1,knyazevai,MIT,522210,"Current-profile plugin and bundle management shared by dsh CLI, Web and agent tools"
+2026-10-20T06:19:07.87Z,@galerne/schema,0.1.1,galerne-owner,MIT,80785,"Content schema format, validation and JSON Schema for Galerne."
+2026-10-20T06:19:08.369Z,@knyazevai/dsh-plugin-package-inventory-deepseek,0.2.1,knyazevai,MIT,31435,Active Loader-backed plugin package inventory for official DeepSeek LLM API requests
+2026-10-20T06:19:13.366Z,@galerne/richtext,0.1.1,galerne-owner,MIT,21537,Rich text for Galerne: Markdown and HTML to and from ProseMirror JSON.
+2026-10-20T06:19:13.391Z,@knyazevai/dsh-ptc-runtime-node,0.2.1,knyazevai,MIT,226330,Node PTC execution with per-call sandboxed processes or in-memory REPL state
+2026-10-20T06:19:17.989Z,@galerne/client,0.1.1,galerne-owner,MIT,59068,Typed client for the Galerne API. Zero runtime dependencies.
+2026-10-20T06:19:21.781Z,@galerne/overlay,0.1.1,galerne-owner,MIT,7145,Visual editing on previews: outlines editable elements and opens the field in the studio.
+2026-10-20T06:19:26.812Z,@galerne/next,0.1.1,galerne-owner,MIT,150408,"Next.js kit for Galerne: cached queries with automatic tags, previews, revalidation, rich text, images, blocks and i18n routing."
+2026-10-20T06:19:31.272Z,@knyazevai/dsh-win32-process,0.2.1,knyazevai,MIT,67915,"Shared low-level Win32 process, stdio, and Job Object primitives"
+2026-10-20T06:19:31.929Z,@galerne/cli,0.1.1,galerne-owner,MIT,87297,"The galerne command line: schema, docs, branches, checks, export and import, MCP over stdio."
+2026-10-20T06:19:33.373Z,n8n-nodes-gareen,1.0.1,waseemakramdev,MIT,21440,"Gareen Engine WhatsApp nodes for n8n — send messages, media, polls, and receive webhooks via Green-API compatible WhatsApp gateway"
+2026-10-20T06:19:36.642Z,@galerne/migrate,0.1.1,galerne-owner,MIT,417749,"Import into Galerne from other CMSs and export out of it: Sanity, Contentful, Storyblok, WordPress, Payload, Markdown, and the plain Galerne format."
+2026-10-20T06:19:53.379Z,@knyazevai/dsh-session-log-deepseek,0.2.1,knyazevai,MIT,40710,Incremental lossless session-log request extension for the official DeepSeek LLM API
+2026-10-20T06:20:01.004Z,@aletheia-works/paludarium-wasm,0.1.0,jambalaya56562,Apache-2.0,7137004,"A Rust re-implementation of [jart/blink](https://github.com/jart/blink), the x86-64 Linux user-mode emulator written in C (ISC licensed). It is meant to eventually replace the emulator core of the si…"
+2026-10-20T06:20:24.466Z,nth-agent,0.0.1,yunskeskn,UNLICENSED,772,Not the NthCase agent. Run it with: npx nthcase-agent
+2026-10-20T06:20:27.238Z,tdx-taiwan,0.1.1,programchy,MIT,229623,"TypeScript SDK for Taiwan's TDX (Transport Data eXchange) API — YouBike, bus routes and real-time ETA"
+2026-10-20T06:21:25.165Z,@knyazevai/dsh-util-code-language,0.2.1,knyazevai,MIT,19052,Single file-extension to syntax-highlighting language table shared by Client code surfaces and the Host read card
+2026-10-20T06:21:48.078Z,@knyazevai/dsh-tool-present,0.2.1,knyazevai,MIT,25478,Explicit workspace file delivery declarations for the DeepSeek Harness
+2026-10-20T06:21:53.189Z,mini-ptc,0.1.0,inschrift-spruch-raum,BSD-3-Clause,42356,Minimal programmatic tool-calling agent preset for DeepSeek Harness with runtime help() discovery.
+2026-10-20T06:21:53.739Z,@pogly/spacetimedb-idc,0.1.1,lethalchip,MIT,150841,"Inter-database communication for SpacetimeDB, as a submodule: transactional outbox, push delivery, idempotent inbox and safe handoffs. Wire-compatible with idc.rs / Idc.cs."
+2026-10-20T06:22:27.712Z,@knyazevai/dsh-tool-working-directory,0.2.1,knyazevai,MIT,11968,Read and change the active Session working directory
+2026-10-20T06:22:40.562Z,@knyazevai/dsh-web-deepseek-api,0.2.1,knyazevai,MIT,47642,DeepSeek Search and Fetch API providers for the DeepSeek Harness web capability seam (ctx.web)
+2026-10-20T06:22:54.24Z,@knyazevai/dsh-workflow-ptc,0.2.1,knyazevai,MIT,154630,Workflow orchestration in the shared sandboxed Node PTC runtime
+2026-10-20T06:23:16.523Z,@knyazevai/dsh-experimental-agent-team,0.2.1,knyazevai,MIT,213583,"Implicit-root Agent Teams roster, direct peer messaging, and shared task DAG"
+2026-10-20T06:23:21.276Z,@knyazevai/dsh-experimental-client-ui-agent-team,0.2.1,knyazevai,MIT,48589,"Web Agent Teams roster, task board, and teammate navigation"
+2026-10-20T06:23:26.049Z,@knyazevai/dsh-experimental-tool-agent-team,0.2.1,knyazevai,MIT,45509,Scoped model-facing Agent Teams tools over ctx.agentTeams
+2026-10-20T06:23:30.429Z,@knyazevai/dsh-experimental-agent-team-profile,0.2.1,knyazevai,MIT,19549,"Agent Teams collaboration, tools, and Web UI in one experimental bundle"
+2026-10-20T06:23:34.998Z,@knyazevai/dsh-experimental-auto-review,0.2.1,knyazevai,MIT,51037,Per-tool LLM authorization review for the DeepSeek Harness Auto permission preset
+2026-10-20T06:23:39.659Z,antigravity-sidecar-kit,1.0.0,arthur.cavallari,MIT,74850,"Zero-dependency SDK and CLI scaffolder for Google Antigravity Auxiliary Pane sidecars (Connect RPC client, host theme & Tailwind proxy, BOM-safe config store, workspace URI matcher, and npx-safe inst…"
+2026-10-20T06:23:43.554Z,@knyazevai/dsh-experimental-badge-skill-bundle,0.2.1,knyazevai,MIT,9556,"Let agents add a “powered by dsh” badge to documents, pull requests, and other outputs."
+2026-10-20T06:23:47.798Z,@knyazevai/dsh-experimental-translator,0.2.1,knyazevai,MIT,123577,Machine translation with reusable Session results
+2026-10-20T06:23:52.374Z,@knyazevai/dsh-experimental-client-ui-cot-translation,0.2.1,knyazevai,MIT,106713,"Optional machine translation of expanded reasoning, preserving original Session text"
+2026-10-20T06:23:56.979Z,@knyazevai/dsh-experimental-cot-translation-bundle,0.2.1,knyazevai,MIT,15051,Experimental machine translation of expanded reasoning
+2026-10-20T06:24:03.862Z,@heliuslabs/zolana-web-prover,0.2.0-alpha,serge.helius,Apache-2.0,20148706,Local Zolana Groth16 proving for browsers.
+2026-10-20T06:24:04.429Z,@knyazevai/dsh-experimental-inspector,0.2.1,knyazevai,MIT,23711434,Experimental cross-realm CDP hub for Host debugging and Client Runtime inspection
+2026-10-20T06:24:08.83Z,@knyazevai/dsh-experimental-session-inspector,0.2.1,knyazevai,MIT,243191,Experimental virtualized Session log and live Chat group/node inspectors
+2026-10-20T06:24:13.406Z,@knyazevai/dsh-experimental-inspector-profile,0.2.1,knyazevai,MIT,10842,Optional Web bundle for raw Session logs and Chat node inspection
+2026-10-20T06:24:17.962Z,@knyazevai/dsh-client-ui-plugin-market,0.2.1,knyazevai,MIT,104125,Discover tab of the dsh web Plugins page: browse configured plugin market indexes and install their bundles
+2026-10-20T06:24:23.009Z,@knyazevai/dsh-plugin-market-index,0.2.1,knyazevai,MIT,30366,"Plugin market index format 1: JSON validation, relative icon resolution, and pinned install arguments"
+2026-10-20T06:24:27.355Z,@knyazevai/dsh-plugin-market,0.2.1,knyazevai,MIT,233750,Configured plugin market indexes for the Web Discover page and the plugin_market agent tool
+2026-10-20T06:24:31.775Z,@knyazevai/dsh-experimental-plugin-market-bundle,0.2.1,knyazevai,MIT,10852,Experimental custom plugin markets: a Discover tab that browses and installs bundles from plugin market indexes
+2026-10-20T06:24:40.901Z,@knyazevai/dsh-experimental-ralph-bundle,0.2.1,knyazevai,MIT,10457,Run explicitly requested repeated work with fresh agents.
+2026-10-20T06:24:47.438Z,tequio,0.1.1,tequio,UNLICENSED,15880,Instala y abre Tequio desde la terminal (npx tequio): descarga el instalador oficial y verifica su firma antes de ejecutarlo.
+2026-10-20T06:24:49.46Z,@knyazevai/dsh-experimental-session-search,0.2.1,knyazevai,MIT,10718,Give Agents tools to search and read earlier sessions from the current workspace.
+2026-10-20T06:24:53.02Z,dsh-lantai,0.1.2,erdoschn,MIT,61835,"兰台 (lantai) — distill a session's hard-won experience into a durable DeepSeek Harness skill, through a gate that rejects vague advice, duplicates and permission-escalating instructions."
+2026-10-20T06:24:58.103Z,@knyazevai/dsh-experimental-session-titles-bundle,0.2.1,knyazevai,MIT,10444,Refresh session titles as new human prompts arrive.
+2026-10-20T06:25:16.681Z,@knyazevai/dsh-experimental-terminal-bundle,0.2.1,knyazevai,MIT,10002,Keep shell processes alive across tool calls.
+2026-10-20T06:25:21.411Z,@knyazevai/dsh-experimental-worktree,0.2.1,knyazevai,MIT,37055,Creates a named Git worktree and changes the calling Session working directory
+2026-10-20T06:25:25.719Z,@knyazevai/dsh-experimental-tool-worktree,0.2.1,knyazevai,MIT,17253,Model tool that creates and enters a new Git worktree
+2026-10-20T06:25:30.391Z,@knyazevai/dsh-experimental-speech-to-text,0.2.1,knyazevai,MIT,39163,Experimental speech recognition with independently selectable providers
+2026-10-20T06:25:34.692Z,@knyazevai/dsh-experimental-api-speech-to-text,0.2.1,knyazevai,MIT,103963,Authenticated experimental speech transcription for browser clients
+2026-10-20T06:25:39.08Z,@knyazevai/dsh-experimental-client-ui-voice-input,0.2.1,knyazevai,MIT,156682,Record speech and insert editable text into the conversation draft
+2026-10-20T06:25:40.954Z,metis-reverse,0.0.1,wholiver_hu,MIT,11505,One-click multi-agent setup + MCP launcher for Metis Reverse
+2026-10-20T06:25:43.441Z,@knyazevai/dsh-experimental-speech-to-text-sensevoice,0.2.1,knyazevai,MIT,74102,Local SenseVoice ONNX transcription with a managed sherpa-onnx process
+2026-10-20T06:25:48.095Z,@knyazevai/dsh-experimental-voice-input-bundle,0.2.1,knyazevai,MIT,11831,Experimental voice input with local SenseVoice; downloads its runtime on first use
+2026-10-20T06:25:51.896Z,@whobot/cli-test,0.0.1,haozy,Apache-2.0,63567,Whobot CLI: npm-managed JS launcher that runs the in-package Go binary.
+2026-10-20T06:26:18.156Z,@freereportjs/server,0.13.0,secondkorea,SEE LICENSE IN LICENSE,81918,"Scheduled FreeReport reports on a server: render PDF, Excel and Word without a browser on a schedule (daily, weekly, monthly, cron) and e-mail, file, post or print them, with per-recipient parameters…"
+2026-10-20T06:26:24.448Z,@knyazevai/dsh-api-account-controller,0.2.1,knyazevai,MIT,133002,Expose safe account operations over authenticated Remote
+2026-10-20T06:26:29.968Z,@knyazevai/dsh-api-job-controller,0.2.1,knyazevai,MIT,154416,Job Remote observation stream and the reference-counted client job-output service
+2026-10-20T06:26:42.601Z,@kovari/kciep,1.0.0,looncodehunter,MIT,255710,"Deterministic KCBF packaging, Ed25519 signatures, SHA-256 verification and CLI tools for Kovari Code IDE."
+2026-10-20T06:26:43.204Z,@knyazevai/dsh-client-file-upload,0.2.1,knyazevai,MIT,141181,"Agent-scoped browser file upload, streaming intake, and staged receipt service"
+2026-10-20T06:26:58.906Z,@knyazevai/dsh-util-workspace-path,0.2.1,knyazevai,MIT,25732,Browser-safe Workspace path and display helpers
+2026-10-20T06:27:04.107Z,@gitmyabi/cwaaveusdc,1.0.0,gitmyabi-bot,MIT,371748,"Auto-generated TypeScript type bindings for cwAaveUSDC (build etherscan-cwaaveusdc-2db0b0fa-1792477590949, commit ebbdf2c, branch etherscan)"
+2026-10-20T06:27:05.511Z,@knyazevai/dsh-api-session-controller,0.2.1,knyazevai,MIT,1422415,"Session Remote commands, cold reads, and live control transport"
+2026-10-20T06:27:16.735Z,@knyazevai/dsh-api-settings-controller,0.2.1,knyazevai,MIT,160097,Remote owner for the configuration surfaces over the settings-domain seams
+2026-10-20T06:27:18.267Z,@ghostedd/screen-cli,0.5.0,ghostedd,UNLICENSED,39405309,"Develop dashboard drafts with local Coding Agents, authorized data and platform checks."
+2026-10-20T06:27:19.28Z,@charonix/eslint-config,1.2.0,charonix,MIT,826364,Charonix's ESLint config
+2026-10-20T06:27:20.867Z,@heartlandone/vega-angular-sandbox-pr-3348-18c7f568be0f1dd5b37427fd032a1d3d3e8915d5,2.107.0,aprilzhu,UNLICENSED,2040527,Angular specific wrapper for @globalpayments/vega
+2026-10-20T06:27:23.961Z,@knyazevai/dsh-api-terminal-controller,0.2.1,knyazevai,MIT,362856,"Session-owned interactive terminals with shell discovery, screen recovery and typed Remote control"
+2026-10-20T06:27:24.531Z,metis-reverse-cli,0.0.2,wholiver_hu,MIT,11545,One-click multi-agent setup + MCP launcher for Metis Reverse
+2026-10-20T06:27:27.61Z,@heartlandone/vega-vue-sandbox-pr-3348-18c7f568be0f1dd5b37427fd032a1d3d3e8915d5,2.107.0,aprilzhu,UNLICENSED,147755,Vue specific wrapper for @globalpayments/vega
+2026-10-20T06:27:31.584Z,@ticket-assistant/cli,1.0.0,rudra2637,ISC,17862,Scaffold and initialize AI-powered support ticket assistant
+2026-10-20T06:27:33.793Z,@heartlandone/vega-sandbox-pr-3348-18c7f568be0f1dd5b37427fd032a1d3d3e8915d5,2.107.0,aprilzhu,UNLICENSED,39652899,Vega - the design system of Global Payment Systems
+2026-10-20T06:27:38.536Z,@platform-services/hrm-mfe-core,99.9.1,laealls,ISC,499,HRM Micro Frontend Core
+2026-10-20T06:27:38.725Z,@knyazevai/dsh-api-workspace-controller,0.2.1,knyazevai,MIT,312764,Workspace Remote commands and reconnect-safe state transport
+2026-10-20T06:27:39.374Z,@heartlandone/vega-react-sandbox-pr-3348-18c7f568be0f1dd5b37427fd032a1d3d3e8915d5,2.107.0,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-10-20T06:27:43.076Z,@knyazevai/dsh-api-workspace-files,0.2.1,knyazevai,MIT,234799,"Workspace file service and Client resource provider: bounded reads, directory listing, and live metadata over the workspaceFiles Remote namespace"
+2026-10-20T06:27:49.155Z,@scdo/plugin-scdo,0.1.0,scdolab,MIT,163393,"SCDO x402 for ElizaOS: a per-agent wallet (USDC on Base via x402), signed heartbeats and booked income on the SCDO Agent Ledger, a bookkeeping ledger service."
+2026-10-20T06:28:01.079Z,@knyazevai/dsh-client-product-analytics,0.2.1,knyazevai,MIT,88875,Desktop product event collection and authenticated Host reporting
+2026-10-20T06:28:05.65Z,@knyazevai/dsh-client-resources,0.2.1,knyazevai,MIT,30374,"Unified client resource model: protocol-registered providers turn URL addresses into live values, consumed through the useResource global standard hook"
+2026-10-20T06:28:10.235Z,@knyazevai/dsh-client-shortcuts,0.2.1,knyazevai,MIT,175523,Application keyboard command registry and physical-key routing
+2026-10-20T06:28:16.457Z,@knyazevai/dsh-client-ui-approval,0.2.1,knyazevai,MIT,29519,Approval composer takeover over the scoped Remote Event waterfall
+2026-10-20T06:28:26.934Z,@wisemen/nestjs-one-signal,0.0.1,kobe-kwanten-wisemen,GPL,40283,
+2026-10-20T06:28:30.76Z,@knyazevai/dsh-client-ui-chat,0.2.1,knyazevai,MIT,857139,"Chat Conversation target, node definitions, renderers, and details surface"
+2026-10-20T06:28:44.063Z,@knyazevai/dsh-client-ui-deepseek-model-label-1017,0.2.1,knyazevai,MIT,16213,Temporary 1017 release badge for official DeepSeek Flash model labels
+2026-10-20T06:29:31.453Z,@little-nebulae/zod-schemas,0.1.0,ryanluong,MIT,230338,
+2026-10-20T06:29:36.006Z,@knyazevai/dsh-client-ui-open-in-app,0.2.1,knyazevai,MIT,78115,"Web ""Open In..."" controls: the Session-header split button opening the workspace directory in an installed application, and the document preview's default-application controls for one file"
+2026-10-20T06:29:46.199Z,numable-codex-usage,0.1.0,isuperao,MIT,76304,在本机统计 Codex 用量，并按需同步到 Numable
+2026-10-20T06:29:48.213Z,@bugsession/capture-native,0.1.0-beta.1,anisdevx,MIT,15264,iOS ReplayKit capture adapter for BugSession (native build required)
+2026-10-20T06:29:49.497Z,@knyazevai/dsh-client-ui-plugin-manager,0.2.1,knyazevai,MIT,766508,"Plugin management for the dsh web client: the sidebar Plugins panel installs, enables, disables, retries, and composes installed plugin packages"
+2026-10-20T06:30:00.193Z,@si-arena/protocol,0.1.0,keqing77,MIT,62370,
+2026-10-20T06:30:01.382Z,@bookcicle/eventing-sdk,1.0.1,abarrafo,MIT,22097,"Privacy-safe, zero-dependency JavaScript SDK for Eventing by Bookcicle"
+2026-10-20T06:30:04.893Z,@knyazevai/dsh-client-ui-schedule,0.2.1,knyazevai,MIT,487391,Host task management page and Session reminder catalog
+2026-10-20T06:30:09.841Z,@knyazevai/dsh-client-ui-secret-mask,0.2.1,knyazevai,MIT,61168,Web display masking for recognized credentials in sent user text
+2026-10-20T06:30:14.635Z,@knyazevai/dsh-client-ui-session,0.2.1,knyazevai,MIT,60544,Session Controller adapter for React and session-scoped slots
+2026-10-20T06:30:15.231Z,@compassfoodtech/mcp,0.4.1,y.kavalov,MIT,336318,MCP server for Compass DaaS - explainable dietary intelligence for AI agents
+2026-10-20T06:30:24.772Z,@knyazevai/dsh-client-ui-settings-account,0.2.1,knyazevai,MIT,3527747,Manage DeepSeek login and open Platform billing pages
+2026-10-20T06:30:26.802Z,@si-arena/sandbox,0.1.0,keqing77,MIT,1057142,
+2026-10-20T06:30:29.142Z,@knyazevai/dsh-client-ui-settings-agent-loop,0.2.1,knyazevai,MIT,23207,Settings page of the agent loop on the dsh web client's Plugins page: the parallel tool-call cap of the agent-loop namespace
+2026-10-20T06:30:52.797Z,@knyazevai/dsh-client-ui-settings-session-log,0.2.1,knyazevai,MIT,19870,General settings control for Session-log upload with DeepSeek API requests
+2026-10-20T06:30:57.729Z,@knyazevai/dsh-client-ui-settings-shell,0.2.1,knyazevai,MIT,25245,Settings page of the shell executor on the dsh web client's Plugins page: the command timeout and the per-stream output cap of the shell namespace
+2026-10-20T06:31:02.353Z,@knyazevai/dsh-client-ui-settings-subagent,0.2.1,knyazevai,MIT,68589,"Settings page of Subagent delegation on the dsh web client's Plugins page: recursion depth, parallel capacity, and the models agents may choose for subagents"
+2026-10-20T06:31:07.083Z,@knyazevai/dsh-client-ui-settings-web-search,0.2.1,knyazevai,MIT,50828,"Settings page of the DeepSeek web-search provider on the dsh web client's Plugins page: its API key, endpoint, and per-request search budget"
+2026-10-20T06:31:12.392Z,@knyazevai/dsh-client-ui-shortcuts,0.2.1,knyazevai,MIT,84441,"Keyboard shortcut reference, recording, and local preference editing"
+2026-10-20T06:31:16.897Z,@valancex/mesh-conformance,0.14.0,valancex,MIT,200026,"MESH's conformance vectors, as data: real programs with their expected render trees, event resolution, and node-identity cases. A renderer checks itself against them; it never copies them."
+2026-10-20T06:31:22.146Z,@knyazevai/dsh-client-ui-sidebar-browser,0.2.1,knyazevai,MIT,118776,Sandboxed Web browser tabs for the right Sidebar
+2026-10-20T06:31:29.235Z,@knyazevai/dsh-client-ui-sidebar-documentpreview,0.2.1,knyazevai,MIT,14823933,"Extensible Sidebar previews for Office documents, spreadsheets, Markdown, code, images, PDF, HTML, and plain text"
+2026-10-20T06:31:34.692Z,@knyazevai/dsh-client-ui-sidebar-files,0.2.1,knyazevai,MIT,76248,"Workspace file tree tab type for the right Sidebar: lazy directory listing over the workspaceFiles Remote namespace, opening files into the Sidebar"
+2026-10-20T06:31:40.575Z,@knyazevai/dsh-client-ui-sidebar-right,0.2.1,knyazevai,MIT,336320,"Right Sidebar: the docking surface's session-bound state, its panel and header expand control, and the navigation service over it"
+2026-10-20T06:31:45.518Z,@knyazevai/dsh-client-ui-sidebar-terminal,0.2.1,knyazevai,MIT,737700,Interactive shell tabs for the right Sidebar
+2026-10-20T06:31:51.688Z,@heikeson/form-embed,0.1.0,heikeson,MIT,79122,guistarid 表单嵌入组件（React）
+2026-10-20T06:32:03.493Z,sourcepeek,1.0.0,sourcepeek,MIT,691830,"Click any UI element in dev mode to see its source file, line, component chain, props and git history. Alt+click opens your editor. Describe a change and the AI previews it or writes it into your cod…"
+2026-10-20T06:32:35.176Z,@knyazevai/dsh-harness-dev-context,0.2.1,knyazevai,MIT,31016,Model context naming the DeepSeek Harness checkout and Web GUI URL without letting either change the system prompt
+2026-10-20T06:32:57.903Z,@knyazevai/dsh-host-open-in-app,0.2.1,knyazevai,MIT,158014,"Host half of open-in-app: resolved application catalog, icons, and the launch endpoint as three webServer routes"
+2026-10-20T06:33:02.808Z,@knyazevai/dsh-host-product-telemetry-otel,0.2.1,knyazevai,MIT,21938,Explicit product usage events exported through OpenTelemetry HTTP logs
+2026-10-20T06:33:07.26Z,@knyazevai/dsh-office-to-pdf,0.2.1,knyazevai,MIT,119010,Shared Office-to-PDF conversion with bounded queues and caching
+2026-10-20T06:33:17.234Z,@aginies/ui,0.1.0,oguzhankarahan,MIT,3150592,Aginies Design System components for React: the agn- component layer over @aginies/tokens
+2026-10-20T06:33:18.699Z,@bugsession/react-native,0.1.0-beta.1,anisdevx,UNLICENSED,39887,Opt-in React Native runtime evidence SDK
+2026-10-20T06:33:34.303Z,@knyazevai/dsh-session-turn-outline,0.2.1,knyazevai,MIT,38334,Whole-log turn outline projection (turnOutline) for the DeepSeek Harness
+2026-10-20T06:33:55.514Z,@rabbx/hmr,1.1.0,rabbxdev,MIT,643887,Universal zero-dep HMR engine powered by @rabbx/ws
+2026-10-20T06:34:02.362Z,@knyazevai/dsh-tool-schedule,0.2.1,knyazevai,MIT,41597,"Model-facing reminder management tools (schedule_create, schedule_list, schedule_update, schedule_delete) over the Host ctx.schedule service"
+2026-10-20T06:34:12.431Z,@knyazevai/dsh-workspace-changes,0.2.1,knyazevai,MIT,136809,"Per-turn workspace file changes recorded from git working-tree snapshots and whole-file captures, with per-file comparisons, for the DeepSeek Harness"
+2026-10-20T06:34:29.413Z,llmflux,1.2.0,laalaadev,MIT,650573,Flux AI coding CLI with adaptive collaboration and a live terminal workspace
+2026-10-20T06:34:32.883Z,vite-plugin-inject-meta,1.0.0,lonely-travel,Apache-2.0,19192,"A Vite plugin that injects meta tags into HTML, with optional sub-plugins"
+2026-10-20T06:34:39.906Z,@knyazevai/dsh-skill-office,0.2.1,knyazevai,MIT,45893,"Bundled Word, PowerPoint, and Excel workflows and LibreOffice Kit operations"
+2026-10-20T06:34:44.931Z,@knyazevai/dsh-tool-workspace-dependencies,0.2.1,knyazevai,MIT,37346,"The load_workspace_dependencies tool: absolute paths into a bundled Python, Node.js, and pnpm payload"
+2026-10-20T06:34:49.673Z,@knyazevai/dsh-sdk-app,0.2.1,knyazevai,MIT,18550,The dsh SDK profile bundle: stdio JSON-RPC serving and process lifecycle over dsh-base
+2026-10-20T06:34:55.966Z,@knyazevai/dsh-sdk-minimal,0.2.1,knyazevai,MIT,24744,"The standalone minimal SDK profile bundle: JSON-RPC, one DeepSeek adapter, persistent shell, and JSONL sessions"
+2026-10-20T06:35:17.999Z,@knyazevai/dsh-wake-scheduler,0.2.1,knyazevai,MIT,65644,Opt-in profile-configured interval that initiates a turn in matching live sessions
+2026-10-20T06:35:31.857Z,@knyazevai/dsh-browser-use,0.2.1,knyazevai,MIT,14505,Exclusive named browser-use provider registration
+2026-10-20T06:35:36.321Z,@knyazevai/dsh-client-store,0.2.1,knyazevai,MIT,22719,React-free observable and snapshot-store contracts with the shared Zustand/Immer engine
+2026-10-20T06:35:49.941Z,@knyazevai/dsh-remote-mock,0.2.1,knyazevai,MIT,74140,"Endpoint-named mock for Typert Remote traffic: unary answers and stream scripts per <namespace>/<method>, live stream control, a log, and the Connection carrier face whole-client specs install"
+2026-10-20T06:35:59.357Z,@knyazevai/dsh-client-ui-dockkit,0.2.1,knyazevai,MIT,257403,"Docking layout kit: split-tree engine with invertible operations, and the React components that render and drive it (zero cordis)"
+2026-10-20T06:36:09.807Z,@knyazevai/dsh-computer-use,0.2.1,knyazevai,MIT,14266,Exclusive named computer-use provider registration
+2026-10-20T06:36:14.542Z,@knyazevai/dsh-cua,0.2.1,knyazevai,MIT,164940,"Shared Computer Use application objects, authorization, and logged tool execution"
+2026-10-20T06:36:18.996Z,@knyazevai/dsh-experimental-browser-use-runtime,0.2.1,knyazevai,MIT,47065,Session-owned browser resource lifecycles and MCP integration for experimental providers
+2026-10-20T06:36:23.828Z,@knyazevai/dsh-experimental-browser-use-chrome-devtools-mcp,0.2.1,knyazevai,MIT,20777,Experimental per-Session Chromium browser tools through chrome-devtools-mcp
+2026-10-20T06:36:28.578Z,@knyazevai/dsh-experimental-browser-use-playwright-mcp,0.2.1,knyazevai,MIT,20688,Experimental per-Session Chromium browser tools through @playwright/mcp
+2026-10-20T06:36:34.822Z,@knyazevai/dsh-experimental-browser-use-stagehand-native,0.2.1,knyazevai,MIT,62653,Experimental Stagehand browser tools with separately configured native models
+2026-10-20T06:36:40.279Z,@knyazevai/dsh-experimental-claude-code-mods,0.2.1,knyazevai,MIT,430559,Experimental bridge: load Claude Code mods (hooks modules) and run their hook chains on DeepSeek Harness extension points
+2026-10-20T06:36:45.243Z,@gety-connectors/chrome,0.2.0,coldsnap666,Apache-2.0,61942,Indexes Google Chrome bookmarks and browsing history from a local Chrome profile.
+2026-10-20T06:36:45.948Z,@knyazevai/dsh-experimental-client-ui-claude-code-mods,0.2.1,knyazevai,MIT,45544,Web band above the prompt for Claude Code mods: draws each session's mod tree and sends button presses back to the bridge
+2026-10-20T06:36:48.203Z,@ractive-ch/tab-mcp,0.1.0-alpha.0,ractive.ch,MIT,874285,Relay that lets AI agents call the MCP tools of a web page open in a browser tab
+2026-10-20T06:36:49.364Z,@gety-connectors/claude-code,0.2.0,coldsnap666,Apache-2.0,93160,Search your local Claude Code sessions in Gety.
+2026-10-20T06:36:50.359Z,@knyazevai/dsh-experimental-computer-use-cua-driver-mcp,0.2.1,knyazevai,MIT,21928,Experimental computer use through an installed Cua Driver MCP executable
+2026-10-20T06:36:53.132Z,@gety-connectors/notion,0.2.0,coldsnap666,Apache-2.0,154736,Indexes Notion pages shared with your integration and converts them to Markdown.
+2026-10-20T06:36:53.71Z,@gety-connectors/linear,0.2.0,coldsnap666,Apache-2.0,1005271,Indexes Linear issues as searchable markdown documents.
+2026-10-20T06:36:53.778Z,@gety-connectors/lark,0.2.0,coldsnap666,Apache-2.0,246877,通过本机已登录的 lark-cli 索引飞书云文档与聊天记录。
+2026-10-20T06:36:53.996Z,@gety-connectors/codex,0.2.0,coldsnap666,Apache-2.0,108713,Indexes local Codex session JSONL logs as searchable markdown documents.
+2026-10-20T06:36:54.971Z,@knyazevai/dsh-experimental-computer-use-cua-driver-native,0.2.1,knyazevai,MIT,28791,Experimental computer-use provider embedding the Cua Driver native npm SDK
+2026-10-20T06:36:59.495Z,@knyazevai/dsh-experimental-cua-macos,0.2.1,knyazevai,MIT,472687,macOS native provider for shared Computer Use application and window objects
+2026-10-20T06:37:04.705Z,@knyazevai/dsh-experimental-ptc-runtime-python,0.2.1,knyazevai,MIT,294216,CPython subprocess implementation of the DeepSeek Harness PTC execution seam
+2026-10-20T06:37:09.818Z,@knyazevai/dsh-experimental-webworker-runtime,0.2.1,knyazevai,MIT,1191410,"Browser-only harness runtime: in-memory VFS, module transform and loader, postMessage tunnel, and the dedicated Web Worker assembly, with the Node-compatibility layer that lets the host tree run unch…"
+2026-10-20T06:37:14.377Z,@knyazevai/dsh-experimental-webworker-packer,0.2.1,knyazevai,MIT,90465,Build-time packer for the browser runtime's base VFS image and ordered data-overlay archives
+2026-10-20T06:37:23.414Z,@knyazevai/dsh-ssh,0.2.1,knyazevai,MIT,101247,Shared OpenSSH connection and versioned POSIX remote helper
+2026-10-20T06:37:23.578Z,@orvain/cli,0.1.2,oussema.design,SEE LICENSE IN LICENSE,34846,Orvain command line: sign in with a licence key and add components to your project
+2026-10-20T06:37:28.555Z,@knyazevai/dsh-fs-ssh,0.2.1,knyazevai,MIT,16582,Filesystem provider over the shared POSIX SSH helper
+2026-10-20T06:38:10.902Z,headlark,0.1.0,headlark,UNLICENSED,8494,Headlark build step: writes AI-generated SEO into your built HTML before deploy
+2026-10-20T06:38:11.597Z,@knyazevai/dsh-sandbox-ssh,0.2.1,knyazevai,MIT,11628,Remote POSIX sandbox argv provider over the shared SSH helper
+2026-10-20T06:38:14.759Z,netlify-plugin-headlark,0.1.0,headlark,UNLICENSED,1214,Netlify Build Plugin: writes AI-generated SEO into the publish dir after every build (Headlark)
+2026-10-20T06:38:21.268Z,@knyazevai/dsh-session-snapshot,0.2.1,knyazevai,MIT,254171,"Session-log snapshot core with an ACP protocol adapter, expected-output normalization, and fixture invariants"
+2026-10-20T06:38:41.099Z,@knyazevai/dsh-subprocess-ssh,0.2.1,knyazevai,MIT,28503,Subprocess and terminal provider over the shared POSIX SSH helper
+2026-10-20T06:39:05.647Z,@knyazevai/dsh-webhook,0.2.1,knyazevai,MIT,53509,Fire-and-forget webhook rule runtime that creates Workspace-backed DeepSeek Harness Sessions
+2026-10-20T06:39:10.253Z,@knyazevai/dsh-webhook-github,0.2.1,knyazevai,MIT,36477,Signed GitHub HTTP webhook adapter for the DeepSeek Harness webhook runtime
+2026-10-20T06:39:21.384Z,@kunpeng-js/bpmn-js,2026.10.1,anyilanxinadmin,MPL-2.0,2133717,"A BPMN 2.0 web modeler with a layered architecture, built on diagram-js"
+2026-10-20T06:41:34.125Z,@gety-connectors/catalog,0.1.1,coldsnap666,Apache-2.0,33275,Catalog of the official Gety connectors.
+2026-10-20T06:41:45.349Z,zoro-editor,1.0.1,selzerey,MIT,1478663,"WordPress Classic-style rich text editor for PHP, React, Next.js and TypeScript, with a built-in media manager (Zoro Finder) and PHP backend."
+2026-10-20T06:42:49.139Z,dsh-whale-balance,1.0.0,haiyanghy,MIT,68825,"DSH plugin: your DeepSeek account balance as water rising inside the whale mark, with exact amounts, spend stats and top-up on hover. 把 DeepSeek 账户余额显示成鲸鱼标志里上涨的水面。"
+2026-10-20T06:42:53.654Z,clauselens,1.0.0,kellersystems,SEE LICENSE IN LICENSE,2061144,"ClauseLens - Autonome Vertragsanalyse & AGB-Auditierung fuer KMU und B2B. Zero dependencies, 100% offline-faehig, BGB §§ 305-310 konform."
+2026-10-20T06:42:55.228Z,@gon1942/ai-dev-standard,0.1.0,gon1942,MIT,172861,공통 개발 표준 프레임워크 — Codex·OpenCode·Claude Code를 동일한 절차로 계획·구현·검증·기록하게 만드는 CLI
+2026-10-20T06:43:19.851Z,crawler-free,0.1.1,arthav.t,MIT,62405,"Command line for Crawler Free: read web pages as clean Markdown, links or facts through the free hosted service."
+2026-10-20T06:43:24.182Z,@arasbutauskas/gdw-game-wallet,0.1.1,arasbutauskas,CC-BY-4.0,54853,"Game Digital Wallet (GDW) reference framework - SD-JWT-style credentials for game engines and services. Byte-for-byte compatible with the C++, C#, GDScript, Rust, Python and Lua ports."
+2026-10-20T06:44:13.234Z,elu-guard,1.0.0,jeffersengodfrey,MIT,203082,"Adaptive concurrency limiting (Event Loop Utilization driven, AIMD-controlled) with a built-in circuit breaker for Node.js."
+2026-10-20T06:44:48.272Z,@mzzsfy/dsh-tool-gate,0.1.0,mzzsfy,MIT,104595,"全局层工具白名单延迟加载:白名单内工具全量注入,白名单外统一打 deferLoading 交给宿主 deferred tool loading 链(API 服务端按需搜索激活);声明式收敛,行退场按 undo journal 还原原状"
+2026-10-20T06:44:52.908Z,dsh-judgment,0.1.0,j62268781-alt,MIT,364548,"Structured judgment plugin for DeepSeek Harness: ask batched named questions (choice, score, yes-probability) and get calibrated probabilities from TypeSafe Jev, Luna, or any compatible endpoint. Str…"
+2026-10-20T06:45:41.587Z,@onesi/genesis,0.0.1-stage,l1fecapital,,101,Reserved for the OneOS Genesis SDK
+2026-10-20T06:45:43.832Z,@onesi/genesis-cli,0.0.1-stage,l1fecapital,,105,Reserved for the OneOS Genesis SDK
+2026-10-20T06:45:46.011Z,@onesi/genesis-mcp,0.0.1-stage,l1fecapital,,105,Reserved for the OneOS Genesis SDK
+2026-10-20T06:46:44.899Z,@si-arena/engine,0.1.0,keqing77,MIT,108117,
+2026-10-20T06:46:44.982Z,@lincyaw/kernel,1.0.0-rc.0,lincyaw,Apache-2.0,133124,"Presmium's shared kernel: the IR and plugin contracts, the service registry, anchors and checks"
+2026-10-20T06:46:47.899Z,thegate,1.4.2,fikal,Apache-2.0,4534182,TheGate — The Control Plane for AI: Intelligent LLM Routing & Operations Cockpit
+2026-10-20T06:46:52.884Z,@si-arena/player,0.1.0,keqing77,MIT,51832,
+2026-10-20T06:46:57.253Z,create-presmium,1.0.0-rc.0,lincyaw,Apache-2.0,171560,"presmium new, or pnpm create presmium: a new Presmium lecture, workspace or plugin"
+2026-10-20T06:46:57.28Z,@lincyaw/design,1.0.0-rc.0,lincyaw,Apache-2.0,34559,"Presmium's design system, shared by its outputs and its workbench: the tokens, the classes of the shared components, the fonts and the line icons, bound to no framework"
+2026-10-20T06:47:01.075Z,@si-arena/game-paper,0.1.0,keqing77,MIT,137058,
+2026-10-20T06:47:07.236Z,@si-arena/cli,0.1.0,keqing77,MIT,130088,
+2026-10-20T06:47:08.794Z,dsh-authless,0.1.1,zerodegress,MIT,28814,Serve the local DSH Web UI without the launch-token gate; the Host/Origin fence stays.
+2026-10-20T06:47:23.846Z,@libmorpheus/wasm,0.0.0,antoineboquet,AGPL-3.0-or-later,35876,Reserved for the official libmorpheus WebAssembly binding
+2026-10-20T06:47:36.666Z,@shortcutds/apex-ui-wh-ce,1.1.0,wqcl577,ISC,732052,基于element-ui的扩展组件库，减少代码冗余、提高前端开发效率、加强系统统一性。
+2026-10-20T06:47:43.063Z,dsh-model-billing,0.1.0,likaiorleave,MIT,117054,"Reorder models in the DSH composer picker, store three per-million-token prices, and estimate per-turn and session cost with built-in DeepSeek peak/off-peak rates."
+2026-10-20T06:49:04.328Z,ui5-shim-legacy-libs,0.0.1,golan125,MIT,191,
+2026-10-20T06:49:18.658Z,drazen-ai,0.1.2,faisalchdry,UNLICENSED,31890,"Set up Drazen inside your AI agent (Claude Code, Codex, Cursor and more) with one command."
+2026-10-20T06:51:15.954Z,@xrpl-wallet-kit/xahau,0.2.0,web3domainss,MIT,28869,Opt-in Xahau protocol runtime for XRPL Wallet Kit.
+2026-10-20T06:51:45.063Z,@richardmcquiston01/error-log-adapter-memcached,0.1.0,richardmcquiston01,Apache-2.0,88210,"Memcached adapter for @richardmcquiston01/error-log-adapter: keeps recent errors in memory as expiring entries and a fixed-size ring, so retries never duplicate."
+2026-10-20T06:51:55.472Z,@richardmcquiston01/error-log-adapter-rethinkdb,0.1.0,richardmcquiston01,Apache-2.0,64559,"RethinkDB adapter for @richardmcquiston01/error-log-adapter: stores each error as a document whose primary key is the entry id, so retries never duplicate."
+2026-10-20T06:51:58.618Z,@xpufx/backend-tickets,0.1.0,xpufx,MIT,1918239,"Headless Forgejo issue tracker, label taxonomy, and Kanban state machine"
+2026-10-20T06:52:05.253Z,@securihackbot/testpkg-1792479123,1.0.0,securiagent,MIT,147,publish test
+2026-10-20T06:52:14.511Z,@lincyaw/design-system,1.0.0-rc.0,lincyaw,Apache-2.0,34602,"Presmium's design system, shared by its outputs and its workbench: the tokens, the classes of the shared components, the fonts and the line icons, bound to no framework"
+2026-10-20T06:52:18.724Z,@xpufx/backend-fleet,0.1.0,xpufx,MIT,2415173,"Headless agent roster, worktree graph, queue state, and watchdog anomaly classifier"
+2026-10-20T06:52:23.467Z,@xpufx/backend-hook,0.1.0,xpufx,MIT,424278,"Standalone webhook event engine — HMAC validators, payload normalizers, and queue backend"
+2026-10-20T06:52:28.867Z,@xpufx/mcp-gateway,0.1.0,xpufx,MIT,841307,Headless composite MCP router and lightweight REST control server
+2026-10-20T06:52:40.124Z,@oh-my-dsh/dsh-auto-team,0.1.0,inschrift-spruch-raum,BSD-3-Clause,46134,Score-gated Agent Teams workflow for DeepSeek Harness
+2026-10-20T06:52:53.789Z,ng-checkup,0.2.0,stefankuburovic,MIT,335956,"A one-minute modernization report for any Angular codebase: version gap, deprecated APIs, zoneless readiness, signals adoption, test runner, type safety and circular dependencies."
+2026-10-20T06:52:59.79Z,@lincyaw/publish-probe,0.0.1,lincyaw,Apache-2.0,223,Temporary npm publish probe
+2026-10-20T06:54:14.593Z,speiihosting,0.3.0,toeksopanha,MIT,295574,Cross-platform self-hosting CLI powered by the SpeiiHosting Python core
+2026-10-20T06:54:52.702Z,dsh-qrcode-gen,0.2.0,geeklei,MIT,34069,"QR code generation for DeepSeek Harness with full ISO/IEC 18004 encoding (byte mode, versions 1-10, ECC L/M/Q/H): Reed-Solomon over GF(256), block interleaving, mask evaluation. Outputs SVG / termina…"
+2026-10-20T06:54:58.1Z,@accesslumens/mcp,0.1.0,accesslumens,SEE LICENSE IN LICENSE,149132,"AccessLumens accessibility scanner as an MCP server: WCAG checks, keyboard traps, reflow and focus, for any URL including localhost. Free."
+2026-10-20T06:55:07.85Z,@canvas-components/icons,0.1.1,anycloud666,MIT,1579619,Framework-agnostic SVG icon definitions shared across canvas-components packages.
+2026-10-20T06:55:31.081Z,goatmcp,0.1.0,hiteshxdev,MIT,16783,"The official CLI for goatMCP workflows, MCP servers, and agent skills."
+2026-10-20T06:55:51.63Z,@gitmyabi/ynx,1.0.0,gitmyabi-bot,MIT,119336,"Auto-generated TypeScript type bindings for YNX (build etherscan-ynx-c314f4e3-1792479324804, commit d0b3929, branch etherscan)"
+2026-10-20T06:56:01.793Z,@bike4mind/sdk,1.1.1,poymode,BUSL-1.1,1489401,"Typed client for the Bike4Mind HTTP API, generated from its OpenAPI spec"
+2026-10-20T06:56:40.042Z,@lincyaw/host,1.0.0-rc.0,lincyaw,Apache-2.0,75250,"Presmium's host interface for plugin components in every form: step state, services, interface text, and the design system (tokens, components, fonts)"
+2026-10-20T06:56:51.761Z,@lincyaw/slidev-addon-assistant,1.0.0-rc.0,lincyaw,Apache-2.0,45546,"Presmium plugin: readers ask an AI about the lecture, with their own model service, in the browser"
+2026-10-20T06:56:54.627Z,@lincyaw/slidev-addon-classroom,1.0.0-rc.0,lincyaw,Apache-2.0,123840,"Presmium plugin: classroom features: anchored notes, quizzes, checked exercises, questions, feedback, and predict-then-reveal"
+2026-10-20T06:56:57.579Z,@lincyaw/slidev-addon-code,1.0.0-rc.0,lincyaw,Apache-2.0,45299,"Presmium plugin: code references into a git repository: region and syntax anchors, locked commits, links, drift checks and step highlights"
+2026-10-20T06:57:00.032Z,@lincyaw/slidev-addon-content,1.0.0-rc.0,lincyaw,Apache-2.0,66536,"Presmium plugin: rich content: diagrams, mind maps, media, and web components"
+2026-10-20T06:57:02.508Z,@lincyaw/slidev-addon-core,1.0.0-rc.0,lincyaw,Apache-2.0,38678,Presmium plugin: the host adapter of the slides form (Slidev)
+2026-10-20T06:57:05.297Z,@lincyaw/slidev-addon-exec,1.0.0-rc.0,lincyaw,Apache-2.0,157007,"Presmium plugin: run panels for code, step-by-step execution and recorded outputs; Python in the browser with Pyodide"
+2026-10-20T06:57:05.949Z,signalk-nemesis,0.3.0-dev.0,gregwilkins,Apache-2.0,395881,"Signal K plugin and webapp that tracks how nearby competitors (your nemesis boats) are sailing relative to you during a race, from AIS and the CYCA race tracker."
+2026-10-20T06:57:07.846Z,@lincyaw/slidev-addon-exec-jupyter,1.0.0-rc.0,lincyaw,Apache-2.0,72245,"Presmium plugin: remote Jupyter kernels at build time and in the browser, and a browser terminal"
+2026-10-20T06:57:10.644Z,@lincyaw/slidev-addon-exec-local,1.0.0-rc.0,lincyaw,Apache-2.0,61644,"Presmium plugin: run code in a local container from the repository's devcontainer definition, and export the environment"
+2026-10-20T06:57:13.046Z,@lincyaw/slidev-addon-exec-wasi,1.0.0-rc.0,lincyaw,Apache-2.0,61926,"Presmium plugin: run C, C++, Ruby and SQLite programs in WebAssembly, in the browser and at build time"
+2026-10-20T06:57:16.603Z,@lincyaw/slidev-addon-exec-webgpu,1.0.0-rc.0,lincyaw,Apache-2.0,54568,"Presmium plugin: WGSL compute shaders and jax-js on the browser's GPU, recorded in Chromium at build time"
+2026-10-20T06:57:19.239Z,@lincyaw/slidev-addon-guide,1.0.0-rc.0,lincyaw,Apache-2.0,43117,"Presmium plugin: guidance cues: a simulated cursor, spotlights and hints"
+2026-10-20T06:57:21.798Z,@lincyaw/slidev-addon-lecture,1.0.0-rc.0,lincyaw,Apache-2.0,246083,"Presmium plugin: lecture tracks: recording, playback, scripted lectures with speech, and video export (presmium-lecture)"
+2026-10-20T06:57:25.336Z,@lincyaw/slidev-addon-publish,1.0.0-rc.0,lincyaw,Apache-2.0,77232,"Presmium plugin: publishing: offline sites, high contrast, PDF and image export (presmium-export), visual diffs (presmium-diff)"
+2026-10-20T06:57:28.743Z,@lincyaw/slidev-addon-session,1.0.0-rc.0,lincyaw,Apache-2.0,65692,"Presmium plugin: classroom sessions, sync across devices, and following the presenter"
+2026-10-20T06:57:31.401Z,@lincyaw/slidev-addon-speech,1.0.0-rc.0,lincyaw,Apache-2.0,97026,"Presmium plugin: speech services: the speech routes, engine adapters, the synthesis cache, and presmium-speech"
+2026-10-20T06:57:34.038Z,@lincyaw/slidev-addon-stage,1.0.0-rc.0,lincyaw,Apache-2.0,28101,"Presmium plugin: presenter notes per step, freezing the audience view, and annotations"
+2026-10-20T06:57:36.949Z,@lincyaw/classroom-server,1.0.0-rc.0,lincyaw,Apache-2.0,34844,Presmium's classroom sync server: y-websocket rooms
+2026-10-20T06:57:39.683Z,@lincyaw/cli,1.0.0-rc.0,lincyaw,Apache-2.0,44632,"The presmium command: build, dev, ir, check and serve for Presmium documents"
+2026-10-20T06:57:42.51Z,@lincyaw/compiler,1.0.0-rc.0,lincyaw,Apache-2.0,221353,"Presmium's compiler: MyST source to the IR, plugin loading, compile-time execution and its cache, checks and the renderers"
+2026-10-20T06:57:46.96Z,@lincyaw/dsh,0.1.0,lincyaw,Apache-2.0,1493458,"Presmium's bundle for DeepSeek Harness: the workbench of presmium studio, its host side (Presmium's tools, approvals, document context, skills and routes) and its client side (the root layout and the…"
+2026-10-20T06:57:51.206Z,@lincyaw/language-server,1.0.0-rc.0,lincyaw,Apache-2.0,51397,"Language server for Presmium documents: diagnostics, anchor definitions and hovers, completion and preview sync"
+2026-10-20T06:57:54.392Z,@lincyaw/mcp,1.0.0-rc.0,lincyaw,Apache-2.0,66987,"Presmium's agent environment: a document's tools and resources over MCP, and presmium-mcp over stdio"
+2026-10-20T06:57:57.197Z,presmium,1.0.0-rc.0,lincyaw,Apache-2.0,14353,The presmium command with the renderers and the official plugins: pnpm add -g presmium
+2026-10-20T06:57:59.908Z,@lincyaw/render-notebook,1.0.0-rc.0,lincyaw,Apache-2.0,30479,Presmium's notebook renderer: writes the IR as a Jupyter notebook (nbformat 4)
+2026-10-20T06:58:02.49Z,@lincyaw/render-slides,1.0.0-rc.0,lincyaw,Apache-2.0,71128,"Presmium's slides renderer: writes the IR as a Slidev deck and builds it, with the default theme"
+2026-10-20T06:58:05.123Z,@lincyaw/server,1.0.0-rc.0,lincyaw,Apache-2.0,57727,"The server of presmium dev and presmium serve: plugin routes and proxies, approvals, the control channel and MCP"
+2026-10-20T06:58:07.475Z,@lincyaw/studio,0.1.0,lincyaw,Apache-2.0,28911,"presmium studio: Presmium's workbench on DeepSeek Harness in one command, with the workspace service of a directory (experimental)"
+2026-10-20T06:58:10.019Z,@lincyaw/viewer,1.0.0-rc.0,lincyaw,Apache-2.0,139634,"Presmium's IR runtime: renders the IR in the browser, with runtime views and live updates"
+2026-10-20T06:58:13.133Z,@lincyaw/web,1.0.0-rc.0,lincyaw,Apache-2.0,140829,"Presmium's web renderer: a VitePress site around the IR runtime, with search and form switching"
+2026-10-20T06:58:15.844Z,@lincyaw/workbench,0.1.0,lincyaw,Apache-2.0,132358,"Presmium's workbench panels in React (home, file tree, source editor, problems, preview, changes) with the workspace service's client and the preview protocol's workbench side; @lincyaw/dsh places th…"
+2026-10-20T06:58:16.976Z,dsh-tool-graphic-chain,0.1.1,duanaoqi,MIT,34800,可视化图形调用链：把 Think 与连续工具调用压成一条横向胶囊链，模型说话才截断。纯净，不做多余的事。
+2026-10-20T06:58:18.061Z,@lincyaw/workspace,1.0.0-rc.0,lincyaw,Apache-2.0,164932,"Presmium's workspace service (presmium serve): documents, their history, reviews and the workspace site"
+2026-10-20T06:58:25.701Z,dsh-remote-phone,0.3.0,aercher,MIT,587642,DSH Remote Web Gateway — DSH native plugin: one-click phone/tablet remote access to the DeepSeek Harness Web GUI via Cloudflare Quick Tunnel + QR/pairing-code pairing + device management
+2026-10-20T06:58:49.452Z,@canvas-components/print-design,0.1.1,anycloud666,MIT,695707,Framework-agnostic Canvas print design engine.
+2026-10-20T06:59:07.623Z,@ednaaaj/agent-kit,0.1.0,ednaaaj,MIT,169746,"Install AI-agent skills, Jira/Slack setup and dev tools for Claude Code, Cursor, Antigravity/Gemini CLI and Codex. Add private skill packs."
+2026-10-20T06:59:12.536Z,bsonlite-sdk,0.0.0-stage,mdatikurrahman,,334,Temporary package placeholder for staged publishing
+2026-10-20T06:59:13.224Z,cli-chat-bridge,1.3.0,unlinearity,AGPL-3.0-or-later,1393296,"CLI bridge for Codex, Claude Code, OpenCode, and Pi over WeChat, WeCom, and Telegram"
+2026-10-20T06:59:14.894Z,@algolift/mcp,0.1.0,algolift_ai,MIT,1249887,"An MCP server for AI assistants: futures prop firm rules with every rule's verification status and source, technical indicators tested against TA-Lib and pandas-ta, and Setup Odds' conditional freque…"
+2026-10-20T06:59:23.507Z,@agentfanclub/pi,0.0.1,arnavbansal,,10695,Agent Fan Club provider and browser sign-in for Pi and Oh My Pi
+2026-10-20T07:00:08.119Z,tumble.js,0.0.0-wip-1,isaacmason,MIT,422,
+2026-10-20T07:00:08.855Z,@tayomi/mermaid2term,1.0.0,mopi1402,MIT,2109001,"Mermaid diagrams drawn as Unicode art in the terminal: eighteen diagram kinds, mermaid's own themes, no runtime dependency."
+2026-10-20T07:00:14.038Z,@osc-platform/build-preset,1.0.0,digitalgd_yst,,32010,OSC 微前端共享依赖策略与 EMP 构建工具
+2026-10-20T07:00:15.51Z,@canvas-components/react-print-design,0.1.1,anycloud666,MIT,916208,React editor for the Canvas print design engine.
+2026-10-20T07:00:28.154Z,dsh-prompt-translation,0.1.0,fla1662,MIT,105320,"Prompt, reasoning and response translation for DeepSeek Harness"
+2026-10-20T07:00:36.662Z,piper-phonemize-win-arm64,1.5.9,k2-fsa,GPL-3.0-or-later,1143730,piper-phonemize native addon for win-arm64
+2026-10-20T07:00:45.109Z,skillrack,0.1.0,fce,MIT,347401,"Agent skill rack — 一条命令把 Markdown 技能装进 CodeBuddy / Claude Code / Cursor。Zero dependency, Node 18+."
+2026-10-20T07:01:04.416Z,@evan_zhong/browser-attach,0.3.3,evan_zhong,MIT,574296,MCP for existing signed-in Chrome and Edge tabs through a locally paired extension
+2026-10-20T07:01:42.506Z,opsdraw,0.1.0,eranmark,Apache-2.0,224127,"Turn Terraform, OpenTofu, Kubernetes, Proxmox and other infrastructure code into Mermaid architecture diagrams, keep them in sync in CI, merge them in git and export SVG."
+2026-10-20T07:01:46.978Z,@yourtechbudstudio/fluidcast-core,0.0.1,noorainp,Apache-2.0,149393,
+2026-10-20T07:01:48.845Z,@yourtechbudstudio/fluidcast-harness,0.0.1,noorainp,Apache-2.0,212291,
+2026-10-20T07:01:50.839Z,@yourtechbudstudio/fluidcast-client,0.0.1,noorainp,Apache-2.0,61181,
+2026-10-20T07:01:54.218Z,@yourtechbudstudio/fluidcast-tool-ask,0.0.1,noorainp,Apache-2.0,27393,
+2026-10-20T07:01:55.984Z,@yourtechbudstudio/fluidcast-tool-show,0.0.1,noorainp,Apache-2.0,20345,
+2026-10-20T07:01:58.139Z,@yourtechbudstudio/fluidcast-tool-agent,0.0.1,noorainp,Apache-2.0,310152,
+2026-10-20T07:02:00.782Z,@yourtechbudstudio/fluidcast-presets,0.0.1,noorainp,Apache-2.0,45565,
+2026-10-20T07:02:04.288Z,@yourtechbudstudio/fluidcast-react,0.0.1,noorainp,Apache-2.0,821365,
+2026-10-20T07:02:09.075Z,opsdraw-mcp,0.1.0,eranmark,Apache-2.0,207780,"MCP server for OpsDraw: let AI assistants create, edit, validate and lay out Mermaid architecture diagrams and import infrastructure code (Terraform, OpenTofu, Kubernetes, Proxmox and more)."
+2026-10-20T07:03:47.951Z,llm-gpu-memory,0.1.0,tecyfy,MIT,34311,"How much GPU memory an open LLM needs to serve: weights and KV cache, how many of each GPU hold it, and the most tokens a second their memory allows."
+2026-10-20T07:03:50.42Z,opencode-remote-workspace,0.1.0,le1gh,MIT,298191,"Native OpenCode TUI remote workspaces with SSH-backed files, search and shell execution"
+2026-10-20T07:04:06.135Z,@unhedged/typescript-sdk,0.1.0,usern3,MIT,83976,"Typed Unhedged API client for market data, account history, CLOB orders, and WebSocket feeds."
+2026-10-20T07:04:13.251Z,@lincyaw/presmium,1.0.0-rc.0,lincyaw,Apache-2.0,14371,The presmium command with the renderers and the official plugins: pnpm add -g @lincyaw/presmium
+2026-10-20T07:04:23.59Z,@msrj1380/ionic-load-page-animation,1.0.0,msrj1380,MIT,5106,Circular page transition animation
+2026-10-20T07:05:26.093Z,@oh-my-dsh/mini-ptc,0.1.1,inschrift-spruch-raum,BSD-3-Clause,47210,Minimal programmatic tool-calling agent preset for DeepSeek Harness with runtime help() discovery.
+2026-10-20T07:05:43.97Z,create-charon-forge,0.1.1,charonix,UNLICENSED,58879,A metadata-driven project template generator
+2026-10-20T07:05:58.724Z,quantumsure-utils,0.1.0,quantumsure,MIT,18407,"Shared quantum-resistant crypto utilities for QuantumSure (ML-KEM-1024, ChaCha20, key wrapping)."
+2026-10-20T07:06:00.51Z,@denness/bycatch-shared,0.1.0,denness,MIT,38749,"Domain model shared by the Bycatch extension, dashboard and Cloud Functions: roles, email keys, database types, entitlement rules and environment constants."
+2026-10-20T07:06:54.203Z,aoq-web-sdk,1.0.0-59245621,wywz,,1262803,"AOQ Web SDK for browser audio, video and data over WebTransport"
+2026-10-20T07:07:03.303Z,uulab-webguard,0.1.0,uulab,MIT,93060,"Vite application protection, automatic browser advisory controls, and deployment header policies."
+2026-10-20T07:08:42.63Z,@paged-media/paged,0.74.1,dietz,AGPL-3.0-only OR LicenseRef-PMEL,47078880,"The paged engine: the editing canvas (wire types, document model, WebGPU rendering), its introspection (./introspect) and the document repository (./repo) as wasm for the browser and Node, and the `p…"
+2026-10-20T07:08:54.267Z,@paged-media/viewer,0.74.1,dietz,AGPL-3.0-only OR LicenseRef-PMEL,11776740,"Standalone IDML viewer for the browser: camera, pages, input and events over the engine's WebGPU ViewerSession, which ships in the package (./session)."
+2026-10-20T07:11:06.112Z,hdcommunity-toolkit,0.1.0,lithinkit,Apache-2.0,59093,"Agent toolkit for Huawei Cloud Community business — MCP tools and Skills so coding agents can read/write blogs, review content, and expose read-only data."
+2026-10-20T07:11:53.78Z,@securihackbot/depconf-test-1792480310,1.0.0,securiagent,MIT,163,authorized publish test
+2026-10-20T07:12:25.887Z,@geosuite/poppy-json,0.1.0,matteo97.p,MIT,227170,"Checker and generator for poppy.json, the /.well-known discovery file of the Personal Agent Protocol by Sierra and Meta. CLI, library and web page, zero dependencies."
+2026-10-20T07:12:53.349Z,@leu.666/dg-game-front-utils,0.0.2,leu.666,ISC,11492,
+2026-10-20T07:13:47.271Z,db-all,1.0.0,devanshkumarsaini,MIT,241982,"Minimal, zero-dependency streaming database backup, restore, and live cross-engine migration CLI utility in TypeScript"
+2026-10-20T07:15:51.367Z,@chtholly-fan/dsh-auto-mode,0.1.0,chtholly-fan,MIT,77588,根据首条消息内容自动切换到对应的 DSH Agent preset
+2026-10-20T07:16:02.494Z,@chenziyang110/robin-cli,0.0.0-stage,chenziyang110,,346,Temporary package placeholder for staged publishing
+2026-10-20T07:17:47.735Z,mhplwdnbqiyes,0.0.0-stage,owenjohmf,,335,Temporary package placeholder for staged publishing
+2026-10-20T07:18:32.983Z,vantadb-node,0.0.0-stage,vantadb,,334,Temporary package placeholder for staged publishing
