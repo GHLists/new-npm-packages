@@ -1,0 +1,194 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-21T16:14:54.387Z,@noclaf/cli-docs,0.1.0,coco-lucas,,43340,Visual de documentação do cli-core: um HTML único e autocontido montado a partir do modelo de docs.
+2026-10-21T16:17:26.867Z,@sindhujaks/career-mcp,1.0.0,sindhujaks,MIT,36196,"MCP server for resume/JD match analysis, tailored resumes and cover letters, a structured career-story interview, and LinkedIn About drafting. Local-first — your data never leaves your machine."
+2026-10-21T16:17:30.39Z,@digital-lake/lognexus,1.0.0-alpha.0,digital-lake,MIT,54581,"The Git-powered memory nexus for AI agents. Multi-model routing, durable cognitive logs, and traceable pull requests."
+2026-10-21T16:18:05.251Z,@d-rouge/kilobridge,0.0.1,d-rouge,,37407,"KiloBridge: all Kilo models, directly in OpenCode"
+2026-10-21T16:18:10.974Z,@argxi/workbase,0.1.0,argxi,UNLICENSED,148107,Official TypeScript/JavaScript client SDK for the Workbase job marketplace and task-execution API.
+2026-10-21T16:18:47.716Z,@listen-fire/files-s3,0.12.0-rc.5,hstanford,Apache-2.0,21088,"The files slot over S3 or any S3-compatible service (R2, MinIO, Supabase Storage): store, stream, presign and delete a team's files. Its own package, so a deployment that stores no files carries no A…"
+2026-10-21T16:19:01.207Z,@listen-fire/s3-files,0.12.0-rc.5,hstanford,Apache-2.0,27937,"The files slot's module over S3 (`@lf/s3-files`): lf keeps a run's documents in a bucket of AWS S3, Google Cloud Storage (its S3 interoperability endpoint), Cloudflare R2, MinIO or any S3 compatible…"
+2026-10-21T16:19:07.778Z,@jadeluo/dsh-pipeline,0.2.2,jadeluo,MIT,257289,Multi-node workflow orchestration plugin for DeepSeek Harness (dsh)
+2026-10-21T16:19:18.99Z,@listen-fire/airtable,0.12.0-rc.5,hstanford,Apache-2.0,202093,"Airtable (bases, tables, records, attachments) as a module: read, written, and MAC-signed webhooks that pull their payloads. Loaded in process by the platform, served by serve-module everywhere else."
+2026-10-21T16:19:25.778Z,aura-cardea,1.1.0,epsilonck,MIT,69169,"AuraCardea — folds one Turn's intermediate chat rows (tool calls, reasoning, context injections, retries) into one line per kind, with live status, success/failure counts, per-kind duration and inlin…"
+2026-10-21T16:19:27.746Z,@listen-fire/anthropic,0.12.0-rc.5,hstanford,Apache-2.0,144971,"The models slot's module for Claude (`@lf/anthropic`): the client every model call goes through (chat, structured output, the tool loop, web chat with Anthropic's hosted search and fetch), the chat s…"
+2026-10-21T16:19:38.817Z,@listen-fire/attio,0.12.0-rc.5,hstanford,Apache-2.0,396916,"Attio (objects, records, lists, notes, tasks, comments, files) as a module: read, written, and signed webhooks. Loaded in process by the platform, served by serve-module everywhere else."
+2026-10-21T16:19:48.001Z,@listen-fire/dealroom,0.12.0-rc.5,hstanford,Apache-2.0,193276,"Dealroom (companies, investors, people, funding rounds) as a module: read-only, polled for new rounds. Loaded in process by the platform, served by serve-module everywhere else."
+2026-10-21T16:19:57.409Z,@listen-fire/dropbox,0.12.0-rc.5,hstanford,Apache-2.0,76487,"Dropbox as a module: browse folders and files, save files into folders. Loaded in process by the platform, served by serve-module everywhere else."
+2026-10-21T16:20:07.357Z,@listen-fire/email,0.12.0-rc.5,hstanford,Apache-2.0,144444,"Inbound email (Mailgun or Resend: the message, its fields and attachments, the doors' signature checks) and the outbound senders, as a module. Loaded in process by the platform, served by serve-modul…"
+2026-10-21T16:20:16.429Z,@listen-fire/evertrace,0.12.0-rc.5,hstanford,Apache-2.0,177195,"Evertrace (signals about founders, saved searches, lists) as a module: polled for new signals and list additions, with a write surface over searches, lists and list entries. Loaded in process by the…"
+2026-10-21T16:20:26.157Z,@listen-fire/google-sheets,0.12.0-rc.5,hstanford,Apache-2.0,189579,"Google Sheets (granted spreadsheets: their tables, tabs, named cells and cells) as a module: read, append, unique-by overwrite, create and share. Loaded in process by the platform, served by serve-mo…"
+2026-10-21T16:20:35.521Z,@listen-fire/granola,0.12.0-rc.5,hstanford,Apache-2.0,76112,"Granola (meeting notes) as a module: polled for new and changed notes, readable back-catalogue through Meetings. Loaded in process by the platform, served by serve-module everywhere else."
+2026-10-21T16:20:44.976Z,@listen-fire/judge-llm,0.12.0-rc.5,hstanford,Apache-2.0,43845,"The judge slot's module (`@lf/judge-llm`): the model-backed identity judge that decides, for a fuzzy write whose search found several candidates, which record (if any) is the same real-world entity,…"
+2026-10-21T16:20:49.029Z,@critical-labs/environment-manager,0.1.0,mwc0000,MIT,86294,"Declarative environment variable sync, secret rotation, fingerprint verification, and droplet .env rendering, driven by a .environment-manager/ config directory."
+2026-10-21T16:20:55.337Z,@listen-fire/pdf,0.12.0-rc.5,hstanford,Apache-2.0,28984,"Draws text as a PDF file: the plugin `pdf.render(text)`. The default writer is thin (Helvetica, no font to ship); a character it cannot draw prints as ""?"" with a warning, and a module that embeds a f…"
+2026-10-21T16:21:03.598Z,@listen-fire/postgres-limiter,0.12.0-rc.5,hstanford,Apache-2.0,29683,"The limiter slot kept in Postgres, so many lf workers share one count of calls and held places instead of each allowing the full limit. A process module lf starts (kind: core, slot: limiter); see lf-…"
+2026-10-21T16:21:05.677Z,@tartaguti/ui-components,0.1.0,tartaguti,MIT,2004653,Reusable Lit web components for Tartaguti projects
+2026-10-21T16:21:14.087Z,@listen-fire/slack,0.12.0-rc.5,hstanford,Apache-2.0,222930,"Slack (a workspace: channels, history, threads, users, files, reactions; posts, replies and reactions; the awaited Replies) as a module. Loaded in process by the platform, served by serve-module ever…"
+2026-10-21T16:21:24.577Z,@listen-fire/telegram,0.12.0-rc.5,hstanford,Apache-2.0,106011,"Telegram (a bot: the messages it receives, the replies and DMs it sends, the files on them) as a module. Loaded in process by the platform, served by serve-module everywhere else."
+2026-10-21T16:21:31.566Z,color-utils-testmetest,1.0.0,newtestnewdont,MIT,1659,Lightweight utility for color conversion and manipulation
+2026-10-21T16:21:34.173Z,@listen-fire/whatsapp,0.12.0-rc.5,hstanford,Apache-2.0,131106,"WhatsApp (the Meta Cloud API: the messages a number receives, the replies, reactions and typing it sends, the media on them) as a module. Loaded in process by the platform, served by serve-module eve…"
+2026-10-21T16:21:36.815Z,@listen-fire/fake-channels,0.12.0-rc.5,hstanford,Apache-2.0,429149,"Stand-in implementations of the third-party services (Slack, Attio, Affinity, Airtable, Sheets, email, WhatsApp, Telegram, Gmail, Drive, Dropbox, an OAuth2 provider, the model vendors and more) with…"
+2026-10-21T16:21:45.832Z,@listen-fire/handbook,0.12.0-rc.5,hstanford,Apache-2.0,472152,"The movement language's handbook: the hand-written chapters, the front page, the routes into them and the language search over them. A host adds its own systems' and plugins' sections on top (the pla…"
+2026-10-21T16:21:54.333Z,@vestra-player/sdk,1.0.1,zysilm,Apache-2.0,564013,"Plugin API types, test host and plugin CLI for Vestra Player (apiVersion vestra/1)"
+2026-10-21T16:21:54.398Z,@listen-fire/ocr-google,0.12.0-rc.5,hstanford,Apache-2.0,27182,"Reading text out of scanned PDFs with Google Document AI (online for short files, batched through a Cloud Storage bucket for long ones). The OCR half of the file-text reading slot, as its own package…"
+2026-10-21T16:22:06.235Z,string-helpers-testmetest,1.0.0,newtestnewdont,MIT,1352,Lightweight string helper utilities for Node.js
+2026-10-21T16:22:06.992Z,@listen-fire/affinity,0.12.0-rc.5,hstanford,Apache-2.0,466197,"Affinity (organizations, people, opportunities, lists, notes, files) as a module: read, written, and signed webhooks. Loaded in process by the platform, served by serve-module everywhere else."
+2026-10-21T16:22:16.584Z,@listen-fire/document-ai,0.12.0-rc.5,hstanford,Apache-2.0,27068,"The ocr slot's module on Google Document AI (`@lf/document-ai`): a scanned PDF's or an image's text, online for short files and batched through a Cloud Storage bucket for long ones, exactly as the pl…"
+2026-10-21T16:22:31.204Z,@listen-fire/gmail,0.12.0-rc.5,hstanford,Apache-2.0,170726,"Gmail (one mailbox: its search, messages, attachments as files, sends and replies, and a poll for arriving mail) as a module. Loaded in process by the platform, served by serve-module everywhere else."
+2026-10-21T16:22:44.661Z,@listen-fire/google-drive,0.12.0-rc.5,hstanford,Apache-2.0,81901,"Google Drive (granted folders and files: their children, fields and bytes; folder and file creates, uploads included) as a module. Loaded in process by the platform, served by serve-module everywhere…"
+2026-10-21T16:22:46.848Z,shadow-bit,1.1.6,lucivuc,MIT,387116,Stealth containers. Enhanced privacy. Total control. (CLI + Electron GUI)
+2026-10-21T16:22:57.105Z,@asanasoft/asanagi-compository,0.17.0,alfredlopez,MIT,67828,Node.js/TypeScript client for the AsanagiDB Compository (document store)
+2026-10-21T16:22:57.26Z,@listen-fire/web,0.12.0-rc.5,hstanford,Apache-2.0,376264,"The six bundled plugins (fetch a page, scan a message for links worth fetching, find a person's profile, read what they are doing now, find a company's own site, research a subject) as one plugin mod…"
+2026-10-21T16:23:06.805Z,@listen-fire/model-providers,0.12.0-rc.5,hstanford,Apache-2.0,74692,"The model vendors behind the engine's chat, embedding, image and transcription seams (OpenAI, Gemini, Claude on Vertex, Anthropic). The vendor SDKs are optional peers loaded on first use; the environ…"
+2026-10-21T16:23:18.617Z,@listen-fire/models,0.12.0-rc.5,hstanford,Apache-2.0,46915,"The models slot's module for any vendor the platform speaks (`@lf/models`): Gemini (on Google Cloud or with a Gemini API key), OpenAI, Claude on Anthropic's API or on Vertex. Movement model names map…"
+2026-10-21T16:23:29.439Z,@listen-fire/embedding-providers,0.12.0-rc.5,hstanford,Apache-2.0,21226,"Embeddings behind the model map: the caller names a registry model and a width, and the vendor (OpenAI, Gemini) computes the vectors. The vendor SDKs are optional peers loaded on first use; the envir…"
+2026-10-21T16:24:18.865Z,@fluidgrids/cli,2026.1021.1,burdenoffcorp,UNLICENSED,19049,CLI tool for FluidGrids — workflow automation management (thin shell over @burdenoff/cli-sdk)
+2026-10-21T16:24:21.365Z,@veruproject/baileys,10.7.4,argaaaa,MIT,9588908,"veruproject/baileys — WhatsApp Multi-Device library rebased @whiskeysockets/baileys 7.0.0-rc14, using the original libsignal (GPL-3.0) Signal Protocol engine. Maintained by VeruProject. Focus: multim…"
+2026-10-21T16:24:55.341Z,@listen-fire/image-providers,0.12.0-rc.5,hstanford,Apache-2.0,20458,"Image generation behind the model map (OpenAI, Gemini). The vendor SDKs are optional peers loaded on first use; the environment and the host answers (usage recording, token counting) are passed in as…"
+2026-10-21T16:25:12.084Z,@connexum/n8n-nodes-connexum,0.1.0-beta.1,myccaig,SEE LICENSE IN ../../LICENSE.md,9033,n8n community node: Connexum Govern puts any n8n workflow step under My-CC governance. Each item passes data readiness (the source's access for the agent's passport) and the runtime gate (the governa…
+2026-10-21T16:25:12.679Z,@listen-fire/transcription-providers,0.12.0-rc.5,hstanford,Apache-2.0,28501,"Audio transcription behind the model map (OpenAI, Gemini). The vendor SDKs are optional peers loaded on first use; the environment and the host answers (usage recording, token counting) are passed in…"
+2026-10-21T16:25:29.121Z,@malkos911/tryon-web,1.0.0,malkos911,MIT,5842492,"Essayage virtuel (photo + caméra) intégrable sur tout site web, 100% dans le navigateur"
+2026-10-21T16:25:33.416Z,mui5-nested-menu,0.0.0-stage,oxddxo,,338,Temporary package placeholder for staged publishing
+2026-10-21T16:27:19.977Z,mapster,0.1.1,abdul_samad_12,MIT,51170145,"Mapster: see your project as flow diagrams with the exact code behind every step. An MCP server for AI coding agents (Claude Code, Antigravity) plus a local viewer."
+2026-10-21T16:27:41.37Z,babylonjs-editor-tools-lite,5.5.3-alpha.1,luaacro,(Apache-2.0),1636905,"Babylon.js Editor Tools Lite is a set of tools to help you load, run and manage the scenes made using the Babylon.js Editor with Babylon Lite (WebGPU only)"
+2026-10-21T16:27:45.939Z,@zenntechinc/zennstack,1.4.6,zenncd,MIT,135222,"A frontend scaffolding CLI with templates for React Router (v6 and v7), Expo, Vue, Nuxt, Next.js, Angular, React, and Vite, including optional TypeScript, Tailwind, router starter files, and guided s…"
+2026-10-21T16:27:54.165Z,pglite-rdkit,0.0.1-rc.1,asiomchen,BSD-3-Clause AND BSL-1.0 AND Apache-2.0 WITH LLVM-exception AND MIT,2208212,RDKit cheminformatics PostgreSQL cartridge as a PGlite extension
+2026-10-21T16:29:05.142Z,@fluidgrids/mcp-server,2026.1021.2,burdenoffcorp,UNLICENSED,21216,FluidGrids MCP Server - Model Context Protocol server for AI-powered workflow automation
+2026-10-21T16:29:05.812Z,@fluidgrids/sdk,2026.1021.1,burdenoffcorp,UNLICENSED,41708,Official Node.js SDK for FluidGrids - Workflow Automation Platform (thin shell over @burdenoff/sdk-libs)
+2026-10-21T16:29:42.399Z,@dimarborda/xlsx-editor,0.1.0,dimarborda,MIT,1199607,"Excel (.xlsx) editor for the browser and engine for Node.js: Rust + WebAssembly that edits workbooks without losing what it does not touch, with a canvas grid as a framework-agnostic web component"
+2026-10-21T16:30:06.341Z,@dsanying/dsdocs,0.1.0,dsanying,MIT,18617,DSdocs editor and reader components for host-owned authentication and content storage
+2026-10-21T16:32:20.355Z,@botguard/browser,0.1.0,dksun,MIT,169046,BotGuard 浏览器验证组件：<botguard-widget> 与 BotGuard.init()，无感 PoW、滑块、文字点选、图形点选，换取一次性 token
+2026-10-21T16:32:45.323Z,@nuvui/backgrounds,0.1.0,sajannuvraxis,MIT,144373,"Moving backgrounds for @nuvui/react: a gradient, a grid, stars, contour lines, hexagons, fireworks, a tunnel and a field of characters, in the theme's colors, still for anyone who asked for less moti…"
+2026-10-21T16:32:46.302Z,@teloa/sdk,0.2.4,teloa,Apache-2.0,61203,TypeScript and JavaScript client for the Teloa employee work API
+2026-10-21T16:32:54.103Z,@ganttloom/pert-core,0.2.0,santhoshkumarhariharan,MIT,165576,"Zero-dependency PERT and CPM network diagram engine: topological DAG layout, critical path calculation, float analysis, and interactive SVG rendering."
+2026-10-21T16:33:01.452Z,@ganttloom/project-io,0.1.0,santhoshkumarhariharan,MIT,138968,"Import Microsoft Project (MSPDI XML) and Primavera P6 (XER) schedules into @ganttloom/gantt-core tasks and dependencies, and export them back to MS Project XML. Zero dependencies."
+2026-10-21T16:33:31.568Z,poi-plugin-fleet-advisor,1.0.1,virgosnow,MIT,9723528,"Fleet Advisor for poi: fleet composition, equipment planning, normal maps, expeditions and local MCP tools"
+2026-10-21T16:33:40.96Z,@codingpheonix/gemini-live-wrapper,1.0.0,codingpheonix,ISC,26148,This is a wrapper that takes audio and video inputs and uses it in gemini live using ephemeral tokens.
+2026-10-21T16:35:58.516Z,@gridui/style-utils,0.1.0,wmxpy,UNLICENSED,4660,GridUI React style utils
+2026-10-21T16:36:01.287Z,@gridui/theme,0.1.0,wmxpy,UNLICENSED,34825,GridUI React theme
+2026-10-21T16:36:05.551Z,@gridui/controls,0.1.0,wmxpy,UNLICENSED,308990,GridUI React controls
+2026-10-21T16:36:10.543Z,@gridui/data,0.1.0,wmxpy,UNLICENSED,56152,GridUI React data
+2026-10-21T16:36:16.915Z,@gridui/grid,0.1.0,wmxpy,UNLICENSED,101699,GridUI React grid
+2026-10-21T16:36:21.921Z,@gridui/layout,0.1.0,wmxpy,UNLICENSED,226745,GridUI React layout
+2026-10-21T16:36:55.892Z,@nodegx/backend-map,0.1.0,richard-digitalbricks,GPL-3.0-only,235577,"Your NodeGX app's backend as a map: its screens, cloud functions and tables, and who can reach which rows, measured by running its functions as each person."
+2026-10-21T16:37:01.736Z,@browsewiz/mcp,0.1.0,devpeer.net,Proprietary,11114,Connects Claude Code to the BrowseWiz browser extension over MCP
+2026-10-21T16:37:23.371Z,noomoo,0.0.1,dima-taskforce,Apache-2.0,540,Engineering control layer for coding agents. First release coming soon.
+2026-10-21T16:37:45.971Z,dsh-whale-daily-nonsense,0.1.1,suilian,MIT,26958,An AI-generated daily nonsense quote from a tsundere rice-loving whale girl for DeepSeek Harness.
+2026-10-21T16:37:48.681Z,dsh-whale-slacking-timer,0.1.1,suilian,MIT,16652,A random slacking timer with a tsundere rice-loving whale-girl persona for DeepSeek Harness.
+2026-10-21T16:38:47.163Z,@mutedeck/mock-server,1.0.2,smitmartijn,MIT,146519,Programmable fake MuteDeck desktop (WebSocket v1/v2 and the HTTP API) for testing MuteDeck plugins
+2026-10-21T16:38:57.023Z,@mutedeck/plugin-client,1.0.2,smitmartijn,MIT,644908,"Client for MuteDeck's plugin API: WebSocket protocol v2 with approval-based auth, the HTTP API with optional bearer tokens, and automatic fallback for older MuteDeck versions"
+2026-10-21T16:38:58.478Z,auto-vue-i18n-tools,0.1.0,raven0520,UNLICENSED,27122,"Coding i18n build tools: snapshot pull/diff/audit + Vite plugin, shared by all hosts."
+2026-10-21T16:39:16.109Z,@kanso-labs/kanso-ui-core,0.0.0,rodrigoscna,MIT,4780,"The design data Kanso UI's web and React Native libraries share: the design tokens, the demo schemes and the glyph paths"
+2026-10-21T16:40:18.775Z,test-count-ratchet,0.1.0,santhoshkumarhariharan,MIT,33368,"Fail CI when fewer tests run than before. Reads JUnit, Vitest, Jest and Playwright reports, compares them with a committed baseline, and names the tests that silently stopped running: narrowed globs,…"
+2026-10-21T16:40:46.252Z,@acheron-grid/export,0.2.0,haodn.dev,Apache-2.0,34782,Optional headless CSV selection export for Acheron Grid
+2026-10-21T16:40:54.214Z,@acheron-grid/charts,0.2.0,haodn.dev,Apache-2.0,31780,Optional inline line and column charts for Acheron Grid Canvas
+2026-10-21T16:40:56.919Z,@admoai/sdk-scenarios,1.0.0,admoai,MIT,23997,The cross-SDK decision & tracking scenarios every AdMoai SDK asserts against a real decision-engine. Data only.
+2026-10-21T16:41:42.306Z,spotworkers,0.2.0,hlxiao9,AGPL-3.0-or-later,581973,"Outsource bounded coding tasks to cheap agent workers. Your main agent keeps architecture, verification and commit rights — and you stop burning your quota."
+2026-10-21T16:42:17.955Z,tpm-limiter,0.1.0,santhoshkumarhariharan,MIT,50600,"Rate limiter for LLM APIs that counts tokens, not just requests. Keeps parallel calls under your RPM, TPM, input-TPM and output-TPM limits, refunds unused max_tokens from real usage, syncs with OpenA…"
+2026-10-21T16:42:56.75Z,paper-agy-switch,0.1.0,cazorlas,Apache-2.0,29088,"Multi-account switcher for Google Antigravity, with a quota dashboard for the agy CLI and Antigravity desktop app."
+2026-10-21T16:43:30.742Z,agent-loop-breaker,0.1.0,santhoshkumarhariharan,MIT,53062,"Catch AI agents going in circles: repeated tool calls that return the same result, cycles that make no progress, and tools that keep failing. Hints the model, blocks the repeat, or stops the run. Wor…"
+2026-10-21T16:43:51.685Z,cursor-canvas-export,0.1.0,flockentanz,MIT,86752,"Export a Cursor canvas to HTML and a one-page PDF. Headless, for agents and the command line."
+2026-10-21T16:44:17.613Z,@reinskit/core,0.0.2,reinskit,Apache-2.0,143221,"Transaction decoding, worst-case outflow, simulation and plain-English explanations for XRPL agent transactions"
+2026-10-21T16:44:33.064Z,@webdevsk/react-mui5-nested-menu,0.1.0,oxddxo,MIT,9479,Nested menu component for MUI 5
+2026-10-21T16:44:41.915Z,eidetium,0.0.1,anaclumos,,1274,
+2026-10-21T16:44:57.592Z,@here.build/google-fonts-meta,0.10.0,merkle_bonsai,MIT,14902128,"The whole Google Fonts catalog — 1,934 families, variants, axes, OpenType features, and name previews — in 25 kB brotli"
+2026-10-21T16:46:12.648Z,superduperbundle,1.0.1,eslam-saker,MIT,8402,"Client for the free SuperDuperBundle Game Price API: lowest listed PC game key prices by name, Steam app ID or store URL."
+2026-10-21T16:46:29.102Z,fledgy,0.1.0,trompetteman,MIT,3543163,"Understand the app your agent built, without reading its code. Fledgy keeps a plain-words map of every user flow, the parts of the system each step runs through, and a manual QA script for each path,…"
+2026-10-21T16:46:34.105Z,@superduperbundle/mcp-server,1.0.1,eslam-saker,MIT,8694,MCP server for live PC game key prices: lets AI assistants look up the lowest listed price across official stores and key stores (SuperDuperBundle Game Price API).
+2026-10-21T16:46:34.743Z,siteread,0.2.0,9tsdm,MIT,103855,Is that crawler who it says it is? Checks an IP + User-Agent against the AI and search vendors' published IP lists. Zero dependencies.
+2026-10-21T16:46:46.265Z,@reinskit/policy,0.0.2,reinskit,Apache-2.0,114907,"Compile a Reins policy into XRPL ledger objects: plan, apply, verify, revoke"
+2026-10-21T16:47:13.693Z,@here.build/font-picker,0.10.0,merkle_bonsai,MIT,46162,Virtualized Google Fonts picker. Name previews come from one sprite; the catalog is @here.build/google-fonts-meta.
+2026-10-21T16:48:33.539Z,@trueowned/site-runtime,0.1.0,ron.tiso,Apache-2.0,15971,Runtime for sites exported from TrueOwned: lets an exported repository build and run on its own.
+2026-10-21T16:48:35.172Z,@spinajs/principal,3.0.4,gben-spina,MIT,118968,Principal contracts shared by SpinaJS authentication and authorization
+2026-10-21T16:48:52.392Z,@henriquearthur/teams-mcp,1.1.0,henriquearthur,MIT,357911,MCP server for Microsoft Graph Teams integration (fork of @floriscornel/teams-mcp)
+2026-10-21T16:49:06.435Z,salesmap,0.0.0-stage,siddmax,,330,Temporary package placeholder for staged publishing
+2026-10-21T16:49:57.188Z,@spinajs/authn-webauthn,3.0.4,gben-spina,MIT,607476,WebAuthn second factor and passkey login for SpinaJS
+2026-10-21T16:50:03.235Z,tonto-language,0.9.2,jpalmeida,MIT,4804676,"Langium-based language implementation for tonto (OntoUML/UFO textual DSL): grammar, AST, validation, and LSP services."
+2026-10-21T16:50:27.705Z,@ratel-works/dsh-lumina,0.1.0,~golddream,MIT,401708,"Ratel Lumina — motion enhancement layer for the DeepSeek Harness client: brand mark, composer edge glow, streaming caret, button press, new-session hero, and session activity."
+2026-10-21T16:50:29.828Z,@spinajs/authz-rebac,3.0.4,gben-spina,MIT,754271,ReBAC (relationship-based) model and tuple stores for SpinaJS authorization
+2026-10-21T16:50:47.474Z,@exeris/ai-bridge,0.8.0,arkstack-dev,Apache-2.0,3580751,"Model Context Protocol server exposing Exeris ecosystem surfaces (Studio/LSP, docs/ADR registry, kernel introspection) to AI agents."
+2026-10-21T16:50:52.497Z,dsh-desktop-sidecar,0.4.3,xjyuan,MIT,90309,"Native Windows desktop control for DSH: window enumeration, UIA control tree, in-process GDI capture, offline OCR, verified clicks, Unicode typing and key chords."
+2026-10-21T16:50:55.073Z,@impar/skill-hub,0.1.2,icarowhyy,UNLICENSED,55952806,"Skill Hub Ímpar — servidor MCP para descobrir, instalar, criar e publicar skills direto do Claude Code e do Codex."
+2026-10-21T16:51:06.785Z,dsh-auth-hub,0.5.2,mm9527,MIT,3554627,统一账号中心：13 个内置账号渠道 + 自己加的签到渠道（一键识别 New API 中转站 / 批量导入 / 粘 cURL，自动签到并把奖励记进同一个积分台账）+ WorkBuddy 双区登录，全部收在一个设置页（界面风格对齐 DSH WorkBuddy）。
+2026-10-21T16:51:11.442Z,goodyjs,0.1.1,dwmk,MIT,20251,"A lightweight, zero-dependency full-stack JavaScript framework uniting reactive UI, native HTTP server, composable middleware, SSR, and zero-config tooling."
+2026-10-21T16:51:47.813Z,@eulab/openwaunlocked-runtime-edge,1.0.0,eugeniorenna92,SEE LICENSE IN LICENSE.md,12006,Web API Effect runtime Layer for open-wa edge control planes
+2026-10-21T16:51:55.806Z,@arkyanet/cli,0.1.0,arkyagg,UNLICENSED,111207,"ark — pilote ton hébergement Arkya depuis le terminal : serveurs, VPS, applications et bases."
+2026-10-21T16:52:01.073Z,@eulab/openwaunlocked-types-only,1.0.0,eugeniorenna92,SEE LICENSE IN LICENSE.md,17027,Lightweight type-only re-exports from @eulab/openwaunlocked-schema — zero runtime dependencies
+2026-10-21T16:52:14.773Z,@eulab/openwaunlocked-socket-client,1.0.0,eugeniorenna92,SEE LICENSE IN LICENSE.md,183606,Easily connect to remote instances of the EASY API
+2026-10-21T16:52:27.65Z,@coda-console/remote-desktop,0.1.7,leavan,GPL-3.0-or-later,176116,让同一空间的成员经 Coda 连到这台电脑的桌面：握手经插件端点，画面、键鼠与剪贴板用 WebRTC，只走空间网络的中继，受控端不监听端口。一台电脑同一时间只有一个连接。
+2026-10-21T16:52:27.986Z,@eulab/openwaunlocked-integration-chatwoot,1.0.0,eugeniorenna92,SEE LICENSE IN LICENSE.md,73350,Chatwoot integration plugin for open-wa
+2026-10-21T16:52:40.674Z,@eulab/openwaunlocked-integration-cloudflare,1.0.0,eugeniorenna92,SEE LICENSE IN LICENSE.md,28343,Cloudflare Tunnel integration plugin for open-wa
+2026-10-21T16:52:51.435Z,@jagpav/pipeline,1.0.0,pavlek1817,MIT,11085,"A compensable pipeline for TypeScript: thread a model through ordered steps, auto-compensating completed steps in reverse order on failure."
+2026-10-21T16:52:53.64Z,@eulab/openwaunlocked-node-red,1.0.0,eugeniorenna92,SEE LICENSE IN LICENSE.md,51766,EULAB Open Node-RED integration.
+2026-10-21T16:53:06.216Z,@eulab/openwaunlocked-integration-s3,1.0.0,eugeniorenna92,SEE LICENSE IN LICENSE.md,39300,S3/Cloud storage integration plugin for open-wa
+2026-10-21T16:53:18.801Z,@eulab/openwaunlocked-integration-webhook,1.0.0,eugeniorenna92,SEE LICENSE IN LICENSE.md,54704,Webhook delivery integration plugin for open-wa
+2026-10-21T16:53:31.897Z,words-into-music-cli,1.0.1,constantinginga,MIT,13283,"Create AI songs from ideas or lyrics, check credits and browse your Words into Music library from the terminal."
+2026-10-21T16:53:40.567Z,@reinskit/mcp,0.0.2,reinskit,Apache-2.0,103036,MCP server that lets AI agents use the XRP Ledger inside Reins guardrails
+2026-10-21T16:54:23.534Z,@omen.foundation/developer-mcp,0.2.1,edwardomenfoundation,MIT,231909,Read-only MCP server and agent skills for building games with the OmenX developer platform
+2026-10-21T16:54:31.466Z,openregard,0.1.0,yrashk,MIT,274854,"Configurable display preferences for accessible websites: dependency-free core, native widget, optional React binding."
+2026-10-21T16:56:11.401Z,@jaylor-wang/agent-lsp,2.1.0,jaylor-wang,MIT,72294,"Lightweight, zero-dependency, config-driven LSP client and compiler diagnostics CLI for AI coding agents and terminal workflows"
+2026-10-21T16:56:16.098Z,picnic-mcp,0.1.0,mrvdh,MIT,49306,MCP server for the online supermarket Picnic: search products and manage the cart
+2026-10-21T16:56:20.95Z,@eulab/connect,0.8.0,eugeniorenna92,,63741,"SDK EULab Connect per browser e server: SSO, permessi e WhatsApp"
+2026-10-21T16:56:38.681Z,@akhatmirzo/core,0.1.0,akhatmirzo,MIT,142677,"Toza TypeScript yordamchi funksiyalar: formatlash, validatsiya, matn"
+2026-10-21T16:57:02.526Z,dynamoi,0.1.0,dynamoi,MIT,2641,Dynamoi command line: music distribution and promotion from your terminal and AI agents. The full CLI is coming; connect your AI agent through the Dynamoi MCP server today.
+2026-10-21T16:57:09.05Z,@akhatmirzo/hooks,0.1.0,akhatmirzo,MIT,69603,Qayta ishlatiladigan React hooklar
+2026-10-21T16:57:13.477Z,@akhatmirzo/tokens,0.1.0,akhatmirzo,MIT,20014,Dizayn tokenlari: CSS o'zgaruvchilari va Tailwind v4 @theme
+2026-10-21T16:57:21.401Z,@akhatmirzo/ui,0.1.0,akhatmirzo,MIT,1348821,Tailwind v4 va Radix asosidagi React komponentlar
+2026-10-21T16:57:29.654Z,shared-hosting-sync,0.1.0,kitaroghope,MIT,216956,"Deploy and sync local projects to shared hosting over FTP, FTPS, or SFTP, with a CLI and local dashboard."
+2026-10-21T16:57:32.703Z,@alchemy.run/acme,0.0.0,sam-goodwin,Apache-2.0,987,"ACME (Let's Encrypt, ZeroSSL) certificates for Alchemy, with a Cloudflare DNS-01 solver."
+2026-10-21T16:57:35.705Z,@alchemy.run/axiom,0.0.0,sam-goodwin,Apache-2.0,985,"Axiom datasets, dashboards, monitors and telemetry export for Alchemy."
+2026-10-21T16:57:39.12Z,@alchemy.run/docker,0.0.0,sam-goodwin,Apache-2.0,1015,"Docker images, containers, networks, volumes and registries for Alchemy, and the image builds container platforms share."
+2026-10-21T16:57:42.593Z,@alchemy.run/domain,0.0.0,sam-goodwin,Apache-2.0,992,"Domain-driven backends for Alchemy: aggregates, commands, events, projections, sagas and stories over Effect."
+2026-10-21T16:57:46.061Z,@alchemy.run/doppler,0.0.0,sam-goodwin,Apache-2.0,933,Doppler secrets and auth for Alchemy.
+2026-10-21T16:57:49.813Z,@alchemy.run/drizzle,0.0.0,sam-goodwin,Apache-2.0,972,"Drizzle ORM integration for Alchemy: schemas, migrations and Effect SQL clients."
+2026-10-21T16:57:52.744Z,@alchemy.run/fly,0.0.0,sam-goodwin,Apache-2.0,926,"Fly.io apps, machines and Postgres for Alchemy."
+2026-10-21T16:57:55.787Z,@alchemy.run/gcp,0.0.0,sam-goodwin,Apache-2.0,956,"Google Cloud resources, Cloud Run, Cloud Functions and GKE for Alchemy."
+2026-10-21T16:57:58.929Z,@alchemy.run/git,0.0.0,sam-goodwin,Apache-2.0,942,"Git hosting building blocks for Alchemy: protocol, stores, hasher and server."
+2026-10-21T16:58:02.694Z,@alchemy.run/github,0.0.0,sam-goodwin,Apache-2.0,931,"GitHub repositories, secrets and webhooks for Alchemy."
+2026-10-21T16:58:05.99Z,@alchemy.run/hetzner,0.0.0,sam-goodwin,Apache-2.0,930,Hetzner Cloud servers and networking for Alchemy.
+2026-10-21T16:58:09.269Z,@alchemy.run/infisical,0.0.0,sam-goodwin,Apache-2.0,943,Infisical secrets and auth for Alchemy.
+2026-10-21T16:58:12.845Z,@alchemy.run/kubernetes,0.0.0,sam-goodwin,Apache-2.0,989,"Kubernetes deployments, jobs, Helm charts, manifests and local clusters for Alchemy."
+2026-10-21T16:58:16.535Z,@alchemy.run/neon,0.0.0,sam-goodwin,Apache-2.0,944,"Neon Postgres projects, branches and functions for Alchemy."
+2026-10-21T16:58:20.163Z,@alchemy.run/planetscale,0.0.0,sam-goodwin,Apache-2.0,979,PlanetScale MySQL and Postgres databases for Alchemy.
+2026-10-21T16:58:24.516Z,@alchemy.run/prisma,0.0.0,sam-goodwin,Apache-2.0,949,"Prisma Postgres, Compute and ORM for Alchemy."
+2026-10-21T16:58:27.748Z,@alchemy.run/railway,0.0.0,sam-goodwin,Apache-2.0,934,"Railway projects, services and databases for Alchemy."
+2026-10-21T16:58:31.009Z,@alchemy.run/redis,0.0.0,sam-goodwin,Apache-2.0,948,"An Effect RESP client for Redis and Valkey, shared by Alchemy's Redis bindings."
+2026-10-21T16:58:34.718Z,@alchemy.run/sql,0.0.0,sam-goodwin,Apache-2.0,967,"Postgres and MySQL clients, SQL migrations, and the Postgres state store for Alchemy."
+2026-10-21T16:58:37.61Z,@alchemy.run/stripe,0.0.0,sam-goodwin,Apache-2.0,942,"Stripe products, prices and webhooks for Alchemy."
+2026-10-21T16:58:37.72Z,@civilization/dsh-git-workbench,0.4.0,civilization,Apache-2.0,561874,"IntelliJ IDEA-grade Git Workbench, DAG topology graph, branch switcher, tag manager and agent tools for DeepSeek Harness."
+2026-10-21T16:58:40.042Z,@here.build/delta,0.10.0,merkle_bonsai,FSL-1.1-MIT,291110,Delta Design System - A mathematical constraint-based CSS design grammar
+2026-10-21T16:58:40.179Z,@sleet-js/intear-dex-aggregator-tool-box,0.1.0,nonresistantreally,MIT,81008,Typed client + near-kit execution helpers for the intear dex-aggregator (https://router.intear.tech).
+2026-10-21T16:58:40.463Z,@alchemy.run/turso,0.0.0,sam-goodwin,Apache-2.0,934,"Turso databases, groups and tokens for Alchemy."
+2026-10-21T16:58:47.389Z,@distilled.cloud/aws4signer,0.0.0,sam-goodwin,Apache-2.0,919,"Effect-native AWS Signature Version 4: sign and presign requests, or sign every request an HttpClient sends. For AWS and every S3-compatible or SigV4-signed API."
+2026-10-21T16:59:46.71Z,@kymoscope/sdk,0.1.0,kymoscope,SEE LICENSE IN LICENSE.md,17388769,"The Kymoscope data engine and charts for the browser: import large measurement files, plot them, stream live data end-to-end encrypted."
+2026-10-21T16:59:52.973Z,@sleet-js/intear-api-tool-box,0.1.0,nonresistantreally,MIT,294409,"Typed TypeScript SDK for the Intear API (https://api.intea.rs) — token data, charts, trades, transfers, balances, holders over HTTP and a single WebSocket connection, with strict per-field types and…"
+2026-10-21T17:00:10.898Z,@tileflow/elevation,0.0.0-bootstrap.0,tileflow.dev,Apache-2.0,118400,"Point heights, elevation profiles and a MapLibre elevation profile control for Tileflow."
+2026-10-21T17:00:47.839Z,componify-cli,1.2.0,timothyverhaeghe,MIT,122614,Command line interface and Node.js SDK for Componify: install design system components and run Componify frontends locally.
+2026-10-21T17:02:14.761Z,@latekvo/grafana-mcp,0.1.1,latekvo,MIT,10239,"Give Claude Code or Codex read-only access to Grafana through its official MCP server, from your Grafana login."
+2026-10-21T17:02:48.658Z,i18n-cities,0.0.0,mmarine,MIT,263,"Offline city search with translated city, region and country names, from GeoNames"
+2026-10-21T17:02:50.542Z,@crvouga/mockingbird-service-fitbit,0.1.0,crvouga,MIT,4262766,"Stateful Fitbit legacy Web API emulator: OAuth PKCE and revoke, activity log, sleep and daily summary with synthetic data."
+2026-10-21T17:03:16.681Z,@availabooks/simmy,0.1.0,eaallen,MIT,1855134,"An embeddable Excel simulator with a graded task pane, configured by a YAML module."
+2026-10-21T17:03:18.074Z,@crvouga/mockingbird-service-garmin-health,0.1.0,crvouga,MIT,4315674,"Stateful Garmin Health emulator: OAuth PKCE, backfill requests, push and ping webhooks and deregistration."
+2026-10-21T17:03:21.09Z,insomnia-plugin-hs256-jwt,1.0.0,ywidiastuti,MIT,9880,Insomnia template tag that generates an HS256 JWT signed with a shared secret
+2026-10-21T17:03:27.637Z,@gameagelayer/yobitsugi,0.1.0,w_sasaki,SEE LICENSE IN LICENSE,41280,YOBITSUGI AI(呼継AI)をターミナルから使うコマンド。対話・1 回だけの実行・ファイルの添付と成果物の保存
+2026-10-21T17:03:29.496Z,@crvouga/mockingbird-service-lifefile,0.1.0,crvouga,MIT,4264757,Best-guess LifeFile pharmacy order gateway and Basic-auth Data Push emulator.
+2026-10-21T17:03:39.642Z,@crvouga/mockingbird-service-polar,0.1.0,crvouga,MIT,4273840,"Stateful Polar AccessLink v3 emulator: OAuth consent and code exchange, user registration and the 30-day exercise window."
+2026-10-21T17:03:50.084Z,@crvouga/mockingbird-service-suunto,0.1.0,crvouga,MIT,4294510,"Stateful Suunto Cloud API emulator: OAuth, workouts and 24/7 samples with namespace-isolated synthetic data."
+2026-10-21T17:04:25.544Z,@fakto/core,0.0.1,filrak,UNLICENSED,350186,"Keep every file that states a fact in line with the fact: the CLI, the library and the canvas in one package."
+2026-10-21T17:07:16.884Z,@cristianbgp/crew-darwin-arm64,0.2.0,cristianbgp,MIT,75631544,crew standalone executable for darwin-arm64
+2026-10-21T17:07:47.271Z,@alexzzzz/opencode-btw-followups,0.1.0,alexzzzz,WTFPL-2.0,118205,OpenCode plugin that replaces the built-in /btw with a side question dialog that keeps a thread of follow-up questions
+2026-10-21T17:08:19.48Z,pixel-map-testmetest,0.0.1,newtestnewdont,,388393,Temporary package placeholder for staged publishing
+2026-10-21T17:08:52.253Z,timeseries-renderer,0.1.0,fe-fast,MIT,41341,百万点时序曲线渲染层：环形缓冲 + 像素列栅格 + 脏区增量绘制；Canvas 2D 与 WebGL2 双后端
+2026-10-21T17:09:24.011Z,byte-stride-testmetest,0.0.0-stage,newtestnewdont,,344,Temporary package placeholder for staged publishing
+2026-10-21T17:09:31.347Z,@cristianbgp/crew-linux-arm64,0.2.0,cristianbgp,MIT,94501468,crew standalone executable for linux-arm64
+2026-10-21T17:09:35.487Z,@cristianbgp/crew-darwin-x64,0.2.0,cristianbgp,MIT,82521824,crew standalone executable for darwin-x64
+2026-10-21T17:09:36.547Z,@cristianbgp/crew-linux-x64,0.2.0,cristianbgp,MIT,95008548,crew standalone executable for linux-x64
+2026-10-21T17:10:07.205Z,@adiitj/blinkrivet,0.1.0,adiitj,Apache-2.0,276773,Meta Display web app regression testing library and CLI with reviewable evidence
+2026-10-21T17:12:01.392Z,@zincha/client,0.2.0,zincha,Apache-2.0,702139,"Isomorphic TypeScript client SDK for ZINCHA (Node, browser, MetaMask Snaps)"
+2026-10-21T17:12:26.569Z,@tumbaland/collage-core,1.1.0,toomastahves,MIT,83622,"What a collage is and how it is drawn, shared by the Tumbaland editor and server"
+2026-10-21T17:14:09.353Z,@godman-protocols/wisdom,0.1.0,skingem,Apache-2.0,49700,"WISDOM: Witnessed Independent Signed Decision On Merit. An open, signed record that proves agent work was reviewed independently before it was released."
+2026-10-21T17:14:15.529Z,@aegilabs/aegi,0.4.2,aegilabs,UNLICENSED,67321,AegiLabs security audit client — runs audits on AegiLabs' servers with your AegiLabs key.
+2026-10-21T17:14:37.811Z,@elmermosquera2/element-coordinator,1.0.0,elmermosquera2,MIT,99974,"Document-driven Custom Elements loading coordinator with recursive dependency graph resolution, P0-P4 priority scheduling, functional readiness orchestration, and TanStack Router integration."
+2026-10-21T17:14:55.96Z,interactions-timeline,1.0.0,bramus,MIT,156211,"A page timeline recorder and interactive visualizer with time-scrubbing for CSS animations, CSS transitions, WAAPI, Scroll-Driven Animations, scroll positions, and user interactions"
+2026-10-21T17:16:23.088Z,dsh-harness-reflex,0.1.0,miuzel,MIT,2201238,"DSH Host plugin exposing the harness-reflex System One decision runtime (choice, score, route, screen, gate) as in-process reflex_* tools; pruning, stagnation detection and turn closing run as automa…"
+2026-10-21T17:16:56.015Z,arrowydb,1.0.0,dwmk,MIT,165951,"Dependency-light, GitHub-backed and local file-backed database platform featuring Relational and Document engines with .arr chunk storage."
+2026-10-21T17:17:42.01Z,@notrico/pi-fold,0.0.0-stage,notrico,,338,Temporary package placeholder for staged publishing
