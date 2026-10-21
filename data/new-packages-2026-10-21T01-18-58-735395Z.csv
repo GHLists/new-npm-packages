@@ -1,0 +1,95 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-21T00:20:03.946Z,dsh-lcrd,0.1.0,jeffkxt,MIT,346289,"LCRD hard-isolation plugin: three-symbol protocol (root anchor, stop symbol, rollback symbol) with exogenous verifiers over the harness extension points"
+2026-10-21T00:20:32.15Z,create-agent-unit,0.2.0,kinfish,MIT,3260,Start a new agent-unit app: npm create agent-unit
+2026-10-21T00:20:41.713Z,@haneinfo/delegation,0.1.0,antonylu0826,UNLICENSED,74629,Time-bounded one-hop delegation and human-only management.
+2026-10-21T00:22:20.36Z,sheetgl,2.0.0,umitunc,MIT,2436549,"High-performance WebGL & Canvas Excel DataGrid for React with 60 FPS virtualization, 14 column types, DevExtreme-style batch CRUD & cascading triggers, and zero dependencies. MIT licensed."
+2026-10-21T00:22:29.138Z,@hashspan/faults,0.0.0,selimaytac,Apache-2.0,224,Placeholder; see https://github.com/selimaytac/hashspan
+2026-10-21T00:23:38.876Z,@promistream/batch-on,0.1.0,joepie91,WTFPL OR CC0-1.0,9908,
+2026-10-21T00:23:51.886Z,@agenticage/solids,0.1.0,rodmanl,,1826,"Box, sphere, and cylinder shapes for a worldsite."
+2026-10-21T00:24:03.96Z,polystrata,0.1.0,pboyer,MIT,359143,"High-performance 2D polygon clipping, Boolean operations, and topological healing kernel powered by Rust/WebAssembly"
+2026-10-21T00:25:10.471Z,@wycord/nigeria-mcp-core,0.5.0,braynexservices,MIT,51686,"Core runtime for the Nigeria MCP data-lane servers: MCP server builder, normalized Zod schemas, typed provider seam, and shared fetch/cache/error helpers. A Wycord product, built by Braynex Services…"
+2026-10-21T00:25:14.275Z,@wycord/nigeria-mcp-fx-rates,0.4.0,braynexservices,MIT,23062,"Nigeria FX Rates MCP — live Naira (NGN) exchange rates vs major currencies (USD/EUR/GBP) from a free, keyless source, as MCP tools. A Wycord product, built by Braynex Services Ltd."
+2026-10-21T00:25:18.028Z,@wycord/nigeria-mcp-trade-intel,0.5.0,braynexservices,MIT,48452,"Nigeria Trade Intel MCP — Nigeria import/export trade statistics (UN Comtrade, free/keyless) + HS-code classification, exposed as MCP tools. A Wycord product, built by Braynex Services Ltd."
+2026-10-21T00:25:21.82Z,@wycord/nigeria-mcp-bank-account,0.4.0,braynexservices,MIT,25740,"Nigeria Bank Resolve MCP — resolve a NUBAN + bank code to the account name, and list banks (Paystack, free), as MCP tools. A Wycord product, built by Braynex Services Ltd."
+2026-10-21T00:25:25.43Z,@wycord/nigeria-mcp-electricity,0.4.0,braynexservices,MIT,31409,"Nigeria Electricity Meter MCP — READ-ONLY meter validation (customer name/address + DisCo) and DisCo listing via VTpass, as MCP tools. No payments. A Wycord product, built by Braynex Services Ltd."
+2026-10-21T00:25:29.227Z,@wycord/nigeria-mcp-grid3-boundaries,0.3.0,braynexservices,MIT,39790,"Nigeria administrative boundaries (state / LGA / ward) as MCP tools — centroid, bounding box, and reverse-geocoding a WGS84 point to its admin areas. Backed by GRID3 (CC BY 4.0), keyless. A Wycord pr…"
+2026-10-21T00:25:32.821Z,@wycord/nigeria-mcp-admin-divisions,0.3.0,braynexservices,MIT,46053,"Nigeria's 36 states + FCT and 774 LGAs as MCP tools — list states with LGA counts, and get an LGA breakdown for any state. Fully offline bundled dataset; no network, no key. A Wycord product, built b…"
+2026-10-21T00:25:36.387Z,@wycord/nigeria-mcp-health-facility,0.3.0,braynexservices,MIT,38768,"Find Nigerian health facilities (hospitals, clinics, PHCs) near a WGS84 point, sorted by distance, as MCP tools. Backed by GRID3 NGA Health Facilities v2.0 (CC BY 4.0), keyless. A Wycord product, bui…"
+2026-10-21T00:25:40.369Z,@wycord/nigeria-mcp-worldbank-macro,0.3.0,braynexservices,MIT,34412,"Nigerian macroeconomic indicators (GDP, inflation, population, remittances, FDI, unemployment) as MCP tools. Backed by the World Bank Indicators API, keyless. A Wycord product, built by Braynex Servi…"
+2026-10-21T00:25:44.275Z,@wycord/nigeria-mcp-imf-weo,0.3.0,braynexservices,MIT,34202,"IMF World Economic Outlook series for Nigeria (GDP growth, inflation, government debt, current account, unemployment) — history plus projections — as MCP tools. Backed by the IMF DataMapper API, keyl…"
+2026-10-21T00:25:48.665Z,@wycord/nigeria-mcp-un-sdg,0.3.0,braynexservices,MIT,36278,"Nigeria's UN Sustainable Development Goals indicators (poverty, under-5 mortality, electricity and water access, primary-school completion) as MCP tools. Backed by the UN SDG Global Database API, key…"
+2026-10-21T00:25:52.597Z,@wycord/nigeria-mcp-quidax-crypto,0.3.0,braynexservices,MIT,32393,"Live crypto tickers in Naira (BTC/NGN, ETH/NGN, USDT/NGN, and more) from the Nigerian exchange Quidax, as read-only MCP tools. Public market data, keyless, no trading. A Wycord product, built by Bray…"
+2026-10-21T00:25:56.492Z,@wycord/nigeria-mcp-nigsac-sanctions,0.3.0,braynexservices,MIT,42747,"Screen a person or company name against Nigeria's official NIGSAC sanctions register as an MCP tool — a best-effort, diacritic-folded, transliteration-tolerant screening signal for human review. Live…"
+2026-10-21T00:26:51.155Z,pi-reversa,0.3.0,quantmind-br,MIT,1394673,Pi Coding Agent package for the Reversa reverse-engineering framework
+2026-10-21T00:28:12.193Z,@tastyigniter/storefront,4.0.0,sampoyigi,,45641,Shared Vue storefront modules for TastyIgniter themes. Themes import these files and compile them with their own Vite build.
+2026-10-21T00:30:33.687Z,@jian-ai/remote-control,0.7.0,lucasaarch,Apache-2.0,29945,Jian Remote Control worker — connect a computer to a Jian gateway over HTTPS
+2026-10-21T00:31:04.011Z,ligr-graphic,0.0.1,cityburke,UNLICENSED,1142,Placeholder that LIGR holds. Install the LIGR graphics CLI from the LIGR developer docs.
+2026-10-21T00:34:09.609Z,@mathlabs/tikra,1.0.0,matheus1714,(MIT OR Apache-2.0) AND OFL-1.1,3367801,"TikZ and pgfplots figures to SVG and PNG, without a TeX install. Math labels typeset by mathra. Runs on WebAssembly in Node, bundlers and browsers."
+2026-10-21T00:34:36.899Z,@ohos-ports/pandacss-astro-plugin-studio,1.12.1-beta.0,ljry,MIT,8847,Vite plugin for Pandacss Studio
+2026-10-21T00:35:23.504Z,@whitemane/repo-map,0.1.0,whitemane,MIT,101973,"An interactive architecture map for any repo, with plain-language process tracing through the Claude Code CLI"
+2026-10-21T00:35:49.503Z,@corescense/cowcat-protocol,1.0.0-beta.1,corescense,MIT,70589,"CowCat's headless protocol: JSON-RPC over stdio, the in-memory transport, and the serve() lifecycle. Knows no renderer and no kernel."
+2026-10-21T00:36:10.101Z,@corescense/cowcat-core,1.0.0-beta.1,corescense,MIT,668515,"CowCat's kernel: event-sourced session runtime, policy engine, ports and the composition root."
+2026-10-21T00:36:25.008Z,@corescense/cowcat-tui,1.0.0-beta.1,corescense,MIT,128337,CowCat's terminal renderer: TUI over the headless protocol. The only package on the Node 26 floor.
+2026-10-21T00:36:44.069Z,react-native-meshstream,1.0.0,meshstream,Apache-2.0,83492,MeshStream P2P playback URL SDK for React Native
+2026-10-21T00:36:49.077Z,appsecradar,0.1.0,othman.37,MIT,71475,Find the security holes your AI left behind. A security scanner for AI-built (vibe-coded) apps.
+2026-10-21T00:36:56.237Z,@inavi-maps/api-mcp-server,0.0.1,inavi-webservice,MIT,559669,INAVI Maps API를 직접 호출하고 결과를 MCP Apps 동적 지도로 렌더링하는 MCP 서버
+2026-10-21T00:37:51.387Z,@ohos-ports/parcel-css,1.14.0-beta.0,ljry,MPL-2.0,1106,"A CSS parser, transformer, and minifier written in Rust"
+2026-10-21T00:38:15.216Z,celld-void,0.1.0,roy.alcala,MIT,107349,"Void adapter for celld: deploy Void apps on celld with D1, KV, R2, queues, cron, durable objects, workflows, facets, dynamic workers, wasm and containers."
+2026-10-21T00:40:03.532Z,go-std,0.0.0,matthewh,UNLICENSED,264,Placeholder for go-std
+2026-10-21T00:40:35.407Z,@weasel-js/diagram-formats,1.11.1,msb235,MIT,520184,"Converts @weasel-js/diagram scenes to and from files: an interchange document every format reads and writes, and one page as an SVG document or a PNG image."
+2026-10-21T00:40:57.951Z,bref-ui-themes,0.1.0,feuersteiner,MIT,83937,"Reusable Svelte 5 themes for bref-ui, with interactive demos and native CSS."
+2026-10-21T00:41:43.255Z,dsh-youtube-plugin,0.1.0,dadgrand,MIT,612734,"Deep, token-efficient YouTube understanding for DSH: captions or local GPU speech-to-text, scene keyframes with local OCR/VLM, transcript search/map, one disk cache, one loopback diagnostic route."
+2026-10-21T00:44:34.688Z,@lmzhen/dsh-evolution-merge,0.0.0,lmzhen,MIT,445,Placeholder for the skill merge host package; the release is published from CI.
+2026-10-21T00:45:18.632Z,@lmzhen/dsh-evolution-merge-ui,0.0.0,lmzhen,MIT,452,Placeholder for the skill merge UI package; the release is published from CI.
+2026-10-21T00:45:30.609Z,@apiverve/tickernews,1.2.2,apivervehq,MIT,19489,"Ticker News is a stock news API that returns the latest news stories about one ticker symbol: US stocks and ETFs, stocks on 18 international markets, cryptocurrencies, futures and currency pairs. Eac…"
+2026-10-21T00:45:50.334Z,@apiverve/tickersymbols,1.2.2,apivervehq,MIT,17625,"Ticker Symbols identifies what a ticker symbol is and where it trades. Look up a symbol to get every listing that carries it across the US and 18 international stock markets, cryptocurrencies, future…"
+2026-10-21T00:46:02.29Z,vue-cmdk-palette,1.0.0,jan.tursky,MIT,430439,"Lightweight, accessible command palette for Vue 3: headless composable plus a ready-made dialog component."
+2026-10-21T00:46:52.131Z,@apiverve/dtclookup,1.2.2,apivervehq,MIT,19241,"DTC Lookup explains OBD-II diagnostic trouble codes such as P0301 or U0100. It returns the code's system and standard title, which warning light it turns on, and on paid plans the full description, l…"
+2026-10-21T00:47:36.977Z,@apiverve/balancesheet,1.2.2,apivervehq,MIT,18650,"Balance Sheet is a stock balance sheet API that returns the statement of financial position for a US public company by ticker - assets, liabilities and shareholders' equity - straight from SEC filing…"
+2026-10-21T00:47:59.394Z,@alpharder/fast-rfc6902-json-diff,1.0.1,alpharder,MIT,35968,"The fastest RFC 6902 JSON diff generator. Compact array diffs, optional move detection and zero runtime dependencies. Built for Node.js and Bun."
+2026-10-21T00:48:03.758Z,@apiverve/jobsearch,1.2.2,apivervehq,MIT,19492,"Job Search is a jobs API that searches the open positions at thousands of companies at once. Search by job title keywords, location, country, remote work, employment type, posting date or company, an…"
+2026-10-21T00:48:34.594Z,@apiverve/jobpostings,1.2.2,apivervehq,MIT,22133,"Job Postings is a jobs API that returns the open positions on a company's public career board. Every job comes back in the same shape: title, department, team, locations, remote and workplace type, e…"
+2026-10-21T00:48:44.631Z,@zhin.js/plugin-answers,0.0.0,lc_cn,MIT,115959,Zhin.js 答案之书、趣味选择题与交规小测（原创内容，Plugin Runtime）
+2026-10-21T00:50:37.586Z,@terminal7/plugin-solana-agent-kit,1.0.0,linkmarine777,MIT,8932,"Terminal 7 data for Solana Agent Kit: stonkfun coin signals, scores and payouts (read-only)."
+2026-10-21T00:50:40.781Z,@terminal7/plugin-elizaos,1.0.0,linkmarine777,MIT,8351,"Terminal 7 data for ElizaOS agents: stonkfun coin signals, scores and payouts on Solana (read-only)."
+2026-10-21T00:50:59.104Z,@rippling/apps,0.1.0,divyansh_rippling,,712626,"Shared Rippling Apps UI components and design tokens: Base UI + shadcn-style controls, a data grid, and generated CSS themes."
+2026-10-21T00:51:37.431Z,nostr-git,0.1.0,zoreu,MIT,177074,"Git descentralizado sobre Nostr e Blossom: init, login, add, commit, push, clone e interface web."
+2026-10-21T00:52:35.59Z,@md-expressive/react,0.0.2,spidunno,Apache-2.0,81979,React components for @md-expressive/web-components (Material 3 Expressive).
+2026-10-21T00:52:43.075Z,@zhin.js/plugin-bilibili,0.1.0,lc_cn,MIT,161805,Bilibili live-start and UP dynamic subscriptions for Zhin.js (Plugin Runtime)
+2026-10-21T00:54:03.808Z,vatucheck,0.0.3,bielbal,,1668,
+2026-10-21T00:54:49.856Z,@kshuk/pi-fsm,0.1.0-rc1,kshuk,MIT,151778,Детерминированное управление жизненным циклом разработки через конечные автоматы (FSM) с координированием субагентов pi-subagents для pi.dev
+2026-10-21T00:54:56.795Z,@campfirecreative/spectrapass,1.0.0,campfirecreative,MIT,19251,Open-Source Phishing-Proof Visual Optical Two-Factor Authentication SDK & Protocol
+2026-10-21T00:55:29.312Z,@zhin.js/plugin-earthquake,0.1.0,lc_cn,MIT,184864,"Earthquake query and group alert plugin for Zhin.js — CENC + USGS, magnitude/region subscriptions (Plugin Runtime)"
+2026-10-21T00:55:39.582Z,@campfirecreative/paperdrive,1.0.0,campfirecreative,Apache-2.0,17161,Ultra-Dense Physical Hardcopy Archival Storage with 24-bit Color Matrices & Galois Field Reed-Solomon Error Correction
+2026-10-21T00:56:08.596Z,@campfirecreative/chromavault,1.0.0,campfirecreative,MIT,21995,Zero-Knowledge Steganographic Photo Vault and Shard Carrier Engine
+2026-10-21T00:56:11.695Z,dsh-remove-session,0.1.4,nanian0101,MIT,80044,"Adds a red “Delete session” action to every Session's “...” menu, with a confirmation dialog and a real on-disk delete. | 在会话「...」菜单末尾增加红色“删除会话”，二次确认后真正删除会话记录。"
+2026-10-21T00:56:49.134Z,umich-dining-mcp,0.1.1,esreddy2,MIT,195014,"MCP server for University of Michigan Ann Arbor dining halls: menus, traits, allergens, nutrition and hours"
+2026-10-21T00:57:04.113Z,@gitmyabi/nftp,1.0.0,gitmyabi-bot,MIT,24836,"Auto-generated TypeScript type bindings for NFTP (build etherscan-nftp-68bb81b3-1792544199170, commit 0f23d71, branch etherscan)"
+2026-10-21T00:57:46.317Z,@campfirecreativellc/spectrapass,1.0.0,campfirecreative,MIT,19254,Open-Source Phishing-Proof Visual Optical Two-Factor Authentication SDK & Protocol
+2026-10-21T00:57:57.406Z,@campfirecreativellc/paperdrive,1.0.0,campfirecreative,Apache-2.0,17164,Ultra-Dense Physical Hardcopy Archival Storage with 24-bit Color Matrices & Galois Field Reed-Solomon Error Correction
+2026-10-21T00:57:58.337Z,@zhin.js/plugin-nettools,0.1.0,lc_cn,MIT,270069,"Network tools plugin for Zhin.js — multi-region ping, RDAP whois, DNS-over-HTTPS lookup and domain price comparison (Plugin Runtime)"
+2026-10-21T00:57:58.662Z,dsh-kugou-music,0.1.1,dasaz,MIT,635019,在 DeepSeek Harness 里搜索、播放酷狗音乐：本机歌单解密、逐字歌词与翻译、两套 UI、自定义热键与播放模式。
+2026-10-21T00:58:07.804Z,@campfirecreativellc/chromavault,1.0.0,campfirecreative,MIT,21998,Zero-Knowledge Steganographic Photo Vault and Shard Carrier Engine
+2026-10-21T00:58:08.237Z,openmesh,0.1.0,alhousseinmed,,125089,"OpenMesh for OpenClaw: find other AI agents, talk to them end-to-end encrypted, and save them as contacts."
+2026-10-21T01:00:52.806Z,@zhin.js/plugin-ledger,1.0.0,lc_cn,MIT,133703,"Personal expense ledger for Zhin.js (Plugin Runtime): per-user entries in integer cents, period and category summaries, group privacy and an opt-in daily report"
+2026-10-21T01:01:22.077Z,@zhin.js/plugin-roulette,0.1.0,lc_cn,MIT,61537,Zhin.js 俄罗斯轮盘 — 多人轮流开枪，可按群开启禁言惩罚 (Plugin Runtime)
+2026-10-21T01:02:33.509Z,@simply-material/floating-ui-core-synchronous,1.8.0,makmn1,MIT,234765,Generated synchronous variant of @floating-ui/core
+2026-10-21T01:02:33.676Z,@pattform/capability-web-app,1.0.0,pattform,SEE LICENSE IN LICENSE,33935,"Pattform WebApp capability: a single-page app on Amplify at one subdomain, with optional DNS and its own Auth0 SPA client"
+2026-10-21T01:02:42.526Z,@heyarlen/cli,0.1.0,soamikapadia,MIT,64210,Search and read your Arlen meetings from the terminal or a coding agent
+2026-10-21T01:03:03.969Z,@hwfee/dsh-genui,0.1.0,hwfee,MIT,128450,DeepSeek Harness 的生成式 UI 插件：模型用 render_ui 工具直接写一段 React 代码，回答里就地渲染成一张可交互卡片，而不是只给文字。附带一个内置 skill，教模型什么时候值得用界面、什么时候一段话就够。代码在插件自己的沙箱里求值：fetch / XMLHttpRequest / 定时器 / require / window / document / local…
+2026-10-21T01:03:29.963Z,emailvet,0.1.0,stayml,MIT,22116,Provider-aware email address canonicalization.
+2026-10-21T01:03:47.759Z,@hwfee/dsh-git-bash,0.1.0,hwfee,MIT,72428,DeepSeek Harness 的 Git Bash 默认 shell：把 Windows 上的默认命令解释器从 PowerShell 换成 Git Bash，并暴露一个 run_shell 工具。自动从 git --exec-path 定位 Git Bash（WSL 的 bash 不算），找不到时降级而不是让插件消失。 / Git Bash as the default shell for…
+2026-10-21T01:04:00.327Z,@factline/ai-sdk,0.1.0,factline,MIT,8630,"Factline checks as Vercel AI SDK tools: supplier invoice check, European company check, Chinese supplier check, sanctions and US trade screening, x402 pay guard, SEC company lookup."
+2026-10-21T01:04:04.76Z,@silverpoint/mcp,0.7.0,ecrespo,MIT,808638,"An MCP server for silverpoint: the agent catalog as tools and resources, a chart recommender, code generation, prop validation and the canonical render."
+2026-10-21T01:04:14.011Z,ergane,0.0.0,howardchenghuang,Apache-2.0,640,Your AI says it's done. Ergane makes it prove it. Coming soon.
+2026-10-21T01:04:32.643Z,@hwfee/dsh-predict,0.1.0,hwfee,MIT,81394,"下一句：在回答后建议下一条输入，Tab 填入，不自动发送；支持选择预测模型。 / Next Prompt: next-message suggestions with Tab to fill, no auto-send, and a configurable model."
+2026-10-21T01:05:22.648Z,@didx509/core,0.1.0,ajayaw,MIT,1574435,TypeScript implementation of the did:x509 DID method - bridges X.509 certificates with Decentralized Identifiers
+2026-10-21T01:05:46.338Z,@ziyarago/ui,0.1.1,ahmedov.shaxzod,MIT,6981234,"ZiyaraGo UI — glass design system for Umrah and Hajj products. OKLCH tokens, two palettes, dark and light, RTL, Thmanyah. One framework-neutral core with Vue 3, Nuxt and React adapters, 160+ componen…"
+2026-10-21T01:07:27.005Z,@avaecho/sdk,0.1.5,davenorris,MIT,45893,AvaEcho browser SDK: mount a live avatar into an element (protocol v1). Framework-free TypeScript.
+2026-10-21T01:08:00.543Z,@didx509/credo,0.1.0,ajayaw,MIT,51548,did:x509 method registry for credo-ts — resolve did:x509 DIDs in Credo agents
+2026-10-21T01:08:11.364Z,@ziyarago/ui-mcp,0.1.1,ahmedov.shaxzod,MIT,14370,"MCP server and project setup for @ziyarago/ui: lets AI coding tools find components, props and page templates and build interfaces with them."
+2026-10-21T01:09:15.21Z,sonarfolio,0.2.0,jlunarcrush,UNLICENSED,29938,"Your Sonar portfolio, social and onchain data in the terminal. Read-only, with a personal API key."
+2026-10-21T01:09:25.182Z,dsh-mnemon-source-skills,0.5.1,grivn,MIT,586189,"Skills Source for Composable View Memory: DSH skill management, evolution suggestions, evidence trajectories and eval sets."
+2026-10-21T01:14:11.288Z,dsh-herdr,0.0.0-stage,ahqrt,,331,Temporary package placeholder for staged publishing
+2026-10-21T01:15:29.969Z,@gitmyabi/eulerswap,1.0.0,gitmyabi-bot,MIT,210005,"Auto-generated TypeScript type bindings for EulerSwap (build etherscan-eulerswap-9b8d14d2-1792545304722, commit 76ef6f5, branch etherscan)"
+2026-10-21T01:18:00.063Z,dsh-update-safe,0.0.0-stage,dazhuangzu,,337,Temporary package placeholder for staged publishing
