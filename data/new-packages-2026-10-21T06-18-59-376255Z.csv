@@ -1,0 +1,129 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-21T05:16:09.86Z,@workplane/mcp,0.6.0,sylonzero,MIT,124186,"MCP server for operating a Workplane fleet from Claude Code, Cursor and other MCP clients"
+2026-10-21T05:16:53.566Z,@nexllm/ai-sdk-provider,0.1.0,nexllmsupport,MIT,64177,NexLLM image provider for the Vercel AI SDK (OpenAI-compatible POST /v1/images/generations)
+2026-10-21T05:16:58.936Z,@motionharness/bridge-davinci,0.0.22,chenbit,Apache-2.0,2394501,Optional DaVinci Resolve adapter for the Hotion Harness CLI
+2026-10-21T05:17:21.84Z,@polleoai/gryphon-provider-runtime,2.12.2,polleoai,MIT,883860,"AI provider runtime for Gryphon: one interface over the Claude Code, Codex and Antigravity command-line assistants and the Anthropic, OpenAI and Google APIs, with tool loops, streaming, cancellation…"
+2026-10-21T05:19:12.757Z,@coda-console/plugin-check,0.4.4,leavan,MIT,139070,Coda 插件的契约检查：扮演 Coda 读清单、启动 Agent 讲 ACP 与 _coda/wait、读面板。
+2026-10-21T05:19:24.045Z,hyrox-libsignal,1.0.0,hyrox,GPL-3.0,130235,Open Whisper Systems' libsignal for Node.js
+2026-10-21T05:19:55.872Z,@neurynae/ratifaigate-sidecar-win32-x64,0.0.11,neurynae-dev,,15463122,"Prebuilt RatifAIGate sidecar binary for win32/x64. Not for direct use — installed automatically as an optionalDependency of @neurynae/ratifaigate when it matches the host platform (A3, docs/OUTCOME-L…"
+2026-10-21T05:20:20.655Z,@neurynae/ratifaigate-sidecar-darwin-arm64,0.0.11,neurynae-dev,,14121936,"Prebuilt RatifAIGate sidecar binary for darwin/arm64. Not for direct use — installed automatically as an optionalDependency of @neurynae/ratifaigate when it matches the host platform (A3, docs/OUTCOM…"
+2026-10-21T05:20:28.378Z,@neurynae/ratifaigate-sidecar-darwin-x64,0.0.11,neurynae-dev,,15185910,"Prebuilt RatifAIGate sidecar binary for darwin/x64. Not for direct use — installed automatically as an optionalDependency of @neurynae/ratifaigate when it matches the host platform (A3, docs/OUTCOME-…"
+2026-10-21T05:20:35.726Z,@neurynae/ratifaigate-sidecar-linux-x64,0.0.11,neurynae-dev,,14922430,"Prebuilt RatifAIGate sidecar binary for linux/x64. Not for direct use — installed automatically as an optionalDependency of @neurynae/ratifaigate when it matches the host platform (A3, docs/OUTCOME-L…"
+2026-10-21T05:20:51.173Z,@neurynae/ratifaigate-sidecar-linux-arm64,0.0.11,neurynae-dev,,13734912,"Prebuilt RatifAIGate sidecar binary for linux/arm64. Not for direct use — installed automatically as an optionalDependency of @neurynae/ratifaigate when it matches the host platform (A3, docs/OUTCOME…"
+2026-10-21T05:21:04.115Z,scopeburn,0.0.1,rorena15,MIT,177845,"Roadmap burn-up meets Claude Code token cost: see scope creep, per-item cost, and how much it will take to finish."
+2026-10-21T05:21:42.973Z,mori-study,0.1.0,nazifbd,MIT,1700955,Create a local study portal and install the Mori Study skill for your AI agent.
+2026-10-21T05:22:28.276Z,create-aiaui-module,0.1.1-TEST,hhaha,,320077,AIAUI Instance module scaffolder: generate editable module (FastAPI + Vue frontend) with one npx command
+2026-10-21T05:22:42.891Z,@coda-console/claude,1.3.1,leavan,MIT,76453,Claude SDK Agent：Coda 基于 Claude Agent SDK 写的 ACP 入口，一个进程一个 SDK 会话；资源页的「Claude」面板显示会话报告的额度，可从 Coda 登录。
+2026-10-21T05:22:52.127Z,@coda-console/codex,1.6.1,leavan,MIT,68863,Codex Agent：Coda 自带的入口运行 codex-acp，报告子 Agent 与后台命令。额度与登录由账号来源插件接管；未接入账号来源时使用 Codex 自己的登录面板。
+2026-10-21T05:22:56.253Z,n8n-nodes-verified-net,0.1.1,verifiednet,MIT,128186,"n8n node for Verified.net: verify email addresses, validate phone numbers, live carrier and porting lookups, IP intelligence, contact verification and reverse lookups"
+2026-10-21T05:23:02.617Z,konjir,0.0.1,icedlee337,UNLICENSED,286,Reserved for the Konjir CLI (https://kolab.konjir.com). Not yet released.
+2026-10-21T05:23:04.942Z,elcode-forge,0.6.0,luksluki,MIT,15143,Zero-install npm wrapper and binary runner for ELCODE Forge (eforge)
+2026-10-21T05:23:11.169Z,@coda-console/codex-accounts,2.1.1,leavan,MIT,33418,在 Coda 内管理 Codex 账号：自动纳入已有登录，添加与移除账号、自动续期、查看额度和使用完全重置；接管 Codex 额度面板，所选账号在会话开始和两轮之间生效。
+2026-10-21T05:23:23.273Z,@coda-console/cursor,1.1.2,leavan,MIT,22408,Cursor Agent：Coda 的入口在运行机的 Cursor CLI（cursor-agent acp）与 Coda 之间转发，并把会话指令放进原生会话的第一轮；每个会话一个进程。
+2026-10-21T05:23:29.543Z,dsh-lan-link,0.2.1,sqzw,MIT,77066,"Give this harness process LAN access: publish its authenticated launch links to <harness home>/lan-link.txt (and DSH_LAN_LINK), and optionally serve devices directly on a fixed LAN port — the session…"
+2026-10-21T05:23:35.891Z,@coda-console/grok,1.3.1,leavan,MIT,24707,Grok Agent：适配运行机上 Grok CLI 的 ACP 与审批模式；资源页的「Grok」面板显示账号与额度，可从 Coda 安装和登录。
+2026-10-21T05:23:50.772Z,@coda-console/kimi,1.2.1,leavan,MIT,81179,Kimi Code Agent：Coda 的入口在运行机的 kimi acp 与 Coda 之间转发，读 Kimi 的会话文件报出后台命令与子 Agent；资源页的「Kimi」面板显示账号与额度，可从 Coda 安装和登录。
+2026-10-21T05:24:09.695Z,@erdu-ec/nuxt-backend-data,1.1.1,erdu-ec,,28916,Reusable typed backend data and fetch composables layer for Nuxt applications
+2026-10-21T05:24:11.031Z,@coda-console/opencode,1.1.2,leavan,MIT,22401,OpenCode Agent：Coda 的入口在运行机的 opencode acp 与 Coda 之间转发，并把会话指令放进原生会话的第一轮。
+2026-10-21T05:24:20.644Z,@coda-console/review,2.4.3,leavan,MIT,83575,会话开的 PR 从开出来起一条流程：每个新版本先跑项目声明的检查，再请另一家 Agent 评审，要求修改时交给开 PR 的会话处理、有分歧时交给你仲裁；通过后请你批准合并，合并后按你的选择调用项目的部署、发布流程，PR 合并或关闭时结束。
+2026-10-21T05:25:11.941Z,dsh-niuma,0.1.1,olimc2026,MIT,490940,牛马加速器 — DSH 工资换算实时计数器：按实收月薪、上下班时间、午休（可设是否算工时）、法定节假日自动折算秒/分/时/日/周/月工资，工资每秒滚动增长。Community salary ticker plugin for DeepSeek Harness.
+2026-10-21T05:25:12.844Z,pi-hofund,0.1.0,flynnham,MPL-2.0,118794,"Bifrost AI Gateway control-plane extension for Pi (models, MCP, skills, prompts)"
+2026-10-21T05:25:55.184Z,plainbot,0.0.1,beorno,MIT,104,Package name held for future use.
+2026-10-21T05:26:01.269Z,pi-ptts,0.1.0,esaadster,MIT,20095,On-demand spoken Pi responses through local Phonon ptts
+2026-10-21T05:27:04.984Z,@evrt/stage-seq-test,1.0.1,evrt,MIT,188,throwaway: measuring npm _changes seq assignment for staged publishes
+2026-10-21T05:27:44.36Z,@sophonz/orchestrate,0.1.0,eunchurn,UNLICENSED,11547,"Install the sophonz orchestration skills into Claude Code and Codex, so one coding agent can delegate work to others across tmux and across machines."
+2026-10-21T05:27:50.112Z,@vouchington/html-sanitizer,0.1.0,jongleberry,MIT,13458,Policy-injected HTML fragment sanitizer.
+2026-10-21T05:27:53.536Z,@vouchington/script-loader,0.1.0,jongleberry,MIT,10612,Shared browser script loader and a Cloudflare Turnstile widget hook.
+2026-10-21T05:28:02.41Z,@veril.ai/proctoring-sdk,0.0.1,veeranaveen-gmx,MIT,789501,"Drop-in browser SDK for Veril-grade proctored, verified assessments (face verification + environment monitoring)."
+2026-10-21T05:28:22.294Z,aide-agent,0.0.1,nrslib,MIT,708,"AIDE - AI Decides and Executes. React to a message, and your AI aide decides what needs to be done and gets it done. (Work in progress)"
+2026-10-21T05:29:39.862Z,@albahadly/formsgen-renderer,0.1.0,albahadly,MIT,1075094,Standalone Vue 3 renderer for FormsGen JSON form schemas
+2026-10-21T05:29:42.77Z,@albahadly/formsgen-cli,0.1.0,albahadly,MIT,2289137,"FormsGen from the command line: export a form's code, validation rules or project package from its .formsgen.json"
+2026-10-21T05:30:20.784Z,@fave1/cli,0.1.0,fave1.js,MIT,54244,Ship Fave1 apps from your machine.
+2026-10-21T05:30:46.418Z,reviewer-harness,1.2.0,xcell321,MIT,64654,"Your own AI harness — one master config that syncs guardrail rules, skills, and a local memory to Claude, OpenCode, Gemini, and Cline. No API key, no dependencies."
+2026-10-21T05:31:12.022Z,@dippingorange/dsh-conductor,1.0.5,dippingorange,MIT,69330,Route implementation work from the main model to executor models and collect their reports.
+2026-10-21T05:31:15.882Z,dsh-claude-skin,0.2.1,xiang9916,MIT,726004,Claude 风格 DSH Web 界面皮肤（fork 自 @pakiknowledge/dsh-client-ui-skin-claude）：暖黑画布、陶橙点缀、Anthropic 字体模式、跟随原生亮/暗主题
+2026-10-21T05:31:19.234Z,@dippingorange/dsh-conductor-ui,1.0.5,dippingorange,MIT,84286,"Web task board for Conductor: live task status, reports, cancellation, and follow-ups."
+2026-10-21T05:31:48.715Z,@garvj65/tinytrace,1.0.0,garvj65,MIT,112958,"A small, zero-runtime-dependency error tracking SDK for Node.js"
+2026-10-21T05:31:50.678Z,telefonica-storybook,0.1.1,acl.gabriel,MIT,25922,"A Next.js project with Storybook, Tailwind CSS, and TypeScript."
+2026-10-21T05:31:52.914Z,@vaam-apps/vitepress-md3,1.0.1,selast-lambou,MIT,354694,"A Material Design 3 theme for VitePress — standard or Expressive, generated from one seed colour. The house style of every vaam-apps documentation site."
+2026-10-21T05:33:23.62Z,@fave1/create-app,0.1.0,fave1.js,MIT,167100,Start a Fave1 app.
+2026-10-21T05:34:20.383Z,@onesim/esim-compatible-devices,1.0.0,hello.daniyar,MIT,90203,"Curated list of eSIM-compatible phones and tablets as JSON, with lookup and search helpers"
+2026-10-21T05:34:46.979Z,bluemilk,0.1.0,lukesong2000,MIT,72275525,BlueMilk CLI: shared app-server and Mod management for Windows
+2026-10-21T05:35:25.507Z,postroo,0.1.0,thebugeater,UNLICENSED,48759,"CLI and MCP server for Postroo social publishing, brands, media, analytics and conversations."
+2026-10-21T05:37:19.898Z,@oatscenter/trellis-testkit,0.0.0,abalmos,Apache-2.0,477,Name registration for the Trellis testkit; use a released version for its API.
+2026-10-21T05:38:04.392Z,@spawnite/bake,0.1.0-beta.41,spawnite-bot,SEE LICENSE IN LICENSE.md,49417,"The model bake: measures every model file in a game's folder into the manifest the room and every page read, and rebakes it while the dev server runs."
+2026-10-21T05:38:06.274Z,echarts-docs-mcp,1.0.3,xiaopangzi,,11785,An MCP server for querying ECharts documentation remotely
+2026-10-21T05:38:29.737Z,publish-your-pi-package,0.1.0,shengxiao04,MIT,13479,"Want to publish your own Pi package but not sure where to start? This skill takes you from package.json to versioning, npm release, and post-publish checks. / 想发布自己的 Pi package 但不知道如何开始？这个 skill 会带你完…"
+2026-10-21T05:40:23.052Z,@timgong/dsh-public-access,2.1.0,timgong,MIT,101270,"DeepSeek Harness plugin - public/LAN access (0.0.0.0 + trusted hosts) with login auth, compatible with dsh 0.2.1-rc.2 (laoer fork)"
+2026-10-21T05:41:57.957Z,@ronna/fixml-lsp,1.0.0,ronna,MIT,472462,"An XML language server with diagnostics, completion, and hover support"
+2026-10-21T05:42:10.787Z,opencode-sidebar-plugins,0.0.0-stage,alexeyshirshov,,346,Temporary package placeholder for staged publishing
+2026-10-21T05:42:15.565Z,@powercess/tfgm-sidecar-mcp,0.1.0,cn059,,45981,Read-only MCP adapter for TerraFirmaGreg Sidecar server telemetry
+2026-10-21T05:44:31.001Z,@xm-soft/sdk,0.1.0,xmsoft,MIT,35091,Xmsoft Cloud 客户端 SDK：统一网关，安全调用云端后端能力（数据库、登录、服务函数、AI、实时协作）
+2026-10-21T05:46:08.634Z,dsh-session-lock,0.1.0,yzyiii,MIT,54288,Passcode lock for DeepSeek Harness Sessions: a locked Session cannot be opened for viewing in the Web UI. / 用口令锁定 DSH 会话：锁定后必须输入口令才能在界面中打开查看。
+2026-10-21T05:46:29.361Z,spiral-coder,0.2.0,ryospiralarchitect323,Apache-2.0,61139180,Spiral-Coder terminal agent with coupled Coder and Observer
+2026-10-21T05:46:56.644Z,axios-scaffold-kit,0.1.0,masum2617,MIT,67594,Generate an editable JavaScript Axios API starter with optional authentication hooks and consent-controlled Axios installation.
+2026-10-21T05:48:08.303Z,@walkscape-community/data-api-client,0.0.1,jschuler5446,MIT,302708,"Unofficial, fully typed TypeScript client for the WalkScape Data API"
+2026-10-21T05:48:41.035Z,@oscarlin007/piece-tinyfish,0.1.0,oscarlin007,MIT,2105157,TinyFish Web Agent integration for Activepieces
+2026-10-21T05:52:11.678Z,n8n-nodes-qpost,0.1.1,arslan2012,MIT,115068,"n8n node for QPost: publish videos and images to TikTok, Instagram and YouTube from a workflow"
+2026-10-21T05:53:07.12Z,dsh-text-preset,0.2.1,xiang9916,MIT,165012,DeepSeek Harness (DSH) 纯净写作协作预设插件（fork 自 chuanban-dsh-writingset）
+2026-10-21T05:53:41.18Z,@kenyaemr/esm-oncology-app,5.4.6-pre.1359,dkibet,MPL-2.0,10570061,Oncology App for KenyaEMR
+2026-10-21T05:53:43.093Z,pg-dolly-schema,0.0.1,jacobley,MIT,25151,"Keep a schema.sql of what your Postgres migrations build: migrate an empty database, dump it, and fail CI when the committed file is stale."
+2026-10-21T05:54:29.174Z,@heartlandone/vega-react-sandbox-pr-3345-0a5ecaf5d91367edf62d341e2c4d5ce5e2df928a,2.107.0,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-10-21T05:54:33.708Z,@ohos-ports/shopify-function-runner,5.1.4-beta.0,ljry,Apache-2.0,16763044,Run Shopify Functions
+2026-10-21T05:54:33.92Z,@arcmanagement/agentmemory-sdk,0.1.0,akihiro2526,MIT,28400,Typed client for the Agent Memory machine API
+2026-10-21T05:54:39.248Z,@heartlandone/vega-vue-sandbox-pr-3345-0a5ecaf5d91367edf62d341e2c4d5ce5e2df928a,2.107.0,aprilzhu,UNLICENSED,147889,Vue specific wrapper for @globalpayments/vega
+2026-10-21T05:54:39.751Z,@heartlandone/vega-sandbox-pr-3345-0a5ecaf5d91367edf62d341e2c4d5ce5e2df928a,2.107.0,aprilzhu,UNLICENSED,39682791,Vega - the design system of Global Payment Systems
+2026-10-21T05:54:43.429Z,@heartlandone/vega-angular-sandbox-pr-3345-0a5ecaf5d91367edf62d341e2c4d5ce5e2df928a,2.107.0,aprilzhu,UNLICENSED,2042377,Angular specific wrapper for @globalpayments/vega
+2026-10-21T05:55:02.122Z,glitchless-playtest,0.1.0,banjtheman,MIT,34905,"Playtest every change: autoplay bots play your web game on the current code and on a saved baseline, and Glitchless flags what got slower or started breaking."
+2026-10-21T05:55:28.486Z,glitchless-mcp,0.1.0,banjtheman,MIT,20661,"Glitchless MCP server: lets any coding agent (Claude Code, Codex, Cursor and others) read your game's player telemetry and ranked findings, and run playtest bots."
+2026-10-21T05:55:28.795Z,dsh-theme-palette,1.3.2,zhuoerbufan,MIT,175767,DSH 主题配色：4 套配色 × 明暗两模式，OKLCH 色域安全重建 + 真实承载面对比度求解，可调强度与面板表面。
+2026-10-21T05:55:31.783Z,glitchless,0.1.0,banjtheman,MIT,534850,"Glitchless browser SDK — frame-time, hitch, error and gameplay telemetry for web games, with an in-game overlay and WebMCP tools for coding agents."
+2026-10-21T05:55:31.915Z,@nebulaaa/journal,1.0.0,reyn,MIT,24599,日志记录扩展包
+2026-10-21T05:55:34.674Z,somraj,1.0.1,iamsomraj,MIT,23499,"Somraj Mukherjee's portfolio, in your terminal. Run: npx somraj"
+2026-10-21T05:58:14.847Z,@ceefex/flared-object-client,0.1.0,dyzulk,MIT,47839,"Lightweight, zero-dependency client SDK for flared-object edge storage gateway"
+2026-10-21T05:59:17.97Z,@luke8050/trellis-plus,2.1.0,luke8050,MIT,178837,为 trellis init 过的 OpenCode 项目加一层确定性门禁与 S/M/L 分级流程
+2026-10-21T06:00:27.361Z,@edgesweden/consent,0.0.0,henrikwinterstam,MIT,109,Placeholder. Install 0.1.0 or later.
+2026-10-21T06:00:35.38Z,lsw-template-cli,3.0.0,li-xiaobai,MIT,8620,Vue3 多端项目模板脚手架，一条命令拉取 PC / App 模板
+2026-10-21T06:01:40.458Z,braces-rs,1.0.0,gauravsaini,,1054415,Fast Rust-powered drop-in replacement for micromatch/braces
+2026-10-21T06:02:54.689Z,@o11/sdk,0.1.4,aoztanir,MIT,277651,o11 Wallet TypeScript client and o11 command
+2026-10-21T06:04:00.72Z,@xstd/observable-async-function,0.1.0,lifaon74,MIT,71823,AsyncFunction mixed with ListenerResource
+2026-10-21T06:05:53.415Z,risk-annotate,0.1.0,build-with-jigar,MIT,80798,Annotate the risk signals in AI-agent-generated changes so developers know where to look first when reviewing.
+2026-10-21T06:05:53.921Z,@types/pasoonate,1.4.0,types,MIT,9893,TypeScript definitions for pasoonate
+2026-10-21T06:05:55.131Z,@easychan/easytiny-mcp-win32-x64,0.1.0,easychan,SEE LICENSE IN THIRD_PARTY_NOTICES.md,23973470,easytiny-mcp 的 Windows x64 编码器
+2026-10-21T06:06:03.767Z,easytiny-mcp,0.1.0,easychan,MIT,29244,MCP server for visually lossless batch image compression
+2026-10-21T06:06:19.551Z,dsh-plugin-omni-plan,0.0.1-beta,ives-jz,MIT,690472,"Global always-on-top AI plan board and context-anchor memory for every DSH session, with local REST/SSE and MCP access."
+2026-10-21T06:07:13.205Z,@sakibcoolz/core,0.1.2,sakibcoolz,MIT,392244,"Framework-neutral scene model, port graph, validation and routing for 3D SCADA scenes."
+2026-10-21T06:07:21.109Z,redis-exchange,0.1.0,shiningray,MIT,245778,Redis-backed matching engine client (TypeScript) powered by the same Lua scripts as the redis_exchange Ruby gem
+2026-10-21T06:07:22.198Z,crawlmind,0.1.0,everhard,MIT,812022,"AI-native SEO audits from the terminal or any MCP client: broken links, internal link suggestions, page speed by template, crawl diffs."
+2026-10-21T06:07:27.182Z,@sakibcoolz/components,0.1.1,sakibcoolz,MIT,219392,"Industrial component catalog (tank, pipe, valve, fittings) for @sakibcoolz/core."
+2026-10-21T06:07:29.786Z,@sakibcoolz/asset-import,0.1.1,sakibcoolz,MIT,95698,Optional allow-list SVG sanitizer and shape model for the 3D SCADA SDK (no DOM dependency).
+2026-10-21T06:07:31.948Z,@sakibcoolz/simulation,0.1.1,sakibcoolz,MIT,163396,Optional deterministic mass-balance simulation for @scada3d scenes; results are always SIMULATED.
+2026-10-21T06:07:34.109Z,@sakibcoolz/react,0.1.1,sakibcoolz,MIT,468465,"React viewer and editor for 3D SCADA SDK scenes, built on three.js and React Three Fiber."
+2026-10-21T06:07:53.867Z,crawlmind-mcp,0.1.0,everhard,MIT,2507,MCP server for AI-native SEO audits. Shortcut for `crawlmind mcp`.
+2026-10-21T06:08:43.124Z,@packageio/playwright-github-actions-reporter,1.0.4,nastoiashchyi_vadym,MIT,4019,GitHub Actions reporter for Playwright
+2026-10-21T06:09:14.865Z,@11vertex/directus-extension-activity-cleanup-manager,1.0.0,kashyap-thakar,MIT,103213,"Inspect directus_activity and directus_revisions storage, review retention settings and purge per collection"
+2026-10-21T06:09:19.232Z,@11vertex/directus-extension-content-dependency-graph,1.0.0,kashyap-thakar,MIT,137893,"Visualize relationships between Directus collections and records, find orphans and analyze deletion impact"
+2026-10-21T06:09:22.782Z,@11vertex/directus-extension-discord-operation,1.0.0,kashyap-thakar,MIT,14759,Send text or rich embed messages to Discord via webhooks or a Discord bot
+2026-10-21T06:09:27.016Z,@11vertex/directus-extension-flow-debugger,1.0.0,kashyap-thakar,MIT,101253,Debug and monitor Directus Flow executions with step-level visibility from native activity history
+2026-10-21T06:09:31.517Z,@11vertex/directus-extension-flow-version-history,1.0.0,kashyap-thakar,MIT,116209,Browse and compare native Directus Flow and operation definition revisions
+2026-10-21T06:09:36.089Z,@11vertex/directus-extension-media-usage-analyzer,1.0.0,kashyap-thakar,MIT,107877,"Find unused, duplicate, oversized and broken file references across a Directus project"
+2026-10-21T06:09:40.48Z,@11vertex/directus-extension-permission-auditor,1.0.0,kashyap-thakar,MIT,84725,Scan every Directus role and policy for risky or inconsistent access and export an audit report
+2026-10-21T06:09:45.836Z,@11vertex/directus-extension-permission-simulator,1.0.0,kashyap-thakar,MIT,109086,Simulate Directus permissions for any role or user without logging in as them
+2026-10-21T06:09:49.235Z,@11vertex/directus-extension-slack-operation,1.0.0,kashyap-thakar,MIT,16007,Send Slack messages from Directus Flows via incoming webhooks or a bot token
+2026-10-21T06:09:52.642Z,@11vertex/directus-extension-teams-operation,1.0.0,kashyap-thakar,MIT,15339,Send Microsoft Teams messages and Adaptive Cards from Directus Flows
+2026-10-21T06:09:55.54Z,@withgardener/uwr,0.2.2,withgardener,MIT,27639,npx launcher for the UWR (Universal Web Retrieval) MCP server: resilient web search and fetch through a configurable provider chain with automatic failover.
+2026-10-21T06:10:14.274Z,dsh-quick-explain,1.0.3,jujiuyey,MIT,54398,Select a fragment of a chat and open a temporary side conversation that explains it — without touching the main session. A DeepSeek Harness (dsh) plugin.
+2026-10-21T06:10:42.386Z,grudge-cli,0.1.0,cairnai,MIT,95503,"Local, deterministic guards for recurring agent mistakes."
+2026-10-21T06:10:55.208Z,@bentley/dgn-connector-schema,1.0.0-dev.1,imodeljs,MIT,4959,DgnConnector BIS Domains
+2026-10-21T06:11:53.977Z,@blcklab/qrypt,0.1.0,okarin_lab,MIT,802733,"A zero-dependency, framework-agnostic TypeScript QR toolkit for generation, portable rendering, signed payloads, and matrix/image decoding."
+2026-10-21T06:11:57.753Z,@packageio/scripterio,2.0.1,nastoiashchyi_vadym,MIT,13170376,"ScripterI/O - Simple, fast, runner for testing all JavaScript"
+2026-10-21T06:12:08.659Z,noa-local-llm,0.1.0,m0de,MIT,13289,"One command to run a local model for Noa: installs Ollama if needed, lets Chrome extensions in, downloads a model."
+2026-10-21T06:12:15.904Z,claude-voice-mod,0.1.212,hopetonp,MIT,6301,Install the prebuilt VoiceMesh Mod beta for Claude Code
+2026-10-21T06:13:14.081Z,math-expression-parser,1.0.0,terncode,GPL-3.0-only,45895,A lightweight math expression parser and evaluator.
+2026-10-21T06:15:16.952Z,paseo-ratex-markdown,0.1.0,yu.w4ng,MIT,12073094,Opens Markdown files in Paseo with LaTeX math typeset by RaTeX.
+2026-10-21T06:15:17.609Z,hookshed,0.1.0,wizzardofwoz,MIT,11251,"A webhook endpoint in one command: open a URL, point Shopify, Stripe or GitHub at it, read what arrived."
+2026-10-21T06:17:55.782Z,tobub-mcp,0.0.0-stage,tobub,,331,Temporary package placeholder for staged publishing
+2026-10-21T06:18:16.028Z,artgen-ascii,0.0.0-stage,liziyu1209,,334,Temporary package placeholder for staged publishing
+2026-10-21T06:18:33.906Z,create-frappe,0.0.0-stage,sakthi10122004,,335,Temporary package placeholder for staged publishing
+2026-10-21T06:18:50.428Z,dsh-rice-on-a-stick,0.0.0-stage,leawind,,341,Temporary package placeholder for staged publishing
+2026-10-21T06:18:51.496Z,eeo-oa-workflow-mcp,0.0.0-stage,eeoai,,341,Temporary package placeholder for staged publishing
