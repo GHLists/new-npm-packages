@@ -1,0 +1,154 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-21T23:17:23.678Z,@stakpass/sdk,0.2.0,epoundor,MIT,327784,Sell StakPass event tickets from your own website or server.
+2026-10-21T23:19:07.753Z,@m2d/cache,0.1.0,mayank1513,MIT,22262,High-performance persistent caching engine for md2docx using xxhash-wasm and IndexedDB.
+2026-10-21T23:19:16.122Z,@m2d/remark-docx-node,0.1.0,mayank1513,MIT,12395,Unified compiler plugin to convert MDAST trees to DOCX on Node.js with native image rasterization and Mermaid diagram rendering.
+2026-10-21T23:19:18.378Z,@m2d/cli,0.1.0,mayank1513,MIT,20668,Command-line interface and programmatic Node.js engine for Markdown to DOCX conversion.
+2026-10-21T23:19:48.92Z,@botmesh/core,2.0.0-alpha.2,andresaya,MIT,1656390,"Transport-agnostic WhatsApp/omnichannel bot engine — flows, hooks, plugins, conversations."
+2026-10-21T23:19:51.955Z,@botmesh/http,0.2.0-alpha.0,andresaya,MIT,23097,Safe outbound HTTP primitives for BotWA providers.
+2026-10-21T23:19:56.058Z,@botmesh/graph-core,0.2.0-alpha.0,andresaya,MIT,27983,"Shared Meta Graph helpers (webhook verification, typed error mapping, ingest guard) for @botmesh/meta, @botmesh/messenger and @botmesh/instagram."
+2026-10-21T23:19:56.193Z,@botmesh/sqlite-store,0.2.0-alpha.0,andresaya,MIT,56269,Persistent SQLite IStore (better-sqlite3) for @botmesh/core.
+2026-10-21T23:19:56.355Z,@botmesh/baileys,0.2.0-alpha.0,andresaya,MIT,177413,"WhatsApp transport for @botmesh/core, built on Baileys 7 (IProvider v2)."
+2026-10-21T23:19:56.389Z,@botmesh/telegram,0.2.0-alpha.0,andresaya,MIT,81217,"Telegram Bot API transport for @botmesh/core — long-poll or webhook, inline keyboards, native polls."
+2026-10-21T23:19:56.691Z,@botmesh/ai,0.2.0-alpha.0,andresaya,MIT,299539,"Multi-provider AI autoresponder plugin (Anthropic / OpenAI / Ollama) for @botmesh/core, with per-chat conversation memory and a ctx.tools.ai client."
+2026-10-21T23:19:56.911Z,@botmesh/redis-store,0.2.0-alpha.0,andresaya,MIT,266815,"Redis IStore for @botmesh/core — distributed state, TTL, per-chat message logs."
+2026-10-21T23:20:00.23Z,@botmesh/meta,0.2.0-alpha.0,andresaya,MIT,160715,"WhatsApp Cloud API (official Meta) transport for @botmesh/core — webhook-based, no ban risk, native buttons/lists/templates."
+2026-10-21T23:22:11.949Z,@pinpawo/agent-contracts,1.0.0,pinpawo,MIT,28056,
+2026-10-21T23:22:39.104Z,asl-telegram-webapp,0.1.1,astahovvlad,asl,5896,Typed Telegram Mini App bridge and React hook
+2026-10-21T23:23:53.09Z,@miyanishar/wreck-it,0.2.0,miyanishar,MIT,227954,Wreck your app before your users do. Agent-driven testing for vibe-coded apps.
+2026-10-21T23:23:57.632Z,@pinpawo/agent-session,1.0.0,pinpawo,MIT,99680,Runtime-neutral Agent Session projection and transport contracts
+2026-10-21T23:25:54.587Z,taskwarrior-adapter,0.1.1,sief_ali,MIT,30712,"A small, typed Node.js adapter for the Taskwarrior CLI."
+2026-10-21T23:26:34.098Z,@ywkrlerche/mathwizard,1.0.0,ywkrlerche,UNLICENSED,79106,Math practice hub
+2026-10-21T23:27:54.397Z,@reylosql/postgres,0.0.0,colinhacks,MIT,513,Placeholder: Reylo's analysis engine for Postgres ships here from 0.0.1.
+2026-10-21T23:27:57.414Z,@reylosql/sqlite,0.0.0,colinhacks,MIT,501,Placeholder: Reylo's analysis engine for SQLite ships here from 0.0.1.
+2026-10-21T23:28:00.749Z,@reylosql/mysql,0.0.0,colinhacks,MIT,495,Placeholder: Reylo's analysis engine for MySQL ships here from 0.0.1.
+2026-10-21T23:28:00.994Z,@testlie/cli,0.1.2,carriergrade,MIT,5773,"Testlie command-line tool: create disposable email inboxes, wait for an email and print its one-time code or magic link, from any shell or CI job"
+2026-10-21T23:28:04.853Z,lyreto.js,0.1.0,lyreto,MIT,155491,"the official javascript library for lyreto bots: gateway, slash commands, buttons, selects, modals, presence"
+2026-10-21T23:29:39.733Z,prutify,0.0.1,royair,UNLICENSED,553,Prutify: prepaid wallet and micropayments for AI agents. Official packages are published under @prutify/*. See https://prutify.com
+2026-10-21T23:31:25.177Z,@nrz/cmd-shim,1.0.0,nextlinux,BSD-2-Clause-Patent,21055,Executable script shims for Windows
+2026-10-21T23:31:38.863Z,mclaude-cli,0.1.1,chysev,MIT,42833,"Switch Claude Code between subscription accounts, see their usage, and auto-switch when a limit is hit."
+2026-10-21T23:32:45.943Z,@ottomind/signals,0.1.0,ottomind,MIT,21374,"Publish Signals for Ottomind Search from your own website: build, validate and serve the Signals file that OttomindBot reads."
+2026-10-21T23:33:39.129Z,@dekimuhq/adr,0.4.1,dekimu,Apache-2.0,93229,"Anchored Delegation Receipts (ADR) v1 — verify (default) + issue (./issue) for AI Act / GDPR delegation receipts (6-event state machine, scope subset, sub-delegation tree)."
+2026-10-21T23:33:40.122Z,@dekimuhq/abr,0.6.2,dekimu,Apache-2.0,161700,"Anchored Breach Receipts (ABR) v1 — verify (default) + issue (./issue) for GDPR Art. 33/34, NIS2 Art. 23, DORA Art. 19 breach-notification receipts."
+2026-10-21T23:33:40.424Z,@dekimuhq/aar-profiles,0.4.3,dekimu,Apache-2.0,51075,"Regulation profile validators for AAR v1: eidas.qes, eidas.qeseal, eidas.qts, eidas.qereg, eidas.qcert.natural, eidas.qcert.legal, eidas.qwallet, eidas.qattest."
+2026-10-21T23:33:40.489Z,@dekimuhq/acr,0.7.2,dekimu,Apache-2.0,73602,Anchored Consent Receipts (ACR) v1 — verify (default) + issue (./issue) for GDPR Art. 7 / AI Act Art. 14 consent receipts.
+2026-10-21T23:33:40.494Z,@dekimuhq/abr-profiles,0.6.3,dekimu,Apache-2.0,80728,Regulation profile validators for ABR v1.
+2026-10-21T23:33:40.57Z,@dekimuhq/aar-tsl,0.2.8,dekimu,Apache-2.0,43238,EU Trust List snapshot tooling for Anchored Attestation Receipts (AAR)
+2026-10-21T23:33:40.852Z,@dekimuhq/acr-profiles,0.7.3,dekimu,Apache-2.0,45012,"Regulation profiles for ACR v1 — gdpr.art7, aiact.art14, gdpr.train."
+2026-10-21T23:33:40.961Z,@dekimuhq/action,0.6.3,dekimu,Apache-2.0,52320,Anchored Action Receipts (AActR) v1 — verify (default) + issue (./issue) for autonomous Hub-automation action receipts.
+2026-10-21T23:33:41.084Z,@dekimuhq/aar,0.4.2,dekimu,Apache-2.0,62527,Anchored Attestation Receipts (AAR) v1 — verify (default) + issue (./issue) for eIDAS QTSP issuance attestation receipts.
+2026-10-21T23:33:42.536Z,@dekimuhq/action-profiles,0.6.4,dekimu,Apache-2.0,53471,Profile validators + body types for Anchored Action Receipts (AActR) v1.
+2026-10-21T23:33:43.565Z,@dekimuhq/adr-profiles,0.4.2,dekimu,Apache-2.0,52932,"Regulation profile validators for ADR v1: aiact.art26.deployer, aiact.art14.oversight, agentops.scoped-delegation, gdpr.art28.processor, corporate.officer."
+2026-10-21T23:33:45.264Z,@dekimuhq/aer,0.3.2,dekimu,Apache-2.0,72837,"Anchored Evaluation Receipts (AER) v1 — verify (default) + issue (./issue) for EU AI Act conformity, transparency, and evaluation receipts."
+2026-10-21T23:33:45.356Z,@dekimuhq/alr,0.5.2,dekimu,Apache-2.0,92448,Anchored Lineage Receipts (ALR) v1 — verify (default) + issue (./issue) for GDPR Art.13 / AI Act transparency lineage receipts.
+2026-10-21T23:33:45.498Z,@dekimuhq/aer-profiles,0.3.3,dekimu,Apache-2.0,46038,Profile validators for Anchored Evaluation Receipts (AER) v1.
+2026-10-21T23:33:45.573Z,@dekimuhq/alr-profiles,0.5.3,dekimu,Apache-2.0,50665,"Regulation profile validators for ALR v1: gdpr.art13.transparency, aiact.art13.transparency, aiact.art53.gpai-training, c2pa.non-media, disclosure.recipients."
+2026-10-21T23:33:45.885Z,@dekimuhq/anchors-vc,0.1.2,dekimu,Apache-2.0,55214,"W3C Verifiable Credential binding for the Anchored Receipts family — carries an anchored ar.* receipt verbatim inside a VC so VC-native consumers (A2A/AP2/MCP) can ingest it, while the embedded envel…"
+2026-10-21T23:33:46.527Z,@dekimuhq/air-profiles,0.7.3,dekimu,Apache-2.0,78688,Regulation profile validators for AIR v1.
+2026-10-21T23:33:46.603Z,@dekimuhq/anr,0.7.2,dekimu,Apache-2.0,142262,Anchored Notice Receipts (ANR) v1 — verify (default) + issue (./issue) for GDPR Art.13/14/26 + AI Act Art.50 transparency notice receipts.
+2026-10-21T23:33:46.706Z,@dekimuhq/air,0.7.2,dekimu,Apache-2.0,209072,Anchored Impact-Assessment Receipts (AIR) v1 — verify (default) + issue (./issue) for GDPR Art. 35 DPIA receipts.
+2026-10-21T23:33:47.355Z,@dekimuhq/anr-profiles,0.7.3,dekimu,Apache-2.0,63198,"Regulation profile validators for ANR v1: notice.art13.collected_direct, notice.art14.collected_indirect, notice.art26.joint_controller_essence, notice.layered_transparency, notice.aiact.art50_transp…"
+2026-10-21T23:33:49.287Z,@dekimuhq/apr,0.7.3,dekimu,Apache-2.0,76462,Agent Provenance Receipts (APR) v1 — verify (default) + issue (./issue) for agent action provenance anchoring.
+2026-10-21T23:33:49.751Z,@dekimuhq/apur-profiles,0.3.3,dekimu,Apache-2.0,35072,"Regulation profile validators for APuR v1: purpose.gdpr.art5, purpose.gdpr.art6_4, purpose.hipaa.minimum_necessary, purpose.lgpd.art6."
+2026-10-21T23:33:50.474Z,@dekimuhq/atokr,0.3.2,dekimu,Apache-2.0,81297,Anchored Tokenization Receipts (ATokR) v1 — verify (default) + issue (./issue) for ar.tokenization.v1.
+2026-10-21T23:33:50.739Z,@dekimuhq/asr-profiles,0.6.3,dekimu,Apache-2.0,55460,Regulation profile validators for ASR v1.
+2026-10-21T23:33:50.784Z,@dekimuhq/asr,0.6.2,dekimu,Apache-2.0,85411,Anchored Subject-Rights Receipts (ASR) v1 — verify (default) + issue (./issue) for GDPR Chapter III data-subject rights receipts.
+2026-10-21T23:33:50.787Z,@dekimuhq/atokr-profiles,0.3.3,dekimu,Apache-2.0,37715,"Regulation profile validators for ATokR v1: tokenization.gdpr.art32, tokenization.gdpr.art4_5, tokenization.pci.dss_v4, tokenization.eudi.wallet_arf, tokenization.sector.health."
+2026-10-21T23:33:51.268Z,@dekimuhq/atr,0.3.2,dekimu,Apache-2.0,79047,Anchored Transfer Receipts (ATR) v1 — verify (default) + issue (./issue) for GDPR Chapter V cross-border data transfer receipts.
+2026-10-21T23:33:51.582Z,@dekimuhq/apur,0.3.2,dekimu,Apache-2.0,64756,Anchored Purpose Receipts (APuR) v1 — verify (default) + issue (./issue) for GDPR purpose-limitation / ROPA receipts.
+2026-10-21T23:33:51.623Z,@dekimuhq/arr-profiles,0.9.3,dekimu,Apache-2.0,50909,"Regulation profile validators for ARR v1: gdpr.art17, gdpr.art5e, hipaa.retention, kyc.retention, sox.retention, mifid2.retention, aiact.art10."
+2026-10-21T23:33:51.637Z,@dekimuhq/arr,0.9.2,dekimu,Apache-2.0,99582,Anchored Retention Receipts (ARR) v1 — verify (default) + issue (./issue) for GDPR Art.17 / HIPAA / SOX retention receipts.
+2026-10-21T23:33:53.604Z,@dekimuhq/atr-profiles,0.3.3,dekimu,Apache-2.0,42498,"Regulation profile validators for ATR v1: gdpr.art45.adequacy, gdpr.art46.scc, gdpr.art46.bcr, gdpr.art46.idta, gdpr.art47.bcr_authorised, gdpr.art49.derogation, gdpr.dpf, schremsii.tia."
+2026-10-21T23:33:55.013Z,@dekimuhq/anchors-federation,0.1.6,dekimu,Apache-2.0,58139,"Federated discovery for the Anchored Receipts protocol family. Fetch + verify per-issuer manifests (ar.issuer_manifest.v1), cross-issuer handshake orchestrator, and manifest caching. Pure library, ze…"
+2026-10-21T23:33:55.061Z,@dekimuhq/did-web-resolver,0.5.1,dekimu,Apache-2.0,61302,"did:web key resolver for the Anchored Receipts protocol family. Pure library, zero runtime npm dependencies."
+2026-10-21T23:33:55.116Z,@dekimuhq/anchors-cli,0.1.2,dekimu,Apache-2.0,43145,"Offline / third-party verifier CLI for the Anchored Receipts family — `anchors verify <file>` routes any receipt to its family verifier by claim_type, no trust in the Dekimu SaaS."
+2026-10-21T23:33:55.311Z,@dekimuhq/anchors-disclosure,0.3.1,dekimu,Apache-2.0,67039,"Tier A selective field disclosure for the Anchored Receipts family — holder-produced ar.disclosure.v1 presentations over field_root, verified without the hidden body. Pure node:crypto."
+2026-10-21T23:33:55.31Z,@dekimuhq/compliance,0.1.2,dekimu,Apache-2.0,31699,"Anchored Compliance Bundle Receipts (ar.compliance.v1) — workspace-level Proof-of-Compliance: RoPA + DPIA + obligation-satisfaction references. References, not re-derivation."
+2026-10-21T23:33:55.361Z,@dekimuhq/anchors-envelope,0.26.2,dekimu,Apache-2.0,424499,"Shared receipt envelope for the Anchored Receipts protocol family (APR/ACR/ARR/…). Owns canonicalize, sign, verify, ClaimType union. Pure library, zero runtime npm dependencies."
+2026-10-21T23:33:56.138Z,@dekimuhq/grounding-profiles,0.1.2,dekimu,Apache-2.0,30874,Profile validators + body types for Anchored Grounding Receipts (AGrR) v1.
+2026-10-21T23:33:56.214Z,@dekimuhq/grounding,0.1.2,dekimu,Apache-2.0,34984,"Anchored Grounding Receipts (AGrR) v1 — verify (default) + issue (./issue). Citation-binding + grounding-support provenance for RAG answers. Binding authoritative, score advisory."
+2026-10-21T23:33:57.554Z,@dekimuhq/grounding-check,0.1.1,dekimu,Apache-2.0,23021,Zero-dependency deterministic citation-binding + lexical grounding-support engine for RAG answers.
+2026-10-21T23:33:57.839Z,@dekimuhq/guard,0.1.2,dekimu,Apache-2.0,29781,"Anchored Guard Verdicts (AGR) v1 — verify (default) + issue (./issue). Input-screening provenance, not safety."
+2026-10-21T23:33:59.086Z,@dekimuhq/guard-detect,0.1.1,dekimu,Apache-2.0,22650,Zero-dependency deterministic detection engine for prompt-injection and jailbreak patterns.
+2026-10-21T23:33:59.669Z,@dekimuhq/redaction,0.1.2,dekimu,Apache-2.0,29091,"Anchored PII-Redaction Receipts (APIIR) v1 — verify (default) + issue (./issue). Redaction provenance, not a PII-free guarantee."
+2026-10-21T23:34:00.657Z,@dekimuhq/redaction-profiles,0.1.2,dekimu,Apache-2.0,21074,APIIR (Anchored PII-Redaction Receipts) profile validators — redaction.prompt.
+2026-10-21T23:34:00.892Z,@dekimuhq/quality-profiles,0.1.2,dekimu,Apache-2.0,26759,Profile validators + body types for Anchored Quality Receipts (AQR) v1.
+2026-10-21T23:34:01.257Z,@dekimuhq/quality,0.1.2,dekimu,Apache-2.0,36512,"Anchored Quality Receipts (AQR) v1 — verify (default) + issue (./issue). Evaluation provenance, not truth."
+2026-10-21T23:34:01.542Z,@dekimuhq/guard-profiles,0.1.1,dekimu,Apache-2.0,20306,Profile validators + body types for Anchored Guard Verdicts (AGR) v1.
+2026-10-21T23:34:01.815Z,@dekimuhq/trace,0.2.2,dekimu,Apache-2.0,43568,"Anchored Agent-Trace Receipts (AgTR) v1 — verify (default) + issue (./issue). Execution provenance, not verified behavior."
+2026-10-21T23:34:02.253Z,@dekimuhq/trace-profiles,0.2.2,dekimu,Apache-2.0,29608,Profile validators + body types for Anchored Agent-Trace Receipts (AgTR) v1.
+2026-10-21T23:34:02.422Z,@dekimuhq/trace-otel,0.1.1,dekimu,Apache-2.0,21433,Convert OpenTelemetry spans to signed ar.trace.v2 (AgTR) receipts. OTel is an optional peer dependency; the core anchors verifier stays OTel-free.
+2026-10-21T23:34:02.436Z,@dekimuhq/anchors,0.12.3,dekimu,Apache-2.0,69092,Meta-package re-exporting the Anchored Receipts family: APR + ACR + ARR + ALR + ANR + ABR + ASR + AIR + ATokR + AAR + ADR + APuR + AER + ATR.
+2026-10-21T23:34:03.246Z,@dekimuhq/anchors-transparency,0.3.2,dekimu,Apache-2.0,64084,"Verifier-side transparency-log primitives for the Anchored Receipts family (leaf hashing, inclusion/consistency proofs, C2SP checkpoints). node:crypto only."
+2026-10-21T23:34:03.388Z,@dekimuhq/anchors-trusted-issuers,1.0.1,dekimu,Apache-2.0,82125,"Signed allowlist + hash-chain governance for the Anchored Receipts protocol family. Default TrustedIssuersSource implementation backed by ar.trusted_issuers.v1 standalone-attestation. Pure library, z…"
+2026-10-21T23:34:08.803Z,@adelie/mc-agent,1.1.0,lmliheng,ISC,268922,Minecraft × LLM Agent：参考 Voyager 的自动课程 + 技能库 + 自我验证
+2026-10-21T23:34:29.8Z,@ywkrlerche/richardwho,1.0.22,ywkrlerche,UNLICENSED,79107,Math practice hub
+2026-10-21T23:34:48.731Z,@clipkit/ae-exporter,0.1.0,clipkit,Apache-2.0,2210546,"Export a Clipkit video to an editable Adobe After Effects project: comps, shape and text layers, keyframes with the same easing, expressions, footage, cameras and effects."
+2026-10-21T23:35:44.666Z,@nktnet/sync-request-curl-freebsd-arm64,0.0.0-bootstrap.0,nktnet,MIT,715,Bootstrap placeholder for @nktnet/sync-request-curl-freebsd-arm64. Install sync-request-curl instead of depending on this package directly.
+2026-10-21T23:35:50.014Z,@quilletcms/cli,1.0.0,iegorkozakov,MIT,603926,The Quillet CMS command line
+2026-10-21T23:35:58.383Z,@nktnet/sync-request-curl-freebsd-x64,0.0.0-bootstrap.0,nktnet,MIT,707,Bootstrap placeholder for @nktnet/sync-request-curl-freebsd-x64. Install sync-request-curl instead of depending on this package directly.
+2026-10-21T23:38:00.488Z,@finalai/cloud,0.1.0,finalalbert,Apache-2.0,237866,"Client and CLI for the Final Cloud public API: create apps, deploy pushed commits, follow deployments and logs."
+2026-10-21T23:38:01.012Z,stale-deploy-check,0.2.1,ikhattab,MIT,145884,Find out why users still see the old version after a deploy.
+2026-10-21T23:39:10.304Z,@nrz/spec,1.0.0,nextlinux,BSD-2-Clause-Patent,59032,Package specifier library
+2026-10-21T23:39:11.845Z,pixelmator-mcp,0.1.2,anvme,MIT,330268,"MCP server that turns Pixelmator Pro into a free, local Canva alternative for LLMs: JSON designs with constraints and auto-layout, every scripting command, menu-only features, Shortcuts actions, temp…"
+2026-10-21T23:39:14.745Z,dockerpen,0.1.0,kalaomer,GPL-3.0-or-later,1291041,"Docker, in the terminal pane: containers, logs, stats, images, volumes and networks as a real interface, over plain ssh"
+2026-10-21T23:39:54.015Z,@danielbaker06072001/featherlane-ai-ui,9.5.0,danielbaker06072001,MIT,5999831,Featherlane AI UI: a configurable design system built from a Material UI fork.
+2026-10-21T23:41:07.67Z,@ticatec/consul-client,1.0.0,henry.feng,MIT,290815,"A lightweight, robust TypeScript client for HashiCorp Consul HTTP API, featuring comprehensive KV store management, connection pooling, and dual ESM/CommonJS builds."
+2026-10-21T23:42:10.474Z,powercode-mcp,0.1.1,tomck,MIT,25085,"MCP server for the Powercode REST API (ISP/WISP billing and management): customers, tickets, billing, equipment. Read-only by default."
+2026-10-21T23:43:00.678Z,@howaboua/pi-observatory,0.0.1,howaboua,MIT,429493,"Local, SQLite-backed Pi session failure explorer"
+2026-10-21T23:43:22.387Z,@mostra/conformance,0.0.0-placeholder,mirzabicer,Apache-2.0,404,"Placeholder for Mostra's first release, which publishes through trusted publishing."
+2026-10-21T23:43:42.911Z,opencode-qq-adapter,0.1.0,fyerfyer,MIT,861406,Bridge OpenCode to QQ through NapCat / OneBot 11
+2026-10-21T23:44:25.127Z,@lmdevv/movies,0.2.0,lm-devv,MIT,1739072,"The [movies] command line: every action of a self-hosted [movies] server, JSON output for people and agents, and the agent skill."
+2026-10-21T23:45:40.067Z,asl-svg-sprite,0.1.0,astahovvlad,asl,6278,SVG sprite generator and typed React Icon
+2026-10-21T23:46:05.621Z,inkcode,0.0.1,greensammy,MIT,452,"Ink Code: a multi-agent coding tool for the terminal. Brain plans, Coder builds. Coming soon."
+2026-10-21T23:47:20.793Z,cromdb,0.1.1,skaife,MIT,818850,"An embeddable, replicated, offline-first document database with vector-clock conflict detection and document-level access control."
+2026-10-21T23:47:40.587Z,kushki-google-workspace-mcp,1.0.2,kushki-cristian,MIT,42924,"MCP server for Google Workspace — Gmail, Drive, Sheets, Calendar, Docs, Slides (31 tools over stdio)"
+2026-10-21T23:48:58.555Z,asl-figma-tokens,0.1.0,astahovvlad,asl,4837,Extract color and typography styles from Figma files
+2026-10-21T23:49:34.055Z,@envoisms/mcp-server,1.1.0,abdnaouri,MIT,11478,Official Model Context Protocol (MCP) Server for EnvoiSMS.ma
+2026-10-21T23:50:15.52Z,leti-social-admin-validators,1.0.0,faridmiri,MIT,1965,Validation helpers for the Social Network admin module (lab 3)
+2026-10-21T23:50:32.71Z,@viralnote/n8n-nodes-viralnote,0.1.0,howdyvn,MIT,133884,"ViralNote nodes for social account reads, drafts, scheduling, and publishing."
+2026-10-21T23:51:56.156Z,asl-vue-custom-toaster,0.1.0,astahovvlad,asl,10488,Customizable Vue toast provider with slots and deduplication
+2026-10-21T23:52:57.701Z,rls-probe,0.2.0,zkousama,MIT,64593,"Finds what a visitor, or another signed-in user, can read and change in a Supabase app, and which grants are safe after Supabase's 2026 grants change, by running its migrations offline"
+2026-10-21T23:53:59.531Z,@bobslab/utils,0.0.2,bobbyjsx,MIT,17763,
+2026-10-21T23:54:07.406Z,@bobslab/config,0.0.1,bobbyjsx,MIT,16328,
+2026-10-21T23:54:15.314Z,@bobslab/cli,0.0.1,bobbyjsx,MIT,199430,The official Bobslab CLI for distributing AI agent skills and workspace toolchain configs
+2026-10-21T23:54:17.765Z,@ainative/ai-kit-a2ui-core,0.1.0-alpha.1,ainative-studio,MIT,2984341,Framework-agnostic core library for A2UI (Agent-to-User Interface) protocol (v0.9) - Zero dependencies
+2026-10-21T23:54:21.522Z,@bobslab/icons,0.0.1,bobbyjsx,MIT,25175,
+2026-10-21T23:54:28.606Z,@bobslab/hooks,0.0.1,bobbyjsx,MIT,18623,
+2026-10-21T23:54:36.325Z,@bobslab/auth,0.0.1,bobbyjsx,MIT,18683,
+2026-10-21T23:54:42.585Z,@bobslab/ai,0.0.1,bobbyjsx,MIT,21197,
+2026-10-21T23:54:50.069Z,@bobslab/ui,0.0.3,bobbyjsx,MIT,309303,
+2026-10-21T23:55:30.035Z,asl-vue-toaster,0.1.1,astahovvlad,asl,7946,Small Vue toast service
+2026-10-21T23:56:56.738Z,token-vault-service,1.0.0,justinebon,ISC,6929,to help other in handling token
+2026-10-21T23:57:22.717Z,@nitwel/directus-extension-import-file,1.0.0,nitwel,MIT,53037,Flow operation that downloads one or more files from URLs into the Directus file library
+2026-10-21T23:59:36.756Z,asl-browser-waveform,0.1.0,astahovvlad,asl,4931,Build normalized audio waveform peaks in the browser
+2026-10-22T00:00:51.519Z,@panneau/media,5.0.0-alpha.4,dmongeau,MIT,52893,"The media of Panneau: the media field, which makes media of uploads and follows their ingest."
+2026-10-22T00:00:53.745Z,@pendral/trajective,0.1.0,rojithaevry,SEE LICENSE IN LICENSE,1371503,"Trajective governance SDK: emit AI traces, spans, audit and policy events from any product to the Trajective control plane, and enforce its policies locally."
+2026-10-22T00:02:18.578Z,@ainative/ai-kit-a2ui,0.1.0-alpha.1,ainative-studio,MIT,585804,A2UI (Agent-to-User Interface) renderer for React 18.3+ using shadcn/ui components
+2026-10-22T00:02:36.484Z,@timetoalign/timetoshare,0.1.0,timetoalign,MIT,2973825,"The TimeToShare! manifest schema, its fixtures, generated TypeScript types and a validator"
+2026-10-22T00:02:49Z,retold-faceting-service,1.0.0,stevenvelozo,MIT,2647337,"Facets (terms, histograms, stats, pivots) over any retold-data-service, computed from scoped meadow queries."
+2026-10-22T00:03:13.077Z,@ykurilov/agent-chat-skin-oduvanchik,0.71.0,ykurilov,MIT,563530,"`@ykurilov/agent-chat-skin-oduvanchik` - скин SDK Agent Chat, договор `ChatSkin` v29. Нейтральный фон, системный шрифт, оранжевый акцент, чёрная кнопка отправки (светлая в тёмной теме), сфера работы…"
+2026-10-22T00:03:14.015Z,protoloom,0.1.0,slne-development,MIT,896793,CLI for fetching .proto dependencies from a Protoloom registry
+2026-10-22T00:03:42.857Z,@secretref/linux-x64,0.0.0,dscafati,Apache-2.0,260,Placeholder that reserves the name. Install secretref instead.
+2026-10-22T00:03:44.941Z,@secretref/linux-arm64,0.0.0,dscafati,Apache-2.0,262,Placeholder that reserves the name. Install secretref instead.
+2026-10-22T00:03:46.955Z,@secretref/darwin-x64,0.0.0,dscafati,Apache-2.0,261,Placeholder that reserves the name. Install secretref instead.
+2026-10-22T00:03:48.64Z,rivulet-redis,0.1.0,tferreira,MIT,94567,"Realtime, animated, read-only visualizer for Redis Streams: streams, consumer groups, lag and pending entries in motion."
+2026-10-22T00:03:48.908Z,@secretref/darwin-arm64,0.0.0,dscafati,Apache-2.0,263,Placeholder that reserves the name. Install secretref instead.
+2026-10-22T00:03:50.815Z,@secretref/win32-x64,0.0.0,dscafati,Apache-2.0,260,Placeholder that reserves the name. Install secretref instead.
+2026-10-22T00:03:52.894Z,@secretref/win32-arm64,0.0.0,dscafati,Apache-2.0,262,Placeholder that reserves the name. Install secretref instead.
+2026-10-22T00:06:36.651Z,@thebattlearena/battle-arena-hooks,0.5.2,battlearena-root,,600096,Hooks + skills de Claude Code para conectar tus sesiones al colector de Battle Arena: tracking + objetivos + autocrítica de desempeño (zero-dependency).
+2026-10-22T00:06:49.344Z,astro-hydrogen,0.1.0,usernameiscarl,MIT,252365,"Astro adapter for Shopify Hydrogen: deploy to Oxygen and get a request-scoped Storefront API client in every page, with no UI framework required."
+2026-10-22T00:08:00.045Z,@next-buildr/core,2.0.0,czekanskyy,,961593,
+2026-10-22T00:08:25.601Z,@next-buildr/react,2.0.0,czekanskyy,,386356,
+2026-10-22T00:08:29.142Z,@next-buildr/components,2.0.0,czekanskyy,,613951,
+2026-10-22T00:08:33.204Z,@next-buildr/editor,2.0.0,czekanskyy,,1492035,
+2026-10-22T00:08:36.329Z,@next-buildr/next,2.0.0,czekanskyy,,605143,
+2026-10-22T00:08:40.446Z,@next-buildr/payload,2.0.0,czekanskyy,,1699676,
+2026-10-22T00:08:43.752Z,@next-buildr/mcp,2.0.0,czekanskyy,,699218,
+2026-10-22T00:09:11.731Z,@fire-spark/payments-clisitef-pinpad-rn,0.7.0,nicolasjimeneza,,38220,"Fire Spark CliSiTef (Software Express) pinpad adapter for Brazil: debit, credit and voucher on Android kiosks"
+2026-10-22T00:09:49.202Z,@shtora/omo,0.1.0,airshakur88,MIT,720125,"OpenCode V2 agent orchestration with durable plans, parallel delegation and verification"
+2026-10-22T00:10:15.078Z,@rqzhu-aide/model-forge-codex,0.9.0,rqzhu-aide,MIT,8343472,A local research workspace for developing and evaluating scientific methods with a coordinated AI team.
+2026-10-22T00:10:45.912Z,@litfamily/litmuse,0.1.0,wjgoarxiv,MIT,23306904,"Installer for LitMuse: skills, hooks and agents that help Meta's Muse Code plan, build, check and hand off work."
+2026-10-22T00:11:49.245Z,@agentgate-builder/payguard,0.1.0,agentgate-builder,MIT,102210,"OFAC SDN sanctions screening for crypto addresses, for AI agents and payment flows: exact match against every digital currency address on the US Treasury SDN list (EVM case-insensitive) with entity,…"
+2026-10-22T00:12:19.024Z,@bigbluedoor/moderngov-test,1.0.0,marcopagliarulo,MIT,52203,Utility package useful to test ModernGov template implementation.
+2026-10-22T00:13:26.741Z,@impeterwayne/figma_mcp_design,1.0.0,impeterwayne,MIT,141082290,"Figma MCP server with full read/write access via plugin bridge — no API token, no rate limits. 79 tools for design automation."
+2026-10-22T00:15:44.896Z,@litfamily/litgravity,0.1.0,wjgoarxiv,MIT,22090075,"Installer for LitGravity: skills, hooks and agents that help Google's Antigravity CLI (agy) plan, build, check and hand off work."
