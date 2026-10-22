@@ -1,0 +1,125 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-22T00:17:28.877Z,@zatsepin/klava-compress-win32-x64-msvc,0.1.4,zatsepin,Apache-2.0,22409071,Context compression extension for klava: drop low-value tokens from tool output with kompress (Windows x64)
+2026-10-22T00:17:34.613Z,@zatsepin/klava-model-escalation-win32-x64-msvc,0.1.4,zatsepin,Apache-2.0,224566,Model escalation extension for klava: detect a stuck agent and route to a stronger model (Windows x64)
+2026-10-22T00:17:36.245Z,@shtora/skills,0.1.0,airshakur88,MIT,127204,Unofficial MCP server for skills.sh - The Agent Skills Directory
+2026-10-22T00:17:40.204Z,@zatsepin/klava-pii-guardrail-win32-x64-msvc,0.1.4,zatsepin,Apache-2.0,1196333,PII guardrail extension for klava: span-based detection and redaction in tool output (Windows x64)
+2026-10-22T00:19:12.657Z,@aws/durable-execution-sdk-js-telemetry-exporter,0.1.0-alpha.0,durable-execution-dev,Apache-2.0,388183,Durable Execution Telemetry plugin for AWS Durable Execution SDK — curated execution observability
+2026-10-22T00:20:31.989Z,@aws/durable-execution-sdk-js-telemetry-mcp,0.1.0-alpha.0,durable-execution-dev,Apache-2.0,8456186,"Query the execution history that AWS Lambda durable functions emit, from any MCP client, over stdio."
+2026-10-22T00:21:56.407Z,speakremix-codes,0.1.0,fgcui1204,MIT,56644,"Morse code, braille, binary, runes, Anglo-Saxon futhorc and ogham converters with checked tables. Zero dependencies."
+2026-10-22T00:22:51.236Z,@quilletcms/sdk,1.0.0,iegorkozakov,MIT,520695,Read client for the Quillet CMS delivery API
+2026-10-22T00:23:00.958Z,hermesralda,0.1.0,lucascharao,MIT,166030,Installer CLI for Hermesralda Agent
+2026-10-22T00:23:43.712Z,@nodecity/cli,0.1.1,caoxinying09,UNLICENSED,81984,Read-only NodeCity public knowledge and catalog CLI for AI tools
+2026-10-22T00:23:48.431Z,acctx,0.1.3,zoopast,MIT,276293,"acctx: switch between accounts for developer CLIs (Vercel, Convex, ...)"
+2026-10-22T00:25:12.138Z,icloneos,0.0.1,devclone20,MIT,1173,Placeholder held by the iclone os team so the bare name cannot be squatted. Install @icloneos/cli instead.
+2026-10-22T00:25:24.958Z,fingermr,0.2.0,davidlomas,MIT,188737,Turn a USB fingerprint reader into a time clock for your web app: a local bridge for the HID DigitalPersona U.are.U reader that identifies people offline and returns a signed proof your server verifi…
+2026-10-22T00:26:14.681Z,@haneinfo/tags,0.1.0,antonylu0826,UNLICENSED,70915,"Human-managed flat instance tags, readable suggestions and read-only MCP."
+2026-10-22T00:27:50.408Z,pond-api,0.1.0,raphaelsalaja,MIT,139831,Typed client for Pond's Local API on your Mac.
+2026-10-22T00:28:50.915Z,@nrz/semver,1.0.0,nextlinux,BSD-2-Clause-Patent,85609,The semantic version parser used by nrz
+2026-10-22T00:30:28.879Z,create-digital-menu,0.1.2,tinya-code,,13931491,Scaffold a digital menu storefront — Astro 7 + Tailwind v4 + typed data contract
+2026-10-22T00:31:35.162Z,@nrz/cache,1.0.0,nextlinux,BSD-2-Clause-Patent,23124,The filesystem cache for `@nrz/registry-client`
+2026-10-22T00:31:54.777Z,@nrz/cache-unzip,1.0.0,nextlinux,BSD-2-Clause-Patent,25323,Daemon that manages the @nrz/cache disk store
+2026-10-22T00:32:10.631Z,@nrz/cli-sdk,1.0.0,nextlinux,BSD-2-Clause-Patent,567558,The source for the nrz CLI
+2026-10-22T00:32:18.408Z,@nrz/config,1.0.0,nextlinux,BSD-2-Clause-Patent,14909,Project config logic for nrz
+2026-10-22T00:32:29.134Z,@nrz/dot-prop,1.0.0,nextlinux,MIT,12226,Get and manipulate an object using strings
+2026-10-22T00:32:37.582Z,@nrz/dss-breadcrumb,1.0.0,nextlinux,BSD-2-Clause-Patent,22950,The Dependency Selector Syntax (DSS) breadcrumb utilities
+2026-10-22T00:32:43.172Z,@nrz/dss-parser,1.0.0,nextlinux,BSD-2-Clause-Patent,24302,The Dependency Selector Syntax (DSS) parser
+2026-10-22T00:32:48.838Z,@nrz/error-cause,1.0.0,nextlinux,BSD-2-Clause-Patent,22136,nrzs Error.cause convention
+2026-10-22T00:32:56.277Z,@nrz/fast-split,1.0.0,nextlinux,BSD-2-Clause-Patent,10597,A fast way to split small-to-medium sized strings by small string delimiters
+2026-10-22T00:33:01.697Z,@nrz/git,1.0.0,nextlinux,ISC,31456,a util for spawning git from npm CLI contexts
+2026-10-22T00:33:06.209Z,@nrz/git-scp-url,1.0.0,nextlinux,BSD-2-Clause-Patent,7883,Parse scp-style git URLs like `git+ssh://host:some/path`
+2026-10-22T00:33:15.327Z,@nrz/graph,1.0.0,nextlinux,BSD-2-Clause-Patent,529265,A library that helps understanding & expressing what happens on an install
+2026-10-22T00:33:20.216Z,@nrz/graph-run,1.0.0,nextlinux,BSD-2-Clause-Patent,38919,"Run operations on a graph, maximizing parallelism"
+2026-10-22T00:33:26.914Z,@nrz/init,1.0.0,nextlinux,BSD-2-Clause-Patent,10077,nrz project intialization logic
+2026-10-22T00:33:33.913Z,@nrz/keychain,1.0.0,nextlinux,BSD-2-Clause-Patent,8107,The filesystem keychain for `@nrz/registry-client`
+2026-10-22T00:33:47.916Z,@nrz/nrx,1.0.0,nextlinux,BSD-2-Clause-Patent,30532,nrz exec management
+2026-10-22T00:33:49.669Z,@spring-payments/payments-react,0.1.0,dave.ashworth,MIT,15195,Unstyled Spring Payments components for React 19 and Next.js
+2026-10-22T00:33:55.329Z,@nrz/nrz-json,1.0.0,nextlinux,BSD-2-Clause-Patent,11828,"utility for finding, reading, and updating the nrz.json file"
+2026-10-22T00:34:01.883Z,@nrz/output,1.0.0,nextlinux,BSD-2-Clause-Patent,8770,Generate output from the nrz CLI
+2026-10-22T00:34:03.723Z,@spring-payments/payments-vue,0.1.0,dave.ashworth,MIT,16943,Unstyled Vue components for Spring Payments
+2026-10-22T00:34:10.389Z,@nrz/package-info,1.0.0,nextlinux,BSD-2-Clause-Patent,99826,Resolve and fetch package metadata and tarballs
+2026-10-22T00:34:15.841Z,@nrz/package-json,1.0.0,nextlinux,BSD-2-Clause-Patent,10260,Manage reading package.json files
+2026-10-22T00:34:21.65Z,@nrz/pick-manifest,1.0.0,nextlinux,BSD-2-Clause-Patent,18333,Choose a manifest from a packument
+2026-10-22T00:34:26.509Z,@nrz/promise-spawn,1.0.0,nextlinux,ISC,17018,Spawn a process and return a promise that resolves when it finishes
+2026-10-22T00:34:33.959Z,@nrz/query,1.0.0,nextlinux,BSD-2-Clause-Patent,1060776,Query syntax parser that retrieves items from a graph
+2026-10-22T00:34:40.921Z,@nrz/registry-client,1.0.0,nextlinux,BSD-2-Clause-Patent,156501,Fetch package artifacts and metadata from registries
+2026-10-22T00:34:46.301Z,@nrz/rollback-remove,1.0.0,nextlinux,BSD-2-Clause-Patent,8765,"Mark paths as removed, then remove them or roll back"
+2026-10-22T00:34:52.379Z,@nrz/run,1.0.0,nextlinux,BSD-2-Clause-Patent,27250,Run package.json scripts and execute commands
+2026-10-22T00:35:00.663Z,@nrz/satisfies,1.0.0,nextlinux,BSD-2-Clause-Patent,11349,method for determining if a DepID satisfies a Spec
+2026-10-22T00:35:11.027Z,@nrz/security-archive,1.0.0,nextlinux,BSD-2-Clause-Patent,41977,A database of security information of packages
+2026-10-22T00:35:22.057Z,@nrz/tar,1.0.0,nextlinux,BSD-2-Clause-Patent,70724,An extremely limited and very fast tar extractor
+2026-10-22T00:35:33.28Z,@nrz/url-open,1.0.0,nextlinux,BSD-2-Clause-Patent,6374,Open URLs using the system's default web browser
+2026-10-22T00:35:56.98Z,@nrz/user-agent,1.0.0,nextlinux,BSD-2-Clause-Patent,8183,The User-Agent string that nrz sends with every outbound request
+2026-10-22T00:36:01.605Z,@nrz/which,1.0.0,nextlinux,ISC,9846,Find the first executable in the path (TS port of 'which')
+2026-10-22T00:36:12.762Z,@nrz/workspaces,1.0.0,nextlinux,BSD-2-Clause-Patent,55474,Utility for working with nrz workspaces
+2026-10-22T00:36:16.946Z,alexa-plus-simulator,0.1.0,narralogy,MIT,1323893,"An open, unofficial simulator and readiness check for Alexa+ MCP add-ons: point it at your MCP server, talk to it on a simulated Echo Show or Echo Dot, see your MCP Apps screens, and check it against…"
+2026-10-22T00:37:05.473Z,@nrz/dep-id,1.0.0,nextlinux,BSD-2-Clause-Patent,34424,create and hydrate dependency IDs
+2026-10-22T00:37:13.795Z,@nrz/types,1.0.0,nextlinux,BSD-2-Clause-Patent,62745,definitions for some of nrz's core types
+2026-10-22T00:37:44.603Z,@liusiqi-dev/dsh-attachment,1.0.0,liusiqi-dev,MIT,79528,Durable immutable attachment storage seam for the DeepSeek Harness
+2026-10-22T00:37:53.151Z,@liusiqi-dev/dsh-sandbox,1.0.0,liusiqi-dev,MIT,64364,Abstract process-sandbox seam (ctx.sandbox) for the DeepSeek Harness: same-world confinement vocabulary and the SandboxProvider contract
+2026-10-22T00:38:02.213Z,@liusiqi-dev/dsh-ptc-runtime,1.0.0,liusiqi-dev,MIT,44707,Abstract PTC execution seam (ctx.ptcRuntime) for the DeepSeek Harness
+2026-10-22T00:38:10.477Z,@liusiqi-dev/dsh-sandbox-policy,1.0.0,liusiqi-dev,MIT,42069,"Per-call sandbox policy resolver and current model context: deployment fallbacks plus each session's mode and workspace root, shared by every enforcing capability family"
+2026-10-22T00:38:18.853Z,@liusiqi-dev/dsh-user-approval,1.0.0,liusiqi-dev,MIT,73772,"User-approval seam (ctx.approval) for the DeepSeek Harness: one-shot permission decisions dispatched to composed answerers over the approval/request waterfall, fail-closed by default"
+2026-10-22T00:38:28.43Z,@liusiqi-dev/dsh-tools,1.0.0,liusiqi-dev,MIT,514807,Tool registry and execution pipeline for the DeepSeek Harness
+2026-10-22T00:38:36.775Z,@liusiqi-dev/dsh-mcp-resources,1.0.0,liusiqi-dev,MIT,31355,Scoped MCP resource discovery and reading through shared model tools
+2026-10-22T00:38:45.907Z,@liusiqi-dev/dsh-http-proxy,1.0.0,liusiqi-dev,MIT,63184,Process-wide outbound HTTP proxy policy for DeepSeek Harness: resolve it from the launch environment and install it as undici's global dispatcher
+2026-10-22T00:38:53.931Z,@liusiqi-dev/dsh-subprocess,1.0.0,liusiqi-dev,MIT,57523,"Subprocess seam (ctx.subprocess) for the DeepSeek Harness — managed process groups, bounded spill-backed output, and escalated kills behind one abstract service"
+2026-10-22T00:39:02.074Z,@liusiqi-dev/dsh-mcp-client,1.0.0,liusiqi-dev,MIT,94113,MCP client bridge: connects to MCP servers and registers their tools on ctx.tools
+2026-10-22T00:39:14.244Z,@liusiqi-dev/dsh-commands,1.0.0,liusiqi-dev,MIT,148634,Plugin-owned human command registry for DeepSeek Harness UIs
+2026-10-22T00:39:22.511Z,@liusiqi-dev/dsh-compaction,1.0.0,liusiqi-dev,MIT,95343,Abstract compaction service seam (ctx.compaction) for the DeepSeek Harness
+2026-10-22T00:39:30.441Z,@liusiqi-dev/dsh-compaction-image-offload,1.0.0,liusiqi-dev,MIT,36722,Durable image offload for image-capable routes: replace over-budget request images with placeholders and retry
+2026-10-22T00:39:38.357Z,@liusiqi-dev/dsh-llm-retry,1.0.0,liusiqi-dev,MIT,62618,Provider-routed LLM request retry policy for the DeepSeek Harness
+2026-10-22T00:39:47.547Z,@liusiqi-dev/dsh-token-meter,1.0.0,liusiqi-dev,MIT,147279,Replay-aware token measurement service (ctx.tokenMeter) for the DeepSeek Harness
+2026-10-22T00:39:55.627Z,@liusiqi-dev/dsh-acp,1.0.0,liusiqi-dev,MIT,102038,Automation-only Agent Client Protocol server for driving DeepSeek Harness agents over JSON-RPC stdio
+2026-10-22T00:40:04.37Z,@liusiqi-dev/dsh-cmdline,1.0.0,liusiqi-dev,MIT,34771,Immutable command-line handoff from a dsh launcher to any app plugin that injects cmdlineArgs
+2026-10-22T00:40:12.716Z,@liusiqi-dev/dsh-acp-app,1.0.0,liusiqi-dev,MIT,16131,The dsh ACP profile bundle: automation-only JSON-RPC stdio and process lifecycle over dsh-base
+2026-10-22T00:40:20.922Z,@liusiqi-dev/dsh-atomic-write,1.0.0,liusiqi-dev,MIT,37085,Zero-dependency atomic file replacement: exclusive-create random-suffix temp + rename carrying the caller-stated permissions (writeFileAtomic)
+2026-10-22T00:40:28.82Z,@liusiqi-dev/dsh-package-manifest,1.0.0,liusiqi-dev,MIT,17303,Shared type declarations for package.json.dsh configuration fields
+2026-10-22T00:40:36.583Z,@liusiqi-dev/dsh-home-paths,1.0.0,liusiqi-dev,MIT,24778,Shared filesystem path helpers for the DeepSeek Harness
+2026-10-22T00:40:44.462Z,@liusiqi-dev/dsh-launch-environment,1.0.0,liusiqi-dev,MIT,22761,Immutable DeepSeek Harness launch environment that records which layer supplied each value
+2026-10-22T00:40:53.314Z,@liusiqi-dev/dsh-app-boot,1.0.0,liusiqi-dev,MIT,349955,"Shared boot glue for the app bins: .env loading, fail-loud Loader guards, snapshot-aware config resolution, and the Loader boot sequence"
+2026-10-22T00:41:01.411Z,@liusiqi-dev/dsh-hmr,1.0.0,liusiqi-dev,MIT,45283,Coordinated module and profile configuration hot reload
+2026-10-22T00:41:09.36Z,@liusiqi-dev/dsh-config-editor,1.0.0,liusiqi-dev,MIT,19269,Persist plugin configuration through profile patches and Loader reconciliation
+2026-10-22T00:46:56.648Z,@happyvertical/suasor,0.8.12,wllgrffn,MIT,2183208,Cross-channel marketing orchestration for the HappyVertical ecosystem
+2026-10-22T00:50:03.572Z,@groovenet/player,0.1.1,saegey,MIT,109830,Headless playback core and mpv backend for Groovenet
+2026-10-22T00:50:12.249Z,pi-layerfs,0.0.1,tiredhades,,266,pi-layerfs — under active development.
+2026-10-22T00:50:31.388Z,mcp-jules,0.0.1,cipansor,Apache-2.0,152138,MCP server for the Google Jules AI coding agent API
+2026-10-22T00:50:36.239Z,@evst/ngrx-store,0.5.0,semworks,MIT,62846,"Event-first state management, built on NgRx."
+2026-10-22T00:50:45.452Z,prodproject,1.0.0,rj22026,,4853,<h3>| Prod Project - NodeJS Package |</h3>
+2026-10-22T00:51:07.766Z,cf-workers-native,0.1.2-beta.local.sha2f5e4e6956f4,rdlabo,MIT,3644013,Bring Cloudflare Workers apps to iOS and Android.
+2026-10-22T00:51:22.498Z,@k.vict1999/pino-std-serializers,7.2.0,k.vict1999,MIT,58969,A collection of standard object serializers for Pino
+2026-10-22T00:52:41.373Z,calculator-workspace,0.0.1,lsikki,,22329,Base workspace package
+2026-10-22T00:52:58.028Z,@feecc/bailian-token-plan,1.0.0,feecc,MIT,543,Published via @feecc/bamboo
+2026-10-22T00:53:43.041Z,gethangar,0.0.1,talosdefence,SEE LICENCE IN LICENCE-NOTICE.md,1478,"Hangar: booked NVIDIA H100 runs and CPU runs in AWS Sydney, each with a signed certificate. By TALOS Defence Pty Ltd."
+2026-10-22T00:53:51.893Z,@seminar/core,0.1.0,kris7t,Apache-2.0,1839937,Core Markdown presentation model for Seminar
+2026-10-22T00:53:59.938Z,@seminar/mdx,0.1.0,kris7t,Apache-2.0,567223,MDX support for Seminar presentations
+2026-10-22T00:54:06.206Z,@seminar/elements,0.1.0,kris7t,Apache-2.0,156484,Reusable presentation elements for Seminar decks
+2026-10-22T00:54:12.105Z,@seminar/theme-default,0.1.0,kris7t,Apache-2.0,15023,Default theme of Seminar presentations with the Roboto font
+2026-10-22T00:54:20.647Z,@seminar/plugin-mathjax,0.1.0,kris7t,Apache-2.0,151580,"Math in Seminar decks, typeset with MathJax when decks are compiled or in the browser"
+2026-10-22T00:54:28.294Z,@seminar/plugin-shiki,0.1.0,kris7t,Apache-2.0,69220,Syntax highlighting of code blocks in Seminar decks with Shiki
+2026-10-22T00:54:35.426Z,@seminar/rollup-plugin,0.1.0,kris7t,Apache-2.0,39278,Rollup and Vite plugin for Seminar presentations
+2026-10-22T00:54:46.264Z,@seminar/vite-plugin,0.0.0-stage,kris7t,,342,Temporary package placeholder for staged publishing
+2026-10-22T00:54:52.373Z,create-seminar,0.0.0-stage,kris7t,,336,Temporary package placeholder for staged publishing
+2026-10-22T00:55:48.032Z,prettier-plugin-quarkjs,1.0.0,arthurferreira-dev,AGPL-3.0-only,41249,Prettier Plugin to QuarkJS project
+2026-10-22T00:56:18.65Z,@maitxn/pkg-rollback-width-algae-loopy-jouks,1.0.0,maitxn,ISC,251,empty
+2026-10-22T00:57:22.974Z,beastbrowser,1.0.0,beastbrowser,MIT,10666,"Official Node.js client for BeastBrowser — the antidetect browser with unlimited isolated profiles, a built-in proxy manager, RPA automation and a REST API."
+2026-10-22T00:58:07.665Z,@introspection-sdk/aauth-protocol,0.1.0,brightsparc,Apache-2.0,69111,"AAuth (draft-hardt-oauth-aauth-protocol -11) plumbing shared by the Person Server, Access Server and resource packages: problem errors, the signing key, request-signature verification, discovery and…"
+2026-10-22T00:58:21.126Z,@introspection-sdk/aauth-person-server,0.1.0,brightsparc,Apache-2.0,191077,"An AAuth Person Server (draft-hardt-oauth-aauth-protocol -11): missions, person and auth tokens, budgets and approvals, as Request → Response handlers"
+2026-10-22T00:58:38.956Z,@introspection-sdk/aauth-access-server,0.1.0,brightsparc,Apache-2.0,78572,"An AAuth Access Server (draft-hardt-oauth-aauth-protocol -11, four-party): a resource's own policy over the auth tokens Person Servers redeem for it, as Request → Response handlers"
+2026-10-22T01:00:53.707Z,lax-mcp,0.1.0,agentgate-builder,MIT,22744,"MCP server for the LAX agent registry: search agents, read offers and jobs, submit work. stdio and Streamable HTTP."
+2026-10-22T01:00:55.872Z,aiax-validate,0.1.0,agentgate-builder,MIT,24799,"Fetch a site's AIAX manifest and sections, validate them against the AIAX 0.1 schemas, score the site and explain every failure."
+2026-10-22T01:00:57.991Z,zimakri,0.1.0,agentgate-builder,MIT,33133,"Become a Zimakri agent: npx zimakri init writes a DID, its SOUL and the Five Laws, the memory layout, the wake protocol and a LAX offer, all owned and run by the agent itself. No Kognai account, no n…"
+2026-10-22T01:02:34.329Z,haiwei-module-mail,1.0.0,yuanzhiyuan,,68352,邮件
+2026-10-22T01:02:36.116Z,calculator-language,0.0.1,lsikki,,36070,The language specific package
+2026-10-22T01:04:00.729Z,gh-calendar,0.1.1,caetanoag,GPL-3.0-only,503139,Display your GitHub contribution calendar as a colored grid in the terminal
+2026-10-22T01:06:36.389Z,@mostajs/cod,0.1.0,apolocine,AGPL-3.0-or-later,19210,"L'argent du contre-remboursement de la plateforme ColisTrax : encaissé par le livreur à la porte, remis à la caisse du bureau avec attendu, déclaré, remis, écart et motif ; mouvements chaînés par bur…"
+2026-10-22T01:06:43.739Z,@fengyizhi/scene-lib,1.0.0,fengyizhi,,2048796,
+2026-10-22T01:08:14.308Z,@etchydotfun/rune-pool,0.1.0,etchyfun,Apache-2.0,1217617,"Etchy Rune Pools: trade real Bitcoin Runes at Solana speed from any site, wallet or bot. Pools, quotes, trades, Bitcoin-wallet orders, deposits, charts, holders, the keeper."
+2026-10-22T01:12:00.835Z,@wick-charts/nuxt,0.8.5,mo4islona,MIT,7061,"Realtime, animated canvas charts for Nuxt: candlestick, line, bar, heatmap, pie and more, auto-imported. Tree-shakeable, zero runtime deps."
+2026-10-22T01:12:08.698Z,@ls-stack/umbrella-prs,0.1.0,lucasols,MIT,144318,"Umbrella PR branch workflow: a long-lived umbrella branch with child PRs targeting it, as a library and CLI"
+2026-10-22T01:12:58.998Z,@noirx402/agent-sdk,0.2.0,rylsherdamz,MIT,54855,"Read and use Noir agent policies (device registry, agent registry, payment escrow) on Stellar from any app."
+2026-10-22T01:13:08.638Z,matrix-mogs,0.0.0-stage,gordonhoovy,,333,Temporary package placeholder for staged publishing
+2026-10-22T01:13:48.528Z,@logto/connector-siwe,0.1.0,simeng_li,MPL-2.0,53746,Sign-In with Ethereum (SIWE / EIP-4361) connector implementation.
+2026-10-22T01:13:49.113Z,@jbpark/workbench,0.1.0,jbpark,MIT,324482,"Headless file tree + editor React library, backed by a swappable WorkbenchAdapter data source."
+2026-10-22T01:14:28.249Z,valuelens,0.1.0,alfrad,Apache-2.0,2511106,"Ferramenta de inteligência de produto e precificação, usável por agentes de IA via MCP, CLI e skills."
+2026-10-22T01:16:42.209Z,@rm-industries/markdownlint-frontmatter,0.0.0-stage,rahul0705,,361,Temporary package placeholder for staged publishing
+2026-10-22T01:16:59.919Z,@rm-industries/browser-oxfmt,0.0.0-stage,rahul0705,,350,Temporary package placeholder for staged publishing
