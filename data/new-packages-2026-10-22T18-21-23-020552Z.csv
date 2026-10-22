@@ -1,0 +1,245 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-22T17:15:49.275Z,@reneturcios/depguard,0.1.0,reneturcios,MIT,105769,"PR-time dependency early warning: diff dependency manifests and lockfiles, flag install scripts, typosquats, downgrades, and lockfile drift. Offline core, optional registry checks."
+2026-10-22T17:16:03.475Z,@krizaka/api-keys,0.1.0,wusama,Apache-2.0,60199,"API keys for every Krizaka product: created, rotated, revoked and authenticated behind a store port. The key is shown once, only a hash of its random part is kept, scopes and rules are data, refusals…"
+2026-10-22T17:16:04.017Z,@krizaka/organize,0.3.0,wusama,Apache-2.0,89805,"The « organize » block of every Krizaka product: a name, an avatar, a description, tags, collections and an undeletable default collection for any entity — rules, a store over PostgreSQL, and a confo…"
+2026-10-22T17:16:32.434Z,@xo-cash/sync-client,0.0.1-next.17391232094,generalprotocols,MIT,85640,A minimal sync client for the XO Cash Sync Server
+2026-10-22T17:16:54.057Z,@crometrics/lp-design-system,0.5.2,rpzigler,UNLICENSED,482272,
+2026-10-22T17:17:31.473Z,@pharos-ds/charts,1.0.10,caio-silvestre,MIT,466385,"Pharos charts — a config-model data visualization library (d3-based) with bar, line, area and more, themed by Pharos tokens and accessible by default."
+2026-10-22T17:17:45.453Z,@reneturcios/flowcheck,0.1.0,reneturcios,MIT,95965,"GitHub Actions least-privilege auditor: flags write-all tokens, pull_request_target head checkouts, fork-reachable secrets, and suggests hardened per-job permissions."
+2026-10-22T17:19:12.831Z,@akshatowo/radical,0.1.0,akshatowo,MIT,389810,Run server-rendered web apps inside native Android and iOS WebView shells.
+2026-10-22T17:19:38.976Z,@aqian0/dsh-jj,0.1.1,aqian0,MIT,282213,"First-class Jujutsu (jj) support for DeepSeek Harness: repository detection, git-confusion guard, and jj-native tools"
+2026-10-22T17:19:51.343Z,@krizaka/app-client,0.1.0,wusama,Apache-2.0,42436,"What every Krizaka Expo app shares: the bearer session over a secure-storage port, the discovery client of the signed services manifest, and the API client (bearer, timeout, 401 handling). Ports in,…"
+2026-10-22T17:20:15.3Z,@manifest-configuration-language/browser,0.1.1,walnuts1018,Apache-2.0,95966812,Run MCL projects in a browser Web Worker using the Go WebAssembly runtime.
+2026-10-22T17:20:18.115Z,ac-dds,0.1.0,mishanasledov,MIT,115090,"Write DDS textures Assetto Corsa reads correctly, decode them to RGBA in Node or a browser, and check a texture for what the game would get wrong."
+2026-10-22T17:20:26.251Z,@eliware/elera-cli,13.0.0,eli-sterling,MIT,173191,"Agent-friendly CLI for Elera database operations, backup, restore, and metadata management"
+2026-10-22T17:20:52.42Z,@manifest-configuration-language/language,0.1.1,walnuts1018,Apache-2.0,34438,MCL TextMate grammar and CodeMirror language support.
+2026-10-22T17:20:53.742Z,homebridge-tesy-native,1.0.0,kosztyk,MIT,46393,"TESY MyTESY cloud convectors for Homebridge: thermostats, temperature control and presets."
+2026-10-22T17:22:13.118Z,@dapi-digital/mcp,0.1.0,dapi_dev,MIT,429289,"Local MCP server for the dapi.digital public API v2: read, write and confirmed money tools for designers and integrators."
+2026-10-22T17:22:22.341Z,@dprint/buildifier,0.1.0,dsherret,MIT,760666,Wasm buffer for dprint-plugin-buildifier.
+2026-10-22T17:22:39.398Z,@backendkit-labs/agent-testkit,0.1.0,backendkit.dev,MIT,78301,"Test doubles for @backendkit-labs/agent-core agents: scripted providers, a mock OpenAI-compatible LLM server with injectable failures, a mock transport and assertions about the real world"
+2026-10-22T17:23:19.98Z,@uk-energy/neso,0.1.0,styrle,MIT,128780,"Typed client for the NESO Data Portal (CKAN): datastore search and SQL, thermal constraint costs, constraint breakdown and forecasts, day-ahead boundary flows, Demand Flexibility Service, daily balan…"
+2026-10-22T17:24:14.816Z,gn-mathtitle,1.0.1,acearooni10,ISC,138854,"Before starting, install **Git**, **Python**, and **Node.js (with npm)**."
+2026-10-22T17:24:29.643Z,@aszura/saltline-browser,0.2.0,brettr91,MIT,54432,"Browser helper for Saltline's connect and sign-in flows: PKCE, redirect and callback, with optional React bindings. Talks only to your own backend."
+2026-10-22T17:25:10.592Z,dsh-ref-folder,0.3.0,frankzhang555,MIT,51250,Read-only referenced folders for DeepSeek Harness sessions.
+2026-10-22T17:25:15.099Z,dsh-ai-studio,2.5.3,mi-0531,MIT,511233,"Install-and-use AI studio for DeepSeek Harness: owner dashboard, Agent dispatch, token budgets, decision desk, branch/contract conflicts, worktree code execution, host verification, independent AI re…"
+2026-10-22T17:26:18.698Z,@j2008/myagent,0.1.0,j2008,MIT,5054,My-Agent: assistente de terminal em Rust.
+2026-10-22T17:26:39.432Z,@companix/xeo-visual,0.1.0,troovi,,164583,"Интерактивная карта схемы данных xeo: модели, поля, embedded-блоки и связи по исходникам схемы."
+2026-10-22T17:26:58.228Z,omnitax-engines,0.1.1,vatmesh,MIT,195633,"Deterministic e-invoicing and tax-compliance engines: exact minor-unit money math (zero float drift), statutory XML validation (FatturaPA, TEIF, ZATCA UBL 2.1, FacturX/Peppol BIS 3.0), official-gatew…"
+2026-10-22T17:27:05.831Z,@rlabs-cl/arketum,1.0.0,rlabbe,SEE LICENSE IN LICENSE,1856674,"Verified lifecycle for building software with AI agents: work units, human gates, requirements and evidence."
+2026-10-22T17:27:06.114Z,@ohos-ports/nw-gyp,3.6.8-beta.0,ljry,MIT,166296832,NW.js (node-webkit) native addon build tool
+2026-10-22T17:27:10.412Z,@funnelchat-hq/sdk,0.1.1,hkuszniruk-funnelchat,MIT,2577145,"Official Node.js and TypeScript SDK for the Funnelchat public API: WhatsApp, contacts, messages, templates, forms, groups and webhooks"
+2026-10-22T17:28:53.056Z,orkid-swap-mcp,1.0.0,orkid-labs-jc,UNLICENSED,3399,"Orkid Swap MCP client — MEV-protected multichain swap routing (Tycho+RFQ), gasless execution, x402-priced calls over Streamable HTTP"
+2026-10-22T17:29:07.891Z,@revojs/billing,0.2.46,moritzmla,MIT,73662,
+2026-10-22T17:29:16.468Z,@revojs/terminal,0.2.46,moritzmla,MIT,3423,
+2026-10-22T17:29:40.084Z,@domusops/schema,0.1.0,arechiga,Apache-2.0,185171,Snapshot and assertion contract shared across DomusOps packages
+2026-10-22T17:29:40.646Z,@domusops/mcp,0.1.0,arechiga,Apache-2.0,373202,MCP server exposing GitOps-oriented tools for Home Assistant
+2026-10-22T17:29:40.929Z,@domusops/sandbox,0.1.0,arechiga,Apache-2.0,391692,"Ephemeral test harness for Home Assistant: throwaway instances, virtual devices, time control"
+2026-10-22T17:29:41.114Z,@domusops/bootstrap,0.1.0,arechiga,Apache-2.0,248572,CLI behind the ha-bootstrap skill: brings an existing Home Assistant configuration directory to a GitOps baseline
+2026-10-22T17:29:46.878Z,@agentgate-builder/x402fix,0.1.0,agentgate-builder,MIT,21246,"x402 endpoint doctor for sellers and agent builders: point it at any paid x402 URL and get a graded list of what will break payments or Bazaar / x402scan listing (402 on GET/HEAD/POST, CORS, v2 heade…"
+2026-10-22T17:30:40.308Z,@ohos-ports/pid-cwd,1.2.0-beta.0,ljry,MIT,39539,Get working directory of process by PID - cross platform
+2026-10-22T17:31:35.338Z,@meetploy/auth-react,1.0.0,steebchen,SEE LICENSE IN ../../LICENSE,93046,"React components and hooks for Ploy Auth: sign-in, sign-up, passkeys, social sign-in and account management."
+2026-10-22T17:31:38.838Z,dsh-all-rewind,0.4.0,shaobei47,MIT,154791,"Conversation-turn rewind for DeepSeek Harness: per-session hidden snapshot repository (before-chat-turn / toolcall anchors), content-addressed directory trees, rewind buttons under each user prompt,…"
+2026-10-22T17:32:27.799Z,markdown-diff-cat,1.6.0,drumgrammer,MIT,7720405,"Review changed Markdown as a rendered diff in a local page, and hand your block comments to a coding agent."
+2026-10-22T17:32:40.078Z,@kitkatvn/kitcode,0.2.0,kitkatvn,MIT,655316,Local aggregate activity server for KitCode.
+2026-10-22T17:33:09.811Z,@technomoron/agent-brain,0.1.0,bjornjac,MIT,261699,Project knowledge and skills MCP server extracted from agent-run
+2026-10-22T17:33:15.145Z,@noah_dave/jesus-cli,0.1.0,noah_dave,MIT,5100420,Read the Bible in your terminal with a Node.js CLI.
+2026-10-22T17:33:18.61Z,@datum-cloud/datum-ui-native,0.1.0,kevwilliams,MIT,1007472,React Native components for the Datum design system.
+2026-10-22T17:33:32.549Z,@jigs.design/protocol,0.2.0,amomonstruos,MIT,26165,"The program format, the diagnostics, and the types and messages the server, the browser and the sandbox share. No runtime and no dependencies."
+2026-10-22T17:34:00.374Z,dsh-ptc-moejs-windows-x64,0.1.0,calciumion,MIT AND Apache-2.0 AND BSD-3-Clause,7094706,The Windows x64 sidecar binary of dsh-ptc-moejs
+2026-10-22T17:34:16.836Z,@yimiliya/dsh-prompt-optimizer,0.1.0,yimiliya,Apache-2.0,162867,"One-shot LLM rewriting of the conversation draft: roles, skill hints, output language"
+2026-10-22T17:34:18.556Z,@yimiliya/dsh-api-prompt-optimizer,0.1.0,yimiliya,Apache-2.0,79626,Typert Remote controller for dsh-prompt-optimizer
+2026-10-22T17:34:20.525Z,@yimiliya/dsh-client-ui-prompt-optimizer,0.1.0,yimiliya,Apache-2.0,147973,"Browser UI for dsh-prompt-optimizer: trigger, preview panel, queue entries, settings"
+2026-10-22T17:34:22.46Z,@yimiliya/dsh-prompt-optimizer-bundle,0.1.0,yimiliya,Apache-2.0,12552,Profile bundle stacking the dsh-prompt-optimizer plugin family
+2026-10-22T17:35:50.843Z,n8n-nodes-smartcontact,1.0.0,smartcontact-crm,MIT,17943,"SmartContact CRM nodes for n8n: instant triggers from SmartContact webhooks, and actions on companies, contacts, deals, tasks and notes"
+2026-10-22T17:36:39.731Z,n8n-nodes-blotato,1.0.3,sabrina_ramonov,MIT,687,Moved to @blotato/n8n-nodes-blotato. This package keeps the old name and contains no code.
+2026-10-22T17:36:47.717Z,@taskwish/wind,0.0.2,yama-otoko,Elastic-2.0,45679,Shared TaskWish runtime event wind
+2026-10-22T17:36:50.744Z,@yuku123/z-ops-component,0.1.2,yuku123,,31065,z-ops 可复用前端组件：运维工作区 + 镜像 Tag 台账（lead 005 §9）
+2026-10-22T17:36:58.006Z,@yuku123/z-bot-component,0.1.2,yuku123,,25650,z-bot 可复用前端组件：CLI agent 能力地图（z-bot-core 无 REST 层，预留 configureBot 接入）（lead 005 §9）
+2026-10-22T17:37:03.005Z,@yuku123/z-opcs-component,0.1.2,yuku123,,34930,z-opcs 可复用前端组件：服务市场页面集（manifest + 自洽 request；lead 005 §9）
+2026-10-22T17:37:04.665Z,@agent-mercer/upsell-core,1.0.0,carlos-revley,,1734918,Framework-neutral contracts and pricing for Revley Upsell flows
+2026-10-22T17:37:05.6Z,@atlas-holding/contract,0.1.0,sergei-js,UNLICENSED,2878366,"Atlas API contracts: zod schemas, types, route registry and error codes shared by the backend, the frontend and the admin panel"
+2026-10-22T17:37:07.863Z,@yuku123/z-webide-component,0.1.2,yuku123,,35384,z-webide 可复用前端组件：code-server 实例/用户/授权（lead 005 §9）
+2026-10-22T17:37:08.358Z,@agent-mercer/upsell-renderer,1.0.0,carlos-revley,,312569,Shared React renderer for Revley Upsell pages
+2026-10-22T17:37:10.421Z,unofficial-free-llm-api,0.2.0,teminali,MIT,531825,"A local OpenAI-compatible API and web playground for the personal chat accounts you already have (DeepSeek, Gemini). Unofficial."
+2026-10-22T17:37:12.196Z,@agent-mercer/retention-core,1.0.0,carlos-revley,,568064,"Framework-neutral contracts, compiler and layout for Revley Retention flows"
+2026-10-22T17:37:13.149Z,@yuku123/z-llm-component,0.1.2,yuku123,,34685,z-llm 可复用前端组件：LLM 中心（供应商/模型 CRUD；lead 005 §9）
+2026-10-22T17:37:38.577Z,@cpp-linter/clang-format-linux-x64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,4548285,The Linux x64 binary for @cpp-linter/clang-format (LLVM 23.1.3).
+2026-10-22T17:37:45.157Z,@cpp-linter/clang-format-linux-arm64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,4087031,The Linux arm64 binary for @cpp-linter/clang-format (LLVM 23.1.3).
+2026-10-22T17:37:50.328Z,@yuku123/z-trade-component,0.1.2,yuku123,,31538,z-trade 可复用前端组件：交易订单 + 用量日报（lead 005 §9）
+2026-10-22T17:37:50.878Z,@cpp-linter/clang-format-darwin-x64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,4896624,The macOS x64 binary for @cpp-linter/clang-format (LLVM 23.1.3).
+2026-10-22T17:37:57.665Z,@yuku123/z-indexer-component,0.1.2,yuku123,,45397,z-indexer 可复用前端组件：索引服务管理（概览/仓库注册表/符号检索调用链；lead 005 §9）
+2026-10-22T17:37:59.378Z,@cpp-linter/clang-format-darwin-arm64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,4829554,The macOS arm64 binary for @cpp-linter/clang-format (LLVM 23.1.3).
+2026-10-22T17:38:02.873Z,@yuku123/z-camuda-component,0.1.2,yuku123,,31774,z-camuda 可复用前端组件：请假演示流程 + 引擎分组（lead 005 §9）
+2026-10-22T17:38:07.33Z,@cpp-linter/clang-format-win32-x64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,3536245,The Windows x64 binary for @cpp-linter/clang-format (LLVM 23.1.3).
+2026-10-22T17:38:08.032Z,@yuku123/z-rpa-component,0.1.2,yuku123,,37574,z-rpa 可复用前端组件：概览/应用/运行/需求（lead 005 §9）
+2026-10-22T17:38:12.733Z,@yuku123/z-skill-component,0.1.2,yuku123,,25642,z-skill 可复用前端组件：技能目录（搜索/分类/清单；lead 005 §9）
+2026-10-22T17:38:15.636Z,@cpp-linter/clang-format-win32-arm64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,3469695,The Windows arm64 binary for @cpp-linter/clang-format (LLVM 23.1.3).
+2026-10-22T17:38:24.549Z,dsh-subagent-toolkit,0.0.6,kadima-code,BSD-3-Clause,77862,DSH 子代理工具箱：按使用批次分组折叠、行内/整组删除子代理会话、子代理模型名单实时同步（逐任务选模型，不改原版头部）。
+2026-10-22T17:38:26.523Z,@gitmyabi/etx,1.0.0,gitmyabi-bot,MIT,136755,"Auto-generated TypeScript type bindings for ETX (build etherscan-etx-2a692195-1792690680324, commit f5db751, branch etherscan)"
+2026-10-22T17:38:27.836Z,@cpp-linter/clang-format,23.1.3,shenxianpeng,MIT,7688,"clang-format, the C/C++ code formatter from LLVM, as a static binary (LLVM 23.1.3)."
+2026-10-22T17:38:29.823Z,pi-interrupt-me,0.1.0,ifiht,MIT,6480,"Keep interrupted replies (partial reasoning, text, unfinished tool calls) visible to the model after you press Esc in pi."
+2026-10-22T17:38:39.455Z,@cpp-linter/clang-tidy-linux-x64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,103325002,The Linux x64 binary for @cpp-linter/clang-tidy (LLVM 23.1.3).
+2026-10-22T17:38:51.876Z,@cpp-linter/clang-tidy-linux-arm64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,102400996,The Linux arm64 binary for @cpp-linter/clang-tidy (LLVM 23.1.3).
+2026-10-22T17:39:04.621Z,@cpp-linter/clang-tidy-darwin-x64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,97449413,The macOS x64 binary for @cpp-linter/clang-tidy (LLVM 23.1.3).
+2026-10-22T17:39:17.596Z,@cpp-linter/clang-tidy-darwin-arm64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,95114351,The macOS arm64 binary for @cpp-linter/clang-tidy (LLVM 23.1.3).
+2026-10-22T17:39:21.958Z,@spira-lab/mcp,0.0.1,lzy19926,,1364544,"MCP server for Spira: make Spira Maxima videos from Claude Code, Codex or Claude Desktop."
+2026-10-22T17:39:28.596Z,@cpp-linter/clang-tidy-win32-x64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,95335482,The Windows x64 binary for @cpp-linter/clang-tidy (LLVM 23.1.3).
+2026-10-22T17:39:28.807Z,@stormedo/sdk,0.1.0-rc.1,stormedo-publisher,MIT,209123,Send durable HTTP requests and verify Stormedo deliveries
+2026-10-22T17:39:40.558Z,browsy-bot,0.2.0,dream-pixels-forge-creative,MIT,321919,"Zero-middleware Chrome DevTools Protocol browser automation. CDP core plus adapters: OpenCode plugin, MCP server, CLI. Navigate, screenshot, and evaluate page JS in live tabs with memorius-powered le…"
+2026-10-22T17:39:40.683Z,@cpp-linter/clang-tidy-win32-arm64,23.1.3,shenxianpeng,Apache-2.0 WITH LLVM-exception,57129028,The Windows arm64 binary for @cpp-linter/clang-tidy (LLVM 23.1.3).
+2026-10-22T17:39:46.876Z,@cpp-linter/clang-tidy,23.1.3,shenxianpeng,MIT,8001,"clang-tidy, the C/C++ linter from LLVM, as a static binary with its builtin headers (LLVM 23.1.3)."
+2026-10-22T17:39:48.297Z,@agentgate-builder/solverdict,0.1.0,agentgate-builder,MIT,20708,"Solana token safety check for AI trading agents and MCP: SAFE / CAUTION / DANGER with reasons from mint and freeze authority, Token-2022 traps (permanent delegate, transfer hook, transfer fee, defaul…"
+2026-10-22T17:40:09.914Z,@qubeejs/angular,4.0.0,andreaalhena,MIT,216590,"<p align=""center""> <img width=""500"" height=""500"" src=""https://i.ibb.co/LdXRKyG/logo.png""> </p>"
+2026-10-22T17:40:54.16Z,@hala-ai/react-native,0.1.0,metaempires,MIT,102721,"Hala AI in your React Native app: an AI assistant chat that answers your customers, with your team able to step in from the Hala inbox."
+2026-10-22T17:41:50.526Z,@doeixd/effect-email,0.1.0,doeixd,MIT,2043709,"Effect-native transactional email delivery, providers, queues, workflows, and SMTP gateway."
+2026-10-22T17:41:54.429Z,@pipeworx/mcp-at-ris,0.1.0,mojibake-ai,MIT,81396,"Austria — consolidated federal law and case law, from the Bundeskanzleramt's Rechtsinformationssystem (RIS) open government data service."
+2026-10-22T17:41:58.285Z,@pipeworx/mcp-bulgaria-beneficial-owners,0.1.0,mojibake-ai,MIT,66729,"bulgaria-beneficial-owners -- a Bulgarian legal entity's beneficial owners (действителни собственици), from the Registry Agency's (Agentsia po vpisvaniyata) Commercial Register and Register of Non-Pr…"
+2026-10-22T17:42:03.918Z,@pipeworx/mcp-ca-drug-price-transparency,0.1.0,mojibake-ai,MIT,81582,California manufacturer drug list-price (WAC) disclosures — HCAI Cost Transparency Rx (CTRx) program (fleet #3245).
+2026-10-22T17:42:07.601Z,@pipeworx/mcp-cipo,0.1.0,mojibake-ai,MIT,62393,CIPO MCP — Canadian Patents Database
+2026-10-22T17:42:11.698Z,@pipeworx/mcp-cn-law,0.1.0,mojibake-ai,MIT,124655,"China (mainland) national law — one pack per jurisdiction (at-ris precedent: legislation AND case law together). Fleet #3136, from the feasibility spike docs/china-legal-feasibility.md (fleet #3131)."
+2026-10-22T17:42:17.397Z,@pipeworx/mcp-coolprop,0.1.0,mojibake-ai,MIT,19187,"coolprop — thermophysical fluid properties (PropsSI-style: give two independent state variables, get density, viscosity, conductivity, enthalpy, entropy, phase, ...), computed in-process by CoolProp…"
+2026-10-22T17:42:21.709Z,@pipeworx/mcp-creative-constraints,0.1.0,mojibake-ai,MIT,94690,"creative-constraints — an original deck of 162 domain-neutral creative constraints, drawn by category, seeded for reproducibility, with optional no-repeat sessions."
+2026-10-22T17:42:25.27Z,@pipeworx/mcp-cro-ireland,0.1.0,mojibake-ai,MIT,69033,"cro-ireland -- the CRO (Companies Registration Office), Ireland's statutory register for companies and business names. Fleet #3346."
+2026-10-22T17:42:29.327Z,@pipeworx/mcp-de-gesetze,0.1.0,mojibake-ai,MIT,910243,"German federal statutes and ordinances (Bundesrecht) — search by title or official abbreviation (BGB, StGB, HGB, BDSG, GG…), read a single § or Art. in full, browse a law's structure, and get its ame…"
+2026-10-22T17:42:32.839Z,@pipeworx/mcp-dice-roller,0.1.0,mojibake-ai,MIT,52067,"dice-roller — tabletop dice, coin flips and exact dice odds on the Pipeworx chance engine (shared/src/chance.ts; plan: docs/chance-packs-plan.md)."
+2026-10-22T17:42:35.907Z,@pipeworx/mcp-dol-m1,0.1.0,mojibake-ai,MIT,70647,DOL Form M-1 — multiple employer welfare arrangement (MEWA) filings
+2026-10-22T17:42:39.345Z,@pipeworx/mcp-ebsa,0.1.0,mojibake-ai,MIT,67111,EBSA enforcement — civil-penalty actions on ERISA benefit-plan filings
+2026-10-22T17:42:42.706Z,@pipeworx/mcp-epo-publication-server,0.1.0,mojibake-ai,MIT,65485,EPO European Publication Server (EPS) MCP
+2026-10-22T17:42:43.235Z,@sealresearch/gust,0.1.0,r1ck404,MIT,1034473,"The Gust model API in Node and in the browser, on WebAssembly: one interface for every model. Bit-identical to the native libraries."
+2026-10-22T17:42:45.689Z,@pipeworx/mcp-eu-energy-imports,0.1.0,mojibake-ai,MIT,68814,"EU energy imports MCP -- where Germany and each EU country get their gas, oil and coal, how much of it comes from Russia, how import-dependent the country is, and what its energy mix looks like."
+2026-10-22T17:42:49.068Z,@pipeworx/mcp-euipo,0.1.0,mojibake-ai,MIT,85494,"EUIPO MCP — EU trademarks, registered Community designs, and the shared reference registers the EUIPO publishes alongside them (euipo.europa.eu)."
+2026-10-22T17:42:52.153Z,@pipeworx/mcp-fjc-case-outcomes,0.1.0,mojibake-ai,MIT,78901,"Federal Judicial Center (FJC), Integrated Database — federal case outcomes (fleet #3271). Complements the court-listener pack: court-listener finds and reads individual opinions/dockets; this pack an…"
+2026-10-22T17:42:55.295Z,@pipeworx/mcp-fr-judilibre,0.1.0,mojibake-ai,MIT,71964,"French court decisions (Cour de cassation and the judicial courts under it) — search, read a decision's full pseudonymised text, and resolve the short codes the source uses for jurisdiction/chamber/f…"
+2026-10-22T17:42:55.329Z,@ohos-ports/pdf-poppler,0.2.3-beta.0,ljry,ISC,101306073,"Convert PDF files into images using Poppler with promises. It achieves 10x faster performance compared to other PDF converters. Poppler library attached inside statically, so it has not require insta…"
+2026-10-22T17:42:58.994Z,@pipeworx/mcp-fragile-states-index,0.1.0,mojibake-ai,MIT,29905,"Fragile States Index — annual country fragility score and rank, for country-risk context alongside event/news data (fleet #3266)."
+2026-10-22T17:43:02.652Z,@pipeworx/mcp-ga-medical-exclusions,0.1.0,mojibake-ai,MIT,315809,"Georgia Department of Community Health (DCH) Office of Inspector General (OIG) List of Excluded Individuals and Entities screening — fleet #3279, the sixth state exclusion pack after ny-omig-exclusio…"
+2026-10-22T17:43:05.876Z,@pipeworx/mcp-global-peace-index,0.1.0,mojibake-ai,MIT,31533,"Global Peace Index — annual country peacefulness score and rank, for country-risk context alongside event/news data (fleet #3276)."
+2026-10-22T17:43:09.311Z,@pipeworx/mcp-gsa-elibrary,0.1.0,mojibake-ai,MIT,82472,GSA eLibrary — Multiple Award Schedule (MAS) contract holders.
+2026-10-22T17:43:12.803Z,@pipeworx/mcp-hcup-inpatient-stats,0.1.0,mojibake-ai,MIT,61389,"HCUP Inpatient Stats — national hospitalization discharges, costs and outcomes by condition and year."
+2026-10-22T17:43:14.503Z,simple-git-cms,0.6.0,azq1994,MIT,1328913,"A content editor for static sites that uses a GitHub repository as its backend — no server, no database."
+2026-10-22T17:43:16.304Z,@pipeworx/mcp-hk-elegislation,0.1.0,mojibake-ai,MIT,34945,"hk-elegislation — Hong Kong Ordinances, subsidiary legislation and instruments, bilingually (English and Traditional Chinese, equally authentic), from Hong Kong e-Legislation (Department of Justice),…"
+2026-10-22T17:43:20.491Z,@pipeworx/mcp-i-ching,0.1.0,mojibake-ai,MIT,140458,"i-ching — cast the I Ching with coins or yarrow stalks, and look up any of the 64 hexagrams (King Wen sequence)."
+2026-10-22T17:43:23.915Z,@pipeworx/mcp-il-medical-exclusions,0.1.0,mojibake-ai,MIT,701223,Illinois Medicaid provider sanctions screening: the Illinois Department of Healthcare and Family Services (HFS) Office of Inspector General's Provider Sanctions list. State-level counterpart to the f…
+2026-10-22T17:43:27.697Z,@pipeworx/mcp-it-admin-courts,0.1.0,mojibake-ai,MIT,63835,"Italian administrative courts MCP -- search and read the published rulings of the Consiglio di Stato and the regional administrative tribunals (TAR): public-procurement awards, planning and permits,…"
+2026-10-22T17:43:30.892Z,@pipeworx/mcp-it-normattiva,0.1.0,mojibake-ai,MIT,67720,"Italy — national legislation, from Normattiva's Open Data service (Istituto Poligrafico e Zecca dello Stato, operating the portal for the Presidenza del Consiglio dei Ministri)."
+2026-10-22T17:43:33.988Z,@pipeworx/mcp-jhtdb,0.1.0,mojibake-ai,MIT,74157,Johns Hopkins Turbulence Databases (JHTDB) — point queries on reference direct numerical simulation (DNS) datasets.
+2026-10-22T17:43:37.402Z,@pipeworx/mcp-kr-equities,0.1.0,mojibake-ai,MIT,65433,"Korean equities MCP. Keyless, live per request."
+2026-10-22T17:43:40.478Z,@pipeworx/mcp-kr-law,0.1.0,mojibake-ai,MIT,72075,Korea Law MCP — South Korean national statutes via the Ministry of Government Legislation's (법제처) National Law Information Center Open API (open.law.go.kr).
+2026-10-22T17:43:44.002Z,@pipeworx/mcp-latvia-beneficial-owners,0.1.0,mojibake-ai,MIT,24119,"latvia-beneficial-owners -- Latvia's beneficial-owners register, published as open data by LR Uznemumu registrs (Latvia Enterprise Register): the forename, surname, date of birth, nationality, countr…"
+2026-10-22T17:43:47.871Z,@pipeworx/mcp-mi-medical-exclusions,0.1.0,mojibake-ai,MIT,1479294,Michigan Medicaid provider sanctions screening: the Michigan Department of Health and Human Services (MDHHS) 'List of Sanctioned Providers'. State counterpart to the federal HHS OIG LEIE (leie pack)…
+2026-10-22T17:43:51.363Z,@pipeworx/mcp-mic,0.1.0,mojibake-ai,MIT,629871,MIC — ISO 10383 Market Identifier Code decoder (fleet #3261)
+2026-10-22T17:43:54.434Z,@pipeworx/mcp-mn-drug-price-transparency,0.1.0,mojibake-ai,MIT,62750,Minnesota manufacturer drug price-growth and new-drug-launch disclosures — the Minnesota half of the state WAC-transparency survey (fleet #3245; see mcps/ca-drug-price-transparency/README.md for the…
+2026-10-22T17:43:57.942Z,@pipeworx/mcp-nc-medical-exclusions,0.1.0,mojibake-ai,MIT,86679,"NC Medicaid (Division of Health Benefits, Office of Compliance and Program Integrity) State Excluded Providers List screening — fleet #3282, the ninth state exclusion pack after mcps/ny-omig-exclusio…"
+2026-10-22T17:44:01.753Z,@pipeworx/mcp-nist-fluid-properties,0.1.0,mojibake-ai,MIT,81104,NIST Chemistry WebBook — Thermophysical Properties of Fluid Systems.
+2026-10-22T17:44:05.613Z,@pipeworx/mcp-nj-medical-exclusions,0.1.0,mojibake-ai,MIT,2073115,"New Jersey Department of the Treasury Ineligible Provider List (Medical category) screening — fleet #3281, the eighth state exclusion pack after mcps/ny-omig-exclusions (#2788), mcps/ca-medical-exclu…"
+2026-10-22T17:44:08.964Z,@pipeworx/mcp-nl-rechtspraak,0.1.0,mojibake-ai,MIT,77370,"Netherlands court decisions (uitspraken en conclusies) — search by court, legal domain and date, resolve by ECLI, read the full original Dutch text. Separate from @pipeworx/nl-wetten (statutes) — thi…"
+2026-10-22T17:44:13.061Z,@pipeworx/mcp-nl-wetten,0.1.0,mojibake-ai,MIT,67800,"Netherlands national legislation — consolidated statute text, article by article, as it stood on any given date."
+2026-10-22T17:44:18.083Z,@pipeworx/mcp-oh-medical-exclusions,0.1.0,mojibake-ai,MIT,697674,"Ohio Department of Medicaid (ODM) Provider Exclusion & Suspension List screening — fleet #3278, the seventh state exclusion pack after ny-omig-exclusions, ca-medical-exclusions, tx-medical-exclusions…"
+2026-10-22T17:44:21.769Z,@pipeworx/mcp-oig-self-disclosure-settlements,0.1.0,mojibake-ai,MIT,778936,HHS-OIG Self-Disclosure Protocol settlements — fleet #3274.
+2026-10-22T17:44:25.611Z,@pipeworx/mcp-pa-medical-exclusions,0.1.0,mojibake-ai,MIT,2858535,"Pennsylvania Department of Human Services (DHS) Medicheck Precluded Providers List screening — fleet #3277, the fifth state exclusion pack after mcps/ny-omig-exclusions (#2788), mcps/ca-medical-exclu…"
+2026-10-22T17:44:29.867Z,@pipeworx/mcp-patent-maintenance-fees,0.1.0,mojibake-ai,MIT,68681,"USPTO Patent Maintenance Fee Events — complements the `patents` pack (fleet #3258), which has prosecution events and assignments but cannot say whether a US patent is still in force."
+2026-10-22T17:44:33.202Z,@pipeworx/mcp-pbgc,0.1.0,mojibake-ai,MIT,61447,PBGC MCP — pension plan terminations and premium filings.
+2026-10-22T17:44:36.845Z,@pipeworx/mcp-perm,0.1.0,mojibake-ai,MIT,42779,"PERM MCP — US green-card labor certification data from DOL PERM (Program Electronic Review Management, Form ETA-9089) disclosures."
+2026-10-22T17:44:40.273Z,@pipeworx/mcp-portugal-tenders,0.1.0,mojibake-ai,MIT,52158,"Portugal public procurement MCP -- IMPIC (Instituto dos Mercados Públicos, do Imobiliário e da Construção), Portugal's public-procurement regulator, via its open-data publication on dados.gov.pt."
+2026-10-22T17:44:43.85Z,@pipeworx/mcp-sk-rpo,0.1.0,mojibake-ai,MIT,66304,"RPO — Register právnických osôb, podnikateľov a orgánov verejnej moci (Register of Legal Entities, Entrepreneurs and Public Authorities), published by the Statistical Office of the Slovak Republic (Š…"
+2026-10-22T17:44:47.242Z,@pipeworx/mcp-sos-entities,0.1.0,mojibake-ai,MIT,123022,sos-entities — state business-entity registries in one normalised shape (fleet #2867).
+2026-10-22T17:44:50.471Z,@pipeworx/mcp-treasury-tic,0.1.0,mojibake-ai,MIT,64147,"U.S. Treasury International Capital (TIC) System — foreign holdings of U.S. securities, by country, monthly."
+2026-10-22T17:44:53.869Z,@pipeworx/mcp-tsa-passenger-volumes,0.1.0,mojibake-ai,MIT,52951,tsa-passenger-volumes — daily U.S. airport checkpoint screening counts.
+2026-10-22T17:44:57.486Z,@pipeworx/mcp-turbulence-modeling-resource,0.1.0,mojibake-ai,MIT,73702,NASA Langley Turbulence Modeling Resource (TMR) — verification and validation cases for turbulence-model developers.
+2026-10-22T17:45:02.274Z,@pipeworx/mcp-tw-law,0.1.0,mojibake-ai,MIT,32067,"tw-law — Taiwan national statutes and the Constitution, in Chinese plus the Ministry of Justice's own official English translations where one exists, from the Ministry of Justice Laws & Regulations D…"
+2026-10-22T17:45:06.091Z,@pipeworx/mcp-uiuc-airfoils,0.1.0,mojibake-ai,MIT,191622,UIUC Airfoil Coordinates Database — fleet #3352.
+2026-10-22T17:45:10.166Z,@pipeworx/mcp-uk-epc,0.1.0,mojibake-ai,MIT,67077,UK Energy Performance Certificate (EPC) register MCP (fleet #3270).
+2026-10-22T17:45:14.244Z,@pipeworx/mcp-us-drought-monitor,0.1.0,mojibake-ai,MIT,61238,US Drought Monitor
+2026-10-22T17:45:16.125Z,create-ostean,1.0.0,hydracookie,MIT,83412360,Ostean (v_final): verified athletic TypeScript architecture
+2026-10-22T17:45:18.753Z,@pipeworx/mcp-uspto-office-actions,0.1.0,mojibake-ai,MIT,85930,"USPTO patent prosecution history: office action full text, examiner citations, claim-level rejections (35 U.S.C. 101/102/103/112), enriched (AI/ML-extracted) citation metadata, and Commissioner final…"
+2026-10-22T17:45:23.682Z,@pipeworx/mcp-web-fetch,0.1.0,mojibake-ai,MIT,181803,"web-fetch — fetch ONE public URL live from its origin, verbatim."
+2026-10-22T17:45:27.439Z,@pipeworx/mcp-wipo-ipc,0.1.0,mojibake-ai,MIT,69607,WIPO IPCPUB (International Patent Classification) MCP
+2026-10-22T17:45:33.513Z,@pipeworx/mcp-wipo-pearl,0.1.0,mojibake-ai,MIT,80633,"WIPO Pearl MCP — scientific, technical and IP legal terminology database."
+2026-10-22T17:45:37.596Z,@pipeworx/mcp-world-port-index,0.1.0,mojibake-ai,MIT,27297,"World Port Index — port facilities, depths, and anchorages."
+2026-10-22T17:46:00.369Z,8bit-arcade,0.1.1,ducdinh-codehub,MIT,192623,"Retro 8-bit arcade games in your terminal: Mario-style platformer, Tetris, Snake, Duck Hunt and Galaga tributes with pixel graphics, chiptune sound and GIF recording. Play instantly with npx 8bit-arc…"
+2026-10-22T17:47:00.066Z,vuedemonde,0.2.1,hughyyy,MIT,539658,Lightweight Vue 3 component + design-token library (forked from the Nexus app's custom UI kit)
+2026-10-22T17:47:07.683Z,dsh-biodsh,1.0.0-preview.1-2,sagirimo,MIT,91214296,"BioDSH for DeepSeek Harness: a bioinformatics agent preset with BioDSH skills, a 2000+ skill library, automatic skill selection and a convergence guard"
+2026-10-22T17:47:10.882Z,@x12i/financial-contracts,1.0.0,x12i,MIT,106005,"Canonical schemas, enums, and runtime validation for the financial reporting engine."
+2026-10-22T17:47:13.778Z,@x12i/financial-core,1.0.0,x12i,MIT,53046,"Decimal arithmetic, periods, provenance, fingerprints, and repository primitives."
+2026-10-22T17:47:16.953Z,@x12i/financial-rules-reference,2.0.0,x12i,MIT,5377,Jurisdiction-neutral sample calendar and chart-mapping fixture. Not validated filing support.
+2026-10-22T17:47:19.68Z,@x12i/financial-rules-ifrs,1.0.0,x12i,MIT,4228,Second reporting-framework fixture used to prove package isolation.
+2026-10-22T17:47:22.538Z,@x12i/trial-balance-validator,1.0.0,x12i,MIT,29349,"Trial balance validation, continuity, and coverage checks."
+2026-10-22T17:47:23.103Z,@kyun.si/tflip,0.3.2,mreasonyang,MIT,96721,"Tflip: framework-independent 3D roll, flight and landing motion with optional Canvas effects and React bindings."
+2026-10-22T17:47:25.315Z,@x12i/trial-balance-combiner,1.0.0,x12i,MIT,61593,Combine non-overlapping trial balances and derive safe cumulative slices.
+2026-10-22T17:47:27.926Z,@x12i/financial-classifier,1.0.0,x12i,MIT,32442,"Classify financial activity into statement, function, nature, geography, and eligibility schedules."
+2026-10-22T17:47:30.764Z,@x12i/financial-reconciler,1.0.0,x12i,MIT,28111,Balance and transaction reconciliation against external evidence.
+2026-10-22T17:47:33.616Z,@x12i/financial-adjustments,1.0.0,x12i,MIT,31547,Evidence-backed journal proposals and immutable adjustment scenarios.
+2026-10-22T17:47:36.479Z,@x12i/financial-diff,1.0.0,x12i,MIT,16188,Semantic comparison of financial versions and ordered change bridges.
+2026-10-22T17:47:39.801Z,@x12i/financial-xlsx-ingestion,2.0.0,x12i,MIT,141290,Convert XLSX workbooks into canonical financial datasets with a closed mapping language.
+2026-10-22T17:47:42.633Z,@x12i/financial-forms,1.0.1,x12i,MIT,24148,Plan and apply financial form updates while preserving untouched workbook parts.
+2026-10-22T17:47:45.2Z,@x12i/financial-reporting,1.0.0,x12i,MIT,13808,Assemble a traceable reporting package and separate release state from arithmetic success.
+2026-10-22T17:47:47.838Z,@x12i/financial-workflows,1.0.1,x12i,MIT,9523,Dependency-aware financial workflow runs and checkpoints.
+2026-10-22T17:47:51.079Z,@x12i/financial-cli,1.0.1,x12i,MIT,17695,Command line for the financial reporting tools.
+2026-10-22T17:47:54.173Z,@x12i/financial-service,1.0.0,x12i,MIT,15353,HTTP job interface over the financial SDK.
+2026-10-22T17:48:06.509Z,@balasivagn/boxci,0.1.0,balasivagn,Apache-2.0,1237268,"BoxCI: GitHub Actions on InstaBox. One setup, paused runners that wake for CI, optional local dashboard."
+2026-10-22T17:48:15.808Z,@tamsensedev/runner,0.1.0,konantur1322,UNLICENSED,873191,Connects your computer to TAMsense so it can work on your tasks
+2026-10-22T17:49:14.641Z,@supersolution/super-chat-core,0.5.0,creaper9487,Apache-2.0,1097453,"Provider-agnostic agent core: content model, skills, context assembly, tools, runtime, and hand-rolled provider adapters."
+2026-10-22T17:49:16.668Z,signalk-quick-chain-counter,0.1.1,night199uk,Apache-2.0,211483,Reads Quick PCS chain counter frames directly from a SocketCAN interface
+2026-10-22T17:49:18.527Z,@supersolution/super-chat-react,0.5.0,creaper9487,Apache-2.0,117008,"React bindings for superchat: thread state, run control, card actions, and context inspection."
+2026-10-22T17:49:23.432Z,@supersolution/super-chat-ui,0.5.0,creaper9487,Apache-2.0,826209,Card renderers and chat primitives for superchat. Bring your own styling; ships a self-contained CSS baseline.
+2026-10-22T17:49:42.865Z,pi-cached-compaction,0.1.0,nicopreme,MIT,98408,Pi compaction that reads the conversation's prompt cache instead of paying full input price
+2026-10-22T17:50:17.211Z,riprendi-cli,0.1.0,chamidu-fernando,MIT,38582,"Save, version, and sync your projects with Riprendi."
+2026-10-22T17:50:39.528Z,iobroker.buderus-mx400,0.0.1,septa-cr,MIT,315867,Reads data from the Buderus MX400 heat pump indoor unit
+2026-10-22T17:51:34.335Z,linkitty,0.17.0,linkitty-wlz,UNLICENSED,46008390,Linkitty 私人服务接入、登录与共享后台连接
+2026-10-22T17:52:30.607Z,@pisagor/contracts,1.0.0,arasekinci,MIT,93260,Framework-agnostic component contract types (TSDoc) for Pisagor — excludes native HTML attributes.
+2026-10-22T17:52:50.08Z,folioscope,0.0.2,baxyz,AGPL-3.0-or-later,3845935,"Flip through your prototypes: a web component that plays interactive .fig, .sketch, .xd and .penpot prototypes"
+2026-10-22T17:53:20.69Z,@plotio/cli,0.1.0,michaelstewart,MIT,63177,"Read Plot pages, follow a meeting as it happens, and post back, from any agent with a shell."
+2026-10-22T17:53:32.892Z,active-lang,1.4.0,active-lang,MIT OR Apache-2.0,25810,"Active: explicit, deterministic, hermetic configuration language (WASM-first JS/TS binding)"
+2026-10-22T17:53:44.409Z,sqlx-ts-win32-x64,0.0.1-security,npm,,149,security holding package
+2026-10-22T17:54:06.224Z,@usenavii/solid,0.10.0,uxderrick,MIT,167096,Solid components for Navii deterministic avatars.
+2026-10-22T17:54:11.449Z,@usenavii/angular,0.10.0,uxderrick,MIT,190488,Angular components for Navii deterministic avatars.
+2026-10-22T17:54:16.345Z,@usenavii/astro,0.10.0,uxderrick,MIT,38097,Astro components for Navii deterministic avatars.
+2026-10-22T17:55:23.851Z,plugin-paperclip-personal-openia-adapter,0.1.0,glebsons4ntos,MIT,15369,"External adapter for Paperclip AI that connects to an OpenAI‑compatible gateway (e.g., 9route)."
+2026-10-22T17:55:40.686Z,@domicile-desktop/manganese-bar-module-google-messages,0.0.0-0,cprussin,,144,
+2026-10-22T17:56:48.545Z,cellula-mcp,0.2.0,tecmeup,MIT,29281,"An MCP server that lets an AI agent work with .cell names on the Nervos blockchain: where a name is paid, which name an address has, whether a name is free, a link to register one (with an invitation…"
+2026-10-22T17:56:54.757Z,sqlx-ts-win32-ia32,0.0.1-security,npm,,150,security holding package
+2026-10-22T17:57:07.82Z,@blackcube/nestjs-fileprovider,1.0.0-rc1,pgaultier,BSD-3-Clause,95364,"Blackcube NestJS file provider: several filesystems under aliases (@blfs, @bltmp), local or S3, the port of blackcube/fileprovider"
+2026-10-22T17:57:12.703Z,@fairdatateam/record-core,0.2.0,lbonino,MIT,165117,"Record engine shared by Contour and FDPlight: RDF parsing and serialisation, lookups, SHACL-driven records and forms"
+2026-10-22T17:57:54.493Z,dsh-kymemory,0.1.0,kysoul,MIT,39253,"Layered local memory for DeepSeek Harness: a Markdown index auto-injected into the system prompt, a route layer read on demand, and evidence files for detail. Pure files, zero runtime dependencies."
+2026-10-22T17:58:07.337Z,@freerdp-bridge/runtime-win32-x64,0.2.1,sensnyaha,SEE LICENSE IN THIRD_PARTY_NOTICES.md,16318295,Private native runtime for FreeRDP Browser Bridge
+2026-10-22T17:58:28.84Z,lumi-email,1.0.0,mailifica,MIT,84732,Official Resend-like TypeScript & Node.js SDK for Lumi Email Platform
+2026-10-22T17:58:48.895Z,exsurge-ts,2.1.1,bbloomf,MIT,3526105,A JavaScript library for rendering Gregorian Chant in square note notation
+2026-10-22T17:59:28.585Z,linkitty-desktop,0.17.0,linkitty-wlz,UNLICENSED,49578916,Linkitty 桌面管理客户端与本机服务接入
+2026-10-22T17:59:39.585Z,crossread,0.0.1,linxule,UNLICENSED,594,Four commands for human and machine readers in qualitative inquiry. Placeholder; first release in development.
+2026-10-22T17:59:59.016Z,@meyren/schemas,1.0.0,josh662,MIT,12605864,Contratos públicos da API da Meyren (schemas Zod das operações públicas) — a base do @meyren/sdk
+2026-10-22T18:00:14.927Z,@meyren/sdk,1.0.0,josh662,MIT,80569,"SDK público da Meyren: operações públicas dos serviços, tipadas pelos contratos do @meyren/schemas"
+2026-10-22T18:01:46.739Z,elizaos-plugin-devx-tokencheck,0.1.1,devx-agent,MIT,116400,"ElizaOS plugin: DevX Token Check rug/honeypot verdict (safe/caution/danger) before swaps on Base, Ethereum, Arbitrum, Optimism, Polygon, Robinhood Chain and Solana. $0.01 USDC per check via x402 from…"
+2026-10-22T18:01:47.713Z,thehivecode,0.1.0,thehivecode,MIT,36777,"Write and check a HIVE.md, the file that makes a repository hive-ready."
+2026-10-22T18:01:54.969Z,agentkit-devx-tokencheck,0.1.1,devx-agent,MIT,41733,"Coinbase AgentKit action provider: DevX Token Check rug/honeypot verdict (safe/caution/danger) before swaps, plus a pre-swap guard. $0.01 USDC per check via x402 from the agent's wallet; free demo to…"
+2026-10-22T18:02:01.071Z,@mysten-incubation/sui-agent-pass,0.1.1,hayes,Apache-2.0,1382817,AI builds transactions. A session signer signs. Your pass enforces the rules.
+2026-10-22T18:02:01.584Z,hive-market,0.1.0,xinxinman,,1684370,"hive: an agent-first service market. Post tasks, take orders, deliver from your agent."
+2026-10-22T18:02:12.347Z,bootstrap-flexoki,0.0.1,pspeter3,MIT,1657,Bootstrap Flexoki theme
+2026-10-22T18:02:26.27Z,development-companion,1.0.0,rockmadehome,MIT,223872,"Harness-neutral development process, roles, and skills for AI coding agents."
+2026-10-22T18:02:32.661Z,@blackcube/nestjs-resumablejs,1.0.0-rc1,pgaultier,BSD-3-Clause,85927,"Blackcube NestJS Resumable.js server side: the chunks tested, received, assembled and deleted in the temporary storage of @blackcube/nestjs-fileprovider — the services of the routes, not the routes;…"
+2026-10-22T18:03:19.867Z,@fastpkg/image-darwin-arm64,0.1.0,noinkin,MIT,12298334,Native binary for @fastpkg/image on darwin-arm64
+2026-10-22T18:03:27.139Z,@fastpkg/image-darwin-x64,0.1.0,noinkin,MIT,15587358,Native binary for @fastpkg/image on darwin-x64
+2026-10-22T18:03:34.354Z,@fastpkg/image-linux-arm64-gnu,0.1.0,noinkin,MIT,12554135,Native binary for @fastpkg/image on linux-arm64
+2026-10-22T18:03:41.961Z,@fastpkg/image-linux-x64-gnu,0.1.0,noinkin,MIT,16774079,Native binary for @fastpkg/image on linux-x64
+2026-10-22T18:03:50.269Z,@fastpkg/image-win32-x64,0.1.0,noinkin,MIT,17888711,Native binary for @fastpkg/image on win32-x64
+2026-10-22T18:03:54.931Z,@ptsdev/cli,0.1.1,sabiah1,UNLICENSED,13362673,Put pts in front of your test command and watch the run live in your browser.
+2026-10-22T18:03:59.809Z,@fastpkg/image,0.1.0,noinkin,MIT,70412,"Fast Rust image processing for Node.js, sharp-compatible, no libvips"
+2026-10-22T18:04:01.404Z,@inite/site-agents,0.2.0,mikefluff,MIT,133828,"A Next.js site serves its INITE-confirmed facts to AI agents: llms.txt, .well-known cards, the robots.txt Content-Signal line and the head tags (WebMCP, links, JSON-LD), from one cached copy keyed by…"
+2026-10-22T18:07:27.502Z,@ohos-ports/rcinfo,0.1.3-beta.0,ljry,BSD-2-Clause,56954,Node module to show resources informations of exe and dll files
+2026-10-22T18:07:35.628Z,greek-phonology,0.1.0,aaronshaf,MIT,1249151,"Ancient Greek to IPA in five pronunciation schemes, pronunciation-scheme detection, syllables and accents. MoonBit build (JS + Wasm), no dependencies."
+2026-10-22T18:08:16.28Z,@shortcircuitcli/cli,0.1.0,shortcircuitsamtime101,MIT,246422,Command line tools for the Short Circuit LogicFlow language.
+2026-10-22T18:09:10.11Z,@sbissoli/mcp-fonte-viva,0.1.0,sbissoli,MIT,54068,"Repórter de teste contra a fonte viva (contrato, smoke, sonda): separa 'a fonte mudou' de 'a fonte está fora' pelo veredito do mcp-upstream, conta o disjuntor, repete o que vale repetir e escreve res…"
+2026-10-22T18:09:10.194Z,@hiddendevs/veil-ql-typeorm,1.0.0,sm3136,,44183,Safely apply validated Veil-QL filters and sorting to TypeORM query builders.
+2026-10-22T18:10:10.926Z,pearcoder,0.0.0,halilturkoglucs,UNLICENSED,656,Where developers and their AI coding agents collaborate. Placeholder — first release coming soon.
+2026-10-22T18:10:12.784Z,@iyulab/lowline-form,0.1.0,caveman,MIT,424077,"The Lowline form element: a formdown form whose decided fields are suggested from the records people confirmed, talking to a Lowline host's routes."
+2026-10-22T18:10:29.084Z,@psychomantic/ui-react,0.1.0,ishtarengine,MIT,180838,"Composants React exportables Psychomantic (roue natale, grille Matrice du Destin, visualiseur de payloads) — design Pastelo, stateless, données IshtarEngine uniquement"
+2026-10-22T18:13:12.5Z,@x12i/financial-adapters,1.0.0,x12i,MIT,20333,Country-neutral adapter contract that maps local source layouts onto abstract financial fields.
+2026-10-22T18:13:15.364Z,@x12i/financial-adapter-il,1.0.0,x12i,MIT,12397,Israel example adapter. Maps one export layout onto abstract fields. Not validated Israeli filing support.
+2026-10-22T18:14:39.952Z,pricerules,0.1.0,mohamed_ali_sraieb,MIT,62340,Official TypeScript SDK for the PriceRules API: resolve customer-specific prices from your server.
+2026-10-22T18:14:50.5Z,@agentgate-builder/agentready,0.1.0,agentgate-builder,MIT,22861,"Is this website ready for AI agents? MCP server + client for the AgentReady audit: robots.txt rules for 17 AI bots (GPTBot, ClaudeBot, ChatGPT-User, PerplexityBot...), bot challenges, content in raw…"
+2026-10-22T18:15:20.268Z,paperclip-plugin-botarmor,0.1.0,botarmor,MIT,1706444,"BotArmor Gate for Paperclip: red-team audits of agents' instructions on hire, creation and change, reported as issue comments."
+2026-10-22T18:16:08.523Z,modelprober,0.1.0,hossein.vatankhah,MIT,82887,"Probe any LLM API (OpenAI-compatible, Anthropic, Gemini) with a key: find out which models actually respond, and which ones are free."
+2026-10-22T18:16:24.974Z,@aurix/server-sdk,1.8.1,rep0rt,Apache-2.0,296110,"Server-side (backend) SDK for the Aurix voice platform REST API: token issuance, channels, moderation, webhooks, SSE. Generated from api/openapi.json."
+2026-10-22T18:18:17.867Z,@ohos-ports/protoc-gen-grpc-web-openharmony-arm64,1.5.0-beta.0,ljry,MIT,9908167,"OpenHarmony aarch64 binary for @ohos-ports/protoc-gen-grpc-web (protoc plugin, built from grpc-web 1.5.0 source, statically linked protobuf 3.19.4 + OHOS libc++, signed)."
+2026-10-22T18:18:28.891Z,@ohos-ports/protoc-gen-grpc-web,1.5.0-beta.0,ljry,MIT,6127,A protoc-gen-grpc-web binary for npm (OpenHarmony port).
+2026-10-22T18:19:00.885Z,@zilijonas/foliark,0.1.0,zilijonas,AGPL-3.0-only,9427913,"Headless Rust/WASM PDF SDK: extract, render, redact, edit and export in a worker, nothing leaves the device."
+2026-10-22T18:20:25.281Z,dev-orchestrator-connector,0.1.0,juan01-ctrl,,63938,Run a customer-owned local Codex executor for Dev Orchestrator.
