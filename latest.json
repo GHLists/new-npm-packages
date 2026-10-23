@@ -1,23 +1,33 @@
 {
   "list": {
-    "count": 148,
-    "from": "2026-10-22T23:19:29.852169Z",
-    "path": "data/new-packages-2026-10-23T00-21-32-348569Z.csv",
-    "to": "2026-10-23T00:21:32.348569Z"
+    "count": 94,
+    "from": "2026-10-23T00:21:32.348569Z",
+    "path": "data/new-packages-2026-10-23T01-18-42-444274Z.csv",
+    "to": "2026-10-23T01:18:42.444274Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@interest-protocol/blast-partner-client",
-      "since": "2026-10-22T23:19:29.852169Z"
+      "package": "@fieldia/gantt",
+      "since": "2026-10-23T00:21:32.348569Z"
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "package": "@fieldia/testing",
+      "since": "2026-10-23T00:21:32.348569Z"
+    },
+    {
+      "attempts": 4,
       "package": "@k.vict1999/pino-std-serializers",
       "since": "2026-10-22T21:19:12.892362Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@varketa/verify-acting-principal",
+      "since": "2026-10-23T00:21:32.348569Z"
     }
   ],
-  "seq": 139005025,
+  "seq": 139013526,
   "source_truncated": false,
-  "window": "2026-10-23T00:21:32.348569Z"
+  "window": "2026-10-23T01:18:42.444274Z"
 }
