@@ -1,0 +1,149 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-22T23:14:59.187Z,@devladpopov/agent-audit,0.1.0,devladpopov,Apache-2.0,171921,"Open-source readiness checker for agentic commerce: scores a storefront on UCP/ACP/AP2, structured product data, feeds, agent access, checkout and trust signals, with fixes linked to the specs."
+2026-10-22T23:15:08.467Z,@grabcad/preferences-client,0.1.0,kibt,MIT,178,"Hi, Simple package"
+2026-10-22T23:17:01.66Z,@grabcad/grabcad-shop-shared,99.0.1,kibt,MIT,2898,Compatibility shim.
+2026-10-22T23:18:21.812Z,@wildix/crm-ui,0.1.0,dmytro.renkas,,571605,"`@wildix/crm-ui` is a small React component package for CRM record and matching panels. Its components use `@wildix/uikit` controls and semantic styles, and expose neutral labels, values, options, ch…"
+2026-10-22T23:18:31.036Z,@zoobzio/kit,0.0.1,zoobzio,MIT,8672,"The mechanisms the headless services share: a typed event emitter, a state container proxy with per-field middleware and change events, and the types that describe them. No framework dependency."
+2026-10-22T23:18:33.948Z,@oceanmetrics/engine,0.1.0,bdbest,MIT,253511,"the browser engine of Ocean Metrics: the place mask, ERDDAP requests, the SQL shared with the Python engine, DuckDB-WASM statistics and the chunked live preview"
+2026-10-22T23:18:40.409Z,@zoobzio/table,0.0.1,zoobzio,MIT,24916,"Headless data table service: paging, sort, selection, column order, and a query over the columns. No framework dependency."
+2026-10-22T23:18:49.888Z,@zoobzio/query,0.0.1,zoobzio,MIT,17863,"Headless query service: committed text and field filters over a field schema, plus a staged draft that composes them. No framework dependency."
+2026-10-22T23:18:57.35Z,@zoobzio/browser,0.0.1,zoobzio,MIT,23008,"Headless data browser service: folder trail navigation, file sort, selection, action joins. No framework dependency."
+2026-10-22T23:19:04.028Z,@zoobzio/form,0.0.1,zoobzio,MIT,19240,"Headless data form service: payload, per-key validation, touched tracking, submit lifecycle over a Zod schema. No framework dependency."
+2026-10-22T23:19:07.877Z,@ultanimus/next,0.1.0,darkparse,MIT,5496,Ultanimus analytics for Next.js: an Analytics component and track().
+2026-10-22T23:19:12.241Z,@zoobzio/vue,0.0.1,zoobzio,MIT,351524,"Vue 3 components for the foundation design system: unstyled interactive components composing reka-ui primitives and semantic HTML, exposed through passthrough and ctx-scoped slots. No Nuxt dependency."
+2026-10-22T23:19:19.955Z,@zoobzio/nuxt,0.0.1,zoobzio,MIT,50956,"Nuxt layer for the foundation design system: the Nuxt wiring over @zoobzio/vue and the headless services (useState stores, hook-bus factories, app shell)."
+2026-10-22T23:19:57.238Z,taxkit,2.1.2,crcorbett,MIT,683846,TypeScript SDK for in-process TaxKit calculations.
+2026-10-22T23:20:28.539Z,codexivo-darwin-x64,0.2.0,urielcuriel,ISC,98250596,Ejecutable nativo de Codexivo para darwin-x64.
+2026-10-22T23:20:51.441Z,@gitmyabi/daram,1.0.0,gitmyabi-bot,MIT,61916,"Auto-generated TypeScript type bindings for Daram (build etherscan-daram-128f3e48-1792711226936, commit bc9405a, branch etherscan)"
+2026-10-22T23:21:11.484Z,codexivo-linux-arm64,0.2.0,urielcuriel,ISC,109301148,Ejecutable nativo de Codexivo para linux-arm64.
+2026-10-22T23:22:18.105Z,codexivo-linux-arm64-musl,0.2.0,urielcuriel,ISC,101719573,Ejecutable nativo de Codexivo para linux-arm64-musl.
+2026-10-22T23:22:41.536Z,@haatlabs-core/admin-contracts,0.10.0,haat-labs,Apache-2.0,50384,Request shapes and Ed25519 request signing for an app's admin API.
+2026-10-22T23:22:44.253Z,@haatlabs-core/ai,0.10.0,haat-labs,Apache-2.0,135223,"Text from an OpenAI-compatible chat endpoint, with retries, a rate limit and zod-checked answers."
+2026-10-22T23:22:47.284Z,@haatlabs-core/auth-contracts,0.10.0,haat-labs,Apache-2.0,52820,Sign-in and API-key request and response schemas shared by an app's API and web pages.
+2026-10-22T23:22:50.481Z,@haatlabs-core/billing,0.10.0,haat-labs,Apache-2.0,165090,"Payment gateways (Stripe, Razorpay, manual) and Shopify plan billing behind one interface."
+2026-10-22T23:22:52.813Z,@haatlabs-core/cli,0.10.0,haat-labs,Apache-2.0,101211,"haatlabs: create a new app (Shopify, web or browser extension) and keep its shared files in step."
+2026-10-22T23:22:55.609Z,@haatlabs-core/config-core,0.10.0,haat-labs,Apache-2.0,99175,"The environment variables every app reads, as zod shapes an app composes with its own."
+2026-10-22T23:22:58.539Z,@haatlabs-core/db-core,0.10.0,haat-labs,Apache-2.0,259136,"PostgreSQL and drizzle building blocks: shared columns, organizations, row-level security, audit logs."
+2026-10-22T23:23:02.033Z,@haatlabs-core/errors,0.10.0,haat-labs,Apache-2.0,57705,"AppError, shared error codes and typed per-app codes with defineErrors."
+2026-10-22T23:23:04.805Z,@haatlabs-core/eslint-config,0.10.0,haat-labs,Apache-2.0,13595,"typescript-eslint strict rules with any refused, as a flat config."
+2026-10-22T23:23:07.688Z,@haatlabs-core/extension-kit,0.10.0,haat-labs,Apache-2.0,66927,"The browser side of an extension's panel: the active tab, page reads, downloads, sign-in keys."
+2026-10-22T23:23:10.85Z,@haatlabs-core/extension-ui,0.10.0,haat-labs,Apache-2.0,24769,"A browser extension's side panel: the app's brand, theme, header, notices and sign-in card."
+2026-10-22T23:23:13.743Z,@haatlabs-core/logger,0.10.0,haat-labs,Apache-2.0,36457,Pino logging with secrets scrubbed from every record.
+2026-10-22T23:23:16.533Z,@haatlabs-core/mailer,0.10.0,haat-labs,Apache-2.0,31690,Send an app's email through a pluggable transport (SMTP and others).
+2026-10-22T23:23:16.665Z,@tarekraafat/cabinet,0.1.0,tarekraafat,Apache-2.0,1060520,"A productivity kit that makes one person a whole team: build anything with AI agents while you bring the vision and the final say. Roles with clear authority, handoffs, a daily brief and sign-off que…"
+2026-10-22T23:23:19.607Z,@haatlabs-core/nest-auth,0.10.0,haat-labs,Apache-2.0,463339,"NestJS sign-in by emailed code, sessions, API keys, roles and the guard every route goes through."
+2026-10-22T23:23:22.751Z,@haatlabs-core/nest-billing,0.10.0,haat-labs,Apache-2.0,505289,"NestJS billing: plans, periods, metered usage, plan assignment and payment events applied once."
+2026-10-22T23:23:25.934Z,@haatlabs-core/nest-common,0.10.0,haat-labs,Apache-2.0,112459,"What every NestJS API shares below authentication: errors, validation, health checks and the Fastify app setup."
+2026-10-22T23:23:28.818Z,@haatlabs-core/observability,0.10.0,haat-labs,Apache-2.0,86715,"OpenTelemetry tracing with allowed attributes only, and trace context across processes."
+2026-10-22T23:23:31.697Z,@haatlabs-core/prettier-config,0.10.0,haat-labs,Apache-2.0,12517,"Prettier settings: single quotes, trailing commas, 100 columns."
+2026-10-22T23:23:34.758Z,@haatlabs-core/provider-amazon,0.10.0,haat-labs,Apache-2.0,436915,"Amazon search, products and suggestions as a ProductSource."
+2026-10-22T23:23:36.296Z,@amauryuh/data,0.2.0,amauryuh,MIT,25743,"Unstyled React components that fetch and cache data, with offline downloads"
+2026-10-22T23:23:37.609Z,@haatlabs-core/provider-background,0.10.0,haat-labs,Apache-2.0,58277,Background removal through a rembg service.
+2026-10-22T23:23:40.425Z,@haatlabs-core/provider-image-search,0.10.0,haat-labs,Apache-2.0,147596,"Image and web search through SearXNG, Brave or SerpApi behind one SearchProvider."
+2026-10-22T23:23:43.407Z,@haatlabs-core/provider-shopify,0.10.0,haat-labs,Apache-2.0,103334,Any Shopify store's public products as a ProductSource.
+2026-10-22T23:23:46.124Z,@haatlabs-core/provider-vision,0.10.0,haat-labs,Apache-2.0,112800,Vision checks and product descriptions on top of @haatlabs-core/ai.
+2026-10-22T23:23:46.533Z,brainserver,2.3.1,weilueluo,MIT,60531,"Run Brain with Pi, Codex, OpenCode, and configured Pi extensions from Node.js"
+2026-10-22T23:23:48.907Z,@haatlabs-core/providers,0.10.0,haat-labs,Apache-2.0,264339,"Retry, circuit breaker, rate and concurrency limits for calling outside services."
+2026-10-22T23:23:51.863Z,@haatlabs-core/queue,0.10.0,haat-labs,Apache-2.0,104200,"BullMQ work queues on Redis: publisher, retrying consumer and outbox relay."
+2026-10-22T23:24:28.307Z,@yes2games/js,0.1.0,yes2noval,MIT,270169,"Runtime helpers, type declarations, a local-dev mock and starter templates for HTML5 games on window.Yes2SDK."
+2026-10-22T23:25:21.408Z,@mayurajs/authz-cedar,1.2.0-rc.0,rokadco,Apache-2.0,85452,"Scoped local Cedar authorization with pinned policies, trusted attributes and core audit integration."
+2026-10-22T23:25:24.876Z,@mayurajs/authz-http,1.2.0-rc.0,rokadco,Apache-2.0,74043,Bounded HTTP authorization policies with scoped fail-closed decisions and core audit integration.
+2026-10-22T23:25:28.873Z,@mayurajs/authz-openfga,1.2.0-rc.0,rokadco,Apache-2.0,93854,"Scoped OpenFGA authorization checks with pinned models, bounded transport and core audit integration."
+2026-10-22T23:25:32.52Z,@mayurajs/authz-oso,1.2.0-rc.0,rokadco,Apache-2.0,87800,Scoped Oso Cloud authorization checks with bounded transport and shared core audit integration.
+2026-10-22T23:25:32.827Z,@runonroad/ror,0.0.0-bootstrap.0,aldfeu,Apache-2.0,1082704,"ror, the RunOnRoad client for a workstation."
+2026-10-22T23:25:36.058Z,@mayurajs/authz-permit,1.2.0-rc.0,rokadco,Apache-2.0,89120,"Scoped Permit.io PDP checks with explicit environment credentials, bounded transport and core audit integration."
+2026-10-22T23:25:40.001Z,@mayurajs/gateway-cloudflare,1.2.0-rc.0,rokadco,Apache-2.0,19701,"Cloudflare AI Gateway models for Mayura, with explicit credentials, bounded calls and gateway cost accounting."
+2026-10-22T23:25:45.454Z,@mayurajs/gateway-helicone,1.2.0-rc.0,rokadco,Apache-2.0,17035,"Helicone models for Mayura, with explicit credentials, bounded calls and gateway cost accounting."
+2026-10-22T23:25:49.438Z,@mayurajs/gateway-litellm,1.2.0-rc.0,rokadco,Apache-2.0,17352,"LiteLLM models for Mayura, with explicit credentials, bounded calls and gateway cost accounting."
+2026-10-22T23:25:53.172Z,@mayurajs/gateway-openrouter,1.2.0-rc.0,rokadco,Apache-2.0,17286,"OpenRouter models for Mayura, with explicit credentials, bounded calls and gateway cost accounting."
+2026-10-22T23:25:56.752Z,@mayurajs/gateway-portkey,1.2.0-rc.0,rokadco,Apache-2.0,18423,"Portkey models for Mayura, with explicit credentials, bounded calls and gateway cost accounting."
+2026-10-22T23:26:01.625Z,@mayurajs/gateway-vercel,1.2.0-rc.0,rokadco,Apache-2.0,17041,"Vercel AI Gateway models for Mayura, with explicit credentials, bounded calls and gateway cost accounting."
+2026-10-22T23:26:05.503Z,@mayurajs/reranker-cohere,1.2.0-rc.0,rokadco,Apache-2.0,22100,Bounded indexed-result reranking with cohere.
+2026-10-22T23:26:09.039Z,@mayurajs/reranker-jina,1.2.0-rc.0,rokadco,Apache-2.0,22057,Bounded indexed-result reranking with jina.
+2026-10-22T23:26:12.826Z,@mayurajs/reranker-voyage,1.2.0-rc.0,rokadco,Apache-2.0,22106,Bounded indexed-result reranking with voyage.
+2026-10-22T23:26:16.525Z,@mayurajs/vector-chroma,1.2.0-rc.0,rokadco,Apache-2.0,29159,Scoped native vector storage for chroma.
+2026-10-22T23:26:20.714Z,@mayurajs/vector-libsql,1.2.0-rc.0,rokadco,Apache-2.0,30307,Scoped native vector storage for libsql.
+2026-10-22T23:26:24.82Z,@mayurajs/vector-pgvector,1.2.0-rc.0,rokadco,Apache-2.0,28749,Scoped native vector storage for pgvector.
+2026-10-22T23:26:26.796Z,@nstarkman/site-layout,20261022.0.0,nstarkman,MIT,117293,"The nstarkman.space page layout, for sites hosted at nstarkman.space/<repo>/."
+2026-10-22T23:26:28.398Z,@mayurajs/vector-pinecone,1.2.0-rc.0,rokadco,Apache-2.0,25783,Scoped native vector storage for pinecone.
+2026-10-22T23:26:32.189Z,@mayurajs/vector-qdrant,1.2.0-rc.0,rokadco,Apache-2.0,27757,Scoped native vector storage for qdrant.
+2026-10-22T23:26:34.352Z,@dargoth-client/plugin-types,1.0.1,delwing,MIT,201237,"Types and dev tools for Arkadia Web Client plugins, always matching the deployed client"
+2026-10-22T23:26:36.618Z,@mayurajs/vector-weaviate,1.2.0-rc.0,rokadco,Apache-2.0,35456,Scoped native vector storage for weaviate.
+2026-10-22T23:27:08.681Z,codexivo-linux-x64,0.2.0,urielcuriel,ISC,109218382,Ejecutable nativo de Codexivo para linux-x64.
+2026-10-22T23:27:12.823Z,prodular-ui,0.2.0,prodularco,SEE LICENSE IN README.md,416420,"Install Prodular UI components, themes and blocks, and give coding agents the kit over MCP."
+2026-10-22T23:27:49.533Z,mrowki,0.1.0,GitHub Actions,MIT,14614,Minimal `meow`-like CLI helper using `util.parseArgs`.
+2026-10-22T23:27:52.948Z,codexivo-linux-x64-musl,0.2.0,urielcuriel,ISC,102807375,Ejecutable nativo de Codexivo para linux-x64-musl.
+2026-10-22T23:28:05.671Z,codexivo-windows-arm64,0.2.0,urielcuriel,ISC,100313999,Ejecutable nativo de Codexivo para windows-arm64.
+2026-10-22T23:28:18.813Z,codexivo-windows-x64,0.2.0,urielcuriel,ISC,115369353,Ejecutable nativo de Codexivo para windows-x64.
+2026-10-22T23:28:20.478Z,kodrio,0.1.0,edifize,MIT,714641,"Kodrio by AI Pasala: a local workspace for building with AI. Projects, prompts, terminal, usage and Token Saver."
+2026-10-22T23:28:21.745Z,codexivo,0.2.0,urielcuriel,ISC,350837,"Lenguaje de programación en español para practicar lógica y algoritmos, que se ejecuta en el navegador."
+2026-10-22T23:28:47.094Z,trellia,0.1.0,daniel.leach,SEE LICENSE IN LICENSE.md,394952,Scoped command-line access to the Trellia integration API
+2026-10-22T23:28:51.531Z,factory-shark,0.1.0,klondikemarlen,MIT AND Apache-2.0,97617,TypeScript test factories for Sequelize with declarative associations
+2026-10-22T23:31:24.925Z,@asvlcii/xelif-darwin-arm64,0.1.0-preview.1,asvlcii,MIT,21406457,Xelif executable for darwin/arm64
+2026-10-22T23:31:41.899Z,dsh-deepseek-peak-clock,1.0.1,esketids,MIT,14573,DeepSeek peak/off-peak price clock for the DeepSeek Harness composer HUD.
+2026-10-22T23:31:57.131Z,@joern.berkefeld/csv-parser,4.0.0,joern.berkefeld,MIT,36405,Native ESM streaming CSV parser fork with a default factory API and CLI
+2026-10-22T23:32:55.283Z,@asvlcii/xelif-darwin-x64,0.1.0-preview.1,asvlcii,MIT,22686001,Xelif executable for darwin/x64
+2026-10-22T23:33:38.35Z,@thirkettle/collection-fingerprint,0.1.0,willthirkettle,MIT,215672,"Draw any collection as a deterministic fingerprint: one mark per item along real-looking ridges, grouped and coloured by your own categories, with pluggable renderers."
+2026-10-22T23:34:13.046Z,@lightninglabs/wavelength-bare-addon,0.2.0-rc1,jamalj,MIT,197702,"Bare native addon binding the Wavelength gomobile daemon (Wavewalletdk.xcframework) directly, bypassing WebAssembly."
+2026-10-22T23:34:22.915Z,@lightninglabs/wdk-wallet-wavelength,0.2.0-rc1,jamalj,MIT,160998,A simple package to manage Wavelength (self-custodial Lightning/Ark) wallets.
+2026-10-22T23:34:24.474Z,@asvlcii/xelif-linux-arm64,0.1.0-preview.1,asvlcii,MIT,21247686,Xelif executable for linux/arm64
+2026-10-22T23:34:46.393Z,@vibemass/mcp-server,1.0.0,vibemass,MIT,35765,"VibeMass MCP Server — The AI CTO inside Claude, Cursor, Devin & AI agents. Free codebase health checks + full AI architecture & security audits."
+2026-10-22T23:35:34.724Z,@asvlcii/xelif-linux-x64,0.1.0-preview.1,asvlcii,MIT,22640320,Xelif executable for linux/x64
+2026-10-22T23:36:57.48Z,@mku1tra/basis,0.14.0,mku1tra,MIT,88588,"The root package for semantic subgraphs: the primitives, the compiler and the lint core that every subgraph imports."
+2026-10-22T23:38:35.236Z,@var-ui/cli,0.2.0,dbanksdesign,MIT,2547035,"CLI for discovering Var UI components, guides, and agent docs"
+2026-10-22T23:39:09.095Z,@authzflow/core,0.1.0-alpha.8,maznoh,MIT,784887,Authorization state runtime with Rust/Wasm and a checked reader
+2026-10-22T23:39:23.515Z,@authzflow/server,0.1.0-alpha.8,maznoh,MIT,313083,Framework-neutral authorization complete-check provider
+2026-10-22T23:42:23.193Z,@hardcover/sdk,0.0.0-stage,revelryplay,,336,Temporary package placeholder for staged publishing
+2026-10-22T23:42:57.843Z,@parallalaxstudio/react-health-monitor,1.0.0,vdenizart,MIT,82922,Composant React & Next.js universel et autonome pour la surveillance des certificats SSL/HTTPS et le diagnostic de performance et latence d'API.
+2026-10-22T23:43:18.109Z,@twextjs/twexthubkit,0.1.0,kanemarshallpro,Apache-2.0,96130,A JavaScript and TypeScript client for the TwextHub v2 API.
+2026-10-22T23:43:25.548Z,nilometer,0.1.0,mvaf,MIT,691791,"Reports the observed cost of a Claude subscription: interruptions when the plan is too small, unused headroom when it is too big."
+2026-10-22T23:44:40.675Z,@knowttl/tenable-axi,0.1.0,knowttl,MIT,479604,Investigate Tenable One exposure and run explicitly guarded writes
+2026-10-22T23:46:19.562Z,@codexivo/cli,0.2.0,urielcuriel,ISC,2982,CLI nativo de Codexivo: REPL y ejecución de archivos sin Node.js ni Bun.
+2026-10-22T23:46:25.833Z,movie-portal,1.2.0,spencertizenportal,,9179,A TV-remote-friendly launcher for Movies.do with an optional direct-open setting.
+2026-10-22T23:48:15.423Z,@asvlcii/xelif-win32-arm64,0.1.0-preview.1,asvlcii,MIT,21595790,Xelif executable for win32/arm64
+2026-10-22T23:48:50.586Z,teos-sentinel-shield,5.2.5,teosegypt,SEE LICENSE IN LICENSE,3955428,Execution Control Infrastructure for Autonomous Systems — deterministic AI runtime security middleware
+2026-10-22T23:49:11.372Z,@thecodecodex/design-system,0.1.2,drpaz,MIT,51408,Design system do thecodecodex.com: tokens e temas para Tailwind CSS v4 e componentes React
+2026-10-22T23:49:12.843Z,n8n-nodes-paperless-ngx-full,0.1.0,oakley_bear,MIT,993918,"Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper."
+2026-10-22T23:49:19.056Z,altss-public-profiles-mcp,1.0.0,altssdb,UNLICENSED,11574,Altss MCP stdio server for bounded public profile search and canonical summary reads. No account credentials.
+2026-10-22T23:49:46.441Z,@asvlcii/xelif-win32-x64,0.1.0-preview.1,asvlcii,MIT,23283848,Xelif executable for win32/x64
+2026-10-22T23:50:34.971Z,@agentplat/artifacts-postgres,1.4.0,douglas-grishen,Apache-2.0,32277,PostgreSQL persistence adapter for AgentPlat artifacts.
+2026-10-22T23:50:35.992Z,puzts,1.0.0,caseyt,MIT,386353,"Read, modify, and write Across Lite .puz crossword files. Zero dependencies, fully typed, runs in Node, browsers, and React Native."
+2026-10-22T23:51:08.726Z,@asvlcii/xelif,0.1.0-preview.1,asvlcii,MIT,278834,"Fast, accessible terminal file manager based on superfile"
+2026-10-22T23:51:29.035Z,@roku-sdk/compat,2.18.0,ckodali,MIT,58498,Shims that stand in for SceneGraph nodes older Roku OS firmware lacks
+2026-10-22T23:52:46.973Z,codeskope,1.0.0,ruchi_purohit,,262496,"A TypeScript code-intelligence graph for imports, calls, queries, and impact analysis"
+2026-10-22T23:52:47.793Z,@nestjs-cms/core,0.1.1,kongyim,,159262,Definition-driven NestJS CMS with S3 attachments
+2026-10-22T23:57:56.6Z,mcptocodemode,0.2.1,jdqniel,MIT,196308,"Turn any set of MCP servers into one Code Mode server: search, describe, execute."
+2026-10-22T23:58:27.649Z,sandestin,0.1.0,bluepnume,MIT,127973,"Serialize values across any boundary with functions and promises kept live. Pass a callback across, get back a reference that calls home; structured-clone native, JSON optional, lifetime and security…"
+2026-10-22T23:59:07.311Z,@kharon-labs/browser,0.1.0,alexarmenciu,MIT,79924,Personalize slots on any website with Kharon Labs: swaps in the variant for each visitor and measures lift against a holdout.
+2026-10-22T23:59:09.637Z,@kharon-labs/react,0.1.0,alexarmenciu,MIT,16502,React components for Kharon Labs personalization: <KharonProvider> and <Slot>.
+2026-10-22T23:59:12.205Z,@kharon-labs/server,0.1.0,alexarmenciu,MIT,29353,"Resolve Kharon Labs personalization on your server before render (no flash), and push declared slots from CI."
+2026-10-23T00:01:46.791Z,chaubey,0.1.1,skand_chaubey,MIT,73977,"DevRescue: A beginner-friendly JavaScript and Node.js error explanation library for clear, actionable terminal diagnostics."
+2026-10-23T00:03:16.026Z,@davlee/quotient,0.1.1,davlee,MIT,226065,"An MCP server with one tool, `pi_agent`, which delegates a bounded piece of work to [pi](https://github.com/earendil-works/pi), a command-line coding agent that can run on a cheaper model. MCP (the M…"
+2026-10-23T00:03:23.988Z,@yashau/thaana,2026.1023.1,yashau,MIT,58514,"Everything to make Thaana (Dhivehi) work on the web: phonetic keyboard for any input, legacy A_-font text converter, bidi helpers, font loading and sane CSS defaults."
+2026-10-23T00:03:28.548Z,@yashau/thaana-react,2026.1023.1,yashau,MIT,9846,"React hooks and inputs for Thaana (Dhivehi): phonetic keyboard on any field, Dhivehi web fonts, RTL done right."
+2026-10-23T00:03:32.56Z,@yashau/thaana-svelte,2026.1023.1,yashau,MIT,9958,"Svelte 5 action, attachment and inputs for Thaana (Dhivehi): phonetic keyboard on any field, Dhivehi web fonts, RTL done right."
+2026-10-23T00:03:37.238Z,@yashau/thaana-vue,2026.1023.1,yashau,MIT,10601,"Vue 3 directive, inputs and composables for Thaana (Dhivehi): phonetic keyboard on any field, Dhivehi web fonts, RTL done right."
+2026-10-23T00:03:43.108Z,@igdrasil/cli-linux-x64-musl,0.1.65,philipe125,UNLICENSED,15620855,Igdrasil CLI binary for linux-x64-musl.
+2026-10-23T00:03:44.556Z,@sonojs/icons,1.0.0,miladjoodi,MIT,335,Sonojs React components
+2026-10-23T00:03:49.401Z,@igdrasil/cli-win32-arm64,0.1.65,philipe125,UNLICENSED,18560343,Igdrasil CLI binary for win32-arm64.
+2026-10-23T00:05:23.288Z,@longzai-intelligence-code-report/config,0.0.1,joydragon,UNLICENSED,344753,Longzai Intelligence 配置包
+2026-10-23T00:05:32.869Z,@longzai-intelligence-code-report/core,0.0.1,joydragon,UNLICENSED,479121,Longzai Intelligence 核心包
+2026-10-23T00:05:42.056Z,@longzai-intelligence-code-report/cli,0.0.1,joydragon,UNLICENSED,537045,Longzai Intelligence 命令行工具应用
+2026-10-23T00:05:51.203Z,@mshima/generator-jhipster,0.0.1,mshima,Apache-2.0,14704609,Spring Boot + Angular/React/Vue in one handy generator
+2026-10-23T00:07:14.692Z,imgdecode,0.0.1-security,npm,,424,security holding package
+2026-10-23T00:08:38.458Z,@jiroamato/desktop-statusline,0.1.0,jiromig,MIT,18329,"Installs desktop-statusline, a Claude Code plugin: a status bar above the prompt in the Claude desktop app with model, effort, folder, git branch, context meter, cost and elapsed time"
+2026-10-23T00:09:43.327Z,@shipitseo/emdash-plugin-seo,0.4.0-beta.55,shipitseo,MIT,4463369,"SEO metadata, structured data, indexing tools and content checks for native EmDash sites."
+2026-10-23T00:11:07.034Z,@lidtop/opencode-gh-pr-status,0.1.0,zackarysantana,MIT,287673,See the GitHub pull requests waiting on you in the OpenCode sidebar
+2026-10-23T00:12:04.942Z,@aihellolabs/shopify-csv-validator,0.1.0,aihello,MIT,90761,"Validate Shopify product CSV imports and updates, check variant options, SKUs and prices, and apply safe formatting corrections."
+2026-10-23T00:13:03.717Z,spexy-cli,0.1.0-alpha.0,asaurabhprsas,MIT,1600095,"Local-first, human-in-the-loop Spec-Driven Development (SDD) orchestration platform"
+2026-10-23T00:13:40.239Z,@silkline/ms-365-finance-operations,0.0.2,adrienne-silkline,Apache-2.0,2436675,The official TypeScript library for the Microsoft Dynamics 365 Finance And Operations API
+2026-10-23T00:14:03.481Z,signalk-seatask,1.0.0,gerler,MIT,16931,Envia a posição do barco para o histórico de navegação do SeaTask
+2026-10-23T00:15:12.414Z,@backendkit-labs/agent-sandbox,0.1.0,backendkit.dev,MIT,79035,"Confinement and permissions for what agents run: sandbox modes, presets, a single policy point, swappable backends (host, docker) and environment hygiene, for @backendkit-labs/agent-core"
+2026-10-23T00:15:19.652Z,@kadal/theme-shibainu,0.4.2,pmithunish,MIT,202448,"Shibainu: Slidev's shibainu theme, ported to Kadal Deck. Soft blobs in a shiba's browns, Titillium Web, fourteen layouts; dark."
+2026-10-23T00:15:25.829Z,@kadal/theme-swiss,0.4.2,pmithunish,AGPL-3.0-or-later,65581,"Swiss, a theme for Kadal Deck (@kadal/deck). A bold International-style theme for design talks: huge grotesk headings on a strict twelve-column grid, one signal colour."
+2026-10-23T00:15:31.88Z,@kadal/theme-terminal,0.4.2,pmithunish,AGPL-3.0-or-later,66452,"Terminal, a theme for Kadal Deck (@kadal/deck). A developer theme for code-heavy talks: mono-forward type, superb code blocks, dark first with a good light variant, and the matching Ayu code colours."
+2026-10-23T00:15:41.041Z,berlinx,1.0.0,southernutahsoftware,MIT,165953,A powerful semantic CSS library
+2026-10-23T00:17:04.926Z,@josfox/jos-core,2.0.0,josfox,Apache-2.0,335581,"Reference kernel for .jos 2.0 documents: validate, normalize, run atoms and flows (engines shell and jos), directories, PAL, per-run ledger. Node >= 18; 0 dependencies."
+2026-10-23T00:18:31.966Z,@rootenterprise/rootresite,0.0.0-stage,nhantran19xx,,348,Temporary package placeholder for staged publishing
+2026-10-23T00:20:27.744Z,homebridge-ubymoen,0.0.0-stage,jaychang418,,340,Temporary package placeholder for staged publishing
+2026-10-23T00:21:03.311Z,clipwright-studio,0.0.0-stage,avi1308,,339,Temporary package placeholder for staged publishing
