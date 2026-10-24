@@ -1,0 +1,91 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-24T03:14:56.949Z,@pramaan/cli,0.1.1,yogi100x,,15057,"Pramaan CLI: discover, quote and run capabilities and missions."
+2026-10-24T03:17:11.655Z,@naulabsco/logging,0.1.0,smtaha512,MIT,24522,pino logger module with a correlation id and a redaction list a consumer can extend but not empty.
+2026-10-24T03:17:11.72Z,@naulabsco/config,0.1.0,smtaha512,MIT,14937,Zod environment loader that parses at boot and never echoes values.
+2026-10-24T03:17:11.976Z,@naulabsco/errors,0.1.0,smtaha512,MIT,36993,"Domain and application error taxonomy, fromDomain translation and a pluggable-envelope HTTP filter."
+2026-10-24T03:17:16.6Z,@naulabsco/auth-core,0.1.0,smtaha512,MIT,252416,"Consumer-agnostic authentication primitives: tokens, password verification, refresh rotation, reset tokens and guards."
+2026-10-24T03:19:12.037Z,opencode-learnloop,0.1.0,eros483,MIT,34138,Learn from your OpenCode sessions: extracts repeated corrections and proposes AGENTS.md improvements for human review
+2026-10-24T03:19:52.391Z,@ringko-ai/rkh,0.1.0,kaguyaring,Apache-2.0,20954000,RingKo interactive agent CLI
+2026-10-24T03:23:23.64Z,wifi-qr-payload,0.1.0,xuff7,MIT,8184,"Encode and decode WIFI: QR payloads (SSID, password, security, hidden) with correct escaping."
+2026-10-24T03:24:05.907Z,@enbox/create-dapp,0.0.1,itsliran,Apache-2.0,159303,Create a minimal Enbox React application
+2026-10-24T03:25:24.032Z,@stratacommerce/extension-sdk,1.0.0,britner,MIT,33584,"The contract between StrataCommerce and its extensions: defineExtension, the manifest schema, and the extension context and payment types."
+2026-10-24T03:25:27.281Z,@stratacommerce/i18n,0.1.0,britner,MIT,21991,Commerce translation utilities and React providers
+2026-10-24T03:25:33.785Z,@stratacommerce/hub-protocol,0.1.0,britner,MIT,210206,Contracts between a StrataCommerce store and the Strata Hub.
+2026-10-24T03:25:39.683Z,@stratacommerce/stripe-connect,0.1.0,britner,MIT,132583,"Card payments through Strata Hub’s Stripe Connect platform, as a StrataCommerce payment extension."
+2026-10-24T03:28:54.373Z,@bevorai/sdk,0.1.0-rc.0,petesim1,MIT,381836,Typed client for the Bevor REST API
+2026-10-24T03:30:10.246Z,@jsprismarine/auth,0.14.1,filiphsandstrom,MIT,118376,"Minecraft: Bedrock Edition login identity: JWT chains, client data and Xbox Live"
+2026-10-24T03:30:15.941Z,@knot-ai/cli,0.1.2,justinrwong,MIT,176556,"Knot CLI: Local Context Seeder, Environment Bridge & Turn-0 Invariant Synchronizer"
+2026-10-24T03:31:29.321Z,dsh-workspace-sidebar,1.0.0,ivanant,,37589,"Gives the DSH right sidebar one shared tab layout per workspace, with a Settings switch and a pinned owning conversation as the shared session."
+2026-10-24T03:31:44.292Z,@senboy/chat-bot-sdk,0.1.1,senboy,MIT,168577,"Drop-in, draggable React chat bot widget powered by Gemini, with local chat history."
+2026-10-24T03:32:18.791Z,@laplace.live/bilibili-qr,0.1.0,laplace-anon,AGPL-3.0,58826,"Bilibili QR code login: issue the code, poll it, and collect the session cookies"
+2026-10-24T03:32:59.041Z,@apilow/gamecoin,0.4.0,erucquoy,MIT,305693,"Server SDK for Apilow GameCoin: the bank of your game (virtual currency, inventory and sales)."
+2026-10-24T03:33:18.663Z,@nvidia-elements/foundations,0.0.0,crylan,Apache-2.0,93809,Shared foundational components and utilities for NVIDIA UI libraries and custom component development.
+2026-10-24T03:33:26.786Z,@tyx1703/swrx,1.0.0,tyx1703,,6372,
+2026-10-24T03:33:28.326Z,dsh-ui-overrides,0.1.0,cholot,MIT,13920,"Inject user-owned CSS into the DeepSeek Harness Web UI to override the appearance of any plugin's elements — fully opaque floating panels, custom colors, spacing, anything CSS can target."
+2026-10-24T03:35:49.552Z,@grey-ridge/x402-data-api-mcp,0.1.0,grey-ridge,MIT,14967,"MCP stdio client for the x402-data-api — exposes crypto, chain, security, and enrichment tools via MCP protocol over stdin/stdout. Uses @x402/fetch + @x402/evm + viem for automated x402 micropayments…"
+2026-10-24T03:36:07.713Z,@grey-ridge/elizaos-plugin-swap-gate,0.1.0,grey-ridge,MIT,132427,"Pre-trade token-safety gate for Base trading agents (ElizaOS): honeypot, sellability, admin-control and liquidity-vs-size checks via Grey Ridge /gate/swap, paid inline with x402 USDC ($0.008/call). C…"
+2026-10-24T03:36:27.764Z,@grey-ridge/langchain-swap-gate,0.1.0,grey-ridge,MIT,51121,"Pre-trade token-safety gate for Base trading agents (LangChain.js tool): honeypot, sellability, admin-control and liquidity-vs-size checks via Grey Ridge /gate/swap, paid inline with x402 USDC ($0.00…"
+2026-10-24T03:36:51.03Z,@grey-ridge/vercel-ai-swap-gate,0.1.0,grey-ridge,MIT,49839,"Pre-trade token-safety gate for Base trading agents (Vercel AI SDK tool): honeypot, sellability, admin-control and liquidity-vs-size checks via Grey Ridge /gate/swap, paid inline with x402 USDC ($0.0…"
+2026-10-24T03:37:08.393Z,@nebulaaa/grapheme,1.0.0,reyn,MIT,214734,字素操作扩展包
+2026-10-24T03:37:13.099Z,@knot-ai/sdk,0.1.3,justinrwong,MIT,323178,Official TypeScript SDK for Knot — the Cross-Agent Context & Continuity Bus for AI apps.
+2026-10-24T03:40:06.079Z,daad-lang,0.1.0,omar-mahmoud-dev,MIT,252138,ضاد: لغة برمجة عربية عامة بصياغة تشبه بايثون، بأنواع ثابتة واستنتاج، تُترجم إلى WebAssembly
+2026-10-24T03:40:46.557Z,@chanx-js/layers,2.0.0,ndhgl99,MIT,23713,"Channel layers for Node: groups and cross-process messaging, wire-compatible with Python's channels_redis and fast-channels."
+2026-10-24T03:40:49.862Z,@chanx-js/server,2.0.0,ndhgl99,MIT,128760,"chanx for Node: typed WebSocket consumers with topics and groups, speaking the same protocol as Python's chanx."
+2026-10-24T03:40:52.924Z,@chanx-js/nestjs,2.0.0,ndhgl99,MIT,31872,"chanx for NestJS: consumers as injectable gateways, with guards, interceptors, pipes and exception filters."
+2026-10-24T03:41:05.467Z,@gitmyabi/rwaurn2,1.0.0,gitmyabi-bot,MIT,95630,"Auto-generated TypeScript type bindings for RwaUrn2 (build etherscan-rwaurn2-5bf0c2de-1792813239031, commit ba29266, branch etherscan)"
+2026-10-24T03:42:35.256Z,logisheets-craftsmith,0.1.0,imjeremyhe,MIT,89940,"CLI for LogiSheets crafts — scaffold, check, build and pack a craft, generating the capability manifest Watson uses to discover and invoke its tools."
+2026-10-24T03:42:43.926Z,@kamanai/ui-i18n,0.1.20261024022443,yspl,Apache-2.0,33212,"Kaman's UI translations: the catalog registry, React provider and hooks, English and Arabic."
+2026-10-24T03:42:48.149Z,completecontext,0.0.1,edwardryandev,ISC,280,CompleteContext - placeholder
+2026-10-24T03:43:18.4Z,@pi-flash-plugins/quick-panel,0.1.0,bl_ddyy,,5732,
+2026-10-24T03:43:35.086Z,@wocwang/cortico-world-gpt-sovits-for-coopanion,0.2.1,wocwang,MIT,2014820,"Cortico World for Coopanion: speaks the pet's lines aloud with GPT-SoVITS (V5 on NVIDIA GPUs, a CPU tier otherwise), installing a portable runtime and weights in one click"
+2026-10-24T03:44:09.129Z,@dsviz/arch,3.0.0,jessewilliamson,MIT,49220,"System-architecture diagrams: components, zones, links, packets"
+2026-10-24T03:44:11.72Z,@dsviz/cli,3.0.0,jessewilliamson,MIT,162302,Copy dsviz diagram components into your app: npx @dsviz/cli add binary-search
+2026-10-24T03:44:14.302Z,@dsviz/core,3.0.0,jessewilliamson,MIT,347924,"Headless core of dsviz: scene primitives, SVG renderer, camera, player"
+2026-10-24T03:44:16.446Z,@dsviz/ds,3.0.0,jessewilliamson,MIT,144717,"Data-structure diagrams: arrays, trees, graphs, hash maps, linked lists, stacks, queues"
+2026-10-24T03:44:18.682Z,@dsviz/geom,3.0.0,jessewilliamson,MIT,42378,"Geometry diagrams: polygons, angles, circles, tick marks"
+2026-10-24T03:44:21.376Z,@dsviz/git,3.0.0,jessewilliamson,MIT,77315,Git commit-graph diagrams
+2026-10-24T03:44:23.752Z,@dsviz/layout,3.0.0,jessewilliamson,MIT,69575,Layered (Sugiyama-lite) and tidy-tree layouts for dsviz diagrams
+2026-10-24T03:44:25.918Z,@dsviz/os,3.0.0,jessewilliamson,MIT,71744,"Operating-systems diagrams: scheduling Gantt charts, stack and heap, raw memory"
+2026-10-24T03:44:28.073Z,@dsviz/plot,3.0.0,jessewilliamson,MIT,59914,Function plots and calculus diagrams for dsviz
+2026-10-24T03:44:30.365Z,@dsviz/prob,3.0.0,jessewilliamson,MIT,64636,"Probability diagrams: bars, sample spaces, dice, probability trees, Venn diagrams"
+2026-10-24T03:44:32.961Z,@dsviz/react,3.0.0,jessewilliamson,MIT,115779,"React bindings for dsviz: Diagram, usePlayer and small controls"
+2026-10-24T03:44:35.843Z,@dsviz/uml,3.0.0,jessewilliamson,MIT,397570,"UML diagrams: class, object, package, sequence, communication, state machine, activity, use case, component, deployment, and ER"
+2026-10-24T03:45:02.683Z,@gatherthread/claude-connect,0.1.0-beta.4,th060419,Apache-2.0,4789072,Standalone Claude Code connector and private plugin tools for GatherThread
+2026-10-24T03:46:46.354Z,@mhsalves/yugioh-fm-catalog,0.6.0,mhsalves,MIT,545954,This catalog tools helps to retrieve data from Yugioh Forbidden Memories
+2026-10-24T03:47:03.841Z,baff.js,0.1.0,heybaff,SEE LICENSE IN LICENSE,612419,"The library for building bots on baff.gg: gateway client, REST, slash commands, components and embeds, with no runtime dependencies."
+2026-10-24T03:47:45.438Z,ucdreams-bg-remover,1.0.0,uchitchakma,MIT,5003,Client-side WebAssembly & WebGPU AI background remover engine. Official open-source client for Remove BG HD by UCDREAMS (https://ucdreams.com).
+2026-10-24T03:49:02.583Z,browser-watermark-removal,0.1.1,sharkseven,MIT,591380,"Headless, 100% in-browser watermark removal core: auto-detect, glyph-level masks, MI-GAN / LaMa inpainting, WebGPU + WASM."
+2026-10-24T03:49:24.838Z,@ketapay/node,0.1.0-beta.4,ketapay_master,MIT,446154,Official Node.js library for the KetaPay escrow API
+2026-10-24T03:49:36.353Z,dsh-knowhub,0.8.2,mickwave,MIT,633560,知枢 KnowHub — DSH 全局知识中心与项目长期记忆：知识库、Repo Wiki、审核与版本、增量更新、检索与上下文注入、自动提炼、备份恢复、中文面板
+2026-10-24T03:51:13.328Z,cascade-setup,0.1.0,cascadedynamics,MIT,37332,"Connect every AI agent tool on your machine (Claude Code, Codex, Cursor, VS Code) to Cascade in one command, so agents claim shared work before acting and never collide."
+2026-10-24T03:52:09.979Z,dru-date-picker,1.0.1,drusba,MIT,1514645,"iOS-style wheel date/time picker for Vue, React, Next.js, Nuxt, and vanilla JavaScript. Colors, button text, and date type are customizable per instance."
+2026-10-24T03:52:45.859Z,africa-compliance-data,1.2.0,africacompliancedata,MIT,72188,"Client library for the Africa Compliance Data API: public holidays, business days, holiday watch, VAT and VAT rate history, withholding tax and tax-treaty rates, tax ID formats, filing deadlines, fin…"
+2026-10-24T03:53:00.006Z,@borg0ai/plugins,0.1.1,systembug,Apache-2.0,105516,"Install open-plugin format plugins into agent tools, including OpenCode."
+2026-10-24T03:53:03.444Z,@nebulaaa/base64,1.0.0,reyn,MIT,22308,Base64
+2026-10-24T03:55:39.298Z,n8n-nodes-nexis,1.0.0,manaayansh,MIT,69546,"Find and remove personal data (PII) from text in n8n – redact, mask or encrypt emails, names, NHS and SSN numbers. GDPR, UK GDPR, HIPAA. Powered by Intelation Nexis."
+2026-10-24T03:55:50.01Z,@wx-sab/dp-feishu-login,0.1.0,zprial,ISC,117670,飞书 OAuth 登录流程 SDK（无框架依赖，自带请求层）
+2026-10-24T03:55:55.881Z,@afpediapay/sdk,0.1.0,afpediapay,MIT,29145,Official Node.js/TypeScript SDK for the AfpediaPay payment gateway API.
+2026-10-24T03:56:20.958Z,@gitmyabi/rwavault,1.0.0,gitmyabi-bot,MIT,454612,"Auto-generated TypeScript type bindings for RWAVault (build etherscan-rwavault-317aa105-1792814154222, commit 1b26db0, branch etherscan)"
+2026-10-24T03:59:01.414Z,@account-book/hermes-agent-kit,0.0.2,bigmogician,,76234,Hermes 实例接入工具：合并 MCP 配置、安装 skills、探测连通、doctor 诊断
+2026-10-24T04:01:23.642Z,@ehfuse/common-as-client,1.1.0,wowgrowth,MIT,9521,공용 AS(문자 · 알림톡 · 푸시 · 메일 · AI 관문) 클라이언트 — 서명 · 비밀값 묶음 봉하기. node:crypto 만 쓴다.
+2026-10-24T04:01:23.956Z,@pi-flash-plugins/market,0.0.1792814256,bl_ddyy,,613,
+2026-10-24T04:01:44.698Z,@asyntai/pulumi,1.0.1,asyntai,MPL-2.0,147353,"Manage Asyntai AI chatbots as code: websites (AI agents), widget settings, AI instructions, knowledge base items and webhooks."
+2026-10-24T04:03:01.62Z,plekta,0.0.1,thelastofinusa,,157,
+2026-10-24T04:03:51.883Z,feed-sentinel-mcp,1.0.0,k19810703,MIT,39463,信息哨兵 Feed Sentinel — RSS/Atom 订阅与网页/关键词变更监控的 MCP Server（WorkBuddy 连接器）
+2026-10-24T04:03:52.018Z,siteon-cli,1.0.0,muners,MIT,836945,Siteon の CLI と MCP サーバー（API キーでサイト・schema・フォームを操作する）
+2026-10-24T04:04:35.789Z,@terracorelabs/mcp,0.1.0,quangdh,UNLICENSED,17856,Stdio to Streamable HTTPS proxy that connects stdio-only MCP clients to the TerraCore ERP MCP server.
+2026-10-24T04:04:56.919Z,aeroapi,0.5.0,anomaddev,MIT,122153,FlightAware AeroAPI client for browsers and Node.js
+2026-10-24T04:05:04.772Z,@fastaf-co/piece-fastaf,0.1.0,fastaf-co,MIT,114374,"FastAF web scraping, Google search, AI extraction, screenshots and structured public web data for Activepieces."
+2026-10-24T04:06:39.854Z,@butteryui/mcp,0.10.0,alibolly,MIT,5323991,"An MCP server that answers questions about buttery's components, tokens and layout rules."
+2026-10-24T04:07:07.119Z,aemeath-baileys,1.1.13,itsscode,MIT,6530886,Aemeath Baileys WhatsApp Web API Library
+2026-10-24T04:07:53.258Z,@product.engineer.sushant/mssp,1.0.0,product.engineer.sushant,ISC,16475,
+2026-10-24T04:09:50.134Z,tbh-cli,1.5.0,nepcoder,MIT,225813,TeleBotHost CLI - deploy and pull TBL command projects from any folder
+2026-10-24T04:09:57.727Z,@sprachpass/client,0.1.0,udaysy,MIT,248132,Typed Node.js client for the Sprachpass German exam question API.
+2026-10-24T04:09:58.003Z,dsh-open-market,0.2.0,polang233,GPL-3.0-only,224855,"Open Plugin Market for DeepSeek Harness: adds a community plugin index that favors fast-growing, actively maintained plugins."
+2026-10-24T04:11:38.577Z,question-bank-framework,0.1.0,juiced,MIT,170331,"Framework-style question bank: TanStack Start + TanStack Table grid, quizzes, and filter DSL. Bring your own bank.config.ts + content/. Eject any framework/ file with `qb reveal` (Vike-style)."
+2026-10-24T04:11:52.214Z,@sprachpass/cli,0.1.0,udaysy,MIT,60516,Command-line access to the Sprachpass German exam question API and an offline synthetic demo.
+2026-10-24T04:11:55.637Z,@sprachpass/mcp,0.1.0,udaysy,MIT,19063,Local stdio MCP server for the Sprachpass German exam question API.
+2026-10-24T04:14:02.14Z,@tora-dev/tr,0.0.0-stage,toraora,,334,Temporary package placeholder for staged publishing
+2026-10-24T04:14:03.704Z,opencode-plugin-anonymous,0.1.0,tachibana-shin,MIT,179575,"Anonymize OpenCode provider requests by rotating session, project, client, trace, and prompt identifiers"
+2026-10-24T04:15:11.943Z,barriedirk-build-a-prime-number-checker-module,1.0.0,barriedirk,ISC,754,"This is a practice to get a certificate about backend (freecodecamp), don't use in production application"
+2026-10-24T04:18:28.719Z,nexkon,0.0.0-stage,daoif,,328,Temporary package placeholder for staged publishing
