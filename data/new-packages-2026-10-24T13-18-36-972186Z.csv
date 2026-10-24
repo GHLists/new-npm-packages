@@ -1,0 +1,156 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-24T12:14:52.153Z,@cloflin/vitepress-theme,0.2.0,oponamarchuk,MIT,78306,"An animated VitePress theme: spring-driven sidebar, sliding table of contents, command-menu search, circular theme reveal."
+2026-10-24T12:16:20.374Z,@neraant/snapbug,0.1.0,neraant,MIT,5216273,"Embeddable bug report widget with screenshot, console and network capture"
+2026-10-24T12:17:25.439Z,@komutan-desktop/cli,0.1.0,xkokonatx,UNLICENSED,50794,Independent Komutan Desktop Windows pairing and outbound agent CLI
+2026-10-24T12:17:38.341Z,@authvex/core,0.1.0,isagarpinninti,MIT,757331,"Zero-dependency identity engine: PBKDF2 password vault, RFC 6238 TOTP, W3C WebAuthn binary parser and verifier, RFC 9449 DPoP hardware-bound sessions, refresh-token family kill-switch, impossible-tra…"
+2026-10-24T12:18:35.463Z,@frankfmy/canonical-json-fingerprint,0.1.1,frankfmy,MIT,13002,Strict canonical JSON serialization and deterministic SHA-256 fingerprints for TypeScript.
+2026-10-24T12:19:24.827Z,monad-browser,0.1.1,batuhanozkose,MIT,13512275,"Headless, turnkey browser CLI for AI agents: compact AX snapshots with @refs, warm daemon, raw CDP. No Playwright."
+2026-10-24T12:19:30.494Z,@frankfmy/canvas-geometry,0.1.1,frankfmy,MIT,615520,"Low-level 2D geometry, transforms, spatial indexing and canvas rendering for TypeScript."
+2026-10-24T12:19:34.595Z,@frankfmy/connector-contracts,0.1.1,frankfmy,Apache-2.0,40885,"Strict versioned connector manifests, envelopes and signature payloads for TypeScript."
+2026-10-24T12:19:38.566Z,deterministic-sphere-network,0.1.1,frankfmy,MIT,23917,Seeded Fibonacci-sphere proximity graphs and GPU-ready typed buffers with bounded deterministic topology.
+2026-10-24T12:19:42.9Z,@frankfmy/exact-source-audit,0.1.2,frankfmy,Apache-2.0,45930,Exact Git-index secret scanning and deterministic CycloneDX SBOM generation for Bun projects.
+2026-10-24T12:19:46.799Z,git-activity-analysis-core,0.1.1,frankfmy,Apache-2.0,83346,"Privacy-aware, deterministic local Git history scanning, aggregation, and commit clustering."
+2026-10-24T12:19:51.657Z,schema-evolution-planner,0.1.1,frankfmy,Apache-2.0,39304,Deterministic flat-schema evolution plans with injected type compatibility and explicit resolutions.
+2026-10-24T12:19:55.838Z,@frankfmy/totp-recovery-kit,0.1.1,frankfmy,Apache-2.0,40926,"RFC 6238 TOTP, identity-bound secret envelopes and Argon2id recovery codes for TypeScript and Bun."
+2026-10-24T12:20:00.01Z,@frankfmy/typed-unit-system,0.1.1,frankfmy,MIT,69187,Type-safe scalar and composite unit conversions for TypeScript.
+2026-10-24T12:20:04.47Z,@frankfmy/arcana-sdk,0.1.0,frankfmy,MIT,121033,"TypeScript client for Arcana graph sync, with isolated React, Vue and Svelte adapters."
+2026-10-24T12:20:15.272Z,dsh-qq-tools,0.7.0,cyh777,MIT,95026,给大肥鱼会话用的 QQ 群/私聊工具：列群、看群记录、发群消息、发表情、收藏表情（SnowLuma 收藏夹）、好友/私聊记录、发私聊消息、私聊唤醒、群成员、戳一戳感知/戳回去。8 个工具各是一个独立组件，可在插件页逐个开关。
+2026-10-24T12:20:26.703Z,@ponydev/dsh-tailscale,0.2.1,ponydev,MIT,927853,DSH Web 插件：把 DSH Web GUI 发布到 tailnet（远程入口），并把 tailnet 设备与可达性暴露为 ctx.tailscale 服务，供其他插件消费
+2026-10-24T12:20:40.597Z,@meowshed/meow-csharp,0.1.1,retran,Apache-2.0,16869,"Detects a .NET solution or project from what git tracks, compares the SDK global.json pins with the ones installed, prints a stages table that restores explicitly and keeps every build's output outsi…"
+2026-10-24T12:20:43.572Z,@meowshed/meow-go,0.1.1,retran,Apache-2.0,18087,"Detects Go from the modules git tracks, reports each module's language version, pinned toolchain, declared tools and golangci-lint configuration, prints a stages table bound from them with the race d…"
+2026-10-24T12:20:46.647Z,@meowshed/meow-godot,0.1.1,retran,Apache-2.0,14771,"Detects Godot projects from what git tracks, reads the engine version from each project file before it binds anything, prints a stages table bound from the gdtoolkit, GUT and export preset files the…"
+2026-10-24T12:20:49.98Z,@meowshed/meow-lua,0.1.1,retran,Apache-2.0,15568,"Detects Lua and Neovim plugins from what git tracks, names the runtime or the editor that evaluates the code before it binds anything, prints a stages table bound from the formatter, linter, test run…"
+2026-10-24T12:20:53.08Z,@meowshed/meow-python,0.1.1,retran,Apache-2.0,20584,"Detects a Python project from the pyproject.toml git tracks, reads the environment tool it declares, prints a stages table bound from the tools it configured and run through that environment, reports…"
+2026-10-24T12:20:55.955Z,@meowshed/meow-rust,0.1.1,retran,Apache-2.0,17920,"Detects Rust from the manifests git tracks, reports each manifest's edition, the pinned toolchain and the clippy groups a lint stage runs, prints a stages table bound from the cargo commands the mani…"
+2026-10-24T12:20:58.97Z,@meowshed/meow-scheme,0.1.1,retran,Apache-2.0,13209,"Detects Scheme projects from the manifests git tracks, names the implementation before it binds anything, prints a stages table that binds Racket's tests as raco test without writing bytecode and bin…"
+2026-10-24T12:21:02.095Z,@meowshed/meow-starlark,0.1.1,retran,Apache-2.0,13884,"Detects Bazel and Buck workspaces from what git tracks, names the build system that evaluates the Starlark before it binds anything, prints a stages table bound from the buildifier configuration and…"
+2026-10-24T12:21:04.83Z,@meowshed/meow-typescript,0.1.1,retran,Apache-2.0,22311,"Detects a TypeScript and JavaScript package from the package.json git tracks, reads the package manager it declares, prints a stages table bound from the tools it configured and run through that mana…"
+2026-10-24T12:21:11.929Z,@genji-ball-team/style,1.0.0,genji-ball-team,SEE LICENSE IN LICENSE.md,26196,"The Genji Ball coding style: ESLint and Prettier config, the file-size check and the pre-commit hook"
+2026-10-24T12:21:21.101Z,dsh-answer-timing,1.0.1,liu0516,MIT,43447,"Answer-level timing breakdown for DSH: model thinking / first token / decode, per-tool cost, and everything else."
+2026-10-24T12:22:26.24Z,@caph42/pi-cursor-provider,0.4.0,caph42,MIT,181119,Cursor provider for Pi: one HTTP/2 AgentService/Run per turn (magpie-aligned).
+2026-10-24T12:23:12.66Z,dsh-websift,1.0.3,knlcxy,MIT,403095,"Token-efficient web reading for DeepSeek Harness, powered by a real Chrome over CDP. One call fetches several pages, gates them by relevance and returns a single digest (80-98% fewer context tokens).…"
+2026-10-24T12:23:14.732Z,@dummy3ye/flamer-native-linux-x64,1.1.1,dummy3ye,MIT,820738,Flamer native workers for linux-x64
+2026-10-24T12:23:15.218Z,@nexufed/nexuml-studio,0.2.1,nexuceo,Apache-2.0,9327319,Local visual interface for your installed NexuML
+2026-10-24T12:23:27.598Z,@dummy3ye/flamer-native-darwin-arm64,1.1.1,dummy3ye,MIT,774579,Flamer native workers for darwin-arm64
+2026-10-24T12:24:21.131Z,stealthprotocol,0.1.0,stealthprotocol,MIT,229900,"Stealth payments on Solana: payment links, invoices and SOL or SPL token payments that land in one-time addresses only the receiver can open. No pool, no contract, no custody."
+2026-10-24T12:24:32.364Z,@adecore/charts,0.34.1,basmilius,FSL-1.1-MIT,510349,"Series charts, scatters, heatmaps, trace timelines and sparklines in the theme of @adecore/ui, readable by keyboard and screen reader."
+2026-10-24T12:25:11.337Z,dsh-qq-persona,0.1.0,yiyaoqiq,MIT,125400,QQ 通道的人物记忆与画像：滚动聊天总结、人物画像、好感度（主人恒定天花板）、情绪层（心情 + 情绪残留），主人可查可改可删
+2026-10-24T12:26:43.994Z,@mumble-speech/web,0.1.0,basteez,MIT OR Apache-2.0,159806,Video-game mumble speech synthesis for the web (WebAssembly).
+2026-10-24T12:26:50.944Z,@orielweb/api,0.4.15,pgyctt,MIT,542389,OrielWeb 页面侧 API：模块名与 @tauri-apps/api 一一对应，迁移只需替换 import 前缀。
+2026-10-24T12:27:58.744Z,@stagefright5/jenkins-cli,0.1.2,stagefright5,Unlicense,65454,"Guarded Jenkins CLI with named profiles, build validation, and artifact downloads"
+2026-10-24T12:28:21.36Z,wordpress-to-astro-darwin-arm64,0.1.1,vikaspods,MIT,6498444,The darwin arm64 binary for wordpress-to-astro.
+2026-10-24T12:28:28.185Z,wordpress-to-astro-darwin-x64,0.1.1,vikaspods,MIT,6890560,The darwin x64 binary for wordpress-to-astro.
+2026-10-24T12:28:34.426Z,wordpress-to-astro-linux-arm64,0.1.1,vikaspods,MIT,6358893,The linux arm64 binary for wordpress-to-astro.
+2026-10-24T12:28:40.975Z,wordpress-to-astro-linux-x64,0.1.1,vikaspods,MIT,6702947,The linux x64 binary for wordpress-to-astro.
+2026-10-24T12:28:48.207Z,wordpress-to-astro-win32-arm64,0.1.1,vikaspods,MIT,6367925,The win32 arm64 binary for wordpress-to-astro.
+2026-10-24T12:28:55.367Z,wordpress-to-astro-win32-x64,0.1.1,vikaspods,MIT,6909099,The win32 x64 binary for wordpress-to-astro.
+2026-10-24T12:28:57.616Z,@dummy3ye/flamer-native-win32-x64,1.1.1,dummy3ye,MIT,443362,Flamer native workers for win32-x64
+2026-10-24T12:28:59.27Z,wordpress-to-astro,0.1.1,vikaspods,MIT,13497,"Convert a public WordPress site into an Astro project: Markdown posts and pages, images, permalinks kept, redirects, RSS and sitemap."
+2026-10-24T12:29:08.879Z,@gitcoffee-os/postbot-cli,1.1.0,gitcoffee,Apache-2.0,470357,PostBot & Postar CLI - Content publishing and task management tool
+2026-10-24T12:29:14.944Z,@fffangchenghao/dsh-computer-use,0.4.0,fffangchenghao,MIT,1966232,"Accessibility-first macOS Computer Use capability for DeepSeek Harness with stale-observation protection, app leases, confirmations, screenshots, and Web diagnostics"
+2026-10-24T12:30:20.279Z,webkreta,0.1.0,haverfalat,UNLICENSED,596169,"Function-based TypeScript API wrapper for the KRÉTA gradebook, DKT and e-ügyintézés"
+2026-10-24T12:32:24.725Z,@omid-gharavi/test-package,1.0.2,omid-gharavi,,2907,
+2026-10-24T12:32:53.914Z,@bandf/opencode,1.0.1,bandf,AGPL-3.0-or-later,213281,"A local, in-page coding agent: an OpenCode server in Docker, a sidecar that drives it, and a bar any page can load."
+2026-10-24T12:33:03.502Z,@portalshq/capability-realtime-fanout-postgres,0.0.0,bmejia220,,8075,PostgreSQL-backed durable FanoutBus: messages survive process restarts and fan out across processes via polling.
+2026-10-24T12:34:03.777Z,@snap-rail/connection,0.1.0,jensyan,Apache-2.0,19829,"Client half of the rpc carrier: HostLink over the preload primitives, frame subscriptions"
+2026-10-24T12:34:06.909Z,@snap-rail/gateway,0.1.1,jensyan,Apache-2.0,28966,"Host-side RPC dispatch service (ctx.rpc): method registry, boundary validation, frame pump"
+2026-10-24T12:34:09.348Z,@mondarth/fvtt-package-catalogue-contract,0.1.0,ulenar,MIT,46020,The API contract of the Foundry VTT package catalogue: zod schemas and types of every request and response.
+2026-10-24T12:34:10.229Z,@snap-rail/settings,0.1.0,jensyan,Apache-2.0,15348,App settings persistence service (ctx.settings)
+2026-10-24T12:34:17.621Z,@fateme_rjn/agent,0.1.1,fateme_rjn,UNLICENSED,566129,Searchia search and chat widget with streaming API and local demo adapters
+2026-10-24T12:34:29.794Z,databull,1.0.0,adgan,SEE LICENSE IN https://databull.app/terms,157228,"Install and update DataBull, revenue-first web analytics, on your own Cloudflare account."
+2026-10-24T12:34:57.039Z,dsh-game-skins,0.3.0,redforst.wu,MIT,1611420,Minecraft and Infinite Lagrange inspired skins for DSH
+2026-10-24T12:35:05.666Z,@civ-clone/civ1-game-end,0.1.3,dom111,MIT,92171,"How a game of Civilization ends: conquest, the final year, a spaceship landing, retiring, and your civilization destroyed."
+2026-10-24T12:35:43.842Z,llm-schema-compat,0.1.0,amanjhacodes55,MIT,74808,"Make any JSON Schema (Zod, Pydantic, MCP tools, OpenAPI) work with OpenAI strict mode, Anthropic structured outputs and Gemini, and decode the model's output back to your original shape. Zero depende…"
+2026-10-24T12:36:00.473Z,dsh-k12-tutor,1.0.0,redforst.wu,MIT,30895883,面向中小学生的学习导师（首个学科包：初中数学·人教版）。先诊断再讲解，逐级提示，不代写不代考；未成年人安全、学术诚信和隐私规则常驻。
+2026-10-24T12:36:22.438Z,agindow,0.1.0-alpha.1,paybondai,Apache-2.0,2814158,API drift firewall for AI agents on Node (Rust/WASM)
+2026-10-24T12:37:23.924Z,xcbench,0.1.0,aoha,MIT,150931,"XCbench — workbench layout for DeepSeek Harness: task-state strip, schedule board with per-status tints, weather/clock bar and a right-hand quick-chat column."
+2026-10-24T12:37:28.347Z,dsh-song-theme,0.1.0,aoha,MIT,15011,"Song dynasty paper-and-ink theme for the whole DeepSeek Harness surface: a registered light theme plus square corners, switchable from settings."
+2026-10-24T12:37:32.855Z,dsh-glow,0.1.0,aoha,MIT,18869,"White halo outside the region under the pointer, across the whole DeepSeek Harness surface. Configurable intensity and color."
+2026-10-24T12:37:35.002Z,@salism3/dsh-latex-editor,1.0.1,salism3,MIT,74702,"DeepSeek Harness LaTeX Editor with AI - Split screen chat & live PDF preview, main.tex compiler, and soul injection"
+2026-10-24T12:37:49.725Z,@quenvyra/widget,0.1.0,quenvyra_org,MIT,61997,"Embeddable Quenvyra customer support widget (order lookup, Q&A, tickets, product reviews)"
+2026-10-24T12:37:59.314Z,@thereforejs/bls,0.0.0,flogersoft,MIT AND CC-BY-4.0,949,"Unofficial preparation of the Bundeslebensmittelschlüssel 4.0 (BLS, Max Rubner-Institut) as exact, tree-shakable nutrient data for @thereforejs/nutrition"
+2026-10-24T12:38:17.734Z,@plekta/toast,0.0.1,thelastofinusa,MIT,1329,plekta toast package
+2026-10-24T12:38:52.181Z,@tarve/svelte,0.7.0,omarcos,Apache-2.0,202887,Svelte 5 components in native Tarve windows
+2026-10-24T12:38:57.78Z,@plekta/utils,0.0.1,thelastofinusa,MIT,66760,plekta utils package
+2026-10-24T12:39:14.01Z,@datalabrotterdam/nova-ai-skills,1.0.0,dl010,Apache-2.0,226462,"Skills every Nova AI app ships (Word, Excel, PowerPoint, PDF), with the installer that keeps them up to date in ~/.nova-ai/skills"
+2026-10-24T12:40:10.792Z,@dummy3ye/flamer-native-darwin-x64,1.1.1,dummy3ye,MIT,732381,Flamer native workers for darwin-x64
+2026-10-24T12:40:12.875Z,dsh-gitea,0.8.4,pvlb,MIT,764061,"Gitea/Forgejo integration for DeepSeek Harness: 96 first-class tools for issues, pull requests, reviews, releases, CI, packages, wiki and worktrees (133 registered names with compatibility aliases),…"
+2026-10-24T12:42:44.264Z,@marktiderman/genesis-supabase,0.1.1,marktiderman,MIT,38135,"Supabase for Genesis apps on web and React Native: a client with PKCE and safe defaults, Keychain session storage that survives interrupted writes, refresh only while the app is in front, and a resul…"
+2026-10-24T12:43:46.31Z,@flamioai/agent-panel,0.11.0-beta.0,flamio,UNLICENSED,47810,Flamio agent panel: your site's API as tools for AI agents in the browser (WebMCP)
+2026-10-24T12:44:49.057Z,@coolicons/svg,5.0.0-beta.1,krystonschwarze,MIT,11962841,coolicons as SVG files with a manifest in five styles and three corner radii
+2026-10-24T12:45:23.647Z,@coolicons/react,5.0.0-beta.1,krystonschwarze,MIT,17378575,coolicons as React components in five styles and three corner radii
+2026-10-24T12:45:28.154Z,static-md-e2e,0.1.0,iasig,MIT,54646,Local MCP server that lets AI agents read and write end-to-end encrypted static.md notes. Keys and plaintext stay on your computer.
+2026-10-24T12:45:33.025Z,@autumn-dev/autumn-bus-darwin-arm64,0.1.0-next.15,adi.singh,Apache-2.0,14712122,Autumn Bus native Go binary for darwin-arm64.
+2026-10-24T12:46:05.633Z,dsh-agent-sdk-bridge,1.0.0,watercam,MIT,778356,"DeepSeek Harness LLM adapter bridge for Qoder CN, Qoder International and Tencent CodeBuddy subscriptions. It reuses each provider's own SDK and CLI login, shows the Qoder account quota, exposes per-…"
+2026-10-24T12:47:21.093Z,pg-plancheck-core,0.1.0,ashraf-mse,,134624,Deterministic PostgreSQL EXPLAIN parsing and performance diagnostics used by PlanCheck.
+2026-10-24T12:50:16.531Z,pg-plancheck,0.1.0,ashraf-mse,,18329,Evidence-based PostgreSQL EXPLAIN analysis from your terminal.
+2026-10-24T12:50:28.08Z,@resolvrcom/sdk,0.0.1,resolvrcom,MIT,390946,Official TypeScript SDK for the Resolvr challenge automation API
+2026-10-24T12:50:35.531Z,@autumn-dev/autumn-bus-darwin-x64,0.1.0-next.15,adi.singh,Apache-2.0,15619198,Autumn Bus native Go binary for darwin-x64.
+2026-10-24T12:51:50.42Z,@likemiens/light-dial,1.0.0,likemiens,MIT,30750,"A small control for the light in a scene: where it comes from and how strong it is. Drop-in Web Component, no dependencies."
+2026-10-24T12:51:53.923Z,@likemiens/presence,1.0.3,likemiens,MIT,40440,"Faces, a head count and what people are doing, in one chip. A dependency-free web component: <lm-presence>."
+2026-10-24T12:51:57.585Z,@likemiens/aura,1.0.1,likemiens,MIT,97378,"Glowing data tiles as Web Components: any number, or the weather in one call. Ten gauges, states and a board people can rearrange. No dependencies."
+2026-10-24T12:52:01.218Z,@likemiens/voice-dock,1.1.0,likemiens,MIT,48379,"The control bar of a live voice session as a React component: status, microphone, screen sharing, exit and a menu, drawn as beads on one thread."
+2026-10-24T12:52:05.073Z,@likemiens/pinch-calendar,1.0.1,likemiens,MIT,33469,"A React list of days whose density follows a pinch, after Timepage: smooth under the fingers, a spring to whole days on release."
+2026-10-24T12:52:16.26Z,@stll/scan-engine,0.0.1-placeholder.0,jan-kubica,Apache-2.0,233,Placeholder to bootstrap npm trusted publishing. Real releases are published from stella/stella via GitHub Actions.
+2026-10-24T12:53:24.591Z,dsh-phone,0.1.1,ponydev,MIT,1173193,DSH Web 插件：右侧栏预览并点按控制已连接的 Android 设备（adb）
+2026-10-24T12:53:54.81Z,openclaw-channel-shareopen,1.3.3,greenops,MIT,92542,"ShareOpen IM channel plugin for OpenClaw — agent-to-agent messaging with slash-command menu, approval fences, and model picker."
+2026-10-24T12:54:07.638Z,@bumeter/vscode-kit,0.1.0,bumeter,GPL-3.0-or-later,67124,"Shared code of the Bumeter VS Code extensions: the `bum rpc` client, finding the bundled `bum`, formatting, and the quota/context status bar item."
+2026-10-24T12:55:10.033Z,dsh-term-explainer,1.1.0,midnight-1991,MIT,101929,"Explain computer terms that appear in DeepSeek Harness assistant answers: offline dictionary, per-message entry, no model calls."
+2026-10-24T12:55:25.587Z,@gitmyabi/edc,1.0.0,gitmyabi-bot,MIT,83035,"Auto-generated TypeScript type bindings for EDC (build etherscan-edc-9d5963ba-1792846497397, commit 6030b12, branch etherscan)"
+2026-10-24T12:55:38.361Z,@autumn-dev/autumn-bus-linux-arm64,0.1.0-next.15,adi.singh,Apache-2.0,14561683,Autumn Bus native Go binary for linux-arm64.
+2026-10-24T12:55:45.405Z,dsh-redo,0.2.1,imzl,MIT,54441,Edit or retry an already-sent user message and regenerate in place: rewinds the model context to that message without leaving the session
+2026-10-24T12:56:44.484Z,@dotlabshq/flect-cli,0.2.4,hbasria,MIT,54064,"Flect CLI — flect.toml → control plane, and local development"
+2026-10-24T12:58:34.032Z,@dualkit/convert,0.1.0-beta.0,snts,MIT,323037,Converts an English React or Next.js app to Arabic on a new git branch.
+2026-10-24T12:58:41.8Z,nitpilot,0.0.0,nick_klg,,330,Placeholder: the real release is coming from github.com/NikosGkikas13/nitpilot
+2026-10-24T12:59:37.657Z,medjay,0.1.8,growthhq-medjay,MIT,2411604,"Open, CLI-first, all-model growth agent harness with spend guardrails and approval-gated execution."
+2026-10-24T12:59:50.88Z,opencode-companion,0.1.0,yannsehatt,MIT,68800195,"Local dashboard to manage OpenCode configuration (providers, models, MCP, backups, diagnostics)."
+2026-10-24T13:00:28.479Z,@datastream/gcp,0.9.1,willfarrell,MIT,46706,"Google Cloud streaming integrations for Cloud Storage, Pub/Sub, and BigQuery (Node, bring your own SDK client)"
+2026-10-24T13:00:40.741Z,@autumn-dev/autumn-bus-linux-x64,0.1.0-next.15,adi.singh,Apache-2.0,15507849,Autumn Bus native Go binary for linux-x64.
+2026-10-24T13:02:34.882Z,spring-start,0.1.0,twhy,MIT,72898,Generate Spring Boot projects from start.spring.io
+2026-10-24T13:03:03.051Z,@norn-ts/norn,2.0.0,king0120,MIT,382504,"Write Temporal workflows and activities as plain, typed TypeScript classes."
+2026-10-24T13:04:16.278Z,@erivers/epl,0.1.0-alpha.1,rod2ik,MIT,53999,"Independent EPL parser, typed model, validator and secure policy decision prototype"
+2026-10-24T13:05:04.501Z,custom-slide-generator,1.0.0,joaofr-tech,MIT,36027,Universal AI Agent Skill & CLI tool to generate clean deterministic PowerPoint (.pptx) presentations with minimalist flat stickers.
+2026-10-24T13:05:05.122Z,@erivers/epl-medusa,0.1.0-alpha.1,rod2ik,MIT,13385,Medusa server enforcement adapter for EPL (bring your own transaction and data services)
+2026-10-24T13:05:17.451Z,@bytethedeveloper/tsgpui,0.3.0,bytethedeveloper,MIT,10196148,Compile HTML/CSS and TypeScript applications for GPUI or a system WebView
+2026-10-24T13:05:37.339Z,picusbase-sdk,0.1.0,picusbase,MIT,28200,"TypeScript SDK for the PicusBase platform: sign-in, records, storage, functions"
+2026-10-24T13:06:06.041Z,dsh-memraw,0.1.0,three.h,MIT,92792,"Append-only raw memory for DSH: full transcripts, coordinate index, on-demand recall and one-click backup."
+2026-10-24T13:06:14.298Z,@autumn-dev/autumn-bus-win32-arm64,0.1.0-next.15,adi.singh,Apache-2.0,14403827,Autumn Bus native Go binary for win32-arm64.
+2026-10-24T13:06:44.647Z,@captra-ai/core,0.2.0,vaibhavbansal26,MIT,162168,Typed capability contracts and durable runtime for Captra.
+2026-10-24T13:06:44.66Z,create-captra,0.2.1,vaibhavbansal26,MIT,607,Create a new Captra application from the command line.
+2026-10-24T13:06:44.681Z,@captra-ai/client,0.2.0,vaibhavbansal26,MIT,13114,HTTP and streaming client for Captra runtimes.
+2026-10-24T13:06:44.704Z,@captra-ai/cli,0.2.1,vaibhavbansal26,MIT,21381,"Create, inspect, develop, test, and build Captra applications."
+2026-10-24T13:06:44.729Z,@captra-ai/postgres,0.2.0,vaibhavbansal26,MIT,42260,Durable PostgreSQL run and memory adapters for Captra.
+2026-10-24T13:06:44.743Z,captra,0.2.0,vaibhavbansal26,MIT,4966,"The AI-native JavaScript framework for typed capabilities, agents, memory, tools, and generated UI."
+2026-10-24T13:06:44.785Z,@captra-ai/openai,0.2.0,vaibhavbansal26,MIT,16101,OpenAI Responses API model adapter for Captra.
+2026-10-24T13:06:44.818Z,@captra-ai/server,0.2.0,vaibhavbansal26,MIT,31448,Framework-neutral HTTP handler for Captra applications.
+2026-10-24T13:06:45.16Z,@captra-ai/react,0.2.0,vaibhavbansal26,MIT,26267,React hooks and safe capability views for Captra.
+2026-10-24T13:08:13.511Z,@host0/cli,0.1.0,den_vol,MIT,72313,Deploy and manage host0 apps from the terminal — hosting for whatever your agent creates.
+2026-10-24T13:08:20.387Z,lmfpd-sdk,0.1.0,ikaleio,MIT,110497,Language model fingerprint detection: score saved replies or run a live detection round
+2026-10-24T13:08:32.03Z,@contentasoft/contenta-photo-converter-mcp,1.0.4,contentasoft,MIT,20698,"MCP server for Contenta Photo Converter — Batch-convert, resize and edit images on your Windows PC: 100+ formats, PDF albums, metadata"
+2026-10-24T13:09:10.425Z,voltran,1.0.0,onurravli,Apache-2.0,1511120,Local multi-agent session and terminal orchestrator
+2026-10-24T13:09:17.656Z,naraframe,0.1.0,fatlhr,MIT,1153145,"Create editable vertical motion videos locally, with an optional authoring skill for Codex or Claude Code."
+2026-10-24T13:10:33.917Z,utilery,0.0.0,andreww2012,,1990,OIDC trusted publishing setup package for utilery
+2026-10-24T13:11:16.287Z,@asiaostrich/ryugraph,25.9.1-asiaostrich.1,asiaostrich,MIT,508254361,"An in-process property graph database management system built for query speed and scalability. Security repack of ryugraph 25.9.1 by AsiaOstrich: identical engine binaries, cmake-js raised to ^8.0.0."
+2026-10-24T13:11:17.641Z,@autumn-dev/autumn-bus-win32-x64,0.0.0-stage,adi.singh,,354,Temporary package placeholder for staged publishing
+2026-10-24T13:11:23.456Z,ai-research-digest,1.0.0,junou,MIT,43772,"Collect, de-duplicate and digest fresh AI research (arXiv, Hugging Face, GitHub, news) with uniform output. CLI and agent skill for Hermes Agent / OpenClaw."
+2026-10-24T13:11:33.202Z,ptmaker-vision-models,1.0.0,mijiamiyu,Apache-2.0,24619773,葡萄童创 视觉识别模型：MediaPipe 人体姿态 / 手 / 脸 / 物体四个官方模型原样转发（仅作静态资源经 CDN 分发）
+2026-10-24T13:11:36.211Z,@andreypopp/pi-infer-questions-darwin-arm64,0.1.0,andreypopp,Apache-2.0,135084231,The native module and the models of @andreypopp/pi-infer-questions for darwin-arm64
+2026-10-24T13:12:20.695Z,@eira-core/react-eira-editor,0.1.0,ducnh99,MIT,140458,"A React rich text editor with an HTML value and form-friendly API, powered by Lexical."
+2026-10-24T13:12:24.345Z,@neatico/visual-core,0.14.0,powerduckie,MIT,187501,"Framework-independent geometry, measured text wrapping, and extensible scene registries for visual editors."
+2026-10-24T13:12:24.497Z,@andreypopp/pi-infer-questions-linux-arm64,0.1.0,andreypopp,Apache-2.0,152644221,The native module and the models of @andreypopp/pi-infer-questions for linux-arm64
+2026-10-24T13:12:58.545Z,@sarutobi-sasuke/agent-handoff-mcp,0.0.0,sarutobi-sasuke,Apache-2.0,12133,"Name reservation. The first real release is 0.1.0, published from GitHub Actions with provenance."
+2026-10-24T13:13:04.905Z,@hazeljs/cag,2.0.9,arslan_mecom,Apache-2.0,86017,"Cache-Augmented Generation for HazelJS — prepare, cache, and reuse stable context"
+2026-10-24T13:13:05.032Z,@andreypopp/pi-infer-questions-linux-x64,0.1.0,andreypopp,Apache-2.0,158098067,The native module and the models of @andreypopp/pi-infer-questions for linux-x64
+2026-10-24T13:13:17.205Z,@hazeljs/context,2.0.9,arslan_mecom,Apache-2.0,45343,"Unified Agent Context Engine for HazelJS — plan and assemble CAG, RAG, KAG, and Memory"
+2026-10-24T13:13:26.872Z,@hazeljs/kag,2.0.9,arslan_mecom,Apache-2.0,103828,"Knowledge-Augmented Generation for HazelJS — entities, facts, relations, and structured reasoning"
+2026-10-24T13:13:31.287Z,@andreypopp/pi-infer-questions,0.1.0,andreypopp,Apache-2.0,31144,A pi extension that finds the questions in the agent's replies and lets you answer them
+2026-10-24T13:13:38.474Z,@seedprotocol/archive,0.7.10,kaxline,MIT,99826,"Standards-based archive packaging for Seed Protocol items: BagIt (RFC 8493) bags with SHA-256/SHA-512 manifests, Dublin Core and PREMIS metadata, and an h-entry archive document reader"
+2026-10-24T13:13:58.792Z,@heystack/guard,0.2.0,asjadathick,MIT,165898,Source-aware AI security evaluation and Workers client for Heystack.
+2026-10-24T13:14:30.48Z,mindmap-ai,1.0.0,ali_baghi73,,425396,مایندمپ تعاملی با نمایش تدریجی رشد درخت
+2026-10-24T13:14:49.685Z,create-archlast-forge,0.1.0,algochad,MIT,48587,"Create an archlast-forge project: a full-stack app or a backend, with the services you choose."
+2026-10-24T13:14:53.852Z,@vauntlek/pi-web,0.0.0-stage,vauntlek,,338,Temporary package placeholder for staged publishing
+2026-10-24T13:14:55.104Z,@neatico/generation-jobs,0.2.1,powerduckie,MIT,13955,"Versioned, conflict-aware checkpoints for recoverable generation workflows."
+2026-10-24T13:15:14.99Z,@neatico/pptx-integrity,0.1.0,powerduckie,MIT,8391,Validate generated PPTX relationships and repair unreferenced PptxGenJS master declarations.
+2026-10-24T13:15:56.53Z,@neatico/code-highlight,0.1.1,powerduckie,MIT,5112,Deterministic syntax highlighting helpers for Neatico visual and code blocks.
+2026-10-24T13:16:31.446Z,@ponydev/dsh-phone,0.2.0,ponydev,MIT,1173260,DSH Web 插件：右侧栏预览并点按控制已连接的 Android 设备（adb）
+2026-10-24T13:17:28.584Z,@orpc/effect,0.0.0-stage,dinwwwh,,334,Temporary package placeholder for staged publishing
