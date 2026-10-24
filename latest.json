@@ -1,12 +1,33 @@
 {
   "list": {
-    "count": 177,
-    "from": "2026-10-24T18:18:57.826122Z",
-    "path": "data/new-packages-2026-10-24T19-18-58-089766Z.csv",
-    "to": "2026-10-24T19:18:58.089766Z"
+    "count": 143,
+    "from": "2026-10-24T19:18:58.089766Z",
+    "path": "data/new-packages-2026-10-24T20-18-38-471884Z.csv",
+    "to": "2026-10-24T20:18:38.471884Z"
   },
-  "pending": [],
-  "seq": 139403339,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@cookiemunch/next",
+      "since": "2026-10-24T19:18:58.089766Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@cookiemunch/testing",
+      "since": "2026-10-24T19:18:58.089766Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@hgdc/agents",
+      "since": "2026-10-24T19:18:58.089766Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@joai/sites",
+      "since": "2026-10-24T19:18:58.089766Z"
+    }
+  ],
+  "seq": 139409657,
   "source_truncated": false,
-  "window": "2026-10-24T19:18:58.089766Z"
+  "window": "2026-10-24T20:18:38.471884Z"
 }
