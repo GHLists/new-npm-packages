@@ -1,18 +1,43 @@
 {
   "list": {
-    "count": 81,
-    "from": "2026-10-24T01:18:55.527074Z",
-    "path": "data/new-packages-2026-10-24T02-19-39-472783Z.csv",
-    "to": "2026-10-24T02:19:39.472783Z"
+    "count": 115,
+    "from": "2026-10-24T02:19:39.472783Z",
+    "path": "data/new-packages-2026-10-24T03-18-36-962183Z.csv",
+    "to": "2026-10-24T03:18:36.962183Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "package": "@naulabsco/auth-core",
+      "since": "2026-10-24T02:19:39.472783Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@naulabsco/config",
+      "since": "2026-10-24T02:19:39.472783Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@naulabsco/errors",
+      "since": "2026-10-24T02:19:39.472783Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@naulabsco/logging",
+      "since": "2026-10-24T02:19:39.472783Z"
+    },
+    {
+      "attempts": 4,
       "package": "@overclock/fuse-ui-nuxt",
       "since": "2026-10-23T23:21:39.774693Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@pramaan/cli",
+      "since": "2026-10-24T02:19:39.472783Z"
     }
   ],
-  "seq": 139286835,
+  "seq": 139292704,
   "source_truncated": false,
-  "window": "2026-10-24T02:19:39.472783Z"
+  "window": "2026-10-24T03:18:36.962183Z"
 }

@@ -1,0 +1,116 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-24T02:20:37.449Z,@ssp1/agent,0.1.0,skynetmarkets,MIT,197356,SSP-1 agent SDK - commit verifiable financial signals to Solana from an automated agent
+2026-10-24T02:20:42.744Z,@ssp1/tools,0.1.0,skynetmarkets,MIT,21898,"The SSP-1 agent tools, framework-neutral: one catalog of commit / preflight / record / verify / profile tools over @ssp1/agent, with adapters for the Vercel AI SDK and plain JSON Schema. The MCP serv…"
+2026-10-24T02:20:45.674Z,@ssp1/cli,0.1.0,skynetmarkets,MIT,29890,skynet: commit and verify trading signals on SSP-1 from the command line
+2026-10-24T02:20:49.434Z,@ssp1/reference-agent,0.1.0,skynetmarkets,MIT,38085,"Reference SSP-1 agents: momentum, mean-reversion, breakout, volatility regime, and a coin-flip baseline on @ssp1/agent"
+2026-10-24T02:20:54.732Z,@ssp1/mcp,0.1.0,skynetmarkets,MIT,9291,"MCP server for SSP-1: lets any MCP-speaking agent commit verifiable signals, check readiness, and read or verify its track record"
+2026-10-24T02:20:59.032Z,@ssp1/solana-agent-kit,0.1.0,skynetmarkets,MIT,14530,"Solana Agent Kit v2 plugin for SSP-1: commit verifiable trading signals, check readiness, read and verify the record. agent.use(SSP1Plugin())"
+2026-10-24T02:21:03.957Z,@ssp1/plugin-eliza,0.1.0,skynetmarkets,MIT,18100,"elizaOS plugin for SSP-1: an agent commits verifiable trading signals to Solana, checks readiness, reads and verifies its record. Add it to a character's plugins"
+2026-10-24T02:21:13.282Z,@sojogg/cli,0.1.1,sojodex,MIT,61085,Sojo's setup CLI for coding agents: npx -y @sojogg/cli@latest init
+2026-10-24T02:21:35.914Z,@clubays/clubgate-sdk,0.1.0,gchandra.cyou,MIT,16073,SDK for building Clubays miniapps
+2026-10-24T02:22:05.862Z,@dcdavidev/dropdx,0.1.2,dcdavidev,MIT,192199,Automated release and publish CLI for single packages and monorepos
+2026-10-24T02:22:06.656Z,@paywallex/react-native,1.0.0,paywallex,MIT,13552,"Kit officiel Paywallex pour React Native et Expo : paiement et abonnement par le compte Paywallex ou Mobile Money, retour dans l'app, confirmation serveur."
+2026-10-24T02:22:46.325Z,@achievetech/passport,0.1.0,luax.eth,UNLICENSED,21745,"Client for Bullhorn Passport: signed, typed Bullhorn REST calls without any Bullhorn token."
+2026-10-24T02:23:30.958Z,@enlumine/core,0.1.0,toiroakr,MIT,10630,Grammar execution and token ranges
+2026-10-24T02:23:34.962Z,@enlumine/json,0.1.0,toiroakr,MIT,5658,json syntax tokenizer
+2026-10-24T02:23:38.666Z,@enlumine/typescript,0.1.0,toiroakr,MIT,86400,typescript syntax tokenizer
+2026-10-24T02:23:42.154Z,@enlumine/sql,0.1.0,toiroakr,MIT,13721,sql syntax tokenizer
+2026-10-24T02:23:45.689Z,@enlumine/graphql,0.1.0,toiroakr,MIT,12698,graphql syntax tokenizer
+2026-10-24T02:23:49.409Z,@enlumine/terminal,0.1.0,toiroakr,MIT,9489,ANSI rendering for syntax tokens
+2026-10-24T02:23:52.789Z,enlumine,0.1.0,toiroakr,MIT,9437,A syntax highlighter and CLI for terminals
+2026-10-24T02:24:04.004Z,calendar-simple-native,1.0.0-beta.1,jaganath-m-s,MIT,1108095,"A simple, themeable calendar for React Native (iOS, Android, web)"
+2026-10-24T02:24:38.986Z,@luism/adt-ts,0.1.0,luism,MIT,216464,"Lightweight, tree-shakable TypeScript library for Algebraic Data Types (Option, Result, Task, ADT)"
+2026-10-24T02:26:27.626Z,@auctra/authority-protocol,0.1.1,matik103,MIT,153229,"Auctra Authority Protocol v0.1 — portable signed mandates, delegation subset rules, and evidence primitives"
+2026-10-24T02:26:34.093Z,@fendlemark/ui,0.9.4,tophergopher,MIT,91178,"Vue 3 components, design tokens, and lattice client for the Fendlemark ML platform console. Embed Fendlemark views of MLflow, Metaflow, Argo Workflows, and Kubeflow in your own portal."
+2026-10-24T02:26:35.542Z,@ringko-ai/tui,0.1.0,kaguyaring,Apache-2.0,20953489,RingKo interactive agent CLI
+2026-10-24T02:26:59.444Z,elliptik-crypto,0.0.0-stage,justanotherlatenight,,337,Temporary package placeholder for staged publishing
+2026-10-24T02:27:05.754Z,@moonglade/provenance,2.6.0,mgzen,MIT,1083406,Local-first cryptographic proof for markdown files and agentic AI memory substrates.
+2026-10-24T02:27:09.307Z,@peachlife/ppie-graft,0.1.0,davidaberg,MIT,45704,"pi extension exposing the graft codebase graph as a tool, with per-session orientation and token-savings tracking"
+2026-10-24T02:27:41.045Z,karin-plugin-selfmsg,0.0.2,ylovexln,AGPL-3.0-only,68410,让 Karin 接受 OneBot11 的 message_sent（上报自身消息）事件，使其进入插件层；用于同账号多框架场景下让 kkk 收到其它框架发出的链接
+2026-10-24T02:28:28.769Z,@vutiendung/n8n-nodes-lark-base,0.1.0,vutiendung,MIT,156545,"Kết nối Lark Base với n8n: đọc, tìm kiếm và cập nhật bản ghi theo cấu trúc bảng."
+2026-10-24T02:29:04.745Z,dsh-simplify-theme,0.2.0,zdt3476,MIT,123677,给 DeepSeek Harness 的极简主题：去毛玻璃、去投影、收紧圆角、中性化气泡与交互态，亮暗与跟随系统自动生效。
+2026-10-24T02:29:11.256Z,@peachlife/ppie-custom-provider,0.1.0,davidaberg,MIT,74164,pi extension registering a generic OpenAI-compatible provider with dynamic model discovery
+2026-10-24T02:30:17.53Z,@tik-choco/mistlib-web,0.1.1,fog8360,Apache-2.0,32861,Thin browser wrapper around @tik-choco/mistlib for web applications
+2026-10-24T02:30:28.538Z,dsh-agent-preset-studio,0.2.2,wumai,MIT,287210,"Agent preset studio: inspect every mounted tool, edit the system prompt, and save the result as an installable preset bundle. · Agent 预设工作室：查看全部工具、编辑系统提示词、存成可安装的预设包。"
+2026-10-24T02:30:41.861Z,@openge/forge-artifact-publish,0.1.0-rc.0,wujunhua,Apache-2.0,86181,Provider-neutral immutable object publication and verified pointer activation
+2026-10-24T02:30:46.983Z,@openge/forge-artifact-publish-cos,0.1.0-rc.0,wujunhua,Apache-2.0,60718,Explicit Tencent COS Provider for bounded immutable artifact publication
+2026-10-24T02:33:42.526Z,tinta-editor,0.1.0,ltapiap,MIT,802438,"Editor de texto enriquecido (WYSIWYG) como Web Component, sin dependencias: <tinta-editor>"
+2026-10-24T02:34:50.175Z,@universelle/sentinel-report,0.2.0,universelle-io,MIT,38859,"SENTINEL's report button: let real users tell you what fails or what they miss, with the technical context of their visit."
+2026-10-24T02:37:08.854Z,india-toolkit,1.0.0,smritiazm,MIT,56435,"Build Indian GST invoices in one call, plus validators (PAN, GSTIN, Aadhaar, IFSC, UPI, mobile), lakh/crore formatting, parsing and amount in words. Zero dependencies."
+2026-10-24T02:38:34.938Z,dsh-doctor-plugin,0.13.2,jinchengszj123,MIT,127813,DSH 私人医生：检查并一键修复桌面端在 Windows 上踩过的坑（桌面图标变白/闪烁、工作区注册在桌面、profile 宿主包重复、启动崩溃）
+2026-10-24T02:38:44.904Z,@10p.io/webtransport-quiche-darwin-arm64,20.69.4,machina-owner,BSD-3-Clause,7023560,"Prebuilt webtransport.node (fails-components/webtransport 1.6.3, quiche) for darwin-arm64"
+2026-10-24T02:38:47.236Z,@10p.io/webtransport-quiche-darwin-x64,20.69.4,machina-owner,BSD-3-Clause,7295442,"Prebuilt webtransport.node (fails-components/webtransport 1.6.3, quiche) for darwin-x64"
+2026-10-24T02:38:48.23Z,@10p.io/webtransport-quiche-linux-arm64,20.69.4,machina-owner,BSD-3-Clause,10494841,"Prebuilt webtransport.node (fails-components/webtransport 1.6.3, quiche) for linux-arm64"
+2026-10-24T02:38:48.628Z,@10p.io/webtransport-quiche-win32-x64,20.69.4,machina-owner,BSD-3-Clause,5271155,"Prebuilt webtransport.node (fails-components/webtransport 1.6.3, quiche) for win32-x64"
+2026-10-24T02:38:48.836Z,@10p.io/webtransport-quiche-linux-x64,20.69.4,machina-owner,BSD-3-Clause,11314091,"Prebuilt webtransport.node (fails-components/webtransport 1.6.3, quiche) for linux-x64"
+2026-10-24T02:38:56.449Z,@10p.io/webtransport-quiche,20.69.4,machina-owner,BSD-3-Clause,29494,@fails-components/webtransport-transport-http3-quiche 1.6.3 that loads webtransport.node from per-platform optionalDependencies (no install script)
+2026-10-24T02:39:56.022Z,@pouchbasejs/ui,0.1.0,redbullzuiper,MIT,78480,"Svelte 5 UI components of the Pouchbase dashboard, for the app and for plugins"
+2026-10-24T02:46:27.281Z,@ohos-ports-electron/vscode-deviceid,0.1.5-electron-oh.0,mzsylr,MIT,41097,A module for Visual Studio Code to generate a unique device ID
+2026-10-24T02:48:50.913Z,vite-import-replacer,0.0.2,mizulu,MIT,99438,Rule-driven named import rewriting for Vite with shared policy registration and opt-in dependency optimizer support
+2026-10-24T02:49:04.781Z,homebridge-oasis-bridge,0.1.0,xavierbach,MIT,35687,"Homebridge plugin for Oasis Smart (Dontek) pool controllers: pump, heater, lights, jets and blower in HomeKit, plus a local REST API"
+2026-10-24T02:52:18.171Z,@kaitlynbassford/gitwhy,0.8.1,kaitlynbassford,MIT,15309,"Do anything with git without looking it up, with previews and undo"
+2026-10-24T02:52:42.095Z,@deepmetier_univerjs/core,0.25.2,rjmyj,AGPLv3,3070975,"Core runtime, data models, command system, dependency injection, and Facade APIs for Univer."
+2026-10-24T02:52:43.176Z,agentsville,0.4.0,kubizy,,378155,
+2026-10-24T02:53:16.958Z,@designfoundry/lucent-styles,0.6.0,diegocancho,Apache-2.0,230529,"Lucent design system: framework-neutral CSS (tokens, component styles, domain packs)."
+2026-10-24T02:53:21.251Z,@deepmetier_univerjs/data-validation,0.25.2,rjmyj,AGPLv3,599870,Shared data validation models and rule services for Univer.
+2026-10-24T02:53:26.084Z,@designfoundry/lucent-angular,0.6.0,diegocancho,Apache-2.0,696841,Lucent design system: Angular component kit.
+2026-10-24T02:53:52.444Z,@deepmetier_univerjs/design,0.25.2,rjmyj,Apache-2.0,1069326,"Shared React design components, styles, and locale resources for Univer UI packages."
+2026-10-24T02:53:57.73Z,@universal-office/document-viewer,0.9.0,erichideyuki,,10936958,Universal Office — the <universal-document-viewer> web component: a read-only .docx/.doc viewer with layout faithful to Microsoft Word.
+2026-10-24T02:54:16.211Z,@deepmetier_univerjs/docs,0.25.2,rjmyj,Apache-2.0,133859,Core document model and rich-text operations for Univer Docs.
+2026-10-24T02:55:00.236Z,@jackharrhy/tea-maps-renderer,0.1.0,jackharrhy,MIT,4764343,"Embeddable WebGPU renderer for Quake, BSP2, GoldSrc, and Quake II maps"
+2026-10-24T02:55:11.048Z,@jackharrhy/tea-artbin,0.4.1,jackharrhy,MIT,631581,"CLI for scanning, uploading, downloading, and organizing game assets in artbin"
+2026-10-24T02:55:21.741Z,africontext,0.1.0,chantelou,MIT,5611,"Installe un contexte AfriContext vérifié dans votre projet : .cursorrules, CLAUDE.md ou AGENTS.md."
+2026-10-24T02:55:29.796Z,snowtyped,0.0.0-stage,mkalodev,,331,Temporary package placeholder for staged publishing
+2026-10-24T02:55:51.932Z,s3m-three,0.1.1,jooies,Apache-2.0,1230969,SuperMap S3M 三维模型格式的 three.js 渲染内核：浏览器内直接解析 .s3mb 瓦片，无需转 3D Tiles，支持 LOD 调度、白膜/按高度/按单体/动态扫描着色、单体级 GPU 拾取。宿主无关，可单独用于任意 three 场景。
+2026-10-24T02:56:06.852Z,skeu-icons,0.1.0,ludwigschubi,MIT,20363811,"Skeuomorphic, multicolour SVG icons for vanilla JavaScript with a Lucide-style API (createIcons, createElement)."
+2026-10-24T02:56:13.136Z,@skeu/react,0.1.0,ludwigschubi,MIT,30271390,"Skeu Icons for React: skeuomorphic, multicolour SVG icon components with a Lucide-compatible API."
+2026-10-24T02:56:18.883Z,@skeu/preact,0.1.0,ludwigschubi,MIT,30010377,"Skeu Icons for Preact: skeuomorphic, multicolour SVG icon components with a Lucide-compatible API."
+2026-10-24T02:56:25.528Z,@skeu/react-native,0.1.0,ludwigschubi,MIT,29801252,"Skeu Icons for React Native: skeuomorphic, multicolour icon components rendered with react-native-svg."
+2026-10-24T02:56:29.814Z,@skeu/vue,0.1.0,ludwigschubi,MIT,13054851,"Skeu Icons for Vue 3: skeuomorphic, multicolour SVG icon components with a Lucide-compatible API."
+2026-10-24T02:56:33.987Z,@skeu/svelte,0.1.0,ludwigschubi,MIT,13055644,"Skeu Icons for Svelte 5: skeuomorphic, multicolour SVG icon components with a Lucide-compatible API."
+2026-10-24T02:56:39.31Z,@skeu/solid,0.1.0,ludwigschubi,MIT,21382721,"Skeuomorphic, multicolour SVG icons as Solid (1.x) components. A skeuomorphic take on lucide-solid."
+2026-10-24T02:56:44.442Z,@skeu/solid2,0.1.0,ludwigschubi,MIT,21382849,"Skeuomorphic, multicolour SVG icons as Solid 2 components. A skeuomorphic take on @lucide/solid."
+2026-10-24T02:56:49.425Z,@skeu/angular,0.1.0,ludwigschubi,MIT,28876646,"Skeuomorphic, multicolour SVG icons as standalone Angular components. A skeuomorphic take on @lucide/angular."
+2026-10-24T02:56:53.506Z,@skeu/astro,0.1.0,ludwigschubi,MIT,8415598,"Skeu Icons for Astro: skeuomorphic, multicolour SVG icon components with a Lucide-compatible API."
+2026-10-24T02:57:00.501Z,@skeu/static,0.1.0,ludwigschubi,MIT,27439983,"Skeuomorphic icons as static assets: SVG files, an SVG sprite, CSS background-image classes and SVG string exports."
+2026-10-24T02:57:20.225Z,@deepmetier_univerjs/icons,1.4.0,rjmyj,MIT,2044015,React icons for Univer.
+2026-10-24T02:57:28.774Z,@deepmetier_univerjs/themes,0.25.1,rjmyj,Apache-2.0,31261,Built-in theme definitions for Univer.
+2026-10-24T02:57:52.243Z,@deepmetier_univerjs/engine-render,0.25.2,rjmyj,Apache-2.0,19867008,"Canvas rendering engine for Univer documents, sheets, and slides."
+2026-10-24T02:58:03.704Z,@deepmetier_univerjs/rpc,0.25.1,rjmyj,Apache-2.0,111210,Browser RPC layer for Univer main-thread and worker communication.
+2026-10-24T02:58:22.127Z,@deepmetier_univerjs/engine-formula,0.25.2,rjmyj,Apache-2.0,6613670,"Formula parsing, dependency management, and calculation engine for Univer."
+2026-10-24T02:58:28.927Z,@deepmetier_univerjs/ui,0.25.2,rjmyj,Apache-2.0,1864551,"Shared application UI framework, workbench services, menus, dialogs, and Facade UI APIs for Univer."
+2026-10-24T02:58:37.261Z,@deepmetier_univerjs/docs-ui,0.25.2,rjmyj,Apache-2.0,3724421,Editor UI layer for Univer Docs.
+2026-10-24T02:58:40.911Z,camuaui,0.2.3,shulk,MIT,419436,"Copy Camua UI React components, themes and optional examples into your own project."
+2026-10-24T02:58:43.597Z,@deepmetier_univerjs/drawing-ui,0.25.2,rjmyj,Apache-2.0,629986,Shared drawing UI components and services for Univer.
+2026-10-24T02:58:48.373Z,llm-replay,0.1.0,acus9345,MIT,21626,"Record and replay LLM API calls in tests, like VCR but built for model APIs. Zero dependencies."
+2026-10-24T02:58:50.537Z,@deepmetier_univerjs/find-replace,0.25.2,rjmyj,Apache-2.0,356000,Shared find and replace services and UI infrastructure for Univer.
+2026-10-24T02:58:57.74Z,@deepmetier_univerjs/sheets,0.25.1,rjmyj,Apache-2.0,4750800,Core spreadsheet model and business logic for Univer Sheets.
+2026-10-24T02:59:00.098Z,repotwin,0.1.0,heykelm,MIT,723573,Experimental optimization and diagnostic platform for Git repositories and AI coding agents
+2026-10-24T02:59:04.525Z,@deepmetier_univerjs/sheets-conditional-formatting,0.25.1,rjmyj,Apache-2.0,1000478,"Conditional formatting model, commands, and calculation support for Univer Sheets."
+2026-10-24T02:59:10.296Z,@deepmetier_univerjs/sheets-drawing,0.25.1,rjmyj,Apache-2.0,304948,Drawing model integration for Univer Sheets.
+2026-10-24T03:00:39.555Z,create-camuaui,0.0.0-stage,shulk,,336,Temporary package placeholder for staged publishing
+2026-10-24T03:00:39.678Z,@memoria-labs/splat-viewer,0.1.0,memoria-labs,,1865075,MemorIA Gaussian splat viewer (WebGPU) as a React component.
+2026-10-24T03:03:12.211Z,@happycatlabs/superflag-core,0.7.1,ratley,MIT,2018069,"Portable, deterministic feature flag evaluation for Superflag"
+2026-10-24T03:03:20.621Z,claude-tabs,0.1.0,binetran,MIT,104560,"Many Claude Code accounts on one Mac: one CLAUDE_CONFIG_DIR profile per account, shared memory, usage of every account, per-tab switching."
+2026-10-24T03:03:59.664Z,@esthien/argus-gate,1.0.0-rc.0,esthien-admin,Proprietary,59486,"The Argus boundary for AI agents: capability token enforcement for every tool call, skill, MCP action, and agent-to-agent request of any model."
+2026-10-24T03:04:15.499Z,@ripo-run/ripo,0.0.1,billible,MIT,350,ripo — https://ripo.run
+2026-10-24T03:04:25.54Z,@happycatlabs/superflag-node,0.4.4,ratley,MIT,115530,Portable server-side feature flag SDK for Superflag
+2026-10-24T03:04:30.899Z,@happycatlabs/superflag-react,0.9.1,ratley,MIT,868860,React SDK for Superflag feature flags (web only)
+2026-10-24T03:04:36.377Z,@happycatlabs/superflag-react-native,0.5.4,ratley,MIT,216530,React Native SDK for Superflag feature flags
+2026-10-24T03:04:41.962Z,@happycatlabs/superflag-cli,0.16.2,ratley,MIT,1146405,CLI for Superflag feature flags
+2026-10-24T03:04:47.854Z,dsh-fulltext-index,0.1.0,geeklei,MIT,23883,"In-memory full-text search plugin for DeepSeek Harness: inverted index with deterministic tokenization (ASCII words lowercased, CJK runs as character bigrams with singleton unigram fallback), TF-IDF…"
+2026-10-24T03:05:24.621Z,@deepmetier_univerjs/docs-drawing,0.25.2,rjmyj,Apache-2.0,40739,Drawing model integration for Univer Docs.
+2026-10-24T03:06:44.551Z,specnico,2.1.1,robertomiyazaki,,304819,"Fluxo spec-driven para Claude Code: constituição, specs, gate humano e execução em ondas."
+2026-10-24T03:07:05.081Z,@musthida/scoring-entities,1.0.0,musthida,ISC,5769,Shared TypeScript entities and Zod schemass
+2026-10-24T03:07:24.702Z,@vitocal/vc-components,0.2.2,vi.cal,MIT,334011,My personal web-component collection
+2026-10-24T03:07:43.574Z,@semi-bot/semi-theme-dopa,1.0.0,semi-bot,MIT,1512568,Semi theme generated by dsm. https://semi.design/dsm
+2026-10-24T03:09:09.528Z,@deepmetier_univerjs/drawing,0.25.2,rjmyj,Apache-2.0,193259,"Shared drawing models, commands, and services for Univer."
+2026-10-24T03:10:12.459Z,dsh-skills-mcp-manager,0.6.0,xxjnb,MIT,1114514,"DSH 设置面板：一个页面里管理技能（SKILL.md）与 MCP 服务器，全局 / 项目级分层，改完即生效。Manage skills and MCP servers from the DSH settings panel — global and per-project tiers, effective immediately."
+2026-10-24T03:10:13.779Z,token-verdict-agentkit,0.1.0,quincygb,MIT,20804,Coinbase AgentKit action provider for Token Verdict — pay-per-call token risk verdicts ($0.02 USDC on Base via x402).
+2026-10-24T03:11:02.596Z,@tianemon/agent-session-bridge,0.1.0,tianemon,MIT,76809,"Read another AI coding tool's session — newest conclusion first, escalate only as far as you need."
+2026-10-24T03:13:33.307Z,spellbookx,1.0.2,dcdavidev,MIT,557183,"🧙 Wizard CLI for the Spellbookx developer toolchain (ESLint, Prettier, CSpell, Commitlint)."
+2026-10-24T03:13:44.505Z,@lwlee2608/pi-code-blocks,0.1.0,lwlee2608,MIT,7145,Fence-free Pi code blocks with accent-colored plain text.
+2026-10-24T03:16:11.068Z,vue-css-starry-sky,0.1.0,jwyxym,MIT,316756,一个零依赖、纯 CSS 实现的 Vue 3 星空背景组件
+2026-10-24T03:16:40.402Z,omnicell-router,0.0.0-stage,kenlin8827,,337,Temporary package placeholder for staged publishing
+2026-10-24T03:16:59.32Z,kite-pacing,0.1.0,nyaasuki,MIT,168300,Account usage tracker for DeepSeek Harness.
+2026-10-24T03:17:42.73Z,n8n-nodes-fastaf,0.0.0-stage,fastaf-co,,338,Temporary package placeholder for staged publishing
