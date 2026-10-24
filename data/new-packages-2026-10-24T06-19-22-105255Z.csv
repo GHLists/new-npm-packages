@@ -1,0 +1,122 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-24T05:15:57.891Z,@bimetal/knowledge,0.41.0,biederbe,Apache-2.0,3494117,"Knowledge base for coding agents working with BIMETAL: knowledge units (capability, principle, replacement of a hand-rolled solution with machine-checkable detection patterns) as Markdown with frontm…"
+2026-10-24T05:16:00.768Z,@bimetal/mcp,0.41.0,biederbe,Apache-2.0,37889,MCP server (stdio) for coding agents working with BIMETAL: a thin shell around the query core of @bimetal/knowledge. Tools bimetal_deckt_ab (does BIMETAL cover X? yes/partly/no/unknown with a referen…
+2026-10-24T05:16:05.913Z,@hsusulist/lcode,0.1.0,hsusulist,Apache-2.0,1663,LCode terminal editor for LUC projects
+2026-10-24T05:16:09.953Z,@bimetal/schedule-data,0.41.0,biederbe,Apache-2.0,77098,"Event-sourced recurring schedule: anchor + interval keyed by a stable key, a pure due-ness query and an exactly-once acknowledgement per occurrence, so replay/rehydrate never report an occurrence twi…"
+2026-10-24T05:17:47.861Z,@docouno/devkit,0.0.0-stage,padurets,,337,Temporary package placeholder for staged publishing
+2026-10-24T05:18:05.199Z,@zengevent/dsh-effort-dial,0.8.1,zengevent,MIT,124293,"DSH Web UI plugin: a rheostat-style reasoning-effort slider in the composer — drag through the model's advertised thinking levels, snap on release, writes through the official model directory."
+2026-10-24T05:18:37.222Z,@calendar-tsx/rrule,0.2.0,frantss,MIT,56909,"Temporal recurrence definitions for calendar-tsx, powered by rrule-temporal."
+2026-10-24T05:23:33.094Z,dsh-quality-lens,0.1.0,lishinho,MIT,1386819,为每个 DeepSeek Harness 回答做质量与话题关联体检，并给出可复制的提示词改进建议。只观测不改写，默认本地评分，可选 Jev 精评。
+2026-10-24T05:23:48.251Z,@doellsoftware/polaris-sdk,0.1.0,lucasdoell,Apache-2.0,7762823,"Read and drive Polaris Daemons from Extensions: sessions, approvals, Turns and voice."
+2026-10-24T05:26:34.889Z,overseer-cli,0.1.0,gipotenuzsa,MIT,685838,See what your AI coding agent actually built.
+2026-10-24T05:27:17.777Z,@deepmetier_univerjs/network,0.25.3,rjmyj,AGPLv3,185857,Network service abstractions for Univer runtime integrations.
+2026-10-24T05:27:54.804Z,@deepmetier_univerjs/preset-sheets-conditional-formatting,0.25.3,rjmyj,AGPLv3,348877,Preset for conditional formatting in Univer Sheets.
+2026-10-24T05:28:17.72Z,pi-decode-tps,0.2.0,muntasimulhaque,MIT,21774,"Decode TPS in Pi's footer: live while streaming, exact when done"
+2026-10-24T05:28:55.657Z,@fusebase/video-guides,0.2.3,fusebase,,58292,"Portable narrated product walkthrough generator: library, CLI and container runner."
+2026-10-24T05:28:58.094Z,@formy-il/piece-formy,0.1.0,codepalaiorg,MIT,1199357,"Activepieces piece for Formy: start a flow when a Formy form receives a new submission, read workspaces, forms and fields, and send documents for signature."
+2026-10-24T05:29:05.421Z,@deepmetier_univerjs/preset-sheets-core,0.25.3,rjmyj,AGPLv3,9936399,Preset for core Univer Sheets spreadsheet features.
+2026-10-24T05:29:27.363Z,@deepmetier_univerjs/preset-sheets-data-validation,0.25.3,rjmyj,AGPLv3,513137,Preset for data validation in Univer Sheets.
+2026-10-24T05:29:54.003Z,n8n-nodes-formy,0.1.0,codepalaiorg,MIT,259562,"n8n nodes for Formy, the Hebrew-first form builder: start a workflow when a form receives a new submission, read workspaces, forms and fields, and send documents for signature."
+2026-10-24T05:30:01.308Z,@deepmetier_univerjs/preset-sheets-drawing,0.25.3,rjmyj,AGPLv3,361396,Preset for drawing capabilities in Univer Sheets.
+2026-10-24T05:30:39.342Z,@deepmetier_univerjs/preset-sheets-filter,0.25.3,rjmyj,AGPLv3,211472,Preset for filter functionality in Univer Sheets.
+2026-10-24T05:31:19.559Z,@deepmetier_univerjs/preset-sheets-find-replace,0.25.3,rjmyj,AGPLv3,117557,Preset for find and replace capabilities in Univer Sheets.
+2026-10-24T05:31:54.971Z,fastforward-register,0.1.1,vinayg759,MIT,7792,Preload for Fastforward: sends your app's PayPal sandbox calls to the simulator and blocks live PayPal. Use: FASTFORWARD=1 node --import fastforward-register app.js
+2026-10-24T05:31:56.57Z,@deepmetier_univerjs/preset-sheets-note,0.25.3,rjmyj,AGPLv3,83846,Preset for notes in Univer Sheets.
+2026-10-24T05:31:59.304Z,fastforward-cli,0.1.1,vinayg759,MIT,160726,"Fastforward: a flight simulator for PayPal subscriptions. Skip a month ahead, let AI customers misbehave, find your billing bugs."
+2026-10-24T05:32:03.438Z,fastforward-mcp,0.1.1,vinayg759,MIT,154774,"MCP server for Fastforward: lets a coding assistant write a scenario, run it against your app and explain billing bugs."
+2026-10-24T05:32:19.657Z,@deepmetier_univerjs/preset-sheets-sort,0.25.3,rjmyj,AGPLv3,104724,Preset for sort functionality in Univer Sheets.
+2026-10-24T05:32:32.607Z,hookly-cli,0.2.0,spidy_moon,MIT,60703,"Turn your project README into LinkedIn post drafts: length, paragraph and tone controls, endless post structures, hook scores. Runs locally, no AI key, nothing uploaded."
+2026-10-24T05:32:45.062Z,@qux-bbb/dsh-plugin-todo,0.1.0,qux-bbb,MIT,198961,"User-confirmed todo list plugin for DeepSeek Harness: track tasks in a global ($DSH_HOME) or project (<projectRoot>/.dsh) level, with destructive actions requiring explicit confirmation"
+2026-10-24T05:33:07.214Z,@deepmetier_univerjs/preset-sheets-table,0.25.3,rjmyj,AGPLv3,271498,Preset for table features in Univer Sheets.
+2026-10-24T05:33:28.868Z,@deepmetier_univerjs/protocol,0.25.3,rjmyj,AGPLv3,166695,"Shared protocol types, generated service interfaces, and data contracts for Univer."
+2026-10-24T05:33:59.271Z,reborn-pasteguard,1.0.0,kimsungjun,SEE LICENSE IN README.md,24339,"클로드에 붙여넣은 메일·웹 글 속에 숨은 지시를 미리 훑어 보고, 공식 문서 방식의 붙여넣기 표시 태그(같은 랜덤 아이디)를 씌워 주는 한국어 스킬을 스킬 폴더에 놓습니다. 방어선 하나일 뿐이며 안전을 보장하지 않습니다."
+2026-10-24T05:34:11.781Z,@val-rbxts/buoyancy,2.7.1,aster_valeor,MIT,72541,"Rigid bodies floating, drifting, clumping and piling up in liquid for roblox-ts."
+2026-10-24T05:35:09.983Z,cortico-world-qq-official,0.2.2,leafiber,AGPL-3.0-or-later,748912,"QQ Official API integration for Cortico and Coopanion: QR binding, messaging, media and streamed replies"
+2026-10-24T05:35:12.39Z,dsh-token-diet,0.1.0,ybh618,MIT,310731,Token 统计与按会话预算：汇总所有会话、子智能体和自动化任务的用量与成本，并在预算耗尽时停止任务。
+2026-10-24T05:35:21.29Z,@deepmetier_univerjs/sheets-conditional-formatting-ui,0.25.3,rjmyj,AGPLv3,1111633,Conditional formatting UI for Univer Sheets.
+2026-10-24T05:36:09.122Z,@ganrunze/utils,0.1.0,ganrunze,MIT,2877,Shared utility functions for frontend-engineering-system.
+2026-10-24T05:36:22.621Z,@deepmetier_univerjs/sheets-data-validation,0.25.3,rjmyj,AGPLv3,1293434,"Sheet-specific data validation commands, services, and Facade APIs for Univer Sheets."
+2026-10-24T05:36:42.991Z,agent-bridge-service,0.2.2,shaylan,MIT,285431,"Give a remote platform control of the AI agents installed on your machine, over an outbound WebSocket"
+2026-10-24T05:37:02.709Z,@deepmetier_univerjs/sheets-data-validation-ui,0.25.3,rjmyj,AGPLv3,934002,Data validation UI for Univer Sheets.
+2026-10-24T05:37:54.438Z,@deepmetier_univerjs/sheets-drawing-ui,0.25.3,rjmyj,AGPLv3,1191412,Drawing UI integration for Univer Sheets.
+2026-10-24T05:38:18.311Z,@deepmetier_univerjs/sheets-filter,0.25.3,rjmyj,AGPLv3,451123,"Filtering model, commands, and services for Univer Sheets."
+2026-10-24T05:38:23.688Z,larats,1.0.1,sidiqfatuhrahman13,MIT,340760,Smart Architecture Visualizer & Contextual Module Scaffolder CLI for Laravel and TypeScript projects
+2026-10-24T05:38:51.361Z,dsh-gear-mode,0.1.0,janrilw,MIT,86831,行动档位：P/R/N/M/D/A 六档协作状态，宿主注入提示词 + 左侧档位滑轨 + set_gear 工具与手刹守卫
+2026-10-24T05:38:53.711Z,@deepmetier_univerjs/sheets-filter-ui,0.25.3,rjmyj,AGPLv3,678606,Filtering menus and panels for Univer Sheets.
+2026-10-24T05:40:17.733Z,@dataoil/client,0.1.5,dataoil,SEE LICENSE IN LICENSE,33417,"The Data Oil client for JavaScript and TypeScript: one statement over rows, vectors, keywords and relationships, streamed as NDJSON, with the two tenancy headers, typed errors and the retry a lost ra…"
+2026-10-24T05:40:22.509Z,@deepmetier_univerjs/sheets-formula,0.25.3,rjmyj,AGPLv3,29933456,Sheet formula services and calculation integration for Univer Sheets.
+2026-10-24T05:40:46.681Z,@yydb/iris-language,0.0.13,oovm,MPL-2.0,21387,Iris ORM browser / Worker language layer on the WASM semantic core
+2026-10-24T05:40:49.2Z,@deepmetier_univerjs/sheets-formula-ui,0.25.3,rjmyj,AGPLv3,998459,Formula editing UI for Univer Sheets.
+2026-10-24T05:40:56.574Z,@dataoil/mcp,0.1.5,dataoil,SEE LICENSE IN LICENSE,25444,"A Model Context Protocol server for Data Oil: query, ask, schema and ingest tools over one database, so any MCP client - Claude Desktop, Cursor, an agent framework - reaches the data with the credent…"
+2026-10-24T05:41:08.772Z,@deepmetier_univerjs/sheets-note,0.25.3,rjmyj,AGPLv3,169119,Cell note model and commands for Univer Sheets.
+2026-10-24T05:41:45.526Z,@deepmetier_univerjs/sheets-note-ui,0.25.3,rjmyj,AGPLv3,177741,Cell note UI for Univer Sheets.
+2026-10-24T05:41:50.498Z,@galanty/cli,0.1.0,talkflame,MIT,27674008,"Open, annotate and export local video projects with Galanty, or connect your agent over stdio MCP without the desktop app."
+2026-10-24T05:42:21.333Z,@deepmetier_univerjs/sheets-numfmt,0.25.3,rjmyj,AGPLv3,157007,Number format services and commands for Univer Sheets.
+2026-10-24T05:42:26.901Z,dsh-agents-init,1.0.0,ozongo,MIT,48366,"Run an AGENTS.md build, repair, or audit entirely inside a subagent, so the main conversation never pays for the work."
+2026-10-24T05:42:44.45Z,@deepmetier_univerjs/sheets-numfmt-ui,0.25.3,rjmyj,AGPLv3,416315,"Number format menus, editors, and previews for Univer Sheets."
+2026-10-24T05:43:04.904Z,@qntx/spark,0.1.0,gitctrlx,Apache-2.0,708814,"Spark Bitcoin L2 protocol for TypeScript: platform-neutral client, signer and crypto-backend interfaces."
+2026-10-24T05:43:18.838Z,@qntx/spark-wasm,0.1.0,gitctrlx,Apache-2.0,225867,"spark.wasm SparkCrypto backend — C ABI from crates/spark-ffi, platform-neutral and browser-first"
+2026-10-24T05:43:25.967Z,@qntx/spark-native,0.1.0,gitctrlx,Apache-2.0,4024831,Native qntx_spark (Nitro) SparkCrypto backend for @qntx/spark on React Native
+2026-10-24T05:43:27.059Z,dsh-qq-console,1.0.1,zjwxxx,MIT,179181,大肥鱼 QQ 总控台：把 SnowLuma、QQ 桥接和聊天状态合成 DSH 里的一个中文页面。
+2026-10-24T05:43:30.494Z,@galacean/editor-runtime,2.0.0-alpha.51,luzhuang,,29710699,Shared headless Editor runtime and sandbox service; independent of CLI adapters
+2026-10-24T05:43:42.381Z,@z-m-l/hooks,0.1.0,z-m-l,MIT,5310,ahooks 全量透传，一处安装即可使用全部 ahooks hooks
+2026-10-24T05:43:44.147Z,@deepmetier_univerjs/sheets-sort,0.25.3,rjmyj,AGPLv3,92037,"Sorting model, commands, and services for Univer Sheets."
+2026-10-24T05:44:02.215Z,dsh-serene,0.1.0,chisato97,MIT,102731,人格 + 情感 + 记忆的 DeepSeek Harness 插件：把「一个会记得你的角色」接进 DSH。
+2026-10-24T05:44:04.229Z,js-agent-runtime,0.1.0,imjszhang,MIT,179151,"Small, provider-aware runtime for local agent CLIs."
+2026-10-24T05:44:05.911Z,@deepmetier_univerjs/sheets-sort-ui,0.25.3,rjmyj,AGPLv3,287884,Sorting menus and panels for Univer Sheets.
+2026-10-24T05:44:12.855Z,@nextclaw/relay,0.1.0,peiiii,MIT,17397,Relay workspace CLI and skill for your own AI agents
+2026-10-24T05:44:36.818Z,@deepmetier_univerjs/sheets-table,0.25.3,rjmyj,AGPLv3,675110,Structured table model and commands for Univer Sheets.
+2026-10-24T05:44:44.974Z,promptex-facts,1.4.0-alpha.2,carlos209310,MIT OR Apache-2.0,181848,promptex 對外定義的 facts：CLI、SDK、輸出格式與診斷碼，以 JSON 與 JSON Schema 發布
+2026-10-24T05:45:04.864Z,@deepmetier_univerjs/sheets-table-ui,0.25.3,rjmyj,AGPLv3,830830,Structured table UI for Univer Sheets.
+2026-10-24T05:45:08.276Z,promptex-examples,1.4.0-alpha.2,carlos209310,MIT OR Apache-2.0,295701,promptex 各項特性的範例：情境、程式碼與實際產出，每個範例由 promptex 的測試實際建置
+2026-10-24T05:45:20.941Z,@gitmyabi/usdtddeployer,1.0.0,gitmyabi-bot,MIT,18852,"Auto-generated TypeScript type bindings for USDTDDeployer (build etherscan-usdtddeployer-1d4148da-1792820691102, commit 07e4ca5, branch etherscan)"
+2026-10-24T05:45:46.651Z,@deepmetier_univerjs/sheets-ui,0.25.3,rjmyj,AGPLv3,8097728,Spreadsheet UI layer for Univer Sheets.
+2026-10-24T05:45:57.456Z,@atomicmicrotech/cocos-mcp-server,0.1.0,atomicmicrotech,MIT,907697,MCP server for Cocos Creator 3.8 LTS (requires the cocos-mcp editor extension)
+2026-10-24T05:46:05.507Z,@gitmyabi/sbtc,1.0.0,gitmyabi-bot,MIT,166712,"Auto-generated TypeScript type bindings for SBTC (build etherscan-sbtc-fb7a1dd5-1792820740905, commit c323bab, branch etherscan)"
+2026-10-24T05:46:08.321Z,@deepmetier_univerjs/telemetry,0.25.3,rjmyj,,11547,Telemetry service interface for Univer packages.
+2026-10-24T05:46:09.133Z,dsh-machine-modes,1.0.0,lyc1221221222,MIT,70131,"Session-level machine modes for DeepSeek Harness: run commands and file operations on the local host, a WSL distribution, a Docker container, or an SSH host, switchable mid-session, with tty and root…"
+2026-10-24T05:47:36.639Z,@haisto/opencode-subagent-control,1.0.3,haisto,MIT,620625,Sub-agent runtime monitor & cancellation control for OpenCode TUI
+2026-10-24T05:47:44.034Z,luanmuc-lx-music-version-info,1.0.3,luanyu,MIT,1033,lx-music-mobile（落雪音乐移动版）在线更新版本信息
+2026-10-24T05:48:53.188Z,@deepmetier/qiniu,7.15.2,rjmyj,MIT,336668,Node wrapper for Qiniu Resource (Cloud) Storage API
+2026-10-24T05:49:04.506Z,@yydb/hermes-language,0.0.3,oovm,MPL-2.0,4712,Browser-facing Hermes RPC helpers backed by the `hermes-wasm` binding
+2026-10-24T05:50:04.097Z,dsh-session-cloudsync,0.0.1,xfy2412,MIT,344917,DSH 会话云同步插件：自部署服务端、端到端加密，同步会话、附件、设备台账与 agent 笔记。
+2026-10-24T05:50:22.633Z,@in-c0/paper-ui,0.0.0-stage,wldud5192,,337,Temporary package placeholder for staged publishing
+2026-10-24T05:54:10.049Z,opencode-firecrawl-web,0.1.0,shariqriaz,MIT,36072,"Native Firecrawl tools for OpenCode 2: web search with filters, rendered page scraping, and developer index search. No skills or prompt additions."
+2026-10-24T05:55:48.361Z,casper-trust-mcp,0.2.0,bekirerdem,MIT,3750845,MCP server exposing on-chain Casper agent trust (casper-trust) to AI agents — check a counterparty's earned reputation before paying it
+2026-10-24T05:55:54.718Z,@deepmetier/node-vfs-polyfill,1.0.1,rjmyj,MIT,460037,User-land implementation of Node.js Virtual File System (VFS) based on nodejs/node#61478
+2026-10-24T05:56:18.934Z,zen-failover,0.1.0,alexeyshirshov,MIT,26019,"OpenCode V2 server plugin: when a subscription provider's usage limit is hit, move every agent, the default model and the active session to its fallback, probe the plan once a minute and come back as…"
+2026-10-24T05:56:28.113Z,opencode-clear-session,1.0.1,alexeyshirshov,MIT,13251,/clear for the OpenCode V2 CLI — archive the current session and start fresh instead of losing it.
+2026-10-24T05:58:09.999Z,@decadefraiz/sbxjs,0.0.0-stage,decadefraiz,,340,Temporary package placeholder for staged publishing
+2026-10-24T05:58:41.414Z,dsh-douyin-watch,0.1.0,miqian,MIT,174757,"Douyin (抖音) automation for DeepSeek Harness: watch private messages and wake the agent event-driven, plus 10 tools (read DM, send DM, comment, @ mention, reply, delete comment, read notice, share vid…"
+2026-10-24T05:59:14.819Z,@ghyper9023/dsh-dev-workflow,0.1.0,ghyper9023,MIT OR Apache-2.0,62752,DSH 版 dev 工作流：/dev-pre-check、/dev-feat、/dev-fix、/dev-refactor、/dev-test 与 dev_ask 结构化提问工具
+2026-10-24T06:00:30.981Z,cortico-world-mcp,0.1.0,unus-white,AGPL-3.0-or-later,113698,Cortico World: connects Model Context Protocol servers and lets the bot use their tools through one stable gateway
+2026-10-24T06:00:50.494Z,@magmacrunch/adenosine-scope,0.1.0,jakemccoy,PolyForm-Noncommercial-1.0.0,66829,"An oscilloscope panel for Web Audio: a custom element or a class, with Y-T and X-Y modes, a trigger and phosphor persistence"
+2026-10-24T06:01:33.507Z,@petercjl/boardmixcli,0.1.0,petercjl,MIT,67097,Atomic Boardmix desktop operations and portable Agent capability manual
+2026-10-24T06:04:40.273Z,portcheck-cli,0.9.0,roystond-16,MIT,7842,"See what's using a port and free it safely: which process, who started it, stop it. Fixes ""port already in use"" (EADDRINUSE)."
+2026-10-24T06:05:10.479Z,pi-lazydocker,0.1.0,radestudio,MIT,41577,"Open lazydocker inside Pi as a themed floating overlay or in fullscreen, with one keystroke (alt+l)."
+2026-10-24T06:05:57.034Z,@lumavox/client,0.1.1,dts-amir,MIT,148824,"Talk to Lumavox agents from a browser, a React Native app or Node, with an end user's ephemeral key: conversations on the agent's socket, sessions, memory and relations. Zero dependencies."
+2026-10-24T06:06:00.93Z,@lumavox/react,0.1.1,dts-amir,MIT,38584,"React and React Native hooks for Lumavox agents: a conversation that keeps itself connected, sessions, memory and relations, over @lumavox/client."
+2026-10-24T06:09:24.33Z,@doubao-dev/kit,0.8.0-rc.0,wangyiming.777,,100524440,豆包应用插件的公开构建与调试工具，发布到公网 npm，版本跟随 SDK 发布组。 提供本地编译、开发服务器、Web 模拟器和 Node.js SDK，运行时不需要安装内部 Kit 包。
+2026-10-24T06:09:36.624Z,@kumochart-sdk/core,1.0.0-beta.1,ruoyu-lab-dev,MIT,1240417,"Framework-agnostic, high-performance Canvas trading chart SDK: a small core, and indicators, drawing tools, chart types, alerts, orders, markers, replay and volume profiles as modules."
+2026-10-24T06:09:39.201Z,@kumochart-sdk/vue,1.0.0-beta.1,ruoyu-lab-dev,MIT,26103,Official Vue 3 adapter for @kumochart-sdk/core.
+2026-10-24T06:09:41.865Z,@kumochart-sdk/react,1.0.0-beta.1,ruoyu-lab-dev,MIT,13024,Official React adapter for @kumochart-sdk/core.
+2026-10-24T06:11:01.435Z,@aryacode/dsh-engineering-ftview,0.1.2,mochanp,MIT,118790,"FactoryTalk View ME export analysis, redesigned for the engineering bundle."
+2026-10-24T06:11:04.469Z,@aryacode/dsh-engineering-ftview-viewer,0.1.2,mochanp,MIT,38529,"FactoryTalk View ME display preview, folded into the engineering bundle."
+2026-10-24T06:11:07.616Z,@aryacode/dsh-engineering-l5x-viewer,0.1.2,mochanp,MIT,231054,"Offline Studio 5000 L5X project browser and ladder view, folded into the engineering bundle."
+2026-10-24T06:11:10.679Z,@aryacode/dsh-engineering-l5x,0.1.2,mochanp,MIT,549955,Studio 5000 L5X: the rebuilt offline read surface for the AryaAI engineering suite.
+2026-10-24T06:11:14.31Z,@aryacode/dsh-engineering-mwi,0.2.0,mochanp,MIT,1474041,"MotionWorks IEC 3 Pro IDE tools, redesigned for the engineering bundle."
+2026-10-24T06:11:37.423Z,glottis,0.1.1,bluepnume,MIT,575732,"Give a page a public client API: serve() functions from a frame or window, connect() from anywhere, with live function references across the boundary."
+2026-10-24T06:12:38.859Z,tracegrid,0.2.0,edanbarrios,MIT,406958,"Map how your app code reaches your Supabase schema: tables, RPCs, edge functions, storage, grants and RLS. Static, offline, no AI."
+2026-10-24T06:13:00.554Z,serpent-mcp,0.1.0,anurag2912,MIT,17176,"Stdio launcher for Serpent's hosted MCP server — use the Serpent SERP API from Claude Code, Cursor, VS Code and Claude Desktop"
+2026-10-24T06:13:25.918Z,@surflane/css,0.10.0,ashon,MIT OR Apache-2.0,61340,"Surflane's CSS-only layer: control, layout composition, document typography and presentation classes that work without React, on top of @surflane/design-tokens."
+2026-10-24T06:13:27.226Z,@semi-bot/semi-theme-senmokol,1.0.0,semi-bot,MIT,1525678,Semi theme generated by dsm. https://semi.design/dsm
+2026-10-24T06:13:28.33Z,@aryacode/registry-probe,0.0.1,mochanp,MIT,144,temporary publish probe
+2026-10-24T06:13:54.897Z,apiserpent,1.1.0,anurag2912,MIT,72575,"Official Node.js SDK for the Serpent SERP API — web, news, images, videos, shopping, maps, AI rank, YouTube, Instagram, LinkedIn, eBay, Amazon, TikTok, X and Reddit endpoints"
+2026-10-24T06:16:24.946Z,@orkid-labs/analytics-utils,0.1.0,orkid-labs-jc,MIT,32797,"Keen.io analytics utilities — UTM tracking, typed event collection, bot-aware telemetry"
+2026-10-24T06:16:27.181Z,@joelkischkel/agent-kanban,0.0.0-stage,joelkischkel,,348,Temporary package placeholder for staged publishing
+2026-10-24T06:17:48.1Z,@threeypay/sdk,1.1.0,a958803605,MIT,54091,3ypay (汇联支付) JavaScript SDK - 统一支付、查询、退款、转账、分账等
+2026-10-24T06:18:03.513Z,@orkid-labs/react-utils,0.0.0-stage,orkid-labs-jc,,345,Temporary package placeholder for staged publishing
+2026-10-24T06:18:25.13Z,@orkid-labs/settlement-types,0.1.0,orkid-labs-jc,MIT,29216,TypeScript types for cross-chain settlement intents and Hedera settlement targets
+2026-10-24T06:18:26.818Z,broadpost,0.0.1,andrewmcode,MIT,149405,Post to every platform from the terminal or an agent
+2026-10-24T06:18:48.302Z,@orkid-labs/hedera-utils,0.1.0,orkid-labs-jc,MIT,48428,"Hedera Hashgraph utilities — HCS logging, milestone tracking, dashboard components"
+2026-10-24T06:19:03.56Z,@orkid-labs/horizen-ballot-contracts,0.0.0-stage,orkid-labs-jc,,358,Temporary package placeholder for staged publishing
