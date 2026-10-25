@@ -1,38 +1,33 @@
 {
   "list": {
-    "count": 171,
-    "from": "2026-10-25T09:19:07.015719Z",
-    "path": "data/new-packages-2026-10-25T10-19-15-810215Z.csv",
-    "to": "2026-10-25T10:19:15.810215Z"
+    "count": 143,
+    "from": "2026-10-25T10:19:15.810215Z",
+    "path": "data/new-packages-2026-10-25T11-18-41-413185Z.csv",
+    "to": "2026-10-25T11:18:41.413185Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "package": "@datafridge/postgres",
+      "since": "2026-10-25T10:19:15.810215Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@opafex/retrieval-core",
+      "since": "2026-10-25T10:19:15.810215Z"
+    },
+    {
+      "attempts": 4,
       "package": "@tossp/tsgw-agent",
       "since": "2026-10-25T07:18:47.423315Z"
     },
     {
       "attempts": 1,
-      "package": "@unhandled/nestjs",
-      "since": "2026-10-25T09:19:07.015719Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@unhandled/nextjs",
-      "since": "2026-10-25T09:19:07.015719Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@unhandled/node",
-      "since": "2026-10-25T09:19:07.015719Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@unhandled/protocol",
-      "since": "2026-10-25T09:19:07.015719Z"
+      "package": "@voplica/connect",
+      "since": "2026-10-25T10:19:15.810215Z"
     }
   ],
-  "seq": 139502811,
+  "seq": 139510103,
   "source_truncated": false,
-  "window": "2026-10-25T10:19:15.810215Z"
+  "window": "2026-10-25T11:18:41.413185Z"
 }
