@@ -1,0 +1,139 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-26T06:15:39.297Z,@czayelements/zaystatic,0.1.0-alpha.1,furkanczay,MIT,763089,"Git-based content panel for Next.js: schema-driven forms, per-locale files, drag-and-drop lists, image uploads (S3-compatible or repo), commits straight to your repository."
+2026-10-26T06:15:40.281Z,@localness/contract,0.1.1,hua_code,Elastic-2.0,19267,Response contracts of the Localness public /api/v1: zod schemas and the types inferred from them.
+2026-10-26T06:18:47.5Z,@ohos-ports/stdlib-number-uint32-base-to-int32,0.2.3-beta.0,lljry,Apache-2.0,25207,Convert an unsigned 32-bit integer to a signed 32-bit integer.
+2026-10-26T06:20:20.54Z,@protoboardai/cloud,0.2.0,privatemtd,Apache-2.0,96486,"Typed client of the Protoboard parts service (API v1) and of any uhd-library/v1 library: the part-revision envelope, verified downloads"
+2026-10-26T06:20:23.204Z,@enzipe-dev/model-usage,0.8.0,zuraizzafar.dev,MIT,325049,"Track AI coding-tool token usage (Claude Code today) per employee, machine, day and model, and send it to your own API."
+2026-10-26T06:20:24.844Z,@protoboardai/core,0.2.0,privatemtd,Apache-2.0,1655965,"Protoboard framework core: project loading, definition registry and origins, resolution, aggregated checks, build"
+2026-10-26T06:20:29.663Z,@protoboardai/ext-sourcing,0.2.0,privatemtd,Apache-2.0,189882,"Protoboard extension: part discovery, datasheet extraction with citations, supplier and lifecycle evidence, handoff to local UHD authoring"
+2026-10-26T06:20:34.107Z,@protoboardai/views,0.2.0,privatemtd,Apache-2.0,611346,"Protoboard's domain views as components, the view registry the shells' tabs come from (extensions declare views in contributes.views), and the host and theme adapter interfaces the shells implement"
+2026-10-26T06:20:36.602Z,@ohos-ports/stdlib-number-ctor,0.2.3-beta.0,lljry,Apache-2.0,22989,Number constructor.
+2026-10-26T06:20:38.647Z,@protoboardai/web-viewer,0.2.0,privatemtd,Apache-2.0,7313405,"Protoboard's shells over the viewer stack: the browser shell (`protoboard dev`: the Protoboard theme, view tabs from the view registry, its own inspector, hierarchy and DRC) and the VS Code shell (on…"
+2026-10-26T06:20:43.307Z,@protoboardai/cli,0.2.0,privatemtd,Apache-2.0,355303,protoboard command-line interface
+2026-10-26T06:20:48.149Z,@protoboardai/ext-docs,0.2.0,privatemtd,Apache-2.0,651316,"Protoboard extension: technical documents (datasheet, assembly guide) generated from a project's UHD model, with every value a query into the model, figures rendered from its CAD, and a verifier"
+2026-10-26T06:20:53.184Z,@protoboardai/ext-drone,0.2.0,privatemtd,Apache-2.0,77227,Protoboard extension: multirotor flight-controller configuration from UHD
+2026-10-26T06:20:57.496Z,@protoboardai/ext-harness-cad,0.2.0,privatemtd,Apache-2.0,148942,"Protoboard extension: routed 3D geometry for wire harnesses, generated from the assembled UHD model (obstacle-aware routing, swept conductors, connector and solder bodies) with build123d; a provider…"
+2026-10-26T06:21:03.891Z,@protoboardai/ext-enclosure-cad,0.2.0,privatemtd,Apache-2.0,289340,"Protoboard extension: a cad capability provider for enclosures. Generates a printed or machined case from the UHD features it must provide and what the assembly puts inside it (build123d), with fit,…"
+2026-10-26T06:21:08.653Z,@protoboardai/ext-esp-idf,0.2.0,privatemtd,Apache-2.0,52881,"Protoboard firmware provider: ESP-IDF pin and peripheral headers and sdkconfig.defaults for ESP32-C3 modules, from UHD boards"
+2026-10-26T06:21:14.958Z,@protoboardai/ext-frame-cad,0.2.0,privatemtd,Apache-2.0,159069,"Protoboard extension: custom structure (plate) CAD generated from a module's UHD interfaces and nominal fastener CAD, with build123d; frame checks, re-binding, and the generators' artifact layout"
+2026-10-26T06:21:19.786Z,@protoboardai/ext-hardware,0.2.0,privatemtd,Apache-2.0,230400,"Protoboard extension: system composition, harness, test and release skills, BOM, evidence checks"
+2026-10-26T06:21:24.115Z,@protoboardai/ext-parts,0.2.0,privatemtd,Apache-2.0,354112,"Protoboard extension: purchased-part research, authoring and verification (UHD), for project-researched parts and the cloud part library"
+2026-10-26T06:21:28.852Z,@protoboardai/ext-release,0.2.0,privatemtd,Apache-2.0,291497,"Protoboard extension: `protoboard release` and the Manufacturing Package (per-unit spec sheet, BOM and ordering list, work order, assembly guide and test plan PDFs, manufacturing files, one navigable…"
+2026-10-26T06:21:32.702Z,@weishub/channel-wechat,0.1.0,carl-5535,MIT,123556,微枢的微信 iLink 通道实现：扫码登录、长轮询收发、CDN 媒体加解密、可靠发件箱
+2026-10-26T06:21:33.567Z,@protoboardai/ext-tscircuit,0.2.0,privatemtd,Apache-2.0,606394,"Protoboard circuit provider: PCBs from UHD board modules with tscircuit (generate, export, extract, check), offline under Node"
+2026-10-26T06:21:35.629Z,@weishub/core,0.1.0,carl-5535,MIT,138787,微枢核心：agent 配置与调度、车道并行、审批桥、发件箱可靠投递与会话管理
+2026-10-26T06:21:38.326Z,@protoboardai/ext-zephyr,0.2.0,privatemtd,Apache-2.0,85530,"Protoboard firmware provider: Zephyr board definitions (devicetree, pinctrl, Kconfig) for nRF52840 modules, from UHD boards"
+2026-10-26T06:21:38.806Z,@weishub/skills,0.1.0,carl-5535,MIT,2989,微枢配套技能包：weishub-notify 技能让 agent 主动向微信推送消息
+2026-10-26T06:21:42.862Z,weishub,0.1.1,carl-5535,MIT,314333,微信 → 本机 AI agent 网关：把 claude / codex / opencode 等 agent 接进微信私聊，扫码即用
+2026-10-26T06:21:45.7Z,codenavigator,0.1.1,nikhilverma,UNLICENSED,998416,"Explore a codebase as a zoomable architecture map, generated by your coding agent."
+2026-10-26T06:22:37.52Z,stilp-proto,0.1.0,taiga.oyu,UNLICENSED,3063,Stilp（ビヘイビアMAP）を入れる入口。社内の Artifact Registry の認証をして、本体（@dotd/stilp）を呼ぶ
+2026-10-26T06:23:11.105Z,agent-bridge-codex-cli,1.0.0,m2lihui,,21719,mu-agent-bridge 的本地 Codex CLI 独立插件，沿用 CLI 默认模型与登录。
+2026-10-26T06:23:36.827Z,3d-odontogram,0.1.1,jivimuz,MIT,135157,"Customizable React + Three.js 3D odontogram (dental chart) canvas: theme the tooth, highlight and marker colors, and the canvas background."
+2026-10-26T06:23:51.929Z,agent-bridge-claude-cli,1.0.0,m2lihui,,21765,mu-agent-bridge 的本地 Claude Code CLI 独立插件，沿用 CLI 默认模型与登录。
+2026-10-26T06:25:08.999Z,lombokasync,0.2.0,codinglombok,Apache-2.0,40113,"Async helpers on native promises: timeout, interval, bounded and unbounded mpsc channels, oneshot channels, joinAll and select with a cross-language contract. Zero dependencies. Part of the Lombok Ec…"
+2026-10-26T06:25:22.978Z,@pptalker/agent,1.0.1,youngxu,MIT,74075,独立 PPTalker Agent MCP：异步准备、讲稿确认、私有视频与可取消的短状态查询。
+2026-10-26T06:26:40.101Z,@isha_chauhan/ui,0.1.0,isha_chauhan,MIT,37400,Reusable React component library
+2026-10-26T06:26:44.33Z,cortico-world-lofter,0.1.0,suhong1130,MIT,152326,让 Coopanion 读得了 LOFTER：带登录态抓博文、标签流与单篇正文，默认只在对话里按需取，不落盘不订阅
+2026-10-26T06:28:03.166Z,@ohos-ports/stdlib-object-ctor,0.2.2-beta.0,lljry,Apache-2.0,33699,Object constructor.
+2026-10-26T06:28:32.489Z,actvty-trckr,0.1.1,hemen-mehta,UNLICENSED,81047,Framework-agnostic user activity tracking for any Angular version.
+2026-10-26T06:28:44.584Z,@swc-next/walker,0.4.0,sooniter,Apache-2.0,207671,Synchronous ESTree traversal and editing for JavaScript and TypeScript
+2026-10-26T06:28:59.399Z,ai-agentmanager,1.0.0,jdmunta,Apache-2.0,1439568,"Run background coding agents (Claude Code, Codex) per intent, and keep track of them from a web UI, your phone or the CLI"
+2026-10-26T06:30:24.399Z,@gloamtrade/game-plugin-gloam,0.1.0,duke.sol,MIT,506767,"Gloam plugin for the GAME framework: private stablecoin payments for Virtuals agents on Base and Robinhood Chain, under per-asset spending limits the agent cannot lift."
+2026-10-26T06:30:50.906Z,@balena/unbzip2-stream,0.0.0,balena.io,,125,Placeholder for trusted publishing setup
+2026-10-26T06:31:34.447Z,dsh-vscode-connect,0.1.11,frchdu,MIT,220785,Connect DeepSeek Harness to Visual Studio Code with local Windows auto-pairing and manual connection.
+2026-10-26T06:31:51.681Z,ep-crud-page,0.1.1,tonwe,MIT,1284452,TypeScript CRUD page components for Vue 3 and Element Plus
+2026-10-26T06:32:18.529Z,stocker-sdk,0.1.0,sbalex27,MIT,9390859,Cliente TypeScript de Stocker con recursos JSON:API tipados y deserialización a modelos camelCase.
+2026-10-26T06:33:00.254Z,@selltostate/piece-sell-to-state,0.0.0-stage,nadyyym,,354,Temporary package placeholder for staged publishing
+2026-10-26T06:34:34.408Z,@xtandard/image,0.1.1,xantiagoma,MIT,381892,"TypeScript client for the xtandard-image server (self-hosted image and video processing in Go and libvips): typed URL builder with signing and source encryption, and a fetch client."
+2026-10-26T06:34:47.099Z,@anolisa/tokenless-darwin-x64,0.9.0,ikunkun-sys,Apache-2.0,14607090,Token-Less native binaries for darwin x86_64
+2026-10-26T06:38:12.755Z,tokeai,0.0.1,jglauber,MIT,369,Keeps your tokens out of your AI agent's reach. Early development.
+2026-10-26T06:38:19.493Z,@ilokesto/queryable,0.1.0,ayden94,MIT,165750,"A shared-prototype, Symbol-based record query DSL."
+2026-10-26T06:38:20.906Z,@tilua-types/zod,7.1.0,uav1010,ISC,27144,"z, zod's way of checking a value as the program runs, as a tilua type library: z.object, z.string():min(3), z.infer, parse and safeParse"
+2026-10-26T06:38:32.089Z,@laoliangfe/annotation-overlay-vue,2.0.0,love2157dream,MIT,419529,"Vue 3 annotation overlay component: screenshot a DOM element, draw on it with Fabric.js, export a PNG"
+2026-10-26T06:38:35.678Z,@laoliangfe/annotation-overlay-react,2.0.0,love2157dream,MIT,335500,"React annotation overlay component: screenshot a DOM element, draw on it with Fabric.js, export a PNG"
+2026-10-26T06:38:39.98Z,@laoliangfe/annotation-overlay-angular,2.0.0,love2157dream,MIT,156983,"Angular 21 annotation overlay component (standalone + signals, zoneless friendly)"
+2026-10-26T06:39:11.659Z,dsh-echelon,1.3.0,snesyle,MIT,587134,"Echelon for DeepSeek Harness: name a few tiers, and each one becomes an ordered chain of real models with retries, failover, reasoning-level translation, context-window routing and vision routing. 挡位…"
+2026-10-26T06:39:47.997Z,dsh-subagent-setup,0.2.0,twoweeks1995,MIT,169405,给 DeepSeek Harness 的子智能体模型路由：按别名把子智能体委派到指定的子智能体代理与模型，支持标签、默认思考档位与界面开关；配置存本地 JSON，不写 YAML。
+2026-10-26T06:41:11.334Z,@devassure/tpp-engine,1.8.2,santhoshkumar_s,ISC,494927,Automation library to run TPP tests
+2026-10-26T06:41:42.314Z,vidcap-mcp,0.1.0,suman_jana,MIT,22476,"MCP server that lets Claude drive the VidCap caption editor running in your browser: transcribe, edit, style, cut, preview and export."
+2026-10-26T06:41:50.224Z,pr-docent,0.1.0,thomas783,MIT,37573,"Guided, narrated review tours on top of GitHub pull request diffs. This package installs the local tour generator for the PR Docent Chrome extension."
+2026-10-26T06:43:02.968Z,cortico-world-emotive-sticker,0.1.1,ycayuri,MIT,107957,Coopanion 表情包 World：把你自己收藏的表情包接进 QQ 聊天，按情绪挑图、限速防刷屏，聊天更像真人
+2026-10-26T06:43:31.088Z,@anolisa/tokenless-win32-x64,0.9.0,ikunkun-sys,Apache-2.0,14758895,Token-Less native binaries for win32 x86_64
+2026-10-26T06:43:45.608Z,@saco/file-worker,1.0.0,seawavew,ISC,26920,浏览器 Worker 里按 SHA-256 鉴定文件，整文件和每一片都算，带进度和取消
+2026-10-26T06:45:09.233Z,@ohos-ports/stdlib-process-cwd,0.2.3-beta.0,lljry,Apache-2.0,24822,Return the current working directory.
+2026-10-26T06:45:28.149Z,@aomi-labs/account,0.3.1,hanzn,,552867,Server-only account graph: resolve-or-create the canonical user and mint AccountBearers. Node-only; never bundle into a browser.
+2026-10-26T06:45:36.546Z,@aomi-labs/cli,0.2.0,hanzn,,284121,Aomi terminal client
+2026-10-26T06:45:51.367Z,@oniharnantyo/react-nice-avatar,0.1.0,oniharnantyo,MIT,621031,react library for generating avatar
+2026-10-26T06:46:06.591Z,@heartlandone/vega-angular-sandbox-pr-3348-886f336ea038908e8940a63375b5278570f59b6a,2.108.0,aprilzhu,UNLICENSED,2042377,Angular specific wrapper for @globalpayments/vega
+2026-10-26T06:46:12.823Z,@heartlandone/vega-vue-sandbox-pr-3348-886f336ea038908e8940a63375b5278570f59b6a,2.108.0,aprilzhu,UNLICENSED,147889,Vue specific wrapper for @globalpayments/vega
+2026-10-26T06:46:21.838Z,@heartlandone/vega-react-sandbox-pr-3348-886f336ea038908e8940a63375b5278570f59b6a,2.108.0,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-10-26T06:46:23.455Z,@heartlandone/vega-sandbox-pr-3348-886f336ea038908e8940a63375b5278570f59b6a,2.108.0,aprilzhu,UNLICENSED,39705056,Vega - the design system of Global Payment Systems
+2026-10-26T06:46:41.186Z,dsh-wechat-channel,0.2.0,iris_mei,MIT,287256,Bidirectional WeChat channel for DeepSeek Harness using the official iLink Bot API
+2026-10-26T06:48:07.108Z,solo-issue-mcp,0.0.1,xiaopingyuan,MIT,22891,"MCP server for solo-issue: a thin protocol adapter over its REST API, driven by Bearer tokens issued from the deployment."
+2026-10-26T06:48:10.427Z,diginet-sso-sdk-test4,1.0.0,thanh-bach,MIT,205672,The DigiNet sso sdk
+2026-10-26T06:48:53.296Z,vtt-vietsub-mcp,1.0.0,mndpjm,MIT,20778,MCP server for translating VTT subtitle files to Vietnamese using configurable LLM providers
+2026-10-26T06:49:22.367Z,dsj-music,2.2.0,discord.simplified.js,MIT,157503,"Lavalink music plugin for discord.simplified.js: queue management, auto-registered commands, embed events, and full override of commands, events and embeds."
+2026-10-26T06:49:59.971Z,@luckzz/mars2d-element-kit,0.0.3,yimingmao,,9797102,> Mars2D 三维地图配套的 **Vue3 + Element Plus** 组件库，基于 Vue3 + ElementPlus + Mars2D 封装。提供地图容器、布局框架、工具控件（Widget）容器，以及一套统一风格的 `mars-*` 业务组件（弹窗、消息提示、下拉、日期选择、表单、表格、树、图表等），开箱即用。
+2026-10-26T06:51:07.922Z,matador-ai-darwin-arm64,0.1.0,amba777x,UNLICENSED,36205899,The darwin-arm64 binary for matador-ai.
+2026-10-26T06:51:08.175Z,@jzjerry/dsh-hw-monitor,0.3.2,jzjerry,Apache-2.0,86480,"Draggable hardware monitor panel for the DSH web GUI: live CPU/GPU temperature, load, clocks and fan speed"
+2026-10-26T06:51:43.969Z,matador-ai-darwin-x64,0.1.0,amba777x,UNLICENSED,36936209,The darwin-x64 binary for matador-ai.
+2026-10-26T06:51:57.973Z,matador-ai-linux-arm64,0.1.0,amba777x,UNLICENSED,35717703,The linux-arm64 binary for matador-ai.
+2026-10-26T06:52:33.393Z,matador-ai-linux-x64,0.1.0,amba777x,UNLICENSED,36733503,The linux-x64 binary for matador-ai.
+2026-10-26T06:52:49.028Z,@bagandev/doc-layouts,0.1.0,phothinmaung,Apache-2.0,88950,Layouts for Docs Template
+2026-10-26T06:55:04.484Z,create-brio,1.0.0,jnreis,MIT,80288,Create a Brio.js app or plugin.
+2026-10-26T06:55:18.47Z,@stellartech/video-player-directus,1.0.0,stellarmmad,MIT,158521,"Select and display a YouTube, Vimeo, or Directus video on a lesson. Shows a video already saved on the item."
+2026-10-26T06:55:20.132Z,@insight-health/sign,0.2.0,saran-siva,ISC,27848,MagicSign embed SDK for Insight Health AI (iframe + postMessage)
+2026-10-26T06:55:24.017Z,spriteforge-ai,0.1.0,vikasdeshmukh,MIT,354663,"Prompt in, game-ready sprite sheets out. Dresses a base-body sprite template and builds tilesets with Google Gemini image generation."
+2026-10-26T06:55:41.848Z,opent3st,1.0.0,harshkirdolia,,495064,Autonomous UX testing for any website or platform.
+2026-10-26T06:56:51.531Z,@rushikesh0374/template-studio,1.1.0,rushikesh0374,MIT,80518,Bind Template Studio .rvds.json files to HTML for screen and printer output. PDF is an optional add-on.
+2026-10-26T06:57:20.194Z,@zukhruf/git-hooks,0.3.41,ezzabuzaid,MIT,33054,"Git hooks written in TypeScript. A pre-commit hook runs steps in order against the staged commit: it checks the staged copy of each file with Prettier and changes nothing, runs nx sync and stages onl…"
+2026-10-26T06:57:25.202Z,@zukhruf/sqlite-queue,0.3.41,ezzabuzaid,MIT,379341,"pg-boss's job queue API on node:sqlite. It implements a declared subset of 13 PgBoss methods: queues, send, work, findJobs, cancel, fail and schedules. A parity suite runs each scenario on real pg-bo…"
+2026-10-26T06:57:54.455Z,whiteboard-engine-vn,1.0.1,phungvanmanh,,271759,Reusable whiteboard drawing engine
+2026-10-26T06:58:02.616Z,@giteeteam/redis-parser,3.0.0-release.1,songqy,MIT,27680,Javascript Redis protocol (RESP) parser
+2026-10-26T06:58:38.393Z,remote-mcp-stdio,1.0.0,zhangweiweikol,,1509845,基于 stdio 的 MCP 服务器，提供远程 SFTP 工具
+2026-10-26T06:58:42.235Z,@zboson/cssinjs,1.1.0,qimengcheng,,127906,cssinjs solution for ant-design-vue
+2026-10-26T06:58:45.667Z,@giime/watermark,0.0.1-snapshot.1,otto0120,MIT,1191194,前端统一防篡改水印 SDK（支持 Vue 2 / Vue 3 / 原生 HTML，自动识别 GSMP 综合管理平台及多级 Iframe 嵌套防重、多源 UserId 动态感知与防删改保护）
+2026-10-26T06:58:47.568Z,@cozeclaw-tools/wps365-mcp,1.0.1,cozeclaw-tools,MIT,3465,"Local stdio bridge that launches an already-installed, logged-in wps365-cli 'mcp serve'. No secrets, no cloud dependency; only forwards stdio."
+2026-10-26T06:59:31.782Z,@cad0p/pi-background-work,0.0.0,cad0p,MIT,491,Reserved name; the first real release ships from https://github.com/cad0p/pi-background-work
+2026-10-26T06:59:34.316Z,@cad0p/pi-scheduled-work,0.0.0,cad0p,MIT,486,Reserved name; the first real release ships from https://github.com/cad0p/pi-scheduled-work
+2026-10-26T06:59:36.52Z,@cad0p/pi-background-tasks,0.0.0,cad0p,MIT,496,Reserved name; the first real release ships from https://github.com/cad0p/pi-background-tasks
+2026-10-26T07:01:12.794Z,@canra/cli,0.1.2,stormalong,MIT,17035,"CLI for Canra, the registry of machine-readable specs: fetch, search, and publish specs."
+2026-10-26T07:01:30.174Z,@wellbyte/sdk,0.7.0,wellbyte_alex,MIT,11080,Official Wellbyte TypeScript SDK — thin HTTP client with 202 auto-poll
+2026-10-26T07:03:14.881Z,@columenlabs/lumen-people,0.1.66,bikramc,MIT,72221,"Lumen's people, access and invites on the server: the rules, a SQL store, single-use invite links, a pluggable mailer and the routes the People screens call."
+2026-10-26T07:03:15.659Z,@rivus/agent-trace,0.0.0-bootstrap.0,perfectpan,GPL-3.0-only,35839,Placeholder package for configuring trusted publishing. The agent-trace CLI is not included.
+2026-10-26T07:03:55.66Z,dwara,0.1.0,n1ghtk1ng,AGPL-3.0-or-later,994679,Policy-controlled SSH access for AI coding agents
+2026-10-26T07:04:12.026Z,@rushikesh0374/template-studio-pdf,1.1.0,rushikesh0374,MIT,19966,Optional PDF add-on for @rushikesh0374/template-studio. Reuses one Chromium for fast receipt files.
+2026-10-26T07:04:35.994Z,@tray-sh/cli-darwin-arm64,0.0.0,sidborderwala,MIT,363,Placeholder. Tray is coming soon: https://tray.sh
+2026-10-26T07:04:39.193Z,@tray-sh/cli-darwin-x64,0.0.0,sidborderwala,MIT,359,Placeholder. Tray is coming soon: https://tray.sh
+2026-10-26T07:04:42.125Z,@tray-sh/cli-linux-arm64,0.0.0,sidborderwala,MIT,361,Placeholder. Tray is coming soon: https://tray.sh
+2026-10-26T07:04:45.021Z,@tray-sh/cli-linux-x64,0.0.0,sidborderwala,MIT,357,Placeholder. Tray is coming soon: https://tray.sh
+2026-10-26T07:04:47.861Z,@tray-sh/cli-linux-arm64-musl,0.0.0,sidborderwala,MIT,371,Placeholder. Tray is coming soon: https://tray.sh
+2026-10-26T07:04:50.895Z,@tray-sh/cli-linux-x64-musl,0.0.0,sidborderwala,MIT,367,Placeholder. Tray is coming soon: https://tray.sh
+2026-10-26T07:04:53.854Z,@tray-sh/cli-windows-x64,0.0.0,sidborderwala,MIT,361,Placeholder. Tray is coming soon: https://tray.sh
+2026-10-26T07:04:57.192Z,@tray-sh/cli,0.0.0,sidborderwala,MIT,337,Placeholder. Tray is coming soon: https://tray.sh
+2026-10-26T07:04:59.755Z,@ohos-ports/stdlib-string-base-lowercase,0.4.1-beta.0,lljry,Apache-2.0,23697,Convert a string to lowercase.
+2026-10-26T07:05:05.326Z,@nxds/claude-design,0.5.0,nx_prasad,MIT,2389878,"nxds as a Claude Design System: tokens, a live React 18 component bundle, prop types and previews, ready to publish."
+2026-10-26T07:05:19.813Z,@devassure/tpp-locator,1.1.0,santhoshkumar_s,MIT,125143,A utility to load selector generator scripts for DOM element identification.
+2026-10-26T07:05:31.445Z,@deepmetier_univerjs/sheets-find-replace,0.25.4,rjmyj,(AGPL-3.0-only OR LicenseRef-DeepMetier-Commercial),256186,Find and replace integration for Univer Sheets.
+2026-10-26T07:05:43.086Z,claudeban,1.0.0,hoxiai,MIT,8078,Zero-dependency CLI doctor & live ban-wave radar for Anthropic Claude & Claude Code (claudeban.com).
+2026-10-26T07:06:08.46Z,react-native-inspect-tool,1.0.0,talha_reactnative_dev,MIT,1258994,"In-app Chrome DevTools style inspector for React Native: Network API calls, Errors & Console, Memory Leaks & Performance."
+2026-10-26T07:08:35.729Z,cortico-world-qzone,0.1.0,lingyu192,MIT,52866,将 Neighbor 朋友圈同步到 QQ 空间，接收空间评论并发送角色回复
+2026-10-26T07:08:38.367Z,dsh-domain-proxy,0.1.0,heywalter,MIT,3748986,Route selected DSH API domains through a local HTTP proxy; keep other routes unchanged.
+2026-10-26T07:08:47.905Z,dsh-sla,0.4.0,jiuxue,MIT,328938,从一句目标开始，自主建立依据并持续探索项目改进。
+2026-10-26T07:09:23.857Z,alpha402-mcp,1.5.0,chilledgb101,MIT,144123,"HTTP 402 Real-Time On-Chain Alpha, Anti-Honeypot Security Audits & New Pairs Feed for Autonomous AI Agents (Supports Coinbase x402, Multi-Call Prepaid Base USDC, and L402)"
+2026-10-26T07:11:21.591Z,@intuned/browser-use-dev,0.1.2-dev.0,bdair-intuned,Elastic-2.0,81919,Intuned SDK browser-use agent: drive a Playwright page with a vision-capable model
+2026-10-26T07:11:57.561Z,@sgyx/cesium-kit-core,0.1.0,sgyx,MIT,560169,Cesium 基础能力内核：Viewer 生命周期、底图、地形、相机、实体、坐标与事件
+2026-10-26T07:12:00.421Z,@sgyx/cesium-kit-vite,0.1.0,sgyx,MIT,12710,Cesium 静态资源与 CESIUM_BASE_URL 的 Vite 接入插件
+2026-10-26T07:12:03.417Z,@sgyx/cesium-kit-weather,0.1.0,sgyx,MIT,204711,Cesium 天气预报插件：多图层栅格、时间轴联动与图例
+2026-10-26T07:12:03.539Z,@sgyx/cesium-kit-vue,0.1.0,sgyx,MIT,115436,Cesium 基础能力的 Vue 3 适配层
+2026-10-26T07:12:06.886Z,@sgyx/cesium-kit-wind,0.1.0,sgyx,MIT,114885,Cesium 风场能力插件：气象风场粒子与风电场
+2026-10-26T07:12:42.004Z,@thgilciffart/pi-skills,0.1.0,thgilciffart,MIT,69223,"Browse, toggle, find, install, and update skills in the Pi coding agent."
+2026-10-26T07:13:16.553Z,ofdh5,1.0.0,iwlking,MIT,1109576,OFD (GB/T 33190-2016) preview for mobile web: pure-frontend canvas renderer with pdfh5-compatible API
+2026-10-26T07:14:27.245Z,@micuintus/aid-evolve,1.0.0,micuintus,MIT,23235,"Ledger-based evolution by Artificial Intelligent Design: code evolution for Pi in which an LLM, not a genetic operator, decides each step."
+2026-10-26T07:14:47.189Z,dsh-flymemory,1.0.0,aujurd,MIT,243282,"Long-term memory for DeepSeek Harness: 15 FlyMemory MCP tools, automatic recall and capture hooks, and a supervised local engine."
+2026-10-26T07:15:48.143Z,dsh-rst,0.2.4,jingyu-er,MIT,162675,用 /rst 一条命令重启 DSH：由进程外启动器关掉当前进程并拉起新的，重启完成后把回执写回你发起重启的那条会话。
+2026-10-26T07:16:05.675Z,@araminix/lib,0.0.0-stage,amin4193,,335,Temporary package placeholder for staged publishing
+2026-10-26T07:16:19.33Z,rslint-config-cozy-app,0.2.0,mycozycloud,MIT,12302,Rslint and rs fmt config for Cozy Applications (Cozy Cloud)
+2026-10-26T07:16:29.923Z,ghostty-designer,0.1.0,reemus.tarun,MIT,24798222,"Design Ghostty's appearance, with your own Ghostty windows as the live preview"
+2026-10-26T07:17:03.646Z,@idealinsane/opencode-router-track,1.0.1,idealinsane,MIT,16818,OpenRouter Free Models Router가 선택한 모델을 OpenCode TUI 사이드바에 표시
+2026-10-26T07:19:03.885Z,settled-debugger,0.0.0-stage,royalpinto007,,338,Temporary package placeholder for staged publishing
