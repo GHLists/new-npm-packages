@@ -1,43 +1,193 @@
 {
   "list": {
-    "count": 223,
-    "from": "2026-10-26T15:19:14.474329Z",
-    "path": "data/new-packages-2026-10-26T16-18-57-872354Z.csv",
-    "to": "2026-10-26T16:18:57.872354Z"
+    "count": 165,
+    "from": "2026-10-26T16:18:57.872354Z",
+    "path": "data/new-packages-2026-10-26T17-18-48-187017Z.csv",
+    "to": "2026-10-26T17:18:48.187017Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@arraypress/menu-astro",
-      "since": "2026-10-26T15:19:14.474329Z"
+      "package": "@catamorphic/acp",
+      "since": "2026-10-26T16:18:57.872354Z"
     },
     {
       "attempts": 1,
-      "package": "@khorsheed/dsh-basic",
-      "since": "2026-10-26T15:19:14.474329Z"
+      "package": "@catamorphic/agent-protocol",
+      "since": "2026-10-26T16:18:57.872354Z"
     },
     {
       "attempts": 1,
-      "package": "@khorsheed/dsh-dev-suite",
-      "since": "2026-10-26T15:19:14.474329Z"
+      "package": "@catamorphic/agent-runner",
+      "since": "2026-10-26T16:18:57.872354Z"
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "package": "@catamorphic/ai-sdk",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/api-client",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/app",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/claude-code",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/cloudflare",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/codex",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/container",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/core",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/db",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/fastify-plugin",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/git",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/github",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/hetzner",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/local-process",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/mcp",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/microsandbox",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/otel",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/parser",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/plugins",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/react",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/registry",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/runner-bundle",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/runtime",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/s3",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/sandbox",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/server-sdk",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/ui",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@catamorphic/workflow",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@geomelon/canada",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 4,
       "package": "@ngtest/guerrilla-streetwear-sneakers",
       "since": "2026-10-26T13:18:55.876937Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "package": "@ngtest/intermera-rs232-freq",
       "since": "2026-10-26T13:18:55.876937Z"
     },
     {
-      "attempts": 2,
-      "package": "@questdb/browser-client",
-      "since": "2026-10-26T14:18:43.136452Z"
+      "attempts": 1,
+      "package": "@samanbayaka/dbs-ora",
+      "since": "2026-10-26T16:18:57.872354Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@vishalx0707/scuff",
+      "since": "2026-10-26T16:18:57.872354Z"
     }
   ],
-  "seq": 139790062,
+  "seq": 139804349,
   "source_truncated": false,
-  "window": "2026-10-26T16:18:57.872354Z"
+  "window": "2026-10-26T17:18:48.187017Z"
 }
