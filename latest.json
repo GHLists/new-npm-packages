@@ -1,208 +1,28 @@
 {
   "list": {
-    "count": 577,
-    "from": "2026-10-26T18:19:19.693787Z",
-    "path": "data/new-packages-2026-10-26T19-19-28-645077Z.csv",
-    "to": "2026-10-26T19:19:28.645077Z"
+    "count": 502,
+    "from": "2026-10-26T19:19:28.645077Z",
+    "path": "data/new-packages-2026-10-26T20-19-50-489416Z.csv",
+    "to": "2026-10-26T20:19:50.489416Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@appneurox/proposal-service",
-      "since": "2026-10-26T18:19:19.693787Z"
+      "package": "@aljazmc/config",
+      "since": "2026-10-26T19:19:28.645077Z"
     },
     {
       "attempts": 1,
-      "package": "@appneurox/proposal-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
+      "package": "@aljazmc/syntax",
+      "since": "2026-10-26T19:19:28.645077Z"
     },
     {
-      "attempts": 1,
-      "package": "@appneurox/provenance-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/provenance-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/provider-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/provider-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/publishing-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/publishing-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/push-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/push-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/quality-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/quality-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/query-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/query-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/queue-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/queue-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/quota-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/quota-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/quotation-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/quotation-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/quote-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/quote-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/rag-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/rag-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/ranking-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/ranking-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/reaction-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/reaction-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/recommendation-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/recommendation-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/reconciliation-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/reconciliation-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/record-service",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@appneurox/record-service-sdk",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@geomelon/north-korea",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@jimmyphong/lingui-start",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kenshiki/config",
-      "since": "2026-10-26T18:19:19.693787Z"
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "package": "@vishalx0707/scuff",
       "since": "2026-10-26T16:18:57.872354Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@zainab-salah/ux-engineering",
-      "since": "2026-10-26T18:19:19.693787Z"
     }
   ],
-  "seq": 139832094,
+  "seq": 139844284,
   "source_truncated": false,
-  "window": "2026-10-26T19:19:28.645077Z"
+  "window": "2026-10-26T20:19:50.489416Z"
 }
