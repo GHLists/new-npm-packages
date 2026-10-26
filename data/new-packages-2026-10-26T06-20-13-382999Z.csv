@@ -1,0 +1,121 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-26T05:15:13.469Z,@opengardenjs/terminal,0.2.0,lochingpo,MIT,43579,Runs an opengarden tree in a terminal through Dawn and the Kitty graphics protocol.
+2026-10-26T05:15:21.145Z,@opengardenjs/web,0.2.0,lochingpo,MIT,12967,Mounts an opengarden tree in a web page.
+2026-10-26T05:15:25.268Z,@opengardenjs/cherry,0.2.0,lochingpo,MIT,6945,A cherry tree for opengarden.
+2026-10-26T05:15:33.163Z,@s2code/t3-darwin-arm64,0.0.0,kcrommett,MIT,207,Placeholder for S2Code trusted publishing.
+2026-10-26T05:15:36.277Z,@s2code/t3-linux-arm64,0.0.0,kcrommett,MIT,206,Placeholder for S2Code trusted publishing.
+2026-10-26T05:15:38.81Z,@s2code/t3-linux-x64,0.0.0,kcrommett,MIT,204,Placeholder for S2Code trusted publishing.
+2026-10-26T05:15:41.343Z,@s2code/t3-win32-arm64,0.0.0,kcrommett,MIT,206,Placeholder for S2Code trusted publishing.
+2026-10-26T05:15:43.686Z,@s2code/t3-win32-x64,0.0.0,kcrommett,MIT,204,Placeholder for S2Code trusted publishing.
+2026-10-26T05:15:47.591Z,@woosau/dsh-custom-env,0.1.0,woosau,MIT,143014,"DSH plugin: manage $DSH_HOME/.env from Settings, sync Host process.env and Windows/macOS user environment"
+2026-10-26T05:18:17.526Z,@s2code/cli,0.0.0,kcrommett,MIT,195,Placeholder for S2Code trusted publishing.
+2026-10-26T05:19:17.816Z,@foreverworks/mcp-kit,0.1.0,horatiuvlad,MIT,260128,"Shared toolkit for MCP servers: stdio and HTTP transports with per-client tokens, a guard that classifies, audits and can confirm every tool call, an HTTP and OAuth stack, exact decimals, and byte-ex…"
+2026-10-26T05:19:23.349Z,@foreverworks/mcp-anaf-efactura,0.1.0,horatiuvlad,MIT,528300,"MCP server for Romania's ANAF e-Factura and e-Transport: read the invoices a company received and sent, check and render them, file new invoices and e-Transport declarations, and look up companies in…"
+2026-10-26T05:19:29.308Z,@foreverworks/mcp-bnr,0.1.0,horatiuvlad,MIT,76799,"MCP server for the National Bank of Romania's exchange rates: the rate in force on any day, conversions to and from RON, rates over a period, and the yearly averages ANAF converts foreign income at"
+2026-10-26T05:19:40.36Z,@foreverworks/mcp-enable-banking,0.1.0,horatiuvlad,MIT,346461,"MCP server for bank accounts through Enable Banking's PSD2 API: read and search statements across accounts, export them as CSV, read balances, and manage the consents; it moves no money"
+2026-10-26T05:19:47.303Z,@foreverworks/mcp-google,0.1.0,horatiuvlad,MIT,3305584,"MCP server for several Google accounts at once: Gmail, Calendar, Drive, Docs, Sheets, Slides, Tasks, contacts and Meet transcripts"
+2026-10-26T05:19:51.421Z,@foreverworks/mcp-notion,0.1.0,horatiuvlad,MIT,319827,"MCP server for one or more Notion workspaces: search, pages read and written as Markdown, typed database queries, saved views, comments and files"
+2026-10-26T05:19:56.033Z,@green-api/node-red-whatsapp-by-green-api,1.0.1,somedayistheday,MIT,61617,"Node-RED nodes for GREEN-API: send and receive WhatsApp, Telegram and MAX messages"
+2026-10-26T05:19:56.435Z,@foreverworks/mcp-oblio,0.1.0,horatiuvlad,MIT,243061,"MCP server for the Oblio invoicing platform: issue invoices and proformas with exact totals, record payments, cancel or reverse invoices, and read clients, products and series"
+2026-10-26T05:21:21.458Z,@agney/rsbuild-content-collections,0.0.0,agney,MIT,5345,Use Content Collections with Rsbuild (unofficial)
+2026-10-26T05:21:54.586Z,rudow-mcp-server,0.1.0,felixiho,MIT,25172,"MCP server for Rudow — let your AI assistant query your app's logs, metrics and incidents."
+2026-10-26T05:23:34.031Z,@kevindevm/opencode-telegram-group-topics-bot,0.18.0,kevindevm,MIT,1499503,Telegram bot client for OpenCode with Telegram forum-topic session lanes.
+2026-10-26T05:24:00.802Z,dsh-opencode-go-x-session,1.2.1,waulker,MIT,42802,"Adds OpenCode Go's required x-opencode-session header to model requests of the configured OpenCode routes (including auto-review and hand-declared routes), with a live on/off switch."
+2026-10-26T05:24:03.883Z,ctx-autopsy,0.1.0,emdhks09,MIT,24415,"See which tool calls filled your Claude Code context: biggest Bash outputs, file reads and re-reads across sessions. Local, zero-dependency."
+2026-10-26T05:24:53.73Z,dsh-autonomous-restart,1.2.2,meng-lx,MIT,203683,等整个 DSH 都空闲下来再安全地重启它：占用判定、可取消倒计时、拉起外部重启脚本。
+2026-10-26T05:26:48.003Z,@ude-ai/book-ai,1.0.0,yuechuan-li,Apache-2.0,45672,"Zero-config local AI companion for BookReader — unified LLM proxy, neural TTS narrator, and auto-pairing daemon."
+2026-10-26T05:26:55.542Z,@longzai-intelligence-agent-ui-container/core,0.0.1,joydragon,UNLICENSED,20633,Longzai Intelligence Agent UI 装载容器契约核心包
+2026-10-26T05:27:04.369Z,@longzai-intelligence-agent-ui-container/react,0.0.1,joydragon,UNLICENSED,15428,Longzai Intelligence Agent UI 装载容器 React 宿主包
+2026-10-26T05:27:22.089Z,cardbush,1.0.11,cardbush,Apache-2.0,47197212,CardBush Agent service and terminal client; runs without the desktop App
+2026-10-26T05:27:52.29Z,dither-kit,0.1.0,oldschoola,MIT,2413588,"Dithered UI toolkit — composable ordered-dither charts (area, line, bar, pie, radar) on one tiny canvas engine, plus generative avatars, buttons, gradient washes and more. React port."
+2026-10-26T05:29:11.369Z,@getopencrawl/sdk,0.2.1,patelshalin,UNLICENSED,543139,"Watch competitor pages and research markets for your customers, with cited results and ready-made LLM agent tools"
+2026-10-26T05:29:51.653Z,@signalk/collision-alerts,0.6.0,tkurki,Apache-2.0,94713,"Collision alerts for Signal K: CPA/TCPA warnings for nearby traffic, raised through the Notifications API"
+2026-10-26T05:30:59.583Z,agcskills,1.0.0,manuemmanuel,MIT,264691,"Cross-Platform AI Skills Registry and CLI for Google Antigravity, Cursor, and Claude Code"
+2026-10-26T05:32:33.816Z,@sminfotech/comms-sdk,0.1.0,legpieze,MIT,42349,"Framework-agnostic client for the comms service: DMs, presence, read receipts and LiveKit-backed calls."
+2026-10-26T05:32:44.325Z,dsh-ptc-diff-card,0.1.0,grounzer,MIT,44550,DSH Web 插件：PTC 模式（run_code 内的嵌套调用）里的 edit/write 显示标准 diff 卡片 | DSH Web GUI plugin: standard diff cards for edit/write calls made inside PTC programs
+2026-10-26T05:32:48.3Z,@ohos-ports/constants-uint16-max,0.2.3-beta.0,lljry,Apache-2.0,21251,Maximum unsigned 16-bit integer.
+2026-10-26T05:35:50.173Z,aifactory-cli,0.103.0,baturorkun,MIT,1710546,"AI Factory: requirement-driven, multi-agent code generation. The factory CLI."
+2026-10-26T05:37:43.881Z,@zboson/icons,1.1.2,qimengcheng,,5442935,Antdv Next icon components for Vue 3.
+2026-10-26T05:40:27.879Z,dsh-pause-resume,0.1.0,regrevia,MIT,47194,"One header button stops every running turn and goal, writes a snapshot, and puts the same work back on the next boot; the button's shape is the only status."
+2026-10-26T05:40:46.692Z,@aback-ui/tokens,0.2.1,devvrathans,MIT,10135,"The Aback semantic design tokens: color roles, Aback Blue ramp, geometry, and theme CSS."
+2026-10-26T05:40:46.975Z,benchgo-relay,0.0.1,draftgo,MIT,29844,BenchGo self-hosted relay runtime boundary
+2026-10-26T05:40:47.417Z,benchgo,0.0.1,draftgo,MIT,3618789,BenchGo workbench CLI
+2026-10-26T05:40:54.541Z,dsh-google-cloud-llm,0.1.0,mrthanlon,,293114,"Google Cloud (Gemini on the Gemini Enterprise Agent Platform) LLM provider for DeepSeek Harness: a Models-page provider card for the API key, project id and proxy, and a native Vertex AI streaming ad…"
+2026-10-26T05:41:09.095Z,@aback-ui/ui,0.2.1,devvrathans,MIT,347981,"Accessible, square-cornered React components for the Aback design system."
+2026-10-26T05:41:09.248Z,@tks-ai/edu-upload-mcp,1.0.0,tksai,,12741,教学应用上传 MCP Server：供 AI 编程智能体（CodeBuddy/Trae/WorkBuddy/Codex）上传文件/文件夹并创建教学作品
+2026-10-26T05:41:16.344Z,aback-ui,0.2.1,devvrathans,MIT,545185,The Aback UI command line: add accessible React components and blocks to your project as source you own.
+2026-10-26T05:41:30.51Z,@yan710010/koishi-plugin-maireport,0.1.0,yan710010,MIT,68557,机厅查人数插件
+2026-10-26T05:43:30.416Z,@lemoncloud/chatic-archive-api,0.26.902,stevelemon,MIT,77474,chatic-archive-api management api
+2026-10-26T05:47:23.15Z,@ohos-ports/constants-uint8-max,0.2.3-beta.0,lljry,Apache-2.0,21147,Maximum unsigned 8-bit integer.
+2026-10-26T05:53:09.019Z,@longzai-intelligence-agent-ui-render/core,0.0.1,joydragon,UNLICENSED,8624,Longzai Intelligence Agent UI 渲染协议核心包
+2026-10-26T05:53:20.601Z,@longzai-intelligence-agent-ui-render/render,0.0.1,joydragon,UNLICENSED,33112,Longzai Intelligence Agent UI 渲染端口与 json-render 适配器包
+2026-10-26T05:53:26.413Z,@longzai-intelligence-agent-ui-render/react,0.0.1,joydragon,UNLICENSED,11766,Longzai Intelligence Agent UI React 渲染组件包
+2026-10-26T05:53:30.558Z,@ohos-ports/error-tools-fmtprodmsg,0.2.3-beta.0,lljry,Apache-2.0,24279,Format an error message for production.
+2026-10-26T05:53:39.022Z,@longzai-intelligence-agent-ui-render/strategies,0.0.1,joydragon,UNLICENSED,5864,Longzai Intelligence Agent UI 渲染策略包即 json-render 策略实现
+2026-10-26T05:53:55.664Z,@nebulaaa/timer,1.0.0,reyn,MIT,42141,定时器插件
+2026-10-26T05:54:00.22Z,@xross-dev/medusa-product-import,1.0.0,xross.dev,MIT,272935,"Resilient CSV product import for Medusa v2: Admin UI, DB checkpoints, workflow retries, Continue Job"
+2026-10-26T05:54:09.481Z,@zenith-sphere/printer-sato-ws408,1.0.3,cainnawat.s.zenithsphere,,2634225,"TypeScript SATO SBPL label SDK with JSON formats, TCP/Windows RAW printing and PDF preview for Node.js"
+2026-10-26T05:54:32.082Z,@absolutejs/maintenance,0.1.0,alexkahndev,BSL-1.1,15306,Explicit maintenance and developer holds with safe public responses and audited transitions.
+2026-10-26T05:54:42.33Z,@gaia-harness/lint,3.0.3,stevensacks,MIT,245282,GAIA's opinionated lint configuration.
+2026-10-26T05:54:46.259Z,@glgreg/keystone,1.0.0,glgreg,MIT,89788,"A context architecture for AI software engineering: small notes next to your code that explain why it is the way it is, for the people and coding agents who work on it."
+2026-10-26T05:55:10.765Z,schliffe-tk,0.5.0,mkmuniz,MIT,5468,"Cuts token waste in Claude Code sessions (shell command output, MCP tool results, prose). Installs the Schliffe binary; run `schliffe setup` to activate."
+2026-10-26T05:57:05.282Z,vibefather,0.0.1,liyupi,MIT,1865,CLI for VibeFather — original vibe coding website templates with live demos and prompts. Coming soon.
+2026-10-26T05:57:17.235Z,sv-number-client,0.1.0,tysikgg,ISC,36222,TypeScript client for the SV Number SMS verification API
+2026-10-26T05:57:30.355Z,@botiverse/stamp-sdk,0.2.0,lengthmin,MIT,112568,JavaScript SDK for Stamp
+2026-10-26T05:57:54.037Z,@informatiqal/qlbuilder-config-edit,1.0.0,informatiqal-dev,MIT,441379,qlBuilder plugin for managing .qlBuilder.yaml config file
+2026-10-26T05:58:12.062Z,dsh-xingzhudafeiyu-home,0.1.0,anchi66,MIT,585867,星主制作的大肥鱼世界，希望大家喜欢！
+2026-10-26T05:58:27.483Z,dsh-ygritte-boot,1.3.1,ygritte,MIT,213970,"Full-screen ice-and-fire boot intro + Ygritte identity authorization for DeepSeek Harness (DSH): a host-injected first frame, typed bilingual boot log, five-step identity verification, Esc to skip, a…"
+2026-10-26T05:58:29.109Z,opencode-sophnet-auth,0.1.0,zisen,MIT,25268,"OpenCode/magpie provider plugin: SophNet — the 13 measured coding models, each on its native wire (Responses / Anthropic)"
+2026-10-26T05:59:00.131Z,opencode-terminal-notify,1.0.0,4nuva,MIT,19301,"Desktop notifications through your terminal when opencode finishes a turn, asks a question or needs a permission."
+2026-10-26T05:59:16.703Z,@xzzpig/pi-group-collapse,0.1.0,xzzpig,MIT,201427,"Fold a settled turn's tools, thinking, and selected special messages into one-line summaries, keeping the original rendering one click away."
+2026-10-26T05:59:17.667Z,oxlint-config-recommended,1.0.0,guoyunhe,MPL-2.0,34260,Recommended shareable config for Oxlint
+2026-10-26T05:59:19.882Z,@zboson/ui,0.0.1,qimengcheng,MIT,18030013,Ant Design Vue3 Component Library
+2026-10-26T05:59:48.154Z,@waibuzheng/dsh-devin-search,0.3.0,waibuzheng,MIT,464893,DSH multi-source search (Exa + Tavily + Devin) with aggregated web_search / code_search — fork of dsh-devin-search
+2026-10-26T06:00:47.004Z,@heartlandone/vega-react-sandbox-pr-3351-d421411acc4ed15faa10ecfe9af32a3518aa33e3,2.108.0,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-10-26T06:00:49.426Z,@heartlandone/vega-vue-sandbox-pr-3351-d421411acc4ed15faa10ecfe9af32a3518aa33e3,2.108.0,aprilzhu,UNLICENSED,147925,Vue specific wrapper for @globalpayments/vega
+2026-10-26T06:00:49.719Z,@heartlandone/vega-angular-sandbox-pr-3351-d421411acc4ed15faa10ecfe9af32a3518aa33e3,2.108.0,aprilzhu,UNLICENSED,2042883,Angular specific wrapper for @globalpayments/vega
+2026-10-26T06:00:51.493Z,shortform-analyzer,0.3.1,trevbuilds,MIT,92920,"Break a short-form video into scenes: transcript, beat (hook, setup, value, proof, payoff, cta), lever and hold per scene, plus the video's format. A library, a CLI, an MCP server and an agent skill."
+2026-10-26T06:00:56.924Z,@heartlandone/vega-sandbox-pr-3351-d421411acc4ed15faa10ecfe9af32a3518aa33e3,2.108.0,aprilzhu,UNLICENSED,39715238,Vega - the design system of Global Payment Systems
+2026-10-26T06:01:13.755Z,spec-ctx,0.1.0,sonquach.2112,MIT,298624,Deterministic context engine and task workflow for OpenSpec projects.
+2026-10-26T06:01:28.383Z,@net.zhuoan/xuji-core,0.4.0,zhuoantech,Apache-2.0,96951,公共接口契约与类型
+2026-10-26T06:01:36.981Z,undo402,0.1.1,undo402,MIT,21921,"Pay x402 APIs from an agent, covered by undo402 refunds on Robinhood Chain. SDK and MCP server."
+2026-10-26T06:02:21.383Z,credit-queue,0.1.0,capyballer,MIT,45551,"Atomic Redis Lua credit gate and write-behind event queue with two-phase reservations (reserve, settle, release) and monotonic versioning."
+2026-10-26T06:03:00.432Z,@dezkareid/agentic-harness-manager,0.0.0,dezkareid,MIT,2376,"CLI to export an agentic harness (skills, context, hooks, subagents) to Claude Code, Codex, Antigravity and Strands"
+2026-10-26T06:03:31.594Z,apexo-code-darwin-arm64,1.0.0,clusteril1900,MIT,168476723,
+2026-10-26T06:03:42.465Z,@bawdo/blinkstick,0.1.0,bawdo,MIT,93293,Drive BlinkStick Nano and Square USB LEDs from the browser (WebHID) and Node (node-hid).
+2026-10-26T06:03:53.336Z,apexo-code-darwin-x64-baseline,1.0.0,clusteril1900,MIT,177980312,
+2026-10-26T06:05:59.789Z,apexo-code-darwin-x64,1.0.0,clusteril1900,MIT,177980303,
+2026-10-26T06:06:27.708Z,employee-agents,1.0.1,ivannofick,MIT,37189,Virtual multi-role engineering squad adapting native spec-driven workflows
+2026-10-26T06:06:27.776Z,apexo-code-linux-arm64-musl,1.0.0,clusteril1900,MIT,205251210,
+2026-10-26T06:06:39.801Z,dsh-pdf-bookmarks,0.1.1,qiaodxu,SEE LICENSE IN THIRD_PARTY_NOTICES.md,10112177,PDF outline navigation and local reading bookmarks in the DeepSeek Harness right sidebar.
+2026-10-26T06:06:55.777Z,apexo-code-linux-arm64,1.0.0,clusteril1900,MIT,198975121,
+2026-10-26T06:07:06.605Z,@net.zhuoan/xuji-server,0.4.0,zhuoantech,Apache-2.0,760011,服务端公共能力模块
+2026-10-26T06:07:09.532Z,@ixo/action-protocol,0.4.1,michael-ixo,Apache-2.0,53369,"Shared wire contract between IXO Auth Hub, oracle runtimes and channel gateways for reviewed action cards (operations, capabilities, outcomes, receipts)."
+2026-10-26T06:07:12.364Z,@net.zhuoan/xuji-miniprogram,0.4.0,zhuoantech,Apache-2.0,69034,微信小程序接入层
+2026-10-26T06:07:16.434Z,pingx-mail,0.1.1,dhamodharanm,MIT,21463,"Node.js SDK for PingX — send email through your own Gmail, Outlook, Zoho, SMTP, Resend or SES with automatic fallback"
+2026-10-26T06:07:16.897Z,@net.zhuoan/xuji-ops,0.4.0,zhuoantech,Apache-2.0,195897,运营、发布与验证领域公共模块
+2026-10-26T06:07:17.381Z,dsh-sketch,1.4.2,dyguests,MIT,360899,DSH 插件：输入框「+」菜单里的画板，随手画一张直接作为图片附件放进对话。纯客户端交付（conversation.createDrafts + composer.addAttachments），不依赖宿主 typert 端点，因此在 dsh 0.2.x 上不会出现「support 端点不可用」。前身是 LLYlab 的 dsh-sketch-draft。
+2026-10-26T06:07:28.797Z,@net.zhuoan/xuji-release,0.4.0,zhuoantech,Apache-2.0,25288610,Git revision based shared environment release engine
+2026-10-26T06:08:42.486Z,apexo-code-linux-x64-baseline-musl,1.0.0,clusteril1900,MIT,206697799,
+2026-10-26T06:08:51.661Z,bigjpg-open,0.1.0,marcuth,MIT,17501,"TypeScript client for the Bigjpg API, to enlarge images with AI"
+2026-10-26T06:08:53.219Z,@tallystone/preact-email,0.1.0,hillac,MIT,51140,"Lightweight Preact email components and rendering, vendored from React Email"
+2026-10-26T06:08:57.844Z,@tallystone/preact-email-code-block,0.1.0,hillac,MIT,1044383,code-block component for Preact email
+2026-10-26T06:09:01.587Z,@tallystone/preact-email-markdown,0.1.0,hillac,MIT,15348,markdown component for Preact email
+2026-10-26T06:09:04.649Z,@tallystone/preact-email-tailwind,0.1.0,hillac,MIT,198810,tailwind component for Preact email
+2026-10-26T06:09:07.494Z,@tallystone/preact-email-preview,0.1.0,hillac,MIT,57024,"Local, email previews for Preact projects"
+2026-10-26T06:09:09.543Z,apexo-code-linux-x64-baseline,1.0.0,clusteril1900,MIT,199485798,
+2026-10-26T06:09:11.799Z,@tallystone/preact-email-registry,0.1.0,hillac,MIT,11853,Typed email render functions with optional Zod validation
+2026-10-26T06:09:14.819Z,@keyseal/server,0.1.0,somus,Apache-2.0,86596,Fetch-API handlers for the KeySeal job protocol.
+2026-10-26T06:09:28.824Z,@keyseal/browser,0.1.0,somus,Apache-2.0,15462,Opens keyseal:// links and watches KeySeal jobs from the browser page.
+2026-10-26T06:09:57.995Z,@logto/hono,0.1.1,simeng_li,MIT,14395,[![Version](https://img.shields.io/npm/v/@logto/hono)](https://www.npmjs.com/package/@logto/hono) [![Build Status](https://github.com/logto-io/js/actions/workflows/main.yml/badge.svg)](https://github…
+2026-10-26T06:10:20.635Z,@sminfotech/comms-react,0.1.0,legpieze,MIT,121931,"React provider, hooks and components for the comms service: DM inbox and threads, ringing, and LiveKit audio/video calls."
+2026-10-26T06:10:35.83Z,czy-umi-components,0.0.1,czy962464,UNLICENSED,336207,统一工作台公共组件库：antd 组件二次封装（发布到私有 Nexus 源）
+2026-10-26T06:10:41.677Z,apexo-code-linux-x64-musl,1.0.0,clusteril1900,MIT,206697790,
+2026-10-26T06:11:52.064Z,whodunit,0.1.1,harshanajayasinghe,MIT,123755,Find which single change broke your test. Splits a diff into hunks and delta-debugs them against a failing test until it proves the culprit. CLI and MCP server.
+2026-10-26T06:12:45.316Z,apexo-code-linux-x64,1.0.0,clusteril1900,MIT,199485789,
+2026-10-26T06:13:07.88Z,apexo-code-windows-arm64,1.0.0,clusteril1900,MIT,179221843,
+2026-10-26T06:14:52.323Z,@nestim/koishi-plugin-qqgm-private,1.0.0,nestim,MIT,21496,Koishi 私聊插件（依附 @nestim/koishi-plugin-qq-group-manager）：私聊 AI 自动回复 + 定时主动私发，共用主插件的模型与风格钩子。
+2026-10-26T06:15:49.405Z,@myshic/savy-cli,1.0.0,myshic,MIT,52001,Savy Independent Broadband & Bufferbloat Speed Test CLI
+2026-10-26T06:17:27.242Z,auto-newrrow,1.0.0,dowan1220,GPL-3.0-only,109471,뉴로우(newrrow) 일일 계획·회고 자동화 CLI
+2026-10-26T06:19:05.87Z,pos-hardware-bridge,0.0.0-stage,thisaray,,341,Temporary package placeholder for staged publishing
+2026-10-26T06:19:26.966Z,dsh-versatileds-plugin,0.0.0-stage,gleaves230,,344,Temporary package placeholder for staged publishing
