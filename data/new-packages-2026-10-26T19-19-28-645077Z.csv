@@ -1,0 +1,578 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-26T18:14:27.508Z,@appneurox/account-service,0.1.0,ajayprajapat,Apache-2.0,20386,Account Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:14:32.931Z,@appneurox/account-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Account Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:14:38.085Z,@appneurox/accounting-service,0.1.0,ajayprajapat,Apache-2.0,20616,Accounting Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:14:46.705Z,@appneurox/accounting-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Accounting Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:14:50.651Z,@appneurox/action-service,0.1.0,ajayprajapat,Apache-2.0,20309,Action Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:14:55.735Z,@appneurox/action-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Action Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:15:00.698Z,@appneurox/activity-service,0.1.0,ajayprajapat,Apache-2.0,20462,Activity Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:15:07.336Z,@appneurox/activity-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Activity Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:15:12.577Z,@appneurox/address-service,0.1.0,ajayprajapat,Apache-2.0,20386,Address Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:15:17.316Z,@appneurox/address-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Address Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:15:22.771Z,@appneurox/admission-service,0.1.0,ajayprajapat,Apache-2.0,20539,Admission Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:15:27.613Z,@appneurox/admission-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Admission Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:15:32.616Z,@appneurox/agent-service,0.1.0,ajayprajapat,Apache-2.0,20228,Agent Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:15:37.546Z,@appneurox/agent-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Agent Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:15:41.647Z,@appneurox/aggregation-service,0.1.0,ajayprajapat,Apache-2.0,20693,Aggregation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:15:45.619Z,@appneurox/aggregation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Aggregation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:15:51.148Z,@appneurox/ai-service,0.1.0,ajayprajapat,Apache-2.0,19977,AI Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:15:58.402Z,@appneurox/ai-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3687,AI Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:16:03.711Z,@appneurox/alert-service,0.1.0,ajayprajapat,Apache-2.0,20228,Alert Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:16:07.274Z,@appneurox/alert-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Alert Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:16:07.893Z,@hopple/netlab,0.1.0,peoro,MIT,533193,"Hopple’s relay and room stack on a simulated network and clock, for testing a game’s online play headless."
+2026-10-26T18:16:12.289Z,@appneurox/analytics-service,0.1.0,ajayprajapat,Apache-2.0,20539,Analytics Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:16:17.888Z,@appneurox/analytics-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Analytics Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:16:22.988Z,@appneurox/api-key-service,0.1.0,ajayprajapat,Apache-2.0,20323,Api Key Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:16:27.01Z,@appneurox/api-key-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3785,Api Key Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:16:32.697Z,@appneurox/api-service,0.1.0,ajayprajapat,Apache-2.0,20074,API Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:16:36.791Z,@appneurox/api-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3708,API Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:16:41.712Z,@appneurox/appointment-service,0.1.0,ajayprajapat,Apache-2.0,20693,Appointment Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:16:47.937Z,@appneurox/appointment-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Appointment Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:16:52.451Z,@appneurox/approval-service,0.1.0,ajayprajapat,Apache-2.0,20462,Approval Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:16:59.111Z,@appneurox/approval-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Approval Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:17:03.261Z,@appneurox/archive-service,0.1.0,ajayprajapat,Apache-2.0,20386,Archive Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:17:07.311Z,@appneurox/archive-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Archive Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:17:11.442Z,@appneurox/artifact-service,0.1.0,ajayprajapat,Apache-2.0,20462,Artifact Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:17:14.983Z,@appneurox/artifact-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Artifact Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:17:19.421Z,@appneurox/assessment-service,0.1.0,ajayprajapat,Apache-2.0,20616,Assessment Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:17:23.784Z,@appneurox/assessment-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Assessment Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:17:28.298Z,@appneurox/asset-service,0.1.0,ajayprajapat,Apache-2.0,20228,Asset Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:17:32.5Z,@appneurox/asset-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Asset Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:17:36.665Z,@appneurox/attendance-service,0.1.0,ajayprajapat,Apache-2.0,20616,Attendance Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:17:40.828Z,@appneurox/attendance-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Attendance Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:17:46.115Z,@appneurox/attribution-service,0.1.0,ajayprajapat,Apache-2.0,20693,Attribution Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:17:51.983Z,@appneurox/attribution-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Attribution Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:17:56.764Z,@appneurox/audience-service,0.1.0,ajayprajapat,Apache-2.0,20462,Audience Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:18:00.978Z,@appneurox/audience-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Audience Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:18:04.97Z,@appneurox/audio-service,0.1.0,ajayprajapat,Apache-2.0,20228,Audio Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:18:09.229Z,@appneurox/audio-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Audio Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:18:13.662Z,@appneurox/audit-service,0.1.0,ajayprajapat,Apache-2.0,20228,Audit Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:18:18.224Z,@appneurox/audit-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Audit Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:18:20.591Z,@vdegenne/audio-player,0.1.2,vdegenne,,14468845,Small helper to load and play audio files in your app with the following features:
+2026-10-26T18:18:22.451Z,@appneurox/authentication-service,0.1.0,ajayprajapat,Apache-2.0,20924,Authentication Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:18:27.726Z,@appneurox/authentication-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3941,Authentication Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:18:32.028Z,@appneurox/authorization-service,0.1.0,ajayprajapat,Apache-2.0,20847,Authorization Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:18:35.678Z,@appneurox/authorization-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3920,Authorization Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:18:39.521Z,@appneurox/autocomplete-service,0.1.0,ajayprajapat,Apache-2.0,20770,Autocomplete Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:18:43.96Z,@appneurox/autocomplete-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3899,Autocomplete Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:18:48.47Z,@appneurox/automation-service,0.1.0,ajayprajapat,Apache-2.0,20616,Automation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:18:52.894Z,@appneurox/automation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Automation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:18:57.572Z,@appneurox/backup-service,0.1.0,ajayprajapat,Apache-2.0,20309,Backup Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:19:02.266Z,@appneurox/backup-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Backup Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:19:06.544Z,@appneurox/batch-service,0.1.0,ajayprajapat,Apache-2.0,20228,Batch Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:19:11.614Z,@appneurox/batch-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Batch Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:19:17.628Z,@appneurox/billing-service,0.1.0,ajayprajapat,Apache-2.0,20386,Billing Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:19:23.899Z,@appneurox/billing-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Billing Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:19:25.182Z,@xani/saca,0.0.1,xani,MIT,102386,"Descarregue vídeos do YouTube, X, Instagram, Threads e mais de 1800 sites no terminal. Cola o endereço. Saca o vídeo. Já está."
+2026-10-26T18:19:28.644Z,@appneurox/blob-service,0.1.0,ajayprajapat,Apache-2.0,20151,Blob Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:19:32.598Z,@appneurox/blob-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Blob Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:19:36.684Z,@appneurox/branch-service,0.1.0,ajayprajapat,Apache-2.0,20309,Branch Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:19:40.232Z,@appneurox/branch-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Branch Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:19:43.787Z,@appneurox/brand-service,0.1.0,ajayprajapat,Apache-2.0,20228,Brand Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:19:47.93Z,@appneurox/brand-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Brand Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:19:53.009Z,@appneurox/budget-service,0.1.0,ajayprajapat,Apache-2.0,20309,Budget Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:19:57.847Z,@appneurox/budget-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Budget Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:20:02.584Z,@appneurox/build-service,0.1.0,ajayprajapat,Apache-2.0,20228,Build Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:20:08.41Z,@appneurox/build-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Build Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:20:12.445Z,@appneurox/callback-service,0.1.0,ajayprajapat,Apache-2.0,20462,Callback Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:20:18.42Z,@appneurox/callback-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Callback Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:20:23.947Z,@appneurox/calling-service,0.1.0,ajayprajapat,Apache-2.0,20386,Calling Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:20:26.397Z,nexos-agents,1.0.0,socrates6969,Apache-2.0,29856,"Enterprise CLI for Nexos Agents Multi-Agent Framework, Swarms & MCP"
+2026-10-26T18:20:28.317Z,@appneurox/calling-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Calling Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:20:34.224Z,@appneurox/campaign-service,0.1.0,ajayprajapat,Apache-2.0,20462,Campaign Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:20:38.098Z,@appneurox/campaign-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Campaign Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:20:42.837Z,@appneurox/candidate-service,0.1.0,ajayprajapat,Apache-2.0,20539,Candidate Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:20:45.06Z,@geomelon/greece,1.0.0,hmchk,CC0-1.0,7169696,"Geomelon city/region/country data for Greece — 13260 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:20:47.685Z,@appneurox/candidate-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Candidate Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:20:51.386Z,@appneurox/cart-service,0.1.0,ajayprajapat,Apache-2.0,20151,Cart Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:20:55.319Z,@appneurox/cart-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Cart Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:20:59.58Z,@appneurox/case-service,0.1.0,ajayprajapat,Apache-2.0,20151,Case Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:21:06.373Z,@appneurox/case-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Case Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:21:08.287Z,dsh-workspace-optimize,0.1.1,akilonewbility,MIT,206243,工作区浏览器增强插件，通过左侧自定义的增强工作区视图对工作区文件夹和会话实现收藏、置顶、优先级、状态显示以及提醒等功能
+2026-10-26T18:21:12.165Z,@appneurox/catalog-service,0.1.0,ajayprajapat,Apache-2.0,20386,Catalog Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:21:17.136Z,@appneurox/catalog-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Catalog Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:21:19.361Z,@advatek-community-labs/node-red-pixlite-mk3,0.1.0-beta.13,james_walton_,MIT,146357,Community implementation of PixLite Mk3 SHOWTime playback control and device discovery for Node-RED.
+2026-10-26T18:21:22.516Z,@appneurox/cd-service,0.1.0,ajayprajapat,Apache-2.0,19977,CD Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:21:28.176Z,@appneurox/cd-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3687,CD Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:21:33.354Z,@appneurox/certification-service,0.1.0,ajayprajapat,Apache-2.0,20847,Certification Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:21:39.189Z,@appneurox/certification-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3920,Certification Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:21:40.955Z,@geomelon/hungary,1.0.0,hmchk,CC0-1.0,2904160,"Geomelon city/region/country data for Hungary — 3492 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:21:47.216Z,@appneurox/chat-service,0.1.0,ajayprajapat,Apache-2.0,20151,Chat Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:21:54.521Z,@appneurox/chat-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Chat Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:21:59.598Z,@appneurox/checkout-service,0.1.0,ajayprajapat,Apache-2.0,20462,Checkout Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:22:04.344Z,@appneurox/checkout-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Checkout Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:22:08.001Z,@appneurox/ci-service,0.1.0,ajayprajapat,Apache-2.0,19977,CI Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:22:15.387Z,@appneurox/ci-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3687,CI Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:22:21.207Z,@appneurox/clause-service,0.1.0,ajayprajapat,Apache-2.0,20309,Clause Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:22:26.083Z,@appneurox/clause-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Clause Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:22:30.116Z,@appneurox/cli-service,0.1.0,ajayprajapat,Apache-2.0,20074,CLI Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:22:34.141Z,@appneurox/cli-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3708,CLI Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:22:38.591Z,@appneurox/codegen-service,0.1.0,ajayprajapat,Apache-2.0,20386,Codegen Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:22:42.746Z,@appneurox/codegen-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Codegen Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:22:46.741Z,@appneurox/cohort-service,0.1.0,ajayprajapat,Apache-2.0,20309,Cohort Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:22:51.393Z,@appneurox/cohort-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Cohort Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:22:56.47Z,@appneurox/comment-service,0.1.0,ajayprajapat,Apache-2.0,20386,Comment Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:23:02.698Z,@appneurox/comment-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Comment Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:23:07.19Z,@appneurox/commerce-service,0.1.0,ajayprajapat,Apache-2.0,20462,Commerce Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:23:11.443Z,@appneurox/commerce-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Commerce Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:23:16.315Z,@appneurox/commission-service,0.1.0,ajayprajapat,Apache-2.0,20616,Commission Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:23:20.389Z,@appneurox/commission-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Commission Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:23:24.42Z,@appneurox/community-service,0.1.0,ajayprajapat,Apache-2.0,20539,Community Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:23:29.204Z,@appneurox/community-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Community Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:23:33.366Z,@appneurox/competitor-service,0.1.0,ajayprajapat,Apache-2.0,20616,Competitor Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:23:37.55Z,@jannik-stacks/agi,0.0.1,jannik-stacks,MIT,518768,"agentgraph runs coding agents on your repo's issues. The agents, checks and workflows are Markdown files in `.agentgraph/`. Agents work in Docker sandboxes without a GitHub token, the engine pushes o…"
+2026-10-26T18:23:37.829Z,@appneurox/competitor-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Competitor Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:23:42.755Z,@appneurox/compliance-service,0.1.0,ajayprajapat,Apache-2.0,20616,Compliance Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:23:47.002Z,@appneurox/compliance-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Compliance Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:23:50.794Z,metag-verify,0.1.0,jehiellopez17,MIT,421814,SDK de MetaG para verificación de identidad por foto selfie usando Angular 17.
+2026-10-26T18:23:51.274Z,@appneurox/config-service,0.1.0,ajayprajapat,Apache-2.0,20309,Config Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:23:55.628Z,@appneurox/config-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Config Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:24:00.559Z,@appneurox/connection-service,0.1.0,ajayprajapat,Apache-2.0,20616,Connection Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:24:06.487Z,@appneurox/connection-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Connection Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:24:12.126Z,@appneurox/connector-service,0.1.0,ajayprajapat,Apache-2.0,20539,Connector Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:24:17.101Z,@appneurox/connector-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Connector Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:24:17.493Z,@aparte/locales,0.27.0,paulrichez,MIT,159070,"The chat’s interface in nine languages for aparté — French, Spanish, Portuguese (Brazil), German, Italian, Russian, Japanese, Korean and Chinese (Simplified). Pass one to aparteGlobalConfig.setLocale…"
+2026-10-26T18:24:23.482Z,@aparte/runner-n8n,0.27.0,paulrichez,MIT,80861,"Put aparté on an n8n chat workflow — the Chat Trigger's agent runs in n8n, with its memory and its tools; aparté draws the chat, streamed or not."
+2026-10-26T18:24:23.815Z,@appneurox/consent-service,0.1.0,ajayprajapat,Apache-2.0,20386,Consent Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:24:30.035Z,@appneurox/consent-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Consent Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:24:35.017Z,@appneurox/contact-service,0.1.0,ajayprajapat,Apache-2.0,20386,Contact Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:24:39.757Z,@appneurox/contact-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Contact Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:24:45.539Z,@appneurox/content-service,0.1.0,ajayprajapat,Apache-2.0,20386,Content Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:24:50.84Z,@appneurox/content-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Content Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:24:58.421Z,@appneurox/contract-service,0.1.0,ajayprajapat,Apache-2.0,20462,Contract Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:25:04.777Z,@appneurox/contract-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Contract Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:25:09.406Z,@appneurox/control-service,0.1.0,ajayprajapat,Apache-2.0,20386,Control Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:25:13.741Z,@appneurox/control-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Control Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:25:18.818Z,@appneurox/counter-service,0.1.0,ajayprajapat,Apache-2.0,20386,Counter Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:25:24.614Z,@appneurox/counter-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Counter Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:25:25.24Z,@geomelon/iran,1.0.0,hmchk,CC0-1.0,25831571,"Geomelon city/region/country data for Iran — 50000 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:25:27.865Z,@notpixel/react-native-embedding-local,0.1.0,giovannicocco,MIT,36327,Optional NotPixel local inference for React Native
+2026-10-26T18:25:30.37Z,@appneurox/course-service,0.1.0,ajayprajapat,Apache-2.0,20309,Course Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:25:34.775Z,@appneurox/course-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Course Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:25:34.882Z,@davyjones0x/astack,0.2.0,davyjones0x,MIT,201990,"A standalone skill suite for context, creative craft, implementation, measurement and delivery."
+2026-10-26T18:25:37.685Z,@organizapp/site-kit,0.0.1,eleveit-team,SEE LICENSE IN LICENSE,2318,Kit de los sitios de la web pública de Organizapp.
+2026-10-26T18:25:39.248Z,controlresell-sdk,1.0.0,nathanfallet,Apache-2.0,288450,TypeScript SDK for the ControlResell public API.
+2026-10-26T18:25:39.882Z,@appneurox/coverage-service,0.1.0,ajayprajapat,Apache-2.0,20462,Coverage Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:25:45.787Z,@appneurox/coverage-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Coverage Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:25:48.23Z,@notpixel/embedding-local,0.1.0,giovannicocco,MIT,14729,Install alongside `notpixel` and import the client from `notpixel/local`. The model and precision are managed by NotPixel. Remote integrations do not need this package.
+2026-10-26T18:25:50.785Z,@appneurox/credit-service,0.1.0,ajayprajapat,Apache-2.0,20309,Credit Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:25:51.059Z,@serein-ui/fonts,0.1.0,deepakhp,OFL-1.1,283348,Self-hosted Serein fonts: Anek Latin (variable weight and width) and Chivo Mono. No third-party font CDN.
+2026-10-26T18:25:55.065Z,@serein-ui/format,0.1.0,deepakhp,MIT,12985,"Money and number formatting for Serein UIs: lakh/crore grouping, true minus sign, locale-aware."
+2026-10-26T18:25:55.479Z,@appneurox/credit-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Credit Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:26:00.197Z,@serein-ui/icons,0.1.0,deepakhp,MIT,94751,"Serein icon set: 20px grid, 1.5px stroke, square caps."
+2026-10-26T18:26:00.628Z,@appneurox/crm-service,0.1.0,ajayprajapat,Apache-2.0,20074,CRM Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:26:04.965Z,@serein-ui/tokens,0.1.0,deepakhp,MIT,51634,"Serein design tokens (DTCG 2025.10 source) as CSS variables, JS/TS, JSON, a Tailwind v4 theme, Swift and Kotlin."
+2026-10-26T18:26:08.987Z,@serein-ui/css,0.1.0,deepakhp,MIT,8171,"Serein base styles (reset, typography, focus, selection, reduced motion) and the theme-switching helper. Framework-neutral."
+2026-10-26T18:26:14.176Z,@serein-ui/react,0.1.0,deepakhp,MIT,839820,"React web component library with typed components, compiled CSS, accessibility guidance, and AI integration materials."
+2026-10-26T18:26:17.794Z,@jetcrab/pi-desk-todo,1.0.1,jetcrab,Apache-2.0,44799,In-memory progress tool and composer widget for Pi Desk
+2026-10-26T18:26:18.835Z,personified,1.0.0,amit_yadav,SEE LICENSE IN LICENSE.md,10610093,"315 free AI avatar photos with ready personas (name, country, age, gender, skin tone, mood, hair) for mockups, demo data and placeholders. Fully typed."
+2026-10-26T18:26:20.826Z,@appneurox/crm-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3708,CRM Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:26:25.642Z,@appneurox/cron-service,0.1.0,ajayprajapat,Apache-2.0,20151,Cron Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:26:30.786Z,@appneurox/cron-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Cron Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:26:35.494Z,@appneurox/currency-service,0.1.0,ajayprajapat,Apache-2.0,20462,Currency Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:26:39.537Z,@supporterino/ai-factory,0.2.0,supporterino,MIT,1377332,Repo-local AI software factory: OpenSpec + Graphify + opencode v2
+2026-10-26T18:26:42.029Z,@appneurox/currency-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Currency Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:26:51.406Z,@appneurox/customer-service,0.1.0,ajayprajapat,Apache-2.0,20462,Customer Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:26:57.756Z,@appneurox/customer-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Customer Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:27:02.339Z,@appneurox/dashboard-service,0.1.0,ajayprajapat,Apache-2.0,20539,Dashboard Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:27:06.153Z,@appneurox/dashboard-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Dashboard Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:27:10.181Z,@appneurox/data-service,0.1.0,ajayprajapat,Apache-2.0,20151,Data Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:27:15.008Z,@appneurox/data-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Data Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:27:22.234Z,@appneurox/database-service,0.1.0,ajayprajapat,Apache-2.0,20462,Database Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:27:27.553Z,@appneurox/database-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Database Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:27:32.716Z,@appneurox/dataset-service,0.1.0,ajayprajapat,Apache-2.0,20386,Dataset Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:27:35.762Z,oidc-caep-client,0.1.20261026184529,st5idjitz59nxhyo3bnzl1,MIT,206513,"In-browser OpenID Connect public client (PKCE, PAR, DPoP, RFC 9207) with token caching/auto-refresh and a Shared Signals (SSF) / CAEP event receiver"
+2026-10-26T18:27:37.197Z,@appneurox/dataset-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Dataset Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:27:43.63Z,@appneurox/deal-service,0.1.0,ajayprajapat,Apache-2.0,20151,Deal Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:27:48.845Z,@appneurox/deal-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Deal Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:27:50.199Z,@iest-tecnologia/auth,0.2.1,iest-tecnologia,MIT,80077,"Keycloak login (Authorization Code + PKCE) for IEST's Next.js apps: route handlers, page guards and the session-refreshing proxy."
+2026-10-26T18:27:54.903Z,@appneurox/defect-service,0.1.0,ajayprajapat,Apache-2.0,20309,Defect Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:28:01.461Z,@appneurox/defect-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Defect Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:28:05.405Z,@appneurox/dependency-service,0.1.0,ajayprajapat,Apache-2.0,20616,Dependency Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:28:09.862Z,@appneurox/dependency-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Dependency Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:28:11.486Z,@thejob/resume-render,1.0.0,nikx,UNLICENSED,4362028,"The resume renderer shared by thejob and the standalone resume builder: templates, pagination and HarfBuzz line breaking, identical in every browser and in the PDF."
+2026-10-26T18:28:13.123Z,@geomelon/ireland,1.0.0,hmchk,CC0-1.0,1105642,"Geomelon city/region/country data for Ireland — 1960 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:28:14.724Z,@appneurox/deployment-service,0.1.0,ajayprajapat,Apache-2.0,20616,Deployment Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:28:19.745Z,@appneurox/deployment-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Deployment Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:28:24.928Z,@appneurox/depreciation-service,0.1.0,ajayprajapat,Apache-2.0,20770,Depreciation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:28:29.6Z,@appneurox/depreciation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3899,Depreciation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:28:32.422Z,@grahmur-org/claspine-cli,0.31.0,grahmur,Apache-2.0,51184,"Claspine for AI coding agents and CI: `claspine doctor` checks a project's Claspine setup locally, `claspine init-agents` adds Claspine's rules and MCP server to Claude Code, Cursor, Copilot and Code…"
+2026-10-26T18:28:34.089Z,@appneurox/design-service,0.1.0,ajayprajapat,Apache-2.0,20309,Design Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:28:40.132Z,@appneurox/design-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Design Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:28:44.105Z,@appneurox/developer-service,0.1.0,ajayprajapat,Apache-2.0,20539,Developer Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:28:48.309Z,@appneurox/developer-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Developer Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:28:52.749Z,@appneurox/development-service,0.1.0,ajayprajapat,Apache-2.0,20693,Development Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:28:59.874Z,@codelaw/rules-css-fux-index,0.2.0,aarya11,MIT,164479,"A Fux index of codelaw's css rules, for fux_search. Optional; install beside codelaw-rules-css."
+2026-10-26T18:29:00.45Z,@appneurox/development-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Development Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:29:06.248Z,@codelaw/rules-css-modules-fux-index,0.2.0,aarya11,MIT,20419,"A Fux index of codelaw's css-modules rules, for fux_search. Optional; install beside codelaw-rules-css-modules."
+2026-10-26T18:29:07.439Z,@appneurox/devops-service,0.1.0,ajayprajapat,Apache-2.0,20309,DevOps Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:29:12.455Z,@codelaw/rules-data-fux-index,0.2.0,aarya11,MIT,111546,"A Fux index of codelaw's data rules, for fux_search. Optional; install beside codelaw-rules-data."
+2026-10-26T18:29:13.075Z,@appneurox/devops-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,DevOps Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:29:14.287Z,slicekit,0.0.1,ad1tya,MIT,406,Spec-driven agentic workflow kit for Claude Code. Name reserved; the first release is 0.1.0.
+2026-10-26T18:29:17.259Z,@codelaw/rules-html-fux-index,0.2.0,aarya11,MIT,148702,"A Fux index of codelaw's html rules, for fux_search. Optional; install beside codelaw-rules-html."
+2026-10-26T18:29:17.675Z,@appneurox/dispatch-service,0.1.0,ajayprajapat,Apache-2.0,20462,Dispatch Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:29:22.643Z,@codelaw/rules-js-fux-index,0.2.0,aarya11,MIT,165462,"A Fux index of codelaw's js rules, for fux_search. Optional; install beside codelaw-rules-js."
+2026-10-26T18:29:23.408Z,@appneurox/dispatch-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Dispatch Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:29:27.029Z,@codelaw/rules-node-fux-index,0.2.0,aarya11,MIT,28432,"A Fux index of codelaw's node rules, for fux_search. Optional; install beside codelaw-rules-node."
+2026-10-26T18:29:28.563Z,@appneurox/dispute-service,0.1.0,ajayprajapat,Apache-2.0,20386,Dispute Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:29:31.811Z,@codelaw/rules-react-fux-index,0.2.0,aarya11,MIT,82643,"A Fux index of codelaw's react rules, for fux_search. Optional; install beside codelaw-rules-react."
+2026-10-26T18:29:34.309Z,@appneurox/dispute-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Dispute Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:29:35.488Z,@codelaw/rules-redux-toolkit-fux-index,0.2.0,aarya11,MIT,35287,"A Fux index of codelaw's redux-toolkit rules, for fux_search. Optional; install beside codelaw-rules-redux-toolkit."
+2026-10-26T18:29:38.778Z,@appneurox/dns-service,0.1.0,ajayprajapat,Apache-2.0,20074,DNS Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:29:40.92Z,@codelaw/rules-scss-fux-index,0.2.0,aarya11,MIT,51278,"A Fux index of codelaw's scss rules, for fux_search. Optional; install beside codelaw-rules-scss."
+2026-10-26T18:29:43.307Z,@appneurox/dns-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3708,DNS Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:29:44.273Z,@codelaw/rules-security-html-fux-index,0.2.0,aarya11,MIT,65032,"A Fux index of codelaw's security-html rules, for fux_search. Optional; install beside codelaw-rules-security-html."
+2026-10-26T18:29:47.127Z,@appneurox/document-service,0.1.0,ajayprajapat,Apache-2.0,20462,Document Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:29:49.234Z,@codelaw/rules-security-js-fux-index,0.2.0,aarya11,MIT,289972,"A Fux index of codelaw's security-js rules, for fux_search. Optional; install beside codelaw-rules-security-js."
+2026-10-26T18:29:51.322Z,@appneurox/document-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Document Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:29:53.213Z,borrowdale,0.0.1,ff9900,MIT,569,"BorrowdaleJS - hand-drawn charts, components and text for the web. In development."
+2026-10-26T18:29:55.254Z,@codelaw/rules-security-ts-fux-index,0.2.0,aarya11,MIT,70817,"A Fux index of codelaw's security-ts rules, for fux_search. Optional; install beside codelaw-rules-security-ts."
+2026-10-26T18:29:56.789Z,@appneurox/domain-service,0.1.0,ajayprajapat,Apache-2.0,20309,Domain Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:29:58.705Z,@codelaw/rules-stencil-fux-index,0.2.0,aarya11,MIT,34898,"A Fux index of codelaw's stencil rules, for fux_search. Optional; install beside codelaw-rules-stencil."
+2026-10-26T18:30:01.305Z,@appneurox/domain-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Domain Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:30:03.396Z,@codelaw/rules-tanstack-query-fux-index,0.2.0,aarya11,MIT,42663,"A Fux index of codelaw's tanstack-query rules, for fux_search. Optional; install beside codelaw-rules-tanstack-query."
+2026-10-26T18:30:06.8Z,@appneurox/donation-service,0.1.0,ajayprajapat,Apache-2.0,20462,Donation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:30:08.537Z,@codelaw/rules-ts-fux-index,0.2.0,aarya11,MIT,38379,"A Fux index of codelaw's ts rules, for fux_search. Optional; install beside codelaw-rules-ts."
+2026-10-26T18:30:20.494Z,@geomelon/israel,1.0.0,hmchk,CC0-1.0,878529,"Geomelon city/region/country data for Israel — 1384 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:30:29.026Z,@mboucher/ffe-cli,0.1.0,mboucher-adobe,MIT,67884,An extensible CLI for Adobe Firefly Services
+2026-10-26T18:30:31.533Z,@appneurox/donation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Donation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:30:40.453Z,@geomelon/japan,1.0.0,hmchk,CC0-1.0,3387810,"Geomelon city/region/country data for Japan — 4829 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:30:42.812Z,@appneurox/dunning-service,0.1.0,ajayprajapat,Apache-2.0,20386,Dunning Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:30:48.161Z,@appneurox/dunning-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Dunning Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:30:54.253Z,cius-pt,0.1.0,lobuspt,MIT,1681885,"Validate Portuguese public-sector e-invoices (CIUS-PT 2.1.1, UBL 2.1) locally and in CI. Validação de faturas eletrónicas CIUS-PT."
+2026-10-26T18:30:54.641Z,@appneurox/email-service,0.1.0,ajayprajapat,Apache-2.0,20228,Email Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:31:00.908Z,@appneurox/email-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Email Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:31:06.064Z,@appneurox/embedding-service,0.1.0,ajayprajapat,Apache-2.0,20539,Embedding Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:31:11.616Z,@appneurox/embedding-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Embedding Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:31:16.177Z,@appneurox/employee-service,0.1.0,ajayprajapat,Apache-2.0,20462,Employee Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:31:20.968Z,@appneurox/employee-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Employee Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:31:23.741Z,siteproof-seo,1.0.1,techsfc,UNLICENSED,94067,SEO and GEO scores for a website page
+2026-10-26T18:31:24.952Z,@appneurox/employment-offer-service,0.1.0,ajayprajapat,Apache-2.0,21015,Employment Offer Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:31:29.223Z,@appneurox/employment-offer-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3974,Employment Offer Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:31:35.853Z,@appneurox/enrollment-service,0.1.0,ajayprajapat,Apache-2.0,20616,Enrollment Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:31:36.25Z,dsh-openrouter-plus,0.1.1,gnanesh,MIT,1069783,"OpenRouter routing presets for DeepSeek Harness — a loopback relay that applies a preset (service_tier, provider.sort or the :floor model variant) to each Session at request time, a live status API,…"
+2026-10-26T18:31:40.691Z,@appneurox/enrollment-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Enrollment Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:31:47.167Z,@appneurox/entitlement-service,0.1.0,ajayprajapat,Apache-2.0,20693,Entitlement Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:31:52.465Z,@appneurox/entitlement-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Entitlement Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:31:57.384Z,@appneurox/environment-service,0.1.0,ajayprajapat,Apache-2.0,20693,Environment Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:32:03.559Z,@appneurox/environment-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Environment Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:32:09.191Z,@appneurox/escalation-service,0.1.0,ajayprajapat,Apache-2.0,20616,Escalation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:32:13.806Z,ap-ds-storybook,1.0.0,andrewjypark,ISC,4681370,"This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run: ```bash style-dictionary…"
+2026-10-26T18:32:14.57Z,@appneurox/escalation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Escalation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:32:22.115Z,@appneurox/evaluation-service,0.1.0,ajayprajapat,Apache-2.0,20616,Evaluation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:32:28.586Z,@appneurox/evaluation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Evaluation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:32:31.999Z,tabularium-mcp,0.1.1,n3gtvz3r0,MIT,22924,"MCP server for Tabularium: a paid, persistent, hash-chained workspace for AI agents, paid per call over x402 (USDC)."
+2026-10-26T18:32:34.447Z,@appneurox/event-service,0.1.0,ajayprajapat,Apache-2.0,20228,Event Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:32:44.847Z,@appneurox/event-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Event Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:32:51.064Z,@appneurox/evidence-service,0.1.0,ajayprajapat,Apache-2.0,20462,Evidence Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:32:57.651Z,@appneurox/evidence-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Evidence Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:33:07.59Z,@appneurox/expense-service,0.1.0,ajayprajapat,Apache-2.0,20386,Expense Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:33:15.217Z,@appneurox/expense-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Expense Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:33:22.286Z,pr-report-core,0.0.4,pikohideaki,Apache-2.0,466995,"What a GitHub merge queue driven by labels and `Merge-After:` trailers decides about the open pull requests — verdicts, merge order, stacks, owners — with no I/O, shared by the GitHub Pull Requests M…"
+2026-10-26T18:33:25.939Z,@appneurox/experimentation-service,0.1.0,ajayprajapat,Apache-2.0,21001,Experimentation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:33:35.341Z,@appneurox/experimentation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3962,Experimentation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:33:46.437Z,@appneurox/export-service,0.1.0,ajayprajapat,Apache-2.0,20309,Export Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:33:54.643Z,@appneurox/export-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Export Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:34:00.256Z,dsh-pixel-team,0.3.0-rc.2,eternalnight,MIT,4138896,DSH Pixel Team：DeepSeek Harness 的像素洞府多智能体团队协作与交付流水线（AgentTeams 衍生，MIT）。
+2026-10-26T18:34:12.73Z,@appneurox/featureflag-service,0.1.0,ajayprajapat,Apache-2.0,20693,Featureflag Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:34:24.608Z,@appneurox/featureflag-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Featureflag Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:34:27.35Z,@streetsidesoftware/test-each,0.0.1-alpha.0,jason-dent,MIT,10069,"Table-driven tests for node:test, written as vitest-style tagged-template tables."
+2026-10-26T18:34:41.878Z,@appneurox/file-service,0.1.0,ajayprajapat,Apache-2.0,20151,File Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:34:54.46Z,@appneurox/file-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,File Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:34:58.294Z,clarook,0.1.4,hirovel,MIT,1336978,A terminal coding agent with inspectable requests and configurable tools and context.
+2026-10-26T18:35:01.722Z,@appneurox/filter-service,0.1.0,ajayprajapat,Apache-2.0,20309,Filter Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:35:16.009Z,@appneurox/filter-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Filter Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:35:36.936Z,@appneurox/finance-service,0.1.0,ajayprajapat,Apache-2.0,20386,Finance Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:35:50.583Z,@appneurox/finance-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Finance Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:35:57.086Z,keepstacks,0.1.0,cococool13,UNLICENSED,20939,"Your Stacks library in the files your coding agents read: AGENTS.md, CLAUDE.md and Cursor rules, with citations."
+2026-10-26T18:36:01.65Z,@appneurox/fleet-service,0.1.0,ajayprajapat,Apache-2.0,20228,Fleet Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:36:17.522Z,@appneurox/fleet-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Fleet Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:36:37.453Z,@appneurox/forecast-service,0.1.0,ajayprajapat,Apache-2.0,20462,Forecast Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:36:39.02Z,bibtex-reference-manager-mcp,0.1.0,anonymousonyx22,MIT,52074,"BibTeX reference manager MCP server for AI apps. Ask your AI to parse, clean, convert, dedupe, lint and format BibTeX, RIS and CSL JSON reference lists, and to make consistent cite keys. Works offlin…"
+2026-10-26T18:36:49.063Z,@appneurox/forecast-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Forecast Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:36:52.785Z,dsh-cursor-provider,0.0.1,kaczev,,82440,Cursor SDK model provider for DSH; host-owned tools and explicit attribution exception.
+2026-10-26T18:37:04.924Z,@geomelon/kenya,1.0.0,hmchk,CC0-1.0,775980,"Geomelon city/region/country data for Kenya — 1661 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:37:22.972Z,@appneurox/form-service,0.1.0,ajayprajapat,Apache-2.0,20151,Form Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:37:34.683Z,@appneurox/form-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Form Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:37:41.332Z,@appneurox/fraud-service,0.1.0,ajayprajapat,Apache-2.0,20228,Fraud Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:37:50.765Z,dw-sdlc,0.1.0,dominikwozniak,MIT,181203,"The Gate and the agentic config of a repository: the dw-sdlc bin with the Gate, the setup, the doctor, the config check, and the Sync and setup of References; the resolver of the config's layers, its…"
+2026-10-26T18:38:00.388Z,poolhog,0.1.0,harsh-vaghela-404,MIT,19259,"A connection-pool leak detector for Node.js, starting with Postgres (pg)."
+2026-10-26T18:38:08.966Z,@geomelon/luxembourg,1.0.0,hmchk,CC0-1.0,340760,"Geomelon city/region/country data for Luxembourg — 564 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:38:09.938Z,@appneurox/fraud-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Fraud Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:38:21.188Z,@appneurox/fulfillment-service,0.1.0,ajayprajapat,Apache-2.0,20693,Fulfillment Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:38:32.332Z,@appneurox/fulfillment-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Fulfillment Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:38:37.026Z,@appneurox/gateway-service,0.1.0,ajayprajapat,Apache-2.0,20386,Gateway Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:38:46.662Z,@appneurox/gateway-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Gateway Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:38:59.4Z,@geomelon/madagascar,1.0.0,hmchk,CC0-1.0,1080677,"Geomelon city/region/country data for Madagascar — 1790 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:39:00.57Z,@appneurox/governance-service,0.1.0,ajayprajapat,Apache-2.0,20616,Governance Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:39:13.261Z,@appneurox/governance-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Governance Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:39:23.545Z,@appneurox/group-service,0.1.0,ajayprajapat,Apache-2.0,20228,Group Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:39:32.491Z,venuekit,0.10.1,juancruzfl96,MIT,855225,"VenueKit: editor y mapa de butacas. `venuekit` es el núcleo (sin DOM, para el servidor); `venuekit/react` trae <VenueDesigner /> y <SeatMap />."
+2026-10-26T18:39:37.374Z,@appneurox/group-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Group Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:39:37.753Z,foldkit-form-recipes,0.1.0,doeixd,MIT,162758,"Field recipes for foldkit-form: dates, times, amounts, text-shaped keys and an uploaded image, each a control, a display and a renderer."
+2026-10-26T18:39:47.337Z,mcp-exemplo-br,1.0.0,alexsans_,MIT,10871,"Servidor MCP de exemplo (calculadora, CEP, data/hora) para usar em qualquer LLM"
+2026-10-26T18:39:53.024Z,@thejob/resume-client,1.0.0,nikx,UNLICENSED,14914,Typed TypeScript/JavaScript client for the thejob-resume-service HTTP API.
+2026-10-26T18:40:15.959Z,@appneurox/guardrail-service,0.1.0,ajayprajapat,Apache-2.0,20539,Guardrail Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:40:40.307Z,@appneurox/guardrail-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Guardrail Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:41:08.53Z,@appneurox/health-service,0.1.0,ajayprajapat,Apache-2.0,20309,Health Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:41:45.239Z,@appneurox/health-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Health Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:41:58.812Z,@joinearlybird/annotate-react-native,0.1.0,tryearlybird,MIT,3335594,"In-app annotation overlay for React Native (Expo) apps: tap an element, describe the change, and send it to an AI coding agent."
+2026-10-26T18:42:01.51Z,@appneurox/helpdesk-service,0.1.0,ajayprajapat,Apache-2.0,20462,Helpdesk Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:42:38.204Z,@appneurox/helpdesk-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Helpdesk Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:42:50.703Z,@appneurox/idea-service,0.1.0,ajayprajapat,Apache-2.0,20151,Idea Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:43:01.058Z,@appneurox/idea-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Idea Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:43:08.744Z,ludic-canvas,0.2.0,vqueiroz,MIT,1601489,"React interfaces for browser games, powered by Yoga WebAssembly and WebGL."
+2026-10-26T18:43:13.397Z,@appneurox/identity-service,0.1.0,ajayprajapat,Apache-2.0,20462,Identity Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:43:30.683Z,@quickservicets/core,0.1.0,ricardorauber,MIT,1188133,"The QuickService.ts runtime: build typed, validated and documented REST APIs on Bun from TypeScript entity types."
+2026-10-26T18:43:31.765Z,@appneurox/identity-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Identity Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:43:52.831Z,@appneurox/image-service,0.1.0,ajayprajapat,Apache-2.0,20228,Image Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:44:13.536Z,@appneurox/image-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Image Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:44:23.322Z,@quickservicets/cli,0.1.0,ricardorauber,MIT,369255,"The quickservicets command: create, build, run and migrate QuickService.ts projects."
+2026-10-26T18:44:23.792Z,lockwire-framework,0.0.0,dlockwire,Apache-2.0,509,Reserved for the LockWire framework (https://lockwire.org); the package is published from the framework's release.
+2026-10-26T18:44:41.657Z,@manojahire/tiny-text-utils,1.0.0,manojahire,ISC,852,Tiny helpers for working with text.
+2026-10-26T18:44:44.6Z,quickservicets,0.1.0,ricardorauber,MIT,2879,"Run the QuickService.ts CLI with bunx quickservicets: create, build, run and migrate REST APIs on Bun from TypeScript entity types."
+2026-10-26T18:44:49.316Z,@appneurox/import-service,0.1.0,ajayprajapat,Apache-2.0,20309,Import Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:44:56.602Z,@sparkstudio/roomrelay-api,0.1.1859,coreystj,,59021,Generated during Debug builds. See the parent TypeScript README for usage.
+2026-10-26T18:45:07.806Z,lockwire-framework-fips,0.0.0,dlockwire,Apache-2.0,514,Reserved for the LockWire framework (https://lockwire.org); the package is published from the framework's release.
+2026-10-26T18:45:14.734Z,@sparkstudio/roomrelay-websocket,0.1.1859,coreystj,,8875,Generated during Debug builds. See the parent TypeScript README for usage.
+2026-10-26T18:45:20.429Z,@appneurox/import-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Import Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:45:31.621Z,@sparkstudio/roomrelay-client,0.1.1859,coreystj,,3687,Generated during Debug builds. See the parent TypeScript README for usage.
+2026-10-26T18:45:39.397Z,@appneurox/incident-service,0.1.0,ajayprajapat,Apache-2.0,20462,Incident Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:45:57.84Z,@appneurox/incident-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Incident Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:46:13.624Z,@appneurox/indexing-service,0.1.0,ajayprajapat,Apache-2.0,20462,Indexing Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:46:29.111Z,school-printer-dist,1.7.0,mahanhg88,SEE LICENSE IN README.md,2245940,School Printer installer files (https://print.mahanmirzaee.com) - not a library
+2026-10-26T18:46:34.463Z,@appneurox/indexing-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Indexing Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:46:46.45Z,@mohabbat/wexi,0.1.0,mohabbat,MIT,796150,"A drop-in assistant for any website: a small draggable face that docks on the page edge, finds and points at things, explains them and acts for visitors (asking first). Works with no AI, or with your…"
+2026-10-26T18:46:47.013Z,@appneurox/inference-service,0.1.0,ajayprajapat,Apache-2.0,20539,Inference Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:46:58.694Z,@appneurox/inference-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Inference Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:47:09.241Z,@appneurox/insight-service,0.1.0,ajayprajapat,Apache-2.0,20386,Insight Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:47:21.003Z,@appneurox/insight-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Insight Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:47:36.868Z,@appneurox/integration-service,0.1.0,ajayprajapat,Apache-2.0,20693,Integration Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:47:43.444Z,@openagentsy/core,0.1.1,dsieradski,GPL-3.0-or-later,290430,"The OpenAgentsy role schema, the permission map, and the board."
+2026-10-26T18:47:45.722Z,@appneurox/integration-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Integration Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:47:54.69Z,@appneurox/interaction-service,0.1.0,ajayprajapat,Apache-2.0,20693,Interaction Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:47:55.935Z,@openagentsy/models,0.1.1,dsieradski,GPL-3.0-or-later,217308,The OpenAgentsy model selector: it picks a model per role from the evidence.
+2026-10-26T18:48:06.666Z,@openagentsy/mcp,0.1.1,dsieradski,GPL-3.0-or-later,107354,"The OpenAgentsy board: records, leases, budgets and audit, over MCP."
+2026-10-26T18:48:10.559Z,@appneurox/interaction-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Interaction Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:48:11.877Z,unmerged,0.0.1,cgaswin,AGPL-3.0-only,744,Practice AI-assisted coding interviews on real open-source PRs. (Early placeholder; first release coming soon.)
+2026-10-26T18:48:18.399Z,@appneurox/interview-service,0.1.0,ajayprajapat,Apache-2.0,20539,Interview Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:48:26.127Z,@appneurox/interview-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Interview Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:48:33.536Z,openagentsy,0.1.1,dsieradski,GPL-3.0-or-later,1314173,"The hub and spoke agent system for OpenCode: one Lead, many specialists, one writer per file."
+2026-10-26T18:48:46.969Z,@appneurox/inventory-reservation-service,0.1.0,ajayprajapat,Apache-2.0,21400,Inventory Reservation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:48:53.216Z,dsh-apiway-plugin,0.1.0,probation94346,MIT,48861,"Sign in to APIWay, inspect subscriptions and connect a group in DeepSeek Harness."
+2026-10-26T18:48:58.229Z,@appneurox/inventory-reservation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,4079,Inventory Reservation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:49:04.473Z,@geomelon/malaysia,1.0.0,hmchk,CC0-1.0,808267,"Geomelon city/region/country data for Malaysia — 1583 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:49:12.703Z,@appneurox/inventory-service,0.1.0,ajayprajapat,Apache-2.0,20539,Inventory Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:49:20.949Z,@appneurox/inventory-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Inventory Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:49:27.401Z,@appneurox/invitation-service,0.1.0,ajayprajapat,Apache-2.0,20616,Invitation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:49:34.78Z,@appneurox/invitation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Invitation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:49:42.322Z,@appneurox/invoice-service,0.1.0,ajayprajapat,Apache-2.0,20386,Invoice Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:49:51.871Z,@appneurox/invoice-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Invoice Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:49:57.588Z,@appneurox/item-service,0.1.0,ajayprajapat,Apache-2.0,20151,Item Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:49:58.574Z,@geomelon/morocco,1.0.0,hmchk,CC0-1.0,14597646,"Geomelon city/region/country data for Morocco — 32554 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:50:04.759Z,@appneurox/item-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Item Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:50:12.614Z,@appneurox/job-application-service,0.1.0,ajayprajapat,Apache-2.0,20938,Job Application Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:50:12.673Z,@goodfellow-cms/bitbucket,0.5.0,chartung,MIT,92675,"Edit a Goodfellow site stored on Bitbucket, straight from the browser."
+2026-10-26T18:50:16.31Z,@geomelon/netherlands,1.0.0,hmchk,CC0-1.0,4161103,"Geomelon city/region/country data for Netherlands — 7566 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:50:19.513Z,@appneurox/job-application-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3953,Job Application Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:50:24.784Z,@appneurox/job-posting-service,0.1.0,ajayprajapat,Apache-2.0,20630,Job Posting Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:50:31.803Z,@appneurox/job-posting-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3869,Job Posting Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:50:33.799Z,csvflow-validate,0.0.0-stage,f0x_mulder,,338,Temporary package placeholder for staged publishing
+2026-10-26T18:50:41.449Z,@appneurox/job-service,0.1.0,ajayprajapat,Apache-2.0,20074,Job Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:51:05.496Z,@appneurox/job-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3708,Job Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:51:14.045Z,majapi-browser,0.2.0,italodeandra,MIT,41079,Harness-independent Chrome automation with visible AI tab groups
+2026-10-26T18:51:17.188Z,@appneurox/journal-service,0.1.0,ajayprajapat,Apache-2.0,20386,Journal Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:51:37.474Z,@appneurox/journal-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Journal Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:51:47.885Z,@appneurox/journey-service,0.1.0,ajayprajapat,Apache-2.0,20386,Journey Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:51:57.558Z,@appneurox/journey-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Journey Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:52:18.21Z,@appneurox/knowledge-service,0.1.0,ajayprajapat,Apache-2.0,20539,Knowledge Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:52:23.884Z,@appneurox/knowledge-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Knowledge Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:52:29.845Z,@appneurox/kpi-service,0.1.0,ajayprajapat,Apache-2.0,20074,KPI Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:52:48.837Z,@appneurox/kpi-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3708,KPI Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:52:54.93Z,datafusion-vtab,0.1.0,rockwotj,Apache-2.0,20625712,"Apache DataFusion compiled to WebAssembly, with async JavaScript virtual tables"
+2026-10-26T18:52:56.902Z,@appneurox/lead-service,0.1.0,ajayprajapat,Apache-2.0,20151,Lead Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:53:15.559Z,@appneurox/lead-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Lead Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:53:26.649Z,integration-tour,1.0.0,integrationtour,SEE LICENSE IN LICENSE.md,3548782,"Renders integration videos of your API or MCP server from its OpenAPI spec or tools, in your own build, so they stay in step with it."
+2026-10-26T18:53:30.196Z,@appneurox/learning-service,0.1.0,ajayprajapat,Apache-2.0,20462,Learning Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:53:44.898Z,@appneurox/learning-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Learning Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:53:53.928Z,@headroomd/policy,1.0.0,apertur3,MIT,22066,"Pure quota pacing and spending decisions, shared with headroomd. No dependencies, I/O, or implicit clock reads: callers supply readings and the current time. Requires Node >=20."
+2026-10-26T18:53:53.993Z,@appneurox/lease-service,0.1.0,ajayprajapat,Apache-2.0,20228,Lease Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:54:01.864Z,@appneurox/lease-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Lease Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:54:02.403Z,dsh-session-dm,0.2.0,venshell,GPL-3.0,64827,Cross-session tools for DeepSeek Harness: let one agent Session message another (session_dm_send) or start a fresh top-level Session in the same workspace (session_create)
+2026-10-26T18:54:11.305Z,@appneurox/leave-service,0.1.0,ajayprajapat,Apache-2.0,20228,Leave Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:54:29.572Z,@appneurox/leave-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Leave Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:54:36.916Z,@appneurox/ledger-service,0.1.0,ajayprajapat,Apache-2.0,20309,Ledger Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:54:45.026Z,@appneurox/ledger-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Ledger Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:54:55.91Z,@appneurox/legal-service,0.1.0,ajayprajapat,Apache-2.0,20228,Legal Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:55:11.726Z,@appneurox/legal-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Legal Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:55:27.699Z,@appneurox/limit-service,0.1.0,ajayprajapat,Apache-2.0,20228,Limit Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:55:32.001Z,barebox,0.1.0,hamr0,Apache-2.0,109683,"Lightweight local sandbox for AI agents: every write undoable, nothing leaves the machine without passing the doorman."
+2026-10-26T18:55:37.199Z,@appneurox/limit-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Limit Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:55:43.631Z,@appneurox/lineage-service,0.1.0,ajayprajapat,Apache-2.0,20386,Lineage Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:56:06.937Z,fast-index,1.0.0,syno.tsx,MIT,3692,Simple HTTP server with SPA routing support
+2026-10-26T18:56:14.206Z,@appneurox/lineage-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Lineage Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:56:26.321Z,@appneurox/live-session-service,0.1.0,ajayprajapat,Apache-2.0,20707,Live Session Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:56:49.911Z,@appneurox/live-session-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3890,Live Session Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:56:57.266Z,@appneurox/localization-service,0.1.0,ajayprajapat,Apache-2.0,20770,Localization Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:57:01.886Z,@appneurox/localization-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3899,Localization Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:57:03.348Z,@geomelon/new-zealand,1.0.0,hmchk,CC0-1.0,2368521,"Geomelon city/region/country data for New Zealand — 4858 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:57:15.731Z,@appneurox/location-service,0.1.0,ajayprajapat,Apache-2.0,20462,Location Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:57:24.525Z,@geomelon/nicaragua,1.0.0,hmchk,CC0-1.0,1899240,"Geomelon city/region/country data for Nicaragua — 3377 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:57:30.027Z,@appneurox/location-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Location Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:57:39.011Z,@appneurox/logging-service,0.1.0,ajayprajapat,Apache-2.0,20386,Logging Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:57:41.109Z,@verifux/cli,1.0.0,kishanrama,MIT,7862,Run a free Verifux UX & AI-readiness snapshot from the terminal. Zero dependencies.
+2026-10-26T18:57:45.343Z,ctf-agent,0.1.0,nvtruongops,MIT,2855015,Scoped CTF MCP tools for authorized challenges and labs
+2026-10-26T18:57:45.67Z,@appneurox/logging-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Logging Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:57:49.304Z,@modulato/gpu,0.1.0,glauberxyz,MIT,108996,"GPU passes for Modulato: WGSL on WebGPU, GLSL on WebGL2, hot-swapped shaders and uniforms driven by tokens."
+2026-10-26T18:57:57.634Z,@appneurox/loyalty-service,0.1.0,ajayprajapat,Apache-2.0,20386,Loyalty Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:57:57.879Z,@verifux/mcp,1.0.0,kishanrama,MIT,8758,Zero-dependency MCP server: run a free Verifux UX & AI-readiness snapshot from any MCP client.
+2026-10-26T18:58:20.704Z,@geomelon/nigeria,1.0.0,hmchk,CC0-1.0,2485722,"Geomelon city/region/country data for Nigeria — 5415 cities, multilingual names, sourced from Wikidata."
+2026-10-26T18:58:28.807Z,anosys-sdk-codex,0.1.0,anosys-ai,Apache-2.0,51658,AnoSys observability hook for OpenAI Codex CLI — automatic instrumentation and logging for Codex sessions
+2026-10-26T18:58:32.205Z,@appneurox/loyalty-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Loyalty Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:58:53.382Z,@appneurox/maintenance-service,0.1.0,ajayprajapat,Apache-2.0,20693,Maintenance Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:59:10.249Z,@appneurox/maintenance-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Maintenance Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:59:19.382Z,@andreww2012/commitlint-config,0.0.1,andreww2012,MIT,25706,@andreww2012's configurable commitlint config
+2026-10-26T18:59:21.51Z,@appneurox/manufacturing-service,0.1.0,ajayprajapat,Apache-2.0,20847,Manufacturing Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:59:23.012Z,@pixelmatters/toolbar,1.0.0,pixelmatters-dev,MIT,249216,"One floating dev toolbar that hosts Pixelmatters' tools as plugins: a framework-free custom element with a plugin registry, one mode at a time and a command menu."
+2026-10-26T18:59:28.924Z,@appneurox/manufacturing-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3920,Manufacturing Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:59:34.585Z,@appneurox/mapping-service,0.1.0,ajayprajapat,Apache-2.0,20386,Mapping Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:59:38.97Z,@georgej1144/house-style,1.0.0,georgej1144,MIT,266115,"Alpine and Shell stylesheets: shared tokens, cascade layers and an SPA component set."
+2026-10-26T18:59:39.829Z,@appneurox/mapping-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Mapping Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T18:59:41.657Z,@particledb/sdk,0.2.0,nohup23,MIT,612745,Official TypeScript/Node.js SDK for ParticleDB
+2026-10-26T18:59:50.756Z,@appneurox/marketing-service,0.1.0,ajayprajapat,Apache-2.0,20539,Marketing Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T18:59:57.989Z,@gitmyabi/garbagef,1.0.0,gitmyabi-bot,MIT,135837,"Auto-generated TypeScript type bindings for GARBAGEF (build etherscan-garbagef-ef371a11-1793041170445, commit 733762b, branch etherscan)"
+2026-10-26T19:00:15.577Z,@appneurox/marketing-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Marketing Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:00:41.122Z,@appneurox/media-service,0.1.0,ajayprajapat,Apache-2.0,20228,Media Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:00:52.687Z,@appneurox/media-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Media Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:01:03.763Z,@appneurox/member-service,0.1.0,ajayprajapat,Apache-2.0,20309,Member Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:01:13.709Z,@appneurox/member-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Member Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:01:25.468Z,wobbli,1.0.1,hendrikkleine,MIT,2109912,"Wobbli: an avatar that acts out what your AI agent is doing. 39 states, 191 ways to act them, 74 holidays. React, web component and plain JS. Built on Blobatar."
+2026-10-26T19:01:26.546Z,@appneurox/memory-service,0.1.0,ajayprajapat,Apache-2.0,20309,Memory Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:01:35.83Z,@appneurox/memory-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Memory Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:01:44.547Z,@appneurox/mentorship-service,0.1.0,ajayprajapat,Apache-2.0,20616,Mentorship Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:01:50.643Z,@appneurox/mentorship-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Mentorship Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:01:57.112Z,@appneurox/messaging-service,0.1.0,ajayprajapat,Apache-2.0,20539,Messaging Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:01:57.898Z,@dierkens.dev/ptcgl-battle-log-state,0.0.0,cjdierkens,MIT,157804,"Reconstruct Pokémon TCG Live board state from a battle log. Zero runtime dependencies beyond the parser; divergence is a value, not a guess."
+2026-10-26T19:02:03.086Z,@appneurox/messaging-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Messaging Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:02:03.395Z,@dororo/craft-pi,1.0.0,dororo,,12079,Zero-install Gemini AI assistant CLI tool for PHP CRUD projects
+2026-10-26T19:02:10.435Z,@appneurox/metadata-service,0.1.0,ajayprajapat,Apache-2.0,20462,Metadata Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:02:19.94Z,@appneurox/metadata-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Metadata Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:02:33.686Z,@appneurox/metering-service,0.1.0,ajayprajapat,Apache-2.0,20462,Metering Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:02:44.391Z,@appneurox/metering-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Metering Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:02:54.325Z,@appneurox/metrics-service,0.1.0,ajayprajapat,Apache-2.0,20386,Metrics Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:03:06.992Z,@appneurox/metrics-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Metrics Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:03:15.779Z,@appneurox/mfa-service,0.1.0,ajayprajapat,Apache-2.0,20074,MFA Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:03:23.677Z,@appneurox/mfa-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3708,MFA Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:03:38.403Z,@appneurox/migration-service,0.1.0,ajayprajapat,Apache-2.0,20539,Migration Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:03:47.12Z,@appneurox/migration-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Migration Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:03:51.342Z,envdoc-cli,0.1.0,surya2006,MIT OR Apache-2.0,5459308,"Fast, safe-by-construction AST environment contract auditor keeping .env.example in sync with Rust, TypeScript, and JavaScript source code"
+2026-10-26T19:03:52.016Z,@appneurox/milestone-service,0.1.0,ajayprajapat,Apache-2.0,20539,Milestone Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:04:01.51Z,@appneurox/milestone-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Milestone Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:04:09.129Z,@appneurox/model-service,0.1.0,ajayprajapat,Apache-2.0,20228,Model Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:04:14.102Z,@appneurox/model-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Model Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:04:18.038Z,@appneurox/moderation-service,0.1.0,ajayprajapat,Apache-2.0,20616,Moderation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:04:24.224Z,@appneurox/moderation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Moderation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:04:25.488Z,oxlint-plugin-complexity-hints,0.1.0,afterimaginary,MIT,218507,"Keep code written by coding agents easy to review: an Oxlint cognitive complexity rule with single-line fix hints, and a checker that keeps them within the change"
+2026-10-26T19:04:32.428Z,@appneurox/movement-service,0.1.0,ajayprajapat,Apache-2.0,20462,Movement Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:04:39.074Z,@appneurox/movement-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Movement Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:04:49.228Z,@appneurox/notification-service,0.1.0,ajayprajapat,Apache-2.0,20770,Notification Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:04:58.4Z,@appneurox/notification-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3899,Notification Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:05:05.692Z,@appneurox/object-service,0.1.0,ajayprajapat,Apache-2.0,20309,Object Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:05:09.913Z,@appneurox/object-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Object Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:05:18.139Z,@appneurox/obligation-service,0.1.0,ajayprajapat,Apache-2.0,20616,Obligation Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:05:22.766Z,@appneurox/obligation-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Obligation Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:05:27.154Z,@appneurox/observability-service,0.1.0,ajayprajapat,Apache-2.0,20847,Observability Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:05:32.401Z,@appneurox/observability-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3920,Observability Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:05:36.756Z,@flowmarkdev/core,0.1.0-alpha.0,flowmarkdev,MIT,32490,Shared workflow event contracts for Flowmark
+2026-10-26T19:05:39.323Z,@appneurox/onboarding-service,0.1.0,ajayprajapat,Apache-2.0,20616,Onboarding Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:05:45.461Z,@appneurox/onboarding-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Onboarding Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:05:49.64Z,@flowmarkdev/node,0.1.0-alpha.0,flowmarkdev,MIT,79366,Workflow observability for Node.js application code
+2026-10-26T19:05:54.263Z,@appneurox/ontology-service,0.1.0,ajayprajapat,Apache-2.0,20462,Ontology Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:06:02.551Z,@appneurox/ontology-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Ontology Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:06:09.711Z,@appneurox/opportunity-service,0.1.0,ajayprajapat,Apache-2.0,20693,Opportunity Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:06:18.492Z,@appneurox/opportunity-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Opportunity Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:06:26.128Z,@appneurox/order-service,0.1.0,ajayprajapat,Apache-2.0,20228,Order Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:06:34.255Z,@appneurox/order-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3750,Order Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:06:41.691Z,@appneurox/organization-service,0.1.0,ajayprajapat,Apache-2.0,20770,Organization Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:06:50.422Z,@appneurox/organization-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3899,Organization Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:07:14.175Z,tibodog,0.1.1,matthewkim-11,MIT,557879,"A notch widget (Claude Code/Codex usage, Now Playing) with a dog that barks when Tibo (@thsottiaux) resets the Codex limits on X"
+2026-10-26T19:07:28.57Z,@gitmyabi/els,1.0.0,gitmyabi-bot,MIT,65552,"Auto-generated TypeScript type bindings for ELS (build etherscan-els-eb575c45-1793041620093, commit 81c7708, branch etherscan)"
+2026-10-26T19:07:29.792Z,@appneurox/outbox-service,0.1.0,ajayprajapat,Apache-2.0,20309,Outbox Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:07:37.911Z,@appneurox/outbox-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Outbox Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:07:47.661Z,@appneurox/package-service,0.1.0,ajayprajapat,Apache-2.0,20386,Package Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:07:57.118Z,@appneurox/package-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Package Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:08:04.085Z,@appneurox/page-service,0.1.0,ajayprajapat,Apache-2.0,20151,Page Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:08:12.162Z,@appneurox/page-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Page Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:08:17.649Z,@appneurox/partner-service,0.1.0,ajayprajapat,Apache-2.0,20386,Partner Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:08:21.703Z,@appneurox/partner-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Partner Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:08:27.014Z,@appneurox/payment-service,0.1.0,ajayprajapat,Apache-2.0,20386,Payment Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:08:31.398Z,@appneurox/payment-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Payment Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:08:38.351Z,@appneurox/payout-service,0.1.0,ajayprajapat,Apache-2.0,20309,Payout Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:08:43.948Z,@appneurox/payout-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Payout Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:08:44.346Z,@develsdue/deciduous,0.1.0,develsdue,MIT,237028,"The default look, the themes, and the docs site components of the Agile Agent Template, as a Starlight plugin."
+2026-10-26T19:08:53.121Z,@appneurox/payroll-service,0.1.0,ajayprajapat,Apache-2.0,20386,Payroll Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:08:58.893Z,@appneurox/payroll-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Payroll Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:09:05.011Z,@appneurox/people-service,0.1.0,ajayprajapat,Apache-2.0,20309,People Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:09:10.326Z,krish-agent,0.0.0-stage,mtandaolabs,,333,Temporary package placeholder for staged publishing
+2026-10-26T19:09:11.691Z,@appneurox/people-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,People Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:09:17.835Z,@appneurox/performance-service,0.1.0,ajayprajapat,Apache-2.0,20693,Performance Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:09:24.373Z,@appneurox/performance-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Performance Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:09:33.187Z,@appneurox/permission-service,0.1.0,ajayprajapat,Apache-2.0,20616,Permission Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:09:44.031Z,@appneurox/permission-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Permission Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:09:53.693Z,@appneurox/pipeline-service,0.1.0,ajayprajapat,Apache-2.0,20462,Pipeline Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:10:01.924Z,@appneurox/pipeline-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Pipeline Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:10:18.748Z,@appneurox/placement-service,0.1.0,ajayprajapat,Apache-2.0,20539,Placement Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:10:29.518Z,@appneurox/placement-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Placement Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:10:42.836Z,@appneurox/plan-service,0.1.0,ajayprajapat,Apache-2.0,20151,Plan Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:10:52.161Z,@appneurox/plan-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Plan Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:11:00.243Z,@appneurox/platform-control-service,0.1.0,ajayprajapat,Apache-2.0,21015,Platform Control Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:11:09.24Z,@appneurox/platform-control-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3974,Platform Control Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:11:12.034Z,@sigrun/sandbox-linux-x64,0.0.0-stage,mikemacleod,,347,Temporary package placeholder for staged publishing
+2026-10-26T19:11:17.576Z,@appneurox/platform-service,0.1.0,ajayprajapat,Apache-2.0,20462,Platform Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:11:22.813Z,@appneurox/platform-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Platform Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:11:23.927Z,@thejob/resume-parse,1.0.0,nikx,UNLICENSED,33982,"The model contract for parsing resume text: response schema, system instruction and output cap. Owned by thejob-resume-service; user-service's profile prefill uses it too."
+2026-10-26T19:11:35.847Z,oncalendar,0.1.0,ottramst,MIT,134092,"Parse, normalize, describe and evaluate systemd OnCalendar= calendar expressions, matching systemd-analyze calendar. Zero dependencies."
+2026-10-26T19:11:36.364Z,@appneurox/playground-service,0.1.0,ajayprajapat,Apache-2.0,20616,Playground Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:11:48.586Z,@appneurox/playground-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3857,Playground Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:11:57.806Z,@appneurox/plugin-service,0.1.0,ajayprajapat,Apache-2.0,20309,Plugin Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:12:03.955Z,@appneurox/plugin-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Plugin Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:12:11.018Z,@appneurox/policy-service,0.1.0,ajayprajapat,Apache-2.0,20309,Policy Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:12:21.437Z,@appneurox/policy-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Policy Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:12:32.379Z,@brian-agent/a2a,0.1.0,embeputer,MIT,94545,Agent2Agent (A2A) protocol integration for brian agents
+2026-10-26T19:12:32.91Z,@appneurox/post-service,0.1.0,ajayprajapat,Apache-2.0,20151,Post Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:12:43.517Z,@appneurox/post-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3729,Post Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:12:47.924Z,@brian-agent/agent,0.1.0,embeputer,MIT,268483,"General-purpose agent with transport abstraction, state management, and attachment support"
+2026-10-26T19:12:52.719Z,@appneurox/pricing-service,0.1.0,ajayprajapat,Apache-2.0,20386,Pricing Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:12:59.053Z,@appneurox/pricing-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Pricing Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:13:01.111Z,@a35hie/entrypoints,0.2.2,asboy2035,,26766,Generate self-contained HTML entrypoint pages from a template and typed config.
+2026-10-26T19:13:03.724Z,@brian-agent/ai,0.1.0,embeputer,MIT,4173317,Unified LLM API with automatic model discovery and provider configuration
+2026-10-26T19:13:07.527Z,@appneurox/procurement-service,0.1.0,ajayprajapat,Apache-2.0,20693,Procurement Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:13:13.664Z,@appneurox/procurement-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3878,Procurement Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:13:17.966Z,@brian-agent/chord,0.1.0,embeputer,MIT,1849766,"Typed host runtime for plugins, contracts, replicated state, and RPC over JSON links"
+2026-10-26T19:13:20.855Z,@appneurox/product-service,0.1.0,ajayprajapat,Apache-2.0,20386,Product Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:13:27.887Z,@appneurox/product-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Product Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:13:28.074Z,@brian-agent/cli,0.1.0,embeputer,MIT,20377356,"Headless coding agent SDK, RPC, and print modes with read, bash, edit, write tools and session management"
+2026-10-26T19:13:34.592Z,@appneurox/profile-service,0.1.0,ajayprajapat,Apache-2.0,20386,Profile Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:13:37.793Z,@brian-agent/codemode,0.1.0,embeputer,MIT,375425,Sandboxed JavaScript execution where the only capability is calling injected tools
+2026-10-26T19:13:40.779Z,@appneurox/profile-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Profile Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:13:42.551Z,@azothos/cli,0.1.0,malaikasamuelbeweird,MIT,27657,"Azoth OS CLI — ingest events, route models, and run regression tests from CI/CD"
+2026-10-26T19:13:47.473Z,@brian-agent/durable,0.1.0,embeputer,MIT,3174723,"Durable conversation, task, and document runtime for Brian"
+2026-10-26T19:13:47.788Z,@appneurox/project-service,0.1.0,ajayprajapat,Apache-2.0,20386,Project Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:13:54.157Z,@appneurox/project-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3794,Project Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:13:58.849Z,@brian-agent/env,0.1.0,embeputer,MIT,18001276,Remote execution environments for Brian Durable: a small daemon deployed over SSH and its ExecutionEnv client
+2026-10-26T19:14:01.058Z,@appneurox/promotion-service,0.1.0,ajayprajapat,Apache-2.0,20539,Promotion Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:14:08.566Z,@brian-agent/mcp,0.1.0,embeputer,MIT,390251,Standalone Model Context Protocol client for brian and other applications
+2026-10-26T19:14:10.076Z,@appneurox/promotion-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3836,Promotion Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:14:20.22Z,@appneurox/prompt-service,0.1.0,ajayprajapat,Apache-2.0,20309,Prompt Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:14:29.381Z,@appneurox/prompt-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3773,Prompt Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:14:32.792Z,@brian-agent/telemetry,0.1.0,embeputer,MIT,122903,Vendor-neutral telemetry contracts and typed schema utilities for brian
+2026-10-26T19:14:48.145Z,@appneurox/property-service,0.1.0,ajayprajapat,Apache-2.0,20462,Property Service: NestJS module that runs as its own microservice or inside a modular monolith.
+2026-10-26T19:14:54.641Z,@appneurox/property-service-sdk,0.1.0,ajayprajapat,Apache-2.0,3815,Property Service client for the standalone microservice or any brand API that mounts it.
+2026-10-26T19:15:11.879Z,@eui/components-wc,22.0.0-alpha.51,rambou,EUPL-1.1,567334,EUI Web Components — Lit projection of the @eui/components Angular (eui-*) components as eui-wc-* custom elements.
+2026-10-26T19:15:55.712Z,@tilua-types/luau,7.1.0,uav1010,ISC,10136,"Luau as a tilua type library: what Luau adds to Lua 5.1 (buffer, bit32, string.split, ...), and Luau's syntax in the compiled output"
+2026-10-26T19:16:10.316Z,namegarage,0.1.0,nikolay,MIT,3037,"Compatibility alias for @namegarage/sdk, the official Namegarage public catalog client."
+2026-10-26T19:16:15.776Z,namegarage-sdk,0.1.0,nikolay,MIT,3049,"Compatibility alias for @namegarage/sdk, the official Namegarage public catalog client."
+2026-10-26T19:16:17.429Z,@lago-morph/prototype-framework-skill,0.1.0,lago-morph,MIT,154372,"The Claude Code skill for @lago-morph/prototype-framework, at the same version as the framework"
+2026-10-26T19:17:39.629Z,task5-runner,0.1.0,georgi.macbookpro,UNLICENSED,955550,Runs Task5 coding agents on your computer with Claude Code and opens pull requests.
+2026-10-26T19:17:42.305Z,inboxpanda,1.18.0,pwnera,MIT,4416,Create an InboxPanda form endpoint from your terminal or coding agent. No account needed.
+2026-10-26T19:19:15.933Z,opencode-agent-communicator,0.0.0-stage,yididev,,349,Temporary package placeholder for staged publishing
