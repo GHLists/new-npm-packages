@@ -1,53 +1,248 @@
 {
   "list": {
-    "count": 181,
-    "from": "2026-10-27T09:18:37.891346Z",
-    "path": "data/new-packages-2026-10-27T10-19-13-916129Z.csv",
-    "to": "2026-10-27T10:19:13.916129Z"
+    "count": 193,
+    "from": "2026-10-27T10:19:13.916129Z",
+    "path": "data/new-packages-2026-10-27T11-21-16-320005Z.csv",
+    "to": "2026-10-27T11:21:16.320005Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@arkkvm/arkkvm-mcp",
-      "since": "2026-10-27T09:18:37.891346Z"
+      "package": "@moxxy/plugin-provider-acp",
+      "since": "2026-10-27T10:19:13.916129Z"
     },
     {
       "attempts": 1,
-      "package": "@arkkvm/arkkvm-mcp-darwin-amd64",
-      "since": "2026-10-27T09:18:37.891346Z"
+      "package": "@moxxy/plugin-provider-codex-agent",
+      "since": "2026-10-27T10:19:13.916129Z"
     },
     {
       "attempts": 1,
-      "package": "@arkkvm/arkkvm-mcp-linux-amd64",
-      "since": "2026-10-27T09:18:37.891346Z"
+      "package": "@mrfentmen/adsb-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
     },
     {
       "attempts": 1,
-      "package": "@arkkvm/arkkvm-mcp-linux-arm64",
-      "since": "2026-10-27T09:18:37.891346Z"
+      "package": "@mrfentmen/adsbdb-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
     },
     {
       "attempts": 1,
-      "package": "@arkkvm/arkkvm-mcp-windows-amd64",
-      "since": "2026-10-27T09:18:37.891346Z"
+      "package": "@mrfentmen/biostudies-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
     },
     {
       "attempts": 1,
-      "package": "@arkkvm/arkkvm-mcp-windows-arm64",
-      "since": "2026-10-27T09:18:37.891346Z"
+      "package": "@mrfentmen/brreg-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
     },
     {
       "attempts": 1,
-      "package": "@gexno/web3-mcp",
-      "since": "2026-10-27T09:18:37.891346Z"
+      "package": "@mrfentmen/cftc-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
     },
     {
       "attempts": 1,
-      "package": "@ohos-ports/bun-plugin-yaml",
-      "since": "2026-10-27T09:18:37.891346Z"
+      "package": "@mrfentmen/chronam-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/cwe-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/date-math-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/ecb-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/epa-echo-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/epss-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/finance-calc-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/fiscaldata-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/geo-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/graph-algorithms-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/hpo-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/icd10-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/inspire-hep-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/ip-subnet-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/isbn-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/jsonpath-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/kegg-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/matrix-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/maze-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/mfapi-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/morse-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/ncbi-taxonomy-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/obis-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/ols-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/openaire-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/orcid-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/ourairports-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/poker-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/pride-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/proteins-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/quickgo-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/raiderio-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/statistics-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/toml-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/truth-table-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/ulid-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/unstats-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/useragent-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/usno-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/worms-mcp",
+      "since": "2026-10-27T10:19:13.916129Z"
     }
   ],
-  "seq": 139996318,
+  "seq": 140010606,
   "source_truncated": false,
-  "window": "2026-10-27T10:19:13.916129Z"
+  "window": "2026-10-27T11:21:16.320005Z"
 }
