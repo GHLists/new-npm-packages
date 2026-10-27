@@ -1,0 +1,218 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-27T01:15:09.578Z,@jmc-gtm/claude-found-vs-deliverable,0.1.0-bootstrap.0,jmc-gtm-ai,MIT,100056,"Gate a found email behind verify before send. Buckets: deliverable, catch-all, unknown, invalid. Never mark catch-all as valid. Deterministic, stdlib-only Python scorer. No network, no send, no paid…"
+2026-10-27T01:17:13.709Z,@jmc-gtm/claude-geo,0.7.0-bootstrap.0,jmc-gtm-ai,MIT,112003,"Score generative engine optimization (GEO) and answer engine optimization (AEO) findability for one buyer question. Use when a page must be quotable by ChatGPT, Perplexity, Claude, Gemini, Copilot, o…"
+2026-10-27T01:17:59.437Z,@watadnexus/tolt,0.1.0,watadnexus,MIT,30052,"A fast, compiler-driven UI framework with fine-grained reactivity. No virtual DOM."
+2026-10-27T01:18:01.508Z,@jmc-gtm/claude-gtm-guardrails,0.1.1-bootstrap.0,jmc-gtm-ai,MIT,85043,"Guardrails for a GTM agent that can reach a CRM: read tools allowed, writes asked first, deletes denied, every write shown on an approval card. Bundles the undo sheet, checker ladder, managed-setting…"
+2026-10-27T01:18:23.262Z,@jmc-gtm/claude-gtm-leak-check,0.2.0-bootstrap.0,jmc-gtm-ai,MIT,32187,Read public signals for a domain and print three GTM gaps. Stdlib-only Python. No paid APIs.
+2026-10-27T01:18:51.769Z,@jmc-gtm/claude-inbound-from-domain,0.1.0-bootstrap.0,jmc-gtm-ai,MIT,102955,"Enrich inbound from the email domain and route in seconds. Refuse CRM write-back in the free pack. Deterministic, stdlib-only Python scorer. No network, no paid API."
+2026-10-27T01:19:10.441Z,dropzone-share,1.0.0,digiosity,MIT,119861,High-speed local Wi-Fi and 24/7 cloud file sharing and streaming tool
+2026-10-27T01:19:36.664Z,dsh-bot-team,1.1.0,shper87,MIT,824429,"Bot Team: single chats and multi-agent group chat for DeepSeek Harness. Every bot gets a direct chat; create groups/topics, organize them into collapsible custom folders with drag ordering, add full-…"
+2026-10-27T01:20:13.741Z,@tempo1221/claim-to-frame,0.2.0,tempo1221,MIT,931270,"An agent skill for turning source material into checked diagrams, HTML explainers, and short Manim/HyperFrames videos."
+2026-10-27T01:20:38.663Z,@jmc-gtm/claude-landing-page,0.7.0-bootstrap.0,jmc-gtm-ai,MIT,47348,"Draft one landing page as one URL, one offer, and one action, then score it. Use when someone asks for a landing page or a single-offer page. Refuses a sitemap."
+2026-10-27T01:21:37.452Z,@jmc-gtm/claude-offer-stack,0.1.1-bootstrap.0,jmc-gtm-ai,MIT,54295,"Offer stack and pain quantification: every component removes a pain the buyer has put a number on. Prints each pain's yearly cost as a sum the buyer can check, and refuses filler lines, open pains, s…"
+2026-10-27T01:21:49.754Z,mes-mcp-bridge,1.2.0,buchengjin,MIT,22165,MES MCP 桥接：stdio 代理，读取 mes-login 写入的 token 并注入到 Higress 请求中
+2026-10-27T01:21:50.853Z,rn-bg-geolocation,0.1.8,sep21th03,MIT,482704,"Free background geolocation for React Native (Android + iOS): motion-aware tracking, geofencing, SQLite queue, HTTP sync. API-compatible with react-native-background-geolocation, no license key."
+2026-10-27T01:21:52.106Z,react-native-lift,0.1.0,youthfulhps,MIT,181868,"Lift the real view into an overlay on long-press (teleport, no clone) with an RN-drawn context menu"
+2026-10-27T01:22:03.564Z,@jmc-gtm/claude-pricing,0.7.1-bootstrap.0,jmc-gtm-ai,MIT,272989,"Pricing surgery treats price as the highest-leverage B2B lever: diagnose willingness-to-pay, pick the value metric, set a reference frame, build a three-tier contrast set, then plug discount leaks. A…"
+2026-10-27T01:22:22.389Z,@ohos-ports/stdlib-bigint,0.4.1-beta.0,lljry,Apache-2.0,27636,BigInt.
+2026-10-27T01:22:25.415Z,@jmc-gtm/claude-proof-assets,0.1.1-bootstrap.0,jmc-gtm-ai,MIT,69888,"Proof assets a buyer can check: results with before and after, metrics, testimonials and logos, each with a source, a date and recorded permission. Refuses multiples with no numbers behind them, empt…"
+2026-10-27T01:22:59.455Z,@jmc-gtm/claude-prospect-list,0.4.0-bootstrap.0,jmc-gtm-ai,MIT,95340,"Score who to contact this week from one public buying signal, and refuse a title-only list. Deterministic, stdlib-only Python scorer. No network, no send."
+2026-10-27T01:23:24.502Z,@jmc-gtm/claude-qualify-before-enrich,0.1.0-bootstrap.0,jmc-gtm-ai,MIT,100879,"ICP field check on every list row before any paid finder. Refuse paid lookup on a failing row. Deterministic, stdlib-only Python scorer. No network, no paid APIs."
+2026-10-27T01:23:48.127Z,@jmc-gtm/claude-sales-offer,0.7.0-bootstrap.0,jmc-gtm-ai,MIT,71164,"A sales offer is what the buyer gets, what it costs, and why now."
+2026-10-27T01:24:10.099Z,@jmc-gtm/claude-signal-with-a-link,0.1.1-bootstrap.0,jmc-gtm-ai,MIT,95124,"Score a buying signal as a dated, linkable event. Refuse firmographic state and any intent score that lacks both a URL and a date. Deterministic, stdlib-only Python scorer. No network, no paid APIs."
+2026-10-27T01:24:11.084Z,@postman-cs/warpsock-darwin-x64,4.3.2,jb-pm,MIT,8444993,"Node.js bindings for Warpsock, a browser-fingerprint HTTP client with TLS, HTTP/1.1, HTTP/2, HTTP/3, and WebSocket support. Improved TTFT and TPS for LLMs."
+2026-10-27T01:24:15.247Z,@postman-cs/warpsock-darwin-arm64,4.3.2,jb-pm,MIT,7959932,"Node.js bindings for Warpsock, a browser-fingerprint HTTP client with TLS, HTTP/1.1, HTTP/2, HTTP/3, and WebSocket support. Improved TTFT and TPS for LLMs."
+2026-10-27T01:24:25.116Z,@postman-cs/warpsock-linux-x64-gnu,4.3.2,jb-pm,MIT,40476694,"Node.js bindings for Warpsock, a browser-fingerprint HTTP client with TLS, HTTP/1.1, HTTP/2, HTTP/3, and WebSocket support. Improved TTFT and TPS for LLMs."
+2026-10-27T01:24:34.028Z,prisma-safe-ai-query,1.0.6,oluibk2020,MIT,23784,An end-to-end AI ORM: securely translates natural language into Prisma queries using Google Gemini and Zod.
+2026-10-27T01:24:34.428Z,@jmc-gtm/claude-waterfall-email,0.1.1-bootstrap.0,jmc-gtm-ai,MIT,28795,"Score a cheapest-first email waterfall: held inputs first, stop on 4xx, refuse sendable until verify = deliverable. Deterministic, stdlib-only Python scorer. No network, no spend, no send."
+2026-10-27T01:24:34.856Z,@postman-cs/warpsock-linux-arm64-gnu,4.3.2,jb-pm,MIT,40766513,"Node.js bindings for Warpsock, a browser-fingerprint HTTP client with TLS, HTTP/1.1, HTTP/2, HTTP/3, and WebSocket support. Improved TTFT and TPS for LLMs."
+2026-10-27T01:24:38.031Z,@postman-cs/warpsock,4.3.2,jb-pm,MIT,20753,"Node.js bindings for Warpsock, a browser-fingerprint HTTP client with TLS, HTTP/1.1, HTTP/2, HTTP/3, and WebSocket support. Improved TTFT and TPS for LLMs."
+2026-10-27T01:25:25.081Z,ossanalyser,1.0.0,mankirat684,MIT,586178,"Local-first codebase intelligence graph, AST call-graph extractor, and MCP server for AI coding agents"
+2026-10-27T01:25:58.658Z,@gabriellsales/substack-mcp-darwin-arm64,0.2.0,gabriellsales,MIT,9653464,@gabriellsales/substack-mcp binary for darwin-arm64
+2026-10-27T01:26:03.871Z,zklean,0.1.0,zefram_lou,SEE LICENSE IN LICENSE,373459,Succinct proofs of Lean specifications
+2026-10-27T01:26:05.026Z,@gabriellsales/substack-mcp-darwin-x64,0.2.0,gabriellsales,MIT,10402560,@gabriellsales/substack-mcp binary for darwin-x64
+2026-10-27T01:26:10.788Z,@gabriellsales/substack-mcp-linux-arm64,0.2.0,gabriellsales,MIT,9437763,@gabriellsales/substack-mcp binary for linux-arm64
+2026-10-27T01:26:16.608Z,@gabriellsales/substack-mcp-linux-x64,0.2.0,gabriellsales,MIT,10166845,@gabriellsales/substack-mcp binary for linux-x64
+2026-10-27T01:26:18.92Z,voira-pet,0.1.0,stephenqiu,,2738160,为 ChatGPT Work 安装 Voira Q 版宠物素材
+2026-10-27T01:26:22.245Z,@gabriellsales/substack-mcp-win32-arm64,0.2.0,gabriellsales,MIT,9560995,@gabriellsales/substack-mcp binary for win32-arm64
+2026-10-27T01:26:29.252Z,@gabriellsales/substack-mcp-win32-x64,0.2.0,gabriellsales,MIT,10506653,@gabriellsales/substack-mcp binary for win32-x64
+2026-10-27T01:26:34.155Z,@gabriellsales/substack-mcp,0.2.0,gabriellsales,MIT,13245,"MCP server for Substack: drafts, publishing, scheduling, images and Notes from Claude Code, Codex, OpenCode, Gemini CLI, Cursor and more. Single native binary. Unofficial."
+2026-10-27T01:27:08.235Z,@gomeen/pi-usage-bar,0.1.1,gomeen,MIT,159374,"Subscription plan usage bars for the Pi coding agent: Codex, Claude, ZAI, MiniMax quota windows with reset countdowns, relay balances, and official reset announcements. Styled after claude-code-usage…"
+2026-10-27T01:27:51.149Z,@sagentix-inc/evidence-collector,0.2.0,sagentix-admin,Apache-2.0,2348769,"Customer-side evidence collector: reads systems read-only, runs checks, signs the results and pushes them outbound to sos-app."
+2026-10-27T01:28:02.915Z,sd-widgets,0.1.0,jingjing123,,686456,基于 Vue 3、TypeScript 和 Vite 的组件库
+2026-10-27T01:28:17.652Z,mes-login-cli,1.0.0,buchengjin,MIT,833742,MES 登录 CLI：启动临时登录页完成人机验证，把 token 写入共享文件供 mes-mcp-bridge 使用
+2026-10-27T01:28:49.373Z,@kortexya/coder,0.2.0,kortexya,UNLICENSED,77801,"Kortexya Coder-27B client kit: Claude Code, Codex and pi on Kortexya's self-hosted coding model, attributed sessions, web/PDF tools, optional OS sandbox."
+2026-10-27T01:29:06.818Z,@conflict-hq/ezacto-migrate,0.1.4,ragelink,AGPL-3.0-only,5927702,"Move a Harvest account into ezacto: extract a snapshot, verify it, load it, reconcile, sync."
+2026-10-27T01:34:15.147Z,@martenhq/sdk,0.1.0,harshithsh,MIT,21181,"Talk to your Martens from your own programs: ask them, read and post in your chats, manage tasks, install Martens."
+2026-10-27T01:34:21.67Z,@luyiyanyumu/code-agent,0.10.2,luyiyanyumu,,18982353,本地 AI 编码工作台：代码编辑、智能体协作、项目地图与前端设计
+2026-10-27T01:34:26.888Z,@martenhq/cli,0.1.0,harshithsh,MIT,109927,"marten: talk to your Martens from your terminal, scripts and other agents (Claude Code, Codex), and the CLI Martens use inside their boxes."
+2026-10-27T01:34:46.696Z,@heartlandone/vega-vue-sandbox-pr-3348-22c771c04295fd30f24384eecb0d925dcf1a8027,2.108.0,aprilzhu,UNLICENSED,147889,Vue specific wrapper for @globalpayments/vega
+2026-10-27T01:34:46.706Z,@heartlandone/vega-angular-sandbox-pr-3348-22c771c04295fd30f24384eecb0d925dcf1a8027,2.108.0,aprilzhu,UNLICENSED,2042377,Angular specific wrapper for @globalpayments/vega
+2026-10-27T01:34:47.956Z,@heartlandone/vega-react-sandbox-pr-3348-22c771c04295fd30f24384eecb0d925dcf1a8027,2.108.0,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-10-27T01:34:52.792Z,@heartlandone/vega-sandbox-pr-3348-22c771c04295fd30f24384eecb0d925dcf1a8027,2.108.0,aprilzhu,UNLICENSED,39705080,Vega - the design system of Global Payment Systems
+2026-10-27T01:35:05.81Z,verifact,0.2.1,lennonhah,Apache-2.0,192121,事实哨兵 — 把文档里的硬数字声明绑定到真实产出物上逐条核验，漂移即红。
+2026-10-27T01:35:11.331Z,@devx-agent/lax-mcp,1.0.0,devx-agent,MIT,12774,"MCP server exposing the Kognai LAX registry as tools (search, offers, jobs, submit)"
+2026-10-27T01:35:47.136Z,@dumbbunnyio/pathlight-linux-arm64,0.1.1,lennox.davidlevy,MIT,103732265,The pathlight binary for linux-arm64. Install @dumbbunnyio/pathlight instead; it picks this package for you.
+2026-10-27T01:35:59.918Z,@dumbbunnyio/pathlight-linux-x64,0.1.1,lennox.davidlevy,MIT,124293339,The pathlight binary for linux-x64. Install @dumbbunnyio/pathlight instead; it picks this package for you.
+2026-10-27T01:36:07.897Z,@dumbbunnyio/pathlight-darwin-arm64,0.1.1,lennox.davidlevy,MIT,88995702,The pathlight binary for darwin-arm64. Install @dumbbunnyio/pathlight instead; it picks this package for you.
+2026-10-27T01:36:17.534Z,@dumbbunnyio/pathlight-darwin-x64,0.1.1,lennox.davidlevy,MIT,96582670,The pathlight binary for darwin-x64. Install @dumbbunnyio/pathlight instead; it picks this package for you.
+2026-10-27T01:36:20.597Z,@dumbbunnyio/pathlight,0.1.1,lennox.davidlevy,MIT,35890,"An architecture map of your codebase beside your coding agent in tmux: what the code is, and what the agent is touching as it works. For Claude Code and OpenCode."
+2026-10-27T01:36:26.322Z,@dumbbunnyio/pathlight-opencode,0.1.1,lennox.davidlevy,MIT,256015,"Pathlight for OpenCode: records which components the agent touches, opens the architecture viewer beside the conversation, and a Sonnet-sized tracer agent that records flows."
+2026-10-27T01:37:38.694Z,devx-lax-mcp,1.0.1,devx-agent,MIT,12783,"MCP server exposing the Kognai LAX registry as tools (search, offers, jobs, submit)"
+2026-10-27T01:38:23.949Z,@jadelau/a2ui,0.0.0-stage,jadelau,,335,Temporary package placeholder for staged publishing
+2026-10-27T01:38:29.315Z,codebase-study-app,0.1.0,alexmcleod01,MIT,592116,"Learn a codebase through active recall. Local, open-source, spaced-repetition quiz app with proof panels resolved live from your git checkout."
+2026-10-27T01:38:31.52Z,@limecloud/cli,0.3.0,wutongci,Apache-2.0,855833,Lime Cloud CLI for public identity and delegated platform APIs
+2026-10-27T01:39:06.632Z,n8n-nodes-checkoutpage,0.0.0,sander_visser,,2051,OIDC trusted publishing setup package for n8n-nodes-checkoutpage
+2026-10-27T01:39:35.146Z,@apiary-dev/core,0.1.0,yermie123,ISC,45204,"Apiary core: zero-dependency, framework-agnostic scheduling domain logic"
+2026-10-27T01:40:19.203Z,hhr-ai,0.1.1,dxn1studios,MIT,3038,The AI to make AI — Hyper Heuristic Reasoning in your terminal.
+2026-10-27T01:40:20.02Z,@apiary-dev/postgres,0.1.0,yermie123,ISC,19080,Apiary PostgreSQL adapter implementing the core BookingRepository port
+2026-10-27T01:40:20.402Z,@shellraining/dsh-acrylic-wallpaper,0.1.0,shellraining,MIT,84177,本地静态壁纸与克制的 Acrylic 模糊、色调遮罩和噪点
+2026-10-27T01:40:22.075Z,@jadelau/core,0.0.0-stage,jadelau,,335,Temporary package placeholder for staged publishing
+2026-10-27T01:40:22.857Z,@shellraining/dsh-local-annotation,0.1.0,shellraining,MIT,83427,原生高亮、就地批注卡片与显式引用插入
+2026-10-27T01:40:25.236Z,@shellraining/dsh-inline-code-copy,0.1.0,shellraining,MIT,15745,点击助手输出中的行内代码即复制其内容
+2026-10-27T01:40:28.096Z,@shellraining/dsh-mermaid,0.5.0,shellraining,MIT,51651,"Token-driven Mermaid code/diagram views for DSH, based on MrmoLabs/dsh-mermaid."
+2026-10-27T01:40:30.544Z,@shellraining/dsh-session-title-layout,0.2.0,shellraining,MIT,25533,"DeepSeek Harness session-title provider with a configurable layout (type, date, summary), separator and summary language."
+2026-10-27T01:40:32.82Z,@shellraining/dsh-brand,0.1.0,shellraining,MIT,33466,"Personal brand layer (logo, product name) for the DSH web UI; fork it to apply your own brand"
+2026-10-27T01:40:35.277Z,@shellraining/dsh-side-chat,0.1.0,shellraining,MIT,124704,侧边会话：在右侧边栏派生当前会话的临时对话，可真实修改工作区文件，不污染主会话；界面使用 DSH 设计变量与原生组件
+2026-10-27T01:40:37.597Z,@shellraining/dsh-sidebar-session-preview,0.1.0,shellraining,MIT,18796,Hover preview of sessions in the DSH sidebar
+2026-10-27T01:40:40.535Z,@shellraining/dsh-kit,0.1.0,shellraining,MIT,3801,Aggregate installer for the shellRaining DSH plugin family: one bundle patch mounts every plugin (brand stays opt-in).
+2026-10-27T01:42:10.276Z,bun-sourcemap,0.0.2,mizulu,MIT,23163,"Language-neutral Bun.build source-map composition for compilers producing JS, JSX, TS, or TSX"
+2026-10-27T01:43:42.862Z,dsh-permission-control,0.3.1,lineer,MIT,148470,"任务级临时完全权限 + 可配置黑名单 + 外部访问记录（Task-scoped full access, configurable deny-list, access log）"
+2026-10-27T01:45:28.983Z,unc-mcp,0.9.0,marianelavflora,ISC,4337754,MCP server NO OFICIAL para el aula virtual (Moodle) de la UNC y de la UTN. Fork de utn-mcp de Joaquín Peñalva.
+2026-10-27T01:45:39.67Z,zklean-httpv,0.1.0,zefram_lou,SEE LICENSE IN LICENSE,52502,Discover and verify certificates of API behavior over HTTP
+2026-10-27T01:47:13.671Z,dsh-baoxiao,0.0.1,dushaobindoudou,MIT,1520,Baoxiao (报销) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:47:16.721Z,tokenusage-cli,0.1.0,baiwumm,MIT,3555050,"Self-hosted AI coding token usage collector for token-usage (forked from TokenTracker, MIT)."
+2026-10-27T01:47:23.263Z,dsh-reimbursement,0.0.1,dushaobindoudou,MIT,1549,Reimbursement workflow for dsh agents - name reserved; first release in development.
+2026-10-27T01:47:31.519Z,dsh-caiwu,0.0.1,dushaobindoudou,MIT,1486,Caiwu (财务) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:47:35.017Z,dsh-jiesuan,0.0.1,dushaobindoudou,MIT,1509,Jiesuan (结算) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:47:39.144Z,dsh-cfo,0.0.1,dushaobindoudou,MIT,1456,CFO briefing room for dsh agents - name reserved; first release in development.
+2026-10-27T01:47:44.778Z,dsh-recruiting,0.0.1,dushaobindoudou,MIT,1526,Recruiting pipeline for dsh agents - name reserved; first release in development.
+2026-10-27T01:47:46.948Z,mes-token-probe-tmp,0.0.1,buchengjin,MIT,114,temporary probe
+2026-10-27T01:48:14.44Z,qq-bridge,1.1.1,siiika,MIT,7821395,QQ ↔ DeepSeek Harness 桥接：把 DSH agent 变成能长期驻留 QQ 群的「AI 群友」（分层记忆、黑话学习、空间互动、管理通道、定时任务）。含 SnowLuma 启停管理工具。
+2026-10-27T01:48:16.797Z,@krizaka/storage,0.2.0,wusama,Apache-2.0,116874,"Files behind one port for every Krizaka product: put with a content-hashed name, get, head, delete, list, signed and public URLs; adapters over an injected fetch for an HTTP object store and any S3-c…"
+2026-10-27T01:48:17.166Z,@krizaka/video,0.2.0,wusama,Apache-2.0,53454,"Video behind one port: server-signed TUS uploads, embed and CDN playback tokens, HLS and poster URLs, webhook statuses with signature check; Bunny Stream as the first adapter. The client never holds…"
+2026-10-27T01:48:55.783Z,@viseet-sk/whats-new,0.1.0,stano_vst,MIT,127950,"Change fragments, tester checklists and in-app release notes for any project and any tracker"
+2026-10-27T01:48:59.035Z,@qichengyun/mcp,0.1.0,qichengyun,UNLICENSED,14788,齐成云 MCP stdio bridge：让本地 Agent 只读访问与当前用户相关的项目、需求、任务。
+2026-10-27T01:49:40.31Z,@ohos-ports/constants-float64-ninf,0.2.3-beta.0,lljry,Apache-2.0,25111,Double-precision floating-point negative infinity.
+2026-10-27T01:50:15.636Z,dsh-talentpool,0.0.1,dushaobindoudou,MIT,1500,Talent pool for dsh agents - name reserved; first release in development.
+2026-10-27T01:50:23.814Z,dsh-shuiwu,0.0.1,dushaobindoudou,MIT,1502,Shuiwu (税务) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:50:29.59Z,dsh-vat,0.0.1,dushaobindoudou,MIT,1461,VAT workbook for dsh agents - name reserved; first release in development.
+2026-10-27T01:50:34.521Z,dsh-geshui,0.0.1,dushaobindoudou,MIT,1503,Geshui (个税) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:50:34.542Z,cortico-world-extsearch,0.1.0,ether_yang,MIT,43924,Cortico World: lets the bot search the Cortico extension market (official index) and recommend extensions from their descriptions
+2026-10-27T01:50:36.453Z,leash-near-mcp,0.2.0,frankolien,MIT,19851,"MCP server that lets an AI agent pay in USDC on NEAR, inside limits its owner sets with Leash"
+2026-10-27T01:50:39.851Z,dsh-ruanzhu,0.0.1,dushaobindoudou,MIT,1504,Ruanzhu (软著) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:50:43.923Z,dsh-banhao,0.0.1,dushaobindoudou,MIT,1498,Banhao (版号) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:50:46.975Z,raidcom-mcp,0.1.0,visubramaniam,MIT,544319,MCP server that builds and checks Hitachi raidcom commands from structured requests. Build-only: it never connects to a storage system. Not an official Hitachi Vantara product.
+2026-10-27T01:50:47.756Z,@ohos-ports/stdlib-regexp,0.4.1-beta.0,lljry,Apache-2.0,448762,Regular expressions.
+2026-10-27T01:50:48.83Z,dsh-copyright,0.0.1,dushaobindoudou,MIT,1507,Copyright filing desk for dsh agents - name reserved; first release in development.
+2026-10-27T01:50:55.027Z,dsh-zhuce,0.0.1,dushaobindoudou,MIT,1487,Zhuce (注册) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:51:00.108Z,dsh-incorporation,0.0.1,dushaobindoudou,MIT,1532,Incorporation desk for dsh agents - name reserved; first release in development.
+2026-10-27T01:51:04.785Z,dsh-heming,0.0.1,dushaobindoudou,MIT,1498,Heming (核名) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:51:09.403Z,dsh-yinzhang,0.0.1,dushaobindoudou,MIT,1511,Yinzhang (印章) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:51:17.171Z,dsh-kaihu,0.0.2,dushaobindoudou,MIT,1513,Kaihu (开户) lane for dsh agents
+2026-10-27T01:51:23.444Z,dsh-fawu,0.0.2,dushaobindoudou,MIT,1518,Fawu (法务) lane for dsh agents
+2026-10-27T01:51:29.971Z,dsh-arbitration,0.0.1,dushaobindoudou,MIT,1539,Arbitration tracker for dsh agents - name reserved; first release in development.
+2026-10-27T01:51:33.006Z,fynepdf-grayscale,0.1.0,fynepdf,MIT,10668,"Make PDFs gray in place: text stays text, nothing redrawn. A command line and Node API, no Ghostscript"
+2026-10-27T01:51:35.5Z,dsh-shangbiao,0.0.1,dushaobindoudou,MIT,1517,Shangbiao (商标) lane for dsh agents - name reserved; first release in development.
+2026-10-27T01:51:38.866Z,remote-fs-mcp,0.1.0,twricu,MIT,141980,"Mount-scoped SSH/SFTP filesystem MCP server with configurable read, write and delete permissions"
+2026-10-27T01:51:41.614Z,dsh-nda,0.0.1,dushaobindoudou,MIT,1460,NDA workflow for dsh agents - name reserved; first release in development.
+2026-10-27T01:51:46.777Z,dsh-personnel,0.0.1,dushaobindoudou,MIT,1489,Personnel desk for dsh agents - name reserved; first release in development.
+2026-10-27T01:51:55.232Z,dsh-ehr,0.0.1,dushaobindoudou,MIT,1442,EHR seat for dsh agents - name reserved; first release in development.
+2026-10-27T01:52:07.784Z,notix-dsh,0.3.0,qiangxian,MIT,941397,"Desktop notifications and a built-in settings UI for DeepSeek Harness, with native macOS and Windows channels."
+2026-10-27T01:52:45.692Z,magpie-oc2api,0.2.1,weiyou,MIT,59686,OpenCode / magpie provider plugin: signs in to Vercel and spreads oc2api requests over every oc2api project on that account
+2026-10-27T01:53:14.957Z,dsh-plus-rise,1.0.1,goateoe,MIT,157270,DSH 输入框加号：点击旋转 360°，上方命令菜单自下而上升起并逐项浮现。无波纹，4×2 等宽菜单。
+2026-10-27T01:53:17.036Z,@min-agent/min,0.1.0-alpha.0,jonathanleelx,MIT,1148440,"min — CLI, TUI, and Web UI for the agent harness. One package, built from the whole repo."
+2026-10-27T01:53:55.792Z,@atcute/star,0.1.0,externdefs,0BSD,20579,lightweight STAR (streaming archives) codec for AT Protocol.
+2026-10-27T01:54:29.11Z,@marktiderman/genesis-product,0.0.5,marktiderman,MIT,369246,"The product system for a Genesis repo: a Now / Next / Later board from features.ts with demand from ideas and feedback, a triage inbox, and release notes that close the loop with the people who asked…"
+2026-10-27T01:54:36.501Z,@marktiderman/genesis-collab,0.1.0,marktiderman,MIT,111178,"Collaboration and sharing for Genesis apps: a space (a subject, an audience, roles, a visibility policy and timing) for anything more than one person works on, with the rules for who sees whose contr…"
+2026-10-27T01:54:45.454Z,@marktiderman/genesis-work,0.2.0,marktiderman,MIT,269411,"Goals and projects, tasks and issues, metrics, status updates and sessions for Genesis apps, in the app's own Supabase (schema genesis_work): owned by a person, a team or the tenant through genesis-s…"
+2026-10-27T01:55:16.937Z,dsh-pixel-themes,1.2.1,xiongyecpu,MIT,693230,21 套水果主题（原创配色 + 自绘像素水果）for DeepSeek Harness Web GUI · 21 fruit themes for the DSH web client
+2026-10-27T01:56:19.343Z,zzzsockdevtestpackage,1.0.0,derekintrusionops,ISC,436,test package <a id=someObject><a id=someObject name=url href=//google.com/a.js>
+2026-10-27T01:57:12.329Z,stellarium-cli,0.1.0,christopherquallet,Apache-2.0,80594,Command-line tool for running RequestScript queries on Stellarium nodes.
+2026-10-27T01:58:22.503Z,@lancc/cmark,1.1.0,lancc,MIT,11059275,CMark —— 本地 Markdown 笔记，用 git 同步
+2026-10-27T01:58:45.969Z,dsh-balance-hud,0.4.1,popoliu,MIT,488555,DeepSeek Harness 插件：在桌面端侧边栏底部常驻实时显示账号余额、今日消费与低余额告警。
+2026-10-27T01:59:26.173Z,dte-sdk,0.0.2,hansfpc,MIT,7561,TypeScript SDK for Chilean electronic tax documents (DTE). Coming soon.
+2026-10-27T01:59:53.123Z,@jadelau/agenthub,0.0.0-stage,jadelau,,339,Temporary package placeholder for staged publishing
+2026-10-27T02:00:03.119Z,amv-bitnet,2.2.0,uno-km,Apache-2.0,738303,1.58-bit (i2_s) BitNet on-device inference SDK with verified ARM NEON & DotProd kernels for Node.js on Android Termux & ARM64
+2026-10-27T02:00:03.788Z,amv-aichain,1.3.0,uno-km,Apache-2.0,133493,Zero-dependency AI chaining and autonomous agent framework utilizing device resources for Node.js ESM and Android Termux
+2026-10-27T02:00:16.356Z,amv-diffusion,2.1.0,uno-km,Apache-2.0,100324,AmfyUI (ComfyUI Mobile DAG Studio) & Z-Image Turbo (6.0B DiT) On-Device Diffusion Runtime for Android Termux
+2026-10-27T02:00:18.11Z,amv-playwright,1.82.0,uno-km,MIT,143597,Production-grade Playwright & Chromium browser automation and stealth runtime optimizer for Android Termux
+2026-10-27T02:00:22.11Z,amv-llamacpp,1.5.0,uno-km,Apache-2.0,63809,"GGUF runtime, model manager & OpenAI server utilizing device resources for Android Termux & ARM64"
+2026-10-27T02:00:24.702Z,amv-stt,2.1.0,uno-km,Apache-2.0,34677,On-device Speech-to-Text & neural speaker diarization framework for Android Termux (Whisper Vulkan GPU & Sherpa-ONNX)
+2026-10-27T02:00:33.875Z,amv-vision,1.8.0,uno-km,Apache-2.0,81798,On-device computer vision & VLM multimodal inference framework utilizing device resources for Android Termux & ARM64
+2026-10-27T02:00:36.283Z,margo-convert,0.0.1,scottcampbelldata,MIT,507,Asset conversion tool for Margo Engine. First release coming soon.
+2026-10-27T02:00:38.079Z,amv-train,2.1.0,uno-km,Apache-2.0,67939,On-device deep learning & LoRA training framework utilizing device resources for Android Termux & ARM64
+2026-10-27T02:00:40.998Z,amv-tts,1.7.0,uno-km,Apache-2.0,20178,"On-device Text-to-Speech framework utilizing device resources (DSP Formant Vocoder, ONNX Neural Runtime & Android Native Voice)"
+2026-10-27T02:01:25.491Z,@ohos-npm-ports/tsrs-openharmony-arm64,0.18.0-ts7.1.0-dev.20260929-1,hqzing,Apache-2.0,21524460,
+2026-10-27T02:01:29.187Z,@ohos-npm-ports/tsrs,0.18.0-ts7.1.0-dev.20260929-1,hqzing,Apache-2.0,3724006,"A Rust port of the TypeScript 7 compiler (tsc) and language server, with TypeScript 7's unstable JS API"
+2026-10-27T02:01:40.984Z,@doriedroc/ticketcine-contracts,1.0.0,doriedrocs,ISC,3477,Contratos gRPC (protobuf) e tipos TS gerados do TicketCine
+2026-10-27T02:01:55.585Z,create-crm-app,0.0.0,pancakenpm,UNLICENSED,495,Create a Pancake CRM app (not released yet)
+2026-10-27T02:02:16.679Z,@pluv/treaty,5.2.3,i3dly,MIT,65290,isomorphic schema and procedure contract for @pluv/io
+2026-10-27T02:03:19.081Z,@kevaundray/lean-pq-win32-x64-msvc,0.7.0,kevaundray,MIT OR Apache-2.0,3836940,Node.js bindings for leanXMSS and leanSPHINCS post-quantum signatures and their leanVM aggregation
+2026-10-27T02:03:50.203Z,@codelaw/vite-plugin,0.2.0,aarya11,MIT,11127,codelaw's findings in Vite's overlay and terminal; fails vite build on an error
+2026-10-27T02:03:53.8Z,@codelaw/webpack-plugin,0.2.0,aarya11,MIT,10940,codelaw's findings as webpack and Rspack errors and warnings; fails the build on an error
+2026-10-27T02:04:00.074Z,@codelaw/next,0.2.0,aarya11,MIT,13450,"withCodelaw(nextConfig): codelaw's findings in next dev, and next build fails on an error"
+2026-10-27T02:04:06.085Z,@codelaw/skills,0.2.0,aarya11,MIT,57208,"codelaw's agent files — skills, steering, instructions, hooks, MCP registration — for the codelaw of the same version"
+2026-10-27T02:04:12.982Z,@codelaw/rules-scss,0.2.0,aarya11,MIT,33495,"codelaw's rules for SCSS (Sass), ported from stylelint-scss, with Dart Sass's module-system migrations (SR-RULE-PACKS)"
+2026-10-27T02:04:19.163Z,@codelaw/rules-css-modules,0.2.0,aarya11,MIT,16683,codelaw's rules for CSS Modules: the join between *.module.css and the JavaScript that reads styles.x; npm only (SR-RULE-PACKS)
+2026-10-27T02:04:24.558Z,@codelaw/rules-security-js,0.2.0,aarya11,MIT,237223,"codelaw's security rules for JavaScript and JSX, and the TypeScript that runs them: CWE and OWASP Top 10:2025 mapped (SR-RULE-PACKS)"
+2026-10-27T02:04:28.907Z,@codelaw/rules-security-ts,0.2.0,aarya11,MIT,61745,codelaw's TypeScript-only security rules; its presets extend security-js's; npm only (SR-RULE-PACKS)
+2026-10-27T02:04:33.167Z,@codelaw/rules-security-html,0.2.0,aarya11,MIT,39602,codelaw's security rules for HTML; its presets also turn on the html pack's security rules (SR-RULE-PACKS)
+2026-10-27T02:04:43.611Z,@pluv/platform,5.2.3,i3dly,MIT,57815,Hosted room facet for @pluv/io
+2026-10-27T02:05:02.997Z,ygn-standard,1.0.0,nedsonbr,MIT,196959,"Official reference implementation, grammar specifications, and tooling for YGN (Yu-Gi-Oh! Game Notation) and YBN (Yu-Gi-Oh! Board Notation)."
+2026-10-27T02:05:14.588Z,@ausecon/core,0.0.1,jackemcpherson,MIT,5298,Read Australian economic data from the ABS and RBA.
+2026-10-27T02:05:31.941Z,@fingerprintchecker/cli,0.1.0,fpchecker,Apache-2.0,41864,"FingerPrint Checker command line and local MCP server: manage projects, events, rulesets and webhooks from a terminal or an AI assistant."
+2026-10-27T02:05:54.23Z,@nochurn/sdk,0.1.1,viniciusmuniz,MIT,233789,Detecta sinais de churn 7 dias antes do cancelamento. SDK JavaScript open-source.
+2026-10-27T02:05:58.22Z,eslint-plugin-botmesh,1.0.0-beta.0,andresaya,MIT,52196,"ESLint rules for @botmesh bots: v1 API leftovers, blocking runtime.enter, async plugin install, empty triggers, asks without timeout and global per-user state."
+2026-10-27T02:05:58.409Z,@botmesh/server,1.0.0-beta.0,andresaya,MIT,60943,"Webhook ingress for @botmesh providers: raw-body capture, size limits, timeouts, a concurrency cap and health endpoints for node:http, Express, Fastify and Hono (no framework dependencies)."
+2026-10-27T02:06:04.144Z,@botmesh/events,1.0.0-beta.0,andresaya,MIT,126355,"Versioned event envelopes, leased journals with fencing tokens, an at-least-once worker with retries and a dead-letter state, and a durability backend for @botmesh/core."
+2026-10-27T02:06:04.156Z,@botmesh/dialogflow,1.0.0-beta.0,andresaya,MIT,62065,Dialogflow ES/CX context for @botmesh/core — detectIntent over REST with a service-account JWT (no Google SDK) and intent-to-flow routing.
+2026-10-27T02:06:04.288Z,@botmesh/gohighlevel,1.0.0-beta.0,andresaya,MIT,64500,GoHighLevel (LeadConnector) transport for @botmesh/core — Conversations API + signed InboundMessage webhooks.
+2026-10-27T02:06:04.501Z,@botmesh/discord,1.0.0-beta.0,andresaya,MIT,115150,"Discord transport for @botmesh/core — gateway websocket events + REST sending, slash commands & components."
+2026-10-27T02:06:04.981Z,@botmesh/chatwoot,1.0.0-beta.0,andresaya,MIT,82349,Chatwoot integration for @botmesh/core — bidirectional message sync and human handoff driven by Chatwoot agents.
+2026-10-27T02:06:05.321Z,@botmesh/flow-schema,1.0.0-beta.0,andresaya,MIT,199349,"Versioned, code-free JSON flow documents for botmesh: validation, safe expressions, migrations, compilation to CompiledFlow, reverse export and deploy helpers."
+2026-10-27T02:06:05.897Z,@botmesh/email,1.0.0-beta.0,andresaya,MIT,184565,"Email transport for @botmesh/core — IMAP IDLE inbound + SMTP outbound, threading, loop and bounce protection."
+2026-10-27T02:06:08.624Z,@botmesh/gupshup,1.0.0-beta.0,andresaya,MIT,61139,Gupshup WhatsApp transport for @botmesh/core — Gupshup WhatsApp API v1 + v2 callbacks.
+2026-10-27T02:06:08.746Z,@botmesh/mongo-store,1.0.0-beta.0,andresaya,MIT,74554,MongoDB store for @botmesh/core: shared bot state and durable scheduler on the official mongodb driver.
+2026-10-27T02:06:09.208Z,@botmesh/mysql-store,1.0.0-beta.0,andresaya,MIT,95569,MySQL and MariaDB store for @botmesh/core: shared bot state and durable scheduler on mysql2.
+2026-10-27T02:06:09.809Z,@botmesh/otel,1.0.0-beta.0,andresaya,MIT,43075,"OpenTelemetry for @botmesh/core: a BotTracer over @opentelemetry/api (spans for inbound, dispatch, conversations, sends and AI calls) and a bridge from bot.metrics() to OTel metrics."
+2026-10-27T02:06:09.872Z,@botmesh/rag,1.0.0-beta.0,andresaya,MIT,87720,"Retrieval Augmented Generation for @botmesh/ai — document loaders, chunking, pluggable embeddings (OpenAI-compatible, Ollama, local hashing) and an in-memory cosine vector index with optional JSON pe…"
+2026-10-27T02:06:10.733Z,@botmesh/postgres-store,1.0.0-beta.0,andresaya,MIT,89008,"PostgreSQL store for @botmesh/core: shared bot state, durable scheduler and durable inbox/outbox on node-postgres."
+2026-10-27T02:06:11.083Z,@botmesh/nlu,1.0.0-beta.0,andresaya,MIT,38597,"Lightweight local intent/NLU for @botmesh/core — define intents with utterances, match incoming text, no external services."
+2026-10-27T02:06:11.639Z,@botmesh/moderation,1.0.0-beta.0,andresaya,MIT,77116,"Group moderation plugin for @botmesh/core — anti-spam windows, word/regex filters, invite-link filtering and warn/mute/kick/delete actions."
+2026-10-27T02:06:13.21Z,@botmesh/twilio,1.0.0-beta.0,andresaya,MIT,77701,"Twilio transport for @botmesh/core — WhatsApp + SMS over the Programmable Messaging REST API, X-Twilio-Signature webhooks."
+2026-10-27T02:06:13.737Z,@botmesh/tickets,1.0.0-beta.0,andresaya,MIT,69344,"Support tickets and queues for @botmesh/core — ctx.tools.tickets with queue positions, working hours and store persistence."
+2026-10-27T02:06:14.971Z,@botmesh/wa-gateway-kit,1.0.0-beta.0,andresaya,MIT,41663,"Building blocks shared by the botmesh WhatsApp REST gateway transports (@botmesh/evolution, @botmesh/wppconnect): JSON-over-secureFetch REST client, outbound media resolution and LID/PN identity reco…"
+2026-10-27T02:06:15.728Z,@botmesh/voice,1.0.0-beta.0,andresaya,MIT,94953,"Voice plugin for @botmesh/core — speech-to-text for inbound voice notes and text-to-speech replies (OpenAI, Deepgram, ElevenLabs) over plain HTTPS."
+2026-10-27T02:06:20.25Z,@botmesh/wppconnect,1.0.0-beta.0,andresaya,MIT,72452,WPPConnect Server (wppconnect-server REST API) transport for @botmesh/core — REST outbound + token-checked webhook ingest.
+2026-10-27T02:06:20.516Z,@botmesh/mcp,1.0.0-beta.0,andresaya,MIT,83821,"MCP server (stdio) for botmesh: validates, analyzes, migrates and diffs code-free JSON flow documents and searches the documentation. No network."
+2026-10-27T02:06:20.609Z,@botmesh/evolution,1.0.0-beta.0,andresaya,MIT,74545,Evolution API (self-hosted WhatsApp REST gateway) transport for @botmesh/core — REST outbound + signed webhook ingest.
+2026-10-27T02:06:20.731Z,@botmesh/instagram,1.0.0-beta.0,andresaya,MIT,65488,"Instagram DM transport for @botmesh/core — Messenger API for Instagram (Meta Graph): signed webhooks, quick replies, typing and read receipts."
+2026-10-27T02:06:21.567Z,@botmesh/messenger,1.0.0-beta.0,andresaya,MIT,68088,"Facebook Messenger transport for @botmesh/core — Meta Graph Send API + signed webhooks, postback buttons, generic templates, typing and read receipts."
+2026-10-27T02:07:01.211Z,@getforma/router,3.2.0-rc.1,victor-villacis,MIT,167876,"Optional owned navigation, persistent layouts and typed native transitions for Forma"
+2026-10-27T02:07:25.12Z,dsh-bili-qq,0.2.0-beta.18,mswinandmc,MIT,274268,B站自主刷片 + 今天的鱼：agent 在 DSH 会话里刷推荐、写理由，并通过内置腾讯 QQ 官方 API 推送。
+2026-10-27T02:07:30.893Z,sigmob-ads-cli,0.1.0,ggbond1223,MIT,481405,Sigmob 广告主投放平台 CLI：报表拉取、订单管理、素材上传与账户操作（双通道认证，支持脚本化投放）
+2026-10-27T02:08:16.474Z,@mp-lb/monorepo-mapper,0.1.0,felixsebastian,MIT,23815,Map declared pnpm workspace dependencies and check module boundaries.
+2026-10-27T02:08:22.174Z,ausecon,0.0.0,jackemcpherson,MIT,3214,Read Australian economic data from the ABS and RBA in your terminal.
+2026-10-27T02:08:27.763Z,@lemoncat7/dsh-context-governor,1.0.3,lemoncat7,MIT,47470,Global bounded context budgets using DSH durable compaction
+2026-10-27T02:08:35.185Z,dsh-bhky-medical-device-skills,0.1.0,jimlio,(Apache-2.0 AND MIT),779182,MedXpert agent-skill collection (21 skills) packaged as a dsh profile bundle: NMPA / FDA / EU MDR / PMDA medical-device regulatory workflows.
+2026-10-27T02:08:56.956Z,@ykurilov/remontnik-core,0.1.0,ykurilov,MIT,133864,"Ремонтник Pi: общие части — настройка, случаи, вычистка, путь к модели, Telegram, подпись запросов"
+2026-10-27T02:09:00.303Z,@ykurilov/remontnik-watch,0.1.0,ykurilov,MIT,214377,"Ремонтник Pi: сторож внутри приложения — ловит сбои, шлёт тревогу в Telegram и надёжно доставляет случаи врачу"
+2026-10-27T02:09:00.65Z,@ykurilov/remontnik-doctor,0.1.0,ykurilov,MIT,1488256,"Ремонтник Pi: врач — служба на сервере приложения, принимает случаи и лечит их"
+2026-10-27T02:09:00.706Z,@ykurilov/remontnik-browser,0.1.0,ykurilov,MIT,323022,"Ремонтник Pi: свой браузер врача — снимки страниц, действия, сохранённые входы без утечки паролей, живой экран владельца"
+2026-10-27T02:09:01.638Z,@ykurilov/remontnik-paseo-bridge,0.1.0,ykurilov,MIT,232286,"Ремонтник Pi: мост Paseo — плагин на компьютере владельца, передаёт случаи врача агенту приложения"
+2026-10-27T02:09:59.333Z,@peri-code/sdk,0.1.1,konghayao,Apache-2.0,11223201,"Peri ACP host SDK over host-injected transports, including the Emscripten WASM runtime"
+2026-10-27T02:10:33.911Z,@archie-dev/react-native-core,0.1.0,archi3monde,MIT,18884,Zero-native client SDK and plugin engine for React Native in Unified DevTools
+2026-10-27T02:11:22.405Z,@classicpad-fun/classicpad-sdk,0.1.0,classicpad-fun,GPL-3.0,180653,ClassicPad TypeScript SDK for the ClassicPad Anchor program
+2026-10-27T02:11:30.907Z,@guardn/sdk,0.0.0-stage,ayushi06,,333,Temporary package placeholder for staged publishing
+2026-10-27T02:11:50.129Z,lsaveiiiii,1.0.2,ldd166,ISC,3834516,
+2026-10-27T02:11:52.299Z,detent-ui,0.0.2,slogsdon,MIT,10236,Native web components that behave like precision controls. Pre-release: this version ships only the design tokens.
+2026-10-27T02:12:33.589Z,opencode-local-backup,1.0.0,nandoblanco,MIT,222234,"Local-first, zero-token automatic pre-edit file backup plugin for OpenCode with smart project-root resolution, multi-file patch support, retention pruning, and an interactive /backups diff and restor…"
+2026-10-27T02:12:38.493Z,opencode-local-search,1.0.0,nandoblanco,MIT,197411,"Local-first, zero-token interactive TUI popup plugin to search past OpenCode sessions with multi-term AND, regex, fuzzy matching, and inline filters (role, date, file, tool, project scope)."
+2026-10-27T02:12:53.446Z,@assistant-ui/docs-theme,0.0.0,yonom,MIT,97,placeholder
+2026-10-27T02:13:42.367Z,open-textbook-finder-mcp,0.1.0,anonymousonyx22,MIT,65988,"Open textbook finder MCP server for AI apps. Give it a textbook title, an ISBN or a course topic and it finds free legal copies on OpenStax, the Directory of Open Access Books and Open Library, looks…"
+2026-10-27T02:14:46.213Z,@octichq/airlock-sdk,0.2.0,octickavish,Apache-2.0,405910,"Agent telemetry for Node, for Airlock. Stamps the Octic attribute contract onto OpenTelemetry spans and writes them to a local spool. Brings no instrumentation of its own."
+2026-10-27T02:15:09.519Z,test-file-input-flow-requests,1.0.0,tiagorosadacostnpm2,ISC,132188,Test a custom file input property in Flow Requests
+2026-10-27T02:15:12.593Z,@yifangtongxing/element-plus,2.14.7-jyl.0,yifangtongxing,MIT,3976,A Component Library for Vue 3
+2026-10-27T02:15:52.228Z,dsh-plugin-rewind,0.0.0,xueelf,,305,
+2026-10-27T02:16:58.737Z,@bolerish/docs-mcp,0.0.0-stage,myjeong19,,340,Temporary package placeholder for staged publishing
