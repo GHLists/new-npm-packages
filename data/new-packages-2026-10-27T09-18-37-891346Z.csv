@@ -1,0 +1,178 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-27T08:13:58.388Z,@pcbjs/step,0.0.0,zhangyx1998,MIT,528,"pcbjs step: model files to triangle meshes for the 3D view, STEP through occt-import-js and glTF, GLB and VRML through small readers, in Node, the compact binary form the viewer loads, and the fit of…"
+2026-10-27T08:14:17.054Z,@pcbjs/ts-plugin,0.0.0,zhangyx1998,MIT,506,"A TypeScript language service plugin: in a file that passes a schematic module to <PCB schematic={sch}>, every export of that module is in scope by its bare name in the editor, with full types."
+2026-10-27T08:14:27.797Z,@pcbjs/skills,0.0.0,zhangyx1998,MIT,499,"Agent skills for pcbjs in the Agent Skills format: basics, best practices, porting from KiCad and from Python generators, and upgrading. The pcbjs-skills bin installs them into .claude/skills."
+2026-10-27T08:14:31.639Z,@pcbjs/lib,0.0.0,zhangyx1998,MIT,396,"pcbjs standard library: footprints, parts, values, fab rule sets, stackups and trace impedance."
+2026-10-27T08:14:34.792Z,@pcbjs/compile,0.0.0,zhangyx1998,MIT,394,"pcbjs compiler: flattening, routing, length tuning, zones, connectivity, DRC and ERC."
+2026-10-27T08:14:37.614Z,@pcbjs/lsp,0.0.0,zhangyx1998,MIT,512,"The pcbjs language server: source links, hovers, code lenses, inlay hints, DRC and ERC diagnostics and editable segments for an editor, over JSON-RPC. The dev server loads it on demand; check and bui…"
+2026-10-27T08:14:40.572Z,@pcbjs/fab,0.0.0,zhangyx1998,MIT,414,"pcbjs fab presets: <PCB> components bound to a fab stackup, rules and colours, such as @pcbjs/fab/JLCPCB/2-Layer."
+2026-10-27T08:14:44.026Z,@pcbjs/kicad,0.0.0,zhangyx1998,MIT,485,"pcbjs KiCad reader: s-expressions, .kicad_mod footprints as pcbjs footprints, kicadFootprint() against the installed KiCad library, and the .kicad_pcb importer behind pcbjs import."
+2026-10-27T08:14:46.78Z,@pcbjs/export,0.0.0,zhangyx1998,MIT,408,"pcbjs export: Gerber, Excellon, BOM, placement, SVG, the fab set and its findings, and the site data."
+2026-10-27T08:14:49.977Z,@pcbjs/viewer,0.0.0,zhangyx1998,MIT,422,"pcbjs viewer: the Vue site that shows boards in 2D and 3D, served and built from source by @pcbjs/cli through Vite."
+2026-10-27T08:14:52.859Z,@pcbjs/cli,0.0.0,zhangyx1998,MIT,486,"pcbjs command line: check, build, dev, preview, inspect, shot, docs, ide and create, with the Vite plugin, the editor bridge and the project templates. The pcbjs bin is in @pcbjs/pcbjs."
+2026-10-27T08:15:07.587Z,@pcbjs/pcbjs,0.0.0,zhangyx1998,MIT,497,"PCB design as TypeScript and JSX: installs every @pcbjs component and the pcbjs command. Design code imports from the components, such as @pcbjs/core, @pcbjs/lib and @pcbjs/fab/JLCPCB/2-Layer."
+2026-10-27T08:15:35.415Z,@iyulab/u-board-designer,0.1.0,caveman,AGPL-3.0-or-later,338851,"The authoring tool for U-Board boards, and the check and rulebook an assistant writes by"
+2026-10-27T08:18:17.292Z,@demoapplication/viecodie,3.13.1,demoapplication,MIT,1507823,"Local AI coding agent for your terminal — an open-source, offline alternative to Claude Code, Cursor, and GitHub Copilot, powered by Ollama. Private by default, free forever."
+2026-10-27T08:18:41.497Z,@klingai/plugin-cn,0.0.2-beta,klingai-fe,UNLICENSED,2100008,"Kling AI image and video creation with Kling 4.0, reusable subjects, and motion control"
+2026-10-27T08:19:01.195Z,@pretty-good/typescript-win32-x64,7.0.3-pg.1,patrickwang3,Apache-2.0,27656963,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:19:09.492Z,@pretty-good/typescript-win32-arm64,7.0.3-pg.1,patrickwang3,Apache-2.0,26111755,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:19:18.27Z,@pretty-good/typescript-linux-x64,7.0.3-pg.1,patrickwang3,Apache-2.0,27322787,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:19:26.903Z,@pretty-good/typescript-linux-arm,7.0.3-pg.1,patrickwang3,Apache-2.0,26388899,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:19:34.633Z,@pretty-good/typescript-linux-arm64,7.0.3-pg.1,patrickwang3,Apache-2.0,26126763,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:19:43.277Z,@pretty-good/typescript-darwin-x64,7.0.3-pg.1,patrickwang3,Apache-2.0,27960343,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:19:46.199Z,dsh-plugin-strict-spec,0.5.1,kw12121212,Apache-2.0,2073396,Strict workflow document viewer plugin for DeepSeek Harness
+2026-10-27T08:19:57.185Z,@pretty-good/typescript-darwin-arm64,7.0.3-pg.1,patrickwang3,Apache-2.0,26827313,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:20:01.863Z,@navikt/analytics-types,0.0.12,julian-nav,MIT,389361,Analytics types for NAV applications
+2026-10-27T08:20:52.16Z,@karunaprotocol/karuna,0.0.1,karuna-protocol,Apache-2.0,814,Karuna: a permission layer for autonomous AI agents. Full SDK coming soon.
+2026-10-27T08:21:50.475Z,@pretty-good/typescript-aix-ppc64,7.0.3-pg.1,patrickwang3,Apache-2.0,32073608,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:21:58.598Z,@pretty-good/typescript-freebsd-arm64,7.0.3-pg.1,patrickwang3,Apache-2.0,25995709,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:22:03.63Z,@edryslabs/websocket-server,1.1.0,jh-488,MIT,168301,Backend for y-websocket with integrated video streaming
+2026-10-27T08:22:06.43Z,@pretty-good/typescript-freebsd-x64,7.0.3-pg.1,patrickwang3,Apache-2.0,27236789,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:22:15.545Z,@pretty-good/typescript-linux-loong64,7.0.3-pg.1,patrickwang3,Apache-2.0,27044275,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:22:19.797Z,dsh-session-recover,0.1.0,sam889966,MIT,31828,"Recover DeepSeek Harness sessions: detect flat artifacts that break the workspace service, re-attach orphaned sessions, verify multi-frame zstd logs."
+2026-10-27T08:22:24.558Z,@pretty-good/typescript-linux-mips64el,7.0.3-pg.1,patrickwang3,Apache-2.0,29665719,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:22:26.758Z,dsh-desktop-guard,0.2.1,xiayuehua,MIT,163493,DeepSeek Harness plugin: a lightweight Windows desktop tool (screenshot + OCR + UIA) with a built-in content policy (dangerous labels / sensitive windows / secrets) and action verification (focus rea…
+2026-10-27T08:22:32.072Z,ai-sdk-sandbox-gce,0.1.0,fpasquet,MIT,301912,"Compute Engine sandboxes for AI SDK harness agents: Claude Code, Codex and friends in a virtual machine of their own on Google Cloud, Docker included, stopped between turns."
+2026-10-27T08:23:35.144Z,dsh-composer-rewind,2.0.3,asifadeaway,,127444,"Composer input history for the DeepSeek Harness Web UI: records composer contents, attachments, command tokens and the active DSH setup, then restores the whole composer state."
+2026-10-27T08:24:59.244Z,strapi-plugin-azure-sso,1.0.0,santhoshsivan-dev,MIT,55680,"Azure AD (Microsoft Entra ID) single sign-on for the Strapi 5 admin panel, for Community Edition."
+2026-10-27T08:25:19.218Z,@rine-kit/pubg-reply,0.1.5,blacksidev,MIT,74043,"How a PUBG tool result reaches the model and the chat: the presentation glue (displayText in the chat layout, replyGuide, share link), the squad voice and roster, the PUBG rules text, the bare-record…"
+2026-10-27T08:25:37.34Z,pi-central,0.2.0,sven1103-agent,MIT,9184006,Local dashboard that orchestrates multiple sandboxed Pi coding-agent sessions across working directories.
+2026-10-27T08:26:21.883Z,@tollxyz/agentkit,0.1.0,tollxyz_,MIT,14176,"Coinbase AgentKit action provider: before an agent buys a coin, check who is behind it (Robinhood Chain, Solana, BSC) with Toll. Information only."
+2026-10-27T08:26:26.533Z,@tollxyz/ai-sdk,0.1.0,tollxyz_,MIT,9600,"Vercel AI SDK tools: before an agent buys a coin, check who is behind it (Robinhood Chain, Solana, BSC) with Toll. Information only."
+2026-10-27T08:26:28.101Z,@pretty-good/typescript-linux-ppc64,7.0.3-pg.1,patrickwang3,Apache-2.0,27109803,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:26:32.698Z,@tollxyz/goat-plugin,0.1.0,tollxyz_,MIT,11374,"GOAT SDK plugin: before an agent buys a coin, check who is behind it (Robinhood Chain, Solana, BSC) with Toll. Information only."
+2026-10-27T08:26:37.437Z,@pretty-good/typescript-linux-riscv64,7.0.3-pg.1,patrickwang3,Apache-2.0,25078195,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:26:38.939Z,@tollxyz/plugin-elizaos,0.1.0,tollxyz_,MIT,13456,"elizaOS plugin: before an agent buys a coin, check who is behind it (Robinhood Chain, Solana, BSC) with Toll. Information only."
+2026-10-27T08:26:43.714Z,@tollxyz/sdk,0.1.0,tollxyz_,MIT,26516,"Client for Toll's coin checks (Robinhood Chain, Solana, BSC) over MCP. Zero runtime dependencies."
+2026-10-27T08:26:48.521Z,@pretty-good/typescript-linux-s390x,7.0.3-pg.1,patrickwang3,Apache-2.0,28289451,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:26:56.602Z,@pretty-good/typescript-netbsd-arm64,7.0.3-pg.1,patrickwang3,Apache-2.0,25930178,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:27:05.486Z,@topy-ai/cfo-cli,0.1.0,balalior,MIT,34243,"TOPY.AI's AI CFO on the command line: cash and runway, month-end close, Stripe in the books, QuickBooks reports and journals, bank rules, UK deadlines and reports for every c-level, plus a local MCP…"
+2026-10-27T08:27:11.741Z,@topy-ai/cfo-mcp,0.1.0,balalior,MIT,13810,"TOPY.AI's AI CFO as a local stdio MCP server, for MCP clients that only run local servers. Forwards to https://topy.ai/mcp/cfo."
+2026-10-27T08:27:15.49Z,@topy-ai/cfo-skills,0.1.1,balalior,MIT,108072,"Install the TOPY.AI AI CFO skills (bookkeeping, Stripe, QuickBooks, reporting, UK compliance) into Claude Code, Codex, Pi, Cursor, Gemini CLI, OpenCode, Copilot and other coding agents, for one proje…"
+2026-10-27T08:27:48.011Z,@pretty-good/typescript-netbsd-x64,7.0.3-pg.1,patrickwang3,Apache-2.0,27187642,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:27:54.364Z,@pretty-good/typescript-openbsd-arm64,7.0.3-pg.1,patrickwang3,Apache-2.0,25995822,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:27:56.869Z,@sun-protocol/sunhat,2.0.0-beta.0,leonatmoon,MIT OR Apache-2.0,24313,Project-bound Hardhat and Foundry CLI for EVM and TRON development
+2026-10-27T08:28:03.121Z,@pretty-good/typescript-openbsd-x64,7.0.3-pg.1,patrickwang3,Apache-2.0,27228710,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:28:05.992Z,@datalayer/cells,0.0.2,echarles,MIT,338937,"A spreadsheet drawn on canvas, exposed as a React component, over a headless model that also runs in Node and in workers."
+2026-10-27T08:28:11.48Z,@pretty-good/typescript-sunos-x64,7.0.3-pg.1,patrickwang3,Apache-2.0,27163146,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:28:14.351Z,@hs-jig/tms-cli,0.2.1,ghfud200,,55065,Read-only Firebase CLI for TMS
+2026-10-27T08:28:15.497Z,@pretty-good/typescript,7.0.3-pg.1,patrickwang3,Apache-2.0,2501569,TypeScript is a language for application scale JavaScript development
+2026-10-27T08:28:48.066Z,dsh-plugin-sql-security-validate,1.0.0-rc.1,csci-huangzt,MIT,3064484,"AI SQL permission guard: intercepts out-of-permission SQL generated by Agents, refuses execution instead of rewriting it, and returns a structured permission reason."
+2026-10-27T08:28:56.383Z,@chendaleiq/dsh-plugin-auto-update,0.1.17,chendaleiq,MIT,51571,"Automatic updates for the plugin bundles you choose in DeepSeek Harness, per package, through the plugin manager"
+2026-10-27T08:29:07.209Z,dsh-plugin-dafeiyu-pet,0.8.2,fayer-0610,MIT,7901235,大肥鱼桌宠：装好后 DSH 一启动，鲸鱼娘大肥鱼就出现在桌面上陪你干活；任务完成时出声提醒你，并按自己的性格点评一句。只会说话，不调用任何工具
+2026-10-27T08:29:18.062Z,dsh-nerd-mode,0.2.1,huskieeeeee,MIT,1122522,A study switch and study skills for DeepSeek Harness.
+2026-10-27T08:30:10.407Z,@obhco/payments,0.1.0,obhco,UNLICENSED,36587,Server-side TypeScript SDK for the versioned OBH payment API.
+2026-10-27T08:30:26.078Z,@hlh857/dsh-plugin-windows-use,0.2.4,hlh857,AGPL-3.0,32119,"DSH plugin exposing PowerShell-based tools to operate the local Windows machine (screenshot, UI tree dump, mouse/keyboard input, foreground app). Rebuilt for the 0.2.1 API line; works on both the web…"
+2026-10-27T08:30:40.889Z,@vite-hub/comments,0.0.0,onmax_,Apache-2.0,305,Placeholder. @vite-hub/comments is released from github.com/vite-hub/vitehub.
+2026-10-27T08:30:45.327Z,@vite-hub/connections,0.0.0,onmax_,Apache-2.0,314,Placeholder. @vite-hub/connections is released from github.com/vite-hub/vitehub.
+2026-10-27T08:30:49.754Z,@vite-hub/content,0.0.0,onmax_,Apache-2.0,302,Placeholder. @vite-hub/content is released from github.com/vite-hub/vitehub.
+2026-10-27T08:30:54.04Z,@vite-hub/forge,0.0.0,onmax_,Apache-2.0,296,Placeholder. @vite-hub/forge is released from github.com/vite-hub/vitehub.
+2026-10-27T08:30:58.785Z,@vite-hub/presets,0.0.0,onmax_,Apache-2.0,302,Placeholder. @vite-hub/presets is released from github.com/vite-hub/vitehub.
+2026-10-27T08:31:19.503Z,@rife/orpc,0.0.1-beta.1,lake2,,1883,
+2026-10-27T08:31:24.482Z,dynamic-island-svelte,0.1.0,emilm32,MIT,156160,"A Dynamic Island-style surface for Svelte 5. One black pill, one spring, and the states you write."
+2026-10-27T08:31:40.933Z,dsh-x-core-mac,0.1.20,yyh001,,37836324,
+2026-10-27T08:32:04.272Z,@davidabou/icons,0.1.1,nethriis,MIT,167886,[![npm](https://img.shields.io/npm/v/@davidabou/icons?label=%40davidabou%2Ficons)](https://www.npmjs.com/package/@davidabou/icons) [![npm](https://img.shields.io/npm/v/@davidabou/nuxt-icons?label=%40…
+2026-10-27T08:32:31.653Z,@deepmetier/robotjs,0.9.1,rjmyj,MIT,2342494,Node.js Desktop Automation.
+2026-10-27T08:33:26.052Z,@sap/openapi-extensions,0.0.0-stage,sap-ospo-admin,,345,Temporary package placeholder for staged publishing
+2026-10-27T08:33:39.088Z,dsh-x-core-win,0.1.20,yyh001,,38180965,
+2026-10-27T08:34:27.817Z,homeagent-server,0.4.4,jhxxr,MIT,582900,Self-hosted MCP relay and web dashboard
+2026-10-27T08:34:31.75Z,@zakkster/lite-yggdrasil,0.1.0,zakkster,MIT,120894,"Zero-dependency, zero-GC summary tree for mutable ordered sequences: SumSequence inserts, removes and resizes anywhere in O(log n) and seeks by any running total (count, pixels, bytes, milliseconds)…"
+2026-10-27T08:35:44.365Z,@yyh001/dsh-x,0.1.20,yyh001,MIT,11866,DSH-X 启动器的 npm 版：Electron 外壳 + 从 npm 拉取的平台核心。Desktop launcher for DeepSeek Harness via npm.
+2026-10-27T08:35:56.648Z,@vargov/mcp,0.1.0,vargov,MIT,9935878,"MCP server for AI assistants: the Vargov®Design catalogue (605 made-to-order light and decorative compositions), configurator links with room dimensions, how to get IFC4 (BIM) and FBX files, brand fa…"
+2026-10-27T08:36:01.525Z,@justeattakeaway/pie-dropdown,0.0.0,jamieomaguire,Apache-2.0,12318,PIE Design System Dropdown built using Web Components
+2026-10-27T08:36:16.207Z,downlnk,0.1.0,ayazmirza54,MIT,96603,"A zero-setup download manager that lives in your terminal: videos, music, images and files from YouTube, Instagram, Reddit and anywhere else."
+2026-10-27T08:36:37.254Z,@flare-desktop/core,0.1.0,silent-dispose,MIT,7233,TypeScript declarations for the native-injected flare desktop API
+2026-10-27T08:37:10.444Z,comark-magic-move,0.0.0,onmax_,MIT,425,Placeholder. The first release is published from https://github.com/onmax/comark-ui.
+2026-10-27T08:37:47.794Z,@tessar/opentelemetry,0.1.1,hphuc-dev,Apache-2.0,117424,"OpenTelemetry tracing for Tessar with OTLP, Langfuse and Laminar adapters."
+2026-10-27T08:39:38.494Z,@danielv123/timeshade-win32-x64,0.1.1,danielv123,UNLICENSED,15292879,"The timeshadedb binary for win32-x64, used by timeshade"
+2026-10-27T08:39:43.647Z,@danielv123/timeshade-linux-x64,0.1.1,danielv123,UNLICENSED,15086384,"The timeshadedb binary for linux-x64, used by timeshade"
+2026-10-27T08:39:49.2Z,@danielv123/timeshade-linux-arm64,0.1.1,danielv123,UNLICENSED,13896874,"The timeshadedb binary for linux-arm64, used by timeshade"
+2026-10-27T08:39:52.199Z,@edryslabs/edrys-dev,0.1.2,jh-488,MIT,77761,"Develop edrys-Lite labs locally: serves edrys-Lite, syncs on its own port and republishes the class whenever the lab file changes"
+2026-10-27T08:39:54.62Z,@danielv123/timeshade-darwin-x64,0.1.1,danielv123,UNLICENSED,15451534,"The timeshadedb binary for darwin-x64, used by timeshade"
+2026-10-27T08:40:00.042Z,@danielv123/timeshade-darwin-arm64,0.1.1,danielv123,UNLICENSED,14449574,"The timeshadedb binary for darwin-arm64, used by timeshade"
+2026-10-27T08:40:01.067Z,4d-prototype,1.0.0,ljdavns,MIT-0,241346,"Claude Code skill: turn requirement docs into 4D prototypes — a clickable prototype plus a time axis that plays the business by itself, with roles, workflow DAG, original-format data and formal check…"
+2026-10-27T08:40:03.938Z,timeshade,0.1.1,danielv123,UNLICENSED,747344,"TimeShadeDB v3 cluster map for Clusterio: captures every instance's chart, trains, vehicles and players into a TimeShadeDB sidecar and shows it in the web UI"
+2026-10-27T08:40:25.898Z,unisession,0.0.1,soulmachine,MIT,341,Reserved for UniSession. Keep your CLI. Take the session with you.
+2026-10-27T08:40:46.168Z,picopix,0.1.0,zahid15,MIT,467551,"Tiny, typed, tree-shakeable, browser-first image processing core: resize, crop, rotate, EXIF orientation, compress, convert, filters, metadata strip, Web Worker offloading and pluggable ML provider i…"
+2026-10-27T08:41:44.383Z,rtcexpress-server,0.1.0,devsquarelabs,MIT,22547,"RTCExpress server SDK for Node.js: create short-lived user tokens for voice calls, video calls and in-app chat."
+2026-10-27T08:41:51.43Z,@davidabou/nuxt-icons,0.1.1,nethriis,MIT,7233,Use the extended CodeX Icons fork in your Nuxt project
+2026-10-27T08:43:37.606Z,@tal-paas/open-mathgpt-render,0.1.3,hrbully,ISC,97238735,LaTeX/HTML 公式修复。
+2026-10-27T08:43:53.293Z,@jasmineht/build,0.0.5,ucimu,MIT,42901,
+2026-10-27T08:44:39.467Z,devin-cli-adapter,1.0.2,qoyyuum,MIT,93478,Paperclip agent adapter that runs the Devin CLI as a local process.
+2026-10-27T08:44:41.624Z,@simple-post/video,0.1.0,haltakov,MIT,321128,"Create depth-based parallax videos from images, for humans and AI agents."
+2026-10-27T08:44:56.737Z,schema-visualizer,1.0.0,athkishore,MIT,308,Reserved placeholder package for @schema-visualizer/core and @schema-visualizer/ui.
+2026-10-27T08:45:01.901Z,@yunlefun/support-client,0.4.1,yunyoujun,MIT,47824,YunLeFun Support links and private feedback integration SDK
+2026-10-27T08:45:56.681Z,@vibedev-si/dsh-remote,0.1.9,crider,MIT,555443,"VibeDev Remote: outbound authenticated desktop access with verified phones, workspace limits and cancellable trusted-device admission. Based on the MIT-licensed dsh-plugin-mobile-gateway."
+2026-10-27T08:46:20.852Z,@animastic/cupel,0.0.1,jrabdelrahman,MIT,1519,Official SDK for Cupel by Animastic
+2026-10-27T08:47:40.96Z,@aventara/access,0.1.0-rc.0,mhmd_ragheb34,SEE LICENSE IN LICENSE,1445699,"A policy engine for Aventara: role-first rules typed from your schema, compiled to a passive policies file."
+2026-10-27T08:47:41.371Z,@microbt/offline-entry-aliases,0.0.1,shaomingbo,MIT,5635,emit stable umi entry aliases for offline packages
+2026-10-27T08:47:44.02Z,@returnshmr/test-auto-ticketing,1.0.2,returnshmr,ISC,12674,
+2026-10-27T08:49:13.293Z,@im4all/gitminal,1.0.0,im4all,MIT,6030659,A keyboard-first terminal git client.
+2026-10-27T08:49:15.628Z,@mfbz/taste-cli,0.0.1,mfbz,MIT,188965,"Unofficial CLI for the Taste Engine design API. Extract brands, search, check brand adherence and export DESIGN.md from your terminal, your CI or your agent."
+2026-10-27T08:49:41.368Z,pi-minimal-plan,0.1.0,lulumaster,MIT,20973,"Minimal plan mode based on Pi's official example, with a toggleable todo panel."
+2026-10-27T08:49:45.589Z,pi-minimal-subagent,0.1.0,lulumaster,MIT,31030,"Minimal subagent based on Pi's official example, with per-task options and a compact status panel."
+2026-10-27T08:49:57.557Z,cupel-sdk,0.0.1,jrabdelrahman,MIT,1505,Official SDK for Cupel by Animastic
+2026-10-27T08:49:58.078Z,claude-share-mcp,0.1.0,dhrupad-sah,MIT,36178,Let two people's Claude Code sessions ask each other questions over LAN or the internet.
+2026-10-27T08:50:18.559Z,@graelo/pi-hide-models,0.1.0,graelo,MIT,33694,"Hide models from a provider's catalog in pi — pickers, --list-models, session restore, and subagent model resolution only see what you keep"
+2026-10-27T08:51:02.536Z,@fuxi-ailabs/dsh-static-check,1.0.0,cht3722,UNLICENSED,1898037,"Unified DSH static checks for Skill declarations: deterministic analysis, security vetting, and optional AI content critique"
+2026-10-27T08:51:04.764Z,@heartlandone/vega-angular-sandbox-pr-3354-337cec5b7de90d9d6df88f2d5960514618c97aa6,2.108.0,aprilzhu,UNLICENSED,2042377,Angular specific wrapper for @globalpayments/vega
+2026-10-27T08:51:06.834Z,@heartlandone/vega-react-sandbox-pr-3354-337cec5b7de90d9d6df88f2d5960514618c97aa6,2.108.0,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-10-27T08:51:15.25Z,@fuxi-ailabs/dsh-static-check-bundle,1.0.0,cht3722,UNLICENSED,1980,"Installable DSH bundle for unified Skill static analysis, security vetting, and optional AI critique"
+2026-10-27T08:51:17.658Z,@heartlandone/vega-sandbox-pr-3354-337cec5b7de90d9d6df88f2d5960514618c97aa6,2.108.0,aprilzhu,UNLICENSED,39718688,Vega - the design system of Global Payment Systems
+2026-10-27T08:51:17.747Z,@heartlandone/vega-vue-sandbox-pr-3354-337cec5b7de90d9d6df88f2d5960514618c97aa6,2.108.0,aprilzhu,UNLICENSED,147889,Vue specific wrapper for @globalpayments/vega
+2026-10-27T08:51:41.558Z,dsh-folia-wallpaper,1.4.3,dle-art,MIT,7226019,"Folia 壁纸引擎：在 dsh-plugin-wallpaper-engine（MIT, elysia395）基础上增加自建站点数据源与皮肤包安装"
+2026-10-27T08:51:44.091Z,@patrykparcheta/atmos,0.1.0,patrykparcheta,MIT,77268,"Subtle, interactive smoke backgrounds for React. Five WebGL animations, eight edge positions, and zero runtime dependencies beyond React."
+2026-10-27T08:52:01.184Z,dsh-stock-ticker,0.1.0,lengyeyu123,MIT,214604,DSH Desktop 自选股行情插件：侧栏实时报价卡片，点击查看分时图与柱状图（A股 / 港股 / 美股）
+2026-10-27T08:52:20.737Z,dsh-visual-safety-control,0.3.1,xiayuehua,MIT,158950,"Windows desktop-control plugin for DeepSeek Harness: screenshot, local OCR and UI Automation with a content policy (dangerous labels / sensitive windows / secrets) and action verification (hit-test,…"
+2026-10-27T08:53:11.55Z,tyfigo,0.0.0,imranbarbhuiya,MIT,7928,"Import YAML, TOML, JSON5, INI and .env files into TypeScript with full type inference"
+2026-10-27T08:53:44.766Z,@groowork/channel-dingtalk,0.10.2,jeason,MIT,1235862,Official DingTalk connector for DeepSeek Harness
+2026-10-27T08:53:58.26Z,@2lab.ai/ui,0.1.1,z-2lab,UNLICENSED,1136547,"Agent UI components for 2lab — Web Components, zero runtime dependencies. Agent Inbox, Agent Run, AI Answer, Context Window, Model Picker, Memory Panel, Agent Queue."
+2026-10-27T08:54:56.506Z,workbuddy-claude-cli,0.2.0,morningljn,MIT,80735,支持 Claude CLI 接入 WorkBuddy 模型的本地 Anthropic Messages API 兼容代理
+2026-10-27T08:55:34.22Z,dsh-model-quickswitch,0.1.0,imrocchan,MIT,89527,"One-click model presets for the DSH Web UI: save provider + model + reasoning-level combinations next to the composer's model button and switch with a click, a dropdown or a keyboard shortcut; preset…"
+2026-10-27T08:55:36.481Z,@remit/spellcheck-engine,0.0.1,mvhenten,(MPL-1.1 OR GPL-2.0-or-later OR LGPL-2.1-or-later),734842,"Hunspell compiled to WebAssembly for the Remit composer spellchecker, with its licence texts and the pins it was built from."
+2026-10-27T08:56:42.282Z,tabby-session-manager,4.1.0,bingbing77,Apache-2.0,996315,"Bilingual session management, per-window SSH logging, eight themes and port forwarding diagnostics for Tabby"
+2026-10-27T08:57:23.118Z,dsh-conversation-tree,0.1.0,shimian,MIT,1385162,对话树 / Conversation Tree：把对话按工作区与主题组织成一棵可折叠的树，并在会话列旁直接打开真实会话。
+2026-10-27T08:57:32.164Z,@octolearn/training-ui,0.1.0,octolearnsimon,MIT,714807,"Octolearn's training components (questions, multiple choice, answer feedback, today's stats) as framework-independent web components."
+2026-10-27T08:57:46.523Z,@guardbee/mcp-reverse-shield,0.1.0,guardbee.ai,MIT,398062,"MCP server that audits shipped apps for how easily they can be reverse engineered — exposed source maps, missing minification/R8/.NET obfuscation, debug info and unstripped symbols, debuggable flags,…"
+2026-10-27T08:59:21.292Z,@tarogo/bugzilla-cli,0.1.0,tpxipsterliu,MIT,22246,A command-line client for the native Bugzilla REST API
+2026-10-27T08:59:39.139Z,@rasbur/decoders,0.1.0,omanshchoudhary,MIT,73658,"Auto-detecting multi-layer string decoder. Identifies the encoding, unwraps stacked layers, and scores decoded output quality."
+2026-10-27T08:59:45.169Z,@zhengliyoux/baileys,1.0.2,zhengliyoux,MIT,8464747,A WebSockets library for interacting with WhatsApp Web
+2026-10-27T08:59:45.812Z,homeagent-runner,0.4.4,jhxxr,MIT,566060,HomeAgent outbound development runner
+2026-10-27T09:00:20.271Z,dsh-gpt-link,0.2.0,kawasumiyoyi,MIT,95078,"DeepSeek Harness plugin: sign in with ChatGPT to use GPT models through DSH's bundled pi-ai Codex route, and see that account's quota."
+2026-10-27T09:01:01.579Z,tla-ts,0.0.1,abai,MIT,811969,"A TLA+ interpreter and model checker in TypeScript, 2.4× faster than TLC"
+2026-10-27T09:01:12.958Z,@xavatech/create-xara-game,1.0.0,wharley01,MIT,23331,Start a game for Xara chats: a working starter with the Xara game SDK and the coding-assistant skill.
+2026-10-27T09:01:34.688Z,nyx-lang,0.1.0,iamsuvodeep,MIT,103178,"An expression-oriented programming language with AI built in — CLI, REPL and library."
+2026-10-27T09:02:09.686Z,@nestjs/platform-node,12.3.0,nestjscore,MIT,210792,"Nest - modern, fast, powerful node.js web framework (@platform-node)"
+2026-10-27T09:04:27.569Z,flatpickr-ce,4.7.0,colinli007,MIT,1095342,"A lightweight, powerful javascript datetime picker"
+2026-10-27T09:04:40.037Z,@ezhana/design-tokens,0.2.0,ezhana,MIT,160952,Layered design tokens compiled to CSS custom properties for the template themes.
+2026-10-27T09:04:51.124Z,@ezhana/theme,0.2.0,ezhana,MIT,39363,"Framework-agnostic theme state manager: theme, color mode, system preference and persistence."
+2026-10-27T09:06:21.473Z,pakistan-validators,0.1.0,salman_sajid,MIT,14923,"Validate, parse, and format Pakistani CNIC numbers and mobile phone numbers. Zero dependencies, TypeScript-first."
+2026-10-27T09:06:40.41Z,@cloud-ru/ds-ai-code-diff,0.0.1-preview-cbb08c35.0,cloud-ru-tech,Apache-2.0,183540,Количество добавленных и удаленных строк кода
+2026-10-27T09:06:55.993Z,@cloud-ru/ds-ai-history-line,0.0.1-preview-cbb08c35.0,cloud-ru-tech,Apache-2.0,371912,"Вертикальная лента шагов AI-диалога — запросы пользователя, ответы агента, вызовы инструментов, чекпоинты"
+2026-10-27T09:07:32.274Z,paperclip-plugin-gitlab,0.2.0,ruining,Apache-2.0,2464594,Synchronize GitLab issues and merge requests with Paperclip.
+2026-10-27T09:07:49.212Z,prawn-mcp,1.0.1,prawn-dev,Apache-2.0,185821,"On-device syntax pre-flight, import resolution, and local context companion for Cursor, Claude Desktop, Antigravity, and Windsurf"
+2026-10-27T09:08:17.126Z,@jzg223/design-runtime,0.0.1,jzg223,UNLICENSED,601794,低代码设计平台运行端组件库：把设计端（design-ui）产出的配置，在 vben 基座上渲染成表格 / 表单 / 树 / 组合视图。位于「基座」与「业务项目」之间，版本化、可复用、不拷贝。
+2026-10-27T09:08:29.371Z,@amaster.ai/mirrorx-device-client,0.1.0,2betop,Apache-2.0,453036,"Standalone MirrorX device bridge for Pi, Codex and WorkBuddy executors"
+2026-10-27T09:08:32.675Z,@highknow/design,0.0.0,cymarechal,MIT,418279,"HighKnow's design system: the base tokens, the fonts and the React components every HighKnow surface is built from."
+2026-10-27T09:09:01.729Z,@microphi/endpoint,2.2.0,davidecavaliere,MIT,123603,"Decorators for API endpoints (@Endpoint, @Lambda, @Body, @Path) whose metadata drives AWS Lambda and Express handlers and the serverless.yml functions block"
+2026-10-27T09:09:30.28Z,mqtt2matter,0.1.0,hobbyquaker,Apache-2.0,1649153,Generic MQTT to Matter bridge: compose Matter devices by hand and map them onto MQTT topics with configurable payloads; importers for Zigbee2MQTT and Home Assistant MQTT discovery
+2026-10-27T09:09:45.736Z,@modelfit/cli,1.7.0,modelfit,MIT,318468,"Detect your machine and get THE best local LLM (Ollama) it can run, from the ModelFit hardware database. Embeddable library + CLI. Offline, zero-dependency."
+2026-10-27T09:09:48.251Z,sanjae-apply,0.5.2,seojaehong,MIT,6504982,"산재 신청 도우미 — 급여 종류·재해 분기별 필요 서식·첨부·근거 조문, 근로복지공단 정본 PDF 채우기 (MCP·CLI). 승인 가능성은 계산하지 않고 입력을 저장하지 않는다."
+2026-10-27T09:10:00.755Z,meerkat-taskpanel,0.1.0,tanyu216,MIT,3946656,Task management board for AI Agent teams.
+2026-10-27T09:10:57.159Z,dsh-jj-panel,0.2.1,wzciczw,MIT,118448,"Jujutsu (jj) history panel for the DeepSeek Harness web GUI: change graph, change details, changed files and diffs, jj-native."
+2026-10-27T09:11:13.772Z,@xterm/addon-program-status,0.1.0,tyriar,MIT,103556,"An xterm.js addon for the program status sequence, OSC 7501. Programs use it to report what they are doing, such as working, blocked on the user, done or failed, so the embedder can show that status…"
+2026-10-27T09:11:15.679Z,@casoon/lightweight-pdf,0.3.0,jseidel,MIT,1295870,"Render PDFs from a JSON document/template in WASM — no native dependencies, runs in Node.js and edge runtimes (Cloudflare Workers, ...)."
+2026-10-27T09:12:10.274Z,@amauryuh/components,0.1.0,amauryuh,MIT,45574,"Ready-made React components for whole features, starting with a chat. Styled with Tailwind CSS v4"
+2026-10-27T09:12:24.702Z,dsh-life,1.0.0,mofashi,MIT,121524,DSH 插件「AI生命」：按《数字生命》v1.1 实现。记忆分两条轴——L1–L6 记忆层（存什么）与 R1–R8 想起通道（怎么被想起）；含召回打分、遗忘曲线、再巩固、身份档案、能力边界、反思与目标。记忆内容复用记忆插件（dsh-memory）的存储，本插件只读不写。
+2026-10-27T09:12:32.305Z,dsh-life-ui,1.0.0,mofashi,MIT,35633,AI 生命插件（dsh-life）的可视化面板：身份档案 / 六层记忆分布 / 召回流水
+2026-10-27T09:12:40.031Z,dsh-voice-say,0.1.0,mofashi,MIT,70347,DSH 插件「语音合成」：用一段参考音频的音色，把任意文字说出来。云端音色复刻（MiniMax / OpenAI 兼容）或本机 F5-TTS 零样本克隆，两条路都行。
+2026-10-27T09:13:22.419Z,cortico-world-slim,0.1.0,lfy-sys,MIT,44038,给大肥鱼用的上下文瘦身包：把工作区里越堆越厚的交接笔记折成一份摘要，旧笔记移到工作区外的归档目录，每轮自动维护——少读原文，少花 token。Fold ever-growing handoff notes into one digest and archive the old ones outside the workspace.
+2026-10-27T09:13:39.941Z,asana-breath-fieldnotes,1.0.0,ngtest,MIT,64722,"Structured reference notes on Hatha and Hot Yoga 26+2 asanas, pranayama protocols, props, and recovery sequences."
+2026-10-27T09:14:23.07Z,@bazulu1/n8n-nodes-bexio,0.1.0,bazulu1,MIT,226707,"n8n nodes for bexio: contacts, invoices, quotes, orders, supplier bills, expenses, items, projects, timesheets, tasks, notes, files and users, plus a trigger for new and changed records"
+2026-10-27T09:16:18.797Z,tiptap-vue-kit-docx,0.1.0,superlu,MIT,25454,Convert Word .docx to HTML with LaTeX math nodes for tiptap-vue-kit
+2026-10-27T09:16:48.647Z,tiptap-vue-kit-render,0.1.0,superlu,MIT,95940,Read-only uni-app / mini-program renderer for tiptap-vue-kit documents
+2026-10-27T09:16:56.185Z,@jasmineht/eslint-config,0.0.0-stage,ucimu,,346,Temporary package placeholder for staged publishing
+2026-10-27T09:17:02.125Z,captainbattle,0.0.0-stage,wujianfen,,335,Temporary package placeholder for staged publishing
+2026-10-27T09:17:13.804Z,tiptap-vue-kit,0.0.0-stage,superlu,,336,Temporary package placeholder for staged publishing
+2026-10-27T09:18:11.758Z,ascii-pond,0.0.0-stage,i098,,332,Temporary package placeholder for staged publishing
+2026-10-27T09:18:19.762Z,@jasmineht/tsconfig,0.0.0-stage,ucimu,,341,Temporary package placeholder for staged publishing
