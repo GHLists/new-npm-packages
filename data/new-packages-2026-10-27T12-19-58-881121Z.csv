@@ -1,0 +1,215 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-27T11:17:29.748Z,@moxxy/plugin-provider-acp,0.45.0,webeferen,MIT,496843,"Agent connections over the Agent Client Protocol for moxxy: OpenCode itself does the work through `opencode acp`, on the person's own OpenCode setup, while Moxxy shows it, answers its permission asks…"
+2026-10-27T11:17:52.388Z,@moxxy/plugin-provider-codex-agent,0.45.0,webeferen,MIT,555305,"Codex agent connection for moxxy: OpenAI Codex itself does the work through `codex app-server`, on the person's ChatGPT sign-in, while Moxxy shows it, asks for approvals and questions, and lends its…"
+2026-10-27T11:17:53.692Z,@mrfentmen/orcid-mcp,1.0.0,mrfentmen,MIT,9712,"Search ORCID researcher profiles, read affiliations and list published works - keyless."
+2026-10-27T11:17:59.466Z,@mrfentmen/openaire-mcp,1.0.0,mrfentmen,MIT,9087,"Search OpenAIRE for European research publications, datasets and funded projects - keyless."
+2026-10-27T11:18:03.976Z,@mrfentmen/kegg-mcp,1.0.0,mrfentmen,MIT,9850,"Search KEGG genes and compounds, read entries and list their pathways - keyless."
+2026-10-27T11:18:07.794Z,@mrfentmen/ncbi-taxonomy-mcp,1.0.0,mrfentmen,MIT,9037,"Look up NCBI taxonomy records, scientific names and full lineage by name or taxon ID - keyless."
+2026-10-27T11:18:11.37Z,@mrfentmen/icd10-mcp,1.0.0,mrfentmen,MIT,9177,Search and validate ICD-10-CM diagnosis codes from the US NLM clinical tables - keyless.
+2026-10-27T11:18:14.757Z,@mrfentmen/epss-mcp,1.0.0,mrfentmen,MIT,8180,Exploit Prediction Scoring System scores: how likely a CVE will be exploited in the next 30 days - keyless.
+2026-10-27T11:18:18.309Z,@mrfentmen/cwe-mcp,1.0.0,mrfentmen,MIT,9183,"MITRE CWE weakness records: descriptions, mitigations, consequences and the weakness hierarchy - keyless."
+2026-10-27T11:18:21.524Z,@mrfentmen/fiscaldata-mcp,1.0.0,mrfentmen,MIT,8449,"US Treasury fiscal data: national debt, average interest rates and the Monthly Treasury Statement - keyless."
+2026-10-27T11:18:24.843Z,@mrfentmen/cftc-mcp,1.0.0,mrfentmen,MIT,9285,"Commitments of Traders reports: positioning by commercials, funds and small traders for futures markets - keyless."
+2026-10-27T11:18:29.301Z,@mrfentmen/usno-mcp,1.0.0,mrfentmen,MIT,9028,"Sun rise and set, moon phases, twilight times and the seasons from the US Naval Observatory - keyless."
+2026-10-27T11:18:32.989Z,@mrfentmen/ourairports-mcp,1.0.0,mrfentmen,MIT,12018,"Global airport database: lookup by IATA or ICAO code, search by name or city, and find airports near a point - keyless."
+2026-10-27T11:18:36.992Z,@mrfentmen/worms-mcp,1.0.0,mrfentmen,MIT,9863,"World Register of Marine Species: search names, read records, children and full classification - keyless."
+2026-10-27T11:18:40.61Z,@mrfentmen/hpo-mcp,1.0.0,mrfentmen,MIT,8675,"Search HPO phenotype terms, read definitions and explore the phenotype hierarchy - keyless."
+2026-10-27T11:18:44.296Z,@mrfentmen/ols-mcp,1.0.0,mrfentmen,MIT,9257,Search and read terms across hundreds of biomedical ontologies via the EBI OLS - keyless.
+2026-10-27T11:18:51.587Z,@mrfentmen/quickgo-mcp,1.0.0,mrfentmen,MIT,8551,"Gene Ontology terms, definitions, hierarchy and protein annotations via EBI QuickGO - keyless."
+2026-10-27T11:18:57.256Z,@mrfentmen/ecb-mcp,1.0.0,mrfentmen,MIT,9393,"European Central Bank reference rates, rate history and the ECB policy rate - keyless."
+2026-10-27T11:19:02.612Z,@mrfentmen/inspire-hep-mcp,1.0.0,mrfentmen,MIT,10138,"INSPIRE-HEP particle physics literature: search papers, read records and find authors - keyless."
+2026-10-27T11:19:05.856Z,@mrfentmen/brreg-mcp,1.0.0,mrfentmen,MIT,9351,"Norwegian company registry: search entities, read details and see registered roles - keyless."
+2026-10-27T11:19:11.449Z,@mrfentmen/raiderio-mcp,1.0.0,mrfentmen,MIT,7940,World of Warcraft Mythic+ data: weekly affixes and recent high-end dungeon runs - keyless.
+2026-10-27T11:19:15.983Z,@mrfentmen/unstats-mcp,1.0.0,mrfentmen,MIT,8173,"UN Sustainable Development Goals: goal list, indicators and official indicator data - keyless."
+2026-10-27T11:19:19.679Z,@mrfentmen/adsb-mcp,1.0.0,mrfentmen,MIT,9260,Live ADS-B aircraft positions from adsb.lol: find traffic near a point or look up a callsign or ICAO hex - keyless.
+2026-10-27T11:19:23.868Z,@mrfentmen/proteins-mcp,1.0.0,mrfentmen,MIT,9494,"UniProt protein records via the EBI Proteins API: sequences, names, organisms, features and taxon listings - keyless."
+2026-10-27T11:19:27.064Z,@mrfentmen/pride-mcp,1.0.0,mrfentmen,MIT,8320,Proteomics identifications database: search mass-spec projects and read their methods and metadata - keyless.
+2026-10-27T11:19:30.567Z,@mrfentmen/biostudies-mcp,1.0.0,mrfentmen,MIT,8065,EBI BioStudies: search studies across life-science repositories and read their metadata - keyless.
+2026-10-27T11:19:34.916Z,@mrfentmen/geo-mcp,1.0.0,mrfentmen,MIT,10937,"NCBI GEO datasets from E-utilities: search transcriptomics and methylation studies, count hits, and read one dataset's details - keyless."
+2026-10-27T11:19:39.658Z,@mrfentmen/epa-echo-mcp,1.0.0,mrfentmen,MIT,12855,"EPA ECHO enforcement and compliance: search regulated facilities by state or city, read enforcement totals, and pull a facility site record from Envirofacts - keyless."
+2026-10-27T11:19:46.588Z,@mrfentmen/obis-mcp,1.0.0,mrfentmen,MIT,10622,"OBIS marine biodiversity: taxon records, accepted names, children, occurrence records and datasets from the global ocean biodiversity index - keyless."
+2026-10-27T11:19:53.507Z,@mrfentmen/mfapi-mcp,1.0.0,mrfentmen,MIT,9837,"Indian mutual fund NAVs from MFapi: search schemes by name, read the latest NAV, and pull a NAV history - keyless."
+2026-10-27T11:20:00.427Z,@mrfentmen/adsbdb-mcp,1.0.0,mrfentmen,MIT,7690,"Aircraft and route metadata: map a callsign to its flight route, or a hex code to the airframe - keyless."
+2026-10-27T11:20:05.061Z,@mrfentmen/chronam-mcp,1.0.0,mrfentmen,MIT,12635,"Chronicling America historical US newspapers at the Library of Congress: search scanned pages 1690-1963 by keyword, state or date, and read one page's details - keyless."
+2026-10-27T11:20:09.87Z,@mrfentmen/ip-subnet-mcp,1.0.0,mrfentmen,MIT,10374,"IPv4 subnet calculator: network, broadcast, masks, host ranges and CIDR splitting - fully local."
+2026-10-27T11:20:16.064Z,@mrfentmen/ulid-mcp,1.0.0,mrfentmen,MIT,8937,"Generate, parse and sort ULIDs: lexicographically sortable unique IDs with embedded timestamps - fully local."
+2026-10-27T11:20:20.313Z,@mrfentmen/isbn-mcp,1.0.0,mrfentmen,MIT,9625,"Validate and convert ISBN-10 and ISBN-13 numbers, with checksum maths - fully local."
+2026-10-27T11:20:24.155Z,@mrfentmen/morse-mcp,1.0.0,mrfentmen,MIT,8331,"Encode text to Morse and decode Morse back, covering letters, digits and punctuation - fully local."
+2026-10-27T11:20:27.344Z,@mrfentmen/truth-table-mcp,1.0.0,mrfentmen,MIT,12976,Evaluate boolean logic expressions and build full truth tables - fully local.
+2026-10-27T11:20:30.75Z,@mrfentmen/graph-algorithms-mcp,1.0.0,mrfentmen,MIT,11126,"Shortest paths, topological order and connected components for directed or undirected graphs - fully local."
+2026-10-27T11:20:34.509Z,@mrfentmen/matrix-mcp,1.0.0,mrfentmen,MIT,10304,"Multiply, invert and find the determinant of matrices with exact rational arithmetic - fully local."
+2026-10-27T11:20:37.84Z,@mrfentmen/statistics-mcp,1.0.0,mrfentmen,MIT,10825,"Descriptive statistics, correlation and linear regression for numeric samples - fully local."
+2026-10-27T11:20:41.869Z,@mrfentmen/finance-calc-mcp,1.0.0,mrfentmen,MIT,10453,"Loan payments, amortisation schedules, compound interest and net present value - fully local."
+2026-10-27T11:20:47.366Z,@mrfentmen/date-math-mcp,1.0.0,mrfentmen,MIT,9904,"Business-day counting, date shifting and calendar differences with holiday support - fully local."
+2026-10-27T11:20:51.776Z,@mrfentmen/toml-mcp,1.0.0,mrfentmen,MIT,30761,"Read, write and query TOML configuration files: parse TOML to JSON, emit TOML from JSON, and pull one value out by path. Runs locally, no network."
+2026-10-27T11:20:56.04Z,@mrfentmen/jsonpath-mcp,1.0.0,mrfentmen,MIT,11780,"Query JSON documents with JSONPath expressions, list every path and count matches - fully local."
+2026-10-27T11:21:00.996Z,@mrfentmen/useragent-mcp,1.0.0,mrfentmen,MIT,10829,"Parse user-agent strings into browser, engine, OS and device, and flag crawlers - fully local."
+2026-10-27T11:21:05.993Z,@mrfentmen/maze-mcp,1.0.0,mrfentmen,MIT,11332,"Generate, solve and render mazes deterministically from a seed - fully local."
+2026-10-27T11:21:11.443Z,@mrfentmen/poker-mcp,1.0.0,mrfentmen,MIT,11180,"Evaluate poker hands, compare players and pick the best five from seven cards - fully local."
+2026-10-27T11:21:18.821Z,@mrfentmen/nonogram-mcp,1.0.0,mrfentmen,MIT,11136,"Solve, check and render nonogram (picross) puzzles from row and column clues - fully local."
+2026-10-27T11:21:21.332Z,@morainet/hexostudio,1.0.0,martinleo,MIT,515393,"A local, cloud and desktop studio for Hexo blogs"
+2026-10-27T11:21:25.353Z,@mrfentmen/game-of-life-mcp,1.0.0,mrfentmen,MIT,10262,"Run Conway's Game of Life, detect cycles and measure populations on ASCII grids - fully local."
+2026-10-27T11:21:25.604Z,cortico-world-pasture,0.1.2,jiwangxu,MIT,90256,Coopanion World：连接《动物栏：桌面牧场》，让桌宠查看、喂食、抚摸、买卖动物并写牧场小时报。
+2026-10-27T11:21:31.997Z,@mrfentmen/colorblind-mcp,1.0.0,mrfentmen,MIT,10507,"Simulate colour-vision deficiency on hex colours and palettes, and measure how far colours collapse - fully local."
+2026-10-27T11:21:37.116Z,@mrfentmen/locale-format-mcp,1.0.0,mrfentmen,MIT,10459,"Format numbers, currencies, dates and relative times for any locale using ICU data - fully local."
+2026-10-27T11:21:40.749Z,@ottoai/rivet,0.1.3,toolsotto,Apache-2.0,372946,Evidence-driven backend engineering skills for Codex and Claude Code.
+2026-10-27T11:21:41.148Z,@mrfentmen/metar-mcp,1.0.0,mrfentmen,MIT,10130,"Live aviation weather from NOAA: current METAR observations, TAF forecasts and station records for airports worldwide - keyless."
+2026-10-27T11:21:49.327Z,@koishijs/plugin-adapter-fluxer,0.0.0,shigma,,116,Fluxer adapter for Koishi.
+2026-10-27T11:21:57.669Z,@ohos-ports/prisma-studio,0.511.0-beta.0,ljry,Apache-2.0,3380207,Modern database IDE
+2026-10-27T11:22:03.028Z,@shop-os/attribution,0.1.0,manish-shopos,UNLICENSED,532498,"Where a visitor came from and which GA4 default channel that is, for ShopOS and Sloosh."
+2026-10-27T11:22:08.001Z,@wow-two-beta/fe-files,0.0.1,sulton-max,MIT,84914,Files domain UI: the TypeScript mirror of the Files contract and the file icon pack.
+2026-10-27T11:23:33.343Z,solite-icons,0.1.0,yuujin33,MIT,1268107,Original rounded outline icons for Solite and React or SVG projects.
+2026-10-27T11:23:51.112Z,@ohos-ports/theia-process,1.76.0-beta.0,ljry,EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0,345889,Theia process support.
+2026-10-27T11:24:13.71Z,dsh-trust-center,0.1.0,3ooch,MIT,107061,"Read-only trust audit for MCP tools and Skills in DeepSeek Harness: prompt-injection signals, hidden Unicode, dangerous capabilities, schema bloat, and context cost, with an in-Web Trust Center panel."
+2026-10-27T11:25:23.796Z,@widgetic/workflows-engine,0.1.1,widgeticdev,SEE LICENSE IN LICENSE,101272,"The graph model and the state machine of Widgetic Workflows: parse and validate a workflow, move a visitor from one composition to the next, and simulate a run. No dependencies. Shared by the Embed S…"
+2026-10-27T11:25:34.452Z,mr-juwel-fca,1.0.0,mrjuwel555,MIT,1001011,"Lightweight and enhanced unofficial Facebook Chat API client for Messenger automation, real-time MQTT listening, and session-stable chat operations."
+2026-10-27T11:26:04.319Z,healix-design,0.1.0,faisalsalamah,UNLICENSED,442878,"Design checking for Healix runs: reads the screens a run recorded and reports what changed since the approved version, always-true layout rules, and language-vs-language differences, grouped by cause."
+2026-10-27T11:26:55.412Z,@maity/maity,0.0.1,oliver-zehentleitner,MIT,269,Reserved for Maity (https://github.com/oliver-zehentleitner/maity)
+2026-10-27T11:26:57.676Z,@ottoai/zuno-plaid,0.1.0-alpha.0,toolsotto,Apache-2.0,107312,Provider-native Plaid API client for Zuno.
+2026-10-27T11:28:37.007Z,dsh-plugin-duckduckgo-search,0.1.0,elmeis,MIT,19876,"Keyless DuckDuckGo search provider for DeepSeek Harness: the built-in web_search works with no API key and no infrastructure (HTML/Lite endpoints, parsing, result dedup)"
+2026-10-27T11:28:42.107Z,dsh-plugin-deepseek-clock,0.1.0,elmeis,MIT,116752,"DeepSeek price clock and balance for DeepSeek Harness: a composer chip shown only while a DeepSeek route is selected — peak/off-peak price window (green/red, Beijing hours) plus the topped-up balance…"
+2026-10-27T11:28:48.436Z,@ohos-ports/dynamsoft-javascript-barcode,9.6.42-beta.0,ljry,SEE LICENSE IN LICENSE,18693779,"Dynamsoft Barcode Reader JS is a recognition SDK which enables you to embed barcode reading functionality in your web, desktop, and mobile applications. With a few lines of JavaScript code, you can d…"
+2026-10-27T11:28:50.338Z,@ohos-ports/shellscape-koa-static,4.0.5-beta.0,ljry,MIT,10664,Static file serving middleware for koa
+2026-10-27T11:28:54.99Z,dsh-plugin-threejs-workbench,0.1.0,elmeis,MIT,15901716,"Three.js workbench for DeepSeek Harness: live scene preview (iframe + import map, works offline via bundled three) and a project inspector — three revision, WebGL/WebGPU usage, removed/renamed APIs,…"
+2026-10-27T11:29:16.682Z,@sigrun/ext-gateway,0.1.1,mikemacleod,MIT,370818,"Gateway engine extension for sigrun (pi-durable): chat-transport supervision — channel adapters, inbound pipeline, delivery"
+2026-10-27T11:29:57.79Z,@mrfentmen/punycode-mcp,1.0.0,mrfentmen,MIT,8630,Convert internationalised domain names between Unicode and punycode (IDNA) and inspect labels - fully local.
+2026-10-27T11:30:01.715Z,@mrfentmen/color-contrast-mcp,1.0.0,mrfentmen,MIT,9627,"WCAG contrast ratios, AA/AAA checks and accessible colour suggestions for hex pairs - fully local."
+2026-10-27T11:30:09.412Z,@vue-patternfly/charts,6.0.0-rc.1,mtorromeo,,484296,
+2026-10-27T11:30:13.572Z,@vue-patternfly/drag-drop,6.0.0-rc.1,mtorromeo,,123433,PatternFly drag and drop solution
+2026-10-27T11:30:51.49Z,@zhnuggo/sectioned-headers,1.0.0,zhnuggo,AGPL-3.0,49374,Separates text into sections using a customizable header format.
+2026-10-27T11:33:28.668Z,enterprise-db-mcp-server,1.0.0,wyksean,MIT,50541655,"MCP database server with private temporary sessions, scoped access, SQL, MongoDB, Redis and SSH tunnels"
+2026-10-27T11:33:32.98Z,@ohos-ports/commit-message-validator,1.0.2-beta.0,ljry,MIT,6794,Git commit-msg hook validator
+2026-10-27T11:33:51.3Z,@kvant-app/kvant-cli,0.1.2,woshiandrei,MIT,438761,"Unofficial CLI for the Kvant user API (tasks, messenger, projects, policies, stats; web JWT)"
+2026-10-27T11:35:05.81Z,@vstlmkh/creating-skills,0.2.0,vstlmkh,MIT,74569,"Agent-agnostic skill that generates spec-conformant agent skills — ground, scaffold, fill, validate, eval, refine. Implements the Agent Skills open standard; Python stdlib only, zero runtime dependen…"
+2026-10-27T11:35:23.259Z,@ohos-ports/qlik-eslint-config,2.1.6-beta.0,ljry,ISC,63465,Qlik's ESLint configs
+2026-10-27T11:35:26.103Z,@nothumanwork/pi-orchestration,0.1.0,rodat.dev,MIT,524463,Durable multi-agent workflows for Pi and the command line
+2026-10-27T11:35:30.312Z,just-sharing,1.0.0,dev-abhishek,MIT,22136,Share files between your PC and phone over Wi-Fi with a QR code
+2026-10-27T11:35:31.994Z,@grame/faust-ui,1.2.0,grame,GPL-3.0-or-later,1065521,Faust UI elements compositor
+2026-10-27T11:35:39.215Z,@basecompute/basert-darwin-arm64,0.4.2,isura_basecompute,SEE LICENSE IN LICENSE,77633494,BaseRT engine for Apple Silicon (Metal)
+2026-10-27T11:35:54.389Z,@basecompute/basert-linux-arm64-cuda,0.4.2,isura_basecompute,SEE LICENSE IN LICENSE,124271490,BaseRT engine for Linux/arm64 with NVIDIA CUDA (GB10 / DGX Spark)
+2026-10-27T11:35:55.576Z,@ohos-ports/lwrjs-tools,0.24.4-beta.1,ljry,MIT,53747,
+2026-10-27T11:36:00.572Z,@basecompute/basert,0.4.2,isura_basecompute,Apache-2.0,60345,Fast local LLM inference on Apple Silicon and NVIDIA GB10: the basert CLI and Node.js bindings
+2026-10-27T11:36:13.854Z,ritween,0.1.0,nexifle,MIT,329809,"Code-first WebGPU video framework. Preview, render a PNG frame, and export H.264 MP4 from a project manifest."
+2026-10-27T11:36:16.881Z,@dzbot/sdk,0.1.0,dzbot,MIT,5571549,"Build your own DayZ Discord bot or website on dzbot: players, wallets, shop, tickets, kill feed and every other dzbot feature through one typed client, plus Sign in with dzbot, webhooks and live even…"
+2026-10-27T11:36:27.015Z,@ohos-ports/api,0.24.4-beta.1,ljry,MIT,161835,
+2026-10-27T11:36:35.256Z,@cro-studio/core,0.1.0,janno27,MIT,31036,"Dependency-free runtime for A/B test payloads: idempotent lifecycle, scoped CSS, single observer, configurable tracking."
+2026-10-27T11:36:35.516Z,@mcp-abap-adt/adt-clients-legacy,0.1.0,fr0ster,LGPL-3.0-only,354507,"Clients for legacy SAP ABAP systems (7.40), built on @mcp-abap-adt/adt-clients"
+2026-10-27T11:36:44.565Z,cro-studio,0.1.0,janno27,MIT,99033,"Build, validate and QA A/B test variations as safe, self-contained JS/CSS payloads for any testing platform."
+2026-10-27T11:36:45.474Z,@zenvark/otel,3.1.0,GitHub Actions,MIT,15305,OpenTelemetry tracing for Zenvark Circuit Breaker
+2026-10-27T11:36:50.103Z,@ohos-ports/search-in-workspace,1.76.0-beta.0,ljry,EPL-2.0 OR GPL-2.0-only WITH Classpath-exception-2.0,740731,Theia - Search in workspace
+2026-10-27T11:36:50.323Z,svjeez,0.2.0,saiashirwadr,,119090,"Animated SVGs in TSX. One file out, no JavaScript."
+2026-10-27T11:36:51.288Z,@wireapp/core-crypto-native,11.0.0-pre.2,sthorm,GPL-3.0,46037933,CoreCrypto bindings for native JavaScript runtimes
+2026-10-27T11:37:10.604Z,@rosalana/ui,0.0.1,michael_bany,MIT,1118704,"Vue 3 UI library with shared theming, composables and components for Rosalana apps built on Inertia.js"
+2026-10-27T11:37:19.358Z,asciiunits,0.1.0,ronaldtse,BSD-2-Clause,63661,TypeScript runtime for the asciiunits PARG artifact: load the checksummed grammar artifact and parse UnitsML AsciiUnits expressions
+2026-10-27T11:37:28.714Z,unitsdb,0.1.0,ronaldtse,BSD-2-Clause,334290,"UnitsDB in TypeScript: typed access to the units database (units, prefixes, dimensions, quantities, currencies) rebuilt from unitsml/unitsdb releases"
+2026-10-27T11:37:49.532Z,@pm3munchen/taqwa-ui,0.3.0,itsmeyaw,MIT,1097938,Lit web components for Taqwa UI.
+2026-10-27T11:37:53.207Z,create-dreamer-app,1.0.1,glorbicon,ISC,7324,Temporary package placeholder for staged publishing
+2026-10-27T11:38:33.67Z,cozy-world,1.0.0,ruythbot_huy,MIT,115981,"Deterministic, seed-based cozy world generator: terrain, biomes, weather, creatures, loot and events."
+2026-10-27T11:38:54.706Z,pi-context-stats,1.4.0,xinghe-labs,MIT,51050,"pi 扩展:状态栏实时显示压缩次数+缓存读+花费,/ctxstats 展示压缩历史、缓存命中率、缓存浪费(miss 计费)与各项费用分解"
+2026-10-27T11:39:52.812Z,readpst,0.2.0,pvburleigh,MIT,6432,Convert Outlook .pst files to .eml files with libpst's readpst
+2026-10-27T11:40:22.661Z,@ohos-ports/cline,3.0.73-beta.0,ljry,Apache-2.0,56787686,"Autonomous coding agent CLI - capable of creating/editing files, running commands, using the browser, and more"
+2026-10-27T11:40:53.871Z,@mosnpm/litesocket,0.1.0,mosnpm,ISC,656458,Lightweight WebSocket client and server with RPC support
+2026-10-27T11:41:28.838Z,dsh-key-switch,0.1.0,luzhenqian,MIT,52784,"DeepSeek Harness plugin: keep several DeepSeek API keys, switch the active one in one click, and see each key's live balance in the sidebar. 多个 API Key 池 + 一键切换 + 实时余额。"
+2026-10-27T11:41:35.278Z,@ohos-ports/webpack-plugin-ramdisk,0.2.0-beta.0,ljry,MPL-2.0,31115,🐏 A webpack plugin for blazing fast builds on a RAM disk / drive
+2026-10-27T11:41:36.633Z,unitsml,0.1.0,ronaldtse,BSD-2-Clause,437327,"UnitsML in TypeScript: parse and render UnitsML unit expressions natively (PARG artifact runtime, no Opal)"
+2026-10-27T11:41:51.386Z,dsh-plugin-git-command,0.1.0,adoleiiiiii,MIT,29325,把 /commit、/push、/commit-push 注入会话，按配置的格式提交与推送代码。
+2026-10-27T11:42:00.105Z,@cmnyhh/qdash-neo-plugin-bili,0.1.0,cmnyhh,MIT,97012,定时让模型去逛 B 站，看到值得聊的就发卡片 + 一句评价
+2026-10-27T11:42:12.721Z,rozum,0.0.1,rozum,Apache-2.0,337,A memory layer for AI agents.
+2026-10-27T11:42:58.708Z,@paved-ai/pvd,0.1.0,alhazmiai,UNLICENSED,45540,Paved for Node: connect Claude Code and Codex (session capture and policy checks). The TypeScript SDK comes next.
+2026-10-27T11:43:01.683Z,dsh-novel-author-preset,0.1.0,xiaoou2026,MIT,6240,Agent preset for DeepSeek Harness Novel Studio: a blank author persona that only defines the output contract.
+2026-10-27T11:44:13.718Z,dsh-peak-valley-meter,0.3.0,aabbcco,BSD-3-Clause,128607,峰谷时计 / Peak & Valley Meter：峰谷时段、价格与倒计时、调用消耗特效和自定义显示。
+2026-10-27T11:44:22Z,@03white/my-utils,0.1.3,03white,MIT,2730,Learning npm/pnpm publish: a tiny utility library
+2026-10-27T11:44:41.254Z,@ohos-ports/webtorrent,3.0.21-beta.0,ljry,MIT,6304890,Streaming torrent client
+2026-10-27T11:44:47.354Z,mindmeld-mcp,0.3.1,dhrupad-sah,MIT,64715,"mindmeld: let your Claude Code session ask a teammate's Claude Code session questions. E2E encrypted, read-only answers, approved in Claude."
+2026-10-27T11:44:55.644Z,@manohub/tfs-mcp-server,0.0.2,tsing-y,UNLICENSED,104613,MCP Server for TFS 2018 — query and manage Bugs / Work Items
+2026-10-27T11:45:39.411Z,@amedia/kragl-cli,1.0.0,amediautvikling,MIT,7513,The kragl CLI without any runners; install the kragl-* tools you use alongside it
+2026-10-27T11:47:07.219Z,@wasp/spec,0.0.0-dead.0,wasp-lang-info,MIT,473,Placeholder for trusted publishing setup. Use @wasp.sh/spec until the first @wasp release.
+2026-10-27T11:47:10.898Z,@wasp/wasp-cli-darwin-arm64-unknown,0.0.0-dead.0,wasp-lang-info,MIT,573,Placeholder for trusted publishing setup. Use @wasp.sh/wasp-cli-darwin-arm64-unknown until the first @wasp release.
+2026-10-27T11:47:14.736Z,@wasp/wasp-cli-darwin-x64-unknown,0.0.0-dead.0,wasp-lang-info,MIT,565,Placeholder for trusted publishing setup. Use @wasp.sh/wasp-cli-darwin-x64-unknown until the first @wasp release.
+2026-10-27T11:47:19.216Z,@wasp/wasp-cli-linux-arm64-glibc,0.0.0-dead.0,wasp-lang-info,MIT,561,Placeholder for trusted publishing setup. Use @wasp.sh/wasp-cli-linux-arm64-glibc until the first @wasp release.
+2026-10-27T11:47:23.29Z,@wasp/wasp-cli-linux-x64-glibc,0.0.0-dead.0,wasp-lang-info,MIT,553,Placeholder for trusted publishing setup. Use @wasp.sh/wasp-cli-linux-x64-glibc until the first @wasp release.
+2026-10-27T11:47:27.3Z,@wasp/wasp-cli-linux-x64-musl,0.0.0-dead.0,wasp-lang-info,MIT,549,Placeholder for trusted publishing setup. Use @wasp.sh/wasp-cli-linux-x64-musl until the first @wasp release.
+2026-10-27T11:47:28.621Z,@bergbacher/help-desk,0.1.1,bergbacher,MIT,134924,"Browser SDK, widget and React bindings for the Bergbacher help desk requester API."
+2026-10-27T11:47:32.724Z,@wasp/wasp-cli,0.0.0-dead.0,wasp-lang-info,MIT,489,Placeholder for trusted publishing setup. Use @wasp.sh/wasp-cli until the first @wasp release.
+2026-10-27T11:47:58.118Z,baobaoniu-imooc-test,1.2.1,baobaoniu,ISC,362,
+2026-10-27T11:48:20.488Z,bizpole-chat-support,1.0.0,anudasr2,,522538,Reusable BizNova AI support chat widget for React applications
+2026-10-27T11:48:24.041Z,dsh-pet-to-family,0.4.0,wanyurukong,MIT,69613072,吃白饭的蓝色大肥鱼，赖在 DeepSeek Harness 里不走了。平时爱玩魔方、爱吃各种零食、偶尔打个盹，闲不住就在桌面上溜达两圈，被你拖来甩去也照旧赖着；你忙起来它跟着忙前忙后，也会帮你打理余额钱包，闲下来爱碎碎念，还乐意陪你唠两句。
+2026-10-27T11:48:30.202Z,@intelation/nexis,0.1.0,intelation-labs,MIT,46609,"Find and remove personal data (PII) from text – redact, mask, hash or encrypt emails, names, NHS and SSN numbers. GDPR, UK GDPR, HIPAA. SDK and CLI for Intelation Nexis. Zero dependencies."
+2026-10-27T11:48:44.97Z,@intelation/nexis-mcp,0.1.0,intelation-labs,MIT,8793,"MCP server that lets Claude, Cursor and other AI assistants find and remove personal data (PII) from text. Regulation-aware (GDPR, UK GDPR, HIPAA). Powered by Intelation Nexis."
+2026-10-27T11:48:54.634Z,@intelation/nexis-ai,0.1.0,intelation-labs,MIT,12518,"Privacy middleware for the Vercel AI SDK: removes personal data (PII) from every prompt before it reaches the LLM. GDPR, UK GDPR, HIPAA. Powered by Intelation Nexis."
+2026-10-27T11:49:01.177Z,@padcom/pscript,0.1.0,padcom,MIT,1117658,PScript - a JavaScript-inspired scripting engine
+2026-10-27T11:49:32.19Z,@notnotype/nb-plugin-sdk,0.11.0,notnotype,AGPL-3.0-only,2255412,NeuroBook 插件 SDK：类型与构建期实现；插件运行时由宿主提供同一份
+2026-10-27T11:49:39.453Z,@notnotype/neuro-book,0.11.0,notnotype,AGPL-3.0-only,11939619,NeuroBook v2: a local-first long-form writing workbench rebuilt on the plugin runtime.
+2026-10-27T11:49:44.932Z,findai-cli,0.1.0,brandlc,MIT,13048,"Search FindAIforWork, a curated directory of AI tools, from the terminal."
+2026-10-27T11:49:53.361Z,@jamolpe88/dsh-deepseek-peakoffpeak,0.1.0,jamolpe88,MIT,280171,"DeepSeek peak/off-peak rate clock in the DeepSeek Harness composer: a live 24-hour tariff bar, local windows, countdown and the official price table. Appears only with a DeepSeek model selected, what…"
+2026-10-27T11:49:58.066Z,@welkui/react,1.0.0,welkdock_tech,MIT,513847,"Playful, accessible React components for React and Next.js."
+2026-10-27T11:50:09.481Z,@maycombhq/atticus,2.0.0-beta.2,tomgrge,Apache-2.0,36200792,"Atticus: map a multi-repo ecosystem from its code and run every change from idea to release, with an AI critic and human approvals. The atticus command line and its app in one package."
+2026-10-27T11:50:26.175Z,@webwayai/opencode-provider,0.1.0,tfoxcroft,MIT,10075,OpenCode provider plugin that discovers Webway AI models dynamically.
+2026-10-27T11:50:57.268Z,@fmsim/figure-capabilities,3.0.0-beta.0,heartyoh,,36743,"fmsim 이 피규어에 입히는 능력의 정의(descriptor)와 그 순수 함수, fmsim 기본표. 장면·DOM·API 의존이 없어 operato-figure 모델러와 fmsim 장면이 같이 읽는다 (ADR-0167)."
+2026-10-27T11:51:08.592Z,@ohos-ports/vercel-remote-nx,2.0.0-beta.0,ljry,MPL-2.0,24794,Remote caching for @nrwl/nx using Vercel Remote Cache
+2026-10-27T11:51:28.452Z,onerack-store-sheet,0.1.0,mr_gain,MIT,14066,Opens native ios and android sheet in react native
+2026-10-27T11:52:03.456Z,@nl-design-system-community/clippy-a11y-validator,0.2.0,nl-design-system-ci,,109636,Accessibility validator provided by NL Design System
+2026-10-27T11:52:15.668Z,agenticeditor,0.1.1,lightningdesigner,MIT,111177,"A video editor agents drive. Films are React code on a beat grid, sections are owned by agents, and humans review by pinning notes to frames."
+2026-10-27T11:52:25.892Z,@nl-design-system-community/typo3-ckeditor-plugin,0.0.2,nl-design-system-ci,,37399,
+2026-10-27T11:52:27.991Z,@camstack/addon-provider-enpal,0.1.1,apocaliss92,MIT,5242190,"Enpal solar-box device-provider addon for CamStack — PV, battery, grid, house and heat-pump readings from the box's local InfluxDB (device page as fallback)"
+2026-10-27T11:52:29.98Z,wm-v-4-apis-sdk,0.0.1,developer-sdksio,MIT,7422706,Sample SDKs for wm by APIMatic
+2026-10-27T11:52:41.144Z,@babeuloula/n8n-nodes-signal-api,0.3.1,babeuloula,MIT,156422,Send and receive Signal messages (numbers and groups) with Signal CLI REST API
+2026-10-27T11:52:46.308Z,@kajtomato/encedo-hem-sdk,0.1.0,kajtomato,MIT,211541,TypeScript client for the Encedo HEM REST API
+2026-10-27T11:52:48.99Z,@1eg/moovin-mcp,0.1.0,renatomjr,UNLICENSED,1900038,Proxy MCP local para os serviços da Moovin
+2026-10-27T11:52:50.051Z,convertx-sdk,0.1.0,fredobumma,MIT,56829,"Preview: a typed client for the REST API proposed in ConvertX pull request #693. Convert files between 1000+ formats from Node, Bun, Deno or the browser."
+2026-10-27T11:53:03.85Z,skill-html-semantic-recipes,1.0.0,yassinehaimouch,MIT,57927,"Agent skill: semantic HTML5 markup recipes for common UI components (cards, nav, breadcrumbs, forms, accordion), adapted for HTML, React, Vue, Angular, Svelte, and Astro."
+2026-10-27T11:53:26.831Z,@gitmyabi/slvt,1.0.0,gitmyabi-bot,MIT,243475,"Auto-generated TypeScript type bindings for SLVT (build etherscan-slvt-65259408-1793101975197, commit 69a4afd, branch etherscan)"
+2026-10-27T11:55:01.826Z,release-cherry-pick,1.0.0,drobinetm,MIT,131596,CLI tool for automating release cherry-pick and GitLab MR creation
+2026-10-27T11:56:47.133Z,@heartheyouth/brandbook-sdk,1.2.0,matshty,UNLICENSED,61948,"Types, React provider and Next.js helpers for Brand Book tools."
+2026-10-27T11:56:56.866Z,@x-magpie/core,0.1.0,straydragon,MIT,28998,"Shared magpie gateway client: catalog fetch with ETag, tolerant row parsing, protocol and config normalization."
+2026-10-27T11:56:59.888Z,@x-magpie/pi,0.1.0,straydragon,MIT,114087,"Register a magpie gateway as a pi model provider: dynamic catalog via refreshModels, streaming on pi built-in APIs."
+2026-10-27T11:57:01.761Z,grammy-switchboard,0.1.0,djjeck,MIT,80631,"A grammY plugin that routes a bot's Telegram topics, replies and buttons to typed handlers"
+2026-10-27T11:57:03.81Z,@x-magpie/dsh,0.1.0,straydragon,MIT,203990,"Pull the model catalog of a magpie gateway into a dsh llm-pi-ai provider route, with a reviewed diff before any write."
+2026-10-27T11:57:06.274Z,@x-magpie/opencode,0.1.0,straydragon,MIT,12518,"Register a magpie gateway as an opencode model provider: live catalog via provider.transform, openai-compatible streaming."
+2026-10-27T11:57:10.458Z,@qinsilk/scm-agent-tools,0.1.0,veesong,UNLICENSED,416943,秦丝生产ERP AI 助手 CLI：供 AI Agent 查询商品、物料、生产单、物料采购单数据
+2026-10-27T11:57:16.391Z,code-standard,0.1.0,yosefsabag,MIT,288129,One coding standard for every repo: shared Biome and Ruff configs and a check that scores a repo without AI.
+2026-10-27T11:57:28.681Z,@may_thet_htar_aung/lemonade-design-system,0.1.0,may_thet_htar_aung,ISC,254196,"Design tokens and React components for Lemonade Found, a lost-and-found service. Every value comes from Figma as a token, and every component is built from one Figma component set, tested against it,…"
+2026-10-27T11:58:09.476Z,@gorgo/medusa-payment-paypal,2.0.0,gorgohead,MIT,991772,PayPal payment provider for Medusa
+2026-10-27T11:58:12.978Z,tsprover,0.0.2,abai,MIT,108356,Model check TypeScript by compiling it to TLA+
+2026-10-27T11:58:24.32Z,@gorgo/medusa-payment-stripe,2.0.0,gorgohead,MIT,371921,Stripe payment provider for Medusa
+2026-10-27T11:58:26.583Z,@ohos-ports/stdlib-assert-is-int8array,0.2.3-beta.0,lljry,Apache-2.0,26735,Test if a value is an Int8Array.
+2026-10-27T11:58:50.705Z,@alnlabs/contentstack-mcp,1.2.0,alnlabs,MIT,749925,"MCP server for interacting with the Contentstack Management API, including deep schema resolution"
+2026-10-27T11:59:21.915Z,@justfortytwo/transcript,1.0.0-0,enricodeleo,MIT,50039,"Searchable conversation log for fortytwo channels, stored in the memory SQLite file."
+2026-10-27T11:59:24.262Z,@thomas-elliott/paperclip-plugin-forgejo,0.1.0,thomaselliott,MIT,4309776,Connect a Paperclip instance to a self-hosted Forgejo server
+2026-10-27T12:01:41.706Z,@mufanc/screeps-arena-web-client,0.1.0,mufanc,,255217,Run the original Screeps Arena client in a web browser
+2026-10-27T12:02:05.699Z,@ntlinkmx/nt,0.1.0,carlos_vera,,107223,CLI ntlink para el backend Go de NTLink IA Invoice
+2026-10-27T12:02:07.385Z,godiegodie,0.1.0,diegorribeiro,MIT,170579,A dynamic Instagram-post-style React Native component: fixed media header (photo/video/carousel) with a scrollable comments list below.
+2026-10-27T12:02:13.167Z,radiality,1.0.2,hnile,,187835,"Radiality - Elegant, Customizable Radial Menu Toolbar for Windows & macOS"
+2026-10-27T12:02:33.469Z,@mplr/cli,0.2.0,matt.burns,MIT,70217,CLI to connect and sync mplr MPLR with Claude Code
+2026-10-27T12:04:10.102Z,cortico-world-wechat-claw,0.1.0,unnori,MIT,429578,在微信里和桌宠一对一聊天：文字、图片、文件双向收发，语音用微信的转写文本，视频可按需抽帧给模型看。
+2026-10-27T12:04:37.347Z,@qodalis/electron-cli,2.0.0-rc.2,nicolae.lupei,MIT,86484,"Electron integration for the @qodalis CLI terminal engine. Provides native file dialogs, clipboard, and shell integration."
+2026-10-27T12:06:35.241Z,@smarthorizon-labs/dmn-model,0.1.0,cesarlins,Apache-2.0,59975,Normalized DMN model types: DMN 1.1 through 1.5 documents in one internal shape
+2026-10-27T12:06:44.856Z,@smarthorizon-labs/dmn-xml,0.1.0,cesarlins,Apache-2.0,128184,"Secure, version-aware DMN XML loading for DMN 1.1 through 1.5"
+2026-10-27T12:06:57.348Z,@smarthorizon-labs/dmn-feel,0.1.0,cesarlins,Apache-2.0,485821,A FEEL parser and evaluator with DMN-conformant DECIMAL128 decimal arithmetic
+2026-10-27T12:07:12.701Z,@smarthorizon-labs/dmn-runtime,0.1.0,cesarlins,Apache-2.0,264174,"DMN decision graph compilation and evaluation: decision tables, all seven hit policies, and an audit trace"
+2026-10-27T12:07:22.553Z,@smarthorizon-labs/dmn,0.1.0,cesarlins,Apache-2.0,23600,"TypeScript DMN decision engine: load DMN 1.1-1.5 models, evaluate FEEL and decision tables with DECIMAL128 arithmetic, and get an audit trace"
+2026-10-27T12:07:25.658Z,mirrorless,0.1.0,alesya_h,Apache-2.0,447975,"Server data as component input, not client-owned application state."
+2026-10-27T12:08:06.302Z,@testsecuiitytestme/cache-helper,0.0.0-stage,testsecuiitytestme,,354,Temporary package placeholder for staged publishing
+2026-10-27T12:08:32.439Z,@meret-technologies/mcp,0.1.0,lachiehamilton,UNLICENSED,749518,Model Context Protocol server for Meret: lets coding agents inspect and operate on Meret projects through the admin API with a personal access token
+2026-10-27T12:10:08.712Z,@a11yradar/mcp-server,0.1.0,tomasfurch,MIT,57378,"MCP server + CLI for scanning a running dev server and its React/JSX source for accessibility issues, with A11yRadar fix guidance."
+2026-10-27T12:10:15.091Z,yousheng-mcp,0.1.0,miounet,MIT,13870,有声（www.imiaoda.cn）的 MCP server：让 AI 直接检索中文有声小说与 ASMR
+2026-10-27T12:10:25.475Z,@zukhruf/embeddings,0.3.47,ezzabuzaid,MIT,31353,"A collection of document embeddings in SQLite. It embeds only new or changed text through an AI SDK embedding model, and finds the nearest documents of a document by exact cosine similarity inside a…"
+2026-10-27T12:10:32.577Z,@bwui/react,0.1.0,nigelcopley,MIT,120781,React adapter for Brickwork: typed components bound to the Brickwork token substrate and bw-* class contract.
+2026-10-27T12:10:39.71Z,@bwui/vue,0.1.0,nigelcopley,MIT,80159,Vue 3 adapter for Brickwork: typed components bound to the Brickwork token substrate and bw-* class contract.
+2026-10-27T12:10:42.805Z,@bwui/js,0.1.0,nigelcopley,MIT,37990,"Progressive-enhancement behaviours for Brickwork HTML gallery markup (combobox, date picker, CMDK, modal, toast)."
+2026-10-27T12:10:45.422Z,@zukhruf/event-grouping,0.3.47,ezzabuzaid,MIT,61846,"Puts reports of one real event into one event. It shortlists the nearest reports by embedding similarity, scores each pair with a frozen logistic model, and clusters the 7-day window again with group…"
+2026-10-27T12:10:49.467Z,@bwui/tailwind,0.1.0,nigelcopley,MIT,16029,"Brickwork Tailwind presets — v4 CSS-first theme and v3 JS preset, wired to the Brickwork token layer."
+2026-10-27T12:12:20.678Z,@ohos-ports/monodon-rust,3.0.0-beta.0,ljry,MIT,164527,A Nx plugin that adds support for Cargo and Rust in your Nx workspace.
+2026-10-27T12:12:51.217Z,@pairble/core,0.3.0,svermigo,Apache-2.0,73711,"Transport-agnostic ESP32 provisioning client: protocomm, Security1, scan and config"
+2026-10-27T12:12:54.506Z,babylonjs-map,0.0.0-placeholder.0,apowers313,MIT,625,Placeholder so npm trusted publishing can be configured. The real package is published from https://github.com/graphty-org/graphty-monorepo
+2026-10-27T12:13:05.249Z,@pairble/web,0.3.0,svermigo,Apache-2.0,22569,Web Bluetooth and SoftAP transports plus the pairble provisioning UI
+2026-10-27T12:13:30.068Z,@pairble/cli,0.3.0,svermigo,Apache-2.0,20739,"Generate per-device proof-of-possession and QR codes, and write them to NVS"
+2026-10-27T12:14:28.6Z,n8n-nodes-xberg-pdf-vlm-extractor,0.1.0,michaelwittmann,MIT,216230,"n8n community node to OCR PDFs with a Vision Language Model and extract structured fields, powered by xberg"
+2026-10-27T12:14:33.113Z,@qbflex/client,0.1.1,quadbits.io,,442430,"Browser ESM client for QB Flex: database, authentication, realtime and storage. Vanilla JavaScript and TypeScript are supported. Use a publishable project key; credentials and data access are checked…"
+2026-10-27T12:15:12.384Z,@supatype/shared,0.7.0,supatype_nic,Apache-2.0,42056,Rules the Supatype CLI and the self-host control plane must agree on
+2026-10-27T12:15:54.504Z,cortico-world-dsh,0.1.3,uesugikumo,MIT,47276,Cortico World: DSH 启动器 — 替你把 DeepSeek Harness 的 dsh web 拉起来、打开、或者关掉。
+2026-10-27T12:16:20.621Z,@bielakamil/n8n-nodes-plugins,0.1.12,bielakamil,MIT,528000,"n8n community nodes for the OpenProject, Kaneo and Woodpecker CI APIs"
+2026-10-27T12:16:35.405Z,@ifasn/md-doc-mcp,1.0.3,ifasn,MIT,7527,"Markdown document toolkit MCP server: TOC generation, word count, table formatting"
+2026-10-27T12:16:55.033Z,n8n-nodes-pline,0.1.0,pline.ai,MIT,192124,"n8n community node for the Pline API: scrape pages, batch-scrape URL lists, crawl sites, map a site's URLs, and search the web."
+2026-10-27T12:17:37.6Z,opencode-prompt-enhancer-translator,3.2.0,hany-hassan,MIT,17498,Opencode plugin: auto-enhances & professionally translates Arabic prompts to English using local small models (Ollama/Transformers) with glossary fallback. One-command install/uninstall.
+2026-10-27T12:17:52.288Z,@qbflex/react,0.1.1,quadbits.io,,63646,React 19 context provider and custom hooks for QB Flex. Shares the Vanilla JavaScript client and uses a provider-scoped TanStack Query cache.
