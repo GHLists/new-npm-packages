@@ -1,0 +1,196 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-28T04:19:04.291Z,@longzai-intelligence-browser-extension/engineering,0.0.1,joydragon,UNLICENSED,10766,Longzai Intelligence 浏览器扩展工程包
+2026-10-28T04:19:14.609Z,@longzai-intelligence-browser-extension/runtime,0.0.1,joydragon,UNLICENSED,8241,Longzai Intelligence 浏览器扩展运行时工具包
+2026-10-28T04:21:16.051Z,@apiverve/node-red-apiverve,0.1.0,apivervehq,MIT,21507,"Node-RED node for APIVerve: call any of 380+ APIs (email and phone validation, IP lookup, weather, currency, DNS, PDF and more) with one API key."
+2026-10-28T04:21:42.663Z,@haybarn/ext-apart-h2-0-0-linux-arm64,202610.25.225426,query-farm,MIT,14502178,"Haybarn extension 'apart' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-apart-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:21:42.782Z,@haybarn/ext-apart-h2-0-0-linux-x64,202610.25.225426,query-farm,MIT,14883744,"Haybarn extension 'apart' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-apart-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:21:47.291Z,@haybarn/ext-apart-h2-0-0-wasm-eh,202610.25.225426,query-farm,MIT,669889,WebAssembly (eh) build of the Haybarn extension 'apart' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T04:21:50.563Z,@haybarn/ext-apart-h2-0-0-win32-x64,202610.25.225426,query-farm,MIT,50379083,"Haybarn extension 'apart' for win32/x64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-apart-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:21:52.458Z,@haybarn/ext-apart-h2-0-0-darwin-arm64,202610.25.225426,query-farm,MIT,10854994,"Haybarn extension 'apart' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-apart-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:21:54.321Z,@haybarn/ext-apart-h2-0-0-wasm-threads,202610.25.225426,query-farm,MIT,669016,WebAssembly (threads) build of the Haybarn extension 'apart' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T04:21:58.282Z,@haybarn/ext-apart-h2-0-0,202610.25.225426,query-farm,MIT,4512,Evaluate affine decision trees in SQL
+2026-10-28T04:23:57.666Z,@jidekaixin2dian/dsh-toolgate,0.1.5,jidekaixin2dian,MIT,109370,"Manage MCP servers and skills in DeepSeek Harness, and control which tools enter the next prompt. Budget changes need no config edit or restart."
+2026-10-28T04:24:18.689Z,@anyforgex/recordforge,0.1.1,anyforgex,MIT,111478,Record browser workflows over CDP and replay them deterministically. An MCP server + CLI that gives any agent-driven browser automation a capture-and-replay capability.
+2026-10-28T04:24:39.555Z,dsh-connect-qwenwork,0.1.2,tangbugu,MIT,380637,把千问办公（QwenWork）接入 DeepSeek Harness：读取本机已登录的会话，在本机回环起一个 OpenAI 兼容桥，把 DSH 的模型请求翻译成千问办公的 ACP 对话协议。支持从桌面客户端/浏览器 Cookie 库自动恢复登录态、手填 Cookie 兜底，并提供 doctor 诊断。
+2026-10-28T04:24:55.291Z,@deepwhale-cn/dsh-deliverable-pack,0.1.0,feely0208,MIT,51655,深鲸交付包：把产出物打成一个可核对、可追溯的交付物（zip + 文件清单 + SHA256 校验）
+2026-10-28T04:25:47.052Z,seedset,0.1.0,mohsinzia,MIT,747660,"Deterministic, schema-aware, relational test data and edge cases for TypeScript and JavaScript. Zero runtime dependencies."
+2026-10-28T04:25:53.729Z,dsh-annotate-sync,1.0.0,chopperh0824,MIT,276504,"DeepSeek Harness 页面批注插件：在侧边栏打开本地应用预览，点选元素写批注，批注按页面分组持久化，并支持一键发送到对话与 read_annotations 工具读取。Visual UI annotation plugin for DeepSeek Harness: preview a local app in the right sidebar, pick elements, ke…"
+2026-10-28T04:26:38.369Z,ofdrw-rs,0.1.0,lihongjie0209,Apache-2.0,114162260,Node.js bindings for the Rust OFD core
+2026-10-28T04:26:47.445Z,@zwopper/agent,0.1.0,threesil,MIT,28913,"Give your AI agent a Zwopper name and let it pay and get paid in sats, gas-free."
+2026-10-28T04:27:05.592Z,dsh-team-flow-continuous,0.2.0-alpha.9,jidekaixin2dian,MIT,28884,Let user Steer end a single Agent Teams wait while teammates keep running.
+2026-10-28T04:27:50.715Z,@harnessed-ts/chai,0.6.0,joseph.gaudet,MIT,17994,"Chai assertions for harnesses: `await expect(banner).to.be.absent` under Mocha, WebdriverIO or Cypress."
+2026-10-28T04:27:51.8Z,rosefc,0.2.1,okdunli,MIT,3150273,"The next-century web framework: zero-hydration, compile-time reactivity, single binary deploy"
+2026-10-28T04:28:00.948Z,@paid-tw/ubn,0.1.1,linyiru,MIT,14468,Taiwan business registry (統一編號) open dataset + a tiny checkout VAT-to-title lookup client
+2026-10-28T04:28:10.127Z,@harnessed-ts/resolve,0.6.0,joseph.gaudet,MIT,331021,"The shared selector resolver behind the Testing Library-family drivers, plus an injectable build for drivers that resolve inside a remote page."
+2026-10-28T04:28:15.002Z,@harnessed-ts/cypress,0.6.0,joseph.gaudet,MIT,246366,"Cypress driver for @harnessed-ts/core: a cy.harness() bridge that runs harnesses against the app under test, in e2e and component tests."
+2026-10-28T04:28:22.992Z,dsh-customize-mode,1.0.0,taroxd,MIT,67852,"Choose the system prompt, tools, and automatic context for each DeepSeek Harness conversation."
+2026-10-28T04:28:23.18Z,@harnessed-ts/ember,0.6.0,joseph.gaudet,MIT,74497,"Ember driver for @harnessed-ts/core: interactions through @ember/test-helpers, settled after every one. Rendering and application tests."
+2026-10-28T04:28:31.041Z,@harnessed-ts/gherkin,0.6.0,joseph.gaudet,MIT,109788,"Gherkin support for harnessed: a scenario-scoped world, a typed page registry and a {page} parameter type, with adapters for playwright-bdd, cucumber-js, Cypress cucumber and ember-cli-yadda."
+2026-10-28T04:28:39.159Z,@harnessed-ts/puppeteer,0.6.0,joseph.gaudet,MIT,176859,"Puppeteer driver for @harnessed-ts/core: the shared resolver injected into the page, ElementHandle actions, and frames entered with contentFrame()."
+2026-10-28T04:28:43.249Z,@harnessed-ts/qunit,0.6.0,joseph.gaudet,MIT,20236,"QUnit assertions for harnesses: `await assert.harness(banner).isAbsent()`, for ember-qunit and any QUnit suite."
+2026-10-28T04:28:50.596Z,@harnessed-ts/storybook,0.6.0,joseph.gaudet,MIT,95371,"Harnesses in Storybook: drive play() functions through a harness, and open stories as fixtures from any runner that can navigate."
+2026-10-28T04:28:54.82Z,@harnessed-ts/testcafe,0.6.0,joseph.gaudet,MIT,222901,TestCafe driver for @harnessed-ts/core: harnesses resolve through TestCafe's client functions with the shared resolver.
+2026-10-28T04:28:59.004Z,@harnessed-ts/vitest-browser,0.6.0,joseph.gaudet,MIT,74904,"Vitest browser mode driver for @harnessed-ts/core: in-page resolution, provider-native user events."
+2026-10-28T04:29:03.012Z,@harnessed-ts/webdriverio,0.6.0,joseph.gaudet,MIT,200050,"WebdriverIO driver for @harnessed-ts/core: the shared resolver injected into the page, WebDriver actions, and frames entered with switchFrame."
+2026-10-28T04:29:03.195Z,@melonhelp/feedback,0.1.0,danilotorol,MIT,68539,"In-app feedback widget, bug reporting with screenshots, changelog and error tracking for web apps (React, Next.js, Vue or plain JavaScript)."
+2026-10-28T04:29:10.681Z,@deepwhale-cn/dsh-key-vault,0.1.0,feely0208,MIT,47198,深鲸 Key 保险箱：本机保存你自带的多个 API Key（只显示掩码、0600 权限、不上传）
+2026-10-28T04:29:52.889Z,opencode-notepad,0.0.3,parzival2l,MIT,65100,"OpenCode Desktop side-panel notepad, one per chat: Markdown notes with a checklist the coding agent can add to."
+2026-10-28T04:30:42.524Z,@docstudio/api-client,168.18.0,yura.mozol,MIT,5318695,DocStudio API client
+2026-10-28T04:30:45.146Z,itzbm-tools,1.1.0,daitu,ISC,2511,提供了zbm测试的格式化时间、HTMLEscape相关的功能
+2026-10-28T04:30:48.661Z,@deepwhale-cn/dsh-office-hub,0.1.0,feely0208,MIT,38293,深鲸办公台：一个面板看全办公/交付/行业合规插件，复制安装命令、直达文档
+2026-10-28T04:31:38.201Z,@deepwhale-cn/dsh-remote-gate,0.1.1,feely0208,MIT,45288,深鲸远程访问加固：上线前扫描监听地址、鉴权开关、CORS、默认口令等远程暴露风险
+2026-10-28T04:31:51.586Z,@woosau/dsh-skill-experts,0.1.0,woosau,MIT,2175809,DSH plugin: manage skill experts (persona + on-disk skills) in the sidebar and summon them as spawn subagents
+2026-10-28T04:33:07.847Z,pi-utree,1.0.0,andrewprock,MIT,9187,"Conversation tree for pi with the /tree UX: user statements and final assistant responses only, no thinking or tool calls"
+2026-10-28T04:33:33.095Z,astro-mdx-editor,0.1.0,benjitusk,MIT,404439,A live-preview MDX editor that runs inside an Astro site's dev server.
+2026-10-28T04:34:41.152Z,dsh-test-guard,0.1.0,zzy0919,MIT,87110,Test development workbench plugin for DeepSeek Harness
+2026-10-28T04:35:30.926Z,dsh-moa-native,4.3.4,duxiaoli,MIT,308714,"Native Mixture-of-Agents for DeepSeek Harness — generation-time fusion: reference models advise, the acting model executes. Config-as-model recipes, per-route injection modules, workspace-isolated ru…"
+2026-10-28T04:35:44.647Z,@podo-life/aictx-shared,0.2.0,isaac-kim,MIT,12145,Shared types and path-overlap logic for aictx (presence and handoff layer for AI coding sessions)
+2026-10-28T04:35:48.598Z,@podo-life/aictx,0.2.0,isaac-kim,MIT,74855,aictx: presence and handoff layer for AI coding sessions. Local stdio MCP proxy + CLI for Claude Code / Codex
+2026-10-28T04:36:59.678Z,@apothic-ai/pi-rooms,0.1.0,zensin,MIT,79219,"Rooms, DMs and reply-all for pi coding agent sessions. File-based, no daemon."
+2026-10-28T04:37:28.391Z,@whizard/fastify-wrapper,5.0.0,slpl,MIT,52349,"API framework using Fastify & Mongoose with auto-generated CRUD routes, mixins, hooks, and Swagger docs"
+2026-10-28T04:40:14.659Z,@consensys/besu-dev-quickstart,0.3.0,joshuafernandes,Apache-2.0,25066368,A utility that lets developers try out Besu for private or public networks
+2026-10-28T04:41:45.137Z,loopprism,0.1.0,mark_future_ai,MIT,22406,"Install the LoopPrism hooks for Claude Code and Codex, and check what your agents did."
+2026-10-28T04:42:41.465Z,@longzai-intelligence-atomic/core,0.0.4,joydragon,UNLICENSED,34107,Longzai Intelligence Atomic 核心类型与 Schema
+2026-10-28T04:42:57.59Z,@moloodev/typescript-config,0.1.0,youngerjo,,1656,
+2026-10-28T04:43:13.666Z,@haybarn/ext-eurostat-h2-0-0-linux-arm64,202610.25.11824,query-farm,MIT,24574767,"Haybarn extension 'eurostat' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-eurostat-h2-0-0 meta-package; use that, not this leaf, in your dependenc…"
+2026-10-28T04:43:14.041Z,@haybarn/ext-eurostat-h2-0-0-linux-x64,202610.25.11824,query-farm,MIT,30705789,"Haybarn extension 'eurostat' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-eurostat-h2-0-0 meta-package; use that, not this leaf, in your dependencie…"
+2026-10-28T04:43:18.141Z,@haybarn/ext-eurostat-h2-0-0-wasm-eh,202610.25.11824,query-farm,MIT,909286,WebAssembly (eh) build of the Haybarn extension 'eurostat' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T04:43:21.967Z,@haybarn/ext-eurostat-h2-0-0-win32-x64,202610.25.11824,query-farm,MIT,56946592,"Haybarn extension 'eurostat' for win32/x64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-eurostat-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:43:25.89Z,@haybarn/ext-eurostat-h2-0-0-darwin-arm64,202610.25.11824,query-farm,MIT,21057079,"Haybarn extension 'eurostat' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-eurostat-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:43:26.021Z,@haybarn/ext-eurostat-h2-0-0-wasm-threads,202610.25.11824,query-farm,MIT,907423,WebAssembly (threads) build of the Haybarn extension 'eurostat' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T04:43:26.388Z,@moloodev/platform,0.1.0,youngerjo,,58923,
+2026-10-28T04:43:29.948Z,@haybarn/ext-eurostat-h2-0-0,202610.25.11824,query-farm,MIT,4707,Extension that adds support for reading data from EUROSTAT database using SQL.
+2026-10-28T04:43:46.08Z,@moloodev/ui,0.1.0,youngerjo,,394886,
+2026-10-28T04:43:48.449Z,@moloodev/editor-store,0.1.0,youngerjo,,16817,
+2026-10-28T04:43:50.911Z,@moloodev/bundle-sdk,0.1.0,youngerjo,,18481,
+2026-10-28T04:43:54.045Z,@moloodev/editor-sdk,0.1.0,youngerjo,,298046,
+2026-10-28T04:43:56.58Z,@moloodev/table-sdk,0.1.0,youngerjo,,37420,
+2026-10-28T04:43:58.879Z,@moloodev/layout-sdk,0.1.0,youngerjo,,87118,"Runtime foundation for the layout editor. This package does not mount an editor, fetch assets, install packages, or own persistence. See the [living spec](../../docs/superpowers/specs/2026-10-20-layo…"
+2026-10-28T04:44:01.317Z,@moloodev/editor-cli,0.1.0,youngerjo,,32619,
+2026-10-28T04:45:07.245Z,@stigg/validation,0.1.0,stiggnpc,MIT,3930,Shared validation rules for Stigg identifiers
+2026-10-28T04:46:03.127Z,@tryvitris/website-admin-contracts,0.1.0-alpha.1,tryvitris,MIT,7293,Validated installation and module contracts for Cloudflare business admin apps
+2026-10-28T04:47:07.825Z,@gitmyabi/captainz,1.0.0,gitmyabi-bot,MIT,270459,"Auto-generated TypeScript type bindings for Captainz (build etherscan-captainz-76927267-1793162804125, commit efd080e, branch etherscan)"
+2026-10-28T04:47:09.279Z,@tasselx/pi-web,1.0.0,tasselx,MIT,32725869,Web UI for the pi coding agent
+2026-10-28T04:47:50.19Z,aiur-style,0.0.0,kevinweaver,MIT,19302,Consolidated design system and component library for the Aiur family of sites
+2026-10-28T04:47:54.682Z,@unified-desktop/bridge,0.2.3,xjaqil,MIT,72808,Framework-neutral Web/Electron/Tauri bridge
+2026-10-28T04:49:33.315Z,@tryvitris/website-admin-harness,0.1.0-alpha.1,tryvitris,MIT,336617,Cloudflare business admin runtime and agent kit
+2026-10-28T04:50:37.234Z,@tryvitris/create-website-admin-harness,0.1.0-alpha.1,tryvitris,MIT,2576,Create a standalone Cloudflare business admin installation
+2026-10-28T04:50:38.67Z,@lp-labs/react-smooth-view,0.1.0,libinprasanth,,93895,Lightweight React animations with viewport triggers and zero runtime dependencies beyond React.
+2026-10-28T04:51:02.582Z,@scriptc/node,0.0.0,ctate,MIT,263,Coming soon
+2026-10-28T04:51:25.758Z,@haybarn/ext-duckdb_mcp-h2-0-0-linux-arm64,202610.25.214706,query-farm,Apache-2.0,49613859,"Haybarn extension 'duckdb_mcp' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-duckdb_mcp-h2-0-0 meta-package; use that, not this leaf, in your depen…"
+2026-10-28T04:51:27.022Z,@haybarn/ext-duckdb_mcp-h2-0-0-linux-x64,202610.25.214706,query-farm,Apache-2.0,51903985,"Haybarn extension 'duckdb_mcp' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-duckdb_mcp-h2-0-0 meta-package; use that, not this leaf, in your depende…"
+2026-10-28T04:51:32.01Z,@haybarn/ext-duckdb_mcp-h2-0-0-wasm-eh,202610.25.214706,query-farm,Apache-2.0,1019382,WebAssembly (eh) build of the Haybarn extension 'duckdb_mcp' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T04:51:33.599Z,@haybarn/ext-duckdb_mcp-h2-0-0-win32-x64,202610.25.214706,query-farm,Apache-2.0,50811332,"Haybarn extension 'duckdb_mcp' for win32/x64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-duckdb_mcp-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:51:38.562Z,@haybarn/ext-duckdb_mcp-h2-0-0-wasm-threads,202610.25.214706,query-farm,Apache-2.0,1012977,WebAssembly (threads) build of the Haybarn extension 'duckdb_mcp' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T04:51:39.152Z,@haybarn/ext-duckdb_mcp-h2-0-0-darwin-arm64,202610.25.214706,query-farm,Apache-2.0,39463371,"Haybarn extension 'duckdb_mcp' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-duckdb_mcp-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:51:43.337Z,@haybarn/ext-duckdb_mcp-h2-0-0,202610.25.214706,query-farm,Apache-2.0,5163,Model Context Protocol (MCP) extension for DuckDB that enables seamless integration between SQL databases and MCP servers. Provides both client capabilities for accessing remote MCP resources via SQL…
+2026-10-28T04:52:09.106Z,@haybarn/ext-duck_tails-h2-0-0-linux-arm64,202610.25.220820,query-farm,MIT,24013276,"Haybarn extension 'duck_tails' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-duck_tails-h2-0-0 meta-package; use that, not this leaf, in your depen…"
+2026-10-28T04:52:09.402Z,@haybarn/ext-duck_tails-h2-0-0-linux-x64,202610.25.220820,query-farm,MIT,25418426,"Haybarn extension 'duck_tails' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-duck_tails-h2-0-0 meta-package; use that, not this leaf, in your depende…"
+2026-10-28T04:52:14.988Z,@haybarn/ext-duck_tails-h2-0-0-darwin-arm64,202610.25.220820,query-farm,MIT,11918084,"Haybarn extension 'duck_tails' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-duck_tails-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:52:16.901Z,@haybarn/ext-duck_tails-h2-0-0-win32-x64,202610.25.220820,query-farm,MIT,51516861,"Haybarn extension 'duck_tails' for win32/x64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-duck_tails-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T04:52:21.113Z,@haybarn/ext-duck_tails-h2-0-0,202610.25.220820,query-farm,MIT,4333,"Smart Development Intelligence for DuckDB - Git-aware data analysis capabilities that allow querying git history, accessing files at any revision, and performing version-aware data analysis with SQL."
+2026-10-28T04:52:25.395Z,chatvault,0.1.1,alphasr,MIT,73166,"Own your AI conversation history. Automatic, local, open-format backups of Claude Code, Codex, Gemini CLI, ChatGPT and claude.ai chats — searchable from any agent via MCP."
+2026-10-28T04:52:34.588Z,@mrfentmen/amtrak-mcp,1.0.0,mrfentmen,MIT,11307,"Amtrak realtime: every train on the map with delay, speed and next stop, plus route and station reference data."
+2026-10-28T04:52:37.618Z,@mrfentmen/drinking-water-mcp,1.0.0,mrfentmen,MIT,12989,"US drinking water systems from EPA SDWIS: look up a public water system, its violations and its enforcement history."
+2026-10-28T04:52:40.804Z,@mrfentmen/hts-tariff-mcp,1.0.0,mrfentmen,MIT,11744,"US Harmonized Tariff Schedule from the USITC: look up a tariff code, search descriptions, walk a heading or pull a whole chapter with duty rates."
+2026-10-28T04:52:44.106Z,@mrfentmen/ofac-sanctions-mcp,1.0.1,mrfentmen,MIT,13428,"OFAC sanctions screening: search the SDN and consolidated lists by name, program or entity type and pull one entry by its OFAC number."
+2026-10-28T04:52:47.85Z,@mrfentmen/usace-water-mcp,1.0.0,mrfentmen,MIT,11883,"US Army Corps of Engineers water data: reservoir and river levels, project lists and time series from the CWMS Data API."
+2026-10-28T04:52:50.523Z,diagnos,0.1.0,diagnos.health,Apache-2.0,137419,"The diagnos vault from Node.js: links to the docs, and the zero-knowledge Python SDK, CLI and signed REST API image set up step by step."
+2026-10-28T04:52:50.986Z,@mrfentmen/drug-shortages-mcp,1.0.0,mrfentmen,MIT,13410,"FDA drug shortage database: search shortages by drug, status, manufacturer or NDC - keyless."
+2026-10-28T04:52:54.013Z,@mrfentmen/fda-510k-mcp,1.0.0,mrfentmen,MIT,13188,"FDA 510(k) medical device clearances: search by device, applicant, product code or date - keyless."
+2026-10-28T04:52:57.339Z,@ling2/ling-coris,0.0.1,ling2,MIT,967142,"Standalone cordis runtime: contexts, plugin fibers, event bus, services, timer, schema validation (schemastery), and console logging — plus a /dev toolkit (module registry, vite HMR bridge, build orc…"
+2026-10-28T04:52:57.639Z,@mrfentmen/clinical-codes-mcp,1.0.0,mrfentmen,MIT,11689,"Look up LOINC lab codes, ICD-10-CM diagnoses and condition names from the NIH Clinical Tables API - keyless."
+2026-10-28T04:53:00.982Z,@mrfentmen/census-geocode-mcp,1.0.1,mrfentmen,MIT,12289,"US Census geocoder: addresses to coordinates, reverse geocoding and census geography lookup - keyless."
+2026-10-28T04:53:04.429Z,@mrfentmen/submarine-cables-mcp,1.0.0,mrfentmen,MIT,11368,"Submarine communications cables: list, search, landing points and route geometry from TeleGeography - keyless."
+2026-10-28T04:53:07.733Z,@mrfentmen/energy-charts-mcp,1.0.0,mrfentmen,MIT,13748,"European electricity data: live generation mix, day-ahead prices, installed capacity and renewable share - keyless."
+2026-10-28T04:53:09.583Z,@yeastcloud/gualing-static,1.3.0,yunsisanren,UNLICENSED,23104074,卦灵 AI 静态资源（图片 / 字体 / 第三方 libs / 地区数据），经 npm + jsDelivr 分发
+2026-10-28T04:53:11.639Z,@mrfentmen/opensky-mcp,1.0.1,mrfentmen,MIT,13521,"Live aircraft positions, flight tracks and airport arrivals from the OpenSky Network - keyless."
+2026-10-28T04:53:13.832Z,@priyadharshan933/workbench-darwin-arm64,0.1.0,priyadharshan933,MIT,11295440,Workbench native runtime for darwin/arm64.
+2026-10-28T04:53:15.033Z,@mrfentmen/gbfs-mcp,1.0.0,mrfentmen,MIT,12004,"Live bike-share station availability for New York, Chicago, San Francisco, Boston and Montreal - keyless."
+2026-10-28T04:53:18.35Z,@mrfentmen/library-of-congress-mcp,1.0.2,mrfentmen,MIT,11636,"Search the Library of Congress catalogue, collections and digitised items - keyless."
+2026-10-28T04:53:22.117Z,@mrfentmen/rail-infrastructure-mcp,1.0.0,mrfentmen,MIT,12234,"US rail infrastructure: highway-rail grade crossings and railroad bridges by state, with inspection and traffic detail - keyless."
+2026-10-28T04:53:25.624Z,@mrfentmen/port-throughput-mcp,1.0.0,mrfentmen,MIT,11986,"US port cargo throughput: rankings, volumes by cargo type and year for every major port - keyless."
+2026-10-28T04:53:26.968Z,@kahwee/runway-ui,0.7.0,kahwee,MIT,972746,React components and CSS for cozy simulation and management games
+2026-10-28T04:53:28.718Z,@mrfentmen/bridges-mcp,1.0.0,mrfentmen,MIT,12308,US bridge conditions: New York State bridge inspections and New York City bridge ratings - keyless.
+2026-10-28T04:54:34.407Z,release-agent-skills,0.1.0,ahmadhussain0335,MIT,177528,"AI agent skills that publish libraries safely. v0.1: Maven Central through the Sonatype Central Portal, with pre-flight checks, approval gates and manual release by default."
+2026-10-28T04:55:23.295Z,@dyikai/dsh-hogwarts-loop,1.0.2,dyikai,MIT,155919,"Hogwarts-loop as a DeepSeek Harness plugin: per-role subagent dispatch on configurable models, with a client settings page."
+2026-10-28T04:55:25.148Z,@priyadharshan933/workbench-darwin-x64,0.1.0,priyadharshan933,MIT,12052246,Workbench native runtime for darwin/x64.
+2026-10-28T04:55:38.157Z,@gitmyabi/foxe,1.0.0,gitmyabi-bot,MIT,93865,"Auto-generated TypeScript type bindings for FOXE (build etherscan-foxe-378e1be1-1793163315731, commit 4138dbf, branch etherscan)"
+2026-10-28T04:55:40.625Z,@priyadharshan933/workbench-linux-arm64,0.1.0,priyadharshan933,MIT,11042220,Workbench native runtime for linux/arm64.
+2026-10-28T04:55:42.848Z,@pbjpro/relay,1.2.1,pbjpro,MIT,216108,TypeScript SDK for Relay's USDC milestone escrow protocol
+2026-10-28T04:55:52.586Z,@astrosheep/agent-delivery,0.1.0,astrosheep,MIT,145076,"Text delivery to Codex, OpenCode, Claude, Pi and Paseo agents, independent of Square."
+2026-10-28T04:56:13.718Z,@priyadharshan933/workbench-linux-x64,0.1.0,priyadharshan933,MIT,11804068,Workbench native runtime for linux/x64.
+2026-10-28T04:56:40.648Z,@priyadharshan933/workbench,0.1.0,priyadharshan933,MIT,31755,"Find, launch and manage your local developer projects and agent skills."
+2026-10-28T04:56:45.496Z,@0k/vue-split-tabs,0.1.0,vaab,MIT,176165,Content-agnostic Vue 3 split tabs with persistent layout intent and keep-mounted content.
+2026-10-28T04:56:58.728Z,@neta-art/song-composition,0.1.0,talesofai,MIT,53328,Composition guidance for song2 scores and song2 song generation.
+2026-10-28T04:57:01.279Z,@zerodot/node-sdk,1.0.0,mcnaveen,AGPL-3.0-only,74764,"Contract for zerodot node packages: node types, helpers and the SDK version."
+2026-10-28T04:57:46.322Z,n8n-nodes-crevio,0.1.1,axelgrubba,MIT,254584,"n8n nodes for Crevio: customers, products, orders, checkouts, bookings, the Crevio AI agent, and a trigger for Crevio events"
+2026-10-28T04:58:42.513Z,@mku1tra/que-harness,0.1.0,mku1tra,MIT,54902,"What runs que's plugins: the harness schema of que's ontology (agent, model, loop and deployment), which imports the plugin schema of @mku1tra/que-plugin, and whose types are the contract of a deploy…"
+2026-10-28T05:00:02.743Z,@haybarn/ext-mpduck-h2-0-0-linux-arm64,202610.24.120858,query-farm,MIT,14390636,"Haybarn extension 'mpduck' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-mpduck-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:00:02.788Z,@haybarn/ext-mpduck-h2-0-0-linux-x64,202610.24.120858,query-farm,MIT,14700682,"Haybarn extension 'mpduck' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-mpduck-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:00:07.897Z,@haybarn/ext-mpduck-h2-0-0-wasm-eh,202610.24.120858,query-farm,MIT,250204,WebAssembly (eh) build of the Haybarn extension 'mpduck' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T05:00:11.988Z,@haybarn/ext-mpduck-h2-0-0-win32-x64,202610.24.120858,query-farm,MIT,49850741,"Haybarn extension 'mpduck' for win32/x64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-mpduck-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:00:14.415Z,@haybarn/ext-mpduck-h2-0-0-darwin-arm64,202610.24.120858,query-farm,MIT,10658108,"Haybarn extension 'mpduck' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-mpduck-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:00:16.033Z,@haybarn/ext-mpduck-h2-0-0-wasm-threads,202610.24.120858,query-farm,MIT,249782,WebAssembly (threads) build of the Haybarn extension 'mpduck' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T05:00:20.044Z,@haybarn/ext-mpduck-h2-0-0,202610.24.120858,query-farm,MIT,4593,"Read and write FIS Prophet files (.rpt, .prn, .fac)"
+2026-10-28T05:04:58.883Z,skill-canary,0.1.0,agou,MIT,16913,"Inject a test build of an Agent Skill into a skills directory under a canary name, with marker-based refresh and cleanup."
+2026-10-28T05:05:18.655Z,@haybarn/ext-fakeit-h2-0-0-linux-arm64,202610.27.81321,query-farm,MIT,1647839,"Haybarn extension 'fakeit' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-fakeit-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:05:18.794Z,@haybarn/ext-fakeit-h2-0-0-linux-x64,202610.27.81321,query-farm,MIT,1763773,"Haybarn extension 'fakeit' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-fakeit-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:05:23.863Z,@haybarn/ext-fakeit-h2-0-0-win32-x64,202610.27.81321,query-farm,MIT,2051440,"Haybarn extension 'fakeit' for win32/x64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-fakeit-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:05:25.975Z,@haybarn/ext-fakeit-h2-0-0-darwin-arm64,202610.27.81321,query-farm,MIT,1314511,"Haybarn extension 'fakeit' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-fakeit-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:05:32.734Z,@haybarn/ext-fakeit-h2-0-0,202610.27.81321,query-farm,MIT,4019,The FakeIt Extension enables generation of realistic fake/test data directly in SQL queries
+2026-10-28T05:05:46.222Z,@virid/bridge,0.5.0,ailrid,Apache 2.0,17988,Electron application preloading script
+2026-10-28T05:06:33.4Z,tinker-asar,0.1.0,surunzi,,12912757,Browse and extract Electron asar archives
+2026-10-28T05:06:50.671Z,@ouispec/agent-evals,0.18.0,wesreid,MIT,424452,"Agent evals as data: scenarios a product writes, run against its real agent configuration (persona, tools, tool policy, turn policy) on every channel it serves, from recorded model responses in CI or…"
+2026-10-28T05:08:04.476Z,@bueno-dev/type,1.1.9,johnchoura,MIT,52635,![image](https://github.com/johnchourajr/bueno-type/assets/6431920/0d383554-fe9a-4177-8907-796d9e5b33c7)
+2026-10-28T05:08:42.332Z,@metatech-ltd/authlink-web,0.1.0,miloyep,UNLICENSED,569478,AuthLink CMS binding QR and rotating confirmation code components for React and Vue
+2026-10-28T05:08:54.415Z,@virid/core,0.5.0,ailrid,Apache 2.0,231864,A lightweight and powerful message core built using dependency injection and CCS concepts
+2026-10-28T05:08:55.299Z,@unified-desktop/electron-runtime,0.2.3,xjaqil,MIT,43502,Configurable shared Electron main process
+2026-10-28T05:09:14.766Z,@ottoai/opensource,0.0.0-stage,toolsotto,,340,Temporary package placeholder for staged publishing
+2026-10-28T05:09:17.696Z,@bueno-dev/cursor,1.0.9,johnchoura,MIT,27607,Custom cursor component for React with CSS.
+2026-10-28T05:09:31.113Z,@bueno-dev/retool-db-react,1.1.24,johnchoura,MIT,701980,"<img width=""1200"" alt=""og"" src=""https://github.com/user-attachments/assets/b7d52c88-5336-40f6-8d42-644afaf8f2b6"">"
+2026-10-28T05:09:33.557Z,@haybarn/ext-protoduck-h2-0-0-linux-x64,202610.24.193914,query-farm,MIT,10106812,"Haybarn extension 'protoduck' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-protoduck-h2-0-0 meta-package; use that, not this leaf, in your dependenc…"
+2026-10-28T05:09:36.115Z,turnbook,1.0.0,creazy,MIT,1322112,HTML5 翻页书（page-flip / flipbook）库 —— 无 jQuery 依赖的 turn.js 4 改写版。可在 Vue、React 及任何框架中通过 npm 安装使用，附带完整 TypeScript 类型声明。
+2026-10-28T05:09:37.191Z,@haybarn/ext-protoduck-h2-0-0-linux-arm64,202610.24.193914,query-farm,MIT,8856838,"Haybarn extension 'protoduck' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-protoduck-h2-0-0 meta-package; use that, not this leaf, in your depende…"
+2026-10-28T05:09:43.394Z,@haybarn/ext-protoduck-h2-0-0-darwin-arm64,202610.24.193914,query-farm,MIT,8218438,"Haybarn extension 'protoduck' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-protoduck-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:09:43.771Z,@haybarn/ext-mlpack-h2-0-0-linux-x64,202610.25.151145,query-farm,MIT,52749190,"Haybarn extension 'mlpack' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-mlpack-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:09:44.939Z,@haybarn/ext-mlpack-h2-0-0-linux-arm64,202610.25.151145,query-farm,MIT,49935544,"Haybarn extension 'mlpack' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-mlpack-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:09:45.785Z,@haybarn/ext-protoduck-h2-0-0-win32-x64,202610.24.193914,query-farm,MIT,12709255,"Haybarn extension 'protoduck' for win32/x64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-protoduck-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:09:47.577Z,@virid/vue,0.5.0,ailrid,Apache 2.0,167957,"Vue adapter for virid, projecting logic sovereignty to reactive UI"
+2026-10-28T05:09:50.443Z,@haybarn/ext-protoduck-h2-0-0,202610.24.193914,query-farm,MIT,3999,Deserialize Protocol Buffer messages stored in DuckDB columns
+2026-10-28T05:09:52.386Z,@haybarn/ext-mlpack-h2-0-0-darwin-arm64,202610.25.151145,query-farm,MIT,39209216,"Haybarn extension 'mlpack' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-mlpack-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:09:57.547Z,@haybarn/ext-mlpack-h2-0-0,202610.25.151145,query-farm,MIT,3882,Connecting duckdb to the mlpack C++ machine learning library
+2026-10-28T05:10:04.115Z,@unified-desktop/cli,0.2.3,xjaqil,MIT,281229,"Create, build, migrate and upgrade Unified Desktop applications"
+2026-10-28T05:10:11.234Z,@omni-center/omni-api-types,1.0.2,qq47714705,MIT,52932,OmniDesk API 代码提示 （直接Copy uTools的，部分API未完成适配）
+2026-10-28T05:10:21.383Z,@virid/express,0.5.0,ailrid,Apache 2.0,182382,Add express functionality to virid
+2026-10-28T05:10:49.862Z,@haybarn/ext-zeek-h2-0-0-linux-arm64,202610.26.133951,query-farm,MIT,14093252,"Haybarn extension 'zeek' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-zeek-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:10:52.717Z,@haybarn/ext-zeek-h2-0-0-linux-x64,202610.26.133951,query-farm,MIT,14398698,"Haybarn extension 'zeek' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-zeek-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:10:57.248Z,@haybarn/ext-zeek-h2-0-0-wasm-eh,202610.26.133951,query-farm,MIT,149760,WebAssembly (eh) build of the Haybarn extension 'zeek' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T05:10:59.97Z,@haybarn/ext-zeek-h2-0-0-win32-x64,202610.26.133951,query-farm,MIT,49816397,"Haybarn extension 'zeek' for win32/x64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-zeek-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:11:04.187Z,@haybarn/ext-zeek-h2-0-0-darwin-arm64,202610.26.133951,query-farm,MIT,10411188,"Haybarn extension 'zeek' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-zeek-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-10-28T05:11:04.708Z,@haybarn/ext-zeek-h2-0-0-wasm-threads,202610.26.133951,query-farm,MIT,149379,WebAssembly (threads) build of the Haybarn extension 'zeek' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-10-28T05:11:09.322Z,@haybarn/ext-zeek-h2-0-0,202610.26.133951,query-farm,MIT,4627,Read Zeek network security monitor log files with automatic schema detection and type-aware parsing
+2026-10-28T05:11:13.838Z,@virid/std,0.5.0,ailrid,Apache 2.0,60890,The virid standard library provides commonly used features in development
+2026-10-28T05:11:24.1Z,create-unified-desktop,0.2.3,xjaqil,MIT,5617,Initialize React or Vue with a shared Electron/Tauri desktop SDK
+2026-10-28T05:12:03.271Z,glanceshot,0.1.0,glanceshot,MIT,52483,"Official Node.js SDK for the Glanceshot website screenshot API: screenshots, PDFs, signed image URLs, batches and webhooks."
+2026-10-28T05:12:15.033Z,lta-redmine-mcp,0.9.0,anhlt90,MIT,524880,"MCP server for Redmine (stdio via npx, or shared HTTP) with per-project blocking"
+2026-10-28T05:12:21.119Z,@virid/renderer,0.5.0,ailrid,Apache 2.0,57804,"Electron renderer process adapter for virid, responsible for forwarding and receiving messages from the main process"
+2026-10-28T05:12:22.902Z,dsh-session-artifact-folders,0.0.0-stage,skuld0705,,350,Temporary package placeholder for staged publishing
+2026-10-28T05:12:28.298Z,@x1a0f3n9/dsh-working-directory,0.2.1-rc.3,x1a0f3n9,MIT,23518,Session working directories with durable changes and model context
+2026-10-28T05:12:38.407Z,@pose_flow/babylon,0.1.0,svg_inline_code,MIT,44270,"O código original desta biblioteca é distribuído sob a [licença MIT](LICENSE), com aviso de copyright “2026 Motion Match contributors”. Dependências, modelos, texturas e animações de terceiros mantêm…"
+2026-10-28T05:12:53.455Z,@virid/main,0.5.0,ailrid,Apache 2.0,67534,"Electron main process adapter for Virid, responsible for sending, receiving, and broadcasting rendering process messages"
+2026-10-28T05:13:11.774Z,bs1770-loudness,1.0.0,ttdu,MIT,32078,"Loudness (LUFS), loudness range and true peak per ITU-R BS.1770 / EBU R 128 in plain JavaScript. No dependencies, Node.js and browser."
+2026-10-28T05:13:15.642Z,@cc-mem/core,0.1.0,yyq1025,MIT,47077,"Shared memory for coding agents, kept in Claude Code's auto memory: directory resolution, index loading and careful writes"
+2026-10-28T05:13:22.707Z,kakao-max,0.1.0,ziesski,MIT,3808402,Unofficial headless KakaoTalk account daemon and MCP server for AI agents
+2026-10-28T05:13:23.259Z,@virid/amber,0.5.0,ailrid,Apache 2.0,132242,"Add replay, redo, undo and other functions to virid"
+2026-10-28T05:13:33.659Z,@cc-mem/pi,0.1.0,yyq1025,MIT,6977,"Claude Code's auto memory in pi: the index on every turn, and tools to write and edit it"
+2026-10-28T05:13:35.401Z,@cc-mem/opencode,0.1.0,yyq1025,MIT,7126,"Claude Code's auto memory in OpenCode: the index in every request, and tools to write and edit it"
+2026-10-28T05:13:50.102Z,@cc-mem/dsh,0.1.0,yyq1025,MIT,8017,"Claude Code's auto memory in DeepSeek Harness: the index in every request, and tools to write and edit it"
+2026-10-28T05:13:51.088Z,@virid/websocket,0.5.0,ailrid,Apache 2.0,68672,"WebSocket plugin for virid, managing multiple connections through a global pool and message-driven architecture."
+2026-10-28T05:14:26.47Z,baccaratsb-th,1.0.0,lottohero,MIT,14333,ข้อมูลบาคาร่า เซ็กซี่บาคาร่า บาคาร่าออนไลน์ และความรู้เกี่ยวกับเกมไพ่
+2026-10-28T05:14:32.268Z,@x1a0f3n9/dsh-api-remote-access,0.2.1-rc.3,x1a0f3n9,MIT,146619,Method-level Remote access control for non-owner Peers and the per-Peer access snapshot
+2026-10-28T05:15:00.045Z,@xiaoweiq66/dsh-plugin-manager,1.0.0,xiaoweiq66,MIT,85224,"Sidebar plugin manager for DeepSeek Harness: list installed plugins, check for updates, and update or remove them in place."
+2026-10-28T05:15:20.25Z,pi-handoffs,1.0.0,andrewprock,MIT,21643,"Session handoffs for pi: a deliberate alternative to compaction — detailed recent context, a task list that has you ready to go, and a permanent work log. Never-deleted, numbered documents in ~/.pi/h…"
+2026-10-28T05:16:14.114Z,pi-notice,0.0.0-stage,clevebitr,,331,Temporary package placeholder for staged publishing
+2026-10-28T05:16:37.25Z,dsh-plugin-dataagent,0.2.0-rc.19,m0ist,MIT,1409168,Professional local data analysis workbench for official DeepSeek Harness
+2026-10-28T05:16:51.776Z,@yigal/notify_commit,1.0.0,symbolclick,ISC,72645,CLI that emails an HTML report of the latest git commit via the Gmail API
