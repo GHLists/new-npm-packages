@@ -1,0 +1,287 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-29T10:16:18.605Z,@ohos-ports/stdlib-math-base-special-betainc,0.2.3-beta.0,ljry,Apache-2.0 AND BSL-1.0,8900400,Incomplete beta function.
+2026-10-29T10:16:31.573Z,@ohos-ports/math-base-special-round,0.3.1-beta.1,ljry,Apache-2.0,36117,Round a numeric value to the nearest integer.
+2026-10-29T10:16:39.227Z,@schaefchens/temple,0.1.0,schaefchens,Apache-2.0,62729,"Temple's TypeScript API, shared by its React Native and web bindings"
+2026-10-29T10:16:40.082Z,@ohos-ports/stdlib-string-lowercase,0.3.1-beta.0,ljry,Apache-2.0,602122,Convert a string to lowercase.
+2026-10-29T10:16:48.632Z,@ohos-ports/stdlib-array-complex128,0.3.2-beta.0,ljry,Apache-2.0,361425,Complex128Array.
+2026-10-29T10:16:54.993Z,@ohos-ports/assert-is-complex-typed-array,0.2.3-beta.0,ljry,Apache-2.0,31765,Test if a value is a complex typed array.
+2026-10-29T10:17:01.934Z,@schaefchens/temple-react-native,0.1.0,schaefchens,Apache-2.0,17385660,Temple for React Native on iOS and Android
+2026-10-29T10:17:07.004Z,@schaefchens/temple-web,0.1.0,schaefchens,Apache-2.0,2396530,"Temple for the web: vaults in the origin private file system, in a worker"
+2026-10-29T10:17:10.543Z,@schaefchens/temple-react,0.1.0,schaefchens,Apache-2.0,22993,"React hooks for Temple, on React Native and the web"
+2026-10-29T10:17:42.909Z,@doany-ai/course,0.1.0,kalvinrc9,MIT,155148,"Course presentation for Doany sites: curriculum, navigation, controlled progress and official external video embeds"
+2026-10-29T10:18:07.813Z,@ohos-ports/stdlib-blas-base-gcopy,0.2.3-beta.0,ljry,Apache-2.0,6937269,Copy values from x into y.
+2026-10-29T10:18:15.197Z,@ohos-ports/random-base-mt19937,0.2.3-beta.0,ljry,Apache-2.0,147135,A 32-bit Mersenne Twister pseudorandom number generator. (OpenHarmony port of @stdlib/random-base-mt19937@0.2.3: package.json os whitelist adds openharmony)
+2026-10-29T10:18:20.374Z,@ohos-ports/math-base-special-abs,0.2.3-beta.1,ljry,Apache-2.0,44749,"Compute the absolute value of a double-precision floating-point number. HarmonyOS (OpenHarmony) port: adds ""openharmony"" to the os whitelist."
+2026-10-29T10:18:26.971Z,@ohos-ports/stdlib-math-base-special-maxabs,0.3.1-beta.0,ljry,Apache-2.0,33814,Return the maximum absolute value.
+2026-10-29T10:18:34.264Z,@ohos-ports/stdlib-number-float64-base-normalize,0.2.4-beta.1,ljry,Apache-2.0,48069,Return a normal number `y` and exponent `exp` satisfying `x = y * 2^exp`.
+2026-10-29T10:18:43.321Z,@ohos-ports/stdlib-math-base-special-erfc,0.2.5-beta.0,ljry,Apache-2.0,123734,Complementary error function.
+2026-10-29T10:18:49.51Z,@ohos-ports/stdlib-math-base-special-gamma,0.3.1-beta.0,ljry,Apache-2.0,100335,Gamma function.
+2026-10-29T10:18:55.428Z,@ohos-ports/stdlib-math-base-special-sinpi,0.3.1-beta.0,ljry,Apache-2.0,37620,Compute sin(πx).
+2026-10-29T10:19:01.459Z,@ohos-ports/math-base-special-factorial,0.3.2-beta.0,ljry,Apache-2.0,82678,Evaluate a factorial.
+2026-10-29T10:19:09.887Z,@ohos-ports/complex-reimf,0.2.1-beta.1,ljry,Apache-2.0,31454,Return the real and imaginary components of a single-precision complex floating-point number. Ported for OpenHarmony (OpenHarmony os whitelist patch). Upstream: @stdlib/complex-reimf@0.2.1.
+2026-10-29T10:19:15.987Z,@ohos-ports/stdlib-stats-base-dists-degenerate-cdf,0.3.1-beta.0,ljry,Apache-2.0,50443,Degenerate distribution cumulative distribution function (CDF).
+2026-10-29T10:19:22.425Z,@ohos-ports/array-int32,0.2.3-beta.1,ljry,Apache-2.0,57590,Int32Array.
+2026-10-29T10:19:28.37Z,@ohos-ports/number-float64-base-to-words,0.2.3-beta.1,ljry,Apache-2.0,50241,Split a double-precision floating-point number into a higher order word and a lower order word.
+2026-10-29T10:19:34.959Z,@ohos-ports/stdlib-number-float64-base-from-words,0.2.3-beta.1,ljry,Apache-2.0,45718,Create a double-precision floating-point number from a higher order word and a lower order word.
+2026-10-29T10:19:41.036Z,@ohos-ports/stdlib-math-base-special-minabs,0.2.4-beta.1,ljry,Apache-2.0,33877,"Return the minimum absolute value. (HarmonyOS/openharmony port of @stdlib/math-base-special-minabs@0.2.4; adds ""openharmony"" to the npm os whitelist — the only content delta vs upstream 0.2.4.)"
+2026-10-29T10:19:46.44Z,@ohos-ports/stdlib-math-base-special-erfcinv,0.2.4-beta.1,ljry,Apache-2.0 AND BSL-1.0,123727,Inverse complementary error function.
+2026-10-29T10:20:27.156Z,@ohos-ports/stdlib-math-base-special-binomcoef,0.3.1-beta.0,ljry,Apache-2.0,5115042,Compute the binomial coefficient.
+2026-10-29T10:20:34.156Z,@ohos-ports/math-base-special-exp,0.2.5-beta.1,ljry,Apache-2.0,70488,Natural exponential function.
+2026-10-29T10:20:41.072Z,@ohos-ports/stdlib-math-base-special-rempio2,0.3.1-beta.0,ljry,Apache-2.0,110211,Compute `x - nπ/2 = r`.
+2026-10-29T10:20:48.818Z,@ohos-ports/stdlib-math-base-special-kernel-betaincinv,0.2.3-beta.0,ljry,Apache-2.0 AND BSL-1.0,273643,Inverse incomplete beta function.
+2026-10-29T10:21:01.003Z,@ohos-ports/stdlib-utils-define-nonenumerable-read-only-accessor,0.2.4-beta.0,ljry,Apache-2.0,29370,Define a non-enumerable read-only accessor.
+2026-10-29T10:21:07.25Z,@ohos-ports/assert-has-uint8array-support,0.2.3-beta.1,ljry,Apache-2.0,28496,Detect native Uint8Array support.
+2026-10-29T10:21:13.191Z,@ohos-ports/stdlib-assert-is-array-like,0.2.3-beta.0,ljry,Apache-2.0,26353,Test if a value is array-like.
+2026-10-29T10:21:16.014Z,@khoahaha7903/zalo-oa,0.1.0,khoahaha7903,MIT,8442964,"Kết nối Zalo Official Account với TinaCRM: quản lý OA, đồng bộ khách hàng, hội thoại và gửi tin theo mẫu."
+2026-10-29T10:21:17.108Z,chuxin-agentdesk,0.1.0,exploitation,UNLICENSED,14475836,"AgentDesk CLI: local agent runtime, service management and terminal chat"
+2026-10-29T10:21:20.754Z,@ohos-ports/stdlib-math-base-special-min,0.2.4-beta.1,ljry,Apache-2.0,34830,Return the minimum value.
+2026-10-29T10:21:28.168Z,@ohos-ports/stdlib-stats-base-dists-degenerate-pdf,0.3.1-beta.0,ljry,Apache-2.0,55150,Degenerate distribution probability density function (PDF).
+2026-10-29T10:21:36.78Z,@ohos-ports/stdlib-assert-tools-array-like-function,0.2.3-beta.0,ljry,Apache-2.0,29172,Return a function which tests if every element in an array-like object passes a test condition.
+2026-10-29T10:21:44.829Z,@ohos-ports/stdlib-os-float-word-order,0.2.3-beta.0,ljry,Apache-2.0,28860,Platform float word order.
+2026-10-29T10:21:50.836Z,@ohos-ports/number-float64-base-set-high-word,0.2.3-beta.1,ljry,Apache-2.0,46406,Set the more significant 32 bits of a double-precision floating-point number.
+2026-10-29T10:21:53.47Z,@needless-ui/core,0.11.0,angelolamonaca,MIT,229155,"The framework-free logic behind Needless UI: plain dates, repeat rules, iCalendar files, the data grid's model and its spreadsheet writer."
+2026-10-29T10:21:57.032Z,@ohos-ports/stdlib-math-base-special-ln,0.2.5-beta.0,ljry,Apache-2.0,54189,Evaluate the natural logarithm of a double-precision floating-point number.
+2026-10-29T10:21:57.638Z,@needless-ui/react,0.11.0,angelolamonaca,MIT,159667,"React components for Needless UI: a scheduler with a resource timeline and repeating events, and a data grid with grouping, tree data and Excel export. MIT, styled by @needless-ui/css."
+2026-10-29T10:22:04.591Z,@ohos-ports/math-base-special-log1p,0.2.4-beta.1,ljry,Apache-2.0,66554,Evaluate the natural logarithm of 1+x.
+2026-10-29T10:22:12.59Z,@ohos-ports/math-base-tools-sum-series,0.2.3-beta.0,ljry,Apache-2.0,35348,Compute the sum of an infinite series.
+2026-10-29T10:22:12.941Z,@react-webmcp-kit/core,0.1.0,mountainaper,MIT,35491,React hooks and provider for WebMCP tool registration
+2026-10-29T10:22:52.667Z,@ohos-ports/stdlib-math-base-special-log1pmx,0.2.4-beta.0,ljry,Apache-2.0,4733729,Evaluate ln(1+x) - x.
+2026-10-29T10:22:55.387Z,pi-wechat-session-hub,0.1.0,maple_20,AGPL-3.0-or-later,650763,通过微信管理本机多个 Pi 会话的 Pi 扩展。
+2026-10-29T10:22:59.689Z,@ohos-ports/stdlib-math-base-special-gamma-delta-ratio,0.3.1-beta.0,ljry,Apache-2.0 AND BSL-1.0,53818,Compute the ratio of two gamma functions.
+2026-10-29T10:23:06.498Z,@ohos-ports/math-base-special-kernel-betainc,0.2.3-beta.1,ljry,Apache-2.0 AND BSL-1.0,174952,Incomplete beta function and its first derivative.
+2026-10-29T10:23:14.324Z,@ohos-ports/stdlib-stats-base-dists-degenerate-quantile,0.3.1-beta.1,ljry,Apache-2.0,53263,Degenerate distribution quantile function.
+2026-10-29T10:23:16.071Z,@limecloud/shou-darwin-arm64,0.21.0,wutongci,Apache-2.0,38132797,"Native cleanup CLI with inspectable rules, explicit confirmation, and AI agent integration"
+2026-10-29T10:23:20.075Z,@ohos-ports/array-dtype,0.3.1-beta.0,ljry,Apache-2.0,41410,Return the data type of an array.
+2026-10-29T10:23:27.926Z,@ohos-ports/stdlib-assert-is-big-endian,0.2.3-beta.0,ljry,Apache-2.0,28355,Check if an environment is big endian.
+2026-10-29T10:23:28.897Z,notabot,1.1.0,maxgfr,MIT,2057737,"Open-source bot detection, front-end only: collect every browser signal, cross-check them for lies, run an invisible proof-of-work and ask a small LLM of your choice (llm-connect) for a human/bot ver…"
+2026-10-29T10:23:35.053Z,@ohos-ports/stdlib-number-float64-base-get-low-word,0.2.3-beta.0,ljry,Apache-2.0,40131,Return an unsigned 32-bit integer corresponding to the less significant 32 bits of a double-precision floating-point number.
+2026-10-29T10:23:41.088Z,@ohos-ports/stdlib-math-base-special-beta,0.3.1-beta.0,ljry,Apache-2.0 AND BSL-1.0,71760,Beta function.
+2026-10-29T10:23:43.884Z,@limecloud/shou-darwin-x64,0.21.0,wutongci,Apache-2.0,40217313,"Native cleanup CLI with inspectable rules, explicit confirmation, and AI agent integration"
+2026-10-29T10:23:45.456Z,dsh-youtube-readonly,0.1.0,ricardo0404,MIT,28766,"YouTube read-only plugin for DeepSeek Harness: search videos, inspect details, pull subtitles. 给 DSH 助手看油管（只读）。"
+2026-10-29T10:23:46.424Z,@ohos-ports/stdlib-math-base-special-cos,0.3.1-beta.1,ljry,Apache-2.0,42810,Compute the cosine of a number.
+2026-10-29T10:23:50.311Z,rn-deeplink,0.2.0,kushagra21.dev,MIT,175322,"Find out why a deep link or universal/app link does not open your React Native app, and test links on simulators, emulators and devices."
+2026-10-29T10:23:51.956Z,@ohos-ports/math-base-special-sin,0.3.1-beta.1,ljry,Apache-2.0,42239,Compute the sine of a number.
+2026-10-29T10:24:05.678Z,@ohos-ports/stdlib-math-base-special-ldexp,0.2.5-beta.0,ljry,Apache-2.0,49818,Multiply a double-precision floating-point number by an integer power of two.
+2026-10-29T10:24:12.209Z,@ohos-ports/assert-is-typed-array-like,0.2.3-beta.1,ljry,Apache-2.0,28268,"Test if a value is typed-array-like. (OpenHarmony/HarmonyOS adaptation of @stdlib/assert-is-typed-array-like: adds ""openharmony"" to the supported os list; no functional changes.)"
+2026-10-29T10:24:20.589Z,@ohos-ports/math-base-special-asin,0.2.4-beta.1,ljry,Apache-2.0,55358,Compute the arcsine of a double-precision floating-point number.
+2026-10-29T10:24:22.341Z,@ceupay/public-api-sdk,0.1.0-alpha.2,ceupay,SEE LICENSE IN LICENSE,125726,Typed server-side client for the CeuPay public API.
+2026-10-29T10:24:24.451Z,@react-webmcp-kit/zustand,0.1.0,mountainaper,MIT,6831,Zustand store action adapters for WebMCP tools
+2026-10-29T10:24:26.182Z,@ohos-ports/stdlib-math-base-special-max,0.3.1-beta.1,ljry,Apache-2.0,34470,Return the maximum value.
+2026-10-29T10:24:31.59Z,dsh-action-hub,0.2.0,jigao.shi,MIT,1732572,DeepSeek Harness 适配器：基于通用 action-hub 核心，提供原生 Alt+A 面板、composer 插入、项目范围和 Skill provider。
+2026-10-29T10:24:43.2Z,@ohos-ports/stdlib-array-uint16,0.2.3-beta.0,ljry,Apache-2.0,57739,Uint16Array.
+2026-10-29T10:24:44.527Z,@aduverger/pi-rex,0.0.1,aduverger,MIT,2605,Pi extension for a native mobile experience with Rex. Placeholder package; functionality is not implemented yet.
+2026-10-29T10:24:49.306Z,@ohos-ports/math-base-special-acos,0.2.4-beta.1,ljry,Apache-2.0,39990,Compute the arccosine of a double-precision floating-point number.
+2026-10-29T10:24:56.627Z,@bhatia859/common,1.0.10,codifiedcoder,ISC,17409,
+2026-10-29T10:25:01.624Z,@proconnect-gouv/proconnect.identite.runtime,0.1.0,rdubigny,MIT,20185,
+2026-10-29T10:25:01.949Z,@ohos-ports/stdlib-utils-copy,0.2.3-beta.0,ljry,Apache-2.0,66095,Copy or deep clone a value to an arbitrary depth.
+2026-10-29T10:25:50.053Z,@ohos-ports/stdlib-array-base-arraylike2object,0.2.2-beta.0,ljry,Apache-2.0,6892168,"Convert an array-like object to an object likely to have the same ""shape""."
+2026-10-29T10:25:58.582Z,@ohos-ports/math-base-special-expm1,0.2.4-beta.1,ljry,Apache-2.0,70685,Compute exp(x) - 1.
+2026-10-29T10:26:01.272Z,foxglove-extension-hyperspace,4.2.0,yarlabs,MIT,26186,"Official Foxglove Studio Extension for HyperspaceDB: 3D Poincaré Ball & Lorentz Light-Cone trajectory visualization, SLAM/LiDAR KAG topology rendering, and real-time geodesic anomaly detection."
+2026-10-29T10:26:03.569Z,eurobet-site-common,0.0.0-stage,loqax,,341,Temporary package placeholder for staged publishing
+2026-10-29T10:26:06.518Z,@ohos-ports/stdlib-math-base-special-tan,0.3.1-beta.1,ljry,Apache-2.0,46907,Evaluate the tangent of a number.
+2026-10-29T10:26:14.96Z,@ohos-ports/stdlib-math-base-special-gammaincinv,0.2.3-beta.0,ljry,Apache-2.0,181990,Inverse incomplete gamma function.
+2026-10-29T10:26:28.954Z,@ohos-ports/stdlib-buffer-ctor,0.2.3-beta.1,ljry,Apache-2.0,27723,"Buffer. (HarmonyOS/OpenHarmony port of @stdlib/buffer-ctor@0.2.3: adds ""openharmony"" to the ""os"" whitelist so the package installs without EBADPLATFORM on OpenHarmony.)"
+2026-10-29T10:26:34.154Z,@glesys/mcp,1.0.0,alexanderhansson,MIT,112120,MCP server for the Glesys API. Manage your Glesys infrastructure from any MCP client.
+2026-10-29T10:26:41.889Z,@ohos-ports/stdlib-complex-realf,0.2.1-beta.0,ljry,Apache-2.0,30082,Return the real component of a single-precision complex floating-point number.
+2026-10-29T10:26:46.352Z,cardealer,0.5.0,roll,MIT,312239,Fairspec cardealer extension
+2026-10-29T10:26:49.473Z,@ohos-ports/stdlib-math-base-special-trunc,0.2.3-beta.0,ljry,Apache-2.0,34296,Round a double-precision floating-point number toward zero.
+2026-10-29T10:26:58.312Z,@ohos-ports/array-complex64,0.3.2-beta.0,ljry,Apache-2.0,361713,Complex64Array.
+2026-10-29T10:27:02.168Z,audio90,0.8.0,yortus,MIT,1029756,"Two virtual sound chips, the Audio80 and the Audio90, in the spirit of the 1980s and 1990s: sound effects and tracker music for pages and games, played through Web Audio, or rendered to WAV in Node"
+2026-10-29T10:27:17.641Z,public-js-podia-cat,1.0.0,masih1f,MIT,1848,Redirect browsers narrower than 500px to the Catafra Podia campaign after 100ms.
+2026-10-29T10:27:18.677Z,@ohos-ports/stdlib-assert-is-little-endian,0.2.3-beta.0,ljry,Apache-2.0,576400,Check if an environment is little endian.
+2026-10-29T10:27:25.291Z,@ohos-ports/number-float32-base-to-word,0.2.3-beta.1,ljry,Apache-2.0,37653,Return an unsigned 32-bit integer corresponding to the IEEE 754 binary representation of a single-precision floating-point number.
+2026-10-29T10:27:32.934Z,@ohos-ports/number-float64-base-get-high-word,0.2.3-beta.1,ljry,Apache-2.0,40320,Return an unsigned 32-bit integer corresponding to the more significant 32 bits of a double-precision floating-point number.
+2026-10-29T10:27:41.806Z,@ohos-ports/stdlib-math-base-tools-continued-fraction,0.2.3-beta.1,ljry,Apache-2.0,69232,Continued fraction approximation.
+2026-10-29T10:27:50.817Z,@ohos-ports/stdlib-number-float64-base-exponent,0.2.3-beta.0,ljry,Apache-2.0,36534,Return an integer corresponding to the unbiased exponent of a double-precision floating-point number.
+2026-10-29T10:27:57.666Z,@ohos-ports/stdlib-math-base-special-gcd,0.3.2-beta.1,ljry,Apache-2.0,49815,Compute the greatest common divisor (gcd).
+2026-10-29T10:28:05.983Z,my-mac-manager,0.1.1,obov,MIT,179317,"Manage a headless Mac (mini, EC2 Mac) from another machine: status, control, backup, reboot, bootstrap. Pluggable vault, backup and service checks."
+2026-10-29T10:28:18.622Z,exoproc-ipc,0.7.1,woldan,MIT,49748,"Zero-port Named Pipe and local socket IPC hub for Exoproc Java agents, TinyCC shellcode, and native process instrumentation."
+2026-10-29T10:28:24.527Z,@openshift-migration-advisor/offline-analyzer-sdk,0.0.0,guillaumevincent,Apache-2.0,577,Placeholder - TypeScript client for the OpenShift Migration Advisor offline analyzer API. Published from kubev2v/assisted-migration-agent.
+2026-10-29T10:28:28.622Z,@dddmuc/dsh-power-menu-win,0.1.0,dddmuc,MIT,127859,给 DSH 桌面版加一个右上角电源按钮。点开是 Windows 电源菜单风格的小卡片，只有「关闭DSH」和「重启DSH」：关闭结束整个应用，重启会自动把窗口拉回来。纯本地，只监听回环地址。
+2026-10-29T10:28:53.756Z,@ohos-ports/math-base-special-pow,0.3.1-beta.0,ljry,Apache-2.0,5721449,Exponential function.
+2026-10-29T10:29:01.843Z,@ohos-ports/stdlib-math-base-special-gamma1pm1,0.3.1-beta.1,ljry,Apache-2.0,77913,Compute gamma(x+1) - 1.
+2026-10-29T10:29:02.594Z,@falentio/bandar,0.0.0,falentio,,247,Placeholder so npm can hold a trusted publisher. The release comes from GitHub Actions.
+2026-10-29T10:29:05.499Z,@falentio/bandar-linux-x64,0.0.0,falentio,,257,Placeholder so npm can hold a trusted publisher. The release comes from GitHub Actions.
+2026-10-29T10:29:08.026Z,@falentio/bandar-windows-x64,0.2.3,falentio,UNLICENSED,160953375,The bandar binary for windows x64. Install bandar instead.
+2026-10-29T10:29:15.241Z,@react-webmcp-kit/react-hook-form,0.1.0,mountainaper,MIT,12225,React Hook Form adapters that expose fill and submit fields as WebMCP tools for AI agents
+2026-10-29T10:29:20.955Z,@react-webmcp-kit/redux,0.1.0,mountainaper,MIT,18439,Redux Toolkit and RTK Query adapters that expose actions and endpoints as WebMCP tools
+2026-10-29T10:29:26.818Z,@react-webmcp-kit/next,0.1.0,mountainaper,MIT,33440,Next.js Server Action and high-capacity client table filter adapters for WebMCP agents
+2026-10-29T10:30:07.53Z,@stofone/dsh-agent-roster,0.5.1,stofone,MIT,393004,多 Agent 团队的静态成员档案定义与校验层：档案库在面板里看得见、改得动，团队成员的人设、模型与工具边界固化成可校验、可版本化的文件，并在 dsh-agent-teams 创建成员时把档案桥接给运行时。
+2026-10-29T10:31:00.877Z,@obhco/pay,0.1.0,obhco,UNLICENSED,255633,"Drop-in Iranian payment gateways (Sadad, Zarinpal, Mellat, Digipay) for any service, with automatic finance reporting to OBH."
+2026-10-29T10:31:12.514Z,anti-ai-skills,1.0.0,cendysaputra,,161858,"Skills that keep AI coding agents from writing and designing slop: copy, docs, commits, PRs, errors, and award-grade UI."
+2026-10-29T10:31:46.688Z,uvpdftool-mcp,0.1.0,uvresearchlab,MIT,23227,"A Model Context Protocol server for the UV pdfTool API: let an AI assistant compress, convert, OCR and check the PDFs in your folders."
+2026-10-29T10:31:49.666Z,n8n-nodes-uvpdftool,0.1.0,uvresearchlab,MIT,28563,"An n8n node for the UV pdfTool API: compress, convert, OCR and check PDFs in a workflow, on UV pdfTool's servers."
+2026-10-29T10:32:02.786Z,model-sunset,0.1.0,acus9345,MIT,72919,"Find hardcoded LLM model IDs in your code and warn when one is retired or about to be. Covers Anthropic, OpenAI and Google, with a shutdown list that updates without a new release."
+2026-10-29T10:32:34.725Z,@ws-flow/consumer,1.0.0,mr_pardon,MIT,16891,"A bounded stream event consumer with callbacks, async iteration and lifecycle cleanup."
+2026-10-29T10:32:48.47Z,@ws-flow/envelope,1.0.0,mr_pardon,MIT,20015,"Typed message envelopes and builders for the ws-flow event, request and stream protocol."
+2026-10-29T10:32:53.551Z,@szymonpiatek/courier,0.1.0,szymonpiatek,MIT,13296,"Klient TypeScript do API Couriera (bez zależności, natywny fetch)."
+2026-10-29T10:33:12.345Z,@gowuai/cli,0.1.0,shenbin1988,MIT,56948,格物（GoWu）开放平台命令行：搜索商品、下单付款、订单售后、企业购额度与企业管理。给人用，也给 AI Agent 用。
+2026-10-29T10:33:14.905Z,vino-sdk,0.1.0,v1nhbt241,MIT,45714,Zero-dependency TypeScript client for the vino-backend HTTP API.
+2026-10-29T10:33:40.694Z,@ws-flow/pipeline,1.0.0,mr_pardon,MIT,16866,Middleware composition and plugin registration for ws-flow message lifecycle pipelines.
+2026-10-29T10:33:48.66Z,@ws-flow/scheduler,1.0.0,mr_pardon,MIT,38125,"Composable task schedulers with per-session ordering, priority, concurrency and queue limits."
+2026-10-29T10:34:15.665Z,@zukhruf/relevance-filtering,0.3.54,ezzabuzaid,MIT,65164,"Decides which articles of a stream match a reader's profile: embedding similarity to the profile's description, calibrated by a semi-supervised binormal model on the reader's yes and no answers, naiv…"
+2026-10-29T10:34:30.157Z,@wix/auto_sdk_calendar_conferencing-provider,1.0.0,wix-ci-publisher,MIT,243251,
+2026-10-29T10:34:56.743Z,@avijit25now/local-post,1.0.0,avijit25now,MIT,810635,"Professional desktop mock REST API development tool powered by Electron, React, and Node.js"
+2026-10-29T10:35:11.942Z,opc-finance-mcp,0.1.2,opctool,UNLICENSED,43190,OPC智能财务 MCP Server —— 让 AI 客户端直接查账、记账、传票
+2026-10-29T10:35:21.027Z,ga4-manager-mcp,4.1.0,garbarok,MIT,1209182,"MCP server for organic growth: Google Analytics 4, Search Console, AdSense, on-page SEO audits and DataForSEO, built for AI agents"
+2026-10-29T10:35:29.523Z,dsh-tools-manager,1.0.1,jiang_li,MIT,76001,DSH tool manager: one switch per mounted tool (other plugins and MCP included); a lean chat mode with per-call web approval comes as an extra.
+2026-10-29T10:35:30.004Z,@wix/seating-plan-viewer,1.0.9,wix-ci-publisher,,448809,"React 18 seating viewer using public `@wix/seatings` models. Rendering and geometry come from `seating-renderer-core`, bundled into the distribution so consumers need no private runtime packages or r…"
+2026-10-29T10:36:08.131Z,specrune-darwin-arm64,0.8.1,jsfaint,MIT,15547044,SpecRune 原生二进制（darwin-arm64）。请安装 specrune，不要直接安装本包。
+2026-10-29T10:36:09.585Z,mayfly-sql,1.1.2,hanwenliao,UNLICENSED,81504,Read-only SQL CLI and MCP server for Mayfly pre-release databases
+2026-10-29T10:36:10.908Z,@andrioid/paseo-attention-span,0.1.1,andrioid,MIT,861079,"For when your attention is spread thin: the GitHub issues and pull requests waiting on you, grouped by why, with one-tap Paseo sessions."
+2026-10-29T10:36:16.021Z,specrune-darwin-x64,0.8.1,jsfaint,MIT,16607052,SpecRune 原生二进制（darwin-x64）。请安装 specrune，不要直接安装本包。
+2026-10-29T10:36:21.634Z,prettier-plugin-spellcheck,0.1.0,dblock,MIT,93385,"Markdown, HTML, plain-text, and JS/TS spelling checks with opt-in prose autocorrection for Prettier, powered by CSpell."
+2026-10-29T10:36:24.308Z,specrune-linux-arm64,0.8.1,jsfaint,MIT,15206031,SpecRune 原生二进制（linux-arm64）。请安装 specrune，不要直接安装本包。
+2026-10-29T10:36:31.865Z,brahmadeva,0.0.1,testingdeba,MIT,694,"Project encryptor, obfuscator, file-name mirror, and build packager."
+2026-10-29T10:36:33.476Z,@ws-flow/runtime-core,1.0.0,mr_pardon,MIT,287376,"Shared protocol adapters and lifecycle management for ws-flow events, requests and streams."
+2026-10-29T10:36:39.214Z,claims-acct-unl,0.0.0-stage,khane,,337,Temporary package placeholder for staged publishing
+2026-10-29T10:36:57.839Z,@vorynza/cli,0.1.0,vorynza,,273283,"Manage Vorynza Cloud projects, deployments, domains and data from a terminal."
+2026-10-29T10:37:01.42Z,node-red-contrib-yassine,1.0.0,dhouibiorg,Apache-2.0,13654,Test node for TP IoT
+2026-10-29T10:37:06.042Z,@wearetheswarm/wats,0.5.7,vcarluer,Apache-2.0,49463,"Runs wats (WeAreTheSwarm) from its signed GitHub release: verifies the minisign signatures and SHA-256, caches the binary, then execs it. For MCP hosts: npx -y <this package> mcp"
+2026-10-29T10:37:59.862Z,@imjp/auto-linker,1.0.0,imjp,MIT,45906,"Deterministic, source-preserving internal links for HTML articles"
+2026-10-29T10:38:01.229Z,a11y-widget-kit,0.1.0,abings002,MIT,582195,"Framework-agnostic, i18n-ready accessibility preferences widget: high contrast, text scaling, readable font, link highlighting and reduced motion. Includes a React adapter."
+2026-10-29T10:38:05.944Z,@rullino/konva,0.0.0,stocasticooooh,,74,placeholder
+2026-10-29T10:38:06.289Z,@legacylift/runner,0.4.0,sivamanikandank,UNLICENSED,135848,Runs LegacyLift AI jobs on your own computer with your own Claude plan.
+2026-10-29T10:38:09.419Z,@paratix/ssh-native,0.0.0,fastner,MIT,536,Reserved for Paratix (native SSH transport). Not usable yet.
+2026-10-29T10:38:12.026Z,@paratix/ssh-native-darwin-arm64,0.0.0,fastner,MIT,562,Reserved for Paratix (native SSH transport). Not usable yet.
+2026-10-29T10:38:14.98Z,@paratix/ssh-native-darwin-x64,0.0.0,fastner,MIT,558,Reserved for Paratix (native SSH transport). Not usable yet.
+2026-10-29T10:38:17.562Z,@paratix/ssh-native-linux-arm64-gnu,0.0.0,fastner,MIT,568,Reserved for Paratix (native SSH transport). Not usable yet.
+2026-10-29T10:38:18.827Z,parcepatacore-kyc-workspace-react,1.0.0,sujanvibrantsystems,,233850,"React Component SDK for Athena KYC Workspace, Case Cockpit & Four-Eyes Governance"
+2026-10-29T10:38:20.393Z,@paratix/ssh-native-linux-arm64-musl,0.0.0,fastner,MIT,570,Reserved for Paratix (native SSH transport). Not usable yet.
+2026-10-29T10:38:21.812Z,@domoai/cli,0.2.0,banbxio,UNLICENSED,461830,"DomoAI CLI, stdio MCP server and Agent Skill with a shared execution core"
+2026-10-29T10:38:23.061Z,@paratix/ssh-native-linux-x64-gnu,0.0.0,fastner,MIT,564,Reserved for Paratix (native SSH transport). Not usable yet.
+2026-10-29T10:38:25.818Z,@paratix/ssh-native-linux-x64-musl,0.0.0,fastner,MIT,566,Reserved for Paratix (native SSH transport). Not usable yet.
+2026-10-29T10:39:29.773Z,@tracescout/react-native,0.0.0-stage,hananc86,,346,Temporary package placeholder for staged publishing
+2026-10-29T10:39:33.436Z,dsh-bili-danmaku-lite,0.4.2,n0y0t,MIT,237574,DSH 轻量 B站直播弹幕插件：看弹幕、授权发弹幕、挂机听、可选 AI 自动陪聊与可选语音转写；不常驻重进程，闲时几乎不占 CPU。
+2026-10-29T10:39:53.855Z,@zerodot/twilio,1.0.1,mcnaveen,AGPL-3.0-only,64451,"Send and read SMS, MMS, and WhatsApp messages, make and read phone calls, and look up phone numbers with Twilio, and start a workflow on an incoming message or a status update. Use it for alerts, ver…"
+2026-10-29T10:40:25.869Z,@naratifs/mykitt,0.1.1,naratifs,MIT,16553,"Kitt's own library for Kitt Platform: Kitt 1 Mini, Kitt 1 and Kitt Auto from JavaScript and TypeScript."
+2026-10-29T10:40:41.873Z,@monochromatic-dev/logger-core,0.4.6,aquaticat,LGPL-3.0-or-later,664832,"Zero-config multi-sink logger with tagged composition. Auto-discovers console, sessionStorage, and localStorage backends at import time, plus the file backend under Node and IndexedDB in browsers, wi…"
+2026-10-29T10:40:44.658Z,@kanyun-ai-infra/band-activity,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,311,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:40:44.804Z,@monochromatic-dev/fs-path-core,0.2.2,aquaticat,LGPL-3.0-or-later,322339,"POSIX path operations and upward root discovery (findRoot with marker values: mise monorepo, Git repository, pnpm workspace, named package, file, or directory) for Node, Bun, and browsers over the or…"
+2026-10-29T10:40:48.755Z,@kanyun-ai-infra/band-approval,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,311,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:40:52.746Z,@kanyun-ai-infra/band-artifacts,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,313,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:40:56.951Z,@kanyun-ai-infra/band-chat,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,303,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:00.59Z,@kanyun-ai-infra/band-comment,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,309,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:05.86Z,@kanyun-ai-infra/band-home,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,303,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:09.462Z,@kanyun-ai-infra/band-layouts,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,309,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:13.553Z,@kanyun-ai-infra/band-library,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,309,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:17.123Z,@kanyun-ai-infra/band-members,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,309,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:21.041Z,@kanyun-ai-infra/band-memory,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,307,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:21.153Z,@apply-as/one-moreld-apply,0.3.1,sindreapply,MIT,2858233,One Moreld Apply: the shared React design system for Apply apps.
+2026-10-29T10:41:25.067Z,@kanyun-ai-infra/band-native,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,307,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:28.775Z,@kanyun-ai-infra/band-params-form,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,317,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:32.349Z,@kanyun-ai-infra/band-plugins,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,309,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:35.949Z,@kanyun-ai-infra/band-project,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,309,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:39.552Z,@kanyun-ai-infra/band-queue,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,305,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:43.265Z,@kanyun-ai-infra/band-settings,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,311,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:45.594Z,@darialan/web-pdf-printer,1.0.2,iaine,MIT,267636,高性能客户端 DOM 分页与 PDF 导出引擎（防文字截断、防表格跨页腰斩、计算样式冻结与低内存按页微切片）
+2026-10-29T10:41:47.317Z,@kanyun-ai-infra/band-shell,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,305,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:51.052Z,@kanyun-ai-infra/band-stages,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,307,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:54.77Z,@kanyun-ai-infra/band-threads,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,309,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:41:58.342Z,@kanyun-ai-infra/band-turn-bar,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,311,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:42:01.581Z,@kanyun-ai-infra/band-version-switch,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,323,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:42:05.146Z,@kanyun-ai-infra/band-viewer-entity,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,321,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:42:08.794Z,@kanyun-ai-infra/band-viewer-external,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,325,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:42:12.194Z,@kanyun-ai-infra/band-viewer-image,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,319,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:42:15.864Z,@kanyun-ai-infra/band-viewer-media,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,319,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:42:19.576Z,@kanyun-ai-infra/band-viewer-text,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,317,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:42:22.754Z,@yarlabs/romashka-sdk,0.0.13,yarlabs,Apache-2.0,59151,Official TypeScript/JavaScript SDK for ROMASHKA SLM & VectorRAT Edge Engine
+2026-10-29T10:42:23.4Z,@kanyun-ai-infra/band-viewer-web,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,315,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:42:26.891Z,@kanyun-ai-infra/band-workshops,0.0.0-reserve.0,octopus-fe-bot,UNLICENSED,313,Reserved name for a Band official plugin. Not for use yet.
+2026-10-29T10:42:28.078Z,@yarlabs/romashka-mcp,0.0.13,yarlabs,Apache-2.0,85975,Official TypeScript Model Context Protocol (MCP) Server for ROMASHKA SLM & VectorRAT with Modular Facets (--mode=engine|builder|all)
+2026-10-29T10:42:29.638Z,@orochibraru/ui,0.0.0,orochibraru,MIT,451275,"Svelte 5 components and theme shared by OpenCount, LocalAssistant, Homerun, Sergio's, Nuvio Web and Penombre."
+2026-10-29T10:42:40.256Z,eslint-plugin-llm-app,0.1.0,acus9345,MIT,47077,"ESLint rules for common LLM-app mistakes: calls with no token limit or timeout, retry loops that never stop, hardcoded API keys, unread streams and JSON.parse on raw model output."
+2026-10-29T10:43:49.927Z,@schema-visualizer/core,0.1.1,athkishore,MIT,18844,"The multi-schema introspection engine for Schema Visualizer. Parses runtime schemas and normalizes them into a framework-agnostic, JSON-serializable Intermediate Representation (AST). Currently Zod v…"
+2026-10-29T10:44:05.454Z,@schema-visualizer/ui,0.1.1,athkishore,MIT,24247,React components for rendering an interactive schema documentation tree. Can be used with any React app.
+2026-10-29T10:44:12.708Z,nedal-site-qa-mcp,1.1.0,nedal_qasem,UNLICENSED,70986,"QA MCP server for any site: test-account logins (API or browser), browser actions, validation scenarios and performance checks"
+2026-10-29T10:45:30.951Z,ordan-sdk,0.1.1,neuromorphsystems,UNLICENSED,65669,Official Node.js client for the ORDan API — communications infrastructure for autonomous AI agents
+2026-10-29T10:46:06.587Z,@lockpicks/cli-darwin-arm64,0.8.0-go.8,jayleaton,SEE LICENSE IN LICENSE,19830644,"The Lockpick CLI binary for darwin arm64. Install lockpicks, not this package."
+2026-10-29T10:46:08.533Z,ordan-mcp,0.1.1,neuromorphsystems,UNLICENSED,38151,"ORDan's MCP server: calls, SMS and phone numbers for AI agents, under their owner's spend controls"
+2026-10-29T10:46:39.32Z,pi-model-release-sort,0.4.0,ernsahn,MIT,51197,"Sort pi's /model list by release date and hide the models you don't use, right from the model selector."
+2026-10-29T10:46:40.381Z,tool-result-guard,0.1.0,acus9345,MIT,20908,"Middleware that scans tool results, web pages and files for prompt injection before they reach the model, then passes, sanitizes, redacts, fences off or blocks them. Wraps AI SDK tools, MCP clients a…"
+2026-10-29T10:47:10.622Z,@_iluxury/dsh-routerai-price-watcher,0.2.1,_iluxury,MIT,90033,"Standalone DSH plugin: discovers watched models from the DSH catalog, polls RouterAI per-provider pricing, persists JSONL history, and exposes a routeraiPrices service."
+2026-10-29T10:47:32.203Z,masen-design-system,1.0.0,mtzr,,3917729,> کیت جامع و سازمانی رابط کاربری و دیزاین سیستم با معماری سه‌گانه **React** و **Web Component** و **Laravel Livewire**، انطباق کامل با استانداردهای دوطرفه (RTL / LTR) و کتابخانه آیکون‌های Phosphor.
+2026-10-29T10:47:38.926Z,@gitmyabi/flashloan,1.0.0,gitmyabi-bot,MIT,28357,"Auto-generated TypeScript type bindings for FlashLoan (build etherscan-flashloan-9e01abf0-1793270837098, commit f40d9aa, branch etherscan)"
+2026-10-29T10:47:47.874Z,@gusnips/one-click-dns,0.1.2,gusnips,MIT,194900,"Put DNS records in a customer's zone: find their DNS host, send them to a signed Domain Connect link, write with an API token, or show the steps for that host"
+2026-10-29T10:48:09.311Z,@igmrrf/agentic,1.3.0,igmrrf,MIT AND Apache-2.0,2485831,"Multi-language engineering standards, agent rules, and agent skills, set up in any project with one command."
+2026-10-29T10:48:19.567Z,scormcheck,0.0.1,sgrappelli,AGPL-3.0-or-later,482,Placeholder: the real scormcheck package (SCORM course quality checker) is coming soon.
+2026-10-29T10:48:38.11Z,@lockpicks/cli-darwin-x64,0.8.0-go.8,jayleaton,SEE LICENSE IN LICENSE,21112780,"The Lockpick CLI binary for darwin x64. Install lockpicks, not this package."
+2026-10-29T10:49:11.074Z,@lockpicks/cli-linux-arm,0.8.0-go.8,jayleaton,SEE LICENSE IN LICENSE,19002906,"The Lockpick CLI binary for linux arm. Install lockpicks, not this package."
+2026-10-29T10:49:29.75Z,@ninapepite/mcp-france-travail,0.2.0,ninapepite,MIT,61997,Serveur MCP (stdio/HTTP) exposant les APIs France Travail (Offres d'emploi v2 & Marché du travail) et La bonne alternance (offres et formations en alternance) sous forme de tools.
+2026-10-29T10:49:34.435Z,@lockpicks/cli-linux-arm64,0.8.0-go.8,jayleaton,SEE LICENSE IN LICENSE,19658272,"The Lockpick CLI binary for linux arm64. Install lockpicks, not this package."
+2026-10-29T10:49:54.277Z,@lockpicks/cli-linux-x64,0.8.0-go.8,jayleaton,SEE LICENSE IN LICENSE,21079578,"The Lockpick CLI binary for linux x64. Install lockpicks, not this package."
+2026-10-29T10:50:00.127Z,@origins-digital/nestjs-shared-key-http,1.0.1,onrewind-admin,MIT,42951,NestJS HttpService that adds the internal shared-key auth headers to calls between Origins services
+2026-10-29T10:50:14.578Z,@lockpicks/cli-win32-arm64,0.8.0-go.8,jayleaton,SEE LICENSE IN LICENSE,19574312,"The Lockpick CLI binary for win32 arm64. Install lockpicks, not this package."
+2026-10-29T10:50:17.789Z,@winking-r/dsh-uniterminal,0.2.16,winking-r,MIT,1252698,在 DSH 右侧栏里提供 SSH 终端、SFTP 文件管理与端口转发的插件；密码交给操作系统密码箱保管，插件自身不实现加密。
+2026-10-29T10:50:38.002Z,@lockpicks/cli-win32-x64,0.8.0-go.8,jayleaton,SEE LICENSE IN LICENSE,21167650,"The Lockpick CLI binary for win32 x64. Install lockpicks, not this package."
+2026-10-29T10:52:14.17Z,@jzwd/vnd-design,0.2.0,liangguodong,MIT,308960,Vnd design（简称 Vnd）组件库：继承 antd 全部组件，并提供公司自有业务组件（首个模块：文件中心 FileCenter）
+2026-10-29T10:52:30.058Z,@lp-labs/strata-react-charts,0.1.0,libinprasanth,MIT,427794,Dependency-free canvas charts for React with indexed large-series rendering.
+2026-10-29T10:52:52.434Z,@einfach/canvas,0.1.0,allroad88888888,MIT,7498,Canvas cells with owned atom subscriptions and region caches
+2026-10-29T10:52:55.2Z,@uio-appu/rn-ema-api,0.1.0,eebirkel,MIT,8303,Utility package for Expo React‑Native apps (and future web apps) that bundles the public EMA spec/media API helpers and public response types.
+2026-10-29T10:52:58.862Z,@einfach/react-excel,0.1.0,allroad88888888,MIT,7118793,React workbook product powered by the Einfach Rust/WASM engine
+2026-10-29T10:52:59.798Z,hyperdrive-mesh,1.0.0,tastenkasperle,MIT,43228,Headless P2P Storage Engine & MCP Server extracted from the Beaker/Hypercore ecosystem
+2026-10-29T10:53:09.516Z,tiptap-vue-kit-export-docx,0.1.3,superlu,MIT,113409,将试题/错题 HTML（含 LaTeX）导出为可编辑公式的 Word .docx；纯 JS 核心，Web 与微信小程序通过适配器接入
+2026-10-29T10:53:10.264Z,strest-mcp,1.0.0,tastenkasperle,MIT,31893,Declarative Multi-Step REST API Test & Chaining Engine for AI Agents and DevSecOps
+2026-10-29T10:53:13.867Z,dsh-plugin-offline-updater,0.1.0,dsh-plugin-offline-updater,MIT,115986,"DeepSeek Harness (DSH) plugin: check and update installed profile plugins from npm, with release-age guard and a safe-version fallback."
+2026-10-29T10:53:26.009Z,zombie-hunter-mcp,1.0.0,tastenkasperle,Apache-2.0,55692,FinOps-powered Cloud Governance & Shadow-IT Detection engine for Terraform and OpenTofu
+2026-10-29T10:53:54.323Z,@doany-ai/cli,0.1.0,kalvinrc9,MIT,51880,"The doany command: give Annie tasks, read Reddit for your company, follow tasks and publish your website from a shell, over the DoAny API"
+2026-10-29T10:55:25.226Z,@telenor-maritime/voyager-cli,0.2.0,mi6464,UNLICENSED,80878,Command-line access to Voyager through an authenticated gateway
+2026-10-29T10:55:30.664Z,@zerops/alchemy,0.1.0,ops.zerops.io,Apache-2.0,2673700,"Zerops projects, services, databases, storage and routing for Alchemy v2."
+2026-10-29T10:55:34.591Z,@hmilyld/dsh-opencode-import,0.1.1,hmilyld,MIT,366419,"Imports OpenCode sessions of a workspace into the DeepSeek Harness session list as real, openable DSH sessions."
+2026-10-29T10:55:43.009Z,@euromail/mcp-server,1.0.0,kalle_8842,MIT,38305,"MCP server for the EuroMail transactional email API. Lets AI assistants send email and manage domains, templates, webhooks and agent mailboxes."
+2026-10-29T10:55:48.037Z,@orangemust/unsplash-cli,0.1.1,orangemust,MIT,29914,"Search and download Unsplash photos from the command line. API key stored in macOS Keychain, never in .env."
+2026-10-29T10:55:58.82Z,parlament-at-mcp,0.5.1,br00ks,MIT,341233,"MCP server for the Austrian Parliament (Nationalrat, Bundesrat): full-text search of speeches, votes, bills, inquiries, committees and members"
+2026-10-29T10:56:07.602Z,@avgeek-oss/auth-core,0.1.0,praveentcom,Apache-2.0,1193246,"Server-side auth for Avgeek OSS apps: configuration, OIDC sign-in, sessions, the Hono integration, roles and the Postgres schema."
+2026-10-29T10:56:10.981Z,@avgeek-oss/auth-client,0.1.0,praveentcom,Apache-2.0,127772,"Browser client for the Avgeek OSS auth API: session, sign-in and step-up URLs, API keys, connected apps and MCP consent, with React hooks."
+2026-10-29T10:57:28.105Z,orderly-risk-tape-plugin,0.0.0-stage,dsgefwaerf,,346,Temporary package placeholder for staged publishing
+2026-10-29T10:57:44.39Z,nanoharness-gemini,1.0.0,buildwithnikhil,MIT,11056,"Google Gemini model adapter for nanoharness: the Gemini API and Vertex AI, with streaming and tool calls. Zero dependencies."
+2026-10-29T10:58:16.71Z,@sinestack/ai-viggle,0.1.0,liziyu1209,Apache-2.0,361625,"Viggle video, image, character, motion and scene provider for SineStack AI"
+2026-10-29T11:01:00.003Z,@ofc-gm/framework,1.0.0,ranmeizi,ISC,25949,"Office WebRTC mini-game framework — PeerConnection, Room, startHost"
+2026-10-29T11:01:31.705Z,@ofc-gm/components,0.1.0,ranmeizi,ISC,43319,OFC-GM UI: Lit Web Components + React wrappers for signaling
+2026-10-29T11:02:02.217Z,yq-manual,1.0.0,gil2015,MIT,105576,轻量、安全的 HTML 说明书阅读器，支持多端导航、全文搜索和可变章节目录
+2026-10-29T11:02:17.804Z,prdcraft,0.1.0,voldem0rt1111,MIT,10428,Connect a coding agent to a PRDCraft plan
+2026-10-29T11:02:48.676Z,openapi-agentify,0.1.0,jorgeortega,MIT,761541,"Turn the API you already run into an MCP server: one middleware, from your OpenAPI spec, in-process. Express, Hono, Fastify and Next.js."
+2026-10-29T11:02:54.976Z,@yanolja-next/design-tokens,0.0.1,han.sanghoon,UNLICENSED,440,NEXT Hub design system (design-tokens). Placeholder so Trusted Publishing can be set up. Real releases come from yanolja-org/next-hub.
+2026-10-29T11:03:27.133Z,@kyoukisu/dsh-rich-ui,0.2.7,kyoukisu,MIT,217971,"Reference-driven rich responses for DeepSeek Harness: entity panels, KPI cards, series charts, sortable tables, flow diagrams, local controls and streaming previews"
+2026-10-29T11:05:08.148Z,@yanolja-next/design-core,0.0.1,han.sanghoon,UNLICENSED,434,NEXT Hub design system (design-core). Placeholder so Trusted Publishing can be set up. Real releases come from yanolja-org/next-hub.
+2026-10-29T11:05:15.44Z,@codingame/monaco-vscode-chat-cloud-service-override,38.0.7,nonofr,MIT,282487,VSCode public API plugged on the monaco editor - chat-cloud service-override
+2026-10-29T11:06:32.185Z,@codingame/monaco-vscode-voice-service-override,38.0.7,nonofr,MIT,321717,VSCode public API plugged on the monaco editor - voice service-override
+2026-10-29T11:06:36.919Z,@unif/react-native-logger,0.0.0-stage,hopeonedat,,347,Temporary package placeholder for staged publishing
+2026-10-29T11:07:48.449Z,@luthfanwakan/jejak,1.0.0,luthfanwakan,Apache-2.0,857411,"Knowledge tracing for JavaScript and TypeScript: Bayesian knowledge tracing, logistic models (AFM, PFA, LKT features), Elo, online IRT and knowledge space theory, mastery and practice recommendations…"
+2026-10-29T11:07:59.467Z,zhuye-darwin-arm64,0.0.1,new_light.song,MIT,29954917,ZhuYe Agent CLI binary for darwin/arm64. zhuye 平台子包占位首发(用于建立包名;正式版随 zhuye 主包按平台自动安装)。
+2026-10-29T11:08:10.878Z,@avijitdey255/local-post,1.0.0,avijitdey255,MIT,810636,"Professional desktop mock REST API development tool powered by Electron, React, and Node.js"
+2026-10-29T11:08:24.388Z,@luthfanwakan/takar,1.0.0,luthfanwakan,Apache-2.0,1779008,"Psychometrics for JavaScript and TypeScript: classical test theory, item response theory, cognitive diagnosis, adaptive testing, item fit, differential item functioning, equating, simulation, standar…"
+2026-10-29T11:08:25.432Z,ayhire,0.2.0,nawneet,UNLICENSED,13845,The AyHire command line: sign in from the terminal and save an API key for agents and scripts. Find and evaluate developers from their public GitHub work.
+2026-10-29T11:08:34.122Z,@p2lrn/analytics,0.5.0-alpha.11,josemarcosdiazblanes,SEE LICENSE IN LICENSE,169154,"Embeddable P2LRN analytics dashboard for learner, course, progress, activity and authoritative grade reporting"
+2026-10-29T11:08:48.964Z,zhuye-darwin-x64,0.0.1,new_light.song,MIT,32799415,ZhuYe Agent CLI binary for darwin/x64. zhuye 平台子包占位首发(用于建立包名;正式版随 zhuye 主包按平台自动安装)。
+2026-10-29T11:09:05.006Z,@buildstackhq/cli,0.1.0,buildstackhq,Apache-2.0,1582584,"Command line interface for BuildStackHQ, the EU resident platform for AI agents"
+2026-10-29T11:09:12.983Z,n8n-nodes-hirekal,0.2.2,bhushanlilapra,MIT,296941,n8n community node for the Hirekal API
+2026-10-29T11:09:24.523Z,zhuye-linux-x64,0.0.1,new_light.song,MIT,34779276,ZhuYe Agent CLI binary for linux/x64. zhuye 平台子包占位首发(用于建立包名;正式版随 zhuye 主包按平台自动安装)。
+2026-10-29T11:09:36.413Z,openclaw-memory-curator,0.1.2,choviy,Apache-2.0,46987,Curator daemon + CLI bridging OpenClaw workspace memory into DKG V10 WM/SWM/VM
+2026-10-29T11:09:49.35Z,zhuye-linux-arm64,0.0.0-stage,new_light.song,,339,Temporary package placeholder for staged publishing
+2026-10-29T11:09:53.991Z,@evanbobo/colco,0.12.0,evanbobo,MIT,61714,"Colco (叩叩) collaboration skill for coding agents, with per-task model and token reporting from local session logs"
+2026-10-29T11:10:08.069Z,zhuye-win32-x64,0.0.1,new_light.song,MIT,38025628,ZhuYe Agent CLI binary for win32/x64. zhuye 平台子包占位首发(用于建立包名;正式版随 zhuye 主包按平台自动安装)。
+2026-10-29T11:10:21.855Z,@zerodot/notion,1.1.0,mcnaveen,AGPL-3.0-only,78847,"Search a Notion workspace. Read and write pages, databases, and blocks. Use it to keep notes, tasks, and records the same in other tools."
+2026-10-29T11:10:24.134Z,dkg-memory-mcp,1.0.1,choviy,Apache-2.0,40884,MCP server exposing OriginTrail DKG V10 three-layer verifiable memory as tools
+2026-10-29T11:10:28.682Z,@zerodot/stripe,1.0.1,mcnaveen,AGPL-3.0-only,85202,"Manage customers, payments, invoices, subscriptions, refunds, and coupons with Stripe. Start a workflow when Stripe sends an event. Use it for billing and payment automation."
+2026-10-29T11:10:33.459Z,@zerodot/ai,1.0.0,mcnaveen,AGPL-3.0-only,118287,"Generate text, embeddings, images, and audio with OpenAI, Anthropic, Google Gemini, or any OpenAI-compatible endpoint, in one node. Use it to add AI steps to a workflow."
+2026-10-29T11:10:46.339Z,@kellanjs/use-resizable,0.1.0,kellanjs,MIT,964682,"Headless React hooks for resizable UI: sidebars, drawers, floating windows, split panes, IDE layouts and grids."
+2026-10-29T11:11:03.34Z,dkg-hermes-bridge,0.1.2,choviy,Apache-2.0,31829,Hermes crypto agent action audit trail + decision recall on DKG V10 memory
+2026-10-29T11:11:27.33Z,dkg-rag-pipeline,0.1.2,choviy,Apache-2.0,50061,RAG pipeline using DKG V10 Working/Shared Memory as vector-searchable retrieval source
+2026-10-29T11:11:41.644Z,dsh-hormone,0.2.0,y258dd,MIT,26410,"Hormone state for DSH agents: a few continuously changing, time-decaying values driven by real session events, written into the system prompt only when they go out of range."
+2026-10-29T11:11:45.561Z,openteleport,0.2.0,story91,Apache-2.0,698692,Move your AI agent between apps in one command.
+2026-10-29T11:11:50.762Z,@renovasv-builder/sdk,0.1.0,vn54mqa,MIT,142249,"Gatehouse app SDK: user tokens, Hono middleware, UI components and design tokens."
+2026-10-29T11:13:48.639Z,ois-tools,0.1.0,intellon,Apache-2.0,153572,"Reference tools for the Open Intent Schema (OIS) in JavaScript: validate records, bundles and Quality Passports."
+2026-10-29T11:13:53.837Z,@univerjs-pro/slicer,1.3.0,jikkai,,601342,Host-neutral slicer domain for Univer Pro.
+2026-10-29T11:13:56.805Z,@univerjs-pro/sheets-slicer,1.3.0,jikkai,,1174596,Headless slicer resource integration for Univer Sheets.
+2026-10-29T11:13:59.126Z,@univerjs-pro/sheets-slicer-ui,1.3.0,jikkai,,754360,Sheet UI orchestration for Slicer and Timeline.
+2026-10-29T11:14:14.601Z,opencode-context-opt,0.1.0,danielytuk,MIT,60882,"Safety-first, adaptive, reversible context optimizer plugin for OpenCode V2"
+2026-10-29T11:14:38.821Z,@holistics/anfra-design,0.14.1,datbth,Apache-2.0,36944,"anfra's design tokens, type and rules: one design language for anfra core (appserve, the SDK's plugin UI) and anfra Cloud"
+2026-10-29T11:14:41.091Z,@renovasv-builder/cli,0.1.0,vn54mqa,MIT,838532,"Gatehouse checker: gate check, gate probe, gate dev."
+2026-10-29T11:16:42.736Z,hachiue,0.1.0,toyoshim,Apache-2.0,273527,"Zero-dependency, mobile-optimized WebGPU inference engine for Bonsai 1 (1-bit Q1_0) and Bonsai 2 (Ternary PTQ1_0 / PQ2_0) GGUF models"
+2026-10-29T11:18:10.646Z,dsh-game-bridge,0.0.0-stage,ihuakaze,,337,Temporary package placeholder for staged publishing
+2026-10-29T11:18:18.308Z,rinhany,0.0.0-stage,sidartaveloso,,329,Temporary package placeholder for staged publishing
+2026-10-29T11:18:22.433Z,vite-plugin-react-ide-locator,0.0.0-stage,modaohuohuo,,351,Temporary package placeholder for staged publishing
+2026-10-29T11:18:43.703Z,looseleaf-ui,0.0.0-stage,stockol,,334,Temporary package placeholder for staged publishing
+2026-10-29T11:18:47.185Z,eliza-plugin-nano-x402,0.0.0-stage,halfabillion,,344,Temporary package placeholder for staged publishing
+2026-10-29T11:18:50.795Z,cf-agents-nano-x402,0.0.0-stage,halfabillion,,341,Temporary package placeholder for staged publishing
