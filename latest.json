@@ -1,58 +1,153 @@
 {
   "list": {
-    "count": 228,
-    "from": "2026-10-29T08:18:59.042708Z",
-    "path": "data/new-packages-2026-10-29T09-20-57-775263Z.csv",
-    "to": "2026-10-29T09:20:57.775263Z"
+    "count": 301,
+    "from": "2026-10-29T09:20:57.775263Z",
+    "path": "data/new-packages-2026-10-29T10-20-36-786704Z.csv",
+    "to": "2026-10-29T10:20:36.786704Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@fluid-topics/ftds-text-area",
-      "since": "2026-10-29T08:18:59.042708Z"
+      "package": "@doany-ai/course",
+      "since": "2026-10-29T09:20:57.775263Z"
     },
     {
       "attempts": 1,
-      "package": "@lakutata/netif",
-      "since": "2026-10-29T08:18:59.042708Z"
+      "package": "@ohos-ports/array-int32",
+      "since": "2026-10-29T09:20:57.775263Z"
     },
     {
       "attempts": 1,
-      "package": "@ohos-ports/parcel-runtime-service-worker",
-      "since": "2026-10-29T08:18:59.042708Z"
+      "package": "@ohos-ports/assert-is-complex-typed-array",
+      "since": "2026-10-29T09:20:57.775263Z"
     },
     {
       "attempts": 1,
-      "package": "@openstuff-dev/create-app",
-      "since": "2026-10-29T08:18:59.042708Z"
+      "package": "@ohos-ports/complex-reimf",
+      "since": "2026-10-29T09:20:57.775263Z"
     },
     {
       "attempts": 1,
-      "package": "@openstuff-dev/lint",
-      "since": "2026-10-29T08:18:59.042708Z"
+      "package": "@ohos-ports/math-base-special-abs",
+      "since": "2026-10-29T09:20:57.775263Z"
     },
     {
       "attempts": 1,
-      "package": "@openstuff-dev/nx",
-      "since": "2026-10-29T08:18:59.042708Z"
+      "package": "@ohos-ports/math-base-special-exp",
+      "since": "2026-10-29T09:20:57.775263Z"
     },
     {
       "attempts": 1,
-      "package": "@openstuff-dev/tokens",
-      "since": "2026-10-29T08:18:59.042708Z"
+      "package": "@ohos-ports/math-base-special-factorial",
+      "since": "2026-10-29T09:20:57.775263Z"
     },
     {
       "attempts": 1,
-      "package": "@openstuff-dev/ui",
-      "since": "2026-10-29T08:18:59.042708Z"
+      "package": "@ohos-ports/math-base-special-round",
+      "since": "2026-10-29T09:20:57.775263Z"
     },
     {
       "attempts": 1,
-      "package": "@openstuff-dev/ui-angular",
-      "since": "2026-10-29T08:18:59.042708Z"
+      "package": "@ohos-ports/number-float64-base-to-words",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/random-base-mt19937",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-array-complex128",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-blas-base-gcopy",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-math-base-special-betainc",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-math-base-special-binomcoef",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-math-base-special-erfc",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-math-base-special-erfcinv",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-math-base-special-gamma",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-math-base-special-maxabs",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-math-base-special-minabs",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-math-base-special-sinpi",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-number-float64-base-from-words",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-number-float64-base-normalize",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-stats-base-dists-degenerate-cdf",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ohos-ports/stdlib-string-lowercase",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@schaefchens/temple",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@schaefchens/temple-react",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@schaefchens/temple-react-native",
+      "since": "2026-10-29T09:20:57.775263Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@schaefchens/temple-web",
+      "since": "2026-10-29T09:20:57.775263Z"
     }
   ],
-  "seq": 140561769,
+  "seq": 140577777,
   "source_truncated": false,
-  "window": "2026-10-29T09:20:57.775263Z"
+  "window": "2026-10-29T10:20:36.786704Z"
 }
