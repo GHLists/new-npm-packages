@@ -1,12 +1,28 @@
 {
   "list": {
-    "count": 192,
-    "from": "2026-10-29T02:20:23.460385Z",
-    "path": "data/new-packages-2026-10-29T03-18-59-234435Z.csv",
-    "to": "2026-10-29T03:18:59.234435Z"
+    "count": 115,
+    "from": "2026-10-29T03:18:59.234435Z",
+    "path": "data/new-packages-2026-10-29T04-20-07-469636Z.csv",
+    "to": "2026-10-29T04:20:07.469636Z"
   },
-  "pending": [],
-  "seq": 140496181,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@kunpeng-io/kernel-shared",
+      "since": "2026-10-29T03:18:59.234435Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@nightlab-agent/mod-api-index",
+      "since": "2026-10-29T03:18:59.234435Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ratio-ui/core",
+      "since": "2026-10-29T03:18:59.234435Z"
+    }
+  ],
+  "seq": 140505070,
   "source_truncated": false,
-  "window": "2026-10-29T03:18:59.234435Z"
+  "window": "2026-10-29T04:20:07.469636Z"
 }
