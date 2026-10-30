@@ -1,12 +1,33 @@
 {
   "list": {
-    "count": 79,
-    "from": "2026-10-30T00:20:05.64371Z",
-    "path": "data/new-packages-2026-10-30T01-19-29-2591Z.csv",
-    "to": "2026-10-30T01:19:29.2591Z"
+    "count": 128,
+    "from": "2026-10-30T01:19:29.2591Z",
+    "path": "data/new-packages-2026-10-30T02-18-54-624646Z.csv",
+    "to": "2026-10-30T02:18:54.624646Z"
   },
-  "pending": [],
-  "seq": 140766405,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@double-coding/dsh-connectors",
+      "since": "2026-10-30T01:19:29.2591Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ds-hu/dsh-collaborative-clarity",
+      "since": "2026-10-30T01:19:29.2591Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@squirreljetpack/im",
+      "since": "2026-10-30T01:19:29.2591Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@squirreljetpack/im-dynamic",
+      "since": "2026-10-30T01:19:29.2591Z"
+    }
+  ],
+  "seq": 140774453,
   "source_truncated": false,
-  "window": "2026-10-30T01:19:29.2591Z"
+  "window": "2026-10-30T02:18:54.624646Z"
 }

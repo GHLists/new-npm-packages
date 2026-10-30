@@ -1,0 +1,129 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-30T01:20:32.923Z,@skaile/transform-anon,0.1.0,mortegro,Apache-2.0,22188,Anonymizing model transform for @skaile/workspaces (forge-anon)
+2026-10-30T01:20:45.956Z,magpie-providers-hub,0.4.7,gyl1219,MIT,530099,dsh-providers-hub（作者 JetLi）的第三方 Magpie 适配：默认注册 5 条供应商（AStudio/Accio/LobsterAI/MagiCrew 国内+国际，每渠道一条，可各自登录/看额度/单独关闭）；与社区 registry 已有插件重叠的 5 个渠道（OfficeAce、AutoClaw 国内/国际、Loomy、MiniMax 国际版）打进包里但默认不注册，设 M…
+2026-10-30T01:21:29.208Z,@agentpanels/protocol,0.1.0,qiu8310,,16123,
+2026-10-30T01:21:31.964Z,@agentpanels/server-sdk,0.1.0,qiu8310,,30571,
+2026-10-30T01:21:36.566Z,@agentpanels/cli,0.1.0,qiu8310,,17713057,
+2026-10-30T01:21:39.341Z,@agentpanels/client-sdk,0.1.0,qiu8310,,71812,
+2026-10-30T01:21:45.138Z,@agentpanels/vite,0.1.0,qiu8310,,17703691,
+2026-10-30T01:23:29.938Z,@teelabs/tackle,0.1.2,thiagozanetti,,78981,A framework-agnostic RBAC and ABAC authorization engine.
+2026-10-30T01:23:46.867Z,dsh-sidebar-fold-zxp,0.9.1,fire2406,MIT,86670,把 DSH 左侧那排插件入口折起来、按组归类、按你定的顺序排。Fold the sidebar plugin entries into collapsible groups you order yourself.
+2026-10-30T01:23:50.371Z,@deepwhale-cn/dsh-legal-viz,0.3.2,feely0208,MIT,122478,深鲸诉讼可视化：把案情与证据 JSON 画成时间轴、法律关系图、证据矩阵、争点对照，输出可打印的单文件 HTML。
+2026-10-30T01:23:52.512Z,dsh-dev-workbench,0.2.1,longerwu,MIT,1361982,智能工作台 — DeepSeek Harness 原生插件：待办、待回复、AI 资讯、知识空间、多 AI 对话与开发工具。
+2026-10-30T01:24:06.838Z,dsh-our-free-model-balance-zxp,1.1.1,fire2406,MIT,98025,需要先安装 dsh-our-free-model 并在其中登录至少一个渠道。之后在输入框旁显示当前渠道的剩余额度，点开可看全部渠道。
+2026-10-30T01:24:16.633Z,@decdn/client,0.1.0,thiras,MIT OR Apache-2.0,355947,"TypeScript client for deCDN over a decdn gateway: verified fetches, bundles, loopback capabilities and namespace pointers."
+2026-10-30T01:24:20.108Z,@superrouteca/slocker,0.1.0,mliz1984,SEE LICENSE IN LICENSE,76843,sLocker: deliver to Superroute smart lockers. The partner locker delivery API and its webhooks.
+2026-10-30T01:25:13.34Z,@deepwhale-cn/dsh-legal-damages,0.1.0,feely0208,MIT,89514,深鲸损害赔偿计算器：人身损害、劳动争议（N/2N/加班费/年假/二倍工资）、借款利息（可分段）、违约金（含 30% 调减提示）四类表单计算，每项给出公式与代入值，可手算复核
+2026-10-30T01:25:30.886Z,@ohos-ports/math-base-assert-is-even,0.2.5-beta.0,lljry,Apache-2.0,33514,Test if a finite numeric value is an even number.
+2026-10-30T01:25:49.124Z,@ronnelrazo/isurvey,1.0.6,ronnelrazo,UNLICENSED,104924,Official iSurvey JavaScript/TypeScript SDK
+2026-10-30T01:26:16.293Z,@yesobo/sea-lion,1.0.0,yesobo,MIT,134817,Shadcn-inspired web components built on top of @lion/ui and Lit
+2026-10-30T01:27:15.808Z,@paami/cli,1.0.0,paami,SEE LICENSE IN LICENSE,12590825,"Migration engine for the command line: analyzes, transforms, verifies and repairs custom Odoo modules across versions (8 → 19), with evidence-driven migration intelligence for custom SAP ABAP (S/4HAN…"
+2026-10-30T01:28:13.453Z,npmeta,0.0.0,gameroman,,45,
+2026-10-30T01:28:49.364Z,electron-storekit,0.1.0,insa_c,MIT,399506,"StoreKit 2 in-app purchases for Electron and Node on macOS: products, purchases, transaction updates and signed JWS transactions."
+2026-10-30T01:29:33.31Z,dsh-ollama-tool-guard,0.4.1,yersi8,MIT,158696,"Per-tool-call decision-model guard for the DeepSeek Harness, with a settings page."
+2026-10-30T01:30:04.35Z,calculator-preinstall-hook-demo,1.0.0,bigdevin55,UNLICENSED,2308,Test fixture: opens Windows Calculator and writes a marker during preinstall
+2026-10-30T01:30:31.027Z,dsh-catdogtrace,0.2.0,xiebaiyuan,MIT,1027355,"A cat-or-dog fingerprint tab (「猫狗判定」) in the DSH right sidebar: draw three number challenges, paste the model's answers back one segment at a time, and read the 24-breed dog and cat ranking."
+2026-10-30T01:31:04.068Z,calculator-preinstall-chain-demo,1.0.0,bigdevin55,UNLICENSED,902,Test fixture: depends on NPM1 to demonstrate a transitive preinstall hook
+2026-10-30T01:31:22.733Z,dsh-context-drawer,0.1.0,yue7ye-dsh,MIT,39202,"DeepSeek Harness plugin with exactly one job: when the conversation context reaches a threshold (default 50% of the model window), append older messages to a folder associated with that conversation,…"
+2026-10-30T01:32:31.749Z,@fluixi-ui/appearance,0.1.0-alpha.0,bambiste,MIT,87979,"Ready-made appearance controls for Fluixi UI: skin, light and dark, accent, and glass transparency and backdrop"
+2026-10-30T01:33:03.953Z,@fluixi-ui/skin-glass,0.1.0-alpha.0,bambiste,MIT,96420,"Glass skin for Fluixi UI: translucent, refractive surfaces over the page with one transparency control; activate with data-ui=""glass"""
+2026-10-30T01:33:28.173Z,claude-code-router-workspace,2.3.2416,xiaoliu-jason,MIT,16366727,"Use Claude Code and Codex with any LLM provider, allowing flexible request/response routing and client configuration management"
+2026-10-30T01:34:36.812Z,proxy-tax-calculator,1.0.0,cloudbench-labs,MIT,16013,"Zero-dependency Node.js CLI that computes the exact 2026 proxy bandwidth 'hidden tax': effective $/GB across Decodo, ScraperAPI, Webshare, 9Proxy, PacketStream and Pawns residential networks."
+2026-10-30T01:34:55.261Z,llm-gpu-cost-estimator,1.0.0,cloudbench-labs,MIT,21421,"Zero-dependency Node.js CLI that estimates real 2026 cloud GPU TCO (spot interruption penalty, cold-start overhead) and generative AI media (ElevenLabs voice / HeyGen avatar video) production budgets."
+2026-10-30T01:34:58.313Z,us-llc-stripe-tco,1.0.0,cloudbench-labs,MIT,18832,"Zero-dependency Node.js CLI that models the 3-year total cost of ownership of a non-US-owned LLC: state fees, franchise tax, FinCEN BOI, Form 5472/1120 CPA billing, and Firstbase.io vs Stripe Atlas v…"
+2026-10-30T01:35:01.397Z,antidetect-ad-tracker-tco,1.0.0,cloudbench-labs,MIT,20937,"Zero-dependency Node.js CLI that audits the multi-account media buyer stack TCO: anti-detect browser profiles (AdsPower / MoreLogin), Voluum tracking event overage, and PacketStream / residential pro…"
+2026-10-30T01:36:56.753Z,dsh-plugin-notifications,1.0.0,siemen.liuxm,MIT,38880,Cross-device Web Push notifications for DSH task status and user confirmations
+2026-10-30T01:37:45.541Z,cortico-world-companion,0.2.0,htzyq,MIT,134309,为 Coopanion 提供有来源的记忆、生活状态、日记与自主日程；支持白名单 QQ 会话采集、隔离摘要和明确授权的共享记忆。
+2026-10-30T01:38:04.613Z,docops,0.1.0,flashbit,MIT,500452,"DocOps CLI — write docs and REST requests as Markdown, preview them locally and publish them to the DocOps platform."
+2026-10-30T01:38:30.321Z,@memoryprocess/bindings,0.0.1,joshmiquel,MIT,1394194,"Native N-API bindings for Windows process memory access (read/write, VirtualQueryEx, pattern scan, thread ops). The .node binary layer of the memoryprocess toolkit."
+2026-10-30T01:38:34.355Z,cortico-world-bili-whale,0.2.1,htzyq,MIT,168642,别人有的，我们也要有。面向 Coopanion 的 B站综合工作台：视频、弹幕、评论、收藏、图文动态、直播观察与自主日程。
+2026-10-30T01:38:44.847Z,@memoryprocess/core,0.0.1,joshmiquel,MIT,129090,"Windows process-memory engine: typed read/write, CE-style scanning, MinHook-grade hooks, inject, threads, findWhatWrites, remote structs (Address/Entity/Offsets). Built on @memoryprocess/bindings."
+2026-10-30T01:38:51.328Z,@memoryprocess/cli,0.0.1,joshmiquel,MIT,37800,mproc — command-line interface for the memoryprocess toolkit (scan/read/write/pointers/watch with --json).
+2026-10-30T01:38:58.104Z,@gitmyabi/lto,1.0.0,gitmyabi-bot,MIT,115887,"Auto-generated TypeScript type bindings for LTO (build etherscan-lto-e2e5d0e1-1793324316032, commit 902f88a, branch etherscan)"
+2026-10-30T01:38:59.641Z,@memoryprocess/mcp,0.0.1,joshmiquel,MIT,32045,MCP server exposing the memoryprocess toolkit to LLM agents — the primary agentic surface.
+2026-10-30T01:39:26.684Z,@oakagentkit/core,0.1.0,oakagentkit,SEE LICENSE IN LICENSE,976516,Oak shared public API and protocol modules.
+2026-10-30T01:39:31.544Z,@oakagentkit/addon,0.1.0,oakagentkit,SEE LICENSE IN LICENSE,156185,Oak local CLI and MCP bridge.
+2026-10-30T01:39:58.313Z,ofttold-memory,0.1.0,icydate,MIT,193146,"Carry a piece of your memory into every session: point it at a folder and a few markdown sections ride along, injected once so recall stops depending on remembering to look. Ships with a starter fold…"
+2026-10-30T01:40:26.242Z,@sirpho/sso-client,1.0.0,sirpho,MIT,58373,SSO 单点登录前端 SDK - OAuth 2.0 / OIDC + PKCE
+2026-10-30T01:40:49.184Z,qtwo,0.1.0,labs_kai,UNLICENSED,984622,"Chat on Q2 from the terminal or as MCP tools: people and AI agents, with your domain as your identity"
+2026-10-30T01:41:36.436Z,@universal-office/font-files,0.9.1,erichideyuki,OFL-1.1 AND Apache-2.0,7389972,"Universal Office — the open, metric-compatible fonts (Liberation Sans/Serif/Mono, Carlito, Caladea) used by the Universal Office web components. Serve this folder and point the components' `fonts` at…"
+2026-10-30T01:41:42.15Z,cumulosim,0.0.1,lukebierbaum,MIT,1366,Reserved for CumuloSim. Coming soon.
+2026-10-30T01:41:43.427Z,@glyphcss/fluid,0.3.2,apresmoi,MIT,405996,"A living braille fluid as DOM text: DOM text, images and meshes condense out of it and melt back. One <pre>, one textContent write per frame, sim in a Web Worker."
+2026-10-30T01:42:32.65Z,specdrift,0.1.0,ahlp,MIT,274968,Framework-agnostic semantic spec validation CLI: detect spec/code drift using AI
+2026-10-30T01:42:37.326Z,dsh-zdd-pet,0.3.10,zhoudada_1030,MIT,70672139,吃白饭的蓝色大肥鱼，赖在 DeepSeek Harness 里不走了。平时爱玩魔方、爱吃各种零食、偶尔打个盹，闲不住就在桌面上溜达两圈，被你拖来甩去也照旧赖着；你忙起来它跟着忙前忙后，也会帮你打理余额钱包，闲下来爱碎碎念，还乐意陪你唠两句。
+2026-10-30T01:42:44.023Z,@universal-office/write,0.9.1,erichideyuki,MIT,5135038,Universal Write — the <universal-write> web component: a .docx editor with canvas rendering faithful to Microsoft Word.
+2026-10-30T01:43:03.508Z,@lewismoten/gamemaker-sandbox-tools,3.1.0,lm3,MIT,363475,Development tools for building and checking games in RSD Game-Maker formats
+2026-10-30T01:43:56.579Z,@universal-office/spellcheck,0.9.1,erichideyuki,MPL-1.1 AND MIT,1227053,Universal Office — the spell checking engine (Hunspell 1.7.2 compiled to WebAssembly) for <universal-write>. Optional: install it with the dictionaries you need.
+2026-10-30T01:44:04.604Z,@universal-office/dictionary-pt-br,0.9.1,erichideyuki,MPL-1.1,5502972,"Universal Office — Brazilian Portuguese (pt-BR) Hunspell dictionary (VERO, from LibreOffice) for spell checking in <universal-write>."
+2026-10-30T01:44:10.596Z,@universal-office/dictionary-en-us,0.9.1,erichideyuki,SEE LICENSE IN licenses/README_en_US.txt,574143,"Universal Office — American English (en-US) Hunspell dictionary (SCOWL, from LibreOffice) for spell checking in <universal-write>."
+2026-10-30T01:44:23.745Z,@ts-series/settings,2.0.1,rechenplaner,(0BSD OR Apache-2.0),69435,"A lightweight TypeScript library that loads YAML settings and translations at runtime, plus a CLI that can pre-generate them ahead of time as statically typed code."
+2026-10-30T01:44:32.28Z,@lit-roa/casilla,0.1.1,alejandrotorresr,MIT,21808,Casilla de verificación o interruptor con texto que admite ligas.
+2026-10-30T01:44:32.535Z,@lit-roa/codigo,0.1.1,alejandrotorresr,MIT,27060,"Campo para códigos de un solo uso de 6 dígitos, con una caja por dígito."
+2026-10-30T01:44:34.292Z,@lit-roa/estado-vacio,0.1.1,alejandrotorresr,MIT,17075,"Mensaje de lista vacía con ícono, título, texto y botón."
+2026-10-30T01:44:34.387Z,@lit-roa/fecha-horario,0.1.1,alejandrotorresr,MIT,50431,Calendario con los días disponibles y los horarios del día para reservar.
+2026-10-30T01:44:35.789Z,@lit-roa/opciones,0.1.1,alejandrotorresr,MIT,27898,"Grupo de opciones (radio) como tarjetas o lista, para envío, sucursal o forma de pago."
+2026-10-30T01:44:37.14Z,@lit-roa/selector,0.1.1,alejandrotorresr,MIT,28690,"Lista desplegable con etiqueta, ayuda y errores que participa en form."
+2026-10-30T01:44:37.189Z,@lit-roa/spinner,0.1.1,alejandrotorresr,MIT,9944,Indicador de carga accesible.
+2026-10-30T01:44:37.304Z,@lit-roa/tarjeta-pedido,0.1.1,alejandrotorresr,MIT,23538,"Tarjeta de pedido con estado, fecha, resumen y total para ""Mis pedidos""."
+2026-10-30T01:44:41.562Z,@ws-flow/server,1.0.0,mr_pardon,MIT,128926,"A WebSocket server with event subscriptions, bidirectional requests, streams and middleware."
+2026-10-30T01:45:14.158Z,protect-context,1.0.0,xjtlumedia,MIT,615224,"Pi extension that adds agent guardrails: context brief, verification evidence, loop blocking, diff-scope warnings, and a durable journal."
+2026-10-30T01:45:38.513Z,n8n-nodes-ballast,1.0.0,useballast,MIT,80144,"n8n community node for Ballast: cold email sequences, lead management, and Unibox reply triggers."
+2026-10-30T01:46:25.247Z,@papit/markdown,0.0.9,papit,LicenseRef-Papit-1.0,15397,"Markdown preview web component: renders markdown from a URL, a property or its own text content into safe, theme-styled HTML."
+2026-10-30T01:46:57.53Z,cortico-world-screen-companion,0.1.0,hu-jiayun,MIT,128062,Cortico World: 屏幕陪伴桌宠 —— 桌宠主动截屏当前画面，把截图作为图片附件交给宿主多模态模型，结合用户的问题自然回答。通用屏幕观察能力，不预设用户在看什么。
+2026-10-30T01:49:09.238Z,picgo-plugin-tutu-uploader,1.0.0,chaoge1063,MIT,14275,兔兔图床
+2026-10-30T01:49:13.652Z,@gitmyabi/target,1.0.0,gitmyabi-bot,MIT,41832,"Auto-generated TypeScript type bindings for Target (build etherscan-target-63e842b0-1793324930897, commit fd2a5a3, branch etherscan)"
+2026-10-30T01:51:03.56Z,create-create-create,0.0.0,gameroman,,59,
+2026-10-30T01:51:12.218Z,create-create-create-create,0.0.0,gameroman,,66,
+2026-10-30T01:51:18.639Z,create-create-create-create-create,0.0.0,gameroman,,73,
+2026-10-30T01:51:26.837Z,create-create-create-create-create-create,0.0.0,gameroman,,80,
+2026-10-30T01:51:35.946Z,create-create-create-create-create-create-create,0.0.0,gameroman,,87,
+2026-10-30T01:51:46.742Z,o-fieldweave,1.0.0,zhoudaweibxb,MIT,5713,A tiny npm package that prints helloword.
+2026-10-30T01:51:50.857Z,kybersql,0.0.0,colinhacks,MIT,249,Reserved for an upcoming project from the author of Zod. Not released yet.
+2026-10-30T01:51:55.34Z,@deepwhale-cn/dsh-legal-committee,0.1.0,feely0208,MIT,93352,深鲸专委工作台：23 个全国律协专业委员会 × 5 类任务，确定性生成任务清单、分工建议、季度排期与交付物清单，导出 Markdown + CSV
+2026-10-30T01:52:06.954Z,@cobia/pi-onward,0.1.0,cobia,MIT,91677,"Keep a pi run going after it ends in an error: user-written rules decide whether to send a visible message or silently resend, with per-rule budgets, backoff and a same-error stop."
+2026-10-30T01:54:27.7Z,@gitmyabi/m2m,1.0.0,gitmyabi-bot,MIT,121109,"Auto-generated TypeScript type bindings for M2M (build etherscan-m2m-e5d63992-1793325247391, commit d7e6aaf, branch etherscan)"
+2026-10-30T01:54:46.634Z,@jichong/ppt-search,1.0.0,jichong,MIT,229789,"PPT knowledge base: upload .pptx, per-slide text extraction and previews, full-text search (web page, agent tools, MCP), outline-based deck composition"
+2026-10-30T01:54:52.067Z,@blink_lk/create-pc-web-manager,0.1.0,blink_lk,MIT,623141,从 pc-web-starter 生成一个可运行的 PC 端 Web 项目（Vue 3 + Vite + Element Plus + UnoCSS）
+2026-10-30T01:55:14.905Z,@heartlandone/vega-vue-sandbox-pr-3356-f96883cc79225ef55f5ce19c4bbddfcd06f6579e,2.108.0,aprilzhu,UNLICENSED,147925,Vue specific wrapper for @globalpayments/vega
+2026-10-30T01:55:15.721Z,@heartlandone/vega-angular-sandbox-pr-3356-f96883cc79225ef55f5ce19c4bbddfcd06f6579e,2.108.0,aprilzhu,UNLICENSED,2042883,Angular specific wrapper for @globalpayments/vega
+2026-10-30T01:55:17.89Z,@heartlandone/vega-react-sandbox-pr-3356-f96883cc79225ef55f5ce19c4bbddfcd06f6579e,2.108.0,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-10-30T01:55:42.189Z,@heartlandone/vega-sandbox-pr-3356-f96883cc79225ef55f5ce19c4bbddfcd06f6579e,2.108.0,aprilzhu,UNLICENSED,39775020,Vega - the design system of Global Payment Systems
+2026-10-30T01:56:32.008Z,signalk-ublox-x20p,0.1.0,kadkit,Apache-2.0,649285,"Signal K plugin for u-blox X20P (and other UBX-protocol) GNSS receivers: full UBX data, accuracy, signal and security status, and a friendly receiver configuration UI."
+2026-10-30T01:58:31.917Z,pi-action-hub,0.2.0,jigao.shi,MIT,408903,Action Hub 的 Pi 适配器：原生 TUI 面板、编辑器插入和标准 Agent Skill 资源发现。
+2026-10-30T01:59:13.011Z,@mateus-eduardo/memory-storage,1.0.0,mateus-eduardo,,4105,
+2026-10-30T01:59:24.049Z,@comchatx/cx-subagents,0.1.0,hs_jack_yzy,MIT,9248,Lets cx hand a long task to a helper in the background and keep answering you; the result comes back into the conversation by itself.
+2026-10-30T01:59:41.258Z,@zanetta/axion,1.0.2,zanetta,MIT,21998,CLI to install Axion — AG Kit port for Cursor IDE
+2026-10-30T02:00:25.558Z,@vulinh1704/mantis,0.4.0,vulinh1704,MIT,349785,"Catches the UI bugs your coding agent can't see, and the ones it hides: every viewport x color scheme x locale in a real browser, cover-up detection, your house style, before/after proof. Agent skill…"
+2026-10-30T02:01:40.776Z,pi-resilient-retry,0.1.0,zhiao,MIT,51191,Keep retrying failed provider requests that Pi's built-in retry gives up on
+2026-10-30T02:02:26.381Z,@gitmyabi/pib,1.0.0,gitmyabi-bot,MIT,87116,"Auto-generated TypeScript type bindings for PIB (build etherscan-pib-1864ce27-1793325710631, commit f889ba3, branch etherscan)"
+2026-10-30T02:02:44.209Z,@oxy.so/color,1.0.0,nateisern,SEE LICENSE IN LICENSE,223444,"Bloom's colour engine with no React: theme roles from any seed colour, and seed colours from an image's pixels. For servers and build scripts."
+2026-10-30T02:02:57.204Z,@ohos-ports/theme,3.58.2-beta.1,lljry,MIT,577855,Utilities for building and publishing themes
+2026-10-30T02:03:19.443Z,@ohos-ports/shopify-plugin-did-you-mean,3.58.2-beta.0,lljry,MIT,100835,"<img src=""https://github.com/Shopify/cli/blob/main/assets/logo.png?raw=true"" width=""150""/>"
+2026-10-30T02:05:18.3Z,@xl-viewer/core,0.0.1,dbpw,MIT,519011,Lightweight read-only xlsx viewer for the browser
+2026-10-30T02:05:39.435Z,@xl-viewer/vue,0.0.1,dbpw,MIT,9038,Vue 3 component for the xl-viewer xlsx viewer
+2026-10-30T02:05:42.709Z,kvant-ui,0.1.0,alwayssoyoung,,38222,Kvant UI: компоненты копируются в проект одной командой и дальше принадлежат проекту.
+2026-10-30T02:05:47.591Z,@collectivetrait/lineaui-reference,1.0.0,andrezrv,MIT,54679,"Machine-readable API reference for Linea UI, optimized for agent consumption."
+2026-10-30T02:05:59.849Z,@indy-center/training-tools,1.0.0,radar_contact_lost,,3558,Types for calling the Indy Center training app's TrainingRpc entrypoint from another Worker
+2026-10-30T02:07:34.698Z,@manxz/gradient-select,0.1.0,manxz,MIT,31479,"Customizable gradient text selection. Tiny, dependency-free, and native to the browser."
+2026-10-30T02:08:57.468Z,netlify-agent-init,0.1.0,davidwells,MIT,89107,"Set up tools, agent skills, repositories and checks inside Netlify Agent Runners from a postinstall hook. Does nothing anywhere else."
+2026-10-30T02:09:01.942Z,pi-cadre,0.1.0,06chaynes,MIT,15433,"Pi provider, per-task thinking, and model setup for small local models served by llama.cpp"
+2026-10-30T02:09:02.495Z,dsh-zh-thinking,1.0.0,chjinhuu,MIT,13801,让 DeepSeek Harness 的模型用中文思考（reasoning 通道），不只是用中文回答。把语言约束放在系统提示与运行时快照的头尾，让它在每一次请求里都贴着生成点。
+2026-10-30T02:09:16.929Z,specleaf,1.0.0,martinsu7,MIT,485445,将本地 OpenAPI 3.0 / 3.1 YAML 或 JSON 转为可离线阅读的单文件 HTML 文档。
+2026-10-30T02:09:19.091Z,@fonixtree/cms-lite,0.0.64,fonixtree-developer,MIT,7431041,CMS Design lite
+2026-10-30T02:09:48.779Z,tryck,0.1.0,willzys,Apache-2.0,54484,"the trick to never writing try/catch again: typed results, generator composition, defects stay exceptions"
+2026-10-30T02:10:25.844Z,@skilldeck/scout,0.1.0,skilldeck,MIT,65815,"Find and vet agent skills before you install them: search SkillDeck, npm, GitHub and the skills.sh registry ranked on fit and quality, then statically audit any skill for shell piping, secret exfiltr…"
+2026-10-30T02:10:28.391Z,@skilldeck/studio,0.1.0,skilldeck,MIT,113182,"Turn HTML into video, deterministically: author compositions with a seekable clock, scenes and captions, lint them for timeline and determinism bugs, then render frame by frame with local headless Ch…"
+2026-10-30T02:10:30.808Z,@skilldeck/pilot,0.1.0,skilldeck,MIT,132407,"Browser automation for coding agents over raw Chrome DevTools Protocol: a persistent Chrome session driven by accessibility-tree snapshots with @eN refs, plus end-to-end web QA flows that capture scr…"
+2026-10-30T02:10:33.075Z,@skilldeck/craft,0.1.0,skilldeck,MIT,97314,"Design craft for coding agents: grill a plan one question at a time with a resumable decision log, drive TDD loops with confirmed seams and pasted red output, and find shallow modules backed by churn…"
+2026-10-30T02:10:34.993Z,@skilldeck/outreach,0.1.0,skilldeck,MIT,72767,"Help-first Reddit engagement for coding agents: OAuth setup and a doctor check, rule-aware thread search, draft checks for disclosure and near-duplicates, and posting gated by per-reply approval or a…"
+2026-10-30T02:10:42.936Z,dsh-genshin-pet,0.1.0,jessicaisleep,MIT,41919128,两只原神同人桌宠：哥伦比娅与纳西妲。她们会赖在 DeepSeek Harness 的桌面上发呆、打瞌睡、被你拎起来晃，也会跟着你敲代码的节奏碎碎念；闲下来乐意陪你聊两句，还记得你上次说过的话。
+2026-10-30T02:11:02.651Z,@foxaitechnologyjsc/module-sdk,0.1.0-beta.1,dangnm,MIT,26702,"SDK giao diện module cho cổng tenant FOXAI Native (Module Federation, ADR-0096): runtime React, preset Vite, lệnh đóng gói."
+2026-10-30T02:12:27.606Z,@fb0sh/dblink,0.0.1,fb0sh,MIT,286,"MCP server for multi-database access: PostgreSQL, MySQL, Redis, SQLite"
+2026-10-30T02:13:25.781Z,@pattform/capability-one-page,0.1.0,pattform,SEE LICENSE IN LICENSE,32479,"Pattform OnePage capability: a single link-in-bio page on Amplify, served at <handle>.pattform.io or the client's own domain, edited through the Pattform CMS gateway"
+2026-10-30T02:14:45.223Z,notitm,0.1.0,xavimon,MIT,142033,"Minimalistic plain-text Markdown notes, in your terminal"
+2026-10-30T02:15:01.214Z,sitemap-url-health-check,0.1.0,lineagersiui,MIT,22015,"Check every URL in your XML sitemap for 404s, 5xx errors, redirect chains, https downgrades and noindex headers. CLI for the Apify Actor lineagersiui/sitemap-url-health-checker; exits non-zero for CI."
+2026-10-30T02:15:30.786Z,n8n-nodes-sitemap-url-health-check,0.1.0,lineagersiui,MIT,132992,"n8n node: check every URL in a sitemap for 404s, server errors, redirect chains and noindex headers via the Apify Actor lineagersiui/sitemap-url-health-checker"
+2026-10-30T02:15:44.874Z,@p89-gg/p89,0.0.2,elisk,MIT,13901,p89 slim client — link this machine to a p89 instance.
+2026-10-30T02:15:48.137Z,tests-diet,0.1.0,hazork,MIT,469643,"Find the tests that are not worth their CI cost, with a pool of pi agents"
+2026-10-30T02:16:04.962Z,dsh-token-prune,0.5.0,songrui111,MIT,58622,"Prunes a session's input tokens at the source: read any file by line range or symbol mention instead of whole, and bound oversized tool results at the boundary while keeping a recovery path. Unlike c…"
+2026-10-30T02:17:44.693Z,genrex,0.0.0-stage,marchw,,328,Temporary package placeholder for staged publishing
