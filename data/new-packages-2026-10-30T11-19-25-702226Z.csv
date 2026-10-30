@@ -1,0 +1,229 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-30T10:14:30.737Z,@reneturcios/vaultnotes,0.1.0,reneturcios,MIT,47843,"Work with a local vault of markdown notes: list, read, search, append, patch, and delete files, all scoped inside the vault directory. One bin serves a small CLI and a stdio MCP server."
+2026-10-30T10:15:17.261Z,@reactre/plugin,0.0.2,arafathusayn,Apache-2.0,68438,"reactre's compilers and React alias for Vite, Rollup, Rolldown, esbuild, webpack, Rspack and Bun."
+2026-10-30T10:15:34.522Z,@reactre/preact,0.0.2,arafathusayn,Apache-2.0,289067,"Preact's API and semantics on reactre's compiled templates: smaller and faster than Preact, with a JSX compiler."
+2026-10-30T10:17:55.336Z,@zeno.id/server,0.1.1,luckyace35,,107263,"Typed Node client for the Zeno server api, webhooks and sealed results"
+2026-10-30T10:18:37.386Z,@dragosvlasie/bloxcms,0.1.1,dragosvlasie,,28138,Blox CMS React preview controls and bridge protocol for independent client websites
+2026-10-30T10:20:48.692Z,@nlflora/dsh-empty-turn-guard,0.1.0,nlflora,MIT,24727,"Recover a DeepSeek Harness turn that ended with reasoning only — no text, no tool call — by steering the same turn one more step. Structure-only detection, no judge model."
+2026-10-30T10:20:54.243Z,@driptech/mcp,0.1.0,antfeed,Apache-2.0,43335,"MCP server for the drip devnet SOL-PERP market (Percolator v16). Devnet, test tokens only."
+2026-10-30T10:21:14.247Z,jsondb-lite-database,1.0.1,anafibnshahibul,MIT,20521,"A tiny, zero-dependency, CLI-driven JSON database for Node.js"
+2026-10-30T10:21:20.73Z,@jonny981/cmack,0.1.0,jonny981,MIT,38841,Channels as files and a mention nudge for coding agents in terminal panes
+2026-10-30T10:22:25.368Z,dsh-kimi-channel-guard,1.0.0,akinoyo,MIT,59142,"DSH Kimi channel compatibility patch: isolates streaming reasoning, answer and tool-call block indices and keeps assistant reasoning out of answer history."
+2026-10-30T10:23:33.444Z,@diy-agent/workbench-ui,0.1.0,chen56,,16078,工作台布局骨架（renderer）：侧栏 + 主区 + 顶栏 + 页面注册表（不认识任何具体页面）
+2026-10-30T10:24:23.816Z,@blurrow/ui,0.2.0,manyports,MIT,904316,"tactile react components: buttons you want to press, fields you want to fill in. comes with a cli: npx @blurrow/ui init"
+2026-10-30T10:25:17.469Z,activate-agentmd-guard-darwin-arm64,0.1.1,gerogiakira9,SEE LICENSE IN LICENSE,7133213,agentmd-guard runtime firewall binary for darwin arm64. Installed automatically by activate-agentmd; not meant to be installed directly.
+2026-10-30T10:25:22.502Z,@everme/nanoclaw,0.7.7,xupengwu,Apache-2.0,32838,Native EverMe memory hooks for NanoClaw agent groups.
+2026-10-30T10:25:29.537Z,activate-agentmd-guard-darwin-x64,0.1.1,gerogiakira9,SEE LICENSE IN LICENSE,7668097,agentmd-guard runtime firewall binary for darwin x64. Installed automatically by activate-agentmd; not meant to be installed directly.
+2026-10-30T10:25:42.89Z,activate-agentmd-guard-linux-arm64,0.1.1,gerogiakira9,SEE LICENSE IN LICENSE,6948472,agentmd-guard runtime firewall binary for linux arm64. Installed automatically by activate-agentmd; not meant to be installed directly.
+2026-10-30T10:25:47.927Z,@everme/qoder,0.7.7,xupengwu,Apache-2.0,27252,Native EverMe memory hooks for Qoder CLI.
+2026-10-30T10:25:55.975Z,@everme/copilot,0.7.7,xupengwu,Apache-2.0,23831,Native EverMe memory hooks for GitHub Copilot CLI.
+2026-10-30T10:25:58.495Z,activate-agentmd-guard-linux-x64,0.1.1,gerogiakira9,SEE LICENSE IN LICENSE,7517806,agentmd-guard runtime firewall binary for linux x64. Installed automatically by activate-agentmd; not meant to be installed directly.
+2026-10-30T10:26:02.184Z,dsh-eye-comfort,0.3.18,allenwade,MIT,128454,"Eye-comfort appearance controls for DeepSeek Harness: five light and five dark themes, themed syntax and diff colours, scheduled switching, JSON import/export, paper-grain texture, fonts, type sizes,…"
+2026-10-30T10:26:05.25Z,@everme/opencode,0.7.7,xupengwu,Apache-2.0,25980,"EverMe long-term memory for OpenCode and Kilo Code: profile and recall injection and automatic turn capture, as an in-process plugin."
+2026-10-30T10:26:09.924Z,activate-agentmd-guard-win32-arm64,0.1.1,gerogiakira9,SEE LICENSE IN LICENSE,7043546,agentmd-guard runtime firewall binary for win32 arm64. Installed automatically by activate-agentmd; not meant to be installed directly.
+2026-10-30T10:26:12.762Z,@everme/qwencode,0.7.7,xupengwu,Apache-2.0,28991,Native EverMe memory hooks for Qwen Code.
+2026-10-30T10:26:20.247Z,@everme/cline,0.7.7,xupengwu,Apache-2.0,33987,"EverMe long-term memory for Cline CLI: profile and recall injection and automatic turn capture, as a Cline hooks plugin."
+2026-10-30T10:26:21.634Z,activate-agentmd-guard-win32-x64,0.1.1,gerogiakira9,SEE LICENSE IN LICENSE,7747024,agentmd-guard runtime firewall binary for win32 x64. Installed automatically by activate-agentmd; not meant to be installed directly.
+2026-10-30T10:26:25.227Z,@reneturcios/installaudit,0.1.0,reneturcios,MIT,36558,"Install-script inventory for a dependency tree: reads package-lock.json and lists every package that runs code at install time (preinstall, install, postinstall), plus the root package's own scripts…"
+2026-10-30T10:26:36.284Z,@everme/grok-build,0.7.7,xupengwu,Apache-2.0,33500,Native EverMe memory hooks for Grok Build (xAI grok CLI).
+2026-10-30T10:26:44.303Z,@everme/picoclaw,0.7.7,xupengwu,Apache-2.0,43451,Native EverMe memory process hook for PicoClaw.
+2026-10-30T10:26:47.232Z,@mellowcad/engine,0.1.1,oscarva,MIT,2728065,"A 2D CAD drafting engine that works like AutoCAD: its commands, aliases, prompts, keywords and object snaps, headless or on a canvas."
+2026-10-30T10:26:53.004Z,@everme/zeroclaw,0.7.7,xupengwu,Apache-2.0,30569,"EverMe memory for ZeroClaw: a Lucid memory-backend bridge that captures each stored memory, an MCP launcher and the recall skill."
+2026-10-30T10:27:39.588Z,@blox-cms/preview,0.1.2,dragosvlasie,,28368,Blox CMS React preview controls and bridge protocol for independent client websites
+2026-10-30T10:28:25.956Z,wazomind-mcp,1.0.1,wanjiippc,SEE LICENSE IN https://wazomind.com/terms,30199,"Read your Wazomind meeting transcripts, notes, action items and follow-up drafts from Claude, Cursor, or any MCP client."
+2026-10-30T10:28:28.063Z,@gitmyabi/xra,1.0.0,gitmyabi-bot,MIT,114426,"Auto-generated TypeScript type bindings for XRA (build etherscan-xra-7025bab2-1793356086237, commit 9e45b74, branch etherscan)"
+2026-10-30T10:28:29.494Z,@agent-proxy-kit/puraroute-mcp-server,0.1.1,dddiiiccc,SEE LICENSE IN LICENSE,160691,PuraRoute local MCP server and Agent Skill
+2026-10-30T10:28:53.896Z,dsh-pad-kit,1.0.0,longsiqi-123,MIT,36021859,"Run DeepSeek Harness (DSH) locally on an Android tablet via Termux: LAN installer page, remote setup over SSH, and a fixed web entry. Adds 17 tablet_* tools to DSH."
+2026-10-30T10:28:56.752Z,@diy-agent/session,0.1.0,chen56,,61252,diy 单会话内核：消息列表 + 一次 LLM 调用 + 流式增量（LlmPort / Clock / SessionStore 全注入，零 fs、零 task）
+2026-10-30T10:29:08.724Z,qadeer-xtech,1.0.1,qadeer-xtech,MIT,10857545,"Qadeer-Xtech enhanced Baileys v7 for Node.js with interactive messages, media fixes, albums, extra message types, and AIRich rich responses."
+2026-10-30T10:29:08.973Z,@hackcove/pixelslash,0.1.1,madangryscientist,MIT,457125,"Visual review from the command line: capture Main and Branch, pixel-diff them, write a report."
+2026-10-30T10:29:16.464Z,@i9up/nes,0.2.0,alemedeiros,MIT,110790,"NES method (A Nova Engenharia de Software) for your repository: agent team with contracts, M0-M5 maturity with objective criteria, OpenSpec/Ponytail in the flow and an agent mode for LLMs. Portuguese…"
+2026-10-30T10:29:30.621Z,paglora,0.0.1-alpha.0,m1nsook,MIT,7412,Paglora CLI — inspect and validate local-first documentation projects.
+2026-10-30T10:29:58.15Z,manju-studio-runtime-assets-v2-ffmpeg,1.0.0,love2328,UNLICENSED,136455403,漫剧工坊 ffmpeg 运行组件
+2026-10-30T10:30:27.062Z,manju-studio-runtime-assets-v2-runtime,1.0.0,love2328,UNLICENSED,81306979,漫剧工坊人声与骨骼运行组件
+2026-10-30T10:31:59.286Z,@muze-labs/simplyedit,0.1.1,poef,MIT,600893,Experimental SimplyEdit application layer built on SimplyFlow.
+2026-10-30T10:32:06.372Z,lume-code,0.1.1,selfnify,UNLICENSED,6149075,"Lume Code, a terminal coding assistant for your Lume account."
+2026-10-30T10:32:13.497Z,dsh-plugin-voiceinputwithpress,0.1.8,siemen.liuxm,MIT,51031,Press and hold the DSH composer to dictate and send
+2026-10-30T10:32:20.659Z,@zollikon/email,1.0.1,osmancalisir,MIT,51829,Email service with Nodemailer and pluggable adapters
+2026-10-30T10:32:22.338Z,coda-player,2.0.2,lanscod,,2417647,coda-player是一款轻量级HTML5视频播放器SDK，开箱即用，支持主流视频格式和HLS直播流，UI和功能高度可定制。
+2026-10-30T10:32:25.719Z,@deepmaid/maid-anchor,0.1.0-alpha.1,kai2045,MIT,17595,
+2026-10-30T10:32:27.303Z,@deepmaid/maid-curator,0.1.0-alpha.1,kai2045,MIT,43072,
+2026-10-30T10:32:29.74Z,@deepmaid/maid-delivery,0.1.0-alpha.1,kai2045,MIT,5099,
+2026-10-30T10:32:32.244Z,@deepmaid/maid-emotion,0.1.0-alpha.1,kai2045,MIT,335192,
+2026-10-30T10:32:35.079Z,@deepmaid/maid-gestures,0.1.0-alpha.1,kai2045,MIT,251086,
+2026-10-30T10:32:37.185Z,@deepmaid/maid-identity,0.1.0-alpha.1,kai2045,MIT,246465,
+2026-10-30T10:32:38.935Z,@deepmaid/maid-logger,0.1.0-alpha.1,kai2045,MIT,52588,
+2026-10-30T10:32:40.634Z,@deepmaid/maid-memory,0.1.0-alpha.1,kai2045,MIT,48880,
+2026-10-30T10:32:42.205Z,@deepmaid/maid-memory-local,0.1.0-alpha.1,kai2045,MIT,6865,
+2026-10-30T10:32:44.414Z,@deepmaid/maid-memory-mslm,0.1.0-alpha.1,kai2045,MIT,598186,
+2026-10-30T10:32:45.648Z,dsh-compact-control,0.1.1,zdjmrq,MIT,42315,使用 DSH 原生上下文压缩功能，仅调整触发自动上下文压缩的阈值。
+2026-10-30T10:32:46.13Z,@deepmaid/maid-veil,0.1.0-alpha.1,kai2045,MIT,10186,
+2026-10-30T10:32:49.002Z,@deepmaid/maid-voice,0.1.0-alpha.1,kai2045,MIT,293129,
+2026-10-30T10:32:50.759Z,@deepmaid/maid-cron,0.1.0-alpha.1,kai2045,MIT,62151,
+2026-10-30T10:32:52.293Z,@deepmaid/agent,0.1.0-alpha.1,kai2045,MIT,4318,
+2026-10-30T10:32:53.237Z,@muze-labs/simplyflow-edit,0.1.1,poef,,12896,Compatibility wrapper for the experimental @muze-labs/simplyedit package.
+2026-10-30T10:33:22.072Z,@knowledge-forge-ai/shadcn-theme-terminal-nova,0.1.0,lair001,AGPL-3.0-or-later,166278,Terminal Nova theme for Tailwind CSS v4 and shadcn/ui
+2026-10-30T10:33:34.818Z,toonarrow,0.0.0-stage,andsigno82,,331,Temporary package placeholder for staged publishing
+2026-10-30T10:34:09.255Z,@diy-agent/session-store-jsonl,0.1.0,chen56,,40027,diy 会话存储适配器：按大小切桶的 jsonl（index.json + <序号>-<日期>-<时间><偏移>.jsonl…），seq 跨桶连续、readFrom 不扫全量
+2026-10-30T10:35:20.823Z,badecision,0.0.0-stage,xerios,,332,Temporary package placeholder for staged publishing
+2026-10-30T10:35:44.649Z,techpack-uikit,0.1.0,tuvshinbayar,UNLICENSED,7016227,"Techpack UI — 750+ React components for ERP, logistics, fleet, ecommerce, school, medical and back-office apps. shadcn/ui (Base UI) + Tailwind v4 + Motion, with 3D effects and dark mode."
+2026-10-30T10:36:22.865Z,@lapis-notes/canvas,0.2.0,stevejuma,Apache-2.0,183139,JSON Canvas file view and note embed for Lapis applications
+2026-10-30T10:36:33.704Z,flowkit-mcp,0.1.0,ayusht9,,97990,"Local document, image, audio, and video tools exposed through MCP"
+2026-10-30T10:36:55.063Z,@whatauth/sdk,1.0.2,whatauth,MIT,69188,Official TypeScript & JavaScript SDK for WhatAuth Passwordless QR Authentication
+2026-10-30T10:37:26.941Z,@lapis-notes/csv,0.2.0,stevejuma,Apache-2.0,277248,CSV and TSV table view and note embed for Lapis applications
+2026-10-30T10:37:29.395Z,@lapis-notes/docx,0.2.0,stevejuma,Apache-2.0,22502,Word document file view and note embed for Lapis applications
+2026-10-30T10:37:31.793Z,@lapis-notes/pdf,0.2.0,stevejuma,Apache-2.0,28531,PDF file view and note embed for Lapis applications
+2026-10-30T10:37:34.83Z,@lapis-notes/transcripts,0.2.0,stevejuma,Apache-2.0,112776,Speaker-separated reading view for Markdown transcripts
+2026-10-30T10:38:12.709Z,game-supercontrol,0.0.0-stage,toducphi,,339,Temporary package placeholder for staged publishing
+2026-10-30T10:39:01.41Z,@zukhruf/mteb,0.4.0,ezzabuzaid,Apache-2.0,587457,"A TypeScript port of the MTEB evaluation engine (Massive Text Embedding Benchmark, version 2.26.28): tasks, evaluators, metrics, search, results and the result cache. Retrieval and reranking first; t…"
+2026-10-30T10:39:10.439Z,@zukhruf/event-detection,0.4.0,ezzabuzaid,MIT,81079,"Puts reports of one real event into one event. It shortlists the nearest reports by embedding similarity, scores each pair with a frozen logistic model, and clusters the 7-day window again with group…"
+2026-10-30T10:39:18.598Z,@gitmyabi/dnstldresolver,1.0.0,gitmyabi-bot,MIT,81112,"Auto-generated TypeScript type bindings for DNSTLDResolver (build etherscan-dnstldresolver-ab48304a-1793356732689, commit 9b80826, branch etherscan)"
+2026-10-30T10:39:25.566Z,@chiefnusa/discount-calculator,1.0.0,chiefnusa,MIT,1303,A simple JavaScript discount calculator
+2026-10-30T10:39:32.038Z,@diy-agent/llm-provider,0.1.0,chen56,,44247,OpenAI 兼容 LLM provider：HTTP 请求 + 流式解析 + 模型目录（无人设、零宿主依赖）
+2026-10-30T10:39:43.244Z,verifyanyemail-mcp,1.0.0,verifyanyemail,MIT,34939,"Model Context Protocol (MCP) server for VerifyAnyEmail — real-time email verification and deliverability diagnostics for AI agents (Claude, ChatGPT, Cursor, and any MCP client)."
+2026-10-30T10:40:56.403Z,bulwark-sdk,0.2.0,bastionshieldtechnologies,MIT,282880,"Bulwark SDK: governance, audit and policy decisions for AI agents"
+2026-10-30T10:40:57.593Z,homebridge-fronius-ohmpilot,3.0.1,blabruere,MIT,14746,Homebridge platform plugin that exposes the Fronius Ohmpilot water temperature and a Boost switch in HomeKit.
+2026-10-30T10:41:10.198Z,bulwark-mcp-gateway,0.2.0,bastionshieldtechnologies,MIT,55882,Bulwark MCP gateway: every MCP tools/call is decided by Bulwark before it reaches the server
+2026-10-30T10:42:17.959Z,humalis,1.0.0-reservation.0,emch99,ISC,627,"Humalis : un seul langage, en français, pour créer une application complète (web, mobile, desktop et serveur). Nom réservé, première version à venir."
+2026-10-30T10:42:47.342Z,@kvman/kvvideo,0.1.0,ibndeif,MIT,1713484,"kvvideo: the kvcoder extension that makes videos of the person's app, recorded, narrated, and captioned."
+2026-10-30T10:43:01.14Z,@dsh-plugin/dsh-synapse,0.1.0,gugle,AGPL-3.0-only,2855895,"DSH QQ/Discord bot, GitHub review and local hybrid memory"
+2026-10-30T10:43:24.034Z,@developmentsprint/nuxt-openfeature,0.2.5,ribrewguy,MIT,55320,[![codecov](https://codecov.io/gh/DevelopmentSprint/nuxt-openfeature/graph/badge.svg)](https://codecov.io/gh/DevelopmentSprint/nuxt-openfeature)
+2026-10-30T10:44:26.781Z,@qntx/wallet-chains,0.4.0,gitctrlx,MIT OR Apache-2.0,892680,"qntx/wallet chain semantics: SignRequest codecs, display decoding, verifiability and signing for EVM, Solana and Bitcoin"
+2026-10-30T10:44:44.076Z,dsh-badge,0.3.0,gaolvsuanpao,MIT,42341,"The ChatGPT-style unread badge, for DeepSeek Harness: a red count on the tab icon and taskbar button, plus one chime per finished turn."
+2026-10-30T10:44:46.082Z,@diy-agent/model-catalog,0.1.0,chen56,,58271,模型目录：读 $DIY_HOME/model.yaml + providers.custom.yaml（+ models.dev 快照）→ provider×model 列表；不含 key 值，不依赖 llm-provider
+2026-10-30T10:45:10.479Z,@noirhare/dsh-not-dsh,0.2.0,noirhare,MIT,6102,
+2026-10-30T10:46:11.911Z,dsh-team-control-cli,0.1.0,hunmer,MIT,1627067,Agent 编排控制平面：可配置上限、DAG 自动派发、四域强制权限、SSE 实时可观测（PRD v1.0 实现）
+2026-10-30T10:46:17.894Z,dsh-team-control,0.1.2,hunmer,MIT,128144,"Expose the local dsh-team sidecar as model-facing tools (team_create / team_spawn / team_status / team_task / team_send / team_report_task / team_dispatch / team_scope / team_control / team_report),…"
+2026-10-30T10:46:22.764Z,dsh-team-control-ui,0.1.1,hunmer,MIT,114638,"dsh-team dashboard inside the DSH Web UI: live member board, DAG, event timeline, permission matrix and scope approvals, proxied same-origin to the local sidecar."
+2026-10-30T10:46:37.053Z,@doubao-dev/cli-tui-win32-x64,0.0.40-canary-1b65b9c54-20261030104444,wangyiming.777,,2213253,DBX TUI native renderer for win32-x64
+2026-10-30T10:46:41.323Z,@doubao-dev/cli-tui-darwin-arm64,0.0.40-canary-1b65b9c54-20261030104444,wangyiming.777,,8267150,DBX TUI native renderer for darwin-arm64
+2026-10-30T10:46:42.159Z,@doubao-dev/cli-tui-darwin-x64,0.0.40-canary-1b65b9c54-20261030104444,wangyiming.777,,9285884,DBX TUI native renderer for darwin-x64
+2026-10-30T10:46:46.705Z,@creatin/mcp,0.1.1,original_rick,MIT,389547,Creatin MCP server (stdio) — creative harness for Claude Code / Cursor. No model keys inside Creatin.
+2026-10-30T10:47:27.172Z,dsh-session-group,0.2.0,dmsun,Apache-2.0,2668740,Persistent group chats for coordinating DeepSeek Harness sessions
+2026-10-30T10:47:29.825Z,moonbox-agent,0.1.0,zvker,,1407497,"Moonlight Treasure Box (moonbox) — Siming Cave Dwelling node agent: a connector installed on the user's machine, with outbound WSS connecting back to the Daofu platform, remotely driving local Harnes…"
+2026-10-30T10:48:01.496Z,@modlock/darwin-arm64,0.1.64,paralin,MIT,79703527,The modlock command line for darwin arm64.
+2026-10-30T10:48:15.7Z,@modlock/darwin-x64,0.1.64,paralin,MIT,83483087,The modlock command line for darwin x64.
+2026-10-30T10:48:17.589Z,@nomior/cli,0.1.0,ivanmyshko,UNLICENSED,847360,"Connect Claude Code, Codex and Cursor to Nomior Memory and install shared setups."
+2026-10-30T10:48:19.964Z,war-devtools-mcp,1.5.0,dalen,MIT,72181,"The developer tools of a running WarClient64 as an MCP server on stdio: Lua eval, reload, logs, types, profiler, debugger, window inspector, captures"
+2026-10-30T10:48:27.696Z,@modlock/linux-x64,0.1.64,paralin,MIT,81732551,The modlock command line for linux x64.
+2026-10-30T10:48:43.677Z,@modlock/linux-arm64,0.1.64,paralin,MIT,77834518,The modlock command line for linux arm64.
+2026-10-30T10:48:59.022Z,@testerpaykit/storage-browser,1.0.0,moinsen-developer,MIT,34317,IndexedDB storage adapter for TesterPayKit SDK
+2026-10-30T10:49:00.938Z,@testerpaykit/sdk,1.1.0,moinsen-developer,MIT,209092,TesterPayKit SDK - Core business logic
+2026-10-30T10:49:03.229Z,@testerpaykit/react,1.0.0,moinsen-developer,MIT,617832,React hooks for TesterPayKit SDK
+2026-10-30T10:49:03.646Z,@modlock/win32-x64,0.1.64,paralin,MIT,82281788,The modlock command line for win32 x64.
+2026-10-30T10:49:18.707Z,@mentingo/competencies-sdk,0.1.0,its-gabo,MIT,26603,Server-side client and contracts for the Mentingo competencies plugin.
+2026-10-30T10:50:07.345Z,@diy-agent/model-config-page,0.1.0,chen56,,58251,模型配置页面插件：provider / 模型 / 账号 / 默认模型（key 只写不回显）；不装就没有入口
+2026-10-30T10:50:31.764Z,@rtogtor/sdk-darwin-arm64,1.0.0,tuanfaied,Apache-2.0,11683000,"The RtoGtoR engine for darwin-arm64, used by @rtogtor/sdk."
+2026-10-30T10:50:37.625Z,@rtogtor/sdk-darwin-x64,1.0.0,tuanfaied,Apache-2.0,12403516,"The RtoGtoR engine for darwin-x64, used by @rtogtor/sdk."
+2026-10-30T10:50:43.037Z,@rtogtor/sdk-linux-arm64,1.0.0,tuanfaied,Apache-2.0,11338457,"The RtoGtoR engine for linux-arm64, used by @rtogtor/sdk."
+2026-10-30T10:50:47.87Z,@rtogtor/sdk-linux-x64,1.0.0,tuanfaied,Apache-2.0,12137167,"The RtoGtoR engine for linux-x64, used by @rtogtor/sdk."
+2026-10-30T10:50:54.496Z,@rtogtor/sdk-win32-x64,1.0.0,tuanfaied,Apache-2.0,12523031,"The RtoGtoR engine for win32-x64, used by @rtogtor/sdk."
+2026-10-30T10:50:58.883Z,@rtogtor/sdk,1.0.0,tuanfaied,Apache-2.0,156288,"Relational ↔ graph migration (PostgreSQL → Neo4j) with explicit mappings, plans, resumable runs and verification."
+2026-10-30T10:51:16.726Z,coda-player-videojs,1.0.4,lanscod,,3881027,coda-player-videojs是一款基于video.js 7面向各类网页端场景的高性能音视频播放工具，兼容旧版本flash/flv格式的视频。
+2026-10-30T10:51:20.978Z,ob-studio,0.0.1,iasiv5,MIT,972,OpenBMC Studio - reserved placeholder for an upcoming OpenBMC management and development workbench
+2026-10-30T10:51:21.668Z,@blox-cms/sdk,0.1.1,dragosvlasie,,710650,"Blox CMS delivery client, Next.js website runtime and live preview adapter"
+2026-10-30T10:51:24.475Z,openbmc-studio,0.0.1,iasiv5,MIT,1017,"OpenBMC Studio - workbench tool suite for OpenBMC development, debugging and fleet management"
+2026-10-30T10:51:28.197Z,obmc-studio,0.0.1,iasiv5,MIT,981,OpenBMC Studio - reserved alias placeholder for the OpenBMC Studio workbench tool suite
+2026-10-30T10:51:30.161Z,dsh-rfiles,0.1.0,aperops,MIT,163804,"Host-side DSH plugin that adds resumable chunked uploads, send-to-Agent, workspace file downloads, and session-log ZIP export to the paired remote Web UI."
+2026-10-30T10:52:06.656Z,@funny-booth/shikaagentos,0.1.1,funny-booth,UNLICENSED,28349,SHIKA-AgentOS 起動CLI
+2026-10-30T10:52:13.65Z,@hlw2326/jsonl,0.1.0,a1608626145,MIT,16748,"Small, dependency-free JSONL file storage for Node.js"
+2026-10-30T10:52:30.221Z,@bd-24/cms,1.0.1,pixelmund,UNLICENSED,50231,"Pflegbare Inhalte für BrandDesign24-Websites: Schema, Prüfung, Laden im Build, Vite-Plugin"
+2026-10-30T10:52:31.145Z,kuzzle-storage-es-9,1.0.0-beta.1,kuzzle-ricky,Apache-2.0,193334,Elasticsearch 9 storage driver for Kuzzle
+2026-10-30T10:52:57.684Z,@lininn/ds-bot,0.2.4,lininn,Apache-2.0,2164826,"DS Bot: a team of long-lived Bots for DeepSeek Harness, with Main Bots, Bot-to-Bot messages and group chats"
+2026-10-30T10:53:06.927Z,@lininn/ds-web,0.2.4,lininn,Apache-2.0,769298,Narrow-screen web shell for controlling a DS Bot team through a relay
+2026-10-30T10:54:04.89Z,@fyrst/ui,0.2.0,robjke,MIT,1654956,"fyrst.dev design system: Panda CSS preset, Vue components, and Nuxt module"
+2026-10-30T10:54:49.885Z,@bitfun-vsl/plugin,0.0.2,fangcircle,MIT,451988,"Shared modules and native host adapters for DevEco Code, Claude Code and BitFun"
+2026-10-30T10:55:20.971Z,@diy-agent/bot,0.1.0,chen56,,39506,diy 的 bot 实体：身份配置（BotConfig）+ 文件存储（~/.diy/bots/<id>/bot.json）+ 会话归属（session 目录里的 bot.json）
+2026-10-30T10:55:44.596Z,@tygaria/tygazen,0.3.0,tygaria,SEE LICENSE IN COPYRIGHT,530291,"The one game-integration surface for the TYGA game center (tygazen.com) on the web: native signup, the pixel face builder, and clip-moment telemetry. One tygazen, one face, every game."
+2026-10-30T10:56:35.599Z,@gabyy/oncc,1.0.1,gabyy,MIT,8052,Onion Character Convert
+2026-10-30T10:57:15.36Z,mcp-section-router,0.1.0,filippi4,MIT,5932,"Expose a large API to an MCP agent as three tools: list_sections, list_section_tools, call_tool — with a read-only mode"
+2026-10-30T10:59:22.489Z,anmol.sh,1.0.3,anmolsharma100,MIT,1880,A hacker-style interactive portfolio of Anmol Sharma
+2026-10-30T10:59:36.267Z,dsh-auth-cookie-guard,1.0.0,jitianjiyan,MIT,20669,"Give the local listener a header budget large enough for its own launch cookies, and retire the cookies of every earlier start, so the desktop welcome handshake cannot lock a profile out after ~72 re…"
+2026-10-30T10:59:45.503Z,ozon-api-mcp,0.1.0,filippi4,MIT,1165431,Ozon Seller API client and MCP tools with a read-only mode
+2026-10-30T11:00:04.137Z,@logictan/dsh-verbatim-compaction,0.1.0,logictan,MIT,37894,"Deterministic compaction backend that keeps conversation prose verbatim in the checkpoint instead of re-summarizing it: user and assistant text survive word for word, tool results collapse to one-lin…"
+2026-10-30T11:00:24.265Z,@logictan/dsh-session-search,0.1.0,logictan,MIT,24265,"Turns on the host's full-text session search with a durable index, and tells the model the one limit that remains: a CJK query shorter than three characters finds nothing."
+2026-10-30T11:00:45.787Z,@callmap/cli,0.1.0,spasoye.json,MIT,5987579,Callmap is a call graph reader for an engineer who still reads code.
+2026-10-30T11:01:05.715Z,@nebulaaa/cargo,1.0.0,reyn,MIT,118519,资源管理插件
+2026-10-30T11:01:32.092Z,nila-card,0.1.0,shibinsoju,MIT,1935,"Nila's welcome-card layout engine: canvas renderer that composites a background, the joining member's avatar, and text layers into a welcome-card PNG."
+2026-10-30T11:01:41.126Z,@deploybase/nitro-preset,0.1.0,antoinetielbeke,MIT,29651,Deploy Nitro and Nuxt server-rendered apps on deploybase
+2026-10-30T11:01:54.568Z,@muze-labs/simplysolid,0.1.0,poef,MIT,54957,SimplyFlow runtime integration for Solid workspaces and collections.
+2026-10-30T11:01:56.426Z,@diy-agent/chat-page,0.1.0,chen56,,68415,聊天页面插件：主进程侧用 @diy-agent/session + 假 LlmPort；renderer 两版并存（裸 DOM / diyui）
+2026-10-30T11:02:20.716Z,@muze-labs/solid-workspace,0.1.0,poef,MIT,124783,Source-aware OLDMed working set over local and Solid graph resources.
+2026-10-30T11:02:24.563Z,kuzzle-storage-es-7,0.0.0,kuzzle-ricky,Apache-2.0,682,"Elasticsearch 7 storage driver for Kuzzle. Reserved name: not usable yet, Kuzzle 2 ships this driver built in."
+2026-10-30T11:02:37.769Z,@muze-labs/jsfs-solid,0.1.1,poef,MIT,27121,"A JSFS adapter for Solid storage, implemented on top of metro-solid."
+2026-10-30T11:02:47.752Z,kuzzle-storage-es-8,0.0.0,kuzzle-ricky,Apache-2.0,682,"Elasticsearch 8 storage driver for Kuzzle. Reserved name: not usable yet, Kuzzle 2 ships this driver built in."
+2026-10-30T11:02:59.381Z,@abereghici/tokens,0.1.0,abereghici,MIT,1175574,"Design tokens, CSS custom properties and fonts of the abereghici design system."
+2026-10-30T11:03:15.345Z,@types/dom-html-in-canvas,0.0.0,types,MIT,7934,TypeScript definitions for dom-html-in-canvas
+2026-10-30T11:03:23.444Z,@swastik-codes/cli-linux-x64,0.2.1,divakarchoudhary,SEE LICENSE IN LICENSE.md,24436611,"swc for Linux x64 (static, any distribution) (installed by @swastik-codes/cli)"
+2026-10-30T11:03:28.738Z,@abereghici/ui,0.1.0,abereghici,MIT,790388,React components of the abereghici design system.
+2026-10-30T11:03:32.547Z,@swastik-codes/cli-win32-x64,0.2.1,divakarchoudhary,SEE LICENSE IN LICENSE.md,28708562,swc for Windows x64 (installed by @swastik-codes/cli)
+2026-10-30T11:03:37.783Z,@swastik-codes/cli-darwin-x64,0.2.1,divakarchoudhary,SEE LICENSE IN LICENSE.md,22843604,swc for macOS Intel (installed by @swastik-codes/cli)
+2026-10-30T11:03:44.296Z,@swastik-codes/cli-darwin-arm64,0.2.1,divakarchoudhary,SEE LICENSE IN LICENSE.md,20440922,swc for macOS Apple silicon (installed by @swastik-codes/cli)
+2026-10-30T11:03:54.977Z,@swastik-codes/cli,0.2.2,divakarchoudhary,SEE LICENSE IN LICENSE.md,15853,"swc, the Swastik Codes CLI: turn API routes in your code into a collection, keep it in sync, run collections and tests in CI"
+2026-10-30T11:04:10.04Z,textlane,0.0.0,roll,MIT,369,Placeholder reserving the name; the first real release follows
+2026-10-30T11:04:10.463Z,@wrfamily/web-search-usage,1.0.0,realgrit,,126534,"web-search provider (ordered engine chain) that also counts successful web-search calls and names the engine that answered, beside the composer usage pills."
+2026-10-30T11:04:13.126Z,@textlane/darwin-arm64,0.0.0,roll,MIT,397,Placeholder reserving the name; the first real release follows
+2026-10-30T11:04:23.571Z,@textlane/darwin-x64,0.0.0,roll,MIT,393,Placeholder reserving the name; the first real release follows
+2026-10-30T11:04:37.118Z,@textlane/linux-arm64,0.0.0,roll,MIT,395,Placeholder reserving the name; the first real release follows
+2026-10-30T11:04:39.333Z,@textlane/linux-x64,0.0.0,roll,MIT,391,Placeholder reserving the name; the first real release follows
+2026-10-30T11:04:41.652Z,comark-comments,0.7.4,onmax_,MIT,70655,"Suggested edits and comment threads in Markdown, drawn as redlines or a hand-drawn pen with notes in the margin, and no script. A Comark plugin."
+2026-10-30T11:04:44.716Z,sellify-cli,0.1.1,sellify,MIT,30728,"Command line for Sellify: develop themes locally (pull, push, live sync) and call the GraphQL Admin API."
+2026-10-30T11:04:49.824Z,@textlane/win32-arm64,0.0.0,roll,MIT,395,Placeholder reserving the name; the first real release follows
+2026-10-30T11:04:52.384Z,@textlane/win32-x64,0.0.0,roll,MIT,391,Placeholder reserving the name; the first real release follows
+2026-10-30T11:05:13.177Z,@open-mercato/gateway-autopay,0.10.1-develop.7741.1.61a2652671,piotrkarwatka,MIT,329800,Autopay Online v1.1 hosted PLN payment gateway provider for Open Mercato
+2026-10-30T11:05:31.011Z,@codeshark/vat,0.1.0,codeshark,MIT,62403,Offline VAT number validation (format + checksum) for EU and selected other countries
+2026-10-30T11:06:29.302Z,tectra-ui,0.1.0,kaixian,,470454,"Tectra UI - Vue 3 components, design tokens and theme utilities"
+2026-10-30T11:07:05.31Z,cortico-world-fishing,0.3.0,binamii,MIT,2760301,给桌宠 Coo 的钓鱼小游戏：屏幕右下角一把小木椅，把 Coo 拖过去就开始钓——一分钟一次「❗」自动收杆。40 种鱼、5 个星级、8 把鱼竿；6 种垃圾（可回收成 7 种材料）、8 种宝藏、81 道菜（隐藏幸运值 + 商店每日 10 种限购 5）。v0.1.2：鱼塘的「一天」改成世界醒着的 24 小时 + 喂食回执第一行「今天喂了没有 / 谁喂的」+ 撤掉冗余的「物品箱 · 页面」面板。v0.…
+2026-10-30T11:07:17.45Z,@muze-labs/metro-solid,0.1.0,poef,MIT,32832,A Solid resource and container API helper for Metro clients.
+2026-10-30T11:07:27.933Z,pi-llbot-bridge,0.2.0,xinvxueyuan,MIT,61795,"Bridge a locally hosted LLBot (OneBot 11, reverse WebSocket) into a running Pi session"
+2026-10-30T11:07:39.973Z,@yegor256/jinka,0.0.1,yegor256,MIT,22629,Simple command line orchestrator of coding agents
+2026-10-30T11:07:41.88Z,@nvminhhuy2202/_probe,0.0.0,nvminhhuy2202,,116,probe
+2026-10-30T11:07:42.371Z,@muze-labs/simplysolid-templates,0.1.0,poef,MIT,1240,Semantic template inspection for SimplySolid reusable templates.
+2026-10-30T11:07:45.534Z,@nebulaaa/auditor,1.0.0,reyn,MIT,46041,敏感词审计员插件
+2026-10-30T11:08:11.094Z,@go-wind/flow-designer-core,0.2.0,tx7ddo,MIT,166152,go-wind-flow 流程设计器核心（框架无关）：bpmn-js 建模器 + go-wind-flow 属性面板 + designer-json-v1 序列化
+2026-10-30T11:08:22.318Z,@go-wind/flow-designer-vue,0.2.0,tx7ddo,MIT,49198,go-wind-flow 流程设计器 Vue3 适配器（<FlowDesigner>）
+2026-10-30T11:08:29.536Z,@go-wind/flow-designer-react,0.2.0,tx7ddo,MIT,128743,go-wind-flow 流程设计器 React 适配器（<FlowDesigner>）
+2026-10-30T11:09:05.558Z,@rivi-software/cloudflare-deploy,0.1.0,rikvisser-dev,MIT,67841,"Deploy helpers for Cloudflare Workers apps: environment guards, a post-deploy health check, a REST API client for D1, KV, R2 and Workers for Platforms, and skew protection that keeps earlier builds'…"
+2026-10-30T11:09:07.871Z,@rivi-software/deploy-watch,0.1.0,rikvisser-dev,MIT,38963,"Moves a browser tab that was open across a deploy onto the new build at a moment that loses nothing: the next navigation loads the whole page, a notice can offer the reload, and an error screen that…"
+2026-10-30T11:09:10.191Z,@rivi-software/posthog-tanstack-start,0.1.0,rikvisser-dev,MIT,31849,"PostHog error tracking for TanStack Start apps on Cloudflare Workers: the Worker's capture, the Start middlewares, the browser SDK loaded after hydration, secret-path redaction and the source map upl…"
+2026-10-30T11:09:11.992Z,@rivi-software/semgrep-github-report,0.1.0,rikvisser-dev,MIT,28433,"Posts Semgrep findings on a GitHub pull request as one comment it keeps updating, or lists them in the job summary, with only the job's GITHUB_TOKEN"
+2026-10-30T11:09:13.668Z,@rivi-software/vite-plugin-zod-jitless,0.1.0,rikvisser-dev,MIT,12901,"Vite plugin that sets Zod's jitless mode before any browser module builds a schema, so a strict Content-Security-Policy never sees Zod's eval probe"
+2026-10-30T11:09:16.052Z,@rivi-software/workers-mail,0.1.0,rikvisser-dev,MIT,33823,"Mail from Cloudflare Workers: Amazon SES once the Worker holds its key, Cloudflare Email Service's send_email binding until then and whenever SES refuses a message"
+2026-10-30T11:10:26.371Z,@joshitushar/custom-react-tree,1.0.0,joshitushar,MIT,173295,"Production-ready, independent custom React Tree Control package built from scratch with zero tree-library dependencies."
+2026-10-30T11:11:14.326Z,@gitmyabi/safe7579launchpad,1.0.0,gitmyabi-bot,MIT,111911,"Auto-generated TypeScript type bindings for Safe7579Launchpad (build etherscan-safe7579launchpad-4deb92ad-1793358646909, commit 096958e, branch etherscan)"
+2026-10-30T11:11:36.55Z,underthehood,0.1.0,pouriahamidi,MIT,189100,"Look under the hood of the machine you're on: hardware, OS, security, network, storage and dev setup, scored, with the exact fixes. Local-only; nothing leaves the machine."
+2026-10-30T11:11:48.901Z,@yof/cli,0.1.0,yof,Apache-2.0,577710,"Catch leaked keys and made-up packages before they ship. Runs on your machine, rules only."
+2026-10-30T11:12:25.883Z,nudge-canvas,0.0.1,rocinante-studio,UNLICENSED,508,Nudge: design with the coding agent you already have. Not released yet; this name is held for it.
+2026-10-30T11:12:26.297Z,@ultimabase/acl,0.1.0,mrekinox,Apache-2.0,26860,"Per-row rights for UltimaBase: who may read and write each row, as Parse's ACL."
+2026-10-30T11:12:29.822Z,@ultimabase/auth,0.1.0,mrekinox,Apache-2.0,56123,"Authentication for UltimaBase: the user model, sessions and the caller of each request."
+2026-10-30T11:12:31.796Z,scaffold-agent-specs,0.1.1,rob-pasc,MIT,46120,"A tiny, spec-driven workflow scaffold for AI coding agents"
+2026-10-30T11:12:33.26Z,@ultimabase/files,0.1.0,mrekinox,Apache-2.0,132409,"Files for UltimaBase: uploads to S3-compatible storage, file fields, variants, and no orphan ever."
+2026-10-30T11:12:36.332Z,@ultimabase/graphql,0.1.0,mrekinox,Apache-2.0,304487,"GraphQL for UltimaBase: a Relay schema generated from the models, served by the HTTP plugin."
+2026-10-30T11:12:39.084Z,@ejunz/profile-web,0.1.2-rc.5,jacka10086,,2733589,"Web capability, embedded Host API and client runtime for EjunzAgent"
+2026-10-30T11:12:39.511Z,@ultimabase/http,0.1.0,mrekinox,Apache-2.0,92592,"An HTTP server for UltimaBase: Hono routes that read the caller, CORS and a body limit."
+2026-10-30T11:12:42.165Z,@ultimabase/live,0.1.0,mrekinox,Apache-2.0,45983,"The UltimaBase live client: live lists and rows over SSE, an Apollo link and a React hook."
+2026-10-30T11:12:45.014Z,nudge-design,0.0.1,rocinante-studio,UNLICENSED,508,Nudge: design with the coding agent you already have. Not released yet; this name is held for it.
+2026-10-30T11:12:45.169Z,@ultimabase/password,0.1.0,mrekinox,Apache-2.0,123423,"Passwords for UltimaBase: sign-up, sign-in and password changes, hashed with Argon2id."
+2026-10-30T11:12:48.762Z,@ultimabase/postgres,0.1.0,mrekinox,Apache-2.0,286779,The PostgreSQL adapter for UltimaBase.
+2026-10-30T11:12:52.185Z,@ultimabase/realtime,0.1.0,mrekinox,Apache-2.0,163188,"Realtime for UltimaBase: live lists and live rows that follow every write, under the read rules."
+2026-10-30T11:12:54.941Z,@ultimabase/rest,0.1.0,mrekinox,Apache-2.0,221883,"REST for UltimaBase: GraphQL's arguments and responses over resource routes, served by the HTTP plugin."
+2026-10-30T11:12:57.936Z,@ultimabase/roles,0.1.0,mrekinox,Apache-2.0,24169,"Roles for UltimaBase: a role model, roles inside roles, and the rule asking a caller's role."
+2026-10-30T11:13:03.882Z,@ultimabase/soft-delete,0.1.0,mrekinox,Apache-2.0,7251,Soft delete for UltimaBase: deleted rows go to a trash and can be restored.
+2026-10-30T11:13:07.846Z,@promakeai/dbcli-darwin-arm64,2.8.2,promake,,89374906,"The darwin-arm64 binary of @promakeai/dbcli, installed through its optionalDependencies."
+2026-10-30T11:13:08.349Z,@ultimabase/testing,0.1.0,mrekinox,Apache-2.0,300533,"Test helpers for UltimaBase applications, plugins and adapters."
+2026-10-30T11:13:11.792Z,create-ultimabase,0.1.0,mrekinox,Apache-2.0,18433,Writes a new UltimaBase application: npm create ultimabase.
+2026-10-30T11:13:18.693Z,ultimabase,0.1.0,mrekinox,Apache-2.0,1312584,The UltimaBase kernel and its in-memory adapter.
+2026-10-30T11:13:20.393Z,@promakeai/dbcli-darwin-x64,2.8.2,promake,,98381618,"The darwin-x64 binary of @promakeai/dbcli, installed through its optionalDependencies."
+2026-10-30T11:13:32.039Z,@promakeai/dbcli-linux-arm64,2.8.2,promake,,109432141,"The linux-arm64 binary of @promakeai/dbcli, installed through its optionalDependencies."
+2026-10-30T11:13:45.263Z,@promakeai/dbcli-linux-x64,2.8.2,promake,,109341183,"The linux-x64 binary of @promakeai/dbcli, installed through its optionalDependencies."
+2026-10-30T11:13:59.994Z,@promakeai/dbcli-win32-x64,2.8.2,promake,,115490643,"The win32-x64 binary of @promakeai/dbcli, installed through its optionalDependencies."
+2026-10-30T11:14:00.534Z,@vscreen/synack-longtd,1.0.0,synack_longtd,ISC,252,synack longtd PoC
+2026-10-30T11:14:24.004Z,@nothumanwork/pi-loggly,0.1.0,rodat.dev,,212924,"Loggly log search, error-pattern analysis, a health dashboard and a status line for Pi, with a typed Loggly SDK"
+2026-10-30T11:14:47.56Z,@gitmyabi/usualx,1.0.0,gitmyabi-bot,MIT,203044,"Auto-generated TypeScript type bindings for USUALX (build etherscan-usualx-06b964d9-1793358863402, commit c7349d1, branch etherscan)"
+2026-10-30T11:15:05.944Z,n8n-nodes-suprsend,0.1.1,adheshsuryatej,MIT,28310,"n8n node for SuprSend: trigger notification workflows and manage users, preferences and lists"
+2026-10-30T11:15:11.444Z,@superdurable/connectors-sdk,0.1.0,xdblab,,259739,Provider-neutral TypeScript contracts for Dex connectors
+2026-10-30T11:16:18.274Z,lucid-agent,0.1.1,lucidrh,UNLICENSED,123542,"On-chain launch analysis for Robinhood Chain, with an AI agent that runs on your own Anthropic API key."
+2026-10-30T11:16:57.044Z,notebooklm-browser-mcp,0.0.0-stage,dwightjalandoni,,344,Temporary package placeholder for staged publishing
+2026-10-30T11:17:11.383Z,@jotexdev/auth-server,0.0.0-stage,jotexdev,,343,Temporary package placeholder for staged publishing
+2026-10-30T11:18:40.19Z,dsh-floating-window,0.9.15,windpixy,MIT,758740,浮在桌面上的磨砂玻璃状态窗：卡片态看任务明细、悬浮态用一根细柱表达状态，一眼看到 DSH 在干什么。
+2026-10-30T11:18:51.341Z,dsh-easyrestart,0.0.0-stage,jkrhug,,337,Temporary package placeholder for staged publishing
