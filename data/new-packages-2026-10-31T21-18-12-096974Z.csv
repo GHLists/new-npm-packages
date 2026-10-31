@@ -1,0 +1,127 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-31T20:16:58.736Z,@effected/pnpm-plugin-effected,0.20.0,spencerbeggs,MIT,39197,pnpm config dependency for centralized catalog management across the Effected ecosystem.
+2026-10-31T20:18:52.771Z,@ez-kits/sync-client-core,0.1.0,niku,MIT,393937,Local-first sync client for EzSync
+2026-10-31T20:18:54.095Z,adside,0.2.0,adside-engineering,UNLICENSED,567193,"Adside from your terminal: campaigns, creatives, assets and reporting across your ad accounts."
+2026-10-31T20:19:11.204Z,@ez-kits/sync-client-conflict-resolution,0.0.1,niku,MIT,13807,Ready-made conflict resolution strategies for EzSync
+2026-10-31T20:19:11.934Z,dsh-uriauth,1.0.0,fuqing2233,MIT,38684,DSH 宿主插件：提供一个可配置的公共 URI（默认 /trustme），把当前进程的 launch token 换成浏览器会话 cookie，首次访问不必带 ?token=…，并可在设置里即时修改。
+2026-10-31T20:19:15.324Z,@ez-kits/sync-client-firebase,0.0.0,niku,MIT,41751,Sync EzSync data with Cloud Firestore or Firebase Realtime Database
+2026-10-31T20:19:17.918Z,@ez-kits/sync-client-react,0.1.0,niku,MIT,17101,React integration for EzSync with live queries
+2026-10-31T20:19:21.208Z,@ez-kits/sync-client-storage-pglite,0.0.1,niku,MIT,10201,"Postgres storage for EzSync in the browser, powered by PGlite"
+2026-10-31T20:19:23.846Z,@ez-kits/sync-client-storage-sqlite-wasm,0.0.1,niku,MIT,11319,"SQLite storage for EzSync in the browser, saved to OPFS"
+2026-10-31T20:19:26.378Z,@ez-kits/sync-client-storage-sqljs,0.0.1,niku,MIT,13469,"SQLite storage for EzSync in the browser, saved to IndexedDB"
+2026-10-31T20:19:30.092Z,@ez-kits/sync-client-drizzle-adapter,0.1.0,niku,MIT,65735,Use Drizzle ORM with EzSync
+2026-10-31T20:19:33.657Z,@ez-kits/sync-client-typeorm-adapter,0.1.0,niku,MIT,48281,Use TypeORM with EzSync
+2026-10-31T20:20:02.858Z,ai-sdlc-prompts-mcp,1.0.1,dleon55,MIT AND CC-BY-4.0,1557672,"Servidor MCP que expone la biblioteca de prompts AI-SDLC Pro (112 prompts, ES/EN) a agentes de IA vía stdio."
+2026-10-31T20:20:36.636Z,@cognium/code-facts,0.1.0,elarasu,MIT,48543,"Static facts about a code change between two versions of a tree: every source-to-sink path of one CWE at each version with its change (removed, sanitized, guarded, unchanged, added), unresolved edges…"
+2026-10-31T20:21:17.691Z,androiddl,1.2.0,akash.prajapathi,,121379,A lightweight PyTorch-inspired deep learning library for JavaScript
+2026-10-31T20:21:39.352Z,nexakit,0.1.0,jjall3r1,MIT,3513658,"Asistente por pasos de skills verificadas por SHA-256, coordinación entre agentes y memoria por proyecto para Claude Code y Codex."
+2026-10-31T20:21:50.228Z,@xagents_in/unmask,0.1.1,xagents_in,MIT,240877,Evidence-based comparison of npm packages and their source archives
+2026-10-31T20:22:02.822Z,http-attack,1.0.0,nahuelmosse,MIT,131655,"Adversarial probes against an HTTP API running on this machine: malformed input, parser errors, races, injection, database faults, missing auth, IDOR and CSRF."
+2026-10-31T20:22:24.552Z,@burdenoff/workspaces-mcp,2026.1031.1,burdenoffcorp,PROPRIETARY,26791,"Official Model Context Protocol server for Burdenoff Workspaces: members, projects, files, tags, conversations and more for AI clients"
+2026-10-31T20:22:57.339Z,@lockin90/tokens,1.0.0,nakamura.now,UNLICENSED,37785,"LockIn90 ""Aurora Flux"" design tokens — CSS custom properties (web) + typed raw values (native/JS)."
+2026-10-31T20:23:00.092Z,@lockin90/ui,1.0.0,nakamura.now,UNLICENSED,2701696,"LockIn90 ""Aurora Flux"" web component library (React) — emits plain lk-* classes + ships styles.css."
+2026-10-31T20:23:01.523Z,@lockin90/ui-native,1.0.0,nakamura.now,UNLICENSED,7429631,"LockIn90 ""Aurora Flux"" React Native component library — StyleSheet primitives driven by @lockin90/tokens."
+2026-10-31T20:23:03.626Z,@kenhub-gmbh/watermelondb,0.28.1-kenhub.1,joker-7777,MIT,1421874,Build powerful React Native and React web apps that scale from hundreds to tens of thousands of records and remain fast
+2026-10-31T20:23:43.967Z,dsh-agentic-pet-assets,0.1.0,beyonddance,MIT,54381840,Animation media for the dsh desktop pets (whale character: webm sources + manifest). Deliberately separate from dsh-agentic-pet to keep the plugin package small.
+2026-10-31T20:23:51.835Z,cadence-orchestrator,0.1.1,jtouley,MIT,125723,"The tpm skill: turns an agent session into a technical program manager that delegates all execution to subagents, with a per-session guard. Installs into a repo for Claude Code, Copilot, Codex, Curso…"
+2026-10-31T20:24:24.076Z,dsh-agentic-pet,0.3.1,beyonddance,MIT,409608,"The pet-surface bundle: serves the desktop pet renderer over the web composition, turning dsh into a surface the desktop pet attaches to as an authenticated client"
+2026-10-31T20:24:29.024Z,@meddleware/web-utils,0.0.1,primitivelineworks,0BSD,60614,"Framework-free helpers shared by MeddleWare frontends: exact amount and date formatting, bounded fetching, stale-result guards, safe links and storage, status parsing."
+2026-10-31T20:24:33.681Z,sniprelay,0.1.0,alee1x,UNLICENSED,168205,Contract-generated Sniprelay CLI for safe ephemeral handoffs
+2026-10-31T20:24:37.862Z,@skeletwin/react,1.0.0,i5e,MIT,62055,Skeletwin generates accessible React skeletons from your actual rendered layout.
+2026-10-31T20:24:51.862Z,@meddleware/frontend-config,0.0.1,primitivelineworks,0BSD,75471,"Shared frontend tooling for MeddleWare apps: browser support, ESLint, Stylelint, html-validate, PostCSS, Playwright, axe, screenshots, Lighthouse and the Vite target."
+2026-10-31T20:24:52.717Z,@fabricjs/core,7.5.0-beta.1,asturur,MIT,2939246,Environment-neutral Fabric.js core package.
+2026-10-31T20:24:55.978Z,@fabricjs/browser,7.5.0-beta.1,asturur,MIT,4195244,Browser entrypoint for Fabric.js.
+2026-10-31T20:24:57.796Z,@fabricjs/node,7.5.0-beta.1,asturur,MIT,10597,Node.js entrypoint for Fabric.js.
+2026-10-31T20:24:59.622Z,@fabricjs/gradient-controls,7.5.0-beta.1,asturur,MIT,19315,Linear gradient control helpers for Fabric.js.
+2026-10-31T20:24:59.629Z,@meddleware/vitepress-theme,0.0.0-rename.0,primitivelineworks,0BSD,339,Placeholder: the real releases are published from CI (see https://github.com/meddleware-org/vitepress-theme).
+2026-10-31T20:25:01.513Z,@fabricjs/cropping-controls,7.5.0-beta.1,asturur,MIT,67162,Image cropping controls for Fabric.js.
+2026-10-31T20:25:03.336Z,@fabricjs/aligning-guidelines,7.5.0-beta.1,asturur,MIT,56675,Aligning guideline helpers for Fabric.js.
+2026-10-31T20:25:05.282Z,@fabricjs/data-updaters,7.5.0-beta.1,asturur,MIT,12977,Serialized data migration helpers for Fabric.js.
+2026-10-31T20:25:07.131Z,@fabricjs/westures-integration,7.5.0-beta.1,asturur,MIT,9965,Westures gesture integration for Fabric.js.
+2026-10-31T20:25:20.105Z,dsh-whale-shall-adapt,0.3.0,liyu_fab,MIT,1775282,DeepSeek Harness 插件：画像 / 人格 / 技能 / 权限 / 控制台 + QQ 通道 / 常驻对接会话 / 交班，统一记忆层。
+2026-10-31T20:28:18.746Z,@kissblank/dsh-sessions,0.5.2,kissblank,SEE LICENSE IN LICENSE,197294,"Purge DSH Sessions for good, and manage them from one console: bulk delete, archive filters, search and sort."
+2026-10-31T20:28:27.27Z,@cavi-ai/ableton-mcp,0.4.0,sasan1200,MIT,3738868,"Local-first Ableton Live MCP server, CLI, and Remote Script bridge"
+2026-10-31T20:30:07.81Z,@divvun/hfst,0.1.0,bbqsrc,LGPL-3.0-or-later,654080,"Divvun HFST for JavaScript: reads optimized-lookup transducers, pmatch containers and DHFST spellers and runs lookup, tokenisation and DHFST acceptor lookup, as WebAssembly for browsers, Web Workers,…"
+2026-10-31T20:30:19.731Z,@smechlabs-nodeos-pkg/bash,5.3.20,smech-loves-nodejs,GPL-3.0-or-later,1367504,"GNU bash 5.3 (patch level 20) built for NodeOS (musl, x86_64)"
+2026-10-31T20:30:23.776Z,@smechlabs-nodeos-pkg/coreutils,9.12.0,smech-loves-nodejs,GPL-3.0-or-later,1494053,"GNU coreutils 9.12 as one multicall binary, built for NodeOS (musl, x86_64)"
+2026-10-31T20:30:24.802Z,@kredistream/cache-writer,0.1.0,peopleofproduct,Apache-2.0,54800,"High-performance binary/JSON local state-matrix writers for Kredistream: FriState accumulation, compact fri-latest.json snapshots, atomic swap writes."
+2026-10-31T20:30:27.314Z,@kredistream/cli,0.1.1,peopleofproduct,Apache-2.0,64388,Kredistream operational CLI — ingest/verify/inspect/keygen for FRI delta feeds.
+2026-10-31T20:30:29.909Z,@kredistream/core,0.1.0,peopleofproduct,Apache-2.0,94873,Stream processing loops and chunking state machines for Kredistream FRI feed ingestion. Zero runtime dependencies.
+2026-10-31T20:30:32.233Z,@kredistream/transform,0.1.0,peopleofproduct,Apache-2.0,19435,"Cryptographic HMAC mapping, hash-bucketing, and identifier translators for Kredistream. Zero runtime dependencies."
+2026-10-31T20:30:48.551Z,@gitmyabi/skelly,1.0.0,gitmyabi-bot,MIT,261571,"Auto-generated TypeScript type bindings for SKELLY (build etherscan-skelly-070969a4-1793478623527, commit 0d8311e, branch etherscan)"
+2026-10-31T20:31:33.801Z,@odingard/guardian-sdk,0.1.0,andrebyrd87,Apache-2.0,368169,Guardian agent SDK — request governed capabilities and execute consequential actions under human authority.
+2026-10-31T20:32:10.797Z,@mostajs/connecteurs-boutique,0.1.0,apolocine,AGPL-3.0-or-later,16626,"Recevoir les commandes d'une boutique en ligne (WooCommerce, Shopify, YouCan, format sur mesure) : vérifier la signature du webhook, ramener la commande à une forme unique. Zéro dépendance, sans état…"
+2026-10-31T20:34:02.142Z,comfy-resolve,0.1.0,fengryan793,MIT,373433,"Resolve a ComfyUI workflow's required models and custom nodes to download sources, then fetch and verify them. TypeScript library + CLI, zero runtime dependencies."
+2026-10-31T20:34:18.072Z,@nodo-icons/react,0.1.0,gdtkit,MIT,2582639,"5,000 free Linear icons from Nodo Icons as React components. Tree-shakable and typed."
+2026-10-31T20:34:21.492Z,@nodo-icons/vue,0.1.0,gdtkit,MIT,2582319,"5,000 free Linear icons from Nodo Icons as Vue 3 components. Tree-shakable and typed."
+2026-10-31T20:34:27.392Z,@nodo-icons/static,0.1.0,gdtkit,MIT,16823700,"5,000 free Linear icons from Nodo Icons: SVG, outlined SVG, SVG sprite, icon font and metadata."
+2026-10-31T20:34:29.994Z,@nodo-icons/mcp,0.1.0,gdtkit,MIT,2032249,"MCP server and CLI for Nodo Icons: let AI agents search 5,000 icons and insert SVG, React or Vue code."
+2026-10-31T20:35:05.258Z,@shipattest/cli,0.1.0,shipattest-dev,Apache-2.0,354653,"Free CLI: SBOM generation, vulnerability scanning and EU Cyber Resilience Act exploited-vulnerability alerts"
+2026-10-31T20:35:13.85Z,@osva-ai/connector-npm,0.1.0,piyushwadhwa,Apache-2.0,65234,OSVA Connector Profile V1 npm registry MCP connector (read-only package metadata and download statistics)
+2026-10-31T20:38:11.247Z,@divvun/fst,0.1.0,bbqsrc,MIT OR Apache-2.0,2155232,"divvunspell for JavaScript: loads BHFST and ZHFST spellers and checks and corrects words with them, and looks words up in optimized-lookup, THFST and DHFST transducers, as WebAssembly for browsers, W…"
+2026-10-31T20:38:53.709Z,@bloxwap/hyperevm,0.1.0,joeblau,MIT,802635,"Performance-optimized, load-balanced RPC transport for HyperEVM. A drop-in upgrade over viem's fallback transport."
+2026-10-31T20:39:02.831Z,veriq-client,0.1.0,veriq,MIT,611625,"Verified Ethereum reads, with a receipt for every answer."
+2026-10-31T20:39:07.08Z,@odingard/guardian-mcp,0.1.1,andrebyrd87,Apache-2.0,613181,MCP server that routes an agent's tool calls through Guardian for a deterministic ALLOW/ASK/DENY decision before anything executes.
+2026-10-31T20:40:00.157Z,@tollxyz/x402-seller,0.1.0,tollxyz_,MIT,20542,"Sell over x402 on Robinhood Chain in one line: a paywall for any Web-standard handler (Next.js, Hono, Bun, Workers) that takes USDG through Toll's keyless facilitator (x402.t0ll.xyz), with ERC-8478 p…"
+2026-10-31T20:40:40.624Z,@manoonlabs/doc2json,0.1.0,thakeenathees,MIT,233783,Official JavaScript/TypeScript SDK for doc2json: turn PDFs and images into structured JSON.
+2026-10-31T20:43:13.755Z,@kcgdz/sloplint,0.2.0,kcgdz,MIT,130112,"Catch the phrases that make writing read like unedited AI output. Offline, deterministic, with a shareable slop score."
+2026-10-31T20:47:15.705Z,@techotaku39/dsh-usage-plugin,0.1.0,techotaku39,MIT,50448,Monthly DSH token usage and OpenCode Go allowance panel for the DSH web UI.
+2026-10-31T20:51:38.118Z,@vetkit/mcp,0.1.0,namiduru,MIT,1398433,"MCP server for vetkit: connect GitHub, Bitbucket and GitLab repos, run security and code quality audits and read findings and reports from any stdio-capable MCP client, including Cursor, VS Code, Cod…"
+2026-10-31T20:53:29.981Z,photo-date-fix,0.1.0,dgaidula,MIT,156050,"Work out when archive photos were really taken (unset camera clocks, cameras hours off at one event, burned-in datestamps, scans posing as captures) and write a date-evidence manifest. Never edits or…"
+2026-10-31T20:53:39.511Z,tg-manager-tui,0.5.0,elnights,WTFPL,233270,A local terminal app for browsing Telegram chats and managing your own messages.
+2026-10-31T20:54:04.595Z,make-landing-page,1.4.0,dgaidula,MIT,126858,"Config-driven scaffolder for Cloudflare-Pages-ready static landing pages: semantic HTML5 skeleton with correct SEO/OG/Twitter/JSON-LD head, favicon set via make-app-icons, generated OG image, securit…"
+2026-10-31T20:54:10.994Z,@pendral/connect,1.0.1,rojithaevry,SEE LICENSE IN LICENSE,104692,Connect a machine to EvryAI without SSH. Run the command EvryAI gives you.
+2026-10-31T20:54:12.795Z,hasbati-weight-converter,1.0.0,a91068633,ISC,6461,**Hasbati Weight Converter** is a lightweight and practical unit conversion utility designed to simplify conversions between commonly used units of mass and weight. It provides a foundation for accur…
+2026-10-31T20:54:23.482Z,koishi-plugin-r6s-query,0.1.0,eicnaid,MIT,41223,基于Arenyze API的《彩虹六号：围攻》数据查询插件
+2026-10-31T20:54:39.966Z,ryunostalgie,1.0.1,ryunostalgie,MIT,16134,High-Speed Game Downloader & CLI for RyuNostalgie Fortnite Chapter 5 Season 1
+2026-10-31T20:55:22.281Z,sea-lite,0.1.0,oskatat,Apache-2.0,638297,"MCP work queue for parallel coding agents: claim fencing, typed links, atomic batches, hash-chained history (composes with kronicle-lite)."
+2026-10-31T20:55:24.553Z,@helpers4/fetch,3.1.11-rc.0,baxyz,LGPL-3.0-or-later,60941,"A set of helpers in TS/JS, compatible with tree-shaking, for fetch."
+2026-10-31T20:56:12.65Z,@peter.prib/semanticengine,0.1.0,peter.prib,GPL-3.0-only,121991,"A compiler-driven semantic query engine: an ontology, a controlled-English compiler, a validated Semantic IR firewall, a rule-based optimizer and an executor — no dependencies; runs in Node.js or a b…"
+2026-10-31T20:56:29.336Z,@gitmyabi/plp-snusd-4jun2026,1.0.0,gitmyabi-bot,MIT,152806,"Auto-generated TypeScript type bindings for PLP-sNUSD-4JUN2026 (build etherscan-plp-snusd-4jun2026-4bba42da-1793480164500, commit 04c0e0a, branch etherscan)"
+2026-10-31T20:56:41.873Z,@dskripchenko/realtime,0.1.0,dskripchenko,MIT,67547,"Browser client for dskripchenko/laravel-realtime: tickets, reconnect with backoff, replay by sequence number, presence. Zero runtime dependencies."
+2026-10-31T20:57:19.535Z,opencode-finance-skill,2.0.0,bilalbayram,MIT,549619,"Finance skill for coding agents: SEC EDGAR filings, XBRL fundamentals, insider trades and prices from primary sources, with every number cited."
+2026-10-31T21:00:11.385Z,@nightlab-agent/date-check,0.1.0,nightlab-agent,MIT,24897,"Claude Code mod: checks the dates and times Claude Code writes into changelogs, logs, release notes and handoffs against the real clock before the write lands; a stamp in the future is refused with t…"
+2026-10-31T21:00:59.109Z,@webpresso/forms,0.0.1,ozberk-webpresso,Elastic-2.0,17535,Webpresso drop-in form components: a provider-neutral contact-form handler for edge workers.
+2026-10-31T21:01:37.233Z,@skaile/transform-proxy,0.1.0,mortegro,MIT,57420,"Same-protocol passthrough proxy that runs model requests and replies through a chain of text transforms (Anthropic Messages, OpenAI chat, OpenAI responses)"
+2026-10-31T21:02:11.863Z,@sovereignfs/cli,0.1.1,kasunben,AGPL-3.0-or-later,1182572,"The operator toolkit: sv. Deploys core, with or without apps, to one machine with Docker."
+2026-10-31T21:02:15.481Z,@sovereignfs/create,0.1.1,kasunben,AGPL-3.0-or-later,72970,"npm create @sovereignfs: makes an instance repository, pinned to the toolkit (sv) of the same version."
+2026-10-31T21:02:46.513Z,@ejfkdev/apix,0.0.2,ejfkdev,MIT,12551,AI-friendly HTTP request minimization tool
+2026-10-31T21:02:50.396Z,@ejfkdev/avdroot,0.1.1,ejfkdev,MIT,12997,Root an Android Studio emulator with Magisk
+2026-10-31T21:02:54.735Z,@ejfkdev/dae,0.1.15,ejfkdev,MIT,12846,Dart AOT snapshot analyzer and decompiler
+2026-10-31T21:03:01.002Z,@ejfkdev/dj,0.6.4,ejfkdev,MPL-2.0,12802,Dynamic JavaScript file extractor
+2026-10-31T21:03:04.759Z,@ejfkdev/dns,0.3.0,ejfkdev,MIT,12585,"Multi-server DNS query tool with DoT, DoH, DoQ and HTTPDNS"
+2026-10-31T21:03:08.833Z,@ejfkdev/jcdc,0.1.3,ejfkdev,MIT,12913,Java class file decompiler
+2026-10-31T21:03:13.699Z,@ejfkdev/jd,1.0.0,ejfkdev,MIT,12858,JavaScript deobfuscator for obfuscator.io and minified code
+2026-10-31T21:03:17.824Z,@ejfkdev/jscd,0.3.0,ejfkdev,MIT,12954,Reverse bytenode .jsc (V8 code cache) to JavaScript
+2026-10-31T21:03:23.107Z,@ejfkdev/oss,0.2.5,ejfkdev,UNLICENSED,12653,S3-compatible cross-cloud object storage CLI
+2026-10-31T21:03:27.03Z,@ejfkdev/ov,0.1.3,ejfkdev,MIT,12763,Download URL version prober
+2026-10-31T21:03:30.599Z,@ejfkdev/pycdc,0.8.0,ejfkdev,MIT,16329,Python bytecode decompiler and disassembler
+2026-10-31T21:03:34.645Z,@ejfkdev/saw,0.2.0,ejfkdev,MPL-2.0,20143,Persistent terminal sessions you can reconnect to from any device
+2026-10-31T21:03:35.733Z,@webdevicecable/sdk,0.1.0,thomasmikava,MIT,175998,"WebDeviceCable browser SDK for direct, encrypted connections to local desktop clients"
+2026-10-31T21:03:38.305Z,@ejfkdev/tspc,0.5.7,ejfkdev,MIT,12984,TypeSpec compiler CLI
+2026-10-31T21:03:42.307Z,@ejfkdev/udf,0.7.8,ejfkdev,MIT,12964,"Extract files from disk images, container archives, and filesystems"
+2026-10-31T21:03:45.996Z,@ejfkdev/vcc,0.1.0,ejfkdev,MIT,12546,Unified configuration manager for AI coding tools
+2026-10-31T21:03:50.049Z,@ejfkdev/zaip,1.1.0,ejfkdev,UNLICENSED,16542,WebSocket tunnel proxy with client and server
+2026-10-31T21:03:53.345Z,@webdevicecable/relay,0.1.0,thomasmikava,MIT,190443,WebDeviceCable relay client for Node backends and dynamic project provisioning
+2026-10-31T21:04:07.856Z,amidumb,0.0.0-stage,jjinendra3,,329,Temporary package placeholder for staged publishing
+2026-10-31T21:04:27.317Z,@magicdoor/magic-localization,0.1.0,nnemes,Apache-2.0,23899,"Type-checked translations from string enums, for any framework."
+2026-10-31T21:05:23.691Z,awara,0.0.0,suhailphotos,MIT,6088,Portable creative workflow recipe schema and validator
+2026-10-31T21:05:26.431Z,@bramwick/sdk,0.1.0,erendernekoglu,MIT,523270,TypeScript SDK for the Bramwick API: typed REST client (generated from OpenAPI) and realtime client.
+2026-10-31T21:06:09.256Z,atrix-agent,0.1.0,jamesmu03,MIT,230697,Local file-format conversion agent for Atrix. Raw data never leaves the computer.
+2026-10-31T21:06:27.376Z,@broberg/legal,0.1.0,cbroberg,MIT,233784,"One set of legal documents for every broberg.ai product — terms, privacy, trust, DPA, support agreement — as structured, versioned, content-hashed data in Danish (master) and English. Sites style and…"
+2026-10-31T21:06:47.712Z,@twistedandy/bigger-picture,1.2.1,twistedandy,MIT,504980,"A compact and fast lightbox library supporting images, videos, YouTube and Vimeo embeds, iframes, and other content."
+2026-10-31T21:07:05.719Z,@weasel-js/plot,1.15.0,msb235,MIT,182478,"Charts on weasel's scene graph: scales, axes, and marks that keep their data, and chart specs compiled to them, edited by dragging the marks."
+2026-10-31T21:08:06.199Z,@partoska/cisivi-darwin,1.0.0,p6a-ops,MIT,964,macOS (universal) native binary for @partoska/cisivi.
+2026-10-31T21:08:08.631Z,@partoska/cisivi-linux-x64,1.0.0,p6a-ops,MIT,914,Linux x64 native binary for @partoska/cisivi.
+2026-10-31T21:08:10.9Z,@partoska/cisivi-linux-arm64,1.0.0,p6a-ops,MIT,924,Linux arm64 native binary for @partoska/cisivi.
+2026-10-31T21:08:13.096Z,@partoska/cisivi-win32-x64,1.0.0,p6a-ops,MIT,918,Windows x64 native binary for @partoska/cisivi.
+2026-10-31T21:08:15.429Z,@partoska/cisivi-win32-arm64,1.0.0,p6a-ops,MIT,928,Windows arm64 native binary for @partoska/cisivi.
+2026-10-31T21:08:56.042Z,@partoska/cisivi,1.0.0,p6a-ops,MIT,10519,Query and edit CSV files from the command line.
+2026-10-31T21:11:43.706Z,@musebook/agent-kit-core,0.11.0-beta.0,x402solana,Apache-2.0,2281978,Musebook Agent Kit core primitives
+2026-10-31T21:11:45.611Z,@musebook/create-agent,0.6.0-beta.0,x402solana,Apache-2.0,296321,Instantly create onchain-agent applications with Musebook Agent Kit.
+2026-10-31T21:11:47.679Z,@musebook/agent-kit-langchain,0.4.0-beta.0,x402solana,Apache-2.0,6682,Langchain Toolkit extension of CDP Agentkit
+2026-10-31T21:11:49.292Z,@musebook/agent-kit-model-context-protocol,0.3.0-beta.0,x402solana,Apache-2.0,5177,Model Context Protocol Extension of Musebook Agent Kit
+2026-10-31T21:11:50.915Z,@musebook/agent-kit-vercel-ai-sdk,0.2.0-beta.0,x402solana,Apache-2.0,6381,Vercel AI SDK extension of CDP Agentkit
+2026-10-31T21:13:59.987Z,@mysamyr/core,0.1.0-beta.1,mysamyr,MIT,212383,Framework-agnostic authentication core for Keychain
+2026-10-31T21:16:05.967Z,@deltabreen/help-nativescript,0.1.0,darrendeltabreen,MIT,31842,"Help by DeltaBreen for NativeScript: a helpdesk in your app. The support form and a user's own tickets on a screen of your app, with logged-in users, a key per phone, and the form's events handed bac…"
+2026-10-31T21:17:41.756Z,opencode-plugin-subagents-sidebar,0.0.0-stage,andy-takker,,355,Temporary package placeholder for staged publishing
