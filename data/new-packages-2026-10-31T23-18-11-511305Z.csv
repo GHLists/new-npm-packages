@@ -1,0 +1,103 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-31T22:17:36.744Z,@fieldglass/wasm,0.6.0,doubledouble,MIT OR Apache-2.0,4484999,"Read GRIB1, GRIB2, NetCDF and Zarr in the browser. Zarr needs the @fieldglass/wasm/full import. Pure Rust decoders compiled to WebAssembly, meant to run in a Web Worker."
+2026-10-31T22:20:06.607Z,@cut-workbench/core,0.1.0,stargrptech,MIT,1030197,Cut Workbench 核心逻辑层：时间轴模型、工程序列化、媒体解析与 WebAV 引擎封装。无 React 依赖。
+2026-10-31T22:20:14.081Z,@cut-workbench/react,0.1.0,stargrptech,MIT,18499,Cut Workbench 的 React 绑定层：Provider 与细粒度 hooks。不含 UI。
+2026-10-31T22:20:38.989Z,@nigako/notify-client,0.1.0,nigako-dev,UNLICENSED,13498,"Nigako Notify — backend-only tenant client (send/get templated messages, HMAC-signed). WhatsApp-first → SMS delivery gateway."
+2026-10-31T22:21:07.425Z,@cut-workbench/workbench,0.1.0,stargrptech,MIT,4596810,Cut Workbench 的 UI 组件库：素材库、预览、时间轴、属性面板与导出对话框。
+2026-10-31T22:21:14.372Z,@cut-workbench/host-electron,0.1.0,stargrptech,MIT,46223,Cut Workbench 的 Electron 宿主桥：把「下载」换成「保存到指定路径」，并提供主进程 IPC 注册。
+2026-10-31T22:23:03.575Z,imglume,1.0.3,goodpackages,MIT,198003,"Every image operation. One simple API. Resize, crop, rotate, flip, compress, convert, optimize, batch and generate responsive images in Node.js and the browser."
+2026-10-31T22:23:09.128Z,@lumeland/plugin-basic-auth,1.0.0,oscarotero,MIT,3876,Middleware to implement HTTP Basic Authentication.
+2026-10-31T22:23:34.306Z,@gitmyabi/xchng,1.0.0,gitmyabi-bot,MIT,51091,"Auto-generated TypeScript type bindings for XCHNG (build etherscan-xchng-b712d62f-1793485390478, commit 01a6baa, branch etherscan)"
+2026-10-31T22:24:19.612Z,@smart-llm/core,0.1.0,martin-winkler,Apache-2.0,388338,"One OpenAI-form request for many LLM providers: named models, capabilities, JSON schema handling and smart-limit limits"
+2026-10-31T22:25:11.759Z,@lievclouds/cortex-publish-probe,0.0.1,lievclouds,,133,temporary unpublish/republish policy probe
+2026-10-31T22:25:55.865Z,@smart-llm/openai-compatible,0.1.0,martin-winkler,Apache-2.0,93858,smart-llm provider adapter for any OpenAI-compatible chat completion API
+2026-10-31T22:25:57.159Z,verified-facts,0.3.0,sloppy_joe_(-),MIT,82210,"Check, verify and publish Verified Facts: official figures by key, each with its source, verification date, hash and Ed25519 signature."
+2026-10-31T22:26:54.239Z,purpleprint-project-view,0.1.1,purpleprint,UNLICENSED,4906635,PurplePrint 프로젝트 문서로 진행·지도 화면을 이 컴퓨터 안에서 보여 줘요. 문서를 밖으로 보내지 않아요.
+2026-10-31T22:27:05.706Z,@tandemise/design,0.10.0,demogar,Apache-2.0,372157,"The Tandemise design system: brand palette, light/dark semantic roles, type, spacing, radius, motion, focus, stacking and density tokens as CSS, TypeScript and a Tailwind theme; the logo and icon set…"
+2026-10-31T22:27:44.155Z,@smart-llm/gemini,0.1.0,martin-winkler,Apache-2.0,45741,smart-llm provider adapter for Gemini (Developer API and Vertex AI) through smart-genai
+2026-10-31T22:27:45.791Z,@smart-llm/deepseek,0.1.0,martin-winkler,Apache-2.0,26503,smart-llm provider adapter for the DeepSeek API
+2026-10-31T22:27:47.643Z,@smart-llm/groq,0.1.0,martin-winkler,Apache-2.0,26082,smart-llm provider adapter for Groq
+2026-10-31T22:27:49.703Z,@smart-llm/ollama,0.1.0,martin-winkler,Apache-2.0,37205,smart-llm provider adapter for a local Ollama server
+2026-10-31T22:27:50.427Z,@knowttl/proxmox-axi,0.1.0,knowttl,,10389456,AXI client for Proxmox VE
+2026-10-31T22:27:54.662Z,@leptoquark1/openage-pfadfinder,1.0.0,leptoquark1,GPL-3.0-or-later,283358,openage Pfadfinder - A TypeScript port of the Pathfinding Subsystem
+2026-10-31T22:29:35.49Z,@estebanforge/pi-agents-shared,0.1.1,estebanforge,MIT,10897,"Child-process lifecycle shared by @estebanforge agent packages: detached spawn with process-group kill, abort and hard-timeout enforcement, close-settled output (line and raw modes), stdin transport,…"
+2026-10-31T22:30:05.676Z,socialpublishkit,0.1.1,caporalcoder,MIT,7469,Node.js SDK for the local SocialPublishKit publishing gateway
+2026-10-31T22:30:13.945Z,qpq-linux-x64,0.3.0,amoshydra,MIT,3450456,qpq native binary for linux/android x64
+2026-10-31T22:30:16.403Z,qpq-linux-arm64,0.3.0,amoshydra,MIT,3475038,qpq native binary for linux/android arm64
+2026-10-31T22:30:18.788Z,qpq-linux-armv7,0.3.0,amoshydra,MIT,3278426,qpq native binary for linux/android arm
+2026-10-31T22:30:21.147Z,qpq-darwin-x64,0.3.0,amoshydra,MIT,3478796,qpq native binary for darwin x64
+2026-10-31T22:30:23.5Z,qpq-darwin-arm64,0.3.0,amoshydra,MIT,3423796,qpq native binary for darwin arm64
+2026-10-31T22:32:24.743Z,@lumeland/plugin-expires,1.0.0,oscarotero,MIT,3895,Middleware to add the Expires header to HTTP responses.
+2026-10-31T22:32:27.175Z,eslint-plugin-jsdoc-flow,0.1.0,randallmorey,MIT,109431,"ESLint rules that flow JSDoc text: consistent sentence spacing, line breaks that never strand a word, and aligned tag descriptions. Autofixable."
+2026-10-31T22:33:06.512Z,@agentpay-global/sdk,0.3.0,kato_amato,MIT,15997,Official AgentPay SDK. Issue capped virtual cards and let your agent complete real checkouts. 3DS handled.
+2026-10-31T22:34:10.296Z,lousho,1.0.0-alpha.31,aligmohammad,MIT,17782133,"TypeScript AI agent SDK with tools, MCP, durable sessions, human approvals, and OpenTelemetry. Runs in your own Node process."
+2026-10-31T22:34:15.136Z,create-lousho,0.1.2-alpha.10,aligmohammad,MIT,7845,npm create lousho: scaffold a new lousho project (runs `lousho init`)
+2026-10-31T22:34:22.711Z,@get-agentpay/sdk,0.3.0,kato_amato,MIT,1270,"Mirror of @agentpay-global/sdk, the official AgentPay SDK. Installs and re-exports it."
+2026-10-31T22:34:24.419Z,get-agentpay,0.3.0,kato_amato,MIT,1276,"Mirror of @agentpay-global/sdk, the official AgentPay SDK, under the bare name. Installs and re-exports it."
+2026-10-31T22:34:32.059Z,@esseyonsui/sui-sdk,0.1.0,erikastramecki,Apache-2.0,434365,"TypeScript client for Essey on Sui: transaction builders, chain readers, the lending rule checks, sealed-room opening, owner transactions built unsigned, and the key-separation check. Testnet and loc…"
+2026-10-31T22:34:50.422Z,cortico-world-dol-sfw,0.1.7,funst,CC-BY-NC-SA-4.0,129990,让 Coo 陪你玩 Degrees of Lewdity 学英语：点词看释义与词根，点句翻译讲解，生词本按间隔复习。学习版锁定「严谨」评论，只做语言与剧情的中性说明；开发者模式与其他模式不可用。完整说明见项目主页。
+2026-10-31T22:34:50.507Z,@mygeartracker/mcp,0.1.0,stealthone,UNLICENSED,1652200,Official MyGearTracker Model Context Protocol (MCP) stdio server for personal API access
+2026-10-31T22:35:00.878Z,create-curb.js,0.0.0,alxnet,Apache-2.0,233,Placeholder until the first Curb release.
+2026-10-31T22:35:11.998Z,@esseyonsui/sui-mcp,0.1.0,erikastramecki,Apache-2.0,72336,A Model Context Protocol server over `@esseyonsui/sui-sdk` for an agent that runs on its owner's own machine. Stdio transport. Testnet and localnet only. `npm install -g @esseyonsui/sui-mcp` puts `es…
+2026-10-31T22:35:26.181Z,pptb-optionset-manager,1.0.0,mattberg11,GPL-3.0,1521347,"Create and edit Dataverse global choices and edit the options of local choice columns, with multi-language labels, a review step before saving, and CSV/JSON import and export."
+2026-10-31T22:35:27.555Z,@agentpay-global/mcp,0.3.0,kato_amato,MIT,9565,"AgentPay MCP server. Gives your agent issue_card, complete_purchase, get_checkout_status, get_spend_status, get_wallet and create_topup_link."
+2026-10-31T22:35:29.112Z,@get-agentpay/mcp,0.3.0,kato_amato,MIT,1213,"Mirror of @agentpay-global/mcp, the AgentPay MCP server. Installs and runs it."
+2026-10-31T22:35:56.473Z,durabase,0.0.1,danielmartinsdev,ISC,181,Reserved.
+2026-10-31T22:36:27.267Z,pi-bulk-read,0.1.1,furblood344324,MIT,25811,"Read many files or one long file in a single budgeted call for pi: ranges, globs, real line numbers, and an outline for whatever does not fit."
+2026-10-31T22:36:34.457Z,@purrtrait/jsdoc-renderer,0.0.1,noodlestan,MIT,18089,Purrtrait JSDoc rendering core.
+2026-10-31T22:37:23.851Z,ogmira,0.0.0,skillforge-core,Apache-2.0,521,Reserved name. Mood and visual-communication reading for references and moodboards (in development).
+2026-10-31T22:37:39.759Z,nestjs-launch-darkly,0.1.0,jerembardon,MIT,179994,NestJS module for the LaunchDarkly server-side SDK
+2026-10-31T22:37:51.771Z,agy-statusblocks,0.1.2,okanenas,MIT,62737,"Opinionated, adaptive block-based status line for Antigravity CLI (agy) with bin-packing layout, rate limit tracking, and live agent telemetry"
+2026-10-31T22:38:00.794Z,inngame,0.1.0,meffysto,MIT,15400,"Inngame CLI: answer players, triage bugs and wire your game's support from the terminal (and from any coding agent)."
+2026-10-31T22:40:00.186Z,@evgenest/vitepress-theme-contour,1.0.0,evgenest,MIT,31423,"A VitePress 2 theme with a calmer layout, framed code blocks, a global line-wrap toggle and an auto/light/dark switch."
+2026-10-31T22:41:15.818Z,@divvun/cg3,0.4.0,bbqsrc,GPL-3.0-or-later,1911326,"VISL CG-3 (Constraint Grammar) for JavaScript: runs compiled .cg3b grammars and gives the output vislcg3 gives, as WebAssembly for browsers, Web Workers, Deno, Node and Bun."
+2026-10-31T22:42:26.486Z,sendaro,0.1.0,sendaro.email,MIT,31676,"Official Node.js and TypeScript SDK for Sendaro, the transactional email API"
+2026-10-31T22:43:01.993Z,icones-mcp,0.1.0,sohampatwardhan,MIT,268746,"MCP server for Icônes: search, browse, and see Iconify icons"
+2026-10-31T22:43:11.936Z,llmgift,0.1.0,endorphin.jwc,MIT,26274,"Gift someone a spending-capped, expiring LLM API key (OpenRouter, Vercel AI Gateway) with ready-to-paste setup for their coding tools."
+2026-10-31T22:43:59.468Z,loose-quadtree,1.0.0,mrdingoro,MIT,68874,"Loose quadtree spatial index for 2D shapes: intersections, above/below and radius queries with fast inserts, moves and removals"
+2026-10-31T22:44:36.996Z,dsh-plugin-lucentthinker,0.1.1,alanlemonade,GPL-3.0-or-later,133471617,LucentThinker 深度研究工作台：多轮搜索、独立网页提取与可追溯报告。
+2026-10-31T22:46:12.818Z,@riglyph/core,0.15.1,drhspfn,MIT,137059,"Riglyph IR schema, validators, error contracts and shared types"
+2026-10-31T22:47:12.493Z,@andmarruda/intelligent-grid-react,0.1.0,andmarruda,MIT,17544,"React component for Intelligent Grid, the Excel-like data grid powered by SorlaDB."
+2026-10-31T22:47:16.643Z,rebornstudio-cuadriver,1.0.0,reborn.ai,MIT,24774,"AI 에이전트가 내 컴퓨터의 실제 앱을 클릭·타이핑·화면 읽기로 다루게 해 주는 Cua Driver 를 공식 방법 그대로 설치·연결하도록 한국어 안내 스킬을 넣어 줍니다. Cua Driver 본체는 Cua AI, Inc.(trycua)의 것이며 싣거나 대신 설치하지 않습니다."
+2026-10-31T22:47:17.499Z,emdash-plugin-site-notice,0.1.0,wdki,MIT,37286,"Scheduled, Markdown site-wide announcement banner for EmDash, editable from the admin and through MCP."
+2026-10-31T22:47:28.537Z,@andmarruda/intelligent-grid-vue,0.1.0,andmarruda,MIT,21152,"Vue 3 component for Intelligent Grid, the Excel-like data grid powered by SorlaDB."
+2026-10-31T22:47:38.822Z,@andmarruda/intelligent-grid-angular,0.1.0,andmarruda,MIT,14707,"Angular standalone component for Intelligent Grid, the Excel-like data grid powered by SorlaDB."
+2026-10-31T22:47:55.972Z,@andmarruda/intelligent-grid-svelte,0.1.0,andmarruda,MIT,10571,"Svelte 5 component for Intelligent Grid, the Excel-like data grid powered by SorlaDB."
+2026-10-31T22:48:42.149Z,kanbot,0.1.0,mikaelb,MIT,281269,Run an autonomous dev team (Claude Code or Codex) from a GitHub Project board
+2026-10-31T22:49:22.539Z,@plumsydev/plum-ui,0.1.0,plumsydev,MIT,17053,Add Plum UI components to your project.
+2026-10-31T22:49:42.854Z,@riglyph/importer-sdk,0.15.1,drhspfn,MIT,43190,Versioned importer registry and authoring SDK for Riglyph skeleton assets
+2026-10-31T22:49:45.752Z,@riglyph/runtime,0.15.1,drhspfn,MIT,126341,"Version-neutral skeletal animation runtime, tracks and animation mixing"
+2026-10-31T22:49:48.636Z,@riglyph/renderer-webgl2,0.15.1,drhspfn,MIT,61137,WebGL2 renderer for Riglyph draw packets and skeletal scenes
+2026-10-31T22:49:51.385Z,@riglyph/renderer-cpu,0.15.1,drhspfn,MIT,23497,CPU software renderer and snapshot tools for Riglyph scenes
+2026-10-31T22:49:54.325Z,@riglyph/importer-spine-4.1,0.15.1,drhspfn,MIT,140685,Build-time import adapter for Spine Binary 4.1.23 into Riglyph IR
+2026-10-31T22:49:57.223Z,@riglyph/player-web,0.15.1,drhspfn,MIT,94567,Browser player for Riglyph IR scenes with camera and playback controls
+2026-10-31T22:50:01.636Z,@riglyph/cli,0.15.1,drhspfn,MIT,53738,"Riglyph command-line importer, converter, inspector and snapshot utility"
+2026-10-31T22:51:13.601Z,cracken-mcp,0.1.0,mcsq.tech,MIT,45414,Stdio MCP server for the crAcken public API v1.
+2026-10-31T22:51:14.724Z,create-durabase,0.0.1,danielmartinsdev,ISC,188,Reserved.
+2026-10-31T22:51:22.173Z,@amcclosky/effect-hubspot,0.1.0,mcclosky,Apache-2.0,1601255,"An Effect v4 SDK for the HubSpot API, generated from HubSpot's public OpenAPI specs."
+2026-10-31T22:52:02.524Z,phynite-lab-runtime-darwin-arm64,0.1.0,phynite-lab,AGPL-3.0-only,85905384,Phynite Lab native application for darwin-arm64
+2026-10-31T22:52:09.332Z,pi-agent-desktop-adapter,0.1.0,mohebifar,MIT,70729,"Pi extension that lets agents observe and operate macOS, Windows and Linux desktop apps through agent-desktop's accessibility-tree CLI."
+2026-10-31T22:52:10.988Z,@ts-atlas/core,0.5.4,andreydaraya,MIT,439432,Atlas: a runnable reference architecture where the system is its own map.
+2026-10-31T22:54:23.448Z,n8n-nodes-clerra,0.1.0,mwakem,MIT,130888,"Clerra for n8n — start workflows when a proposal is accepted, a letter is signed, a client sends their documents, a filing is filed or an invoice is paid; add clients, jobs, notes, to-dos and leads."
+2026-10-31T22:54:30.252Z,@lumeland/plugin-router,1.0.0,oscarotero,MIT,5029,Middleware to provide a simple server-side router.
+2026-10-31T22:56:09.044Z,@estebanforge/pi-egm,0.1.1,estebanforge,Apache-2.0,188300,Elephant-Goldfish Model (egm.dev) for Pi: Google's spec-driven development workflow. Design with an elephant — your deep-context Pi session drafts the spec — review with goldfish: fresh zero-context…
+2026-10-31T22:59:11.461Z,phynite-lab,0.1.0,phynite-lab,AGPL-3.0-only,166614,Phynite Lab local computational materials-science workspace
+2026-10-31T22:59:46.355Z,@lumeland/plugin-serve-folder,1.0.0,oscarotero,MIT,3165,Middleware to add additional folders to the server.
+2026-10-31T23:00:00.63Z,create-bunvex,0.0.1,danielmartinsdev,ISC,186,Reserved.
+2026-10-31T23:00:28.407Z,rtsp-reaper,1.0.0,mohrix_dz,,5065,Advanced RTSP Scanner and Bruteforcer CLI
+2026-10-31T23:00:59.331Z,paseo-aydo,0.2.0,wallacewei,MIT,1461628,"Personal bots for Paseo and Irix: instructions, a model, memory, routines, teams, skills and local MCP tools. Offline edition: makes no network connections of its own."
+2026-10-31T23:02:34.082Z,dsh-avatar-font,2.0.0,lerwa,MIT,101449,头像和字体：给会话双方各配一张头像，消息左右分列（像好友聊天），可导入图片、调大小与圆角、跟随滚动；同时可换界面字体与代码字体、调正文与标题字号、行距、加粗、字色。两个功能各自独立启停。
+2026-10-31T23:03:47.083Z,@nuwujix/unimcp,0.1.0,nuwujix,MIT,4458205,Model Context Protocol server NO OFICIAL para universidades argentinas: aula virtual (Moodle) y SIU Guaraní.
+2026-10-31T23:04:16.935Z,magic-spells,0.1.0,magic-spells,MIT,143066,Magic CLI — one command line and MCP server for Magic Spells' hosted services.
+2026-10-31T23:04:19.114Z,homebridge-lutron-homeworks-ethernet,0.2.0,pedroserano24,Apache-2.0,69705,Homebridge plugin for the Lutron Homeworks system over RS232 or ethernet (TCP/Telnet)
+2026-10-31T23:05:17.063Z,@edukors/ai-ui,0.1.4,mgarlabx,MIT,44608,"Shared, host-independent AI interface for EDUKORS desktop editors"
+2026-10-31T23:05:48.605Z,a11y-lint,0.1.0,alinuredini,MIT,180994,"Framework-agnostic WCAG 2.2 linter: static template rules, design-token contrast, runtime axe scans and a conformance report."
+2026-10-31T23:06:26.019Z,@mohrix_dz/reaper,1.2.0,mohrix_dz,,6515,Advanced Network Reconnaissance and Service Scanner CLI
+2026-10-31T23:06:54.493Z,@kreslavskiy/doomscroller,0.1.0,kreslavskiy,MIT,56860,"Watch Instagram Reels or YouTube Shorts while Claude Code works, and get pulled back the moment it needs you."
+2026-10-31T23:10:53.739Z,@wirecat/mail-cli,0.1.0,leemour,Apache-2.0,11687846,"Read-only IMAP sync of a mailbox into the shared WireCat store, with the app password kept in the OS keyring — built for agents and scripts"
+2026-10-31T23:11:43.991Z,migrations-safe,1.2.0,nahuelmosse,MIT,353058,"Linter, git history checks and SQLite, PostgreSQL, MySQL, MariaDB, SQL Server, Oracle and Db2 rehearsal for database migrations; also a Claude Code plugin."
+2026-10-31T23:11:51.836Z,create-pixijs-game,0.1.0,alemax962,MIT,11718,Scaffold a PixiJS 2D browser game from the PixiJS Game Base template (Cursor guidelines + Replicate assets)
+2026-10-31T23:13:03.873Z,magistr,1.0.0-beta.2,alrikolson,MIT,110071781,Project workflow and verified source tools for coding agents
+2026-10-31T23:13:08.297Z,@johnhenry/math-sample,0.0.1,johnhenry,MIT,105886,"Pure-ESM, DOM-free, Web-Worker-safe 1D function sampling for plotting: adaptive sampling with NaN gaps and discontinuity detection, a DPR-aware viewport model, nice ticks, and SVG path output. Typed…"
+2026-10-31T23:14:06.923Z,c43-bank-statement-parser,1.0.0,carlosasin,MIT,39744,A TypeScript library to parse C43 account export files
+2026-10-31T23:16:58.191Z,nextjs-seo-audit-mcp,0.1.0,josephdourden,MIT,264398,"Next.js SEO Audit: read-only MCP server (stdio) that audits a deployed site for SEO and indexing issues from an agent, built on vercel-seo-audit"
