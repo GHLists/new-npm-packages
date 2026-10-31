@@ -1,0 +1,172 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-10-31T02:15:06.245Z,@sfysh/ir,0.1.0,76trystan,,55801,"Starfysh IR schema, generated TypeScript types, and Ajv-based validators for workflow and step documents."
+2026-10-31T02:15:39.781Z,@sfysh/runtime,0.1.0,76trystan,,50793,"Starfysh runtime: workflow runner, vault, assertions, and emit helpers used by compiled Starfysh scripts."
+2026-10-31T02:16:03.394Z,@sfysh/compiler,0.1.0,76trystan,,41016,Starfysh compiler: deterministic templated codegen that turns a validated IR workflow into a Starfysh TypeScript script.
+2026-10-31T02:16:30.264Z,@sfysh/playwright-adapter,0.1.0,76trystan,,19658,Playwright compatibility adapter for Starfysh. Bridges Playwright Page and Locator types to the Starfysh runtime interfaces so existing Playwright scripts and infrastructure can run Starfysh workflow…
+2026-10-31T02:19:05.606Z,@reneturcios/indexsearch,0.1.0,reneturcios,MIT,37709,"Query Elasticsearch from the command line or as a stdio MCP server: list indices, inspect mappings, search with query DSL or ES|QL, and view shard information."
+2026-10-31T02:19:25.586Z,vp-plugin-vue,0.0.0,liangmi,UNLICENSED,268,Initial package; implementation is not yet available.
+2026-10-31T02:19:44.344Z,vp-plugin-react,0.0.0,liangmi,UNLICENSED,272,Initial package; implementation is not yet available.
+2026-10-31T02:19:45.472Z,vp-plugin-kit,0.0.0,liangmi,UNLICENSED,268,Initial package; implementation is not yet available.
+2026-10-31T02:20:09.671Z,turbovec-ts,0.3.3,kksss999,MIT,7765842,"Node.js API for turbovec, backed by a bundled Rust sidecar"
+2026-10-31T02:22:21.357Z,dsh-repo,0.0.0,modesto_ma,MIT,330124,DeepSeek Harness (DSH) 代码仓库插件：用 GitHub 官方 Octokit 和 GitBeaker 抹平 GitHub / GitLab（含 GitHub Enterprise 与自建 GitLab）差异，对外提供 dshRepos 服务，并为模型提供代码、issue、PR/MR 工具
+2026-10-31T02:22:26.992Z,sessiongraph-app-darwin-arm64,1.0.0,arvindell,MIT,134755486,Explore & visualize all your LLM sessions — darwin/arm64
+2026-10-31T02:23:30.659Z,@premiaops/cli,0.1.0,pablogutierrez,UNLICENSED,116208,Premia CLI — trigger and manage agent runs from the terminal.
+2026-10-31T02:23:32.232Z,cleo-cli,0.2.0,scottwittrock,MIT,66375,"Cleo in your terminal: every Cleo tool (the same set as the Cleo MCP server), built to be driven by agents as well as people."
+2026-10-31T02:24:48.794Z,@universal-office/converter,0.9.2,erichideyuki,MIT,156068,"Universal Office — the converter: DOCX, XLSX, PPTX and PDF to HTML, PDF or Markdown in Node.js and browsers, without Microsoft Office."
+2026-10-31T02:25:58.592Z,astracode-cli,0.3.2,s0nettap,MIT,858774,AstraCode CLI — coding agent using AgentRouter Responses API
+2026-10-31T02:26:30.533Z,@ovv/dsh-magpie-sync,0.4.0,outloudvi,MIT,39453,为 DSH 添加利用 Magpie 宣告的输入模态及 thinking level 信息的功能。
+2026-10-31T02:27:53.622Z,dsh-workspace-control,0.3.1,asifadeaway,MIT,194987,"Workspace management for DeepSeek Harness: move, rebuild, merge, rename and delete workspaces from a sidebar panel. · DSH 工作区管理：在侧栏面板里迁移、重建、合并、重命名、删除工作区。"
+2026-10-31T02:29:32.085Z,@gridui/overlay,1.0.0,wmxpy,UNLICENSED,5878,GridUI React overlay
+2026-10-31T02:29:52.59Z,maskflow,0.2.1,tiwz,MIT,660341,"Modern, accessible, mobile-first video player with futuristic glassmorphism controls"
+2026-10-31T02:30:47.825Z,dsh-ctrl-zoom,1.0.0,jinmuxi01,MIT,21646,Hold Ctrl and scroll the wheel to zoom the whole DeepSeek Harness Web UI.
+2026-10-31T02:32:00.82Z,@greese/icons,0.1.0,chris-moody,MIT,19022,"A small set of line icons as React components, sized to text and colored by currentColor. Optional: greese ui takes any icons."
+2026-10-31T02:32:24.541Z,@greese/js,0.1.0,chris-moody,MIT,92429,"greese.js: a tiny keyframe and timeline animation library for CSS, transforms, text and objects. Seekable, reversible, time-scaled and nestable."
+2026-10-31T02:32:26.963Z,@greese/svg,0.1.0,chris-moody,MIT,118621,"Type-safe SVG drawing and animation: build paths and shapes, convert between them, morph one into another, draw, fill, drain and run strokes as marquees, and build gradients, filters, clip paths and…"
+2026-10-31T02:32:27.33Z,@polytest/sdk,0.1.1,polytest,MIT,52974,TypeScript client for the PolyTest market data API
+2026-10-31T02:32:28.633Z,@jsprismarine/kernel,0.0.0,filiphsandstrom,,178,Placeholder package to setup trusted publishing
+2026-10-31T02:32:30.014Z,@greese/ui,1.0.0,chris-moody,MIT,2163135,"greese ui's CSS and design tokens: a framework-free stylesheet, per-component CSS, custom properties, Sass kit and TypeScript constants. Works in plain HTML, or under any framework."
+2026-10-31T02:32:31.379Z,dsh-tool-nanobot,0.4.3,bigeye2025,MIT,46557,NanoBot Subagent Bridge — lets DeepSeek Harness run the local nanobot AI agent (HKUDS/nanobot) as a subagent via a nanobot_run tool (oneshot CLI or persistent OpenAI-compatible server).
+2026-10-31T02:32:32.955Z,@greese/mcp,0.1.0,chris-moody,MIT,1224706,"An MCP server for greese ui: components and their props, classes and examples, tokens, icons, guides, shape themes and page templates, for coding assistants."
+2026-10-31T02:32:33.517Z,@greese/react,1.0.0,chris-moody,MIT,588283,"Mobile-first, TypeScript-first React components, styled by @greese/ui: zero-runtime, CSS-variable theming."
+2026-10-31T02:33:12.015Z,jcs-admit,0.1.0,sgilda,MIT OR Apache-2.0,222993,Raw-byte JSON admission and RFC 8785 canonicalization through the jcs-admit Rust core
+2026-10-31T02:33:12.061Z,@reneturcios/searchport,0.1.0,reneturcios,MIT,46876,"Search the web, local listings, news, images, and videos through the Brave Search API. One bin serves a small CLI and a stdio MCP server."
+2026-10-31T02:33:28.432Z,@little-nebulae/clack,0.2.0,ryanluong,MIT,6223,
+2026-10-31T02:34:22.31Z,sessiongraph-app-darwin-x64,1.0.0,arvindell,MIT,136830616,Explore & visualize all your LLM sessions — darwin/x64
+2026-10-31T02:35:02.345Z,@nonstopdev/rooklet,0.0.0-stage,nonstopdev,,341,Temporary package placeholder for staged publishing
+2026-10-31T02:35:22.061Z,@silent-hawk/mongo-backup-cloud,0.2.0,silenthawklda,MIT,543897,"Automated MongoDB backups to S3, Cloudflare R2, Backblaze B2, DigitalOcean Spaces, Google Cloud Storage, Azure Blob Storage, Google Drive, Dropbox and local storage, with encryption, retention and sc…"
+2026-10-31T02:35:27.113Z,dsh-click-matrix,0.8.4,jawavia,MIT,917037,Safe cross-point lattice screen inspection and smooth mouse control for DSH · 屏幕点阵截屏定位与安全鼠标操控（全局急停热键、text-first 读屏、batch 续跑/人类活动后继续、人类空闲自动等待、dryRun、窗口相对坐标、常开授权、全程审计）
+2026-10-31T02:36:00.864Z,@lofcz/tikz,0.2.1,lofcz,GPL-3.0-or-later,40302721,"Self-contained, process-isolated TikZ to SVG rendering powered by mp-tikz-wasm."
+2026-10-31T02:36:58.448Z,@netcode-io/darwin-arm64,0.0.3,endel,MIT,1513986,"The darwin-arm64 addon of netcode-io, built from quic-zig 8a43f01"
+2026-10-31T02:37:01.026Z,@netcode-io/linux-arm64,0.0.3,endel,MIT,1518979,"The linux-arm64 addon of netcode-io, built from quic-zig 8a43f01"
+2026-10-31T02:37:03.667Z,@netcode-io/linux-x64,0.0.3,endel,MIT,1708267,"The linux-x64 addon of netcode-io, built from quic-zig 8a43f01"
+2026-10-31T02:37:06.618Z,@netcode-io/win32-x64,0.0.3,endel,MIT,2010118,"The win32-x64 addon of netcode-io, built from quic-zig 8a43f01"
+2026-10-31T02:37:30.393Z,sessiongraph-app-linux-arm64,1.0.0,arvindell,MIT,123027532,Explore & visualize all your LLM sessions — linux/arm64
+2026-10-31T02:38:15.196Z,agent-browser-runtime,0.1.1,huanghhgg,MIT,282076,"Agent browser runtime: optionally borrow the user's Chrome identity, drive an agent-owned browser (visible by default, silent opt-in), and write back only newly-acquired sessions"
+2026-10-31T02:39:58.836Z,@dreamtree-org/protopro,0.2.0,preethamkrishna,MIT,654091,"ProtoPro — an MCP prototyping harness: any AI model builds on-brand twreact-ui screens, checks them against the design rules and sees screenshots, in minutes."
+2026-10-31T02:40:44.432Z,@use05/cli-darwin-arm64,0.0.1,use05,Apache-2.0,4779515,The use05 binary for darwin on arm64. Install the use05 package instead.
+2026-10-31T02:40:46.751Z,@use05/cli-darwin-x64,0.0.1,use05,Apache-2.0,5160749,The use05 binary for darwin on x64. Install the use05 package instead.
+2026-10-31T02:40:48.568Z,sessiongraph-app-linux-x64,1.0.0,arvindell,MIT,125554742,Explore & visualize all your LLM sessions — linux/x64
+2026-10-31T02:40:48.637Z,@use05/cli-linux-arm64,0.0.1,use05,Apache-2.0,5236992,The use05 binary for linux on arm64. Install the use05 package instead.
+2026-10-31T02:40:51.04Z,@use05/cli-linux-x64,0.0.1,use05,Apache-2.0,5679370,The use05 binary for linux on x64. Install the use05 package instead.
+2026-10-31T02:42:08.365Z,dsh-legal-workbench,1.0.0,gaog,MIT,354063,"Right-sidebar workbench for DeepSeek Harness: read/write your Obsidian notes, SOP lookup, glossary, recordings with live transcription and annotations, global search, optional usage badges."
+2026-10-31T02:42:19.422Z,server-action-audit,0.1.0,i6moons,MIT,481206,"Find Next.js Server Actions that anyone can call: a CLI and an ESLint plugin that flag ""use server"" functions without an authorization check or input validation."
+2026-10-31T02:43:02.563Z,@gridui/alert-dialog,1.0.0,wmxpy,UNLICENSED,27893,GridUI React alert dialog
+2026-10-31T02:43:05.293Z,@gridui/input,1.0.0,wmxpy,UNLICENSED,23043,GridUI React input
+2026-10-31T02:43:07.712Z,@gridui/clipboard,1.0.0,wmxpy,UNLICENSED,24800,GridUI React clipboard
+2026-10-31T02:43:10.229Z,@gridui/dropdown-menu,1.0.0,wmxpy,UNLICENSED,37280,GridUI React dropdown menu
+2026-10-31T02:43:12.673Z,@gridui/form,1.0.0,wmxpy,UNLICENSED,33583,GridUI React form
+2026-10-31T02:43:15.621Z,@gridui/select,1.0.0,wmxpy,UNLICENSED,159349,GridUI React select
+2026-10-31T02:43:17.936Z,@gridui/tabs,1.0.0,wmxpy,UNLICENSED,27327,GridUI React tabs
+2026-10-31T02:43:20.488Z,@gridui/artifact-panel,1.0.0,wmxpy,UNLICENSED,19135,GridUI React artifact panel
+2026-10-31T02:43:22.846Z,@gridui/brand-link,1.0.0,wmxpy,UNLICENSED,8272,GridUI React brand link
+2026-10-31T02:43:25.121Z,@gridui/breadcrumb,1.0.0,wmxpy,UNLICENSED,13825,GridUI React breadcrumb
+2026-10-31T02:43:27.648Z,@gridui/choice,1.0.0,wmxpy,UNLICENSED,37702,GridUI React choice
+2026-10-31T02:43:30.011Z,@gridui/popover,1.0.0,wmxpy,UNLICENSED,32215,GridUI React popover
+2026-10-31T02:43:32.438Z,@gridui/source-list,1.0.0,wmxpy,UNLICENSED,9544,GridUI React source list
+2026-10-31T02:43:34.682Z,@gridui/citation-popover,1.0.0,wmxpy,UNLICENSED,9904,GridUI React citation popover
+2026-10-31T02:43:37.161Z,@gridui/code-view,1.0.0,wmxpy,UNLICENSED,5659,GridUI React code view
+2026-10-31T02:43:39.818Z,@gridui/collection,1.0.0,wmxpy,UNLICENSED,14984,GridUI React collection
+2026-10-31T02:43:42.284Z,@gridui/file-picker,1.0.0,wmxpy,UNLICENSED,32831,GridUI React file picker
+2026-10-31T02:43:45.34Z,@gridui/composer,1.0.0,wmxpy,UNLICENSED,33720,GridUI React composer
+2026-10-31T02:43:47.627Z,@gridui/data-cell,1.0.0,wmxpy,UNLICENSED,16650,GridUI React data cell
+2026-10-31T02:43:50.268Z,@gridui/table,1.0.0,wmxpy,UNLICENSED,36597,GridUI React table
+2026-10-31T02:43:52.618Z,@gridui/data-explorer,1.0.0,wmxpy,UNLICENSED,45220,GridUI React data explorer
+2026-10-31T02:43:55.04Z,@gridui/disclosure,1.0.0,wmxpy,UNLICENSED,12280,GridUI React disclosure
+2026-10-31T02:43:57.679Z,@gridui/drawer,1.0.0,wmxpy,UNLICENSED,33894,GridUI React drawer
+2026-10-31T02:44:00.252Z,@gridui/feature,1.0.0,wmxpy,UNLICENSED,44459,GridUI React feature
+2026-10-31T02:44:02.549Z,@gridui/follow-scroll,1.0.0,wmxpy,UNLICENSED,13891,GridUI React follow scroll
+2026-10-31T02:44:04.892Z,@gridui/hero,1.0.0,wmxpy,UNLICENSED,22041,GridUI React hero
+2026-10-31T02:44:07.153Z,@gridui/inline-editor,1.0.0,wmxpy,UNLICENSED,17478,GridUI React inline editor
+2026-10-31T02:44:09.444Z,@gridui/inline-notice,1.0.0,wmxpy,UNLICENSED,8113,GridUI React inline notice
+2026-10-31T02:44:11.684Z,@gridui/loading-surface,1.0.0,wmxpy,UNLICENSED,13918,GridUI React loading surface
+2026-10-31T02:44:14.202Z,@gridui/menu,1.0.0,wmxpy,UNLICENSED,57805,GridUI React menu
+2026-10-31T02:44:16.611Z,@gridui/metric,1.0.0,wmxpy,UNLICENSED,5985,GridUI React metric
+2026-10-31T02:44:18.918Z,@gridui/panel,1.0.0,wmxpy,UNLICENSED,15613,GridUI React panel
+2026-10-31T02:44:21.268Z,@gridui/metrics-section,1.0.0,wmxpy,UNLICENSED,12082,GridUI React metrics section
+2026-10-31T02:44:23.907Z,@gridui/modal,1.0.0,wmxpy,UNLICENSED,38353,GridUI React modal
+2026-10-31T02:44:26.476Z,@gridui/number-field,1.0.0,wmxpy,UNLICENSED,15599,GridUI React number field
+2026-10-31T02:44:29.109Z,@gridui/pagination,1.0.0,wmxpy,UNLICENSED,19383,GridUI React pagination
+2026-10-31T02:44:31.394Z,@gridui/tooltip,1.0.0,wmxpy,UNLICENSED,15133,GridUI React tooltip
+2026-10-31T02:44:33.817Z,@gridui/preferences,1.0.0,wmxpy,UNLICENSED,33879,GridUI React preferences
+2026-10-31T02:44:36.495Z,@gridui/progress,1.0.0,wmxpy,UNLICENSED,7020,GridUI React progress
+2026-10-31T02:44:38.746Z,@gridui/rail-profile,1.0.0,wmxpy,UNLICENSED,9111,GridUI React rail profile
+2026-10-31T02:44:41.003Z,@gridui/responsive-navigation,1.0.0,wmxpy,UNLICENSED,20271,GridUI React responsive navigation
+2026-10-31T02:44:43.355Z,@gridui/results-section,1.0.0,wmxpy,UNLICENSED,5291,GridUI React results section
+2026-10-31T02:44:45.903Z,@gridui/sidebar,1.0.0,wmxpy,UNLICENSED,72059,GridUI React sidebar
+2026-10-31T02:44:48.52Z,@gridui/site-footer,1.0.0,wmxpy,UNLICENSED,22007,GridUI React site footer
+2026-10-31T02:44:51.009Z,@gridui/site-header,1.0.0,wmxpy,UNLICENSED,4556,GridUI React site header
+2026-10-31T02:44:53.625Z,@gridui/site-navigation,1.0.0,wmxpy,UNLICENSED,16068,GridUI React site navigation
+2026-10-31T02:44:55.948Z,@gridui/site-status,1.0.0,wmxpy,UNLICENSED,13032,GridUI React site status
+2026-10-31T02:44:58.605Z,@gridui/slider,1.0.0,wmxpy,UNLICENSED,17200,GridUI React slider
+2026-10-31T02:44:59.356Z,@uitaste/presets,0.1.0,minn-builds,MIT,95625,"Curated uitaste style presets (editorial, swiss, soft-utility, brutal): tokens, rules and example components."
+2026-10-31T02:45:01.059Z,@gridui/sortable,1.0.0,wmxpy,UNLICENSED,34841,GridUI React sortable
+2026-10-31T02:45:01.394Z,@uitaste/skill,0.1.0,minn-builds,MIT,29692,The uitaste agent skill: instructions that make coding agents build with preset tokens and critique their own UI.
+2026-10-31T02:45:03.487Z,@uitaste/core,0.1.0,minn-builds,MIT,135485,"Core of uitaste: preset schema, OKLCH token generator, CSS/Tailwind v4/JSON emitters, design linter and screenshot planner."
+2026-10-31T02:45:03.705Z,@gridui/tag-input,1.0.0,wmxpy,UNLICENSED,24596,GridUI React tag input
+2026-10-31T02:45:05.347Z,uitaste,0.1.0,minn-builds,MIT,20537,"Make coding agents ship distinctive frontends: design tokens from curated presets, a design linter and a screenshot critique loop."
+2026-10-31T02:45:05.528Z,@uitaste/mcp,0.1.0,minn-builds,MIT,11390,"MCP server for uitaste: list presets, generate tokens, lint and screenshot from any MCP client."
+2026-10-31T02:45:06.103Z,@gridui/task,1.0.0,wmxpy,UNLICENSED,25258,GridUI React task
+2026-10-31T02:45:08.628Z,@gridui/toast,1.0.0,wmxpy,UNLICENSED,33717,GridUI React toast
+2026-10-31T02:45:30.995Z,feexpay-server,0.1.0,i6moons,MIT,336545,"SDK FeexPay serveur, typé et sans dépendance : Mobile Money (MTN, Moov, Wave, Orange…), carte bancaire, webhook vérifié et simulateur de la sandbox. Node, Next.js, Edge, Bun, Deno."
+2026-10-31T02:45:32.299Z,sessiongraph-app-win32-x64,0.1.9,arvindell,MIT,110197721,Explore & visualize all your LLM sessions — win32/x64
+2026-10-31T02:45:55.323Z,shotdrawer,0.1.0,prathercc,SEE LICENSE IN LICENSE,465354,A menu bar app for macOS that lists your recent screenshots and copies their paths with one click.
+2026-10-31T02:47:50.391Z,isotropicremesher,0.1.0,surunzi,MIT,255938,"Isotropic remeshing of triangulated surfaces, compiled to WebAssembly"
+2026-10-31T02:48:27.48Z,sessiongraph,0.1.9,arvindell,MIT,2727705,Explore & visualize all your LLM sessions
+2026-10-31T02:48:51.721Z,@sugarat/create-vibework-theme,0.1.0,atqq,MIT,1105615,Scaffold a works portfolio site with @sugarat/vitepress-theme-vibework.
+2026-10-31T02:49:02.457Z,@sugarat/vitepress-theme-vibework,0.1.0,atqq,MIT,170935,"VitePress theme for a works portfolio catalog. Chinese-first, Naive UI, SSG-ready."
+2026-10-31T02:50:15.552Z,@use05/cli,0.0.1,use05,Apache-2.0,2458,05: the acceptance layer for AI-written code. Prove and verify what agents did.
+2026-10-31T02:51:37.922Z,@pendral/inline-fleet,0.1.1,rojithaevry,SEE LICENSE IN LICENSE,829949,Temporary package placeholder for staged publishing
+2026-10-31T02:52:03.221Z,appforshare,1.0.0,hamzahasan,MIT,9337,Upload iOS and Android builds to AppForShare from your terminal or CI and get an install link.
+2026-10-31T02:52:51.04Z,@gitmyabi/liquiditypoolv1converter,1.0.0,gitmyabi-bot,MIT,190205,"Auto-generated TypeScript type bindings for LiquidityPoolV1Converter (build etherscan-liquiditypoolv1converter-05e77014-1793415147594, commit 59bee85, branch etherscan)"
+2026-10-31T02:53:06.069Z,code-automaton,0.0.0-stage,mdavis7702,,336,Temporary package placeholder for staged publishing
+2026-10-31T02:53:31.91Z,@pendral/inline-cli,0.2.1,rojithaevry,SEE LICENSE IN LICENSE,755604,Temporary package placeholder for staged publishing
+2026-10-31T02:54:29.796Z,@reneturcios/libdocs,0.1.0,reneturcios,MIT,35056,"Fetch current, version-specific library documentation through the Context7 API: resolve a library name to a Context7-compatible ID, then pull its docs. One bin serves a small CLI and a stdio MCP serv…"
+2026-10-31T02:55:19.993Z,@tally.paws/httptree,0.6.0,tally.paws,MIT,133551,A TypeScript library for creating and managing HTTP request trees.
+2026-10-31T02:56:45.374Z,dsh-log-slicer,0.1.0,fnfhdusiafni,MIT,38396,"Slice one section out of a DeepSeek Harness session log: verbatim turns, images, catalog row, backups and a verification hash — one command, dry-run by default."
+2026-10-31T02:57:46.342Z,@mathlabs/voltik,0.16.0,matheus1714,(MIT OR Apache-2.0) AND OFL-1.1 AND LicenseRef-GUST-Font-License,14726022,"CircuiTikZ circuits to SVG and PNG, without a TeX install. A library of tikra; math labels typeset by mathra. Runs on WebAssembly in Node, bundlers and browsers."
+2026-10-31T02:58:41.276Z,@serp-fyi/serp-faq-engine,1.0.0,serp-fyi,MIT,31135,"SERP.fyi FAQ Engine: answers questions about SERP.fyi real-time rank tracking, AI visibility audits, entity recognition, local SEO, SERP features and reporting from 40 official SERP.fyi FAQs."
+2026-10-31T03:00:03.862Z,@wangyf397/dsh-peak-valley,1.0.1,wangyf397,MIT,42910,DSH_PeakValley：DeepSeek 峰谷定价提醒。可拖动、可收起的右下角徽标（收起只显示峰/谷/休），悬停显示距峰时/谷时剩余时间，点击展开工作日高峰时段、峰谷单价、节假日表与账户余额；内置基准价 + 中国法定节假日表，可每 24 小时自动更新。
+2026-10-31T03:00:52.884Z,dirjet,0.0.0-name-check.0,skorotkiewicz,MIT,1592,Initial name-check prerelease for a Rust static file server
+2026-10-31T03:01:45.904Z,@re-code/basics,0.1.0,iamcodex96,MIT,752511,"Small, predictable, tree-shakable TypeScript utilities."
+2026-10-31T03:01:47.631Z,monolith-core-engine,1.0.0,aibersondev,MIT,58733,El motor de análisis de APIs para monolith-core.
+2026-10-31T03:02:17.813Z,dsh-app-updater,1.0.0,ccgo27,MIT,206860,App Updater for DeepSeek Harness: detect every installed Windows app that has a newer version and update it with one click by downloading the vendor's full installer from its official website and ins…
+2026-10-31T03:02:27.342Z,monolith-core-cli,1.0.0,aibersondev,MIT,66557,La interfaz de línea de comandos para monolith-core.
+2026-10-31T03:02:37.83Z,solopup-memory,0.21.0-beta.1,oakcoderx,MIT,1402737,"SoloPup Memory — source-linked, layered text memory for DeepSeek Harness. Public beta."
+2026-10-31T03:02:38.303Z,@chingchiehwang/arcade-core,0.1.1,chingchiehwang,MIT,4782,Pure-function game logic for 2048
+2026-10-31T03:04:05.152Z,autoremesher,0.1.0,surunzi,MIT,813809,"Automatic quad remeshing of triangulated surfaces, compiled to WebAssembly"
+2026-10-31T03:04:49.936Z,dsh-market-peek,0.2.0,lyuyuxin,MIT,755057,"Preview plugin-market entries inside DSH: open the repository in the right Sidebar's built-in browser, or show its README in a panel docked beside the market."
+2026-10-31T03:05:08.12Z,@edux-design/overlays,0.1.2,vjdalsanto26,,260621,"Original headless overlay behaviour shared by Edux component packages. React and React DOM are peer dependencies; the foundation does not depend on another UI, positioning, focus-management or scroll…"
+2026-10-31T03:05:10.396Z,@edux-design/drag-drop,0.1.2,vjdalsanto26,,174043,"Edux-owned pointer and keyboard dragging for React 18 and 19. This package provides the shared runtime used by Edux sortable lists, tables, trees and boards. Its public API is owned by Edux; it does…"
+2026-10-31T03:08:52.014Z,unidb-cli,0.1.0,soujashmandal,MIT,13556,Official interactive command-line client for UniDB
+2026-10-31T03:09:13.691Z,@reneturcios/deepsearch,0.1.0,reneturcios,MIT,43460,"Neural web search, code context lookup, and single-page crawling through the Exa API. One bin serves a small CLI and a stdio MCP server."
+2026-10-31T03:10:06.681Z,@lumoauth/mcp,1.0.0,lumoauth,MIT,276388,"LumoAuth authentication and authorization for MCP servers built with the official TypeScript MCP SDK (v1 and v2): RFC 9728 discovery, Bearer and DPoP token verification, per-tool policy."
+2026-10-31T03:10:07.221Z,@froggydev/spira,1.0.0,froggydev,ISC,63941,spira - the backend modular framework for orbit projects
+2026-10-31T03:10:21.797Z,lumoauth,1.0.0,lumoauth,MIT,288243,"`npx lumoauth secure`: put LumoAuth sign-in and per-tool authorization in front of an existing MCP server, without changing its code."
+2026-10-31T03:10:53.883Z,tianqinglang,0.0.1,tianqinglang,MPL-2.0,938,"TianQing (tianqinglang) — a self-hosted, relational-ontology programming language. Placeholder release to reserve the name."
+2026-10-31T03:11:58.218Z,@ruck-plugins/easynssm,1.0.1,jiahe,,1475094,nssm 的友好图形界面 + Windows 系统服务管理
+2026-10-31T03:12:24.434Z,@xlens/core,0.1.0,supreethsk,MIT,19541,Shared types and helpers for xlens.
+2026-10-31T03:12:29.064Z,dsh-gb18030,0.1.0,geeklei,MIT,39430,"Chinese byte-level encoding toolkit for DeepSeek Harness: structure-prior byte-stream detection (utf-8 / gb18030 / big5 / shift_jis / euc-kr / windows-1252 without embedding frequency tables), chain…"
+2026-10-31T03:12:38.196Z,@xlens/sdk,0.1.0,supreethsk,MIT,70488,"Tiny browser SDK for xlens: captures interactions, never input values."
+2026-10-31T03:12:51.823Z,@nangeagi/hello-creative-demo,0.0.1,nangeagi,,8709,Tree-outside Harness bundle that adds a hello tool signing replies with the plugin name.
+2026-10-31T03:12:53.336Z,@xlens/plugin,0.1.0,supreethsk,MIT,254472,"Build plugin (Vite/webpack/Rollup/esbuild) that maps every interactive element to its source, plus the app scanner."
+2026-10-31T03:12:55.844Z,@xlens/collector,0.1.0,supreethsk,MIT,38453,Self-hosted ingest server for xlens (Node + SQLite).
+2026-10-31T03:12:58.456Z,@xlens/analyzer,0.1.0,supreethsk,MIT,266648,"Turns xlens sessions into flows, trends, UX issues and engineering docs."
+2026-10-31T03:13:01.188Z,@xlens/server,0.1.0,supreethsk,MIT,40444,"Self-hosted xlens server: stores every session, analyses on a schedule, logs issues and serves them to the local fixer. No cloud dependency."
+2026-10-31T03:13:03.877Z,@xlens/fixer,0.1.0,supreethsk,MIT,92311,Turns xlens issues into verified code fixes on a branch and opens a pull request with the local git and gh credentials.
+2026-10-31T03:13:19.501Z,@noldova/context.core,0.0.1,rostislavrotaru,MIT,33052,
+2026-10-31T03:13:26.138Z,@noldova/context.collections,0.0.1,rostislavrotaru,MIT,5166,
+2026-10-31T03:13:33.057Z,@noldova/context.exceptions,0.0.1,rostislavrotaru,MIT,24815,
+2026-10-31T03:13:42.369Z,@noldova/context.text,0.0.1,rostislavrotaru,MIT,109745,
+2026-10-31T03:13:51.519Z,@noldova/context.json,0.0.1,rostislavrotaru,MIT,38217,
+2026-10-31T03:13:58.525Z,@noldova/context.testing,0.0.1,rostislavrotaru,MIT,385712,
+2026-10-31T03:14:04.78Z,@mzwing/dsh-model-info,0.1.0,mzwing,MIT,394226,Completes third-party model metadata in DeepSeek Harness from the pi.dev and models.dev catalogs
+2026-10-31T03:14:10.916Z,@noldova/context.diagnostics,0.0.1,rostislavrotaru,MIT,36581,
+2026-10-31T03:14:16.599Z,@noldova/context.parsers,0.0.1,rostislavrotaru,MIT,115085,"The shared foundation for CONTEXT language parsers: an immutable source with spans and line positions, a reader over it, and the lexer and parser base classes every language parser builds on. It cont…"
+2026-10-31T03:14:24.471Z,@noldova/context.parsers.regex,0.0.1,rostislavrotaru,MIT,418097,
+2026-10-31T03:14:34.914Z,@noldova/context.parsers.typescript,0.0.1,rostislavrotaru,MIT,3104054,
+2026-10-31T03:15:01.232Z,@blueey/devit-brand,1.0.0,blueey,SEE LICENSE IN README.md,307841,The Devit logo and a 'Continue with Devit' button for apps that sign in with Devit.
+2026-10-31T03:15:02.227Z,annotation-kit,0.1.0,leung-alex,MIT,785892,"Host-independent annotations for web pages, documents, spreadsheets and conversation text"
+2026-10-31T03:15:51.28Z,pi-ritari,0.0.0-placeholder,cndreisbach,MIT,23048,"Ritari long-term memory for Pi: typed search, read, write, and edit over the rit CLI, plus a session-start brief."
+2026-10-31T03:16:12.803Z,@xlens/cli,0.1.0,supreethsk,MIT,102381,"xlens command line: init, scan, serve, analyze."
+2026-10-31T03:16:58.759Z,postgres-to-entity,1.0.0,santiagodevrel,MIT,67619,Generate offline PostgreSQL-to-Arkiv typed schema models for SDK 1.0.0 and Rabdi.
+2026-10-31T03:18:49.099Z,minecraft-dev-starter,0.0.0-stage,chemiofitor,,343,Temporary package placeholder for staged publishing
