@@ -1,18 +1,33 @@
 {
   "list": {
-    "count": 150,
-    "from": "2026-10-31T00:18:13.844611Z",
-    "path": "data/new-packages-2026-10-31T01-18-13-921861Z.csv",
-    "to": "2026-10-31T01:18:13.921861Z"
+    "count": 75,
+    "from": "2026-10-31T01:18:13.921861Z",
+    "path": "data/new-packages-2026-10-31T02-19-01-749162Z.csv",
+    "to": "2026-10-31T02:19:01.749162Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@agentims/runtime",
-      "since": "2026-10-31T00:18:13.844611Z"
+      "package": "@sfysh/compiler",
+      "since": "2026-10-31T01:18:13.921861Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@sfysh/ir",
+      "since": "2026-10-31T01:18:13.921861Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@sfysh/playwright-adapter",
+      "since": "2026-10-31T01:18:13.921861Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@sfysh/runtime",
+      "since": "2026-10-31T01:18:13.921861Z"
     }
   ],
-  "seq": 141028121,
+  "seq": 141034271,
   "source_truncated": false,
-  "window": "2026-10-31T01:18:13.921861Z"
+  "window": "2026-10-31T02:19:01.749162Z"
 }
