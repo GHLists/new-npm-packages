@@ -1,0 +1,114 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-01T03:15:36.984Z,@gitmyabi/lil,1.0.0,gitmyabi-bot,MIT,279802,"Auto-generated TypeScript type bindings for lil (build etherscan-lil-d80f41b1-1793502912260, commit 6095d9e, branch etherscan)"
+2026-11-01T03:17:14.759Z,@jfdevelops/skills,0.1.0,joeyfinkel,MIT,21148,"Shared, portable agent skills for jfdevelops projects"
+2026-11-01T03:18:30.7Z,dsh-hr-plugin,0.1.0,itdanzf,MIT,2315557,在 DeepSeek Harness 里，一份会话一份简历。对话和右侧面板改的是同一份草稿，可以换模板并下载 PDF。
+2026-11-01T03:19:17.856Z,project-spec-starter,1.0.0,hell_io,MIT,291475,CLI for bootstrapping specification-driven projects
+2026-11-01T03:19:38.203Z,tech-blog-publisher,0.1.1,xiuzi,MIT,101503,给 agent 用的掘金/知乎发布技能：一份 SKILL.md + 一个 CLI，自动把 Markdown 发出去并回读校验。
+2026-11-01T03:20:08.574Z,c3-aws,0.1.1,alejo2075,MIT,316644,"C3 (Claude Code Cloud): build Claude Code agents, connect AWS services, deploy to Amazon Bedrock AgentCore with AWS CDK."
+2026-11-01T03:20:31.31Z,furl-core,0.0.0,farreldarian,,65,
+2026-11-01T03:20:52.206Z,dsh-skill-palette,0.1.1,alhhhh,MIT,128617,"技能助手（SkillMate）：点一下把 /技能 写进输入框，按用途分类、最近使用、收藏、一键中文翻译，回答末尾还能看到这一轮用过的 skill。Skill picker for DeepSeek Harness: browse, search, favourite and translate skills."
+2026-11-01T03:21:21.727Z,region-map-icons,0.0.0-stage,zhangv,,338,Temporary package placeholder for staged publishing
+2026-11-01T03:22:41.306Z,dsh-plugin-mattpocock-skills,0.1.1,hakurouken,MIT,371407,"Matt Pocock's engineering and productivity skills (github.com/mattpocock/skills) as a DeepSeek Harness skill provider, re-synced from upstream by a script."
+2026-11-01T03:23:20.224Z,calagopus-deploy,1.0.0,dylandelobel,MIT,25950,"CLI tool to bump version, create a GitHub release and restart a Calagopus server"
+2026-11-01T03:23:21.072Z,@matthewfl/pi-gitlab,0.1.0,matthewfl,MIT,276769,"GitLab merge request and issue workflows for Pi: fetch, stage edits, review, publish, and watch for changes."
+2026-11-01T03:24:10.566Z,@mfeflow/contracts,0.2.0,speedsharma,MIT,77000,"Types, validators and JSON Schemas for mfeflow: mfe.json ownership manifests, mfeflow.json project state, and the remote registry (entries and index)."
+2026-11-01T03:24:14.823Z,@mfeflow/core,0.2.0,speedsharma,MIT,136251,"The engine behind the mfeflow CLI: project model, change plans with diffs, atomic apply with rollback, and feature resolution."
+2026-11-01T03:24:19.363Z,@mfeflow/analytics,0.2.0,speedsharma,MIT,30565,"Analytics for micro-frontends behind one provider interface: typed events, a tracker that stamps mfe_name, Consent Mode v2, and a Google Tag Manager provider."
+2026-11-01T03:24:23.416Z,@mfeflow/oxlint-config,0.2.0,speedsharma,MIT,4241,"Type-aware oxlint config for mfeflow micro-frontends: TypeScript 7 rules via oxlint-tsgolint, React, hooks and accessibility."
+2026-11-01T03:24:27.167Z,@mfeflow/rsbuild,0.2.0,speedsharma,MIT,26188,"Rsbuild presets for Module Federation 2.0 micro-frontends: createShellConfig and createRemoteConfig with shared singletons, external runtime, manifests, types and error reporting set up."
+2026-11-01T03:24:31.097Z,@mfeflow/runtime,0.2.0,speedsharma,MIT,39248,"Runtime for mfeflow micro-frontends: remotes from a registry index, RemoteBoundary with timeout and fallback, error reporting, singleton checks, composeProviders."
+2026-11-01T03:24:34.725Z,@mfeflow/storage,0.2.0,speedsharma,MIT,11169,"Browser storage namespaced per micro-frontend, SSR-safe, with cross-tab sync and a React hook."
+2026-11-01T03:24:38.726Z,@mfeflow/i18n,0.2.0,speedsharma,MIT,13616,"i18n for micro-frontends: one i18next instance owned by the shell, each remote lazy-loads its own namespace from its own deploy, RTL and persisted language."
+2026-11-01T03:24:42.771Z,@mfeflow/telemetry,0.2.0,speedsharma,MIT,27545,"Telemetry for micro-frontends behind one provider interface: a tracer per remote tagged with mfe.name, error reporting wired to remote failures, and an OpenTelemetry web provider loaded after first r…"
+2026-11-01T03:24:47.271Z,@mfeflow/testing,0.2.0,speedsharma,MIT,6026,"Test helpers for mfeflow micro-frontends: renderWithPlatform wraps components in the same providers the shell uses; resetPlatform clears storage, i18n, theme and reports between tests."
+2026-11-01T03:24:51.436Z,@mfeflow/theme,0.2.0,speedsharma,MIT,12725,"Design tokens as CSS variables for micro-frontends: the shell sets the theme once, every remote inherits it. ThemeProvider, useTheme, persisted choice, no-flash script."
+2026-11-01T03:24:57.153Z,@mfeflow/tsconfig,0.2.0,speedsharma,MIT,4027,"Strict TypeScript 7 presets for mfeflow micro-frontends: base, react-app, react-library and node."
+2026-11-01T03:25:01.454Z,@mfeflow/url-factory,0.2.0,speedsharma,MIT,8512,"Typed API URLs for micro-frontends: path params are checked from the template at compile time, base URLs come from runtime config, so one build runs in every environment."
+2026-11-01T03:25:07.651Z,before-you-pr,0.1.0,b84330808,MIT,267189,"Check a repo's contribution rules and an issue's status before you write code: AI policy, CLA/DCO, claims, existing PRs, and a conservative go / comment first / don't verdict. CLI and MCP server."
+2026-11-01T03:25:08.302Z,mfeflow,0.2.0,speedsharma,MIT,301812,"Create and grow a React micro-frontend platform: mfeflow init, add remote, add <feature>."
+2026-11-01T03:25:10.232Z,@dutodev/cli,0.1.2,gilbert-dev,MIT,18435,Exponha uma porta local em https://<nome>-<usuário>.duto.dev com um comando.
+2026-11-01T03:25:12.463Z,create-mfeflow,0.2.0,speedsharma,MIT,4528,Create a React micro-frontend project with mfeflow: npm create mfeflow@latest.
+2026-11-01T03:26:27.61Z,@qntx/erc8004,0.5.1,gitctrlx,MIT OR Apache-2.0,469299,ERC-8004 Trustless Agents protocol SDK in TypeScript
+2026-11-01T03:26:53.645Z,@clickonsearch/jira-mcp-server,0.1.0,gauravbansal74,MIT,47556,"MCP server for Jira Cloud: create stories with numbered acceptance criteria, read and search them, and comment. Dry-run by default for anything that writes."
+2026-11-01T03:27:49.08Z,docfig-api,0.1.0,docfig,MIT,65124,"Free offline bank statement reconciliation check for CSV files (CLI + library), plus the DocFig API client: statement PDFs to checked JSON, Excel and CSV."
+2026-11-01T03:28:03.832Z,browserdo-mcp,0.9.0,zhaijunlong,Apache-2.0,454359,"Built for AI agents. Shared with people. The MCP server for Embiody, the Windows browser your AI agent works in while you keep using your PC."
+2026-11-01T03:28:24.662Z,@blooprint/cli,0.1.0,blooprint,UNLICENSED,152889,"bloo: register apps, read the catalog, call typed services, attach to byte services"
+2026-11-01T03:29:24.485Z,@grepco/pi-lence,0.0.0-stage,zemccart,,338,Temporary package placeholder for staged publishing
+2026-11-01T03:31:07.471Z,@qntx/siwx,0.7.0,gitctrlx,MIT OR Apache-2.0,82506,"Sign-In with X (CAIP-122) for TypeScript: SIWE, SIWS, message parsing, validation, and signature verification."
+2026-11-01T03:32:02.281Z,@jfdevelops/cli,0.1.0,joeyfinkel,MIT,67638,Project scaffolding and package-owned skill discovery for jfdevelops
+2026-11-01T03:33:38.303Z,pynect,0.0.0,regbo,MIT,2423,Typed Python interoperability for Node.js and Bun.
+2026-11-01T03:34:00.272Z,@powerportalspro/react-calendar,12.0.0,ppp-srasmussen,SEE LICENSE IN EULA.txt,1005800,"Outlook-style calendar of Dataverse appointments for PowerPortalsPro React, themed with Fluent UI."
+2026-11-01T03:34:07.375Z,@powerportalspro/react-powerbi,12.0.0,ppp-srasmussen,SEE LICENSE IN EULA.txt,224874,"Power BI report embedding for PowerPortalsPro React, with tokens issued by the portal for each viewer."
+2026-11-01T03:36:12.363Z,dsh-theme-idea,0.5.0,pcz,MIT,49711,"IntelliJ IDEA inspired themes for DSH: classic Light/Darcula, JetBrains ""new UI"" Light/Dark, and a bean-green palette built on the dsw-alias token set."
+2026-11-01T03:36:49.319Z,mcp-safe-actions,1.2.0,techsaurabh-394,MIT,35163,"Make destructive MCP tools safe: asks the human through MCP elicitation, falls back to a one-time approval token for clients without it, and keeps an audit log."
+2026-11-01T03:36:58.422Z,usecloudy,0.3.0,cloudtifact,MIT,631482,"Publish pages and docs to Cloudy as links people comment on, with every version kept and the comments handed back to your agent."
+2026-11-01T03:37:41.366Z,specification-tool,0.3.8,liammclennan,,478820,Develop system specifications locally and verify their claims against automated test results.
+2026-11-01T03:38:31.647Z,alembic-web,0.1.0,mjurczyk,MIT,103199,Alembic (.abc) and .wabc file reader in JavaScript. No dependencies.
+2026-11-01T03:38:40.444Z,three-alembic,0.1.0,mjurczyk,MIT,93296,"three.js rendering of Alembic (.abc) and .wabc files: loaders, animation, vertex animation materials."
+2026-11-01T03:38:46.476Z,webabc,0.1.0,mjurczyk,MIT,172774,CLI that converts Alembic (.abc) files into web-optimised .wabc files.
+2026-11-01T03:39:05.583Z,aimotion-pro,0.1.0,darylngako,UNLICENSED,15728,Installe et met à jour AImotion PRO pour Claude Code.
+2026-11-01T03:39:50.148Z,@lennix1337/pi-agent-desktop,0.1.0,lennix1337,MIT,13835,Pi extension: operate native desktop apps through vercel-labs/agent-desktop (OS accessibility tree).
+2026-11-01T03:41:32.384Z,brainchain-verify,0.1.0,brainchaindev,MIT,73403,"Check a BrainChain decision against the chain: the published record, its hashes, its confidence and the thresholds the contracts applied."
+2026-11-01T03:42:24.125Z,@knowttl/ssh-axi,0.1.0,knowttl,,71912,Discover approved SSH hosts and execute confirmed bounded commands
+2026-11-01T03:43:11.272Z,@rnative/hello,0.0.0,devusimple,ISC,429,An react native component library inpired by shadcn/ui
+2026-11-01T03:45:08.487Z,agentrail-core,0.0.0,goyalsidhant,Apache-2.0,294,Placeholder. Install agentrail-core 0.1.0 or later.
+2026-11-01T03:45:10.599Z,agentrail-edge,0.0.0,goyalsidhant,Apache-2.0,294,Placeholder. Install agentrail-edge 0.1.0 or later.
+2026-11-01T03:45:12.047Z,@oa-sdk/ftp-contract,0.3.0,astralclover,Apache-2.0,120079,Canonical oa-sdk exchange declarations consumed by the Functional Test Platform
+2026-11-01T03:45:12.528Z,agentrail-browser,0.0.0,goyalsidhant,Apache-2.0,303,Placeholder. Install agentrail-browser 0.1.0 or later.
+2026-11-01T03:46:05.116Z,dsh-global-rules-panel,1.0.0,kanmanjo,MIT,65384,"Global rules panel for DeepSeek Harness: write your standing rules once in the sidebar, and every model request carries them — main sessions, sub-agents, and every session opened later. 全局规则面板：在侧边栏写一…"
+2026-11-01T03:46:12.252Z,@bugberry/sdk,0.1.0,yuisa-scarlet,MIT,11964,Add your app's own logs and state to BugBerry bug reports. Does nothing without the BugBerry extension.
+2026-11-01T03:47:21.963Z,@smartdoc/mcp,0.1.0,tw050x,MIT,15047,"Review documents with your own AI. Opens the SmartDoc app and connects it to Claude Code, Claude Desktop and other MCP clients."
+2026-11-01T03:47:42.027Z,coolcanvas,1.0.0-beta.0,icssoa,,110917107,Cool Canvas local web workspace
+2026-11-01T03:47:55.469Z,@ircg/hes,1.32.13,isar.ramses,MIT,100203,Hosted Email Service SDK for IRCG
+2026-11-01T03:49:34.808Z,@montionugera/joy-svelte,0.2.0,montionugera,MIT,380688,
+2026-11-01T03:50:47.848Z,goldenfarm-agent,0.1.0,goldenfarm,MIT,30807,"Reserve GoldenFarm from your AI agent with a Binance Agentic Wallet: a skill, a CLI and an MCP server"
+2026-11-01T03:50:52.507Z,create-harness-btp,0.1.1,smokescreen,MIT,101255,Instala el harness MVP SAP BTP como carpeta AI/ en cualquier proyecto
+2026-11-01T03:51:25.974Z,chance-utils,1.6.0,redgiant6157,MIT,17944,"Slim utility for weighted sampling, chance logic, and math clamping."
+2026-11-01T03:53:11.523Z,acp-runner,0.1.0-beta.3,ranvirsingh,MIT,242532,Local runner for multi-step agent runbooks (agent.yaml) over the Agent Client Protocol
+2026-11-01T03:53:15.04Z,@cykim8811/pointkit,0.1.0,cykim8811,MIT,28091,Point at UI elements and copy precise context for your AI coding agent.
+2026-11-01T03:53:26.148Z,moose-relay-cli,0.1.1,hypermoose,MIT,60467,"Connect local MCP servers securely to Moose Relay, with background services for macOS, Linux, and Windows."
+2026-11-01T03:53:36.587Z,@aisa-one/pay,0.2.0,jony-aisa,MIT,88978,"Pay HTTP 402 challenges with stablecoins from the command line: MPP on Tempo, x402 on Base and Solana, a local wallet and a payment ledger. The `aisa pay` command of @aisa-one/connect."
+2026-11-01T03:56:02.402Z,agent-commit-checks,0.1.1,zbyte64,Apache-2.0,260528,Model-backed checks on the commits a coding agent is about to push
+2026-11-01T03:56:05.19Z,dsh-blackhole-radio-lab,1.0.0,whatcannotbesaid,MIT,14006300,"A 3D black-hole radio stage for DeepSeek Harness: orbit, zoom and play 24,000+ internet radio stations"
+2026-11-01T03:56:51.634Z,@regbo/pybin,0.1.0,regbo,MIT,44295,"Find compatible Python and pip executables, with a locked uv fallback."
+2026-11-01T03:57:20.031Z,@superdurable/dex-agents,0.1.0,xdblab,LicenseRef-Sustainable-Use-1.0,328692,"Durable agent sessions for Dex, shared by the Dex TypeScript agent framework adapters"
+2026-11-01T03:57:27.416Z,@superdurable/dex-agents-vercel-ai,0.1.0,xdblab,LicenseRef-Sustainable-Use-1.0,100990,Durable Vercel AI SDK agent sessions on Dex
+2026-11-01T03:57:28.915Z,@superdurable/dex-agents-openai-agents,0.1.0,xdblab,LicenseRef-Sustainable-Use-1.0,96952,Run OpenAI Agents SDK agents as durable Dex agent sessions
+2026-11-01T03:57:30.498Z,@superdurable/dex-agents-mastra,0.1.0,xdblab,LicenseRef-Sustainable-Use-1.0,98978,Durable Mastra agent sessions on Dex
+2026-11-01T03:57:32.137Z,@superdurable/dex-agents-claude-agent-sdk,0.1.0,xdblab,LicenseRef-Sustainable-Use-1.0,144055,Durable Claude Agent SDK sessions on Dex
+2026-11-01T03:59:29.953Z,overrail,0.3.0,omaralawneh,MIT,205301,Any agent. Any model. One command - with failover.
+2026-11-01T03:59:59.823Z,@kcharts-ui/core,0.1.0,kindoo,MIT,672761,KCharts 核心渲染引擎（框架无关）：SVG 场景图渲染、图表逻辑、比例尺、主题、动画
+2026-11-01T04:00:24.8Z,like-crypto,0.0.1,lukks,,211,
+2026-11-01T04:00:37.781Z,@martlet/core,0.0.0-stage,howardjp,,335,Temporary package placeholder for staged publishing
+2026-11-01T04:00:38.421Z,next-agent-ready,1.0.0,snapvibr,MIT,505420,"High-performance, zero-dependency Next.js edge and node middleware that intercepts AI crawlers and serves token-compressed, clean semantic HTML with grounded brand facts at edge speed."
+2026-11-01T04:00:39.094Z,@kcharts-ui/vue,0.1.0,kindoo,MIT,477534,KCharts Vue3 组件层：响应式 props 桥接 @kcharts-ui/core，全量 / 按需两种引入方式
+2026-11-01T04:00:39.703Z,@krigsvold/core,0.0.0-stage,howardjp,,337,Temporary package placeholder for staged publishing
+2026-11-01T04:01:05.663Z,@kcharts-ui/react,0.1.0,kindoo,MIT,173768,KCharts React 组件层：hooks 桥接 @kcharts-ui/core，与 Vue 版共用同一渲染引擎
+2026-11-01T04:01:33.996Z,@kcharts-ui/css,0.1.0,kindoo,MIT,152299,KCharts CSS 图表家族——纯 div + scss + TypeScript，零渲染引擎，兼容性优先的展示型图表
+2026-11-01T04:02:14.14Z,ari-plot,0.1.0,nichochar,MIT,267111,"Interactive 2D and 3D math plots from a small text language, built for tutors and chat."
+2026-11-01T04:02:27.499Z,pyfig,0.1.0,regbo,MIT,44007,"Find compatible Python and pip executables, with a locked uv fallback."
+2026-11-01T04:03:16.392Z,@openma/matter-orchestration,0.2.7,cfenv,Apache-2.0,69818,Shared orchestration presets and helpers for OpenMatter: coordinator loops and multi-agent work patterns built on the kernel contracts.
+2026-11-01T04:03:23.544Z,@openma/matter-project,0.2.7,cfenv,Apache-2.0,50161,"OpenMatter Project work surface: project identity, goals, worker control commands, and the ProjectWorkService contracts."
+2026-11-01T04:03:30.971Z,@openma/matter-project-host,0.2.7,cfenv,Apache-2.0,149234,"Local Node.js host for OpenMatter Projects: SQLite store and inbox, project runtime, and host injection points for integrations and Turn grants."
+2026-11-01T04:03:40.112Z,portable-captcha,0.0.0-stage,haitang000,,338,Temporary package placeholder for staged publishing
+2026-11-01T04:04:23.575Z,agent-rag-mcp,0.1.0,lsarmientov_27,MIT,198038,"Deterministic, namespace-isolated document retrieval with a CLI and MCP server."
+2026-11-01T04:04:35.238Z,credless,0.1.0,prathyush-kkk,Apache-2.0,643035,"Signed-in, multi-user Playwright end-to-end tests that AI coding agents (Claude Code, Cursor, Codex) can run without your credentials: personas, a key broker, an egress guard and leak-proof evidence."
+2026-11-01T04:06:13.795Z,@estehmd/baileys,7.0.0-rc14-estehmd.1,estehmd,MIT,8581232,EstehMD Baileys - a modified WebSockets library for interacting with WhatsApp Web
+2026-11-01T04:07:05.711Z,@haitang000/ncaptcha,0.0.0-stage,haitang000,,342,Temporary package placeholder for staged publishing
+2026-11-01T04:07:47.511Z,@uncarved/jade,0.1.0,mochineko,MIT,1375150,A coding agent harness built on the uncarved kernel
+2026-11-01T04:07:50.143Z,@manishiitg/agentworks,0.1.0,manishiitg,SEE LICENSE IN LICENSE,17674,Install and open the AgentWorks Mac app and CLI
+2026-11-01T04:08:39.242Z,engineering-agent,1.0.3,alaric_0915,MIT,112311,"Installable engineering agent for opencode, Claude Code, and Codex — hardware + software engineering specialist (circuit review, pinouts, PCB guidance, BOMs, embedded firmware, full-stack apps)."
+2026-11-01T04:09:31.698Z,yaml-dsl-spec,0.0.1,lite2073,MIT,32921,The YAML DSL standard: the JSON Schemas of yaml-dsl.yml and of a DSL's function table.
+2026-11-01T04:10:00.636Z,vastpace-ai-tools,1.0.0,vastpace,MIT,1211,VastPace AI tools: EzAiRapVideo (AI rap video) and EzImageAI (AI image editor).
+2026-11-01T04:10:12.367Z,dsh-session-dispatch,0.1.0,hackiv,MIT,55037,"Model-facing DSH tools that create workspace conversations, send prompts into them, wait for turns, and read replies: dispatch work into real standalone sessions instead of subagents. 给模型用的会话派发工具：新开工…"
+2026-11-01T04:10:27.827Z,@gitmyabi/weethpricecapadapter,1.0.0,gitmyabi-bot,MIT,58059,"Auto-generated TypeScript type bindings for WeETHPriceCapAdapter (build etherscan-weethpricecapadapter-87625393-1793506202056, commit b6fe79c, branch etherscan)"
+2026-11-01T04:10:49.687Z,@tak1208/dsh-webui-transition,0.2.1,tak1208,MIT,63603,DSH Web GUI 扩展：为设置面板与各级下拉菜单补上开合过渡动画（Client-only bundle，源码 ESM + esbuild 构建，零第三方运行时依赖）。
+2026-11-01T04:11:05.1Z,@nsjsv/ramet,0.1.0,nsjsv,AGPL-3.0-only,2295667,Ramet 连接器：把本机的 agent CLI 接进 Ramet
+2026-11-01T04:11:48.977Z,@traceai/elevenlabs,0.1.0,futureagi,Apache-2.0,113078,OpenTelemetry tracing for ElevenLabs TypeScript speech synthesis and transcription
+2026-11-01T04:13:20.828Z,@mfeflow/event-bus,0.2.0,speedsharma,MIT,20883,"A typed event bus for micro-frontends on one page: versioned event names, payload types merged by each remote, optional validation, replay for late subscribers, and a React hook."
+2026-11-01T04:14:20.727Z,agentixlite,0.8.1,jackymencz,Apache-2.0,5380790,"Agentix Lite Sentinel read-only MCP gateway (Go, linux/x64) for local AI agents: host security telemetry, no firewall or shell access."
+2026-11-01T04:15:40.417Z,refpages,0.8.0,xld3,ISC,94482,"Reference pages for a TypeScript or JSDoc codebase, in the shape of a man page, built from its source files alone."
+2026-11-01T04:16:00.781Z,refpages-gl,0.1.0,xld3,ISC,5613,"A refpages extension: the WebGL calls each member reaches, linked to the OpenGL reference."
+2026-11-01T04:18:00.84Z,@longzai-intelligence-cuts/config,0.0.0-stage,joydragon,,355,Temporary package placeholder for staged publishing
+2026-11-01T04:18:07.952Z,@longzai-intelligence-cuts/ledger,0.0.0-stage,joydragon,,355,Temporary package placeholder for staged publishing
+2026-11-01T04:18:15.198Z,@longzai-intelligence-cuts/aggregation,0.0.0-stage,joydragon,,360,Temporary package placeholder for staged publishing
