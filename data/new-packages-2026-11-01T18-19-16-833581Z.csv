@@ -1,0 +1,121 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-01T17:16:07.305Z,@mdlearn/core,1.5.1,teo.clerk,MIT,736095,"MDlearn compiler, importer, answer checkers and learning models (DOM-free)."
+2026-11-01T17:16:09.825Z,@mdlearn/mcp,1.5.1,teo.clerk,MIT,43153,"MCP server: curriculum outlines, exact source sections, lesson linting and FSRS tutoring for Claude."
+2026-11-01T17:16:26.82Z,@mdlearn/studio,1.5.1,teo.clerk,MIT,31030647,"MDlearn Studio: a local app to read Markdown, study it, and let AI build interactive courses from it."
+2026-11-01T17:17:32.9Z,@polebot/eval,0.1.0-nightly.2,peam1146,MIT,19221,"Record each layer of a Pole request as JSON, and replay one layer against the recording"
+2026-11-01T17:18:42.522Z,tiny-cross-spawn,1.0.0,spellsaif,MIT,29041,"Zero-dependency, dual CJS/ESM, ReDoS-safe drop-in replacement for cross-spawn"
+2026-11-01T17:20:56.398Z,@zlooks.cn/bilibili-short-link-redirect-shared,1.0.2,evio,,21479,短链跳转服务的稳定契约：投影schema、解析结果、typed Micro client，七位大小写英文字母入口 URL 构造，以及共用的跳转方式枚举。公开 hash 仅七位字母；记录/投影可读取旧十位标识以保留已有数据，不提供旧公开入口。管理服务通过此契约发布缓存投影；共享包不包含Redis键、持久化实现、用户权限策略或服务启动代码。
+2026-11-01T17:20:58.555Z,@zlooks.cn/bilibili-short-link-redirect-server,1.0.2,evio,,103677,独立的 `@hile/http + Micro` 跳转服务。它自己监听 HTTP，不经过 Gateway；请求只读 `@hile/cache`，不访问数据库或管理服务。
+2026-11-01T17:20:59.288Z,@zlooks.cn/bilibili-server,1.0.2,evio,,7892348,Bilibili 业务工作台，当前包含邀请制短链管理、用户链接增删改、资格兑换，以及管理员 MCP。现有黑白极简 Ant Design 界面保持不变，页面位于现有 Next Host 上的 `/bilibili`、`/bilibili/links` 和 `/bilibili/account`。
+2026-11-01T17:21:47.986Z,ui-assert,0.1.0,aakashpai18,MIT,88366,"Run a page in a real browser and get a compact, machine-readable verdict on tokens, layout and accessibility."
+2026-11-01T17:22:10.197Z,cloudwave,0.1.1,kofi.ay,UNLICENSED,1071466,Version control for AI context. Push context. Pull it anywhere.
+2026-11-01T17:22:44.684Z,typescript-ubl-rs,0.2.0,zokac021,MIT,464031,Serbian UBL profiles for TypeScript
+2026-11-01T17:22:49.275Z,@pengpeng42/pi-file-stats,1.0.0,pengpeng42,ISC,4005,A Pi extension for recursive directory file statistics
+2026-11-01T17:23:26.103Z,@shardev/cli,0.1.0,shardevcom,MIT,1091482,Servidor MCP para crear y operar proyectos Laravel + AWS ECS
+2026-11-01T17:23:55.729Z,@nistrix/chat,0.1.1,wndlfa,MIT,23411,Nistrix chat for customers' sites and apps: visitors talk to the organization's agents and team with a publishable key (nx_pk_). Runs in browsers and React Native.
+2026-11-01T17:24:01.562Z,@evobits/node,1.0.0,jmanoelalmeida,MIT,47402,"Telemetria do evobits para Node.js: logs, traces e erros por OpenTelemetry, com máscara de dado sensível."
+2026-11-01T17:24:08.606Z,@inkbrick/document,0.1.0-alpha.0,cyber_wizard6090,MIT,264731,"Block document model for Inkbrick: schemas, validation, serialization, migrations and export. No React, no DOM."
+2026-11-01T17:24:12.694Z,@inkbrick/styles,0.1.0-alpha.0,cyber_wizard6090,MIT,66635,"Default Inkbrick styles: design tokens, themes, and CSS layers over stable data-inkbrick-* attributes with zero specificity."
+2026-11-01T17:24:16.77Z,@inkbrick/store,0.1.0-alpha.0,cyber_wizard6090,MIT,89214,"Inkbrick document store: transactions with rollback, undo/redo history and subscriptions. No React."
+2026-11-01T17:24:21.043Z,@inkbrick/engine,0.1.0-alpha.0,cyber_wizard6090,MIT,409971,"Headless Inkbrick editor: commands, intents and block controllers. Usable on a server."
+2026-11-01T17:24:26.812Z,@inkbrick/react,0.1.0-alpha.0,cyber_wizard6090,MIT,1270200,React bindings and the default UI for the Inkbrick block editor.
+2026-11-01T17:24:30.381Z,@gitmyabi/ant,1.0.0,gitmyabi-bot,MIT,50593,"Auto-generated TypeScript type bindings for ANT (build etherscan-ant-0f96c0ab-1793553846645, commit 9e0eb43, branch etherscan)"
+2026-11-01T17:24:34.619Z,agentalarm,0.1.0,achubnet,MIT,57330,"Let AI agents, scripts and CI ring your iPhone through AgentAlarm: urgent alerts ring through Silent and Focus."
+2026-11-01T17:24:43.6Z,soml-typescript-types,0.0.1,sindresorhus,MIT,75143,"SOML parser, encoder, and canonicalizer written entirely in TypeScript types"
+2026-11-01T17:25:42.666Z,@ayni.org/vs-agent-plugin-ayni-flow,0.1.2,mjfelis,Apache-2.0,147129,"VS Agent plugin for the Ayni Flow Profile 1.0: the ayni-flow envelope and its seven carrier protocols as Credo modules, Admin API v2 routes and webhook events (CC-VSA-005, CC-VSA-007, CC-VSA-010)"
+2026-11-01T17:25:55.364Z,@unhandled/agent,0.1.0,rowboat,MIT,33994,"One-step Unhandled setup for Claude Code, Cursor, Codex, VS Code and Windsurf: the MCP server and the skills that fix production errors"
+2026-11-01T17:26:37.553Z,allratestoday-widget,1.0.0,chathurangac8,MIT,16999,"Free embeddable currency converter and official central-bank rate widgets for React, Vue, Astro and plain HTML. No API key needed."
+2026-11-01T17:26:42.7Z,@cjser/cssomnom,0.1.11-cjser.2,nanahira,Apache-2.0,2528634,"Fast, spec-compliant CSS Object Model (CSSOM) and Typed OM parser in pure TypeScript"
+2026-11-01T17:27:04.489Z,@3dfarmers/farmloop,1.0.0-beta.0,3dfarmers,MIT,78237,FarmLoop for AI agents and scripts: a CLI and an MCP server that prepare sliced 3D print files for automatic printing through the FarmLoop Processing API.
+2026-11-01T17:32:10.184Z,mcp-mercy,1.0.0,kiryuken,ISC,97606,MCP server for Digilib Mercu Buana catalog and UMB Repository
+2026-11-01T17:32:46.573Z,open-transfer-times,0.1.1,joelynli,MIT,340617,"Deterministic, explainable flight-connection assessment backed by an open, sourced airport transfer dataset."
+2026-11-01T17:33:14.446Z,open-transfer-times-mcp,0.1.1,joelynli,MIT,26916,"MCP server that lets AI agents check whether a flight connection is comfortable, tight or risky, with cited airport facts."
+2026-11-01T17:34:03.813Z,dsh-first-paint,0.1.0,duanjingcheng,MIT,11401,首帧启动页 · 消除 DSH 启动白闪：把启动页写进首帧 HTML，桌面端窗口一出现就是黑底品牌页。独立插件，不改主程序。
+2026-11-01T17:34:19.649Z,@bloxwap/hig,0.2.0,joeblau,MIT,14749180,"Bloxwap Human Interface Guidelines: tokens, contracts, React and React Native components, chart adapter, feedback and fonts in one package."
+2026-11-01T17:34:46.338Z,@dxos/animation,0.0.0,richburdon,FSL-1.1-Apache-2.0,498295,"Renderer-neutral animation core: timelines, interpolation, the clock, scripts and the effect runtime."
+2026-11-01T17:34:59.442Z,@dxos/scene,0.0.0,richburdon,FSL-1.1-Apache-2.0,1028801,"Scene model for 2D and 3D drawings: scenes, elements, bindings, layout and ECHO types."
+2026-11-01T17:35:11.125Z,@dxos/react-ui-animation,0.0.0,richburdon,FSL-1.1-Apache-2.0,566340,Timeline controls and clock hooks for @dxos/animation.
+2026-11-01T17:35:24.916Z,@dxos/plugin-animator,0.0.0,richburdon,FSL-1.1-Apache-2.0,7220433,"Animations over objects other plugins own: shots, timelines, declarative scripts and stages."
+2026-11-01T17:35:43.094Z,software-engineering-skill,0.2.0,chicho94,MIT,184134,Portable software engineering AI skill with staged product delivery and approval gates
+2026-11-01T17:36:06.647Z,coopanion-video-storyboard,0.8.8,yuyindajiang,Apache-2.0,1002382,"Coopanion (Cortico) World: turn a video into citable storyboard sheets with timecodes, local whisper.cpp transcription, on-screen subtitle OCR correction, and a pluggable cut detector."
+2026-11-01T17:36:19.917Z,dsh-monokai-pro,1.1.1,trespassmk,MIT,39426,"Monokai Pro dark theme for the DeepSeek Harness Web GUI — six official filters, syntax highlighting, and a General settings switch."
+2026-11-01T17:37:26.288Z,dsh-jinhsi-avatar,1.0.1,tenfeng,MIT,1301194,DSH 窗口里的今汐形象体：官方立绘经图生视频生成待机/行走/飞行/打盹四组动作，逐帧抠图成透明循环动画；会自己在窗口里走动、尺寸随远近变化、点击回应并报账户余额（星声）。
+2026-11-01T17:38:12.581Z,@heydeacon/astro,1.0.0,andrewcathcart,MIT,8839,Astro integration that adds the Deacon chat widget to every page of your site.
+2026-11-01T17:38:14.611Z,@heydeacon/starlight,1.0.0,andrewcathcart,MIT,6119,Starlight plugin that adds the Deacon chat widget to every page of your docs.
+2026-11-01T17:38:26.886Z,@scoolnik/woff2-encoder,0.0.0-stage,scoolnik,,345,Temporary package placeholder for staged publishing
+2026-11-01T17:38:57.298Z,@cheezmil/aek-websearch,1.0.3,cheezmil233,MIT,88723,"Multi-provider web search with key rotation and fallback (tavily, exa). Cordis plugin + standalone aekws CLI."
+2026-11-01T17:39:13.8Z,create-plinthfolio,0.2.0,leigharriane,MIT,585529,Start a Plinth portfolio with one command: npx create-plinthfolio
+2026-11-01T17:40:07.089Z,@tsforge7/wata-sdk,0.1.3,exact_07,ISC,395366,"WATA SDK for Node.js: payment links, H2H payments, refunds, subscriptions and webhooks"
+2026-11-01T17:40:32.451Z,@gitmyabi/zion,1.0.0,gitmyabi-bot,MIT,93166,"Auto-generated TypeScript type bindings for ZION (build etherscan-zion-2e4e1093-1793554795579, commit fa7b9d4, branch etherscan)"
+2026-11-01T17:41:07.377Z,elflodge,0.0.0,lodgekeeper,MIT,374,"Placeholder for Elflodge, whose first release is 0.7.0."
+2026-11-01T17:41:07.688Z,@notils/praman,0.4.0,sahsanjay,MIT,778683,"Praman sign-in, organizations and invitations for apps built on Notils: React and Next.js, any server that speaks Request and Response, Vue, Svelte and plain JavaScript, and React Native with Expo."
+2026-11-01T17:41:24.686Z,@prinpo/stack,0.1.0-nightly.20261101.1,martiinii,MIT AND Apache-2.0,212781,"Composable Bun, Elysia, Eden, and TanStack Router integrations."
+2026-11-01T17:42:29.395Z,preflight-sdk,1.0.0,iburventures,MIT,55916,Thin fail-closed client for the Preflight pre-dial API. No dependencies.
+2026-11-01T17:42:35.379Z,rayacash,1.0.1,santipiers,MIT,275278,"SDK oficial de Node.js para la API de Raya Cash: pagos por transferencia, transferencias, balance y webhooks."
+2026-11-01T17:43:32.667Z,@onk/codemirror-cjk-word-motion,1.0.0,onk,ISC,12354,CodeMirror commands to move and delete by word in CJK text
+2026-11-01T17:44:15.285Z,labrute-pixi-static-portrait,1.1.0,zenoo,MIT,1336604,Static LaBrute character portraits for caller-owned PixiJS 8 renderers.
+2026-11-01T17:44:27.436Z,@portalshq/analytics,0.1.0,bmejia220,,60431,Privacy-conscious analytics contracts and integrations for Portals
+2026-11-01T17:44:30.705Z,create-frontend-webui-kit,1.0.0,mdsnbabornpm,MIT,35155,"Pick-your-own React starter: Vite or Next.js, Tailwind, daisyUI / HeroUI / Flowbite / shadcn/ui, React Icons / Lucide, React Router and Hot Toast"
+2026-11-01T17:45:49.258Z,@flisk-sh/pages,0.3.0,tdk-landscape-user,MIT,42095,"Publish a page to pages.flisk.si/@you/name in one command: free, public, one git branch per space. Markdown publishes with no account."
+2026-11-01T17:46:43.239Z,@rs-dsh/dsh-frosty-castle-theme,0.1.0-rc.1,romanys,MIT,4584720,"Frosty Castle Theme: a dark-fantasy frost palette, stone-and-iron frame, crest and carved controls for DSH Web."
+2026-11-01T17:46:56.283Z,pi-god-view,0.1.0,luochang212,MIT,34039,Native Pi coding-agent extension for the godview parallel-agent board.
+2026-11-01T17:46:57.586Z,@sharanyo/dep-bisect,0.1.0,sharanyo,MIT,108400,"Find which dependency update broke your build. Bisects lockfile changes, even when two updates only fail together."
+2026-11-01T17:47:05.602Z,@toneflix/studio-plugins,0.4.0,3m1n3nc3,MIT,22119,"Plugins for Toneflix Studio: hosts Web Audio Modules (WAM 2) as live track and master inserts, with their own editors, state and offline mixdown."
+2026-11-01T17:47:07.557Z,@toneflix/studio-recorder,0.4.0,3m1n3nc3,MIT,21442,"Recording for Toneflix Studio: records a microphone or line input onto a track, lined up with playback."
+2026-11-01T17:48:27.465Z,@2hasan2/bunker,0.1.1,2hasan2,MIT,514312,"Typed, composable backend toolkit for Bun, TypeScript, and Zod."
+2026-11-01T17:50:22.813Z,@unofficial-star-citizen-api/rsi.js,0.8.0,dymerz,MIT,6303627,A TypeScript library for retrieving Star Citizen data from the Roberts Space Industries website
+2026-11-01T17:50:22.865Z,@korzen/bot-protection,1.0.0,korzen-dev,SEE LICENSE IN LICENSE,313461,"Korzen Bot Protection for Node: asks /v1/decide before a protected action, and fails open on any error or timeout."
+2026-11-01T17:51:09.932Z,dep-bisector,0.1.0,sharanyo,MIT,108394,"Find which dependency update broke your build. Bisects lockfile changes, even when two updates only fail together."
+2026-11-01T17:51:35.442Z,@y4shin/pi-task-workflow,5.0.1,y4shin,MIT,4920131,Wayfinder grilling → task frontier → type-specific execution: a planning workflow for docs/tasks/. Pi extension.
+2026-11-01T17:51:54.442Z,obolos,1.2.0,equitylayer,SEE LICENSE IN LICENSE,1630684,Agent-friendly command line interface for the obolos protocol
+2026-11-01T17:52:07.385Z,humanize-code,1.0.0,aniketkumar-01,MIT,36707,AI agent skill to make code look like it was written by a real human developer instead of an AI
+2026-11-01T17:54:06.114Z,@badgeia/provenance,0.2.0,thehomer_bp,MIT,180730,"Badge Provenance Pack (BPP-001) client library and Signed Agent Record verifier: sign agent manifests and HTTP responses, verify a badgeIA Signed Agent Record offline, and gate CI on it — for Node.js…"
+2026-11-01T17:54:06.265Z,session-rail,0.1.0,wzc520pyfm,MIT,42665,"Session-scoped environment, context, plugins and read-only Git changes in the DSH right sidebar."
+2026-11-01T17:54:54.934Z,@jarvisx/mcp-server,0.1.0,gojarvisx,SEE LICENSE IN README.md,9098,"JarvisX Modernization Assurance as an MCP server — call the credential-free SQL row-diff proof, deterministic conversion, estate assessment, and the PAID signed Migration Proof Certificate from Claud…"
+2026-11-01T17:56:00.996Z,@henglosio/ui,1.0.0,henryvilani,SEE LICENSE IN LICENSE,148386,The HenglosIO design system: React components and tokens.
+2026-11-01T17:56:24.915Z,@henglosio/workflow,1.0.0,henryvilani,SEE LICENSE IN LICENSE,328016,The HenglosIO workflow model and its real-time collaboration.
+2026-11-01T17:56:56.008Z,flightproof,0.0.1,flightproof,Apache-2.0,524,"Name reserved for Flightproof, economic preflight for apps and agents that put money into Morpho vaults. No usable code yet."
+2026-11-01T17:57:05.069Z,atlassian-wallboard-plugin,10.0.0,knbbd,ISC,295,Account utility library
+2026-11-01T17:57:44.816Z,@gjermundgaraba/clankerbox-server,0.31.0,bjaanes,MIT,111822,The clankerbox control plane
+2026-11-01T17:57:54.029Z,@gjermundgaraba/clankerbox-host,0.31.0,bjaanes,MIT,110581,A clankerbox host: runs the control plane's operations on a runtime
+2026-11-01T17:58:16.843Z,video-repro,0.1.1,alphagiel,MIT,43996,"Upload a bug video, get repro steps."
+2026-11-01T17:59:38.995Z,nws-forecast-widget,0.1.1,robertlbolton,MIT,31787,A dependency-free web component that shows the National Weather Service forecast for any US latitude and longitude. No API key required.
+2026-11-01T17:59:52.319Z,gajian,0.1.0,naufaljct48,MIT,91449,"Indonesian payroll math: PPh 21 TER (PP 58/2023), December reconciliation, PTKP and BPJS, with dated rules cited to the regulation."
+2026-11-01T18:00:09.684Z,gajian-mcp,0.1.0,naufaljct48,MIT,16330,"MCP server for gajian: Indonesian PPh 21 TER, BPJS and payslip calculations as tools for Claude, Cursor and other MCP clients."
+2026-11-01T18:00:18.8Z,@lookio/sdk,1.0.0,guillaume_duv,MIT,1266504,"The official Lookio TypeScript SDK: resources, assistants and questions from Node, Workers, Deno or a server-side app."
+2026-11-01T18:00:24.108Z,@lookio/cli,2.0.0,guillaume_duv,MIT,2089490,"The official Lookio CLI: resources, assistants and questions from a terminal, a CI job, or an AI agent."
+2026-11-01T18:00:34.789Z,nuvael-mcp,0.1.0,nuvael,MIT,9263,"Serveur MCP Nuvael — génère images et vidéos IA (Sora, Veo, WAN, Kling, FLUX, Nano Banana…) depuis Claude, avec ta clé Nuvael."
+2026-11-01T18:01:04.793Z,react-native-offline-game,1.0.0,sagarkhengat,MIT,57919,"Chrome-style ""No internet"" screen with the dinosaur game for React Native. Appears when the device goes offline and closes when the connection comes back."
+2026-11-01T18:01:16.088Z,@react-email-builder/core,0.0.1,rajeev1503,MIT,231522,"Core schema, mutations, and block registry for react-email-builder"
+2026-11-01T18:01:21.362Z,@react-email-builder/engine,0.0.1,rajeev1503,MIT,301879,State management engine for react-email-builder
+2026-11-01T18:01:24.21Z,@react-email-builder/templates,0.0.1,rajeev1503,MIT,128803,Pre-made email document templates for react-email-builder
+2026-11-01T18:01:29.353Z,@react-email-builder/react,0.0.1,rajeev1503,MIT,3924967,React UI layer for react-email-builder
+2026-11-01T18:01:32.839Z,@react-email-builder/mcp,0.0.1,rajeev1503,MIT,24066,An MCP server and CLI that let outside agents create valid emails without the editor
+2026-11-01T18:02:11.587Z,@pixpilot/trpc-access-testing,0.0.0,pixpilot-org,MIT,47281,"Manifest coverage, database auditing and cross-user isolation tests for tRPC"
+2026-11-01T18:02:46.869Z,sparrow-agents-darwin-arm64,0.2.0,vermarjun,MIT,62406389,"One captain, three harnesses. Hire Claude Code, Codex and OpenCode agents into real terminals, talk to them over one protocol, and get results with evidence."
+2026-11-01T18:03:03.68Z,sparrow-agents-darwin-x64,0.2.0,vermarjun,MIT,67308799,"One captain, three harnesses. Hire Claude Code, Codex and OpenCode agents into real terminals, talk to them over one protocol, and get results with evidence."
+2026-11-01T18:03:29.171Z,sparrow-agents-linux-x64,0.2.0,vermarjun,MIT,104478034,"One captain, three harnesses. Hire Claude Code, Codex and OpenCode agents into real terminals, talk to them over one protocol, and get results with evidence."
+2026-11-01T18:04:02.955Z,sparrow-agents-linux-arm64,0.2.0,vermarjun,MIT,102042802,"One captain, three harnesses. Hire Claude Code, Codex and OpenCode agents into real terminals, talk to them over one protocol, and get results with evidence."
+2026-11-01T18:04:06.188Z,sparrow-agents,0.2.0,vermarjun,MIT,3664,"One captain, three harnesses. Hire Claude Code, Codex and OpenCode agents into real terminals, talk to them over one protocol, and get results with evidence."
+2026-11-01T18:06:11.739Z,@jadis/fastify,1.7.0,bioleyl,MIT,29394,"Renders the pages of a Jadis app on a Fastify server: declarative shadow DOM from the app's own routes, rendered in worker threads, taken over in the browser."
+2026-11-01T18:07:18.707Z,@unlyx/sdk,1.0.0,unlyx,MIT,54302,"Official Node.js SDK for the Unlyx REST API v1 (account, services, orders, webhooks, usage). Zero dependencies."
+2026-11-01T18:08:53.927Z,@knowttl/kubernetes-axi,0.1.0,knowttl,,117766587,Agent-facing Kubernetes CLI backed by pinned kubectl
+2026-11-01T18:10:05.636Z,dsh-vt-minedesign,1.0.0,vontean,MIT,156353,"Connects DeepSeek Harness to the local MineDesign install: its stdio MCP tools, its design skills, and the editor link that MCP Apps cannot deliver here."
+2026-11-01T18:10:37.796Z,@archipen/render,0.1.0,menostos,MIT,968262,"Render Archipen diagrams to SVG, PNG and PDF without a browser: command line, Node API and HTTP server."
+2026-11-01T18:10:54.51Z,@archipen/mcp,0.1.0,menostos,MIT,263904,MCP server that lets an AI client read and edit the diagram open in the Archipen editor.
+2026-11-01T18:11:04.36Z,@shipnoted/react,0.1.0,vamsiy,MIT,27836,"Headless React hooks for Shipnoted: a changelog, a feedback board and a subscribe form in your own components. Framework-free core included."
+2026-11-01T18:11:53.618Z,opencode-natural-scheduler,0.1.0,lrj51651561,MIT,37861,"Natural-language scheduled tasks for OpenCode: create recurring or one-off tasks by asking, with prompts injected back into the originating session."
+2026-11-01T18:12:20.506Z,dsh-endpoint,1.0.0,young.wang,MIT,387614,OpenAI-compatible HTTP endpoint that forwards model calls through a running DeepSeek Harness
+2026-11-01T18:12:38.521Z,@fleetmesh/dev-config,0.1.0,fleetmesh-dev,CC0-1.0,14693,"Shared TypeScript, ESLint and repo-hygiene configuration for the @fleetmesh/* packages: tsconfig bases, an eslint flat config, the dist import-extension fixer and a ratcheting <= 500 LOC guard"
+2026-11-01T18:13:31.122Z,@aichixiaojuzi/dsh-model-quick-switch,0.1.1,aichixiaojuzi,MIT,93788,Provider-first model switcher for the DSH composer. 输入框里的双栏模型切换器：所有供应商一级可见，可拖动排序、别名、收藏与最近使用。
+2026-11-01T18:14:13.299Z,agent-gateway-sdk,1.0.0,rahuljoshitech,SEE LICENSE IN TERMS.md,612205,Mont Agent Gateway SDK. Use is governed by TERMS.md.
+2026-11-01T18:14:44.762Z,@shiplane/changesets,0.1.0,arnaud-zg,MIT,21321,Versioning for shiplane: versions and changelogs from changesets.
+2026-11-01T18:14:47.492Z,@shiplane/cloudflare-pages,0.1.0,arnaud-zg,MIT,16987,Static hosting for shiplane: a static build on Cloudflare Pages.
+2026-11-01T18:14:49.596Z,@shiplane/eas,0.1.0,arnaud-zg,MIT,109278,"Mobile distribution for shiplane: an Expo app on EAS, a store build or an over-the-air update."
+2026-11-01T18:14:51.539Z,@shiplane/fly,0.1.0,arnaud-zg,MIT,14372,Server hosting for shiplane: any Dockerfile on Fly.io.
+2026-11-01T18:14:53.457Z,@shiplane/git,0.1.0,arnaud-zg,MIT,22060,"Source control for shiplane: commits, tags and branches through git."
+2026-11-01T18:14:55.588Z,@shiplane/github,0.1.0,arnaud-zg,MIT,60460,"GitHub for shiplane: pull requests, releases and deploy records, the ship workflow on Actions, and comments on what shipped."
+2026-11-01T18:14:57.846Z,@shiplane/npm,0.1.0,arnaud-zg,MIT,19564,Package registry for shiplane: a package on npm.
+2026-11-01T18:16:03.908Z,@eidolonmc/wasm,0.0.1-alpha,bingling-sama,MIT,1835,WebAssembly bindings for Eidolon Minecraft skin renderer
+2026-11-01T18:18:17.35Z,ye-ast-mcp,0.1.0,arielfalcon,Apache-2.0,1123989,Deterministic code truth engine: verifiable facts about a codebase for AI agents and harnesses.
+2026-11-01T18:19:02.059Z,opencode-agent-workflows,0.0.0-stage,kanekotic,,346,Temporary package placeholder for staged publishing
