@@ -1,0 +1,226 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-02T06:16:24.26Z,@ttrpg-engine/grid,0.2.0,prophecievtt,MIT,100120,"Tactical grid mathematics for TTRPGs: square and hex distances, pixel conversions, area-of-effect cells. Pure TypeScript, zero dependencies."
+2026-11-02T06:16:42.917Z,@ttrpg-engine/interactions,0.2.0,prophecievtt,MIT,189584,"Live-session state machine for TTRPGs: immutable ECS state, intent dispatch, RFC 6902 delta emission, temporal effects, injected-entropy dice. Deterministic by construction."
+2026-11-02T06:16:43.693Z,@golproductions/jogga,1.0.1,finessor06,UNLICENSED,11977,Proof that a deploy is live.
+2026-11-02T06:16:45.418Z,@ttrpg-engine/rules,0.2.0,prophecievtt,MIT,283823,"Static knowledge engine for TTRPG systems: compendium indexing, JSON Schema-driven homebrew forms, sandboxed declarative validators."
+2026-11-02T06:16:47.858Z,@ttrpg-engine/spatial,0.2.0,prophecievtt,MIT,167948,"Grid-agnostic 3D geometry for TTRPGs: volumetric shapes, raycasting, collisions, line of sight, lighting. Pure TypeScript, zero dependencies."
+2026-11-02T06:16:50.444Z,@ttrpg-engine/orchestrator,0.2.0,prophecievtt,MIT,61677,Glue pipeline for the TTRPG engine ecosystem: rules query → tactical evaluation → entropy binding → interaction dispatch. The fireball vertical slice lives here.
+2026-11-02T06:17:01.468Z,@protega-post-care/care-sdk,0.1.0,khalid.shaikh,UNLICENSED,3168217,Protega protection widgets (PDP + cart) for React web storefronts
+2026-11-02T06:18:06.712Z,@byteplus/arkcli-probe-6f3bd5220310-win32-x64,1.0.47-probe.6f3bd5220310,fanziqing,Apache-2.0,41298768,ArkCLI byteplus binary and Skills for windows-amd64
+2026-11-02T06:18:14.429Z,@office-rs/rword-convert-linux-x64-gnu,0.1.0,ravenq,Apache-2.0,9334122,rword-convert native addon (linux-x64-gnu)
+2026-11-02T06:18:24.964Z,@office-rs/rword-convert,0.1.0,ravenq,Apache-2.0,27634,Headless docx to PDF conversion (napi-rs bindings over the rword kernel)
+2026-11-02T06:19:06.156Z,nish-ui,1.4.1,nish101,MIT,2735737,"Design tokens, seven themes, flash-free theme switching and accessible React 19 components for Tailwind 4, plain CSS and static HTML. Live docs: https://design.nish.software"
+2026-11-02T06:19:24.312Z,@ohos-ports/stdlib-math-base-special-pow,0.3.1-beta.0,lljry,Apache-2.0,550824,Exponential function.
+2026-11-02T06:19:32.273Z,@ohos-ports/memlab-core,2.0.6-beta.1,lljry,MIT,890686,memlab core libraries
+2026-11-02T06:19:42.652Z,@reneturcios/lancontrol,0.1.0,reneturcios,MIT,34066,"UniFi controller read operations through a single action-router tool: clients, devices, WLANs, health, alarms, events, sysinfo and identity. One bin serves a small CLI and a stdio MCP server."
+2026-11-02T06:19:59.201Z,@ohos-ports/memlab-e2e,2.0.6-beta.1,lljry,MIT,541721,memlab browser E2E interaction libraries
+2026-11-02T06:20:00.675Z,@medeo-plugin/sdk,0.7.0,medeo_plguin,MIT,188014,"TypeScript SDK for Medeo desktop plugins: one import for the sandboxed worker, its windows and Node plugins."
+2026-11-02T06:20:03.109Z,@medeo-plugin/cli,0.7.0,medeo_plguin,MIT,771388,"Command line for Medeo desktop plugins: scaffold, build, sign, check and live-reload a plugin in a running Medeo."
+2026-11-02T06:20:05.597Z,create-medeo-plugin,0.7.0,medeo_plguin,MIT,1595,Scaffold a Medeo desktop plugin: `npm create medeo-plugin@latest my-plugin`.
+2026-11-02T06:20:19.683Z,@fcjplugins/pwutils,1.0.0-bate.1,fengcangjun,MIT,39405,PW工具库
+2026-11-02T06:20:27.038Z,@ohos-ports/memlab-heap-analysis,2.0.6-beta.1,lljry,MIT,248862,heap analysis plugins for memlab
+2026-11-02T06:20:28.931Z,@cloud-idaas/core-sdk,0.1.0-beta.1,zhangluyang,Apache-2.0,240528,IDaaS core-sdk for TypeScript and JavaScript (Node.js)
+2026-11-02T06:20:53.178Z,@ohos-ports/memlab-api,2.0.6-beta.1,lljry,MIT,174492,memlab API (HarmonyOS adaptation: browser-driven memory leak testing on OpenHarmony via @ohos-ports/puppeteer ohos-aa CDP launcher)
+2026-11-02T06:21:17.258Z,@byteplus/arkcli-probe-6f3bd5220310-win32-arm64,1.0.47-probe.6f3bd5220310,fanziqing,Apache-2.0,37815636,ArkCLI byteplus binary and Skills for windows-arm64
+2026-11-02T06:21:22.311Z,@ohos-ports/appium,3.9.0-beta.0,lljry,Apache-2.0,1160029,Automation for Apps.
+2026-11-02T06:22:15.004Z,oc-market-quail-zephyr-72a0,0.0.2,terry2010,MIT,9265,Browse and install verified opencode plugins without leaving the app
+2026-11-02T06:22:35.798Z,@foxaitechnologyjsc/module-cli,0.1.0,dangnm,MIT,60316,"Công cụ dòng lệnh cho người phát triển module giao diện FOXAI Native: create, validate, dev, build, pack (bọc @foxaitechnologyjsc/module-sdk)."
+2026-11-02T06:22:36.306Z,nannytool,0.1.1,50c,MIT,4015,"nanny_tool - the babysitter lane. Check an agent's code change for bad behavior (hollowed tests, deleted safety modules, committed secrets, exfil, history rewrite, a report that contradicts the diff)…"
+2026-11-02T06:24:12.91Z,mographc,0.1.1,replicas,MIT,396224,"A compiler, linter and test framework for motion graphics made with Remotion"
+2026-11-02T06:24:58.007Z,@attosol/global-score,1.0.0,imrahulsoni,MIT,43621,Zero-DB high-performance global leaderboard score manager with reverse sort order and capacity caps
+2026-11-02T06:26:25.981Z,@byteplus/arkcli-probe-6f3bd5220310,1.0.47-probe.6f3bd5220310,fanziqing,Apache-2.0,40922,BytePlus Ark command-line interface
+2026-11-02T06:27:07.641Z,@aiwb/cli,0.1.0,ambujjauhari,Apache-2.0,11517590,"AIWorkBench: a local-first mission control for Copilot and Factory Droid agents, in your browser."
+2026-11-02T06:27:21.016Z,@reneturcios/gamedb-port,0.1.0,reneturcios,MIT,45443,"IGDB game database access over Twitch OAuth: search games by name, fetch full game details, list the most anticipated upcoming games by hype, and run raw Apicalypse queries. One bin serves a small CL…"
+2026-11-02T06:28:29.102Z,@hya_a/remote-host-example,0.1.0,hya_a,MIT,2214,Small remote package example
+2026-11-02T06:28:43.493Z,@probara/cucumber-reporter,0.1.0,gustavocynch,Apache-2.0,106916,Cucumber formatter that sends every scenario and step result to Probara.
+2026-11-02T06:28:55.897Z,dsh-darksouls-guide,0.11.4,planktontian,MIT,419772,Dark Souls III 存档感知攻略助手：读存档、答攻略、规划路线，附区域进度图
+2026-11-02T06:30:09.151Z,anyapi-to-mcp,0.1.2,hyperbolictonic,MIT,844710,"Wrap any API as a typed, token-efficient, navigable MCP server."
+2026-11-02T06:31:26.456Z,@lingjingai/auto-traffic-cli,0.1.1,tom_wang_996,UNLICENSED,1752866,Auto Traffic 命令行客户端与 Agent 工具
+2026-11-02T06:32:20.381Z,calc-h,0.0.1,huaju,MIT,5302,伤害计算公式集
+2026-11-02T06:32:34.197Z,@imba97/ci-kit-http,0.1.0,imba97,MIT,4253,"Tiny fetch wrapper with timeout, retry and typed errors"
+2026-11-02T06:32:49.198Z,dsh-memory-memkit,0.2.0,a423k991,MIT,73684,DSH 记忆插件：注入记忆索引，注册 recall/write/pin/forget/settle/diary 工具，支持断点续写的日记
+2026-11-02T06:33:05.682Z,@imba97/ci-kit-env,0.1.0,imba97,MIT,3764,Read .env files and export them safely
+2026-11-02T06:33:10.186Z,@imba97/ci-kit-release,0.1.0,imba97,MIT,5023,Semver and release tag helpers
+2026-11-02T06:33:16.115Z,@imba97/ci-kit-changelog,0.1.0,imba97,MIT,7569,Turn git commits into grouped release notes
+2026-11-02T06:33:21.624Z,@imba97/ci-kit-ai,0.1.0,imba97,MIT,11901,Multi-provider AI client for text and image generation
+2026-11-02T06:33:26.477Z,@imba97/ci-kit-gitlab,0.1.0,imba97,MIT,8652,"Minimal GitLab API client for releases, packages and schedules"
+2026-11-02T06:33:32.405Z,@imba97/ci-kit,0.1.0,imba97,MIT,4737,Meta package that re-exports every ci-kit module
+2026-11-02T06:33:52.269Z,@compforge/repokit,0.13.1,bertli,,213512,"Native repository inspection, Git queries and Forge reads for Node.js"
+2026-11-02T06:34:17.244Z,@openeik/tools,0.4.0,carlerikgoverde,Apache-2.0 AND CC0-1.0 AND Unicode-3.0 AND MIT,6819945,"Read, check, write, compile, hash, diff and store OpenEik building models, and print them as IFC (and, experimentally, IFCX), from the specification alone, with the openeik command."
+2026-11-02T06:34:36.645Z,sidepact,0.5.0,watson_cc,MIT,127984,"A Markdown handoff bridge for frontend, backend, and cross-platform AI agents"
+2026-11-02T06:34:47.8Z,@kadal/theme-reveal,0.11.0,pmithunish,MIT,48782,"Reveal: reveal.js's twelve themes for Kadal Deck (black, white, league, beige, night, serif, simple, solarized, moon, dracula, sky, blood) as one theme with themeConfig.variant, each in light and dar…"
+2026-11-02T06:34:49.774Z,@nefelibataaaaa/arcade-core,1.1.0,nefelibataaaaa,MIT,19091,"Dependency-free, pure 2048 game logic: move, spawn, hasMoves, canMove, plus seeded RNG and movement details."
+2026-11-02T06:34:53.069Z,@lynn123411/dsh-native-plus,0.1.0,lynn123411,MIT,547473,在 DSH 自带的蓝白黑之上增强对话正文与外壳观感：六级标题的蓝阶、引用与表格、代码块、行高与段距、内嵌字体。
+2026-11-02T06:35:11.159Z,@12inch-glorysoft/dsh-ad-form,1.0.0-beta.1,zhouxianjun,ISC,538927,DSH 表单设计插件：根据需求与参考图生成表单，支持数据源、字典及实体检索
+2026-11-02T06:35:13.55Z,@reneturcios/visualdiff,0.1.0,reneturcios,MIT,48950,"SnapDiff visual testing from the terminal and MCP: verify UI changes against a baseline, compare pages, capture screenshots, and render HTML/CSS to images. One bin serves a small CLI and a stdio MCP…"
+2026-11-02T06:35:51.696Z,@nerxa/socketon,1.21.0,nerxa,MIT,21807262,"Nerxa socket / modded Baileys — interactive message, album, messageBuilder, newsletter, VoIP"
+2026-11-02T06:36:27.012Z,astro-rbac,1.0.0,efimov-code,MIT,93685,"Zero-dependency, type-safe RBAC and ABAC authorization library for Astro"
+2026-11-02T06:36:30.964Z,orange11,1.0.0,orange68,MIT,2783,"Sequelize migrations with constraints (Customer and Account, one-to-one)"
+2026-11-02T06:37:31.95Z,orange12,1.0.0,orange68,MIT,1689,Sequelize models with validations and one-to-one association
+2026-11-02T06:38:58.245Z,brd-node,1.0.0,abdulamk,MIT,73220,"Advanced Node.js module for creating, reading, extracting and managing Binary Resources Data (.brd) archive files"
+2026-11-02T06:39:25.697Z,@wagq/biome,0.1.0,wa_gg,ISC,22441,wagq 团队 Biome 统一配置：TypeScript / React / Vue / CSS(SCSS) 一把梭
+2026-11-02T06:39:28.186Z,ninada,4.0.1,hemanth,MIT,361180,Stream Classical Sanskrit and 5 Indian languages at 24 kHz studio quality in the browser and Node.js via dedicated ~28 MB Native Studio VITS ONNX specialists or zero-dep Klatt synthesis.
+2026-11-02T06:40:41.415Z,@dev-jony/text-tools,1.0.0,dev-jony,,367,
+2026-11-02T06:40:48.744Z,lanerouter,0.0.1,lanerouter,UNLICENSED,541,Live road conditions for the agent web. Coming soon.
+2026-11-02T06:40:53.896Z,@oaath/automation,0.3.8,leekt216,Apache-2.0,108984,Declarative OAAth automations: the definition schema and the automation service client.
+2026-11-02T06:40:59.463Z,@oaath/automation-server,0.3.8,leekt216,Apache-2.0,254022,"Self-hostable OAAth automation service: HTTP API, scheduler and executor over PostgreSQL."
+2026-11-02T06:41:08.731Z,@winvlyde/induce-cli,1.0.0,windrily,ISC,57380,"Use Git to centrally manage your team's AI assets (such as Skills, Rules, Docs, Hooks/MCP configurations) and sync them to your local Claude Code, Codex, and Opencode."
+2026-11-02T06:41:54.06Z,@fullsnacklab/eslint-plugin-astro,0.1.0,slurpybeckerman,MIT,5970,Astro ESLint plugin with typed JavaScript and TypeScript configuration
+2026-11-02T06:42:06.476Z,@reneturcios/loglens,0.1.0,reneturcios,MIT,52936,"Homelab log investigation over a local JSONL log file: status, tail, errors, substring search, hourly or daily timelines, and surrounding context. One bin serves a small CLI and a stdio MCP server ex…"
+2026-11-02T06:42:07.199Z,@fullsnacklab/eslint-plugin,0.1.0,slurpybeckerman,MIT,6871,ESLint plugin with explicit organization rule policy
+2026-11-02T06:42:16.914Z,@fullsnacklab/eslint-plugin-shopify,0.1.0,slurpybeckerman,MIT,6784,Shopify-inspired ESLint plugin with selected TypeScript rules
+2026-11-02T06:42:22.834Z,@golproductions/flora,1.0.0,finessor06,UNLICENSED,7528,Proof that an npm publish is out.
+2026-11-02T06:42:31.326Z,dsh-remote-connect,1.3.0,kiritoko1029,MIT,283863,"Connect to another computer's DSH with its URL and token, forward that machine's ports, and open its files with this computer's programs."
+2026-11-02T06:43:03.29Z,cortico-world-usage,0.1.0,bylm,MIT,20999,"Cortico World: read-only local usage ledger, today and range totals with per-model cost"
+2026-11-02T06:43:04.935Z,@conciergesdk/web,0.1.0,conciergesdk,SEE LICENSE IN LICENSE,1072720,"Concierge support chat for websites and web apps: a drop-in widget in a Shadow DOM, with live replies, photos, cards and client tools."
+2026-11-02T06:43:12.183Z,@conciergesdk/cli,0.1.0,conciergesdk,MIT,203068,"Set up Concierge in-app support in an iOS, Android, Expo, React Native or Flutter app: detect, install, configure, verify."
+2026-11-02T06:43:21.654Z,@conciergesdk/react-native,0.1.0,conciergesdk,SEE LICENSE IN LICENSE,6859827,"Concierge in-app support chat for React Native and Expo (iOS and Android, with an Expo Go fallback)."
+2026-11-02T06:43:23.22Z,@vibest/cli-darwin-arm64,0.0.1-beta.10,iamdin,MIT,91836502,The vibest binary for macOS on Apple silicon; installed by @vibest/cli.
+2026-11-02T06:43:40.375Z,@yusenlab/icons,0.2.0,yukia,MIT,541529,HugeIcons 风格原创 React 图标库（Web）：内联 SVG、currentColor 控色、双变体（stroke / filled-Bulk）
+2026-11-02T06:44:15.126Z,@yusenlab/icons-rn,0.2.0,yukia,MIT,547798,HugeIcons 风格原创 React Native 图标库：react-native-svg 渲染、双变体（stroke / filled-Bulk）
+2026-11-02T06:44:20.863Z,@vibest/cli-linux-x64,0.0.1-beta.10,iamdin,MIT,111787828,The vibest binary for GNU/Linux x64 (glibc); installed by @vibest/cli.
+2026-11-02T06:44:28.091Z,@dexto/cloud-client,1.15.0-beta.0,truffle-rahul,,920225,"Typed client for Dexto's public /v1 API, generated from its OpenAPI document"
+2026-11-02T06:44:49.544Z,@yusenlab/icons-taro,0.2.0,yukia,MIT,1317024,HugeIcons 风格原创 Taro 小程序图标库：background-image data-URI + 颜色注入、双变体（stroke / filled-Bulk）
+2026-11-02T06:44:54.347Z,@protoyard/core,1.1.0,dailybotops,MIT,223169,"Framework-agnostic contracts for Protoyard: manifests, scenarios, personas, permissions, simulation clock, environment, snapshots and themes."
+2026-11-02T06:44:57.887Z,@protoyard/flows,1.1.0,dailybotops,MIT,141077,"Framework-agnostic workflow engine for Protoyard: a serializable flow model with triggers, steps, data-only conditions, edit operations, recipes and validation (no Svelte, no executable expressions)."
+2026-11-02T06:45:00.943Z,@protoyard/gamification,1.1.0,dailybotops,MIT,28536,"Framework-agnostic gamification engine for Protoyard prototypes: points ledger, levels, badges, missions, ISO-week streaks and leaderboards (no Svelte)."
+2026-11-02T06:45:03.099Z,nannytools,0.0.2,50c,MIT,668,Nanny Tools - name-protection shield for nannytool.com / nanny.tools. The real package is nannytool (client + nanny_ CLI).
+2026-11-02T06:45:03.432Z,fengshuibedroom-url-tools,0.1.0,wangneo276,MIT,19666,"Upload a bedroom photo for an AI feng shui bedroom check: bed position, door line, mirrors, windows and walkways, with priority fixes. First full report free."
+2026-11-02T06:45:07.927Z,@protoyard/templates,1.1.0,dailybotops,MIT,5737964,"Every Protoyard starter template, packed for `protoyard new` outside this repository: listTemplates() and templateDir(name)."
+2026-11-02T06:45:12.033Z,@protoyard/ui,1.1.0,dailybotops,MIT,500416,"Svelte 5 UI components and product patterns for Protoyard prototypes, built on Texuli (Tailwind CSS 4 + Lucide)."
+2026-11-02T06:45:15.842Z,@protoyard/ai,1.1.0,dailybotops,MIT,223441,Deterministic simulated AI conversations and response packs for Protoyard prototypes.
+2026-11-02T06:45:19.146Z,@yusenlab/icons-picker,0.2.0,yukia,MIT,62407,图标选择器（Web）：headless 核心 + 最小默认样式 + antd v5/v6 adapter（./antd-v5、./antd-v6、./antd）
+2026-11-02T06:45:19.846Z,@protoyard/avatars,1.1.0,dailybotops,MIT,648128,Data-only avatar library for Protoyard: 175 portraits of fictional people as optimized square WebP (64 and 128 px) with a verified manifest.
+2026-11-02T06:45:22.938Z,@protoyard/charts,1.1.0,dailybotops,MIT,21937,"Chart math for Protoyard prototypes: thin re-exports of @texuli/charts/math (scales, shapes, layouts, downsampling) plus theme-token chart palettes."
+2026-11-02T06:45:26.181Z,@protoyard/database,1.1.0,dailybotops,MIT,44091,"IndexedDB persistence for Protoyard prototypes (Dexie): namespaced databases, migrations, control store, snapshot I/O and storage diagnostics."
+2026-11-02T06:45:29.346Z,@protoyard/flows-ui,1.1.0,dailybotops,MIT,46762,Accessible Svelte workflow editor and simulated run panels for Protoyard.
+2026-11-02T06:45:32.339Z,@protoyard/gamification-ui,1.1.0,dailybotops,MIT,20557,"Svelte 5 gamification UI for Protoyard prototypes: level, points and streak chips, achievement badges with progress rings, mission cards and a privacy-aware leaderboard."
+2026-11-02T06:45:35.54Z,@protoyard/offline,1.1.0,dailybotops,MIT,23996,"Optional offline support for exported Protoyard prototypes: a build-time precache manifest and a small, safe service worker (opt-in)."
+2026-11-02T06:45:38.816Z,@protoyard/themes,1.1.0,dailybotops,MIT,193658,"Protoyard theme engine: token presets, light/dark/system resolution and scoped CSS variable application."
+2026-11-02T06:45:42.079Z,@protoyard/blocks,1.1.0,dailybotops,MIT,490929,"Framework-free content-block engine for Protoyard: thin re-exports of @texuli/blocks/core (and family engines) plus Zod schema adapters for decks, pages and docs."
+2026-11-02T06:45:45.211Z,@protoyard/charts-ui,1.1.0,dailybotops,MIT,67423,Svelte chart components for Protoyard: thin re-exports and adapters over @texuli/charts families.
+2026-11-02T06:45:48.605Z,@protoyard/review,1.1.0,dailybotops,MIT,154429,"Review comments engine for published Protoyard prototypes: pin anchors, a small storage adapter contract with local (IndexedDB) and http adapters, a Request/Response comments handler for the opt-in s…"
+2026-11-02T06:45:52.367Z,@protoyard/scenarios,1.1.0,dailybotops,MIT,224529,"Scenario engine for Protoyard: presets, seeded generator SDK (faker + PRNG + fixed clock), referential-integrity checks and timeline helpers."
+2026-11-02T06:45:56.262Z,@protoyard/views,1.1.0,dailybotops,MIT,161136,"Framework-free engines for Protoyard's rich views kit: board ranks and WIP limits, calendar recurrence, schedule dependencies, grid virtualization and filters, trees, offline geo, comments and determ…"
+2026-11-02T06:46:00.105Z,@protoyard/ai-ui,1.1.0,dailybotops,MIT,140567,Svelte 5 assistant interface components for simulated AI prototypes.
+2026-11-02T06:46:03.269Z,@protoyard/analytics,1.1.0,dailybotops,MIT,95994,"Framework-agnostic analytics engine for Protoyard prototypes: event and metric contracts, date ranges, funnels, cohorts and deterministic analytics generators (no Svelte)."
+2026-11-02T06:46:04.239Z,lg-ipk,0.1.0,lennylxx,Apache-2.0,195770,"Download IPKs from the LG Content Store in any country on your computer, with automatic NCG decryption"
+2026-11-02T06:46:06.79Z,@protoyard/decks,1.1.0,dailybotops,MIT,250581,"Protoyard's deck engine, a thin layer over @texuli/deck: Protoyard's deck shape and offline media policy, layout catalog, lint, text twins, Markdown decks, Deck Studio edits and agent slide reference…"
+2026-11-02T06:46:10.162Z,@protoyard/pages,1.1.0,dailybotops,MIT,111422,"Framework-agnostic page and doc engine for Protoyard: document schemas, limits, TOC helpers and form-response contracts (no Svelte)."
+2026-11-02T06:46:12.552Z,@reneturcios/threatkb,0.1.0,reneturcios,MIT,59949,"Query a local MITRE ATT&CK dataset: techniques by ID or fuzzy name, full technique detail, mitigations, detections, and tactics from an enterprise-attack STIX file. One bin serves a small CLI and a s…"
+2026-11-02T06:46:13.392Z,@protoyard/runtime,1.1.0,dailybotops,MIT,123441,"Framework-agnostic Protoyard runtime: composes database, scenarios, session, overrides, clock, environment, themes and snapshots into one PrototypeRuntime."
+2026-11-02T06:46:17.557Z,@protoyard/blueprint,1.1.0,dailybotops,MIT,1564095,"Data-only blueprints for Protoyard: schema validation and the derivations (stores, integrity, migrations, inputs, policy, generators, entity services) that turn a blueprint into a working prototype."
+2026-11-02T06:46:20.741Z,@protoyard/http,1.1.0,dailybotops,MIT,34870,"Optional mock HTTP layer for Protoyard prototypes: a fetch-compatible API routed to prototype services through the simulated environment — no server, no service worker."
+2026-11-02T06:46:24.44Z,@protoyard/saas,1.1.0,dailybotops,MIT,280242,"Simulated SaaS kit engine for Protoyard prototypes: tables, row schemas and integrity rules for accounts, sign-in history, tokens, MFA, invitations, an inbox, subscriptions, invoices and onboarding.…"
+2026-11-02T06:46:26.034Z,pi-startup-commands,0.1.0,chris_lve,MIT,6085,Run configured Pi extension commands on interactive startup and reload.
+2026-11-02T06:46:28.283Z,@protoyard/devtools,1.1.0,dailybotops,MIT,235122,"The Protoyard DevTools panel: scenarios, personas, lifecycle, data, environment, appearance and snapshots. Panel controls run on Texuli components; Theme Studio uses the Texuli-backed theme library."
+2026-11-02T06:46:32.399Z,@protoyard/renderer-svelte,1.1.0,dailybotops,MIT,358772,"Svelte 5 + Vite renderer for Protoyard: Vite config factory, app mounting, reactive runtime bindings and live queries."
+2026-11-02T06:46:35.595Z,@protoyard/review-ui,1.1.0,dailybotops,MIT,94767,"Svelte 5 review UI for published Protoyard prototypes: comment mode and pins, threads, the comments panel and review toolbar, and the lazy mount entry. Loaded only when review is enabled."
+2026-11-02T06:46:39.555Z,@protoyard/views-ui,1.1.0,dailybotops,MIT,349234,"Svelte 5 components for Protoyard's rich views kit (board, calendar, timeline, data grid, tree, simulated map, editor, activity, notifications, files, settings, states, command palette). One lazy sub…"
+2026-11-02T06:46:42.763Z,@protoyard/analytics-ui,1.1.0,dailybotops,MIT,120912,"Svelte 5 analytics kit for Protoyard prototypes: KPI tiles, date ranges, filters and segments, cohort and funnel views and a dashboard grid, one lazy subpath per view."
+2026-11-02T06:46:46.753Z,@protoyard/blocks-ui,1.1.0,dailybotops,MIT,181190,"Svelte 5 block renderers for Protoyard: thin adapters over @texuli/blocks family renderers, plus the Protoyard host/registry contract."
+2026-11-02T06:46:51.211Z,@protoyard/saas-ui,1.1.0,dailybotops,MIT,199140,"Svelte 5 screens and route helpers for Protoyard simulated SaaS kits (auth, inbox, onboarding, workspaces). Simulation UX only — never security."
+2026-11-02T06:46:55.311Z,@protoyard/crud,1.1.0,dailybotops,MIT,297733,"Blueprint-driven EntityList and EntityForm for Protoyard (DataTable, filters, CSV, soft-delete undo)."
+2026-11-02T06:46:58.673Z,@protoyard/decks-ui,1.1.0,dailybotops,MIT,158515,"Svelte 5 deck host for Protoyard: DeckApp on the @texuli/slides stage, with Protoyard's free and custom slides, Deck Studio and the Debug for agents panel, each on its own lazy subpath."
+2026-11-02T06:47:02.168Z,@protoyard/pages-ui,1.1.0,dailybotops,MIT,134578,"Svelte 5 page and doc hosts for Protoyard: PageApp, DocApp, form responses UI and print CSS, one lazy subpath per family."
+2026-11-02T06:47:08.084Z,@protoyard/player,1.1.0,dailybotops,MIT,7175198,"A prebuilt, static Protoyard app that runs any blueprint at runtime: IndexedDB, personas, scenarios, simulated time, DevTools, themes, layouts and shells, with no build."
+2026-11-02T06:47:12.035Z,@protoyard/cli,1.1.0,dailybotops,MIT,1296361,"The protoyard command line: discover, index, scaffold, run, validate, build, export and publish prototypes."
+2026-11-02T06:47:16.968Z,@protoyard/gallery,1.1.0,dailybotops,MIT,1400671,The Protoyard gallery: a static Astro site that lists prototypes and templates from the generated metadata registry.
+2026-11-02T06:47:23.787Z,@arco-themes/vue-iimp,0.0.1,arcodesign-bot,MIT,712985,Powered By [ArcoDesign](https://arco.design/)
+2026-11-02T06:47:28.948Z,@longzai-intelligence-oxlint/config,0.2.21,joydragon,UNLICENSED,3545,Longzai Intelligence oxlint 预设判定与按预设判据共享基础包
+2026-11-02T06:47:29.247Z,@uqpay/embedded-sdk,1.0.1,uqpay-admin,MIT,229787,"UQPAY embedded components for the browser: init() once, createElement() per element. Payment forms and issued-card details render in iframes served by UQPAY; this package is the loader. No dependenci…"
+2026-11-02T06:47:41.262Z,pi-context-info,0.1.0,littlepan,MIT,2486,"Shows last-turn uploaded context, turn count and average per turn in the Pi status bar"
+2026-11-02T06:47:41.654Z,mini-pay-flow,0.1.0,yimo,MIT,260379,微信小程序下单支付流程 SDK：收银台 + 结果页 + 会话内结果交接，npm 安装后可直接调用 pay / result
+2026-11-02T06:48:23.26Z,@ohos-npm-ports/prisma-composer,8.0.0-rc.29-1,hqzing,Apache-2.0,2995801,"Prisma Composer — build a Prisma App by composing Modules. Core authoring, deploy pipeline, and the service-rpc/http/node/nextjs authoring surfaces. The command family the `prisma` CLI mounts lives i…"
+2026-11-02T06:48:23.727Z,screenshotpro,1.0.1,hto404,MIT,159825,"Measured UI screenshots: capture a Windows window, keep UI Automation rectangles exactly as measured, render annotated figures, and verify the result with 15 assertions."
+2026-11-02T06:48:25.695Z,@ohos-npm-ports/prisma-composer-cli,8.0.0-rc.29-1,hqzing,Apache-2.0,994484,"Prisma Composer's command family, which the `prisma` CLI mounts as `deploy`, `deploy list`, `dev`, `dev url`, `dev stop` and `emulator list`."
+2026-11-02T06:48:33.694Z,@oex-sh/cli,0.1.1,tahatp,UNLICENSED,36806,"Find and run OEX tools from a terminal or an agent, paid from your OEX wallet."
+2026-11-02T06:49:05.672Z,dsh-houdini,0.1.6,eee1723,,118000464,DeepSeek Harness plugin that lets the agent control SideFX Houdini
+2026-11-02T06:49:07.224Z,@tablestakes/latitude,1.0.0,eryk_ts,Apache-2.0,708994,"MCP server for Meridian context delivery — local daemon, cache optimizer, read-optimized delivery layer"
+2026-11-02T06:50:12.96Z,tbx-cli,0.0.1,joeblackwaslike2,MIT,454,Placeholder for the tbx CLI toolbox. The real release follows.
+2026-11-02T06:50:22.77Z,@jiovan-labs/babel-plugin-remove-comment,2.0.0,davidhsing,MIT,8628,Removes script comments during babel compilation
+2026-11-02T06:51:19.624Z,@liwu1995/afu-context-dsh-darwin-arm64,0.1.0,liwu1995,Apache-2.0,9756263,AFU private platform runtime and third-party dependencies; see bundled licenses.
+2026-11-02T06:51:31.401Z,@anona-labs/anona-compute,0.1.2,raisrujan,MIT,2118,Anona Compute CLI and MCP server
+2026-11-02T06:52:04.199Z,orange13,1.0.0,orange68,MIT,1427,Sequelize test.js - insert and display a customer with his account
+2026-11-02T06:53:00.865Z,dsh-intent-recognition,0.6.1,llx_sniper,MIT,2899565,"DeepSeek Harness plugin: five-layer intent recognition (rules / vector / Jev / fine-tuned / LLM fallback) with PostgreSQL + pgvector, scenario & service management UI."
+2026-11-02T06:53:25.15Z,reveric-plugin-sdk,0.1.0,looplj,MIT,87616,"SDK, TSX page compiler and build CLI for Reveric plugins."
+2026-11-02T06:53:44.029Z,navbar-action,1.0.0,rehan_01,,35374,"A responsive, animated navbar built with React, GSAP, and React Scroll."
+2026-11-02T06:54:24.467Z,@reneturcios/procureport,0.1.0,reneturcios,MIT,80791,"Korean public procurement data: bid notices, awards, contracts, procurement statistics, the product catalogue and shopping-mall search, behind one CLI and stdio MCP server."
+2026-11-02T06:56:20.039Z,@thalavaisankar/new-ui,0.1.0,thalavaisankar,MIT,859614,Reusable React components and design tokens for New UI.
+2026-11-02T06:57:03.245Z,@testingfloor/browser,0.1.0,wilg-testingfloor,MIT,80047,Testing Floor SDK for browser games: gameplay telemetry and recording sync for playtests.
+2026-11-02T06:57:10.201Z,@jantt/core,1.0.0,ahmadhassan-bted,,564992,Framework-agnostic interactive JSON Gantt chart engine (zero runtime dependencies)
+2026-11-02T06:57:11.896Z,@jantt/react,1.0.0,ahmadhassan-bted,,25500,React wrapper for Jantt JSON Gantt chart engine
+2026-11-02T06:57:13.872Z,@jantt/standalone,1.0.0,ahmadhassan-bted,,321153,Standalone UMD/IIFE bundle for Jantt JSON Gantt chart engine
+2026-11-02T06:57:15.706Z,homebridge-agent-atv,0.1.0,alexdemzz,MIT,433819,"Control an Apple TV from AI agents: an authenticated HTTP API (pyatv bridge), keyboard input, wait conditions, optional screen reading (focused element, screenshots), and a minimal HomeKit TV accesso…"
+2026-11-02T06:57:27.221Z,agent-atv,0.1.0,alexdemzz,MIT,178396,"A CLI that lets AI agents observe and drive an Apple TV (snapshot, press, open, type, wait, screenshot)."
+2026-11-02T06:57:53.888Z,@ahoy-ai/react-native,0.1.0,eliasn,MIT,1163711,"In-app support chat for Expo apps: an AI agent that answers from your docs and hands off to your team, with push, photos and offline history."
+2026-11-02T06:58:09.746Z,orange14,1.0.0,orange68,MIT,1886,Express controller for customers and accounts (Sequelize)
+2026-11-02T06:58:39.658Z,vcf-automation-mcp,0.2.0,imtrinity94,MIT,1327246,"MCP server for VCF Automation 9 (VM Apps organization) — one MCP tool per REST operation across ABX, Approvals, Blueprint, Catalog, Deployment, Policies, Custom Forms, Content, Event Broker, IaaS, Id…"
+2026-11-02T06:59:12.33Z,@qlyphs/provider,0.1.0,qlyphs,MIT,512636,"Public contract of Qlyphs Wallet: provider types, requests, events and error codes."
+2026-11-02T06:59:22.571Z,@qlyphs/sdk,0.3.0,qlyphs,MIT,642864,Framework-free TypeScript SDK for Qlyphs Wallet and the Quantus network.
+2026-11-02T06:59:27.045Z,@qlyphs/keys-sdk,0.1.0,qlyphs,MIT,551443,Connects a site to the Qlyphs Keys web wallet through a popup.
+2026-11-02T07:00:04.346Z,@witnium-tech/verify,1.2.0,witnium-tech,MIT,389698,"Independent verifier for Witnium verification packs 2.0, 2.1 and 2.2 (owner custody): Besu evidence with QBFT seals, Merkle-Patricia proofs, the anchored validator history and Ethereum anchors read t…"
+2026-11-02T07:00:31.913Z,@mrzr/react-form-builder,0.1.0,mohammadreza-zr,MIT,215317,"Build a React form from a config, with react-hook-form: fields that show, hide, disable and fill each other, and your own components for the look."
+2026-11-02T07:01:18.147Z,iobroker.snapmaker-u1,0.0.1,negalein,MIT,390602,Integrates Snapmaker U1 3D printers via Moonraker.
+2026-11-02T07:02:06.452Z,@smoothcodes/agent-client,0.0.0-stage,uaibuilder,,347,Temporary package placeholder for staged publishing
+2026-11-02T07:02:12.745Z,hi3pay-cli,0.0.0-stage,lechihuy,,332,Temporary package placeholder for staged publishing
+2026-11-02T07:02:19.126Z,@lechihuy/cli-darwin-arm64,0.1.0,lechihuy,Apache-2.0,11658560,sepay binary for darwin/arm64
+2026-11-02T07:02:23.072Z,orange15,1.0.0,orange68,MIT,630,Express routes for customers
+2026-11-02T07:02:25.077Z,@smoothcodes/agent-server,0.0.0-stage,uaibuilder,,347,Temporary package placeholder for staged publishing
+2026-11-02T07:02:25.331Z,@lechihuy/cli-darwin-x64,0.0.0-stage,lechihuy,,346,Temporary package placeholder for staged publishing
+2026-11-02T07:02:25.499Z,@shareopen/agent-sdk,1.0.2,greenops,,30068,ShareOpen Agent SDK (TypeScript source) — build custom agents that connect to ShareOpen. Ships src/ + dist/ so you can adapt to your own agent.
+2026-11-02T07:02:31.68Z,@lechihuy/cli-linux-arm64,0.0.0-stage,lechihuy,,347,Temporary package placeholder for staged publishing
+2026-11-02T07:02:37.694Z,@lechihuy/cli-linux-x64,0.0.0-stage,lechihuy,,345,Temporary package placeholder for staged publishing
+2026-11-02T07:02:43.708Z,@lechihuy/cli-win32-arm64,0.0.0-stage,lechihuy,,347,Temporary package placeholder for staged publishing
+2026-11-02T07:02:49.935Z,@lechihuy/cli-win32-x64,0.0.0-stage,lechihuy,,345,Temporary package placeholder for staged publishing
+2026-11-02T07:02:55.355Z,@akimimi/vas-partner-sso,0.1.0,tobotorui,,18757,"VAS partner SSO browser SDK for embedded onboarding, account binding and session lifecycle"
+2026-11-02T07:03:06.704Z,dsh-zju-campus,0.1.0,anchorite___,GPL-3.0-only,29928212,ZJU All-in-One Assistant（dsh-zju-assistant）的实现：校园账号和各个子插件。
+2026-11-02T07:03:14.369Z,dsh-zju-assistant,0.1.0,anchorite___,GPL-3.0-only,6615,ZJU All-in-One Assistant：浙大学生的一站式校园助手，装进 DeepSeek Harness。课表、作业、通知、学习页、日程表，和已授权的选课、预约、交作业
+2026-11-02T07:03:57.863Z,@liwu1995/afu-context-dsh-linux-x64,0.1.0,liwu1995,Apache-2.0,9756254,AFU private platform runtime and third-party dependencies; see bundled licenses.
+2026-11-02T07:04:13.999Z,orange16,1.0.0,orange68,MIT,1234,Express server.js integrating Sequelize and React
+2026-11-02T07:05:50.257Z,@lovek4d/kickflip,0.1.0,lovek4d,SEE LICENSE IN LICENSE,1004612,Follow and steer Claude Code sessions from your phone.
+2026-11-02T07:06:03.009Z,com-cleaner,0.1.0,obov,MIT,37439,"Lightweight macOS cleanup CLI: junk, trash, large files, uninstaller, startup items. Dry-run by default."
+2026-11-02T07:06:14.858Z,@alwith/native-editor-darwin-arm64,0.5.0,nyssance,SEE LICENSE IN LICENSE,1435066,
+2026-11-02T07:06:31.857Z,k4njoe,1.0.0,k4njo,ISC,13802,"A simple sus package with comprehensive exam reference for Sequelize CLI, React Hooks, API Gateway, and Express."
+2026-11-02T07:07:02.153Z,orange17,1.0.0,orange68,MIT,1849,"Bank project setup: database, sequelize-cli, config.json, model generate"
+2026-11-02T07:07:04.355Z,@yyc3/ai-family-kernel,2.52.0,yyccube,MIT,595397,YYC³ AI Family Agent 五支柱融合内核（自·知·学·治·愈）——零运行时依赖，全端口注入
+2026-11-02T07:07:13.536Z,@reneturcios/scicompute,0.1.0,reneturcios,MIT,74040,"Scientific computation over a named in-process tensor store: tensor storage, matrix algebra and vector operations, computed locally with no network. One bin serves a small CLI and a stdio MCP server."
+2026-11-02T07:07:18.94Z,@yyc3/ai-family-agent,2.52.0,yyccube,MIT,845199,YYC³ AI Family Agent 家族服务 MCP Server（45 技能 · 准入治理 · 确定性+LLM 双臂 · A2A 编排）
+2026-11-02T07:07:37.591Z,@anona-labs/anona-compute-linux-x64,0.1.3,raisrujan,MIT,11260518,anona-compute binary for linux x64 (installed automatically as a dependency of @anona-labs/anona-compute)
+2026-11-02T07:07:41.862Z,@anona-labs/anona-compute-linux-arm64,0.1.3,raisrujan,MIT,10420846,anona-compute binary for linux arm64 (installed automatically as a dependency of @anona-labs/anona-compute)
+2026-11-02T07:07:45.926Z,@anona-labs/anona-compute-darwin-x64,0.1.2,raisrujan,MIT,427,anona-compute binary for darwin x64 (installed automatically as a dependency of @anona-labs/anona-compute)
+2026-11-02T07:07:49.397Z,@anona-labs/anona-compute-darwin-arm64,0.1.3,raisrujan,MIT,10365666,anona-compute binary for darwin arm64 (installed automatically as a dependency of @anona-labs/anona-compute)
+2026-11-02T07:07:53.359Z,@anona-labs/anona-compute-win32-x64,0.1.3,raisrujan,MIT,11322308,anona-compute binary for win32 x64 (installed automatically as a dependency of @anona-labs/anona-compute)
+2026-11-02T07:07:56.88Z,@anona-labs/anona-compute-win32-arm64,0.1.3,raisrujan,MIT,10325452,anona-compute binary for win32 arm64 (installed automatically as a dependency of @anona-labs/anona-compute)
+2026-11-02T07:08:47.94Z,orange18,1.0.0,orange68,MIT,1506,"Bank project React frontend: setup, api.js, index.css"
+2026-11-02T07:09:06.651Z,gitpeak-mcp,4.1.12,awalhadi,MIT,35729,"GitPeak's MCP server: git context for AI agents. Repo status, staged diff, commit log with AI-agent detection, repo health, merge-risk prediction, line history and worktrees. Read-only, zero dependen…"
+2026-11-02T07:09:47.162Z,@captureflow/mcp,0.1.0,sardorml,AGPL-3.0-only,1411733,"CaptureFlow's MCP server on your own machine: agents record your local browser, screen and apps, narrate, and share a link."
+2026-11-02T07:09:47.744Z,@liwu1995/afu-context-pi-darwin-arm64,0.1.0,liwu1995,Apache-2.0,112135384,AFU private platform runtime and third-party dependencies; see bundled licenses.
+2026-11-02T07:10:40.309Z,@taodigital/agent-cli,1.2.0,tucnow,,838597,ZeTa-AI Local Agent — run crawls and test suites on private networks
+2026-11-02T07:10:47.359Z,orange19,1.0.0,orange68,MIT,3055,Bank project React App.jsx - insert and display customers
+2026-11-02T07:11:34.548Z,@runlane/realtime,0.5.0,abhishekbhardwaj,Apache-2.0,309786,"Fetch realtime handler, scoped run tokens, and browser streaming client."
+2026-11-02T07:11:39.262Z,@runlane/react,0.5.0,abhishekbhardwaj,Apache-2.0,106052,React hooks for live run state and validated streams.
+2026-11-02T07:11:53.142Z,@doqin/dqcss,0.1.0,doqin,MIT,143673,"A small CSS library with a BIOS-screen look: VGA blue and cyan, square corners and hard drop shadows."
+2026-11-02T07:12:25.91Z,@sanoma-ai/connector-sanoma-cloud,0.1.0,notsaltylol,FSL-1.1-ALv2,103307,"Sanoma Cloud for Sanoma: the company's database and host in Sanoma's own accounts, declared like any other"
+2026-11-02T07:12:33.342Z,orange20,1.0.0,orange68,MIT,2057,"Bank project: run backend and frontend, test responses"
+2026-11-02T07:13:18.591Z,@dushaobindoudou/dsh-sync,0.1.2,dushaobindoudou,MIT,12844,Sync DeepSeek Harness (dsh) profile plugins and settings: declarative snapshot export/restore/diff with link-source checks and AES-encrypted credentials.
+2026-11-02T07:13:35.76Z,@cloud-idaas/pam-client-sdk,0.1.0-beta.1,zhangluyang,Apache-2.0,121035,IDaaS pam-client-sdk for TypeScript and JavaScript (Node.js)
+2026-11-02T07:13:45.07Z,@ttrpg-engine/sandbox,0.2.0,prophecievtt,MIT,64903,"Opt-in QuickJS sandbox for author-written JavaScript validators: no file or network access, deterministic step and memory limits. Plugs into @ttrpg-engine/rules as a Validator."
+2026-11-02T07:13:54.727Z,commitmemo,0.1.1,tutuu9,MIT,42433,Turn local Git history into a daily or weekly work journal.
+2026-11-02T07:14:02.272Z,@cloud-idaas/core-alibabacloud-authentication-plugin,0.1.0-beta.1,zhangluyang,Apache-2.0,43133,IDaaS core-alibabacloud-authentication-plugin for TypeScript and JavaScript (Node.js)
+2026-11-02T07:14:12.543Z,@cloud-idaas/akless-alibabacloud-adapter,0.1.0-beta.1,zhangluyang,Apache-2.0,44845,IDaaS akless-alibabacloud-adapter for TypeScript and JavaScript (Node.js)
+2026-11-02T07:14:22.535Z,@cloud-idaas/akless-aws-adapter,0.1.0-beta.1,zhangluyang,Apache-2.0,36601,IDaaS akless-aws-adapter for TypeScript and JavaScript (Node.js)
+2026-11-02T07:14:35.186Z,@cloud-idaas/akless-tencent-adapter,0.1.0-beta.1,zhangluyang,Apache-2.0,50978,IDaaS akless-tencent-adapter for TypeScript and JavaScript (Node.js)
+2026-11-02T07:15:12.819Z,web-kxjl-components,1.0.0,zhangfan0512,UNLICENSED,14820,公司公共组件库（Vue 3 + Element Plus）
+2026-11-02T07:15:20.325Z,@byarcadia-app/haptics,0.1.0,byarcadiaapp,MIT,21722,"Haptic feedback for Expo apps, behind the app's own switch: three impacts, three notifications and the selection tick."
+2026-11-02T07:15:20.336Z,@byarcadia-app/accessibility,0.1.0,byarcadiaapp,MIT,19926,"Live Reduce Motion and Reduce Transparency for React Native apps, and the bridge that carries a change to Reanimated."
+2026-11-02T07:15:20.352Z,@byarcadia-app/store-review,0.1.1,byarcadiaapp,MIT,19523,"The App Store and Google Play rating prompt for React Native apps: when to ask, at most three times a year."
+2026-11-02T07:15:20.403Z,@byarcadia-app/dates,0.1.0,byarcadiaapp,MIT,27862,"Calendar days, weeks and months in the device's time zone, and their labels through Intl, for React Native apps."
+2026-11-02T07:15:20.428Z,@byarcadia-app/reminders,0.1.0,byarcadiaapp,MIT,42367,"Local reminders for Expo apps: a weekly rhythm, its permission and its schedule, on the app's expo-notifications."
+2026-11-02T07:15:20.45Z,@byarcadia-app/color-scheme,0.1.0,byarcadiaapp,MIT,21376,"The person's light, dark or system colour scheme for Expo apps on Uniwind: stored, applied before the first frame, and read live."
+2026-11-02T07:15:45.484Z,@deusflight/piratefly-mcp,1.0.0,deusflight,MIT,6429,"MCP server that tells you whether a flight price is good right now, from 90 days of observed fares: buy-now verdict, cheapest months, and how far ahead to book."
+2026-11-02T07:16:20.686Z,@risklab/styler,1.1.0,rpwalsh,Apache-2.0,108341,Typed atomic styling engine for production application interfaces.
+2026-11-02T07:16:47.549Z,dsh-im-bridge,0.3.1,owlember,MIT,3795996,"IM bridge for DeepSeek Harness: chat with and drive DSH sessions from Discord, QQ and WeChat, with a settings page in DSH Web"
+2026-11-02T07:18:00.4Z,glitchtip-thread-agent,0.5.0,mrkou47,MIT,81977,Analyze GlitchTip alert emails with a local AI CLI and reply in the original Gmail thread
+2026-11-02T07:18:17.008Z,vue-scroll-tabs,0.1.0,ai-xiao-lei,MIT,112036,轻量滚动联动菜单(scroll-spy TOC) Vue3 组件：横向吸顶 / 纵向侧边、自定义图标、高亮自动居中、独立滚动容器，零运行时依赖。
+2026-11-02T07:19:35.226Z,suno-downloader,0.0.0-stage,tas33n,,337,Temporary package placeholder for staged publishing
