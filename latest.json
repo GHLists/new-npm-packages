@@ -1,28 +1,33 @@
 {
   "list": {
-    "count": 121,
-    "from": "2026-11-02T03:18:40.281633Z",
-    "path": "data/new-packages-2026-11-02T04-18-12-166205Z.csv",
-    "to": "2026-11-02T04:18:12.166205Z"
+    "count": 93,
+    "from": "2026-11-02T04:18:12.166205Z",
+    "path": "data/new-packages-2026-11-02T05-18-28-897602Z.csv",
+    "to": "2026-11-02T05:18:28.897602Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "package": "@doggiepay/checkout",
+      "since": "2026-11-02T04:18:12.166205Z"
+    },
+    {
+      "attempts": 3,
       "package": "@erdu-ec/dotnet-typescript-utils",
       "since": "2026-11-02T02:18:11.860408Z"
     },
     {
       "attempts": 1,
-      "package": "@helixcanvas/mcp-business",
-      "since": "2026-11-02T03:18:40.281633Z"
+      "package": "@frogbotai/piece-openai",
+      "since": "2026-11-02T04:18:12.166205Z"
     },
     {
       "attempts": 1,
-      "package": "@reneturcios/cloudsuite",
-      "since": "2026-11-02T03:18:40.281633Z"
+      "package": "@openverb/motion",
+      "since": "2026-11-02T04:18:12.166205Z"
     }
   ],
-  "seq": 141352319,
+  "seq": 141361280,
   "source_truncated": false,
-  "window": "2026-11-02T04:18:12.166205Z"
+  "window": "2026-11-02T05:18:28.897602Z"
 }
