@@ -1,18 +1,353 @@
 {
   "list": {
-    "count": 104,
-    "from": "2026-11-04T00:18:31.436723Z",
-    "path": "data/new-packages-2026-11-04T01-20-16-64488Z.csv",
-    "to": "2026-11-04T01:20:16.64488Z"
+    "count": 126,
+    "from": "2026-11-04T01:20:16.64488Z",
+    "path": "data/new-packages-2026-11-04T02-19-00-795591Z.csv",
+    "to": "2026-11-04T02:19:00.795591Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@welcome-back/sii-service",
-      "since": "2026-11-04T00:18:31.436723Z"
+      "package": "@haybarn/ext-duckdbi-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckdbi-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckdbi-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckdbi-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckdbi-h2-0-0-wasm-eh",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckdbi-h2-0-0-wasm-threads",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckdbi-h2-0-0-win32-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgl-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgl-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgl-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgl-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgl-h2-0-0-wasm-eh",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgl-h2-0-0-wasm-threads",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgl-h2-0-0-win32-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgql-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgql-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgql-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgql-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgql-h2-0-0-wasm-eh",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgql-h2-0-0-wasm-threads",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckgql-h2-0-0-win32-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckherder-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckherder-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckherder-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckherder-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckomo-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckomo-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckomo-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-duckomo-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-erpl_odata-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-erpl_odata-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-erpl_odata-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-erpl_odata-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-erpl_odata-h2-0-0-win32-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-finance-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-finance-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-finance-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-finance-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-finance-h2-0-0-wasm-eh",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-finance-h2-0-0-wasm-threads",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-finance-h2-0-0-win32-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-firebird-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-firebird-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-firebird-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-firebird-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-firebird-h2-0-0-win32-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-flock-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-flock-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-flock-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-flock-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-flock-h2-0-0-wasm-eh",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-flock-h2-0-0-wasm-threads",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-flock-h2-0-0-win32-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-gatekeeper-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-gatekeeper-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-gatekeeper-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-gatekeeper-h2-0-0-linux-arm64-musl",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-gatekeeper-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-gatekeeper-h2-0-0-linux-x64-musl",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-gatekeeper-h2-0-0-win32-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-gtfs-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-gtfs-h2-0-0-wasm-eh",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-loki-h2-0-0",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-loki-h2-0-0-darwin-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-loki-h2-0-0-linux-arm64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-loki-h2-0-0-linux-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@haybarn/ext-loki-h2-0-0-win32-x64",
+      "since": "2026-11-04T01:20:16.64488Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@reneturcios/signalfeed",
+      "since": "2026-11-04T01:20:16.64488Z"
     }
   ],
-  "seq": 141935236,
+  "seq": 141943760,
   "source_truncated": false,
-  "window": "2026-11-04T01:20:16.64488Z"
+  "window": "2026-11-04T02:19:00.795591Z"
 }
