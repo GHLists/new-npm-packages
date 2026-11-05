@@ -1,273 +1,43 @@
 {
   "list": {
-    "count": 152,
-    "from": "2026-11-05T12:19:49.745078Z",
-    "path": "data/new-packages-2026-11-05T13-18-49-175353Z.csv",
-    "to": "2026-11-05T13:18:49.175353Z"
+    "count": 245,
+    "from": "2026-11-05T13:18:49.175353Z",
+    "path": "data/new-packages-2026-11-05T14-20-54-407681Z.csv",
+    "to": "2026-11-05T14:20:54.407681Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@cratis/arc.chronicle",
-      "since": "2026-11-05T12:19:49.745078Z"
+      "package": "@dev-zero/jaso",
+      "since": "2026-11-05T13:18:49.175353Z"
     },
     {
       "attempts": 1,
-      "package": "@cratis/arc.core",
-      "since": "2026-11-05T12:19:49.745078Z"
+      "package": "@flink-app/sandbox-plugin",
+      "since": "2026-11-05T13:18:49.175353Z"
     },
     {
       "attempts": 1,
-      "package": "@cratis/arc.drizzle",
-      "since": "2026-11-05T12:19:49.745078Z"
+      "package": "@keyvane/sdk",
+      "since": "2026-11-05T13:18:49.175353Z"
     },
     {
       "attempts": 1,
-      "package": "@cratis/arc.express",
-      "since": "2026-11-05T12:19:49.745078Z"
+      "package": "@nahpets01-org/flow-batch-automator",
+      "since": "2026-11-05T13:18:49.175353Z"
     },
     {
-      "attempts": 1,
-      "package": "@cratis/arc.fastify",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@cratis/arc.hono",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@cratis/arc.mongodb",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@cratis/arc.testing",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@cratis/cratis",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@cratis/eslint-plugin-arc-core",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-kernel",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-agent",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-api",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-ask",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-brainstorm",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-browser",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-campfire",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-conquer",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-council",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-flow",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-forge",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-git-actions",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-goal",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-history",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-jobs",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-memory",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-mutate",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-naturalize",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-nero",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-pipeline-delivery",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-pipeline-orchestration",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-plan",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-provenance",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-rag",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-ratings",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-research",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-review",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-sanitize",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-mod-tribunal",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-support-agent-runtime",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-support-browser-bridge",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-support-dedup",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-support-engine-runtime",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-support-judge",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-support-panel",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-support-persistence",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-support-verification",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@kernlang/agon-support-worktree",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@ldsg/app-generator",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "package": "@ndes/linked-art-to-schema-ap",
       "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@needfspeed/pstack",
-      "since": "2026-11-05T12:19:49.745078Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@zch0451/create-viteapp",
-      "since": "2026-11-05T12:19:49.745078Z"
+      "package": "@tricoteuses/occultatrice",
+      "since": "2026-11-05T13:18:49.175353Z"
     }
   ],
-  "seq": 142368123,
+  "seq": 142384153,
   "source_truncated": false,
-  "window": "2026-11-05T13:18:49.175353Z"
+  "window": "2026-11-05T14:20:54.407681Z"
 }
