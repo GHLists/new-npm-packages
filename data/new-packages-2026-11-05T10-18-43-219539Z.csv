@@ -1,0 +1,173 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-05T09:15:50.785Z,@maanlamp/react-web-ui,0.1.1,maanlamp,MIT,1585578,"IGNE's React web component kit: primitives and the presets over them, form controls in three tiers with a TanStack Form bridge, and DTCG tokens themed per app."
+2026-11-05T09:16:55.839Z,@pab-iprg/huohuo-assets-linux-x64,1.0.0-preview.5,jiahim,,2620789,火火 linux-x64 固定安装资源
+2026-11-05T09:17:04.887Z,@forgebook/svelte,0.2.0,ensiria,MIT,81833,"Forgebook for Svelte 5: the story types and the context helpers, the renderer the frame mounts a story with, and the adapter that reads a Svelte component's props, snippets and callback props."
+2026-11-05T09:17:10.727Z,@forgebook/solid,0.2.0,ensiria,MIT,35840,"Forgebook for Solid: the story types and primitives, the renderer the frame mounts a story with, args updating in place as signals do, and the adapter that reads a Solid component's props."
+2026-11-05T09:17:14.435Z,@forgebook/preact,0.2.0,ensiria,MIT,39921,"Forgebook for Preact: the story types and hooks, the renderer the frame mounts a story with on Preact itself, and the adapter that reads a Preact component's props."
+2026-11-05T09:17:19.313Z,@forgebook/web-components,0.2.0,ensiria,MIT,125057,"Forgebook for Web Components, Lit first: the story types, the renderer the frame mounts a custom element story with, and the adapter that reads attributes, properties, events, slots and parts from th…"
+2026-11-05T09:17:25.246Z,@forgebook/html,0.2.0,ensiria,MIT,53379,"Forgebook for plain HTML: stories that return an HTML string or a DOM node, written in JavaScript or TypeScript with no framework; the story types, the renderer the frame draws them with, and the ada…"
+2026-11-05T09:17:31.117Z,@forgebook/angular,0.2.0,ensiria,MIT,134913,"Forgebook for Angular and Analog: the story types and helpers, the renderer the frame mounts a story with, and the adapter that compiles components through Analog's Vite plugin and reads their inputs…"
+2026-11-05T09:17:36.318Z,@forgebook/plugin-figma,0.2.0,ensiria,MIT,24941,"Figma for Forgebook: a story's design in the panel, embedded from Figma and beside the story, and a design in a docs page."
+2026-11-05T09:17:40.439Z,@forgebook/plugin-msw,0.2.0,ensiria,MIT,45095,"MSW for Forgebook: a story's API answered by its handlers, and a Network tab with its handlers and its requests."
+2026-11-05T09:17:44.878Z,@forgebook/nextjs,0.2.0,ensiria,MIT,203718,"Forgebook for Next.js: a Next.js project's components drawn outside Next, with next/image, next/font, next/link, both routers, next/headers and server components, on Vite."
+2026-11-05T09:17:49.308Z,@forgebook/react-native-web,0.2.0,ensiria,MIT,71950,"Forgebook for React Native: a React Native project's components drawn in the browser through react-native-web, on Vite, their props read as React's."
+2026-11-05T09:17:55.289Z,@forgebook/nuxt,0.2.0,ensiria,MIT,191149,"Forgebook for Nuxt: a Nuxt project's components drawn outside Nuxt, with its auto-imports, its aliases, its router, NuxtLink, useFetch and useAsyncData, useState and its runtime config, on Vite."
+2026-11-05T09:18:01.92Z,@forgebook/sveltekit,0.2.0,ensiria,MIT,163017,"Forgebook for SvelteKit: a SvelteKit project's components drawn outside the app, with $app/state, $app/navigation, $app/forms, $app/paths, the environment and a page's load, on Vite."
+2026-11-05T09:18:08.768Z,@spectie/adapter-vue,1.0.0,fanglinwei,MIT,23500,当前接入使用协议 1：`spectie adapter add /本包目录`，自动注册并精确选择；Node 包先在本包目录执行 `npm ci --ignore-scripts`。共享运行时、依赖声明及完整流程见 [扩展说明](https://github.com/fanglinwei/spectie/blob/main/docs/ADAPTERS.md)。
+2026-11-05T09:18:11.23Z,@spectie/adapter-vite,1.0.0,fanglinwei,MIT,21151,当前接入使用协议 1：`spectie adapter add /本包目录`，自动注册并精确选择；Node 包先在本包目录执行 `npm ci --ignore-scripts`。共享运行时、依赖声明及完整流程见 [扩展说明](https://github.com/fanglinwei/spectie/blob/main/docs/ADAPTERS.md)。
+2026-11-05T09:18:12.24Z,@spectie/adapter-vue-autoimports,1.0.0,fanglinwei,MIT,28174,当前接入使用协议 1：`spectie adapter add /本包目录`，自动注册并精确选择；Node 包先在本包目录执行 `npm ci --ignore-scripts`。共享运行时、依赖声明及完整流程见 [扩展说明](https://github.com/fanglinwei/spectie/blob/main/docs/ADAPTERS.md)。
+2026-11-05T09:19:11.704Z,@spectie/adapter-javascript,1.0.0,fanglinwei,MIT,27923,当前接入使用协议 1：`spectie adapter add /本包目录`，自动注册并精确选择；Node 包先在本包目录执行 `npm ci --ignore-scripts`。共享运行时、依赖声明及完整流程见 [扩展说明](https://github.com/fanglinwei/spectie/blob/main/docs/ADAPTERS.md)。
+2026-11-05T09:20:55.256Z,hzt-qywx,1.0.2,wuyunpeng,ISC,9350108,wecom_msg.
+2026-11-05T09:21:33.648Z,@senguoyunnpm/producersdk,0.0.2,xiaer93,UNLICENSED,15909181,森果产地通 Producers SDK，支持同源 Backend 和 ai-platform MCP 的产地业务 API
+2026-11-05T09:21:38.921Z,@senguoyunnpm/producer-cli,0.0.2,xiaer93,UNLICENSED,6389510,森果产地通命令行工具
+2026-11-05T09:22:53.198Z,@okhay-p/mivra,0.1.0,okhay-p,MIT,5630383,"A local-first AI tutor that teaches with interactive visualizations, checks and courses."
+2026-11-05T09:23:15.528Z,cortico-world-astrbot-livingmemory,0.1.1,hirannu,MIT,31071,给 Coopanion 桌面宠物接入 AstrBot 的 LivingMemory 长期记忆：桌宠与 QQ 智能体共用一套记忆库与知识图谱。需要配合 AstrBot 侧 astrbot_plugin_livingmemory_bridge 使用。
+2026-11-05T09:23:21.395Z,cortico-world-qq-initiative,0.4.1,hirannu,MIT,213819,Cortico World 扩展：QQ主动搭话，按作息与白名单主动找对方说话。独立自闭环、三阶段配额、成功以平台回执为准。
+2026-11-05T09:23:25.019Z,cortico-world-qq-stickers,0.3.1,hirannu,MIT,120825,Cortico World 扩展（QQ 生态）：QQ 表情管理，按情感/场景挑选并浏览本地 QQ 表情包库，内置频控冷却、概率掷骰、同义词智能映射与防重复机制；供 bot 以 [表情包:路径] 发送。只读，不改表情包本体。
+2026-11-05T09:23:28.983Z,cortico-world-localskills,0.3.4,hirannu,MIT,145120,Cortico World 扩展：按 Claude Skill 格式扫描本地技能目录（SKILL.md），支持三态启停、分段读取、全文搜索、安全市场安装与设置面板管理。
+2026-11-05T09:24:06.254Z,@idemcore/mcp,0.1.0,donwick,Apache-2.0,43521,MCP server for Idemcore: chat with signed receipts and verify them offline.
+2026-11-05T09:24:38.47Z,pi-helm,0.1.0,jlamweil,MIT,246175,"pi / pi-web cockpit extension: a reactive, policy-gated ticket/worker system built on the DSH-free dsh-superagent Engine, wired to pi-web sessions and a loopback GitHub webhook."
+2026-11-05T09:24:44.943Z,dsh-feishu-oauth,0.2.2-rc.1,lloydzhou,MIT,76953,Feishu OAuth login for DeepSeek Harness using native session cookies
+2026-11-05T09:25:02.396Z,openai-imagegen-mcp,0.1.0,karl830,MIT,34599,MCP server for generating and editing images with the OpenAI Images API or a compatible endpoint
+2026-11-05T09:25:05.511Z,@ohos-ports-electron/get-stream,9.0.1-electron-oh.0,enigmasanjin,MIT,31864,"Get a stream as a string, Buffer, ArrayBuffer or array (HarmonyOS PC / ohos-ports port of get-stream)"
+2026-11-05T09:25:40.208Z,@boltclaw/mcp,1.0.0,abhishekchauhan,MIT,14396,"Bolt Claw's hosted MCP server for MCP clients that only start local (stdio) servers: schedule social posts, answer comments and DMs, and run link-in-bio pages and referral programs."
+2026-11-05T09:26:20.348Z,@boltclaw/cli,1.0.0,abhishekchauhan,MIT,762191,"Bolt Claw from the terminal: schedule social media posts, answer comments and DMs, run comment-to-DM automations, and manage leads, link-in-bio pages and referral programs. The official CLI for the B…"
+2026-11-05T09:27:08.954Z,auth-sweep,1.0.3,sachin-dev,ISC,59686,AST-based static analysis engine and codemod CLI for legacy authentication technical debt
+2026-11-05T09:27:45.601Z,@mycheng/dsh-plugin-archive-sessions,1.0.0,mycheng,Apache-2.0,116912,"Archived-session browser for the DeepSeek Harness Web sidebar: a workspace-grouped archive list with search, one-click unarchive, and single or batch permanent deletion."
+2026-11-05T09:29:23.66Z,tsc-staged,1.0.0,GitHub Actions,Apache-2.0,29757,Type-check TypeScript projects affected by staged files.
+2026-11-05T09:29:26.575Z,@cwentor/dsh-workbuddy-connect,0.8.0,cwentor,MIT,554908,将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness — bring WorkBuddy desktop app models into DeepSeek Harness with zero configuration.
+2026-11-05T09:31:01.419Z,@sqdr2/dsh-agy-worker,0.6.0,sqdr2,MIT,13143068,"Google Antigravity (agy CLI) models for DeepSeek Harness — stream Gemini/Claude/GPT-OSS subscriptions into DSH with thinking, tool activity, token usage and in-GUI Google OAuth login."
+2026-11-05T09:31:27.96Z,@otmc-sw/authenticator,0.1.0,otmc-sw,,70114,TypeScript SDK for OTMC Authenticator (OAuth 2.0 + OpenID Connect) with optional React integration
+2026-11-05T09:31:44.46Z,@zyfgood/dsh-email-notify,0.2.0,zyfgood,MIT,46452,DeepSeek Harness 插件：SMTP 邮件收发通知 — 注册 email_send（发信）与 email_check（IMAP 收信）两个模型工具，供 agent 汇报任务结果、定时任务通知、阅读/汇总收件邮件；凭证 env 引用不落盘，IMAP 主机按 SMTP 域名自动推导
+2026-11-05T09:32:47.95Z,@cloudoperators/greenhouse-core,0.2.0,artiereus,Apache-2.0,29080,"Shared ground between the Greenhouse shell and its plugins: the plugin contract (Plugin, PluginProps, MountOptions) and a createPlugin helper. The single versioned source of truth imported by both si…"
+2026-11-05T09:33:05.609Z,@visual-platform/contracts,0.1.0,vandai.fe,UNLICENSED,253602,"Visual Page Platform — shared document schemas and helpers (pages, components, data, SEO)."
+2026-11-05T09:33:07.585Z,@visual-platform/client,0.1.0,vandai.fe,UNLICENSED,12232,"Visual Page Platform — Published API client (pages, components, data tables)."
+2026-11-05T09:33:09.871Z,@visual-platform/define,0.1.0,vandai.fe,UNLICENSED,25536,"Visual Page Platform — define your own components (fields, slots, events) for the editor."
+2026-11-05T09:33:11.901Z,@visual-platform/cli,0.1.0,vandai.fe,UNLICENSED,30729,"Visual Page Platform — vp CLI: push component definitions, pull types and classes."
+2026-11-05T09:33:14.123Z,@visual-platform/runtime-core,0.1.0,vandai.fe,UNLICENSED,55137,Visual Page Platform — React renderer for published pages and components.
+2026-11-05T09:33:16.238Z,@visual-platform/components,0.1.0,vandai.fe,UNLICENSED,436034,Visual Page Platform — built-in components and elements.
+2026-11-05T09:33:17.32Z,@delali/sirannon-sqlite-darwin-arm64,0.3.5-next.71,assetcorp,Apache-2.0 AND MIT,1961497,"better-sqlite3 compiled against Sirannon's build of SQLite, for macOS on Apple silicon."
+2026-11-05T09:33:18.068Z,@visual-platform/next,0.1.0,vandai.fe,UNLICENSED,43039,"Visual Page Platform — Next.js SDK: <VisualPage>, <VisualComponent>, metadata, ISR/static."
+2026-11-05T09:33:21.795Z,@delali/sirannon-sqlite-darwin-x64,0.3.5-next.71,assetcorp,Apache-2.0 AND MIT,2007555,"better-sqlite3 compiled against Sirannon's build of SQLite, for macOS on Intel."
+2026-11-05T09:33:24.731Z,@herca/ai-skill,0.1.1,herca,UNLICENSED,4427,"Pintu masuk untuk memasang skill AI agent Herca: frontend, backend, mobile, dan ux."
+2026-11-05T09:33:28.191Z,@delali/sirannon-sqlite-linux-arm64,0.3.5-next.71,assetcorp,Apache-2.0 AND MIT,4005526,"better-sqlite3 compiled against Sirannon's build of SQLite, for Linux on 64-bit Arm."
+2026-11-05T09:33:34.296Z,@delali/sirannon-sqlite-linux-x64,0.3.5-next.71,assetcorp,Apache-2.0 AND MIT,4151840,"better-sqlite3 compiled against Sirannon's build of SQLite, for Linux on x86-64."
+2026-11-05T09:33:40.611Z,@delali/sirannon-sqlite-win32-arm64,0.3.5-next.71,assetcorp,Apache-2.0 AND MIT,1856554,"better-sqlite3 compiled against Sirannon's build of SQLite, for Windows on 64-bit Arm."
+2026-11-05T09:33:45.505Z,@delali/sirannon-sqlite-win32-x64,0.3.5-next.71,assetcorp,Apache-2.0 AND MIT,2037268,"better-sqlite3 compiled against Sirannon's build of SQLite, for Windows on x86-64."
+2026-11-05T09:33:49.185Z,@delali/sirannon-sqlite,0.3.5-next.71,assetcorp,Apache-2.0 AND MIT,48218,"better-sqlite3 built against Sirannon's build of SQLite, which counts the rows that each statement reads and writes so that Sirannon can report them for per-tenant metering."
+2026-11-05T09:35:07.321Z,dsh-plugin-magic-context,0.10.1,wk544863858,MIT,15198824,"Magic Context for DeepSeek Harness: reversible context reclaim, an out-of-band historian, an m[0]/m[1] baseline, project memories in the plugin's own corpus, and the compaction seam."
+2026-11-05T09:35:59.962Z,@ityme/ipiui,1.0.0,ityme,GPL-3.0-only,153521,Pi extension for a compact status row and shared terminal pane titles
+2026-11-05T09:36:02.098Z,iobroker.vis-2-widgets-ugso-special,0.1.33,rockbaer2007,MIT,157819,UGSo Special for ioBroker VIS 2
+2026-11-05T09:36:06.817Z,edgewatch,0.4.0,r4reetik,MIT,2230556,"Security posture and best-practice tracker for Cloudflare accounts. Read-only, runs locally."
+2026-11-05T09:36:08.963Z,@swornai/sdk,0.1.1,boopy10,MIT,234098,"Run an AI agent on Solana whose every trade is a proven reply of a committed model (Llama 4 Maverick, FlashProve)."
+2026-11-05T09:36:32.834Z,potuzhnyi-script,0.1.0,maximvinn,MIT,179826,ПотужнийСкрипт — мемна мова програмування поверх JavaScript
+2026-11-05T09:37:06.424Z,@vesora/core,1.0.0,uc4n,MIT,2852234,Shared scientific visualization engine for Python and JavaScript
+2026-11-05T09:37:12.855Z,string-lights,0.1.0,satnamsvirdi,MIT,155157,"Tree-shakable festival, Christmas, and Diwali string lights with interactive rope physics."
+2026-11-05T09:37:33.005Z,string-lights-react,0.1.0,satnamsvirdi,MIT,102141,"SSR-safe React component for festival, Christmas, and Diwali string lights."
+2026-11-05T09:38:23.473Z,@otmc/authenticator,0.1.1,otmc,,70111,TypeScript SDK for OTMC Authenticator (OAuth 2.0 + OpenID Connect) with optional React integration
+2026-11-05T09:39:54.864Z,cortico-world-bili-watch,0.2.5,fxyxl,MIT,1362956,Cortico World：只做 B 站的社交伴侣。看视频（分镜图+逐格台词，低成本）、看评论、接楼发言、自主闲逛；带通知监听与可见性核验。
+2026-11-05T09:40:05.584Z,@helmcms/account,0.2.0,digitexa,MIT,119166,"HelmCMS customer accounts inside your own Next.js storefront: sign-in, session cookie, order history and saved addresses."
+2026-11-05T09:40:40.144Z,@taisan11/skebjs,0.1.0,taisan11,MIT,8554,A library for the Skeb Internal API
+2026-11-05T09:41:23.938Z,gigajson,0.1.0,amirachhodi,MIT,10039,"Open a local JSON, JSON Lines, CSV, YAML or XML file in GigaJSON from the command line. The file goes from your disk to your browser and is never uploaded."
+2026-11-05T09:41:28.563Z,@firtoz/jetski,0.1.0,firtoz,MIT,2030845,"Portable, durable sandboxes on reusable compute"
+2026-11-05T09:42:29.564Z,@accswtch50/calc-learning,1.0.1,accswtch50,CC0,9000,CLI Calculator
+2026-11-05T09:42:41.977Z,@open-trading-bot/strategies,0.1.1,g4lb,MIT,41505,"This package contains crypto trading strategies and a backtester with fees and slippage. It needs no server, database or exchange keys."
+2026-11-05T09:43:04.707Z,y-perf-monitor,0.1.0,sky_zhaoying,MIT,161703,常驻页面的前端性能监控悬浮面板：Web Vitals、长任务、掉帧、慢接口、慢资源、JS 异常、路由耗时，全部只落浏览器本地，零后端零上报
+2026-11-05T09:43:25.195Z,@gitmyabi/roai,1.0.0,gitmyabi-bot,Apache-2.0,183925,"Auto-generated TypeScript type bindings for ROAI (build etherscan-roai-11a2bf09-1793871787428, commit 2acdeec, branch etherscan)"
+2026-11-05T09:43:25.28Z,@aitho/ui,5.0.0,!m0rgul,Apache-2.0,2460363,"React component library built with TypeScript, Radix UI primitives and Panda CSS."
+2026-11-05T09:43:45.703Z,@alphatique/hono-fetch,1.0.4,ramenha0141,ISC,5353,
+2026-11-05T09:43:46.166Z,latch-it,0.1.0,debanjan1,MIT,4600207,"GitHub Desktop for AI agents — coordination, distributed file locks, and Mission Control."
+2026-11-05T09:44:25.999Z,@ttpos/cli-darwin-arm64,0.3.0,ben9217,UNLICENSED,8224449,ttpos CLI 的 darwin-arm64 二进制（请安装 @ttpos/cli，不要直接装本包）
+2026-11-05T09:44:37.587Z,@sivanai/sdk,1.0.1,sivantech,Apache-2.0,32593,Official Node.js and TypeScript SDK for Sivan Payment Ai
+2026-11-05T09:44:38.802Z,@jsun969/dsh-snake,1.5.0,jsun969,,32332,Snake game plugin for DeepSeek Harness
+2026-11-05T09:44:40.683Z,@ttpos/cli-darwin-x64,0.3.0,ben9217,UNLICENSED,8586457,ttpos CLI 的 darwin-x64 二进制（请安装 @ttpos/cli，不要直接装本包）
+2026-11-05T09:44:55.516Z,@ttpos/cli-linux-arm64,0.3.0,ben9217,UNLICENSED,8454692,ttpos CLI 的 linux-arm64 二进制（请安装 @ttpos/cli，不要直接装本包）
+2026-11-05T09:45:06.003Z,@ttpos/cli-linux-x64,0.3.0,ben9217,UNLICENSED,8778270,ttpos CLI 的 linux-x64 二进制（请安装 @ttpos/cli，不要直接装本包）
+2026-11-05T09:45:14.662Z,@ttpos/cli,0.3.0,ben9217,UNLICENSED,2384,TTPOS 只读运维 CLI（安装后提供 ttpos 命令）
+2026-11-05T09:45:17.918Z,@tcly-pangu/certificate-ocr-import-modal,1.0.0,panwenda,ISC,25184,证件OCR识别与导入弹窗组件
+2026-11-05T09:46:26.15Z,harmony-skills-rn-to-rnoh,1.0.0,chenxp0324,MIT,137091,已有 React Native 工程接入 RNOH/HarmonyOS，覆盖依赖与版本预检、原生组件注册检查、必要适配和 HAP 编包交付
+2026-11-05T09:46:50.329Z,dyna-ai-gateway,0.0.1-beta.6,dennisat,MIT,9344415,"AI Gateway (beta): provider-agnostic LLM orchestration (ask/run, tools, human gate, KB/RAG, memory, usage control, traces) behind repository/adapter contracts"
+2026-11-05T09:47:03.437Z,@starasia/eslint-plugin,0.1.0,rizkyizh,ISC,20400,"Aturan ESLint design system Starasia — class Tailwind semantic (bg-primary, text-muted-foreground, …) alih-alih palet default / hex, supaya MFE ikut brand, skin, dan dark mode host."
+2026-11-05T09:47:48.597Z,@cic-it-nancy/tar-browser,1.0.0,alasdiablo,LGPL-3.0,147792,Browser and memory optimised tar implementation
+2026-11-05T09:48:06.58Z,@nowqs/request,0.0.1,nowqs,Apache-2.0,48752,A lightweight HTTP request client built on fetch
+2026-11-05T09:48:20.438Z,@zenera/sandbox,1.1.56,andrey.v.ryabov,MIT,74022,"Where an agent's commands run and the files they see: the Sandbox contract, a podman implementation, filesystem drivers and a contract test suite for other implementations."
+2026-11-05T09:48:25.536Z,@herca/fe-skill,0.1.0,herca,UNLICENSED,172070,"Skill herca-fe untuk AI agent (Claude Code, Codex, Cursor, Copilot, Gemini): panduan teknis implementasi frontend Herca (Next.js + @herca/r-kit)."
+2026-11-05T09:49:18.525Z,@sila-sh/cli,0.1.0,tonnguyen,MIT,23164,Scrape and crawl any website to markdown from your terminal or AI agent with Sila.
+2026-11-05T09:49:33.131Z,n8n-nodes-thrivedesk,1.0.0,thrivedesk,MIT,171856,"n8n community node for ThriveDesk — work with conversations and contacts, plus a trigger for ThriveDesk webhook events."
+2026-11-05T09:49:36.12Z,@byarcadia-app/biometrics,0.1.0,byarcadiaapp,MIT,35359,"Biometric unlock for Expo apps on expo-local-authentication: the device check, the prompt, and a lock that re-arms in the background."
+2026-11-05T09:49:38.818Z,@protobase/workflows,0.68.0,mderijcke,Apache-2.0,130819,"Workflows as state machines with JSONata expressions: their check, a runner that saves every step, and the plugin interface for trigger and step types."
+2026-11-05T09:49:41.23Z,pixel-reveal,0.1.1,ppmpreetham,AGPL-3.0-only,107038,WebGL2 pixel-mosaic text reveal effects for React (three + gsap + lenis).
+2026-11-05T09:49:48.953Z,@protobase/workflow-plugins,0.68.0,mderijcke,Apache-2.0,28252,"The built-in workflow trigger and step types, written on the public plugin interface like any other plugin."
+2026-11-05T09:50:06.054Z,mui-date-time-range-picker,0.1.0,tengo10,MIT,198324,Free single-popover date range picker for MUI v5 and MUI X Date Pickers v6 (dayjs).
+2026-11-05T09:51:12.696Z,@astratest/react-native,0.1.0,kiswani,MIT,36158,"In-app bug reporting for Astra Test. Testers report from inside your app; a screenshot, requests, logs and device details are attached."
+2026-11-05T09:51:36.926Z,@gaballahtech/seba,0.2.0,gaballahtech,MIT,377607,"Developer-friendly Solid-OIDC authentication: login, session restoration and DPoP-signed fetch in four methods."
+2026-11-05T09:53:14.438Z,@otmc/tester,0.1.13,otmc,Apache-2.0,150697,"Modern Playwright wrapper for concise, type-safe API and UI testing."
+2026-11-05T09:53:19.737Z,maplibre-gl-handwriting,0.1.0,yohei_yamasaki,MIT,441751,"Freehand drawing on a MapLibre GL JS map, tessellated with lyon in WebAssembly"
+2026-11-05T09:53:24.364Z,auto-promo-video,1.1.3,hisyamabilkhoir,MIT,92891,AI Agent Skill & Antigravity Plugin (Hybrid Playwright + Remotion 60FPS) untuk mengubah URL Landing Page menjadi video promosi kualitas studio 60 FPS lengkap dengan Voiceover Prosody & 124 BPM Groove…
+2026-11-05T09:53:26.586Z,@nibapp/ui,0.1.0,wexlab,MIT,953518,"Nib UI is the design system of Nib, by Wex Labs Limited."
+2026-11-05T09:53:27.868Z,@sentry/junior-xdotcom,0.279.0,sentry-bot,,18398,"Read-only X post search, post lookup, and user timelines for Junior through the X API v2."
+2026-11-05T09:53:31.555Z,@mcohenchen/pingcode-mcp,0.3.2,xl495,MIT,92158,"MCP server for PingCode (wiki, projects, work items, comments, sprints) with multi-tenant profiles"
+2026-11-05T09:55:27.334Z,dsh-projects-zad,0.1.0-beta.3,zaaaad,MIT,19299748,"Project collaboration, conversation continuity, records and shared memory for DeepSeek Harness."
+2026-11-05T09:56:10.743Z,pillkit-host-darwin-arm64,0.3.0,dev_tej,Apache-2.0,2711910,The Pill Kit host for darwin arm64. Installed automatically by pillkit.
+2026-11-05T09:56:14.802Z,pillkit-host-darwin-x64,0.3.0,dev_tej,Apache-2.0,2840576,The Pill Kit host for darwin x64. Installed automatically by pillkit.
+2026-11-05T09:56:18.741Z,glean-cli,1.0.0,abhishekthakral,MIT,15896,"Clean up merged, squash-merged and stale local git branches from one interactive list in your terminal"
+2026-11-05T09:56:30.107Z,@mcp-s/computer-use-mcp,1.0.0,shalevshalit,ISC,627929,Willow Computer Use: an MCP server that lets AI agents see and operate macOS apps through the Accessibility API.
+2026-11-05T09:57:02.102Z,@tentrucks/ui,0.1.1,tentrucks,UNLICENSED,569772,"TenTrucks shared UI kit — tokens, primitives and composites for the TMS front ends."
+2026-11-05T09:57:11.942Z,@melt-js/demo-vue3,0.0.2,luo0412,,1302495,Vue 3 + Vite 5 的 hel 宿主（消费方）示例，消费 [`comps-vue3`](../comps-vue3)。
+2026-11-05T09:57:18.062Z,@atlassian/chippy,0.0.1-beta.1,atlassianartifactteam,Apache-2.0,4632511,React runtime inspection and Avalanche commit evidence
+2026-11-05T09:57:59.381Z,qvac-seed,0.1.0,lion_17,Apache-2.0,36951,"Publish, seed and fetch GGUF models and LoRA adapters peer-to-peer as pear:// links that the QVAC SDK loads directly."
+2026-11-05T09:58:58.038Z,react-native-axios-inspector,0.1.0,raeeznazar,MIT,68481,"Dev-only floating network inspector for React Native apps using axios — no proxy, no debugger attached. Zero native dependencies."
+2026-11-05T09:59:36.73Z,@chocbite/ts-lib,1.0.0,chocolateandmilkwin,MIT,561993,"Platform independent TypeScript libraries, no browser features required"
+2026-11-05T09:59:59.437Z,dsh-whisper-local,1.3.0,kinj14,MIT,62973,"Fully local multilingual speech recognition with whisper.cpp: 99 Whisper languages, automatic detection by default, no data sent over the Internet."
+2026-11-05T10:00:32.206Z,@chocbite/ts-lib-ui,1.0.0,chocolateandmilkwin,MIT,5762186,"Browser UI TypeScript libraries, builds on @chocbite/ts-lib"
+2026-11-05T10:01:11.569Z,zhaoying-perf-monitor,0.1.0,sky_zhaoying,MIT,161913,常驻页面的前端性能监控悬浮面板：Web Vitals、长任务、掉帧、慢接口、慢资源、JS 异常、路由耗时，全部只落浏览器本地，零后端零上报
+2026-11-05T10:01:15.543Z,@wgx-plugins/knowledge-mcp-plugin,0.1.0,wangguixing,MIT,13890,OpenCode 插件：把个人知识库的高优先级条目注入 system prompt（配合 @wgx-mcps/knowledge MCP 使用）
+2026-11-05T10:01:18.84Z,@giftsofprometheus/cli,0.1.2,timurkhakhalev,Apache-2.0,44338,"Search AI conference talks, read transcripts, and manage your Gifts of Prometheus favorites from the shell or an AI agent"
+2026-11-05T10:02:09.47Z,@herca/backend-skills,0.2.0,herca,UNLICENSED,217607,Claude Code / Copilot agent skills with HERCA backend conventions.
+2026-11-05T10:02:13.647Z,create-sethucms,0.1.0,sethucms,MIT,38468,"Set up SethuCMS in a new or existing project, with questions in your terminal. Run: npm create sethucms@latest"
+2026-11-05T10:02:14.392Z,@eddiesosera/number-input,0.1.4,eddiesosera,MIT,2277267,"Servly numeric input with units, presets, suggestions, and draggable value control"
+2026-11-05T10:02:32.503Z,@herca/mobile-skill,0.1.0,herca,UNLICENSED,159187,"Aturan main dan skill lintas AI agent (Claude, Codex, Cursor, Copilot, Gemini, dll.) untuk app mobile Herca (React Native + @herca/rn-kit)."
+2026-11-05T10:02:51.728Z,@oxynote/lezer-logql,0.4.2-oxynote.1,GitHub Actions,Apache-2.0,82923,"lezer-based LogQL grammar, forked to parse duration placeholders (e.g., $__interval) and variable references (e.g., $env)"
+2026-11-05T10:02:52.49Z,@herca/ux-skills,0.1.0,herca,UNLICENSED,599818,"Herca UX skills (web-ux, mobile-ux) for AI coding agents. Install with npx."
+2026-11-05T10:03:07.77Z,expo-pin,0.1.0,daroms,MIT,97669,"Stop Expo Go auto-updates from forcing Expo SDK upgrades. Detects native modules missing from Expo Go, pins a personal Expo Go per SDK on TestFlight, and tells you exactly when your development build…"
+2026-11-05T10:04:05.547Z,diffslice,0.1.0,pranavhtjp07,MIT,630493,"Review Git changes on a named, zoomable module map."
+2026-11-05T10:04:22.013Z,@wgx-mcps/knowledge-core,0.1.0,wangguixing,MIT,20977,知识库检索内核——SQLite FTS5 索引、2-gram 中文分词、受控词表扩展，供 knowledge MCP 与 OpenCode 插件复用
+2026-11-05T10:04:32.552Z,@wix/auto_sdk_staff-time-clock_kiosk-pairings,1.0.0,wix-ci-publisher,MIT,463293,
+2026-11-05T10:04:46.204Z,dsh-plugin-lianjing,2.0.2,cheche33333,MIT,1799300,莲鲸 · 陪你干活的桌宠：一只在莲台上打坐的鲸鱼娘，浮在屏幕角落，替你看住所有 agent——正在跑的会话、子任务进度、token 和耗时一眼能看到，点一下跳回对应对话；闲下来陪你敲两下木鱼，顺手翻两页佛经。网页浮层和 Windows 桌面悬浮壳两套，尺寸三档可缩。
+2026-11-05T10:04:48.776Z,@karailker/awesome-seo-core,0.1.0,karailker,MIT,299687,"Shared core for the awesome-seo plugin: SQLite store, ingest, reports, approval engine, MCP helpers."
+2026-11-05T10:04:50.515Z,@karailker/awesome-seo-mcp-bing,0.1.0,karailker,MIT,40093,"MCP server for Bing Webmaster (search stats, page stats, URL info; URL submit behind the approval gate)."
+2026-11-05T10:04:52.346Z,@karailker/awesome-seo-mcp-google,0.1.0,karailker,MIT,71397,"MCP server for Google Search Console, GA4, and Merchant Center (read tools, sitemap submit behind the approval gate)."
+2026-11-05T10:04:54.235Z,@karailker/awesome-seo-mcp-performance,0.1.0,karailker,MIT,38946,"MCP server for PageSpeed Insights, CrUX, and local Lighthouse (lab and field values kept separate)."
+2026-11-05T10:04:55.927Z,@karailker/awesome-seo-mcp-yandex,0.1.0,karailker,MIT,52820,MCP server for Yandex Metrica and Yandex Webmaster (read tools; sitemap add behind the approval gate).
+2026-11-05T10:05:04.777Z,poindeo-mcp,0.1.0,poindeo,,155498,Poindeo video editor local MCP server (stdio)
+2026-11-05T10:05:27.286Z,@wix/staff-time-clock,1.0.0,wix-ci-publisher,MIT,7530,
+2026-11-05T10:06:09.176Z,@wgx-mcps/knowledge,0.1.0,wangguixing,MIT,18305,个人知识库 MCP（stdio）——把跨项目知识库暴露为 knowledge_search / knowledge_fts / knowledge_read / knowledge_list / knowledge_reindex 五个工具
+2026-11-05T10:06:09.682Z,@moeinmnia/motion,0.1.0,moeinmnia,MIT,213005,"Tiny, headless, dependency-free scroll & interaction animations. Vanilla core + thin React adapter."
+2026-11-05T10:06:12.408Z,@antdv-next/x-pro,0.0.1,cc-heart,MIT,199033,"Community agent components for Antdv X (unofficial, not synced from Ant Design X upstream)"
+2026-11-05T10:06:23.845Z,@hoard-engine/uikit,0.1.0,ozsie,,604975,"HOARD engine: theme-driven canvas UI chrome — kit widgets, components and the UiEnv/UiContext contracts over @hoard-engine/primitives"
+2026-11-05T10:07:18.383Z,qvac-babel-room,0.1.0,lion_17,Apache-2.0,52913,"Serverless live-caption room: everyone speaks their own language, every peer reads everyone in theirs. Speech-to-text and translation run on-device with Tether QVAC; peers connect over Hyperswarm."
+2026-11-05T10:07:27.963Z,dsh-stellar-effort,1.1.5,yuyilin123,MIT,1853225,星轨推理：真实 DSH 推理强度控制与轻量、持续演化的微缩宇宙
+2026-11-05T10:07:44.224Z,qvac-wallet-guardian,0.1.0,lion_17,Apache-2.0,66360,"Explain EVM transactions and signature requests in plain language and flag drainers, approvals and address poisoning before you sign — rules first, with a local Tether QVAC LLM for the explanation. D…"
+2026-11-05T10:08:05.963Z,spain-holidays,2027.0.0,rb9744,CC-BY-4.0,53633,"Official public holidays of Spain for 2027: national dates plus the 17 autonomous communities, with the bulletin each one comes from (BOE, BOA, BOC, BON, DOCM, DOGC...). JSON, zero dependencies."
+2026-11-05T10:08:20.067Z,qvac-pocket-tune,0.1.0,lion_17,Apache-2.0,68681,"Fine-tune a personal LoRA adapter on your own notes and chats, entirely on-device with Tether QVAC, and share it peer-to-peer."
+2026-11-05T10:08:28.49Z,sac-workbench-mcp,0.3.0,rafael.sachs-nl,MIT,3177597,"Unofficial MCP server for SAP Analytics Cloud: stories, charts, themes, planning models and data through the SAC web session and public REST APIs. Not affiliated with or supported by SAP; uses undocu…"
+2026-11-05T10:08:45.265Z,@tally.paws/httptree-ext-cors,0.1.0,tally.paws,MIT,8673,CORS for httptree: preflight and response headers for the whole tree
+2026-11-05T10:09:14.056Z,@hh.ru/magritte-ui-spoiler,1.0.1,hhru,,20926,
+2026-11-05T10:09:16.675Z,@tally.paws/httptree-ext-compress,0.1.0,tally.paws,MIT,9574,"Response compression for httptree: brotli, gzip and deflate for handlers, errors and streams"
+2026-11-05T10:09:20.377Z,gemini-rvs-faris,1.0.1,naughty32,MIT,114049,gemini ducked.
+2026-11-05T10:09:21.567Z,@naviam/maximo-dev-tools,1.31.0,lagivan,GPL-3.0,3068724,Tools used with the development of Maximo projects
+2026-11-05T10:09:26.268Z,@tally.paws/httptree-ext-cookies,0.1.0,tally.paws,MIT,11382,"Cookie parsing and setting for httptree: req.getCookies(), req.getCookie(), req.setCookie(), cookie() and withCookies()"
+2026-11-05T10:09:27.553Z,zibri-tsx,3.0.0-0,tim-fabian,MIT,714969,Hand-written TSX compiler for Zibri page templates.
+2026-11-05T10:09:35.365Z,@coloopx/colocad,0.1.0-alpha.2,tomwinshare,MIT,118775577,"Parametric feature instructions, a local Rust B-rep kernel and an experimental SolidWorks author"
+2026-11-05T10:09:36.174Z,@tally.paws/httptree-ext-ip,0.1.0,tally.paws,MIT,31768,Client IP for httptree behind reverse proxies and tunnels
+2026-11-05T10:09:41.833Z,zibri-testing,3.0.0-0,tim-fabian,MIT,783757,"Test harness for Zibri applications: an in process data source, and a real server a test can start."
+2026-11-05T10:09:43.482Z,@tally.paws/httptree-ext-static,0.1.0,tally.paws,MIT,15088,Static file serving for httptree
+2026-11-05T10:09:55.759Z,@tally.paws/httptree-ext-validate,0.1.0,tally.paws,MIT,5402,Query and params validation for httptree with zod or any Standard Schema library
+2026-11-05T10:11:34.822Z,dsh-thu-plugin,0.2.0,aaabrli,MIT,698967,"DSH plugin: Tsinghua Learn files, course reserves, Cloud share links, and paper PDFs."
+2026-11-05T10:12:24.236Z,@sotirea/sdk,1.0.0,cloudaxhq,MIT,32361,The TypeScript client for the Sotirea API
+2026-11-05T10:13:09.704Z,@vci/sm2-client,1.0.0,visual-ceiling,MIT,5322,sm2`s helper
+2026-11-05T10:13:26.976Z,screendiff-js,0.1.0,dankrusi,MIT,115603,"Screenshot comparisons, structured results, and lightweight HTML reports"
+2026-11-05T10:13:38.99Z,@jangts/streaming,0.1.0,jangts,,17803,SSE decoding and cancellation for asynchronous streams
+2026-11-05T10:14:36.784Z,@isox-sh/cli,0.0.1,tripss,MIT,60795,A lightweight monorepo command runner with explicit project configuration.
+2026-11-05T10:15:27.946Z,agy-openai-bridge,0.1.0,arifwidip,MIT,67312,OpenAI-compatible HTTP/SSE API bridge for Antigravity CLI (agy acp)
+2026-11-05T10:17:21.289Z,tyxrs,0.0.0,shllcd,,44,
