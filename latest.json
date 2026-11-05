@@ -1,63 +1,273 @@
 {
   "list": {
-    "count": 160,
-    "from": "2026-11-05T11:19:53.216576Z",
-    "path": "data/new-packages-2026-11-05T12-19-49-745078Z.csv",
-    "to": "2026-11-05T12:19:49.745078Z"
+    "count": 152,
+    "from": "2026-11-05T12:19:49.745078Z",
+    "path": "data/new-packages-2026-11-05T13-18-49-175353Z.csv",
+    "to": "2026-11-05T13:18:49.175353Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@credonomics/rewards-engine",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/arc.chronicle",
+      "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@gitmyabi/afw",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/arc.core",
+      "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@peisheng_lai/dsh-research-connectors",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/arc.drizzle",
+      "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@peisheng_lai/dsh-research-host",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/arc.express",
+      "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@peisheng_lai/dsh-research-hub",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/arc.fastify",
+      "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@peisheng_lai/dsh-research-phase2-litdb",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/arc.hono",
+      "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@peisheng_lai/dsh-research-phase2-notebook",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/arc.mongodb",
+      "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@peisheng_lai/dsh-research-phase2-replay",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/arc.testing",
+      "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@peisheng_lai/dsh-research-preset-cn-social",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/cratis",
+      "since": "2026-11-05T12:19:49.745078Z"
     },
     {
       "attempts": 1,
-      "package": "@peisheng_lai/dsh-research-workspace",
-      "since": "2026-11-05T11:19:53.216576Z"
+      "package": "@cratis/eslint-plugin-arc-core",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-kernel",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-agent",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-api",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-ask",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-brainstorm",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-browser",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-campfire",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-conquer",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-council",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-flow",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-forge",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-git-actions",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-goal",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-history",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-jobs",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-memory",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-mutate",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-naturalize",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-nero",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-pipeline-delivery",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-pipeline-orchestration",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-plan",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-provenance",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-rag",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-ratings",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-research",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-review",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-sanitize",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-mod-tribunal",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-support-agent-runtime",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-support-browser-bridge",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-support-dedup",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-support-engine-runtime",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-support-judge",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-support-panel",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-support-persistence",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-support-verification",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kernlang/agon-support-worktree",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ldsg/app-generator",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ndes/linked-art-to-schema-ap",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@needfspeed/pstack",
+      "since": "2026-11-05T12:19:49.745078Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@zch0451/create-viteapp",
+      "since": "2026-11-05T12:19:49.745078Z"
     }
   ],
-  "seq": 142356677,
+  "seq": 142368123,
   "source_truncated": false,
-  "window": "2026-11-05T12:19:49.745078Z"
+  "window": "2026-11-05T13:18:49.175353Z"
 }
