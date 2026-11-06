@@ -1,0 +1,131 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-06T01:16:10.608Z,@acrylblends/brand-client,0.1.0,webboxescom,MIT,108676,ACRYL brand occupants for the DSH Web client's sidebar and conversation-hero slots - the swappable counterpart to @deepseek-ai/dsh-client-ui-brand-official
+2026-11-06T01:16:13.816Z,@acrylblends/app-shell,0.1.0,webboxescom,MIT,141039,"The generic three-column desktop/web app frame (brand sidebar, main surface, resizable details column, theme, platform title-bar spacing) any ACRYL Blend's domain plugin claims as its own main UI, th…"
+2026-11-06T01:16:19.892Z,@acrylblends/loopback-http,0.1.0,webboxescom,MIT,30567,"The one strict same-origin loopback check and JSON helpers behind every private ACRYL Host route (workspace, Agent Control, plugin administration, Desktop), on node:http and on the framework's router"
+2026-11-06T01:16:23.106Z,@acrylblends/settings,0.1.0,webboxescom,MIT,39675,"ACRYL-owned surface preferences: a small settings service (register, get, update, replace, watch) backed by one YAML file in the ACRYL home, independent of the DeepSeek Harness settings design."
+2026-11-06T01:16:29.58Z,@acrylblends/workspace,0.1.0,webboxescom,MIT,12774338,"ACRYL's first-party workspace shell (spec 040-agentic-multiplexer-ade): a worktree-aware sidebar, a tile-based main canvas (chat/terminal/file/browser/diff/kanban/doc), and a git-aware details panel,…"
+2026-11-06T01:16:32.683Z,@acrylblends/sign-in,0.1.0,webboxescom,MIT,148279,"ACRYL sign-in: sign in to a model provider with an account (Claude, ChatGPT/OpenAI Codex and the rest of the catalog's flows; DeepSeek through DeepSeek's own account dialog) from Settings > Models on…"
+2026-11-06T01:16:35.626Z,@acrylblends/diagnostics,0.1.0,webboxescom,MIT,46638,"Log files, secret masking, the Cordis file exporter and the support archive shared by every ACRYL surface"
+2026-11-06T01:16:38.994Z,@acrylblends/plugin-admin,0.1.0,webboxescom,MIT,256461,"ACRYL plugin administration, one Cordis plugin for every surface: Settings > Plugins Lifecycle and Architecture tabs (Client) and their private same-origin routes (Host), driven by the shared ctx.acr…"
+2026-11-06T01:16:41.925Z,@acrylblends/support,0.1.0,webboxescom,MIT,38480,"ACRYL support tools, one Cordis plugin: the Web surface writes log files, and Settings > Support downloads a diagnostics archive (system facts plus masked logs)"
+2026-11-06T01:16:47.897Z,@acrylblends/system-prompt,0.1.0,webboxescom,MIT,23813,"ACRYL's own shaping of the system prompt on top of the harness's sections: the app builder's identity, pi.dev-style tagged sections, no empty sections, and a drift record of what upstream contributes"
+2026-11-06T01:16:51.073Z,@acrylblends/app-context,0.1.0,webboxescom,MIT,90254,"The app builder's own docs, as ACRYL IDE's agent has them: a routed index of how a Blends app is made and extended, verified example plugins, and the prompt section that points the frame's agent at t…"
+2026-11-06T01:16:54.176Z,@acrylblends/versions,0.1.0,webboxescom,MIT,130578,"ACRYL Versions, one Cordis plugin with a Host and a client half: a version is a commit, save makes one, restore brings a version back as a new commit, and share is an explicit push, all behind privat…"
+2026-11-06T01:16:58.694Z,@acrylblends/blends-frame,0.1.0,webboxescom,MIT,3062883,"ACRYL Blends frame: the workbench around an app being built - a top bar, the branches and versions on the left, the app alone in the centre, and the agents on the right - as one Cordis plugin with a…"
+2026-11-06T01:18:59.678Z,botprint,0.2.1,jsquaredlabs,MIT,160027,"Botprint shows what your automated browser exposes to the web, and what changed from your baseline."
+2026-11-06T01:19:34.284Z,@3sixty/api-auth-oauth-connector-entity-storage,0.20.0-next.0,3sixty-bot,Apache-2.0,673,Authentication provider that signs password accounts held in entity storage in through OAuth 2.0.
+2026-11-06T01:19:59.384Z,candle-exit-manager,0.1.0,brucejeet,MIT,39548,"Runs exits on bags already in a Solana wallet (bought by hand or by another tool): adopts them, then sells by a pluggable strategy, a trailing stop included. Candle coins, pump.fun curves and PumpSwa…"
+2026-11-06T01:20:18.067Z,candle-rug-watcher,0.1.0,brucejeet,MIT,100621,"Watches the coins a Solana wallet holds and sells (or alerts) when a rule fires: a liquidity pull, a price crash, the creator dumping, a large holder leaving. Candle coins, pump.fun curves and PumpSw…"
+2026-11-06T01:20:39.798Z,candle-profit-sweeper,0.1.0,brucejeet,MIT,70160,"Sells the bags in a Solana wallet at your targets and asks for the profit to be swept to your home address: a sweep request with the wallet, the amount, the full home address and a request id, alerte…"
+2026-11-06T01:20:49.118Z,@seostudio/audit-engine,0.1.0,duzbee,MIT,4689093,"The SEOStudio site audit engine: a polite crawler and its audit rules, with no database."
+2026-11-06T01:20:53.851Z,seostudio,0.1.0,duzbee,MIT,6404576,"Free SEO site audit from your terminal, plus a local MCP server and a crawl agent for SEOStudio projects."
+2026-11-06T01:24:59.991Z,@idclear/sdk,0.3.2,idclearapp,MIT,64252,IDClear identity verification SDK for Enterprise integrations
+2026-11-06T01:25:03.254Z,ai-sdk-litert-lm,0.1.0,daisukemajima,MIT,286996,"LiteRT-LM provider for the Vercel AI SDK: run .litertlm models on iOS, Android and in the browser with generateText and streamText."
+2026-11-06T01:26:18.455Z,@pierre/patches,0.0.1,amadeusdemarzi,apache-2.0,139762,"A fast text diff library written in WebAssembly Text (WAT), compatible with jsdiff"
+2026-11-06T01:26:24.468Z,@aoiou/cryptpages,0.1.0,aoiou,UNLICENSED,64253,Zero-dependency client-side encryption toolkit for static sites with hierarchical key access control
+2026-11-06T01:26:48.956Z,@timetrakkr/cli,1.0.2,mfitzhenry,MIT,103166,Records how long a coding agent worked and reports it to Time Trakkr
+2026-11-06T01:26:53.127Z,@50arms/docs,0.1.73,newms877,MIT,2620821,"Repo-agnostic docs package (DX-3336/DX-3337): a typed, versioned node-file format, a loader that builds an in-memory graph from a docs root, and a fail-loud `check` CLI."
+2026-11-06T01:27:25.914Z,pr-evidence,0.0.0,dylanbrine27,MIT,1751,Test a branch in a real browser and post screenshots and GIFs as evidence on its PR.
+2026-11-06T01:27:34.26Z,warehouse-map-sdk,0.2.0,dou_dou_123,MIT,217009,仓库地图 SDK：Canvas 渲染 + 沿道路 A* 路径导航 + 可视化编辑内核（Vue 2 组件，框架无关内核）
+2026-11-06T01:27:55.847Z,google-academico-mcp,0.1.0,braxxa021,MIT,5568101,"Servidor MCP mínimo (stdio) que usa el token OAuth que le pasa el host: lee Google Classroom y Gmail, lee Drive y escribe solo dentro de una carpeta configurable. Sin enviar, borrar ni compartir. Sin…"
+2026-11-06T01:29:19.535Z,hotzen,0.0.1,aminkhan,MIT,1938257,HOTZEN — Governed AI Engineering Framework
+2026-11-06T01:29:24.348Z,@dolfinai/api-schema,0.1.0,riccardo-dolfinai,SEE LICENSE IN LICENSE,1799126,TypeScript types and enum value arrays generated from the Dolfin public API OpenAPI document.
+2026-11-06T01:29:35.061Z,@kikilight/ccpm,0.1.0,kikilight,MIT,253359,"Manage Claude Code plugins from a marketplace: presets, settings, updates, and a full-screen TUI"
+2026-11-06T01:29:43.868Z,@dolfinai/sdk-core,0.1.0,riccardo-dolfinai,SEE LICENSE IN LICENSE,187047,"Framework-agnostic Dolfin API client: token auth with renewal, typed errors, events, routes, scoped query keys and formatters."
+2026-11-06T01:29:44.168Z,@blkc-code/render-canvas,0.1.0,blackcodemarketadmin,Apache-2.0,189880,Canvas renderer for BLKC: draws canvas Blocks such as the Pixel Office
+2026-11-06T01:29:47.207Z,@dolfinai/react,0.1.0,riccardo-dolfinai,SEE LICENSE IN LICENSE,1942208,"React SDK for Dolfin: DolfinProvider, headless hooks for accounts payable, accounts receivable and expenses, and server helpers for token and proxy auth."
+2026-11-06T01:30:12.057Z,badgesmith,0.0.1,bvandercar,ISC,402,Several icon/value pairs as one SVG badge. Package coming soon; the hosted worker is live.
+2026-11-06T01:30:35.176Z,@jchaffin/voicekit-experiments,1.0.0-alpha.1,jchaffin,MIT,86910,"Provider-neutral experimentation, assignment, routing, and metrics for VoiceKit"
+2026-11-06T01:31:01.099Z,@jchaffin/voicekit-provider-openai-live,1.0.0-alpha.1,jchaffin,MIT,99311,Provider-independent OpenAI GPT-Live adapter for VoiceKit
+2026-11-06T01:31:23.867Z,@50arms/plugin-sdk,0.2.51,newms877,MIT,472407,"SDK for building 50 Arms plugins (DX-5170): the card kit's type declarations, the Widget declaration kit, a Vite preset that builds a plugin against the app's shared runtime and writes its manifest,…"
+2026-11-06T01:32:10.624Z,@aaronaugustin/vex.js,1.1.0,aaronaugustin,MIT,166218,Vector Element Xpansion - A lightweight 2D JavaScript game engine.
+2026-11-06T01:33:15.829Z,@pablovaz/reactjs-components-lib,0.0.1,pablim,,19640,This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2026-11-06T01:34:07.332Z,@neotap.app/neo-engine,0.1.1,neo-tap,Apache-2.0,490469,Neo Engine SDK：Phaser 3 (2D) + Three.js (3D) 多平台编译游戏引擎的客户端运行时。
+2026-11-06T01:35:10.798Z,@50arms/playwright-mcp,0.2.2,newms877,,41422,"MCP server exposing playwright_screenshot, playwright_html, playwright_host_static, playwright_host_static_stop, and vue_build_and_preview tools to Claude Code agents dispatched by danxbot."
+2026-11-06T01:36:43.91Z,dsh-session-view,0.7.0,lidongbei,MIT,280302,Session-first workspace view for the DSH sidebar
+2026-11-06T01:37:31.091Z,swcad-js-helpers,0.0.2,rjsalvadorr,MIT,311390,...
+2026-11-06T01:38:12.202Z,@impulselab/ares-jobs,0.1.0,kanapesh,,194250,"Define, trigger and deploy background tasks that run on Ares, one sandbox per run."
+2026-11-06T01:39:25.691Z,@cervio/n8n-nodes-cervio,0.2.1,cervio.app,MIT,333427,"n8n community node for Cervio — entity records, documents, N:M links, and workflows via REST /api/v1"
+2026-11-06T01:39:43.227Z,quicksilverpro,0.5.2,raullenchai,MIT,3057,"QuickSilver Pro CLI (qsp): one API for frontier models, and cloud dev boxes your agents can run. Thin npm launcher for the Python CLI."
+2026-11-06T01:39:44.001Z,@gitmyabi/qcx,1.0.0,gitmyabi-bot,Apache-2.0,214199,"Auto-generated TypeScript type bindings for QCX (build etherscan-qcx-f9e5af7b-1793929165999, commit 966d214, branch etherscan)"
+2026-11-06T01:39:47.684Z,@frogbotai/piece-asana,0.40.0,colbygilbert95,MIT,414709,"Asana workspaces, projects, tasks, comments and attachments for FrogBot."
+2026-11-06T01:40:10.205Z,@jessybaki/rehype-callouts,0.1.0,jessybaki,MIT,9641,Transform GitHub-style alert blockquotes into CSS-free HAST callouts.
+2026-11-06T01:40:28.489Z,@frogbotai/piece-hubspot,0.40.0,colbygilbert95,MIT,523800,"HubSpot CRM records, associations, lists, owners and pipelines for FrogBot."
+2026-11-06T01:40:32.718Z,@frogbotai/piece-jira,0.40.0,colbygilbert95,MIT,391040,"Jira Cloud issues, comments, attachments, boards and sprints for FrogBot."
+2026-11-06T01:40:38.821Z,@frogbotai/piece-microsoft,0.40.0,colbygilbert95,MIT,11274,Shared Microsoft sign-in setup for FrogBot pieces.
+2026-11-06T01:40:41.177Z,@frogbotai/piece-microsoft-outlook,0.40.0,colbygilbert95,MIT,456430,"Microsoft Outlook mail, calendar and contacts tools for FrogBot."
+2026-11-06T01:40:41.245Z,pi-switchboard,0.1.0,benwyrosdick,,28585,Switch between Pi conversations the way Grok's Ctrl+\ dashboard and Claude Code's left-arrow agents view do.
+2026-11-06T01:40:53.268Z,@ai-avatar-bot/sdk,1.0.0-beta.0,parker_chen2,MIT,23806565,"100% Native TypeScript SDK for interactive 2D (Live2D) and 3D (VRM) AI Avatar Bot with Voice STT/TTS, WebGPU WebLLM, Cloud AI Brain, Conversation Memory, and Function Calling"
+2026-11-06T01:41:03.402Z,@frogbotai/piece-salesforce,0.40.0,colbygilbert95,MIT,403799,"Salesforce records, SOQL and Bulk API queries, reports and record-change triggers for FrogBot."
+2026-11-06T01:41:12.173Z,@50arms/mysql-mcp,0.1.1,newms877,,15162,"MCP server exposing read-only prod_db_query, prod_db_list_tables, and prod_db_describe_table tools to Claude Code agents dispatched by danxbot."
+2026-11-06T01:41:22.29Z,@frogbotai/piece-zendesk,0.40.0,colbygilbert95,MIT,432246,"Zendesk tickets, comments, users, organizations, help center and events for FrogBot."
+2026-11-06T01:41:36.579Z,@frogbotai/plugin-evals,0.40.0,colbygilbert95,MIT,75365,"Datasets, scorers and scored runs for FrogBot agents."
+2026-11-06T01:41:39.375Z,@frogbotai/plugin-forms,0.40.0,colbygilbert95,MIT,319770,Public forms that create records in FrogBot collections.
+2026-11-06T01:41:54.465Z,crittixbaileys,1.0.0,lorddevinebot,MIT,6207313,"A WhatsApp Web API library, Crittix MD fork"
+2026-11-06T01:42:06.726Z,@neotap.app/neo-engine-tools,0.1.1,neo-tap,Apache-2.0,564805,Neo Engine 构建工具 + CLI：转译/打包小游戏与 H5 产物、无头构建接口。
+2026-11-06T01:43:04.433Z,@abudi-dev/opencode-apex,1.0.0,abudi-dev,MIT,967989,"OpenCode APEX — universal installer and autonomous security framework for AI coding environments (OpenCode, Claude Code, Cursor, Windsurf, Cline, Roo Code, Continue, Gemini CLI, generic MCP)."
+2026-11-06T01:44:59.052Z,@silkon/crypto,2.12.0,sgodoy,MIT,23797,A progressive Node.js framework for building serverless applications with TypeScript. (@crypto)
+2026-11-06T01:45:14.137Z,tempo-lite,0.0.1-reserved.0,magmacomputing,MIT,1079,Official namespace reservation for Tempo Lite (tempo-lite / tempo-js/lite).
+2026-11-06T01:45:25.037Z,@portrayal/racks-chatsworth-13853-x03,1.0.0,portrayal,Apache-2.0,32100,"Portrayal rack product: the Chatsworth Products 13853-X03, as the library models it, with the schema it is checked against."
+2026-11-06T01:45:30.151Z,@portrayal/racks-chatsworth-55053-x03,1.0.0,portrayal,Apache-2.0,31470,"Portrayal rack product: the Chatsworth Products 55053-X03, as the library models it, with the schema it is checked against."
+2026-11-06T01:45:33.538Z,@portrayal/racks-fs-fs-or4p-45u,1.0.0,portrayal,Apache-2.0,31867,"Portrayal rack product: the FS.com FS-OR4P-45U, as the library models it, with the schema it is checked against."
+2026-11-06T01:45:35.927Z,@portrayal/racks-fs-fs-or4p-xxu,1.0.0,portrayal,Apache-2.0,31013,"Portrayal rack product: the FS.com FS-OR4P-XXU, as the library models it, with the schema it is checked against."
+2026-11-06T01:45:38.628Z,@portrayal/racks-startech-4postrack12a,1.0.0,portrayal,Apache-2.0,33716,"Portrayal rack product: the StarTech.com 4POSTRACK12A, as the library models it, with the schema it is checked against."
+2026-11-06T01:45:41.217Z,@portrayal/racks-startech-4postrack42,1.0.0,portrayal,Apache-2.0,33001,"Portrayal rack product: the StarTech.com 4POSTRACK42, as the library models it, with the schema it is checked against."
+2026-11-06T01:47:21.673Z,create-ply,1.0.1,dziqha,MIT,29994,Scaffold a Go project using the Ply framework
+2026-11-06T01:47:44.507Z,dsh-echuan,0.1.0,casper-mars,MIT,385820,驿传（echuan）平台接入工具包：把平台 HTTP 契约接入 dsh（Cordis 4）Agent
+2026-11-06T01:49:23.295Z,@hosisora_ling/dsh-amphoreus,0.1.0,hosisora_ling,AGPL-3.0-only,2673386,翁法罗斯（Amphoreus）：基于 DeepSeek Harness 的角色运行系统，统一消息网关、多层记忆、QQ 自主参与与后台助手。
+2026-11-06T01:49:33.052Z,joplin-plugin-dualtran,0.1.2,seigwen,MPL-2.0,50282,"DualTran for Joplin: translate a note into a separate note, keeping the source"
+2026-11-06T01:50:37.453Z,@guhttps/veu,0.4.0,guh_1227,MIT,253060,"Esconde dados pessoais brasileiros e segredos (CPF, nomes, chaves de API) antes de o texto chegar a um modelo de IA e devolve os dados reais na resposta."
+2026-11-06T01:51:02.626Z,@fabricator-ui/icons,0.1.0,ogabrielaraujo,MIT,13554257,"Fabricator Icons for React: every Lucide icon under its Lucide name, plus brand marks."
+2026-11-06T01:51:49.106Z,@fabricator-ui/icons-react-native,0.1.0,ogabrielaraujo,MIT,9082652,"Fabricator Icons for React Native: every Lucide icon under its Lucide name, plus brand marks."
+2026-11-06T01:52:49.022Z,@corsair-dev/enigma,0.1.0,corsair.dev,Apache-2.0,92573,Enigma plugin for Corsair
+2026-11-06T01:52:56.927Z,@corsair-dev/esignatures,0.1.0,corsair.dev,Apache-2.0,99364,eSignatures plugin for Corsair
+2026-11-06T01:53:20.659Z,@things-factory/compliance,10.1.254,heartyoh,MIT,3219484,"What the law asks of a company and the proof it did it - starting with the use of the company's seals: stamping, taking out and certificates, approved through the worklist (ADR-0187, ADR-0188)"
+2026-11-06T01:53:25.4Z,@fabricator-ui/icons-static,0.1.0,ogabrielaraujo,MIT,12450538,"Fabricator Icons as SVG files, a sprite, JSON data and SVG strings, plus a PNG exporter for desktop apps."
+2026-11-06T01:53:28.546Z,@ohos-ports-electron/rxjs,7.8.2-electron-oh.0,mzsylr,Apache-2.0,4499432,Reactive Extensions for modern JavaScript
+2026-11-06T01:53:41.755Z,dsh-workday-toolkit,0.1.0,geeklei,MIT,38381,"China statutory holiday & makeup-workday aware SLA clock toolkit for DeepSeek Harness (zero runtime deps, fully offline): built-in 2025-2026 State Council holiday calendar with custom calendar overri…"
+2026-11-06T01:53:59.34Z,lily-lark-ui,0.2.1,flwenche,MIT,942829,"Thu vien component React theo phong cach Lark (Universe Design), dung kieu shadcn: copy-paste component Tailwind v4 + Radix headless. Hien co 20 component."
+2026-11-06T01:55:27.194Z,chrome-semantic-shell-shared,1.0.1,sunfase,MIT,40306,Shared protocol types and constants for Chrome Semantic Shell
+2026-11-06T01:55:31.477Z,chrome-semantic-shell,1.0.1,sunfase,MIT,282052,Local bridge and CLI for Chrome Semantic Shell
+2026-11-06T01:57:12.057Z,@twinsearth/dsh-fang-screenshot,0.1.4,twinsearth,AGPL-3.0-or-later,6050,"Screenshot client module for dsh-Fang (Wengcheng): Ctrl+Shift+X captures the screen, copies the image to the clipboard, and never binds Ctrl+X."
+2026-11-06T01:57:37.078Z,dsh-adb-phone-mirror,1.1.0,yaoisss1,MIT,188196,"ADB phone screen mirror in the right sidebar of the DeepSeek Harness Web UI, with in-panel settings."
+2026-11-06T02:00:43.16Z,@ws1298191366/cli,0.1.0,ws1298191366,,24868,JEECG 命令行工具：在浏览器里授权登录 JeecgBoot / 敲敲云，给 AI skills 提供 token
+2026-11-06T02:02:39.993Z,discoauth,0.0.0,robot_official,MIT,73760,Minimal Discord OAuth2 client typed from Discord's official OpenAPI spec.
+2026-11-06T02:02:45.42Z,@creator-splits/rules-engine,1.0.0,ericerodgers,MIT,12609,Deposit-matching and charge-calculation rules for creator split platforms
+2026-11-06T02:03:45.842Z,@gitmyabi/solvbtc,1.0.0,gitmyabi-bot,Apache-2.0,204122,"Auto-generated TypeScript type bindings for SolvBTC (build etherscan-solvbtc-7a56e1c5-1793930603231, commit 9b76a80, branch etherscan)"
+2026-11-06T02:03:47.809Z,@intertekinform/vue-2-security-maintained,2.7.18,intertekinform,MIT,4305953,"Reactive, component-oriented view layer for modern web interfaces."
+2026-11-06T02:03:57.534Z,@intertekinform/vue-template-compiler-security-maintained,2.7.18,intertekinform,MIT,584753,template compiler for Vue 2.0
+2026-11-06T02:05:12.497Z,traness-dsh-mnemon,0.5.39-traness.1,yinming.wang,MIT,12871587,"Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box."
+2026-11-06T02:05:27.325Z,@companion-lab/plugin,0.1.0,companion-lab,MIT,18422,SDK for writing companion-tauri plugin frontends (React components registered through a scoped PluginContext).
+2026-11-06T02:05:28.449Z,@rnative/cli,0.0.1,devusimple,MIT,23780,CLI for rnative components
+2026-11-06T02:05:33.578Z,@rnative/tokens,0.0.1,devusimple,MIT,11962,Design tokens for rnative components
+2026-11-06T02:05:39.261Z,@rnative/registry,0.0.1,devusimple,MIT,21668,Source registry for rnative components
+2026-11-06T02:05:43.798Z,@rnative/core,0.0.1,devusimple,MIT,2188,rnative core utilities and components
+2026-11-06T02:06:46.776Z,mock-generator-sdk,4.0.0,business_work1106,MIT,22381,"A simplified way to generate mock data, builds using a simple schema and with the FakerJs"
+2026-11-06T02:08:53.774Z,@draftably/runtime,0.1.0,byronwallrus,MIT,1164659,"Portable native Draftably SVG rendering, validation, and optional viewer."
+2026-11-06T02:09:29.043Z,@draftably/markdown,0.1.0,byronwallrus,MIT,42707,Build static SVG diagram assets from Markdown draft fences.
+2026-11-06T02:09:31.377Z,@draftably/mermaid,0.1.0,byronwallrus,MIT,906744,A drop-in for the mermaid package that draws diagrams with Draftably.
+2026-11-06T02:09:31.598Z,kook-cli,0.1.0,yanye.lv,MIT,38838,A Vue CLI style scaffolding tool for downloading project templates
+2026-11-06T02:09:49.205Z,onebrowser,0.1.0,irichardwang,MIT,52621,"One interface to remote browser providers: sessions by provider name, a usage ledger, account quotas"
+2026-11-06T02:10:23.279Z,@youngspe/hkt-ts,0.1.0,youngspe,MIT,13224,Higher-kinded types in TypeScript!
+2026-11-06T02:10:27.169Z,dsh-personal-task-workbench,0.3.0,zevin-labs,MIT,337249,"Local-first task manager for DeepSeek Harness: today/week/all-task views, single-day and multi-day tasks with optional times, an idea pool, and daily/weekly/monthly reviews that agents can read but n…"
+2026-11-06T02:11:06.154Z,digichain-mcp,0.1.0,ztao,,7763,Read-only MCP adapter for Xiaosiyun merchant APIs
+2026-11-06T02:11:37.159Z,@ambushsoftworks/nestjs-guidance,0.1.0,ambushsoftworks,MIT,62161,"Guidance for NestJS: what each person has dismissed or finished, anonymous usage counts, and which getting-started steps are done — the server half of ambush_guidance"
+2026-11-06T02:11:39.828Z,@ambushsoftworks/nestjs-support,0.1.0,ambushsoftworks,MIT,77828,"Report a problem, for NestJS: a description, an optional screenshot, the screen, build and last steps, scrubbed and delivered to support — the server half of ambush_support"
+2026-11-06T02:13:03.73Z,modelbay,0.1.0,uhoobnn,MIT,866888,One SDK for AI model platforms
+2026-11-06T02:13:06.204Z,@modelbay/cli,0.1.0,uhoobnn,MIT,14497,Modelbay command line interface
+2026-11-06T02:13:06.213Z,@modelbay/mcp,0.1.0,uhoobnn,MIT,71730,MCP tool generator and per-platform servers
+2026-11-06T02:13:43.75Z,@docubook/plugin-search-algolia,0.1.0,wildan.nrs,MIT,1067194,Algolia DocSearch for DocuBook Flame — keyword search in the DocSearch dialog and Ask AI in its own side panel.
+2026-11-06T02:13:58.769Z,profileout,0.1.0,profileout,MIT,22223,Official JavaScript and TypeScript SDK for the ProfileOut API
+2026-11-06T02:14:12.597Z,bottled-regen-darwin-arm64,0.3.0,previbe,MIT,10011319,Native Bottled Regen runtime
+2026-11-06T02:14:14.005Z,@shipvo/capacitor,0.0.1,pipilot-dev,Apache-2.0,32397,Signed over-the-air updates for Capacitor web bundles: the same release decisions and trust model as the Shipvo React Native runtime.
+2026-11-06T02:14:15.735Z,@hirefinn/sdk,0.1.0,hirefinn,MIT,1116014,Typed TypeScript client for the Finn public API (hirefinn.ai).
+2026-11-06T02:14:23.41Z,create-shipvo,0.0.1,pipilot-dev,Apache-2.0,12006,npm create shipvo: start a new Shipvo app (runs shipvo init).
+2026-11-06T02:14:36.62Z,shipvo,0.0.1,pipilot-dev,Apache-2.0,12099,"The Shipvo CLI under its short name: npx shipvo init, run, sim, publish, rollback. Same as @shipvo/cli."
+2026-11-06T02:15:21.603Z,postman-chinese-injector,1.8.5,hlmd,MIT,3948328,"把中文翻译注入 Postman 桌面端 / 网页版的非官方第三方汉化工具（跨平台 CLI + 浏览器扩展）。与 Postman, Inc. 无关。"
+2026-11-06T02:15:52.522Z,tindtui,0.0.0-stage,mikimatsub,,329,Temporary package placeholder for staged publishing
+2026-11-06T02:17:11.303Z,webhook-watch,0.0.0-stage,newhalona,,335,Temporary package placeholder for staged publishing
+2026-11-06T02:17:44.061Z,dsh-agent-cto,0.1.0,casper-mars,Apache-2.0,119569,技术决策者：技术选型、架构设计、开发任务拆解
+2026-11-06T02:18:03.365Z,dsh-agent-pm,0.1.0,casper-mars,Apache-2.0,96371,市场部经理：需求洞察、需求诊断、PRD 与优先级
+2026-11-06T02:18:07.811Z,@1outres/dsh-plugin-mobile,0.6.0,1outres,MIT,71667,"Makes the DeepSeek Harness Web UI work on phones: the sidebar becomes a swipeable drawer, the composer follows the on-screen keyboard and Enter adds a line, and the layout respects notches and touch."
