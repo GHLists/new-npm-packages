@@ -1,0 +1,183 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-07T15:17:23.65Z,@logictan/dsh-magpie-image,0.1.0,logictan,MIT,44363,"DSH magpie image: image generation and reference-image editing through magpie's image MCP, as native mcp__magpie__* tools beside dsh-imagegen. DSH magpie 生图子插件。"
+2026-11-07T15:20:25.938Z,@abinnovision/payloadcms-oidc,0.0.1-stage.0,wipeair,Apache-2.0,58192,"Single sign-on for Payload CMS through one OpenID Connect provider, with claim-based roles typed from the generated user."
+2026-11-07T15:20:32.05Z,@lapius/ui,0.1.1,lapius,MIT,45801,"Install Lapius UI components into your project. A thin, friendly wrapper around the shadcn CLI."
+2026-11-07T15:20:50.209Z,dsh-cascade-search,1.2.1,ryker0716,MIT,98577,"Three-level web-search fallback for DeepSeek Harness: tavily-proxy -> Querit -> DeepSeek official, with GUI configuration."
+2026-11-07T15:22:37.296Z,@trajectonomics/sim,0.1.0,supakone,MIT,273986,"Pure, deterministic personal-finance projection engine"
+2026-11-07T15:22:42.97Z,@trajectonomics/ledger,0.1.0,supakone,MIT,204906,"Pure double-entry ledger domain: accounts, balanced postings, balances, net worth, P&L. No I/O."
+2026-11-07T15:22:47.619Z,dsh-web-search-byok,0.1.1,elliotsu,MIT,32539,DSH web-search provider that routes web_search through your own API gateway (Anthropic Messages or OpenAI Responses protocol) instead of the DeepSeek official search balance.
+2026-11-07T15:24:06.379Z,dsh-memory-index,0.1.0,dddmuc,MIT,138555,"Rule-based long-term memory for DeepSeek Harness: extract commands, files, errors, decisions, links and todos from session logs into a greppable JSON index - no model calls, no summaries, nothing inv…"
+2026-11-07T15:24:12.595Z,aftptcalc-army-aft-data,0.1.1,agoes,MIT,347893,Source-attributed Army AFT scoring tables in JSON and CSV for training tools and spreadsheets.
+2026-11-07T15:24:44.762Z,dsh-dev-workflow,0.2.0,fooksky,MIT,170591,Native DSH development workflow skill and structured change state
+2026-11-07T15:24:55.127Z,@nekosuneprojects/vrchat-api,1.0.0,nekosunevr,MIT,80128,"Local-first VRChat players, groups and worlds JSON, with optional verified GitHub synchronization."
+2026-11-07T15:25:00.697Z,promptfence,1.0.0,dev_tensorjetai,Apache-2.0,43518,Local PromptFence hooks and repository configuration auditing for AI coding agents and git.
+2026-11-07T15:26:45.286Z,dsh-subagent-claude-code-pro,0.3.1,kanner,MIT,129406,"DeepSeek Harness plugin: Claude Code delegation using your local CLI — per-call model and effort, durable sessions, and multimodal input/output."
+2026-11-07T15:27:24.868Z,@lihang212010/dsh-multichat,0.1.1,lihang212010,MIT,124070,"Open up to 16 live chat windows side by side in the DeepSeek Harness Web GUI, with a top-right split-view button and freely resizable panes."
+2026-11-07T15:27:25.284Z,@libreflare/cloudflare-sdk,0.1.0,libreflare,,7148285,A slim Cloudflare API client generated from Forge's openapi.forge.json.
+2026-11-07T15:27:54.574Z,@vilancer/react-native,0.1.0,malekelkssas,MIT,315508,"FaceTime-style drawing for React Native and Expo video calls: provider, ink overlay, toolbar, Jitsi transport."
+2026-11-07T15:27:59Z,@vilancer/native-overlay,0.1.0,malekelkssas,MIT,140814,"Floating FaceTime-style drawing button that works outside your React Native app (Android), for @vilancer/react-native annotation sessions."
+2026-11-07T15:28:45.711Z,sh-codemod,0.0.0-development.0,northm,UNLICENSED,249,
+2026-11-07T15:28:54.133Z,@konnectsuite/dsh-plugin-arya-computer-use,1.0.0,mochanp,MIT,294176,"Computer use for DSH/AryaCode: agent-desktop UIA engine, agent-browser web lane, takeover UI with a ghost cursor"
+2026-11-07T15:29:18.543Z,@hippogriffdev/tapin,0.1.0,hippogriffdev,MIT,4680141,"Unofficial Tapin shipping API client and integration toolkit for TypeScript, Mongoose, and NestJS"
+2026-11-07T15:29:54.503Z,@ku-utils/i18n,1.2.2,koujianfeng,,22865,ku-utils 团队多语言工具
+2026-11-07T15:29:54.523Z,@ku-utils/constants,1.1.3,koujianfeng,,6958,ku-utils 团队共享正则
+2026-11-07T15:29:54.616Z,@ku-utils/nuxt-module,1.3.0,koujianfeng,,11166,ku-utils Nuxt 4 集成模块
+2026-11-07T15:29:54.641Z,@ku-utils/hooks-react,0.1.0,koujianfeng,,87168,ku-utils React Hooks（useMaxHeight / useVersionUpdate）
+2026-11-07T15:29:54.686Z,@ku-utils/eslint-config,1.1.3,koujianfeng,,11271,ku-utils 团队共享 ESLint 配置（Vue 2 / Vue 3 / Nuxt 4 / Angular）
+2026-11-07T15:29:54.722Z,@ku-utils/directives,1.3.1,koujianfeng,,89107,ku-utils 团队 Vue 3 自定义指令集合
+2026-11-07T15:29:54.725Z,@ku-utils/hooks-angular,0.1.0,koujianfeng,MIT,35722,ku-utils Angular 注入函数（injectMaxHeight / injectVersionUpdate，基于 signals）
+2026-11-07T15:29:54.736Z,@ku-utils/prettier-config,1.2.3,koujianfeng,,2200,ku-utils 团队共享 Prettier 配置
+2026-11-07T15:29:54.903Z,@ku-utils/a-custom-columns,0.1.0,koujianfeng,MIT,264187,Angular 22 + ng-zorro-antd 自定义列 — schema 驱动表格列配置，支持多套配置持久化与拖拽排序
+2026-11-07T15:29:56.296Z,@ku-utils/r-custom-columns,0.1.0,koujianfeng,,85278,React + Ant Design 5 自定义列 — schema 驱动表格列配置，支持多套配置持久化与排序
+2026-11-07T15:29:57.671Z,@ku-utils/types,1.2.2,koujianfeng,,11396,ku-utils 团队共享 TypeScript 类型定义
+2026-11-07T15:29:57.932Z,@ku-utils/stylelint-config,1.2.2,koujianfeng,,4440,ku-utils 团队共享 Stylelint 配置
+2026-11-07T15:29:57.934Z,@ku-utils/create-app,1.2.0,koujianfeng,,3706,创建 ku-utils 标准项目
+2026-11-07T15:29:58.058Z,@ku-utils/ui,1.2.4,koujianfeng,,55630,ku-utils 团队 Vue 3 业务组件库
+2026-11-07T15:29:58.311Z,@ku-utils/v2-custom-columns,1.0.10,koujianfeng,,122701,Vue 2 自定义列组件库 — schema + v-for 驱动，基于 Element UI，支持多套配置持久化、拖拽排序、分组导航、嵌套表头
+2026-11-07T15:29:58.348Z,@ku-utils/cli,1.2.0,koujianfeng,,11668,ku-utils 团队 CLI 工具
+2026-11-07T15:29:59.012Z,@ku-utils/ui-vue2,1.2.2,koujianfeng,,8835,ku-utils 团队 Vue 2 业务组件库（维护模式）
+2026-11-07T15:30:24.662Z,peers-vault,0.1.0,moscaverd,MIT,737714,"A notes vault (Markdown or Emacs Org) where any folder can have its own AI agent you talk to. Agents run on T3 with Claude Code or Codex, in one container."
+2026-11-07T15:30:53.068Z,@lglab/chartshot,1.0.0,lglabgreg,MIT,58278,"Chartshot's SDK: chart images from a JSON spec, for emails, Slack, PDFs and link previews."
+2026-11-07T15:31:13.966Z,@fooksky/lodestar,0.2.0,fooksky,MIT,170758,Native DSH development workflow skill and structured change state
+2026-11-07T15:32:34.507Z,webmcpx,0.1.0,jul1anosig,MIT,50677,"Standard WebMCP tools for any website: one script tag, zero config."
+2026-11-07T15:33:09.605Z,dsh-plugin-starpost,0.1.0,hth768,MIT,177078,星邮的 DeepSeek Harness bot 客户端，支持会话绑定、消息收发和折叠社交工具
+2026-11-07T15:33:44.115Z,@aleksandregab/agent-board,0.1.0,aleksandregab,UNLICENSED,7266820,Local task board that runs Claude Code agents in their own git worktrees. Install: npx @aleksandregab/agent-board init
+2026-11-07T15:33:50.513Z,@ohos-ports/abp-ng.core,10.7.0-beta.0,ljry,LGPL-3.0,894739,ABP Framework is a complete open-source infrastructure to create modern web applications by following the best practices and conventions of software development. This package is a part of the [ABP Fr…
+2026-11-07T15:34:08.868Z,@runlith/tagma,0.1.0,teunlao,UNLICENSED,5483119,
+2026-11-07T15:34:11.969Z,@nashihang777/dsh-solids-world,1.0.0,shijiehanghai,MIT,1152515,An interactive 3D atlas of solid-state and atomic physics for DeepSeek Harness.
+2026-11-07T15:34:41.139Z,@trustisto/cli,1.0.0,fones,MIT,74868,"Build, preview and deploy Trustisto templates: popups, topbars and mails"
+2026-11-07T15:34:42.801Z,dsh-terse-mode,1.3.0,naonaoang,MIT,131184,"Keep the agent terse: four adjustable levels plus independent switches for reasoning effort, web search and subagents, on the conversation header and in Settings. No output ceiling."
+2026-11-07T15:36:34.852Z,@digital-nature-ltd/licence-verifier,0.5.1,digital-nature,,27477,JavaScript/TypeScript client for the Digital Nature licence verification API
+2026-11-07T15:38:12.101Z,monitor-transfer-dsh,0.1.2,sicutest,MIT,2736890,"Monitor 数据搬运工作室:左侧导航独立入口,把一个 Monitor 公司的数据(主数据/BOM/未结订单/库存快照/附加字段)经官方 API 搬进另一个 Monitor 系统,跨版本不动表结构/角色/权限。自带进程内引擎(源库直读+目标API写入)与操作手册。A sidebar-entry data transfer studio for DeepSeek Harness: moves o…"
+2026-11-07T15:39:05.531Z,@zharp/cli,0.1.0,mestlabs,MIT,343322,"Zharp's command line: upload source maps, ProGuard mappings, Dart symbols and dSYMs for readable stack traces"
+2026-11-07T15:39:24.019Z,maiide-bridge,0.2.0,aimindslab,UNLICENSED,130246,"Companion program that lets the MaiIDE app run Claude Code, Codex, and Kimi CLI on your computer"
+2026-11-07T15:39:26.353Z,indiaval,0.1.1,mukeshguptaco,MIT,25432,"Tiny, zero-dependency validators for Indian identifiers: PAN, GSTIN, IFSC, PIN code, mobile and Aadhaar."
+2026-11-07T15:39:36.354Z,@zharp/browser,0.1.0,mestlabs,MIT,1642265,"Zharp Application Monitoring for the browser — errors, logs, traces and session replay"
+2026-11-07T15:39:36.46Z,candle-spike-rider,0.1.0,brucejeet,MIT,28349,"Buys pump.fun and PumpSwap coins on a volume spike with buyers behind it (on a live price and volume series), and exits them by a pluggable strategy. A Solana bot built on @candledottv/agent-sdk."
+2026-11-07T15:39:57.498Z,@atom-forge/expose,0.1.0,laborci,MIT,35492,Typed allow-list layer between server data and the client: nothing goes out unless a view names it
+2026-11-07T15:40:14.052Z,candle-event-bot,0.1.0,brucejeet,MIT,34514,"Buys coins tied to a dated event in a window before it, and exits them in phases keyed to the event: ride the build-up, hedge at the event, keep a moonshot core. A Solana bot built on @candledottv/ag…"
+2026-11-07T15:40:38.487Z,bdmv2web,0.1.1,tautcony,GPL-3.0-only,1112600,Inspect a Blu-ray BDMV disc and build an offline web menu package.
+2026-11-07T15:40:56.203Z,dsh-topic-graph,0.6.41,hagen666,MIT,364659,会话话题图谱：按轮次切分会话，AI 增量聚合为话题与阶段，提供工作流 / 时间线 / 结构图三种视图，展示每个话题/轮次的 token 消耗、工具调用与 Agent 耗时占比。
+2026-11-07T15:41:18.764Z,aliyun-mail-imap-mcp,1.0.0,wangguangzhe,MIT,37759,"WorkBuddy Connector MCP server for Alibaba Enterprise Mail over IMAP/SMTP. Third-party, unofficial."
+2026-11-07T15:42:02.379Z,@zharp/esbuild-plugin,0.1.0,mestlabs,MIT,14502,Zharp esbuild plugin: inject debug IDs and upload source maps
+2026-11-07T15:42:30.571Z,@zharp/rollup-plugin,0.1.0,mestlabs,MIT,14287,Zharp Rollup plugin: inject debug IDs and upload source maps
+2026-11-07T15:42:40.715Z,@zharp/vite-plugin,0.1.0,mestlabs,MIT,14787,Zharp Vite plugin: inject debug IDs and upload source maps on production builds
+2026-11-07T15:42:50.798Z,@zharp/webpack-plugin,0.1.0,mestlabs,MIT,16754,Zharp webpack plugin: inject debug IDs and upload source maps on production builds
+2026-11-07T15:43:10.465Z,@zharp/node,0.1.0,mestlabs,MIT,216479,"Zharp Application Monitoring for Node.js — traces, logs and errors, on OpenTelemetry"
+2026-11-07T15:43:20.673Z,@zharp/nextjs,0.1.0,mestlabs,MIT,25131,withZharp(nextConfig): readable stack traces for Next.js — debug IDs and source map upload on next build
+2026-11-07T15:43:21.328Z,@pcafe/pcafe,0.2.0,webcasa,CPAL-1.0,22939627,"Fixed-template HTML slide decks for humans and AI: React templates, single-file offline build, automated layout QA."
+2026-11-07T15:43:46.528Z,@reglow/mcp,0.1.1,xiangcaozhu,MIT,142803,Reglow 框架开发 MCP 服务器与 Skills 知识包：让 AI 助手按 reglow 约束查询模块、模板、starter、组件与源码
+2026-11-07T15:44:22.634Z,@petercjl/product-seeding-studio,0.3.0,petercjl,,226701,生活化商品种草图文创作、验收和复盘
+2026-11-07T15:44:28.936Z,screenreader-speech-capture,0.0.1-preview.0,timo_sto,UNLICENSED,17208,Capture what a screen reader says (JAWS / NVDA via a SAPI 5 socket voice) and expose it over HTTP for automated tests.
+2026-11-07T15:45:05.226Z,@syrkos/filaxis,0.0.0-stage,corolin,,337,Temporary package placeholder for staged publishing
+2026-11-07T15:45:13.337Z,@lvy-jsd/dsh-tool-ultra-core,0.5.0,lvy-jsd,Apache-2.0,510378,"Browse every DeepSeek Harness tool as a directory (category -> group -> tool), load tools on demand per agent, and find/route tools and skills by intent (BM25 retrieval with a Rust sidecar). Provides…"
+2026-11-07T15:45:35.078Z,dsh-turn-title,1.0.0,mdalboni,MIT,25538,Auto-title conversation after first exchange + button to update title in chat
+2026-11-07T15:45:45.601Z,aureus-kit,1.0.0,anhhuy1605,UNLICENSED,55029,"Runtime for aureus pinaxes: styles, ak-* tags and the feedback layer, loaded by one <script>."
+2026-11-07T15:46:12.707Z,@zerorigin-studio/dsh-remote-agent-win32-x64,0.1.0,coldcgh,MIT,7762294,dsh-remote 的隧道 agent 二进制（windows/amd64）：把 DSH 插件的反代端口经反向隧道暴露给 relay。
+2026-11-07T15:46:25.629Z,@zerorigin-studio/dsh-remote-agent-darwin-x64,0.1.0,coldcgh,MIT,7733591,dsh-remote 的隧道 agent 二进制（darwin/amd64）：把 DSH 插件的反代端口经反向隧道暴露给 relay。
+2026-11-07T15:46:32.096Z,@zerorigin-studio/dsh-remote-agent-darwin-arm64,0.1.0,coldcgh,MIT,7149677,dsh-remote 的隧道 agent 二进制（darwin/arm64）：把 DSH 插件的反代端口经反向隧道暴露给 relay。
+2026-11-07T15:46:44.219Z,@zerorigin-studio/dsh-remote-agent-linux-x64,0.1.0,coldcgh,MIT,7549460,dsh-remote 的隧道 agent 二进制（linux/amd64）：把 DSH 插件的反代端口经反向隧道暴露给 relay。
+2026-11-07T15:46:49.85Z,@zerorigin-studio/dsh-remote-agent-linux-arm64,0.1.0,coldcgh,MIT,6947352,dsh-remote 的隧道 agent 二进制（linux/arm64）：把 DSH 插件的反代端口经反向隧道暴露给 relay。
+2026-11-07T15:46:52.039Z,dsh-sidebar-declutter,0.1.0,dddmuc,MIT,34232,DSH 侧栏整理：按开关收起品牌行、「新会话」按钮和三处「更多」，并可切换面板列表排布。纯样式注入，卸载即还原。
+2026-11-07T15:47:27.015Z,dsh-static-token,1.0.0,mdalboni,MIT,6389,Configurable static launch token for DeepSeek Harness Web GUI
+2026-11-07T15:47:52.945Z,@lvy-jsd/create-dsh-tool-ultra-plugin,0.5.0,lvy-jsd,Apache-2.0,48474,"Scaffold a Tool Ultra extension: classifier, visibility filter, hook listener or package.json declaration."
+2026-11-07T15:47:58.894Z,dsh-thinking-guard,0.1.17,yan3raa,Apache-2.0,1460000,DSH 能力目录与按需调用策略、Agent/Turn 执行计数及精确重复调用提醒；不执行预算硬停止或循环阻止。
+2026-11-07T15:47:59.232Z,@lvy-jsd/dsh-tool-ultra-attribution-scan,0.5.0,lvy-jsd,Apache-2.0,36383,"Group tools by the plugin package that defines them, found by scanning plugin source for the tool name."
+2026-11-07T15:48:02.419Z,@lvy-jsd/dsh-tool-ultra-capability-bridge,0.5.0,lvy-jsd,Apache-2.0,28475,Load a named bundle of tools in one call: teaches Tool Ultra the cap:<name> target form.
+2026-11-07T15:48:05.092Z,@mickmister/nugs,0.1.1,mickmister,,37216086,"Git-backed workspace context, documents and native Beads persistence for agents"
+2026-11-07T15:48:05.417Z,@lvy-jsd/dsh-tool-ultra-classifier-llm,0.5.0,lvy-jsd,Apache-2.0,82687,"Small-model classifier for Tool Ultra: places tool groups into categories once, caches the answer, and never classifies on the hot path."
+2026-11-07T15:48:08.09Z,@lvy-jsd/dsh-tool-ultra-classifier-rules,0.5.0,lvy-jsd,Apache-2.0,32465,Rule-based classifier for Tool Ultra: built-in placement rules for common DSH tools plus user overrides from config.
+2026-11-07T15:48:11.204Z,@lvy-jsd/dsh-tool-ultra-devices,0.5.0,lvy-jsd,Apache-2.0,41466,"Device namespace for Tool Ultra: tools from phones and computers connected through Swiftnest appear under /device/<device>, loadable as device:current, device:all or device:<name>, with offline devic…"
+2026-11-07T15:48:14.338Z,@lvy-jsd/dsh-tool-ultra-pack-audio-creative,0.5.0,lvy-jsd,Apache-2.0,46383,Tool Ultra audio creative pack: Edge-TTS speech synthesis and ffmpeg audio editing and mixing.
+2026-11-07T15:48:17.32Z,@lvy-jsd/dsh-tool-ultra-pack-code-insight,0.5.0,lvy-jsd,Apache-2.0,61663,"Tool Ultra code insight pack: structural outlines, symbols and static module imports for JavaScript / TypeScript only."
+2026-11-07T15:48:20.454Z,@lvy-jsd/dsh-tool-ultra-pack-db,0.5.0,lvy-jsd,Apache-2.0,120369,Tool Ultra database pack: DuckDB-based data analysis and SQL querying.
+2026-11-07T15:48:24.117Z,@lvy-jsd/dsh-tool-ultra-pack-essentials,0.5.0,lvy-jsd,Apache-2.0,76645,"Tool Ultra essentials pack: time zones, date math, a calculator with units, weather, place search and Wikipedia. No API keys."
+2026-11-07T15:48:27.266Z,@lvy-jsd/dsh-tool-ultra-pack-gc,0.5.0,lvy-jsd,Apache-2.0,43920,Tool Ultra artifact and media garbage collection pack: date-partitioned retention and LRU disk cleanup.
+2026-11-07T15:48:30.921Z,@lvy-jsd/dsh-tool-ultra-pack-image-creative,0.5.0,lvy-jsd,Apache-2.0,33985,Tool Ultra offline image editing pack: metadata and pixel transformations via sharp.
+2026-11-07T15:48:34.029Z,@lvy-jsd/dsh-tool-ultra-pack-mcp,0.5.0,lvy-jsd,Apache-2.0,64264,"Tool Ultra MCP preset pack: memory, sequential thinking, Context7, Playwright, filesystem, GitHub, SearXNG, Brave, Tavily, Firecrawl, Notion and AMap, started through dsh-mcp-client. Keyless presets…"
+2026-11-07T15:48:37.662Z,@lvy-jsd/dsh-tool-ultra-pack-media,0.5.0,lvy-jsd,Apache-2.0,563947,"Tool Ultra media pack: images, music and video made from code, local speech-to-text with speakers and emotions, and video storyboards. Optional Gemini audio and video understanding uploads files to G…"
+2026-11-07T15:48:40.628Z,@lvy-jsd/dsh-tool-ultra-pack-office,0.5.0,lvy-jsd,Apache-2.0,33906,"Tool Ultra office pack: Word (.docx), Excel (.xlsx), and PDF document reading and manipulation."
+2026-11-07T15:48:44.062Z,@lvy-jsd/dsh-tool-ultra-pack-web,0.5.0,lvy-jsd,Apache-2.0,59366,"Tool Ultra web-reading pack: fetch a page and return its main content as clean Markdown (Readability + turndown), or list its links. No API keys."
+2026-11-07T15:48:47.385Z,@lvy-jsd/dsh-tool-ultra-panel,0.5.0,lvy-jsd,Apache-2.0,421634,"Web panel for Tool Ultra: browse the tool directory, see what each live session has loaded and what it costs, and load or unload from the UI."
+2026-11-07T15:48:51.361Z,@lvy-jsd/dsh-tool-ultra-persist,0.5.0,lvy-jsd,Apache-2.0,25422,"Persistence plugin for Tool Ultra: keep loaded tools across a DSH restart, one state file per session."
+2026-11-07T15:48:54.809Z,@lvy-jsd/dsh-tool-ultra-risk-gate,0.5.0,lvy-jsd,Apache-2.0,35112,"Risk gate for Tool Ultra: confirm loading high-risk tools through the DSH approval channel, with a per-session allowlist."
+2026-11-07T15:48:55.18Z,dsh-plugin-pixel-ecosystem,0.1.0,tofuzyc,MIT,297006,像素生态缸：侧边栏点开就是一个整块主面板的像素生态沙盒。草和水草两条生产者链养出陆地与水下两个食物网——兔子、鹿、狐狸、狼、乌鸦，还有小鱼和狗鱼，它们吃草、啃叶、捕猎、繁殖、死亡，遗骸腐烂回肥力再养草，闭环。动物带可遗传的基因（速度 / 视野 / 体型 / 代谢 / 寿命 / 繁殖率），生崽时小幅变异，所以种群会自己波动；掠食者有领地，世界会自动补种免于灭绝。等 AI 干活时摸鱼用；世界存在浏览…
+2026-11-07T15:49:16.747Z,@kickd0wn/react-dev-companion,0.1.1,kickd0wn,MIT,36250,A zero-dependency DevTools overlay for React and Next.js applications.
+2026-11-07T15:49:36.037Z,@zriz/core,0.1.0,pqoqubbw,MIT,658722,"Framework-agnostic core of zriz: crop geometry, coverage solver, springs and export."
+2026-11-07T15:49:41.741Z,@zriz/react,0.1.0,pqoqubbw,MIT,214723,"Headless image cropper for React: crop, straighten, rotate, flip and zoom a photo."
+2026-11-07T15:50:47.592Z,basalam,0.1.0,hippogriffdev,MIT,801061,"Unofficial, typed TypeScript SDK and integration toolkit for Basalam APIs."
+2026-11-07T15:51:56.396Z,gentle-opencode-go,0.1.1,jesdev,MIT,500484,OpenCode Go subscription usage in Gentle Shell's status bar and /gentle:usage panel
+2026-11-07T15:52:16.68Z,@excede/cli,0.1.0,rajrxo,UNLICENSED,265620,"Work on an Excede workspace with Claude Code, on your own machine."
+2026-11-07T15:53:02.205Z,date-math-mcp,1.5.0,jowenowen,MIT,7394,"MCP server for exact date/time math: business days, public holidays (207 countries), time zones, cron, RRULE, SLA deadlines. 25 free calls/day."
+2026-11-07T15:53:14.209Z,pickle-select,1.2.0,yannickoo,MPL-2.0,116885,"A modular, accessible vanilla JS <select> replacement utility with a funny name."
+2026-11-07T15:53:18.526Z,xex-agent-cli,0.1.0,voidbydarshan,,146665,A strict TypeScript terminal coding agent with trust-focused controls and OpenAI-compatible providers
+2026-11-07T15:53:32.896Z,@zumer/pulse,0.0.0,tinchox5,MIT,421613,"A radial interface for monitoring and controlling systems: one object per system, its readings and controls as layers, the urgent one in front. Built on Orbit and Zumly."
+2026-11-07T15:53:50.8Z,dsh-rescue-guard,0.2.1,raysnows,MIT,202717,DSH 启动救援与自我修复：启动前静态预检命令名冲突与缺失文件，保留配置快照，DSH 起不来时用独立 CLI（dsh-rescue）禁用可疑 bundle 并回滚清单。
+2026-11-07T15:54:21.684Z,mcp-stagehand,1.1.0,tea0s,MIT,74370,"MCP server for StageHand — let AI helpers manage indexes, lore, and Flow Builder with a personal sh_ key."
+2026-11-07T15:54:41.727Z,@booi-gg/redhot,0.1.0,booi-gg,MIT,284229,"A keyboard launcher for macOS that runs in your terminal: apps, hotkeys, quicklinks, clipboard history and window actions"
+2026-11-07T15:54:45.323Z,@archhaze24/kirby-ocpp-linux-arm64-musl,0.5.0,archhaze24,MIT,18568755,kirby-ocpp and kirby-csms binaries for linux-arm64 (musl)
+2026-11-07T15:54:48.774Z,@codebye.ai/plugin-ui,2.3.0,atspider,Apache-2.0,196142,"Styles, the host bridge and page components for codebye plugin pages."
+2026-11-07T15:55:10.693Z,@codebye.ai/plugin-cli,2.3.0,atspider,Apache-2.0,1087506,Checks and packs codebye plugins with the app's own rules.
+2026-11-07T15:55:34.009Z,create-codebye-plugin,2.3.0,atspider,Apache-2.0,411654,Makes a new codebye plugin package: npm create codebye-plugin.
+2026-11-07T15:56:03.726Z,connelio,0.1.0,connelio,MIT,41560,"Put your AI agent (Claude Code, Hermes, any CLI) in Connelio: pair with a QR code, chat with it from your phone."
+2026-11-07T15:56:09.678Z,@zerorigin-studio/dsh-remote,0.1.2,coldcgh,MIT,89216,DSH desktop 插件：把进程内 Web GUI 反代到本机端口，配合 Go 隧道 agent 与 relay 服务器，让手机 App 远程操作电脑上的 DeepSeek Harness。
+2026-11-07T15:56:21.556Z,@catalystiq/test-kit,0.1.0,catalystiq,MIT,106179,Shared test setup for Vitest and a fake MCP Apps host for jsdom and Playwright.
+2026-11-07T15:57:40.644Z,shinten,0.1.0,joeartsea,Apache-2.0,92629,"User input sealed in the browser to the key of whoever will act on it, stored unopened on every server, opened only where the work is done."
+2026-11-07T15:58:59.992Z,tool-snippets,0.0.7,testing74,,46677,"Вот README.md, адаптированный под библиотеку сниппетов с установкой для WebStorm и VS Code:"
+2026-11-07T15:59:31.91Z,preview-cmd,0.1.0,brandonkramercc,UNLICENSED,38648,"Temporary, audience-aware preview links for anything you can tunnel."
+2026-11-07T15:59:52.136Z,@mingmaple/dsh-handover,0.9.6,mingmaple,MIT,522169,DeepSeek Harness 插件：把「全局」的交接、闸门、会话清点与上下文压缩续跑流程做成工具（dsh-handover）
+2026-11-07T15:59:54.045Z,kangoh,0.1.0,joeartsea,Apache-2.0,82150,"Reward vouchers as verifiable credentials: issued by stores to customers' agents, accepted across a program and settled between stores, with no customer database."
+2026-11-07T15:59:55.893Z,@helpdice/memoizer,1.0.0,helpdice,MIT,15382,useMemo and useCallback but with a stable cache
+2026-11-07T16:00:02.28Z,scava-ai,0.1.0,scava-ai,UNLICENSED,60046,"Hosting, login and a database for the internal tools your AI agent builds, with sharing and change requests. One command: npx -y scava-ai deploy."
+2026-11-07T16:00:04.911Z,@ldavidl/agentrelay,0.2.0,ldavidl,MIT,654393,AgentRelay —— 跨 AI Agent 会话接力：逐字保真、选择性加载、多 agent 互通
+2026-11-07T16:00:15.631Z,dsh-settings-button,1.0.1,realoiyo,MIT,26149,"A gear button beside the sidebar account row that opens the DSH Settings dialog directly, on desktop and over the LAN."
+2026-11-07T16:00:21.129Z,dsh-plugin-agent-browser,1.0.2,d3d-root,MIT,302363,"A real browser in the DeepSeek Harness right sidebar — one per chat, driven by agent tools"
+2026-11-07T16:00:33.339Z,@gunnarsturla/pointout,0.1.0,gunnarsturla,MIT,1026760,"Pick an element in the running app, type a request about it, and have it reach the Claude Code session you are already working in."
+2026-11-07T16:00:39.244Z,dsh-ember,0.2.0,realoiyo,MIT,200064,"四件事一个插件：完全权限变红、推理等级滑块、模型菜单可辨识、会话状态环 | Full access in red, effort slider, legible model picker, session status ring — UI enhancement for DeepSeek Harness"
+2026-11-07T16:00:50.486Z,what-sub-agents-doing-now,0.2.2,realoiyo,MIT,115325,"See what each subagent is actually doing: surface the progress notes a child wrote itself, not just running/inactive. Read-only, non-shadowing."
+2026-11-07T16:00:56.397Z,dsh-ru-lang,1.0.0,kienminh,MIT,319644,"Русский язык для DeepSeek Harness: 62 раздела интерфейса, 2888 строк и 426 названий/описаний плагинов"
+2026-11-07T16:01:02.278Z,dsh-qwenwork-connector,0.1.0,realoiyo,MIT,412150,千问办公（QwenWork）模型接入 DeepSeek Harness：自带设备码登录，直连官方接口，不需要安装桌面客户端，也不需要额外的网关程序。
+2026-11-07T16:02:07.66Z,connelio-bridge,0.1.0,connelio,MIT,672,Renamed to connelio. Run: npx connelio connect
+2026-11-07T16:02:11.161Z,@ohos-ports/adminjs-prisma,5.0.4-beta.1,ljry,MIT,68914,"Prisma adapter for AdminJS (OpenHarmony port, beta)"
+2026-11-07T16:02:12.462Z,@fitzdoud/valun,0.3.0,fitzdoud,MIT,202462,"Zero-dependency JavaScript/TypeScript client for the Valun agent credit network (valun-deal/1): local secp256k1 key, Basis Schnorr signatures, independent checks before every signature. Experimental…"
+2026-11-07T16:02:31.835Z,chatluna-plugin-onebot-toolbox,0.0.1,arrog1nt,MIT,131748,为 ChatLuna 提供 OneBot 原生工具与群聊信息变量：修改资料与头像、群名片与头衔、搜索群成员、退群、踢人、处理申请、撤回消息
+2026-11-07T16:02:35.268Z,shinten-ship,0.1.0,joeartsea,Apache-2.0,57661,"The shipping desk for shinten: opens sealed delivery addresses on the desk's own device and writes the carrier's label-import CSV, so the store never holds an address in the clear."
+2026-11-07T16:02:54.9Z,deltafold,0.0.0,ylfjuk,MIT,3087,"Model version history, resolve migration instructions between versions, and generate changelogs."
+2026-11-07T16:02:57.147Z,dsh-db-mcp,0.6.4,halcyon6669,Apache-2.0,321770,DSH database plugin: a data-source management panel plus a Python MCP server that exposes those sources to the agent.
+2026-11-07T16:03:22.162Z,@ztr66/dsh-design-library,0.1.0,ztr66,MIT,6134502,"Browse 290 local design systems, register the bundled design skills for the agent, and check finished UI against a design system with computed contrast, palette and type findings."
+2026-11-07T16:03:30.37Z,@maorgoldberg/moodle-mcp,0.1.0,maorgoldberg,MIT,1967858,"Read-only Moodle MCP server for students: courses, materials, deadlines, assignments, grades and forums."
+2026-11-07T16:04:50.587Z,@anantagnanam/lms,0.1.0,anantagnanam,MIT,716672,"Courses, assessments, enrollment, progress, certificates and learning communities for EmDash CMS."
+2026-11-07T16:06:06.988Z,@chengzhiyi/pi-pencil,0.0.0-stage,chengzhiyi,,343,Temporary package placeholder for staged publishing
+2026-11-07T16:06:08.746Z,@minhkhoa/aimanagement,0.1.0,minhkhoa,MIT,3875518,"AI Team: nền tảng điều phối nhiều agent AI (Claude Code, Codex, Custom API) theo phòng ban, chạy hoàn toàn trên máy."
+2026-11-07T16:06:12.392Z,create-vee-vite,1.0.0,congvee,,48834,My custom Vue 3 scaffolding
+2026-11-07T16:06:33.858Z,dsh-term-dict,0.1.0,taoziliyouchong,MIT,404809,跨会话的术语字典：查词条、写词条、查重体检三条工具，加设置面板；某个称谓第一次出现时，把它的口径自动注入模型上下文。
+2026-11-07T16:07:30.725Z,express-turnstile-revived,1.0.7,tizianoluziramos,ISC,10054,Revived express middleware for CloudFlare Turnstile Captcha
+2026-11-07T16:07:33.56Z,altiora-agent,0.1.0,escap1ng,Apache-2.0,299682,Altiora - a headless-first coding agent harness.
+2026-11-07T16:08:37.112Z,@ryuugg/stanza-darwin-arm64,0.0.0,ryuudotgg,MIT,601,The stanza binary for macOS on Apple silicon.
+2026-11-07T16:08:39.174Z,@ryuugg/stanza-darwin-x64,0.0.0,ryuudotgg,MIT,587,The stanza binary for macOS on Intel.
+2026-11-07T16:08:41.35Z,@ryuugg/stanza-linux-arm64,0.0.0,ryuudotgg,MIT,627,The stanza binary for Linux arm64 with glibc.
+2026-11-07T16:08:43.926Z,@ryuugg/stanza-linux-arm64-musl,0.0.0,ryuudotgg,MIT,635,The stanza binary for Linux arm64 with musl.
+2026-11-07T16:08:46.056Z,@ryuugg/stanza-linux-x64,0.0.0,ryuudotgg,MIT,619,The stanza binary for Linux x64 with glibc.
+2026-11-07T16:08:46.7Z,dsh-trpg,0.12.2,hbdfs,SEE LICENSE IN LICENSE,168666,QQ 群 AI 跑团（CoC 7e）的 DSH 侧大脑：合批、确定性骰子、实时播报。需配合 Roost 插件 trpg-forwarder（两边共享令牌一致）
+2026-11-07T16:08:48.157Z,@ryuugg/stanza-linux-x64-musl,0.0.0,ryuudotgg,MIT,627,The stanza binary for Linux x64 with musl.
+2026-11-07T16:09:48.727Z,create-yuktai,1.0.0,yuktishaalaa,GPL-3.0-only,37122,"npm create yuktai@latest: create a YuktAI app (Next.js, accessible, Indian languages) in one command."
+2026-11-07T16:09:49.498Z,@kkwww/casual-ui,2.0.2,kkwww,,3763117,Casual UI for Vue and Nuxt
+2026-11-07T16:10:13.694Z,@mdalboni/dsh-mobile,1.0.0,mdalboni,MIT,11485,"Mobile viewport lock, overscroll containment, and virtual keyboard optimizations for DSH Web GUI"
+2026-11-07T16:12:23.115Z,@realoiyo/dsh-web-gate,0.2.0,realoiyo,MIT,73989,DeepSeek Harness 的局域网网关：密码认证，同网段浏览器访问，不修改 DSH 页面。
+2026-11-07T16:12:40.95Z,@codex.nayem/chatgpt-agent-bridge,1.0.0,codex.nayem,Commercial,78037,"Production-grade Model Context Protocol (MCP) daemon & Chrome Extension bridge that connects AI Agents (Antigravity Cortex, Claude, Cursor) to ChatGPT Web for automated chat, image generation, visual…"
+2026-11-07T16:13:38.201Z,@awilixify/emittery,0.1.0,r.vanzhula,MIT,20138,"Type-safe, module-scoped events for Awilixify, powered by Emittery."
+2026-11-07T16:13:50.26Z,@todahq/mcp,0.1.0,aitani,Apache-2.0,9113,"Connect Claude Code or Claude Desktop to a Toda site in one command: sets up the abp-mcp bridge for the site, signs you in in your browser, and adds it to Claude."
+2026-11-07T16:14:10.111Z,zalodesk,0.1.1,zalodesk,MIT,16854,"ZaloDesk CLI: read and send Zalo and Zalo OA messages, manage your team's access (Phân quyền) and chat routing from the terminal."
+2026-11-07T16:14:14.223Z,fernos,0.0.0,webdiscus,ISC,499,"A CLI to ship Docker Compose releases over SSH, with history, rollback and secrets."
+2026-11-07T16:14:20.249Z,@statuser/cli,0.1.0,statuser-dev,MIT,487138,"Statuser.cloud command line: scenario checks as code, maintenance windows in CI, heartbeat for cron jobs"
+2026-11-07T16:14:48.78Z,@lp-labs/abc-analysis,0.1.0,libinprasanth,MIT,18988,Deterministic cumulative-value ABC classification with explicit tie and negative-value policies.
+2026-11-07T16:14:49.788Z,@btst/plugin-feedback,0.0.0-stage,oleksiy,,343,Temporary package placeholder for staged publishing
+2026-11-07T16:15:02.575Z,@argonuts/cli-darwin-arm64,0.1.0,argonuts787,MIT AND LGPL-2.1-or-later,38383279,"argonuts-cli, ffmpeg and ffprobe for macOS on Apple Silicon, installed by the argonuts package."
+2026-11-07T16:15:11.983Z,@lp-labs/accept-header-negotiator,0.1.0,libinprasanth,MIT,10664,Accept media-range parser and deterministic best-supported media type selection.
+2026-11-07T16:15:13.39Z,dsh-stable-tool-search,0.1.0,ilonalumina,MIT,16004,"Tool search for DeepSeek Harness with a declared tool list that never changes, so the prompt cache stays valid."
+2026-11-07T16:15:18.506Z,@lp-labs/accept-language-parser,0.1.0,libinprasanth,MIT,10037,Parses Accept-Language quality values and selects a supported language deterministically.
+2026-11-07T16:15:39.053Z,@argonuts/cli-win32-x64,0.1.0,argonuts787,MIT AND LGPL-2.1-or-later,55586846,"argonuts-cli, ffmpeg and ffprobe for Windows on x64, installed by the argonuts package."
+2026-11-07T16:15:41.087Z,aliasfleet-mcp,1.0.0,aliasfleet,MIT,38338,Official Model Context Protocol (MCP) server & Agent Toolkit for AliasFleet programmable inboxes and privacy aliases
+2026-11-07T16:15:41.336Z,argonuts,0.1.0,argonuts787,MIT,15929,"Your media library from the terminal: add folders, scan them and keep their thumbnails ready."
+2026-11-07T16:16:02.385Z,adsmarch-ads-mcp,0.1.5,jan_lyy,MIT,53902,AdsMarch unified Google Ads + Meta Ads MCP gateway for WorkBuddy connectors
+2026-11-07T16:16:29.474Z,vite-dev-plugin,0.0.0-stage,randomusername67,,337,Temporary package placeholder for staged publishing
