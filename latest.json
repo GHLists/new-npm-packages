@@ -1,193 +1,43 @@
 {
   "list": {
-    "count": 172,
-    "from": "2026-11-07T09:18:46.115955Z",
-    "path": "data/new-packages-2026-11-07T10-18-49-210664Z.csv",
-    "to": "2026-11-07T10:18:49.210664Z"
+    "count": 210,
+    "from": "2026-11-07T10:18:49.210664Z",
+    "path": "data/new-packages-2026-11-07T11-18-47-774279Z.csv",
+    "to": "2026-11-07T11:18:47.774279Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@bloomengine/three",
-      "since": "2026-11-07T09:18:46.115955Z"
+      "package": "@luxass/pi-cost-explorer",
+      "since": "2026-11-07T10:18:49.210664Z"
     },
     {
       "attempts": 1,
-      "package": "@bloomengine/web",
-      "since": "2026-11-07T09:18:46.115955Z"
+      "package": "@x402jp/delivery-receipt-seller",
+      "since": "2026-11-07T10:18:49.210664Z"
     },
     {
       "attempts": 1,
-      "package": "@flex-development/mark-factory-markers",
-      "since": "2026-11-07T09:18:46.115955Z"
+      "package": "@x402jp/delivery-receipt-verify",
+      "since": "2026-11-07T10:18:49.210664Z"
     },
     {
       "attempts": 1,
-      "package": "@flex-development/mark-factory-space",
-      "since": "2026-11-07T09:18:46.115955Z"
+      "package": "@zarex/bun",
+      "since": "2026-11-07T10:18:49.210664Z"
     },
     {
       "attempts": 1,
-      "package": "@flex-development/mark-util-subtokenize",
-      "since": "2026-11-07T09:18:46.115955Z"
+      "package": "@zarex/client",
+      "since": "2026-11-07T10:18:49.210664Z"
     },
     {
       "attempts": 1,
-      "package": "@maplibre/native-ffi-metal-darwin-x64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-freebsd-x64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-linux-arm64-musl",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-linux-loong64-gnu",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-linux-loong64-musl",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-linux-riscv64-gnu",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-linux-riscv64-musl",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-linux-x64-musl",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-mingw",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-mingw-win32-arm64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-mingw-win32-x64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-win32-arm64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-opengl-win32-x64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-react-native",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-freebsd-x64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-linux-arm64-musl",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-linux-loong64-gnu",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-linux-loong64-musl",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-linux-riscv64-gnu",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-linux-riscv64-musl",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-linux-x64-musl",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-mingw",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-mingw-win32-arm64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-mingw-win32-x64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-win32-arm64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@maplibre/native-ffi-vulkan-win32-x64",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@melt-js/docs-bag",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@patchgg/cli",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@petercjl/qqdocscli",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@ryusenkei/form",
-      "since": "2026-11-07T09:18:46.115955Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@ryusenkei/legal",
-      "since": "2026-11-07T09:18:46.115955Z"
+      "package": "@zarex/core",
+      "since": "2026-11-07T10:18:49.210664Z"
     }
   ],
-  "seq": 142831877,
+  "seq": 142838286,
   "source_truncated": false,
-  "window": "2026-11-07T10:18:49.210664Z"
+  "window": "2026-11-07T11:18:47.774279Z"
 }
