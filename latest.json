@@ -1,83 +1,193 @@
 {
   "list": {
-    "count": 103,
-    "from": "2026-11-07T08:18:42.302135Z",
-    "path": "data/new-packages-2026-11-07T09-18-46-115955Z.csv",
-    "to": "2026-11-07T09:18:46.115955Z"
+    "count": 172,
+    "from": "2026-11-07T09:18:46.115955Z",
+    "path": "data/new-packages-2026-11-07T10-18-49-210664Z.csv",
+    "to": "2026-11-07T10:18:49.210664Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@linsxyx/kamusic-darwin-arm64",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@bloomengine/three",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@linsxyx/kamusic-darwin-x64",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@bloomengine/web",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@linsxyx/kamusic-linux-arm64",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@flex-development/mark-factory-markers",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@linsxyx/kamusic-linux-x64",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@flex-development/mark-factory-space",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@linsxyx/kamusic-win32-arm64",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@flex-development/mark-util-subtokenize",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@linsxyx/kamusic-win32-x64",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@maplibre/native-ffi-metal-darwin-x64",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@toip-tools/anon-membership",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@maplibre/native-ffi-opengl-freebsd-x64",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@toip-tools/cose",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@maplibre/native-ffi-opengl-linux-arm64-musl",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@toip-tools/eventlog",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@maplibre/native-ffi-opengl-linux-loong64-gnu",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@toip-tools/mandates",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@maplibre/native-ffi-opengl-linux-loong64-musl",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@toip-tools/mesh-transport",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@maplibre/native-ffi-opengl-linux-riscv64-gnu",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@toip-tools/relay",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@maplibre/native-ffi-opengl-linux-riscv64-musl",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@toip-tools/trust-core",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@maplibre/native-ffi-opengl-linux-x64-musl",
+      "since": "2026-11-07T09:18:46.115955Z"
     },
     {
       "attempts": 1,
-      "package": "@toip-tools/web-vault",
-      "since": "2026-11-07T08:18:42.302135Z"
+      "package": "@maplibre/native-ffi-opengl-mingw",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-opengl-mingw-win32-arm64",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-opengl-mingw-win32-x64",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-opengl-win32-arm64",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-opengl-win32-x64",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-react-native",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-freebsd-x64",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-linux-arm64-musl",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-linux-loong64-gnu",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-linux-loong64-musl",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-linux-riscv64-gnu",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-linux-riscv64-musl",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-linux-x64-musl",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-mingw",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-mingw-win32-arm64",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-mingw-win32-x64",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-win32-arm64",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@maplibre/native-ffi-vulkan-win32-x64",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@melt-js/docs-bag",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@patchgg/cli",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@petercjl/qqdocscli",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ryusenkei/form",
+      "since": "2026-11-07T09:18:46.115955Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ryusenkei/legal",
+      "since": "2026-11-07T09:18:46.115955Z"
     }
   ],
-  "seq": 142825257,
+  "seq": 142831877,
   "source_truncated": false,
-  "window": "2026-11-07T09:18:46.115955Z"
+  "window": "2026-11-07T10:18:49.210664Z"
 }
