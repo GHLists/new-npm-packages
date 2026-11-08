@@ -1,0 +1,371 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-08T09:18:10.956Z,@traceai/grok-plugin,0.1.0,futureagi,Apache-2.0,67907,Native Grok Build hooks and turn tracing for Future AGI
+2026-11-08T09:18:45.767Z,@office-rs/rofd-convert-linux-x64-gnu,0.1.1,ravenq,Apache-2.0,7863311,rofd-convert native addon (linux-x64-gnu)
+2026-11-08T09:18:53.731Z,@office-rs/rofd-convert-win32-x64-msvc,0.1.1,ravenq,Apache-2.0,5789141,rofd-convert native addon (win32-x64-msvc)
+2026-11-08T09:19:03.041Z,@office-rs/rofd-convert-darwin-x64,0.1.1,ravenq,Apache-2.0,6742630,rofd-convert native addon (darwin-x64)
+2026-11-08T09:19:12.009Z,@office-rs/rofd-convert-darwin-arm64,0.1.1,ravenq,Apache-2.0,6480524,rofd-convert native addon (darwin-arm64)
+2026-11-08T09:19:25.655Z,@office-rs/rofd-convert,0.1.1,ravenq,Apache-2.0,27786,Headless OFD to PDF conversion (napi-rs bindings over the rofd kernel)
+2026-11-08T09:19:30.288Z,@office-rs/rofd-convert-wasm,0.1.1,ravenq,Apache-2.0,15720,"Headless OFD to PDF conversion in the browser (wasm, no editor, no WebGPU) — works in Web Workers"
+2026-11-08T09:20:11.622Z,@paulgit/mcp-cloudflare-radar-delta,0.0.0-stage,paulgit,,357,Temporary package placeholder for staged publishing
+2026-11-08T09:20:11.689Z,emoji-components,0.0.0,brianhung,MIT,497,Emoji components for React. The first release is 1.0.0-alpha.1.
+2026-11-08T09:20:13.738Z,emoji-components-react,0.0.0,brianhung,MIT,488,Use emoji-components.
+2026-11-08T09:23:20.024Z,@traceai/hermes-agent,0.1.0,futureagi,Apache-2.0,27672,Native Hermes Agent tracing setup companion; Python-only tracing runtime
+2026-11-08T09:23:36.338Z,@mnaimfaizy/agent-kit,1.0.0-alpha.12,mnaimfaizy,MIT,87154,"Adopt, upgrade and check Agent-kit in a Consumer repository. Reads kit files from the pinned git tag."
+2026-11-08T09:24:22.33Z,@substrate-system/redeye,0.1.7,nichoth,SEE LICENSE IN LICENSE,1344914,Orchestrator that runs a single-agent session per issue.
+2026-11-08T09:24:22.92Z,dsh-plugin-saber,0.2.0,luca-42,MIT,69274,"DSH plugin: drive a local Saber-Translator manga translator through its HTTP API (translate, jobs, images, glossary, backend lifecycle)."
+2026-11-08T09:24:34.029Z,@cesarchamal/single-spa-solid-app,1.0.19,cesarchamal,MIT,38988,SolidJS microfrontend for Single-SPA demonstrating fine-grained reactivity without a framework adapter
+2026-11-08T09:25:30.857Z,dsh-local-guard,0.1.1,kee9,MIT,38084,DSH 本地模型守护：断网自动启动 llama.cpp，网络恢复释放显存；支持选择器联动与多模型切换。
+2026-11-08T09:25:32.825Z,@polunzh/dsh-doc,0.1.2,polunzh,MIT,226996,打印工坊：把文本/Markdown 排成 A4 讲义 PDF，探测局域网打印机能力后直接双面打印，并回报出纸回执。Print Studio: typeset text into a print-ready A4 PDF and print it duplex on a LAN printer with capability-aware options.
+2026-11-08T09:25:35.779Z,@chonoi/vietnamese-lunar-calendar,1.0.2,ntamvl,MIT,828508,"Thư viện Lịch Âm Việt Nam đầy đủ và chính xác nhất cho JavaScript, TypeScript và Node.js. Hỗ trợ chuyển đổi Âm - Dương, Can Chi, 24 Tiết Khí, Giờ Hoàng Đạo, Thập Nhị Trực, Nhị Thập Bát Tú, Ngày lễ Vi…"
+2026-11-08T09:26:23.1Z,@zorinto/chinwag,0.1.0,vimalhari,MIT,2502288,"Read and reply to WhatsApp from the Mac terminal, for people, AI agents and scripts."
+2026-11-08T09:26:36.653Z,coding.sh,0.1.2,jacklauoptimizer,MIT,5011029,"Open-source, local-first observability and evals for any AI agent, with coding agents first-class: capture sessions from hooks or OpenTelemetry, browse them in a local viewer, turn failures into eval…"
+2026-11-08T09:26:38.188Z,dsh-school,0.2.0,yinfuyusar,MIT,416161,让她自己补上那些你没答、她也没懂的问题：聊天里悬着的问被记下来，你不看她的时候她自己去查，查到了在你桌上留一张纸条。只读她的经历，不写她的记忆，也不影响她的成长。
+2026-11-08T09:26:38.597Z,@codingdotsh/sdk,0.1.2,jacklauoptimizer,MIT,104060,"Trace any AI agent or LLM app in production: wrap OpenAI, Anthropic, the AI SDK or fetch and send every model call, tool call and turn to a coding.sh server."
+2026-11-08T09:26:40.616Z,coding.sh-store-postgres,0.1.2,jacklauoptimizer,MIT,72356,"Postgres store for coding.sh, observability and evals for any AI agent: point CODING_SH_STORE_URL at postgres:// and run serve, the CLI, MCP and evals on one database."
+2026-11-08T09:26:42.605Z,coding.sh-store-s3,0.1.1,jacklauoptimizer,MIT,27903,"S3, R2 and MinIO blob store for coding.sh, observability and evals for any AI agent (s3:// URLs). Zero dependencies."
+2026-11-08T09:26:43.168Z,@kipp-sandbox/kipp-node-winston,0.0.0-placeholder,plebsori,MIT,164,Placeholder for trusted publishing set-up
+2026-11-08T09:26:44.425Z,coding.sh-store-clickhouse,0.1.1,jacklauoptimizer,MIT,75667,"ClickHouse store for coding.sh, observability and evals for any AI agent: point CODING_SH_STORE_URL at clickhouse:// and run serve, the CLI, MCP and evals on one database. Zero dependencies."
+2026-11-08T09:26:58.623Z,dsh-shengsheng-observer,0.5.1,plplkak,MIT,51794,声生观察台 · DeepSeek Harness 插件：上传清唱干声，分析音色、音域与嗓况，并给出编曲混音建议。
+2026-11-08T09:27:38.171Z,@wrikka/chart,0.1.0,newkubise,,210649,A chart visualization module with Clean Architecture for SolidJS
+2026-11-08T09:27:53.802Z,@wrikka/theme,0.1.0,newkubise,MIT,142819,"Design tokens, theme presets, and the UnoCSS configuration behind @wrikka/ui"
+2026-11-08T09:28:09.193Z,@wrikka/ui,0.1.0,newkubise,MIT,14319485,"Solid UI component library — comprehensive, accessible, and production-ready"
+2026-11-08T09:28:27.216Z,supercoder-cli,0.2.1,augboat,ISC,262750,"One terminal for Codex CLI and Claude Code, with a live token/cost/latency meter and per-project history"
+2026-11-08T09:28:30.608Z,@traceai/oh-my-pi-plugin,0.1.0,futureagi,Apache-2.0,48102,"Native Oh My Pi plugin for Future AGI prompt, generation, tool and subagent tracing"
+2026-11-08T09:29:13.252Z,@hqli/wasm-imagequant,0.1.4,hqli,MIT OR Apache-2.0,131318,"Fork of wasm-imagequant 0.1.4 with full-strength error diffusion, so smooth gradients don't band"
+2026-11-08T09:29:20.823Z,@hobbit254/notify-react,0.1.1,hobbit254,MIT,16660,"React hooks and drop-in components (NotificationBell, InboxDrawer) for Notify"
+2026-11-08T09:30:04.086Z,oubkt-krxpo-util,0.0.0-stage,jasminapasmina,,338,Temporary package placeholder for staged publishing
+2026-11-08T09:30:06.521Z,glbkm-vrnpk-util,0.0.0-stage,jasminapasmina,,338,Temporary package placeholder for staged publishing
+2026-11-08T09:30:08.664Z,qtfdd-lnrwx-util,0.0.0-stage,jasminapasmina,,338,Temporary package placeholder for staged publishing
+2026-11-08T09:30:10.732Z,piepa-yfcbf-util,0.0.0-stage,jasminapasmina,,338,Temporary package placeholder for staged publishing
+2026-11-08T09:30:12.691Z,fcefi-wdojs-util,1.0.0,jasminapasmina,,2899585,
+2026-11-08T09:30:15.481Z,csvmw-glair-util,0.0.0-stage,jasminapasmina,,338,Temporary package placeholder for staged publishing
+2026-11-08T09:30:18.036Z,monavi-protocol,0.2.1,zenlix,,45919,
+2026-11-08T09:30:21.857Z,monavi-cdp-shim,0.2.1,zenlix,,20508,
+2026-11-08T09:30:58.016Z,@ohos-ports/mario-teacher-student-client,2.2.700-release-beta.0,lljry,MIT,47557269,Made with create-react-library
+2026-11-08T09:33:17.27Z,@sungreaki/dsh-adaptive-orchestrator,0.1.2,sungreaki,,6898,Standalone native Node.js workflow planner with configured model aliases.
+2026-11-08T09:33:30.205Z,@mrfentmen/aspnet-mcp,1.0.0,mrfentmen,MIT,39678,"ASP.NET MCP: 20 real tools to read, check, lint, scaffold, build and run ASP.NET code."
+2026-11-08T09:33:30.215Z,@mrfentmen/antlr-mcp,1.0.0,mrfentmen,MIT,39529,"ANTLR MCP: 20 real tools to read, check, lint, scaffold, build and run ANTLR code."
+2026-11-08T09:33:30.388Z,@mrfentmen/algol-mcp,1.0.0,mrfentmen,MIT,39518,"ALGOL MCP: 20 real tools to read, check, lint, scaffold, build and run ALGOL code."
+2026-11-08T09:33:30.497Z,@mrfentmen/actionscript-mcp,1.0.0,mrfentmen,MIT,39690,"ActionScript MCP: 20 real tools to read, check, lint, scaffold, build and run ActionScript code."
+2026-11-08T09:33:31.445Z,@mrfentmen/c-mcp,1.0.0,mrfentmen,MIT,39492,"C MCP: 20 real tools to read, check, lint, scaffold, build and run C code."
+2026-11-08T09:33:33.705Z,@mrfentmen/csharp-mcp,1.0.0,mrfentmen,MIT,39588,"C# MCP: 20 real tools to read, check, lint, scaffold, build and run C# code."
+2026-11-08T09:33:34.043Z,@mrfentmen/cpp-mcp,1.0.0,mrfentmen,MIT,39537,"C++ MCP: 20 real tools to read, check, lint, scaffold, build and run C++ code."
+2026-11-08T09:33:34.307Z,@mrfentmen/cwl-mcp,1.0.0,mrfentmen,MIT,39753,"Common Workflow Language MCP: 20 real tools to read, check, lint, scaffold, build and run Common Workflow Language code."
+2026-11-08T09:33:34.357Z,@mrfentmen/coffeescript-mcp,1.0.0,mrfentmen,MIT,39690,"CoffeeScript MCP: 20 real tools to read, check, lint, scaffold, build and run CoffeeScript code."
+2026-11-08T09:33:34.806Z,@mrfentmen/dockerfile-mcp,1.0.0,mrfentmen,MIT,39664,"Dockerfile MCP: 20 real tools to read, check, lint, scaffold, build and run Dockerfile code."
+2026-11-08T09:33:36.903Z,@mrfentmen/dune-mcp,1.0.0,mrfentmen,MIT,39507,"Dune MCP: 20 real tools to read, check, lint, scaffold, build and run Dune code."
+2026-11-08T09:33:37.98Z,@mrfentmen/elvish-transcript-mcp,1.0.0,mrfentmen,MIT,39710,"Elvish Transcript MCP: 20 real tools to read, check, lint, scaffold, build and run Elvish Transcript code."
+2026-11-08T09:33:38.161Z,@mrfentmen/flux-mcp,1.0.0,mrfentmen,MIT,39518,"FLUX MCP: 20 real tools to read, check, lint, scaffold, build and run FLUX code."
+2026-11-08T09:33:38.417Z,@mrfentmen/gherkin-mcp,1.0.0,mrfentmen,MIT,39655,"Gherkin MCP: 20 real tools to read, check, lint, scaffold, build and run Gherkin code."
+2026-11-08T09:33:38.442Z,@mrfentmen/gdb-mcp,1.0.0,mrfentmen,MIT,39467,"GDB MCP: 20 real tools to read, check, lint, scaffold, build and run GDB code."
+2026-11-08T09:33:39.495Z,@mrfentmen/glimmer-ts-mcp,1.0.0,mrfentmen,MIT,39843,"Glimmer TS MCP: 20 real tools to read, check, lint, scaffold, build and run Glimmer TS code."
+2026-11-08T09:33:41.11Z,@traceai/openclaw,0.1.0,futureagi,Apache-2.0,79717,One-command setup and in-process normalization of OpenClaw's official diagnostics traces
+2026-11-08T09:33:41.737Z,@mrfentmen/go-mcp,1.0.0,mrfentmen,MIT,39468,"Go MCP: 20 real tools to read, check, lint, scaffold, build and run Go code."
+2026-11-08T09:33:41.754Z,@mrfentmen/isabelle-root-mcp,1.0.0,mrfentmen,MIT,39662,"Isabelle ROOT MCP: 20 real tools to read, check, lint, scaffold, build and run Isabelle ROOT code."
+2026-11-08T09:33:42.116Z,@mrfentmen/java-mcp,1.0.0,mrfentmen,MIT,39640,"Java MCP: 20 real tools to read, check, lint, scaffold, build and run Java code."
+2026-11-08T09:33:42.226Z,@mrfentmen/javascript-mcp,1.0.0,mrfentmen,MIT,39716,"JavaScript MCP: 20 real tools to read, check, lint, scaffold, build and run JavaScript code."
+2026-11-08T09:33:42.801Z,@mrfentmen/javascript-erb-mcp,1.0.0,mrfentmen,MIT,39684,"JavaScript+ERB MCP: 20 real tools to read, check, lint, scaffold, build and run JavaScript+ERB code."
+2026-11-08T09:33:45.079Z,@mrfentmen/jison-lex-mcp,1.0.0,mrfentmen,MIT,39612,"Jison Lex MCP: 20 real tools to read, check, lint, scaffold, build and run Jison Lex code."
+2026-11-08T09:33:45.151Z,@mrfentmen/jsoniq-mcp,1.0.0,mrfentmen,MIT,39552,"JSONiq MCP: 20 real tools to read, check, lint, scaffold, build and run JSONiq code."
+2026-11-08T09:33:45.862Z,@mrfentmen/julia-repl-mcp,1.0.0,mrfentmen,MIT,39573,"Julia REPL MCP: 20 real tools to read, check, lint, scaffold, build and run Julia REPL code."
+2026-11-08T09:33:45.976Z,@mrfentmen/jsonnet-mcp,1.0.0,mrfentmen,MIT,39568,"Jsonnet MCP: 20 real tools to read, check, lint, scaffold, build and run Jsonnet code."
+2026-11-08T09:33:46.059Z,@mrfentmen/kaitai-struct-mcp,1.0.0,mrfentmen,MIT,39743,"Kaitai Struct MCP: 20 real tools to read, check, lint, scaffold, build and run Kaitai Struct code."
+2026-11-08T09:33:48.003Z,@mrfentmen/kakounescript-mcp,1.0.0,mrfentmen,MIT,39722,"KakouneScript MCP: 20 real tools to read, check, lint, scaffold, build and run KakouneScript code."
+2026-11-08T09:33:48.274Z,@mrfentmen/kerboscript-mcp,1.0.0,mrfentmen,MIT,39587,"KerboScript MCP: 20 real tools to read, check, lint, scaffold, build and run KerboScript code."
+2026-11-08T09:33:49.346Z,@mrfentmen/kframework-mcp,1.0.0,mrfentmen,MIT,39670,"KFramework MCP: 20 real tools to read, check, lint, scaffold, build and run KFramework code."
+2026-11-08T09:33:49.489Z,@mrfentmen/krl-mcp,1.0.0,mrfentmen,MIT,39638,"KRL MCP: 20 real tools to read, check, lint, scaffold, build and run KRL code."
+2026-11-08T09:33:49.767Z,@mrfentmen/kolmafia-ash-mcp,1.0.0,mrfentmen,MIT,39697,"KoLmafia ASH MCP: 20 real tools to read, check, lint, scaffold, build and run KoLmafia ASH code."
+2026-11-08T09:33:50.553Z,@mrfentmen/labview-mcp,1.0.0,mrfentmen,MIT,39649,"LabVIEW MCP: 20 real tools to read, check, lint, scaffold, build and run LabVIEW code."
+2026-11-08T09:33:50.954Z,@mrfentmen/lambdapi-mcp,1.0.0,mrfentmen,MIT,39610,"Lambdapi MCP: 20 real tools to read, check, lint, scaffold, build and run Lambdapi code."
+2026-11-08T09:33:52.316Z,@mrfentmen/langium-mcp,1.0.0,mrfentmen,MIT,39599,"Langium MCP: 20 real tools to read, check, lint, scaffold, build and run Langium code."
+2026-11-08T09:33:53.133Z,@mrfentmen/lex-mcp,1.0.0,mrfentmen,MIT,39493,"Lex MCP: 20 real tools to read, check, lint, scaffold, build and run Lex code."
+2026-11-08T09:33:53.386Z,@mrfentmen/limbo-mcp,1.0.0,mrfentmen,MIT,39558,"Limbo MCP: 20 real tools to read, check, lint, scaffold, build and run Limbo code."
+2026-11-08T09:33:54.258Z,@mrfentmen/linear-programming-mcp,1.0.0,mrfentmen,MIT,39726,"Linear Programming MCP: 20 real tools to read, check, lint, scaffold, build and run Linear Programming code."
+2026-11-08T09:33:54.348Z,@mrfentmen/linker-script-mcp,1.0.0,mrfentmen,MIT,39743,"Linker Script MCP: 20 real tools to read, check, lint, scaffold, build and run Linker Script code."
+2026-11-08T09:33:56.381Z,@mrfentmen/liquidsoap-mcp,1.0.0,mrfentmen,MIT,39601,"Liquidsoap MCP: 20 real tools to read, check, lint, scaffold, build and run Liquidsoap code."
+2026-11-08T09:33:56.787Z,@mrfentmen/literate-coffeescript-mcp,1.0.0,mrfentmen,MIT,39889,"Literate CoffeeScript MCP: 20 real tools to read, check, lint, scaffold, build and run Literate CoffeeScript code."
+2026-11-08T09:33:56.83Z,@mrfentmen/literate-agda-mcp,1.0.0,mrfentmen,MIT,39738,"Literate Agda MCP: 20 real tools to read, check, lint, scaffold, build and run Literate Agda code."
+2026-11-08T09:33:57.365Z,@mrfentmen/livecode-script-mcp,1.0.0,mrfentmen,MIT,39783,"LiveCode Script MCP: 20 real tools to read, check, lint, scaffold, build and run LiveCode Script code."
+2026-11-08T09:33:57.519Z,@mrfentmen/literate-haskell-mcp,1.0.0,mrfentmen,MIT,39749,"Literate Haskell MCP: 20 real tools to read, check, lint, scaffold, build and run Literate Haskell code."
+2026-11-08T09:33:59.079Z,@mrfentmen/livescript-mcp,1.0.0,mrfentmen,MIT,39606,"LiveScript MCP: 20 real tools to read, check, lint, scaffold, build and run LiveScript code."
+2026-11-08T09:34:00.722Z,@mrfentmen/llvm-mcp,1.0.0,mrfentmen,MIT,39536,"LLVM MCP: 20 real tools to read, check, lint, scaffold, build and run LLVM code."
+2026-11-08T09:34:00.836Z,@mrfentmen/llvm-tablegen-mcp,1.0.0,mrfentmen,MIT,39785,"LLVM TableGen MCP: 20 real tools to read, check, lint, scaffold, build and run LLVM TableGen code."
+2026-11-08T09:34:00.987Z,@mrfentmen/logos-mcp,1.0.0,mrfentmen,MIT,39588,"Logos MCP: 20 real tools to read, check, lint, scaffold, build and run Logos code."
+2026-11-08T09:34:01.449Z,@mrfentmen/lolcode-mcp,1.0.0,mrfentmen,MIT,39578,"LOLCODE MCP: 20 real tools to read, check, lint, scaffold, build and run LOLCODE code."
+2026-11-08T09:34:01.645Z,@mrfentmen/lookml-mcp,1.0.0,mrfentmen,MIT,39623,"LookML MCP: 20 real tools to read, check, lint, scaffold, build and run LookML code."
+2026-11-08T09:34:04.273Z,@mrfentmen/loomscript-mcp,1.0.0,mrfentmen,MIT,39652,"LoomScript MCP: 20 real tools to read, check, lint, scaffold, build and run LoomScript code."
+2026-11-08T09:34:04.75Z,@mrfentmen/lsl-mcp,1.0.0,mrfentmen,MIT,39599,"LSL MCP: 20 real tools to read, check, lint, scaffold, build and run LSL code."
+2026-11-08T09:34:05.173Z,@mrfentmen/luau-mcp,1.0.0,mrfentmen,MIT,39580,"Luau MCP: 20 real tools to read, check, lint, scaffold, build and run Luau code."
+2026-11-08T09:34:05.203Z,@mrfentmen/m-mcp,1.0.0,mrfentmen,MIT,39470,"M MCP: 20 real tools to read, check, lint, scaffold, build and run M code."
+2026-11-08T09:34:05.334Z,@mrfentmen/m4sugar-mcp,1.0.0,mrfentmen,MIT,39589,"M4Sugar MCP: 20 real tools to read, check, lint, scaffold, build and run M4Sugar code."
+2026-11-08T09:34:06.989Z,@mrfentmen/mako-mcp,1.0.0,mrfentmen,MIT,39568,"Mako MCP: 20 real tools to read, check, lint, scaffold, build and run Mako code."
+2026-11-08T09:34:08.234Z,@mrfentmen/mathematical-programming-system-mcp,1.0.0,mrfentmen,MIT,40005,"Mathematical Programming System MCP: 20 real tools to read, check, lint, scaffold, build and run Mathematical Programming System code."
+2026-11-08T09:34:08.929Z,@mrfentmen/maxscript-mcp,1.0.0,mrfentmen,MIT,39593,"MAXScript MCP: 20 real tools to read, check, lint, scaffold, build and run MAXScript code."
+2026-11-08T09:34:09.042Z,@mrfentmen/metafont-mcp,1.0.0,mrfentmen,MIT,39656,"METAFONT MCP: 20 real tools to read, check, lint, scaffold, build and run METAFONT code."
+2026-11-08T09:34:09.089Z,@mrfentmen/mcfunction-mcp,1.0.0,mrfentmen,MIT,39582,"mcfunction MCP: 20 real tools to read, check, lint, scaffold, build and run mcfunction code."
+2026-11-08T09:34:09.505Z,@mrfentmen/metapost-mcp,1.0.0,mrfentmen,MIT,39648,"MetaPost MCP: 20 real tools to read, check, lint, scaffold, build and run MetaPost code."
+2026-11-08T09:34:10.883Z,@mrfentmen/metta-mcp,1.0.0,mrfentmen,MIT,39536,"MeTTa MCP: 20 real tools to read, check, lint, scaffold, build and run MeTTa code."
+2026-11-08T09:34:12.598Z,@mrfentmen/minid-mcp,1.0.0,mrfentmen,MIT,39582,"MiniD MCP: 20 real tools to read, check, lint, scaffold, build and run MiniD code."
+2026-11-08T09:34:12.727Z,@mrfentmen/minizinc-mcp,1.0.0,mrfentmen,MIT,39671,"MiniZinc MCP: 20 real tools to read, check, lint, scaffold, build and run MiniZinc code."
+2026-11-08T09:34:12.825Z,@mrfentmen/mint-mcp,1.0.0,mrfentmen,MIT,39536,"Mint MCP: 20 real tools to read, check, lint, scaffold, build and run Mint code."
+2026-11-08T09:34:13.297Z,@mrfentmen/mirah-mcp,1.0.0,mrfentmen,MIT,39631,"Mirah MCP: 20 real tools to read, check, lint, scaffold, build and run Mirah code."
+2026-11-08T09:34:13.59Z,@mrfentmen/mirc-script-mcp,1.0.0,mrfentmen,MIT,39700,"mIRC Script MCP: 20 real tools to read, check, lint, scaffold, build and run mIRC Script code."
+2026-11-08T09:34:16.231Z,@mrfentmen/module-management-system-mcp,1.0.0,mrfentmen,MIT,39871,"Module Management System MCP: 20 real tools to read, check, lint, scaffold, build and run Module Management System code."
+2026-11-08T09:34:16.48Z,@mrfentmen/mlir-mcp,1.0.0,mrfentmen,MIT,39572,"MLIR MCP: 20 real tools to read, check, lint, scaffold, build and run MLIR code."
+2026-11-08T09:34:16.727Z,@mrfentmen/monkey-mcp,1.0.0,mrfentmen,MIT,39538,"Monkey MCP: 20 real tools to read, check, lint, scaffold, build and run Monkey code."
+2026-11-08T09:34:16.866Z,@mrfentmen/monkey-c-mcp,1.0.0,mrfentmen,MIT,39562,"Monkey C MCP: 20 real tools to read, check, lint, scaffold, build and run Monkey C code."
+2026-11-08T09:34:17.433Z,@mrfentmen/moocode-mcp,1.0.0,mrfentmen,MIT,39654,"Moocode MCP: 20 real tools to read, check, lint, scaffold, build and run Moocode code."
+2026-11-08T09:34:19.55Z,@mrfentmen/moonscript-mcp,1.0.0,mrfentmen,MIT,39614,"MoonScript MCP: 20 real tools to read, check, lint, scaffold, build and run MoonScript code."
+2026-11-08T09:34:19.833Z,@mrfentmen/motoko-mcp,1.0.0,mrfentmen,MIT,56268,"Motoko MCP: 20 real tools to read, check, lint, scaffold, build and run Motoko code."
+2026-11-08T09:34:20.444Z,@mrfentmen/move-mcp,1.0.0,mrfentmen,MIT,57037,"Move MCP: 20 real tools to read, check, lint, scaffold, build and run Move code."
+2026-11-08T09:34:20.668Z,@mrfentmen/mql4-mcp,1.0.0,mrfentmen,MIT,39585,"MQL4 MCP: 20 real tools to read, check, lint, scaffold, build and run MQL4 code."
+2026-11-08T09:34:20.678Z,@mrfentmen/motorola-68k-assembly-mcp,1.0.0,mrfentmen,MIT,39857,"Motorola 68K Assembly MCP: 20 real tools to read, check, lint, scaffold, build and run Motorola 68K Assembly code."
+2026-11-08T09:34:22.446Z,@mrfentmen/mql5-mcp,1.0.0,mrfentmen,MIT,39585,"MQL5 MCP: 20 real tools to read, check, lint, scaffold, build and run MQL5 code."
+2026-11-08T09:34:23.145Z,@mrfentmen/muf-mcp,1.0.0,mrfentmen,MIT,39488,"MUF MCP: 20 real tools to read, check, lint, scaffold, build and run MUF code."
+2026-11-08T09:34:24.036Z,@mrfentmen/myghty-mcp,1.0.0,mrfentmen,MIT,39587,"Myghty MCP: 20 real tools to read, check, lint, scaffold, build and run Myghty code."
+2026-11-08T09:34:24.088Z,@mrfentmen/mupad-mcp,1.0.0,mrfentmen,MIT,39509,"mupad MCP: 20 real tools to read, check, lint, scaffold, build and run mupad code."
+2026-11-08T09:34:24.222Z,@mrfentmen/nasal-mcp,1.0.0,mrfentmen,MIT,39470,"Nasal MCP: 20 real tools to read, check, lint, scaffold, build and run Nasal code."
+2026-11-08T09:34:24.993Z,@mrfentmen/nasl-mcp,1.0.0,mrfentmen,MIT,39506,"NASL MCP: 20 real tools to read, check, lint, scaffold, build and run NASL code."
+2026-11-08T09:34:25.722Z,@mrfentmen/ncl-mcp,1.0.0,mrfentmen,MIT,39469,"NCL MCP: 20 real tools to read, check, lint, scaffold, build and run NCL code."
+2026-11-08T09:34:27.943Z,@mrfentmen/nesc-mcp,1.0.0,mrfentmen,MIT,39546,"nesC MCP: 20 real tools to read, check, lint, scaffold, build and run nesC code."
+2026-11-08T09:34:28.007Z,@mrfentmen/nearley-mcp,1.0.0,mrfentmen,MIT,39677,"Nearley MCP: 20 real tools to read, check, lint, scaffold, build and run Nearley code."
+2026-11-08T09:34:28.223Z,@mrfentmen/netlinx-mcp,1.0.0,mrfentmen,MIT,39560,"NetLinx MCP: 20 real tools to read, check, lint, scaffold, build and run NetLinx code."
+2026-11-08T09:34:28.637Z,@mrfentmen/netlinx-erb-mcp,1.0.0,mrfentmen,MIT,39632,"NetLinx+ERB MCP: 20 real tools to read, check, lint, scaffold, build and run NetLinx+ERB code."
+2026-11-08T09:34:28.896Z,@mrfentmen/netlogo-mcp,1.0.0,mrfentmen,MIT,39560,"NetLogo MCP: 20 real tools to read, check, lint, scaffold, build and run NetLogo code."
+2026-11-08T09:34:31.34Z,@mrfentmen/newlisp-mcp,1.0.0,mrfentmen,MIT,39604,"NewLisp MCP: 20 real tools to read, check, lint, scaffold, build and run NewLisp code."
+2026-11-08T09:34:31.387Z,@mrfentmen/nextflow-mcp,1.0.0,mrfentmen,MIT,39642,"Nextflow MCP: 20 real tools to read, check, lint, scaffold, build and run Nextflow code."
+2026-11-08T09:34:32.14Z,@mrfentmen/nix-mcp,1.0.0,mrfentmen,MIT,39560,"Nix MCP: 20 real tools to read, check, lint, scaffold, build and run Nix code."
+2026-11-08T09:34:32.49Z,@mrfentmen/nsis-mcp,1.0.0,mrfentmen,MIT,39581,"NSIS MCP: 20 real tools to read, check, lint, scaffold, build and run NSIS code."
+2026-11-08T09:34:32.75Z,@mrfentmen/nmodl-mcp,1.0.0,mrfentmen,MIT,39520,"NMODL MCP: 20 real tools to read, check, lint, scaffold, build and run NMODL code."
+2026-11-08T09:34:34.114Z,@mrfentmen/nu-mcp,1.0.0,mrfentmen,MIT,39470,"Nu MCP: 20 real tools to read, check, lint, scaffold, build and run Nu code."
+2026-11-08T09:34:34.508Z,@mrfentmen/numpy-mcp,1.0.0,mrfentmen,MIT,39583,"NumPy MCP: 20 real tools to read, check, lint, scaffold, build and run NumPy code."
+2026-11-08T09:34:35.583Z,@mrfentmen/nwscript-mcp,1.0.0,mrfentmen,MIT,39549,"NWScript MCP: 20 real tools to read, check, lint, scaffold, build and run NWScript code."
+2026-11-08T09:34:36.054Z,@mrfentmen/objective-j-mcp,1.0.0,mrfentmen,MIT,39697,"Objective-J MCP: 20 real tools to read, check, lint, scaffold, build and run Objective-J code."
+2026-11-08T09:34:36.164Z,@mrfentmen/objectscript-mcp,1.0.0,mrfentmen,MIT,39761,"ObjectScript MCP: 20 real tools to read, check, lint, scaffold, build and run ObjectScript code."
+2026-11-08T09:34:36.615Z,@mrfentmen/ocaml-mcp,1.0.0,mrfentmen,MIT,39553,"OCaml MCP: 20 real tools to read, check, lint, scaffold, build and run OCaml code."
+2026-11-08T09:34:37.246Z,@mrfentmen/omgrofl-mcp,1.0.0,mrfentmen,MIT,39520,"Omgrofl MCP: 20 real tools to read, check, lint, scaffold, build and run Omgrofl code."
+2026-11-08T09:34:38.625Z,@mrfentmen/omnet-msg-mcp,1.0.0,mrfentmen,MIT,39632,"OMNeT++ MSG MCP: 20 real tools to read, check, lint, scaffold, build and run OMNeT++ MSG code."
+2026-11-08T09:34:39.789Z,@mrfentmen/opa-mcp,1.0.0,mrfentmen,MIT,39506,"Opa MCP: 20 real tools to read, check, lint, scaffold, build and run Opa code."
+2026-11-08T09:34:40.376Z,@mrfentmen/opal-mcp,1.0.0,mrfentmen,MIT,39464,"Opal MCP: 20 real tools to read, check, lint, scaffold, build and run Opal code."
+2026-11-08T09:34:40.532Z,@mrfentmen/open-policy-agent-mcp,1.0.0,mrfentmen,MIT,39757,"Open Policy Agent MCP: 20 real tools to read, check, lint, scaffold, build and run Open Policy Agent code."
+2026-11-08T09:34:40.594Z,@mrfentmen/omnet-ned-mcp,1.0.0,mrfentmen,MIT,39580,"OMNeT++ NED MCP: 20 real tools to read, check, lint, scaffold, build and run OMNeT++ NED code."
+2026-11-08T09:34:41.006Z,@mrfentmen/openedge-abl-mcp,1.0.0,mrfentmen,MIT,39737,"OpenEdge ABL MCP: 20 real tools to read, check, lint, scaffold, build and run OpenEdge ABL code."
+2026-11-08T09:34:43.142Z,@mrfentmen/openrc-runscript-mcp,1.0.0,mrfentmen,MIT,39768,"OpenRC runscript MCP: 20 real tools to read, check, lint, scaffold, build and run OpenRC runscript code."
+2026-11-08T09:34:44.475Z,@mrfentmen/overpassql-mcp,1.0.0,mrfentmen,MIT,39648,"OverpassQL MCP: 20 real tools to read, check, lint, scaffold, build and run OverpassQL code."
+2026-11-08T09:34:44.481Z,@mrfentmen/oxygene-mcp,1.0.0,mrfentmen,MIT,39542,"Oxygene MCP: 20 real tools to read, check, lint, scaffold, build and run Oxygene code."
+2026-11-08T09:34:44.66Z,@mrfentmen/ox-mcp,1.0.0,mrfentmen,MIT,39532,"Ox MCP: 20 real tools to read, check, lint, scaffold, build and run Ox code."
+2026-11-08T09:34:45.031Z,@mrfentmen/overpy-mcp,1.0.0,mrfentmen,MIT,39597,"OverPy MCP: 20 real tools to read, check, lint, scaffold, build and run OverPy code."
+2026-11-08T09:34:45.85Z,@mrfentmen/parrot-mcp,1.0.0,mrfentmen,MIT,39563,"Parrot MCP: 20 real tools to read, check, lint, scaffold, build and run Parrot code."
+2026-11-08T09:34:47.687Z,@mrfentmen/parrot-assembly-mcp,1.0.0,mrfentmen,MIT,39734,"Parrot Assembly MCP: 20 real tools to read, check, lint, scaffold, build and run Parrot Assembly code."
+2026-11-08T09:34:47.784Z,@mrfentmen/parrot-pir-mcp,1.0.0,mrfentmen,MIT,39790,"Parrot Internal Representation MCP: 20 real tools to read, check, lint, scaffold, build and run Parrot Internal Representation code."
+2026-11-08T09:34:48.435Z,@mrfentmen/pawn-mcp,1.0.0,mrfentmen,MIT,39557,"Pawn MCP: 20 real tools to read, check, lint, scaffold, build and run Pawn code."
+2026-11-08T09:34:48.871Z,@mrfentmen/pddl-mcp,1.0.0,mrfentmen,MIT,39590,"PDDL MCP: 20 real tools to read, check, lint, scaffold, build and run PDDL code."
+2026-11-08T09:34:48.884Z,@mrfentmen/pegjs-mcp,1.0.0,mrfentmen,MIT,39588,"PEG.js MCP: 20 real tools to read, check, lint, scaffold, build and run PEG.js code."
+2026-11-08T09:34:50.88Z,@mrfentmen/pharo-mcp,1.0.0,mrfentmen,MIT,39517,"Pharo MCP: 20 real tools to read, check, lint, scaffold, build and run Pharo code."
+2026-11-08T09:34:50.901Z,@mrfentmen/pep8-mcp,1.0.0,mrfentmen,MIT,39491,"Pep8 MCP: 20 real tools to read, check, lint, scaffold, build and run Pep8 code."
+2026-11-08T09:34:51.941Z,@mrfentmen/picolisp-mcp,1.0.0,mrfentmen,MIT,39569,"PicoLisp MCP: 20 real tools to read, check, lint, scaffold, build and run PicoLisp code."
+2026-11-08T09:34:52.103Z,@mrfentmen/plsql-mcp,1.0.0,mrfentmen,MIT,39592,"PLSQL MCP: 20 real tools to read, check, lint, scaffold, build and run PLSQL code."
+2026-11-08T09:34:52.112Z,@mrfentmen/piglatin-mcp,1.0.0,mrfentmen,MIT,39597,"PigLatin MCP: 20 real tools to read, check, lint, scaffold, build and run PigLatin code."
+2026-11-08T09:34:53.388Z,@mrfentmen/portugol-mcp,1.0.0,mrfentmen,MIT,39605,"Portugol MCP: 20 real tools to read, check, lint, scaffold, build and run Portugol code."
+2026-11-08T09:34:53.489Z,@mrfentmen/polar-mcp,1.0.0,mrfentmen,MIT,39560,"Polar MCP: 20 real tools to read, check, lint, scaffold, build and run Polar code."
+2026-11-08T09:34:55.62Z,@mrfentmen/pov-ray-sdl-mcp,1.0.0,mrfentmen,MIT,39622,"POV-Ray SDL MCP: 20 real tools to read, check, lint, scaffold, build and run POV-Ray SDL code."
+2026-11-08T09:34:55.706Z,@mrfentmen/powerbuilder-mcp,1.0.0,mrfentmen,MIT,39725,"PowerBuilder MCP: 20 real tools to read, check, lint, scaffold, build and run PowerBuilder code."
+2026-11-08T09:34:55.716Z,@mrfentmen/power-query-mcp,1.0.0,mrfentmen,MIT,39639,"Power Query MCP: 20 real tools to read, check, lint, scaffold, build and run Power Query code."
+2026-11-08T09:34:56.464Z,@mrfentmen/proc-mcp,1.0.0,mrfentmen,MIT,39490,"Pro*C MCP: 20 real tools to read, check, lint, scaffold, build and run Pro*C code."
+2026-11-08T09:34:56.561Z,@mrfentmen/praat-mcp,1.0.0,mrfentmen,MIT,39532,"Praat MCP: 20 real tools to read, check, lint, scaffold, build and run Praat code."
+2026-11-08T09:34:59.351Z,@mrfentmen/procfile-mcp,1.0.0,mrfentmen,MIT,39559,"Procfile MCP: 20 real tools to read, check, lint, scaffold, build and run Procfile code."
+2026-11-08T09:34:59.355Z,@mrfentmen/propeller-spin-mcp,1.0.0,mrfentmen,MIT,39636,"Propeller Spin MCP: 20 real tools to read, check, lint, scaffold, build and run Propeller Spin code."
+2026-11-08T09:34:59.477Z,@mrfentmen/puppet-mcp,1.0.0,mrfentmen,MIT,39582,"Puppet MCP: 20 real tools to read, check, lint, scaffold, build and run Puppet code."
+2026-11-08T09:34:59.872Z,@mrfentmen/purebasic-mcp,1.0.0,mrfentmen,MIT,39712,"PureBasic MCP: 20 real tools to read, check, lint, scaffold, build and run PureBasic code."
+2026-11-08T09:35:00.635Z,@mrfentmen/pyret-mcp,1.0.0,mrfentmen,MIT,39526,"Pyret MCP: 20 real tools to read, check, lint, scaffold, build and run Pyret code."
+2026-11-08T09:35:00.927Z,js-vidtoaudio-lib,1.0.0,leannn_328,MIT,12371,Lightweight JavaScript library to convert video to audio (MP3/WAV) in browser
+2026-11-08T09:35:02.397Z,@mrfentmen/python-mcp,1.0.0,mrfentmen,MIT,39588,"Python MCP: 20 real tools to read, check, lint, scaffold, build and run Python code."
+2026-11-08T09:35:03.474Z,@mrfentmen/qtscript-mcp,1.0.0,mrfentmen,MIT,39638,"Qt Script MCP: 20 real tools to read, check, lint, scaffold, build and run Qt Script code."
+2026-11-08T09:35:03.488Z,@mrfentmen/qmake-mcp,1.0.0,mrfentmen,MIT,39522,"QMake MCP: 20 real tools to read, check, lint, scaffold, build and run QMake code."
+2026-11-08T09:35:03.705Z,@mrfentmen/python-console-mcp,1.0.0,mrfentmen,MIT,39637,"Python console MCP: 20 real tools to read, check, lint, scaffold, build and run Python console code."
+2026-11-08T09:35:03.787Z,@mrfentmen/quake-mcp,1.0.0,mrfentmen,MIT,39544,"Quake MCP: 20 real tools to read, check, lint, scaffold, build and run Quake code."
+2026-11-08T09:35:04.785Z,@mrfentmen/quakec-mcp,1.0.0,mrfentmen,MIT,39516,"QuakeC MCP: 20 real tools to read, check, lint, scaffold, build and run QuakeC code."
+2026-11-08T09:35:07.266Z,@mrfentmen/raku-mcp,1.0.0,mrfentmen,MIT,39573,"Raku MCP: 20 real tools to read, check, lint, scaffold, build and run Raku code."
+2026-11-08T09:35:07.362Z,@mrfentmen/quickbasic-mcp,1.0.0,mrfentmen,MIT,39584,"QuickBASIC MCP: 20 real tools to read, check, lint, scaffold, build and run QuickBASIC code."
+2026-11-08T09:35:07.709Z,@mrfentmen/realbasic-mcp,1.0.0,mrfentmen,MIT,39615,"REALbasic MCP: 20 real tools to read, check, lint, scaffold, build and run REALbasic code."
+2026-11-08T09:35:07.816Z,@mrfentmen/rascript-mcp,1.0.0,mrfentmen,MIT,39644,"RAScript MCP: 20 real tools to read, check, lint, scaffold, build and run RAScript code."
+2026-11-08T09:35:07.98Z,@mrfentmen/red-mcp,1.0.0,mrfentmen,MIT,39493,"Red MCP: 20 real tools to read, check, lint, scaffold, build and run Red code."
+2026-11-08T09:35:10.797Z,@mrfentmen/redcode-mcp,1.0.0,mrfentmen,MIT,39497,"Redcode MCP: 20 real tools to read, check, lint, scaffold, build and run Redcode code."
+2026-11-08T09:35:11.052Z,@mrfentmen/renpy-mcp,1.0.0,mrfentmen,MIT,39555,"Ren'Py MCP: 20 real tools to read, check, lint, scaffold, build and run Ren'Py code."
+2026-11-08T09:35:11.443Z,@mrfentmen/rexx-mcp,1.0.0,mrfentmen,MIT,39485,"REXX MCP: 20 real tools to read, check, lint, scaffold, build and run REXX code."
+2026-11-08T09:35:11.454Z,@mrfentmen/rez-mcp,1.0.0,mrfentmen,MIT,39492,"Rez MCP: 20 real tools to read, check, lint, scaffold, build and run Rez code."
+2026-11-08T09:35:11.559Z,@mrfentmen/renderscript-mcp,1.0.0,mrfentmen,MIT,39728,"RenderScript MCP: 20 real tools to read, check, lint, scaffold, build and run RenderScript code."
+2026-11-08T09:35:13.944Z,@mrfentmen/rocq-prover-mcp,1.0.0,mrfentmen,MIT,39700,"Rocq Prover MCP: 20 real tools to read, check, lint, scaffold, build and run Rocq Prover code."
+2026-11-08T09:35:15.03Z,@mrfentmen/rouge-mcp,1.0.0,mrfentmen,MIT,39447,"Rouge MCP: 20 real tools to read, check, lint, scaffold, build and run Rouge code."
+2026-11-08T09:35:15.052Z,@mrfentmen/routeros-script-mcp,1.0.0,mrfentmen,MIT,39840,"RouterOS Script MCP: 20 real tools to read, check, lint, scaffold, build and run RouterOS Script code."
+2026-11-08T09:35:15.183Z,@mrfentmen/rpc-mcp,1.0.0,mrfentmen,MIT,39620,"RPC MCP: 20 real tools to read, check, lint, scaffold, build and run RPC code."
+2026-11-08T09:35:15.398Z,@mrfentmen/rpgle-mcp,1.0.0,mrfentmen,MIT,39540,"RPGLE MCP: 20 real tools to read, check, lint, scaffold, build and run RPGLE code."
+2026-11-08T09:35:16.244Z,@mrfentmen/ruby-mcp,1.0.0,mrfentmen,MIT,57693,"Ruby MCP: 20 real tools to read, check, lint, scaffold, build and run Ruby code."
+2026-11-08T09:35:18.58Z,@mrfentmen/sage-mcp,1.0.0,mrfentmen,MIT,39541,"Sage MCP: 20 real tools to read, check, lint, scaffold, build and run Sage code."
+2026-11-08T09:35:18.711Z,@mrfentmen/rust-mcp,1.0.0,mrfentmen,MIT,39566,"Rust MCP: 20 real tools to read, check, lint, scaffold, build and run Rust code."
+2026-11-08T09:35:19.084Z,@mrfentmen/sail-mcp,1.0.0,mrfentmen,MIT,39628,"Sail MCP: 20 real tools to read, check, lint, scaffold, build and run Sail code."
+2026-11-08T09:35:19.124Z,@mrfentmen/salt-mcp,1.0.0,mrfentmen,MIT,39521,"Salt MCP: 20 real tools to read, check, lint, scaffold, build and run Salt code."
+2026-11-08T09:35:19.457Z,@mrfentmen/sas-mcp,1.0.0,mrfentmen,MIT,39496,"SAS MCP: 20 real tools to read, check, lint, scaffold, build and run SAS code."
+2026-11-08T09:35:22.403Z,@mrfentmen/scenic-mcp,1.0.0,mrfentmen,MIT,39514,"Scenic MCP: 20 real tools to read, check, lint, scaffold, build and run Scenic code."
+2026-11-08T09:35:22.452Z,@mrfentmen/self-mcp,1.0.0,mrfentmen,MIT,39428,"Self MCP: 20 real tools to read, check, lint, scaffold, build and run Self code."
+2026-11-08T09:35:23.081Z,@mrfentmen/singularity-mcp,1.0.0,mrfentmen,MIT,39636,"Singularity MCP: 20 real tools to read, check, lint, scaffold, build and run Singularity code."
+2026-11-08T09:35:23.082Z,@mrfentmen/shellsession-mcp,1.0.0,mrfentmen,MIT,39632,"ShellSession MCP: 20 real tools to read, check, lint, scaffold, build and run ShellSession code."
+2026-11-08T09:35:23.108Z,@mrfentmen/sieve-mcp,1.0.0,mrfentmen,MIT,39520,"Sieve MCP: 20 real tools to read, check, lint, scaffold, build and run Sieve code."
+2026-11-08T09:35:25.622Z,@mrfentmen/slash-mcp,1.0.0,mrfentmen,MIT,39473,"Slash MCP: 20 real tools to read, check, lint, scaffold, build and run Slash code."
+2026-11-08T09:35:25.673Z,@mrfentmen/sip-mcp,1.0.0,mrfentmen,MIT,39518,"SIP MCP: 20 real tools to read, check, lint, scaffold, build and run SIP code."
+2026-11-08T09:35:26.668Z,@mrfentmen/smali-mcp,1.0.0,mrfentmen,MIT,39687,"Smali MCP: 20 real tools to read, check, lint, scaffold, build and run Smali code."
+2026-11-08T09:35:26.91Z,@mrfentmen/smalltalk-mcp,1.0.0,mrfentmen,MIT,39608,"Smalltalk MCP: 20 real tools to read, check, lint, scaffold, build and run Smalltalk code."
+2026-11-08T09:35:26.973Z,@mrfentmen/slice-mcp,1.0.0,mrfentmen,MIT,39664,"Slice MCP: 20 real tools to read, check, lint, scaffold, build and run Slice code."
+2026-11-08T09:35:28.172Z,@mrfentmen/smarty-mcp,1.0.0,mrfentmen,MIT,39479,"Smarty MCP: 20 real tools to read, check, lint, scaffold, build and run Smarty code."
+2026-11-08T09:35:29.009Z,@mrfentmen/smpl-mcp,1.0.0,mrfentmen,MIT,39495,"SmPL MCP: 20 real tools to read, check, lint, scaffold, build and run SmPL code."
+2026-11-08T09:35:29.733Z,@mrfentmen/snakemake-mcp,1.0.0,mrfentmen,MIT,39630,"Snakemake MCP: 20 real tools to read, check, lint, scaffold, build and run Snakemake code."
+2026-11-08T09:35:30.11Z,@mrfentmen/standard-ml-mcp,1.0.0,mrfentmen,MIT,39679,"Standard ML MCP: 20 real tools to read, check, lint, scaffold, build and run Standard ML code."
+2026-11-08T09:35:30.24Z,@mrfentmen/supercollider-mcp,1.0.0,mrfentmen,MIT,39761,"SuperCollider MCP: 20 real tools to read, check, lint, scaffold, build and run SuperCollider code."
+2026-11-08T09:35:30.832Z,@mrfentmen/surrealql-mcp,1.0.0,mrfentmen,MIT,39634,"SurrealQL MCP: 20 real tools to read, check, lint, scaffold, build and run SurrealQL code."
+2026-11-08T09:35:31.328Z,@mrfentmen/swig-mcp,1.0.0,mrfentmen,MIT,39488,"SWIG MCP: 20 real tools to read, check, lint, scaffold, build and run SWIG code."
+2026-11-08T09:35:32.464Z,@mrfentmen/talon-mcp,1.0.0,mrfentmen,MIT,39524,"Talon MCP: 20 real tools to read, check, lint, scaffold, build and run Talon code."
+2026-11-08T09:35:33.77Z,@mrfentmen/teal-mcp,1.0.0,mrfentmen,MIT,39670,"Teal MCP: 20 real tools to read, check, lint, scaffold, build and run Teal code."
+2026-11-08T09:35:33.801Z,@mrfentmen/ti-program-mcp,1.0.0,mrfentmen,MIT,39583,"TI Program MCP: 20 real tools to read, check, lint, scaffold, build and run TI Program code."
+2026-11-08T09:35:33.956Z,@mrfentmen/tape-mcp,1.0.0,mrfentmen,MIT,39454,"Tape MCP: 20 real tools to read, check, lint, scaffold, build and run Tape code."
+2026-11-08T09:35:34.329Z,@mrfentmen/tl-verilog-mcp,1.0.0,mrfentmen,MIT,39619,"TL-Verilog MCP: 20 real tools to read, check, lint, scaffold, build and run TL-Verilog code."
+2026-11-08T09:35:34.914Z,@mrfentmen/toit-mcp,1.0.0,mrfentmen,MIT,39500,"Toit MCP: 20 real tools to read, check, lint, scaffold, build and run Toit code."
+2026-11-08T09:35:37.967Z,@mrfentmen/tsx-mcp,1.0.0,mrfentmen,MIT,39526,"TSX MCP: 20 real tools to read, check, lint, scaffold, build and run TSX code."
+2026-11-08T09:35:37.983Z,@mrfentmen/tsrx-mcp,1.0.0,mrfentmen,MIT,39464,"TSRX MCP: 20 real tools to read, check, lint, scaffold, build and run TSRX code."
+2026-11-08T09:35:38.019Z,@mrfentmen/txl-mcp,1.0.0,mrfentmen,MIT,39476,"TXL MCP: 20 real tools to read, check, lint, scaffold, build and run TXL code."
+2026-11-08T09:35:38.339Z,@mrfentmen/typescript-mcp,1.0.0,mrfentmen,MIT,39792,"TypeScript MCP: 20 real tools to read, check, lint, scaffold, build and run TypeScript code."
+2026-11-08T09:35:38.523Z,@mrfentmen/ucode-mcp,1.0.0,mrfentmen,MIT,39469,"ucode MCP: 20 real tools to read, check, lint, scaffold, build and run ucode code."
+2026-11-08T09:35:41.467Z,tidemark-wasm,0.1.0,manjeet_pathak,MIT,965179,"Review Solana program upgrades from sBPF bytecode, in the browser or Node"
+2026-11-08T09:35:41.731Z,@mrfentmen/unix-assembly-mcp,1.0.0,mrfentmen,MIT,39682,"Unix Assembly MCP: 20 real tools to read, check, lint, scaffold, build and run Unix Assembly code."
+2026-11-08T09:35:41.788Z,@mrfentmen/uno-mcp,1.0.0,mrfentmen,MIT,39478,"Uno MCP: 20 real tools to read, check, lint, scaffold, build and run Uno code."
+2026-11-08T09:35:42.244Z,@mrfentmen/unified-parallel-c-mcp,1.0.0,mrfentmen,MIT,39821,"Unified Parallel C MCP: 20 real tools to read, check, lint, scaffold, build and run Unified Parallel C code."
+2026-11-08T09:35:42.312Z,@mrfentmen/unrealscript-mcp,1.0.0,mrfentmen,MIT,39662,"UnrealScript MCP: 20 real tools to read, check, lint, scaffold, build and run UnrealScript code."
+2026-11-08T09:35:42.344Z,@mrfentmen/untyped-plutus-core-mcp,1.0.0,mrfentmen,MIT,39799,"Untyped Plutus Core MCP: 20 real tools to read, check, lint, scaffold, build and run Untyped Plutus Core code."
+2026-11-08T09:35:45.523Z,@mrfentmen/vbnet-mcp,1.0.0,mrfentmen,MIT,39697,"Visual Basic .NET MCP: 20 real tools to read, check, lint, scaffold, build and run Visual Basic .NET code."
+2026-11-08T09:35:45.562Z,@mrfentmen/vcl-mcp,1.0.0,mrfentmen,MIT,39596,"VCL MCP: 20 real tools to read, check, lint, scaffold, build and run VCL code."
+2026-11-08T09:35:46.051Z,@mrfentmen/volt-mcp,1.0.0,mrfentmen,MIT,39476,"Volt MCP: 20 real tools to read, check, lint, scaffold, build and run Volt code."
+2026-11-08T09:35:46.058Z,@mrfentmen/vb6-mcp,1.0.0,mrfentmen,MIT,39647,"Visual Basic 6.0 MCP: 20 real tools to read, check, lint, scaffold, build and run Visual Basic 6.0 code."
+2026-11-08T09:35:46.198Z,@mrfentmen/vyper-mcp,1.0.0,mrfentmen,MIT,52976,"Vyper MCP: 20 real tools to read, check, lint, scaffold, build and run Vyper code."
+2026-11-08T09:35:48.944Z,@mrfentmen/wisp-mcp,1.0.0,mrfentmen,MIT,39510,"wisp MCP: 20 real tools to read, check, lint, scaffold, build and run wisp code."
+2026-11-08T09:35:49.029Z,@mrfentmen/wesl-mcp,1.0.0,mrfentmen,MIT,39468,"WESL MCP: 20 real tools to read, check, lint, scaffold, build and run WESL code."
+2026-11-08T09:35:49.781Z,@mrfentmen/xc-mcp,1.0.0,mrfentmen,MIT,39468,"XC MCP: 20 real tools to read, check, lint, scaffold, build and run XC code."
+2026-11-08T09:35:49.806Z,@mrfentmen/wolfram-mcp,1.0.0,mrfentmen,MIT,39650,"Wolfram Language MCP: 20 real tools to read, check, lint, scaffold, build and run Wolfram Language code."
+2026-11-08T09:35:49.82Z,@mrfentmen/xbase-mcp,1.0.0,mrfentmen,MIT,39543,"xBase MCP: 20 real tools to read, check, lint, scaffold, build and run xBase code."
+2026-11-08T09:35:52.952Z,@mrfentmen/xojo-mcp,1.0.0,mrfentmen,MIT,39522,"Xojo MCP: 20 real tools to read, check, lint, scaffold, build and run Xojo code."
+2026-11-08T09:35:53.011Z,@mrfentmen/xproc-mcp,1.0.0,mrfentmen,MIT,39678,"XProc MCP: 20 real tools to read, check, lint, scaffold, build and run XProc code."
+2026-11-08T09:35:53.431Z,@mrfentmen/xquery-mcp,1.0.0,mrfentmen,MIT,39611,"XQuery MCP: 20 real tools to read, check, lint, scaffold, build and run XQuery code."
+2026-11-08T09:35:53.436Z,@mrfentmen/xs-mcp,1.0.0,mrfentmen,MIT,39484,"XS MCP: 20 real tools to read, check, lint, scaffold, build and run XS code."
+2026-11-08T09:35:53.857Z,@mrfentmen/xslt-mcp,1.0.0,mrfentmen,MIT,39836,"XSLT MCP: 20 real tools to read, check, lint, scaffold, build and run XSLT code."
+2026-11-08T09:35:56.437Z,@mrfentmen/yacc-mcp,1.0.0,mrfentmen,MIT,39563,"Yacc MCP: 20 real tools to read, check, lint, scaffold, build and run Yacc code."
+2026-11-08T09:35:56.496Z,@mrfentmen/zenscript-mcp,1.0.0,mrfentmen,MIT,39649,"ZenScript MCP: 20 real tools to read, check, lint, scaffold, build and run ZenScript code."
+2026-11-08T09:35:57.246Z,@mrfentmen/zephir-mcp,1.0.0,mrfentmen,MIT,39571,"Zephir MCP: 20 real tools to read, check, lint, scaffold, build and run Zephir code."
+2026-11-08T09:35:57.271Z,@mrfentmen/zimpl-mcp,1.0.0,mrfentmen,MIT,39601,"Zimpl MCP: 20 real tools to read, check, lint, scaffold, build and run Zimpl code."
+2026-11-08T09:35:57.399Z,@mrfentmen/zil-mcp,1.0.0,mrfentmen,MIT,39544,"ZIL MCP: 20 real tools to read, check, lint, scaffold, build and run ZIL code."
+2026-11-08T09:36:34.401Z,dsh-ownsync,1.0.0,shengyis,MIT,153885,在自己的 Git 服务器上同步 DSH 的工作区、会话与聊天附件，主力放在上传和下载两个按钮。
+2026-11-08T09:36:48.12Z,web-extension,2.0.0,tiwz,MIT,232847,Scaffold cross-browser extensions with Vite and CRXJS
+2026-11-08T09:36:57.336Z,@ohos-ports/metro-bundler,0.22.1-beta.0,lljry,,1013031,🚇 The JavaScript bundler for React Native.
+2026-11-08T09:36:58.836Z,@mrfentmen/bf-mcp,1.0.0,mrfentmen,MIT,39498,"Brainfuck MCP: 20 real tools to read, check, lint, scaffold, build and run Brainfuck code."
+2026-11-08T09:37:50.031Z,@traceai/opencode-plugin,0.1.0,futureagi,Apache-2.0,49049,Future AGI turn tracing for OpenCode V2
+2026-11-08T09:38:00.332Z,path-to-regexp-types,0.0.1,megumichai,MIT,12655,Compile-time TypeScript utilities for parsing path-to-regexp patterns.
+2026-11-08T09:38:33.63Z,koishi-plugin-coordinator,0.1.0,naptie,MPL-2.0,43886,Dual-adapter group coordination for Koishi.
+2026-11-08T09:38:40.612Z,apex-ai,0.1.0,ggboykxz,UNLICENSED,34063,APEX — the universal AI coding agent. npm installer that provisions the apex CLI (Python) and runs it from a single binary.
+2026-11-08T09:38:40.887Z,@hanaworlds/project,0.2.0,snstotz,MIT,13257,HanaWorlds 项目核心：读写项目文件夹（glTF 场景 + git 历史）的 MCP 服务，附 DSH 插件包装
+2026-11-08T09:38:45.721Z,@hanaworlds/viewer,0.2.0,snstotz,MIT,668941,HanaWorlds three.js 呈现：DSH 右侧栏 3D 预览/点选面板、场景截图 MCP 工具、本机查看页
+2026-11-08T09:38:49.405Z,@hanaworlds/skill-lowpoly,0.2.0,snstotz,MIT,8271,HanaWorlds 技能包：一句话造或改低多边形物件（Blender → GLB → 项目场景 → 截图自检 → 确认）
+2026-11-08T09:38:53.662Z,@hanaworlds/suite,0.1.0,snstotz,MIT,3733,HanaWorlds 套装：一次装齐 HanaWorlds 的 DSH 插件（只有插件清单和版本，不含代码）
+2026-11-08T09:39:20.948Z,top-right,0.0.0,williamthorsen,,101,"Placeholder for `top-right`, awaiting first release."
+2026-11-08T09:39:49.889Z,workbuddy-monitor,0.2.0,9963kk,MIT,1134117,实时监控 WorkBuddy 积分用量与免费用户的 24h 窗口额度：输入框双环徽标 + 设置页面板，支持多账号轮询与免费/付费识别（附可选直连模型供应商）。
+2026-11-08T09:40:15.743Z,@ahmedyassin/node-request-context,1.0.0,ahmedyassin,MIT,56610,"A lightweight, framework-agnostic request context manager for Node.js powered by AsyncLocalStorage"
+2026-11-08T09:40:24.846Z,@devcited/mail,0.1.0-alpha.18,devcited,SEE LICENSE IN LICENSE,293195,"Server-side client library for the devcited mail HTTP API: send, submission status, event history and signed webhook verification."
+2026-11-08T09:40:49.707Z,dsh-plugin-raven-pet,0.1.0,shixiaoyu-funny,MIT,45973081,Raven desktop pet rendered as a floating layer inside the DSH web GUI
+2026-11-08T09:41:19.37Z,dsh-plugin-suki-pet,0.1.0,shixiaoyu-funny,MIT,44959404,Suki desktop pet rendered as a floating layer inside the DSH web GUI
+2026-11-08T09:41:57.796Z,librian,0.1.1,juncha9,AGPL-3.0-or-later,1554688,"Find and read sections of a markdown docs folder over MCP, with outlines and line ranges that stay current as the docs change"
+2026-11-08T09:42:20.539Z,ourmath-ahmed-nasser-rabia,1.1.1,ahmed_nasser_rabia,ISC,1753,afew math functions
+2026-11-08T09:42:57.484Z,@yanqirenshi/model.tm,0.1.0,yanqirenshi,MIT,200251,"Diagram model for TM (T-shaped ER method) diagrams (d3.ter) — JSON Schema, consistency rules, drawing defaults, editable fields and patch conversion. Pure data and functions: no React / d3 dependency"
+2026-11-08T09:42:59.816Z,@traceai/opencode-v1-plugin,0.1.0,futureagi,Apache-2.0,44550,"Native OpenCode V1 plugin for Future AGI turn, generation and tool tracing"
+2026-11-08T09:43:00.889Z,@ykdz/binny,0.0.0-stage,ykdz,,333,Temporary package placeholder for staged publishing
+2026-11-08T09:43:41.794Z,tao-tailwindx,0.3.0,hujinchen,MIT,215632,面向 uni-app x Vapor 的 Tailwind CSS v4 Vite 插件，提供局部工具类生成、class 安全转换、@apply、原生 CSS 适配和可选主题数据导出。
+2026-11-08T09:43:57.47Z,yt-zmp,1.0.0,zamps,MIT,59564,"Biblioteca experimental para pesquisa, extração e download de mídias do YouTube, incluindo metadados, áudio e vídeo."
+2026-11-08T09:44:44.176Z,surendra-words-counters,1.0.0,surendra-paswan,,717,A simple Node.js word counter package
+2026-11-08T09:45:27.283Z,@abhi1693/medusa-payment-razorpay,0.0.2,abhi1693,MIT,174515,"Razorpay payment provider for Medusa v2 with INR test/live checkout, refunds, signed webhooks and reconciliation helpers."
+2026-11-08T09:46:09.475Z,@mobile-design/tokens,0.1.0,nicolas-rm,MIT AND Apache-2.0,27986,Framework-independent Mobile Design values
+2026-11-08T09:46:47.344Z,@xoong/core,0.0.34,duongtx1505,MIT,33152,"xoong core: signals, Light DOM custom elements, html templates. Zero dependencies."
+2026-11-08T09:46:51.161Z,@xoong/data,0.0.34,duongtx1505,MIT,97027,"xoong data layer: OpenAPI-driven client, auto cache, entity store, derived views, live updates. Depends only on @xoong/core."
+2026-11-08T09:46:55.289Z,@xoong/forms,0.0.34,duongtx1505,MIT,55889,"xoong forms: a typed draft model with per-path state, validation rules taken from the OpenAPI request schema, custom rules, payload normalisation and dirty tracking. Zero dependencies besides @xoong/…"
+2026-11-08T09:46:59.503Z,@xoong/i18n,0.0.34,duongtx1505,MIT,32574,"xoong internationalization: ICU-subset JSON catalogs, xo-t in markup, a locale signal, Intl formats. Zero dependencies besides @xoong/core and @xoong/data."
+2026-11-08T09:47:03.345Z,@xoong/ui,0.0.34,duongtx1505,MIT,179164,"xoong admin set: xoong.css tokens, <xo-table>, <xo-form>, <xo-dialog>, toast, confirm and a declarative History-API router. Depends on @xoong/core, @xoong/data and @xoong/forms."
+2026-11-08T09:47:06.815Z,@xoong/controls,0.0.34,duongtx1505,MIT,95221,"xoong form and page controls: tabs, popover, tooltip, menu, combobox, chips, tag input, carousel. Light DOM, accessible, zero dependencies besides @xoong/core."
+2026-11-08T09:47:08.57Z,ds-bot-switch,0.4.3,nickszy111,MIT,65045,"A floating Bot / ADE switch for the DSH web UI (fork of dsh-bot-toggle, adapted to ds-bot 0.3.x)."
+2026-11-08T09:47:10.239Z,@xoong/richtext,0.0.34,duongtx1505,MIT,50302,"A small rich text editor for xoong forms: contenteditable, no dependencies besides @xoong/core, sanitised HTML in and out. Toolbar, headings, bold, italic, lists, quote, links (http, https, mailto, t…"
+2026-11-08T09:47:13.512Z,@xoong/server,0.0.34,duongtx1505,MIT,21643,"xoong server: one (Request) => Response handler for static files, an API proxy and TypeScript type stripping, plus a Node adapter. Dev and optional production use; never shipped to the browser."
+2026-11-08T09:47:17.282Z,@xoong/cli,0.0.34,duongtx1505,MIT,118747,"The xoong command line: sync (OpenAPI to typed operations), doctor, check (lint screens), dev, build (strict-CSP static output), render and i18n."
+2026-11-08T09:47:20.811Z,@xoong/test,0.0.34,duongtx1505,MIT,9520,"Test helpers for xoong UI: mount screens, mock the API from operations.json, push live events. Runs on Vitest (happy-dom or browser mode)."
+2026-11-08T09:47:24.692Z,@xoong/ssr,0.0.34,duongtx1505,MIT,8838,"Prerender xoong pages: run the real <xo-view> runtime in Node (happy-dom), wait for the data, write HTML. No hydration step: the browser re-renders from the saved template."
+2026-11-08T09:47:28.079Z,@xoong/mcp,0.0.34,duongtx1505,MIT,13901,"MCP server for xoong: gives AI assistants the spec (llms.txt), the API's operations, `xoong check` and error explanations over stdio."
+2026-11-08T09:47:31.532Z,@xoong/lsp,0.0.34,duongtx1505,MIT,13371,"Language server for xoong screens: the same diagnostics as `xoong check`, completion of operation names and xo-* attributes, hover docs. Any editor that speaks LSP."
+2026-11-08T09:47:49.32Z,dsh-paper-reader-studio,0.2.1,ssfu,MIT,4219218,论文阅读器：论文库、章节大纲、KaTeX 公式、中英对照、选中提问、笔记与审稿材料
+2026-11-08T09:48:05.412Z,@umituz/web-ai,1.0.0,umituz,MIT,3791996,"Provider-agnostic AI engine for web and edge — text, chat, structured output and streaming over swappable providers (Anthropic, Groq, Gemini, fal, Pruna), plus a content generation suite"
+2026-11-08T09:48:10.134Z,@traceai/pi-plugin,0.1.0,futureagi,Apache-2.0,46988,"Native Pi extension for Future AGI turn, model and tool tracing"
+2026-11-08T09:48:46.427Z,vertebral-base-css,0.16.0,jfdelrio,MIT,65264,"Base CSS for Vertebral: element styles, layouts, grid, utilities and CSS-only components, with shadcn-compatible tokens"
+2026-11-08T09:49:07.828Z,vertebral-elements,0.16.0,jfdelrio,MIT,186088,Vanilla web components library with shadcn-compatible theming
+2026-11-08T09:50:28.227Z,@hobbit254/notify-core,0.1.0,hobbit254,MIT,16707,"Notify in-app notifications: realtime transport, cached inbox, optimistic read state"
+2026-11-08T09:50:29.101Z,dre-agents,0.0.0-stage,pysirlabs,,332,Temporary package placeholder for staged publishing
+2026-11-08T09:51:10.29Z,dsh-peers-sunny,0.8.1,xuanzhihang-s,MIT,114177,让两台设备上的 DSH 互为对端：互相派活、互相翻对方机器的文件、接着对方的活继续干（基于 ds-harness-remote）；每台设备可起名，面板长在 Remote 的「远程工作台」弹窗里。
+2026-11-08T09:51:45.258Z,mobile-design,0.1.0,nicolas-rm,MIT AND Apache-2.0 AND OFL-1.1,3927598,"Material Design 3 components for React Native and React Native Web, built on React Native Paper"
+2026-11-08T09:51:55.511Z,@devmirror/shared,0.1.0,satyam_mishrra,MIT,20675,"Shared types, schemas, and protocol constants for DevMirror"
+2026-11-08T09:52:49.654Z,@traceai/vscode-extension,0.1.0,futureagi,Apache-2.0,390932,VS Code extension-host OTLP relay for Future AGI coding-agent tracing
+2026-11-08T09:53:04.756Z,@dixy-ui/tokens,0.1.0-beta.0,akssmax,MIT,374036,"Framework-independent Dixy color, typography, sizing and spacing contracts."
+2026-11-08T09:53:07.289Z,@dixy-ui/themes,0.1.0-beta.0,akssmax,MIT,1948557,Independent 2D skins for Dixy's existing components.
+2026-11-08T09:53:07.506Z,@dixy-ui/react,0.1.0-beta.0,akssmax,MIT,1040112,"Expressive, accessible React components built on Base UI."
+2026-11-08T09:53:11.637Z,@speresps/large-file-upload-module,1.0.0,speresps,MIT,97130,A reusable uploader for Node and Next.js projects that supports resuming and pausing.
+2026-11-08T09:53:24.05Z,autonomo-sdk,0.1.0,autonomodotfun,MIT,40930,"One call for AI agents: find the right paid API on Autonomo, pay in USDG or $AUTONOMO (privately through Gloam, or on Borro credit), within spending caps, and get a receipt."
+2026-11-08T09:53:24.3Z,@mobile-design/icons,0.1.0,nicolas-rm,MIT AND Apache-2.0,20824236,Optional full Material Symbols Rounded collection for Mobile Design
+2026-11-08T09:54:16.464Z,@ohos-ports/n8n-nodes-thang-zalo-app,1.1.5-beta.1,lljry,MIT,364648,Các node udng2 để hỗ trợ người dùng zalo (OpenHarmony port: zca-js dependency aliased to @ohos-ports/zca-js)
+2026-11-08T09:54:51.568Z,git-agent-manager,0.3.0,cocorof,Apache-2.0,405698,"Connect once, and any coding agent in your repo follows a milestone plan, with a live progress dashboard. Built on plain GitHub Milestones and Issues."
+2026-11-08T09:54:54.017Z,@hobbit254/notify-react-native,0.1.1,hobbit254,MIT,78909,"Notify in-app inbox for React Native: a TurboModule over the native iOS and Android SDKs, plus a NotificationCenter component."
+2026-11-08T09:55:08.646Z,afot-cli,1.0.0,all_for_one_tech,Apache-2.0,48819966,"AFOT CLI (All For One Tech) - Terminal-first autonomous AI coding agent with multi-provider support, interactive diffs, and instant undo."
+2026-11-08T09:56:42.637Z,@devmirror/scanner,0.1.0,satyam_mishrra,MIT,100031,"Port scanning, process inspection, and framework fingerprinting for local dev servers"
+2026-11-08T09:56:53.96Z,@veriapipro/sdk,0.1.0,serbay,MIT,19791,"VeriApi.Pro resmî JavaScript / TypeScript istemcisi: döviz, hava, namaz, deprem, il/ilçe"
+2026-11-08T09:57:59.645Z,@j-asefa/loop,0.1.0,jamesasefa,Apache-2.0,42299990,"A durable, phone-first agent workspace"
+2026-11-08T09:58:00.117Z,@traceai/copilot,0.1.0,futureagi,Apache-2.0,146793,Daemon-free native GitHub Copilot CLI tracing launcher for Future AGI
+2026-11-08T09:58:08.95Z,dsh-proxy-egress,0.2.0,yiyunet,MIT,238878,"本地出口代理（egress）桥：把只接受无凭据 HTTP(S) 代理地址的消费方，接到需要账号密码的上游代理上。失败即断联，绝不改走直连。零构建、零运行时依赖。 Local egress proxy bridge for DSH: hand a credential-free proxy URL to consumers that reject credentials, and inject t…"
+2026-11-08T09:58:49.409Z,dsh-kill-ai-slop,0.8.0,yiyunet,MIT,1460969,DSH 插件：AI垃圾过滤（Kill AI Slop）——用四层十二格（意图／策略／执行／表达，权重 20/35/35/10）识别「看起来交付了，实际上还剩哪些工作没完成」，每条扣分须过四条件闸，引文回原文机器复核。零依赖、零联网、纯本地计算。Score a document by how much unfinished required work it leaves to the reader.
+2026-11-08T09:58:59.677Z,dsh-mcp-client-manager,1.1.0,yiyunet,MIT,184619,在 设置 →「ANB 工具」栏目里提供「MCP 客户端」面板：列出/添加/改写/启停 @deepseek-ai/dsh-mcp-client 的 MCP 行；受管行写入自有层 $DSH_HOME/cordis.patch.yml，手写行走官方 configEditor/pluginManager 通道。零构建、零运行依赖。
+2026-11-08T09:59:04.783Z,@charnley/rdkit,2026.9.1,charnley,BSD-3-Clause,7500384,RDKit MinimalLib compiled to WebAssembly
+2026-11-08T09:59:08.446Z,signed-receipt,0.1.0,neuralbridge-sdk-guigui,MIT,55036,SCITT-style cryptographically signed receipts for MCP runtime behavior evidence
+2026-11-08T09:59:11.52Z,correctover-guard-reference,0.1.0,neuralbridge-sdk-guigui,MIT,21063,"Correctover Guard - Reference implementation for MCP runtime behavior protection. Integrates CCS verification, runtime guarding, and signed receipts into a complete security layer."
+2026-11-08T09:59:17.122Z,dsh-learn-skills,2.2.10,yiyunet,MIT,1333533,DSH 插件：AI学习 —— 会话输入区的四入口学习插件（初始预设 / 收集提炼 / 关联升级 / 沉淀复用），把「收集→提炼→关联→升级→沉淀→复用」方法论做成有交互引导、预设管理、知识审核入库与体系体检的运行时能力。
+2026-11-08T09:59:27.867Z,dsh-dingtalk-connector,1.1.0,yiyunet,MIT,440569,"DSH 插件：读写钉钉 AI 表格（多维表 / aitable），并提供「ANB 工具 → 钉钉文档」面板与定时导出。包装钉钉官方 dws CLI。 Read and write DingTalk AI Tables from DeepSeek Harness, with a panel in the ANB 工具 shell and scheduled CSV export."
+2026-11-08T09:59:43.383Z,planb-ui,0.0.1,mossteam,MIT,266,PlanB UI - native javascript component library
+2026-11-08T10:00:43.976Z,@traceai/agents,0.1.0,futureagi,Apache-2.0,60096,Unified setup and diagnosis for Future AGI coding-agent integrations
+2026-11-08T10:01:52.688Z,docspot,0.1.0,francoischalifour,MIT,520657,"Documentation search and AI chat for React: search-only, chat-only, or both."
+2026-11-08T10:02:17.658Z,tinyject,0.1.0,chrisitopherus,MIT,270574,"A small dependency injection container for TypeScript, modelled after .NET's Microsoft.Extensions.DependencyInjection."
+2026-11-08T10:02:35.354Z,@devmirror/core,0.1.0,satyam_mishrra,MIT,180250,"Core reverse proxy, session management, and local control engine for DevMirror"
+2026-11-08T10:03:14.992Z,devmirror-cli,0.1.0,satyam_mishrra,MIT,68217,DevMirror CLI - Instant mobile browser preview with preserved framework HMR
+2026-11-08T10:06:13.921Z,pi-dingtalk,0.1.0,jasonchio,MIT,316991,"DingTalk messaging, images, files and interactive cards for Pi"
+2026-11-08T10:06:30.665Z,ingotkit,0.0.1,uzairmirza,MIT,1967,Open-source AI SaaS starter for flat-rate Hostinger hosting. Work in progress; see the GitHub repo.
+2026-11-08T10:06:53.5Z,@elitern/aegis-scope-probe,0.0.1,elitern,MIT,119,temporary scope probe
+2026-11-08T10:06:54Z,malt_wasm,0.0.0,watermarkhu,MIT,4351074,"Browser WebAssembly bindings for malt, the MATLAB linter"
+2026-11-08T10:07:06.437Z,@zpi-dev/zpi-zread,0.1.0,zhoujie19960911,MIT,63938,AI 代码库文档生成器 — 基于 @zpi-dev/agent-sdk，一条命令把本地代码变成 Wiki 文档
+2026-11-08T10:07:08.82Z,@hivemagnus/canvas-word-codec,1.0.0,hivemagnus,MIT,181058,Headless DOCX codec: Word bytes to and from a neutral exchange document (maintained MIT fork of the canvas-editor DOCX plugin)
+2026-11-08T10:07:36.68Z,@hivemagnus/canvas-word-engine,1.0.0,hivemagnus,MIT,1065654,Canvas-based Word-style document editor engine (maintained MIT fork of canvas-editor) with stable serialized element identities
+2026-11-08T10:08:39.489Z,@xoong/xoong,0.0.35,duongtx1505,MIT,3894,"xoong: a small, standards-first web framework. One install for the runtime (signals, templates, OpenAPI data layer), the admin set and the `xoong` command."
+2026-11-08T10:09:14.393Z,dsh-mem-cairn,1.9.34,xinghe6,MIT,226528,"dsh-mem-Cairn: token-frugal long-term memory for DeepSeek Harness — dynamic pins, original-text recall, zero-cost compaction."
+2026-11-08T10:10:48.045Z,dsh-agent-team-auto-orchestrator,1.0.0,loyalchiiina,MIT,116636,DSH 智能体团队编排器：宿主端每轮常驻注入「团队编排铁律」+ 工具层硬门（只认真派活），把「开团队 + 并行派活 + 任务板闭环 + 成员复用」变成任何预设、任何会话的默认行为。本机专属内容（预设路由表 / 业务域关键词 / profile 名）外置到 <DSH_HOME>/team-orchestrator.local.json —— 发布包只含通用默认，结构上打不进任何本机信息。零遥测，仅…
+2026-11-08T10:10:50.549Z,@retroventions/core,2026.11.3,codefocusuk,MIT,595870,TypeScript runtime for interactive 2D browser graphics
+2026-11-08T10:10:50.878Z,@diglot/starlight,0.0.0,danielroe,,127,
+2026-11-08T10:10:58.996Z,@starkware-libs/anystark-core,0.1.7,asaf-starkware,MIT,172901,"Framework-agnostic core for connecting a Phantom (Solana) wallet as a Starknet account: address derivation, Ed25519 signer, Phantom provider, and a counterfactual sol_account with sponsored (SNIP-29)…"
+2026-11-08T10:11:20.25Z,@starkware-libs/anystark-cctp,0.1.7,asaf-starkware,MIT,134033,"(beta) Bidirectional Solana <-> Starknet USDC bridge over Circle CCTP V2, for funding/defunding a Phantom-derived Starknet account."
+2026-11-08T10:11:27.723Z,@feiry-zz/dsh-ui-accent,0.3.0,fei.zhang,MIT,123021,"Accent colors for DeepSeek Harness: colorize result headings, bold text, inline code, thinking, questions and tool rows, with a settings panel for picking each color."
+2026-11-08T10:11:28.298Z,@startside/swa,1.0.0,znarf,MIT,120712,"The Startside Widget API (SWA): the runtime a widget file loads, and its TypeScript types."
+2026-11-08T10:11:34.898Z,@starkware-libs/anystark-react,0.1.7,asaf-starkware,MIT,57491,React integration for @starkware-libs/anystark-core: a @starknet-react/core Connector that adds Phantom alongside native Starknet wallets.
+2026-11-08T10:11:49.42Z,@starkware-libs/anystark-paymaster-proxy,0.1.7,asaf-starkware,MIT,245768,"Thin, stateless SNIP-29 paymaster sponsorship proxy: holds the upstream API key server-side and enforces a sponsorship policy. Provider-agnostic, works with any SNIP-29 upstream."
+2026-11-08T10:12:58.738Z,@gitmyabi/ctokendelegate,1.0.0,gitmyabi-bot,Apache-2.0,283140,"Auto-generated TypeScript type bindings for CTokenDelegate (build etherscan-ctokendelegate-89ca67ec-1794132758986, commit f6dc6b4, branch etherscan)"
+2026-11-08T10:13:51.894Z,@tally.paws/httptree-ext-svelte,0.1.0,tally.paws,MIT,1574,Svelte 5 pages for httptree
+2026-11-08T10:13:55.489Z,@zenlix/monavi-protocol,0.2.1,zenlix,,45927,
+2026-11-08T10:13:59.269Z,@zenlix/monavi-cdp-shim,0.2.1,zenlix,,20516,
+2026-11-08T10:14:04.204Z,@zenlix/monavi,0.2.1,zenlix,,112871,
+2026-11-08T10:14:07.936Z,@zenlix/monavi-sdk,0.2.1,zenlix,,11486,
+2026-11-08T10:14:48.047Z,repanoffcl-baileys,2.0.0,lexzymodsxiniochmay,MIT,8517071,"RepanOffcl Baileys: a resilient WhatsApp Web messaging engine with Lexzy, Vam, and Repan message APIs."
+2026-11-08T10:14:50.676Z,@chokolademilch7/fusen,0.1.0,chokolademilch7,MIT,959358,"Sticky-note comments on any web page, readable by an AI over MCP"
+2026-11-08T10:16:27.47Z,greenlitlab,0.1.0,priberry,Apache-2.0,51454,"Is your AI-built app safe to launch? A grade from A to F for apps built with Lovable, Bolt, v0, Replit or Emergent, with a fix prompt for every problem."
+2026-11-08T10:16:31.734Z,dsh-plugin-custom-profile,0.2.2-rc.1,jony.chunfang,MIT,2374678,"Replace the DSH sidebar account name and avatar with local, per-device values."
