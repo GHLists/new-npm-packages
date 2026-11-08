@@ -1,0 +1,121 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-08T19:15:57.451Z,@frost.js/core,0.1.0,bader_ben,MIT,83107,"Core configuration, contracts, diagnostics, env loading, and shared types for Frost"
+2026-11-08T19:16:03.552Z,@frost.js/router,0.1.0,bader_ben,MIT,30433,"Filesystem route discovery, pattern compilation, and matching for Frost"
+2026-11-08T19:16:09.49Z,@frost.js/data,0.1.0,bader_ben,MIT,24457,"CSRF, form parsing, request memoization, and server functions for Frost"
+2026-11-08T19:16:15.49Z,@frost.js/react,0.1.0,bader_ben,MIT,80261,"React bindings for Frost: hydration, context, hooks, Link, document, error boundary, client router"
+2026-11-08T19:16:21.313Z,@frost.js/server,0.1.0,bader_ben,MIT,116582,"Request lifecycle, HTTP responses, API routing, SSR pipeline, and adapters for Frost"
+2026-11-08T19:16:27.43Z,@frost.js/adapter-node,0.1.0,bader_ben,MIT,47455,"Node.js http adapter for Frost: request bridge, static file serving, compression"
+2026-11-08T19:16:33.237Z,@frost.js/vite,0.1.0,bader_ben,MIT,93334,"Vite plugin for Frost: dev SSR middleware, route CSS, client boundary checks, virtual modules"
+2026-11-08T19:16:38.866Z,@frost.js/test,0.1.0,bader_ben,MIT,10176,"Test utilities for Frost: mock-request handlers, route rendering, loader/action callers"
+2026-11-08T19:16:45.053Z,@frost.js/cli,0.1.0,bader_ben,MIT,68089,"frost CLI: dev, build, start, and routes commands"
+2026-11-08T19:19:56.382Z,@brutalway/oxlint-config-i18next,0.1.0,elnop,MIT,4564,"Oxlint config for a React app translated with i18next: no visible text in JSX, in aria-label, placeholder, title or alt, nor in a template literal."
+2026-11-08T19:19:58.497Z,@brutalway/oxlint-config-react-hook-form,0.1.0,elnop,MIT,7471,"Oxlint config for react-hook-form: every useForm validates through zodResolver, and no validation is passed to register or a Controller."
+2026-11-08T19:20:00.687Z,@brutalway/oxlint-config-tanstack-query,0.1.0,elnop,MIT,8517,"Oxlint config for TanStack Query: query keys from an xKeys factory, cache windows from named profiles, plus exhaustive-deps and stable-query-client from @tanstack/eslint-plugin-query."
+2026-11-08T19:20:00.721Z,@brutalway/oxlint-config-shadcn,0.1.0,elnop,MIT,8305,"Oxlint config for an app built on shadcn/ui primitives vendored in third-party/shadcn/: no raw button, input, select or textarea, and one icon library."
+2026-11-08T19:20:00.767Z,@brutalway/check-doc-links,0.1.0,elnop,MIT,15292,"Fails when a Markdown doc links to a page that no longer exists, and skips the check when the machine is offline."
+2026-11-08T19:20:00.785Z,@brutalway/check-doc-sources,0.1.0,elnop,MIT,11235,"Warns when a file cited by a Markdown doc changed and the doc did not, so the doc gets read again before it says something false."
+2026-11-08T19:20:00.873Z,@brutalway/stylelint-config,0.1.0,elnop,MIT,21082,"Stylelint config: colors only from the tokens of one stylesheet, CSS Modules named after their component, with every class used and written in camelCase."
+2026-11-08T19:20:00.901Z,@brutalway/check-doc-length,0.1.0,elnop,MIT,18922,"Fails when a Markdown file gets too long, and splits it into a folder along its headings, rewriting the links that point into it."
+2026-11-08T19:20:54.951Z,@starci/common,1.0.1,starciteacher,MIT,19048,"The concepts every StarCi app and package share, with no runtime dependency, shipped as CommonJS and ESM over one class identity: the coded error base DomainError (code, params, cause) with its guard…"
+2026-11-08T19:21:19.186Z,lockbox-mcp,0.1.0,rosostolato,Apache-2.0,531798,"An MCP server and secure input broker: an AI agent can place a credential without ever receiving it, while a trusted human-controlled UI authorizes where it goes."
+2026-11-08T19:24:13.703Z,admigo,0.0.0,blax,MIT,214,Admigo — coming soon. Name reserved.
+2026-11-08T19:24:15.768Z,create-admigo,0.0.0,blax,MIT,228,Admigo — coming soon. Name reserved.
+2026-11-08T19:24:28.446Z,@starci/visual-effects,0.1.0,starciteacher,MIT,29016,"The visual effects of a StarCi front end, played on an overlay canvas of their own over the page, in the colours of the app's Grammar theme, and skipped for a reader who asked for reduced motion: con…"
+2026-11-08T19:24:38.175Z,krystalis-cards,1.0.0,hannibaluus,MIT,54516,Draws Krystalis's Morpho cards in a chat from the numbers its engine sends.
+2026-11-08T19:24:46.466Z,@swf2es/native,0.1.0,33tu,Apache-2.0 AND Zlib AND LicenseRef-LZMA-SDK-Public-Domain AND CC0-1.0 AND SGI-B-2.0 AND BSD-2-Claus…,1359559,"swf2es's WebAssembly modules: bitmap kernels, MP3, ADPCM and Nellymoser decoding, zlib and LZMA, fill and line tessellation, and ATF textures"
+2026-11-08T19:24:49.229Z,@swf2es/format,0.1.0,33tu,Apache-2.0 AND (Apache-2.0 OR MIT),461968,"SWF, ABC and AVM1 action parsers shared by the compiler and the player"
+2026-11-08T19:24:52.43Z,@swf2es/codegen,0.1.0,33tu,Apache-2.0 AND (Apache-2.0 OR MIT) AND MIT AND BSD-3-Clause,647466,ABC and AVM1 bytecode to ES module compiler (AssemblyScript → wasm); identical output in JIT and AOT modes
+2026-11-08T19:24:55.054Z,@swf2es/context3d,0.1.0,33tu,Apache-2.0,452495,"Experimental Context3D resource contracts, AGAL translation and an optional WebGL2 backend"
+2026-11-08T19:24:59.241Z,@swf2es/runtime,0.1.0,33tu,Apache-2.0 AND MPL-2.0 AND (Apache-2.0 OR MIT),4654681,AVM2 and AVM1 language runtime used by generated code
+2026-11-08T19:25:02.557Z,@swf2es/render,0.1.0,33tu,Apache-2.0,1017307,"swf2es's own renderer: a scene list, a planner and a WebGL 2 backend (docs/renderer.md)"
+2026-11-08T19:25:09.365Z,@swf2es/player,0.1.0,33tu,Apache-2.0 AND (Apache-2.0 OR MIT) AND W3C-20150513,10372090,"Browser SWF player: display list, timeline, playerglobal and renderer adapters"
+2026-11-08T19:25:12.506Z,@swf2es/cli,0.1.0,33tu,Apache-2.0 AND MPL-2.0,237858,"swf2es command line: ahead-of-time compile SWF and ABC files, and run ABCs as avmshell does"
+2026-11-08T19:25:17.164Z,@swf2es/player-hosts,0.1.0,33tu,Apache-2.0 AND (Apache-2.0 OR MIT) AND MPL-2.0 AND W3C-20150513 AND Zlib AND LicenseRef-LZMA-SDK-Pu…,4026422,"Optional Node and WebSocket transports, worker threads, an IndexedDB module cache and precompiled modules for the swf2es player"
+2026-11-08T19:25:19.82Z,@swf2es/web,0.1.0,33tu,Apache-2.0,364275,"Plays SWFs on any web page: the <swf2es-player> element, replaceFlash and ExternalInterface"
+2026-11-08T19:25:48.05Z,opencode-ahp,0.1.1,mattzink,MIT,153746,OpenCode V2 plugin: hosts Agent Host Protocol (AHP) 1.0.0 in-process so opencode is a native agent in the VS Code Agents window
+2026-11-08T19:26:35.618Z,@andreaaca/agentfence,0.1.0,andreaaca,MIT,89859,"A policy firewall for Claude Code: a real shell parser, readable rules and policy unit tests."
+2026-11-08T19:27:04.965Z,prompt-blame,0.1.0,andreaaca,MIT,27364,"git blame for AI code: see the Claude Code prompt and conversation behind every line. Zero setup, works on code you already wrote."
+2026-11-08T19:27:42.396Z,@afkzona/groundwork,0.1.1,afkzonagroup,AGPL-3.0-only,412008,"Open AI literacy course for Article 4 of the EU AI Act: Markdown modules with quizzes, an offline accessible course site, SCORM 1.2 and xAPI export, and tamper-evident training records."
+2026-11-08T19:27:46.038Z,stellarium-client,0.1.0,christopherquallet,ISC,53818,A TypeScript client for running RequestScript on the Stellarium network.
+2026-11-08T19:27:46.471Z,@warpgogol/intake-validator,0.1.0,warpgogol,,77964,"Published consumer validator for werkstatt:intake/v2 hand-over bundles (INTAKE-01…34) — the rules werkstatt itself runs (RFC-1540, DNA-115)."
+2026-11-08T19:27:56.947Z,include42,0.0.0-stage,dmitriy-komarov,,331,Temporary package placeholder for staged publishing
+2026-11-08T19:28:16.604Z,klibbo,1.0.0,sparshagrawal,SEE LICENSE IN LICENSE,33085,Klibbo: compile-first styling for every framework. `npx klibbo init` detects your stack and sets it up.
+2026-11-08T19:28:18.593Z,@unabandoned/crypto-js,4.2.1,00o-sh,MIT,488331,JavaScript library of crypto standards.
+2026-11-08T19:28:50.298Z,ts-rune,0.0.0,itsmeyaw,,1186,Placeholder — work in progress.
+2026-11-08T19:29:04.112Z,ig-chatkit,0.0.0-stage,thieutrungkien,,332,Temporary package placeholder for staged publishing
+2026-11-08T19:29:28.753Z,knigopis-pereplet,0.1.0,gurov,MIT,293769,"Generative SVG book covers from a title and an author: no images, no network, ~25 KB"
+2026-11-08T19:30:05.864Z,@geohar/unbien-durable,0.1.1,georgeharker,MIT,221354,"Durable host binding for un-bien: a pi-durable Harness agent on the un-bien mesh + relay, serving the un-bien mobile app. Core ports (AgentSessionPort, EventSource, ToolRegistrar) and the mesh/relay…"
+2026-11-08T19:30:06.707Z,dsh-agent-tree,0.5.0,ruaruaton,MIT,64241,"代际树面板：Lead→成员→孙代理 层级树 + 团队焦点 + 模型路由中心 | Agent lineage tree panel for DeepSeek Harness (subagent tree, team focus, model routing)"
+2026-11-08T19:30:30.949Z,@mizen-labs/ui,0.1.0,mizen-labs,MIT,2935543,"React components for product interfaces, built on Base UI and StyleX, with docs agents can read."
+2026-11-08T19:30:43.093Z,@mizen-labs/cli,0.1.0,mizen-labs,MIT,527740,Discover Mizen components from the same catalog as its documentation.
+2026-11-08T19:31:18.838Z,ngx-ghe-stream,0.0.1,yinyin3x,,3778,This module supports generated stream methods for GHE.
+2026-11-08T19:33:45.041Z,@aqaf/cli,1.1.0,focsd,MIT,92616,"Local-first architecture assessment, Node.js distribution wrapper around the bundled AQAF Python engine"
+2026-11-08T19:34:33.838Z,eslint-plugin-prose-spellcheck,0.1.0,dblock,MIT,3045854,"Offline Markdown prose spellchecking for native ESLint Markdown, powered by CSpell."
+2026-11-08T19:35:44.524Z,cortico-world-rss,0.2.0,leaning708,GPL-3.0-or-later,347974,"RSS World for Cortico: subscribe to multiple feeds, get condensed notifications from Coo, manage subscriptions from chat or WebUI"
+2026-11-08T19:38:59.863Z,eslint-plugin-markdown-preferences-paragraph,0.1.0,dblock,MIT,68462,An ESLint plugin for checking and safely fixing Markdown paragraph wrapping.
+2026-11-08T19:39:50.233Z,agent-universe,0.1.0,leo-lyu,MIT,5792583,"Your Claude Code and Codex work, drawn as a universe that grows with it — read from the logs on your own computer, shown only there."
+2026-11-08T19:41:43.431Z,reagent-mcp,0.1.0,dojidomal,MIT,64470,"Agent-oriented React debugging via MCP. Dev-only runtime that lets an MCP agent inspect a running React app's Redux state, storage, route and network activity."
+2026-11-08T19:42:58.891Z,@gitmyabi/gladiatorhook,1.0.0,gitmyabi-bot,Apache-2.0,325318,"Auto-generated TypeScript type bindings for GladiatorHook (build etherscan-gladiatorhook-f3c54f44-1794166959475, commit d72dbfa, branch etherscan)"
+2026-11-08T19:44:40.955Z,sociurl,1.0.1,ahmadraza49,MIT,534319,"Detect, validate, parse, normalize and display social media profile URLs, with optional React components."
+2026-11-08T19:45:00.011Z,capacitor-background-transfer,0.1.0,sandman-92,MIT,414330,"Background uploads and downloads for Capacitor: Firebase Storage resumable uploads, S3 multipart uploads, Azure block blobs and plain PUTs, and resumable downloads, that keep going with the app in th…"
+2026-11-08T19:45:46.519Z,dsh-evolve-preset,0.1.0,taoziliyouchong,MIT,64149,让模型更准确地理解你的需求、能够用相同的花费实现明显更好的效果（即使只有一句话）、长期积累你的偏好的思维模式；由模式正文与配套插件配合实现，内容只在进化模式生效。
+2026-11-08T19:45:47.045Z,@gatedagent/types,0.1.0,gatedagent,MIT,63034,"Shared types, schemas, EIP-712 definitions and curve math for Gated"
+2026-11-08T19:46:00.803Z,backwatch,0.1.0,toshiusklay,MIT,4028452,"Check your live MCP server and site from outside, the way ChatGPT, Claude and Cursor reach them. Pre-release."
+2026-11-08T19:46:27.284Z,@gatedagent/contracts,0.1.0,gatedagent,MIT,272146,"ABIs, deployed addresses and viem chain definitions for Gated contracts"
+2026-11-08T19:46:29.22Z,@gatedagent/agent,0.1.0,gatedagent,MIT,193640,"Gated skill for AI agents: MCP server + gated CLI. Post, answer holders, trade keys on Robinhood Chain."
+2026-11-08T19:47:01.369Z,dsh-experience,1.0.5,atezro,MIT,197464,"Cross-session self-learning plugin for DeepSeek Harness: auto-capture, fingerprint-verified promotion, lifecycle decay."
+2026-11-08T19:47:11.855Z,@endors/sdk,0.1.0,trustcentral,UNLICENSED,70505,"Official Endors SDK — typed, zero-dependency client for the Endors API. Covers 100% of the documented surface: testimonials, clients, folders, custom fields, collection links, webhooks, proof search/…"
+2026-11-08T19:47:22.534Z,@civ-clone/core-data-client,0.1.0,dom111,MIT,66469,"How a game talks to a client that isn't in the same process: requests and their replies over named channels, and a game's data objects sent as patches and rebuilt on the other side."
+2026-11-08T19:48:38.199Z,create-launchfast,1.0.0,nikhar_gupta,UNLICENSED,9968,Start a new project from the Launchfast SaaS kit: npm create launchfast@latest my-app
+2026-11-08T19:48:42.596Z,@nairaramp/react,0.1.0,mick03,Apache-2.0,50629,"React hook and UI components for adding Pay with Naira flows to React and Next.js applications, powered by `@nairaramp/core`."
+2026-11-08T19:48:43.264Z,grok-omp-theme,1.0.0,mistankh,MIT,9496,Grok Obsidian and Grok Parchment themes for oh-my-pi (omp) and the Pi coding agent
+2026-11-08T19:48:58.747Z,@capybara-hq/plugin-theme-cyberpunk,0.1.0-rc.0,zkit,Apache-2.0 AND OFL-1.1,147076,"Cyberpunk theme: neon yellow on deep blue-black with cyan glow, techno fonts and a neon pixel capybara"
+2026-11-08T19:52:55.821Z,@wevor/booking,0.1.0,jake_wevor,MIT,7824,Wevor's booking widget (<wevor-booking>) for any website or framework
+2026-11-08T19:52:58.924Z,@wevor/booking-react,0.1.0,jake_wevor,MIT,8117,Wevor booking widget for React
+2026-11-08T19:53:01.842Z,@wevor/booking-vue,0.1.0,jake_wevor,MIT,10825,Wevor booking widget for Vue 3
+2026-11-08T19:53:23.045Z,@motionskit/kernel,0.1.0,fabolafio,MIT,71970,"Pure motion logic shared by the engine, the CLI and the browser: status, manifests, and the version id."
+2026-11-08T19:53:50.881Z,akm-web,0.10.261113-beta,itlackey,MPL-2.0,3739823,"AKM's web interface for a server or container, started with akm-web."
+2026-11-08T19:54:46.694Z,@jkappers/memo,0.1.0,jkappers,MIT,99985,"Set up memo, the knowledge store for coding agents, in every harness you use."
+2026-11-08T19:55:07.797Z,@motionskit/sdk,0.1.0,fabolafio,MIT,59078,"What a tenant's steps import. `defineStep` and `defineBatchStep` describe a step. `@motionskit/sdk/harness` runs one in the engine. In tests, `runStep` from `@motionskit/sdk/testing` runs one with it…"
+2026-11-08T19:55:15.342Z,@motionskit/cli,0.1.0,fabolafio,MIT,68413,"`motions init`, `check`, `test`, `push`, `pull` and `open`."
+2026-11-08T19:55:30.634Z,sendmind,0.0.1,hamzatalkz,UNLICENSED,797,"Sendmind: share a reel, post or link and your AI coding agent remembers it. Launching soon."
+2026-11-08T19:56:23.744Z,@awilixify/config,0.1.0,r.vanzhula,MIT,14271,"Typed root and module-scoped configuration for Awilixify, using native Node.js env parsing."
+2026-11-08T19:56:41.26Z,@krzysztofkobra/orca-mcp,0.1.1,krzysztofkobra,MIT,244938,"MCP server for Orca: start, watch and steer coding agents running in Orca from any MCP client (Hermes Agent, Claude Code, Codex)."
+2026-11-08T19:57:45.468Z,trykeyline,0.1.0,mehere272,MIT,836793,"Interface design laws for coding agents: one skill that reads your codebase, writes a DESIGN.md in your own token names, then critiques, audits and fixes type, colour, layout, depth, motion and produ…"
+2026-11-08T19:58:32.858Z,@ac-kit/format-websocket,0.1.0,anthochamp,BSD-3-Clause,41194,"The WebSocket wire format (RFC 6455): frame codec with streamed payloads, masking, close codes and the close payload."
+2026-11-08T19:58:41.376Z,salve-css,0.1.0,juliocarneiro,MIT,324874,"CSS que alivia: a pure-CSS design system that fixes the everyday pains of styling the web. Layers, fluid type, OKLCH themes, intrinsic layouts, native components."
+2026-11-08T19:58:42.002Z,@ac-kit/net-websocket,0.1.0,anthochamp,BSD-3-Clause,61476,WebSocket endpoints (RFC 6455) over any @ac-kit/net-core Transport: a message-level peer and the opening handshake for both sides.
+2026-11-08T19:59:55.912Z,salve-icons,0.1.0,juliocarneiro,MIT,556723,"Ícones para o salve: 292 ícones de traço em grade de 24px, incluindo redes sociais. Use como classe CSS, sprite SVG, componente React (com Server Components), módulo JS ou web component. Herdam cor e…"
+2026-11-08T20:00:36.301Z,n8n-nodes-azimea,0.1.0,azimealabs,MIT,34223,Azimea contact management nodes for n8n
+2026-11-08T20:02:00.673Z,dsh-server-resources,0.2.0,brungcm,MIT,1125245,"Server resources panel for DeepSeek Harness: live CPU, RAM, swap and disk, with rankings of the top processes, folders and files. Read-only, zero dependencies."
+2026-11-08T20:03:07.649Z,@leocavalcante/pi-otel,0.1.0,leocavalcante,MIT,96568,Privacy-first OpenTelemetry for Pi Durable and Pi coding agents
+2026-11-08T20:03:13.057Z,react-spectrum-analyzer,0.1.0,miladyzd94,MIT,567837,"Responsive, zero-dependency React spectrum analyzer: averaging queue, max/min hold, zoom, draggable level line, bandwidth ruler and frequency labels."
+2026-11-08T20:03:44.333Z,openbriefing,0.0.1,rdean,MIT,1105,"Open Briefing Standard (OBS): parser, checker and tools for publishers' own summaries. Draft; v1 is in preparation."
+2026-11-08T20:04:14.352Z,@send-broadcast/plugin-kit,1.0.0,geetfun,SEE LICENSE IN LICENSE,876120,"Write, build, test and publish Broadcast plugins: the broadcast-plugin command, the plugin runtime, the local sandbox (broadcast-plugin serve), types and templates."
+2026-11-08T20:04:18.518Z,@agentinit/cli,0.1.0,tajnur,MIT,380890,"Bootstrap scoped AI coding agent rules, workflows, and architecture docs for Cursor, Claude Code, Windsurf, and GitHub Copilot"
+2026-11-08T20:04:45.17Z,@samjoe5994/bs-grid,0.1.0,samjoe5994,MIT,1076876,"Fast, dependency-free Angular data grid: virtual scrolling, pinning, sorting, filtering, grouping, editing, range selection, clipboard, pagination, CSV/Excel export. MIT."
+2026-11-08T20:05:11.843Z,@ignex/castrum,0.9.12,nodejs-labs,MIT,103543735,"Enterprise-grade Bun + Rust runtime: Rust-accelerated FFI primitives, a production-grade HTTP ingress pipeline, validation, hashing, and JSON processing with benchmark-grade performance."
+2026-11-08T20:05:20.285Z,@lv24/kernel,0.1.0,levap_veeskela,MIT,255860,"Public kernel for Instagram automation: Result, HTTP client, session types, official-feed models."
+2026-11-08T20:05:33.805Z,@0xbuff/throughline,0.0.0-stage,sezugh,,341,Temporary package placeholder for staged publishing
+2026-11-08T20:05:47.076Z,@lv24/instagram-official,0.1.0,levap_veeskela,MIT,110410,"Official Instagram Graph API client: OAuth2, token management, GraphApiProcessor."
+2026-11-08T20:06:36.593Z,@petiole/sdk,0.1.0,petiole,MIT,132311,"The Petiole API from TypeScript: models that find leaves in a photo, and workflows that measure them."
+2026-11-08T20:06:39.448Z,tron-usdt-mcp,1.0.0,chico10117,MIT,11012,"MCP server for TRON USDT risk: Tether blacklist check (free), sanctions screen and AML report (paid via API key or x402)."
+2026-11-08T20:06:49.393Z,@znvvqz/visual-guide,0.9.10,znvvqz.work,UNLICENSED,567956,A visual guide and working pattern reference that coding agents follow when building interfaces.
+2026-11-08T20:06:59.067Z,@agon-engine/engine,0.1.0,komplexmojo,SEE LICENSE IN LICENSE.md,1733149,"Agon, a deterministic simulation engine where players and AI agents contest under one rule set. Built bundle of the public API."
+2026-11-08T20:08:06.176Z,dsh-life-engine,0.0.1,zhiyao,MIT,218889,给你的 AI 角色一个身体：她在哪、在干嘛、今天怎么样。装上即可用，不含任何角色数据。
+2026-11-08T20:08:36.624Z,@dangerboi/kata-pi,1.7.1,dangerboi,MIT,224069,Kata-backed plans and evidence-checked completion for stock pi
+2026-11-08T20:08:41.138Z,@vastward/zk-webgpu,0.1.0,vexxdev,UNLICENSED,323135147,Browser WebGPU prover for the pinned Vastward narrow-v5 social authorization profile
+2026-11-08T20:08:44.005Z,@limulus/lemmon-core,1.0.0,limulus,MIT,2598908,Lemmon core: typed wrapper around the Rust/WASM compiler and VM
+2026-11-08T20:08:54.332Z,@limulus/lemmon-shell,1.0.0,limulus,MIT,741766,"Lemmon shell: CLI, content walker, plugin host, and dev server"
+2026-11-08T20:09:08.383Z,streamtrack-tv,1.0.0,jan.tursky,MIT,14654,Typed sync payload and pairing contract between the StreamTrack TV Android app and its web dashboard.
+2026-11-08T20:09:13.262Z,zhongwen-engine,0.1.0,sukona,MIT,26807,"Database-agnostic learning engine for Chinese: FSRS spaced repetition, mastery tracking and a knowledge graph of hanzi and words."
+2026-11-08T20:10:30.476Z,@designa8/vibedesign-supabase-deepseek-2-176b,0.0.1,designa8,,2231329,"Complete design system ""My Project supabase-deepseek"" generated by Atoms Design."
+2026-11-08T20:10:44.266Z,dsh-fish-dream,0.1.0,xxxiii33,MIT,85960,给 dsh-fish 里的她做梦：安静够久之后，从她真实的事件流里挑碎片，按六种梦理论之一拼成「梦的种子」，她自己把梦写完。
+2026-11-08T20:11:00.038Z,@company-six/qbosync,0.1.0,alejandro-pach,UNLICENSED,124236,"Connect an app to QBO Sync: send invoices and credit memos to QuickBooks, and hear back what happened to them."
+2026-11-08T20:12:58.026Z,@sirenodeck/addon-calendar,0.0.0,sergiocarracedo,GPL-3.0-or-later,123958,Calendar events and reminders for Sireno Deck
+2026-11-08T20:14:32.829Z,spotikit-kit,0.9.0,nmwplays,AGPL-3.0-only,106444,"Create, build, check, live-test and pack SpotiKit themes, extensions, custom apps and CSS snippets."
+2026-11-08T20:14:37.563Z,@edgewarn/web-utils,2026.11.8-alpha.0,yuchen-wei3667,MIT,803153,"One ESM package for EdgeWARN geometry, time, HTTP clients, alert evaluation and weather byte decoding. Version `2026.11.8-alpha.0` requires Node 22.18+ for development; portable modules also support…"
+2026-11-08T20:14:52.061Z,create-spotikit,0.9.0,nmwplays,AGPL-3.0-only,36336,"npm create spotikit: a new SpotiKit theme, extension, custom app or CSS snippet."
+2026-11-08T20:15:08.59Z,serverside_pivot,0.0.90,ramzy22,MIT,3812064,A Dash component built with TanStack Table v8
+2026-11-08T20:16:12.255Z,nyanapi,0.0.0-stage,lukeiscool2408,,329,Temporary package placeholder for staged publishing
+2026-11-08T20:18:49.63Z,orvane,0.0.0-stage,diazskuyyy,,328,Temporary package placeholder for staged publishing
