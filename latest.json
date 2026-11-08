@@ -1,68 +1,398 @@
 {
   "list": {
-    "count": 184,
-    "from": "2026-11-08T13:20:23.240494Z",
-    "path": "data/new-packages-2026-11-08T14-18-18-677409Z.csv",
-    "to": "2026-11-08T14:18:18.677409Z"
+    "count": 421,
+    "from": "2026-11-08T14:18:18.677409Z",
+    "path": "data/new-packages-2026-11-08T15-20-42-581359Z.csv",
+    "to": "2026-11-08T15:20:42.581359Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@5318vo/dsh-worktree",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/api-gen",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@fiberfx/mercury",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/app-telegram",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@hzxwonder/dsh-codex-desktop-mcp",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/bytepath",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@jiezhengj/dsh-anywhere",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/core-contracts",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@ljsstudios/index-filter-bar",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/create-app",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@lp-labs/ciede2000-distance",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/db-core",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@lp-labs/circle-intersection",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/dev-config",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@lp-labs/css-fluid-scale",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/host-bridge",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@lp-labs/css-length-value",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/jobs",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@lp-labs/csv-cell-escape",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@actdim/server-core",
+      "since": "2026-11-08T14:18:18.677409Z"
     },
     {
       "attempts": 1,
-      "package": "@zenera/server",
-      "since": "2026-11-08T13:20:23.240494Z"
+      "package": "@bagooon/chatease-emdash-form",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/gitlab-bot",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/gong-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/hubspot-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/intercom-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/jira-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/jira-bot",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/klaviyo-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/lever-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/linear-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/mailchimp-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/mailchimp-transactional-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/meta-whatsapp",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/microsoft-graph-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/microsoft-onedrive-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/microsoft-outlook-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/microsoft-sharepoint-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/microsoft-teams-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/mixpanel-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/mollie-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/monday-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/neon-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/notion-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/outline-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/outreach-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@dual-os/pagerduty-api",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/relative-time-label",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/repeated-substring-finder",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/replicated-collection",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/report-designer",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/request-coalescer",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/reservoir-sampler",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/reservoir-sampling",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/resistor-code",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/resize-constraints",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/resource-budget",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/responsive-design",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/resumable-upload",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/resume-designer",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/retention-policy",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/retry-after-parser",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/retry-backoff",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/reversi-rules",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/rhythm-grid",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/rich-text-layout",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/roaring-ranges",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/robots-txt-policy",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/robust-zscore",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/roman-numerals",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/roof-pitch",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/root-finder",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/rot13-codec",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/rotate-point-2d",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/round-robin-schedule",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/route-planning-core",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/rtf-codec",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/run-length-codec",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/running-regression",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/safe-extraction",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/safe-json-reader",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/saga-coordinator",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/sainte-lague-allocation",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@lp-labs/sales-commission",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mambalabsdev/mcp-healthcare-provider-npi-enricher",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@matrkaa/gravity-sdk",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@melt-js/tpl-vue3-datav-mf-station",
+      "since": "2026-11-08T14:18:18.677409Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@veda-hq/kavach",
+      "since": "2026-11-08T14:18:18.677409Z"
     }
   ],
-  "seq": 143004650,
+  "seq": 143012827,
   "source_truncated": false,
-  "window": "2026-11-08T14:18:18.677409Z"
+  "window": "2026-11-08T15:20:42.581359Z"
 }
