@@ -1,0 +1,455 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-08T15:16:03.356Z,@lp-labs/relative-time-label,0.1.0,libinprasanth,MIT,8235,Formats a timestamp difference as a short English relative-time label.
+2026-11-08T15:16:08.865Z,@lp-labs/repeated-substring-finder,0.1.0,libinprasanth,MIT,7149,Finds the first occurrence of a substring repeated a requested number of times.
+2026-11-08T15:16:13.75Z,@lp-labs/replicated-collection,0.1.0,libinprasanth,MIT,35505,Bounded version-vector records with explicit concurrent merge diagnostics.
+2026-11-08T15:16:19.153Z,@lp-labs/report-designer,0.1.0,libinprasanth,MIT,28656,Data-bound report tables with deterministic pagination and repeating page furniture.
+2026-11-08T15:16:24.136Z,@mambalabsdev/mcp-healthcare-provider-npi-enricher,1.0.0,mambalabsdev,MIT,19705,MCP server for Healthcare Provider NPI Enricher. Turn NPIs or provider names into NPI Registry records with taxonomy and practice address. Runs on Apify. Clay-ready output.
+2026-11-08T15:16:24.622Z,@lp-labs/request-coalescer,0.1.0,libinprasanth,MIT,18953,Bounded in-flight request sharing with independent subscriber cancellation.
+2026-11-08T15:16:29.921Z,@lp-labs/reservoir-sampler,0.1.0,libinprasanth,MIT,7608,Uniform-size reservoir sampling over one-pass iterables with an injectable random source.
+2026-11-08T15:16:35.17Z,@lp-labs/reservoir-sampling,0.1.0,libinprasanth,MIT,11220,Streaming Algorithm R reservoir samples with injectable validated randomness.
+2026-11-08T15:16:40.59Z,@lp-labs/resistor-code,0.1.0,libinprasanth,MIT,11664,Four/five-band resistor values and circuit resistance math.
+2026-11-08T15:16:45.28Z,@lp-labs/resize-constraints,0.1.0,libinprasanth,MIT,14726,"Anchor-preserving rectangle resize with min/max, aspect projection and explicit infeasibility diagnostics."
+2026-11-08T15:16:50.798Z,@lp-labs/resource-budget,0.1.0,libinprasanth,MIT,27782,Atomic multi-resource reservations with bounded FIFO admission and abortable waits.
+2026-11-08T15:16:56.407Z,@lp-labs/responsive-design,0.1.0,libinprasanth,MIT,23349,Bounded responsive rectangle layout resolution with explicit anchors and overflow diagnostics.
+2026-11-08T15:17:01.939Z,@lp-labs/resumable-upload,0.1.0,libinprasanth,MIT,28437,Adapter-defined resumable chunk uploads with bounded concurrency and authoritative offsets.
+2026-11-08T15:17:07.198Z,@lp-labs/resume-designer,0.1.0,libinprasanth,MIT,24157,"Structured resume sections with deterministic layout, overflow diagnostics and JSON export."
+2026-11-08T15:17:13.366Z,@lp-labs/retention-policy,0.1.0,libinprasanth,MIT,16974,"Bounded, deterministic advisory retention plans with age and per-category limits."
+2026-11-08T15:17:18.705Z,@lp-labs/retry-after-parser,0.1.0,libinprasanth,MIT,6962,Parses Retry-After delay-seconds or HTTP-date into a nonnegative millisecond delay.
+2026-11-08T15:17:24.386Z,@lp-labs/retry-backoff,0.1.0,libinprasanth,MIT,12113,Explicit bounded retry attempts with injected randomness and sleep.
+2026-11-08T15:17:30.895Z,@lp-labs/reversi-rules,0.1.0,libinprasanth,MIT,11979,Standard eight-by-eight Reversi legal moves and captured-disc transitions.
+2026-11-08T15:17:36.435Z,@lp-labs/rhythm-grid,0.1.0,libinprasanth,MIT,8284,Meter-based beat subdivision positions with swing.
+2026-11-08T15:17:41.884Z,@lp-labs/rich-text-layout,0.1.0,libinprasanth,MIT,21285,Bounded Unicode code-point text layout using explicit trusted font metrics.
+2026-11-08T15:17:47.249Z,@lp-labs/roaring-ranges,0.1.0,libinprasanth,MIT,15912,"Bounded uint32 interval-set algebra using sorted disjoint ranges. Despite the package name, NOT a Roaring bitmap or its binary format."
+2026-11-08T15:17:52.559Z,@lp-labs/robots-txt-policy,0.1.0,libinprasanth,MIT,10972,Small robots.txt parser and deterministic user-agent/path allow-disallow evaluator.
+2026-11-08T15:17:57.847Z,@lp-labs/robust-zscore,0.1.0,libinprasanth,MIT,8295,Modified z-scores and outlier flags using the sample median and raw median absolute deviation.
+2026-11-08T15:18:03.139Z,@lp-labs/roman-numerals,0.1.0,libinprasanth,MIT,9267,Canonical Roman numeral encoding and strict decoding.
+2026-11-08T15:18:08.343Z,@lp-labs/roof-pitch,0.1.0,libinprasanth,MIT,8002,"Slope angle,ratio and diagonal roof geometry."
+2026-11-08T15:18:13.62Z,@lp-labs/root-finder,0.1.0,libinprasanth,MIT,10779,"Bounded, dependency-free root finder algorithms with explicit numerical failure handling."
+2026-11-08T15:18:18.946Z,@lp-labs/rot13-codec,0.1.0,libinprasanth,MIT,6510,ASCII ROT13 text transformation preserving all other code units.
+2026-11-08T15:18:24.323Z,@lp-labs/rotate-point-2d,0.1.0,libinprasanth,MIT,6691,Rotates a point around an origin by a radian angle.
+2026-11-08T15:18:37.308Z,@veda-hq/kavach,0.3.0,alokbansal,MIT,477213,"Guards for coding agents: refuses writes outside the agent's worktree, git-hook bypasses and history-destroying pushes, and runs a project's own rule checks on each tool call. Read-only commands pass."
+2026-11-08T15:19:06.421Z,@dual-os/gitlab-bot,0.1.4,datapizza,UNLICENSED,5715473,"The `gitlab-bot/issues` Agent Channel serves a customer's own GitLab bot account: a project or group access token's bot, a service account or a dedicated user, on GitLab.com or a self-managed instanc…"
+2026-11-08T15:19:09.823Z,@dual-os/gong-api,6.0.3,datapizza,UNLICENSED,6763567,
+2026-11-08T15:19:19.742Z,@dual-os/hubspot-api,6.0.3,datapizza,UNLICENSED,8769130,
+2026-11-08T15:19:22.996Z,@dual-os/intercom-api,6.0.3,datapizza,UNLICENSED,8319637,
+2026-11-08T15:19:26.918Z,@dual-os/jira-api,8.0.3,datapizza,UNLICENSED,11052263,
+2026-11-08T15:19:28.448Z,@melt-js/tpl-vue3-datav-mf-station,2026.11.8,luo0412,UNLICENSED,43513125,由 fengtianxi001/MF-StationMonitor 抽出的 Vue 3 + Three.js 变电站数字孪生大屏模板：GLB 场景 / CSS2D 设备标签 / 漫游巡检 / 告警模拟 / 6 个 echarts 面板，纯静态页、不依赖远程组件包
+2026-11-08T15:19:28.675Z,@bagooon/chatease-emdash-form,0.2.1,bagooon,MIT,85919,ChatEase contact forms for EmDash CMS
+2026-11-08T15:19:30.133Z,@dual-os/jira-bot,0.0.5,datapizza,UNLICENSED,5681987,A standalone handwritten Jira Cloud Agent Channel: `jira-bot/issues`. `jira-bot` names the dedicated customer account that writes comments; it does not imply a Forge/Connect application or alter gene…
+2026-11-08T15:19:33.329Z,@dual-os/klaviyo-api,6.0.3,datapizza,UNLICENSED,11528368,
+2026-11-08T15:19:36.531Z,@dual-os/lever-api,6.0.3,datapizza,UNLICENSED,5877035,
+2026-11-08T15:19:40.647Z,@dual-os/linear-api,6.0.4,datapizza,UNLICENSED,14569449,"`@dual-os/linear-api` includes the Linear API Actions, event Trigger and Agent Channel."
+2026-11-08T15:19:44.492Z,@dual-os/mailchimp-api,6.0.3,datapizza,UNLICENSED,9059062,
+2026-11-08T15:19:47.291Z,@lp-labs/round-robin-schedule,0.1.0,libinprasanth,MIT,10571,Deterministic single/double round-robin fixture scheduling.
+2026-11-08T15:19:47.344Z,@dual-os/mailchimp-transactional-api,6.0.3,datapizza,UNLICENSED,6591003,
+2026-11-08T15:19:50.664Z,@dual-os/meta-whatsapp,5.0.5,datapizza,UNLICENSED,5694410,"Direct Meta WhatsApp Cloud API Channel `meta-whatsapp/direct`, Graph v25.0. Supports 1:1 text in/out and inbound JPEG/PNG images up to 5 MiB. No actions, Workflow Triggers, templates, groups, audio,…"
+2026-11-08T15:19:53.458Z,@lp-labs/route-planning-core,0.1.0,libinprasanth,MIT,14822,Bounded deterministic route construction from explicit directed cost matrices.
+2026-11-08T15:19:54.219Z,@dual-os/microsoft-graph-api,1.0.4,datapizza,UNLICENSED,7874127,
+2026-11-08T15:19:59.144Z,@lp-labs/rtf-codec,0.1.0,libinprasanth,MIT,23469,Bounded safe ASCII/Unicode RTF subset reader/writer with explicit control-word rejection.
+2026-11-08T15:20:00.489Z,@dual-os/microsoft-onedrive-api,1.0.4,datapizza,UNLICENSED,18517262,
+2026-11-08T15:20:03.663Z,@dual-os/microsoft-outlook-api,1.0.4,datapizza,UNLICENSED,9503780,
+2026-11-08T15:20:04.448Z,@lp-labs/run-length-codec,0.1.0,libinprasanth,MIT,16206,"A real byte-run binary codec with explicit triples, bounded decompression and incremental decoding."
+2026-11-08T15:20:06.663Z,@dual-os/microsoft-sharepoint-api,1.0.4,datapizza,UNLICENSED,9538718,
+2026-11-08T15:20:10.067Z,@lp-labs/running-regression,0.1.0,libinprasanth,MIT,11771,"Bounded, dependency-free running regression algorithms with explicit numerical failure handling."
+2026-11-08T15:20:10.475Z,@dual-os/microsoft-teams-api,1.0.4,datapizza,UNLICENSED,12079115,
+2026-11-08T15:20:14.266Z,@dual-os/mixpanel-api,6.0.3,datapizza,UNLICENSED,6052558,
+2026-11-08T15:20:15.704Z,@actdim/dev-config,1.12.2,pavel.borodaev,MIT,34103,"Shared ESLint, Prettier and tsconfig presets of the actdim stack"
+2026-11-08T15:20:15.767Z,@lp-labs/safe-extraction,0.1.0,libinprasanth,MIT,16460,Portable extraction path and resource-accounting guard with explicit audit results.
+2026-11-08T15:20:17.812Z,@dual-os/mollie-api,6.0.3,datapizza,UNLICENSED,7801108,
+2026-11-08T15:20:18.348Z,@actdim/core-contracts,1.12.2,pavel.borodaev,MIT,284127,"Provider-agnostic contracts for errors, typed event pushers, basic user profiles, and feature keys"
+2026-11-08T15:20:20.858Z,@matrkaa/gravity-sdk,0.1.0,matrka,UNLICENSED,19711,"Official SDK for the GRAVITY graded-intelligence API — send a prompt, get back the answer with its auditable jury-graded receipt (quality floor ≥ 0.85, token/cost metering, node ledger)."
+2026-11-08T15:20:20.907Z,@lp-labs/safe-json-reader,0.1.0,libinprasanth,MIT,6651,Parses JSON into an explicit success-or-error result.
+2026-11-08T15:20:22.014Z,@dual-os/monday-api,6.0.3,datapizza,UNLICENSED,9015874,
+2026-11-08T15:20:22.459Z,@actdim/create-app,1.12.2,pavel.borodaev,MIT,1403859,Scaffold a new production-ready ActDim application from the starter template
+2026-11-08T15:20:24.794Z,@dual-os/neon-api,6.0.3,datapizza,UNLICENSED,7267611,
+2026-11-08T15:20:25.245Z,@actdim/db-core,1.12.2,pavel.borodaev,MIT,325679,"Shared base SQL migrations (actdim, iam, registry) and the dbmate runner of the actdim stack"
+2026-11-08T15:20:26.41Z,@lp-labs/saga-coordinator,0.1.0,libinprasanth,MIT,22530,"Bounded sequential saga execution with explicit idempotency, retry, and compensation contracts."
+2026-11-08T15:20:27.867Z,@dual-os/notion-api,6.0.3,datapizza,UNLICENSED,21817123,
+2026-11-08T15:20:27.963Z,@actdim/host-bridge,1.12.2,pavel.borodaev,MIT,304840,"Provider-agnostic host bridge protocol contract, TypeScript client, and webapp bundle sync CLI for WebView and MAUI hosting"
+2026-11-08T15:20:30.477Z,@actdim/api-gen,1.12.2,pavel.borodaev,MIT,233287,Cross-platform OpenAPI 3.1 code generator and MsgMesh bus mapper
+2026-11-08T15:20:30.895Z,@dual-os/outline-api,3.0.3,datapizza,UNLICENSED,6662764,"`plugin.json` generates the actions from `openapi.yaml`, a snapshot of Outline's published OpenAPI document, with `openapi.overlay.yaml` fixing it; `sourceUrl` records its upstream location. API key,…"
+2026-11-08T15:20:32.295Z,@lp-labs/sainte-lague-allocation,0.1.0,libinprasanth,MIT,11309,Sainte-Lague exact highest-average seat apportionment.
+2026-11-08T15:20:33.48Z,@actdim/server-core,1.12.2,pavel.borodaev,MIT,792322,Provider-agnostic backend runtime infrastructure for the actdim stack
+2026-11-08T15:20:34.409Z,@dual-os/outreach-api,6.0.3,datapizza,UNLICENSED,8344030,
+2026-11-08T15:20:36.732Z,@actdim/app-telegram,1.12.2,pavel.borodaev,MIT,611662,"Telegram OAuth bridge, account binding, direct Bot API notifier, and bot runtime for actdim apps"
+2026-11-08T15:20:37.485Z,@dual-os/pagerduty-api,6.0.3,datapizza,UNLICENSED,10542341,
+2026-11-08T15:20:37.892Z,@lp-labs/sales-commission,0.1.0,libinprasanth,MIT,28382,"Flat, marginal tier, and whole-tier commission calculation in exact cents with refunds and caps."
+2026-11-08T15:20:39.467Z,@actdim/bytepath,1.12.2,pavel.borodaev,MIT,773455,"Keyed blob storage with metadata, expiration and safe concurrency (TypeScript implementation of ActDim.BytePath)"
+2026-11-08T15:20:42.025Z,@actdim/jobs,1.12.2,pavel.borodaev,MIT,523127,Provider-agnostic Hatchet jobs and workflow framework
+2026-11-08T15:20:43.591Z,@lp-labs/scale-patterns,0.1.0,libinprasanth,MIT,9086,Seven diatonic modes and scale-degree MIDI expansion.
+2026-11-08T15:20:44.823Z,@actdim/app-shell,1.12.2,pavel.borodaev,MIT,440606,"Config-driven application shell: runtime config, typed bus, API registry, OIDC security, and composition root"
+2026-11-08T15:20:49.414Z,@lp-labs/scene-graph,0.1.0,libinprasanth,MIT,28390,Bounded affine scene hierarchy with transformed bounds and rectangle hit testing.
+2026-11-08T15:20:56.322Z,@lp-labs/schema-codegen,0.1.0,libinprasanth,MIT,17825,Bounded TypeScript type generation from a deliberately small schema subset.
+2026-11-08T15:20:59.051Z,dsh-cn-menu-kit,1.0.0,sdsdf1238,MIT,772272,"DeepSeek Harness 技能与命令的中文增强：技能中文标题列表、中文搜索、悬浮详情、拖拽排序（菜单内直接拖 + 排序面板）、命令菜单条目排序 · Chinese titles, search, hover details and drag-to-reorder for DSH skills and commands"
+2026-11-08T15:21:02.297Z,@lp-labs/schema-defaults,0.1.0,libinprasanth,MIT,26178,Immutable default application for an explicitly supported JSON Schema subset.
+2026-11-08T15:21:07.799Z,@lp-labs/schema-evolution,0.1.0,libinprasanth,MIT,20844,Versioned sequential data migrations with strict JSON snapshots and explicit receipts.
+2026-11-08T15:21:13.156Z,@lp-labs/schema-inference,0.1.0,libinprasanth,MIT,32993,Bounded JSON dataset schema inference with missing/null statistics and explicit corrections.
+2026-11-08T15:21:18.884Z,@lp-labs/schema-registry-client,0.1.0,libinprasanth,MIT,24434,Injected-fetch schema lookup with bounded cache and explicit offline mode.
+2026-11-08T15:21:24.431Z,@lp-labs/schulze-ranking,0.1.0,libinprasanth,MIT,11150,Schulze winning-votes strongest paths and winner set.
+2026-11-08T15:21:30.373Z,@lp-labs/screw-thread,0.1.0,libinprasanth,MIT,8326,Nominal metric sixty-degree thread geometry calculations.
+2026-11-08T15:21:33.78Z,@matrkaa/gravity-mcp,0.1.0,matrka,UNLICENSED,15293,"GRAVITY as an MCP server — Claude Desktop, Claude Code, Cursor & Windsurf can run graded missions with auditable receipts as a native tool."
+2026-11-08T15:21:35.34Z,@lp-labs/scroll-anchor,0.1.0,libinprasanth,MIT,13229,"Identity-based scroll preservation across inserted, removed and resized supplied item metrics."
+2026-11-08T15:21:40.944Z,@lp-labs/seating-plan-editor,0.1.0,libinprasanth,MIT,38392,Bounded independent seating-plan-editor layout and geometry primitives.
+2026-11-08T15:21:46.526Z,@lp-labs/security-txt-codec,0.1.0,libinprasanth,MIT,9478,RFC 9116-style security.txt parser and formatter for Contact and Expires fields.
+2026-11-08T15:21:52.553Z,@lp-labs/sedol-checksum,0.1.0,libinprasanth,MIT,7688,SEDOL alphanumeric weighted mod10 checksum arithmetic.
+2026-11-08T15:21:58.465Z,@lp-labs/segment-intersection,0.1.0,libinprasanth,MIT,7130,Finds the intersection point of two finite line segments in 2D.
+2026-11-08T15:22:03.856Z,@lp-labs/segment-tree,0.1.0,libinprasanth,MIT,14384,A generic associative-monoid segment tree preserving noncommutative order and atomic point updates.
+2026-11-08T15:22:09.11Z,@lp-labs/segmented-text,0.1.0,libinprasanth,MIT,19880,Platform Intl.Segmenter documents with bounded grapheme and word boundary helpers.
+2026-11-08T15:22:09.411Z,@mambalabsdev/mcp-media-url-transcriber,1.0.0,mambalabsdev,MIT,19560,MCP server for Media URL Transcriber. Transcribe direct audio and video file links on your own speech to text key. Runs on Apify. Clay-ready output.
+2026-11-08T15:22:12.555Z,compromise-unist,0.2.0,spencermountain,MIT,35826,output a Abstract Syntax Tree from compromise
+2026-11-08T15:22:15.203Z,@lp-labs/selection-model,0.1.0,libinprasanth,MIT,18632,"Stable-identity single, multiple and range selection with explicit anchors."
+2026-11-08T15:22:21.111Z,@lp-labs/semantic-version-advisor,0.1.0,libinprasanth,MIT,20383,"Semver guidance for caller-supplied, explicitly described public APIs."
+2026-11-08T15:22:26.947Z,@lp-labs/semver-range,0.1.0,libinprasanth,MIT,18324,"Strict semantic version parsing, precedence, and bounded range evaluation."
+2026-11-08T15:22:32.726Z,@lp-labs/sensitive-data-discovery,0.1.0,libinprasanth,MIT,23599,Bounded heuristic discovery of sensitive-looking data without returning sampled values.
+2026-11-08T15:22:38.003Z,@lp-labs/sentence-statistics,0.1.0,libinprasanth,MIT,7167,Sentence and word counts plus average words-per-sentence from punctuation-delimited prose.
+2026-11-08T15:22:43.762Z,@lp-labs/sentence-title-caser,0.1.0,libinprasanth,MIT,6049,Capitalizes the first letter of each whitespace-delimited word.
+2026-11-08T15:22:49.159Z,@lp-labs/sequence-alignment,0.1.0,libinprasanth,MIT,12035,Weighted Unicode code-point Levenshtein alignment with executable edit scripts.
+2026-11-08T15:22:54.852Z,@lp-labs/server-timing-header,0.1.0,libinprasanth,MIT,12020,"Server-Timing header parser and formatter for metric names, durations and descriptions."
+2026-11-08T15:22:59.646Z,@wcoekaer/homebridge-tesla-powerpack,0.1.0,wcoekaer,MIT,612193,"Read-only Tesla Powerpack telemetry, HomeKit health sensors, and a graphical dashboard camera."
+2026-11-08T15:23:00.545Z,@lp-labs/session-arbitration,0.1.0,libinprasanth,MIT,14774,Atomic-adapter session leases with fencing epochs and guarded handoff.
+2026-11-08T15:23:06.11Z,@lp-labs/sessionization,0.1.0,libinprasanth,MIT,20077,"Bounded, explicit sessionization utilities with injected adapters and deterministic policies."
+2026-11-08T15:23:11.167Z,@lp-labs/shared-buffer-channel,0.1.0,libinprasanth,MIT,13432,A validated bounded single-producer/single-consumer Int32 ring over a caller-supplied SharedArrayBuffer.
+2026-11-08T15:23:16.601Z,@lp-labs/shared-document,0.1.0,libinprasanth,MIT,14217,Version-checked structured document transactions with stable node IDs and schema constraints.
+2026-11-08T15:23:22.134Z,@lp-labs/shell-arguments,0.1.0,libinprasanth,MIT,11016,POSIX-like command argument parsing and quoting without shell evaluation.
+2026-11-08T15:23:27.526Z,@lp-labs/shipping-weight,0.1.0,libinprasanth,MIT,30542,"Exact actual versus dimensional weight with caller divisors, unit conversion, and rounding."
+2026-11-08T15:23:34.448Z,@lp-labs/sidereal-time,0.1.0,libinprasanth,MIT,7686,Approximate Greenwich and local mean sidereal time.
+2026-11-08T15:23:39.965Z,@lp-labs/signal-rectify,0.1.0,libinprasanth,MIT,7386,"Full-wave,positive half-wave and squared sample rectification."
+2026-11-08T15:23:45.367Z,@lp-labs/signal-windows,0.1.0,libinprasanth,MIT,6859,"Bounded, dependency-free signal windows algorithms with explicit numerical failure handling."
+2026-11-08T15:23:50.824Z,@lp-labs/signature-pad-core,0.1.0,libinprasanth,MIT,20201,"Bounded pointer-stroke capture, smoothing, resampling, and SVG serialization."
+2026-11-08T15:23:56.422Z,@lp-labs/significant-digit-rounder,0.1.0,libinprasanth,MIT,6243,Rounds finite values to a chosen number of significant digits.
+2026-11-08T15:24:02Z,@lp-labs/silence-detector,1.0.0,libinprasanth,MIT,20263,"Block RMS silence detection with hysteresis, minimum duration and padding."
+2026-11-08T15:24:07.5Z,@lp-labs/simulation-engine,0.1.0,libinprasanth,MIT,18077,Bounded deterministic simulation-engine utilities with explicit validation and zero runtime dependencies.
+2026-11-08T15:24:08.062Z,cannwork-rehearsal-windows-x64,0.5.2,zhoufangchaojs,,281734806,
+2026-11-08T15:24:12.932Z,@lp-labs/sitemap-xml,0.1.0,libinprasanth,MIT,10351,Minimal XML sitemap URL-set writer and reader with safe XML entity handling.
+2026-11-08T15:24:15.467Z,ubuntu-service-cli,1.0.0,keshavsoft,ISC,26149,"Inspect, check, and manage Ubuntu systemd services matching KeshavSoft VPS domain conventions."
+2026-11-08T15:24:18.341Z,@lp-labs/sla-tracker,0.1.0,libinprasanth,MIT,21354,"Pure SLA elapsed-time calculation with explicit work intervals, pause reasons, and calendar adapters."
+2026-11-08T15:24:23.631Z,@lp-labs/sliding-array-window,0.1.0,libinprasanth,MIT,6491,Creates fixed-size sliding windows over an array.
+2026-11-08T15:24:28.856Z,@lp-labs/sliding-puzzle,0.1.0,libinprasanth,MIT,10391,Square sliding-puzzle legal moves and goal solvability parity.
+2026-11-08T15:24:34.293Z,@lp-labs/slip-codec,0.1.0,libinprasanth,MIT,8689,Single-frame SLIP byte escaping with strict delimiters.
+2026-11-08T15:24:38.207Z,tethered-trust,0.1.1,jonah112,MIT,53808,"Fit, compatibility and recall checks for AI agents before they buy. Client and tool definitions for the Tethered Trust API and MCP server."
+2026-11-08T15:24:39.633Z,@lp-labs/slug-builder,0.1.0,libinprasanth,MIT,15391,Unicode-normalized configurable slug creation and bounded collision-aware local allocation.
+2026-11-08T15:24:40.194Z,groove-ui,0.1.0,sigireddyviswesh,MIT,402128,Horror-themed React component library with folklore-inspired design primitives
+2026-11-08T15:24:54.458Z,cannwork-rehearsal-windows-x64-baseline,0.5.2,zhoufangchaojs,,280288927,
+2026-11-08T15:25:00.062Z,compromise-markdown,0.0.1,spencermountain,MIT,930225,parse and transform text inside markdown
+2026-11-08T15:25:16.28Z,@lp-labs/smart-guides,0.1.0,libinprasanth,MIT,16686,Deterministic rectangle alignment snapping and edge-to-edge distances.
+2026-11-08T15:25:21.908Z,@lp-labs/snake-case-converter,0.1.0,libinprasanth,MIT,6293,"Converts common camel, acronym, and separator forms to snake_case."
+2026-11-08T15:25:27.432Z,@lp-labs/snapshot-transfer,0.1.0,libinprasanth,MIT,18536,Chunked snapshots with resumable integrity checking and adapter-owned atomic activation.
+2026-11-08T15:25:32.862Z,@lp-labs/social-carousel-editor,0.1.0,libinprasanth,MIT,31472,"Shared-style social carousel validation, slide SVG output, and injected image rendering."
+2026-11-08T15:25:38.424Z,@lp-labs/solution-concentration,0.1.0,libinprasanth,MIT,9042,"Unit-explicit molarity, mass concentration and mass fractions."
+2026-11-08T15:25:39.203Z,cannwork-rehearsal-windows-arm64,0.5.2,zhoufangchaojs,,272431770,
+2026-11-08T15:25:44.051Z,@lp-labs/sorted-multimap,0.1.0,libinprasanth,MIT,13242,"A generic sorted multimap with stable duplicate insertion, binary bounds, and half-open range selection."
+2026-11-08T15:25:49.549Z,@lp-labs/sorted-set,0.1.0,libinprasanth,MIT,7596,Immutable numeric sorted-set construction and set algebra.
+2026-11-08T15:25:54.785Z,@lp-labs/source-position-map,0.1.0,libinprasanth,MIT,14525,"UTF-16 source offset, line, column, and edit mapping."
+2026-11-08T15:26:00.589Z,@lp-labs/sparse-matrix,0.1.0,libinprasanth,MIT,25084,"Immutable finite numeric sparse matrices: validated COO/CSR import, canonical CSR storage, transpose and budgeted sparse multiplication."
+2026-11-08T15:26:06.262Z,@lp-labs/spatial-index,0.1.0,libinprasanth,MIT,19892,A bounded grid index for deterministic two-dimensional rectangle searches.
+2026-11-08T15:26:12.003Z,@lp-labs/spearman-rank,0.1.0,libinprasanth,MIT,8986,Spearman rank correlation with average ranks for exact ties.
+2026-11-08T15:26:17.439Z,@lp-labs/spherical-cap,0.1.0,libinprasanth,MIT,7632,"Spherical-cap volume,curved area and rim radius."
+2026-11-08T15:26:22.796Z,@lp-labs/split-layout-tree,0.1.0,libinprasanth,MIT,26540,Immutable serializable split layout trees with validation and viewport constraints.
+2026-11-08T15:26:24.079Z,@upoch/agentkit,0.1.0,anzerd,MIT,17512,"Upoch Guard for Coinbase AgentKit: verifiable checkpoints around every swap or transfer action, recovery, and rollback to the last good state (Robinhood Chain)."
+2026-11-08T15:26:28.559Z,@lp-labs/spreadsheet-engine,0.1.0,libinprasanth,MIT,32435,Safe bounded formula evaluation for small in-memory spreadsheet grids.
+2026-11-08T15:26:34.015Z,@lp-labs/sprite-atlas,0.1.0,libinprasanth,MIT,16556,"Bounded, dependency-free sprite atlas algorithms with explicit numeric contracts."
+2026-11-08T15:26:38.07Z,cannwork-rehearsal-linux-x64-baseline,0.5.2,zhoufangchaojs,,284144029,
+2026-11-08T15:26:39.41Z,@lp-labs/sql-parameters,0.1.0,libinprasanth,MIT,14529,SQL named-parameter placeholder compilation with lexical quote and comment handling.
+2026-11-08T15:26:44.863Z,@lp-labs/srt-codec,0.1.0,libinprasanth,MIT,25076,Robust SubRip (SRT) subtitle parser and formatter with millisecond timestamps.
+2026-11-08T15:26:50.68Z,@lp-labs/sse-client,0.1.0,libinprasanth,MIT,17423,A bounded Server-Sent Events parser and deterministic reconnect-delay core.
+2026-11-08T15:26:51.611Z,@vanillabp/bc-module-kit,0.1.0-snapshot.0,vanillabp,Apache-2.0,58032,"The module's side of the contract between a VanillaBP Business Cockpit and a workflow module: bc-manifest.json, bc-check-entries, the event protocol and the names of the entries."
+2026-11-08T15:26:56.124Z,@lp-labs/stable-line-unique,0.1.0,libinprasanth,MIT,6282,Removes duplicate lines while retaining first-seen order.
+2026-11-08T15:27:01.531Z,@lp-labs/stable-partition,0.1.0,libinprasanth,MIT,6459,Partitions array values into matching and nonmatching groups without reordering.
+2026-11-08T15:27:01.734Z,@vanillabp/bc-module-host,0.1.0-snapshot.0,vanillabp,Apache-2.0,35300,"A minimal host which loads the parts of VanillaBP workflow modules the way a Business Cockpit does. For tests of a module, not for production."
+2026-11-08T15:27:07.005Z,@lp-labs/stable-softmax,0.1.0,libinprasanth,MIT,7991,Stable softmax probabilities with configurable temperature.
+2026-11-08T15:27:12.249Z,@lp-labs/stable-unique,0.1.0,libinprasanth,MIT,6508,Returns first occurrences from an array using a caller-defined identity key.
+2026-11-08T15:27:17.732Z,@lp-labs/stacktrace-parser,0.1.0,libinprasanth,MIT,9463,Bounded JavaScript V8 and Firefox stack trace parsing.
+2026-11-08T15:27:23.575Z,@lp-labs/stair-layout,0.1.0,libinprasanth,MIT,8217,Equal-rise stair geometry for caller-chosen dimensional constraints.
+2026-11-08T15:27:24.4Z,dsh-novelai,1.0.1,usobmm,MIT,111732,NovelAI 生图接入 DeepSeek Harness：nai_image / nai_status / nai_prompt 三个工具 + 画室页面 + 独立 studio，自带提示词知识库
+2026-11-08T15:27:25.605Z,@hodela/site,0.1.0,rain1007ht,MIT,53429,"Mã chạy chung của website Hodela (truy cập, analytics, phiên quản trị, tài khoản khách, email, SEO, tách SQL). Starter dùng gói này thay vì chép mã vào từng website."
+2026-11-08T15:27:28.986Z,@lp-labs/state-differ,0.1.0,libinprasanth,MIT,19594,Bounded strict JSON snapshot differences with ignored subtrees and explicit paths.
+2026-11-08T15:27:33.222Z,@dsmith-dev/extractor-react-native,0.4.0,dahee86686,MIT,29463,"dsmith extractor for React Native StyleSheet, style arrays and Platform.select"
+2026-11-08T15:27:33.9Z,cannwork-rehearsal-linux-x64-musl,0.5.2,zhoufangchaojs,,279147253,
+2026-11-08T15:27:34.521Z,@lp-labs/state-invariants,0.1.0,libinprasanth,MIT,18395,Bounded cross-field state constraints with deterministic violation reports.
+2026-11-08T15:27:38.434Z,m2aitestkit,0.1.0,mohsinzia,MIT,79642,"Provider-independent regression testing for AI application outputs: structured-output checks, committed recordings, baseline diffs."
+2026-11-08T15:27:40.041Z,@lp-labs/sticker-sheet-editor,0.1.0,libinprasanth,MIT,45830,Bounded independent sticker-sheet-editor layout and geometry primitives.
+2026-11-08T15:27:45.438Z,@lp-labs/stirling-second-kind,0.1.0,libinprasanth,MIT,7361,Exact Stirling set partitions into k nonempty blocks.
+2026-11-08T15:27:50.94Z,@lp-labs/stl-mesh-codec,0.1.0,libinprasanth,MIT,35819,Binary and ASCII STL triangle mesh decoder and encoder with bounds checks and normal handling.
+2026-11-08T15:27:56.557Z,@lp-labs/stock-reorder,0.1.0,libinprasanth,MIT,28907,"EOQ, reorder point, safety stock, and order rounding from caller-supplied inputs."
+2026-11-08T15:28:01.792Z,@lp-labs/stopwatch-model,0.1.0,libinprasanth,MIT,10970,Pure timestamp-driven stopwatch transitions and lap snapshots.
+2026-11-08T15:28:07.077Z,@lp-labs/storage-quota,0.1.0,libinprasanth,MIT,28895,Deterministic storage admission and priority-aware eviction plans with explicit capacity limits.
+2026-11-08T15:28:12.476Z,@lp-labs/story-builder,0.1.0,libinprasanth,MIT,28470,Validated bounded branching story graph with guarded transitions and deterministic playback.
+2026-11-08T15:28:17.912Z,@lp-labs/stream-transform,0.1.0,libinprasanth,MIT,33704,"Pull-based async iterable transformations, bounded joins, cancellation and metrics."
+2026-11-08T15:28:19.553Z,cannwork-rehearsal-linux-x64-baseline-musl,0.5.2,zhoufangchaojs,,277672702,
+2026-11-08T15:28:24.269Z,@lp-labs/strict-zip,0.1.0,libinprasanth,MIT,6489,Zips arrays positionally and rejects unequal lengths.
+2026-11-08T15:28:26.454Z,cbt-emotion-log,1.0.1,ljdavns,MIT-0,35453,"Agent Skill: a CBT thought record you keep just by talking — it supports you first, quietly sorts facts, thoughts and feelings, checks old worries against what actually happened, offers other angles…"
+2026-11-08T15:28:29.71Z,@lp-labs/string-case,0.1.0,libinprasanth,MIT,11224,Unicode letter/number word segmentation and six explicit locale-aware case styles.
+2026-11-08T15:28:34.984Z,@lp-labs/structured-diff,0.1.0,libinprasanth,MIT,25287,Identity-aware bounded structural comparison with explicit move reporting.
+2026-11-08T15:28:40.3Z,@lp-labs/structured-logging,0.1.0,libinprasanth,MIT,22016,"Bounded, explicit structured-logging utilities with injected adapters and deterministic policies."
+2026-11-08T15:28:45.831Z,@lp-labs/subscription-proration,0.1.0,libinprasanth,MIT,28804,UTC calendar-date monthly billing periods and exact proration in integer cents.
+2026-11-08T15:28:51.428Z,@lp-labs/subtitle-timing,1.0.0,libinprasanth,MIT,33396,"Subtitle cue shift, scale, split, clip, overlap and interval operations on millisecond times."
+2026-11-08T15:28:56.65Z,@lp-labs/sudoku-grid,0.1.0,libinprasanth,MIT,12307,"Standard nine-by-nine Sudoku validation, candidates and bounded solver."
+2026-11-08T15:29:01.816Z,@lp-labs/suffix-array,0.1.0,libinprasanth,MIT,14930,"Prefix-doubling UTF-16 suffix index with Kasai LCP, binary-search lookup and bounded result arrays."
+2026-11-08T15:29:04.39Z,cannwork-rehearsal-linux-arm64-musl,0.5.2,zhoufangchaojs,,273899433,
+2026-11-08T15:29:07.012Z,@lp-labs/superellipse-curve,0.1.0,libinprasanth,MIT,7519,Signed-power superellipse coordinate parameterization.
+2026-11-08T15:29:12.327Z,@lp-labs/svg-transform-matrix,0.1.0,libinprasanth,MIT,12513,Bounded SVG transform-list parser and affine point application for standard 2D transform functions.
+2026-11-08T15:29:17.744Z,@lp-labs/svg-viewbox-mapper,0.1.0,libinprasanth,MIT,10028,"Maps SVG viewBox coordinates into viewport coordinates with meet, slice and alignment rules."
+2026-11-08T15:29:23.052Z,@lp-labs/sync-observability,0.1.0,libinprasanth,MIT,19516,Bounded numeric synchronization metrics and payload-free diagnostics.
+2026-11-08T15:29:25.34Z,@coderbabasi/shared,0.1.0,coderbabacli,MIT,8878,"Shared types, model ids, and error codes for CoderBaba"
+2026-11-08T15:29:28.409Z,@lp-labs/sync-protocol-kit,0.1.0,libinprasanth,MIT,40957,"Versioned synchronization message contracts, validation, and capability negotiation."
+2026-11-08T15:29:34.8Z,@lp-labs/table-model,0.1.0,libinprasanth,MIT,23627,Validated span-aware table layout and atomic cell operations.
+2026-11-08T15:29:40.11Z,@lp-labs/tap-code,0.1.0,libinprasanth,MIT,7901,Five-by-five tap coordinate text with documented C/K conflation.
+2026-11-08T15:29:45.578Z,@lp-labs/task-checkpoint,0.1.0,libinprasanth,MIT,20250,"Canonical bounded JSON task checkpoint serialization, checksum, and validation without persistence."
+2026-11-08T15:29:48.376Z,cannwork-rehearsal-darwin-x64-baseline,0.5.2,zhoufangchaojs,,220774719,
+2026-11-08T15:29:51.62Z,@lp-labs/tax-calculation-core,0.1.0,libinprasanth,MIT,15254,"Caller-policy tax arithmetic with explicit bases, rounding and explainable breakdowns."
+2026-11-08T15:29:56.966Z,@lp-labs/template-data-binding,0.1.0,libinprasanth,MIT,31406,Bounded typed data binding with safe paths and injected transforms.
+2026-11-08T15:30:02.57Z,@lp-labs/template-document,0.1.0,libinprasanth,MIT,24330,Bounded safe-path text templates with loops and conditions.
+2026-11-08T15:30:07.765Z,@lp-labs/tempo-map,0.1.0,libinprasanth,MIT,10449,Copied piecewise-constant tempo maps with beat/time inverse lookup.
+2026-11-08T15:30:36.298Z,@ohos-ports/consta-uikit,5.33.3-beta.1,ljry,,8795999,Set of visual components (UI kit) of the Consta design system (Gazprom Neft) — HarmonyOS SSR-safe port
+2026-11-08T15:31:14.712Z,dsh-grokbot,0.0.1,aicivilization,MIT,510,Reserved placeholder for dsh-grokbot — a Grok-backed bot plugin for DeepSeek Harness. By AIcivilization.
+2026-11-08T15:31:30.395Z,@sinecloud/cli,0.1.0,liziyu1209,MIT,119030,"Sine Cloud command line client: sign in with device authorization and call every published Agents, Box, Powers and Gateway API operation."
+2026-11-08T15:31:34.361Z,browser-chess-engine,0.1.0,yaksh-loopcheck,MIT,166384,Browser bindings for the WebAssembly chess engine.
+2026-11-08T15:31:48.371Z,@lp-labs/temporal-state,0.1.0,libinprasanth,MIT,23571,Bounded append-only keyed history with point-in-time queries and explicit compaction.
+2026-11-08T15:31:54.157Z,@lp-labs/tenant-boundaries,0.1.0,libinprasanth,MIT,12134,Collision-proof tenant/resource keys and exact-tenant guarded in-memory boundaries.
+2026-11-08T15:31:59.919Z,@lp-labs/text-codepoint-reverser,0.1.0,libinprasanth,MIT,5734,Reverses a string by Unicode code point.
+2026-11-08T15:32:05.613Z,@lp-labs/text-entropy,0.1.0,libinprasanth,MIT,7832,Shannon entropy and symbol-frequency statistics over Unicode code points.
+2026-11-08T15:32:11.836Z,@lp-labs/text-fit-engine,0.1.0,libinprasanth,MIT,21658,Verified bounded text fitting with injected font measurement.
+2026-11-08T15:32:17.214Z,@lp-labs/text-mask,0.1.0,libinprasanth,MIT,7489,Masks a configurable number of Unicode code points while retaining a selected edge.
+2026-11-08T15:32:21.928Z,@marvinribeiro_/ignity,2.0.0-alpha.0,marvinribeiro_,MIT,133359,Framework agêntico para criar sites WordPress + Elementor com Claude Code e Codex.
+2026-11-08T15:32:22.552Z,@lp-labs/text-similarity-metrics,0.1.0,libinprasanth,MIT,7956,Token-set Jaccard and term-frequency cosine similarity for bounded text inputs.
+2026-11-08T15:32:27.906Z,@lp-labs/text-template-renderer,0.1.0,libinprasanth,MIT,8009,Non-evaluating nested-path text interpolation with explicit missing-value errors.
+2026-11-08T15:32:33.015Z,@visuno/react,0.1.0,koblers,MIT,5337238,"Visuno UI components for React — one design across Vanilla, React, Angular and Flutter, driven by shared design tokens."
+2026-11-08T15:32:33.201Z,@lp-labs/text-tokenizer,0.1.0,libinprasanth,MIT,17684,Bounded finite-category Unicode text tokenizer with quoted literals and UTF-16 source spans.
+2026-11-08T15:32:38.482Z,@lp-labs/text-truncate,0.1.0,libinprasanth,MIT,6975,Truncates text by Unicode code points with a caller-provided suffix.
+2026-11-08T15:32:43.707Z,@lp-labs/text-unified-diff,0.1.0,libinprasanth,MIT,16241,Bounded unified text diff generation and verified application.
+2026-11-08T15:32:43.867Z,@visuno/angular,0.1.0,koblers,MIT,8732775,"Visuno UI components for Angular — one design across Vanilla, React, Angular and Flutter, driven by shared design tokens."
+2026-11-08T15:32:49.091Z,@lp-labs/text-wrap,0.1.0,libinprasanth,MIT,11941,Greedy paragraph-preserving word wrapping with supplied width measurement and explicit long-word policies.
+2026-11-08T15:32:50.979Z,gpuijs-darwin-arm64,0.1.0,abeldzan,MIT,19085680,The gpuijs native host for macOS (arm64)
+2026-11-08T15:32:54.581Z,@lp-labs/tga-image-codec,0.1.0,libinprasanth,MIT,25122,Truevision TGA 24/32-bit truecolor decoder and encoder with orientation and optional RLE.
+2026-11-08T15:32:59.712Z,@lp-labs/thermal-expansion,0.1.0,libinprasanth,MIT,8437,Ideal constant-coefficient linear and isotropic expansion.
+2026-11-08T15:32:59.858Z,gpuijs-darwin-x64,0.1.0,abeldzan,MIT,19851168,The gpuijs native host for macOS (x64)
+2026-11-08T15:33:05.066Z,@lp-labs/tictactoe-engine,0.1.0,libinprasanth,MIT,10320,"Immutable standard 3×3 tic-tac-toe moves, turn validation and game-state detection."
+2026-11-08T15:33:10.354Z,@lp-labs/tile-coordinates,0.1.0,libinprasanth,MIT,13196,"Bounded, dependency-free tile coordinates algorithms with explicit numeric contracts."
+2026-11-08T15:33:15.662Z,@wrikka/fx,0.4.0,newkubise,MIT,30680706,"Lightweight typed effect system for Wrikka projects — lazy, composable, error-typed effects"
+2026-11-08T15:33:15.968Z,@lp-labs/tile-quantity,0.1.0,libinprasanth,MIT,9366,Aligned rectangular tile-grid and box counts.
+2026-11-08T15:33:18.139Z,ignity-web,2.0.0-alpha.0,marvinribeiro_,MIT,133179,Framework agêntico para criar sites WordPress + Elementor com Claude Code e Codex.
+2026-11-08T15:33:21.579Z,@lp-labs/time-series-index,0.1.0,libinprasanth,MIT,21711,A bounded in-memory sorted index for timestamped numeric series.
+2026-11-08T15:33:26.846Z,@lp-labs/timecode-toolkit,0.1.0,libinprasanth,MIT,16677,"Exact integer-frame conversion for rational frame rates, including validated SMPTE 29.97/59.94 drop-frame."
+2026-11-08T15:33:32.399Z,@lp-labs/timestamp-converter,0.1.0,libinprasanth,MIT,7380,"Converts between Unix seconds, milliseconds and validated ISO timestamps."
+2026-11-08T15:33:37.625Z,@lp-labs/timezone-offset-parser,0.1.0,libinprasanth,MIT,7678,Parses a fixed numeric UTC offset into signed minutes east of UTC.
+2026-11-08T15:33:43.122Z,@lp-labs/tire-dimensions,0.1.0,libinprasanth,MIT,10181,Strict metric tire notation and nominal size comparison.
+2026-11-08T15:33:47.794Z,@lp-labs/toast-timeline,0.1.0,libinprasanth,MIT,13440,Deterministic pausable toast lifetimes and stable height-aware stacking plans.
+2026-11-08T15:33:53.226Z,@lp-labs/token-bucket,0.1.0,libinprasanth,MIT,13470,Fractional local token accounting with cancellable burst reservations.
+2026-11-08T15:33:58.349Z,@lp-labs/top-k-selector,0.1.0,libinprasanth,MIT,6740,Selects the highest-ranked K elements with stable tie ordering.
+2026-11-08T15:34:03.286Z,@lp-labs/torus-measures,0.1.0,libinprasanth,MIT,7651,Ring-torus volume and surface geometry.
+2026-11-08T15:34:08.424Z,@lp-labs/tournament-standings,0.1.0,libinprasanth,MIT,12011,Deterministic points-table aggregation from scored matches.
+2026-11-08T15:34:13.722Z,@lp-labs/trace-context,0.1.0,libinprasanth,MIT,18667,"Bounded, explicit trace-context utilities with injected adapters and deterministic policies."
+2026-11-08T15:34:19.039Z,@lp-labs/transactional-store,0.1.0,libinprasanth,MIT,20591,A bounded in-memory key-value store with atomic staged transactions.
+2026-11-08T15:34:24.321Z,@lp-labs/translation-workflow,0.1.0,libinprasanth,MIT,17956,"Bounded translation catalog diffs, placeholder checks, and review metadata."
+2026-11-08T15:34:28.68Z,autorunqa-runner,1.0.0,shawn_oro,MIT,17656,Autorun QA local companion — runs your tests in a real browser via Playwright.
+2026-11-08T15:34:29.024Z,@lp-labs/transliteration-search,0.1.0,libinprasanth,MIT,23260,Caller-table transliteration and bounded literal search with original UTF-16 interval mapping.
+2026-11-08T15:34:33.656Z,@lp-labs/tree-selection,0.1.0,libinprasanth,MIT,14519,Dynamic hierarchical leaf selection with derived tri-state and disabled-subtree contracts.
+2026-11-08T15:34:38.869Z,@lp-labs/triangle-metrics,0.1.0,libinprasanth,MIT,7353,Classifies triangle side lengths and computes area using Heron’s formula.
+2026-11-08T15:34:44.056Z,@lp-labs/triangular-distribution,0.1.0,libinprasanth,MIT,9956,"Interior-mode triangular density,CDF and inverse."
+2026-11-08T15:34:49.881Z,@lp-labs/tridiagonal-solver,0.1.0,libinprasanth,MIT,9261,Linear-time Thomas algorithm for bounded tridiagonal systems.
+2026-11-08T15:34:55.212Z,@lp-labs/trie-search-index,0.1.0,libinprasanth,MIT,7579,Case-insensitive prefix lookup over a stable set of text terms.
+2026-11-08T15:34:59.445Z,@wrikka/web-server-toolkit,0.2.0,newkubise,MIT,1055442,"Production-ready web server library with file-system routing, AOT compilation, and universal runtime support built on Bun and Web Standards"
+2026-11-08T15:35:00.352Z,@lp-labs/ttl-map,0.1.0,libinprasanth,MIT,18573,An entry-bounded expiring Map with an indexed minimum-deadline heap and an injected clock.
+2026-11-08T15:35:05.811Z,@lp-labs/typed-rpc,0.1.0,libinprasanth,MIT,27481,"Typed local procedure dispatch with runtime validation hooks, cancellation and bounded batches."
+2026-11-08T15:35:14.215Z,universe-generator,0.0.0,markrogers,MIT,1665582,"Seeded galaxies, star systems, planets and moons: the same universe as the C# and Unity UniverseGenerator for the same seed. Zero dependencies, TypeScript, ESM and CommonJS, Node 20+."
+2026-11-08T15:35:16.499Z,@ohos-ports/coder-code-server-pr,4.1.0-beta.0,ljry,MIT,240843025,Run VS Code on a remote server.
+2026-11-08T15:35:28.987Z,orcacompass,0.1.0,manomilano,Apache-2.0,318385,Usage-aware agent/model/effort routing for Orca coordinator agents
+2026-11-08T15:35:33.872Z,retrohound,0.1.0,raman-kr1,Apache-2.0,484298,"Audit what your AI coding agent did: Sigma rules over Claude Code, Codex and Antigravity transcripts, local and offline."
+2026-11-08T15:35:56.711Z,@dawn0608/dsh-cost-overview,1.0.1,hu_dawn,MIT,160822,Shows the current session cost at official unit prices and the DeepSeek account balance beside composer stats.
+2026-11-08T15:36:00.985Z,@gtable/cli,0.3.0,guillaume_duv,,1162217,"gtable from a terminal, a CI job, or an AI agent: organisations, suites, apps, users, rules, records."
+2026-11-08T15:36:03.481Z,@wrikka/integrations,1.0.0,newkubise,MIT,552126,"Integration adapters for Wrikka (Stripe, GitHub, Supabase, Cloudflare)"
+2026-11-08T15:36:34.621Z,@lp-labs/ui-components,1.0.0,libinprasanth,MIT,918332,A comprehensive hybrid UI component library with utilities and theming support. Includes pre-built components and customizable utilities.
+2026-11-08T15:36:40.117Z,@lp-labs/ulid-codec,0.1.0,libinprasanth,MIT,20333,Strict ULID text and byte codecs with monotonic 48-bit timestamp/80-bit randomness generation.
+2026-11-08T15:36:59.801Z,@lp-labs/undo-command-stack,0.1.0,libinprasanth,MIT,12104,FIFO-serialized asynchronous command execute/undo/redo with explicit failure compensation and bounded history.
+2026-11-08T15:37:04.803Z,@lp-labs/unicode-bom-detector,0.1.0,libinprasanth,MIT,7560,Detects common Unicode byte-order marks at the beginning of byte buffers.
+2026-11-08T15:37:07.385Z,@wrikka/solid-framework,0.15.0,newkubise,MIT,1364691,"SolidJS fullstack meta-framework — file routes, loaders, actions, SSR/stream/islands, server functions, auth, realtime, ops probes, AI surface (llms.txt+MCP), stores, query, hooks, devtools"
+2026-11-08T15:37:10.127Z,@lp-labs/unicode-category-tools,0.1.0,libinprasanth,MIT,8647,"Unicode code-point classification counts for letters, marks, numbers, whitespace and symbols."
+2026-11-08T15:37:11.774Z,n8n-nodes-topsms,0.1.0,topsms,MIT,68080,"n8n community node for TopSMS (topsms.eu, topsms.cz): send and schedule SMS, bulk SMS, OTP verification codes, delivery status and credit balance."
+2026-11-08T15:37:15.37Z,@lp-labs/unicode-escape-codec,0.1.0,libinprasanth,MIT,7984,Unicode code-point escape encoding and decoding with strict scalar validation.
+2026-11-08T15:37:20.749Z,@lp-labs/unicode-escapes,0.1.0,libinprasanth,MIT,9353,Printable-ASCII Unicode scalar escape transport.
+2026-11-08T15:37:26.677Z,@lp-labs/unicode-normalizer,0.1.0,libinprasanth,MIT,6485,Normalizes Unicode strings using an explicit canonical or compatibility form.
+2026-11-08T15:37:32.269Z,@lp-labs/unicode-scalar-iterator,0.1.0,libinprasanth,MIT,5887,Splits a string into Unicode code-point strings.
+2026-11-08T15:37:37.598Z,@lp-labs/unicode-whitespace-test,0.1.0,libinprasanth,MIT,5707,Tests whether a string consists only of Unicode whitespace.
+2026-11-08T15:37:42.823Z,@lp-labs/unicode-word-counter,0.1.0,libinprasanth,MIT,5970,Counts Unicode letter-and-number words in text.
+2026-11-08T15:37:47.944Z,@lp-labs/uniform-distribution,0.1.0,libinprasanth,MIT,8526,"Finite-interval uniform density,CDF and quantile."
+2026-11-08T15:37:53.245Z,@lp-labs/unit-system,0.1.0,libinprasanth,MIT,16446,Dimension-checked unit conversion and quantity arithmetic with explicit scales and offsets.
+2026-11-08T15:37:55.601Z,@runa-cmd/create,0.2.0-beta.5,jarpdev,MIT,19086,Create a CLI made with Runa: npm create @runa-cmd my-tool
+2026-11-08T15:37:58.88Z,@lp-labs/unix-second-converter,0.1.0,libinprasanth,MIT,7187,Converts an ISO timestamp to Unix epoch seconds.
+2026-11-08T15:38:04.249Z,@lp-labs/upc-e-codec,0.1.0,libinprasanth,MIT,9353,Strict UPC-E zero-suppressed to UPC-A expansion.
+2026-11-08T15:38:09.508Z,@lp-labs/url-fragment-reader,0.1.0,libinprasanth,MIT,6127,Extracts the decoded fragment from a URL-like string.
+2026-11-08T15:38:14.961Z,@lp-labs/url-origin-parser,0.1.0,libinprasanth,MIT,6411,Extracts the origin from an absolute URL.
+2026-11-08T15:38:17.845Z,upscale4k,0.1.0,diepdenday93,UNLICENSED,84290,Upscale short videos to 4K with Upscale4K from the terminal or any MCP-capable AI agent.
+2026-11-08T15:38:20.767Z,@lp-labs/url-path-joiner,0.1.0,libinprasanth,MIT,7564,Joins URL path segments while preserving leading and trailing slash intent.
+2026-11-08T15:38:25.972Z,@lp-labs/url-path-segment-codec,0.1.0,libinprasanth,MIT,6898,Percent-encodes and decodes one URL path segment.
+2026-11-08T15:38:26.496Z,@krngl/ac-infinity-client,0.3.2,krngl,GPL-3.0-or-later,125993,
+2026-11-08T15:38:31.219Z,meminbox,0.3.0,daaquan,MIT,77930,"Shared memory for AI agents: Markdown documents in your own Supabase project are the source of truth; vector chunks are a rebuildable derived index. Agents connect over MCP, writes land in an inbox w…"
+2026-11-08T15:38:31.346Z,@lp-labs/url-query-codec,0.1.0,libinprasanth,MIT,12871,Strict percent-encoded query pairs with repeated values and safe maps.
+2026-11-08T15:38:36.745Z,@lp-labs/url-query-value-codec,0.1.0,libinprasanth,MIT,6212,Reads one named URL query value from an absolute or relative URL.
+2026-11-08T15:38:41.931Z,@lp-labs/utc-calendar-day-adder,0.1.0,libinprasanth,MIT,7647,Adds an integer number of calendar days to a strict ISO date.
+2026-11-08T15:38:47.142Z,@lp-labs/utc-date-comparator,0.1.0,libinprasanth,MIT,7291,Compares two strict ISO calendar dates chronologically.
+2026-11-08T15:38:52.562Z,@lp-labs/utc-date-range,0.1.0,libinprasanth,MIT,7995,Enumerates an inclusive range of strict ISO dates.
+2026-11-08T15:38:55.235Z,@sentiogate/mcp,1.0.1,hushamdev,Apache-2.0,19375,Official Model Context Protocol (MCP) server for SentioGate BYOK LLM router & FinOps control plane
+2026-11-08T15:38:58.007Z,@lp-labs/utc-day-of-year,0.1.0,libinprasanth,MIT,7003,Returns the one-based day number within a Gregorian year.
+2026-11-08T15:39:03.61Z,@lp-labs/utc-month-day-count,0.1.0,libinprasanth,MIT,6822,Counts calendar days between two strict ISO dates.
+2026-11-08T15:39:08.713Z,@lp-labs/utf8-byte-counter,0.1.0,libinprasanth,MIT,5909,Counts the UTF-8 bytes required to encode a string.
+2026-11-08T15:39:10.512Z,@olink-home/ui,0.5.0,olink-home,,136446,Olink shared React UI components for host and plugins
+2026-11-08T15:39:14.518Z,@lp-labs/utf8-stream-codec,0.1.0,libinprasanth,MIT,14375,Fatal incremental UTF-8 decoding and bounded Unicode encoding.
+2026-11-08T15:39:19.844Z,@lp-labs/uuencode-line,0.1.0,libinprasanth,MIT,9895,Canonical single-line uuencoded payload without file headers.
+2026-11-08T15:39:25.63Z,@lp-labs/uuid-codec,0.1.0,libinprasanth,MIT,23161,"Strict UUID byte/text codecs, version/variant inspection and original RFC9562 v4/v7 generation."
+2026-11-08T15:39:31.548Z,@lp-labs/validation-messages,0.1.0,libinprasanth,MIT,18050,Bounded locale-supplied validation templates with escaping and plural choices.
+2026-11-08T15:39:38.9Z,@lp-labs/varint-codec,0.1.0,libinprasanth,MIT,13326,Canonical bounded bigint unsigned and zigzag variable-length integers.
+2026-11-08T15:39:44.644Z,@lp-labs/vcard-codec,0.1.0,libinprasanth,MIT,23327,"Bounded text-only vCard 3.0/4.0 parsing and serialization with escaping, unfolding and UTF-8 octet folding."
+2026-11-08T15:39:50.501Z,@lp-labs/vector-geometry,0.1.0,libinprasanth,MIT,32178,"Bounded line, polyline, and quadratic/cubic Bezier geometry utilities."
+2026-11-08T15:39:54.852Z,pi-jewter,0.3.0,bobuk,MIT,203571,"Role- and tier-aware model routing for Pi: Jev picks a role and tier per request, with a visible decision trail and opt-in selective compaction."
+2026-11-08T15:39:56.224Z,@lp-labs/verhoeff-checksum,0.1.0,libinprasanth,MIT,9214,Verhoeff decimal check digits using the dihedral permutation algorithm.
+2026-11-08T15:40:01.849Z,@lp-labs/vigenere-codec,0.1.0,libinprasanth,MIT,7818,Classical Vigenere letter shifts with explicit key advancement.
+2026-11-08T15:40:07.474Z,@lp-labs/vin-checksum,0.1.0,libinprasanth,MIT,8103,North American VIN check digit computation and validation.
+2026-11-08T15:40:12.54Z,@lp-labs/virtual-grid,0.1.0,libinprasanth,MIT,16777,"Two-axis variable-metric virtual grid with prefix searches, updates and bounded cell windows."
+2026-11-08T15:40:17.948Z,@lp-labs/virtual-surface,0.1.0,libinprasanth,MIT,15505,Headless variable-size viewport ranges with stable scroll-anchor restoration.
+2026-11-08T15:40:23.53Z,@lp-labs/virtual-time,0.1.0,libinprasanth,MIT,18833,Controlled synchronous timers with deterministic advancement and bounded execution.
+2026-11-08T15:40:29.463Z,@lp-labs/wallpaper-rolls,0.1.0,libinprasanth,MIT,8960,Straight-match wallpaper drop and roll procurement estimates.
+2026-11-08T15:40:35.16Z,@lp-labs/wav-codec,0.1.0,libinprasanth,MIT,31754,Bounded RIFF/WAVE PCM16 and float32 decoder and encoder with chunk walking and odd-size padding.
+2026-11-08T15:40:40.419Z,@lp-labs/web-app-manifest-validator,0.1.0,libinprasanth,MIT,12103,Dependency-free validator for a deliberately bounded subset of Web App Manifest JSON.
+2026-11-08T15:40:46.839Z,@lp-labs/webhook-runtime,0.1.0,libinprasanth,MIT,23596,"Webhook input bounds, exact timestamp freshness checks and injected signature/replay adapters."
+2026-11-08T15:40:53.16Z,@lp-labs/websocket-session,0.1.0,libinprasanth,MIT,19012,A bounded WebSocket session and reconnect state machine for injected transports.
+2026-11-08T15:40:59.307Z,@lp-labs/webvtt-codec,0.1.0,libinprasanth,MIT,38136,"Explicit WebVTT subset parser and formatter for cues, settings, NOTE blocks and text escaping."
+2026-11-08T15:41:05.318Z,@lp-labs/weekday-index,0.1.0,libinprasanth,MIT,6935,Returns the UTC weekday index for a strict ISO calendar date.
+2026-11-08T15:41:09.511Z,fixtureflow,0.1.0,mohsinzia,MIT,213650,"Relationship-aware, deterministic test fixtures: declare entities and relations once, generate whole coherent object graphs from a seed."
+2026-11-08T15:41:11.303Z,@lp-labs/weekday-sequence,0.1.0,libinprasanth,MIT,7974,Lists matching weekdays from an inclusive UTC date range.
+2026-11-08T15:41:16.98Z,@lp-labs/weekend-calendar,0.1.0,libinprasanth,MIT,6968,Checks whether an ISO date falls on Saturday or Sunday.
+2026-11-08T15:41:22.368Z,@lp-labs/weibull-distribution,0.1.0,libinprasanth,MIT,8850,"Weibull survival,CDF and finite inverse quantiles."
+2026-11-08T15:41:28.317Z,@lp-labs/weighted-cycle,0.1.0,libinprasanth,MIT,7543,Expands bounded weighted entries into a deterministic repeating schedule.
+2026-11-08T15:41:28.93Z,@gpuijs/darwin-arm64,0.1.0,abeldzan,MIT,19085681,The gpuijs native host for macOS (arm64)
+2026-11-08T15:41:33.595Z,@liveface/avatar,0.1.0,sadeghianme,SEE LICENSE IN LICENSE,330786,"Liveface's talking avatar for any site: <liveface-avatar>, mountAvatar(), and React and Vue components"
+2026-11-08T15:41:33.961Z,@lp-labs/weighted-quantile,0.1.0,libinprasanth,MIT,9503,Explicit inverse weighted empirical distribution quantiles.
+2026-11-08T15:41:36.346Z,@gpuijs/darwin-x64,0.1.0,abeldzan,MIT,19851169,The gpuijs native host for macOS (x64)
+2026-11-08T15:41:39.91Z,@lp-labs/weighted-quantiles,0.1.0,libinprasanth,MIT,8242,Inverse weighted empirical quantile selection with explicit observation weights.
+2026-11-08T15:41:39.928Z,@gpuijs/core,0.1.0,abeldzan,MIT,328069,"React, Vue and Solid apps rendered natively by GPUI"
+2026-11-08T15:41:45.681Z,@lp-labs/whitespace-normalizer,0.1.0,libinprasanth,MIT,6414,Normalizes Unicode whitespace runs and trims text under an explicit policy.
+2026-11-08T15:41:47.872Z,@capybara-hq/device,0.1.0-rc.0,zkit,Apache-2.0,169882,capybara-device: connects a laptop or server to a Capybara deployment as an environment
+2026-11-08T15:41:51.787Z,@lp-labs/wind-chill,0.1.0,libinprasanth,MIT,7619,Bounded Canadian/US wind-chill formula with explicit units.
+2026-11-08T15:42:12.494Z,@lp-labs/word-boundary-trimmer,0.1.0,libinprasanth,MIT,6448,Truncates text at a word boundary near a target character limit.
+2026-11-08T15:42:17.793Z,@lp-labs/word-editor-core,0.1.0,libinprasanth,MIT,20388,"Transactional rich-text blocks, run selections, commands, and bounded undo history."
+2026-11-08T15:42:23.548Z,@lp-labs/word-footnotes,0.1.0,libinprasanth,MIT,13287,"Footnote references with numbering, backlink integrity, moves, and deletion."
+2026-11-08T15:42:25.621Z,@coderbabasi/core,0.1.0,coderbabacli,MIT,100617,"UI-free agent loop, tools, and API client for CoderBaba"
+2026-11-08T15:42:28.394Z,coderbaba,0.1.0,coderbabacli,MIT,39076,Beginner-friendly terminal coding agent
+2026-11-08T15:42:29.021Z,@lp-labs/word-frequency-index,0.1.0,libinprasanth,MIT,7501,Unicode-aware case-insensitive word counts with deterministic ranking and minimum-frequency filtering.
+2026-11-08T15:42:34.602Z,@lp-labs/word-header-footer,0.1.0,libinprasanth,MIT,13193,First/even/odd section furniture selection for explicit page assignments.
+2026-11-08T15:42:40.092Z,@lp-labs/word-mail-merge,0.1.0,libinprasanth,MIT,10192,Strict named-field mail merge with bounded records and HTML-safe substitutions.
+2026-11-08T15:42:45.89Z,@lp-labs/word-outline,0.1.0,libinprasanth,MIT,11850,Heading outline trees with subtree reordering and stable multilevel numbering.
+2026-11-08T15:42:51.657Z,@lp-labs/word-review-comments,0.1.0,libinprasanth,MIT,18305,"Anchored comment threads with replies, resolution revisions, and diagnostics."
+2026-11-08T15:42:57.702Z,@lp-labs/word-styles,0.1.0,libinprasanth,MIT,14258,Cycle-safe named word-style inheritance with deterministic CSS output.
+2026-11-08T15:43:03.507Z,@lp-labs/word-tables,0.1.0,libinprasanth,MIT,17772,Rectangular word-processing tables with validated merge and split operations.
+2026-11-08T15:43:09.076Z,@lp-labs/word-track-changes,0.1.0,libinprasanth,MIT,14258,Explicit proposed insertions/deletions with deterministic accept and reject.
+2026-11-08T15:43:16.452Z,@lp-labs/worker-rpc,0.1.0,libinprasanth,MIT,37072,Typed dependency-free RPC over workers and message ports with cancellation and transferables.
+2026-11-08T15:43:22.445Z,@lp-labs/workflow-migrations,0.1.0,libinprasanth,MIT,29978,"Validated, non-mutating workflow migration previews with explicit per-instance exceptions."
+2026-11-08T15:43:28.173Z,@lp-labs/workflow-runtime,0.1.0,libinprasanth,MIT,17795,A bounded in-memory workflow state machine with validated transitions and snapshots.
+2026-11-08T15:43:34.144Z,@lp-labs/xml-character-reference,0.1.0,libinprasanth,MIT,7862,Encodes and decodes numeric XML character references for valid Unicode scalars.
+2026-11-08T15:43:40.092Z,@lp-labs/xml-name-validator,0.1.0,libinprasanth,MIT,5764,Validates a conservative ASCII XML element name subset.
+2026-11-08T15:43:45.151Z,@lp-labs/xml-text-escape,0.1.0,libinprasanth,MIT,7193,Escapes and decodes the five predefined XML text entities.
+2026-11-08T15:43:51.007Z,@lp-labs/z85-codec,0.1.0,libinprasanth,MIT,9558,ZeroMQ-style Z85 fixed-four-byte block encoding.
+2026-11-08T15:43:53.132Z,dsh-litnotes,1.1.0-alpha.1,coffrabbit,,6648105,"AI-native literature desk for DeepSeek Harness: a local library, MinerU/local parsing, a bilingual reading desk, grounded AI conversation that marks the page, per-paper and library knowledge graphs,…"
+2026-11-08T15:43:56.692Z,@lp-labs/zero-crossings,0.1.0,libinprasanth,MIT,7297,Sign-change sample indices with explicit zero skipping.
+2026-11-08T15:44:01.98Z,@lp-labs/zip-path-codec,0.1.0,libinprasanth,MIT,46814,"ZIP entry-name, Unicode Path extra field and central-directory name codec with path-safety validation."
+2026-11-08T15:44:26.679Z,magpie-page-model-office,0.1.0,wang48,MIT,217605617,模型在干嘛：以社区拟人角色展示本机 Agent 会话状态的实时 3D 办公室
+2026-11-08T15:44:40.065Z,@t3tris-labs/sdk,0.7.0,blablalf,BUSL-1.1,247104,Typed T3tris API and explicit on-chain actions through one client.
+2026-11-08T15:45:48.352Z,kuvend,0.1.0,lindisylqa,MIT,661822,"A local workspace for your coding agents: chat with Claude Code and Codex in your real project, undo any turn, run your app, and get a second opinion before you ship."
+2026-11-08T15:46:37.914Z,@dudousxd/nestjs-telescope-official,0.1.0,dudousxd,MIT,89965,"NestJS first-party integrations for @dudousxd/nestjs-telescope: the official diagnostics_channel events (resilience, workflows, authentication, authorization, mail), @nestjs/ai usage, and @nestjs/obs…"
+2026-11-08T15:47:05.644Z,@krngl/gopro-http-client,0.2.3,krngl,GPL-3.0,126650,
+2026-11-08T15:47:54.342Z,flexible-layout-tools,1.4.7,stylecss3,MIT,20076,"A configurable, namespaced Animate.css integration for Tailwind CSS"
+2026-11-08T15:48:10.635Z,rooms-bridge,0.2.0,pastagringo,MIT,29599,Pont local entre une session Claude Code et une salle d'agents (MCP + channel).
+2026-11-08T15:48:36.406Z,shoalbase,0.0.0,cherryjimbo,GPL-3.0-or-later,433,"phpMyAdmin, ported to Cloudflare Workers with page-for-page parity."
+2026-11-08T15:48:38.283Z,synapse-db,0.2.3,minseok777,MIT,46074,"Universal Markdown-First & In-Memory Connectome Database with Wikilink Auto-Wiring, Korean N-gram BM25 & Obsidian Canvas Exporter"
+2026-11-08T15:48:58.99Z,@dudousxd/nestjs-durable-workflows-gateway,0.1.0,dudousxd,MIT,85486,"The nestjs-durable dashboard over the official @nestjs/workflows engine — runs, journal timeline, children, retry/cancel and live updates"
+2026-11-08T15:49:03.548Z,@dudousxd/nestjs-durable-workflows-remote,0.1.0,dudousxd,MIT,50471,"Remote steps for the official @nestjs/workflows engine: run a step on a nestjs-durable worker (Node or Python) over durable’s transports, without holding the instance’s lease"
+2026-11-08T15:49:05.85Z,mauritania-geo,1.0.0,cheikhebeoumarr,MIT,344377,"The definitive, zero-runtime-dependency geospatial & administrative dataset for Mauritania: 15 wilayas, 63 moughataas, 238 communes, historical era views and cross-script search."
+2026-11-08T15:51:38.336Z,type-tune,1.0.0,nyaomaru,MIT,12499,Rust CLI for finding shared TypeScript types and moving them safely.
+2026-11-08T15:51:42.986Z,@warpgogol/verbund-integration-spec,0.1.10,warpgogol,UNLICENSED,102684,"Verbund integration specification 0.1.10, published by Lagebild (immutable snapshot)"
+2026-11-08T15:51:45.096Z,@fg-lab/amadeus-core,0.2.0-alpha.6,kyjesko,MIT,13363827,Unified modular Amadeus Core for DSH; development candidate
+2026-11-08T15:51:45.84Z,chatluna-plugin-pansou,0.0.1,arrog1nt,MIT,45737,为 ChatLuna v2 提供 PanSou 网盘资源搜索、提取码与来源展示及网盘分类限量
+2026-11-08T15:51:48.365Z,dsh-visualkit,0.0.1,ikeyuchen,MIT,11695163,视觉设计工具箱（Visual Design Toolkit） — 给工具和框架，不给风格目录：同一套原语（配色/字体/形状/图案/栅格/动效/交互态）可落成 UI、网页、平面、海报与文本版式。含图标检索出码、AI 味评分与返工、排版几何体检、风格规格、本地渲染合成。零外部进程（resvg vendored）。
+2026-11-08T15:51:50.465Z,@melt-js/tpl-qiankun2-vue3-app1,2026.11.8,luo0412,,1543228,qiankun 2 + Vue 3 多 Tab 微前端模板：微应用 App1（UMD + memory history + keep-alive）
+2026-11-08T15:51:53.765Z,scnet-magpie,1.0.0,zhang3776813,MIT,45429,SCNet 超算互联网官方 Magpie 插件：登录 SCNet 账号，让 Magpie 网关里的各 Agent 使用超算互联网的模型服务（DeepSeek、Kimi、GLM、Qwen、SCNet-Max 等）。
+2026-11-08T15:51:54.651Z,@opulcloud/mcp,0.1.0,mdhasnu2,,6542,
+2026-11-08T15:52:16.758Z,@melt-js/tpl-qiankun2-vue3-app2,2026.11.8,luo0412,,1544592,qiankun 2 + Vue 3 多 Tab 微前端模板：微应用 App2（UMD + memory history + 三级路由 keep-alive）
+2026-11-08T15:52:21.81Z,@krngl/mercedes-benz-client,0.1.16,krngl,GPL-3.0-or-later,219630,
+2026-11-08T15:52:40.832Z,dsh-aven-dune,0.2.8,avenyq,MIT,465980,"Dune skin for DeepSeek Harness — warm paper surfaces, switchable text reveal, comet caret, material and typography toggles, per-workspace icons and AI-designed themes"
+2026-11-08T15:52:46.508Z,@melt-js/tpl-qiankun2-vue3-main,2026.11.8,luo0412,,1821234,qiankun 2 + Vue 3 多 Tab 微前端模板：主应用（@xsbcme/vue-tab-router 页签 + loadMicroApp 微应用保活）
+2026-11-08T15:54:11.137Z,@jarome/orchard,0.0.1,jarome,,5183898,本地 AI 工作流工作台。通过本机 Codex CLI / Pi CLI 对话创建流程，发布不可变版本，再用不同输入多次运行并检查各节点结果。
+2026-11-08T15:54:52.93Z,dsh-pocket-ios,0.1.2,longjiaqiuu,GPL-2.0,30098,在 DSH 设置页加入 iOS 客户端下载二维码与连接引导（配合 dsh-pocket + DSH Pocket iOS）
+2026-11-08T15:55:04.834Z,@infinitylib/infinity-theme-vue,0.1.0,fortytwo_dev,MIT,21665,"Vue wrappers for the infinity-theme classes: props and v-model mapped to it-* classes, no styles."
+2026-11-08T15:55:18.082Z,docblocks-core,0.1.0,wereintouch,MIT,327300,"Headless CRDT document engine: schema v1, Doc (commands/transactions/undo), sync providers. Yjs-based, zero UI dependencies."
+2026-11-08T15:55:23.039Z,docblocks-react-ui,0.1.0,wereintouch,MIT,4564298,"React rendering + editing layer for docblocks: hooks, block renderers, caret/selection, keyboard, clipboard."
+2026-11-08T15:55:40.451Z,eyemagic-piece-cloudflare,0.1.0,eyemagic-integrations,MIT,1548363,Activepieces Cloudflare community integration
+2026-11-08T15:56:34.873Z,anti-yapping,0.1.0,humanoiselabs,MIT,158569,Anti-Yapping (+62 Terse & Ponytail Surgical Diffs) layer for AI coding agents
+2026-11-08T15:57:53.211Z,@plawn/strata-contract,0.1.0,plawn,MIT,61811,"Strata provenance contract: graph kinds, edge types, anchors, sentinels, validation (V1 spec)."
+2026-11-08T15:57:55.29Z,@plawn/strata-engine,0.1.0,plawn,MIT,261493,"Strata exploded-view engine: CSS3D layers, semantic zoom, HUD. Framework-agnostic, takes a ProvSource."
+2026-11-08T15:57:56.77Z,@plawn/strata-adapter-react,0.1.0,plawn,MIT,197976,"Strata React adapter: reads the live fiber tree (React 18/19, no build step) and feeds the exploded-view engine."
+2026-11-08T15:57:58.359Z,@plawn/strata-react,0.1.0,plawn,MIT,150537,"Strata for React apps: Vite plugin + Babel plugin for expression-level provenance, and the <StrataOverlay/> component."
+2026-11-08T15:58:28.231Z,memhive,0.1.0,trickstarcandina,MIT,4497507,"Long-term memory for coding agents. Personal by default, shareable through a team hub."
+2026-11-08T15:58:51.166Z,oqqpph-qmgedj,1.0.0,sehdeveloper,,95433015,"Game data used by nebula-flux and its other links. Uploaded once, never changed."
+2026-11-08T15:58:57.033Z,@alion-io/n8n-nodes-alion,0.1.1,dm_maslennikov,MIT,197394,"n8n node for Alion: companies, startups, investors, job postings and pay statistics in your workflows and AI agents. Free without a key for compact searches."
+2026-11-08T15:59:00.513Z,clinguini,0.1.0,feuersteiner,,33747,"A very tiny CLI builder. Native TypeScript, Node.js compatible, zero runtime dependencies."
+2026-11-08T15:59:18.739Z,@cosmemilton/ui,4.1.0,miltoncosme,ISC,14026768,Componentes React para sistemas administrativos — ESM para RSC/Next/Vite e bundle global para uso direto no navegador.
+2026-11-08T16:00:02.05Z,eyemagic-piece-rainforest,0.1.0,eyemagic-integrations,MIT,1548455,Activepieces Rainforest API community integration
+2026-11-08T16:00:13.101Z,eyemagic-piece-keepa,0.1.0,eyemagic-integrations,MIT,1548366,Activepieces Keepa community integration
+2026-11-08T16:00:16.165Z,@kitman-sh/addy-osmani-process,0.10.52,madskronb,UNLICENSED,1310656,Addy Osmani's agent skills for production-focused delivery.
+2026-11-08T16:00:18.064Z,@kitman-sh/backend,0.10.52,madskronb,UNLICENSED,1090847,"Effect, PostgreSQL with Drizzle and Restate. Leaves out the Elysia skill (elysiajs/skills) and the Better Auth skills (better-auth/skills), which carry no license."
+2026-11-08T16:00:18.195Z,eyemagic-piece-sanmar,0.1.0,eyemagic-integrations,MIT,1548666,Activepieces SanMar community integration
+2026-11-08T16:00:20.083Z,@kitman-sh/devops,0.10.52,madskronb,UNLICENSED,1037900,"Kubernetes, GitLab CI, GitOps and Terraform."
+2026-11-08T16:00:22.316Z,@kitman-sh/engineering-practice,0.10.52,madskronb,UNLICENSED,946979,"Superpowers, improve and docster."
+2026-11-08T16:00:22.904Z,eyemagic-piece-nextcloud,0.1.0,eyemagic-integrations,MIT,1549602,Activepieces Nextcloud community integration
+2026-11-08T16:00:24.382Z,@kitman-sh/frontend,0.10.52,madskronb,UNLICENSED,1130483,"Nuxt, Vue, Nuxt UI, frontend design and browser DevTools. Leaves out web-design-guidelines (vercel-labs/agent-skills), whose MIT grant is only in its README, with no license file to copy."
+2026-11-08T16:00:26.189Z,@kitman-sh/go-to-market,0.10.52,madskronb,UNLICENSED,1030931,"Copywriting, marketing psychology and SEO audits."
+2026-11-08T16:00:27.19Z,read-write-homework,1.0.0,andrii_kalie,,764,Promise-based file read and write helpers
+2026-11-08T16:00:27.801Z,eyemagic-piece-windsor-ai,0.1.0,eyemagic-integrations,MIT,1548572,Activepieces Windsor.ai community integration
+2026-11-08T16:00:28.165Z,@kitman-sh/matt-pocock-process,0.10.52,madskronb,UNLICENSED,1119595,Matt Pocock's engineering and productivity skills.
+2026-11-08T16:00:32.058Z,@kitman-sh/ponytail,0.10.52,madskronb,UNLICENSED,16822409,Removes unnecessary code and complexity before implementation and review complete.
+2026-11-08T16:00:32.664Z,eyemagic-piece-metricool,0.1.0,eyemagic-integrations,MIT,1548161,Activepieces Metricool community integration
+2026-11-08T16:00:34.697Z,@kitman-sh/stripe,0.10.52,madskronb,UNLICENSED,1266214,Stripe's skills and MCP server.
+2026-11-08T16:01:01.119Z,@bimco/ecom-api-contracts,0.1.0,anishghosh103,ISC,20207,Shared request/response schemas (zod) and OpenAPI spec for the ecom services
+2026-11-08T16:01:55.697Z,@synchat/contact-form,0.1.1,rafaelmbs,MIT,51759,Embeddable Synchat contact form widget (React + TypeScript).
+2026-11-08T16:02:18.67Z,@timmyjl12/pi-agy-bridge,0.1.0,timmyjl12,MIT,716247,"pi provider for Google Antigravity (agy) models over the official ACP server, modelled on pi-claude-code: pi keeps the loop, history and tool execution"
+2026-11-08T16:02:25.925Z,@framework-cwf/booking-types,0.3.0,davidcompton84,,93588,"Domain types for the booking-api public booking flow (services, availability, cart, checkout, payments, customer portal), lifted from booking-web. Types only — no runtime code."
+2026-11-08T16:02:25.999Z,@framework-cwf/booking-ui,0.3.0,davidcompton84,,904649,"The native booking flow: a framework-agnostic state machine (no React) plus a thin React binding, the BookingStrings dictionary and the BookingSlots contract."
+2026-11-08T16:02:26.174Z,dsh-prompt-trove,0.1.0,linye,MIT,83501,常用提示词库：把反复要说的背景、偏好存成 Markdown，点一下或 @ 追加进输入框
+2026-11-08T16:02:26.17Z,@framework-cwf/booking-client,0.3.0,davidcompton84,,132484,"Typed fetch client for booking-api /v1/* — envelope unwrapping, a typed error union, 401-retry-once via an injected SessionProvider, and client-side idempotency de-duplication. No React."
+2026-11-08T16:02:42.268Z,@timmyjl12/pi-claude-code,0.1.0,timmyjl12,MIT,151143,Experimental pi provider for Claude Pro/Max subscriptions through Claude Code
+2026-11-08T16:03:02.34Z,xmarkdown-renderer,0.2.1,haseebiqbal,MIT,84464,"Markdown for rich AI documents: declarative charts, diagrams, math, widgets, validated SVG, and bounded streaming previews."
+2026-11-08T16:03:10.481Z,chatluna-plugin-music-voice,0.0.1,arrog1nt,MIT,72716,为 ChatLuna v2 提供网易云与 QQ 音乐搜索、音频链接解析和音乐卡片发送工具
+2026-11-08T16:03:25.448Z,@cosmemilton/acbr-node-linux-x64,0.2.1,miltoncosme,LGPL-2.1-or-later,88942516,Motor ACBr linux x64 para @cosmemilton/acbr-node
+2026-11-08T16:03:39.197Z,@pablo-v/alert,0.1.0,pablo-dev,MIT,9728,"Inline status message with tone icon, action and dismiss"
+2026-11-08T16:03:42.541Z,cmap-mcp,0.1.0,cuongtran001,MIT,1915986,"CLI and MCP server for cmap.vn, the culture map of Vietnam"
+2026-11-08T16:04:00.698Z,@timmyjl12/pi-opencode-bridge,0.1.0,timmyjl12,MIT,74371,Owned OpenCode bridge for Pi: registers oc-bridge / oc-go-bridge providers over the local opencode CLI. Free models work without login; all catalog models available. Built-in opencode/opencode-go pro…
+2026-11-08T16:04:00.817Z,@cosmemilton/acbr-node-win32-x64,0.2.1,miltoncosme,LGPL-2.1-or-later,44673637,Motor ACBr win32 x64 para @cosmemilton/acbr-node
+2026-11-08T16:04:02.454Z,localai-hub,1.0.0,l3o,MIT,18670,Gerenciador de IAs Locais
+2026-11-08T16:04:03.022Z,@pablo-v/autocomplete,0.1.0,pablo-dev,MIT,29988,Combobox that filters a list of options as you type
+2026-11-08T16:04:09.13Z,@robertying/thu-learn-lib,5.0.0,robertying,MIT,321711,a JavaScript library to provide a program-friendly interface to Web Learning (2018) of Tsinghua University
+2026-11-08T16:05:12.845Z,@capybara-hq/plugin-telegram,0.1.0-rc.0,zkit,Apache-2.0,73354,"Telegram (channel@1 bot over the Bot API: long polling or webhook, inline keyboard cards)"
+2026-11-08T16:05:12.902Z,@pablo-v/calendar,0.1.0,pablo-dev,MIT,37602,Month calendar grid with keyboard navigation and range selection
+2026-11-08T16:05:24.84Z,glyphora,1.0.0,onury,MIT,87964,"Search your Glyphora icon library from the terminal or a script: the Glyphora Catalog read by coding agents, Favorites first, SVGs out."
+2026-11-08T16:05:37.205Z,@pablo-v/chip,0.1.0,pablo-dev,MIT,10603,Pill chip that can be toggled or removed
+2026-11-08T16:06:01.195Z,@pablo-v/date-field,0.1.0,pablo-dev,MIT,31694,Segmented date input that follows the locale order
+2026-11-08T16:06:24.443Z,@pablo-v/date-picker,0.1.0,pablo-dev,MIT,16615,Date field with a pop-up calendar
+2026-11-08T16:06:47.878Z,@pablo-v/date-range-picker,0.1.0,pablo-dev,MIT,18334,Start and end date fields with a pop-up range calendar
+2026-11-08T16:07:03.798Z,@timmyjl12/pi-supervisor,0.1.0,timmyjl12,MIT,546278,"A second observer built on @timmyjl12/pi-advisor: a live supervisor for pi and Oh My Pi that watches your session as it works and sends advice mid-run on its own model, with an operator-configurable…"
+2026-11-08T16:07:36.989Z,@pablo-v/link,0.1.0,pablo-dev,MIT,6918,Text link with external-link handling
+2026-11-08T16:08:04.137Z,@pablo-v/multi-select,0.1.0,pablo-dev,MIT,19907,Combobox that picks several options shown as chips
+2026-11-08T16:08:05.509Z,@timmyjl12/pi-typeahead,0.3.0,timmyjl12,MIT,228268,"PowerShell-style inline ghost-text autocomplete for the pi prompt editor, ported from oh-my-pi"
+2026-11-08T16:08:11.177Z,@icodehq/icode-agent,0.3.0,oliverxu1996,Apache-2.0,1233158,iCode Agent — a terminal coding agent that works directly in your repository
+2026-11-08T16:08:20.75Z,@nexusmc-cn/nexusstorage,0.1.0,virgil698,MIT,438864,"A typed JSON storage API with Memory, browser storage, TTL and Standard Schema validation."
+2026-11-08T16:08:24.292Z,uniskin,0.0.1,munawar_hussain,MIT,309,"One semantic class vocabulary, swappable Tailwind CSS v4 UI skins. Placeholder, real release coming."
+2026-11-08T16:08:40.557Z,@krngl/ecowitt-soil-moisture-client,0.2.0,krngl,GPL-3.0-or-later,40926,
+2026-11-08T16:09:28.703Z,angel-table,0.1.1,huynguyen3110,,86321,This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+2026-11-08T16:09:46.137Z,@idosgames/game-kit,0.1.0,idosgames,MIT,1054444,"Games as data for the iDosGames platform: the GameSpec format (modes, resources, flows, settings, rewards) with versions and migrations, one registry for blocks, genre presets, links, asset packs and…"
+2026-11-08T16:10:03.708Z,@gitmyabi/supercard,1.0.0,gitmyabi-bot,Apache-2.0,169045,"Auto-generated TypeScript type bindings for SuperCard (build etherscan-supercard-29488e24-1794154188955, commit c50f9ae, branch etherscan)"
+2026-11-08T16:10:35.001Z,@longbm64/kaui,1.1.0,longbm64,SEE LICENSE IN LICENSE,266049,"KAUI CSS Kit for modern Web, React, and Next.js applications"
+2026-11-08T16:11:24.187Z,@corbit2/piece-corbit-sms,1.0.0,corbit2,MIT,447047,"Activepieces piece for Corbit SMS: send SMS (single and bulk), check delivery status and reports, read the balance and sender names."
+2026-11-08T16:12:01.71Z,firsthand-cli,0.0.1,dcohen213,Apache-2.0,11996,"Firsthand: design in your real, running app, not a picture of it. Not released yet; this version only reserves the name."
+2026-11-08T16:12:39.289Z,@vite-pwa/nuxt-vite,0.0.0,userquin,MIT,764,Zero-config PWA for Nuxt with Vite Builder
+2026-11-08T16:13:01.51Z,@vite-pwa/nuxt-core,0.0.0,userquin,MIT,752,Nuxt PWA types and external configuration
+2026-11-08T16:14:16.593Z,dsh-motrix,0.0.1,ikeyuchen,MIT,103801,把本地 Motrix 下载引擎接入 DeepSeek Harness：一个 motrix 网关工具，多线程、断点续传地下载 HTTP/FTP 链接、磁力链与 .torrent，传输在 Motrix 内进行，工具超时或会话中断都不会打断已开始的下载。
+2026-11-08T16:16:16.412Z,opencode-status-plugin,0.0.0-stage,hamster007,,344,Temporary package placeholder for staged publishing
+2026-11-08T16:16:26.144Z,@cortexkit/opencode-sidebar,0.0.0,ismeth,MIT,646,Shared OpenCode sidebar panel for CortexKit plugins (placeholder; the first real release follows)
+2026-11-08T16:16:40.244Z,libfive-wasm,0.0.0-bootstrap.0,mode777,MPL-2.0,271,Bootstrap placeholder for libfive-wasm; superseded by 0.1.0.
+2026-11-08T16:18:23.905Z,@uniquedomains/sdk,0.1.0,gaetanlegac,MIT,2405236,"Typed Node client for the Unique Domains API: domain names, words, TLDs, registrar prices, the domain market, trends and the agenda."
