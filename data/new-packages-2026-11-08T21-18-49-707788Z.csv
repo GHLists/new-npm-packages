@@ -1,0 +1,195 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-08T20:18:58.352Z,@barkbyborders/localization,1.0.0,barkbyborders,MIT,7384,Framework-agnostic TypeScript localization with strongly typed nested translation keys.
+2026-11-08T20:19:03.841Z,@psst-secret/crypto,1.0.2,ch0wm3in,GPL-3.0-only,52979,"Encryption format, link fragments, and reveal tokens for psst-secret whispers"
+2026-11-08T20:19:52.013Z,qik-bridge,0.1.0,qik.ravi,Apache-2.0,103501,"Let your own agent (Claude Code today; Codex CLI, Gemini CLI and OpenCode next) run from any Qik Office room, working in a local folder on your computer. One bridge per computer, for every agent."
+2026-11-08T20:19:52.106Z,@argus-table/react,0.0.1,joessst-dev,MIT,1834,React components for argus-table. Placeholder: the first release is 0.2.0.
+2026-11-08T20:20:01.367Z,hrnet-p14-data-table,1.0.0,geirnaertalan,MIT,14603,"Lightweight, accessible React data table with search, sorting and pagination (replacement for jQuery DataTables in HRnet)"
+2026-11-08T20:20:05.404Z,@argus-table/vue,0.0.1,joessst-dev,MIT,1822,Vue components for argus-table. Placeholder: the first release is 0.2.0.
+2026-11-08T20:20:10.729Z,hrnet-p14-select,1.0.0,geirnaertalan,MIT,7181,Accessible labelled React select (dropdown) component (replacement for the jQuery UI selectmenu in HRnet)
+2026-11-08T20:20:18.152Z,hrnet-p14-date-input,1.0.0,geirnaertalan,MIT,6906,Accessible labelled React date input built on the native date picker (replacement for the jQuery datetimepicker in HRnet)
+2026-11-08T20:20:19.2Z,@argus-table/angular,0.0.1,joessst-dev,MIT,1846,Angular components for argus-table. Placeholder: the first release is 0.2.0.
+2026-11-08T20:20:44.24Z,podaj,0.1.0,hasparus,UNLICENSED,712292,"One-shot encrypted env handoff. Deploy your own Worker, then hand variables over a link."
+2026-11-08T20:22:39.758Z,headlessmc,3.0.0-RC8.1,okafke,MIT,6483,"A command line launcher for Minecraft: Java Edition, runs the game headless, handles mod loaders, mods and servers."
+2026-11-08T20:22:47.849Z,@survivalservers/studio,0.0.0,survivalservers-packages,Apache-2.0,13572,"Survival Servers Studio, game server hosting for studios. The API client is not released yet."
+2026-11-08T20:22:58.274Z,@workerstack/system,0.3.0,lovrozagar,MIT,117871,"Every OS dependency workerstack needs, installed by one command. Define deps in system.config.ts, run system install."
+2026-11-08T20:25:45.059Z,@kitr/core,0.2.1,podkopovp,MIT,137553,"Kitr core: typed registry, provider lifecycle, config, env, errors and the data contract. Zero React runtime."
+2026-11-08T20:25:49.875Z,@kitr/jobs,0.2.1,podkopovp,MIT,81040,"@kitr/jobs: typed background jobs with retries and backoff, cron and interval schedules, a memory queue for development and a Redis queue for several workers."
+2026-11-08T20:25:50.215Z,@kitr/cli,0.2.1,podkopovp,MIT,224237,"The kitr CLI: new, add, remove, make:*, ui add, api:sync, doctor, eject, upgrade. Runs from flags with no prompts for agents and CI."
+2026-11-08T20:25:50.233Z,@kitr/db,0.2.1,podkopovp,MIT,34091,"@kitr/db: bind any ORM (Drizzle, Prisma, Kysely) as ctx.db with lifecycle hooks. No ORM shipped."
+2026-11-08T20:25:50.307Z,@kitr/http,0.2.1,podkopovp,MIT,60864,"@kitr/http: ky re-exported, plus a client with auth, refresh and kitr error normalisation."
+2026-11-08T20:25:50.377Z,@kitr/devtools,0.2.1,podkopovp,MIT,171844,"@kitr/devtools: A panel that shows what every package is doing, opened by a button, a shortcut or a gesture. On in development; one flag ships it."
+2026-11-08T20:25:50.451Z,@kitr/animation,0.2.1,podkopovp,MIT,53331,"@kitr/animation: Motion re-exported, plus reduced-motion defaults, shared presets, scroll reveals and page transitions."
+2026-11-08T20:25:50.471Z,@kitr/i18n,0.2.1,podkopovp,MIT,36417,"@kitr/i18n: react-i18next re-exported, plus typed keys and locale helpers."
+2026-11-08T20:25:50.474Z,@kitr/cache,0.2.1,podkopovp,MIT,53884,"@kitr/cache: a tagged server cache with TTLs, memory, Redis and unstorage drivers; remember() around slow work."
+2026-11-08T20:25:50.522Z,@kitr/3d,0.2.1,podkopovp,MIT,52613,"@kitr/3d: React Three Fiber and drei re-exported, plus a Scene that degrades without WebGL, pauses off screen and adapts its resolution, theme colours for materials and offline model decoders."
+2026-11-08T20:25:50.838Z,@kitr/forms,0.2.1,podkopovp,MIT,56042,"@kitr/forms: React Hook Form re-exported, plus useSchemaForm, <Form>, <FormField> and server-error mapping."
+2026-11-08T20:25:50.866Z,@workerstack/database,0.22.0,lovrozagar,MIT,3884286,"Database framework for Cloudflare D1, PostgreSQL, and SQLite. Schema builders, error handling, D1 sessions, sharding, codegen, migrations."
+2026-11-08T20:25:53.685Z,@kitr/kit-app,0.2.1,podkopovp,MIT,4420,"kitr new --kit app: The smallest app that runs: pages, data loading and styling, nothing else wired yet."
+2026-11-08T20:25:54.93Z,@kitr/kit-dashboard,0.2.1,podkopovp,MIT,4437,"kitr new --kit dashboard: A logged-in app on an external API: http, forms, tables, state, theme, tailwind, auth, mocks, testing."
+2026-11-08T20:25:55.024Z,@kitr/kit-desktop,0.2.1,podkopovp,MIT,9519,kitr new --kit desktop: The app kit in an Electron shell with a typed IPC contract and native dialogs. See the tauri kit for a Tauri shell.
+2026-11-08T20:25:55.221Z,@kitr/kit-fullstack,0.2.1,podkopovp,MIT,4585,"kitr new --kit fullstack: The app kit plus a server-rendered web platform, an API server, actions, api and realtime channels."
+2026-11-08T20:25:55.336Z,@kitr/kit-realtime,0.2.1,podkopovp,MIT,17514,"kitr new --kit realtime: A chat room: typed WebSocket channels that feed the query cache, a messages controller, rooms in the URL."
+2026-11-08T20:25:55.33Z,@kitr/kit-server,0.2.1,podkopovp,MIT,3863,"kitr new --kit server: A pure backend: h3 server, Adonis-style API, logger, db binding, realtime channels. No React in the bundle."
+2026-11-08T20:25:55.448Z,@kitr/kit-tauri,0.2.1,podkopovp,MIT,9483,kitr new --kit tauri: The app kit in a Tauri shell: typed Rust commands and events from the same React app. See the desktop kit for Electron.
+2026-11-08T20:25:55.457Z,@kitr/kit-saas,0.2.1,podkopovp,MIT,43684,"kitr new --kit saas: A logged-in product on its own API: sign-in, a guarded app shell, a projects CRUD with a data table, analytics and monitoring. Server-rendered web plus an API server."
+2026-11-08T20:25:55.4Z,@kitr/kit-mobile,0.2.1,podkopovp,MIT,10157,"kitr new --kit mobile: The app kit as an installable PWA and a Capacitor shell: online state, install prompt, native lifecycle hooks."
+2026-11-08T20:25:55.507Z,@kitr/kit-site,0.2.1,podkopovp,MIT,27429,"kitr new --kit site: A marketing site: server-rendered with prerendering, SEO heads, i18n (en/de), a blog and a newsletter form on a controller."
+2026-11-08T20:25:56.867Z,@kitr/logger,0.2.1,podkopovp,MIT,35890,"@kitr/logger: a tiny structured logger with levels, children and pretty/JSON output. No dependencies."
+2026-11-08T20:25:59.222Z,@kitr/mail,0.2.1,podkopovp,MIT,76193,"@kitr/mail: emails as React components rendered to HTML and text, sent through SMTP, Resend or a log transport, previewed at /_kitr/mail in development."
+2026-11-08T20:25:59.99Z,@kitr/react,0.2.1,podkopovp,MIT,41925,"React bindings for the kitr app: <KitrProvider>, useApp(), useService()."
+2026-11-08T20:26:00.183Z,@kitr/mocks,0.2.1,podkopovp,MIT,36494,"@kitr/mocks: MSW handlers from kitr contracts, for dev and tests."
+2026-11-08T20:26:00.366Z,@kitr/table,0.2.1,podkopovp,MIT,51480,"@kitr/table: TanStack Table re-exported, plus URL-bound table state."
+2026-11-08T20:26:00.558Z,@kitr/seo,0.2.1,podkopovp,MIT,42789,"@kitr/seo: meta and Open Graph tags per route, prerender list, sitemap and robots, cache headers. Works for SSR, static sites, SPAs and PWAs."
+2026-11-08T20:26:00.584Z,@kitr/storage,0.2.1,podkopovp,MIT,88377,@kitr/storage: typed localStorage/sessionStorage items and cookies with one API on the client and the server; SSR-safe React hooks.
+2026-11-08T20:26:00.606Z,@kitr/tailwind,0.2.1,podkopovp,MIT,35764,"@kitr/tailwind: Tailwind v4 wiring, the kitr preset (tokens as @theme) and a tailwind-merge aware cn()."
+2026-11-08T20:26:00.722Z,@kitr/shield,0.2.1,podkopovp,MIT,76577,"@kitr/shield: security headers, CORS, CSRF double-submit cookies and rate limiting as h3 middleware, configured in config/shield.ts."
+2026-11-08T20:26:00.81Z,@kitr/state,0.2.1,podkopovp,MIT,36747,"@kitr/state: Zustand re-exported, plus an SSR-safe store factory."
+2026-11-08T20:26:01.043Z,@kitr/toast,0.2.1,podkopovp,MIT,30814,"@kitr/toast: short messages like ""Saved"" from anywhere in the app, drawn by sonner, with a console fallback outside React."
+2026-11-08T20:26:02.431Z,@kitr/uploads,0.2.1,podkopovp,MIT,99621,"@kitr/uploads: multipart uploads with size and type limits on the server, a disk driver and a driver interface for object storage, and upload progress in the browser."
+2026-11-08T20:26:02.791Z,@kitr/web,0.2.1,podkopovp,MIT,68299,"@kitr/web: the web platform. mode static, spa or ssr, optional PWA; owns the Vite dev server, build, prerendering and the production server."
+2026-11-08T20:26:07.303Z,@kitr/server,0.2.1,podkopovp,MIT,72670,"@kitr/server: the kitr app on h3. Standalone (srvx) or as a fetch handler inside TanStack Start, Nitro or any runtime. No React."
+2026-11-08T20:26:07.68Z,@kitr/consent,0.2.1,podkopovp,MIT,45171,"@kitr/consent: one consent record per visitor, by category, kept in a cookie and read on both sides; analytics and monitoring wait for it."
+2026-11-08T20:26:07.712Z,@kitr/flags,0.2.1,podkopovp,MIT,62022,"@kitr/flags: typed feature flags resolved once per request on the server and handed to the browser, with static, env, OpenFeature and custom providers."
+2026-11-08T20:26:07.938Z,@kitr/analytics,0.2.1,podkopovp,MIT,64404,"@kitr/analytics: one page/track/identify API with Google Analytics, Plausible, PostHog and console adapters; page views from the router."
+2026-11-08T20:26:07.947Z,@kitr/theme,0.2.1,podkopovp,MIT,83230,"@kitr/theme: design tokens and light/dark/system theming with no flash on load, cookie-backed for SSR, synced to the native status bar and window chrome."
+2026-11-08T20:26:07.998Z,@kitr/platform,0.2.1,podkopovp,MIT,134471,"@kitr/platform: one API for where the app runs. platform(), isNative(), app state, online status, back button, deep links, safe areas, and the driver registry devtools panel."
+2026-11-08T20:26:08.039Z,@kitr/router,0.2.1,podkopovp,MIT,202959,"@kitr/router: TanStack Router re-exported, plus the pages extension for the route table (@kitr/router/routes), guards, default pending/error components, createKitrRouter and the stack outlet (@kitr/r…"
+2026-11-08T20:26:08.136Z,@kitr/query,0.2.1,podkopovp,MIT,76986,"@kitr/query: TanStack Query re-exported, plus the data contract, subscriptions and cache effects."
+2026-11-08T20:26:08.251Z,@kitr/testing,0.2.1,podkopovp,MIT,54895,@kitr/testing: createTestApp and a request client for API tests (no React); @kitr/testing/react adds renderWithKitr.
+2026-11-08T20:26:09.299Z,@kitr/vite,0.2.1,podkopovp,MIT,51027,"@kitr/vite: the kitr() Vite plugin. Reads kitrrc.ts and the installed packages' Vite needs: router, React, Tailwind, virtual modules, aliases."
+2026-11-08T20:26:13.895Z,qik-claude,0.1.0,qik.ravi,Apache-2.0,13414,Qik Office bridge for Claude Code: lets your own Claude Code work for you in Qik rooms. Alias of qik-bridge.
+2026-11-08T20:26:19.675Z,qik-codex,0.1.0,qik.ravi,Apache-2.0,13385,Qik Office bridge for Codex CLI: lets your own Codex CLI work for you in Qik rooms. Alias of qik-bridge.
+2026-11-08T20:26:24.645Z,qik-gemini,0.1.0,qik.ravi,Apache-2.0,13399,Qik Office bridge for Gemini CLI: lets your own Gemini CLI work for you in Qik rooms. Alias of qik-bridge.
+2026-11-08T20:26:31.198Z,qik-opencode,0.1.0,qik.ravi,Apache-2.0,13407,Qik Office bridge for OpenCode: lets your own OpenCode work for you in Qik rooms. Alias of qik-bridge.
+2026-11-08T20:26:41.767Z,saascustomdomains,0.1.0,drago.crnjac,MIT,80102,"Command line interface for SaaS Custom Domains: add custom domains with automatic SSL for your SaaS customers, check their DNS and see traffic."
+2026-11-08T20:27:22.867Z,@guarani/identity-provider,1.0.0,guarani,MIT,1189705,"OAuth 2.0, OpenID Connect, User-Managed Access 2.0 and SCIM 2.0 Authorization Server and Identity Provider."
+2026-11-08T20:27:23.857Z,@expressive/rpc,0.1.0,gabeklein,MIT,174286,"Typed server calls for any Vite client build: a folder of async functions, stubs on the client, a Worker or Node server bundle."
+2026-11-08T20:27:25.88Z,@expressive/dev,0.1.0,gabeklein,MIT,213543,"App host for Expressive: expressive dev/build over Vite, file-based routes on @expressive/dom, server calls and server Models."
+2026-11-08T20:27:34.109Z,@bycelium/evidence-diagrams-dom,1.0.0,automathis,Apache-2.0,79012,Native DOM and SVG credibility presentations for Evidence Diagrams.
+2026-11-08T20:27:39.434Z,@futureinnovationslk/wa-kit,0.1.0,futureinnovationslk,MIT,52473,"Interactive messages, carousels, newsletters and rich messages on top of official Baileys - no auto-anything."
+2026-11-08T20:28:41.855Z,archetype-index-sdk,1.0.0,jamesfast,MIT,757808,"Archetype Catalog: a versioned, typed catalog of personality archetypes with profile validation, comparison, and search."
+2026-11-08T20:29:01.516Z,svelte-fit-action,0.1.0,adhiravishankar,MIT,13709,Svelte actions that keep popups inside the viewport (fit) and render them elsewhere in the DOM (portal).
+2026-11-08T20:29:05.751Z,svelte-analog-clock,0.1.0,adhiravishankar,MIT,29986,An analog clock for your Svelte app.
+2026-11-08T20:29:10.291Z,svelte-range-calendar,0.1.0,adhiravishankar,MIT,94832,A calendar with range selection for your Svelte app.
+2026-11-08T20:29:14.739Z,svelte-date-input,0.1.0,adhiravishankar,MIT,66293,"Segmented date, time and datetime input fields for your Svelte app. Base package of svelte-time-input and svelte-datetime-input."
+2026-11-08T20:29:18.905Z,svelte-time-input,0.1.0,adhiravishankar,MIT,7994,Segmented time input fields for your Svelte app.
+2026-11-08T20:29:23.066Z,svelte-datetime-input,0.1.0,adhiravishankar,MIT,7893,Segmented datetime input fields for your Svelte app.
+2026-11-08T20:29:27.399Z,svelte-datetimerange-picker,0.1.0,adhiravishankar,MIT,96789,A datetime range picker for your Svelte app.
+2026-11-08T20:30:03.143Z,@reallroboto/dfs,0.1.0,reallroboto,MIT,6675445,"Agent-first CLI for the whole DataForSEO API, generated from the official OpenAPI spec, with a cost guard and a local store."
+2026-11-08T20:30:17.008Z,@cyrusxc5/dsh-ego-lite,0.2.1,cyrusxc5,MIT,54171,Official-style ego-browser Skill provider for DeepSeek Harness
+2026-11-08T20:31:10.035Z,dsh-lpipe-bili,0.2.0,kaczev,AGPL-3.0-or-later,175679,"Read-only Bilibili browsing, QR login and storyboard viewing for DSH."
+2026-11-08T20:31:13.865Z,dsh-lpipe-home,0.2.0,kaczev,AGPL-3.0-or-later,208969,Personal folder configuration and main-session prompt for Lpipe.
+2026-11-08T20:31:35.964Z,@fire-spark/cli,0.13.2,nicolasjimeneza,,200378,Fire Spark command line: doctor and future commands
+2026-11-08T20:32:28.328Z,docspi-mcp,0.2.0,atasino,MIT,207776,"MCP server for docspi.ai — lets AI agents read, write, and publish documentation through the Model Context Protocol."
+2026-11-08T20:33:50.62Z,lady-lens,1.2.0,kimvanrenterghem,GPL-3.0-or-later,1007240,"Kura's code graph for any JavaScript repository: definitions, imports, function view, decisions. Local, on Ladybug."
+2026-11-08T20:34:34.153Z,@connectrpc/grpcreflect,0.0.0,tstamm-buf,Apache-2.0,859,Placeholder to set up npm trusted publishing. Do not use; install the latest version instead.
+2026-11-08T20:35:04.848Z,instagram-chatkit,3.1.0,thieutrungkien2,MIT,2747973,Instagram messaging library for Node.js
+2026-11-08T20:35:31.536Z,topicos-harness-fds,0.1.0,kmfj,,845005,Coding agent de terminal
+2026-11-08T20:35:46.788Z,treadle,0.1.1,timileyindev,MIT,49748,Background jobs and step workflows for Bun and Postgres
+2026-11-08T20:36:28.907Z,@generativereality/content-studio,0.1.0,motin,MIT,131572,"A Claude Code skill for making content well in any medium: process, craft and tool references, plus small zero-dependency scripts."
+2026-11-08T20:36:37.091Z,@modulus-learning/lti,0.11.1,58bits,AGPL-3.0-only,87026,Shared LTI 1.3 vocabulary and the Modulus LMS adapter contract
+2026-11-08T20:36:40.313Z,@modulus-learning/core,0.11.1,58bits,AGPL-3.0-only,1666873,"Modulus core: business logic, data access, schema scripts and the modulus command"
+2026-11-08T20:36:44.334Z,@modulus-learning/host-tanstack-start,0.11.1,58bits,AGPL-3.0-only,1591833,"TanStack Start host for Modulus — route factories, server functions, UI, and server-entry helpers"
+2026-11-08T20:36:46.789Z,@modulus-learning/lms-canvas,0.11.1,58bits,AGPL-3.0-only,84796,The Canvas LMS adapter for Modulus
+2026-11-08T20:36:52.47Z,@saas-custom-domains/cli,0.1.2,drago.crnjac,MIT,80363,"Command line interface for SaaS Custom Domains: add custom domains with automatic SSL for your SaaS customers, check their DNS and see traffic."
+2026-11-08T20:36:56.937Z,specialneeds-cli,1.1.1,eddison12345,MIT,12943,"Find special needs care for free from your terminal or AI assistant: ABA therapy, special needs schools, speech therapy, and testing. Includes IEP goals and ABA costs by state."
+2026-11-08T20:37:05.78Z,mino-connector-files-search,0.1.0,wuyangji,MIT,18604,文件检索连接器：装了 Everything 走全盘索引，没装扫常用目录，按文件名帮用户找文件。只读、本地。
+2026-11-08T20:37:25.779Z,@getbitti/darwin-arm64,0.1.0,andreylomako,MIT,9377112,The darwin-arm64 binary for bitti.
+2026-11-08T20:37:26.328Z,@pixelatlarge/peanut-gallery-core,0.1.0,pixelatlarge,MIT,40784,"Shared types, DOM anchoring, and GitHub issue serialization for peanut-gallery."
+2026-11-08T20:37:29.239Z,@pixelatlarge/peanut-gallery-widget,0.1.0,pixelatlarge,MIT,98376,Drop-in annotation layer for hosted prototypes. Comments attach to DOM elements and submit to GitHub Issues.
+2026-11-08T20:37:30.662Z,@getbitti/darwin-x64,0.1.0,andreylomako,MIT,10471982,The darwin-x64 binary for bitti.
+2026-11-08T20:37:31.649Z,@pixelatlarge/peanut-gallery-relay,0.1.0,pixelatlarge,MIT,29296,"Tiny serverless relay that turns peanut-gallery widget submissions into GitHub Issues. Deploy to Vercel, Cloudflare, Netlify or Node."
+2026-11-08T20:37:34.147Z,peanut-gallery,0.1.0,pixelatlarge,MIT,132783,"CLI: pull prototype feedback from GitHub Issues, let Claude propose and implement design updates, generate before/after comparisons, and open PRs."
+2026-11-08T20:37:35.018Z,@getbitti/linux-arm64,0.1.0,andreylomako,MIT,9443811,The linux-arm64 binary for bitti.
+2026-11-08T20:37:40.321Z,@getbitti/linux-x64,0.1.0,andreylomako,MIT,11431969,The linux-x64 binary for bitti.
+2026-11-08T20:37:45.214Z,@getbitti/win32-x64,0.1.0,andreylomako,MIT,13622873,The win32-x64 binary for bitti.
+2026-11-08T20:37:49.255Z,@getbitti/bitti,0.1.0,andreylomako,MIT,48086,"Plain-text web tests that run on real Chrome through navigera: one native binary, no Node."
+2026-11-08T20:38:08.618Z,mino-connector-footprints,0.1.0,wuyangji,MIT,22682,足迹连接器：从行程表+手动城市清单汇总去过的城市/年份足迹图。
+2026-11-08T20:39:11.565Z,mino-connector-game,0.1.0,wuyangji,MIT,21578,游戏数据连接器：原神祈愿记录（用户提供祈愿 URL）等用户侧游戏数据导入整理。
+2026-11-08T20:39:12.495Z,dsh-workflow-timeline,1.0.0,ruaruaton,MIT,60448,工作流时间线面板（ZCode 形态）：阶段站点时间线 + 表情状态机小脸 + 侧栏/中心双入口 + 历史持久化 | ZCode-style workflow timeline panel for DeepSeek Harness
+2026-11-08T20:39:12.596Z,recyclefind,0.2.0,eddison12345,MIT,16130,"Find recycling centers, scrap yards, and recycling calculators from your terminal with RecycleFind."
+2026-11-08T20:40:14.382Z,mino-connector-gov,0.1.0,wuyangji,MIT,17243,政务连接器：12123违章/个税/社保公积金/地方通导出文本或CSV入本地库检索统计。手动导入形态。
+2026-11-08T20:40:24.246Z,pi-background-monitor,0.1.0,championswimmer,,64156,Dedicated tmux background job monitoring for Pi
+2026-11-08T20:41:16.99Z,mino-connector-gzh,0.1.0,wuyangji,MIT,16472,公众号文章连接器：把微信公众号文章存成 markdown 留档，防原文被删。公开页面抓取，正文只在本机处理。
+2026-11-08T20:41:18.54Z,@goopui/core,0.1.0-alpha.0,tmmcmasters,MIT,1026670,"Framework-agnostic engine for goopUI gooey, dripping UI elements"
+2026-11-08T20:41:23.411Z,@goopui/vue,0.1.0-alpha.0,tmmcmasters,MIT,1351074,"goopUI components for Vue: gooey, dripping shadcn-style components"
+2026-11-08T20:41:25.636Z,@goopui/nuxt,0.1.0-alpha.0,tmmcmasters,MIT,15797,Nuxt module for goopUI: auto-imports @goopui/vue components and their styles
+2026-11-08T20:41:42.015Z,fab-canvas,0.1.0,nunyabizness,MIT,8171107,"Infinite-canvas workspace for semiconductor engineers (charts, wafer maps, tables, notes, shared filters). Bring your own backend: see contract/openapi.yaml."
+2026-11-08T20:42:19.635Z,mino-connector-health,0.1.0,wuyangji,MIT,19098,健康数据连接器：解析苹果健康导出 export.xml，汇总步数/心率/睡眠。只读、本地流式解析。
+2026-11-08T20:42:57.764Z,create-standards-app,1.0.0,reizam,SEE LICENSE IN LICENSE,7396,"Sets Standards up in the current project: npm create standards-app, same as standards init."
+2026-11-08T20:42:59.695Z,standards-client,1.0.0,reizam,SEE LICENSE IN LICENSE,6926,"Re-exports the Standards client SDK, @standards/client."
+2026-11-08T20:43:01.606Z,standards-mcp,1.0.0,reizam,SEE LICENSE IN LICENSE,7303,Runs the Standards command line. Same as npx @standards/cli.
+2026-11-08T20:43:03.402Z,standards-new,1.0.0,reizam,SEE LICENSE IN LICENSE,7303,Runs the Standards command line. Same as npx @standards/cli.
+2026-11-08T20:43:05.412Z,standards-run,1.0.0,reizam,SEE LICENSE IN LICENSE,7303,Runs the Standards command line. Same as npx @standards/cli.
+2026-11-08T20:43:07.299Z,standards-schema,1.0.0,reizam,SEE LICENSE IN LICENSE,6934,"Re-exports the Standards schema builder, @standards/schema."
+2026-11-08T20:43:07.722Z,@ivannovr/pi-prompt-snippets,1.0.0,ivannovr,MIT,285097,Pi extension for reusable prompt snippets. Fork of amosblomqvist/pi-config
+2026-11-08T20:43:09.172Z,standards-sdk,1.0.0,reizam,SEE LICENSE IN LICENSE,6920,"Re-exports the Standards client SDK, @standards/client."
+2026-11-08T20:43:11.03Z,stndrds,1.0.0,reizam,SEE LICENSE IN LICENSE,7285,Runs the Standards command line. Same as npx @standards/cli.
+2026-11-08T20:43:16.567Z,resilient-outbox,1.0.0,yazantah,MIT,358891,"Durable offline mutation queue for React Native, Expo and the web: idempotency keys, dependency chaining with temp-ID mapping, and a dead-letter queue."
+2026-11-08T20:43:22.319Z,mino-connector-ime,0.1.0,wuyangji,MIT,17001,输入法词库连接器：导入词库转换工具产出的词条文本（搜狗/微软/QQ等），入本地库检索导出。
+2026-11-08T20:43:38.183Z,@agentstats/nuxt,0.1.0,jtanzer,MIT,24975,"AgentStats for Nuxt: WebMCP tool calls, visitors, AI bots and crawlers, and AI agents calling your API, in one module."
+2026-11-08T20:43:39.999Z,@agentstats/next,0.1.0,jtanzer,MIT,17444,"AgentStats for Next.js: WebMCP tool calls, visitors, AI bots and crawlers, and AI agents calling your API, with one component and one proxy."
+2026-11-08T20:43:41.879Z,@agentstats/astro,0.1.0,jtanzer,MIT,14117,"AgentStats for Astro: WebMCP tool calls, visitors, AI bots and crawlers, and AI agents calling your API, in one integration."
+2026-11-08T20:43:43.958Z,@agentstats/tanstack-start,0.1.0,jtanzer,MIT,15222,"AgentStats for TanStack Start: WebMCP tool calls, visitors, AI bots and crawlers, and AI agents calling your server routes, with one component and one middleware."
+2026-11-08T20:43:45.819Z,@agentstats/mcp,0.1.0,jtanzer,MIT,23580,"Drop-in AgentStats analytics for MCP servers. Zero dependencies, never blocks a request."
+2026-11-08T20:43:47.855Z,@agentstats/cli,0.1.0,jtanzer,MIT,73325,"AgentStats analytics for command-line tools: which commands coding agents, people and CI run, and where they fail. Zero dependencies, never slows a command down."
+2026-11-08T20:43:49.78Z,@agentstats/app,0.2.0,jtanzer,MIT,45337,"AgentStats app analytics for React Native, Expo, Electron, Tauri and Capacitor: screens and events next to your website's visitors. No advertising id, zero dependencies."
+2026-11-08T20:44:25.229Z,mino-connector-invoice,0.1.0,wuyangji,MIT,17485,发票连接器：扫指定文件夹的 OFD/PDF 发票，提取抬头/金额/日期成清单。只读、本地。
+2026-11-08T20:45:07.53Z,@iconix/search,0.2.0,iconix,MIT,162031,"A search box with typo-tolerant suggestions and results in six layouts (list, cards, grid, compact, media, table) for React, Vue and the web. Facets, sorting, recent searches, ⌘K palette and a CLI. I…"
+2026-11-08T20:45:27.86Z,mino-connector-jobs,0.1.0,wuyangji,MIT,17519,招聘连接器：BOSS直聘等投递/沟通记录导出文本CSV入库，公司岗位追踪。手动导入形态。
+2026-11-08T20:45:46.415Z,@buncanvas/native-linux-x64,0.1.1,by_chu,Apache-2.0,16576159,Native **x86_64-linux** binary for `@buncanvas/core`
+2026-11-08T20:45:52.158Z,namu-ai,0.1.0,mouhamad_mm,Apache-2.0,35274,"The Namu API for JavaScript and TypeScript: speech recognition, speech synthesis and translation for Hausa, Zarma and French."
+2026-11-08T20:46:28.324Z,ontologizer,1.1.0,graydon-garden,MIT,591908,"Give it a topic and watch the whole field draw itself: a live, color-coded map of any topic, built by an LLM."
+2026-11-08T20:46:30.562Z,mino-connector-kids-album,0.1.0,wuyangji,MIT,16652,孩子相册连接器：照片文件夹按月份整理出成长时间线文档。只读、本地。
+2026-11-08T20:46:41.926Z,@zmnatz/usa-club-rugby-components,0.4.1,zmnatz,MIT,66552,"React and MUI components for USA Club Rugby NCS eligibility: the club directory, eligibility report and player detail, for any app using @zmnatz/usa-club-rugby-data."
+2026-11-08T20:47:04.756Z,@oval-vote/oval-schema,0.0.1-draft.1,vsanthanam1,CC-BY-4.0,53708,"The JSON Schema of a compiled Oval voting guide, with TypeScript types generated from it"
+2026-11-08T20:47:06.361Z,@customyai/paywalls-sdk,0.1.0,customyco,UNLICENSED,137630,"Web SDK for Customy Paywalls: framework-free client (decide, track, checkout, snapshot) and React bindings in @customyai/paywalls-sdk/react. The server decides; the paywall never authorizes anything."
+2026-11-08T20:47:09.403Z,@by-line/sdk,0.2.0,alitiknazoglu,MIT,105610,"Give your AI agent a byline on NEAR: credit every swap, payment and transaction to the agent and its builder."
+2026-11-08T20:48:17.216Z,@buncanvas/native-darwin-x64,0.1.1,by_chu,Apache-2.0,9638543,Native **x86_64-darwin** binary for `@buncanvas/core`
+2026-11-08T20:49:38.578Z,@mark1russell7/text,0.0.0-bootstrap.0,mark1russell7,MIT,525,A placeholder that lets npm trust the release workflow of mark1russell7/text. Use a later version.
+2026-11-08T20:51:23.231Z,builder-reel,0.0.1,mqian,MIT,1282,Turn your Claude Code + Codex usage into a shareable animated year-in-review reel. Coming soon.
+2026-11-08T20:51:23.247Z,nestjs-mercadopago,0.1.0,marcuth,MIT,29364,"A NestJS module for integrating with Mercado Pago, with injectable clients, webhook handling and signature validation."
+2026-11-08T20:52:17.815Z,@nanoforge-dev/registry,3.0.0,exelo,MIT,370403,NanoForge CLI - Registry client and installer for packages and plugins
+2026-11-08T20:53:43.476Z,reframekit,0.1.1,eminbudak,MIT,413240,"Turn one finished video into the version each place takes: 9:16 for TikTok, Reels and Shorts, 4:5 for the feeds, 1:1 and 16:9, with a crop that follows what moves in each shot, each cut at a shot cha…"
+2026-11-08T20:54:11.608Z,@by-line/mcp,0.1.0,alitiknazoglu,MIT,45283,"MCP server for Byline: lets AI agents create their on-chain identity on NEAR, get credited quotes, pay with attribution, and verify their activity."
+2026-11-08T20:55:15.17Z,@arden-hq/journal,0.1.0,postmort3m,Apache-2.0,74791,A small SQLite-backed journal for Effect applications
+2026-11-08T20:55:18.248Z,@arden-hq/prompt-template,0.1.0,postmort3m,Apache-2.0,31717,"A strict, platform-neutral prompt template renderer"
+2026-11-08T20:55:21.353Z,@arden-hq/sqlite-thread,0.1.0,postmort3m,Apache-2.0,38717,An Effect SQL client whose SQLite connection runs on a worker thread
+2026-11-08T20:55:24.727Z,@arden-hq/std,0.1.0,postmort3m,Apache-2.0,126599,"Domain-free mechanics every Arden workspace shares, one behavior per subpath; no dependencies, no Effect"
+2026-11-08T20:55:28.393Z,@arden-hq/answer-ui,0.1.0,postmort3m,Apache-2.0,227070,"The parts an arden:ui answer block may use: names, descriptions and prop schemas, shared by the desktop renderer and the server check"
+2026-11-08T20:55:31.705Z,@arden-hq/jobs,0.1.0,postmort3m,Apache-2.0,42709,Small driver-neutral leased job worker for durable local runtimes
+2026-11-08T20:55:32.04Z,@cosmemilton/sitef-bridge-win32-x64,0.4.0,miltoncosme,MIT,1131289,Owned isolated CliSiTef bridge; vendor SDK not included
+2026-11-08T20:55:35.606Z,@arden-hq/loop,0.1.0,postmort3m,Apache-2.0,872559,Provider-independent Promise and AsyncIterable runtime for tool-calling agents
+2026-11-08T20:55:41.297Z,@arden-hq/protocol,0.1.0,postmort3m,Apache-2.0,2677948,"Shared Arden server events, contracts, and standards-compliant SSE codecs"
+2026-11-08T20:55:44.158Z,@arden-hq/relay-protocol,0.1.0,postmort3m,Apache-2.0,126163,"Arden relay wire format, E2E crypto and app messages shared by the Mac, the relay and the phone"
+2026-11-08T20:55:47.922Z,@arden-hq/revisions,0.1.0,postmort3m,Apache-2.0,467836,"Content-addressed managed-file revisions as an Effect service for Node.js, Bun, and Electron"
+2026-11-08T20:55:53.309Z,@cosmemilton/sitef-bridge-linux-ia32,0.4.0,miltoncosme,MIT,1234913,Owned isolated CliSiTef bridge; vendor SDK not included
+2026-11-08T20:55:53.786Z,@arden-hq/headless,0.1.0,postmort3m,Apache-2.0,47086,Node client for Arden's production HTTP and SSE runtime
+2026-11-08T20:56:05.662Z,@buncanvas/native-win32-x64,0.1.1,by_chu,Apache-2.0,6723539,Native **x86_64-windows** binary for `@buncanvas/core`
+2026-11-08T20:56:17.968Z,@arden-hq/server,0.1.0,postmort3m,Apache-2.0,17008578,The Node.js TypeScript server foundation for Arden
+2026-11-08T20:57:42.088Z,@x12i/sketcher,0.2.0,x12i,MIT,1329374,"Lets your AI assistant draw while it explains: hand-drawn, interactive diagrams, circuits and labeled photos in the Claude chat, Claude Code, Cursor and VS Code."
+2026-11-08T20:58:18.949Z,next-color-theme,1.0.0,mxabaxn,MIT,2452,Theme color utilities for Next.js applications
+2026-11-08T20:58:44.922Z,@itlab-io/desk,0.1.0,cre8eve_eu,MIT,42803,ITLab Desk support widget: a support button and embeddable support form for your site
+2026-11-08T20:59:53.228Z,@owizzo/dyn-engine-client-ts,1.0.0,owiadm,ISC,322119,React client for the owizzo Dynamic Engine: renders server-described forms and tables with Ozora components.
+2026-11-08T21:01:29.76Z,stem-mqtt-darwin-arm64,0.7.0,greenspand,MIT,6236253,Native libraries of stem-mqtt for darwin-arm64
+2026-11-08T21:01:32.024Z,stem-mqtt-darwin-x64,0.7.0,greenspand,MIT,6569535,Native libraries of stem-mqtt for darwin-x64
+2026-11-08T21:01:34.555Z,stem-mqtt-linux-arm64-gnu,0.7.0,greenspand,MIT,7172111,Native libraries of stem-mqtt for linux-arm64-gnu
+2026-11-08T21:01:37.65Z,stem-mqtt-linux-x64-gnu,0.7.0,greenspand,MIT,7381497,Native libraries of stem-mqtt for linux-x64-gnu
+2026-11-08T21:03:54.217Z,sendline-sms,0.1.0,ferrisbueller,MIT,4217,"Send a text in one line. Free tier, no account required. Built for AI agents."
+2026-11-08T21:04:01.637Z,sendline-cli,0.1.0,ferrisbueller,MIT,5090,"Zero-config CLI for Sendline. Provision a key, send texts, check balance."
+2026-11-08T21:04:11.682Z,sendline-mcp,0.2.0,ferrisbueller,MIT,12086,Sendline MCP server — let any AI agent send texts directly.
+2026-11-08T21:04:18.773Z,@farkitect/draw,0.1.0,bozobit,MIT,2070807,"Draw a Farkitect diagram from its drawing data (GET /v1/diagrams/{id}/drawing), exactly as the app does."
+2026-11-08T21:04:50.846Z,@reqlo/cli,0.1.0,relqo-intelligence,MIT,19911,Command-line interface for ReQlo: sign in and review approval requests from your terminal.
+2026-11-08T21:05:01.872Z,@farkitect/render,0.1.0,bozobit,MIT,2073170,"farkitect-render: draw Farkitect diagrams from their drawing data (GET /v1/diagrams/{id}/drawing), exactly as the app does, from any language."
+2026-11-08T21:07:05.005Z,@halviclabs/invoiceninja-mcp,0.3.1,nschmid,MIT,158803,"Self-hosted MCP server for Invoice Ninja (v5). Sovereignty-friendly, no third-party SaaS bridge."
+2026-11-08T21:08:29.318Z,groundly,0.0.1,bernardarroues,MIT,256,Reserved by Groundly. The SDK is @groundly/sdk.
+2026-11-08T21:09:32.887Z,agy-skill,0.1.0,qwe840608,MIT,136011,"讓任何 AI agent 安全地用無頭模式派工給 Google Antigravity CLI（agy）的 skill | Agent skill for safely delegating work to the Google Antigravity CLI (agy) in headless print mode from Claude Code, OpenAI Codex, OpenCod…"
+2026-11-08T21:10:06.692Z,@civ-clone/worker-transport,0.1.0,dom111,MIT,37060,"A core-data-client transport over a web worker's messages: the page's end, to the worker it started, and the worker's end, to its page."
+2026-11-08T21:11:57.355Z,@attocash/marketplace-mcp,0.0.0-stage,attocash,,347,Temporary package placeholder for staged publishing
+2026-11-08T21:12:02.909Z,@cutils/cli,0.6.0,espetro,Apache-2.0,79339,"Type-first declarative CLI builder in the scriptc compilable subset — commands, typed options, generated help, compiles into the app's single static ELF"
+2026-11-08T21:12:34.15Z,@wierdbytes/pi-dream,0.1.0,wierdbytes,MIT,259752,"Offline memory consolidation (""dreaming"") for pi: distills past sessions into small, evidence-backed memory notes, sends every change to a GitHub pull request for review, injects the approved index i…"
+2026-11-08T21:12:44.063Z,@getvatly/sdk,0.0.0-stage,sandervanhooft,,335,Temporary package placeholder for staged publishing
+2026-11-08T21:12:53.948Z,@tslite/binder,1.12.0,andersondrosa,Apache-2.0,99645,"The tsc 3.9.10 binder, copied from the tag and cut down to the TSLite Language: the symbols, the scopes and the control-flow graph of a parse tree"
+2026-11-08T21:13:24.382Z,@tslite/services,1.12.0,andersondrosa,Apache-2.0,1259291,"The tsc 3.9.10 language service, copied from the tag and cut down to the TSLite Language, over the copy of the tsc checker"
+2026-11-08T21:14:21.862Z,opencode-approval-idle,0.1.0,gysi,MIT,31539,Defer OpenCode V2 permission prompts while composing a message
+2026-11-08T21:17:49.376Z,dsh-session-plugin-manager,0.0.0-stage,kiluahh,,348,Temporary package placeholder for staged publishing
