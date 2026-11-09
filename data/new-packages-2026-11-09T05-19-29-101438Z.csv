@@ -1,0 +1,105 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-09T04:15:59.537Z,@radixp0int/ai-chat-kit,0.1.0,radixp0int,MIT,898962,"A chat UI kit: brand tokens with swappable palettes, primitives, the chat components and an embeddable chat widget. Source-only; the app's Vite compiles it."
+2026-11-09T04:18:12.156Z,@khannaoffice/system,0.0.0-stage,khannaoffice,,342,Temporary package placeholder for staged publishing
+2026-11-09T04:19:49.274Z,dsh-tab-status-light,1.1.0,kylefu,MIT,153741,"Show the AI session state on the browser tab icon — gray blinking while working, green when done, yellow while it waits for your answer, red when interrupted. 把 AI 狀態畫在分頁圖示上：進行中灰燈閃爍、完成綠、等你回答黃、中斷紅。"
+2026-11-09T04:19:56.123Z,safe-storage-ts,1.0.0,pirapaakaranpirathapan,MIT,35373,"Zero-dependency, type-safe browser storage wrapper (localStorage & sessionStorage) with TTL expiry, SSR memory fallback, namespace prefixes, and change listeners."
+2026-11-09T04:19:59.961Z,dsh-log-triage,0.2.0,xinstart,MIT,803330,"Intranet container-log triage for DeepSeek Harness: a model-callable log_triage tool that pulls `docker logs` over SSH, clusters errors into fingerprints, extracts stack root causes, and reads only t…"
+2026-11-09T04:20:25.314Z,@p10node/diagram,0.9.0,pierreneter,MIT,469122,"Mermaid, PlantUML and Graphviz diagrams to SVG with no DOM, server or dependency: render text, or draw every diagram block of a page"
+2026-11-09T04:20:51.177Z,ds-harness-remote-tui,0.6.4,liguobao,MIT,5463,Remote Host integration for DeepSeek Harness TUI.
+2026-11-09T04:22:36.458Z,aitrainingdatabroker-skills,1.0.0,aitrainingdatabroker,MIT,21691,"12 agent skills on licensing company data to AI labs: pricing, legality, de-identification, exclusivity, RL data, call center and security data. One command installs them into a project."
+2026-11-09T04:22:40.014Z,@aitrainingdatabroker/client,1.0.0,aitrainingdatabroker,MIT,4634,"Small zero-dependency JavaScript client for the AI Training Data Broker blog MCP server: latest, search and read articles on licensing company data to AI labs."
+2026-11-09T04:22:43.687Z,aitrainingdatabroker-mcp,1.0.0,aitrainingdatabroker,MIT,3293,Run the AI Training Data Broker blog MCP server over stdio for desktop clients that only support local MCP servers: npx aitrainingdatabroker-mcp.
+2026-11-09T04:25:51.022Z,@computeportal/cp-mcp,1.0.0,yoonil-computeportal,MIT,143238,Compute Portal MCP server — 23 cp_ tools for agent-native GPU compute
+2026-11-09T04:25:58.297Z,easycaptionkit,0.1.1,eminbudak,MIT,465283,"Burn captions into a video in the product's own fonts and colors, word by word or line by line, kept clear of each app's buttons, with the SRT, VTT and ASS files to go with it."
+2026-11-09T04:29:12.078Z,dsh-mesh-host,0.0.2,linyanzhi,MIT,29367,"DSH host-side bridge for dsh-mesh: exposes in-process sessions/agents/tools over loopback HTTP so a mesh server can create sessions, prompt, wake them and call host tools."
+2026-11-09T04:29:15.322Z,dsh-mesh-autostart,0.0.2,linyanzhi,MIT,11951,DSH host plugin: supervise a dsh-mesh server (and optional frpc) inside the DSH engine process so it survives engine restarts. Designed for phone/desktop DSH apps.
+2026-11-09T04:29:18.823Z,dsh-mesh-node,0.0.1,linyanzhi,MIT,542345,"Mesh server for dsh-mesh: expose a machine to peer DSH nodes over MCP/HTTPS, with delegation and optional desktop-control tools."
+2026-11-09T04:29:21.736Z,dsh-mesh-ui,0.0.1,linyanzhi,MIT,139778,"DSH settings-page panel for dsh-mesh: AI network topology, peer health, and delegation panel. Read-only; data is collected from the local mesh CLI."
+2026-11-09T04:29:25.251Z,@pqblocks/pqc-compat-registry,1.0.0,pqblocks,Apache-2.0,98893,A machine-readable registry of NIST post-quantum algorithm identifiers (FIPS 203/204/205 OIDs) for compliance tooling.
+2026-11-09T04:29:41.458Z,@pqblocks/browser-pqc-verifier,0.1.0,pqblocks,Apache-2.0,184293,Post-quantum certificate and chain verifier for browsers and Node.js using ML-DSA/SLH-DSA from @noble/post-quantum.
+2026-11-09T04:29:56.29Z,@pqblocks/pqc-acvp-runner,1.0.0,pqblocks,Apache-2.0,18339276,NIST FIPS 203 and 204 ACVP Known Answer Test runner and Wycheproof harness in Node.js.
+2026-11-09T04:30:12.498Z,getbotons,0.1.0,boundsj,MIT,3692551,A self-hosted home for AI agents that runs your own Claude Code or Codex.
+2026-11-09T04:31:29.136Z,dsh-antfubot,0.2.1,tuimao,MIT,88481,"Anthony Fu's agent workflow for DeepSeek Harness: issue triage, digest, task execution, PR creation and simplification"
+2026-11-09T04:31:33.383Z,@ohos-ports/pack-n-play,5.3.0-beta.0,lljry,Apache-2.0,29404,Ensure your library installs and compiles
+2026-11-09T04:32:13.995Z,@lollipop.sh/core,1.0.0,lollipop.sh,ISC,311,Lollipop.sh is a tool to make agents produce better graph theory algorithms.
+2026-11-09T04:32:27.822Z,@akashkore5/pdf-metadata-stripper,1.0.0,akashkore5,MIT,2851,Ultra-lightweight client-side PDF metadata sanitization and stripping utility for privacy and confidentiality.
+2026-11-09T04:32:28.058Z,@elcrm/settings,0.0.1,maskal,MIT,22857,"Современные примитивы настроек elCRM: SettingsSection, SettingsRow и SettingsSwitch на @elcrm/components и @elcrm/switch."
+2026-11-09T04:32:45.405Z,@ohos-ports/node-bin-openharmony-arm64,27.0.0-alpha.0.0.0-beta.0,lljry,MIT,212646845,node
+2026-11-09T04:32:58.645Z,@akashkore5/pdf-n-up-calculator,1.0.0,akashkore5,MIT,2615,"Grid, scaling, and offset calculation utility for 2-in-1, 4-in-1, and N-up PDF page imposition and printing."
+2026-11-09T04:32:59.743Z,@monstm/data-dom,1.0.0,monstm,ISC,7623,"To make it easy for you to get started with GitLab, here's a list of recommended next steps."
+2026-11-09T04:33:50.445Z,capnstruct,0.1.1,teamch,MIT,189150,"Zero-Copy #[repr(C)] Structs for Web Workers, SharedArrayBuffer & WebAssembly — the missing shared-memory struct layer between JS, Workers, and Rust/Go WASM."
+2026-11-09T04:34:01.329Z,wikipeeks,0.0.0,jonraysor,Apache-2.0,11953,"Cited wiki docs and infrastructure diagrams from your code repository, locally, with any model or none. Under development; this is a placeholder."
+2026-11-09T04:34:27.752Z,dsh-voice-copilot,0.1.1,ludada,MIT,63973,DSH 语音副驾：选麦克风或扬声器（WASAPI 环回）采集声音，本地 SenseVoice 逐句转写，点任意一句即刻搜索答案。
+2026-11-09T04:34:40.612Z,@atemp/prove-it-darwin-arm64,0.2.2,atemp,MIT,2630815,The native engine and prove-it binary of @atemp/prove-it for macOS arm64
+2026-11-09T04:34:44.575Z,@atemp/prove-it-darwin-x64,0.2.2,atemp,MIT,2729017,The native engine and prove-it binary of @atemp/prove-it for macOS x64
+2026-11-09T04:35:26.512Z,@p10node/graphviz,0.9.0,pierreneter,MIT,204924,"Graphviz DOT graphs to SVG in the browser or Node, with no WebAssembly, server or dependency"
+2026-11-09T04:36:19.013Z,bad-agent-kit,0.1.0,aniqqaqill,MIT,55465,"BAK — bad-agent-kit: a curated skills marketplace + workflow orchestrator. The router that keeps you from being one. Compose, never own."
+2026-11-09T04:36:23.653Z,@mokoenterprises/mokonyx-mcp,2.1.1,moko_jmiller,GPL-3.0-or-later,1444672,MCP server for Mokonyx (Joomla) REST API v1 operations
+2026-11-09T04:36:31.645Z,@gitmyabi/logic,1.0.0,gitmyabi-bot,Apache-2.0,262911,"Auto-generated TypeScript type bindings for Logic (build etherscan-logic-278d858f-1794198973555, commit 0298b2d, branch etherscan)"
+2026-11-09T04:36:43.359Z,dsh-ide-pane,0.11.0,zhuyuelei*,MIT,154814,"A session-aware code pane for the DeepSeek Harness right sidebar: browse, edit and run workspace files, see what the Agent changed, and step through every recorded edit. 代码面板 for DeepSeek Harness。"
+2026-11-09T04:37:12.517Z,inr-num-words,1.0.0,pirapaakaranpirathapan,MIT,30088,"Converts numbers and Indian Rupee (INR) amounts into words (English & Tamil) with Lakhs, Crores, Paise, and Invoice/Cheque formatting."
+2026-11-09T04:37:52.162Z,colophon-protocol,0.0.0,jvivasopen,Apache-2.0,12117,Reserved for the reference implementation of the Colophon protocol (draft).
+2026-11-09T04:39:13.701Z,quantion,0.2.1,josoriom,MIT,19498824,quantion: Rust core with WASM bindings
+2026-11-09T04:40:03.301Z,@minleev5/design-harness,0.2.0,dicklwm,MIT,1626093,本地产品设计工作台与 Agent CLI，支持项目依赖、全局安装及可选 Codex 插件
+2026-11-09T04:40:23.401Z,@arifbiswas/git-pre-push,1.0.1,arifbiswas,MIT,58506,"Zero-dependency pre-push security guard that stops malware, injected scripts, and leaked secrets from reaching GitHub."
+2026-11-09T04:42:13.285Z,@dopame/acde-api,0.0.4,ahpx,UNLICENSED,39815,"acde SDK: one devDependency makes a web app (React, Vue, Svelte, any Vite / Next.js / Nuxt / SvelteKit / Astro / Angular project) an acde app. Types of acde.config.jsonc, the manifest, the services a…"
+2026-11-09T04:42:29.123Z,sb-index-graph,0.1.1,abelroes,SEE LICENSE IN repo,65316,SilverBullet indexGraph library helpers and second-brain agent skills installer
+2026-11-09T04:42:37.091Z,dsh-fde,1.3.0,neomemoryai,MIT,1367538,FDE 工作站：跑在 DeepSeek Harness 里的单机插件——把客户经营从线索到采用做成可推进、可验证、可复盘的一屏作战台（看板 + 今日 + 8 阶段门禁 + FDE 方法库 + 资料库 + 招采关联）。
+2026-11-09T04:43:25.779Z,vanilla-builder,0.1.0,marioaco,MIT,210537,"Zero-config bundler, minifier and obfuscator for vanilla HTML, CSS and JavaScript sites. Detects every dependency, verifies the output and never loses a file."
+2026-11-09T04:43:35.759Z,tinkerbox-kit-installer,0.1.0,iliakoshcheev,UNLICENSED,14736,Install a purchased Tinkerbox Kit on macOS
+2026-11-09T04:43:53.002Z,@mailgatewayid/node,0.1.0,mailgateway,MIT,14222,Official zero-dependency Node.js/TypeScript SDK for MailGateway.id Email API
+2026-11-09T04:43:54.03Z,garmin-mtp,0.1.1,timzander,MIT,89944,"Garmin watches over WebUSB: find the GARMIN folder, send and verify map files, read IMG headers. Built on webusb-mtp."
+2026-11-09T04:44:12.18Z,@keri-ts/hash-wasm,4.14.0,kentbull,MIT,1811545,"Lightning fast hash functions for browsers and Node.js using hand-tuned WebAssembly binaries (MD4, MD5, SHA-1, SHA-2, SHA-3, Keccak, BLAKE2, BLAKE3, PBKDF2, Argon2, bcrypt, scrypt, Adler-32, CRC32, C…"
+2026-11-09T04:45:09.934Z,@gitmyabi/grx,1.0.0,gitmyabi-bot,Apache-2.0,177409,"Auto-generated TypeScript type bindings for GRX (build etherscan-grx-219218f1-1794199495397, commit 10c154e, branch etherscan)"
+2026-11-09T04:45:21.248Z,@ifsoul/core,0.3.0,h3lpkey,Apache-2.0,1739769,"Experimental public IfSoul protocol, runtime, memory and provider primitives"
+2026-11-09T04:45:55.055Z,@stateforge-labs/harness-adapters,0.0.0,crisap94,MIT,1680,"Name reservation. The first release is 0.1.0, published from stateforge-labs/harness-kit with provenance."
+2026-11-09T04:45:58.053Z,@crong964/angel-table,0.0.2,crong964,MIT,85289,A flexible and customizable React Table component
+2026-11-09T04:46:22.227Z,@p10node/markdown,0.9.0,pierreneter,MIT,492602,"Markdown to safe HTML with Mermaid, PlantUML and Graphviz code blocks drawn as SVG; no dependency"
+2026-11-09T04:46:26.889Z,@p10node/mermaid,0.9.0,pierreneter,MIT,331625,"Mermaid diagrams to SVG with no DOM, server or dependency: flowchart, sequence, class, state, ER, pie, Gantt, mind map"
+2026-11-09T04:46:31.25Z,@p10node/plantuml,0.9.0,pierreneter,MIT,368731,"PlantUML diagrams to SVG in the browser or Node, with no Java, server or dependency: sequence, class, use case, component, state, activity, mind map"
+2026-11-09T04:46:33.173Z,pkeygen,0.1.0,nakky,MIT,437967,"Parse, convert and generate SSH keys (OpenSSH, PEM, PuTTY PPK, RFC 4716, JWK) with zero dependencies"
+2026-11-09T04:46:49.829Z,@fittins/sdk,1.0.0,shihada,MIT,78567,Official JavaScript and TypeScript library for the Fittins AI API: premium AI fashion photos and videos from your product photos.
+2026-11-09T04:47:05.963Z,k47mq,1.0.1,sonsonsonsahur,,3709,
+2026-11-09T04:47:27.74Z,p19rt,1.1.1,sonsonsonsahur,,3693,
+2026-11-09T04:47:43.486Z,r83xc,1.0.1,sonsonsonsahur,,3709,
+2026-11-09T04:48:05.177Z,v05za,1.0.1,sonsonsonsahur,,3709,
+2026-11-09T04:48:18.356Z,d62wp,1.0.1,sonsonsonsahur,,3709,
+2026-11-09T04:48:52.584Z,dsh-big-coming,0.1.0,sumcam,MIT,1080568,"DeepSeek Harness plugin: probes the official model system fingerprint on a timer with a minimal request, and pops a random meme when it changes."
+2026-11-09T04:49:35.391Z,commerceforai,0.1.0,leeshadle,MIT,126377,"Commerce for apps built by AI. Products, inventory, checkout and orders on top of your Stripe account."
+2026-11-09T04:50:00.882Z,@commerceforai/mcp,0.1.0,leeshadle,MIT,34974,"MCP server that lets AI agents operate a CommerceForAI store, with guardrails."
+2026-11-09T04:52:55.013Z,@tabee/protocol,0.1.0,wytamma,MIT,107068,"tabEE wire types, validation, negotiation and transfer state machine."
+2026-11-09T04:52:56.948Z,@tabee/formats,0.1.0,wytamma,MIT,10396,tabEE scientific data format identifiers and registry.
+2026-11-09T04:52:58.992Z,@tabee/browser,0.1.0,wytamma,MIT,139692,"Browser SDK for tabEE: Penpal transport, session handshake, consent, sender and receiver."
+2026-11-09T04:53:32.532Z,xpi-coding-agent,1.5.0,nukcole,MIT,25023794,"xpi: a coding agent CLI from xin-pi, a fork of pi with built-in subagents"
+2026-11-09T04:57:06.249Z,dsh-freellmapi,1.2.4,sidady,MIT,19442039,"FreeLLMAPI as a first-class model provider in DeepSeek Harness: the free-model router ships inside the plugin (no Docker, no checkout), with a sidebar panel to start it, probe which models really ans…"
+2026-11-09T04:57:29.235Z,@tsight/core,3.0.3,challa.ravi,MIT,183560,"TSight analysis engine: files, imports, complexity and git history for TypeScript projects"
+2026-11-09T04:57:40.854Z,spaceone-stk-plugin,1.0.1,ambernya,MIT,191489,DeepSeek Harness native STK 11/12 tools: TypeScript shell + Python COM kernel over HTTP. 为 DSH 提供 42 个 STK Function Calling 工具（场景/轨道/访问/覆盖/报告/设备/平台航路/面目标/Walker/Astrogator），COM 全部在 Python 端执行。
+2026-11-09T04:59:00.422Z,@dsh-plugin/dsh-web-search,0.0.0-stage,gugle,,348,Temporary package placeholder for staged publishing
+2026-11-09T04:59:48.362Z,@ohos-ports/nocodb-daily,0.255.2-pr-8513-20241008-1112-beta.0,lljry,AGPL-3.0-or-later,6700333,NocoDB Backend
+2026-11-09T05:00:10.511Z,folder-tree-md,1.0.0,pirapaakaranpirathapan,MIT,32271,"Fast, zero-dependency CLI & TypeScript library to generate clean Markdown directory trees for READMEs and documentation."
+2026-11-09T05:00:35.955Z,cagr-darwin-arm64,0.1.0,krtinshet,MIT,70365655,The cagr binary for darwin arm64.
+2026-11-09T05:00:42.932Z,cagr-darwin-x64,0.1.0,krtinshet,MIT,75501281,The cagr binary for darwin x64.
+2026-11-09T05:00:49.045Z,ratio-scale,1.0.0,art70x,MIT,8227,A lightweight TypeScript utility for calculating values from ratios.
+2026-11-09T05:00:52.465Z,cagr-linux-x64,0.1.0,krtinshet,MIT,120644626,The cagr binary for linux x64.
+2026-11-09T05:01:02.536Z,cagr-linux-arm64,0.1.0,krtinshet,MIT,117768216,The cagr binary for linux arm64.
+2026-11-09T05:01:13.141Z,cagr-linux-x64-musl,0.1.0,krtinshet,MIT,113136501,The cagr binary for linux x64 musl.
+2026-11-09T05:01:22.506Z,cagr-linux-arm64-musl,0.1.0,krtinshet,MIT,110935235,The cagr binary for linux arm64 musl.
+2026-11-09T05:01:31.764Z,cagr-windows-x64,0.1.0,krtinshet,MIT,123804150,The cagr binary for windows x64.
+2026-11-09T05:01:33.181Z,@sugatoray-ai/aiskills,0.4.0,sugatoray,Apache-2.0,893644,"Sugato Ray's curated agent skills (scrolls, stata, personas, ...) vendored as an npm package and registered with `npx skills add` on install."
+2026-11-09T05:01:49.038Z,@tsight/api,3.0.3,challa.ravi,MIT,19727,TSight server: serves the web UI and runs the analysis in a worker thread
+2026-11-09T05:02:46.463Z,dsh-plugin-gpt-image,1.2.0,yuhanlin2026,MIT,46600,GPT image generation for DeepSeek Harness: an image_generate tool plus an in-app settings page for your own API base URL and key.
+2026-11-09T05:03:46.018Z,dsh-quota-card,0.3.0,bangyu,MIT,86444,"Sidebar quota card for DeepSeek Harness: ChatGPT, Gemini and Grok Bot usage plus the DeepSeek balance, with reset countdowns, thresholds and per-provider proxies."
+2026-11-09T05:04:04.548Z,dsh-doom-loop-guard,1.0.0,dixie_with_heart,MIT,122134,检测推理中的重复循环（doom loop），命中时提醒、截断或响铃，并生成历史报告。
+2026-11-09T05:05:56.643Z,tsight,3.0.3,challa.ravi,MIT,426987,Understand any TypeScript codebase in 30 seconds. No AI. No guessing. Just facts from your code.
+2026-11-09T05:06:19.626Z,@asteby/postal-data,0.1.0,asteby-hq,Apache-2.0,4744577,"Offline postal-code catalogs (Mexico, United States; GeoNames, CC BY 4.0) loaded on demand, plus one resolver (official OPS catalog first, offline fallback) shared by every storefront."
+2026-11-09T05:06:52.867Z,@probarion/core,0.1.0,duongnq2798,MIT,197556,"Probarion core: contract types, canonical hashing, signed ledger, policy engine, attestation and verifier checks. Pure TypeScript, no network."
+2026-11-09T05:06:57.897Z,@probarion/sdk,0.1.0,duongnq2798,MIT,417660,"Probarion SDK: let any agent pay on NEAR only inside owner-signed mandates, with attested decisions and a verifiable ledger."
+2026-11-09T05:07:01.838Z,probarion,0.1.0,duongnq2798,MIT,115901,"Probarion CLI: dry-run spends, verify a vault's ledger, anchors, attestation records and keys, print the owner and approver transactions of a vault for near-cli-rs to sign, and generate ed25519 keys."
+2026-11-09T05:08:53.55Z,clean-slug-lite,1.0.0,pirapaakaranpirathapan,MIT,16756,"Fast, zero-dependency, Unicode-aware URL slug generator for SEO, blogs, CMS, and clean URLs with symbol replacement and smart truncation."
+2026-11-09T05:10:05.357Z,@elcrm/charts,0.1.0,maskal,MIT,57702,"React-графики elCRM: AreaChart, Sparkline, DonutChart, HorizontalBars, StageBars. CSS Modules и токены --chart-*."
+2026-11-09T05:11:15.604Z,dsh-zn-ledger,1.0.0,legendfirework,MIT,97994,DeepSeek Harness 收支记账插件：分类、日期、备注，年度与月度图表，本地 JSON + CSV 双份存储，支持对话记账
+2026-11-09T05:11:46.008Z,@ohos-ports/postcss-px-to-viewport,1.1.1-beta.1,lljry,MIT,27626,"A CSS post-processor that converts px to viewport units (vw, vh, vmin, vmax)."
+2026-11-09T05:14:13.81Z,@chipmobilesdk/rn-core,0.0.0,chipremote,UNLICENSED,83177,"The shared foundation of the `@chipmobilesdk/*` React Native packages: one error model and one redaction mechanism, so every package fails and redacts the same way. Pure TypeScript, no native code, n…"
+2026-11-09T05:17:12.431Z,bitspv-send,0.1.0,bitspv,,39587,"Zero-knowledge ephemeral encrypted file transfer. CLI for agents: pair a device once, then send encrypted files from a terminal."
+2026-11-09T05:18:39.899Z,react-native-nitro-kanjivg-tgfx,0.0.0-stage,clipsub,,353,Temporary package placeholder for staged publishing
+2026-11-09T05:18:40.075Z,dsh-lit-workbench,0.0.0-stage,autumn2006,,339,Temporary package placeholder for staged publishing
