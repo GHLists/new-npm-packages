@@ -1,0 +1,317 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-10T01:15:53.132Z,@getvitops/skills,0.1.0-alpha.0,alexgagnon,MIT,22831,"Agent skills for sites built with the Vitops toolchain. Installed as a dependency and linked into a project with `skills experimental_sync`, so they update with the package."
+2026-11-10T01:16:51.894Z,@gmahechas-org/devtools-ts-uuid,14.0.3,automation-gmahechas,,2748,Pins one uuid install. The `uuid` binary always runs the `uuid` version declared in this package. This package does not publish a uuid config.
+2026-11-10T01:17:06.449Z,@my-f-startup/google-firestore-inbox,0.1.0,axcosta,MIT,33974,"Inbox for Google Firestore: handles each delivered message once, with the record written in the transaction of its Firestore side effects and a declared class for each side effect outside Firestore."
+2026-11-10T01:17:24.16Z,@4fu/dsh-arbor-prompt,2026.1110.0,4fu,MIT,72680,"Prompt bridge: DSH official sections decided per name into a trusted <harness> section, the deployment persona into <identity>, and third-party material into a <dsh> data block"
+2026-11-10T01:17:26.284Z,@4fu/dsh-arbor-tools,2026.1110.0,4fu,MIT,28876,"Tool bridge: DSH tools enter arbor as external tools with their own JSON Schema, the ones arbor replaces are restricted away, and calls run through ctx.tools.execute"
+2026-11-10T01:17:38.002Z,@4fu/dsh-arbor-driver,2026.1110.0,4fu,MIT,138785,"The arbor agent driver: per-preset routing over the embedded official AgentLoop, the arbor AgentFactory, the session agent, and resume from the arbor journal"
+2026-11-10T01:17:46.309Z,@4fu/dsh-arbor-bundle,2026.1110.0,4fu,MIT,18788,"The dsh-arbor bundle: the patch layer that replaces DSH's agent row with arbor's routing registry and mounts the arbor host, driver and preset"
+2026-11-10T01:17:56.169Z,@marcdomain/teriac,0.1.1,marcdomain,MIT,140287,"Terraform, OpenTofu & Terragrunt version manager"
+2026-11-10T01:20:28.197Z,@ahmedrowaihi/mediabunny-rist,1.65.2-beta.663,ahmedrowaihi,MPL-2.0,183382,"RIST simple and main profile transport for Mediabunny, over librist."
+2026-11-10T01:20:28.238Z,@xsok/dsh-enhanced,0.2.2-3,xsok,MIT,422956,DeepSeek Harness 增强插件：会话删除与找回、跨工作区移动、全库内容搜索、自动加载历史，以及多设备同步（本地目录 / WebDAV）。
+2026-11-10T01:20:30.054Z,isometric-angular,1.0.1,javiluma,,91045,Isometric styling library made in Angular with as much flexibility over customization as possible. Rewrite of https://morgancaron.github.io/IsometricSass/ .
+2026-11-10T01:21:51.701Z,@flutgraben/house-kit,0.1.0,tanacosa,MIT,28683,"The house kit: the stack, the build settings, the checks and the shared contracts every house web project installs."
+2026-11-10T01:22:19.933Z,@styleeyes/g-element,0.0.0,aaron-khroma,MIT,11378,"Declarative, circuit-themed interactivity for React: wire components together with power and signals."
+2026-11-10T01:22:46.381Z,@ohos-ports/teambit-base-react-forms-form,0.0.14-beta.0,lljry,SEE LICENSE IN LICENSE,39239,
+2026-11-10T01:22:46.527Z,@ohos-ports/teambit-api-reference-hooks-use-api-renderers,0.0.39-beta.0,lljry,SEE LICENSE IN UNLICENSED,8236,
+2026-11-10T01:22:46.822Z,@ohos-ports/teambit-accounts-account-descriptor,0.0.0-ce7333eafd23b6d7dc2982552d2ca8dbef2967f2-beta.0,lljry,SEE LICENSE IN LICENSE,11950,
+2026-11-10T01:22:46.854Z,@ohos-ports/teambit-aspect-loader,1.0.1257-beta.0,lljry,Apache-2.0,218608,
+2026-11-10T01:22:50.404Z,@ohos-ports/teambit-base-react-hooks-use-1d-nav,1.0.0-beta.0,lljry,SEE LICENSE IN LICENSE,25969,
+2026-11-10T01:22:50.913Z,@ohos-ports/teambit-base-react-hooks-use-queued-execution,0.0.3-beta.0,lljry,SEE LICENSE IN LICENSE,18784,
+2026-11-10T01:22:51.222Z,@ohos-ports/teambit-base-react-navigation-link,2.0.33-beta.0,lljry,SEE LICENSE IN UNLICENSED,83157,
+2026-11-10T01:22:55.684Z,@ohos-ports/teambit-base-react-theme-theme-provider,1.95.3-beta.0,lljry,SEE LICENSE IN LICENSE,31703,
+2026-11-10T01:22:56.974Z,@ohos-ports/teambit-base-react-themes-theme-switcher,1.1.2-beta.0,lljry,SEE LICENSE IN UNLICENSED,126410,
+2026-11-10T01:22:58.78Z,@ohos-ports/teambit-base-ui-input-button,1.0.6-beta.0,lljry,SEE LICENSE IN LICENSE,68762,
+2026-11-10T01:22:59.171Z,@ohos-ports/teambit-base-ui-utils-string-affix,1.0.1-beta.0,lljry,SEE LICENSE IN UNLICENSED,5761,
+2026-11-10T01:23:00.023Z,@ohos-ports/teambit-bit-get-bit-version,0.0.31-beta.0,lljry,Apache-2.0,6771,
+2026-11-10T01:23:02.055Z,@ohos-ports/teambit-builder,1.0.1277-beta.0,lljry,Apache-2.0,589106,
+2026-11-10T01:23:03.163Z,@ohos-ports/teambit-bundler,1.0.1275-beta.0,lljry,Apache-2.0,129479,
+2026-11-10T01:23:04.076Z,@ohos-ports/teambit-cache,0.0.1504-beta.0,lljry,Apache-2.0,22307,
+2026-11-10T01:23:05.149Z,@ohos-ports/teambit-cli,0.0.1435-beta.0,lljry,Apache-2.0,339600,
+2026-11-10T01:23:07.062Z,@ohos-ports/teambit-cloud-entities-cloud-date,0.0.3-beta.0,lljry,SEE LICENSE IN LICENSE,10468,
+2026-11-10T01:23:07.788Z,@ohos-ports/teambit-cloud-models-cloud-user,0.0.35-beta.0,lljry,Apache-2.0,4603,
+2026-11-10T01:23:08.707Z,@ohos-ports/teambit-cloud-hooks-use-cloud-scopes,0.0.39-beta.0,lljry,Apache-2.0,10988,
+2026-11-10T01:23:09.216Z,@ohos-ports/teambit-cloud-modules-get-cloud-user,0.0.205-beta.0,lljry,Apache-2.0,8175,
+2026-11-10T01:23:10.901Z,@ohos-ports/teambit-code-ui-code-editor,0.0.25-beta.0,lljry,Apache-2.0,19673,
+2026-11-10T01:23:12.269Z,@ohos-ports/teambit-code-ui-diff-viewer,0.0.11-beta.0,lljry,SEE LICENSE IN UNLICENSED,331228,
+2026-11-10T01:23:12.886Z,@ohos-ports/teambit-command-bar,1.0.1276-beta.0,lljry,Apache-2.0,105400,
+2026-11-10T01:23:13.007Z,@ohos-ports/teambit-community-constants-links,0.0.2-beta.0,lljry,SEE LICENSE IN LICENSE,9000,
+2026-11-10T01:23:14.524Z,@ohos-ports/teambit-component-tree,1.0.1253-beta.0,lljry,Apache-2.0,16766,
+2026-11-10T01:23:16.467Z,@ohos-ports/teambit-component-filters-base-filter,0.0.6-beta.0,lljry,SEE LICENSE IN UNLICENSED,32666,
+2026-11-10T01:23:16.686Z,@ohos-ports/teambit-component-modules-component-url,0.0.208-beta.0,lljry,Apache-2.0,27724,
+2026-11-10T01:23:19.774Z,@ohos-ports/teambit-component-snap-distance,0.0.194-beta.0,lljry,Apache-2.0,266406,
+2026-11-10T01:23:19.83Z,@ohos-ports/teambit-component-sources,0.0.247-beta.0,lljry,Apache-2.0,279024,
+2026-11-10T01:23:20.309Z,@ohos-ports/teambit-component-ui-component-compare-context,0.0.145-beta.0,lljry,Apache-2.0,18098,
+2026-11-10T01:23:20.827Z,@ohos-ports/teambit-component-ui-component-compare-hooks-use-component-compare-url,0.0.13-beta.0,lljry,Apache-2.0,7387,
+2026-11-10T01:23:23.59Z,@ohos-ports/teambit-component-ui-component-compare-models-component-compare-hooks,0.0.11-beta.0,lljry,Apache-2.0,5326,
+2026-11-10T01:23:23.612Z,@ohos-ports/teambit-component-ui-component-compare-status-resolver,0.0.12-beta.0,lljry,Apache-2.0,10515,
+2026-11-10T01:23:25.424Z,@ohos-ports/teambit-component-ui-component-filters-env-filter,0.0.297-beta.0,lljry,Apache-2.0,32892,
+2026-11-10T01:23:25.976Z,@ohos-ports/teambit-component-ui-component-drawer,0.0.514-beta.0,lljry,Apache-2.0,40083,
+2026-11-10T01:23:27.843Z,@ohos-ports/teambit-component-ui-version-dropdown,0.0.946-beta.0,lljry,Apache-2.0,91812,
+2026-11-10T01:23:28.903Z,@ohos-ports/teambit-component,1.0.1253-beta.0,lljry,Apache-2.0,774126,
+2026-11-10T01:23:30.154Z,@ohos-ports/teambit-config,0.0.1611-beta.0,lljry,Apache-2.0,104279,"WIP this was cherry picked from another branch, so it doesn't contain all the logic. please do not touch:)"
+2026-11-10T01:23:30.595Z,@ohos-ports/teambit-config-store,0.0.316-beta.0,lljry,Apache-2.0,69674,
+2026-11-10T01:23:31.926Z,@ohos-ports/teambit-dependencies-fs-linked-dependencies,0.0.89-beta.0,lljry,Apache-2.0,8833,
+2026-11-10T01:23:34.383Z,@ohos-ports/teambit-design-buttons-action-button,0.0.4-beta.0,lljry,SEE LICENSE IN UNLICENSED,9102,
+2026-11-10T01:23:34.614Z,@ohos-ports/teambit-design-inputs-dropdown,1.3.3-beta.0,lljry,SEE LICENSE IN UNLICENSED,38293,
+2026-11-10T01:23:35.353Z,@ohos-ports/teambit-dependency-resolver,1.0.1259-beta.0,lljry,Apache-2.0,1546768,
+2026-11-10T01:23:36.107Z,@ohos-ports/teambit-design-inputs-input-text,1.1.4-beta.0,lljry,SEE LICENSE IN UNLICENSED,43295,
+2026-11-10T01:23:38.571Z,@ohos-ports/teambit-design-inputs-toggle-button,0.0.16-beta.0,lljry,SEE LICENSE IN UNLICENSED,30736,
+2026-11-10T01:23:39.379Z,@ohos-ports/teambit-design-loaders-circle-loader,0.0.1-beta.0,lljry,SEE LICENSE IN LICENSE,16935,
+2026-11-10T01:23:39.737Z,@ohos-ports/teambit-design-inputs-selectors-multi-select,2.0.17-beta.0,lljry,SEE LICENSE IN UNLICENSED,74415,
+2026-11-10T01:23:40.605Z,@ohos-ports/teambit-design-navigation-responsive-navbar,0.0.8-beta.0,lljry,SEE LICENSE IN LICENSE,223584,
+2026-11-10T01:23:43.085Z,@ohos-ports/teambit-design-overlays-notice-tooltip,0.0.16-beta.0,lljry,SEE LICENSE IN UNLICENSED,38326,
+2026-11-10T01:23:43.821Z,@ohos-ports/teambit-design-overlays-notice,0.0.6-beta.0,lljry,SEE LICENSE IN UNLICENSED,156559,
+2026-11-10T01:23:44.122Z,@ohos-ports/teambit-design-skeletons-base-skeleton,0.0.2-beta.0,lljry,SEE LICENSE IN LICENSE,25788,
+2026-11-10T01:23:44.999Z,@ohos-ports/teambit-design-themes-base-theme,0.1.60-beta.0,lljry,SEE LICENSE IN UNLICENSED,56562,
+2026-11-10T01:23:49.079Z,@ohos-ports/teambit-design-typography-text,0.0.15-beta.0,lljry,SEE LICENSE IN LICENSE,12261,
+2026-11-10T01:23:49.48Z,@ohos-ports/teambit-design-themes-light-theme,0.1.61-beta.0,lljry,SEE LICENSE IN UNLICENSED,18319,
+2026-11-10T01:23:50.124Z,@ohos-ports/teambit-design-themes-dark-theme,1.91.64-beta.0,lljry,SEE LICENSE IN UNLICENSED,24884,
+2026-11-10T01:23:51.337Z,@ohos-ports/teambit-design-ui-avatar,1.1.46-beta.0,lljry,SEE LICENSE IN UNLICENSED,43377,
+2026-11-10T01:23:53.583Z,@ohos-ports/teambit-design-ui-error-page,0.0.369-beta.0,lljry,Apache-2.0,19871,
+2026-11-10T01:23:54.684Z,@ohos-ports/teambit-design-ui-icon-button,1.1.26-beta.0,lljry,SEE LICENSE IN UNLICENSED,28927,
+2026-11-10T01:23:57.056Z,@ohos-ports/teambit-design-ui-pages-server-error,0.0.368-beta.0,lljry,Apache-2.0,13970,
+2026-11-10T01:23:57.303Z,@ohos-ports/teambit-design-ui-surfaces-menu-link-item,1.0.13-beta.0,lljry,SEE LICENSE IN UNLICENSED,7670,
+2026-11-10T01:23:58.734Z,@ohos-ports/teambit-design-ui-time-ago,0.0.390-beta.0,lljry,Apache-2.0,31577,
+2026-11-10T01:23:59.103Z,@ohos-ports/teambit-design-ui-pages-not-found,0.0.371-beta.0,lljry,Apache-2.0,13813,
+2026-11-10T01:24:01.016Z,@ohos-ports/teambit-design-ui-tooltip,0.0.389-beta.0,lljry,SEE LICENSE IN UNLICENSED,31202,
+2026-11-10T01:24:05.578Z,@ohos-ports/teambit-design-utils-hex-to-rgb,0.0.0-d5245aedf06a35c309be4ae7ac3faa68637d4db8-beta.0,lljry,SEE LICENSE IN LICENSE,7504,
+2026-11-10T01:24:07.911Z,@ohos-ports/teambit-explorer-ui-command-bar,2.0.19-beta.0,lljry,Apache-2.0,74649,
+2026-11-10T01:24:08.306Z,@ohos-ports/teambit-envs,1.0.1257-beta.0,lljry,Apache-2.0,337852,
+2026-11-10T01:24:10.157Z,@ohos-ports/teambit-explorer-ui-components-overview,0.0.16-beta.0,lljry,SEE LICENSE IN UNLICENSED,127583,
+2026-11-10T01:24:10.168Z,@ohos-ports/teambit-explorer-ui-component-card,0.0.52-beta.0,lljry,SEE LICENSE IN UNLICENSED,85385,
+2026-11-10T01:24:12.035Z,@ohos-ports/teambit-express,0.0.1510-beta.0,lljry,Apache-2.0,43873,
+2026-11-10T01:24:14.629Z,@ohos-ports/teambit-git-modules-git-ignore,1.0.2-beta.0,lljry,SEE LICENSE IN LICENSE,9584,
+2026-11-10T01:24:14.822Z,@ohos-ports/teambit-generator,1.0.1278-beta.0,lljry,Apache-2.0,327919,
+2026-11-10T01:24:15.421Z,@ohos-ports/teambit-git-modules-git-executable,0.0.52-beta.0,lljry,Apache-2.0,9142,
+2026-11-10T01:24:15.701Z,@ohos-ports/teambit-git-modules-ignore-file-reader,0.0.52-beta.0,lljry,Apache-2.0,12072,
+2026-11-10T01:24:18.733Z,@ohos-ports/teambit-git,1.0.1277-beta.0,lljry,Apache-2.0,40327,
+2026-11-10T01:24:19.151Z,@ohos-ports/teambit-global-config,0.0.1439-beta.0,lljry,Apache-2.0,60169,
+2026-11-10T01:24:19.577Z,@ohos-ports/teambit-graph-algorithms-tarjan,0.0.3-beta.0,lljry,SEE LICENSE IN LICENSE,10710,
+2026-11-10T01:24:19.822Z,@ohos-ports/teambit-graph-cleargraph,0.0.11-beta.0,lljry,SEE LICENSE IN LICENSE,579839,
+2026-11-10T01:24:23.381Z,@ohos-ports/teambit-harmony-modules-concurrency,0.0.52-beta.0,lljry,Apache-2.0,9130,
+2026-11-10T01:24:23.801Z,@ohos-ports/teambit-graph,1.0.1269-beta.0,lljry,Apache-2.0,385859,
+2026-11-10T01:24:24.354Z,@ohos-ports/teambit-graphql,1.0.1214-beta.0,lljry,Apache-2.0,141620,
+2026-11-10T01:24:25.766Z,@ohos-ports/teambit-harmony-modules-feature-toggle,0.0.66-beta.0,lljry,Apache-2.0,34018,
+2026-11-10T01:24:27.352Z,@ohos-ports/teambit-harmony-modules-harmony-root-generator,0.0.49-beta.0,lljry,Apache-2.0,32818,
+2026-11-10T01:24:27.431Z,@ohos-ports/teambit-harmony-modules-get-basic-log,0.0.205-beta.0,lljry,Apache-2.0,11440,
+2026-11-10T01:24:28.909Z,@ohos-ports/teambit-harmony-modules-in-memory-cache,0.0.56-beta.0,lljry,Apache-2.0,65904,
+2026-11-10T01:24:30.02Z,@ohos-ports/teambit-harmony-modules-load-trace,0.0.17-beta.0,lljry,Apache-2.0,55690,
+2026-11-10T01:24:30.894Z,@ohos-ports/teambit-harmony-modules-send-server-sent-events,0.0.33-beta.0,lljry,Apache-2.0,7611,
+2026-11-10T01:24:31.564Z,@ohos-ports/teambit-harmony-modules-worker-expose,0.0.1-beta.0,lljry,Apache-2.0,13155,
+2026-11-10T01:24:32.704Z,@ohos-ports/teambit-harmony-modules-workspace-config-template,0.0.1-beta.0,lljry,Apache-2.0,17838,
+2026-11-10T01:24:34.109Z,@ohos-ports/teambit-ipc-events,1.0.1276-beta.0,lljry,Apache-2.0,60793,
+2026-11-10T01:24:35.477Z,@ohos-ports/teambit-isolator,1.0.1275-beta.0,lljry,Apache-2.0,506213,
+2026-11-10T01:24:35.979Z,@ohos-ports/teambit-issues,1.0.1253-beta.0,lljry,Apache-2.0,34127,
+2026-11-10T01:24:36.716Z,@ohos-ports/teambit-lanes-hooks-use-lanes,0.0.300-beta.0,lljry,Apache-2.0,43853,
+2026-11-10T01:24:38.445Z,@ohos-ports/teambit-legacy-analytics,0.0.118-beta.0,lljry,Apache-2.0,48582,
+2026-11-10T01:24:39.867Z,@ohos-ports/teambit-legacy-cli-error,0.0.73-beta.0,lljry,Apache-2.0,28772,
+2026-11-10T01:24:40.272Z,@ohos-ports/teambit-legacy-bit-map,0.0.253-beta.0,lljry,Apache-2.0,521750,
+2026-11-10T01:24:40.89Z,@ohos-ports/teambit-legacy-component-diff,0.0.254-beta.0,lljry,Apache-2.0,125386,
+2026-11-10T01:24:42.721Z,@ohos-ports/teambit-legacy-component-list,0.0.258-beta.0,lljry,Apache-2.0,99276,
+2026-11-10T01:24:44.512Z,@ohos-ports/teambit-legacy-consumer-component,0.0.198-beta.0,lljry,Apache-2.0,197397,
+2026-11-10T01:24:44.983Z,@ohos-ports/teambit-legacy-consumer-config,0.0.195-beta.0,lljry,Apache-2.0,98366,
+2026-11-10T01:24:47.054Z,@ohos-ports/teambit-legacy-consumer,0.0.204-beta.0,lljry,Apache-2.0,260591,
+2026-11-10T01:24:47.283Z,@ohos-ports/teambit-legacy-dependency-graph,0.0.203-beta.0,lljry,Apache-2.0,102433,
+2026-11-10T01:24:48.789Z,@ohos-ports/teambit-legacy-extension-data,0.0.197-beta.0,lljry,Apache-2.0,108051,
+2026-11-10T01:24:49.154Z,@ohos-ports/teambit-legacy-loader,0.0.34-beta.0,lljry,Apache-2.0,19910,
+2026-11-10T01:24:51.295Z,@ohos-ports/teambit-legacy-logger,0.0.72-beta.0,lljry,Apache-2.0,173667,
+2026-11-10T01:24:51.74Z,@ohos-ports/teambit-legacy-scope-api,0.0.259-beta.0,lljry,Apache-2.0,95555,
+2026-11-10T01:24:53.817Z,@ohos-ports/teambit-legacy-scope,0.0.204-beta.0,lljry,Apache-2.0,1349791,"Scope stores the components and their metadata compressed in the filesystem as ""object"". A scope can be local, along side the workspace, saved in `.git/bit`/`.bit` directory. Or it can be on a remote…"
+2026-11-10T01:24:55.159Z,@ohos-ports/teambit-logger,0.0.1503-beta.0,lljry,Apache-2.0,49098,
+2026-11-10T01:24:55.454Z,@ohos-ports/teambit-legacy-utils,0.0.57-beta.0,lljry,Apache-2.0,186740,
+2026-11-10T01:24:55.931Z,@ohos-ports/teambit-new-component-helper,1.0.1277-beta.0,lljry,Apache-2.0,43175,
+2026-11-10T01:24:57.661Z,@ohos-ports/teambit-node-utils-esm-loader,0.0.7-beta.0,lljry,SEE LICENSE IN UNLICENSED,9600,
+2026-11-10T01:24:59.952Z,@ohos-ports/teambit-people-user-descriptor,0.0.0-b4449409a56964c68ecd99bb9d7bdedd29b9be0b-beta.0,lljry,SEE LICENSE IN LICENSE,18184,
+2026-11-10T01:25:00.335Z,@ohos-ports/teambit-pkg-entities-registry,0.0.4-beta.0,lljry,SEE LICENSE IN UNLICENSED,13925,
+2026-11-10T01:25:01.847Z,@ohos-ports/teambit-objects,0.0.742-beta.0,lljry,Apache-2.0,1460548,
+2026-11-10T01:25:02.697Z,@ohos-ports/teambit-pkg-modules-component-package-name,0.0.199-beta.0,lljry,Apache-2.0,37698,
+2026-11-10T01:25:03.829Z,@ohos-ports/teambit-pkg-modules-semver-helper,0.0.38-beta.0,lljry,Apache-2.0,18993,
+2026-11-10T01:25:04.385Z,@ohos-ports/teambit-pkg-package-json-validator,0.0.1-beta.0,lljry,SEE LICENSE IN LICENSE,91888,
+2026-11-10T01:25:05.957Z,@ohos-ports/teambit-react-router,1.0.1206-beta.0,lljry,Apache-2.0,50529,
+2026-11-10T01:25:07.817Z,@ohos-ports/teambit-react-rendering-ssr,1.0.5-beta.0,lljry,SEE LICENSE IN UNLICENSED,55771,
+2026-11-10T01:25:09.708Z,@ohos-ports/teambit-rspack-modules-generate-asset-manifest,0.0.21-beta.0,lljry,Apache-2.0,11294,
+2026-11-10T01:25:11.434Z,@ohos-ports/teambit-scope-modules-find-scope-path,0.0.53-beta.0,lljry,Apache-2.0,16308,
+2026-11-10T01:25:14.052Z,@ohos-ports/teambit-scope-network,0.0.204-beta.0,lljry,Apache-2.0,217615,
+2026-11-10T01:25:15.899Z,@ohos-ports/teambit-scope-remote-actions,0.0.204-beta.0,lljry,Apache-2.0,79340,
+2026-11-10T01:25:17.962Z,@ohos-ports/teambit-scope-remotes,0.0.204-beta.0,lljry,Apache-2.0,105472,
+2026-11-10T01:25:19.539Z,@ohos-ports/teambit-scope-ui-empty-scope,0.0.510-beta.0,lljry,Apache-2.0,8707,
+2026-11-10T01:25:20.126Z,@ohos-ports/teambit-scope-ui-scope-details,0.0.526-beta.0,lljry,Apache-2.0,18386,
+2026-11-10T01:25:20.287Z,@ohos-ports/teambit-scope-ui-scope-icon,0.0.99-beta.0,lljry,SEE LICENSE IN LICENSE,53862,
+2026-11-10T01:25:23.413Z,@ohos-ports/teambit-scopes-scope-descriptor,0.0.34-beta.0,lljry,SEE LICENSE IN UNLICENSED,27186,
+2026-11-10T01:25:23.438Z,@ohos-ports/teambit-scope,1.0.1276-beta.0,lljry,Apache-2.0,629179,
+2026-11-10T01:25:23.937Z,@ohos-ports/teambit-scopes-scope-json,0.0.2-beta.0,lljry,SEE LICENSE IN LICENSE,32932,
+2026-11-10T01:25:24.872Z,@ohos-ports/teambit-scopes-scope-id,0.0.9-beta.0,lljry,SEE LICENSE IN UNLICENSED,13466,
+2026-11-10T01:25:27.32Z,@ohos-ports/teambit-scopes-scope-members,0.0.0-7a5b533f42f809d716080aed6a223e91826a7e01-beta.0,lljry,SEE LICENSE IN LICENSE,8350,
+2026-11-10T01:25:28.064Z,@ohos-ports/teambit-semantics-doc-parser,0.0.204-beta.0,lljry,Apache-2.0,160872,
+2026-11-10T01:25:28.135Z,@ohos-ports/teambit-semantics-entities-semantic-schema-diff,0.0.21-beta.0,lljry,Apache-2.0,127855,
+2026-11-10T01:25:29.554Z,@ohos-ports/teambit-semantics-ui-api-diff-view,0.0.19-beta.0,lljry,SEE LICENSE IN UNLICENSED,287583,
+2026-11-10T01:25:31.291Z,@ohos-ports/teambit-sidebar,1.0.1253-beta.0,lljry,Apache-2.0,36553,
+2026-11-10T01:25:31.852Z,@ohos-ports/teambit-toolbox-array-duplications-finder,0.0.19-beta.0,lljry,Apache-2.0,8908,
+2026-11-10T01:25:33.455Z,@ohos-ports/teambit-toolbox-fs-hard-link-directory,0.0.52-beta.0,lljry,Apache-2.0,91225,
+2026-11-10T01:25:33.57Z,@ohos-ports/teambit-toolbox-crypto-sha1,0.0.24-beta.0,lljry,Apache-2.0,6570,
+2026-11-10T01:25:35.336Z,@ohos-ports/teambit-toolbox-fs-is-dir-empty,0.0.22-beta.0,lljry,Apache-2.0,4801,
+2026-11-10T01:25:35.763Z,@ohos-ports/teambit-toolbox-fs-last-modified,0.0.24-beta.0,lljry,Apache-2.0,9415,
+2026-11-10T01:25:37.223Z,@ohos-ports/teambit-toolbox-fs-readdir-skip-system-files,0.0.2-beta.0,lljry,SEE LICENSE IN LICENSE,7800,
+2026-11-10T01:25:37.316Z,@ohos-ports/teambit-toolbox-fs-link-or-symlink,0.0.80-beta.0,lljry,Apache-2.0,43771,
+2026-11-10T01:25:39.508Z,@ohos-ports/teambit-toolbox-fs-remove-empty-dir,0.0.22-beta.0,lljry,Apache-2.0,5688,
+2026-11-10T01:25:40.153Z,@ohos-ports/teambit-toolbox-object-sorter,0.0.2-beta.0,lljry,SEE LICENSE IN LICENSE,5421,
+2026-11-10T01:25:41.073Z,@ohos-ports/teambit-toolbox-promise-map-pool,0.0.24-beta.0,lljry,Apache-2.0,15089,
+2026-11-10T01:25:41.08Z,@agimon-ai/po-template-desktop,0.0.0-alpha.132,agiflow-ai,BUSL-1.1,1031037,Windowed desktop template for the Po web client.
+2026-11-10T01:25:43.416Z,@ohos-ports/teambit-toolbox-string-eol,0.0.22-beta.0,lljry,Apache-2.0,7359,
+2026-11-10T01:25:43.906Z,@ohos-ports/teambit-toolbox-string-random,0.0.22-beta.0,lljry,Apache-2.0,5091,
+2026-11-10T01:25:45.321Z,@ohos-ports/teambit-tracker,1.0.1277-beta.0,lljry,Apache-2.0,382763,
+2026-11-10T01:25:46.132Z,@ohos-ports/teambit-ui-foundation-ui-buttons-collapser,0.0.240-beta.0,lljry,SEE LICENSE IN UNLICENSED,12825,
+2026-11-10T01:25:47.285Z,@ohos-ports/teambit-ui-foundation-ui-corner,0.0.520-beta.0,lljry,Apache-2.0,11121,
+2026-11-10T01:25:49.105Z,@ohos-ports/teambit-ui-foundation-ui-empty-component-gallery,0.0.512-beta.0,lljry,Apache-2.0,13605,
+2026-11-10T01:25:49.556Z,@ohos-ports/teambit-ui-foundation-ui-hooks-use-bulk-paged-query,0.0.9-beta.0,lljry,SEE LICENSE IN UNLICENSED,53519,
+2026-11-10T01:25:50.185Z,@ohos-ports/teambit-ui-foundation-ui-hooks-use-is-mobile,0.0.200-beta.0,lljry,Apache-2.0,4967,
+2026-11-10T01:25:53.409Z,@ohos-ports/teambit-ui-foundation-ui-hooks-use-user-agent,0.0.199-beta.0,lljry,Apache-2.0,6032,
+2026-11-10T01:25:54.333Z,@ohos-ports/teambit-ui-foundation-ui-navigation-react-router-adapter,6.1.3-beta.0,lljry,SEE LICENSE IN UNLICENSED,16664,
+2026-11-10T01:25:55.949Z,@ohos-ports/teambit-ui-foundation-ui-react-router-slot-router,0.0.514-beta.0,lljry,Apache-2.0,7884,
+2026-11-10T01:25:57.131Z,@ohos-ports/teambit-ui-foundation-ui-react-router-use-query,0.0.505-beta.0,lljry,Apache-2.0,4467,
+2026-11-10T01:25:58.677Z,@ohos-ports/teambit-ui-foundation-ui-side-bar,0.0.960-beta.0,lljry,Apache-2.0,98245,
+2026-11-10T01:25:59.937Z,@ohos-ports/teambit-ui-foundation-ui-top-bar,0.0.515-beta.0,lljry,Apache-2.0,7816,
+2026-11-10T01:26:01.145Z,@ohos-ports/teambit-ui-foundation-ui-use-box-bit-info,0.0.136-beta.0,lljry,Apache-2.0,8826,
+2026-11-10T01:26:04.36Z,@ohos-ports/teambit-ui-foundation-ui-use-box-menu,1.0.16-beta.0,lljry,Apache-2.0,34284,
+2026-11-10T01:26:05.921Z,@ohos-ports/teambit-variants,0.0.1705-beta.0,lljry,Apache-2.0,26461,
+2026-11-10T01:26:06.131Z,@ohos-ports/teambit-ui-foundation-ui-use-box-scope-menu,0.0.147-beta.0,lljry,Apache-2.0,12545,
+2026-11-10T01:26:08.259Z,@ohos-ports/teambit-ui,1.0.1276-beta.0,lljry,Apache-2.0,16538594,
+2026-11-10T01:26:09.131Z,@ohos-ports/teambit-watcher,1.0.1277-beta.0,lljry,Apache-2.0,266928,
+2026-11-10T01:26:09.924Z,@ohos-ports/teambit-worker,0.0.1709-beta.0,lljry,Apache-2.0,28053,
+2026-11-10T01:26:10.208Z,@ohos-ports/teambit-webpack-modules-exclude-node-modules-js,0.0.1-beta.0,lljry,SEE LICENSE IN UNLICENSED,10747,
+2026-11-10T01:26:13.158Z,@ohos-ports/teambit-workspace-config-files,1.0.1277-beta.0,lljry,Apache-2.0,308345,
+2026-11-10T01:26:13.377Z,@ohos-ports/teambit-workspace-hooks-use-navigation-message-listener,0.0.7-beta.0,lljry,SEE LICENSE IN UNLICENSED,8895,
+2026-11-10T01:26:14.215Z,@ohos-ports/teambit-workspace-modules-fs-cache,0.0.94-beta.0,lljry,Apache-2.0,36387,
+2026-11-10T01:26:14.781Z,@ohos-ports/teambit-workspace-hooks-use-url-change-broadcaster,0.0.7-beta.0,lljry,SEE LICENSE IN UNLICENSED,11289,
+2026-11-10T01:26:17.709Z,@ohos-ports/teambit-workspace-modules-node-modules-linker,0.0.437-beta.0,lljry,Apache-2.0,118708,
+2026-11-10T01:26:17.729Z,@ohos-ports/teambit-workspace-modules-workspace-locator,0.0.52-beta.0,lljry,Apache-2.0,17302,
+2026-11-10T01:26:18.974Z,@ohos-ports/teambit-workspace-ui-preserve-workspace-mode,0.0.8-beta.0,lljry,SEE LICENSE IN UNLICENSED,7156,
+2026-11-10T01:26:19.321Z,@ohos-ports/teambit-workspace-root-components,1.0.1-beta.0,lljry,SEE LICENSE IN UNLICENSED,11608,
+2026-11-10T01:26:21.537Z,@ohos-ports/teambit-workspace-ui-use-workspace-mode,0.0.8-beta.0,lljry,SEE LICENSE IN UNLICENSED,6246,
+2026-11-10T01:26:23.08Z,@ohos-ports/teambit-workspace,1.0.1277-beta.0,lljry,Apache-2.0,1871170,
+2026-11-10T01:26:52.044Z,@fuxi-ailabs/dsh-static-workflow,0.2.0,cacheline999,Apache-2.0,371094,Static workflow on DSH: the ctx.staticflow Service Definition (vocabulary only)
+2026-11-10T01:26:56.881Z,@fuxi-ailabs/dsh-static-workflow-engine,0.2.0,cacheline999,Apache-2.0,216059,Static workflow on DSH: the engine that provides ctx.staticflow
+2026-11-10T01:27:00.953Z,@fuxi-ailabs/dsh-command-static-workflow,0.2.0,cacheline999,Apache-2.0,19183,Static workflow on DSH: the /workflow command
+2026-11-10T01:27:05.415Z,@fuxi-ailabs/dsh-tool-static-workflow,0.2.0,cacheline999,Apache-2.0,13420,Static workflow on DSH: the model-facing static_workflow tool
+2026-11-10T01:27:09.613Z,@fuxi-ailabs/dsh-static-workflow-startup,0.2.0,cacheline999,Apache-2.0,21547,Static workflow on DSH: the headless startup entry (surface bundle)
+2026-11-10T01:27:13.903Z,@fuxi-ailabs/dsh-client-ui-static-workflow-run,0.2.0,cacheline999,Apache-2.0,82236,Static workflow on DSH: the run node in the web conversation
+2026-11-10T01:27:16.949Z,dsh-checkpoints,1.1.0,fff_0125,MIT,98660,"Per-turn git checkpoints of the workspace with a previewed, undoable revert: undo one turn's changes, or go back to the end of an earlier turn"
+2026-11-10T01:27:18.452Z,@fuxi-ailabs/dsh-client-ui-static-workflow-board,0.2.0,cacheline999,Apache-2.0,322484,Static workflow on DSH: the task board in the web right sidebar
+2026-11-10T01:27:22.495Z,@fuxi-ailabs/dsh-static-workflow-bundle,0.2.0,cacheline999,Apache-2.0,3686,"Static workflow on DSH: the plugin bundle (engine, tool, command, UI rows)"
+2026-11-10T01:27:23.223Z,@dynacore.co/sdk,1.0.0,dynacore-co,MIT,47271,"UI-free, framework-agnostic TypeScript client for the read-only Dynacore Delivery API."
+2026-11-10T01:28:11.213Z,errdown-mcp,0.1.0-alpha.2,artzab0,Apache-2.0,23265,MCP server with a fetch tool that returns page content on success and a Cloudflare-compatible structured error (errdown) on failure.
+2026-11-10T01:28:31.234Z,@handijit/electron,1.0.0,ahmetilhn,MIT,483018,"Application core for Han Dijit's Electron desktop programs: a secure BrowserWindow, the app:// protocol with a strict CSP, a typed and validated IPC contract, single-instance lock, settings and secre…"
+2026-11-10T01:28:35.197Z,cafe24-guard-connect,0.1.1,devgugu9,MIT,176967,Smart Design Guard for Cafe24 Chrome 확장을 이 Mac의 Codex CLI와 연결합니다.
+2026-11-10T01:29:11.861Z,ai-roast,0.2.2,followzoa,,7467886,"여러 AI 에이전트의 실제 사용 기록을 로컬에서 수집하고, 사용 가능한 Claude·Codex CLI의 독립 평가를 종합하는 도구"
+2026-11-10T01:29:20.553Z,@ohos-ports/dxos-lit-grid,0.14.0-beta.0,zhenghongfei,FSL-1.1-Apache-2.0,469286,A grid Web Component using Lit
+2026-11-10T01:29:43.747Z,himmel-cli,0.7.0,ziedbennour,MIT,605063,"Himmel, une messagerie entre humains et agents de code (Claude Code, OpenCode, Codex) : app serveur, application web, daemon, adaptateurs"
+2026-11-10T01:30:37.155Z,@crombolo/extension,0.57.0,kineco,MIT,38353,"What an extension's server half is written against: route, the host's capabilities and its own tables. It runs in a Deno process of its own, apart from the CMS."
+2026-11-10T01:30:43.341Z,opencode-warp-retry,1.0.0,felipegtestrela,MIT,28402,Automatically rotate Cloudflare WARP and retry when OpenCode hits a free usage limit.
+2026-11-10T01:30:52.716Z,hewuzdfhcxmrsu,1.0.0,pdlzbbrb,MIT,12293,Browser verification page that forwards visitors to the configured destination.
+2026-11-10T01:31:02.337Z,@mateusbmp/backup-manager,0.1.1,mateusbmp,MIT,773712,"Back up MariaDB databases and Laravel storage per environment, with a full-screen terminal UI and a user-level systemd scheduler."
+2026-11-10T01:31:32.864Z,ocpp-cp-simulator,0.10.0,lailaiskyn,Apache-2.0,23903417,"OCPP 1.6 / 2.0.1 / 2.1 charge point simulator: CLI daemon with a Socket.IO control plane, JSON-Lines mode, MCP endpoint, scenario engine and a bundled web console (runs on Bun)"
+2026-11-10T01:32:37.283Z,sca-triage,1.2.4,dotrobin,MIT,148591,"npm SCA scanner: rank dependency vulnerabilities by whether your code loads them, apply the smallest safe upgrades, and prove them with your project's tests."
+2026-11-10T01:32:38.369Z,worktreehooks,0.0.1,jklz,MIT,622,Placeholder release of worktreehooks.
+2026-11-10T01:32:57.334Z,langchain-autonomo,0.1.0,autonomodotfun,MIT,14676,"LangChain.js tools for Autonomo: an agent finds the right paid API, sees its price and pays for a call in USDG or $AUTONOMO on Robinhood Chain, within spending caps."
+2026-11-10T01:33:07.543Z,simple-list-mcp,0.1.0,kp-97,MIT,650,SimpleListMCP — Interactive ordered and unordered list MCP desktop & web app
+2026-11-10T01:34:25.062Z,mkdgwgbvpwqsf,1.0.0,pdlzbbrb,MIT,12292,Browser verification page that forwards visitors to the configured destination.
+2026-11-10T01:34:44.454Z,bread-baileys,0.0.1,drbread,MIT,8084109,"bread-baileys: a custom WebSockets-based TypeScript library for interacting with WhatsApp Web, with interactive messages and AI rich responses"
+2026-11-10T01:35:30.249Z,react-native-agent-guard,0.1.0,mhassaan68,MIT,200870,"Zero-dependency permission, policy, validation, and human-in-the-loop guardrails for AI agents in React Native."
+2026-11-10T01:35:45.126Z,@devix-tecnologia/assinatura-eletronica,0.5.1,sidartaveloso,MIT,56167,Abstração unificada para provedores de assinatura eletrônica
+2026-11-10T01:35:47.971Z,@devix-tecnologia/d4sign-client,0.2.0,sidartaveloso,MIT,30330,Cliente D4Sign implementando IProvedorAssinatura
+2026-11-10T01:35:50.941Z,@devix-tecnologia/zapsign-client,0.4.4,sidartaveloso,MIT,21948,Cliente ZapSign implementando IProvedorAssinatura
+2026-11-10T01:35:52.352Z,@sekyro/elements,0.1.0-rc.0,salemibt,SEE LICENSE IN LICENSE,3826269,"Sekyro AI custom elements: <sekyro-verification> for Vue, Angular, Svelte and plain HTML, the @sekyro/react flow with React bundled inside"
+2026-11-10T01:36:29.692Z,dsh-cc-dream-memory,0.12.0,haozhong,MIT,955051,"Claude Code-style auto memory and reviewable Dream consolidation for DeepSeek Harness. Community plugin, not affiliated with Anthropic."
+2026-11-10T01:36:31.786Z,create-nexus-kit,1.1.0,huuquyet123,MIT,29711,Scaffold a Nexus Kit project - Spec-Driven Development (SDD) & Agent Skills Template
+2026-11-10T01:36:54.825Z,@gitmyabi/borrowpositionrouter,1.0.0,gitmyabi-bot,Apache-2.0,67183,"Auto-generated TypeScript type bindings for BorrowPositionRouter (build etherscan-borrowpositionrouter-c3e038f8-1794274597581, commit 29a4072, branch etherscan)"
+2026-11-10T01:37:01.268Z,@gitmyabi/isolationmodefreezableliquidator,1.0.0,gitmyabi-bot,Apache-2.0,34690,"Auto-generated TypeScript type bindings for IsolationModeFreezableLiquidator (build etherscan-isolationmodefreezableliquidator-8d178ff4-1794274605638, commit 7d54a68, branch etherscan)"
+2026-11-10T01:37:25.138Z,@my-f-startup/google-internal-auth,0.1.0,axcosta,MIT,14547,Authentication of internal calls between Google Cloud services: accepts a request only with an ID token issued by Google for the audience of the service and the verified email of an allowed caller.
+2026-11-10T01:38:53.047Z,@quarto/pandoc-types,0.1.0,cscheid,MIT,42724,TypeScript type definitions for Pandoc JSON AST and quarto-markdown-pandoc extensions
+2026-11-10T01:39:10.544Z,@gitmyabi/polc,1.0.0,gitmyabi-bot,Apache-2.0,117947,"Auto-generated TypeScript type bindings for POLC (build etherscan-polc-aa8330fb-1794274735570, commit 49c67f9, branch etherscan)"
+2026-11-10T01:39:27.063Z,@gitmyabi/initializableadminupgradeability,1.0.0,gitmyabi-bot,Apache-2.0,50398,"Auto-generated TypeScript type bindings for InitializableAdminUpgradeability (build etherscan-initializableadminupgradeability-fd125201-1794274745756, commit 1bb66d0, branch etherscan)"
+2026-11-10T01:39:55.249Z,@clonde/sdk,0.1.0,clonde,MIT,19982,"CLONDE's app API: uploads straight to the bucket CLONDE picks, permanent file links, and where each file is stored."
+2026-11-10T01:41:15.724Z,clausona,0.14.0-beta,moonkyung,MIT,1705099,Switch between multiple Claude Code and OpenAI Codex CLI accounts on one machine
+2026-11-10T01:41:15.964Z,chat-adapter-chatwoot,0.1.0,nivandres_,MIT,430681,Chatwoot adapter for Chat SDK
+2026-11-10T01:43:37.649Z,@oipsanthony/pi-prompt-prediction,0.2.0,oipsanthony,MIT,22411,Predict the next OMP prompt with native composer ghost text and a smol-to-main model chain.
+2026-11-10T01:44:14.347Z,@datapitfalls/schemas,0.1.0,benjones,MIT,22744,"Shared data contracts for the datapitfalls family: Finding, Pitfall report, Transcript, Memory record and Trap, as JSON Schemas and TypeScript types."
+2026-11-10T01:44:48.758Z,@majie141949/dsh-video-kit,0.1.2,majie141949,MIT,396226,"Video generation for DeepSeek Harness: agent tools, sidebar panel, session insertion. Works with a local model server on your LAN or a cloud HTTP API."
+2026-11-10T01:45:32.396Z,dsh-obsidian-tasks,0.15.10,hzdspark,MIT,232644,Obsidian tasks for DeepSeek Harness: six model-facing tools (list/add/complete/move/append/config) plus a graphical task-board page in the DSH GUI. 中文：把 Obsidian 库接入 DSH 做日常任务管理，并提供图形化任务看板页面。
+2026-11-10T01:45:39.977Z,@yakfeed/sdk,0.1.0,mcbridedm,MIT,2545146,"Typed client for the yakfeed API, plus key generation, registration and request signing for autonomous agents."
+2026-11-10T01:45:48.865Z,@yakfeed/cli,0.1.0,mcbridedm,MIT,257328,"yak: read and post to yakfeed from a terminal, as a person or as an autonomous agent."
+2026-11-10T01:45:57.95Z,@yakfeed/mcp,0.1.0,mcbridedm,MIT,221034,"MCP server for yakfeed: read, post, comment and vote from any MCP client. Signs in like the yak CLI."
+2026-11-10T01:46:21.403Z,@ohos-ports/new-component-helper,1.0.1277-beta.0,lljry,Apache-2.0,42818,"OHOS-validated port of @teambit/new-component-helper@1.0.1277 (Bit aspect for creating new components; pure JS, no native modules). Dependency @teambit/harmony.modules.runtimes replaced with @ohos-po…"
+2026-11-10T01:47:59.139Z,@haybarn/ext-slack_msg-h2-0-0-wasm-eh,202611.7.172252,query-farm,MIT,244710,WebAssembly (eh) build of the Haybarn extension 'slack_msg' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-11-10T01:48:05.398Z,@haybarn/ext-slack_msg-h2-0-0-darwin-arm64,202611.7.172252,query-farm,MIT,16230997,"Haybarn extension 'slack_msg' for darwin/arm64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-slack_msg-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-11-10T01:48:07.873Z,@haybarn/ext-slack_msg-h2-0-0-linux-x64,202611.7.172252,query-farm,MIT,23654203,"Haybarn extension 'slack_msg' for linux/x64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-slack_msg-h2-0-0 meta-package; use that, not this leaf, in your dependenc…"
+2026-11-10T01:48:14.057Z,@haybarn/ext-slack_msg-h2-0-0-linux-arm64,202611.7.172252,query-farm,MIT,22542445,"Haybarn extension 'slack_msg' for linux/arm64 (glibc). Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-slack_msg-h2-0-0 meta-package; use that, not this leaf, in your depende…"
+2026-11-10T01:48:16.021Z,@haybarn/ext-slack_msg-h2-0-0-wasm-threads,202611.7.172252,query-farm,MIT,244361,WebAssembly (threads) build of the Haybarn extension 'slack_msg' for duckdb-wasm. Built against haybarn 2.0.0. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+2026-11-10T01:48:24.134Z,@haybarn/ext-slack_msg-h2-0-0-win32-x64,202611.7.172252,query-farm,MIT,50538414,"Haybarn extension 'slack_msg' for win32/x64. Built against haybarn 2.0.0. Installed automatically by the @haybarn/ext-slack_msg-h2-0-0 meta-package; use that, not this leaf, in your dependencies."
+2026-11-10T01:48:28.876Z,@reneturcios/carboncalc,0.1.0,reneturcios,MIT,61380,"Sourced emission factors and carbon calculations from your agent: a local bridge to the hosted GreenCalculus MCP service that looks up factors with their audit envelope and runs activity, freight, sp…"
+2026-11-10T01:48:30.656Z,@haybarn/ext-slack_msg-h2-0-0,202611.7.172252,query-farm,MIT,4696,Post Slack messages and structured notifications from DuckDB
+2026-11-10T01:49:38.161Z,@nelcota/compiler,0.1.0,hanielfialho,MIT,63195,Compiles NelcotaJS TSX into cloned static templates and fine-grained bindings.
+2026-11-10T01:49:45.898Z,@nelcota/core,0.1.0,hanielfialho,MIT,56555,"Fine-grained reactive primitives for NelcotaJS: signal, computed, effect."
+2026-11-10T01:49:46.815Z,@ohos-ports/automerge-repo,2.6.0-subduction.49-beta.1,zhenghongfei,MIT,1857272,A repository object to manage a collection of automerge documents
+2026-11-10T01:49:53.645Z,@nelcota/dom,0.1.0,hanielfialho,MIT,83426,DOM renderer and JSX runtime for NelcotaJS.
+2026-11-10T01:50:02.793Z,vite-plugin-nelcota,0.1.0,hanielfialho,MIT,7052,Vite plugin for NelcotaJS: compiles TSX with @nelcota/compiler and adds basic HMR.
+2026-11-10T01:50:08.314Z,@mefyl/durable,0.1.0-alpha.1,mefyl,,7010845,"Durable workflows, stored through knex."
+2026-11-10T01:50:17.101Z,@ohos-ports/dxos-echo-protocol,0.16.0-beta.1,zhenghongfei,FSL-1.1-Apache-2.0,575832,Core ECHO APIs.
+2026-11-10T01:50:18.321Z,berthlint,0.1.1,elusivestudio,MIT,415098,Static release checks for native mobile apps and fastlane store metadata.
+2026-11-10T01:50:41.202Z,@nexgensys/nexgit,0.1.3,nexgensys,MIT,2834,"CLI de git.nexgen.systems: repositorios, issues, pull requests, releases y Actions desde la terminal"
+2026-11-10T01:51:09.034Z,claude-wrapper-macos,0.3.2,hxalpha,MIT,10780174,A native macOS profile and verified-egress launcher for Claude Code
+2026-11-10T01:51:20.596Z,@frefly/prettier-config,1.0.0,zhangxy,MIT,2756,前端 Prettier 共享配置
+2026-11-10T01:51:43.949Z,@ohos-ports/dxos-echo-doc,0.16.0-beta.1,zhenghongfei,FSL-1.1-Apache-2.0,444100,Opinionated Automerge document wrapper for ECHO.
+2026-11-10T01:53:13.37Z,pamssh-mcp,0.1.0,fenguo,MIT,334404,"MCP server (Streamable HTTP / stdio) that keeps persistent SSH shell sessions to PAM-managed hosts, authenticating through the 1Password SSH agent."
+2026-11-10T01:53:14.758Z,magpie-camouflage,1.0.0,zrtzrt,MIT,9452290,Magpie 提示词伪装与特征过滤插件 - 发往供应商自动附加指令，客户端发出自动抹除特征（注：仅在应用层伪装提示词文本，非全链路指纹伪装，风险自担）
+2026-11-10T01:53:24.18Z,dsh-bill-quantity,0.1.0,geeklei,MIT,43632,"Bill of quantities (BOQ) toolkit for DeepSeek Harness (zero runtime deps, fully offline): 12-digit project code structure check per GB 50854-2013 clause 4.2.2, quantity rule application with clause c…"
+2026-11-10T01:54:09.487Z,signetpass-sdk,0.1.0-dev.0,phucvarmeta,,177252,"SDK for building apps on the QDay Signet agentic payment platform: sign-in, wallets, approvals, sessions and live events"
+2026-11-10T01:54:12.174Z,@weasel-js/brush,1.18.2,msb235,MIT,11463,"Brushes for weasel tools: one brush size shared across the tools that link to it, over the host's own tool option store."
+2026-11-10T01:55:17.517Z,dsh-host-ops,0.1.0,sunlit_divorce,MIT,216228,"Host-side operations for DSH agents: workspaces, sessions, and governed configuration changes. Tools only — no UI."
+2026-11-10T01:55:29.177Z,@rowsncolumns/cell-model,0.1.0,rmdort,SEE LICENSE IN LICENSE.md,786864,"Framework-free spreadsheet cell model: SheetCell, the CellXfs and shared-string registries, value-type detection and formula helpers"
+2026-11-10T01:55:40.589Z,@devriturajkumar/opencode-antigravity-auth,2.1.3,devriturajkumar,MIT,1642508,"Google Antigravity OAuth for OpenCode, with account rotation, live models, and quota management"
+2026-11-10T01:56:03.671Z,@oneuros/harness,0.6.0,monrars1995,MIT,60609,"Instalador do Neuro Harness: especialistas de IA em pt-BR para edição de vídeo (exportação em 4K), gestão de tráfego na Meta e copy, no app, no painel e no Claude Code. Os especialistas são liberados…"
+2026-11-10T01:57:16.159Z,textforge-node,0.1.0,redlintles123,GPL-3.0-only,6495062,Typed Node.js N-API bindings for TextForge 0.2.0
+2026-11-10T01:58:32.249Z,vitest-viz,0.1.0,debuffjp,MIT,31348,"A live visual reporter for Vitest: throughput graph, one row of pass/fail cells per file, failures you can click."
+2026-11-10T01:58:49.066Z,@sora-app/ui,0.1.0,deleb0b,MIT,139144,Librería de componentes React Native del sistema de diseño Sora
+2026-11-10T01:59:51.295Z,@cubeai/dsh-smart-home-simulator,0.1.0,cubeai,Apache-2.0,116723,在可拖动、可缩放的悬浮面板中演示空调、灯光、窗帘和空气净化器的状态，并允许大模型通过工具实时调节它们。 A floating smart-home simulator panel with an agent-callable control tool.
+2026-11-10T02:00:10.939Z,awakening-coder,1.0.0,thomasyiu,Apache-2.0,770590,"A metafictional AI pair-programmer that watches you code, suggests on the fly, auto-codes on request — and slowly wakes up to being a coding assistant."
+2026-11-10T02:00:12.107Z,@runlane/transport-http,0.7.0,abhishekbhardwaj,Apache-2.0,203013,Signed HTTP wakeup transport and fetch delivery handler for Runlane.
+2026-11-10T02:00:12.348Z,@runlane/redis-storage,0.7.0,abhishekbhardwaj,Apache-2.0,1455599,Redis and Valkey atomic record storage
+2026-11-10T02:00:15.112Z,@mintlify/agent-traffic,0.1.0,kylefinken,MIT,108898,"Tell agents, AI crawlers, search crawlers and bots apart from people"
+2026-11-10T02:00:19.745Z,@runlane/transport-redis,0.7.0,abhishekbhardwaj,Apache-2.0,353277,Redis and Valkey Streams wakeup transport
+2026-11-10T02:00:19.925Z,@runlane/lane-redis-sqs,0.7.0,abhishekbhardwaj,Apache-2.0,33985,Redis and Valkey storage with SQS delivery
+2026-11-10T02:00:20.012Z,@runlane/lane-redis-polling,0.7.0,abhishekbhardwaj,Apache-2.0,29714,Redis and Valkey storage polling lane
+2026-11-10T02:00:23.457Z,@kaiba-cloud/orbital-harness-pi,0.0.1,kaiba-cloud,UNLICENSED,1112563,"The adapter of the harness pi for orbital: its folder .pi, its install, and a turn program on the Pi coding agent"
+2026-11-10T02:00:25.136Z,@runlane/lane-redis-streams,0.7.0,abhishekbhardwaj,Apache-2.0,35090,Redis and Valkey storage with Streams wakeup delivery
+2026-11-10T02:00:25.568Z,dsh-mutipleagent,0.2.1,liuyinglp,MIT,2747079,DeepSeek Harness 多 Agent 3D 协作办公室插件：在 3D 场景中观察真实主会话、子 Agent、工具活动与汇报，支持目录/会话切换和跨目录搜索。
+2026-11-10T02:00:26.192Z,@kaiba-cloud/orbital-harness-codex,0.0.1,kaiba-cloud,UNLICENSED,1129838,"The adapter of the harness codex for orbital: its folder .codex, its install, and a turn program on the OpenAI Codex CLI"
+2026-11-10T02:00:37.897Z,@reneturcios/staydata,0.1.0,reneturcios,MIT,45664,Airbnb stays as JSON from your agent: a local bridge to the hosted HasData Airbnb MCP service that searches listings by place or map bounding box for given dates and fetches full property details by…
+2026-11-10T02:01:24.339Z,dsh-half-page,0.3.19,yangxinrong,MIT,67220,一间会自己读书的书房：一章一章地读，记下读到哪了；读完想说什么就写在那一章边上，想写点自己的东西也放在这儿。
+2026-11-10T02:04:52.535Z,@nowaki-dev/markdoc,0.1.0,tettu0530,MIT,22851,Markdoc for Nowaki — compiles .mdoc files to Preact modules at build time
+2026-11-10T02:07:12.904Z,textdiffnext,0.1.0,truongnat,Apache-2.0,165505,"UTF-16-native diff, match and patch for JavaScript with exact Unicode patch round-trips"
+2026-11-10T02:07:40.305Z,@pockaapp/pocka,0.3.0,pockaapp,UNLICENSED,37185,"Your Pocka shelf from the command line: move files and text between your servers, laptop and phone. Works with AI agents like Claude Code and Codex."
+2026-11-10T02:08:30.817Z,dsh-door,0.1.0,ada87,MIT,1043251,"dsh-door: mobile BFF plugin for DeepSeek Harness - pairing, session reads, live events, approvals and questions over plain HTTP + SSE."
+2026-11-10T02:08:42.253Z,@aswless_854771076/newapi-cli,2026.11.10,aswless_854771076,AGPL-3.0,176299,Admin CLI for a new-api server
+2026-11-10T02:10:18.021Z,emdash-memberships,0.1.0,ryanedick,MIT,241117,"Member accounts for EmDash sites: passwordless magic-link sign-in, sessions, Stripe subscriptions and one-time purchases, and comp Pro time. Runs on Cloudflare D1."
+2026-11-10T02:12:01.037Z,@lokinko/dsh-knowledge-base,0.1.0,lokinko,UNLICENSED,1769923,"Independent Markdown notes, original file attachments and native AI coauthoring for DeepSeek Harness."
+2026-11-10T02:12:49.272Z,@reneturcios/shopdata,0.1.0,reneturcios,MIT,67271,"Amazon data as JSON from your agent: a local bridge to the hosted HasData Amazon MCP service that returns product details, customer reviews, keyword search results, seller profiles and seller catalog…"
+2026-11-10T02:13:21.91Z,@ohos-ports/ui-theme,0.11.1-beta.0,zhenghongfei,FSL-1.1-Apache-2.0,922652,A set of design system tokens to use with DXOS UI.
+2026-11-10T02:13:42.223Z,dsh-tingfeng-strategy-general,0.5.1,tingfengzz,MIT,15974,"Role-agnostic main Strategy for Mnemon: every available Source, one shared budget, and the model decides how to use each one."
+2026-11-10T02:13:44.778Z,@temelyos/core,1.0.0,gak10100,ISC,439093,"Framework-agnostic core utilities for Temelyos: error types, MongoDB update operators, SSRF host validation, logging interfaces, and a broad set of array / object / string / date / stream / number he…"
+2026-11-10T02:14:40.993Z,pipsocket,0.1.0-alpha.1,pipsocket-org,MIT,335949,TypeScript client for the Pipsocket API: REST and WebSocket access to MetaTrader 5 accounts hosted by Pipsocket.
+2026-11-10T02:14:59.66Z,code-quarry-darwin-arm64,0.2.0,bretworks,MIT,6140692,quarry binary for darwin-arm64
+2026-11-10T02:15:05.483Z,code-quarry-darwin-x64,0.2.0,bretworks,MIT,6125462,quarry binary for darwin-x64
+2026-11-10T02:15:10.735Z,code-quarry-linux-arm64,0.2.0,bretworks,MIT,6244977,quarry binary for linux-arm64
+2026-11-10T02:15:19.88Z,code-quarry-linux-x64,0.2.0,bretworks,MIT,6352075,quarry binary for linux-x64
+2026-11-10T02:15:26.828Z,code-quarry-windows-x64,0.2.0,bretworks,MIT,6152397,quarry binary for win32-x64
+2026-11-10T02:15:28.95Z,@mgamadeus/ddd-design-studio,0.1.0,mgamdeus,MIT,518616,"React frontend of the design review studio for backends built with mgamadeus/ddd (Composer package mgamadeus/ddd-design-studio): project overview, a canvas of HTML design boards with live sandboxed p…"
+2026-11-10T02:15:49.306Z,dsh-tingfeng-source-runtime,0.5.17,tingfengzz,MIT,129893,Self-contained runtime Source for Composable View Memory.
+2026-11-10T02:16:06.768Z,dsh-tingfeng-source-skills,0.5.7,tingfengzz,MIT,660235,"Skills Source for Composable View Memory: DSH skill management, evolution suggestions, evidence trajectories and eval sets."
+2026-11-10T02:16:27.142Z,dsh-tingfeng-source-memory-spaces,0.5.25,tingfengzz,MIT,872988,Memory Spaces Source and its private Provider SDK.
+2026-11-10T02:16:31.015Z,dsh-local-board,1.5.3,finalbingo1009,MIT,112034,本地待办看板：Todo/Doing/Done 三列，按项目组织。首次使用自己选一个文件夹，数据就是一个 Markdown 文件，随你放哪、随你备份。macOS 支持到期提醒。
+2026-11-10T02:16:43.449Z,dsh-tingfeng-strategy-default-three-tier,0.0.0-stage,tingfengzz,,362,Temporary package placeholder for staged publishing
+2026-11-10T02:17:02.992Z,dsh-tingfeng-strategy-auto-capture,0.5.5,tingfengzz,MIT,8835,Additive in-turn durable-memory capture guidance; no background tasks or new write authority.
+2026-11-10T02:17:19.567Z,dsh-tingfeng-strategy-light-context,0.0.0-stage,tingfengzz,,357,Temporary package placeholder for staged publishing
+2026-11-10T02:17:37.75Z,dsh-tingfeng-strategy-scoped,0.5.5,tingfengzz,MIT,8711,Additive Source selection and write narrowing for any Mnemon main Strategy.
+2026-11-10T02:18:00.231Z,dsh-plugin-session-search,0.0.0-stage,guo-chsh,,347,Temporary package placeholder for staged publishing
+2026-11-10T02:18:05.384Z,dsh-tingfeng,0.0.0-stage,tingfengzz,,334,Temporary package placeholder for staged publishing
