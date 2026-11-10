@@ -1,0 +1,246 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-10T18:16:05.489Z,@mesh-town/townjump-darwin-x64,0.1.20,mesh-town,AGPL-3.0-only,5122632,townjump binary for darwin-x64
+2026-11-10T18:16:13.139Z,@mesh-town/townjump-linux-x64,0.1.20,mesh-town,AGPL-3.0-only,5398605,townjump binary for linux-x64
+2026-11-10T18:16:21.705Z,@mesh-town/townjump-linux-arm64,0.1.20,mesh-town,AGPL-3.0-only,4899003,townjump binary for linux-arm64
+2026-11-10T18:16:29.966Z,@mesh-town/townjump-linux-arm,0.1.20,mesh-town,AGPL-3.0-only,5084685,townjump binary for linux-arm
+2026-11-10T18:16:37.845Z,@mesh-town/townjump-win32-x64,0.1.20,mesh-town,AGPL-3.0-only,6977794,townjump binary for win32-x64
+2026-11-10T18:16:45.354Z,@mesh-town/townjump-android-arm64,0.1.20,mesh-town,AGPL-3.0-only,4995953,townjump binary for android-arm64
+2026-11-10T18:19:38.552Z,@tootallnate/afc,0.0.1,tootallnate,MIT,77328,Decoder for Nintendo's AFC ADPCM audio used on GameCube and Wii.
+2026-11-10T18:19:44.374Z,@tootallnate/ast,0.0.1,tootallnate,MIT,33202,Parser for Nintendo's AST streamed audio used on GameCube and Wii.
+2026-11-10T18:19:49.548Z,@tootallnate/aurora,0.1.0,tootallnate,MIT,73759,"BioWare Aurora (Star Wars: Knights of the Old Republic I / II) formats: KEY / BIF, ERF / RIM / MOD archives, TPC textures and binary MDL / MDX models."
+2026-11-10T18:19:57.423Z,@tootallnate/bea,0.0.2,tootallnate,MIT,31137,"Parser for Nintendo's BEA (Bezel Engine Archive, `SCNE`) asset container format."
+2026-11-10T18:20:02.755Z,@tootallnate/bflyt,0.1.0,tootallnate,MIT,47108,Structural parser for NintendoWare layout (.bflyt) and layout animation (.bflan) files.
+2026-11-10T18:20:12.673Z,@tootallnate/bitmap-font,0.1.0,tootallnate,MIT,165845,"Convert bitmap fonts to TrueType (traced outlines) and AngelCode BMFont, and read BMFont back."
+2026-11-10T18:20:20.439Z,@tootallnate/brr,0.0.1,tootallnate,MIT,23350,Decoder for SNES BRR (Bit Rate Reduction) audio samples.
+2026-11-10T18:20:24.591Z,@tootallnate/bti,0.0.1,tootallnate,MIT,147317,Decoder for Nintendo BTI textures and GameCube image formats.
+2026-11-10T18:20:31.939Z,@tootallnate/drp,0.1.0,tootallnate,MIT,93592,Decrypts and parses Bandai Namco DRP archives (Pokkén Tournament / Pokkén Tournament DX).
+2026-11-10T18:20:38.451Z,@tootallnate/evfl,0.1.0,tootallnate,MIT,32217,Reader for Nintendo BFEVFL event flowcharts and timelines.
+2026-11-10T18:20:40.518Z,@praveen-raj/vitalscope,0.1.0,praveen-raj,MIT,22726,"Tiny real-user Core Web Vitals SDK (LCP, INP, CLS, FCP, TTFB) under 5 KB gzipped"
+2026-11-10T18:20:43.103Z,@tootallnate/f3dex,0.1.0,tootallnate,MIT,204133,Interpreter for N64 F3D/F3DEX/F3DEX2 display lists and texture formats.
+2026-11-10T18:20:50.987Z,@tootallnate/ff7-psx-model,0.1.0,tootallnate,MIT,119427,"Decoders for Final Fantasy VII PlayStation 3D models: battle models (.LZS) and field characters (.BCX / .BSX), posed and triangulated with textures."
+2026-11-10T18:21:03.785Z,@stephcraft/astro-kit,0.0.1,stephcraft,SEE LICENSE IN LICENSE,18733,Astro utilities
+2026-11-10T18:21:04.273Z,ds-bot-dual-surface,0.3.3,baixiangguo,Apache-2.0,3980570,"DS Bot: a team of long-lived Bots for DeepSeek Harness, with Main Bots, Bot-to-Bot messages and group chats"
+2026-11-10T18:21:07.391Z,@tootallnate/gb-rom,0.0.1,tootallnate,MIT,34430,Parser for Game Boy and Game Boy Color ROM cartridge headers.
+2026-11-10T18:21:12.4Z,@tootallnate/gba-rom,0.0.1,tootallnate,MIT,72358,Parser for Game Boy Advance ROM headers and BIOS compression formats.
+2026-11-10T18:21:17.669Z,@tootallnate/gcm,0.0.1,tootallnate,MIT,45615,Parser for GameCube disc images and their FST filesystem.
+2026-11-10T18:21:22.726Z,@tootallnate/gfbmdl,0.1.0,tootallnate,MIT,208609,"Parser for Game Freak's GFLX FlatBuffers model (.gfbmdl), animation (.gfbanm) and animation-config (.gfbanmcfg) formats, as used by Pokémon: Let's Go, Pikachu! / Eevee!."
+2026-11-10T18:21:27.917Z,@tootallnate/gfmsg,0.1.0,tootallnate,MIT,26542,"Parser for Game Freak's encrypted message text (.dat) and AHTB label hash tables (.tbl), as used by Pokémon: Let's Go, Pikachu! / Eevee! and Sword / Shield."
+2026-11-10T18:21:33.911Z,@tootallnate/goldeneye,0.1.0,tootallnate,MIT,139958,"GoldenEye 007 (N64) file table and model node trees, flattened to bind-posed meshes."
+2026-11-10T18:21:39.286Z,@tootallnate/gx2,0.1.0,tootallnate,MIT,34718,Wii U GX2 (Gfx2) texture and shader files: block listing and tiled surface decoding.
+2026-11-10T18:21:46.046Z,@tootallnate/halo-map,0.1.0,tootallnate,MIT,119729,"Parser for Halo: Combat Evolved cache files (.map): tag index, bitmaps, sounds and models."
+2026-11-10T18:21:51.357Z,@tootallnate/havok,0.1.0,tootallnate,MIT,24641,"Reader for Havok binary packfiles: version, sections and object classes."
+2026-11-10T18:21:57.585Z,@tootallnate/hps,0.0.1,tootallnate,MIT,49325,Decoder for HAL's HPS streamed audio used by Super Smash Bros. Melee.
+2026-11-10T18:22:02.697Z,@tootallnate/hsd,0.0.1,tootallnate,MIT,213555,Parser for HAL's HSDArchive containers used by Super Smash Bros. Melee.
+2026-11-10T18:22:08.156Z,@tootallnate/idtech-models,0.1.0,tootallnate,MIT,93664,"Parsers for DOOM 3 BFG Edition compiled models: BRMl static models, MD5 meshes and animations, and .bproc level geometry."
+2026-11-10T18:22:13.841Z,@tootallnate/idtech3,0.1.0,tootallnate,MIT,55612,"id Tech 3-family formats (Quake III, Star Wars Jedi Knight II / Jedi Academy): MD3 models, Ghoul2 GLM meshes, IBSP / RBSP levels and .skin files."
+2026-11-10T18:22:18.024Z,@ultime/checks,0.2.0,ultime,MIT,110855,通用的仓库约束检测工具：CLI 与 Node API，规则由配置注入
+2026-11-10T18:22:19.54Z,@tootallnate/iso9660,0.1.0,tootallnate,MIT,40667,"Parser for ISO 9660 CD-ROM filesystems over raw (2352-byte) or cooked (2048-byte) sectors, including CD-XA attributes for Form 2, interleaved and CD-DA files."
+2026-11-10T18:22:24.943Z,@tootallnate/j3d,0.0.1,tootallnate,MIT,408030,Parser for Nintendo J3D BMD and BDL 3D models used on GameCube and Wii.
+2026-11-10T18:22:29.594Z,@tootallnate/lc-lz2,0.0.1,tootallnate,MIT,28429,Decoder for the LC_LZ2 compression used by Super Mario World.
+2026-11-10T18:22:35.863Z,@tootallnate/lzma,0.1.0,tootallnate,MIT,56290,"Small dependency-free LZMA (LZMA1) decoder, for Unity LZMA-compressed asset bundles and `.lzma` streams."
+2026-11-10T18:22:41.003Z,@tootallnate/mio0,0.0.1,tootallnate,MIT,26422,Decoder for Nintendo's MIO0 LZ-style compression.
+2026-11-10T18:22:47.595Z,@ashmit1812/dsa-kit,1.0.1,ashmit1812,MIT,33039,"Typed, zero-dependency data structures (Stack, Queue, LinkedList, BST, Heap) with built-in terminal visualization. Made for students learning DSA."
+2026-11-10T18:22:47.797Z,@tootallnate/mtf,0.1.0,tootallnate,MIT,25461,Capcom MT Framework formats (Resident Evil 0 / 1 HD on Switch): ARC archives and TEX textures.
+2026-11-10T18:22:47.846Z,@astrojs/runtime,0.1.0,matthewp,MIT,484201,The render runtime of Astro components.
+2026-11-10T18:22:50.631Z,@astrojs/vite-plugin-astro,0.1.0,matthewp,MIT,137052,Vite plugin for the Astro component language.
+2026-11-10T18:22:52.869Z,@tootallnate/mth,0.0.1,tootallnate,MIT,53869,Parser for Melee's MTH video container.
+2026-11-10T18:22:53.289Z,@astrojs/react-renderer,0.1.0,matthewp,MIT,31152,"The React renderer of Astro components, for `astro()` from `@astrojs/vite-plugin-astro`"
+2026-11-10T18:22:55.025Z,remove-deepseek-logo,1.0.0,dlgrv,MIT,6622,"DeepSeek Harness plugin: removes the logo, brand name, local-build label, version, and the conversation hero fish from the sidebar"
+2026-11-10T18:22:55.837Z,@astrojs/preact-renderer,0.1.0,matthewp,MIT,23930,"The Preact renderer of Astro components, for `astro()` from `@astrojs/vite-plugin-astro`"
+2026-11-10T18:22:57.684Z,@tootallnate/n64-rom,0.0.1,tootallnate,MIT,58610,Parser for Nintendo 64 ROM images with byte-order normalization.
+2026-11-10T18:22:58.255Z,@astrojs/solid-js-renderer,0.1.0,matthewp,MIT,17075,"The Solid renderer of Astro components, for `astro()` from `@astrojs/vite-plugin-astro`"
+2026-11-10T18:23:00.702Z,@astrojs/svelte-renderer,0.1.0,matthewp,MIT,16360,"The Svelte renderer of Astro components, for `astro()` from `@astrojs/vite-plugin-astro`"
+2026-11-10T18:23:02.55Z,@tootallnate/n64-seq,0.1.0,tootallnate,MIT,179090,N64 sequenced music (Super Mario 64 / Mario Kart 64 audio library): M64 sequence player and sample synth.
+2026-11-10T18:23:03.217Z,@astrojs/vue-renderer,0.1.0,matthewp,MIT,17800,"The Vue renderer of Astro components, for `astro()` from `@astrojs/vite-plugin-astro`"
+2026-11-10T18:23:06.882Z,@tootallnate/n64-soundbank,0.1.0,tootallnate,MIT,89449,Extractor for N64 SDK ctl/tbl sound banks used by Super Mario 64 and others.
+2026-11-10T18:23:12.058Z,dsh-learning-quirky-stuff,4.3.1,juruo,MIT,10906530,学习画板：手写与截图笔记、AI 图文总结、系统学习、知识图谱、间隔复习和周报
+2026-11-10T18:23:14.477Z,@tootallnate/nes-audio,0.0.1,tootallnate,MIT,196170,Renders NES ROM music to PCM by emulating the 6502 and APU.
+2026-11-10T18:23:19.451Z,@tootallnate/nes-rom,0.0.1,tootallnate,MIT,31435,Parser for NES ROM images in iNES and NES 2.0 format.
+2026-11-10T18:23:27.754Z,@tootallnate/nu3,0.1.0,tootallnate,MIT,150373,"Parsers for Bandai Namco NU3 formats: NUT textures, NUD models and VBN skeletons (Pokkén Tournament, Smash 4)."
+2026-11-10T18:23:30.276Z,@ohos-ports/n8n-mcp-browser,0.23.0-beta.1,zhenghongfei,SEE LICENSE IN LICENSE.md,592043,"Browser automation MCP tools built on Playwright, WebDriver BiDi, and safaridriver"
+2026-11-10T18:23:32.28Z,@tootallnate/nus3,0.1.0,tootallnate,MIT,32328,"Parser for Bandai Namco NUS3BANK sound banks, with an IDSP (multi-channel DSP-ADPCM) decoder."
+2026-11-10T18:23:37.181Z,@tootallnate/nvn-texture,0.1.0,tootallnate,MIT,18392,NVN texture files (DFvN): the Switch SDK font and debug textures.
+2026-11-10T18:23:42.486Z,@tootallnate/pbp,0.1.0,tootallnate,MIT,105643,"Parser for PSP EBOOT.PBP files, including PlayStation (PS1) PSISOIMG / PSTITLEIMG disc images and PARAM.SFO."
+2026-11-10T18:23:48.841Z,@tootallnate/platinum,0.1.0,tootallnate,MIT,159961,"Parsers for PlatinumGames formats (Bayonetta 3, Astral Chain, NieR): PKZ packages, DAT/DTT archives, WTA/WTP/WTB textures, WMB3 models and MOT animations."
+2026-11-10T18:23:51.423Z,@miggish/design,0.1.0,migueldamota,MIT,43725,"miggi. design system: tokens, CSS components and thin React components."
+2026-11-10T18:23:53.921Z,@tootallnate/pokestadium,0.1.0,tootallnate,MIT,143253,"Pokémon Stadium 2 (N64) asset archives, PERS-SZP/Yay0 FRAGMENT modules, and Pokémon/arena models."
+2026-11-10T18:23:59.29Z,@tootallnate/psx-str,0.1.0,tootallnate,MIT,100530,Decoders for PlayStation STR movies (MDEC v2 / v3 video) and CD-XA ADPCM audio.
+2026-11-10T18:24:03.832Z,@tootallnate/psx-tim,0.1.0,tootallnate,MIT,24506,"Decoder for PlayStation TIM images (4 / 8 / 16 / 24 bpp), including a scanner for TIMs embedded in game archives."
+2026-11-10T18:24:08.331Z,@tootallnate/rarc,0.0.1,tootallnate,MIT,68591,Parser for Nintendo RARC archives used on GameCube and Wii.
+2026-11-10T18:24:13.22Z,@tootallnate/rare-1172,0.0.2,tootallnate,MIT,32812,Decoder for the Rare 1172 deflate container used by GoldenEye 007 and Perfect Dark.
+2026-11-10T18:24:18.643Z,@untangle-code/domain,0.1.0,lboel,AGPL-3.0-only,1166380,"Untangle domain core: pure types, ports, deterministic IDs, error codes, and executable invariants. No I/O, no adapters."
+2026-11-10T18:24:18.662Z,@tootallnate/rvz,0.0.1,tootallnate,MIT,66106,Reader for Dolphin RVZ and WIA compressed GameCube/Wii disc images.
+2026-11-10T18:24:21.633Z,@untangle-code/chunker,0.1.0,lboel,AGPL-3.0-only,281322,"Untangle AST chunker: lossless, token-budgeted code chunking with line-fallback and minified strategies (spec.md §8, architecture.md §6.6, §14)."
+2026-11-10T18:24:24.389Z,@untangle-code/complexity,0.1.0,lboel,AGPL-3.0-only,405942,"Untangle complexity engine: pure, deterministic calculators for cyclomatic, cognitive, structural, textual, syntactic, Halstead and maintainability metrics, plus aggregation and explainability (spec.…"
+2026-11-10T18:24:25.421Z,@tootallnate/sm64,0.1.0,tootallnate,MIT,99983,"Super Mario 64 level scripts (segments, models, areas) and geo layouts, flattened to meshes."
+2026-11-10T18:24:26.987Z,@untangle-code/config,0.1.0,lboel,AGPL-3.0-only,297883,"Untangle configuration: types, discovery, layering, JSON Schema, secret redaction and canonical effective config."
+2026-11-10T18:24:27.217Z,tps-meter,1.0.0,aminlight51,,19677,Shows the model's live output speed (tokens per second) under the composer.
+2026-11-10T18:24:29.58Z,@untangle-code/file-graph,0.1.0,lboel,AGPL-3.0-only,780550,"Untangle file dependency graph: import extraction, module resolution, monorepo topology (workspace packages and container services), transitive queries with cycle reporting and incremental updates (s…"
+2026-11-10T18:24:30.044Z,@tootallnate/smw,0.0.1,tootallnate,MIT,35974,Parser for Super Mario World ROM graphics and palettes.
+2026-11-10T18:24:31.946Z,@untangle-code/observability,0.1.0,lboel,AGPL-3.0-only,143409,"Untangle observability: typed errors, structured logging, redaction, correlation ids, metrics and profiling. No I/O ports beyond stderr/process."
+2026-11-10T18:24:34.923Z,@untangle-code/jobs,0.1.0,lboel,AGPL-3.0-only,277675,"Untangle job core: index job state machine (spec.md §11.1), typed job events, checkpoint store, resume planning, generation commit, bounded queues with backpressure and AbortSignal cancellation (arch…"
+2026-11-10T18:24:35.225Z,@tootallnate/snes-rom,0.0.1,tootallnate,MIT,62941,Parser for Super Nintendo ROM images and internal headers.
+2026-11-10T18:24:37.892Z,@untangle-code/parser-registry,0.1.0,lboel,AGPL-3.0-only,1142217,Untangle parser registry: lazy-loaded LanguageAdapter registry plus TypeScript/JavaScript/TSX/JSX tree-sitter adapters.
+2026-11-10T18:24:40.342Z,@untangle-code/scanner,0.1.0,lboel,AGPL-3.0-only,236717,"Untangle scanner: recursive file discovery, ignore rules, symlink safety, binary/language classification and the content-hash pipeline."
+2026-11-10T18:24:42.833Z,@untangle-code/storage-qdrant,0.1.0,lboel,AGPL-3.0-only,350730,"Untangle Qdrant storage adapter: VectorStore, MetadataStore and GraphStore over the Qdrant REST API (spec.md §10, §13.2–§13.5; architecture.md §11)."
+2026-11-10T18:24:45.275Z,@untangle-code/symbol-graph,0.1.0,lboel,AGPL-3.0-only,501953,"Untangle symbol graph: deterministic symbol nodes and call edges with honest resolution confidence, call paths, entry-point detection (WP-88) and impact analysis (spec.md §15, architecture.md §17)."
+2026-11-10T18:24:48.823Z,@untangle-code/core,0.1.0,lboel,AGPL-3.0-only,913129,"Untangle index pipeline: the stage implementations (discovery, analysis, embedding, storage, graphs, commit) that wire scanner, parser-registry, chunker, complexity, embeddings, storage and the graph…"
+2026-11-10T18:24:51.188Z,@untangle-code/embeddings-ollama,0.1.0,lboel,AGPL-3.0-only,215039,"Untangle EmbeddingProvider adapter for Ollama: endpoint auto-detection, readiness, batching with backoff, truncation guard and embedding cache (spec.md §9, architecture.md §6.8)."
+2026-11-10T18:24:53.936Z,@untangle-code/extension-runtime,0.1.0,lboel,AGPL-3.0-only,738622,"Untangle analyzer-extension runtime: manifest loading and validation, output-format parsers (sarif, junit-xml, generic-findings, generic-metrics), license gate, pinned digests and the process/HTTP bo…"
+2026-11-10T18:24:56.586Z,@untangle-code/graph-explorer,0.1.0,lboel,AGPL-3.0-only,248754,"Deterministic, self-contained offline HTML explorer for Untangle file and symbol graph snapshots."
+2026-11-10T18:24:59.289Z,@untangle-code/search,0.1.0,lboel,AGPL-3.0-only,1140825,"Untangle retrieval core: hybrid search (dense + deterministic BM25 + exact symbol names) with reciprocal rank fusion, explainable score breakdowns, complexity/findability filters, grep mode and deter…"
+2026-11-10T18:25:02.435Z,@untangle-code/storage-lancedb,0.1.0,lboel,AGPL-3.0-only,269165,"Persistent local LanceDB storage for Untangle: real vector tables, collection metadata and cross-process serialized mutations."
+2026-11-10T18:25:05.001Z,@untangle-code/storage-local,0.1.0,lboel,AGPL-3.0-only,320847,"Untangle local state under .untangle/: cache (embeddings/parser/git-blobs), atomic checkpoint mirror, file-based LockProvider, path-sandboxed FileSystemPort adapter."
+2026-11-10T18:25:07.944Z,@untangle-code/watcher,0.1.0,lboel,AGPL-3.0-only,169830,"Untangle watcher: native recursive filesystem watching with debounce/coalescing, periodic reconciliation and cross-process ref locking (spec.md §12.3, §12.1; architecture.md §21.1)."
+2026-11-10T18:25:11.699Z,@untangle-code/cli,0.1.0,lboel,AGPL-3.0-only,3849497,"Local search and complexity harness for coding agents: code graphs, declared feature ownership and spec-to-code evidence."
+2026-11-10T18:25:14.649Z,@untangle-code/context-artifacts,0.1.0,lboel,AGPL-3.0-only,469217,"Untangle context artifact adapters: Markdown/ADR, SQL schema, OpenAPI/AsyncAPI, Protobuf, Terraform/HCL, Kubernetes YAML, Docker/Compose and a safe text fallback, aggregated behind one ArtifactAdapte…"
+2026-11-10T18:25:33.699Z,wide-cli,0.3.101126,sl4de0day,GPL-3.0-or-later,540275,Terminal-first autonomous AI coding & security agent for the Wide ecosystem
+2026-11-10T18:25:47.179Z,hydrilla-mcp,2.0.1,nagaveti,UNLICENSED,26616,"MCP server for Hydrilla: generate 3D models and send them into Blender, Unity, Unreal, Godot, Maya or 3ds Max."
+2026-11-10T18:25:56.978Z,@tootallnate/ssm,0.0.1,tootallnate,MIT,63715,Decoder for HAL's SSM sound-sample banks used by Super Smash Bros. Melee.
+2026-11-10T18:26:01.842Z,@tootallnate/tga,0.1.0,tootallnate,MIT,21164,"Truevision TGA image decoder (palette, true-colour and greyscale, raw or RLE)."
+2026-11-10T18:26:06.365Z,@tootallnate/thp,0.0.1,tootallnate,MIT,90478,Parser for Nintendo's THP video container used on GameCube and Wii.
+2026-11-10T18:26:09.078Z,fable5-cli,0.2.0-beta.2,fable5app,,102233,Install Skills safely from an agent or a terminal.
+2026-11-10T18:26:11.338Z,@tootallnate/trinity,0.1.0,tootallnate,MIT,178717,"Parser for Game Freak's Trinity model formats (.trmdl, .trmsh, .trmbf, .trmtr, .trskl, .trmmt), as used by Pokémon Legends: Arceus."
+2026-11-10T18:26:16.279Z,@tootallnate/trpfs,0.1.0,tootallnate,MIT,44741,"Game Freak Trinity virtual file system (Pokémon Scarlet / Violet, Legends: Arceus): .trpfd descriptors, .trpfs pack files, .trpak packs, and path-hash name recovery."
+2026-11-10T18:26:21.932Z,@tootallnate/uking-data,0.1.0,tootallnate,MIT,45781,"Breath of the Wild engine data tables: STAT maps, PrOD placements, ecosystem maps, RSTB, XLNK."
+2026-11-10T18:26:24.892Z,@munitoai/cli,0.1.1,munito-ops,Apache-2.0,262805,The Munito AI command line tool and SDK: run a coding agent in a sandbox with one command.
+2026-11-10T18:26:27.239Z,@tootallnate/uking-terrain,0.1.0,tootallnate,MIT,34799,"Breath of the Wild terrain: height, material and grass/water tiles, and the TSCB scene table."
+2026-11-10T18:26:34.883Z,@tootallnate/vadpcm,0.1.0,tootallnate,MIT,63078,Decoder for N64 VADPCM audio and the AIFC container.
+2026-11-10T18:26:40.853Z,@tootallnate/vfxb,0.1.0,tootallnate,MIT,20327,Reader for NintendoWare VFXB particle effect files (PTCL).
+2026-11-10T18:26:47.669Z,@tootallnate/wsys,0.0.1,tootallnate,MIT,124509,Parser for Nintendo JAudio AAF archives and WSYS wave indices used on GameCube.
+2026-11-10T18:26:51.597Z,@connected-web/cweb-comments,0.2.24,johnbeech,UNLICENSED,19672,Resource-aware comment commands for the Connected Web CLI
+2026-11-10T18:26:54.926Z,@tootallnate/xiso,0.1.0,tootallnate,MIT,20557,"Parser for Xbox / Xbox 360 XDVDFS disc images (.iso / .xiso), both extract-xiso and full redump layouts."
+2026-11-10T18:26:59.854Z,@tootallnate/yay0,0.0.1,tootallnate,MIT,30192,Decoder for Nintendo's Yay0 LZ-style compression.
+2026-11-10T18:27:05.182Z,@tootallnate/z64-audio,0.0.2,tootallnate,MIT,39411,Extractor for Zelda 64 Audiobank soundfont samples and Audiotable audio.
+2026-11-10T18:27:09.899Z,@tootallnate/z64-fs,0.0.1,tootallnate,MIT,36805,Parser for the Zelda 64 dmadata filesystem in N64 ROMs.
+2026-11-10T18:27:14.804Z,@tootallnate/z64-object,0.1.0,tootallnate,MIT,141566,"Zelda 64 (Ocarina of Time / Majora's Mask) object files: object table, skeletons and their bind-posed meshes."
+2026-11-10T18:27:16.852Z,@connected-web/cweb-membership,0.8.58,johnbeech,,7406,"`cweb-membership` manages Connected Web organisations and projects through the authenticated Membership API. References may be canonical ids or aliases, but aliases are resolved only from the current…"
+2026-11-10T18:27:18.72Z,@ohos-ports/dm-sans,0.4.2-beta.1,ljry,MIT AND OFL-1.1,2998185,Use the DM Sans font family from Google Fonts in your Expo app (HarmonyOS port)
+2026-11-10T18:27:22.296Z,@connected-web/cweb-files,0.2.86,johnbeech,,15874,"`cweb-files` is the terminal companion for workspace-scoped Files. It resolves aliases from Membership, creates a version, uploads bytes directly to its short-lived signed URL, and finalises the vers…"
+2026-11-10T18:27:27.334Z,@connected-web/cweb-notes,0.5.77,johnbeech,,11487,Workspace-aware note commands for the Connected Web CLI
+2026-11-10T18:27:31.931Z,@connected-web/cweb-tasks,0.13.74,johnbeech,UNLICENSED,55344,Workspace-aware task commands for the Connected Web CLI
+2026-11-10T18:27:36.58Z,@connected-web/cweb-pages,0.2.94,johnbeech,UNLICENSED,16350,Workspace-aware page commands for the Connected Web CLI
+2026-11-10T18:27:38.194Z,@hoknie/aip,0.1.0,hoknie,MIT,5884037,"aip: local orchestrator for a swarm of AI agents (Claude Code, OpenCode)"
+2026-11-10T18:27:42.099Z,@connected-web/cweb-support,0.2.44,johnbeech,UNLICENSED,17224,"Support, sent email, usage and allowance commands for the Connected Web CLI"
+2026-11-10T18:27:52.245Z,@bordeo/scrypted-bticino-c100x,0.1.0,bordeo,,71550,Scrypted plugin for BTicino Classe 100X video door entry via Legrand cloud
+2026-11-10T18:27:52.66Z,gamedexy,0.1.0,imafreq,MIT,155194,"Let your AI coding agent play your mobile game on a simulator or emulator and map it with Gamedexy Game Map: every screen, the first session, money and ads, bugs, and a comparison with real top games."
+2026-11-10T18:30:35.563Z,@ismailnakkar/rich-text-editor,1.1.1,ismail3,MIT,27544,"A Tiptap rich-text editor that takes a textarea's place and writes what laravel-safe-html stores, while the textarea stays the posted field."
+2026-11-10T18:30:42.483Z,dsh-plugin-mail-widget,0.1.2,yixuan.li,MIT,228049,在 DeepSeek Harness 里看未读邮件：近 7 天 / 近一个月的未读邮件与发件人，提供挂件页面和两个 agent 工具，跨平台 IMAP。
+2026-11-10T18:30:50.167Z,sapphire-services,1.0.1,prometheanservices,ISC,1782,A service utility to handle legacy and modern API key normalization.
+2026-11-10T18:31:08.005Z,easy-ses,0.1.0,mahesh_inder,MIT,46485,"Nodemailer plus Amazon SES, with nothing to set up."
+2026-11-10T18:31:14.875Z,daboos,0.1.0,hailbahafi,MIT,1317673,"Daboos TypeScript SDK. Release 1: server-side conversion tracking (track.lead, track.sale); the rest of the API needs release 2."
+2026-11-10T18:31:22.551Z,@polza-ai/dsh-plugin-polza,0.2.0,polza.ai,MIT,317744,Polza.ai — российский LLM-агрегатор как провайдер моделей DeepSeek Harness
+2026-11-10T18:31:27.542Z,@ida-dev/core,0.1.0,venturecharms,MIT,133488,"Event chain recorder: templates, causality, corruption detection, JSON export"
+2026-11-10T18:31:54.753Z,@ida-dev/adapter-eventemitter,0.1.0,venturecharms,MIT,30916,Node EventEmitter adapter for the event chain debugger
+2026-11-10T18:32:10.035Z,@ida-dev/adapter-eventtarget,0.1.0,venturecharms,MIT,18016,DOM EventTarget adapter for the event chain debugger
+2026-11-10T18:32:22.541Z,@computesdk/boat,1.0.1,kisernl,MIT,121721,"Boat provider for ComputeSDK - Ubuntu cloud sandboxes with streaming, named snapshots, signed file transfers, and preview URLs"
+2026-11-10T18:32:24.574Z,@ahoy-ai/core,0.1.1,eliasn,MIT,1336603,"Internal: the platform-neutral client behind Ahoy's SDKs (@ahoy-ai/react-native, @ahoy-ai/web). No stability promise beyond what those SDKs use."
+2026-11-10T18:32:25.042Z,@computesdk/briq,1.0.1,kisernl,MIT,112598,"Briq provider for ComputeSDK - sandboxes on microVMs with commands, files, previews and interactive processes"
+2026-11-10T18:32:26.469Z,mas-office-runtime,0.3.0,simonwxj,MIT,211047,"Drive a MAS Office team of real Claude Code and Codex sessions: session adapters, scheduler, review loop, gates and the Lead."
+2026-11-10T18:32:30.131Z,@computesdk/cocoonstack,1.0.1,kisernl,MIT,139232,Cocoon Stack provider for ComputeSDK - self-hosted microVM sandboxes served from warm pools by sandboxd
+2026-11-10T18:32:30.513Z,@domsync/domsync,1.3.3,neiromaster,MIT,29860,Sync a local domain list to an OpenClash rule-provider file
+2026-11-10T18:32:33.885Z,@ida-dev/cloud,0.1.0,venturecharms,MIT,58913,"Uploads event chain recordings to the Ida server, spooling locally while offline"
+2026-11-10T18:32:51.484Z,@computesdk/sandbox-cli,0.1.1,kisernl,MIT,87288,"sandbox-cli provider for ComputeSDK - microVM sandboxes with their own kernel, behind one API on a Mac, a self-hosted Linux machine or the cloud"
+2026-11-10T18:32:55.655Z,@ahoy-ai/web,0.1.1,eliasn,MIT,112286,In-app support chat for websites and web apps: an AI agent that answers from your docs and hands off to your team. The loader for bundlers; the script tag is served from Ahoy's CDN.
+2026-11-10T18:33:15.566Z,@ahoy-ai/react,0.1.1,eliasn,MIT,17038,"Ahoy support chat for React and Next.js apps: AhoyProvider and hooks over the Ahoy web loader. SSR-safe, no UI of its own."
+2026-11-10T18:34:17.714Z,@dtsx/bun,0.11.39,chrisbreuer,MIT,16181,A Bun Bundler plugin that auto generates your DTS types extremely fast.
+2026-11-10T18:34:20.016Z,@dtsx/esbuild,0.11.39,chrisbreuer,MIT,13787,An esbuild plugin that auto generates your DTS types extremely fast.
+2026-11-10T18:34:22.646Z,@dtsx/tsdown,0.11.39,chrisbreuer,MIT,4236,A tsdown plugin that generates your declarations with dtsx.
+2026-11-10T18:34:23.823Z,knowns-ui,0.1.0,howznguyen,MIT,27831,Short install command for Knowns UI: npx knowns-ui@latest add <name>. A thin wrapper around the shadcn CLI.
+2026-11-10T18:34:24.905Z,@dtsx/tsup,0.11.39,chrisbreuer,MIT,15516,A tsup plugin that auto generates your DTS types extremely fast.
+2026-11-10T18:34:26.871Z,@dtsx/vite,0.11.39,chrisbreuer,MIT,13824,"A modern, fast .d.ts generation tool, powered by Bun."
+2026-11-10T18:34:28.892Z,@dtsx/webpack,0.11.39,chrisbreuer,MIT,18711,A webpack plugin that auto generates your DTS types extremely fast.
+2026-11-10T18:35:24.629Z,@wonderboymusic/oxc-config,1.0.1,wonderboymusic,MIT,21186,Shared oxlint and oxfmt configuration
+2026-11-10T18:36:06.159Z,@aws/durable-execution-sdk-js-compute-worker,0.1.0-alpha.0,durable-execution-dev,Apache-2.0,335333,"Runs jobs from durable functions on compute defined outside the function. The microvm subpath runs inside an AWS Lambda MicroVM: it receives a job from a durable function's microvm operation, sends h…"
+2026-11-10T18:36:09.512Z,@daboos/analytics,0.1.0,hailbahafi,MPL-2.0,40108,Daboos browser analytics: React component and helpers that load the Daboos tracking script
+2026-11-10T18:36:40.399Z,@ohos-ports/eppo-react-native-sdk,3.8.0-beta.1,ljry,MIT,127897,Eppo React Native SDK
+2026-11-10T18:37:21.927Z,@superjackfruitlabs/treaty-outbox,0.0.5,rakeshgangwar,MIT,18639,"Transactional outbox and deduplicating inbox for CloudEvents, on Durable Object SQLite and on Postgres."
+2026-11-10T18:37:25.246Z,@akiki/vad,0.1.0,akiki-ai,Apache-2.0,2242654,Local streaming voice activity detection for browsers using WebAssembly
+2026-11-10T18:37:27.801Z,@akiki/vad-lite,0.1.0,akiki-ai,Apache-2.0,1355675,"Local streaming voice activity detection for browsers using WebAssembly, with a compact INT8 model"
+2026-11-10T18:38:00.67Z,@freecorps/mail-sdk,0.1.0,hhs0001,MIT,34882,"Typed client for Ember Mail (freecorps/mail), a Resend-style email API on Cloudflare: send, batch, status, list, waitFor, domains, API keys, templates, suppressions, inbox. No dependencies; safe retr…"
+2026-11-10T18:38:26.855Z,@gitmyabi/trench,1.0.0,gitmyabi-bot,Apache-2.0,188084,"Auto-generated TypeScript type bindings for TRENCH (build etherscan-trench-d199e23e-1794335888629, commit 2390665, branch etherscan)"
+2026-11-10T18:38:30.086Z,frontdesko-mcp,1.0.0,frontdesko,MIT,11552,"MCP server for the FrontDesko hotel PMS: let Claude, ChatGPT, Cursor or your agents read arrivals, availability, rates, folios and reports, scoped to your role."
+2026-11-10T18:39:04.895Z,tt-lite-mod,1.15.2,dimas68,GPL-3.0-only,2038904,Fork of TizenTube 1.15.2 (ad-free YouTube for Tizen TVs) with an optional googlevideo proxy.
+2026-11-10T18:39:25.895Z,@ignite-element/jsx-plugin,3.0.0-beta.19,0xjcf,MIT,195730,Temporary package placeholder for staged publishing
+2026-11-10T18:39:45.916Z,ng-pdf-annotator,0.1.1,jahnnnn,MIT,592720,"Visor de PDF para Angular con anotaciones (resaltar, subrayar, tachar, ondulado, mano alzada, notas), comentarios con respuestas y estados, marcas de agua, bloqueo de descarga/impresión, i18n y tema…"
+2026-11-10T18:39:46.402Z,omnirx-mcp,0.1.0,vincentcouey,MIT,109803,"OmniRx reference MCP server: dated, provenance-stamped US drug-access facts (availability, price, assistance programs) read locally from a frozen edition. Not clinical advice."
+2026-11-10T18:41:51.747Z,pi-agents-memory,0.1.1,juanjeojeda,MIT,18488,Cross-session persistent memory for Pi agents. Loads project context at session start and auto-saves conversation memory at session end.
+2026-11-10T18:42:23.504Z,direct-message-receiver,0.0.1-security,npm,,452,security holding package
+2026-11-10T18:42:27.718Z,discord-badge-parser,0.0.1-security,npm,,446,security holding package
+2026-11-10T18:42:31.298Z,discord-dm-parser,0.0.1-security,npm,,440,security holding package
+2026-11-10T18:42:34.458Z,discordjs-dm-parse,0.0.1-security,npm,,442,security holding package
+2026-11-10T18:42:38.132Z,@deepaks612/rsc-check,1.0.0,deepaks612,MIT,44670,"Scan your Mac for projects on React Server Components or Next.js versions with critical advisories, and see what to upgrade to. Offline, read-only."
+2026-11-10T18:42:38.335Z,discord-selfbot-functions,0.0.1-security,npm,,456,security holding package
+2026-11-10T18:42:42.454Z,discord-user-parser,0.0.1-security,npm,,444,security holding package
+2026-11-10T18:42:46.592Z,sms-activate.js,0.0.1-security,npm,,436,security holding package
+2026-11-10T18:43:02.818Z,@automovie/evidence,0.0.0,samchon,MIT,963945,Evidence configuration and optional narrative lifecycle validation for AutoMovie productions
+2026-11-10T18:43:06.122Z,verbatim-commit,0.1.0,jonathanscontreras,MIT,109696,Local-first AI commit message generator + low-effort commit verifier
+2026-11-10T18:43:23.168Z,@automovie/interface,0.0.0,samchon,MIT,3684650,"AutoMovie type contracts for code-native authoring, deterministic film data, production evidence, review, and delivery."
+2026-11-10T18:43:53.975Z,@rowlith/import-core,0.1.1,yourdevujjawal,MIT,36904,"Framework-agnostic, TypeScript-first data import and validation engine"
+2026-11-10T18:43:55.897Z,@rowlith/import-csv,0.2.0,yourdevujjawal,MIT,44801,CSV parsing adapter for the Rowlith data import engine
+2026-11-10T18:43:57.564Z,@rowlith/import-xlsx,0.1.1,yourdevujjawal,MIT,48704,XLSX workbook parsing adapter for the Rowlith data import engine
+2026-11-10T18:43:59.225Z,@rowlith/import-react,0.1.1,yourdevujjawal,MIT,20988,Headless React hooks for the Rowlith data import engine
+2026-11-10T18:44:01.104Z,@rowlith/import-ui,0.1.1,yourdevujjawal,MIT,53038,Accessible framework-independent Web Component for Rowlith data imports
+2026-11-10T18:44:12.794Z,@automovie/engine,0.0.0,samchon,MIT,32076353,"automovie deterministic engine, kinematics, ROM validation, motion sampling, tessellation"
+2026-11-10T18:44:32.738Z,@automovie/template,0.0.0,samchon,MIT,2138988,The self-contained scaffold every AutoMovie production is created from and the library that materializes it.
+2026-11-10T18:44:34.41Z,@claylevering/auth-nuxt,0.1.0,claylevering,MIT,114947,"Nuxt module that signs users in through Claxx Auth (OpenID Connect, authorization code + PKCE, private_key_jwt)"
+2026-11-10T18:44:37.26Z,automovie,0.0.0,samchon,MIT,152792,Scaffold a coding-agent-first AutoMovie production repository.
+2026-11-10T18:44:41.517Z,n8n-nodes-facturasdk,1.0.0,afipsdk,MIT,206927,n8n nodes for Factura SDK: electronic invoices in Argentina (ARCA) end to end.
+2026-11-10T18:44:43.206Z,@automovie/ingest,0.0.0,samchon,MIT,657119,"automovie ingest: admit external media inputs — glTF/GLB documents into the core node graph and clips, RIFF/WAVE audio into decoded samples (headless, no three.js)"
+2026-11-10T18:44:59.566Z,@automovie/recovery,0.0.0-stage,samchon,,341,Temporary package placeholder for staged publishing
+2026-11-10T18:45:11.273Z,@automovie/viewer,0.0.0,samchon,MIT,3977359,"automovie viewer: three.js renderer that plays automovie models, poses, and motion (not an editor)"
+2026-11-10T18:45:19.73Z,@automovie/render,0.0.0,samchon,MIT,1097285,automovie render: deterministic frame schedule + encode plan from a render spec
+2026-11-10T18:45:38.557Z,@automovie/human,0.0.0,samchon,MIT,9454869,Human figure generated from typed parameters by code
+2026-11-10T18:45:46.843Z,@automovie/motions,0.0.0,samchon,MIT,3275376,"automovie human motion vocabulary: body-scaled, seeded and interruptible action laws an LLM author drives through a fluent chain"
+2026-11-10T18:47:01.964Z,@openclinical/proforma-inspect,0.7.0,openclinical-owner,GPL-3.0,169059,A CLI tool for analysing PROformajs protocols
+2026-11-10T18:48:34.049Z,@askbiddle/agent-setup,0.1.0,kevin_liouvillelabs,MIT,34191,"Connect Claude Code, Codex or Cursor to Biddle's action-item tracking: the MCP server, the work-tracking skill and the biddle-sync hook."
+2026-11-10T18:51:03.415Z,@nafrucom/email,0.1.1,nafrucom,MIT,113800,"Official Nafru Email TypeScript SDK: send transactional and marketing email from Node.js, Bun, Deno and Workers. Resend-compatible email API with contacts, templates, broadcasts, events and webhook v…"
+2026-11-10T18:51:11.274Z,@strobelabs/perpcity-cli,0.1.0,koko1123,MIT,53338,"perpcity: the PerpCity command line for humans and agents. Pairs with your Privy login, reads markets and positions, trades through the Bot API."
+2026-11-10T18:51:55.969Z,capacitor-unifiedpush,0.1.1,petersr,MIT,122808,"Capacitor plugin for UnifiedPush (Android): self-hosted, FCM-free Web Push with native notification handling"
+2026-11-10T18:52:23.694Z,@kromatv/installer,0.1.38,maxscharwath,AGPL-3.0-or-later,445119,"Finds the Samsung, LG and Android TV sets on your network and installs KROMA on them, from the latest release."
+2026-11-10T18:52:43.74Z,@gorgo/medusa-payment-mollie,2.0.0,gorgohead,MIT,316473,Mollie payment provider for Medusa
+2026-11-10T18:53:21.067Z,@microsoft/copilot-sdk,0.0.0-bootstrap.0,copilot-publisher,MIT,355,Bootstrap placeholder for Microsoft Copilot SDK. Not a usable SDK.
+2026-11-10T18:53:39.527Z,supdoc,0.0.0,aidenzepp,MIT,681,Track links from documentation to code and report when the linked code changes. Placeholder: the npm package is not published yet.
+2026-11-10T18:53:51.119Z,my-first-npm-github-package,1.0.1,poluri,MIT,298,A small example npm package
+2026-11-10T18:54:15.235Z,portograph,0.1.0,simnv,Apache-2.0,4516531,"YAML in, a laid-out diagram (SVG) out: nodes with ports, grouped into tiers, links routed per region."
+2026-11-10T18:54:19.21Z,uni-t-uts-mcp,0.1.0,n0rc,MIT,198138,MCP server for UNI-T UTS series spectrum analyzers via SCPI over LAN
+2026-11-10T18:54:26.888Z,clerkfield-mcp,1.0.0,bramontiventures,MIT,15345,"MCP server for Clerkfield: verify U.S. businesses against official state registries and search UCC liens, from Claude, Cursor, VS Code and other AI assistants."
+2026-11-10T18:54:42.372Z,velen-sh,26.1110.1,adammajcher,,21648,See what your traces are worth to AI labs. npx velen-sh@latest
+2026-11-10T18:55:25.925Z,@fliqlabs/sdk,0.1.0,devkol-11,MIT,197742,"TypeScript client for the fliq payouts API: quotes, payouts, account verification and webhook verification."
+2026-11-10T18:55:27.09Z,@shiptiffin/astro,0.1.0,bilalpm,Apache-2.0,83338,"One-line Astro integration for a ShipTiffin box: Node adapter, proxy trust, site URL, sessions and route cache on Valkey, a health route and graceful shutdown."
+2026-11-10T18:55:27.742Z,@zaptek/application-livel,0.15.0,mattis-journet,UNLICENSED,119809,"`@zaptek/application-livel` gives Livel applications displayed in an iframe an authenticated Supabase client, the binding of their resources (`@zaptek/resource`) to the workspace's objects, and React…"
+2026-11-10T18:55:50.87Z,@fliqlabs/mcp,0.1.0,devkol-11,MIT,82634,"MCP server for fliq: lets an AI agent quote, verify, pay and track stablecoin cash-outs over stdio."
+2026-11-10T18:57:07.805Z,enfold-mcp,0.1.0,hi-ashwinsharma,UNLICENSED,784046,"MCP server for Enfold's .fold documents: lets AI assistants list, outline, read, search and edit .fold files on your computer."
+2026-11-10T18:57:23.872Z,msa-coordinates,10.1.1,cmdcolin,MIT,29070,"Convert between a multiple sequence alignment's columns, the columns left once some are hidden, and each row's own residue positions"
+2026-11-10T18:57:41.597Z,massprint,0.1.0,msomu,MIT,31822,"Print a PDF through massprint from the shell: upload, order and payment link in one command."
+2026-11-10T18:58:52.938Z,@ilkal/sdk,0.1.0,hvvivek,Apache-2.0,151296569,The embeddable canvas bundle and its public API.
+2026-11-10T19:01:13.049Z,@application-kit/listing,0.21.0,uwl,MIT,13129,"Контракт курсорного листинга без зависимостей: фильтр, сортировка, курсор страницы и порт репозитория листинга — общий для сервера и браузерного клиента"
+2026-11-10T19:01:15.784Z,@ismailnakkar/code-editor,1.0.0,ismail3,MIT,13197,"A CodeMirror HTML editor that takes a textarea's place, while the textarea stays the posted field."
+2026-11-10T19:01:26.596Z,ffraud,1.1.0,ffraud,MIT,19421,"FFraud's open fraud database as a CLI and an MCP server: a whole website's security checked in seconds with every fix, IP fraud scoring with VPN/proxy/Tor detection, disposable-email checks, domain r…"
+2026-11-10T19:01:27.049Z,@mj-biz-apps/marketplace-entities,0.0.0,rkihm-bc,,2095,OIDC trusted publishing setup package for @mj-biz-apps/marketplace-entities
+2026-11-10T19:01:36.214Z,ffraud-mcp,1.1.0,ffraud,MIT,1659,"FFraud's MCP server and CLI under its first name: the same code as the ffraud package (npx ffraud). Website security, IP fraud scoring, disposable-email and domain checks. No key needed."
+2026-11-10T19:02:11.96Z,@mj-biz-apps/marketplace-actions,0.0.0,rkihm-bc,,2091,OIDC trusted publishing setup package for @mj-biz-apps/marketplace-actions
+2026-11-10T19:02:25.461Z,@mj-biz-apps/marketplace-server,0.0.0,rkihm-bc,,2087,OIDC trusted publishing setup package for @mj-biz-apps/marketplace-server
+2026-11-10T19:02:34.785Z,@dsh-plugin-agent-community/local-agent,0.5.0,leo-sail,MIT,121016,Local agent discovery — find installed agent CLIs and expose them as DSH model routes
+2026-11-10T19:02:39.364Z,@mj-biz-apps/marketplace-ng,0.0.0,rkihm-bc,,2071,OIDC trusted publishing setup package for @mj-biz-apps/marketplace-ng
+2026-11-10T19:03:40.146Z,@rwoll/agent-test-server,0.0.0-placeholder,rwoll,ISC,250,
+2026-11-10T19:04:44.758Z,@snap/easylens-cli-darwin-arm64,0.0.0-stage,svc-npmjs,,353,Temporary package placeholder for staged publishing
+2026-11-10T19:04:53.253Z,@snap/easylens-cli-linux-x64,0.0.0-stage,svc-npmjs,,350,Temporary package placeholder for staged publishing
+2026-11-10T19:05:34.081Z,@yaebal/widget,0.1.0,whyrinki,MIT,434919,"yaebal widget — html widgets (bot api 10.4): typed send/edit/answer, json state codecs, size + sandbox checks, an in-widget client that packs typed queries, ton wallet payments, and a browser preview."
+2026-11-10T19:06:02.52Z,@biac/cli,0.1.0,dmenezesgabriel,Apache-2.0,1126181,Business intelligence as code: turn Markdown pages and data files into a BI site
+2026-11-10T19:06:17.404Z,dsh-session-delete-next,1.0.2,rayadas,MIT,137314,会话删除 + 回收站：会话行「⋯」菜单里「删除会话」（紧跟「归档会话」），删除先进回收站，可展开查看附件与交付物、复原或永久删除；支持快捷键与自动清理。
+2026-11-10T19:07:00.855Z,@snap/easylens-cli-win32-x64,0.0.0-stage,svc-npmjs,,350,Temporary package placeholder for staged publishing
+2026-11-10T19:07:19.549Z,@gitmyabi/air,1.0.0,gitmyabi-bot,Apache-2.0,245418,"Auto-generated TypeScript type bindings for AIR (build etherscan-air-8164b408-1794337619712, commit 15b59bf, branch etherscan)"
+2026-11-10T19:08:46.171Z,aicheckup,0.1.0,salman20032003,MIT,87814,"One command health check for your AI coding setup: leaked secrets, context weight, risky permissions and rule files. Runs 100% locally."
+2026-11-10T19:08:52.435Z,@pontonet/biometrics,0.1.0,andrechavesg,MIT,19120,"PontoNet partner biometrics API client: configurable production and sandbox environments, integration key and OAuth client_credentials."
+2026-11-10T19:10:12.403Z,tapo-lan,1.0.0,lff5644,MIT,39243,"Local LAN control for TP-Link Tapo plugs (P100/P110) – KLAP + TPAP (SPAKE2+), no cloud, zero dependencies, events & watch polling"
+2026-11-10T19:10:20.793Z,@raj-kumar/retryflow,1.0.0,raj-kumar,MIT,34861,"A lightweight, zero-dependency retry engine for JavaScript & Node.js with exponential backoff, HTTP status filtering, timeout, and cancellation."
+2026-11-10T19:10:53.662Z,docsutra-ai,0.2.0,shahvatsal,Apache-2.0,129613,"Offline documentation auditor: verifies links, anchors, commands, accessibility and leaked secrets in Markdown, and ships 16 portable AI agent skills. No API key, no network, nothing executed."
+2026-11-10T19:10:58.512Z,protocolsutra,0.2.0,shahvatsal,Apache-2.0,460464,"Offline-first MCP and A2A interoperability lab: validate snapshots, audit tool poisoning, diff contracts, replay traces, gate releases. Zero dependencies."
+2026-11-10T19:11:38.112Z,@pipeline-sol/sdk,0.1.0,mlbob,Apache-2.0,338362,"Instruction builders, account and event decoders, fee maths and RPC quoting for the Pipeline router"
+2026-11-10T19:12:33.659Z,@aurabase/cli-linux-x64,0.3.3,daylami,MIT,16598949,Aurabase CLI binary for Linux x86_64
+2026-11-10T19:12:39.3Z,@aurabase/cli-linux-arm64,0.3.3,daylami,MIT,14452537,Aurabase CLI binary for Linux arm64
+2026-11-10T19:12:46.547Z,retryflow-js,1.0.0,raj-kumar,MIT,34853,"A lightweight, zero-dependency retry engine for JavaScript & Node.js with exponential backoff, HTTP status filtering, timeout, and cancellation."
+2026-11-10T19:12:48.149Z,@aurabase/cli-win32-x64,0.3.3,daylami,MIT,15672846,Aurabase CLI binary for Windows x64
+2026-11-10T19:13:43.321Z,devcontour,0.4.0-alpha.30,antvstepanov,MIT,8659826,"Local control plane for AI-agent development: contracts, task graphs, isolated runs, gates, review and acceptance"
+2026-11-10T19:19:26.791Z,hedone,0.0.0-stage,zereo.wu,,328,Temporary package placeholder for staged publishing
