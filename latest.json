@@ -1,12 +1,68 @@
 {
   "list": {
-    "count": 146,
-    "from": "2026-11-11T03:20:51.928159Z",
-    "path": "data/new-packages-2026-11-11T04-18-51-52394Z.csv",
-    "to": "2026-11-11T04:18:51.52394Z"
+    "count": 130,
+    "from": "2026-11-11T04:18:51.52394Z",
+    "path": "data/new-packages-2026-11-11T05-21-14-235881Z.csv",
+    "to": "2026-11-11T05:21:14.235881Z"
   },
-  "pending": [],
-  "seq": 143686673,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@ast-grep/cli-linux-arm64-musl",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@ast-grep/cli-linux-x64-musl",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@jswork/react-dnd-list",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@superdurable/dex-agents-builtin-cli",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@superdurable/dex-agents-claude-sdk-cli",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@superdurable/dex-agents-cli",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@superdurable/dex-agents-mastra-cli",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@superdurable/dex-agents-openai-sdk-cli",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@superdurable/dex-agents-pi",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@superdurable/dex-agents-pi-cli",
+      "since": "2026-11-11T04:18:51.52394Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@superdurable/dex-agents-vercel-ai-cli",
+      "since": "2026-11-11T04:18:51.52394Z"
+    }
+  ],
+  "seq": 143696805,
   "source_truncated": false,
-  "window": "2026-11-11T04:18:51.52394Z"
+  "window": "2026-11-11T05:21:14.235881Z"
 }
