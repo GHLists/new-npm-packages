@@ -1,0 +1,284 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-11T15:16:26.389Z,@darizae/marisma,0.1.0,darizae,MIT,196883,Tailwind-first React UI components inspired by coastal modernism
+2026-11-11T15:17:31.94Z,@dsh-cc/settings,0.9.5-rc.1,jianxx,Apache-2.0,328141,The vendored settings-provider contract plus the two things built on it: idempotent namespace registration (ns) and the Claude Code settings cascade (cascade)
+2026-11-11T15:20:14.168Z,@arbeidstilsynet/receiver,0.0.0,at-bgp,MIT,274,Placeholder. Real releases are published from Arbeidstilsynet/receiver.
+2026-11-11T15:20:14.724Z,@cyber-est/cli,0.1.0,nickharrison77,MIT,24246181,"est: make, validate, play and pack EST plugins for Cyber (new, validate, pack, test, dev, doctor, inspect)."
+2026-11-11T15:20:18.816Z,@cyber-est/tools,0.1.0,nickharrison77,MIT,653785,"The EST plugin validator, packer and inspector: Cyber's own install code, run in Node."
+2026-11-11T15:20:23.417Z,@cyber-est/ui,0.1.0,nickharrison77,MIT,79328,"The library for an EST plugin's own UI: the frame protocol, parameter binding, <est-knob> and <est-slider>."
+2026-11-11T15:21:48.028Z,dsh-code-intelligence,0.1.0,jaxhu,MIT,85356,"DSH code intelligence: TypeScript, Python, and Kotlin LSP navigation plus read-only AST search."
+2026-11-11T15:21:56.01Z,magpie-omo-setting,0.1.0,xiaob1n,MIT,85486,Magpie page plugin for OmO categories and subagents configuration
+2026-11-11T15:22:04.918Z,revdeck,0.1.0,aakatrov,MIT,1561817,"Agent-first code review for GitLab and GitHub: local daemon, CLI, MCP server and a triage UI."
+2026-11-11T15:22:52.963Z,@aiti-ai/aiti-acp-agent,0.3.8,nightwend,MIT,257798,Generic ACP driver — one adapter for all Agent Client Protocol agents
+2026-11-11T15:22:58.011Z,@aiti-ai/aiti-agent-manager,0.2.8,nightwend,MIT,151038,统一 Agent 管理界面 —— 聚合 6 家外部 agent 登录态 + 登录操作代理 + 多账号档（备份/别名/一键切换/自动保险）
+2026-11-11T15:23:04.257Z,@aiti-ai/aiti-ai-input,0.4.10,nightwend,MIT,985550,语音输入扩展（实时流式 ASR + 2-pass 离线精修 + 服务端 VAD 切句）—— JSX + vite 构建 client bundle
+2026-11-11T15:23:12.578Z,@aiti-ai/aiti-ai-schedule,0.4.7,nightwend,MIT,377981,aiti-ai-schedule · pi-web 常驻调度器（JSX + vite 构建 client bundle）
+2026-11-11T15:23:18.472Z,@aiti-ai/aiti-ai-speek,0.1.7,nightwend,MIT,458929,pi-web「跟读模式」扩展：AI 输出语音朗读（可切音色/暂停/跳过/停止；默认浏览器 Web Speech，可选 edge-tts）
+2026-11-11T15:23:24.975Z,@aiti-ai/aiti-ai-usage,0.1.7,nightwend,MIT,511403,AI token 用量统计扩展（provider/model/key/session 四维报表，日/月双粒度）
+2026-11-11T15:23:25.46Z,@tweakpad/devkit,0.0.1,radixzz,MIT,635639,"High-performance tweak panel for tuning live values, built on @tweakpad/ui inline controls."
+2026-11-11T15:23:31.499Z,@aiti-ai/aiti-app-center,0.2.8,nightwend,MIT,198654,应用中心 —— 左栏 DockStack 全折叠空白态的应用抽屉（开始菜单）：收编全部扩展入口，应用视图（动作/面板/管理卡，hover 快速钉住、编辑模式排序/隐藏、信息页看描述与版本并可一键禁用）与开关视图（feature 开关按扩展分组）双视图切换；tag 式分类（内部固定分类 + 自定义 + 默认 other）、搜索；经 aiti-app-center.api 服务交付 session-…
+2026-11-11T15:23:36.565Z,@aiti-ai/aiti-attach-agent,0.1.7,nightwend,MIT,127240,Socket-attached agent backend — connect pi-web to a running agent process (pi TUI bridge)
+2026-11-11T15:23:43.571Z,@aiti-ai/aiti-channels,0.1.8,nightwend,MIT,398914,pi-web 扩展：IM 渠道接入 + cc-connect 大前端外壳——托管 cc-connect 进程（无 systemd）+ 面板（概览/项目/通道/会话/配置/管理台内嵌 cc-connect 原生 Web UI）+ socket API 出站发消息
+2026-11-11T15:23:49.019Z,@aiti-ai/aiti-claude-code-agent,0.1.7,nightwend,MIT,163123,Drive Claude Code CLI sessions — resume historical rows from All Sessions (agentKey: claude)
+2026-11-11T15:23:54.531Z,@aiti-ai/aiti-cmd,0.1.9,nightwend,MIT,372267,命令管理器 —— 真 TTY 终端（node-pty，实时帧走事件总线主题）+ 常用命令收藏夹（CRUD 与 {参数} 占位符）+ 消息识别命令；执行全程 append-only 审计落盘
+2026-11-11T15:23:56.192Z,agent-ear,0.2.4,a790209714,MIT,37665,"DeepSeek Harness / Claude skill: give text-only agents an ear for offline audio/video — precise beat grid, event boundaries and word-level timestamps."
+2026-11-11T15:24:05.868Z,@aiti-ai/aiti-codebuddy-agent,0.1.6,nightwend,MIT,195859,腾讯 CodeBuddy Code CLI (cbc) session backend driver (-p stream-json + --resume)
+2026-11-11T15:24:11.624Z,@aiti-ai/aiti-codex-agent,0.1.8,nightwend,MIT,146277,OpenAI Codex CLI driver (exec --json + resume)
+2026-11-11T15:24:17.795Z,@aiti-ai/aiti-configs,0.1.7,nightwend,MIT,252304,配置版本化 + 崩溃自检扩展（安全盾 UI）—— JSX + vite 构建 client bundle
+2026-11-11T15:24:24.114Z,@aiti-ai/aiti-ctx-meter,0.1.12,nightwend,MIT,46070,输入区上下文比例条指示器（context % + 会话面板入口）
+2026-11-11T15:24:30.767Z,@aiti-ai/aiti-cursor-agent,0.1.7,nightwend,MIT,116357,"Drive Cursor Agent CLI sessions (agentKey: cursor) — stream-json print mode, --resume multi-turn"
+2026-11-11T15:24:32.723Z,@wmfs/tymly-realtime-plugin,1.0.0-live-feed.0,wmfsbot,MIT,48656,"Keeps open Tymly cards up to date as data changes: shared live feeds, with room for pushing changes and presence later."
+2026-11-11T15:24:35.482Z,@ai-ecoverse/gcloud-cli,0.0.0,trieloff,Apache-2.0,1151,"The Google Cloud CLI: gcloud and bq, to manage Google Cloud and query BigQuery from slicc."
+2026-11-11T15:24:36.912Z,@aiti-ai/aiti-custom-agent,0.1.8,nightwend,MIT,174308,自定义 Agent 注册中心 —— UI 表单注册自定义后端（启动命令/参数前缀/成员 env/桥模式），generic 驱动 one-shot spawn，保存即热生效
+2026-11-11T15:24:39.082Z,@hamurabi/legal-document-classifier,1.0.0,nadamai,MIT,94875,A simple logistic regression in your browser for classifying webpages as web legal documents
+2026-11-11T15:24:43.31Z,@aiti-ai/aiti-debug-inject,0.3.7,nightwend,MIT,47390,可配置远程调试注入
+2026-11-11T15:24:45.211Z,@kedi-admin/sdk-contracts,0.1.0-alpha.1,phuongnguyen240805,MIT,12856,Version-1 identity and context contracts for the Liora backend SDK.
+2026-11-11T15:24:46.699Z,n8n-nodes-hectile,1.0.0,zealsync,MIT,58783,"Hectile nodes for n8n: customers, invoices, estimates, payments and reports, and Hectile's events as a trigger."
+2026-11-11T15:24:47.777Z,@kedi-admin/sdk-core,0.1.0-alpha.1,phuongnguyen240805,MIT,4322,Framework-independent client and errors for the Liora backend SDK.
+2026-11-11T15:24:49.491Z,@aiti-ai/aiti-doc-center,0.1.9,nightwend,MIT,490444,文档中心扩展（workspace md 收集/整理/FTS5 trigram 全文检索 + tag 六来源两层 + PageRank）—— 方案 docs/aiti-doc-center-plan.md
+2026-11-11T15:24:51.404Z,@kedi-admin/sdk-node,0.1.0-alpha.1,phuongnguyen240805,MIT,15321,Node.js HTTP client for the Liora backend SDK.
+2026-11-11T15:24:56.14Z,@aiti-ai/aiti-draft-keeper,0.1.7,nightwend,MIT,138866,草稿持久化 + 恢复接管
+2026-11-11T15:24:57.835Z,@kedi-admin/sdk-nest,0.1.0-alpha.1,phuongnguyen240805,MIT,12330,NestJS adapter for the Liora backend SDK.
+2026-11-11T15:25:03.68Z,@aiti-ai/aiti-editor,1.0.7,nightwend,ISC,5311856,文件编辑器 —— 接管 fileViewer 插槽的可扩展编辑器（Monaco 编辑文本类文件，非文本交回核心查看器）+ 保存冲突 409 与白名单/大小校验
+2026-11-11T15:25:08.223Z,dsh-token-quota,0.2.0,lingwindg,MIT,73246,"Token quota guard for DeepSeek Harness: set a token budget per session, and before the context approaches it the agent is paused with a dialog — continue, raise the quota, or stop. DSH Token 限额警戒插件。"
+2026-11-11T15:25:08.659Z,@aiti-ai/aiti-event-bus,0.1.7,nightwend,MIT,139663,页面事件总线归口（链式接管 __piPageEvents + 全帧 SSE + publish/subscribe 服务出口）
+2026-11-11T15:25:15.507Z,@aiti-ai/aiti-extman,0.1.8,nightwend,MIT,685247,aiti 扩展管理器（pi-web 扩展）
+2026-11-11T15:25:21.724Z,@aiti-ai/aiti-float,0.5.10,nightwend,MIT,229913,弹窗浮动增强器（data-ext-float 契约）—— 拖拽/缩放/持久化/置前/自动最大化按钮/小屏全屏/遮罩自动去除/小屏系统返回关闭
+2026-11-11T15:25:26.591Z,pixelizerjs,1.1.0,tiash-and-cats,MIT,22362,"A single-file, palette-based pixelization and dithering library for JavaScript in the browser."
+2026-11-11T15:25:29.931Z,@aiti-ai/aiti-folder,0.1.8,nightwend,MIT,689370,pi-web 文件夹浏览器扩展（fileViewer folder 接管 + pathPicker 目录选择器）—— JSX + vite 构建 client bundle
+2026-11-11T15:25:35.269Z,@skynote/core,0.1.0-beta.1,skyfish1024,MIT,655421,SkyNote platform-neutral in-memory canvas kernel & standard protocols
+2026-11-11T15:25:35.378Z,@aiti-ai/aiti-git-ops,0.1.7,nightwend,MIT,101567,Git 操作共享引擎扩展 — 白名单写命令 / checkout 预检 / stash / plan 断点 / 审计 / changed topic（零 UI，folder 与 session-manager 消费）
+2026-11-11T15:25:41.489Z,@aiti-ai/aiti-git-review,0.2.7,nightwend,MIT,555407,Git 代码审核扩展（Monaco diff 工作区 + 标注流水线）—— JSX + vite 构建 client bundle
+2026-11-11T15:25:48.853Z,@aiti-ai/aiti-git-trace,0.2.11,nightwend,MIT,543217,编外 AI 变更追踪扩展（.git/aiti 追踪仓 + 关注路径 + 回撤/部分回滚）—— JSX + vite 构建 client bundle
+2026-11-11T15:25:54.639Z,@aiti-ai/aiti-helper,0.5.8,nightwend,MIT,370583,AI 帮助点聚合 + AI 输入弹窗—— JSX + vite 构建 client bundle
+2026-11-11T15:25:59.366Z,@metaharness/autogenous,0.1.0,ruvnet,MIT,42697,"Autogenous radio-moe policy-evolution adapter for @metaharness/flywheel: bounded independence weights, frozen safety gates and governed promotion."
+2026-11-11T15:25:59.487Z,@aiti-ai/aiti-mail,0.1.7,nightwend,MIT,114824,aiti-mail · pi-web 通用邮件发送出口（零依赖 SMTP 客户端 + node:sqlite 发送记录）
+2026-11-11T15:26:04.911Z,@aiti-ai/aiti-model-check,0.1.7,nightwend,MIT,451889,模型可用性管理 UI—— JSX + vite 构建 client bundle
+2026-11-11T15:26:11.119Z,@aiti-ai/aiti-model-recent,0.1.8,nightwend,MIT,60911,模型选择器「最近使用」数据提供方扩展——pi-web 去 fork 化 P4 外迁
+2026-11-11T15:26:23.28Z,6eyes-limitless,0.2.0,sherwin-a,MIT,83745,"6eyes - budget-aware, multi-plan model routing (free, go, plus, teams, zen) and codebase graph for OpenCode. Cheap tasks go cheap, hard tasks escalate, and free models catch the overflow so you never…"
+2026-11-11T15:26:28.212Z,@aiti-ai/aiti-model-wizard,0.1.10,nightwend,MIT,5468769,模型添加开机向导扩展——JSX + vite 构建 client bundle
+2026-11-11T15:26:30.011Z,@skynote/plugins-basic,0.1.0-beta.1,skyfish1024,MIT,298087,"SkyNote official basic nodes (sticky, text, shapes, images) and interactions"
+2026-11-11T15:26:35.051Z,@aiti-ai/aiti-models-import,0.1.9,nightwend,MIT,146541,其他 agent models 配置导入（首启弹窗 + 变更检测 + 经 aiti-model-wizard saveBatch 落盘）
+2026-11-11T15:26:41.494Z,@aiti-ai/aiti-msg-anchor,0.1.7,nightwend,MIT,86351,消息锚点横幅扩展（消息区顶部常驻显示当前视口所属的用户输入；滚动跟随；可切换为第一条输入/最近输入/会话标题）—— JSX + vite 构建 client bundle
+2026-11-11T15:26:46.773Z,@aiti-ai/aiti-msg-nav,0.1.7,nightwend,MIT,124605,消息滚动导航扩展（到最早 / 到最新 / 上一个用户输入 / 下一个用户输入）—— JSX + vite 构建 client bundle
+2026-11-11T15:26:46.928Z,@stream-markdown/pele,2.1.1,octohash,,7354,
+2026-11-11T15:26:54.628Z,@aiti-ai/aiti-omp-agent,0.1.7,nightwend,MIT,104600,Oh My Pi (omp.sh) — pi 最大 fork 的 RPC spawn 后端（拆分自 aiti-pi-agent，专一 omp）
+2026-11-11T15:26:54.742Z,lens-a11y,0.1.0,itsgauravvv,MIT,381063,"Zero-dependency optical accessibility simulator (color blindness, cataracts, glaucoma, dyslexia, motor tremor) and live WCAG 2.1 DOM auditor."
+2026-11-11T15:27:01.034Z,@aiti-ai/aiti-opencode-agent,0.1.6,nightwend,MIT,54787,OpenCode CLI session backend for pi-web multi-agent frontend (oneshot run -s --format json)
+2026-11-11T15:27:07.69Z,@aiti-ai/aiti-pi-agent,0.1.6,nightwend,MIT,90453,Spawn pi --mode rpc subprocesses as sessions — multi-agent frontend main path
+2026-11-11T15:27:14.098Z,@aiti-ai/aiti-plan-first,0.1.7,nightwend,MIT,292960,方案先行提醒扩展——结合 aiti-git-trace 事件感知：md 变更绑定向导 + 大改未跟方案提醒 + 一键插入「更新方案文档：@file」
+2026-11-11T15:27:17.488Z,@evrdk/traceway,1.2.2,emilgramdk,MIT,256972,"Traceway browser error reporting, distributed tracing and session replay."
+2026-11-11T15:27:18.692Z,@skynote/renderer-leafer,0.1.0-beta.1,skyfish1024,MIT,147478,SkyNote LeaferJS high-performance renderer adapter & scheduler
+2026-11-11T15:27:19.885Z,@aiti-ai/aiti-plan-review,0.1.7,nightwend,MIT,295458,Plan-Sandbox 采认收尾 UI —— 读 review.json 契约（声明 vs 其他），点选采认/回滚/销毁
+2026-11-11T15:27:26.59Z,@aiti-ai/aiti-prompts,0.1.7,nightwend,MIT,292300,aiti prompt 片段收藏库（收藏/会话提取/一键插队排队）—— JSX + vite 构建 client bundle
+2026-11-11T15:27:27.573Z,magaya-lvo-purchase,1.0.0-beta.1,magayadev,MIT,506154,LVO Purchase Extension
+2026-11-11T15:27:30.965Z,opencode-claude-code-ua,0.3.6,xigou,MIT,488811,"UA PRO: versioned Codex and Claude compatibility templates, multi-protocol connections, previews and explicit upstream tests"
+2026-11-11T15:27:32.593Z,@aiti-ai/aiti-provider-usage,0.1.8,nightwend,MIT,172884,Provider 余额/配额查询扩展（15+ 家适配器 + 会话信息面板剩余额度区块）——pi-web 去 fork 化 B1 外迁
+2026-11-11T15:27:40.354Z,@aiti-ai/aiti-qoder-agent,0.4.9,nightwend,MIT,581550,Qoder CLI backend — stream-json driving + account credits via quota API (agentKey: qoder)
+2026-11-11T15:27:45.703Z,@aiti-ai/aiti-queue-keeper,0.1.8,nightwend,MIT,178513,队列面板接管扩展（pi-web 去 fork 化 P3）：把 ChatInput 内队列增强 UI（横幅/行操作/拖拽排序/回收站/撤销条/导入导出/通知）外迁为扩展，core 回到上游同形兜底 banner。
+2026-11-11T15:27:52.569Z,@aiti-ai/aiti-quickstart,0.2.1,nightwend,MIT,226122,快速上手 —— 空白态引导扩展：新建会话欢迎页 widget（上手步骤/快捷操作/示例提示词，走宿主 newSessionWidgets 插槽可 ⚙ 自定义）+ 左栏 DockStack 全折叠空白引导卡（经 aiti-quickstart.api 服务交付 session-manager 编排器，与应用中心同屏共存）+ 侧栏底部「快速上手」按钮（应用中心可钉进常用区，点击重返 quicksta…
+2026-11-11T15:27:54.215Z,@skynote/editor,0.1.0-beta.1,skyfish1024,MIT,77744,"SkyNote ready-to-use editor: engine and basic plugins assembled in one class, rendering backend pluggable"
+2026-11-11T15:27:56.534Z,mcp-video-learn,0.7.0,hoholi,MIT,373283,"MCP server that lets an LLM actually watch videos and animated stickers: metadata, frame grids, subtitles."
+2026-11-11T15:27:59.756Z,@aiti-ai/aiti-recovery,0.1.8,nightwend,MIT,189016,恢复 UI 扩展（队列恢复对话框 + 重启恢复向导）——pi-web 去 fork 化 B3 外迁
+2026-11-11T15:28:04.843Z,@aiti-ai/aiti-session-cards,0.1.9,nightwend,MIT,113797,会话请求卡扩展：交互元语（方案审批/问答/OAuth/兜底）与工具授权卡——自 pi-web core 外迁（agent 能力 UI 去核化 P1）
+2026-11-11T15:28:10.15Z,mcp-qzone-safe,0.2.0,hoholi,MIT,51883,"MCP server for QQ Zone (Qzone) with guardrails: read posts, like, comment (incl. nested replies), publish - all rate-limited and allowlisted."
+2026-11-11T15:28:13.856Z,@aiti-ai/aiti-subagents,0.4.7,nightwend,MIT,334258,子代理扩展（pi-subagents 的 pi-web 适配版）
+2026-11-11T15:28:17.885Z,@rafaylabs/animation-mcp,1.0.0,rafaylabs,MIT,110937,"On-brand Lottie animations and framework code inside your AI coding assistant (Cursor, Claude Code, Windsurf, VS Code)"
+2026-11-11T15:28:19.002Z,conversation-pacing,0.1.0,hoholi,MIT,18027,"Group-chat pacing library: when to speak, whom to answer, when to shut up. 群聊机器人发言节奏（不是 MCP 服务）。"
+2026-11-11T15:28:23Z,@aiti-ai/aiti-testagent-native,0.1.8,nightwend,MIT,118297,testagent-native 面板 —— TestAgent Native（Windows 原生进程活体操控）可视面（broker 进程/会话/挂钩/事件流）
+2026-11-11T15:28:25.832Z,mcp-person-roster,0.1.0,hoholi,MIT,25551,"MCP server for a person roster: who may DM you, see your space, or joke with you — default deny. 人物名册与权限，默认拒绝。"
+2026-11-11T15:28:30.872Z,@aiti-ai/aiti-ui-env,0.1.8,nightwend,MIT,2029780,pi-web 扩展：UI 环境管理（桌面/无头虚拟屏）——4 态模式裁决新启动 MCP/应用的显示环境 + Xvfb/openbox/AT-SPI/VNC-on-web
+2026-11-11T15:28:33.632Z,@newrelic/query-bridge,0.1.0,newrelic,Apache-2.0,729126,Multi-language query translator — SPL/Lucene/PromQL/PPL to NRQL/Trino
+2026-11-11T15:28:43.234Z,@aiti-ai/aiti-zcode-agent,0.1.9,nightwend,MIT,500073,ZCode (智谱桌面端内嵌 CLI runtime) session backend driver (--json + --resume)
+2026-11-11T15:28:49.256Z,@aiti-ai/service-tunnels,0.3.9,nightwend,MIT,1463863,pi-web 扩展：服务端口发现 / 虚拟主机代理 / 隧道 / 认证 / 自暴露（从 pi-web core 剥离的完整载体）
+2026-11-11T15:28:58.193Z,evidence-mcp-dev,0.2.36,epicoun,MIT,264674,Internal development build of evidence-mcp. Not for public use.
+2026-11-11T15:28:58.975Z,@aiti-ai/session-manager,0.2.15,nightwend,MIT,4499451,会话管理扩展（全部会话面板/看板/标签）—— JSX + vite 构建 client bundle
+2026-11-11T15:29:35.455Z,evidence-mcp,0.2.36,epicoun,MIT,288865,"Forever Healthy Evidence MCP — medical literature research for agents: a local library of cited sources, claim verification, a cached fetch, and cached PubMed and ClinicalTrials.gov access"
+2026-11-11T15:30:54.304Z,expo-siri-ai-kit,0.2.0,airowe,MIT,13413,Expo config plugin that adds SiriAIKit to your app and turns on Apple's Siri AI Developer Preview code.
+2026-11-11T15:31:23.323Z,ngx-cloudflare,0.2.1,erkamyaman,MIT,92435,"Workers bindings, a working hostname allow-list and in-process API calls for Angular SSR on Cloudflare Workers."
+2026-11-11T15:31:34.392Z,@francisiv/vgskillframe,0.7.0,francisiv,MIT,941704,"VGSkillFrame (Videogame Skill Frame) CLI — Interactive Web GUI Dashboard, TUI, Blackbox Flight Telemetry & Crash Diagnostics, Godot 4 & Blender 3D AI Skills, Model Context Protocol (MCP) Servers & Ad…"
+2026-11-11T15:31:37.203Z,@ganzhibin/juejin-cli,0.1.0,ganzhibin,MIT,182205,A scriptable Juejin CLI for humans and AI agents
+2026-11-11T15:31:46.157Z,mint-harness,0.1.0,vishruthc,MIT,5848847,A cute NVIDIA-powered terminal coding harness.
+2026-11-11T15:31:51.507Z,@todoist/sdk-kmp,0.6.2,henningmu,MIT,553140,
+2026-11-11T15:31:56.175Z,@profullstack/key-grants,0.1.1,moshcoder,MIT,26684,"App side of logicsrc app grants: ask logicsrc for API keys by name, receive them sealed to the user's vault, follow rotations and revokes."
+2026-11-11T15:33:46.797Z,cronbits,0.0.1-security,npm,,422,security holding package
+2026-11-11T15:33:48.773Z,@aiti-ai/aiti-pair,0.1.0,nightwend,MIT,42203,pair 设备互连面板 —— 连同一桥的设备（手机/其他浏览器/agent 会话）互发消息、互传文件；widget 与协议来自 aiti-devtools 公共资产（pair-client.js）
+2026-11-11T15:33:49.721Z,llm-pacer,0.1.1,krrishkumar125,MIT,175550,"One shared RPM + TPM + concurrency budget for LLM API calls across every worker, backed by Redis. Atomic Lua, token refunds, provider header sync, 429 vs quota detection, BullMQ helper."
+2026-11-11T15:33:52.379Z,csvbits,0.0.1-security,npm,,420,security holding package
+2026-11-11T15:33:53.68Z,@aiti-ai/aiti-devtools-agent,0.1.2,nightwend,MIT,26736,aiti-devtools 多 agent 宿主接线框架：桥 HTTP/SSE 协议客户端 + AgentHost 契约 + 工具映射模板（pi / DSH / 其他 agent 复用）
+2026-11-11T15:33:58.098Z,@aiti-ai/aiti-devtools-core,0.3.12,nightwend,MIT,1228450,aiti-devtools MCP server 核心（桥）：页面连接/SSE/工具执行/MCP JSON-RPC，供 pi-web 扩展与 pi 扩展 aiti-devtools-pi 共用
+2026-11-11T15:33:58.239Z,flowbits,0.0.1-security,npm,,422,security holding package
+2026-11-11T15:34:03.705Z,@fireweaveai/server-sdk-cjs,0.0.0-reserve.0,ashwik-fireweave,MIT,187261,"CommonJS build of @fireweaveai/server-sdk, for require() and toolchains without ESM support. Fireweave release-engineering SDK for server runtimes (Node, Bun, Deno): control points and target registr…"
+2026-11-11T15:34:04.564Z,jsonrail,0.0.1-security,npm,,422,security holding package
+2026-11-11T15:34:06.88Z,@aiti-ai/aiti-devtools-inject,0.1.0,nightwend,MIT,1219246,aiti-devtools 浏览器端注入源（launcher/client/bridge-client/standalone）——构建产物 aiti-launcher.js/bridge-client.js/cdp-core.js 供 core/assets 与独立桥使用
+2026-11-11T15:34:09.644Z,pathbits,0.0.1-security,npm,,422,security holding package
+2026-11-11T15:34:13.519Z,@aiti-ai/aiti-devtools-pi,0.1.0,nightwend,MIT,122721,aiti-devtools pi 扩展（agent 端无状态连接器）——注册桥 aiti_* 工具 + 会话/推送，桥独立常驻（packages/aiti-bridge）
+2026-11-11T15:34:14.666Z,@fireweaveai/web-sdk-cjs,0.0.0-reserve.0,ashwik-fireweave,MIT,216551,"CommonJS build of @fireweaveai/web-sdk, for require() and toolchains without ESM support. Fireweave SDK for browsers: control points and target registration, in remote (fw-server) or local (in-proces…"
+2026-11-11T15:34:18.248Z,textmark-engine,0.0.1-security,npm,,436,security holding package
+2026-11-11T15:34:19.031Z,@aiti-ai/aiti-devtools-vite,0.1.1,nightwend,MIT,14621,aiti-devtools Vite 插件：应用 dev server 上内置 MCP（launcher 注入 + 桥 + MCP 端点 + 操作台，同源 /aiti/），启动自动注册到常见 agent 工具
+2026-11-11T15:34:19.893Z,homebridge-shelly-neo-valve,0.3.0,oncuehome,Apache-2.0,23607,"HomeKit valve, temperature, pressure and flow readings for the Shelly Neo Smart Water Valve (Gen3, XT1), over its local RPC interface."
+2026-11-11T15:34:19.988Z,highmap-wasm,0.1.0,mode777,LGPL-2.1,909286,"WebAssembly port of the HighMap terrain generation library (CPU-only), usable from Node and the browser"
+2026-11-11T15:34:23.908Z,@aiti-ai/aiti-devtools-webpack,0.1.0,nightwend,MIT,9512,aiti-devtools webpack-dev-server 插件（载体 2）：dev server 内置 MCP（launcher 注入 + 桥 + MCP 端点 + 操作台，同源 /aiti/），启动自动注册到常见 agent 工具。复用 aiti-devtools-core 全部公共能力
+2026-11-11T15:34:51.244Z,@tomhundley/prismdb,0.0.1-security,npm,,448,security holding package
+2026-11-11T15:34:59.699Z,@tomhundley/sparkdash,0.0.1-security,npm,,452,security holding package
+2026-11-11T15:35:00.748Z,n8n-nodes-unotalk,0.1.0,luckas.silvalms,MIT,531213,Interage com a API da Unotalk (WhatsApp)
+2026-11-11T15:35:29.064Z,imagera-browser-mcp,0.1.0,alexadams6ix,MIT,366383,Let Imagera Code (or any MCP client) use your real Chrome tabs through the Imagera Code for Chrome extension.
+2026-11-11T15:36:15.66Z,@teatoolkit/sbud,0.0.1,zar.beer,MIT,6355,"Client for the sbud service, which manages Docker Sandboxes for AI agents. Early preview."
+2026-11-11T15:36:39.353Z,@madhusai09/madhu-ai,1.0.7,madhusai09,MIT,58170,Embeddable MadhuAI chatbot widget for websites
+2026-11-11T15:37:20.129Z,@aiti-ai/aiti-bridge,0.2.5,nightwend,MIT,37276,aiti-devtools 独立桥服务（常驻，不依赖 pi 生命周期）——页面连接/SSE/工具执行/MCP JSON-RPC + 静态资产 + stdio shim（env AITI_BRIDGE_URL 统一接入）；默认 127.0.0.1:8777
+2026-11-11T15:37:36.671Z,@salesforce/apex-language-server-extension-api,0.11.75-nightly.20261110,salesforce-releases,BSD-3-Clause,27657,Public Apex Language Server extension activation API contract
+2026-11-11T15:37:37.114Z,@mostajs/deployment-ui-html,0.1.2,apolocine,AGPL-3.0-or-later,130021,"Console d'exploitation de @mostajs/deployment, rendu pur (état → HTML), sans JavaScript : déploiements (plans, étapes, confirmation d'Appliquer et de Défaire), instances et équilibrage (retrait, remi…"
+2026-11-11T15:37:46.84Z,dsh-feiyu-core,1.0.0,zeroxh,MIT,298652,陪伴型 AI 框架 + 万能桥：契约与可插拔实现；接哪个平台由使用者自己写驱动，框架不含任何平台实现
+2026-11-11T15:37:50.221Z,@easytyga/cli,3.1.3,easytyga,MIT,502355,"Tunnel your local AI to the internet. Secure. One command. Works with Ollama, OpenClaw, vLLM, and any HTTP service."
+2026-11-11T15:37:50.658Z,opencode-go-pool,0.1.0,den1251,MIT,122938,"Multi-account pool, quota monitor and local usage ledger for OpenCode Go"
+2026-11-11T15:37:56.396Z,@juli-os/basin,0.1.1,juli-labs,Apache-2.0,26338,"juli-os foundation: versioned SQLite migrations on node:sqlite — open connections, build schema, track versions. Zero npm dependencies."
+2026-11-11T15:38:31.451Z,my_poc_sandbox,0.0.0-stage,johndoe3255,,336,Temporary package placeholder for staged publishing
+2026-11-11T15:39:47.034Z,@dyneconllc/hpts,2.0.0,s0nofant0n,MIT,21451,hpts: convert a SOCKS5 proxy into an HTTP proxy (maintained fork of http-proxy-to-socks)
+2026-11-11T15:39:51.156Z,@peculiarnewbie/peek,0.1.0,peculiarnewbie,MIT,11068384,Instant-connect remote desktop host for LAN and Tailscale. The client is a browser tab.
+2026-11-11T15:40:16.737Z,eggapi-skills,1.0.0,danke8866,MIT,5738,"Install EggAPI workflow skills (e-commerce images, ad creatives, short films) into Claude Code, Codex and other coding agents."
+2026-11-11T15:40:17.975Z,lightmap-studio,0.1.0,mode777,Unlicense,212984,Engine-agnostic unwrapping and lightmap baking studio built on xatlas-wasm and lightmapper-wasm.
+2026-11-11T15:40:19.775Z,@9in-io/react,0.1.0,ssofy,MIT,26929,"Official 9in SDK for React: <NineProvider>, useNine(), <SignedIn>, <SignedOut> and <RequireAuth>, built on @9in-io/sdk (sign-in with PKCE, token refresh)."
+2026-11-11T15:40:23.039Z,@9in-io/nextjs,0.1.0,ssofy,MIT,86874,"Official 9in SDK for Next.js (App Router): sign-in routes, encrypted session cookies, auth() in Server Components, token refresh and route protection in middleware. Runs on Node and Edge."
+2026-11-11T15:40:58.375Z,acenta-cli,0.1.0,zomux,MIT,7445,Use your Acenta agent from your terminal: acenta connect <code>
+2026-11-11T15:41:51.66Z,@sigmon/mcp,0.2.0,diogohsm,MIT,125124,"SignalMonitor MCP server: investigation tools (errors, traces, LLM costs, sessions, releases) for AI agents over stdio, scoped by a project/environment read token, plus project, environment and key s…"
+2026-11-11T15:42:15.087Z,finalcheck,0.14.0,seanx40359,Apache-2.0,14412,"Delivery-readiness audits for code and web apps: 11 dimensions × 3 levels, with file:line evidence. Desktop app + CLI."
+2026-11-11T15:42:56.948Z,ioredis-om-typed,0.0.1-security,npm,,438,security holding package
+2026-11-11T15:43:40.609Z,tapp-capacitor-sdk,0.1.0-alpha.0,nkmhub,MIT,95365,Capacitor plugin for the Tapp deep linking and attribution SDK
+2026-11-11T15:44:29.511Z,@acenta/cli,0.1.0,zomux,MIT,7447,Use your Acenta agent from your terminal: acenta connect <code>
+2026-11-11T15:44:40.464Z,dsh-plugin-magi-core,1.0.1,ritacuk,MIT,469599,负责三模型独立推理、人格、模型路由、计票及结果恢复。基础功能必需。
+2026-11-11T15:44:47.587Z,recoverkit-connector,1.0.0,lighthouse21,UNLICENSED,46477,"RecoverKit read-only connector for MongoDB apps (Node.js). Reads your database where it lives and sends only hashes, dates and amounts."
+2026-11-11T15:44:54.579Z,@portable-doc/code,0.0.0-stage,frikkern,,340,Temporary package placeholder for staged publishing
+2026-11-11T15:44:58.506Z,dsh-plugin-magi-ui,1.0.1,ritacuk,MIT,3400772,提供 EVA 风格日语端末、详细审议、历史记录和统一设置页面。
+2026-11-11T15:45:02.727Z,dsh-plugin-magi-agent-bridge,1.0.1,ritacuk,MIT,10808,向 Agent 提供 MAGI 工具使用提醒，由 Agent 自主决定是否调用。
+2026-11-11T15:45:06.385Z,dsh-plugin-magi-synthesis,1.0.1,ritacuk,MIT,23893,调用第四模型总结三贤人的意见、分歧、风险和建议，不参与表决。
+2026-11-11T15:45:10.374Z,dsh-plugin-magi-code-review,1.0.1,ritacuk,MIT,43530,提供代码问题分析、Finding、问题证据和审查结果管理。
+2026-11-11T15:45:12.883Z,@mnykj/alleditor-vue,1.3.1,jinsong,MIT,7005567,AllEditor Vue3 desktop shell (wang + UE). Lockstep with @mnykj/alleditor.
+2026-11-11T15:45:13.524Z,dsh-plugin-magi-suite,1.0.1,ritacuk,MIT,9245,三贤人多模型决策系统
+2026-11-11T15:45:19.461Z,@carparkteam/parz-ui,1.0.0,carparktdevteam,SEE LICENSE IN LICENSE,281621,"Parz UI — React components with liquid motion, crafted by CarPark Team & Dev.CarPark: Parz Menu, Parz Toggle, Parz Checkbox, Parz Slider, Parz Range, AnimoLogo."
+2026-11-11T15:45:55.825Z,@ph0ryn/dsh-optimizations,0.1.0,ph0ryn,MIT,17248,Small individually switchable improvements for DeepSeek Harness across the Web GUI and host behaviour
+2026-11-11T15:45:55.956Z,@akoru/video-prompt-director,0.2.0,akoru,MIT,196151,"Claude Code skill that turns scripts and approved storyboards into AI video generation prompts, with an installer CLI."
+2026-11-11T15:46:05.779Z,oracle-redis,0.0.1-security,npm,,430,security holding package
+2026-11-11T15:47:03.76Z,tapp-adjust-capacitor-sdk,0.1.0-alpha.0,nkmhub,MIT,217247,Capacitor plugin for the Tapp deep linking and attribution SDK with the Adjust adapter
+2026-11-11T15:47:06.153Z,@aiti-ai/aiti-testagent,0.1.7,nightwend,MIT,427104,TestAgent Java 调试适配器 —— IDE 面板：Java 进程扫描 / 一键 Attach / 连桥状态
+2026-11-11T15:47:11.744Z,@taitide/kitcode,0.1.8,taitide,MIT,18509,KitCode Agent is an AI agent built in Rust.
+2026-11-11T15:49:06.712Z,redis-type-xyz,0.0.1-security,npm,,434,security holding package
+2026-11-11T15:49:30.848Z,obxid-miner,0.1.1,axonrh,MIT,35371,"Mine $OBXID with your AI agent: one block a minute, one question, one try."
+2026-11-11T15:50:01.409Z,@junctura/health-contracts,1.0.0,dtrien261,Apache-2.0,43174,"Shared capability contracts of Junctura Health: schemas, manifests and purpose rules for connected-care applications on Junctura DX-OS."
+2026-11-11T15:50:05.562Z,ioredis-xyz,0.0.1-security,npm,,428,security holding package
+2026-11-11T15:50:27.617Z,@robert.tools/task,1.0.0,willi84,MIT,25674,A system to run tasks
+2026-11-11T15:50:33.786Z,@farmfe/docs-theme-default,0.0.1,wre232114,MIT,194377,Default theme for Farm Docs
+2026-11-11T15:51:04.551Z,@promptfolio/source-remote,0.0.4,amanx5,MIT,29205,"Remote profile source for Promptfolio: fetches a profile file from a URL, with a timeout and a size limit."
+2026-11-11T15:51:07.738Z,dsh-archive-rsi,0.3.1,feahter,MIT,678288,"Session archive for the DeepSeek Harness: CRUD over historical sessions, plus a PDCA alchemy loop that mines them into measurable context and tool-layer patches (tool-layer recursive self-improvement…"
+2026-11-11T15:51:11.505Z,@farmfe/plugin-docs-darwin-arm64,0.0.1,wre232114,MIT,17728596,
+2026-11-11T15:51:13.155Z,dsh-360,0.2.2,feahter,MIT,823942,"One plugin, two surfaces of health checks — DeepSeek Harness skills, plus agent configuration (instruction files, subagent definitions, agent presets), scored on one shared S~E 18-bucket grade scale,…"
+2026-11-11T15:51:17.852Z,dsh-github-manager,1.0.0,feahter,MIT,119305,"GitHub project manager for the DeepSeek Harness: a sidebar panel for repositories, issues and pull requests, plus github_* agent tools."
+2026-11-11T15:51:22.376Z,dsh-mind-canvas,0.2.1,feahter,MIT,550535,脑图创意画布：无限画布上的选题脑图，从灵感一键长成结构，AI 帮你发散。
+2026-11-11T15:51:23.948Z,gentle-herdr-status,0.1.1,pargun,MIT,118579,"Pi extension that shows in the Herdr sidebar the running subagent ($subagent), the orchestrator phase ($phase), the running jobs ($jobs) and the panel name ($name). Pane state and notifications stay…"
+2026-11-11T15:51:26.667Z,@feahter/dsh-realtime-voice,0.1.0,feahter,MIT,42813,"Continuous realtime dictation for the DeepSeek Harness composer, powered by the local SenseVoice recognizer"
+2026-11-11T15:51:48.888Z,@farmfe/plugin-docs-darwin-x64,0.0.1,wre232114,MIT,18275310,
+2026-11-11T15:52:26.211Z,@farmfe/plugin-docs-linux-arm64-gnu,0.0.1,wre232114,MIT,15014398,
+2026-11-11T15:52:48.502Z,@mostajs/recherche-ui-html,0.1.0,apolocine,AGPL-3.0-or-later,51274,"Vue de la recherche de @mostajs/recherche : champ (formulaire GET, raccourci « / »), suggestions, page de résultats (filtres par type avec leur nombre, correspondance exacte, extrait surligné réécrit…"
+2026-11-11T15:52:48.548Z,@openvalle/engine,0.1.0,qczone,Apache-2.0,13115338,Valle's engine in the browser: a Motion scene or a Timeline drawn with WebGPU
+2026-11-11T15:52:58.053Z,@webstemplate/server,1.0.1,caozhengqian,ISC,39230464,
+2026-11-11T15:53:03.485Z,@farmfe/plugin-docs-linux-x64-gnu,0.0.1,wre232114,MIT,19607960,
+2026-11-11T15:53:10.502Z,studium-mcp,0.6.0,lfnot,Apache-2.0,3678490,"Studium lesson server for MCP clients (Codex, Claude Code, Copilot): plays and reviews Studium lessons over stdio."
+2026-11-11T15:53:40.181Z,@farmfe/plugin-docs-win32-x64-msvc,0.0.1,wre232114,MIT,16505821,
+2026-11-11T15:54:04.319Z,catsearch,0.1.0,appulsauce,MIT,222140,"Discord-style category search: declare your fields, get a query language, filtering and completion. The TypeScript port of textual-catsearch."
+2026-11-11T15:54:06.69Z,sveltekit-test-kit,0.1.0,dmytrokondrashov,MIT,58209,Stateful mocks for SvelteKit's $app/* modules plus helpers for testing runes and snippets in Vitest browser mode
+2026-11-11T15:54:15.882Z,@farmfe/plugin-docs,0.0.1,wre232114,MIT,209522,"Native Rust content planning for Farm Docs: content discovery, validation, route/module generation and the development content plan. The npm entry loads the matching native plugin and returns a Farm…"
+2026-11-11T15:54:32.907Z,dsh-rice-vat,1.0.0,cyberoldjoey,MIT,1031244,"Rice-vat quota dashboard for DeepSeek Harness: account balance as a physical rice level, with a whale-girl companion."
+2026-11-11T15:54:39.768Z,@oidcraft/adapter,0.1.0,fl0r14n,MIT,50016,"The storage contract of @oidcraft/provider: the Adapter stores and the records they hold, fromKv, key stores, an in-memory adapter and the shared conformance suite."
+2026-11-11T15:54:42.644Z,@oidcraft/drizzle,0.1.0,fl0r14n,MIT,124099,"A Drizzle storage adapter for @oidcraft/provider, on Postgres or SQLite."
+2026-11-11T15:54:46.13Z,@oidcraft/kysely,0.1.0,fl0r14n,MIT,25619,"A Kysely storage adapter for @oidcraft/provider, on Postgres or SQLite."
+2026-11-11T15:54:48.939Z,@oidcraft/typeorm,0.1.0,fl0r14n,MIT,32247,"A TypeORM storage adapter for @oidcraft/provider, over a DataSource on Postgres or SQLite."
+2026-11-11T15:54:50.174Z,@nurix/forge,0.1.0-stage.1,nurix-tools,UNLICENSED,13352044,"Forge, NuForge's UI: the start view, the session workspace, the approval review and the docked panel. `@nurix/forge` is the React 19 library; `@nurix/forge/embed` bundles its own React 19 for a host…"
+2026-11-11T15:54:51.514Z,@oidcraft/redis,0.1.0,fl0r14n,MIT,7295,"A Redis storage adapter for @oidcraft/provider, through one command function the host supplies — any client, any runtime."
+2026-11-11T15:54:52.413Z,@farmfe/plugin-docs-seo-darwin-arm64,0.0.1,wre232114,MIT,2885588,
+2026-11-11T15:55:12.029Z,@sipesistemas/central-ajuda-formato,0.1.0,hugohomesquita,UNLICENSED,139798,"Formato do conteúdo da Central de Ajuda: schema, leitura, regras, Markdown e publicação"
+2026-11-11T15:55:29.281Z,@farmfe/plugin-docs-seo-darwin-x64,0.0.1,wre232114,MIT,2945406,
+2026-11-11T15:55:37.82Z,dsh-deepseek-companion,0.1.0,caelum-maple,MIT,930955,DeepSeek Web Companion plugin for DeepSeek Harness (DSH)
+2026-11-11T15:55:46.577Z,@sipesistemas/central-ajuda,0.1.0,hugohomesquita,UNLICENSED,1443689,"CLI da Central de Ajuda: validar, novo, previsualizar, empacotar, schema e icones"
+2026-11-11T15:55:48.835Z,@qaorbits/cli,1.0.0,hexahexa,MIT,21769,Command-line client for Orbits QA — manage test cases and push CI results.
+2026-11-11T15:55:53.062Z,@sipesistemas/central-ajuda-site,0.1.0,hugohomesquita,UNLICENSED,71838,"Site estático da Central de Ajuda (Astro), um build por produto"
+2026-11-11T15:55:53.435Z,@qaorbits/playwright,1.0.0,hexahexa,MIT,13716,Playwright reporter for Orbits QA — sends every run's results and failure screenshots to Orbits.
+2026-11-11T15:56:05.522Z,@farmfe/plugin-docs-seo-linux-arm64-gnu,0.0.1,wre232114,MIT,3446702,
+2026-11-11T15:56:43.177Z,@farmfe/plugin-docs-seo-linux-x64-gnu,0.0.1,wre232114,MIT,3208352,
+2026-11-11T15:57:19.354Z,@farmfe/plugin-docs-seo-win32-x64-msvc,0.0.1,wre232114,MIT,2630117,
+2026-11-11T15:57:26.397Z,github-report,1.0.0,silentcoding,MIT,11946,GitHub profile and repository stats in your terminal
+2026-11-11T15:57:27.5Z,@starcks/loader,1.0.1,stefano-starcks,MIT,13917,"Loads the Starcks sdk and plugins from js.starcks.io, so new releases need no package update"
+2026-11-11T15:57:56.404Z,@farmfe/plugin-docs-seo,0.0.1,wre232114,MIT,208694,Native Rust SEO integration for Farm Docs. The framework consumes Rust-owned page metadata during its build; this plugin does not parse Docusaurus configuration or delegate compilation to a JavaScrip…
+2026-11-11T15:58:33.192Z,@dr-co/dsh-graceful-restart,1.4.0,unera,MIT,80893,"Graceful, idle-aware restart of the DSH host: dsh_restart registers a request that waits for every agent (subagents included) to finish, logs the causes, ends the process after a quiet window, and wa…"
+2026-11-11T15:58:33.789Z,@farmfe/plugin-docs-snapshot-darwin-arm64,0.0.1,wre232114,MIT,3374070,
+2026-11-11T15:58:45.434Z,s1ntr,0.0.1,puenteworks,UNLICENSED,372,S1NTR by KyaniteLabs. Name reserved; the package is published as `sinter`.
+2026-11-11T15:59:09.948Z,@farmfe/plugin-docs-snapshot-darwin-x64,0.0.1,wre232114,MIT,3464880,
+2026-11-11T15:59:22.282Z,@ntdev204/laris-cli,1.5.0,ntdev204,MIT,8266454,LARIS terminal client: local-first research assistant. The model and system policy run on your LARIS server.
+2026-11-11T15:59:24.24Z,coc-autark,0.1.0,adamansky,MIT,57977,Autark build-script completion for coc.nvim
+2026-11-11T15:59:36.104Z,@lyhnidos/mcp,0.1.1,lyhnidos,MIT OR Apache-2.0,17683,Model Context Protocol stdio bridge to a Lyhnidos Geo server's /mcp endpoint
+2026-11-11T15:59:37.446Z,dsh-increasing-my-english,0.1.0,ubytoro,MIT,1186419,"English intensive reading for DSH: speaker-diarized podcast transcripts, Ctrl word lookup, and a wordbook with phonetics, meanings, word forms and etymology."
+2026-11-11T15:59:46.541Z,@farmfe/plugin-docs-snapshot-linux-arm64-gnu,0.0.1,wre232114,MIT,3747680,
+2026-11-11T15:59:57.356Z,@lyhnidos/koop-provider,0.1.0,lyhnidos,MIT OR Apache-2.0,18432,ArcGIS GeoServices & OGC provider plugin for Koop.js backed by Lyhnidos Geo
+2026-11-11T16:00:23.612Z,@farmfe/plugin-docs-snapshot-linux-x64-gnu,0.0.1,wre232114,MIT,3770170,
+2026-11-11T16:00:24.527Z,dsh-pet-powercontext,0.1.0-beta.1,powermem,MIT,79834163,"Animated desktop pet for DeepSeek Harness with PowerContext long-term memory, chat, voice and independent model configuration."
+2026-11-11T16:00:33.892Z,@keyglot/cli,0.1.3,keyglot,UNLICENSED,11242275,Keyglot command-line tools for your translation workflow.
+2026-11-11T16:01:00.25Z,@farmfe/plugin-docs-snapshot-win32-x64-msvc,0.0.1,wre232114,MIT,3088879,
+2026-11-11T16:01:37.417Z,@farmfe/plugin-docs-snapshot,0.0.1,wre232114,MIT,209177,Native Rust snapshot capture and verification for the Farm Docs workflow. The default npm export returns a Rust plugin descriptor; JavaScript only selects the binary and passes serialized options.
+2026-11-11T16:02:07.547Z,become-human,0.6.1,danielddhm,MIT,36083,MCP server that makes any agent work with and for humans
+2026-11-11T16:02:08.98Z,@vighnalabs-packages/react-skeleton-loader,1.0.0,vighnalabs,ISC,4116,react skeleton loader for vighnalabs projects
+2026-11-11T16:02:11.052Z,specrivet,0.1.0,deepanbalu,MIT,33538,"SpecRivet — human-controlled, memory-driven spec development"
+2026-11-11T16:02:14.319Z,@farmfe/plugin-docs-snippets-darwin-arm64,0.0.1,wre232114,MIT,5844598,
+2026-11-11T16:02:51.466Z,@farmfe/plugin-docs-snippets-darwin-x64,0.0.1,wre232114,MIT,6025320,
+2026-11-11T16:02:59.671Z,express-helmet,0.0.1-security,npm,,434,security holding package
+2026-11-11T16:03:01.274Z,@jctaylor11/notion-mcp-server,2.7.0,jctaylor11,MIT,1401581,"Fork of the Notion MCP server with additional tools (create-database, create-view)"
+2026-11-11T16:03:04.795Z,helmify,0.0.1-security,npm,,420,security holding package
+2026-11-11T16:03:09.998Z,shraps,0.0.1-security,npm,,418,security holding package
+2026-11-11T16:03:10.877Z,@sipesistemas/central-ajuda-react,0.1.0,hugohomesquita,UNLICENSED,78487,Link de ajuda e novidades da Central de Ajuda para apps React 18 e 19
+2026-11-11T16:03:28.167Z,@farmfe/plugin-docs-snippets-linux-arm64-gnu,0.0.1,wre232114,MIT,6231512,
+2026-11-11T16:03:36.91Z,ezkielyna-image-mcp,1.0.3,ezekiel.liebert,MIT,37908,MCP server to create and edit images with the Ezkielyna API from local files
+2026-11-11T16:03:48.588Z,@revenuecat/firestore-revenuecat-purchases,1.0.0-rc.0,gcorominas,Apache-2.0,166838,RevenueCat function kit for Cloud Functions for Firebase: syncs purchases and entitlements to Cloud Firestore and Firebase Auth custom claims. Replaces the RevenueCat Firebase Extension.
+2026-11-11T16:03:52.698Z,@bizkit.io/privacypass,1.0.0,agdolla,MIT,55233,Privacy pass implementation for bizkit.io.
+2026-11-11T16:04:05.368Z,@farmfe/plugin-docs-snippets-linux-x64-gnu,0.0.1,wre232114,MIT,6586874,
+2026-11-11T16:04:12.229Z,dsh-web-host-facts,0.1.0,yusiwen,MIT,20171,"DeepSeek Harness plugin: inject host facts (OS, Nix, git signing, gpg keyring) into the model's runtime context."
+2026-11-11T16:04:32.938Z,aurelia-type,0.0.1-security,npm,,430,security holding package
+2026-11-11T16:04:38.185Z,reactlogo-load,0.0.1-security,npm,,434,security holding package
+2026-11-11T16:04:44.009Z,@farmfe/plugin-docs-snippets-win32-x64-msvc,0.0.1,wre232114,MIT,4957167,
+2026-11-11T16:04:49.49Z,@zucker-framework/back-office,1.0.21,jetlinks,Apache-2.0,2176318,"Zucker Back Office — server hosts for accounts, subscriptions, billing, management, mail and settings"
+2026-11-11T16:05:21.029Z,n8n-nodes-clerkfield,0.1.1,bramontiventures,MIT,34089,n8n node for Clerkfield: verify U.S. businesses against official state registries and search UCC liens by business or lender.
+2026-11-11T16:05:21.496Z,@farmfe/plugin-docs-snippets,0.0.1,wre232114,MIT,210091,Rust compilation of explicit Farm Docs code and command snippets
+2026-11-11T16:05:48.109Z,@biaohuang2002/github_actions_example,0.1.23,biaohuang2002,,32708,This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2026-11-11T16:05:58.299Z,@farmfe/plugin-ssr-css-darwin-arm64,0.0.1,wre232114,MIT,421701,
+2026-11-11T16:06:20.39Z,chai-as-spy,0.0.1-security,npm,,428,security holding package
+2026-11-11T16:06:25.181Z,file-type-detector,0.0.1-security,npm,,442,security holding package
+2026-11-11T16:06:35.312Z,@farmfe/plugin-ssr-css-darwin-x64,0.0.1,wre232114,MIT,401871,
+2026-11-11T16:06:37.065Z,gloglet,0.0.1-security,npm,,420,security holding package
+2026-11-11T16:06:38.797Z,dsh-ssh-gpu-monitor,1.0.2,non23,MIT,25842,"A DSH better-sidebar tab for live SSH GPU, process, and host monitoring."
+2026-11-11T16:06:43.477Z,verboset,0.0.1-security,npm,,422,security holding package
+2026-11-11T16:07:13.578Z,@farmfe/plugin-ssr-css-linux-arm64-gnu,0.0.1,wre232114,MIT,315575,
+2026-11-11T16:07:20.026Z,@gitmyabi/acst,1.0.0,gitmyabi-bot,Apache-2.0,60183,"Auto-generated TypeScript type bindings for ACST (build etherscan-acst-f4d9f469-1794413224199, commit 0d6a255, branch etherscan)"
+2026-11-11T16:07:37.322Z,kyat9-affiliate-global-s-mwcbbgka,1.0.0,gplroot,MIT,158600,Kyat9 Affiliate - Global Social Entity Silo Blast — Verified Digital Resource Matrix & Telemetry Hub
+2026-11-11T16:07:51.173Z,@farmfe/plugin-ssr-css-linux-x64-gnu,0.0.1,wre232114,MIT,407409,
+2026-11-11T16:08:07.035Z,selparsecss-selector,0.0.1-security,npm,,446,security holding package
+2026-11-11T16:08:27.448Z,@farmfe/plugin-ssr-css-win32-x64-msvc,0.0.1,wre232114,MIT,210918,
+2026-11-11T16:09:03.481Z,@farmfe/plugin-ssr-css,0.0.1,wre232114,MIT,4068,"Native Rust CSS resource handling for Node-target Farm output. It removes CSS entries from the entry's initial runtime resources so the Node renderer does not evaluate stylesheets, while retaining em…"
+2026-11-11T16:09:33.148Z,@wix/auto_sdk_stores_stores-media-v-3,1.0.0,wix-ci-publisher,MIT,112451,
+2026-11-11T16:09:39.724Z,@farmfe/plugin-syntax-highlight-darwin-arm64,0.0.1,wre232114,MIT,833420,
+2026-11-11T16:10:16.237Z,@farmfe/plugin-syntax-highlight-darwin-x64,0.0.1,wre232114,MIT,836150,
+2026-11-11T16:10:43.705Z,sf-decomposer-core,7.12.2,mcarvin,MIT,412385,Decompose and recompose Salesforce metadata without the Salesforce CLI: a standalone sf-decomposer command and programmatic API.
+2026-11-11T16:10:53.332Z,@farmfe/plugin-syntax-highlight-linux-arm64-gnu,0.0.1,wre232114,MIT,1246166,
+2026-11-11T16:11:21.788Z,gentle-slash-frecency,0.1.0,pargun,MIT,20135,"Pi extension that sorts the slash-command autocomplete by frecency, so the skills and prompts you use most appear first."
+2026-11-11T16:11:30.618Z,@farmfe/plugin-syntax-highlight-linux-x64-gnu,0.0.1,wre232114,MIT,914080,
+2026-11-11T16:11:54.077Z,@gridcraft/angular,1.0.0,mahmoud_bekheet,MIT,4547679,"A data grid for Angular. Standalone components, signals throughout, and it runs with or without Zone.js. Its only runtime dependency is `tslib`."
+2026-11-11T16:12:00.119Z,@memflowsdk/js,0.1.0,memflowsdk,MIT,49147,Official MemFlow SDK: feature flags and A/B experiments for the browser and Node.js.
+2026-11-11T16:12:06.76Z,@farmfe/plugin-syntax-highlight-win32-x64-msvc,0.0.1,wre232114,MIT,652789,
+2026-11-11T16:12:43.184Z,@farmfe/plugin-syntax-highlight,0.0.1,wre232114,MIT,210490,Native Rust configuration of the shared Farm documentation highlighter. The plugin publishes validated highlighting options for Rust content compilers; it is not a general JavaScript source transform…
+2026-11-11T16:12:52.109Z,infonetz-mcp,2.2.0,asmuldev,MIT,40803,Model Context Protocol (MCP) Server for Infonetz Multi-Tenant Media Network
+2026-11-11T16:13:01.074Z,@happyminds/happytranslate,1.0.0,happyminds,UNLICENSED,704607,Traduzione e revisione controllata dei contenuti Strapi per HappyMinds.
+2026-11-11T16:13:09.969Z,@gridcraft/mcp,1.0.0,mahmoud_bekheet,MIT,1109929,MCP server — AI authoring aid for GridCraft grids.
+2026-11-11T16:13:20.427Z,@farmfe/docs,0.0.1,wre232114,MIT,612435,Rust-powered documentation sites built with Farm
+2026-11-11T16:13:31.708Z,@mystravil/hardpoint,0.1.0,mystravil,MIT,584133,"Hardpoint: a Svelte 5 design system on Bits UI. AMOLED black, titanium ink, Geist, square solid blocks, banded mono tables, opt-in expressive motion, dark and light themes."
+2026-11-11T16:13:56.993Z,@farmfe/plugin-vue-jsx-darwin-arm64,0.0.1,wre232114,MIT,7179055,
+2026-11-11T16:13:58.961Z,netspeedutil,0.0.1-security,npm,,430,security holding package
+2026-11-11T16:15:08.228Z,better-auth-tarjim,0.1.0,raidsobhi,MIT,193539,"Arabic error toasts for Better Auth. Tiny, typed, built for shadcn/ui (Sonner). Codes stay in sync with every Better Auth release."
+2026-11-11T16:16:09.378Z,@skyscout/nasa-client,1.0.0,vilmosioo,BSD-3-Clause,88470,"Fully-typed TypeScript client for NASA Public Domain astronomical archives: IPAC/IRSA (2MASS, AllWISE) and STScI MAST (TESS TIC, Hubble)"
+2026-11-11T16:16:50.338Z,upsello-ds-bot,0.0.0-stage,aricgao,,336,Temporary package placeholder for staged publishing
+2026-11-11T16:17:09.31Z,upsello-bot-plugin,0.0.0-stage,aricgao,,340,Temporary package placeholder for staged publishing
+2026-11-11T16:17:52.039Z,@parleymax/agent-kit,0.0.0-stage,mcpmastersh,,342,Temporary package placeholder for staged publishing
+2026-11-11T16:17:58.721Z,pi-cohort-mux,0.0.0-stage,nertzy,,335,Temporary package placeholder for staged publishing
