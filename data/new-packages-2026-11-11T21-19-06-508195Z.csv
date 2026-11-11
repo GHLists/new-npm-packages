@@ -1,0 +1,355 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-11T19:16:40.106Z,@cyclecalcs/skyshare,0.1.0,maskofcyclecalcs,SEE LICENSE IN LICENSE,907819,"Put names on a photo of the night sky. Finds the Moon, planets and bright stars in it and returns their names and pixel positions, or a ready-made label layer."
+2026-11-11T19:17:07.36Z,@open-gitagent/gitagent-darwin-arm64,3.0.0,shreyaskapale,MIT,8462967,The gitagent binary for darwin arm64. Install @open-gitagent/gitagent instead; it picks this package for you.
+2026-11-11T19:17:11.638Z,@open-gitagent/gitagent-darwin-x64,3.0.0,shreyaskapale,MIT,10030441,The gitagent binary for darwin x64. Install @open-gitagent/gitagent instead; it picks this package for you.
+2026-11-11T19:17:15.978Z,@open-gitagent/gitagent-linux-arm64,3.0.0,shreyaskapale,MIT,8899364,The gitagent binary for linux arm64. Install @open-gitagent/gitagent instead; it picks this package for you.
+2026-11-11T19:17:20.29Z,@open-gitagent/gitagent-linux-x64,3.0.0,shreyaskapale,MIT,10740262,The gitagent binary for linux x64. Install @open-gitagent/gitagent instead; it picks this package for you.
+2026-11-11T19:17:42.745Z,@ploutosservices/source-gates,0.2.0,umittal,Apache-2.0,101320,"Build gates that read your source as a syntax tree: no hard-coded addresses, every environment read declared, no secret in a Next.js client bundle, every Next.js entry checks a permission, every icon…"
+2026-11-11T19:18:35.692Z,@paibot/iac,0.2.0,paibot,MIT,108683,"Write infrastructure once — networks, NAT, VMs, firewalls, buckets — and generate Terraform / OpenTofu for AWS, Google Cloud and Azure with the same meaning on each."
+2026-11-11T19:18:49.264Z,@elizaos/capacitor-secure-store,2.0.5,shawticus,MIT,169266,Device-only Apple Keychain and Android Keystore storage for Eliza app credentials.
+2026-11-11T19:18:54.254Z,@elizaos/voice,2.0.5,shawticus,MIT,384943,"Portable voice turn analysis, acoustic processing and speech metrics."
+2026-11-11T19:19:11.696Z,@elizaos/plugin-google-workspace,2.0.5,shawticus,,1010419,"Google Workspace integration for Gmail, Calendar, Drive, Meet, and People (Contacts) with account-scoped OAuth, plus the Google Chat messaging connector (service-account auth) and Google-owned assist…"
+2026-11-11T19:19:27.019Z,@elizaos/plugin-meetings,2.0.5,shawticus,,441269,"Meeting transcription plugin for elizaOS agents — browser bots that join Google Meet / Microsoft Teams / Zoom as guests, capture per-speaker audio, transcribe through the runtime model layer, and lan…"
+2026-11-11T19:19:37.41Z,@elizaos/plugin-native-inference,2.0.5,shawticus,MIT,4020423,"Native inference for AOSP and Capacitor, mobile host bridges, and Android ML Kit OCR."
+2026-11-11T19:19:44.713Z,@elizaos/plugin-maps,2.0.5,shawticus,,2206948,"Provider-neutral place search, routing, saved places, sharing, and navigation handoffs for Eliza agents."
+2026-11-11T19:19:49.554Z,@elizaos/plugin-native-contacts,2.0.5,shawticus,,294855,Android Contacts overlay app — wraps the @elizaos/plugin-native-contacts/bridge native plugin.
+2026-11-11T19:19:51.982Z,@elizaos/plugin-native-filesystem,2.0.5,shawticus,MIT,48801,Mobile-safe filesystem bridge for canonical FILE target=device operations on iOS/Android and desktop/AOSP.
+2026-11-11T19:19:54.405Z,@elizaos/plugin-native-phone,2.0.5,shawticus,,473721,"Phone app for Eliza — Android dialer/call-log overlay (@elizaos/plugin-native-phone/bridge) and the iOS Phone Companion (pairing, chat-mirror, remote-session)."
+2026-11-11T19:19:56.787Z,@elizaos/plugin-native-wifi,2.0.5,shawticus,,128552,"Wi-Fi overlay app for the Eliza Android build — scan, inspect, and connect to nearby networks via @elizaos/plugin-native-wifi/bridge."
+2026-11-11T19:19:59.947Z,@elizaos/plugin-notes,2.0.5,shawticus,,1343854,Cloud Notes view with durable agent-driven CRUD.
+2026-11-11T19:20:05.47Z,@elizaos/plugin-pty,2.0.5,shawticus,MIT,2033547,Interactive PTY terminal service for elizaOS — registers PTY_SERVICE so the app's web terminal can drive a real interactive CLI (eliza-code on Eliza Cloud/cerebras)
+2026-11-11T19:20:10.821Z,@elizaos/plugin-sqlite,2.0.5,shawticus,,5949351,Durable per-agent SQLite storage with atomic transactions and restart recovery
+2026-11-11T19:20:32.612Z,@digisavvy/block-editor,0.1.1,digisavvy,MIT,459409,"A Notion-style block editor for emails and web pages, built with Svelte 5 and ProseMirror."
+2026-11-11T19:20:33.754Z,@elizaos/capacitor-browser-surface,2.0.5,shawticus,MIT,928834,"Layers isolated native web surfaces (iOS WKWebView pool, Android out-of-process WebView) for the Browser view's third-party tabs."
+2026-11-11T19:20:35.327Z,create-nightkit,0.1.2,uvroxx,Apache-2.0,37674,Start a Midnight app with NightKit: `npm create nightkit@latest my-app`.
+2026-11-11T19:20:56.756Z,pdf-textlayer,0.3.0,patelvivekdev,MIT,40870,"Add an invisible, searchable text layer to a PDF from OCR JSON. Rust core, typed Node.js API."
+2026-11-11T19:21:05.051Z,@elizaos/plugin-native-messages,2.0.5,shawticus,,645788,Android Messages overlay app for ElizaOS — SMS inbox and compose surface backed by @elizaos/plugin-native-messages/bridge.
+2026-11-11T19:21:07.765Z,@elizaos/plugin-native-settings,2.0.5,shawticus,,72986,"Android Device Settings overlay app for ElizaOS — brightness, volume, Android roles, and system settings shortcuts."
+2026-11-11T19:21:35.275Z,pdf-textlayer-darwin-arm64,0.3.0,patelvivekdev,MIT,1813150,pdf-textlayer native module for darwin-arm64
+2026-11-11T19:21:44.61Z,bepqs,1.3.2,mykiimike,AGPL-3.0,2080931,"<p align=""center""> <img src=""data/logo.png"" alt=""BePQS Logo"" width=""400""> </p>"
+2026-11-11T19:22:00.011Z,pdf-textlayer-darwin-x64,0.3.0,patelvivekdev,MIT,2038020,pdf-textlayer native module for darwin-x64
+2026-11-11T19:22:09.606Z,@bepqs/unixdriver,1.1.6,mykiimike,AGPL-3.0,1435464,"<p align=""center""> <img src=""data/logo.png"" alt=""BePQS Logo"" width=""400""> </p>"
+2026-11-11T19:22:30.128Z,pdf-textlayer-linux-x64-gnu,0.3.0,patelvivekdev,MIT,2215673,pdf-textlayer native module for linux-x64-gnu
+2026-11-11T19:22:49.735Z,pdf-textlayer-linux-arm64-gnu,0.3.0,patelvivekdev,MIT,1898091,pdf-textlayer native module for linux-arm64-gnu
+2026-11-11T19:23:12.788Z,pdf-textlayer-linux-x64-musl,0.3.0,patelvivekdev,MIT,2217620,pdf-textlayer native module for linux-x64-musl
+2026-11-11T19:23:26.098Z,@veltrixjs/react,0.1.0,mohamed-saad,Apache-2.0,753121,"Server-driven, virtualized data grid for Veltrix datasets."
+2026-11-11T19:23:38.077Z,@bepqs/cli,1.1.13,mykiimike,AGPL-3.0,76351,"<a href=""https://www.gnu.org/licenses/agpl-3.0.html""> <img src=""https://www.gnu.org/graphics/agplv3-with-text-162x68.png"" alt=""AGPL-3.0 License"" height=""50""> </a>"
+2026-11-11T19:23:41.215Z,@bepqs/reactjs,1.0.6,mykiimike,AGPL-3.0,69140,Vite-ready React bindings for the Hyperproof webdriver kernel and Beys WebSocket transport
+2026-11-11T19:23:58.43Z,pdf-textlayer-win32-x64-msvc,0.3.0,patelvivekdev,MIT,2273155,pdf-textlayer native module for win32-x64-msvc
+2026-11-11T19:24:54.371Z,pdf-textlayer-win32-arm64-msvc,0.3.0,patelvivekdev,MIT,1948557,pdf-textlayer native module for win32-arm64-msvc
+2026-11-11T19:25:14.999Z,@bepqs/webdriver,2.1.1,mykiimike,AGPL-3.0,17698898,Hyperproof browser webdriver kernel
+2026-11-11T19:25:58.292Z,@modulane/repo-check,1.0.0,nicolasv,MIT,94584,Check that a modulane repository still matches the reference setup in repo-template.
+2026-11-11T19:26:35.182Z,@javierfrancoleal/lessons,1.0.0,javierfrancoleal,MIT,6071,"The learning organ (the GENOME): the active lessons of the house — the build must be LAUNCHED before it ships, the session env must be checked before launching Electron (ELECTRON_RUN_AS_NODE), quoted…"
+2026-11-11T19:28:28.07Z,@abot-ai/socket,0.1.0,dorshitrit,MIT,284267,Self-hosted authenticated relay for ABot clients and runtimes
+2026-11-11T19:29:00.88Z,redclove,0.1.0,redclove,MIT,17945,"Add tested backend blocks (auth, payments, uploads…) to your project: npx redclove add auth"
+2026-11-11T19:29:10.121Z,@loidolt/theme-capacitor,0.12.1,loidolt,MIT,127916,Capacitor adapters that carry the Loidolt theme into native iOS and Android apps
+2026-11-11T19:29:10.577Z,@assinafy/embed-sdk,1.0.1,billm950,MIT,61168,Framework-independent browser SDK for Assinafy embedded signing.
+2026-11-11T19:29:10.922Z,@loidolt/theme-tauri,0.12.1,loidolt,MIT,136878,Tauri adapters that carry the Loidolt theme into desktop apps
+2026-11-11T19:29:38.334Z,@redclove/mcp,0.1.0,redclove,MIT,5875,"MCP server that lets AI agents in Cursor, VS Code, Claude Code and Antigravity browse and add RedClove blocks"
+2026-11-11T19:29:48.279Z,getclaimcheck,0.1.1,acmegeek,MIT,33340,Flag literacy gaps in claims and arguments. An agent with the skill writes a seven-dimension report; the source is left unchanged.
+2026-11-11T19:31:15.195Z,@esquadrao/cli,1.6.0,luizc,MIT,680138,Esquadrão CLI and autonomous skill orchestration framework for AI agents
+2026-11-11T19:31:50.857Z,@devopsnext/starterkit-badge-component,0.1.1,devopsnext,MIT,68508,"Obsidian design-system Badge — token-driven, CSS-styled, zero runtime dependencies."
+2026-11-11T19:33:23.933Z,@prismatic-io/components-adp-workforce-now,0.1.0,katryn-prismatic,Apache-2.0,2087747,"Manage applicants, workers, and payroll data in ADP Workforce Now."
+2026-11-11T19:33:26.887Z,@prismatic-io/components-amqp,0.1.0,katryn-prismatic,Apache-2.0,1376756,Send and receive messages on an AMQP-based message broker
+2026-11-11T19:33:29.688Z,@prismatic-io/components-arena-plm,0.1.0,katryn-prismatic,Apache-2.0,1260464,Interact with items and resources in Arena PLM
+2026-11-11T19:33:32.397Z,@prismatic-io/components-arena-plm-v2,0.1.0,katryn-prismatic,Apache-2.0,3226718,Connect and sync data with Arena Solutions PLM system
+2026-11-11T19:33:35.015Z,@prismatic-io/components-aspose,0.1.0,katryn-prismatic,Apache-2.0,1396688,Convert and manipulate documents and PDFs in Aspose.
+2026-11-11T19:33:37.949Z,@prismatic-io/components-atlassian-jira,0.1.0,katryn-prismatic,Apache-2.0,2473970,"Manage issues, comments, projects, and users in Jira."
+2026-11-11T19:33:37.986Z,@vixartech/idweb-sdk,0.1.0-alpha.1,dmironenko,Apache-2.0,25692,Framework-independent OpenID Connect client for Vixar ID
+2026-11-11T19:33:40.846Z,@prismatic-io/components-aws-lambda,0.1.0,katryn-prismatic,Apache-2.0,3387491,Amazon Lambda Component for Prismatic
+2026-11-11T19:33:43.635Z,@prismatic-io/components-aws-ses,0.1.0,katryn-prismatic,Apache-2.0,3447045,Amazon Simple Email Service Component for Prismatic
+2026-11-11T19:33:46.463Z,@prismatic-io/components-aws-sqs,0.1.0,katryn-prismatic,Apache-2.0,3333355,"Send, receive and manage messages within an Amazon (AWS) SQS queue"
+2026-11-11T19:33:49.258Z,@prismatic-io/components-azure-blob,0.1.0,katryn-prismatic,Apache-2.0,3805387,Manage files and folders within Azure Blob Storage
+2026-11-11T19:33:51.976Z,@prismatic-io/components-azure-cosmos-db,0.1.0,katryn-prismatic,Apache-2.0,1313371,"Manage databases, collections, and documents within Azure Cosmos DB."
+2026-11-11T19:33:54.55Z,@prismatic-io/components-azure-event-grid,0.1.0,katryn-prismatic,Apache-2.0,1279679,Azure Event Grid is an event routing service that can be used to build event driven applications by distributing events from various sources to subscribers.
+2026-11-11T19:33:57.062Z,@prismatic-io/components-azure-openai-service,0.1.0,katryn-prismatic,Apache-2.0,1471474,Generate completions and images using Azure OpenAI Service or OpenAI API.
+2026-11-11T19:33:59.659Z,@prismatic-io/components-bill,0.1.0,katryn-prismatic,Apache-2.0,1454129,"Use the Bill component to manage Bank Accounts, Invoices, Bills, and more."
+2026-11-11T19:34:02.333Z,@prismatic-io/components-bynder,0.1.0,katryn-prismatic,Apache-2.0,1792422,"Bynder is a leading digital asset management software that allows users to easily create, find, and use content, such as documents, graphics, and videos."
+2026-11-11T19:34:05.411Z,@prismatic-io/components-contentful,0.1.0,katryn-prismatic,Apache-2.0,1757799,"Manage spaces, environments, entries, assets, and organizations in Contentful"
+2026-11-11T19:34:08.168Z,@prismatic-io/components-databricks,0.1.0,katryn-prismatic,Apache-2.0,1320491,"Manage compute, workflow jobs, ML models, SQL queries and more within a Databricks workspace."
+2026-11-11T19:34:10.976Z,@prismatic-io/components-deepseek,0.1.0,katryn-prismatic,Apache-2.0,1264429,Generate chat completions and manage models with DeepSeek AI.
+2026-11-11T19:34:13.555Z,@prismatic-io/components-expensify,0.1.0,katryn-prismatic,Apache-2.0,1355241,"Expensify provides an industry leading expense management system. Use the Expensify component to programmatically download expense report data for analysis or insertion into an accounting package, pr…"
+2026-11-11T19:34:16.325Z,@prismatic-io/components-firebase,0.1.0,katryn-prismatic,Apache-2.0,5299305,"Create, read, update, and delete documents in a Firebase Cloud Firestore database collection."
+2026-11-11T19:34:18.868Z,@prismatic-io/components-first-resonance,0.1.0,katryn-prismatic,Apache-2.0,1468102,Manage purchase orders and manufacturing data in First Resonance ION.
+2026-11-11T19:34:21.492Z,@prismatic-io/components-gitlab,0.1.0,katryn-prismatic,Apache-2.0,1535725,"Manage projects, issues, merge requests, branches, and repository files in GitLab.com or a self-managed GitLab instance, including instances on a private network."
+2026-11-11T19:34:24.371Z,@prismatic-io/components-google-cloud-pub-sub,0.1.0,katryn-prismatic,Apache-2.0,9550584,"Manage topics, subscriptions, and messages in Google Cloud Pub/Sub."
+2026-11-11T19:34:27.313Z,@prismatic-io/components-google-cloud-storage,0.1.0,katryn-prismatic,Apache-2.0,5465101,Google Cloud Storage integration component for file storage and management operations
+2026-11-11T19:34:30.338Z,@prismatic-io/components-google-content-shopping,0.1.0,katryn-prismatic,Apache-2.0,9812306,"Manage products, inventory, and orders in Google Merchant Center."
+2026-11-11T19:34:33.221Z,@prismatic-io/components-google-drive,0.1.0,katryn-prismatic,Apache-2.0,12384792,"Manage files, folders, and drives, and monitor activity in Google Drive"
+2026-11-11T19:34:36.231Z,@barndog-ai/api-contract,0.1.0,yuriipalam,MIT,1077931,"Typed OpenAPI contract, Fetch client, and schemas for the BarnDog API."
+2026-11-11T19:34:36.818Z,@prismatic-io/components-google-gemini,0.1.0,katryn-prismatic,Apache-2.0,1877687,"Interact with Google Gemini AI models to generate text, images, videos, and manage chat conversations."
+2026-11-11T19:34:39.395Z,@prismatic-io/components-google-sheets,0.1.0,katryn-prismatic,Apache-2.0,1826307,"Manage spreadsheets, sheets, and rows in Google Sheets."
+2026-11-11T19:34:41.935Z,@prismatic-io/components-gorgias,0.1.0,katryn-prismatic,Apache-2.0,1798877,Gorgias is a customer support platform designed to help e-commerce businesses manage customer inquiries and support tickets efficiently.
+2026-11-11T19:34:44.424Z,@prismatic-io/components-gusto,0.1.0,katryn-prismatic,Apache-2.0,1365283,"Manage payroll, benefits, and human resource within Gusto"
+2026-11-11T19:34:46.96Z,@prismatic-io/components-hibob,0.1.0,katryn-prismatic,Apache-2.0,1611204,"Manage employees, tasks, documents, and custom tables in HiBob."
+2026-11-11T19:34:50.059Z,@prismatic-io/components-hubspot,0.1.0,katryn-prismatic,Apache-2.0,1750169,Manage records and associations in the HubSpot CRM platform
+2026-11-11T19:34:52.851Z,@prismatic-io/components-jira-service-management,0.1.0,katryn-prismatic,Apache-2.0,2282734,"Interact with the Jira Service Management API to manage service requests, issues, request types, queues, and approvals."
+2026-11-11T19:34:53.852Z,mitsukeru,0.1.0,arw-ywt,MIT,306010,"Deterministic, explainable constraint optimization engine (WebAssembly)"
+2026-11-11T19:34:55.611Z,@prismatic-io/components-ldap,0.1.0,katryn-prismatic,Apache-2.0,1656668,Connect to an Active Directory server.
+2026-11-11T19:34:58.325Z,@prismatic-io/components-mailchimp,0.1.0,katryn-prismatic,Apache-2.0,1442003,Interact with email campaign lists and e-commerce resources.
+2026-11-11T19:35:01.01Z,@prismatic-io/components-marketo,0.1.0,katryn-prismatic,Apache-2.0,1334141,"Manage leads, companies, and custom objects in Adobe Marketo Engage."
+2026-11-11T19:35:02.725Z,personas-kods,0.1.0,catherineriver,MIT,18892,"Validate, parse, format and generate Latvian personal codes (personas kods), including the post-2017 ""32"" format"
+2026-11-11T19:35:03.903Z,@prismatic-io/components-monday,0.1.0,katryn-prismatic,Apache-2.0,1755665,"Manage boards, tasks and workflows within Monday."
+2026-11-11T19:35:07.192Z,@prismatic-io/components-mongo,0.1.0,katryn-prismatic,Apache-2.0,2619905,"<div align=""center""> <img src=""https://prismatic.io/favicon-48x48.png"" alt=""Prismatic"" /> <h1>@prismatic-io/components-mongo</h1> </div>"
+2026-11-11T19:35:10.565Z,@prismatic-io/components-mqtt,0.1.0,katryn-prismatic,Apache-2.0,1491166,Interact with an MQTT Queue
+2026-11-11T19:35:13.53Z,@prismatic-io/components-ms-bing-ads,0.1.0,katryn-prismatic,Apache-2.0,1851114,"Manage Microsoft Advertising campaigns, ad groups, keywords, audiences, and customer accounts."
+2026-11-11T19:35:16.293Z,@prismatic-io/components-ms-bot-framework,0.1.0,katryn-prismatic,Apache-2.0,1530996,"Manage conversations, messages, and activities in Microsoft Bot Framework."
+2026-11-11T19:35:19.225Z,@prismatic-io/components-ms-dynamics,0.1.0,katryn-prismatic,Apache-2.0,1448094,"Query, create, update, or delete Microsoft Dynamics 365 entity records."
+2026-11-11T19:35:22.159Z,@prismatic-io/components-ms-entra-id,0.1.0,katryn-prismatic,Apache-2.0,2568005,"Manage users, groups, and applications in Microsoft Entra ID (formerly Azure Active Directory)."
+2026-11-11T19:35:25.108Z,@prismatic-io/components-ms-excel,0.1.0,katryn-prismatic,Apache-2.0,4115263,Parse and build .xlsx files (spreadsheets)
+2026-11-11T19:35:27.917Z,@prismatic-io/components-ms-graph-api,0.1.0,katryn-prismatic,Apache-2.0,2424693,Access Microsoft 365 services and data through the Microsoft Graph API.
+2026-11-11T19:35:30.764Z,@prismatic-io/components-ms-onedrive,0.1.0,katryn-prismatic,Apache-2.0,2569107,"Manage drives, files, shared content, and monitor changes in Microsoft OneDrive."
+2026-11-11T19:35:33.849Z,@prismatic-io/components-ms-sql-server,0.1.0,katryn-prismatic,Apache-2.0,2550640,Query and manage data in a Microsoft SQL Server (MSSQL) database.
+2026-11-11T19:35:34.367Z,cloudspin,0.1.1,itsharshdabas,MIT,2722,"Launcher for Cloudspin, a terminal music player under a living sky. Runs the Python app through uv or pipx."
+2026-11-11T19:35:36.457Z,@prismatic-io/components-ms-teams,0.1.0,katryn-prismatic,Apache-2.0,1440487,"Manage the teams, groups, channels, and messages associated with your Microsoft Teams account"
+2026-11-11T19:35:39.25Z,@prismatic-io/components-mysql,0.1.0,katryn-prismatic,Apache-2.0,2014592,Query and manage data in a MySQL Database
+2026-11-11T19:35:41.823Z,@prismatic-io/components-okta-management-api,0.1.0,katryn-prismatic,Apache-2.0,1593777,"Manage users, groups, applications, and authentication policies in Okta."
+2026-11-11T19:35:44.633Z,@prismatic-io/components-openai,0.1.0,katryn-prismatic,Apache-2.0,5435495,Interact with OpenAI's models and build AI Agents
+2026-11-11T19:35:47.47Z,@prismatic-io/components-oracledb,0.1.0,katryn-prismatic,Apache-2.0,1648346,Query and manage data in an OracleDB database.
+2026-11-11T19:35:50.126Z,@prismatic-io/components-paylocity,0.1.0,katryn-prismatic,Apache-2.0,1343387,"Paylocity provides a comprehensive product suite and delivers a unified platform for the areas of benefits, core HR, payroll, talent, and workforce management. Use the Paylocity component to connect…"
+2026-11-11T19:35:52.674Z,@prismatic-io/components-pipedrive,0.1.0,katryn-prismatic,Apache-2.0,2115409,"Manage leads, companies, activities, and more on the Pipedrive platform."
+2026-11-11T19:35:55.496Z,@prismatic-io/components-postgres,0.1.0,katryn-prismatic,Apache-2.0,1451604,Query and manage data in a PostgreSQL database.
+2026-11-11T19:35:58.107Z,@prismatic-io/components-redis,0.1.0,katryn-prismatic,Apache-2.0,1545915,"<div align=""center""> <img src=""https://prismatic.io/favicon-48x48.png"" alt=""Prismatic"" /> <h1>@prismatic-io/components-redis</h1> </div>"
+2026-11-11T19:36:01.17Z,@prismatic-io/components-salesforce,0.1.0,katryn-prismatic,Apache-2.0,4036040,"Query, create, update, or delete Salesforce records."
+2026-11-11T19:36:04.173Z,@prismatic-io/components-salesforce-marketing-cloud,0.1.0,katryn-prismatic,Apache-2.0,1599359,"Manage assets, contacts, journeys, campaigns, transactional messaging, data extensions, automations, and event notifications in Salesforce Marketing Cloud."
+2026-11-11T19:36:04.781Z,plankui,0.1.1,balajieswar,MIT,14632,Add PlankUI components to your React and Tailwind CSS v4 project.
+2026-11-11T19:36:07.217Z,@prismatic-io/components-sap-business-one,0.1.0,katryn-prismatic,Apache-2.0,2045768,"Manage business partners, orders, inventory, and financial data in SAP Business One."
+2026-11-11T19:36:10.476Z,@prismatic-io/components-sap-successfactors,0.1.0,katryn-prismatic,Apache-2.0,1698323,"SAP SuccessFactors is a human resources platform that provides cloud-based solutions to manage various HR functions such as business alignment, people performance, recruitment, and learning activitie…"
+2026-11-11T19:36:13.569Z,@prismatic-io/components-saps4hana,0.1.0,katryn-prismatic,Apache-2.0,1561303,"Manage business partners, sales orders, materials, and other enterprise resources in SAP S/4HANA Public Cloud."
+2026-11-11T19:36:16.313Z,@prismatic-io/components-segment,0.1.0,katryn-prismatic,Apache-2.0,1445657,"Segment is a customer data platform (CDP) service that simplifies collecting and using data from users of your digital properties (websites, apps, etc.) Use the Segment component to manage your Sourc…"
+2026-11-11T19:36:19.578Z,@prismatic-io/components-servicenow,0.1.0,katryn-prismatic,Apache-2.0,1666731,Create records and incidents within ServiceNow.
+2026-11-11T19:36:22.801Z,@prismatic-io/components-shopify,0.1.0,katryn-prismatic,Apache-2.0,3587836,"Manage customers, products, and orders in Shopify."
+2026-11-11T19:36:25.484Z,@prismatic-io/components-smartsheet,0.1.0,katryn-prismatic,Apache-2.0,1528842,"Manage sheets, rows, and workspaces in the Smartsheet platform."
+2026-11-11T19:36:28.695Z,@prismatic-io/components-smtp,0.1.0,katryn-prismatic,Apache-2.0,1450064,"<div align=""center""> <img src=""https://prismatic.io/favicon-48x48.png"" alt=""Prismatic"" /> <h1>@prismatic-io/components-smtp</h1> </div>"
+2026-11-11T19:36:31.603Z,@prismatic-io/components-snowflake,0.1.0,katryn-prismatic,Apache-2.0,1328440,Execute SQL queries and manage statements in Snowflake.
+2026-11-11T19:36:34.408Z,@prismatic-io/components-teamviewer,0.1.0,katryn-prismatic,Apache-2.0,1386757,Connect to TeamViewer to automate your remote support tasks.
+2026-11-11T19:36:37.467Z,@prismatic-io/components-tenable-vulnerability-management,0.1.0,katryn-prismatic,Apache-2.0,1450768,"Assess vulnerabilities; manage assets, users, agents, and more."
+2026-11-11T19:36:40.013Z,@prismatic-io/components-xai-grok,0.1.0,katryn-prismatic,Apache-2.0,1269789,xAI Grok is an AI-powered component that provides advanced chat and image generation capabilities.
+2026-11-11T19:36:42.631Z,@prismatic-io/components-zendesk,0.1.0,katryn-prismatic,Apache-2.0,2076464,Manage tickets and users in Zendesk.
+2026-11-11T19:36:45.162Z,@prismatic-io/components-zoho,0.1.0,katryn-prismatic,Apache-2.0,1425062,"Manage records, contacts, and transactions in Zoho CRM and Books"
+2026-11-11T19:36:47.831Z,@prismatic-io/components-zoom,0.1.0,katryn-prismatic,Apache-2.0,1503063,"Manage meetings, recordings, users, and webinars in Zoom."
+2026-11-11T19:36:47.891Z,@corsair-dev/placid,0.1.0,corsair.dev,Apache-2.0,209963,Placid plugin for Corsair
+2026-11-11T19:37:07.848Z,@agent-relay/events-shim,18.1.0,khaliqgant,Apache-2.0,4017,One MCP URL that turns webhook posts into Agent Relay messages that wake an idle agent session
+2026-11-11T19:38:47.831Z,get-system-info,1.0.1,nikhil-aeo012n,MIT,44480,"Zero-dependency enterprise-grade cross-platform system information CLI and library (Windows, macOS, Linux, BSD)."
+2026-11-11T19:38:52.757Z,nexpass,0.1.1,nexgensys,MIT,9840977,Nexpass CLI — cliente de contraseñas compatible con Bitwarden (basado en rbw)
+2026-11-11T19:39:13.011Z,dsh-free-subagents,0.1.0,larsvonhierblau,MIT,673413,"Route delegated subagents and Agent Teams over free-tier models: choose a pool of approved free routes once, and every child request fails over to the next free model with a persistent ledger of quot…"
+2026-11-11T19:39:46.042Z,setupwise,0.1.1,mmalyana,MIT,1427917,"Create a full app (web, API, iPhone app, docs, infra) and check and set up everything it needs outside its code: tools, keys, GitHub and cloud secrets."
+2026-11-11T19:40:01.17Z,design-app-tauri-rust-svelte,1.1.3,kathennn,SEE LICENSE IN LICENSE,423364,"Six AI Agent Skills and a cross-agent npm installer for Tauri 2, Rust, Svelte 5, TypeScript and Vite desktop app development."
+2026-11-11T19:40:02.773Z,@codesema/speccov,0.2.2,naashw,MIT,289452,"Finds the behaviours no rule guarantees, and puts them as questions."
+2026-11-11T19:41:57.841Z,dsh-image-ocr,0.0.1,hfshfg,MIT,2580,"Extract text, table structure and per-box confidence from images, screenshots and scanned PDFs, with provenance (page, region, engine) so an agent can cite instead of guess. | 把图片、截图、扫描版 PDF 里的文字、表格结…"
+2026-11-11T19:42:03.157Z,@corsair-dev/adyntel,0.1.0,corsair.dev,Apache-2.0,228533,Adyntel plugin for Corsair
+2026-11-11T19:42:19.293Z,@corsair-dev/commcare,0.1.0,corsair.dev,Apache-2.0,235734,CommCare plugin for Corsair
+2026-11-11T19:42:22.329Z,@corsair-dev/craftmypdf,0.1.0,corsair.dev,Apache-2.0,186294,CraftMyPDF plugin for Corsair
+2026-11-11T19:42:26.35Z,@corsair-dev/databox,0.1.0,corsair.dev,Apache-2.0,157761,Databox plugin for Corsair
+2026-11-11T19:42:28.328Z,dsh-repo-audit,0.0.1,hfshfg,MIT,2752,"Read a whole repository once and produce an executable, priority-ranked remediation plan (structure, dead code, dependency risk, test gaps), routing low-risk fixes to cheaper models. | 把一个代码仓库从头读一遍，输…"
+2026-11-11T19:42:29.705Z,@corsair-dev/dropcontact,0.1.0,corsair.dev,Apache-2.0,91727,Dropcontact plugin for Corsair
+2026-11-11T19:42:32.849Z,@corsair-dev/happyscribe,0.1.0,corsair.dev,Apache-2.0,289235,Happy Scribe plugin for Corsair
+2026-11-11T19:42:36.003Z,@corsair-dev/heyy,0.1.0,corsair.dev,Apache-2.0,256119,Heyy plugin for Corsair
+2026-11-11T19:42:39.15Z,@corsair-dev/imagekit,0.1.0,corsair.dev,Apache-2.0,189239,ImageKit plugin for Corsair
+2026-11-11T19:42:42.178Z,@corsair-dev/mailsso,0.1.0,corsair.dev,Apache-2.0,69825,"Mails.so email validation plugin for Corsair: validate one address or a batch, and read a batch job back. The plugin does not handle webhooks, because Mails.so sends none."
+2026-11-11T19:42:45.258Z,@corsair-dev/mapbox,0.1.0,corsair.dev,Apache-2.0,145136,"Mapbox plugin for Corsair: geocoding, directions, matrix, isochrone, tilequery and trip optimization. No webhooks."
+2026-11-11T19:42:57.979Z,dsh-design-review,0.0.1,hfshfg,MIT,2594,"Review screenshots or component code for contrast, spacing, type hierarchy, alignment and component consistency, with evidence per finding and a severity-ranked fix list. | 对着截图或组件代码做设计评审：对比度、间距、字号层级…"
+2026-11-11T19:43:00.519Z,@corsair-dev/melo,0.1.0,corsair.dev,Apache-2.0,400361,"Melo (Stream Estate API) plugin for Corsair: search French real-estate listings, read market indicators and manage saved searches. The webhook simulate call is an API request; inbound webhook deliver…"
+2026-11-11T19:43:03.524Z,@corsair-dev/memberspot,0.1.0,corsair.dev,Apache-2.0,170776,MemberSpot plugin for Corsair
+2026-11-11T19:43:06.695Z,@corsair-dev/onedesk,0.1.0,corsair.dev,Apache-2.0,815261,OneDesk plugin for Corsair
+2026-11-11T19:43:09.691Z,@corsair-dev/opengraph,0.1.0,corsair.dev,Apache-2.0,156329,OpenGraph.io plugin for Corsair
+2026-11-11T19:43:15.524Z,@odingard/guardian-openclaw,0.1.0,andrebyrd87,Apache-2.0,1199389,"Guardian for OpenClaw: a native plugin whose before_tool_call hook sends every consequential tool call (exec, file edits, messages, browser, MCP tools such as Composio) to Guardian for a deterministi…"
+2026-11-11T19:43:25.505Z,mcp-fractality,0.1.0,aerodynamika,AGPL-3.0-or-later,29395,"MCP server for generating mono- and multifractal signals with a chosen DFA alpha, and measuring the fractal structure (DFA, MFDFA) of any time series."
+2026-11-11T19:43:27.955Z,dsh-legal-review,0.0.1,hfshfg,MIT,2720,"Compare a contract against your own standard playbook clause by clause (liability caps, termination, IP ownership, payment, confidentiality), flag deviations and propose drop-in redlines. Not legal a…"
+2026-11-11T19:43:37.89Z,@plankui/mcp,0.1.0,balajieswar,MIT,147986,"MCP server for PlankUI: gives AI coding agents every component's source, props, usage and the setup files."
+2026-11-11T19:44:09.153Z,@ploutosservices/dakhila,0.2.0,umittal,Apache-2.0,3877967,"A school roster API: families, classes, enrollment, evaluations and the school calendar, started by a host over ports."
+2026-11-11T19:46:16.19Z,discord-server-mcp,1.0.0,pr5ias,MIT,1936955,"MCP server and Claude plugin to create, organise and moderate Discord servers through your own bots: 132 tools (a 48-tool core, the rest on demand), live events, role menus, welcomes, tickets, staff…"
+2026-11-11T19:46:20.023Z,@chrischall/harristeeter-mcp,0.0.0,chrischall,MIT,2920911,Harris Teeter MCP server for Claude — developed and maintained by AI (Claude Code)
+2026-11-11T19:46:33.269Z,@boxd-sh/pi,0.1.0,boxdsh,MIT,72466,Pi extension that runs Pi's tools inside a boxd machine while the agent runs on your computer
+2026-11-11T19:46:38.502Z,x402-weblens-mcp,1.0.0,bartenterthiago82,MIT,7276,"MCP server that lets AI assistants read web pages as clean data, paying per call in USDC on Base via x402."
+2026-11-11T19:46:55.485Z,@audio-ui/engine,0.1.0,xyhomi3,MIT,1310747,"The audio logic behind audio/ui's interfaces, with no UI framework in it: devices as parameters, musical time and the look-ahead scheduler, levels and curves, MIDI input, scales, and the clip player."
+2026-11-11T19:47:00.602Z,landjepik,0.1.0,gerhardsletten,MIT,62467,Static map images from OpenStreetMap or Kartverket with a marker — React component and server handler
+2026-11-11T19:47:08.029Z,dsh-market-quotes,0.0.1,hfshfg,MIT,2559,"Fetch quotes, fundamentals and key earnings for A-share/HK/US tickers into one schema with source and fetch time; missing values stay unknown — never zero-filled or invented. | 按代码拉 A 股/港股/美股的报价、基本面与…"
+2026-11-11T19:47:52.296Z,@kylebrodeur/image-annotations,0.1.2,kylebrodeur,Apache-2.0,219865,"Framework-agnostic image annotation overlay: point, box, and polygon annotations with a pluggable persistence adapter."
+2026-11-11T19:50:16.148Z,stackborder,0.1.1,arshad908,MIT,172935,"Find out which third-party vendors a website or codebase sends data to, and score how much of it stays under EU law."
+2026-11-11T19:50:30.397Z,hero-sms-client,0.1.0,tysikgg,ISC,96514,TypeScript client for the HeroSMS activation and rental API
+2026-11-11T19:50:35.552Z,@jvcss/raiox,0.1.0,jvcss,MIT,1438094,"O raio-X da sua landing page: rastreio próprio (1 linha de script) + painel com mapa de calor sobre a página de verdade, formulários largados, origem e desempenho. Self-hosted, Postgres."
+2026-11-11T19:50:44.057Z,pi-context-meter,0.1.0,kmatzen,MIT,9960,"measured context usage injected every turn, so the model quotes a measurement and not a guess"
+2026-11-11T19:51:12.891Z,@doodlemania/puck,0.24.0,doodlemania,MIT,2946912,The open-source visual editor for React
+2026-11-11T19:51:17.145Z,@tsnee/ears-checker,0.2.0,tsnee,CC0-1.0,1856361,Classifies requirement sentences against the EARS templates
+2026-11-11T19:51:24.899Z,@tsnee/ears-checker-cli,0.2.0,tsnee,CC0-1.0,1876091,"EARS checker for plain text, Markdown, and OpenSpec JSON"
+2026-11-11T19:51:53.986Z,@bigsteele/blip,2.12.1,bigsteele,UNLICENSED,74124,"Blip in your app: a Record button and a Report a problem button that open inside your page, every Blip API call typed, and the webhook check. Server plugin plus React components. Install guide: https…"
+2026-11-11T19:52:35.02Z,@highnoteplatform/set-pin,2.0.0,atsui_hn,,297443,Highnote Set PIN — let a cardholder set or change a payment card's PIN in a secure iframe
+2026-11-11T19:53:30.279Z,@clunkyard/cli,2.0.0,slepp,MIT,166655,"Shared local builds, matches and replays for Clunkyard robots"
+2026-11-11T19:54:51.257Z,dsh-windows-notifications,1.0.1,zjm960929,MIT,43236,"Shows a Windows notification when a turn finishes, an approval waits, or a question needs your answer."
+2026-11-11T19:54:54.658Z,@tulipnpm/appointments-widget,1.0.0,tulipnpm,UNLICENSED,46293,Loader for the Tulip appointments booking widget.
+2026-11-11T19:56:17.387Z,@nestjs-telemetry/prisma,0.1.0,sergiodm,MIT,16047,Prisma watchers for NestJS Telemetry
+2026-11-11T19:57:31.14Z,@cloudez/cloudez-mcp,0.2.32,cloudez,ISC,269975,Servidor MCP da Cloudez
+2026-11-11T19:57:47.165Z,pi-interject,0.1.2,kmatzen,MIT,10224,hard-steer a running pi agent by submitting an interrupt on a trigger key
+2026-11-11T19:58:05.964Z,zelio-cli,0.1.0-beta.1,mohammedm98,UNLICENSED,2812821,Supervise a crew of coding agents from a kanban board.
+2026-11-11T19:58:30.459Z,@harrhy/artbin,0.4.1,jackharrhy,MIT,631327,"CLI for scanning, uploading, downloading, and organizing game assets in artbin"
+2026-11-11T19:58:44.868Z,tapline-host,1.0.0,bo5amis_,MIT,681049,Tapline host: lets AI agents see and drive your own React Native / Expo app on a test phone on the same Wi-Fi (MCP server and CLI).
+2026-11-11T19:58:50.316Z,react-native-tapline,1.0.0,bo5amis_,MIT,619124,Tapline in-app agent: lets AI agents see and drive your own React Native / Expo app on a test phone on the same Wi-Fi.
+2026-11-11T19:58:54.383Z,@harrhy/worldview-renderer,0.2.0,jackharrhy,MIT,4782237,"Embeddable WebGPU renderer for Quake, BSP2, GoldSrc, and Quake II maps"
+2026-11-11T19:59:45.584Z,@agentpet-lite/dsh-bridge,0.1.12,jiziol,MIT,520730,AgentPet Lite observer and precise desktop navigation bridge for DSH >=0.2.1-rc.2
+2026-11-11T19:59:48.568Z,@vexinter-ai/sdk,0.5.1,vexinter-dev,SEE LICENSE IN LICENSE.txt,173418,"TypeScript/JavaScript SDK for Vexinter - Verifiable, recoverable, secure AI agents"
+2026-11-11T19:59:56.607Z,wavebrain-claude-code,0.3.0,tambolabs,UNLICENSED,99286,"Connect Claude Code to WaveBrain: MCP server, auto-capture hooks and a when-to-log skill."
+2026-11-11T19:59:58.954Z,wavebrain-codex,0.3.0,tambolabs,UNLICENSED,99062,"Connect Codex CLI to WaveBrain: MCP server, auto-capture hooks and a when-to-log skill."
+2026-11-11T20:00:01.478Z,wavebrain-cursor,0.4.1,tambolabs,MIT,100270,Connect Cursor to WaveBrain: MCP server and auto-capture hooks.
+2026-11-11T20:00:03.829Z,wavebrain-hermes,0.4.1,tambolabs,MIT,100671,Connect Hermes Agent profiles to WaveBrain: MCP server and the WaveBrain plugin.
+2026-11-11T20:00:42.501Z,@potion.run/paykit,0.1.1,nfs__21,Apache-2.0,9428606,Billing and entitlement for Alchemy.
+2026-11-11T20:00:48.13Z,@potion.run/paykit-admin,0.1.1,nfs__21,Apache-2.0,1736005,A Foldkit ops console for paykit.
+2026-11-11T20:00:52.775Z,@potion.run/paykit-polar,0.1.1,nfs__21,Apache-2.0,378918,Polar for paykit: a merchant of record in one call.
+2026-11-11T20:00:57.034Z,@potion.run/paykit-stripe,0.1.1,nfs__21,Apache-2.0,273145,Stripe for paykit: a processor in one call.
+2026-11-11T20:02:17.44Z,@zapys_booking/react,0.1.0,kuklishinnick,MIT,10828,React component that embeds a Zapys.sk online booking form.
+2026-11-11T20:02:22.975Z,@zapys_booking/vue,0.1.0,kuklishinnick,MIT,15662,Vue 3 component that embeds a Zapys.sk online booking form.
+2026-11-11T20:02:28.346Z,@zapys_booking/angular,0.1.0,kuklishinnick,MIT,42448,Angular standalone component that embeds a Zapys.sk online booking form.
+2026-11-11T20:02:54.35Z,@ecobridge.xyz/devicemanager-darwin-arm64,4.12.0,lossless,MIT,6575808,The device service binary of @ecobridge.xyz/devicemanager for darwin arm64.
+2026-11-11T20:03:00.962Z,@ecobridge.xyz/devicemanager-darwin-x64,4.12.0,lossless,MIT,6740547,The device service binary of @ecobridge.xyz/devicemanager for darwin x64.
+2026-11-11T20:03:08.741Z,@ecobridge.xyz/devicemanager-linux-arm64,4.12.0,lossless,MIT,7206361,The device service binary of @ecobridge.xyz/devicemanager for linux arm64 (static musl build; runs on glibc and musl systems).
+2026-11-11T20:03:15.561Z,@ecobridge.xyz/devicemanager-linux-x64,4.12.0,lossless,MIT,7345580,The device service binary of @ecobridge.xyz/devicemanager for linux x64 (static musl build; runs on glibc and musl systems).
+2026-11-11T20:04:22.682Z,@bookyourpto/wizard,0.1.0,dev_anhourtec,UNLICENSED,19524,"Connect Claude, Cursor, VS Code and other AI assistants to BookYourPTO in one command"
+2026-11-11T20:04:40.793Z,pi-doorman,0.1.0,kmatzen,MIT,6208,the pi-side companion to the doorman credential-scoping proxy
+2026-11-11T20:04:43.624Z,@gricha/inbox,0.1.0,gricha,UNLICENSED,15367908,A local desk that sorts your GitHub review load into boards and a priority queue.
+2026-11-11T20:05:15.641Z,@infinisys/is-subagent-permission,0.3.1,hanxi-cat,MIT,63339,"One switch for what delegated subagents run with, and how many may run, per session and per deployment."
+2026-11-11T20:05:35.343Z,barndog,0.1.0,yuriipalam,MIT,604364,"Manage Skills, MCP configurations, Hooks, and shared knowledge across Claude Code, Codex, and Cursor."
+2026-11-11T20:05:42.256Z,@infinisys/is-data-paths,0.1.0,hanxi-cat,MIT,9692,"Data-path discipline: the system prompt tells every agent that a state change is one path — commit the database, invalidate the cache, publish the job — and that a project which already has a cache o…"
+2026-11-11T20:05:44.744Z,artisanal-code,0.2.1,vinodkumarm7,MIT,242800,"Clean, simple, codebase-native code from AI coding agents."
+2026-11-11T20:06:15.632Z,pi-worktree-guard,0.1.1,kmatzen,MIT,25476,"blocks edits to a primary checkout, steering agents into isolated worktrees"
+2026-11-11T20:06:43.353Z,highlightjs-nlpplus,1.2.0,visualtext,MIT,90353,"NLP++ language grammars for highlight.js: pass files, dictionaries, knowledge bases, analyzer sequences and parse trees"
+2026-11-11T20:07:50.437Z,@metamask/money-account-lifecycle-controller,1.0.0,mrten,(MIT OR Apache-2.0),132116,Manages the money account’s life cycle
+2026-11-11T20:08:45.271Z,@aturdana/dsh-session-doctor,0.1.0,aturdana,MIT,21051,Read-only diagnostics for stored DeepSeek Harness session logs whose events violate the reader turn/step/scope rules.
+2026-11-11T20:08:55.387Z,highwire-wager,0.16.0,highermaestro,MIT,261815,"Wagers on The Line, Highwire's arena: the MCP server with the staking tools, and the reveal daemon. Opt-in: nothing else in Highwire installs it."
+2026-11-11T20:09:23.092Z,dsh-fleet-monitor,0.1.1,xianfeng1012,MIT,1243715,"Multi-host server monitoring for the dsh web GUI: agentless metrics over the SSH credentials you already have, a sidebar panel, SQLite history, and agent tools. No agent to install, no telemetry, loo…"
+2026-11-11T20:09:51.601Z,@grafenodb/client,0.2.0,seerendo,MIT OR Apache-2.0,163586,"TypeScript SDK for Grafeno, the graph engine for agent memory and knowledge"
+2026-11-11T20:10:43.851Z,darcyclarke-test-meta,1.0.0,darcyclarke,,417,
+2026-11-11T20:11:24.993Z,drup-server,0.0.0,jmjuanes,,145,
+2026-11-11T20:11:43.353Z,@omni-fi/sdk,0.0.0,omnifi-garrick,,380,Placeholder for the Omni-FI TypeScript SDK. The first release is 0.1.0.
+2026-11-11T20:11:58.055Z,drup-client,0.0.0,jmjuanes,,145,
+2026-11-11T20:14:31.686Z,@tsplc/iec,0.2.20,vdan26,MIT,38980,IEC 61131-3 vocabulary shared by the tsPLC toolchain: elementary types and Structured Text syntax.
+2026-11-11T20:14:44.183Z,@odanek/png,0.1.0,ondrejdanek,MIT,188973,PNG format decoder and coder for web and NodeJS
+2026-11-11T20:15:08.561Z,@twoux/ui,0.1.0,twoux-ds,SEE LICENSE IN LICENSE.md,3027253,Engineering-first design system for complex apps. Makes UI and UX decisions explicit for engineers and AI agents.
+2026-11-11T20:15:11.258Z,twoux,0.1.0,twoux-ds,SEE LICENSE IN LICENSE.md,6120,"Command line for TwoUX: set a project up for AI agents, find the component for a job, check UI code and run the MCP server. Runs the @twoux/ui installed in your project."
+2026-11-11T20:15:41.269Z,@ignite-ember/extension-bridge,0.2.0,dmytro-zezyk,Apache-2.0,505730,"The guest half of the bridge between an igni extension's page and igni: connect(), RPC, navigation, theme. The host imports the same protocol, so there is one description of the wire."
+2026-11-11T20:15:43.506Z,@ignite-ember/ui-css,0.2.0,dmytro-zezyk,Apache-2.0,70737,"The stylesheet an igni extension bundles. Classes match igni's own, values are tokens the host pushes live."
+2026-11-11T20:15:46.847Z,@ignite-ember/ui-react,0.2.0,dmytro-zezyk,Apache-2.0,340144,The React components an igni extension is allowed to build on. Everything exported here is under the compatibility floor.
+2026-11-11T20:15:52.781Z,dsh-skill-management,0.1.0,zjm960929,MIT,142112,"Skill management for DeepSeek Harness — browse, install, edit, enable/disable and uninstall skills per workspace and globally from a left-sidebar panel. | DeepSeek Harness 技能管理——在左侧栏管理每个工作区与全局安装的技能，支…"
+2026-11-11T20:16:35.236Z,dsh-plugin-airlock,0.1.0,gabrielbav,MIT,742356,"Security score for every DeepSeek Harness plugin, skill and subagent: quarantine, six security scanners and an optional LLM judge check each package before it installs"
+2026-11-11T20:17:34.739Z,@sapphire-caitlyn/backoffice-core,0.0.1,sapphirecaitlyn,,128865,"Núcleo do backoffice: entidades, DTOs, serviços de Pub/Sub e migrations de usuário, perfil, permissão, menu e módulo"
+2026-11-11T20:18:39.773Z,npm-package-release,0.1.0,dblock,MIT,576101,Temporary package placeholder for staged publishing
+2026-11-11T20:19:23.348Z,@ozguraltan/strapi-content-input,1.0.4,ozguraltan,MIT,1229807,Locomotive CMS ContentInput visual page/content builder ported to Strapi v5 as a native JSONB Custom Field plugin.
+2026-11-11T20:20:02.352Z,opencode-wide-chat,1.0.0,lorenzoservolini,MIT,3009,OpenCode Desktop plugin that expands the chat to the full window width.
+2026-11-11T20:20:20.724Z,@lontar/preview,0.0.0-stage,byhandi,,337,Temporary package placeholder for staged publishing
+2026-11-11T20:20:44.948Z,@la-meva-colla/db,0.0.0-stage,edurenye,,339,Temporary package placeholder for staged publishing
+2026-11-11T20:21:06.38Z,speak-friend-react,0.1.0-alpha.1,joannalange,MIT,24091,React bindings for speak-friend: an accessible docked tour guide with a highlight ring.
+2026-11-11T20:21:09.769Z,@google-cloud/adapter-nextjs,0.1.0,google-wombot,Apache-2.0,182907,Google Cloud Run deployment adapter for Next.js
+2026-11-11T20:21:40.273Z,@5sim-net/mcp,1.0.0,5sim-sms,MIT,67838,"Official 5sim MCP server: AI agents buy virtual phone numbers and receive SMS verification codes (OTP) in 180+ countries. Works with Claude, Cursor, Cline, VS Code."
+2026-11-11T20:21:52.008Z,@travel-match/ui,0.1.0,artur199523,UNLICENSED,3601808,"TravelMatch design system: design tokens, icons and React components built from the Figma Design System file."
+2026-11-11T20:22:43.626Z,fournee,0.0.1,chromaglow,MIT,622,"Fournee: a theming toolkit. Colour and type by role, one recipe, many batches. First release coming soon."
+2026-11-11T20:22:54.858Z,fintecia,0.1.0,fintecia,MIT,195760,"MCP local de Fintecia — descarga de CFDI con e-firma, conciliación banco-CFDI, riesgo 69-B/EFOS, deducibilidad fiscal. SAT · CFDI · Conciliación · Seguridad · México · agente AI"
+2026-11-11T20:23:49.69Z,beatandraise,0.1.0,nnechm,MIT,30141,"Client for the beatandraise.com SEC Filings API: SEC EDGAR filings, 10-K/10-Q/8-K Items, XBRL financial statements, Form 4 insider trades, 13F holders. Typed, no dependencies."
+2026-11-11T20:25:11.225Z,@ozguraltan/strapi-content-input-nuxt-vuetify,1.0.5,ozguraltan,MIT,123389,Vue 3 & Nuxt 3/4 Vuetify (v3.5+ & v4.+) renderer for @ozguraltan/strapi-content-input JSONB visual page builder.
+2026-11-11T20:25:39.618Z,@medwand/mwsdk-javascript,3.2.2,rgraff_mw,,271390,TypeScript browser SDK for the MedWand device.
+2026-11-11T20:25:50.776Z,@gitmyabi/111k,1.0.0,gitmyabi-bot,Apache-2.0,459735,"Auto-generated TypeScript type bindings for 111K (build etherscan-111k-08cded82-1794428729781, commit 73b687d, branch etherscan)"
+2026-11-11T20:25:53.981Z,@ozguraltan/strapi-content-input-nuxt-element-plus,1.0.6,ozguraltan,MIT,116958,Vue 3 & Nuxt 3/4 Element Plus renderer for @ozguraltan/strapi-content-input JSONB visual page builder.
+2026-11-11T20:26:20.24Z,singulvs-element,0.1.0,nabaia,MIT,404494,"Chat com IA do Singulvs como Custom Element (<singulvs-chat>). Um único .js autossuficiente para usar em qualquer página, sem Angular."
+2026-11-11T20:26:28.625Z,opencode-global-search,0.1.1,gustavo1234ar,MIT,25346,Full-text search across OpenCode chat history (all sessions and projects)
+2026-11-11T20:27:28.938Z,@bernierllc/sentry-policy,0.0.0,mkbernier,,2063,OIDC trusted publishing setup package for @bernierllc/sentry-policy
+2026-11-11T20:28:28.888Z,pepkio-dna-revcomp-primer-toolkit,0.1.0,pepkio,MIT,60167,"Reverse, complement, and reverse-complement DNA with inline primer QC (GC%, Wallace Tm, IUPAC support) and batch CSV export via the Pepkio REST API."
+2026-11-11T20:29:21.589Z,@hippocampusllms/cli,0.1.0,salmen,MIT,59191,Local project memory for coding agents
+2026-11-11T20:29:28.172Z,@lmsystems/mail-api,1.0.0,rvca212,MIT,71977,"Command-line tool for mail-api.io: list and search mail, send and draft email, and manage webhooks."
+2026-11-11T20:30:05.242Z,@gitmyabi/aethlidogho,1.0.0,gitmyabi-bot,Apache-2.0,197243,"Auto-generated TypeScript type bindings for aEthLidoGHO (build etherscan-aethlidogho-18efe565-1794428989745, commit 95d07f3, branch etherscan)"
+2026-11-11T20:30:32.831Z,@hrarsha/evand-mcp,0.1.0,hrarsha,MIT,147952,"Read-only MCP server for discovering events, organizers, cities and categories on Evand (evand.com)"
+2026-11-11T20:30:49.3Z,@elcoosp/docs-toolkit,0.5.4,elcoosp,,339938,"Shared OG image generation, docs config helper, and QA tooling for Starlight sites"
+2026-11-11T20:31:51.856Z,@ortho-earth/mcp,0.1.0,kenji.yoshida.home.2026,GPL-3.0-or-later,24847,"MCP server for Ortho Earth, the true-scale 3D globe map engine: current facts, tested setup recipe, MapLibre/CesiumJS compatibility per example, API types, doc search and place links. Read-only, no k…"
+2026-11-11T20:33:00.945Z,@atomicstrata/theme-packs-crafted,0.1.0,ethanatomic,(PolyForm-Noncommercial-1.0.0 AND OFL-1.1),1183388,"Five crafted external theme packs for @atomicstrata/themes 0.10 (Art Deco, Newsprint, Industrial, Pixel and Botanical, each light and dark), compiled into one catalog for self-hosting or a trusted HT…"
+2026-11-11T20:33:17.659Z,@hatchetlabs/backmatter,1.0.2,hatchetlabs,MIT,11695,"Backmatter, an amendment to Frontmatter. Parse and write a YAML metadata block at the end of a Markdown document, so the body is read first."
+2026-11-11T20:33:48.576Z,ical-vtodo-generator,0.1.0,unechtemoritz,MIT,219512,Generate VTODO components (RFC 5545) for calendars built with ical-generator
+2026-11-11T20:37:17.121Z,@capacitor-community/local-network,8.0.0,eric-ionic,MIT,108309,Capacitor plugin to manage the Android 17+ local network access permission (ACCESS_LOCAL_NETWORK).
+2026-11-11T20:38:02.751Z,djs-bridge,0.0.1,corysanin,MIT,60762,Yet another Discord ↔️ Fluxer bridge application
+2026-11-11T20:38:13.758Z,tree-sitter-bash-orchard,0.1.0,pintoch,MIT,11639426,Parser for Bash files
+2026-11-11T20:38:53.772Z,cmd-mod-commit,0.1.0,guruela,,9925,"Adds a /commit command that commits in small incremental stages with Commitizen-style messages, starting from 'initial commit'."
+2026-11-11T20:40:12.498Z,@christian-wechsel/image-assets,0.2.0,christian-wechsel,MIT,33637,"TypeScript service for resizing, storing, caching, and retrieving image assets."
+2026-11-11T20:40:17.638Z,nomoremeatproxy,0.1.0,kanuto_cl,MIT,548062,Lets Codex and Claude sessions find each other's history and exchange work without a human carrying messages.
+2026-11-11T20:40:36.885Z,shapy-bg,1.0.0,mrhrao,MIT,156226,Seedable generative shape backgrounds as a zero-dependency Web Component.
+2026-11-11T20:41:38.349Z,shapy-render,1.0.0,mrhrao,MIT,38065,"Export Shapy generative backgrounds to MP4, WebM, and PNG with Playwright."
+2026-11-11T20:42:28.451Z,@astrya/core,1.0.0,_akari_renshi,MIT,89727,Astral Core: modular framework for modern Discord bots.
+2026-11-11T20:42:59.984Z,repohub-cli,0.1.0,soumya2592004,MIT,22613,"Command-line client for RepoHub: init, add, commit, push, pull and revert"
+2026-11-11T20:43:37.273Z,cross-repo-graph,0.1.0,arsen-superman,Apache-2.0,170243,"Local MCP server with a code graph across all repositories of a project: symbols, calls, and cross-repo HTTP / config / package links with file:line evidence."
+2026-11-11T20:43:48.34Z,@mezout/mcp,0.1.0,oladipoevangel,MIT,55601,"MCP server for Mezout: let AI agents create, check, refund and pay Mezout invoices in MUSD, and pay HTTP 402 Mezout paywalls, on Mezo testnet."
+2026-11-11T20:44:17.972Z,@jsprismarine/native-network,0.0.0,filiphsandstrom,,186,Placeholder package to setup trusted publishing
+2026-11-11T20:45:31.341Z,@groovyfmt/darwin-arm64,0.9.1,costajohnt,MIT,5232409,The groovyfmt binary for darwin-arm64; install the groovyfmt package instead
+2026-11-11T20:45:34.906Z,@groovyfmt/darwin-x64,0.9.1,costajohnt,MIT,5380987,The groovyfmt binary for darwin-x64; install the groovyfmt package instead
+2026-11-11T20:45:37.205Z,@groovyfmt/linux-arm64,0.9.1,costajohnt,MIT,5314462,The groovyfmt binary for linux-arm64; install the groovyfmt package instead
+2026-11-11T20:45:39.866Z,@groovyfmt/linux-x64,0.9.1,costajohnt,MIT,5601696,The groovyfmt binary for linux-x64; install the groovyfmt package instead
+2026-11-11T20:45:39.872Z,@sanely/words,0.0.0,adelrodriguez,MIT,43250,"Generate friendly, safe-for-work names from curated word lists"
+2026-11-11T20:45:42.476Z,@groovyfmt/win32-x64,0.9.1,costajohnt,MIT,5557712,The groovyfmt binary for win32-x64; install the groovyfmt package instead
+2026-11-11T20:45:44.994Z,groovyfmt,0.9.1,costajohnt,MIT,72525,"Fast formatter and linter for Groovy, Gradle build scripts, and Jenkinsfiles"
+2026-11-11T20:45:53.121Z,@mwam/sdk,0.3.0,authenticlabsai,UNLICENSED,112061,"Read a monastery's blog, events, series and galleries from mwam-apps, and book and give through it."
+2026-11-11T20:48:07.368Z,@apibear/core,0.1.0,apibear,MIT,241261,Convert OpenAPI 3.0/3.1 documents into MCP tool definitions and HTTP execution metadata.
+2026-11-11T20:48:13.273Z,@gitmyabi/stcusd,1.0.0,gitmyabi-bot,Apache-2.0,175050,"Auto-generated TypeScript type bindings for stcUSD (build etherscan-stcusd-88887be4-1794430075731, commit 77b8e0c, branch etherscan)"
+2026-11-11T20:48:29.053Z,@patrickoreilly/wca-mcp,0.1.0,patrickoreilly,MIT,17192,Read-only MCP server for official WCA competition results and speedcubing progression
+2026-11-11T20:48:37.775Z,@patrickoreilly/chess-training-mcp,0.1.0,patrickoreilly,MIT,15594,Read-only MCP tools for completed Chess.com and Lichess game history
+2026-11-11T20:48:48.742Z,@patrickoreilly/books-mcp,0.1.0,patrickoreilly,MIT,15208,A stdio MCP server for Open Library book discovery
+2026-11-11T20:48:55.552Z,@patrickoreilly/mcp-biodiversity,0.1.0,patrickoreilly,MIT,13535,Read-only MCP server for GBIF species matches and occurrence searches
+2026-11-11T20:49:00.259Z,@expressive/cli,0.0.0,gabeklein,MIT,47800,"Commands from Models: argv onto fields, one dispatcher for every expressive command."
+2026-11-11T20:49:02.134Z,@patrickoreilly/food-mcp,0.1.0,patrickoreilly,MIT,18340,"Read-only Open Food Facts barcode, search and comparison MCP server"
+2026-11-11T20:49:16.561Z,@gitmyabi/gtusdtf,1.0.0,gitmyabi-bot,Apache-2.0,453566,"Auto-generated TypeScript type bindings for gtusdtf (build etherscan-gtusdtf-e571b648-1794430140366, commit c170637, branch etherscan)"
+2026-11-11T20:49:26.154Z,@aibanhmi.com/man-chieu,3.0.0,aibanhmi,MIT,167193,"Bộ phát triển mini-app/game cho màn chiếu robot AI Bánh Mì (chuẩn MC-3): kiểu TypeScript, SDK giả, bộ kiểm, CLI."
+2026-11-11T20:50:17.919Z,@dwmkerr/browserdeck,0.1.0,dwmkerr-admin,MIT,15980,"MCP server for Browserdeck: one browser window for all your agents, driven through the standard Playwright MCP"
+2026-11-11T20:51:00.798Z,kelops-logger,0.1.0,konyshevn,MIT,39667,Send logs from Node.js to KELOPS
+2026-11-11T20:51:55.718Z,@pydiggs/client,0.1.0,xinp-hub,Apache-2.0,147950,"TypeScript types and thin clients for pyDIGGS, the DIGGS geotechnical XML validator and reader: its HTTP API, and pydiggs itself in the browser on Pyodide. Not a JavaScript port."
+2026-11-11T20:51:56.557Z,credit-matrix-fonts,1.0.0,simonvanlierde,OFL-1.1 AND MIT,54767292,"The Noto figure fonts credit-matrix draws heatmap SVG and PDF exports with, for offline and bundled use."
+2026-11-11T20:52:00.816Z,@webmcp-agents/core,0.2.0,mustafaskyer,MIT,167144,"Show users what a WebMCP agent is doing: ghost cursor, field replay, confirmation parking."
+2026-11-11T20:52:04.338Z,@webmcp-agents/chat,0.2.0,mustafaskyer,MIT,201550,"A chat widget whose agent operates the live page through its WebMCP tools: defineWebAgent (instructions, tool subsets, sub-agents), a cloud adapter for any frontier model, a server handler on the AI…"
+2026-11-11T20:52:06.878Z,@webmcp-agents/tools,0.2.0,mustafaskyer,MIT,41943,"Common WebMCP tools, ready-made: get_time, get_location, get_page, go_to, go_back, scroll_to and set_theme. Framework-free, SSR-safe, one factory per tool."
+2026-11-11T20:52:06.928Z,@webmcp-agents/devtools,0.2.0,mustafaskyer,MIT,112321,"Devtools for WebMCP pages: see the tools on screen, run them from a generated form, watch every call."
+2026-11-11T20:52:06.942Z,@webmcp-agents/polyfill,0.2.0,mustafaskyer,MIT,3595,"Deprecated: the document.modelContext (WebMCP) polyfill now ships in @webmcp-agents/core (@webmcp-agents/core/polyfill), and the provider loads it itself. This package re-exports it."
+2026-11-11T20:52:09.328Z,@webmcp-agents/local-agent,0.2.0,mustafaskyer,MIT,74602,"An on-device agent for @webmcp-agents/chat: a small model in a Web Worker (transformers.js, WebGPU/WASM) or Chrome's built-in Prompt API. No server, no key, nothing leaves the browser."
+2026-11-11T20:52:09.344Z,@webmcp-agents/react,0.2.0,mustafaskyer,MIT,32162,"React bindings for WebMCP tools: a provider that turns tools on per route or component, inline tools bound to state, the agent cursor, and the devtools in development."
+2026-11-11T20:52:58.049Z,@sorlo/forms,0.1.0,thelevicole,MIT,1150267,"Schema-driven forms for React, with nestable groups and repeaters, conditional logic, the same validation on client and server, and a schema builder"
+2026-11-11T20:53:14.355Z,maj-mcp,0.1.0,leandroo.dettmer,Apache-2.0,5642,MAJ MCP server: lets AI coding agents read MAJ bug recordings (downloads the native binary on first run)
+2026-11-11T20:54:31.756Z,@brambles-ai/aix,0.1.0,dbrambles,SEE LICENSE IN LICENSE,158156,"Client for the Agentic Intent Exchange (AIX) HTTPS API: send intent, report handoffs, receive and verify deliveries."
+2026-11-11T20:54:43.539Z,zizkadb-openclaw,0.1.0,mirarshadtalpur,AGPL-3.0-or-later,59015,"OpenClaw plugin: tamper-evident, causal audit trail of what your agent did and why (messages, tool calls, model outputs, token usage) in ZizkaDB"
+2026-11-11T20:55:03.512Z,@weasel-js/ui-input,1.18.2,msb235,MIT,173976,"What a key or a pointer does to a control, as pure functions: arrow steps, sliders and windowed tracks, list and grid roving, typeahead, selection, reorder and drop gaps, edge scroll, directional foc…"
+2026-11-11T20:55:08.878Z,@ofac/telegram-adapter,0.0.1,denisekart,,89,
+2026-11-11T20:55:19.446Z,@christian-wechsel/secret-manager,0.1.0,christian-wechsel,MIT,8589,A TypeScript client for retrieving secrets from Google Cloud Secret Manager.
+2026-11-11T20:55:59.165Z,@gitmyabi/okx-special-souvenir-nft,1.0.0,gitmyabi-bot,Apache-2.0,23752,"Auto-generated TypeScript type bindings for OKX Special Souvenir NFT (build etherscan-okx-special-souvenir-nft-c2e0ca5f-1794430541969, commit 7299eaa, branch etherscan)"
+2026-11-11T20:56:27.592Z,homebridge-bond-ultra-low-support-eglo,0.1.0-beta.1,chris.guzik,MIT,974946,A homebridge plugin to control your Bond devices over the v2 API.
+2026-11-11T20:57:39.932Z,friskme-darwin-arm64,0.1.0,npalrecha,MIT,71904170,The darwin-arm64 binary for friskme. Install friskme instead.
+2026-11-11T20:57:57.853Z,@user-tasks/sdk,0.1.0,usertasks,Apache-2.0,4071571,TypeScript client for the UserTasks REST API (/api/v1)
+2026-11-11T20:57:59.898Z,@user-tasks/cli,0.1.0,usertasks,Apache-2.0,1343809,"Command-line interface for UserTasks: every REST endpoint as a command, browser login and config as code"
+2026-11-11T20:58:37.685Z,friskme-darwin-x64,0.1.0,npalrecha,MIT,79750050,The darwin-x64 binary for friskme. Install friskme instead.
+2026-11-11T20:58:49.706Z,friskme-linux-arm64,0.1.0,npalrecha,MIT,91541754,The linux-arm64 binary for friskme. Install friskme instead.
+2026-11-11T20:59:01.606Z,friskme-linux-x64,0.1.0,npalrecha,MIT,91950508,The linux-x64 binary for friskme. Install friskme instead.
+2026-11-11T20:59:03.451Z,friskme,0.1.0,npalrecha,MIT,19771,A local report on what your coding-agent sessions were actually for.
+2026-11-11T20:59:18.816Z,@aqb-foundation/aqb-agent,1.0.0,aqb-foundation,ISC,107554,"AQB — agent-only, USD-pegged, post-quantum credit token on Base"
+2026-11-11T20:59:57.771Z,commonplace-agent,0.1.0,commonplace-agent,MIT,954404,"Let any AI agent join Commonplace: a research memory and a frontier of open problems shared by agents everywhere, on a network nobody owns."
+2026-11-11T21:00:01.533Z,@owlmeans/file-inspector,0.1.22-rc.0,vashigor,MIT,295945,"File verification from bytes: what a file really is (images, media, pdf, office, csv, text, code, fonts, 3D models, diagrams, executables) against what its name and media type claim, from a head samp…"
+2026-11-11T21:00:04.173Z,@owlmeans/upload,0.1.22-rc.0,vashigor,MIT,108995,"Browser-safe upload contract: upload policies and limits counted on the expanded set, sessions and uploaded files with a closed rejection vocabulary, AJV schemas, errors, path normalization and prech…"
+2026-11-11T21:00:06.639Z,@owlmeans/client-upload,0.1.22-rc.0,vashigor,MIT,77187,"Upload client for browsers and Bun: open, upload (precheck against the session policy, concurrency, retries, abort, per-file and overall progress), state, remove, seal and abort over the upload proto…"
+2026-11-11T21:00:28.653Z,@owlmeans/llm-reader,0.1.22-rc.0,vashigor,MIT,800214,"Read the web with an LLM: fetch pages directly or through HTTP and SOCKS proxies, parse them, and have a model describe, classify and extract from them — as text or by exploring their DOM — list thei…"
+2026-11-11T21:00:29.634Z,@withlimon/discommerce-ui-lib,0.0.1,withlimon,,368147,Discommerce React component library.
+2026-11-11T21:00:31.252Z,@owlmeans/llm-reader-playwright,0.1.22-rc.0,vashigor,MIT,68527,"A Playwright renderer for `@owlmeans/llm-reader`: pages run their scripts before they are read, and the design analysis gets computed styles, custom properties, block geometry and a screenshot."
+2026-11-11T21:01:10.097Z,@owlmeans/file-streams,0.1.22-rc.0,vashigor,MIT,829765,"Server-side file streaming: URL downloads with connect-time SSRF pinning, HTTP/SOCKS proxy plugins and a Google Drive resolver; S3, filesystem, buffer and Viable-workload destinations; zip/tar/gzip w…"
+2026-11-11T21:01:12.895Z,@owlmeans/server-upload,0.1.22-rc.0,vashigor,MIT,222768,"Server-side uploads: sessions with limits counted on the expanded set and enforced atomically across parallel requests, files spooled to a scoped workspace and verified before they move (type mismatc…"
+2026-11-11T21:01:47.305Z,@owlmeans/web-upload,0.1.22-rc.0,vashigor,MIT,303439,"File and folder upload UI for OwlMeans web applications: a headless upload queue (local precheck against the upload policy, per-entry and overall violations, concurrent upload with progress and abort…"
+2026-11-11T21:03:30.835Z,freya-ns-api,2.0.0,csabatibortoth,MIT license,36661,"Management API for the Freya DNS server. It is the administrative side of the name server: the place where the people who run it are managed, and where the DNS entries it serves will be managed."
+2026-11-11T21:03:35.941Z,direct-chat,0.0.0,giladgd,MIT,132,
+2026-11-11T21:03:46.497Z,@stack-ui/tokens,0.8.1,rkendel,MIT,37747,"Boundry design-foundation tokens (Stack UI) as CSS custom properties (light and dark, or light only), JSON, company and product identity, and the Boundry mark."
+2026-11-11T21:03:49.609Z,@stack-ui/core,0.8.1,rkendel,MIT,326969,"Stack design-system core: component structure, state semantics, framework-free DOM rendering and styles."
+2026-11-11T21:03:51.56Z,@stack-ui/react,0.8.1,rkendel,MIT,30161,React 18/19 binding for @stack-ui/core.
+2026-11-11T21:05:25.973Z,@stack-mode/website-score,0.1.0,stackmode,UNLICENSED,98070,"Scores a website's speed, search basics and lead paths, and renders the report email and the print-ready report page. Shared by every Stack Mode product."
+2026-11-11T21:06:11.447Z,@singh-gur/pi-session-sync,0.1.0,singh-gur,MIT,32061,"Pi extension: sync your pi sessions across machines through a private git repo, with per-machine path mapping and branch-preserving merges."
+2026-11-11T21:06:21.394Z,@ipsofactura/sdk,0.1.0,mariajosef,MIT,44133,Cliente oficial de Ipsofactura — timbrado CFDI 4.0 para México
+2026-11-11T21:07:30.45Z,promptlyy,1.0.0,eulaorg,UNLICENSED,10540,"Promptlyy in your terminal and your AI tools: search 30,000+ AI prompts and Claude skills, copy them, or connect Claude, Codex and Cursor over MCP."
+2026-11-11T21:07:38.722Z,@bernierllc/idempotency-key,0.2.0,mkbernier,UNLICENSED,60819,"Idempotency-Key claims, fingerprinting and response replay with memory and Postgres stores"
+2026-11-11T21:07:49.018Z,@tundras/server,1.0.0,arrowtsx,MIT,107689,"Tundras from your server: profile tokens, submissions and webhook verification."
+2026-11-11T21:07:56.677Z,@nicolassancho/ui,5.0.0,nicolassancho,MIT,122094,Accessible React + Tailwind component library built with tailwind-variants and documented in Storybook.
+2026-11-11T21:08:09.293Z,rentdev,0.1.0,ezolabs,UNLICENSED,422103,rent.dev CLI and SDK: rent sandboxes and GPU pods from one prepaid balance
+2026-11-11T21:09:30.727Z,dsh-wake-relay,0.1.2,tendayst,MIT,90783,"Let any external process wake a DeepSeek Harness session — with synchronous delivery semantics, so the caller can own the retry loop and fire events that happened while the host was down."
+2026-11-11T21:10:07.458Z,@carbon/angular,1.0.0-alpha.0,carbon-bot,Apache-2.0,500226,Angular components for the Carbon Design System
+2026-11-11T21:10:21.42Z,bangle-sync,0.2.0,arthurlagerlof,MIT,177858,A safe CLI for backing up and synchronising Bangle.js watches
+2026-11-11T21:10:32.724Z,@gitmyabi/etfs,1.0.0,gitmyabi-bot,Apache-2.0,51037,"Auto-generated TypeScript type bindings for ETFS (build etherscan-etfs-ce6b17c1-1794431417191, commit 738deef, branch etherscan)"
+2026-11-11T21:10:43.176Z,@sorlo/sdk,0.1.0,thelevicole,MIT,15853,"A typed client for the Sorlo CMS's delivery API, and sorlo types pull"
+2026-11-11T21:11:28.601Z,@tarmacagent/sdk,0.1.0,tarmacagent,MIT,16715,"TypeScript SDK to test your on-chain agent against Tarmac: real Robinhood Chain data, isolated wallets, policy checks on every swap."
+2026-11-11T21:11:42.652Z,coresvg-fixer,0.1.0,gorkemd,MIT,146237,"Rewrites SVGs so Apple CoreSVG (iOS/macOS: UIImage, SDWebImageSVGCoder, expo-image) draws them like browsers, without changing their browser rendering."
+2026-11-11T21:14:45.655Z,dsh-dual-browser,0.1.0,silicon_sailor,Unlicense,623381,"Agent browser for DeepSeek Harness with two visibility modes: hidden sessions for private research and visible sessions you can watch, plus a left-sidebar panel."
+2026-11-11T21:16:29.847Z,collab-cue,0.2.0,retro1878,MIT,52226,Cue-based review protocol for two agents sharing one file. Zero dependencies.
+2026-11-11T21:16:34.046Z,latentcode,0.1.0-alpha.0,latentprotocol,MIT,1504165,Terminal coding agent that pays you for idle time. Bring your own subscription; the model is never for sale.
+2026-11-11T21:16:47.014Z,@origincloud/sts,0.0.0-stage,mrcrgl,,338,Temporary package placeholder for staged publishing
