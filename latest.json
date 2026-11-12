@@ -1,23 +1,28 @@
 {
   "list": {
-    "count": 137,
-    "from": "2026-11-12T09:19:47.765876Z",
-    "path": "data/new-packages-2026-11-12T10-18-46-482873Z.csv",
-    "to": "2026-11-12T10:18:46.482873Z"
+    "count": 222,
+    "from": "2026-11-12T10:18:46.482873Z",
+    "path": "data/new-packages-2026-11-12T11-21-13-998408Z.csv",
+    "to": "2026-11-12T11:21:13.998408Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "package": "@dayoakin/vue-ui",
+      "since": "2026-11-12T10:18:46.482873Z"
+    },
+    {
+      "attempts": 2,
       "package": "@msb-devops/trusted-publishing-test",
       "since": "2026-11-12T09:19:47.765876Z"
     },
     {
       "attempts": 1,
-      "package": "@scriba-editor/browser",
-      "since": "2026-11-12T09:19:47.765876Z"
+      "package": "@wattsonclub/wattson-cli",
+      "since": "2026-11-12T10:18:46.482873Z"
     }
   ],
-  "seq": 144034625,
+  "seq": 144052006,
   "source_truncated": false,
-  "window": "2026-11-12T10:18:46.482873Z"
+  "window": "2026-11-12T11:21:13.998408Z"
 }
