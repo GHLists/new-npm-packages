@@ -1,0 +1,150 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-12T00:17:56.913Z,@wrenship/cms-plugin-types,0.1.0,trendcas,MIT,88872,"Shared TypeScript types for the Wrenship plugin manifest contract: capability vocabulary, manifest shape, hook/route entry types. Consumed by core (manifest reader at install/runtime) and plugin-cli…"
+2026-11-12T00:18:01.894Z,@wrenship/cms-auth,0.1.0,trendcas,MIT,325852,Passkey-first authentication for Wrenship
+2026-11-12T00:18:06.694Z,@wrenship/cms-blocks,0.1.0,trendcas,MIT,128650,Declarative plugin UI blocks for Wrenship CMS
+2026-11-12T00:18:11.078Z,@wrenship/cms-gutenberg-to-portable-text,0.1.0,trendcas,MIT,65297,Convert WordPress Gutenberg blocks to Portable Text
+2026-11-12T00:18:16.475Z,@wrenship/cms-registry-lexicons,0.1.0,trendcas,MIT,246778,Generated TypeScript types for Wrenship plugin registry lexicons (com.emdashcms.experimental.*). EXPERIMENTAL: NSIDs and shapes will change.
+2026-11-12T00:18:20.805Z,@wrenship/cms-registry-moderation,0.1.0,trendcas,MIT,77458,"Shared listing-label reduction, visibility policy, and metadata moderation contracts for the Wrenship plugin registry."
+2026-11-12T00:18:25.522Z,@wrenship/cms-registry-client,0.1.0,trendcas,MIT,225090,"Atproto-aware client for the Wrenship plugin registry: credential storage, publisher repo operations, and discovery against an aggregator."
+2026-11-12T00:18:31.035Z,@wrenship/cms-registry-verification,0.1.0,trendcas,MIT,314653,Runtime-neutral verification primitives for the Wrenship plugin registry.
+2026-11-12T00:18:37.768Z,@wrenship/cms-admin,0.1.0,trendcas,MIT,4389578,Admin UI for Wrenship CMS
+2026-11-12T00:18:53.656Z,@wrenship/cms,0.1.0,trendcas,MIT,12990443,Astro-native CMS with WordPress migration support
+2026-11-12T00:18:54.411Z,@sherotree/featured-badge-list,0.1.0,sherotree,MIT,130312,Typed React components for reciprocal / directory featured badges — list and rotating single-badge layouts with a configurable catalog.
+2026-11-12T00:18:59.37Z,@wrenship/cms-cloudflare,0.1.0,trendcas,MIT,991865,"Cloudflare adapters for Wrenship - D1, R2, Access, and Worker Loader sandbox"
+2026-11-12T00:19:28.441Z,@droveragent/storage-d1,0.3.0-next.1,nc9,MIT,33181,
+2026-11-12T00:20:23.629Z,create-cloudflare-sandbox,0.1.0,heygarrison,MIT,34071,Create a cloudflare sandbox through the ComputeSDK platform. Independent integration by ComputeSDK.
+2026-11-12T00:20:51.281Z,hp-prime-devkit-linux-x64,0.1.0,golba98,MIT,8046544,HP Prime PPL terminal toolkit: native executable for linux x64
+2026-11-12T00:21:25.657Z,create-railway-sandbox,0.1.0,heygarrison,MIT,34026,Create a railway sandbox through the ComputeSDK platform. Independent integration by ComputeSDK.
+2026-11-12T00:21:50.22Z,@stacksjs/hq,0.75.541,glenn123,MIT,66096,"What every Stacks HQ service does the same way: usage metering, the connect and usage endpoints, and typed readers."
+2026-11-12T00:21:54.44Z,@fileferry/core,0.1.1,spaulah,MIT,145495,"Framework-free engine for sharing folders and files with external people, on SharePoint, OneDrive and Dropbox."
+2026-11-12T00:21:56.662Z,@fileferry/fake-graph,0.1.0,spaulah,MIT,42872,"In-memory fake of the Microsoft Graph and SharePoint endpoints used for sharing, with fault injection. For tests and demos."
+2026-11-12T00:21:58.636Z,@fileferry/fake-dropbox,0.1.0,spaulah,MIT,35328,"In-memory fake of the Dropbox HTTP API v2 endpoints used for sharing, with fault injection. For tests and demos."
+2026-11-12T00:22:06.422Z,hp-prime-devkit-linux-arm64,0.1.0,golba98,MIT,7325094,HP Prime PPL terminal toolkit: native executable for linux arm64
+2026-11-12T00:22:28.02Z,create-render-sandbox,0.1.0,heygarrison,MIT,34011,Create a render sandbox through the ComputeSDK platform. Independent integration by ComputeSDK.
+2026-11-12T00:22:31.588Z,@ikenga/skill-akuko,0.1.0,nedjamez,Apache-2.0,6301673,"akuko: an agent skill that takes a short story, treatment or film script to a short film, one reviewed stage at a time (screenplay, breakdown, sketch board, bibles, key frames, motion, lip-sync, soun…"
+2026-11-12T00:22:48.916Z,ln-tabular-recipes-dsl,0.1.2,glecomte51,MIT,307237,"Tabular recipes: a Mermaid-like DSL, a tree model, validation and a rowspan/colspan table layout + HTML renderer. Zero runtime dependencies."
+2026-11-12T00:23:13.505Z,hp-prime-devkit-win32-x64,0.1.0,golba98,MIT,8427924,HP Prime PPL terminal toolkit: native executable for win32 x64
+2026-11-12T00:23:18.476Z,hp-prime-devkit-darwin-arm64,0.1.0,golba98,MIT,7246313,HP Prime PPL terminal toolkit: native executable for darwin arm64
+2026-11-12T00:23:24.115Z,hp-prime-devkit-darwin-x64,0.1.0,golba98,MIT,7588803,HP Prime PPL terminal toolkit: native executable for darwin x64
+2026-11-12T00:23:30.234Z,create-netlify-sandbox,0.1.0,heygarrison,MIT,34026,Create a netlify sandbox through the ComputeSDK platform. Independent integration by ComputeSDK.
+2026-11-12T00:24:10.02Z,@yefengr/pi-task-status,0.0.0-stage,yefengr,,345,Temporary package placeholder for staged publishing
+2026-11-12T00:24:39.178Z,visual-regression-compare,0.0.0,frsgit,MIT,382,Placeholder: the first real release is published from https://github.com/visual-regression/visual-regression
+2026-11-12T00:24:48.369Z,hp-prime-devkit,0.1.0,golba98,MIT,92488,"Check, run, debug, test, and preview HP Prime PPL programs from your terminal"
+2026-11-12T00:25:56.392Z,biss-auth,0.6.6,davidwickerhf,MIT,120166,"Shared BISS OIDC authentication for browser, server, Svelte and Vue applications."
+2026-11-12T00:26:09.896Z,16kb-check,0.1.1,priscila225,MIT,240698,Check an Android project for Google Play 16KB page-size compatibility.
+2026-11-12T00:26:24.247Z,@zolaka/runner,0.0.0-stage,zolaka-dev,,336,Temporary package placeholder for staged publishing
+2026-11-12T00:26:54.441Z,@lusor/sdk,1.0.0,jethlo,MIT,954155,"TypeScript client for the Lusor API: agent runs, sessions, devices and direct phone control. Generated from the Lusor OpenAPI specification."
+2026-11-12T00:27:13.547Z,@kerf-js/compiler-darwin-arm64,0.1.0,ravonus,MIT,3584983,kerf compiler addon for darwin-arm64
+2026-11-12T00:27:16.616Z,@kerf-js/compiler-darwin-x64,0.1.0,ravonus,MIT,3570489,kerf compiler addon for darwin-x64
+2026-11-12T00:27:19.614Z,@kerf-js/compiler-linux-arm64-gnu,0.1.0,ravonus,MIT,3627357,kerf compiler addon for linux-arm64-gnu
+2026-11-12T00:27:22.917Z,@kerf-js/compiler-linux-arm64-musl,0.1.0,ravonus,MIT,3624898,kerf compiler addon for linux-arm64-musl
+2026-11-12T00:27:25.866Z,@kerf-js/compiler-linux-x64-gnu,0.1.0,ravonus,MIT,3995655,kerf compiler addon for linux-x64-gnu
+2026-11-12T00:27:27.653Z,musi-ui,0.1.0,underkraken_,MIT,13257,Componentes web fuera de lo convencional. Carga un script y usa la etiqueta: funcionan en cualquier stack.
+2026-11-12T00:27:28.671Z,@kerf-js/compiler-linux-x64-musl,0.1.0,ravonus,MIT,4015268,kerf compiler addon for linux-x64-musl
+2026-11-12T00:27:31.27Z,@kerf-js/compiler-win32-x64,0.1.0,ravonus,MIT,3764626,kerf compiler addon for win32-x64
+2026-11-12T00:27:33.696Z,@kerf-js/core,0.1.0,ravonus,MIT,3944441,"kerf: a fine-grained reactive TSX framework. Runtime, compiler binding, Vite plugin and test utilities."
+2026-11-12T00:27:36.548Z,@kerf-js/start,0.1.0,ravonus,MIT,1135080,"kerf Start: file routes, server functions, streaming SSR, a database and auth"
+2026-11-12T00:27:38.728Z,@kerf-js/agent,0.1.0,ravonus,MIT,105359,"@kerf-js/agent: an assistant that runs your app. Server functions become its tools by opting in, with grants per role and per token, conversations, usage, and bridges to Claude, the Claude CLI or you…"
+2026-11-12T00:29:49.899Z,sequelize-simple-cache-redis,1.3.5,tizianoluziramos,MIT,60317,A transparent Sequelize cache with optional Redis support
+2026-11-12T00:30:08.222Z,linkwarden-ts-sdk,1.0.0,cerealkiller97,GPL-3.0-only,327154,A typed TypeScript client for the Linkwarden API
+2026-11-12T00:31:43.246Z,georeference,1.0.0,osiris_balonga,MIT,391961,"Versioned geographic datasets, portable exports and repeatable database seeding."
+2026-11-12T00:31:56.965Z,@lakestoneai/dev-config,0.1.1,simon_vincent,MIT,3561,Lakestone house defaults for code config (Playwright first). Repos import these and keep only their own exceptions.
+2026-11-12T00:33:00.543Z,pgroast,0.1.0,samokhvalov,Apache-2.0,1047104,"Adversarial idea and design pre-review for Postgres proposals: prior attempts, the strongest objections, touch points. Local output only."
+2026-11-12T00:33:12.415Z,@1shotapi/ows-clear-signing,0.2.0,csibbach,MIT,127492,"ERC-7730 clear signing for OWS Branding Layers — lookup keys, descriptor verification, calldata / EIP-712 decoding and field formatting"
+2026-11-12T00:36:34.041Z,bigint.abs,0.0.0,gameroman,,49,
+2026-11-12T00:38:25.412Z,@youcloud/metersphere-mcp,1.0.0,deardevin,,192580,面向产品验收工作流的 MeterSphere MCP 服务，支持全流程测试管理：用例创建 → 用例评审 → 测试计划 → 测试执行 → 结果记录 → 报告生成
+2026-11-12T00:38:32.169Z,@pokedotdev/iconify,0.3.0,pokedotdev,ISC,11518815,`@pokedotdev/iconify` is a small Bun-based build tool that converts SVG icon collections into Iconify-style JSON bundles.
+2026-11-12T00:38:43.57Z,pocket.new,0.0.0,connorff,UNLICENSED,224,Placeholder. Pocket is in development.
+2026-11-12T00:39:29.969Z,wayfarer-adventure-platform,0.1.0,danielgerlag,MIT,2365384,A YAML-driven adventure game engine and browser playground.
+2026-11-12T00:40:00.118Z,@kerf-js/media,0.1.0,ravonus,MIT,97192,"@kerf-js/media: the media.build@1 provider (sharp + SVGO: AVIF plus a compatible fallback, an SSIMULACRA2 quality search, width ladders, placeholders), the media.server@1 route provider, and M001–M018"
+2026-11-12T00:40:02.99Z,@kerf-js/scroll,0.1.0,ravonus,MIT,122442,"Scrolling in JavaScript: native-feeling wheel, touch, keys and focus, with scrollbars drawn in the DOM or on a canvas"
+2026-11-12T00:40:06.277Z,bit.int,0.0.0,gameroman,,46,
+2026-11-12T00:40:06.983Z,@kerf-js/veneer-core,0.1.0,ravonus,MIT,2473953,"veneer core: tokens, CSS and framework-agnostic behaviour"
+2026-11-12T00:40:09.594Z,@kerf-js/veneer-icons,0.1.0,ravonus,MIT,1723464,Icons for veneer and kerf
+2026-11-12T00:40:13.407Z,@kerf-js/veneer,0.1.0,ravonus,MIT,1522802,"veneer, the UI toolkit for kerf: components over @kerf-js/veneer-core"
+2026-11-12T00:40:16.613Z,@kerf-js/capture,0.1.0,ravonus,MIT,45237,"@kerf-js/capture: drive a built kerf page in headless Chrome on the GPU for repeatable stills at scroll stops, frame-time runs and contact sheets, and bake scene posters at build time. Dev only."
+2026-11-12T00:40:16.998Z,int.bit,0.0.0,gameroman,,46,
+2026-11-12T00:40:19.701Z,create-kerf,0.1.0,ravonus,MIT,354782,Scaffold a kerf app: npm create kerf
+2026-11-12T00:40:22.614Z,@kerf-js/cli,0.1.0,ravonus,MIT,927296,"The kerf command: dev, build, check, the agent layer and the MCP server"
+2026-11-12T00:40:25.547Z,@kerf-js/db,0.1.0,ravonus,MIT,103520,"kerf's data layers and list sources in one package: each driver is an optional peer, and a subpath loads only its own"
+2026-11-12T00:40:29.032Z,@kerf-js/keel,0.1.0,ravonus,MIT,1239901,"@kerf-js/keel: KEEL generation for kerf. The `keel-lit` surface kind (surface.renderer@1) and KEEL's generative modules: trees, looks, light."
+2026-11-12T00:40:31.616Z,@kerf-js/keel-pixel,0.1.0,ravonus,MIT,295034,@kerf-js/keel-pixel: the `keel-pixel` surface kind (surface.renderer@1): KEEL's WebGL2 pixel renderer and theme recipes.
+2026-11-12T00:40:33.997Z,@kerf-js/media-ffmpeg,0.1.0,ravonus,MIT,28875,"@kerf-js/media-ffmpeg: the media.encode@1 provider for video and audio (AV1, VP9, HEVC, H.264, Opus, AAC) through an ffmpeg you install"
+2026-11-12T00:40:36.382Z,@kerf-js/multiplayer,0.1.0,ravonus,MIT,59264,"@kerf-js/multiplayer: presence, cursors anchored to elements, a typed interaction relay and synced scroll on `channel`. A library, not a plugin"
+2026-11-12T00:40:38.96Z,@kerf-js/pay,0.1.0,ravonus,MIT,174981,"@kerf-js/pay: products, one ledger for every rail, and entitlements. kerf's reference plugin: read it to build your own"
+2026-11-12T00:40:41.918Z,@kerf-js/realtime-durable-object,0.1.0,ravonus,MIT,19615,"@kerf-js/realtime-durable-object: a Cloudflare Durable Object as the realtime bus, on cloudflare_durable"
+2026-11-12T00:40:44.522Z,@kerf-js/realtime-livekit,0.1.0,ravonus,MIT,18403,"@kerf-js/realtime-livekit: cursors over a LiveKit room, with the token signed by the room"
+2026-11-12T00:40:47.486Z,@kerf-js/realtime-nats,0.1.0,ravonus,MIT,18115,@kerf-js/realtime-nats: the realtime.bus provider for core NATS
+2026-11-12T00:40:50.262Z,@kerf-js/realtime-redis,0.1.0,ravonus,MIT,29106,@kerf-js/realtime-redis: the realtime.bus provider for Redis pub/sub
+2026-11-12T00:40:53.256Z,@kerf-js/realtime-socketio,0.1.0,ravonus,MIT,18252,"@kerf-js/realtime-socketio: cursors through a Socket.IO relay you run, with tickets the room signs"
+2026-11-12T00:42:59.028Z,@poferraz/doublecheck,0.2.0,poferraz,Apache-2.0,173128,Multi-Perspective Code Security & Architecture Review for Humans and AI Agents
+2026-11-12T00:43:30.614Z,@hakulex/diff-core,0.1.0,kenkyou,MIT,29029,"Compare two hakulex documents: aligned blocks, character marks and change counts"
+2026-11-12T00:43:33.286Z,diurn,0.1.0,flexatone,MIT OR Apache-2.0,119904,"Exchange calendars and trading hours for the world's markets, from the Diurn API"
+2026-11-12T00:43:37.815Z,dev-disk-doctor,0.1.0,prageethsilva,MIT,105387,"Why is my disk full? A read-only disk and git-worktree doctor for developer machines (Docker, Xcode, Android, node_modules, caches). CLI + MCP server for AI agents."
+2026-11-12T00:43:53.776Z,@hakulex/litexml,0.1.0,kenkyou,MIT,64725,"Convert hakulex documents to and from LiteXML, a compact XML format for documents"
+2026-11-12T00:44:07.053Z,@hakulex/style-token,0.1.0,kenkyou,MIT,95485,"Design tokens, CSS variables and variant presets for hakulex"
+2026-11-12T00:44:08.888Z,@hakulex/vue-lexical,0.1.0,kenkyou,MIT,40456,Vue 3 bindings for Lexical
+2026-11-12T00:44:10.794Z,@hakulex/renderer,0.1.0,kenkyou,MIT,345515,"SSR-safe read-only renderer for hakulex (Lexical JSON → Vue), no Lexical runtime"
+2026-11-12T00:44:12.445Z,@hakulex/diff,0.1.0,kenkyou,MIT,19018,"Show what changed between two hakulex documents, side by side or in one column"
+2026-11-12T00:44:14.969Z,@hakulex/editor,0.1.0,kenkyou,MIT,928404,Core hakulex rich text editor for Vue 3
+2026-11-12T00:44:16.916Z,@hakulex/headless,0.1.0,kenkyou,MIT,45738,"Read hakulex documents on a server and turn them into Markdown, without a browser or Vue"
+2026-11-12T00:44:18.738Z,@hakulex/plugin-block-handle,0.1.0,kenkyou,MIT,22500,"Block handle plugin for hakulex: drag, move, duplicate and turn blocks"
+2026-11-12T00:44:20.52Z,@hakulex/plugin-floating-toolbar,0.1.0,kenkyou,MIT,28432,Floating format toolbar plugin for hakulex
+2026-11-12T00:44:22.106Z,@hakulex/plugin-image-editor,0.1.0,kenkyou,MIT,84393,"Image editor plugin for hakulex: crop, annotate, pixelate and resize images before they are uploaded"
+2026-11-12T00:44:23.769Z,@hakulex/plugin-litexml-paste,0.1.0,kenkyou,MIT,8494,LiteXML paste plugin for hakulex: pasted LiteXML text becomes the blocks it describes
+2026-11-12T00:44:25.367Z,@hakulex/plugin-mention,0.1.0,kenkyou,MIT,18443,Mention menu plugin for hakulex
+2026-11-12T00:44:27.048Z,@hakulex/plugin-slash-menu,0.1.0,kenkyou,MIT,32861,Slash command menu plugin for hakulex
+2026-11-12T00:44:28.769Z,@hakulex/plugin-table,0.1.0,kenkyou,MIT,22530,Table row and column handles plugin for hakulex
+2026-11-12T00:44:30.542Z,@hakulex/litexml-cli,0.1.0,kenkyou,MIT,298813,"The litexml command: turn LiteXML or document JSON into HTML, JSON or Markdown"
+2026-11-12T00:44:32.266Z,@hakulex/plugin-link-edit,0.1.0,kenkyou,MIT,29449,"Link panel plugin for hakulex: view, open, copy, edit and remove the link under the caret"
+2026-11-12T00:44:34.437Z,@hakulex/plugin-toolbar,0.1.0,kenkyou,MIT,24182,Fixed toolbar plugin for hakulex
+2026-11-12T00:44:45.024Z,esimtao-cli,1.0.1,abigaildavised,MIT,3555,"Official CLI & MCP client for EsimTao (esimtao.com): calculate global travel eSIM data usage, check iPhone/Android eSIM compatibility, and compare fair regional GB pricing."
+2026-11-12T00:44:49.055Z,chineseworksheet-cli,1.0.1,abigaildavised,MIT,3828,"Official CLI & MCP client for ChineseWorkSheet (chineseworksheet.com): compute printable A4/Letter Tian Zi Ge / Mi Zi Ge grid geometry, stroke order rules, and HSK 3.0 vocabulary level."
+2026-11-12T00:44:54.693Z,chinamedvisit-cli,1.0.1,abigaildavised,MIT,3730,"Official CLI & MCP client for ChinaMedVisit (chinamedvisit.com): estimate Tier-3A hospital medical costs in China vs US/UK, lookup International Medical Centers, and plan medical travel."
+2026-11-12T00:45:16.438Z,@jgengine/ui,0.0.0-bootstrap.0,noisemaker11,Apache-2.0,679,JGengine's game UI package (formerly @jgengine/react). This version only reserves the name; real releases start at 0.58.0.
+2026-11-12T00:45:44.028Z,@clocksmith/doe-gpu-win32-x64,0.5.0,clocksmith,Apache-2.0,31842764,doe-gpu prebuilt binary for Windows x86-64
+2026-11-12T00:50:44.367Z,treeloom,2.0.0,jheagle,MPL-2.0,1381200,State management with JSON.
+2026-11-12T00:51:01.141Z,@jqueryuix/hta-stage,0.0.0-stage,a2fsss,,342,Temporary package placeholder for staged publishing
+2026-11-12T00:51:09.395Z,@jqueryuix/hta-ui,3.1.0,a2fsss,UNLICENSED,218333,GSUT HTA landing templates (static UI only — ADR 0084)
+2026-11-12T00:51:13.841Z,agent-dream-mcp,0.1.1,youssef_benm,MIT,1997117,"Memory dreaming for any coding agent, as an MCP server: verify, reorganize and promote agent memory using the thread's own model. No LLM calls, no network."
+2026-11-12T00:53:08.352Z,agent-termo,1.0.0,krish_patel_1122,MIT,8351585,Terminal-based AI coding agent that replicates Claude Code experience
+2026-11-12T00:53:39.382Z,@chesscam/recorder,0.1.0,pbatch,MIT,340237,"Record chess games from a camera or video of a real board, in the browser. Moves as SAN/PGN, on-device."
+2026-11-12T00:54:01.304Z,@looriann/dsh-cost-ledger,0.1.0,looriann,MIT,186103,DSH 插件：会认「服务商 + 模型」的 token 费用账本。按天图表对齐 DeepSeek 官方控制台，内置阿里百炼官方价目表，查不到价的模型留空手填，绝不瞎猜。
+2026-11-12T00:55:59.028Z,jqueryuix-hta-stage,0.0.0-stage,a2fsss,,341,Temporary package placeholder for staged publishing
+2026-11-12T00:57:50.22Z,@codedealer/pi-sync,1.0.0,codedealer,MIT,175260,A manifest-driven CLI for applying explicitly managed Pi resources.
+2026-11-12T00:58:29.923Z,@brunogutierre/tessera,0.1.0,brunogutierre,MIT,641096,"Angular design system: accessible components with Enterprise, Fintech and Care themes in light and dark modes."
+2026-11-12T00:58:43.949Z,@mnykj/alleditor-kernel,1.0.5,jinsong,MIT,2646981,AllEditor slate/DOM kernel (internal; formerly @mnykj/alleditor-core). Prefer @mnykj/alleditor for apps.
+2026-11-12T00:59:04.889Z,query-string-lite-ts,1.0.0,pirapaakaranpirathapan,MIT,9287,"Fast, zero-dependency URL query string parser and serializer with array and type casting support."
+2026-11-12T00:59:14.81Z,@crombolo/backoffice-probe,1.0.1,kineco,MIT,13588,"A test extension, not for sites, for Crombolo Cloud's checks: a dashboard whose code runs in the back office as whoever is signed in."
+2026-11-12T00:59:15.971Z,use-debounce-fn-react,1.0.0,pirapaakaranpirathapan,MIT,8852,"Lightweight React 18 & 19 hook providing useDebounce value, debounced callback, and throttled execution with flush and cancel support."
+2026-11-12T00:59:16.752Z,@crombolo/delegate-probe,1.0.1,kineco,MIT,14706,"A test extension, not for sites, for Crombolo Cloud's checks: it acts for the person who approved it, and says what it was refused."
+2026-11-12T00:59:24.771Z,fast-env-guard,1.0.0,pirapaakaranpirathapan,MIT,9651,"Fast, zero-dependency environment variable validator and type caster with strict schema enforcement and clear error reporting."
+2026-11-12T00:59:33.923Z,nano-typed-emitter,1.0.0,pirapaakaranpirathapan,MIT,8804,"Ultra-lightweight (~500 B), strictly typed pub/sub event emitter for TypeScript and JavaScript applications."
+2026-11-12T00:59:43.502Z,svg-to-data-uri-lite,1.0.0,pirapaakaranpirathapan,MIT,7166,"Ultra-fast, zero-dependency utility to encode raw SVG strings into compact, optimized Data URIs for inline CSS and HTML."
+2026-11-12T01:01:43.635Z,hvsin-plugin-manage-mod,0.1.4,playl,MIT,147983,hvsin Plugin 运行时库 - PluginManageMod、PluginManageService 与 Provider/Storage 扩展点
+2026-11-12T01:01:46.353Z,hvsin-plugin-manage-cli,0.1.0,playl,MIT,126745,hvsin Plugin CLI - 提供 Plugin 创建、构建、打包、验证等能力
+2026-11-12T01:02:09.412Z,@hollis-labs/app-shell,0.1.0,chrispian,MIT,34962,Manifest-driven app shell: consumes the Substrate generated frontend manifest and places its contributions in the host's regions.
+2026-11-12T01:02:10.303Z,@gitmyabi/rch,1.0.0,gitmyabi-bot,Apache-2.0,102790,"Auto-generated TypeScript type bindings for RCH (build etherscan-rch-57b96d4a-1794445313298, commit b47025f, branch etherscan)"
+2026-11-12T01:02:19.631Z,dsh-workspace-nest,0.1.0,linye,MIT,93335,侧边栏工作区多级嵌套：父工作区下新建子工作区，会话可置顶到所属文件夹
+2026-11-12T01:03:49.223Z,@mossplan/core,0.1.0,khumpee,FSL-1.1-ALv2,13707,Shared runtime code for Mossplan sites.
+2026-11-12T01:03:52.08Z,@mossplan/cli,0.1.0,khumpee,FSL-1.1-ALv2,16834,"Command line tools for Mossplan sites: init, dev, build, update and migrate."
+2026-11-12T01:04:34.102Z,@matra/command,0.1.0,butchi,MIT,71157,Safe execution planning and local process adapter for Matra command nodes
+2026-11-12T01:04:37.731Z,sgmap-use,0.1.0,jackhong2019,MIT,102982,Vue 3 composables for 思极地图 (SGMap)
+2026-11-12T01:04:42.554Z,@jqueryuix/compat,3.1.1,a2fsss,UNLICENSED,209,probe
+2026-11-12T01:05:31.489Z,dsh-loope,0.0.1,iasiv5,MIT,852,Loop engine helpers for DeepSeek Harness (dsh): minimal agent loop primitives with budget caps and checkpoint control.
+2026-11-12T01:05:36.017Z,loope,0.0.1,iasiv5,MIT,811,Loope: tiny loop engine for agent workflows — run tasks in verified loops with budget caps and stop guards.
+2026-11-12T01:06:25.483Z,homey-developer-mcp,0.1.0,lucasvdh,GPL-3.0,66491,"MCP server for Homey app developers: crashes, diagnostic reports, builds and install stats of your own apps."
+2026-11-12T01:08:34.432Z,@voxdown/produce,0.1.0,etienne.ackermann,MIT,293552,"Turn a VoxDown story into an audiobook with the voice service you choose: a production script any tool can read, adapters (ElevenLabs, OpenAI-compatible speech such as Kokoro, Azure), and chapters as…"
+2026-11-12T01:10:55.503Z,itchlib,1.0.0,immalloy,MIT,72074,"A Node.js client for reading itch.io games, creators, search, community, and downloads."
+2026-11-12T01:11:16.992Z,essentia-core,0.8.0,urielri,MIT,224588,"Runtime de Essentia: engine, scene graph, cámara ortográfica 1:1 y EssentiaNode para interfaces que se renderizan en la GPU con Svelte y Threlte."
+2026-11-12T01:11:21.301Z,@documentdrivendx/umf-core,0.10.11,erik-labianca-synaptiq,MIT OR Apache-2.0,281785080,The package root uses the synchronous Rust entry. The shared Saga WASM host is available from `@umf/core/runtime/wasm`; declarations and resources are included in the source-built asset manifest.
+2026-11-12T01:11:22.255Z,essentia-primitives,0.15.0,urielri,MIT,293929,"Primitivas visuales GPU de Essentia (Rect, Image, Video, Text), blur del fondo y chunks GLSL."
+2026-11-12T01:11:31.753Z,essentia-crystal,0.3.0,urielri,MIT,431666,"Estilo de vidrio de Essentia: Glass, GlassNode, presets y los componentes Button, Card e Input."
+2026-11-12T01:13:00.093Z,@llodev/study-abstract,0.0.0,lloliveira-dev,MIT,25275,Turn any study material into a didactic abstract the reader can use with the source closed.
+2026-11-12T01:13:18.178Z,hixiaowen-cli,1.0.0,linds,MIT,31099,HiBot 手机号验证码登录 CLI：获取验证码、登录并输出 token，支持 JSON 输出供脚本/Agent 调用
+2026-11-12T01:13:22.148Z,@llodev/study,0.0.0,lloliveira-dev,MIT,2616,Meta-package: installs the @llodev/study-* family (study abstracts).
+2026-11-12T01:14:21.604Z,@tomjerrygit/dsh-workspace-audit,0.1.0,tomjerrygit,MIT,33397,"Local-first workspace health audit for DeepSeek Harness: Git, tests, CI, size, security hotspots, and a Markdown handover report."
+2026-11-12T01:15:15.083Z,dsh-agent-todo,0.1.0,duchunsheng,MIT,2390407,DSH 插件：Agent-ToDo 多项目工作台，四个入口把会话里的想法收成胶囊、导出成可直接交给 Agent 的待办
+2026-11-12T01:17:28.209Z,hashfun,0.0.0-stage,staccoverflow123,,329,Temporary package placeholder for staged publishing
+2026-11-12T01:19:13.223Z,create-slycode,0.0.0-stage,slycode,,336,Temporary package placeholder for staged publishing
+2026-11-12T01:19:25.725Z,bdf.mbt,0.0.0-stage,f12o,,329,Temporary package placeholder for staged publishing
