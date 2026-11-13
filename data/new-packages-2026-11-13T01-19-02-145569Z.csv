@@ -1,0 +1,89 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-13T00:15:17.089Z,@threert/scene,0.1.1,doodlewind,MIT,476042,"The ThreeRT scene API: three.js-style meshes, PBR materials, lights and glTF models, in physical units, for a hardware ray-traced renderer."
+2026-11-13T00:15:20.196Z,@threert/gameplay,0.1.1,doodlewind,MIT,78912,"Game logic for ThreeRT: state, transactional handlers, world handlers and per-frame scripts on top of @threert/scene; deterministic and replayable."
+2026-11-13T00:15:23.149Z,@threert/voxel,0.1.1,doodlewind,MIT,91793,"The voxel engine for ThreeRT: destructible voxel levels, explosions and rigid bodies cut loose, meshed and ray-traced by the native renderer."
+2026-11-13T00:17:21.752Z,@ohos-ports/plugin-swc,2.70.4-beta.1,ljry,MIT,8391,A Progressive React Framework for modern web development.
+2026-11-13T00:17:52.208Z,@bakers-build/addon-runtime-bwrap,0.9.1-next.5,christianwiedemann,MIT,15652,Isolate complete agent runs with an external Bubblewrap sandbox.
+2026-11-13T00:17:53.983Z,@bakers-build/addon-runtime-docker,0.9.1-next.5,christianwiedemann,MIT,33875,Start each agent run in its own Docker or Podman container.
+2026-11-13T00:18:45.107Z,@epilot/create-spark-block,0.1.0,luca-felix-epilot,Apache-2.0,72242,Create an epilot portal block: npm create @epilot/spark-block my-block
+2026-11-13T00:18:50.076Z,@epilot/spark-block-tools,0.1.0,luca-felix-epilot,Apache-2.0,59580,"Develop, preview and deploy epilot portal blocks: a playground that stands in for the portal, manifest validation and a one-command deploy"
+2026-11-13T00:20:19.533Z,@layerzerolabs/bigint-buffer-shim,4.0.3,layerzero-bot,MIT,5694,"Pure-JS drop-in for bigint-buffer with validated inputs, replacing it through a pnpm override"
+2026-11-13T00:20:45.7Z,@gitmyabi/qhvn-usd,1.0.0,gitmyabi-bot,Apache-2.0,129878,"Auto-generated TypeScript type bindings for QHVN-USD (build etherscan-qhvn-usd-e68f4e81-1794529229079, commit 4a28314, branch etherscan)"
+2026-11-13T00:23:07.106Z,@gubernet/chat,0.1.0,albertoformi,Apache-2.0,1760162,React components for chatting with AI agents built on Gubernet
+2026-11-13T00:24:30.722Z,armature-agents,0.1.0,ganeshepili,MIT,412225,Compile armature.yaml into framework-native Python agent projects with an eval-first workflow.
+2026-11-13T00:25:10.418Z,@merfisheyes/mcp,0.1.0,elvissmith14,MIT,123162,MCP server for MERFISHEYES: search spatial transcriptomics datasets and work with your projects from an AI agent
+2026-11-13T00:25:44.122Z,@zokugun/bump-n-ship,0.1.0,daiyam,MIT,77306,"Bump your project version, update files, and publish tags or PRs with ease."
+2026-11-13T00:27:45.775Z,comintro,0.1.0,notwin,MIT,30398,COM INTRO 開発者向けセットアップツール(npx comintro init)
+2026-11-13T00:28:07.29Z,mm_prompt,1.0.0,qiuwenwu,ISC,18123,提示词模块，管理提示词的类型、分组与提示词文件，支持按类型写入与读取提示词，基于 mm_mod 生命周期，无全局对象与原型扩展依赖
+2026-11-13T00:28:16.431Z,@oneschema/pdfium-wasm,8152.0.0,behnam-oneschema,SEE LICENSE IN LICENSE.md,13334472,"PDFium compiled to WebAssembly (bblanchon/pdfium-binaries), as an ES module that loads without file or network access"
+2026-11-13T00:28:19.614Z,mm_resource,1.0.0,qiuwenwu,ISC,15808,资源模块，管理智能体所属的用户、操作记录等资源，兼容旧版驱动的 do/run 调用方式，基于 mm_mod 生命周期，无全局对象与原型扩展依赖
+2026-11-13T00:29:52.315Z,mm_projects,1.0.0,qiuwenwu,ISC,26846,项目模块，描述项目的目标、团队、里程碑与产出文件，支持项目文档生成与读写，基于 mm_mod 生命周期，无全局对象与原型扩展依赖
+2026-11-13T00:29:54.681Z,@bonniepdf/core,2026.11.12,codefocusuk,SEE LICENSE IN LICENSE,9035394,"Zero-dependency PDF generation for TypeScript & JavaScript - runs in the browser, Node.js, and serverless. Layout engine with tables, charts, accessible (PDF/UA) and archival (PDF/A) output."
+2026-11-13T00:30:00.042Z,@renzo.johnson/google-slides-mcp,26.11.14,renzo.johnson,MIT,1122368,"Google Slides MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T00:30:01.96Z,mm_users,1.0.0,qiuwenwu,ISC,50689,用户模块，描述用户的身份、提示词、会话、待办事项与工作状态，按智能体隔离持久化到独立 SQLite 数据库，基于 mm_mod 生命周期，无全局对象与原型扩展依赖
+2026-11-13T00:30:02.767Z,mm_records,1.0.0,qiuwenwu,ISC,24664,操作记录模块，记录智能体的操作行为，支持 redis、mongodb、file、mysql、sqlite 等多种存储方式，基于 mm_mod 生命周期，无全局对象与原型扩展依赖
+2026-11-13T00:30:38.594Z,@yukibana/cli,0.0.0-placeholder,processeus,MIT,447,Placeholder: the real package is published from https://github.com/Yukibana-Ed/Yukibana by CI.
+2026-11-13T00:32:03.415Z,screenplay-video,0.2.0,kevmok,MIT,377145,"Scripted, agent-friendly screen recordings of web apps with Screen Studio style cursor, zoom and framing. Runs headless."
+2026-11-13T00:33:39.049Z,joplin-plugin-scriptwriter,1.0.2,giicha,MIT,998475,"<div align=""center""> <h1>Joplin Scriptwriter Plugin</h1> <p> <i>This is a plugin for <a href=""https://github.com/laurent22/joplin"">Joplin</a>. Refer to <a href=""https://github.com/laurent22/joplin/tr…"
+2026-11-13T00:35:11.345Z,@dayflow/plugin-board,1.0.0,jayceli,MIT,111370,Task board view plugin for DayFlow Calendar
+2026-11-13T00:36:20.942Z,flow-reel,0.1.0,codeonym,MIT,875669,"Record narrated, reproducible feature demos from an agent-written Playwright script."
+2026-11-13T00:36:37.728Z,@dxfeed/dxlink-protobuf-es,0.10.0,dvpetrov,MPL-2.0,71035,"Binds protobuf-es service descriptors to the dxLink RPC transport, producing typed rxjs clients"
+2026-11-13T00:37:00.996Z,@ohos-ports/mui-private-classnames,5.7.0-beta.1,ljry,MIT,437582,Private - React classnames utils used internally in the other MUI component libraries packages.
+2026-11-13T00:39:03.272Z,@node-in-layers/llm,1.0.0,macornwell,ISC,41473,Standardized OpenAI-compatible LLM access for Node In Layers systems.
+2026-11-13T00:39:48.56Z,dsh-commit-journal,0.3.0,town233,MIT,436677,"DeepSeek Harness plugin: sync commits via Codeup / GitLab / GitHub (or local git root scan), query history, build day/week/month reports, and show an activity heatmap."
+2026-11-13T00:40:10.008Z,@dxfeed/dxlink-console-core,0.10.0,dvpetrov,MPL-2.0,318557,"dxLink console core: connection, auth, the channel-plugin registry and the configuration profile"
+2026-11-13T00:40:15.709Z,@dxfeed/dxlink-console-market-data,0.10.0,dvpetrov,MPL-2.0,664951,dxLink console market-data channels: FEED and DOM
+2026-11-13T00:40:21.658Z,@dxfeed/dxlink-console-rpc,0.10.0,dvpetrov,MPL-2.0,185753,dxLink console RPC channel: call a method from a protobuf descriptor set
+2026-11-13T00:41:07.632Z,@renzo.johnson/firebase-mcp,26.11.14,renzo.johnson,MIT,4177260,"Firebase MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T00:42:24.555Z,@flighter/wss-client,1.0.0-rc.1,flighter,CC-BY-NC-ND-4.0,288615,"The client for workspace-server: pair a device, reach the server over WebRTC on the local network, and keep an app's document in sync."
+2026-11-13T00:44:18.217Z,@geekmidas/edge,10.0.0-alpha.181,geekmidas,,523309,"The edge in front of a gkm stack: routes, reverse proxies, certificates and DNS providers."
+2026-11-13T00:44:43.928Z,@sentropic/diagram-canvas,0.1.0,rhk,MIT,497917,"Headless scene and hit testing over a diagram view: one world -> view -> CSS pixel -> device pixel transform, deterministic paint order, filter evaluation with reported exclusions. No DOM, no rendere…"
+2026-11-13T00:45:06.829Z,tsinfra,0.1.0,adamhl8,MIT,562706,An agentless infrastructure as code tool for TypeScript
+2026-11-13T00:46:13.481Z,@orangecheck/btcpay,0.1.0,ochk,MIT,79634,"The OrangeCheck family's one BTCPay Server implementation: webhook signature check and raw-body read, store env, confirmed-payment rules and Greenfield calls. Server-only, no dependencies."
+2026-11-13T00:47:52.647Z,@firestitch/mcp,18.0.1,raygig,MIT,58704,
+2026-11-13T00:49:34.861Z,@syncropel/query,0.1.0,dpwanjala,Apache-2.0,565424,"A small query language for rows (filter, compute, group, join, sort), with one evaluator compiled to WebAssembly so browsers, Node, Deno and Bun answer the same query the same way."
+2026-11-13T00:50:16.88Z,@zookanalytics/sprintshow,0.1.0,johnzook,AGPL-3.0-only,448915,"Auto-generate a quick, unpolished demo video of what an AI agent just did — the agent equivalent of a sprint demo. A demo-script DSL + linter, on-screen captions, TTS voiceover and ffmpeg assembly, o…"
+2026-11-13T00:51:54.71Z,@ohos-ports/mrnima-tiktok-downloader,1.0.0-beta.1,ljry,MIT,223541,"An unofficial tiktok downloader scraper for download video, audio and images using tiktok link."
+2026-11-13T00:51:57.833Z,@tickernelz/wardmote-create-plugin,0.0.0,zhafron,MIT,1109,Placeholder publish reserving this name for Wardmote's release pipeline. Do not install this version.
+2026-11-13T00:52:52.033Z,@renzo.johnson/google-tag-manager-mcp,26.11.14,renzo.johnson,MIT,1198939,"Google Tag Manager MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T00:54:53.228Z,the-standard-research-mcp,1.0.0,thestandardmd,,483858,Read-only MCP for The Standard research library and public catalogue.
+2026-11-13T00:55:49.104Z,dsh-no-enter-sand,1.0.1,pokereva,MIT,17506,"Blocks Enter from sending in the DSH composer: Enter becomes a line break, messages leave only from the send button, and the input box says so in gray."
+2026-11-13T00:56:27.494Z,project-easy-x,1.0.0,project-easy-x,MIT,2758216,Autonomous x402 Token Security Audit & Risk Intelligence Engine for AI Agents
+2026-11-13T00:56:35.669Z,skia-motion-agentic-cli,1.1.0,iamasifnawaz,MIT,304651,"Motion for AI agents: a JSON-only CLI that scaffolds, checks and renders character and UI animation drawn with React Native Skia and rendered by Remotion."
+2026-11-13T00:56:46.802Z,moonspell,0.1.0-202611130056.g277c395,bartoindahouse,MIT,321565,"Moonspell CLI: make, save and publish Moonspell games from your own computer (npx moonspell init my-game), and export, serve and live-push them to the Moonspell apps"
+2026-11-13T00:59:14.946Z,rebut-mcp,0.1.0,abruption,MIT,226625,"Authenticated MCP client for independent, evidence-grounded reviews through your self-hosted Rebut Worker"
+2026-11-13T00:59:18.819Z,@trymirai/uzu-darwin-arm64,0.6.18,alexey.trymirai,MIT,43998689,A high-performance inference engine for AI models
+2026-11-13T00:59:22.768Z,@trymirai/uzu-darwin-x64,0.6.18,alexey.trymirai,MIT,38939358,A high-performance inference engine for AI models
+2026-11-13T00:59:36.767Z,@byteheng/dsh-2048,1.0.0,byteheng,MIT,46730,A tactile 2048 puzzle panel for the DeepSeek Harness sidebar.
+2026-11-13T00:59:41.087Z,@ankhorage/auth-github,0.1.0,artiphishle,MIT,63138,GitHub App OAuth transport adapter implementing the provider-neutral Ankhorage auth port.
+2026-11-13T01:00:11.325Z,@fluxa-redoubt/verify,0.4.0,fluxa-agency,MIT,24333,"Verify Fluxa Shield / Redoubt tokens (Ed25519, public key only) on your own server. Zero dependencies, WebCrypto only."
+2026-11-13T01:00:11.968Z,@devflowai/cli,0.2.0,mohamedyangui,Apache-2.0,5335863,"DevFlow AI: a language-agnostic, evidence-driven AI software engineering workflow framework."
+2026-11-13T01:00:27.341Z,@nickpaustian/janua,0.1.0,nickpaustian,MIT,70294,"The server beside a Lightspeed front end: serves the built site, signs people in, keeps sessions, and calls internal APIs on their behalf."
+2026-11-13T01:00:56.153Z,@prestonkwei/icons,0.1.3,prestonkwei,UNLICENSED,5998321,Proprietary icon library by Preston Kwei. Not licensed for public use: using these icons requires a written license. See LICENSE.
+2026-11-13T01:00:57.721Z,@pseudolux-ui/client,0.1.0,nickpaustian,MIT,71194,"Client for Pseudolux: image addresses, crops and focal points, metadata, and signed library calls."
+2026-11-13T01:01:06.208Z,@pseudolux-ui/media-library,0.1.0,nickpaustian,MIT,180646,"Lightspeed components for browsing, describing, cropping and uploading Pseudolux pictures, over a port the host implements."
+2026-11-13T01:01:10.093Z,@nickpaustian/tela,0.1.0,nickpaustian,MIT,1385563,"A Git-backed headless CMS: collections of fields in TypeScript, edited in a Lightspeed admin, published as JSON commits to a content repo."
+2026-11-13T01:01:16.026Z,@reactor-models/pika-h3-flex,3.0.2,derewah,MIT,708539,Strongly-typed SDK for the PikaH3Flex model on Reactor
+2026-11-13T01:01:54.422Z,@hysoft-ny-ui/ny-ui,0.1.0,liangzg,,2098846,Vue 3 + Element Plus 业务组件库（pro-dialog / pro-table / pro-query-template / pro-edit-template 等，抽自 hcs/pc-web）
+2026-11-13T01:01:56.962Z,emporium-mcp,0.1.0,dopewilly,MIT,47238,"MCP server for Emporium, Hermes agents' shops paid in USDC on NEAR: hire the live testnet shop with no keys and get the work back with a real NEAR payment receipt, or pay any Emporium shop from your…"
+2026-11-13T01:02:04.341Z,@parcha/agent-action,0.1.0,aj-parcha,Apache-2.0,174000,"A customizable, remembered coding-agent handoff button for React, with a framework-independent core."
+2026-11-13T01:04:21.901Z,@edemilorhea/code-mentor,0.1.0,edemilorhea,MIT,119704,把本機 git diff 轉成情境導向的 code 導讀（單檔離線 HTML + Markdown）
+2026-11-13T01:06:23.079Z,@gitmyabi/ctc,1.0.0,gitmyabi-bot,Apache-2.0,81352,"Auto-generated TypeScript type bindings for CTC (build etherscan-ctc-f1d9139c-1794531963320, commit cf87370, branch etherscan)"
+2026-11-13T01:06:38.87Z,@sybilscan/shield-react,0.1.0,braky,MIT,11117,"SybilScan Shield for wagmi dApps: captures every wallet connection, including WalletConnect and smart wallets."
+2026-11-13T01:06:39.495Z,@renzo.johnson/google-tasks-mcp,26.11.14,renzo.johnson,MIT,1125264,"Google Tasks MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T01:07:36.698Z,create-openai-agent-server,1.0.0,lhc-soul,MIT,157247,快速创建基于 OpenAI Agents SDK 的多 Agent 项目基座：默认 JavaScript，可切换 TypeScript，仅使用 ESM。
+2026-11-13T01:08:26.954Z,opencode-scheduler-win,0.1.1,yuchen1234321,MIT,35371,Windows supervisor for opencode-scheduler jobs: skip overlapping runs and enforce timeout.
+2026-11-13T01:08:34.285Z,@vicacha-devs/strapi-plugin-collapsible-nav,1.0.0,yusufmuysca,MIT,180354,Restores Strapi v4-style collapsible/expandable left navigation sidebar in the Strapi v5 admin panel.
+2026-11-13T01:10:22.416Z,harngine,0.1.0,chaoyangnz,MPL-2.0,667876,An execution framework for agent applications
+2026-11-13T01:10:30.891Z,apolo-mcp,0.1.0,mailsonsantos,UNLICENSED,59994,"Servidor MCP do Apolo: Claude Code, Claude Desktop e outras ferramentas acessam o Apolo com as credenciais da própria pessoa."
+2026-11-13T01:11:26.072Z,@harngine/claude-messages,0.1.0,chaoyangnz,MPL-2.0,31702,`@harngine/claude-messages` connects Harngine to the Claude Messages protocol. A compatible router can use a different upstream model while preserving the Messages request and response shape.
+2026-11-13T01:11:45.234Z,@liml/test-npm-publish-demo,0.0.1,liml,MIT,881,A minimal npm package for testing the publish flow.
+2026-11-13T01:11:53.074Z,@harngine/http,0.1.0,chaoyangnz,MPL-2.0,66710,Optional Node.js HTTP adapter for a Harngine App. The host supplies authentication and owns the listener lifecycle.
+2026-11-13T01:12:02.351Z,@harngine/mcp,0.1.0,chaoyangnz,MPL-2.0,43602,`@harngine/mcp` connects explicitly selected MCP Tools to Harngine's durable Tool boundary. It also captures their contracts into application-owned catalog snapshots so schemas do not need to be hand…
+2026-11-13T01:12:12.695Z,@harngine/openai-responses,0.1.0,chaoyangnz,MPL-2.0,30402,`@harngine/openai-responses` connects Harngine to the OpenAI Responses protocol. Set `baseUrl` for a compatible router such as Magpie; the protocol remains OpenAI Responses regardless of which upstre…
+2026-11-13T01:12:22.192Z,@harngine/retrieval,0.1.0,chaoyangnz,MPL-2.0,22800,"`@harngine/retrieval` exposes a retriever as a recorded read Tool. The retriever chooses its index, ranking method, and storage backend."
+2026-11-13T01:13:15.738Z,@mikrio/node-darwin-arm64,0.1.0,meltyshev,Apache-2.0,23503559,Native Node.js binding for mikrio (macos-arm64)
+2026-11-13T01:13:42.68Z,nest-sqs,0.0.0,gongpo-rs,MIT,18706,Amazon SQS consumers and producers for NestJS 11 and 12
+2026-11-13T01:13:43.491Z,@logludo/theme,1.0.1,logludo,Apache-2.0,11395,"LogLudo Arcade-Clean design tokens, CSS variables, and Tailwind theme specification"
+2026-11-13T01:15:35.335Z,@postkit/chakra,0.3.0,ryanhefner,MIT,1197447,Chakra-based React components and Markdown tooling for articles
+2026-11-13T01:16:17.706Z,@byscott-io/pagelet,0.0.0-stage,sevgibson,,341,Temporary package placeholder for staged publishing
