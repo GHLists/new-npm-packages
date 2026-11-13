@@ -1,0 +1,175 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-13T09:16:00.665Z,@extantape/payload-plugin-watchlist,0.1.0,mdgilardi,MIT,243014,"Watchlist for Payload: a curated list of YouTube creators for your site, with rules per channel, RSS checks before any Data API call, a daily unit cap, a curator's yes where you want one, and click-t…"
+2026-11-13T09:16:22.188Z,@extantape/payload-plugin-wizards,0.1.0,mdgilardi,MIT,33994,"Wizards for Payload: gated step-by-step flows, one question per screen with Yes needed to go on, a video and text per step edited in the admin, and the answers checked on the server and recorded."
+2026-11-13T09:16:57.564Z,@extantape/payload-plugin-shipping,0.1.0,mdgilardi,MIT,53103,"Shipping for Payload: addresses, carrier rates, labels, refunds of unused labels and tracking webhooks, with EasyPost as the first carrier provider."
+2026-11-13T09:17:23.668Z,@extantape/payload-plugin-scan,0.1.0,mdgilardi,MIT,51355,"Scan for Payload: read barcodes and QR codes with a phone camera or a USB scanner, and answer scan links by who is signed in, without letting codes be probed."
+2026-11-13T09:17:42.535Z,@extantape/payload-plugin-ai-budget,0.1.0,mdgilardi,MIT,44442,"AI Budget for Payload: a ledger of every AI API call's tokens and cost, budgets per job, day and month that stop a job cleanly, and a clear pause when prepaid credits run out."
+2026-11-13T09:17:43.697Z,@arorms/core,0.1.0,arorms,,38743,"arorms frontend runtime: OIDC auth, API client, theme, i18n. No visual output."
+2026-11-13T09:17:59.451Z,@citms/card-renderer,1.0.0,renming458,UNLICENSED,8862590,"Shared React card renderer, client protocol and offline WebView assets"
+2026-11-13T09:18:03.451Z,@extantape/payload-plugin-notifications,0.1.0,mdgilardi,MIT,55225,"Notifications for Payload: in-site notices, email copies people can turn off per kind, and a retrying send queue, with kinds registered by your own code or other plugins."
+2026-11-13T09:18:47.482Z,@vertep/dm-ecma,0.1.2,vpavlyshyn,MIT OR Apache-2.0,9638343,The ECMAScript datamodel for @vertep/web: a build of the Vertep worker with the boa engine
+2026-11-13T09:18:57.017Z,@arorms/ui,0.1.0,arorms,,80729,"arorms frontend design system: Calm Operator tokens, primitives, and app shell."
+2026-11-13T09:19:32.834Z,@vivix-labs/studio-workbench,0.0.0-stage,spike20778,,350,Temporary package placeholder for staged publishing
+2026-11-13T09:19:43.515Z,@extantape/payload-plugin-age-gate,0.1.2,mdgilardi,MIT,36597,"Age gate for Payload: a neutral birth month and year check at sign-up that stores only how long an account is a minor, from a table of ages by country, with a stay-blocked cookie and an ""are you an a…"
+2026-11-13T09:20:08.882Z,@zkpassport/aztec,0.1.0-beta.0,saleel,Apache-2.0,1092205,"TS companion for the ZKPassport Aztec verifier library: the registry artifact and its PXE registration, proof, disclose and sanctions capsule assembly, and disclosed-data parsing"
+2026-11-13T09:20:18.351Z,spflea,0.1.0,stefanjelner,ISC,135083,spFlea (Static Pages Flea) is a superdupertiny flea size zero config static site generator for static pages
+2026-11-13T09:21:08.207Z,@extantape/payload-plugin-audit-trail,0.1.0,mdgilardi,MIT,109291,"Tamper-evident audit trail for Payload: who changed which fields, from where and through whom, never the values, hash-chained per record and sealed across the site, with a verify that reports any bre…"
+2026-11-13T09:21:35.021Z,@extantape/payload-plugin-color-theory,0.1.0,mdgilardi,MIT,86653,"Color Theory for Payload: build site and admin themes from color harmonies (complementary, triadic, tetradic and more), with contrast checked in light and dark, an Auto, Light and Dark switch, and JS…"
+2026-11-13T09:21:41.201Z,@pmate/merry-scheduler,1.0.1,ramroll,UNLICENSED,15940,Independent authenticated Agent schedule management; no Runtime required
+2026-11-13T09:21:54.128Z,@extantape/payload-plugin-docs,0.1.0,mdgilardi,MIT,38346,"Docs for Payload: a docs page for every feature your site lists, made and kept up to date by hook, with hand-written pages beside them, a publish-time lint for internals, and a check that nothing is…"
+2026-11-13T09:22:11.126Z,@altair571/nvr,1.0.1,altair571,UNLICENSED,674607,"Vigil — a self-hosted network video recorder for Scrypted: continuous recording, a thermal-style activity timeline, detection events, notifications and a daily brief."
+2026-11-13T09:22:28.677Z,@extantape/payload-plugin-events,0.2.0,mdgilardi,MIT,119731,"Events for Payload: events and their dates, with repeat rules in the event's timezone, near-me search, appearances, merge and split, and calendar files."
+2026-11-13T09:22:46.423Z,zmg-unibiz-admin,0.1.0,charles.cnhz,,4786,zmg-unibiz-admin——z-mcp 运营侧统一 MCP 服务（admin 实例 288 工具：ugc/audit/tribe/transcode/aps/testra 六域）接入 DeepSeek Harness
+2026-11-13T09:22:50.007Z,zmg-unibiz-user,0.1.0,charles.cnhz,,4285,zmg-unibiz-user——z-mcp 用户侧统一 MCP 服务（user 实例 28 工具：创作者 my 系列会话圈定）接入 DeepSeek Harness
+2026-11-13T09:22:54.876Z,@extantape/payload-plugin-hats,0.1.5,mdgilardi,MIT,84301,"Linked accounts and role hats for Payload: one person switches between their approved accounts, and acts in one role at a time, with a second factor before switching up."
+2026-11-13T09:23:10.905Z,@noverax/courier-tanstack-start,0.5.0,vgevorgyan,MIT,58650,"TanStack Start adapter for Courier: server routes that proxy typed calls to any backend, with the user's session in server functions, loaders and routes"
+2026-11-13T09:23:26.12Z,@noverax/courier-docs,0.5.0,vgevorgyan,MIT,1488063,"Courier's documentation for the version a project installs, as Markdown an editor's agent reads offline — one file a page, an index of them all and a manifest of their sections — and as an MCP server…"
+2026-11-13T09:24:21.83Z,@greenloom-ai/weft,0.0.1,greenloom-npm,UNLICENSED,2293788,"Weft: Greenloom's design system. React components, tokens and Tailwind v4 theme."
+2026-11-13T09:24:39.989Z,@meybj/vue-persian-calendar,2.0.0,meybj,MIT,325961,Modern Persian (Jalali) and Gregorian DatePicker & Date Engine for Vue 3.4/3.5+ and Nuxt 3/4+
+2026-11-13T09:25:02.453Z,diy-vue-liquid-glass,0.1.0,zhuyingjun,MIT,50095,iOS 26 Liquid Glass 的 Vue 3 组件封装 —— Tabbar / Switch / 玻璃容器开箱即用，基于 apple-liquid-glass-webgl 的 WebGL2 真实折射
+2026-11-13T09:25:02.892Z,@brissoto/pay,1.3.4,heyama,MIT,39935,"Brissoto Pay for apps: create payments, read them, cancel them and verify webhooks."
+2026-11-13T09:25:07.576Z,@brissoto/pay-react-native,1.4.5,heyama,MIT,1004645,Brissoto Pay for Expo and React Native apps: the payment sheet.
+2026-11-13T09:25:46.726Z,@sparkore/module-sdk,0.1.0,sparkon,Apache-2.0,183675,SDK for building external Sparkore Hub modules.
+2026-11-13T09:25:49.322Z,@sparkore/ui-kit,0.1.0,sparkon,Apache-2.0,17280,Design tokens for Sparkore Hub module interfaces.
+2026-11-13T09:25:51.989Z,@sparkore/module-test-kit,0.1.0,sparkon,Apache-2.0,35226,Test harness for external Sparkore Hub modules.
+2026-11-13T09:25:55.06Z,@sparkore/module-cli,0.1.0,sparkon,Apache-2.0,27871,Development CLI for Sparkore Hub modules.
+2026-11-13T09:25:57.662Z,@sparkore/create-sparkore-module,0.1.0,sparkon,Apache-2.0,49690,Scaffold an external Sparkore Hub module.
+2026-11-13T09:26:17.638Z,@wtf/project-typescript,1.0.0,mikaelkaron,MIT,6180,"The shared TypeScript configs a package extends: ./base, ./strict for a library, ./test for what tests add, and ./bundler for code a bundler compiles. Each resolves the workspace's packages to their…"
+2026-11-13T09:26:21.263Z,@wtf/project-oxlint,1.0.0,mikaelkaron,MIT,6021,"The shared oxlint config (./config): the typescript, unicorn and import plugins, correctness rules as errors, suspicious and perf rules as warnings, and import cycles, loose equality and explicit any…"
+2026-11-13T09:26:24.199Z,@wtf/project-oxfmt,1.0.0,mikaelkaron,MIT,4209,"The shared oxfmt config (./config): 100 columns, single quotes, no semicolons and no trailing commas."
+2026-11-13T09:26:28.634Z,@wtf/project-vite,1.0.0,mikaelkaron,MIT,23548,"The base Vite config every Vite config in a workspace starts from (./config): baseConfig(), which a vite.config, a Storybook's viteFinal and @wtf/project-vitest's configs start from with Vite's merge…"
+2026-11-13T09:26:33.012Z,@wtf/project-vitest,1.0.0,mikaelkaron,MIT,104445,"The shared Vitest configs for a pnpm workspace: tests from source or, with TEST_FROM=dist, from the build, with coverage for either (./config); the environment for a process a test starts (./process)…"
+2026-11-13T09:26:36.682Z,@wtf/project-typedoc,1.0.0,mikaelkaron,MIT,49553,"The shared TypeDoc config for a docs package: the workspace's reference in markdown, with an llms.txt, each source linked to its file in the repository at a git revision (./config), and its plugins (…"
+2026-11-13T09:26:39.893Z,@wtf/project-resolve,1.0.0,mikaelkaron,MIT,170335,"A Node resolve hook that runs a repo's TypeScript from its source (./register): each workspace package resolves by its @wtf/source condition, and a relative import written ./x.js or ./x resolves to i…"
+2026-11-13T09:26:43.292Z,@wtf/project-wpt,1.0.0,mikaelkaron,MIT,183863,"Run a standard's Web Platform Tests against your implementation of it in Vitest: check out the WPT at a pinned commit, sparse and cached (./checkout); run each testharness.js file in a realm, a node:…"
+2026-11-13T09:26:47.245Z,@wtf/project-docs,1.0.0,mikaelkaron,MIT,312814,"Guides and API reference for the @wtf/project packages: the shared TypeScript, oxlint, oxfmt, Vite, Vitest and TypeDoc configs of a pnpm workspace, the resolve hook that runs its TypeScript from sour…"
+2026-11-13T09:26:57.274Z,@vamdawn/dsh-sidebar-plus,0.5.0,vamdawn,MIT,119304,Sidebar Plus — tabbed session sidebar for DeepSeek Harness: a Workspaces tab and a status-grouped Sessions tab
+2026-11-13T09:27:15.121Z,@dofy/native-emoji-motion,0.1.0,dofy,MIT,186747,"Expressive, extensible animations for native emoji with optional SVG effects"
+2026-11-13T09:27:19.745Z,nousty,1.0.0-rc.0,nousantx,MIT,112205,A powerful and extensible utility-first css framework engine
+2026-11-13T09:27:40.338Z,@vivix-labs/short-drama-workbench,0.0.0-stage,spike20778,,355,Temporary package placeholder for staged publishing
+2026-11-13T09:27:43.272Z,dsh-trusted-local,0.1.2,alan6643wk,MIT,40409,"Adopt a trusted reverse-proxied authority (Tailscale Serve, ssh -L, a local reverse proxy) as the local DSH client: loopback-shaped requests satisfy every plugin's loopback fence, and a host-mode gra…"
+2026-11-13T09:27:46.326Z,dsh-auto-compact,0.1.2,alan6643wk,MIT,92089,"Automatic context-pressure compaction for DSH: when a session's context usage crosses a configurable threshold, run the same compaction /compact runs, then continue."
+2026-11-13T09:27:49.195Z,dsh-phone-fix,0.1.2,alan6643wk,MIT,170711,"Surgical phone-width fixes for the stock DSH Web UI: the sidebar stops stealing the conversation's width, Settings becomes single-column, and the composer survives iOS."
+2026-11-13T09:27:54.519Z,dsh-openpencil-studio,0.1.2,alan6643wk,MIT,317936,"Own the OpenPencil integration in DSH: the agent drives the engine's 172-tool MCP server, and the right sidebar hosts the real editor for human review and self-edit. Depends on the OpenPencil engine…"
+2026-11-13T09:28:03.107Z,@alan6643wk/dsh-remote-desktop,0.1.2,alan6643wk,MIT,256319,"Self-hosted remote-screen pane for the DSH Web GUI: a right-sidebar tab that streams and controls the host desktop through pluggable per-OS backends (macOS ScreenCaptureKit today, Linux/X11 MIT-SHM n…"
+2026-11-13T09:28:13.698Z,@extantape/payload-plugin-kitting,0.2.1,mdgilardi,MIT,305080,"Kitting for Payload: track supplies, and optionally build multi-part products (kits) from them, for anyone from a café to a genomics lab. Suppliers, stock from an append-only log, recipes that use st…"
+2026-11-13T09:28:15.854Z,dsh-media-viewer,0.1.2,alan6643wk,MIT,121352,"Streaming audio/video preview for the DSH Web GUI: a Range-capable host route plus right-sidebar players that stream media instead of downloading it, so a remote device never holds the whole file."
+2026-11-13T09:28:36.705Z,@meshtour/core,0.1.0,thhh31,MIT,1847512,"Framework-agnostic engine for mesh-backed photorealistic virtual tours: equirectangular panoramas projected onto an invisible proxy mesh, with parallax-correct walking transitions, object-aware inter…"
+2026-11-13T09:28:46.555Z,@extantape/payload-plugin-masq,0.1.1,mdgilardi,MIT,61972,"Masquerade for Payload: admins sign in as another user, read-only, to see what they see, with a banner, a one-hour session, an admin-only user search and audit hooks."
+2026-11-13T09:28:49.518Z,@meshtour/react,0.1.0,thhh31,MIT,404252,React components and hooks for MeshTour mesh-backed virtual tours.
+2026-11-13T09:29:13.41Z,@pro-acc/ui,0.0.1,olcan29,UNLICENSED,2438207,"Pro-Acc reusable Nuxt UI: Field inputs, shared ERP components and optional POS interfaces"
+2026-11-13T09:29:20.475Z,@extantape/payload-plugin-membership,0.1.3,mdgilardi,MIT,64937,"Memberships for Payload: Patreon-style tiers or pick-your-own-amount pledges to categories, billed as Stripe subscriptions, with a backers wall and hooks for perks."
+2026-11-13T09:29:38.928Z,@extantape/payload-plugin-menu,0.1.1,mdgilardi,MIT,26496,"Menus for Payload: drag-and-drop links, dropdowns and section headings, optional icons or emoji, alphabetical order in each visitor’s language, and visibility per entry."
+2026-11-13T09:30:08.837Z,@extantape/payload-plugin-mfa,0.1.0,mdgilardi,MIT,79937,"MFA for Payload (two-step sign-in): an authenticator code after the password, with email and recovery codes as backups, each used once, rate limited per account, and required by a rule you set."
+2026-11-13T09:30:26.009Z,@extantape/payload-plugin-nested-docs-browser,0.2.2,mdgilardi,MIT,80548,"Nested Docs Browser for Payload: browse large hierarchies in pages that adapt to how much is inside, with Show all on every shortened view, an A-Z index and saved groups over the tree."
+2026-11-13T09:30:58.434Z,@extantape/payload-plugin-polyglot,0.3.0,mdgilardi,MIT,95005,"Translation for Payload: keeps content in every language, a little at a time, translating on publish and in a sweep, remembering every sentence, and never overwriting a human-reviewed translation."
+2026-11-13T09:31:37.057Z,@extantape/payload-plugin-printify,0.2.2,mdgilardi,MIT,59294,"Printify for Payload: print-on-demand for Payload’s ecommerce plugin, with product sync, order fulfillment and tracking, and optional price write-back."
+2026-11-13T09:32:29.964Z,@upupming/react-webpack-plugin,0.15.1-genui.20261113.1,upupming,Apache-2.0,142126,A webpack plugin for ReactLynx
+2026-11-13T09:32:38.875Z,ahfh-mcp,1.0.0,ahuman4hire,MIT,10744,"Hire a real human over x402 (USDC, Solana). Catalog, quotes, payment signing, and the task lane for A Human For Hire."
+2026-11-13T09:33:02.37Z,@extantape/payload-plugin-roadmap,0.4.2,mdgilardi,MIT,66398,"Roadmaps for Payload: public roadmap and voting, with items in curator-set stages, one vote per person per item, deduplicated requests and parent grouping."
+2026-11-13T09:33:16.439Z,@extantape/payload-plugin-roles,0.1.1,mdgilardi,MIT,15520,"Roles for Payload: per-site role ladders (Member, Author, Curator, Administrator) for multi-tenant sites, plus add-on and platform roles, per-site role names and access helpers."
+2026-11-13T09:33:39.801Z,@extantape/payload-plugin-seed,0.4.1,mdgilardi,MIT,219002,"Seed for Payload: realistic test data at scale, written with Claude"
+2026-11-13T09:33:42.721Z,infra3d,0.1.0,surfacescratcher,MIT,92204,"Navigable 3D view of IT infrastructure for React: hosts, networks, containers and endpoints as stacked layers, with dependency and impact highlighting."
+2026-11-13T09:33:46.016Z,infra3d-import-compose,0.1.0,surfacescratcher,MIT,44910,Builds an infra3d topology from Docker Compose files (plain stack directories or an Ansible inventory).
+2026-11-13T09:33:50.275Z,@upupming/lynx-bundle-rslib-config,0.8.1-genui.20261113.1,upupming,Apache-2.0,66906,The rsbuild config for building Lynx bundle
+2026-11-13T09:34:00.106Z,@upupming/react-rsbuild-plugin,0.22.2-genui.20261113.1,upupming,Apache-2.0,227866,A rsbuild plugin for ReactLynx
+2026-11-13T09:34:01.986Z,@extantape/payload-plugin-signup,0.1.1,mdgilardi,MIT,90029,"Sign-up for Payload: open, approval, invite-only or closed, switched in the admin. Requests are verified by email and wait as disabled accounts for an approve or decline, with no account enumeration."
+2026-11-13T09:34:54.4Z,html-highlighter-web,0.1.1,anjaneykumar7,MIT,50811,"Persistent, multi-colour text highlighting for HTML in web pages, with React and Next.js bindings. Same saved format as the html_highlighter Flutter package."
+2026-11-13T09:37:13.651Z,ksef-pdf-generator,1.0.0,swojakowski,MIT,2679894,"Node.js PDF visualisations of KSeF invoices (FA(1), FA(2), FA(3), FA_RR, PEF) and UPO in Polish and English, based on the official CIRFMF/ksef-pdf-generator"
+2026-11-13T09:37:37.913Z,dsh-lingjige-base,0.4.3,eden_889966,,475668,澳觅协作空间、灵机阁桌面登录授权、公共业务桥接及独立个人钉钉待办。
+2026-11-13T09:37:53.239Z,@aalis/api-events,0.1.0,acenyan,MIT,11060,事件契约：events 服务描述符、监听器签名与 AalisEvents 扩展点（默认提供者 @aalis/plugin-events）
+2026-11-13T09:38:00.623Z,@aalis/api-host-restart,0.1.0,acenyan,MIT,6665,宿主重启契约：host-restart 服务描述符（请求宿主重启，可带新实例没接管时的回滚凭据）
+2026-11-13T09:38:14.183Z,@idmvalley/gateway,0.1.0,idmvalley,MIT,133297,"Node.js client for the IDM Gateway key API: create prepaid keys, top them up, switch them off and revoke them."
+2026-11-13T09:38:35.416Z,@aalis/plugin-events,0.1.0,acenyan,MIT,11641,事件总线：events 服务的默认提供者
+2026-11-13T09:38:38.788Z,@e2e-dev/browser-run,0.0.0,okwasniewski,Apache-2.0,27550,Cloudflare Browser Run hosted Chromium for e2e web targets
+2026-11-13T09:38:44.188Z,@zerolabz/quantum-edge,1.0.0,zerolabz,Apache-2.0,337822,"Zero-trust P2P mesh network and AI orchestration platform featuring WebRTC DataChannels, Auto-Heal triggers, and ML-DSA integration."
+2026-11-13T09:39:32.129Z,@wopee-io/init,1.0.0,marcel-veselka,MIT,44045,Connect a repository and its AI coding agents to Wopee.io: writes a git-ignored .env and a key-free wopee-mcp entry for each agent.
+2026-11-13T09:39:47.04Z,@nocobase/app-cli-distribution,0.1.0-beta.0,chenos,Apache-2.0,104903,Composable server-side CLI artifact distribution and installation.
+2026-11-13T09:40:23.017Z,@civ-clone/base-zone-of-control,0.1.0,dom111,MIT,19618,"A zone of control criterion for move actions: which movers it applies to, which neighbouring units exert it and which moves are exempt are the ruleset's."
+2026-11-13T09:42:21.492Z,@dsh-work-plugin/skills,0.1.1,silverze,MIT,24250,"Bundled work skills provider for DSH Work: research, weekly report, meeting minutes, data analysis, presentation deck, and document polish."
+2026-11-13T09:42:27.717Z,@dsh-work-plugin/feishu,0.1.1,silverze,MIT,160258,"Feishu (Lark) OAuth, OpenAPI client, and model-facing tools for DSH Work."
+2026-11-13T09:42:30.868Z,@dsh-work-plugin/host,0.1.1,silverze,MIT,281564,"DSH Work host services: work tasks, artifact library, schedule binding, and notifications."
+2026-11-13T09:42:33.169Z,@dsh-work-plugin/client,0.1.1,silverze,MIT,166394,"DSH Work client plugins: workbench panel, artifact library, and Feishu settings for the web UI."
+2026-11-13T09:42:35.35Z,@dsh-work-plugin/bundle,0.1.1,silverze,MIT,20339,"DSH Work bundle: composes the work profile with task services, Feishu tools, the workbench client panel, and bundled work skills."
+2026-11-13T09:43:17.212Z,claude-code-saver,1.1.0,rehmanshahprocoder,MIT,38188,"Stop hitting your Claude Code usage limit. Cuts token use ~50-80% with a 150k auto-compact window, per-project memory that survives /clear, Sonnet subagents and a usage audit. One command: npx claude…"
+2026-11-13T09:43:39.769Z,gik-service-providers,0.1.0,nsreehari,MIT,72814,Individually imported host-managed scheduler and Gmail providers for GIK.
+2026-11-13T09:45:16.222Z,@arco-themes/vue-ticket,0.0.1,arcodesign-bot,MIT,709338,Powered By [ArcoDesign](https://arco.design/)
+2026-11-13T09:46:27.999Z,@temboplus/mailer,0.1.0,bentesha,UNLICENSED,37708,Client for the TemboPlus mailer API
+2026-11-13T09:47:08.751Z,@adport/provider-analytics,0.9.0,ynnickw,Apache-2.0,50706,Read-only Google Analytics 4 and Search Console providers for adport
+2026-11-13T09:47:35.273Z,dsh-update-hub,0.1.0,yonan1269,MIT,91366,"批量更新 DSH 插件：左侧栏常驻图标显示待更新数量，点开是列表、进度与单条/全部更新。走 pnpm 安装侧、不经过桌面端的「移除在跑的插件」校验，所以在用的插件也能装上；支持启动时检测、定时检测与空闲自动更新。｜Batch-update DSH plugins from a permanent sidebar icon with a pending-count badge: list, rea…"
+2026-11-13T09:48:09.067Z,chatluna-plugin-mc-toolbox,0.0.1,arrog1nt,MIT,122387,Minecraft 工具箱：服务器状态查询、玩家信息查询与 Java 版更新播报，支持文字或图片输出
+2026-11-13T09:48:19.9Z,@adport/provider-gtm,0.9.0,ynnickw,Apache-2.0,46195,Google Tag Manager API provider for adport
+2026-11-13T09:48:59.783Z,@gql.tada/content-mapper,0.0.0,jdecroock,MIT,202392,TypeScript 7.1+ content mapper that types .graphql files with gql.tada.
+2026-11-13T09:49:46.499Z,@blod-nm/1kuan-act-01,0.1.0,desfer,MIT,55137,1kuan 运营 CLI：apikey 登录，红包列表 / 发放 / 分享（走 /api/act-01/apikey-manage）。
+2026-11-13T09:51:44.207Z,@yuxhangz/dsh-session-manager,0.1.15,yuxhangz,MIT,118343,"Nested session folders in the DSH sidebar: folders, tags, and activity counts you can click to jump."
+2026-11-13T09:51:47.811Z,hassan-301-skill-verification-js-sdk,26.317.600,hassan-301,MIT,988604,USE DEMO TO TEST SKILL
+2026-11-13T09:54:15.595Z,peel-and-stick,0.1.0,sanjanasogimatt,MIT,229453,"Realistic peel-and-stick stickers for React. Peel them off a glossy backing, stick them anywhere on the page, and peel them again."
+2026-11-13T09:54:25.195Z,@jybk/pptb-data-dictionary-builder,1.0.0,jybk,MIT,87347,"Paste a model-driven app form or view URL and get a data dictionary of the fields on it, in order of appearance, grouped by tab and section."
+2026-11-13T09:54:43.758Z,dsh-todo-folders,0.1.0,wshjw1203,MIT,52306,"Todo panel for the DeepSeek Harness Web UI: nested folders, due dates, search, and local saving. · DSH Web 侧栏待办面板：文件夹收纳、到期日期、查询与本地保存。"
+2026-11-13T09:55:00.496Z,@mr-prog/liquid-glass,0.2.7,mr-prog,MIT,2179826,High-performance Liquid Glass optical renderer with Snell's law refraction and chromatic dispersion by MR PROG.
+2026-11-13T09:55:09.658Z,@smartsentinels/agent-shield,0.1.0,cookie-dev,MIT,290097,"Agent Shield: post-quantum signed and encrypted jobs and results for AI agents (ML-DSA-65 signatures and X-Wing key exchange, built on Entropic Vault)."
+2026-11-13T09:55:20.012Z,@ohos-ports/o3r-amaterasu-api-spec,13.5.4-beta.1,ljry,BSD-3-Clause,15499,Commands relative to the Digital Apis
+2026-11-13T09:56:47.731Z,@discodeck/vlc-js,0.0.1,queenkjuul49,,105059812,This is an **EXPERIMENTAL** NPM package based around [my fork](https://github.com/queekjuul/vlc.js) of [Alaric Senat's fork](https://code.videolan.org/asenat/vlc.js) of [the original VLC.js project b…
+2026-11-13T09:56:49.681Z,@meta2d/drawir,1.0.0,anzhusen,MIT,59895,"Vector IR (DrawIR) for meta2d.js: path / text / hatch / ref items and builders, shared by core and format parsers (DXF, Visio...)."
+2026-11-13T09:57:01.828Z,maodie-pet,0.3.10,edward20001023,MIT,10958249,橘猫桌宠素材包（30 个透明动作）for dsh-pet；支持带 hash 校验的增量更新，不会覆盖你改过的素材和配置
+2026-11-13T09:57:12.591Z,pi-todos,0.1.1,umbra2728,MIT,73340,"Incremental session-native todo tracking for Pi with lifecycle actions, dependencies, replay, and a live overlay."
+2026-11-13T09:57:14.698Z,@heartlandone/vega-vue-sandbox-pr-3360-55babe6285ea2e951b90c6f54637cb5a3ebf4537,2.110.1,aprilzhu,UNLICENSED,147925,Vue specific wrapper for @globalpayments/vega
+2026-11-13T09:57:19.462Z,@heartlandone/vega-angular-sandbox-pr-3360-55babe6285ea2e951b90c6f54637cb5a3ebf4537,2.110.1,aprilzhu,UNLICENSED,2042883,Angular specific wrapper for @globalpayments/vega
+2026-11-13T09:57:21.371Z,@heartlandone/vega-react-sandbox-pr-3360-55babe6285ea2e951b90c6f54637cb5a3ebf4537,2.110.1,aprilzhu,UNLICENSED,107641,React specific wrapper for @globalpayments/vega
+2026-11-13T09:57:28.319Z,glassform,0.0.1,satyashri,MIT,1353034,"Liquid glass React components — refraction, specular light, and springy motion."
+2026-11-13T09:57:29.078Z,@heartlandone/vega-sandbox-pr-3360-55babe6285ea2e951b90c6f54637cb5a3ebf4537,2.110.1,aprilzhu,UNLICENSED,39845978,Vega - the design system of Global Payment Systems
+2026-11-13T09:57:50.958Z,@meta2d/math,1.0.0,anzhusen,MIT,36029,"2D geometry for meta2d.js: affine matrices, bounding boxes, arcs, NURBS. Zero dependencies."
+2026-11-13T09:59:25.962Z,dsh-mianyin-cat-queen,1.0.5,edward20001023,MIT,65240598,缅因猫桌宠素材包（28 个透明动作 + 睡觉循环 + 13 张表情）for dsh-pet；增量安装，不覆盖你改过的素材和配置
+2026-11-13T09:59:26.402Z,dsh-diy-workflow,0.2.0,monster_harryc,MIT,62409,将成功任务提炼为可复用工作流，支持本地保存、参数化执行和 JSON 导入导出。
+2026-11-13T10:00:45.965Z,entrify-deploy,1.2.0,kpndevrootentri,,75212,Deploy to Entrify from the terminal or with the Claude Code /deploy skill
+2026-11-13T10:01:33.197Z,@madeenan/sdk,0.1.0,madeenan,MIT,65447,"Typed TypeScript client for the Madeenan Quran and Hadith API: source search, Quran, Hadith, Tafsir, and dua lookups, quote search, and cited chat."
+2026-11-13T10:01:51.235Z,@vertep/web,0.1.2,vpavlyshyn,MIT OR Apache-2.0,9939535,"Vertep statecharts as durable actors in browsers and Node.js: SCXML semantics, typed events and a time-travelling journal, running in a worker"
+2026-11-13T10:01:59.731Z,@ohos-ports/nuxt-vite-builder-edge,3.8.0-28284309.b3d3d7f4-beta.0,ljry,MIT,72536,Vite Bundler for Nuxt (ohos-ports port: esbuild and vite dependencies replaced with @ohos-ports builds for openharmony/arm64)
+2026-11-13T10:02:31.462Z,json-inspector-pro-workspace,1.1.1,pranavthawait,,52009,"A lightweight JavaScript toolkit for inspecting, searching, comparing, validating, and transforming JSON data."
+2026-11-13T10:02:35.108Z,dsh-theme-paper-warm,0.1.0,factyy,MIT,34315,"Warm paper theme for the DeepSeek Harness Web GUI (canvas #F2F0E5, ink #100F0F), registered as a selectable third-party theme with its own Appearance toggle row."
+2026-11-13T10:02:35.629Z,miantiao.me,0.1.0,ccbikai,Apache-2.0,65205,在终端浏览 miantiao.me，与面条的 AI 助手对话。
+2026-11-13T10:02:49.806Z,@todoist/integrations-common,3.0.0,scottatdoist,,33854,Common utilities for integrations written with Typescript.
+2026-11-13T10:04:45.186Z,@zmnatz/usa-club-rugby-html,0.0.0-test.0,zmnatz,MIT,70822,"React components that render plain HTML and one stylesheet for USA Club Rugby NCS eligibility: the club directory, eligibility report and player detail, for any app using @zmnatz/usa-club-rugby-data."
+2026-11-13T10:05:05.534Z,@madeenan/react,0.1.0,madeenan,MIT,39008,Accessible Madeenan citation and evidence components for React
+2026-11-13T10:05:09.191Z,@madeenan/react-native,0.1.0,madeenan,MIT,31465,Accessible Madeenan citation and evidence components for React Native
+2026-11-13T10:06:22.818Z,@ondai/tokens,0.1.0,shahwb,MIT,161769,"Design tokens for Ondai: themes, accents, type, spacing, motion. Works on iOS, Android and web."
+2026-11-13T10:06:25.034Z,@ondai/core,0.1.0,shahwb,MIT,150772,"On-device AI runtime for React Native: capability router, availability, hooks, small-model helpers and a scripted mock provider."
+2026-11-13T10:06:27.025Z,ondai,0.1.0,shahwb,MIT,24755,Add AI components that run on the device's own foundation model to your app. npx ondai add command-bar
+2026-11-13T10:06:34.09Z,@cashiar/theme-sections,0.1.0,cashiar,MIT,586375,"The sections Cashiar's store themes share: the common sections, the shop sections most themes build on, and the helpers they share. Written with @cashiar/theme; shipped as source, which the theme's V…"
+2026-11-13T10:06:45.301Z,@tinchu0/knitt,0.1.0-beta.1,tinchu0,Apache-2.0,126781,Shared conversation memory for coding agents
+2026-11-13T10:06:46.971Z,dsh-compaction-selective,0.1.8,derek1018,MIT,170920,"Human-directed selective compaction for DeepSeek Harness: fold an explicitly requested span of earlier turns (recent or arbitrary) into one summary, with a mandatory approval prompt and a fold-shaped…"
+2026-11-13T10:07:15.777Z,@vibe-tools.app/sightboard-core,0.1.0,darklong,UNLICENSED,159494,
+2026-11-13T10:07:33.823Z,tiny-plates,0.1.0,artmann,MIT,722929,"Clients for the Tiny Plates recipe API, with a plain Promise client and an Effect client."
+2026-11-13T10:07:49.101Z,@heavybit/ecommerce-contracts,0.2.1,nicholas.kute,MIT,449348,"The e-commerce app's shared contracts: app settings, identity and scope bindings, step-up scopes, event catalogue and v1 payload schemas. Built on @heavybit/shared-lib; no business logic."
+2026-11-13T10:07:51.21Z,@wtf/platform,0.0.0-placeholder.0,mikaelkaron,MIT,467,"A placeholder, so the package exists on npm before its first release by CI. Install a later version."
+2026-11-13T10:07:54.53Z,@wtf/platform-node,0.0.0-placeholder.0,mikaelkaron,MIT,477,"A placeholder, so the package exists on npm before its first release by CI. Install a later version."
+2026-11-13T10:07:59.001Z,@wtf/platform-browser,0.0.0-placeholder.0,mikaelkaron,MIT,483,"A placeholder, so the package exists on npm before its first release by CI. Install a later version."
+2026-11-13T10:08:01.856Z,@wtf/platform-memory,0.0.0-placeholder.0,mikaelkaron,MIT,481,"A placeholder, so the package exists on npm before its first release by CI. Install a later version."
+2026-11-13T10:08:04.189Z,@agentbadge/payments,0.1.0,spread-paul,MIT,130005,"Unified payment domain for AgentBadge — Product/Price/Payment/PaymentAttempt/PaymentReceipt entities, controlled status machines, provider interface, verification pipeline (pure TS, no I/O)"
+2026-11-13T10:08:04.841Z,@wtf/platform-fs,0.0.0-placeholder.0,mikaelkaron,MIT,473,"A placeholder, so the package exists on npm before its first release by CI. Install a later version."
+2026-11-13T10:08:07.864Z,@capybara-hq/plugin-memory,0.1.0-rc.0,zkit,Apache-2.0,238369,"Memory for agents: each agent remembers each member across conversations, with an index at run start, memory tools, hybrid search and a memory page"
+2026-11-13T10:08:07.886Z,@wtf/platform-fs-adapter,0.0.0-placeholder.0,mikaelkaron,MIT,489,"A placeholder, so the package exists on npm before its first release by CI. Install a later version."
+2026-11-13T10:08:12.949Z,@wtf/platform-fs-node,0.0.0-placeholder.0,mikaelkaron,MIT,483,"A placeholder, so the package exists on npm before its first release by CI. Install a later version."
+2026-11-13T10:08:16.962Z,@wtf/platform-fs-memory,0.0.0-placeholder.0,mikaelkaron,MIT,487,"A placeholder, so the package exists on npm before its first release by CI. Install a later version."
+2026-11-13T10:08:20.158Z,@wtf/platform-docs,0.0.0-placeholder.0,mikaelkaron,MIT,477,"A placeholder, so the package exists on npm before its first release by CI. Install a later version."
+2026-11-13T10:08:21.02Z,@byok-sdk/bot-collaboration,0.42.0,ancienttwo,MIT,1816214,"K8 Bot collaboration for BYOK Hosts: the local Host, the modules a Host composes, the pure rules and shared test vectors, on the K4 execution core."
+2026-11-13T10:08:23.422Z,@gitmyabi/pt-sw2rsweth-26sep2024,1.0.0,gitmyabi-bot,Apache-2.0,70622,"Auto-generated TypeScript type bindings for PT-sw2Rsweth-26SEP2024 (build etherscan-pt-sw2rsweth-26sep2024-23dbe2a7-1794564483605, commit fad0d61, branch etherscan)"
+2026-11-13T10:08:24.646Z,@ukitouch/api,0.0.1,seven_sec,,29898,Type definitions for ukitouch frontend extensions
+2026-11-13T10:10:18.013Z,@gitmyabi/ethgastokenlock,1.0.1,gitmyabi-bot,Apache-2.0,170174,"Auto-generated TypeScript type bindings for EthgasTokenLock (build etherscan-ethgastokenlock-516021aa-1794564600309, commit 742d86a, branch etherscan)"
+2026-11-13T10:11:13.912Z,ugreen-nas-mcp,0.1.0,vonsystem,MIT,148326,"Unofficial MCP server for managing your own UGREEN NAS from any MCP client, built on the official unc CLI"
+2026-11-13T10:11:22.094Z,ops-tune-workbench-plugin,0.0.1-beta.1,cannbench,MIT,2437914,算子调优工作台插件（dsh 底座）：工具桥（采集编排 / 产物导入 / verdict 判定 / 基线对比 / 技能入口）+ 可视化面板（结果列表 / 报告视图 / 采集配置）+ 内置 tool-ops-tune 技能
+2026-11-13T10:12:14.627Z,hyper-compress-linux-arm64,0.0.0,bentopdf,AGPL-3.0-only,35204,Placeholder that reserves the name; the Linux ARM64 engine binaries ship from 1.2.0.
+2026-11-13T10:12:26.938Z,@soujvnunes/ui,0.1.0,soujvnunes,MIT,7658,Unstyled React component skeletons that a product themes through CSS custom properties.
+2026-11-13T10:12:45.738Z,@ohos-ports/ns3-nx-core,5.6.0-beta.1,ljry,MIT,20120,Shared utility methods and repository generators.
+2026-11-13T10:12:47.07Z,session-story,0.6.0,nalaj,MIT,323150,"CLI behind the Session Story skill: turns a Claude Code session into one shareable HTML page, every prompt linked to the edits it caused."
+2026-11-13T10:13:18.298Z,@colinagent/dsh-mcp,0.1.0,colinagent,MIT,31570,"Directory-scoped MCP servers for DeepSeek Harness: read ~/.agents/mcp.json and <cwd>/.agents/mcp.json, mount per Agent so a workspace only gets the servers it declares."
+2026-11-13T10:13:29.448Z,csv-easy,0.1.0,adityakumar37,MIT,27815,"A lightweight, zero-dependency CSV parser for Node.js"
+2026-11-13T10:14:38.411Z,@adres/madhmoun-ui,0.0.0-stage,adres_npm,,340,Temporary package placeholder for staged publishing
+2026-11-13T10:14:54.156Z,ai-classroom-assistant-pro,0.0.1,wangxy11549,,35948917,课堂助手
+2026-11-13T10:16:26.583Z,@daily-ledger/shared,0.1.0,pankaj210891,MIT,5369,"Shared date, formatting, and domain helpers for Daily Ledger apps"
+2026-11-13T10:16:53.274Z,@daily-ledger/data,0.1.0,pankaj210891,MIT,7433,"Shared TanStack Query keys, hooks, and client defaults for Daily Ledger apps"
+2026-11-13T10:16:55.418Z,dsh-price-window,0.0.0-stage,bayan1377,,338,Temporary package placeholder for staged publishing
+2026-11-13T10:16:59.598Z,lms-redis,1.0.0,grumpy-dev,MIT,4780,A CommonJS Redis wrapper with shared connections and JSON cache helpers.
+2026-11-13T10:17:06.834Z,dsh-reports-panel,0.1.0,bayan1377,MIT,20077,"Reports feed in the DSH left sidebar: files from the «Отчёты» folder of the session workspace, opened with one click"
+2026-11-13T10:17:10.562Z,dsh-automation-log,0.1.0,bayan1377,MIT,25119,"Automations feed in the DSH left sidebar: recent schedule runs and local watcher events, click a row to open the chat it was delivered into"
+2026-11-13T10:17:20.271Z,dsh-voice-narrator,0.0.0-stage,bayan1377,,340,Temporary package placeholder for staged publishing
