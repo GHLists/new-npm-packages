@@ -1,0 +1,142 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-13T01:15:56.023Z,@nops-io/clara,0.1.1,jordanphstein,UNLICENSED,316575,Records repo-scoped engineering work and exports it to nOps.
+2026-11-13T01:16:09.287Z,@mikrio/node-darwin-x64,0.1.0,meltyshev,Apache-2.0,24736603,Native Node.js binding for mikrio (macos-x86_64)
+2026-11-13T01:16:10.373Z,@postkit/cli,0.3.0,ryanhefner,MIT,117599,"The postkit command: add kits and components, eject and diff views, scaffold components and write manifests"
+2026-11-13T01:16:16.362Z,@postkit/nx,0.3.0,ryanhefner,MIT,12208,An Nx plugin that scaffolds Postkit components with the same templates as postkit new
+2026-11-13T01:16:19.093Z,@threadedstack/wmd-darwin-arm64,0.1.13,lktipton,MIT,340292479,wmd 0.1.13 for macOS on Apple silicon: the programs and the arm64 guest (used by @threadedstack/wmd)
+2026-11-13T01:16:54.701Z,@threadedstack/wmd-web,0.1.13,lktipton,MIT,90644709,Browser host for wmd's guest vm.wasm (Web Workers + shared memory + WASI preview1)
+2026-11-13T01:16:57.985Z,@threadedstack/wmd,0.1.13,lktipton,MIT,5998,wmd: a Docker Engine API compatible daemon and CLI that runs Linux containers in WebAssembly
+2026-11-13T01:17:36.273Z,@renzo.johnson/google-chat-mcp,26.11.14,renzo.johnson,MIT,1144130,"Google Chat MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T01:18:31.9Z,@mikrio/node-linux-arm64-gnu,0.1.0,meltyshev,Apache-2.0,27280064,Native Node.js binding for mikrio (linux-arm64)
+2026-11-13T01:19:31.104Z,edge-rate-limiter,1.0.0,takao-dev,MIT,31873,"Zero-dependency sliding-window and token bucket rate limiter for Edge, Cloudflare Workers, and Node.js with Zero-PII anonymization."
+2026-11-13T01:19:34.122Z,edge-secure-token,1.0.0,takao-dev,MIT,42476,"Zero-dependency, timing-safe WebCrypto JWT suite for Cloudflare Workers, Edge, and Node.js with field-level claims encryption."
+2026-11-13T01:19:37.406Z,edge-session-crypto,1.0.0,takao-dev,MIT,45394,"Stateless encrypted cookie session manager for Edge, Cloudflare Workers, and Node.js with AES-GCM and key rotation. Zero runtime dependencies."
+2026-11-13T01:19:49.539Z,zero-pii-redactor,1.0.0,takao-dev,MIT,44851,"High-speed, ReDoS-free PII redactor, tokenizer, and pseudonymizer for logs, AI prompts, and Edge. Zero runtime dependencies."
+2026-11-13T01:19:49.604Z,@tuanmjnh/tm-ai-client,0.1.0,tuanmjnh,MIT,75626,"Provider-agnostic AI client: OpenAI-compatible chat, streaming, adapters and error normalization"
+2026-11-13T01:19:51.654Z,motedb-win32-x64-msvc,0.0.1-security,npm,,153,security holding package
+2026-11-13T01:20:55.902Z,@mikrio/node-linux-x64-gnu,0.1.0,meltyshev,Apache-2.0,27885188,Native Node.js binding for mikrio (linux-x86_64)
+2026-11-13T01:21:09.826Z,@sophiasales/nexora-form-controls,0.1.0,sophiasales,MIT,19056,Nexora Checkbox and Radio components
+2026-11-13T01:21:56.82Z,@vicacha-devs/strapi-plugin-opentelemetry,1.0.1,yusufmuysca,MIT,53700,Vendor-neutral OpenTelemetry error tracking and performance monitoring (APM) plugin for Strapi v5.
+2026-11-13T01:22:00.866Z,@the-40-thieves/reliquary-tc-native-linux-x64-gnu,2.0.1,suavecito,Apache-2.0,750629,"Native perf module for reliquary-tc — vector ops, BM25, sqlite-vec, V2 clustering hooks"
+2026-11-13T01:22:04.351Z,@the-40-thieves/reliquary-tc-native-linux-arm64-gnu,2.0.1,suavecito,Apache-2.0,770712,"Native perf module for reliquary-tc — vector ops, BM25, sqlite-vec, V2 clustering hooks"
+2026-11-13T01:22:07.658Z,@the-40-thieves/reliquary-tc-native-linux-x64-musl,2.0.1,suavecito,Apache-2.0,576393,"Native perf module for reliquary-tc — vector ops, BM25, sqlite-vec, V2 clustering hooks"
+2026-11-13T01:22:11.037Z,@the-40-thieves/reliquary-tc-native-linux-arm64-musl,2.0.1,suavecito,Apache-2.0,535756,"Native perf module for reliquary-tc — vector ops, BM25, sqlite-vec, V2 clustering hooks"
+2026-11-13T01:22:14.085Z,@the-40-thieves/reliquary-tc-native-darwin-x64,2.0.1,suavecito,Apache-2.0,656984,"Native perf module for reliquary-tc — vector ops, BM25, sqlite-vec, V2 clustering hooks"
+2026-11-13T01:22:17.029Z,@the-40-thieves/reliquary-tc-native-darwin-arm64,2.0.1,suavecito,Apache-2.0,662699,"Native perf module for reliquary-tc — vector ops, BM25, sqlite-vec, V2 clustering hooks"
+2026-11-13T01:22:21.166Z,@the-40-thieves/reliquary-tc-native-win32-x64-msvc,2.0.1,suavecito,Apache-2.0,330498,"Native perf module for reliquary-tc — vector ops, BM25, sqlite-vec, V2 clustering hooks"
+2026-11-13T01:22:24.384Z,@the-40-thieves/reliquary-tc-native-win32-arm64-msvc,2.0.1,suavecito,Apache-2.0,303885,"Native perf module for reliquary-tc — vector ops, BM25, sqlite-vec, V2 clustering hooks"
+2026-11-13T01:22:34.531Z,@the-40-thieves/reliquary-tc-native,2.0.1,suavecito,Apache-2.0,4614825,"Native perf module for reliquary-tc — vector ops, BM25, sqlite-vec, V2 clustering hooks"
+2026-11-13T01:22:49.506Z,@the-40-thieves/reliquary-tc-shared,2.0.1,suavecito,Apache-2.0,637393,Shared Zod schemas and types for reliquary-tc
+2026-11-13T01:24:26.849Z,com.amanotes.timemachine,1.0.0,thuandtamanotes,,26444,"A scheduler of time-ordered nodes, spans and markers for Unity and plain C#: one-shot actions that fire as time passes, spans that attach and detach around a time window, and markers whose values int…"
+2026-11-13T01:24:34.761Z,com.amanotes.spritetext,1.0.0,thuandtamanotes,,122187,"Sprite-based text: a shared SpriteFont maps characters to sprites and SpriteText places them edge to edge, for score and streak digits."
+2026-11-13T01:24:37.005Z,com.amanotes.streak,1.0.0,thuandtamanotes,,21880,Streak display and the perfect / great accuracy bands shared by Dancing Road and Tiles Hop.
+2026-11-13T01:24:39.05Z,com.amanotes.moodchange,1.0.0,thuandtamanotes,,19915,Day / night mood switch: tweens a hue over the child components listed in the inspector.
+2026-11-13T01:24:41.223Z,com.amanotes.profiler,1.0.0,thuandtamanotes,,23796,AmaDev profiler capture wiring for a gameplay scene.
+2026-11-13T01:24:43.299Z,com.amanotes.punchscale,1.0.0,thuandtamanotes,,4645,"Punch-scale effect: snap to a punch size, then ease back."
+2026-11-13T01:24:45.674Z,com.amanotes.depthsort,1.0.0,thuandtamanotes,,15957,DepthSortGroup: sorts a group of renderers by depth with a flat entry list.
+2026-11-13T01:24:47.793Z,com.amanotes.magictiles,1.0.0,thuandtamanotes,,15688,"Shared layout and measurement types of the scroll-tile games: tile layout info, touch latency estimate, death report, lane layout tween."
+2026-11-13T01:24:50.319Z,com.amanotes.launcher,1.0.0,thuandtamanotes,,90934,"Development launcher: a selector scene that fetches published levels, runs a game scene with the chosen song and returns to the selector."
+2026-11-13T01:24:52.448Z,com.amanotes.diagnostics,1.0.0,thuandtamanotes,,34698,"A standalone on-screen FPS, CPU and GPU frame-time readout. Needs no rhythm context and no settings panel."
+2026-11-13T01:24:55.1Z,com.amanotes.gamesettings,1.0.0,thuandtamanotes,,170845,"The in-game settings panel: quality rows (resolution, texture, shadow, anti-aliasing, fog, FPS, auto play), collapsible groups, and no-code event rows a game adds for itself."
+2026-11-13T01:25:05.275Z,@xcrap/xml-extractor,0.1.0,marcuth,MIT,28188,"Xcrap XML Extractor is a package of the Xcrap framework, it was developed to take care of the data extraction part of XML documents using XPath and declarative models, integrating with @xcrap/extract…"
+2026-11-13T01:25:18.131Z,@eagermindstech/mi-libreria,1.0.0,javierddn,MIT,731,Mi librería pública
+2026-11-13T01:26:44.061Z,@vixnegocios/vixzap-sdk,0.1.0,xjcanjos,MIT,170658,"SDK TypeScript oficial da API VixZap: instâncias, mensagens, fila, hub de webhooks, eventos e verificação de assinatura."
+2026-11-13T01:26:48.276Z,@renzo.johnson/google-forms-mcp,26.11.14,renzo.johnson,MIT,1126371,"Google Forms MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T01:27:15.972Z,@ralyoo/kit,0.1.0,azkanahyaa,MIT,104499,"Ralyoo 2D kit: text, scores, sprites, game time (wait, every, tween), players, and controller presets on top of @ralyoo/sdk. The compile target of Ralyoo Script."
+2026-11-13T01:27:17.704Z,capacitor-ios26-check,1.0.1,resp76,MIT,15133,Audit Capacitor iOS projects for iOS 26 scene and sync traps
+2026-11-13T01:27:19.71Z,@ralyoo/script,0.1.0,azkanahyaa,MIT,146924,"Ralyoo Script: compiles .yoo game scripts to plain JavaScript on top of @ralyoo/kit, at build time."
+2026-11-13T01:27:28.296Z,pi-free-bridge,0.5.0,deury08,MIT,256778,Free-models-only OpenCode provider for Pi. Registers only OpenCode's anonymous free tier under the oc-sdk-zen provider id and injects the gate header contract itself.
+2026-11-13T01:27:30.566Z,@vixnegocios/vixzap-mcp,0.1.0,xjcanjos,MIT,30548,"Servidor MCP do VixZap: deixa Claude, ChatGPT e outros agentes enviarem mensagens de WhatsApp, lerem conversas e verificarem números pela sua conta."
+2026-11-13T01:27:56.928Z,@vixnegocios/n8n-nodes-vixzap,0.1.0,xjcanjos,MIT,33360,"Nó do n8n para o VixZap (API de WhatsApp): gatilho com webhook assinado e ações de envio, instâncias e verificação de número."
+2026-11-13T01:28:01.416Z,agent-skill-vet,1.0.1,resp76,MIT,11905,Safety-scan agent skills before installation
+2026-11-13T01:30:09.594Z,@gitmyabi/aethxaut,1.0.0,gitmyabi-bot,Apache-2.0,197210,"Auto-generated TypeScript type bindings for aEthXAUt (build etherscan-aethxaut-8a2b6f94-1794533389154, commit 8fc22b1, branch etherscan)"
+2026-11-13T01:31:56.285Z,@em-tech/mi-libreria,1.0.0,javierddn,MIT,724,Mi librería pública
+2026-11-13T01:32:04.148Z,@rlevin/uirig,0.1.0,rlevin,MIT,340969,The first line of defense for AI-generated UIs and Web Components.
+2026-11-13T01:32:31.194Z,design-review-skill,0.1.0,gabocipriano,MIT,42956,"Capture and compare CLI for the design-review agent skill: screenshots, style measurements and a live before/after proposal page."
+2026-11-13T01:33:25.538Z,@box/pdfjs-dist,6.4.299-box.1,box-npm,Apache-2.0,34913861,Box build of Mozilla's PDF.js library.
+2026-11-13T01:35:23.55Z,@hakistack/ng-daisyui,0.3.0,josedr120,MIT,26190001,Angular UI components built with DaisyUI and Tailwind CSS
+2026-11-13T01:35:26.207Z,@hakistack/i18n,0.1.0,josedr120,MIT,191357,"TypeScript-first, build-time-generated, type-safe i18n layer for Angular on top of Transloco. Author translations in .ts, get typed keys and JSON for free."
+2026-11-13T01:35:36.32Z,@boxxy/verifier-wringer,0.2.4,geoffwhatley,MIT,8416,boxxy's verifier on wringer: reads the verify gate check and the report in a pull request
+2026-11-13T01:35:56.74Z,@codaandclay/kiln,0.1.0,codaandclay,MIT,303036,"Fire a marketing site in the kiln: Claude and Codex audit every page, argue to consensus, grade it, and write an HTML report."
+2026-11-13T01:36:05.157Z,@praagney/elix,0.2.8,praagney,MIT,2114523,Connect an explicitly exposed local coding workspace to the Elix MCP relay.
+2026-11-13T01:36:05.178Z,demonkingoffcial-baileys,1.0.0,lexzymodsxiniochmay,MIT,34091,VamTzy/Baileyss — Baileys 7.0.0-rc14 with VamTzy runtime helpers and non-recursive upstream dependency alias.
+2026-11-13T01:37:11.237Z,mont-forge-pipeline,0.1.1,royrao,MIT,31607,Mont Forge 开发流水线：把 45 个工程技能编排成覆盖 spec→plan→build→verify→review→ship 全流程的 9 个可调用工具。
+2026-11-13T01:37:38.708Z,@divlet/web,0.0.1,llblab,MIT,509193,"The divlet browser board, static client assets and transport-free host ports"
+2026-11-13T01:38:00.478Z,@pecot/workflow-mcp,5.0.0,kohei0831,MIT,1107737,pecot-workflow MCP server (standalone distribution)
+2026-11-13T01:38:31.195Z,dsh-desk-todo,2.0.2,astryve,MIT,147148,DSH 桌面待办挂件：Electron 透明窗口（找不到 Electron 时自动退回 WPF），到点弹窗 + 提示音提醒。
+2026-11-13T01:38:47.276Z,@renzo.johnson/google-business-profile-mcp,26.11.14,renzo.johnson,MIT,1144632,"Google Business Profile MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T01:40:59.107Z,markspot,0.0.1,adryserage,Apache-2.0,521,"Markspot : annotation visuelle de pages web pour Claude Code. Nom réservé, la première version arrive bientôt."
+2026-11-13T01:41:11.255Z,mlai-code,0.3.1,shubham015,UNLICENSED,2561981,"ML AI Code in your terminal: an agent that reads, edits and runs code in your project, on your machine."
+2026-11-13T01:42:12.283Z,ferri-pdf,0.1.12,jaydenasmith,MIT AND (Apache-2.0 OR MIT) AND Unicode-3.0 AND CC0-1.0 AND Bitstream-Vera AND LicenseRef-Arev AND…,30895698,"HTML and CSS to PDF renderer for print, in pure Rust compiled to WebAssembly, for browsers and Node"
+2026-11-13T01:42:23.584Z,@weapp-container/sdk-contract,0.1.0-preview.7.0,icebreaker,Apache-2.0,128529,Public embedding contracts and verified runtime artifact tooling; no runtime implementation
+2026-11-13T01:42:32.3Z,top-100-agent-skills,1.2.0,sayed_gamea,MIT,458469,دليل أفضل 100 مهارة ذكاء اصطناعي مفتوحة المصدر - Top 100 Open Source Agent Skills with Daily GitHub Leaderboard and Prompts
+2026-11-13T01:43:36.519Z,@induction/pi-induction,0.1.0,maxsiq,MIT,794878,A context-compression extension for Pi that runs Induction Subset on tool results before the model sees them.
+2026-11-13T01:44:06.395Z,@gitmyabi/lxau,1.0.0,gitmyabi-bot,Apache-2.0,122415,"Auto-generated TypeScript type bindings for LXAU (build etherscan-lxau-f6e56759-1794534230626, commit cfbfc7c, branch etherscan)"
+2026-11-13T01:44:56.586Z,sociocon,1.1.0,thunderkiller,ISC,127551,Social Connect MCP server: manage YouTube and Instagram accounts from an agent
+2026-11-13T01:45:17.655Z,reborn-advisor,1.0.0,kimsungjun,MIT,20749,오퍼스가 짜고 페이블이 검토 — 클로드 코드 조언자 도구(/advisor · advisorModel)를 한국어로 안내하고 켜는 것을 돕는 스킬 advisor-ko 를 클로드 코드에 넣어 줍니다(--set fable 로 설정까지)
+2026-11-13T01:45:26.583Z,@coinomad/checkout,0.1.1,jefferyokesamuel,MIT,10362,Server-side SDK for Coinomad's programmatic stablecoin checkout API.
+2026-11-13T01:47:21.326Z,photon-msg,0.1.0,gptlang,MIT,222214,Command-line client for sending and reading messages through the Photon API
+2026-11-13T01:48:08.534Z,@renzo.johnson/google-keep-mcp,26.11.14,renzo.johnson,MIT,1120760,"Google Keep MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T01:49:32.935Z,@parryguard/core,0.1.0,aliyann,MIT,157992,"Parry's risk model (health, liquidation price, Tremor volatility index, liquidation probability and time, cascade pressure, 0 to 100 score), recovery planner, vault hedge math and proof-of-reserves M…"
+2026-11-13T01:49:35.524Z,@parryguard/sdk,0.1.1,aliyann,MIT,187415,"Read and act on Parry: positions, risk, vault, mandates and guardian decisions."
+2026-11-13T01:49:38.169Z,@parryguard/mcp,0.1.1,aliyann,MIT,61461,"MCP server for Parry: risk, vault, guardian log and policy-limited testnet actions."
+2026-11-13T01:52:23.515Z,ozaponline,0.1.0,omarcusdev,MIT,102517,"oZapOnline no terminal: conversas do WhatsApp e funil em tela cheia, com ações confirmadas uma a uma."
+2026-11-13T01:52:45.564Z,pi-vim-reader,0.1.0,albertomm,MIT,98568,"Read-only vim-style reader for the Gentle Shell / Pi conversation: motions, search, visual yank, open links, live follow."
+2026-11-13T01:53:07.072Z,dsh-taskbridge,1.3.1,ranranyya,MIT,2163037,让 Claude Code 或 Codex 指挥 DSH 完成任务；在 DSH 插件中配置 API、执行模型、思考强度、权限审批与集中审查。
+2026-11-13T01:53:18.61Z,framivra-dsh-sidebar,0.2.1,congliangk123,MIT,406491,"Framivra timeline preview, references and explicit semantic editing for official DSH"
+2026-11-13T01:53:45.284Z,cortico-world-workbench,0.9.45,vindicato,MIT,144981,可视化记忆 —— 给 Coopanion 桌宠的 cortico World 扩展：把工作区的笔记连成一张可点的引用网络图，中枢节点在正中。
+2026-11-13T01:53:53.546Z,@sqdr2/dsh-agent-studio-fusion,1.0.0,sqdr2,Apache-2.0,12171423,"DSH Agent Studio With Fusion: one plugin for DeepSeek Harness, pairing a frontier Lead with a much cheaper Sidekick and hosting the Antigravity (agy CLI) and ACP model routes under one sidebar entry."
+2026-11-13T01:54:30.087Z,@venkateshcv1809/prosetta-sdk,0.3.0-develop.43348270046.1,venkateshcv1809,MIT,7076,JavaScript SDK wrapper for the Polyglot Rosetta WebAssembly runtime.
+2026-11-13T01:55:19.65Z,@renzo.johnson/bigquery-mcp,26.11.14,renzo.johnson,MIT,1141868,"BigQuery MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T01:55:21.157Z,homebridge-mijia-fridge,0.0.2,gtsuid,MIT,26977,Homebridge plugin for Xiaomi/Mijia refrigerator
+2026-11-13T01:55:55.293Z,@automovie/archetypes,0.1.0,samchon,MIT,1721474,"Coarse parametric archetypes of the things people hold, use, sit on, ride and fight with, as typed seeded producers of models with affordances"
+2026-11-13T01:56:33.831Z,@gitmyabi/lxauproductionvaultv2,1.0.0,gitmyabi-bot,Apache-2.0,189373,"Auto-generated TypeScript type bindings for LXAUProductionVaultV2 (build etherscan-lxauproductionvaultv2-738f49cc-1794534974333, commit a446196, branch etherscan)"
+2026-11-13T01:56:52.362Z,@donghuiyun/hotel-utils,1.0.1,donghuiyun,MIT,374,旅館訂房日期與價格計算工具
+2026-11-13T01:56:54.393Z,@dbaitest/skills,0.1.0,huynhphatloc,MIT,68197,"Installs dbaitest agent skills for Claude Code, Codex, Cursor and GitHub Copilot: scaffold DbAiTest database integration tests for SQL Server, PostgreSQL and MySQL."
+2026-11-13T01:56:56.322Z,@cqsjjb/jjb-micro-router,0.0.1,cqjjb,MIT,53161,底座 V3 微应用路由适配层：内存路由、query 读写、返回、standalone 地址栏镜像（零依赖）
+2026-11-13T01:57:35.806Z,relay-whatsapp-mcp,1.0.0,viaan,MIT,250660,WhatsApp as 37 MCP tools for Claude and ChatGPT: a self-hosted bridge with optional Cloudflare relay and primary/standby failover
+2026-11-13T01:57:41.63Z,@kanyun-ai-infra/band-contracts,0.1.0,octopus-fe-bot,UNLICENSED,881054,Band 对象模型、接口与事件的 zod schema（插件共享模块）
+2026-11-13T01:58:28.798Z,@gatemux/signin,0.1.0,zhaochj,Apache-2.0,24389,Sign in with GateMux: embeddable QR login panel and device-code client
+2026-11-13T01:58:30.937Z,gjking-simple-ui-kit,0.1.0,gjking,MIT,26111,一个可发布的轻量 Vue 3 组件库
+2026-11-13T01:59:56.514Z,coffee-chat-cli,0.1.0,shadowcz007,MIT,790896,"Command line and agent skill for Coffee Chat: create and join coffee chats, book 1v1 slots. Non-interactive, JSON output, stable exit codes."
+2026-11-13T02:00:28.335Z,@drevops/axel,0.2.0,alexskrypnyk,MIT,202134,Turns clicks and form interactions on elements marked with data-axel-* attributes into analytics events.
+2026-11-13T02:01:31.726Z,@easonxie/subcal,1.0.1,easonxie,,344648,SubCal 智慧訂閱管理系統 - 個人定期扣款與免費試用追蹤工具
+2026-11-13T02:01:49.599Z,@sakiori/cutwater-bin-darwin-arm64,0.1.0,sakiori-app,MIT,14496063,"The cutwater executable for macOS on arm64, which the npm package cutwater runs"
+2026-11-13T02:02:52.413Z,cabecao,0.1.0-beta.0,renanloureiroo,MIT,855317,"Segundo cérebro pessoal em Markdown e git, exposto a agentes de IA por MCP. Personal second brain in Markdown and git, served to AI agents over MCP."
+2026-11-13T02:04:08.791Z,yt-link-parser,1.0.0,dipak8080,MIT,12455,"Tiny, dependency-free YouTube link parser. Gets the video ID, type (video, Short, live, embed), start time and playlist from any YouTube or youtu.be link."
+2026-11-13T02:04:12.18Z,@k3scat/oai-cli,1.0.0,k3scat,MIT,25240,"OpenAI web search and image generation from the terminal, on a ChatGPT subscription login."
+2026-11-13T02:05:13.122Z,@renzo.johnson/google-maps-mcp,26.11.14,renzo.johnson,MIT,1091051,"Google Maps MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T02:05:34.343Z,create-fastdrop-cloudflare,1.0.1,codygaga,UNLICENSED,982445,Create a FastDrop WebRTC file transfer app on Cloudflare Workers
+2026-11-13T02:06:04.458Z,@vicky111410524/cloud-tasks-app,1.0.0,vicky111410524,MIT,1311655,Cloud Native Todo & Notes App (Cloudflare Pages + Functions)
+2026-11-13T02:06:24.489Z,@dialtribe/chat-client,0.1.0,jaxomlotus,MIT,483087,"Official DialTribe Chat SDK for React - Chat components, hooks, and real-time messaging"
+2026-11-13T02:06:47.881Z,@sakiori/cutwater-bin-darwin-x64,0.1.0,sakiori-app,MIT,16473425,"The cutwater executable for macOS on x64, which the npm package cutwater runs"
+2026-11-13T02:06:59.53Z,k11-playwright-qa-mcp,0.1.0,k11techlab,MIT,52873,"MCP server and Claude Code plugin for Playwright QA: user stories to verified tests, structured test runs, and self-healing locators."
+2026-11-13T02:07:23.384Z,openpinescript,0.1.0,be-thomas,GPL-3.0-or-later,7601666,"Run TradingView Pine Script locally and offline. Compiles Pine Script v1-v6 to JavaScript and executes it against your own OHLCV data, with indicator, plotting and strategy backtesting output verifie…"
+2026-11-13T02:07:25.497Z,kurtest,0.1.0,kvachon,MIT,234074,"A live page for your test runs, from any project and any machine."
+2026-11-13T02:07:46Z,@fanfan4589/dsh-skill-cn,1.0.0,fanfan4589,MIT,12111,Search DeepSeek Harness skills by their Chinese name in the / menu (adds a second search source with Chinese labels).
+2026-11-13T02:07:50.275Z,@fanfan4589/dsh-unread-badge,0.1.1,fanfan4589,MIT,30343,"Unread badge for DeepSeek Harness: a Dock number badge for replies you have not opened yet, plus a coloured dot on Workspace rows so a collapsed group still tells you something finished there. · 未读角标…"
+2026-11-13T02:07:54.495Z,@fanfan4589/dsh-md-live-edit,1.0.0,fanfan4589,MIT,41500,"Edit Markdown files directly in the sidebar preview: block-level editing on the rendered view, without switching to a code mode."
+2026-11-13T02:07:57.235Z,@chlobe/react,0.2.0,lachlanjc,MIT,131752,"A lightweight, interactive React choropleth globe for visualizing country data using WebGL."
+2026-11-13T02:08:10.237Z,@s111310504/cf-edge-limiter,1.0.1,s111310504,MIT,7620,Zero-dependency rate limiter compatible with Cloudflare Workers and Node.js
+2026-11-13T02:08:13.881Z,spx-seller-api,0.1.0,rice2411,MIT,218878,"Unofficial SPX (Shopee Express Vietnam) seller API for Node.js — log in to the spx.vn seller portal, read wallet balance and transactions, list shipments, download labels, bulk-create shipments and t…"
+2026-11-13T02:08:35.083Z,@fanfan4589/dsh-feifan-life,0.2.3,fanfan4589,GPL-3.0-only,1541745,非凡人生个人版 for DSH：复用当前 Obsidian 插件的界面与业务逻辑，数据独立存储。
+2026-11-13T02:08:54.775Z,dsh-podwave,0.10.15,watchcatsqaq,MIT,290943,DeepSeek Harness 插件：本地优先的播客播放器 + 转写 + 双语字幕 + 字幕翻译。
+2026-11-13T02:10:03.934Z,magpie-memorix,0.1.0,linjicong,MIT,82080,Magpie gateway hook: recall memorix project memory before routing and capture each finished turn back into memorix.
+2026-11-13T02:10:35.723Z,@vbansal67/youtube,1.0.0,vbansal67,ISC,17200,YouTube to Embed Link Converter
+2026-11-13T02:10:54.366Z,@cfour-hi/dsh-plugin-skinx,0.2.2,agu,MIT,104956,Turn any image into a DeepSeek Harness theme: palette-derived tokens plus an optional wallpaper.
+2026-11-13T02:11:22.148Z,@gershy/pseudo,0.0.1,gershy,,15143,"Infinitely-high-level, typescript-based, compiled programming language. See the agent orientation:"
+2026-11-13T02:11:26.283Z,@qaqrain/ai-catalog,1.0.0,qaqrain,MIT,138313,52 個 AI 服務的結構化資料：分類、免費額度、能力標記，中英雙語，附可直接開啟的靜態網站。
+2026-11-13T02:11:50.489Z,@sakiori/cutwater-bin-linux-arm64,0.1.0,sakiori-app,MIT,11865781,"The cutwater executable for Linux on arm64, which the npm package cutwater runs"
+2026-11-13T02:12:15.52Z,@agentproto/usage-presets,0.0.1,agentiknet,Apache-2.0,46958,"@agentproto/usage-presets, usage-named spawn presets (pr-fix, explore, implement, deploy, review). Each usage declares a complete agent_start configuration (adapter, model, auth profile, posture, pla…"
+2026-11-13T02:12:38.131Z,suitescript-verify,0.0.0,nemchik,MIT,22708,"Run probes in a NetSuite sandbox to verify what SuiteScript modules do, with guardrails for agents."
+2026-11-13T02:13:20.677Z,expense-tracker-utils-rojine921,1.0.0,rojine,MIT,5391,"Reusable income, expense, balance, category and CSV utilities for the Cloudflare Pages expense tracker"
+2026-11-13T02:13:45.279Z,gtxagent-mcp,0.1.0,harrytasker,UNLICENSED,7860,GTXAgent x402 tools for MCP clients — hosted Streamable HTTP bridge with prepaid tenant keys.
+2026-11-13T02:14:15.426Z,fatkie-timer,1.0.0,fatkie,ISC,892,easy use timer
+2026-11-13T02:14:36.092Z,yuan22777,1.0.0,yuan2.7,MIT,26047,今天吃什麼？食譜靈感抽籤機 — 模組化 npm 套件
+2026-11-13T02:14:50.508Z,@elysiumjs/olympus,0.0.0-stage,na2axl,,340,Temporary package placeholder for staged publishing
+2026-11-13T02:14:55.619Z,@elysiumjs/pino,0.0.0-stage,na2axl,,337,Temporary package placeholder for staged publishing
+2026-11-13T02:15:10.719Z,@elysiumjs/workers,0.0.0-stage,na2axl,,340,Temporary package placeholder for staged publishing
+2026-11-13T02:16:23.923Z,kinmen-aqi,0.1.0,nick_h2k6,MIT,17896,金門空氣品質查詢：即時 AQI、每小時紀錄、明日預報與預報準確度（資料來自金門空品看板）
+2026-11-13T02:16:32.706Z,procup,0.0.0-stage,jorgetolentinog,,328,Temporary package placeholder for staged publishing
+2026-11-13T02:16:33.818Z,znn_07,1.0.0,znn_07,ISC,4448,"A lightweight collection of string and number utilities: reverse, palindrome check, capitalize, thousands separator, random integer and clamp."
+2026-11-13T02:17:01.731Z,dsh-erpbot,0.0.0-stage,pmd210,,332,Temporary package placeholder for staged publishing
