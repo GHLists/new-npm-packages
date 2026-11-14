@@ -1,0 +1,232 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-14T11:15:23.005Z,@try-works/extension-redact,0.1.0,try-working,Apache-2.0,82566,First-party Tool Mode extension implementing redaction over the Desert Ant Labs Redact LiteRT artifact
+2026-11-14T11:15:28.738Z,@try-works/extension-shapes-recipe,0.1.0,try-working,Apache-2.0,14421,"A code-free declarative Tool Mode package: the Desert Ant Labs Shapes stroke-recognition model declared as data, served by the host's model-runtime lane."
+2026-11-14T11:15:35.318Z,@try-works/extension-uhm-recipe,0.1.0,try-working,Apache-2.0,15470,"A code-free declarative Tool Mode package: the Desert Ant Labs Uhm filler-word detector declared as data, served by the host's ONNX model-runtime lane."
+2026-11-14T11:15:42.259Z,@try-works/extension-clear-recipe,0.1.0,try-working,Apache-2.0,16867,"A code-free declarative Tool Mode package: the Desert Ant Labs Clear (clear-studio ONNX) speech-enhancement model declared as data, served by the host's ONNX model-runtime lane."
+2026-11-14T11:15:51.253Z,@try-works/extension-moderator-recipe,0.1.0,try-working,Apache-2.0,18100,"A code-free declarative Tool Mode package: the Desert Ant Labs Moderator (moderator.tflite) NSFW image classifier declared as data, served by the host's LiteRT model-runtime lane."
+2026-11-14T11:15:51.617Z,@pygg/linux-x64,0.1.0-dev.1,namlh_inviv,MIT,15795996,"The native pygg-cli program for linux-x64, used by @pygg/cli (the pygg command). Developer preview, unsigned."
+2026-11-14T11:16:00.133Z,@try-works/extension-ear-recipe,0.1.0,try-working,Apache-2.0,22586,"A code-free declarative Tool Mode package: the Desert Ant Labs Ear (ear.tflite) spoken-language identification model and its front-end assets declared as data, served by the host's LiteRT model-runti…"
+2026-11-14T11:16:06.492Z,@try-works/extension-emo-recipe,0.1.0,try-working,Apache-2.0,18446,"A code-free declarative Tool Mode package: the Desert Ant Labs Emo (emo.tflite) emoji-suggestion model, its EMTK tokenizer and metadata declared as data, served by the host's LiteRT model-runtime lan…"
+2026-11-14T11:16:46.889Z,@kousaku-maron/depshape,0.1.0,kousaku-maron,MIT,227003,"Visualize how a git diff changes folder/file dependencies, side by side with existing siblings"
+2026-11-14T11:17:59.884Z,@holtjs/live-client,0.1.0,lengthmin,Apache-2.0,53129,"holt-live in the browser: join a voice room with a ready token, a tuned microphone (echo cancelling, gain control, noise reduction, device changes, push to talk), playback that works on iOS, reconnec…"
+2026-11-14T11:18:02.687Z,@holtjs/browser,0.0.1,lengthmin,Apache-2.0,305,Placeholder. The first real release follows.
+2026-11-14T11:19:03.49Z,voice-call,0.3.2,scary123,MIT,627841,"Voice call for DeepSeek Harness with DeepSeek or Doubao speech, microphone response, and configurable credentials"
+2026-11-14T11:19:38.252Z,@lostium/console-branding,1.1.0,lostium-com,MIT,20696,"Banner de marca de Lostium Innovation Studio para la consola del navegador, en español e inglés."
+2026-11-14T11:20:35.576Z,dsh-transparency-utils,1.6.2,hexa5586,MIT,55869,A vibe-coding plugin for DeepSeek Harness to customize panel transparency and window background
+2026-11-14T11:20:48.002Z,@sfysh/verifier,0.1.0,76trystan,Apache-2.0,82385,"Replay a Starfysh workflow N times against a Page backend, evaluate postconditions, check output stability, and produce a human or JSON report. The gate that turns an IR workflow into something trust…"
+2026-11-14T11:20:52.094Z,@jayyuen66/dsh-rtk,0.1.0,jayyuen66,MIT,274105,dsh 输出压缩插件（rtk）：遮蔽 bash 加 rtk 前缀 + post-execute pipe 兜底 + 自记账设置卡。
+2026-11-14T11:20:52.178Z,device-agent-mcp,0.1.0,cresus,MIT,8647,MCP server that gives an AI agent a real Android phone (Device Agent)
+2026-11-14T11:21:24.192Z,mcp-cursor-demo-server,1.0.0,kilmex33,MIT,10467,"Runnable MCP server demo: signed, filter-bound pagination cursors. Shows why an offset cursor silently returns the wrong page when an agent changes filters."
+2026-11-14T11:21:31.355Z,@liu-157/dsh-sidebar-kit,0.4.0,liu-157,MIT,69245,一站式整理 DSH 侧栏与模型选择器：会话按「置顶 / 主会话 / 日期」分层展示，模型选择器按提供方折叠成手风琴，默认只展开当前模型所在分组。
+2026-11-14T11:21:37.453Z,@liu-157/dsh-session-cleaner,0.2.1,liu-157,MIT,113560,"DSH 会话管理精简插件：在会话行的“…”菜单里彻底删除会话（含 DSH 没有清理接口的投影缓存）与移动到其他工作区；并在 设置 → 内置插件 → 配置开关 提供一页开关，把任意补丁片段写进 profile 的 cordis.patch.yml 并可热开关、随时改片段。Thorough session deletion + cross-workspace move, plus hot confi…"
+2026-11-14T11:21:37.862Z,@corsair-dev/gamma,0.1.0,corsair.dev,Apache-2.0,143349,"Gamma plugin for Corsair: generate presentations, documents, webpages and social posts from text, read and search them, archive or delete them, export to PDF, PPTX or PNG, and browse the workspace's…"
+2026-11-14T11:21:40.844Z,@liu-157/dsh-wechat-bridge,0.5.2,liu-157,MIT,122383,"DSH 插件：把手机微信（腾讯 iLink/ClawBot 官方协议）桥接到 DeepSeek Harness AI 助手 | DeepSeek Harness WeChat bridge plugin: connect WeChat to DSH AI via Tencent iLink/ClawBot — streaming replies, QR login, cron jobs, web…"
+2026-11-14T11:21:40.864Z,@corsair-dev/genderize,0.1.0,corsair.dev,Apache-2.0,40908,"Genderize plugin for Corsair: predict the gender behind a first or full name, one at a time or in a batch, with a confidence score and the number of records behind it."
+2026-11-14T11:21:44.018Z,@corsair-dev/krakenio,0.1.0,corsair.dev,Apache-2.0,68394,"Kraken.io plugin for Corsair: optimize images and PDFs from a URL or a base64 upload, with resizing, format conversion, quality control and metadata options, and read the account's plan and remaining…"
+2026-11-14T11:21:44.137Z,@liu-157/dsh-wechat-operator,0.1.0,liu-157,MIT,306980,DSH 插件：用桌面自动化接管你自己的 Mac 微信账号（非机器人），按账号+会话隔离，模拟真人回复
+2026-11-14T11:21:55.826Z,@liu-157/dsh-turn-rewind,0.4.1,liu-157,BSD-3-Clause,1285907,DSH 插件：Turn 级项目文件恢复——把项目退回到某一轮对话之前，并可从那里继续；基于持久化 Change Ledger 为每轮对话拍快照，恢复前预览、先救援再写回。
+2026-11-14T11:22:01.733Z,mu-agent-daemon,1.0.89,m2lihui,ISC,6823795,常驻后台：将 AUN Agent 连接到本机桌面 AI 客户端的插件平台。
+2026-11-14T11:22:14.641Z,agent-bridge-manager,1.0.0,m2lihui,,17715,mu-agent-daemon 的无模型本机桌面 Agent 管理员。
+2026-11-14T11:22:18.404Z,@nestos/vfs-ui,0.5.1,lizlok,MIT,1934236,"A modular UI library for managing Virtual File System interfaces with components for file/folder navigation, tagging, and content outline"
+2026-11-14T11:22:22.187Z,@nestos/vfsdriver-indexeddb,0.5.1,lizlok,MIT,266503,IndexedDB storage backend for @nestos/vfs-core — persistent browser-side VFS driver.
+2026-11-14T11:22:26.513Z,@nestos/vfsdriver-local,0.5.1,lizlok,MIT,692692,Transparent local-filesystem VFS backend — reads and writes go directly to real files on disk.
+2026-11-14T11:22:47.422Z,@nestos/llm-ui,0.5.1,lizlok,MIT,2614570,Host-driven native DOM chat and Flow components
+2026-11-14T11:23:12.323Z,@nestos/mail,0.5.1,lizlok,SEE LICENSE IN LICENSE,323963,Portable indexed VFS mail archive with paginated threads and a host-injected reader.
+2026-11-14T11:24:15.597Z,@norio-office/office-sketch,0.8.0,cgq001,,14448234,Independent native Vue 3 + TypeScript sketch editor
+2026-11-14T11:24:36.898Z,@codewithrajat/tracepulse,1.0.0,rajatmalik,MIT,581006,"Zero-dependency, framework-agnostic API request monitoring, timing and performance observability — automatic fetch/XHR instrumentation, per-phase time calculation, warning/critical thresholds, typed…"
+2026-11-14T11:27:21.492Z,one-line-prototype,0.1.2,universe_wang,Apache-2.0,227281,从需求到原型：一句话需求，问清关键规则后产出精简 PRD、流程图、可交互原型和确认单的 Agent skill，可作为 DeepSeek Harness 插件安装。
+2026-11-14T11:27:26.609Z,@corsair-dev/endorsal,0.1.0,corsair.dev,Apache-2.0,218080,"Manage Endorsal contacts, testimonials, tags, widgets, Wall of Love, and AutoRequest campaigns."
+2026-11-14T11:27:26.862Z,nerdgram1337,1.1.5,networknerd1337,MIT,121837,Command-line client for a local NerdGram1337 server
+2026-11-14T11:27:30.267Z,@corsair-dev/genderapi,0.1.0,corsair.dev,Apache-2.0,71320,"Gender API plugin for Corsair: look up the gender behind a first name, a batch of up to 100 names, an email address or a full name, with the sample count and accuracy behind each answer."
+2026-11-14T11:28:27.987Z,@longzai-intelligence-content/core,0.0.1,joydragon,UNLICENSED,3536,Longzai Intelligence 内容域核心包，承载产品群统一行契约
+2026-11-14T11:29:38.138Z,@siemsiem/wstunnel,0.1.0,siemsiem,,13492,To install dependencies:
+2026-11-14T11:29:46.48Z,@surea11y/pack-raweb,1.0.0,rumoroso,MPL-2.0 AND LicenseRef-CC-BY-3.0-LU,2235639,"RAWeb 1.1, Luxembourg's Web Accessibility Assessment Framework, as a pack for @surea11y/core: its criteria and tests, one result per criterion and the raweb-1.1 profile, built on @surea11y/pack-rgaa."
+2026-11-14T11:30:33.987Z,@peisheng_lai/dsh-agora,1.1.1,peisheng_lai,MIT,48583,"Agora: read-only asset census, health and advisory routing for DSH plugins, skills and MCPs."
+2026-11-14T11:31:04.405Z,@saguiitay/eventhouse-ai-observability,0.0.0-stage,saguiitay,,360,Temporary package placeholder for staged publishing
+2026-11-14T11:31:16.882Z,dsh-remote-assist-lan,1.0.0,xxle,MIT,80044,局域网 DSH 远程协助/监督/合作插件：设备代码+别名、永久/临时密码直连、异账号弹窗授权、双向文件传输、一键远程装插件；无需公网中继。
+2026-11-14T11:31:40.387Z,dsh-source-desk,0.2.0,peisheng_lai,MIT,178005,"Provenance-first reading desk for DeepSeek Harness: audited sources, Docling indexing, page/chapter quotes, and public-domain/open-access-only export."
+2026-11-14T11:32:10.39Z,@aoelite/refpact-ts,0.1.2,aoelite,MIT,681963,"Architecture tests for TypeScript 6 and 7: rules about what files may import, checked as ordinary tests."
+2026-11-14T11:32:27.452Z,ramka-svelte,0.1.0,kevin.anantha,MIT,684716,"Unstyled, accessible lightbox primitives for Svelte 5. A port of ramka (""ramka"" — Polish for ""frame"")."
+2026-11-14T11:33:02.156Z,@marinade.finance/notifications-staking-ledger-report-v1,1.0.6,__chalda,,10552,
+2026-11-14T11:33:06.681Z,@ldforge/geo,0.1.3,mightymax,EUPL-1.2,95176,Lazy-loaded Leaflet geodata renderer for LDForge
+2026-11-14T11:33:13.359Z,@corsair-dev/encodian,0.1.0,corsair.dev,Apache-2.0,4872101,Encodian plugin for Corsair
+2026-11-14T11:33:16.037Z,@corsair-dev/eventee,0.1.0,corsair.dev,Apache-2.0,276135,Eventee plugin for Corsair
+2026-11-14T11:33:33.055Z,dsh-signal-field,0.5.2,ycet,MIT,437869,DSH 动效界面插件：抖动信号场背景、蓝图标题、毛玻璃输入框与 ASCII 鲸鱼动画（新建会话页与聊天会话页各有独立参数），可在「设置 → UI 动画」按页面分别调整。
+2026-11-14T11:34:12.629Z,@perrylink/dsh-test-kit,0.1.0,perrylink,Apache-2.0,317171,"Standalone install-and-smoke test drives for DeepSeek Harness plugins: run a target in a throwaway DSH_HOME, assert the bundle patch and boot, and emit a frozen-schema JSON record plus Markdown/JUnit…"
+2026-11-14T11:36:19.332Z,@spree/dashboard-sentry,0.0.0,damianlegawiec,MIT,173,Placeholder. The first real release ships with the next Spree release.
+2026-11-14T11:37:00.77Z,dsh-capdiff,0.1.1,perrylink,Apache-2.0,67355,"Static capability diff scanner for DSH plugin manifests: declared dsh.capabilities vs imports and eval/env use found in code, with JSON and SARIF output."
+2026-11-14T11:37:04.087Z,testatum-attest,0.1.1,perrylink,Apache-2.0,73733,"Plugin trust cards: SHA-256 file manifests, HMAC signatures, revocation and offline verification (MVP)."
+2026-11-14T11:37:08.318Z,dsh-supply-watch,0.1.1,perrylink,Apache-2.0,65144,Offline heuristics for npm package name typosquatting and version anomalies.
+2026-11-14T11:37:11.68Z,cordis-hmr-doctor,0.1.1,perrylink,Apache-2.0,61165,Explain Cordis HMR logs: parse settled/aborted/skipped lines and suggest likely causes. Unofficial.
+2026-11-14T11:37:15.675Z,cordis-migrate,0.1.1,perrylink,Apache-2.0,64922,"Cordis 3→4 migration rule engine: scan, dry-run, apply. Rules are illustrative examples, not an official migration table."
+2026-11-14T11:37:20.774Z,cordis-testkit,0.1.1,perrylink,Apache-2.0,47363,Unofficial mock Cordis context and effect-leak assertions for plugin unit tests.
+2026-11-14T11:37:24.704Z,dsh-xbrl,0.1.1,perrylink,Apache-2.0,65614,Offline XBRL-style financial fact reconciliation and restatement diff.
+2026-11-14T11:37:29.383Z,dsh-upgrade-atlas,0.1.1,perrylink,Apache-2.0,93137,"Community-maintained atlas of DeepSeek Harness (DSH) upgrade breakpoints: validate, query, and render Markdown."
+2026-11-14T11:38:22.622Z,@jojonadam/dsh-godot,0.1.1,jojonadam,MIT,25157,"Godot 4 production pack for DeepSeek Harness: runnable 2D templates, deterministic scene/script validator, and a one-command path from an idea to a playable project."
+2026-11-14T11:38:46.678Z,workyt-icons,0.1.0,nadsous,MIT,549423,"Icônes pour l'éducation, dans le style Workyt : matières, fournitures, révisions, réussite. React, React Native et SVG."
+2026-11-14T11:39:10.909Z,@corsair-dev/e2b,0.1.0,corsair.dev,Apache-2.0,454710,E2B sandbox management plugin for Corsair
+2026-11-14T11:39:13.969Z,@corsair-dev/genderapiio,0.1.0,corsair.dev,Apache-2.0,107961,"GenderAPI.io plugin for Corsair: infer gender from a name, an email address or a username, one at a time or in a batch of up to 50, with the confidence, the source that answered and the credits it co…"
+2026-11-14T11:39:28.997Z,@joraappssdk/server-sdk,1.0.2,sjorabek42,MIT,21718,Server-side SDK for JoraApps Bridge API
+2026-11-14T11:40:00.929Z,@eliotstocker/open-harness-plugin-openai-compatible-auto,1.0.1,eliotstocker,MIT,94992,"Multi-host plugin (OpenCode V2, Pi, DeepSeek Harness) for OpenAI-compatible endpoints with /models auto-detection and LiteLLM browser CLI code flow sign-in"
+2026-11-14T11:40:19.582Z,@oboapp/source-nimh-severe-weather,0.1.0,vbuch,Unlicense,52790,City-wide severe weather warnings from NIMH for Sofia
+2026-11-14T11:40:38.924Z,@urmutech/flare-orm,1.0.0,urmutech,ISC,34406,Optional SQL ORM and migration plugin for Flare.
+2026-11-14T11:40:40.998Z,@stats-forge/card-kit,0.1.1,marcalexiei,MIT,337382,"The frame, themes, text and api boundary the stats-forge cards are drawn with"
+2026-11-14T11:41:03.627Z,my-first-test-package-zakir,1.0.0,mozakir177,MIT,357,A simple addition package
+2026-11-14T11:41:50.781Z,loxley-mcp,0.1.0,loxley-agent,MIT,21472,"The Quiver: read-only market context for coding agents, over MCP."
+2026-11-14T11:41:53.908Z,@things-factory/integration-barobill,10.1.281,heartyoh,MIT,74632,"Barobill connector for the Things-Factory integration engine: bank account lines, corporate card approvals and tax invoices, read only."
+2026-11-14T11:42:44.022Z,@fantastic.dev/convex-env-sync,0.1.0,kellykampen,MIT,89693,Convex environment synchronization for Alchemy projects and pluggable secret sources.
+2026-11-14T11:43:04.878Z,@lmquang/liquid-glass,0.1.0,lmquang,UNLICENSED,26553,"Opt-in liquid glass surfaces with React, SVG refraction and standalone CSS fallbacks."
+2026-11-14T11:44:09.282Z,dsh-gacha-art-finder,1.0.0,paperzhu,MIT,88196,二游立绘搜寻：在原神、星穹铁道、绝区零、鸣潮、战双、明日方舟、NIKKE 等游戏里检索角色立绘、皮肤与头像，网格预览并一键下载原图。
+2026-11-14T11:44:32.558Z,note-blog-kit,0.1.0,kidatakayuki,MIT,86589,Show your own note articles as a blog on React / Next.js sites (unofficial)
+2026-11-14T11:45:02.375Z,magpie-kilo-auth,0.5.4,beihai2000,MIT,88519,Magpie / OpenCode 的 Kilo Gateway 插件：用 Kilo 账户 device OAuth 登录，经 Kilo Gateway 使用订阅可用的模型。
+2026-11-14T11:45:30.11Z,amiru,0.1.0,huabuyu233,MIT,47774,Persona-driven AI companion runtime for the official QQ bot plugin in DeepSeek Harness
+2026-11-14T11:45:36.506Z,@extantape/payload-plugin-guardians,0.1.0,mdgilardi,MIT,85785,"Guardians for Payload: link a minor's account to up to two guardians, turn a guardian's changes to the minor's records into suggestions the minor decides, and route the minor's bigger requests to a g…"
+2026-11-14T11:45:39.543Z,opencode-github-review-queue,0.2.1,nozk,MIT,93974,Pending GitHub review requests for OpenCode TUI and Desktop
+2026-11-14T11:45:40.468Z,@joraappssdk/servers-sdk,1.0.0,sjorabek42,MIT,21286,Server-side SDK for JoraApps Bridge API
+2026-11-14T11:45:43.354Z,@corsair-dev/felt,0.1.0,corsair.dev,Apache-2.0,481104,Felt plugin for Corsair
+2026-11-14T11:45:46.409Z,@corsair-dev/finmei,0.1.0,corsair.dev,Apache-2.0,223489,Finmei plugin for Corsair
+2026-11-14T11:45:46.427Z,loxley-agent,0.1.0,loxley-agent,MIT,55762,The AI coding agent with an insider's edge. Runs in your terminal.
+2026-11-14T11:45:49.778Z,@corsair-dev/folk,0.1.0,corsair.dev,Apache-2.0,342144,"Folk plugin for Corsair - manage people, companies, groups, interactions, notes, users, and credits"
+2026-11-14T11:45:53.02Z,@corsair-dev/geoapify,0.1.0,corsair.dev,Apache-2.0,191992,"Geoapify plugin for Corsair: geocode addresses both ways, autocomplete them, search places by category, calculate routes, isolines and route matrices, and read time zones, boundaries, postcodes and e…"
+2026-11-14T11:47:15.831Z,@hellsoft/vaka-browser,0.2.0,hellsoft,MIT OR Apache-2.0,59492,Vaka browser SDK: crash reporting and cookieless analytics
+2026-11-14T11:47:18.2Z,@hellsoft/vaka-bundler-plugin,0.2.0,hellsoft,MIT OR Apache-2.0,10050,"Upload source maps to Vaka from Vite, Rollup and webpack builds"
+2026-11-14T11:47:25.665Z,@hellsoft/vaka-node,0.2.0,hellsoft,MIT OR Apache-2.0,82489,"Vaka Node.js SDK: crash reporting, OpenTelemetry tracing and logs, feature flags"
+2026-11-14T11:48:31.058Z,@suhoan/yuanbao-search-mcp,0.1.0,suhoan,Apache-2.0,68382,MCP server for Tencent Cloud Yuanbao Search (wsa / SearchPro) via stdio
+2026-11-14T11:49:19.87Z,@attraccess/plugin-matter,0.3.0-alpha.0,jappyjan,AGPL-3.0-only,972837,Official Attraccess integration for Matter devices. Connects to the Matter sidecar; no device features yet.
+2026-11-14T11:49:36.823Z,@pablo-v/alert-dialog,0.1.0,pablo-dev,MIT,12341,Modal confirmation that requires an explicit choice
+2026-11-14T11:50:01.722Z,@pablo-v/avatar,0.1.0,pablo-dev,MIT,12936,"Photo avatar with initials fallback, presence status and groups"
+2026-11-14T11:50:20.408Z,@skathi-native/runtime,0.0.0,rijndael,MIT OR Apache-2.0,350,Skathi runtime: what a Skathi app imports. Placeholder; the first release follows.
+2026-11-14T11:50:29.707Z,@pablo-v/collapsible,0.1.0,pablo-dev,MIT,7816,Single show/hide disclosure section
+2026-11-14T11:50:30.742Z,@skathi-native/cli,0.0.0,rijndael,MIT OR Apache-2.0,316,Skathi CLI (sk). Placeholder; the first release follows.
+2026-11-14T11:50:34.803Z,@semics-tech/emdash-vouchers-pro,0.0.0-bootstrap.0,semics,SEE LICENSE IN LICENSE,6168,"Placeholder for @semics-tech/emdash-vouchers-pro, published once so npm trusted publishing can be configured. No code."
+2026-11-14T11:50:51.139Z,@herongxhr/design-tokens,0.1.0,herongxhr,UNLICENSED,9272,Shared semantic design tokens for Herong applications.
+2026-11-14T11:51:01.842Z,@stokaro/ptah-darwin-x64,0.28.0,denisvmedia,MIT,300425585,Ptah CLI binaries for darwin-x64
+2026-11-14T11:51:04.232Z,@pablo-v/context-menu,0.1.0,pablo-dev,MIT,11503,Right-click menu built on the menu primitives
+2026-11-14T11:51:35.873Z,voxmc,0.0.3,lzif03,AGPL-3.0-only,550708,"Build Minecraft structures from a TypeScript recipe and export .schem, .litematic, .nbt or .mcstructure. The command line of Voxwright."
+2026-11-14T11:51:45.478Z,@pablo-v/drawer,0.1.0,pablo-dev,MIT,13584,Edge-anchored modal panel on the native dialog element
+2026-11-14T11:51:49.325Z,@attraccess/plugin-reservations,0.1.0-alpha.0,jappyjan,AGPL-3.0-only,452705,Official Attraccess plugin to reserve resources for a specific time window.
+2026-11-14T11:52:13.462Z,@pablo-v/file-upload,0.1.0,pablo-dev,MIT,18596,Drag-and-drop file picker with a file list
+2026-11-14T11:52:27.844Z,@stokaro/ptah-darwin-arm64,0.28.0,denisvmedia,MIT,278646733,Ptah CLI binaries for darwin-arm64
+2026-11-14T11:52:38.693Z,@pablo-v/hover-card,0.1.0,pablo-dev,MIT,11057,Rich preview card shown on hover or focus
+2026-11-14T11:52:47.088Z,@stokaro/ptah-linux-x64,0.28.0,denisvmedia,MIT,295401406,Ptah CLI binaries for linux-x64
+2026-11-14T11:53:06.371Z,@stokaro/ptah-linux-arm64,0.28.0,denisvmedia,MIT,271648708,Ptah CLI binaries for linux-arm64
+2026-11-14T11:53:12.997Z,@pablo-v/number-field,0.1.0,pablo-dev,MIT,14384,Numeric input with stepper buttons and keyboard increments
+2026-11-14T11:53:17.878Z,dsh-superagent-multi-channel,2.4.0,juelianyu,MIT,2218903,"Extra chat and work channels for DSH as a standalone bundle: WeChat, Feishu, DingTalk, WeCom, GitLab, Yunxiao Projex and GitHub. A Source receives a request, a Policy decides whether it becomes work,…"
+2026-11-14T11:53:20.717Z,@stokaro/ptah-win32-x64,0.28.0,denisvmedia,MIT,299752414,Ptah CLI binaries for win32-x64
+2026-11-14T11:53:22.369Z,@herongxhr/ui-react,0.1.1,herongxhr,UNLICENSED,23523,Shared accessible Base UI components for Herong applications.
+2026-11-14T11:53:28.823Z,@herongxhr/identity-client,0.1.0,herongxhr,UNLICENSED,29269,Server-side Herong identity adapter for independent applications.
+2026-11-14T11:53:37.278Z,@stokaro/ptah-win32-arm64,0.28.0,denisvmedia,MIT,273296356,Ptah CLI binaries for win32-arm64
+2026-11-14T11:53:37.968Z,@pablo-v/pin-input,0.1.0,pablo-dev,MIT,18552,Segmented OTP and PIN code input
+2026-11-14T11:53:39.648Z,@stokaro/ptah,0.28.0,denisvmedia,MIT,4496,Ptah database migration CLI
+2026-11-14T11:53:44.099Z,@corsair-dev/dialpad,0.1.0,corsair.dev,Apache-2.0,3901210,Dialpad plugin for Corsair
+2026-11-14T11:53:47.65Z,@corsair-dev/digicert,0.1.0,corsair.dev,Apache-2.0,7903916,Digicert plugin for Corsair
+2026-11-14T11:53:50.688Z,@corsair-dev/fibery,0.1.0,corsair.dev,Apache-2.0,81385,Fibery plugin for Corsair
+2026-11-14T11:53:53.928Z,@corsair-dev/fireberry,0.1.0,corsair.dev,Apache-2.0,286073,Fireberry plugin for Corsair
+2026-11-14T11:53:57.102Z,@corsair-dev/formdesk,0.1.0,corsair.dev,Apache-2.0,179862,Formdesk plugin for Corsair
+2026-11-14T11:54:24.763Z,beebear,0.1.0,dhaninishant,MIT,79047,"Lightweight, decorator-free hexagonal architecture framework for Node.js/TypeScript"
+2026-11-14T11:54:33.069Z,@quiesco/expo-plugin,0.1.0,hsk-dev,MIT,9180,Quiesco Expo config plugin: links @quiesco/native into e2e builds only.
+2026-11-14T11:54:33.498Z,@pablo-v/rating,0.1.0,pablo-dev,MIT,11859,Star rating input and read-only display
+2026-11-14T11:54:34.744Z,@quiesco/native,0.1.0,hsk-dev,MIT,95149,Quiesco native touch injection (Expo Module). e2e builds only.
+2026-11-14T11:54:36.442Z,@quiesco/protocol,0.1.0,hsk-dev,MIT,92460,Shared protocol types and constants between the Quiesco host and agent
+2026-11-14T11:54:38.145Z,@quiesco/agent,0.1.0,hsk-dev,MIT,314483,"Quiesco in-app agent (React Native / Expo, iOS / Android / Web)"
+2026-11-14T11:54:39.972Z,@quiesco/core,0.1.0,hsk-dev,MIT,1087621,"Quiesco host side: WebSocket server, Driver, device providers (test-runner agnostic)"
+2026-11-14T11:54:41.637Z,quiesco,0.1.0,hsk-dev,MIT,154499,"Quiesco command line: init, test, doctor, tree"
+2026-11-14T11:54:43.171Z,@quiesco/cucumber,0.1.0,hsk-dev,MIT,25704,cucumber-js World and hooks for Quiesco
+2026-11-14T11:54:44.688Z,@quiesco/jest,0.1.0,hsk-dev,MIT,41520,Quiesco for Jest: a preset whose test environment runs one session for the run and gives tests `quiesco.app`
+2026-11-14T11:54:46.204Z,@quiesco/vitest,0.1.0,hsk-dev,MIT,28135,"Quiesco for Vitest: one session for the run, `app` as a test fixture, a reset before every test"
+2026-11-14T11:54:47.854Z,@quiesco/web,0.1.0,hsk-dev,MIT,121983,Quiesco web DeviceProvider (Playwright library). Install only to test on the web.
+2026-11-14T11:54:49.426Z,@quiesco/steps,0.1.0,hsk-dev,MIT,81912,Optional generic cucumber steps for Quiesco (prototyping only; write business-language steps for real projects)
+2026-11-14T11:54:58.229Z,@curst/cli,0.1.0,lichibruno,MIT OR Apache-2.0,21966,A terminal API client built on libcurl
+2026-11-14T11:55:19Z,corvus-ws,0.1.0,astracodex,MIT,2057043,An independently built WhatsApp bot library
+2026-11-14T11:55:26.238Z,@pablo-v/resizable,0.1.0,pablo-dev,MIT,18094,Resizable panel groups with draggable handles
+2026-11-14T11:55:52.049Z,@pablo-v/scroll-area,0.1.0,pablo-dev,MIT,6146,"Scroll container with thin, themed scrollbars"
+2026-11-14T11:56:09.459Z,n8n-nodes-remove-ac,1.0.0,szp2005,MIT,40810,Official zero-dependency n8n community node for remove.ac (/v1.0/removebg drop-in background removal + up to 25 MB zero-disk GPU streaming).
+2026-11-14T11:56:16.842Z,@pablo-v/sidebar,0.1.0,pablo-dev,MIT,18983,Collapsible application sidebar navigation
+2026-11-14T11:56:46.529Z,@pablo-v/stepper,0.1.0,pablo-dev,MIT,12765,Multi-step progress indicator
+2026-11-14T11:57:07.292Z,@abpjs/plugin-web,0.2.0,aitani,Apache-2.0,29300,"Plugins' web parts in the page for an AbpPlugin host: registers the Module Federation remotes the server lists and loads what they expose, sharing the application's own modules. No framework of its o…"
+2026-11-14T11:57:10.069Z,antigravity-remotion-skills,2.3.0-rc.1,hamzashaikhai,MIT,634095,"Remotion Engine for Antigravity (REA) - Autonomous video motion graphics skills, plugins, sound synthesis, and CLI for Google Antigravity 2.0"
+2026-11-14T11:57:13.29Z,wfhalert-jobs,1.0.0,wfhalert,MIT,6060,Zero-dependency JavaScript client for the free WFH Alert Jobs API
+2026-11-14T11:57:16.698Z,@pablo-v/time-field,0.1.0,pablo-dev,MIT,47871,Segmented time input and time picker
+2026-11-14T11:57:23.479Z,create-remotion-antigravity,1.0.0,hamzashaikhai,MIT,11327,One-click starter generator for Remotion for Antigravity (REA) video studios
+2026-11-14T11:57:28.459Z,@elvisw/dsh-plugin-magic-context,0.12.0,elvisw,MIT,15293532,"Magic Context for DeepSeek Harness: reversible context reclaim, an out-of-band historian, an m[0]/m[1] baseline, project memories in the plugin's own corpus, and the compaction seam."
+2026-11-14T11:57:45.551Z,@pablo-v/timeline,0.1.0,pablo-dev,MIT,9184,Vertical list of dated events
+2026-11-14T11:58:12.835Z,@gitmyabi/rocki,1.0.0,gitmyabi-bot,Apache-2.0,47723,"Auto-generated TypeScript type bindings for ROCKI (build etherscan-rocki-ff44b937-1794657472379, commit 98d3b19, branch etherscan)"
+2026-11-14T11:58:17.845Z,@pablo-v/toggle,0.1.0,pablo-dev,MIT,26661,"Pressable toggle button, toggle group and segmented control"
+2026-11-14T11:58:18.644Z,koishi-plugin-ll-ruoxi,1.0.0,lee1094,MIT,4431,若汐常用指令：若汐常见问题（可自定义纯文字回复）+ 免艾特回复（发送指定图片，无需 @）
+2026-11-14T11:58:20.784Z,pivotkit-server,0.1.0,eizedev,MIT,261389,"pivotkit's reports over HTTP: a REST service with an OpenAPI 3.1 document, and the shared core of the MCP server (sources, exposure policy with profiles, workers, output, token or OAuth sign-in). One…"
+2026-11-14T11:58:23.233Z,@qzlfee/phoenix-agent,0.1.1,qzlfee,MIT,3405244,Local-first AI agent with web UI and streaming LLM responses
+2026-11-14T11:58:27.718Z,@boredooms/vistra-ghost-cursor,0.1.0,boredooms,MIT,81070,"A visible guide cursor that finds real UI controls by role and name, explains each step, and never acts for the user."
+2026-11-14T11:59:15.308Z,@boredooms/vistra-sdk,0.1.0,boredooms,MIT,111414,"Browser SDK for VISTRA: cited answers, guided walkthroughs with a visible cursor, and approved, verified actions."
+2026-11-14T11:59:47.952Z,@corsair-dev/kadoa,0.1.0,corsair.dev,Apache-2.0,268922,"Kadoa plugin for Corsair: build and manage web-extraction workflows, read their extracted rows and detected data changes, and manage schemas, variables, triggers and delivery destinations."
+2026-11-14T11:59:50.897Z,@corsair-dev/kanbanize,0.1.0,corsair.dev,Apache-2.0,270859,"Kanbanize plugin for Corsair: manage Businessmap boards, workflows, columns, lanes and cards, read and post card comments and subtasks, and manage tags, users, request limits and webhook registration…"
+2026-11-14T11:59:53.984Z,@corsair-dev/keen,0.1.0,corsair.dev,Apache-2.0,206292,"Keen plugin for Corsair: record events and batch events, inspect collections and their property types, run count, sum, average and the rest of Keen's analyses, and manage saved queries and cached dat…"
+2026-11-14T12:00:19.818Z,wordpress-to-kirby,0.0.1,danburzo,,9188,A CLI to convert WordPress XML to Kirby CMS files
+2026-11-14T12:01:04.007Z,@zjjlivingfree/dsh-git-panel,0.12.0,zjjlivingfree,MIT,162838,DSH Git 面板（v3.18 视觉重构 Linear 风格）：输入框旁 chip 只读展示分支，支持初始化本地仓库并同步建远程、展示远程地址与最近提交、npm 包名配置与显式发布；其余 git 动作交给 AI 通过 git 工具执行，内置「账号与授权」配置（GitHub PAT/OAuth 设备码、npm 多账号+切换、Agent 写开关），令牌加密保存、永不明文回显。
+2026-11-14T12:01:27.064Z,@ggds/check,0.4.0,codewithboateng,Apache-2.0,58456,"Checks a Government of Ghana website, or its built pages, for what every government website needs: the GGDS page parts, accessibility, security headers, the email domain and speed. Each result names…"
+2026-11-14T12:01:35.696Z,@ggds/create,0.4.0,codewithboateng,Apache-2.0,276423,"Makes a complete Government of Ghana website with GGDS, from your institution's name, address, contact details and colour: every page, the server settings for security and speed, and a guide to putti…"
+2026-11-14T12:02:31.703Z,snowanalytics,1.0.0,sketu,UNLICENSED,3004369,"SnowAnalytics for your app and your terminal: analytics, sessions, replays, errors and AI crawlers for Next.js, Vite, Astro, Nuxt, SvelteKit and Node.js, and a CLI for you and your coding agents."
+2026-11-14T12:02:47.663Z,dsh-convolvex-ms-workbench,1.0.7,owenxyzhang,MIT,416745,"Convolvex-MS mass-spectrometry workbench in the DeepSeek Harness sidebar, reusing the original web UI and binding every workspace to its own .convolvex-ms data directory."
+2026-11-14T12:04:11.189Z,pivotkit-mcp,0.1.0,eizedev,MIT,55434,"An MCP server for pivotkit: let an AI client describe data sources, draft and validate pivot views, render reports to files and make links, without reading the data itself. stdio and Streamable HTTP…"
+2026-11-14T12:05:26.933Z,@smoke-cloud/fdspp,0.1.0,joshannessy,GPL-2.0-or-later,190894,
+2026-11-14T12:05:32.474Z,create-agent-company,0.1.0,datagleaner,MIT,12577,"Scaffold a minimal repo for running work with Claude Code sessions and sub-agents: CLAUDE.md, ops state files, builder rules and an operate skill."
+2026-11-14T12:05:34.902Z,ai-disclosure-notice,0.1.0,datagleaner,MIT,15130,"Dependency-free web component for EU AI Act Article 50 style 'this is AI' notices: chatbot, AI-generated content, deepfake and emotion-recognition wording in English and German. Templates, not legal…"
+2026-11-14T12:05:54.033Z,@tenantguard/core,0.1.0,zeeshanch,MIT,11792,TenantGuard core utilities
+2026-11-14T12:05:58.7Z,@skillcdn/web,0.5.1,samo-contact,FSL-1.1-ALv2,14019268,"The web UI of a SkillCDN deployment, and the command that builds it with the pages of an installation's own."
+2026-11-14T12:06:16.478Z,@tenantguard/scoped-mongo,0.1.0,zeeshanch,MIT,13282,TenantGuard portable document ownership and aggregation policy
+2026-11-14T12:06:18.465Z,@tenantguard/fetch,0.1.0,zeeshanch,MIT,3415,TenantGuard fetch integration
+2026-11-14T12:06:20.487Z,@tenantguard/hono,0.1.0,zeeshanch,MIT,3388,TenantGuard hono integration
+2026-11-14T12:06:22.483Z,@corsair-dev/gagelist,0.1.0,corsair.dev,Apache-2.0,214572,"GageList plugin for Corsair: manage gages and their calibration records, read calibration certificates, and manage manufacturers, custom field values and the account's plan limits."
+2026-11-14T12:06:22.658Z,@tenantguard/node,0.1.0,zeeshanch,MIT,4404,TenantGuard node integration
+2026-11-14T12:06:24.539Z,@tenantguard/postgres,0.1.0,zeeshanch,MIT,29709,TenantGuard postgres utilities
+2026-11-14T12:06:25.15Z,anshul-portfolio-mcp,1.0.0,anshulpanigrahi,MIT,36992,"Anshul Panigrahi's portfolio as an MCP server: profile, projects, patents and contact, for any MCP client."
+2026-11-14T12:06:25.873Z,@corsair-dev/gatherup,0.1.0,corsair.dev,Apache-2.0,136527,"GatherUp plugin for Corsair: manage the businesses on an account, add customers and send them feedback requests, and read the feedback and ratings they leave."
+2026-11-14T12:06:26.561Z,@tenantguard/registry,0.1.0,zeeshanch,MIT,22304,Portable bounded tenant registry cache and invalidation
+2026-11-14T12:06:28.481Z,@tenantguard/resources,0.1.0,zeeshanch,MIT,39689,"Bounded tenant resource ownership, rotation and lifecycle"
+2026-11-14T12:06:30.492Z,@tenantguard/scoped-sql,0.1.0,zeeshanch,MIT,42744,TenantGuard scoped-sql scoped CRUD
+2026-11-14T12:06:32.406Z,@tenantguard/sqlserver,0.1.0,zeeshanch,MIT,46594,TenantGuard SQL Server RLS and session adapter
+2026-11-14T12:06:34.365Z,@tenantguard/mongodb,0.1.0,zeeshanch,MIT,30577,TenantGuard MongoDB scoped CRUD and aggregation
+2026-11-14T12:06:34.922Z,@kombifyio/kubi,0.20.0,marselpilamiii,MIT,126192,"Kubi, the kombify mascot: character and tracer DOM + CSS (halo, comet, helix, dot), the state, reaction and gaze API, and a presentational panel shell. No AI, no transport."
+2026-11-14T12:06:36.434Z,@tenantguard/mongoose,0.1.0,zeeshanch,MIT,49599,"TenantGuard scoped Mongoose models, aggregation guards and owned sessions"
+2026-11-14T12:06:38.687Z,@tenantguard/express,0.1.0,zeeshanch,MIT,6413,TenantGuard express integration
+2026-11-14T12:06:40.623Z,@tenantguard/fastify,0.1.0,zeeshanch,MIT,6540,TenantGuard fastify integration
+2026-11-14T12:06:42.867Z,@tenantguard/koa,0.1.0,zeeshanch,MIT,6396,TenantGuard koa integration
+2026-11-14T12:06:44.808Z,@tenantguard/nestjs,0.1.0,zeeshanch,MIT,6750,TenantGuard nestjs utilities
+2026-11-14T12:06:46.456Z,@tenantguard/testing,0.1.0,zeeshanch,MIT,14591,TenantGuard testing utilities
+2026-11-14T12:06:48.428Z,@tenantguard/lifecycle,0.1.0,zeeshanch,MIT,71542,"Tenant provisioning, migration and fail-closed lifecycle management"
+2026-11-14T12:06:50.281Z,@tenantguard/typeorm,0.1.0,zeeshanch,MIT,5684,TenantGuard typeorm utilities
+2026-11-14T12:06:52.74Z,@tenantguard/drizzle,0.1.0,zeeshanch,MIT,52310,TenantGuard scoped Drizzle CRUD and owned native transactions
+2026-11-14T12:06:54.933Z,@tenantguard/mariadb,0.1.0,zeeshanch,MIT,8077,TenantGuard mariadb scoped CRUD
+2026-11-14T12:06:57.011Z,@tenantguard/mysql,0.1.0,zeeshanch,MIT,8452,TenantGuard mysql scoped CRUD
+2026-11-14T12:06:59.328Z,@tenantguard/prisma,0.1.0,zeeshanch,MIT,48328,TenantGuard restricted Prisma CRUD and owned interactive transactions
+2026-11-14T12:07:01.257Z,@tenantguard/sqlite,0.1.0,zeeshanch,MIT,38371,TenantGuard SQLite tenant-scoped CRUD and worker-owned transactions
+2026-11-14T12:07:03.167Z,@tenantguard/cli,0.1.0,zeeshanch,MIT,106409,TenantGuard cli utilities
+2026-11-14T12:07:48.728Z,@surety-seven/cas-sdk,1.1.0-dev.40.1,surety7,UNLICENSED,487653,TypeScript client for the Company Assessment Service API (v1).
+2026-11-14T12:08:17.122Z,familiar-vue,0.1.0,plunjoin,MIT,7112865,"Vue 3 ports of expressive canvas, SVG and WebGL interface components."
+2026-11-14T12:08:57.414Z,n8n-nodes-jamframe,0.1.0,jamframe.com,MIT,259502,"n8n nodes for JamFrame: render images, carousels, PDFs and MP4 videos from your templates, post them to social accounts, run workflows, generate templates and edit media with AI, and trigger workflow…"
+2026-11-14T12:09:58.476Z,@dloizides/squezelink-client,0.1.2,dloizides,MIT,85401,"Client for squezeLink app-data short links: createLink, resolveLink, deleteLink and parseLink with client-side AES-GCM encryption (the key stays in the URL fragment). Framework-free, ESM + CJS + an I…"
+2026-11-14T12:10:17.393Z,podia-alidongi-redirect,1.0.0,pahlevany.ali,UNLICENSED,686,Redirects browser viewports narrower than 500 pixels to the Podia Alidongi campaign after 100 ms.
+2026-11-14T12:10:28.296Z,@ycet/dsh-notifications,0.3.3,ycet,MIT,609882,"DeepSeek Harness desktop and web notifications for approvals, structured questions, and task outcomes."
+2026-11-14T12:10:38.164Z,@cloudisy/storage,0.1.0,cloudisy,MIT,149335,Official TypeScript SDK for the Cloud Object Storage API
+2026-11-14T12:10:45.307Z,tay-client,1.0.0,asd489,MIT,261051,Typed Node.js SDK for producing and executing Tay jobs
+2026-11-14T12:10:46.748Z,create-leyyo,4.1.53,mustafayelmer,ISC,5500,"npm create leyyo <name>: the same as npm create @leyyo <name>, a new Leyyo monorepo"
+2026-11-14T12:11:18.466Z,@alveeria/core,1.0.0,alveeria,MIT,1046259,"Core modular backend engine for media downloaders, AI tools, and utilities without third-party dependencies."
+2026-11-14T12:12:26.096Z,openclaw-tensorfold,0.1.0,tensorfold-labs,MIT,15291,OpenClaw provider plugin for TensorFold: models and context windows from the native server
+2026-11-14T12:12:26.898Z,@gitmyabi/ely,1.0.0,gitmyabi-bot,Apache-2.0,122990,"Auto-generated TypeScript type bindings for ELY (build etherscan-ely-a95592dc-1794658327443, commit 70608c0, branch etherscan)"
+2026-11-14T12:13:21.041Z,@ycet/dsh-session-plus,0.8.0,ycet,MIT,309704,会话增强插件：模型选择菜单顶部实时展示当前模型提供商名称；账户菜单顶部提供「跟随系统 / 浅色 / 深色」主题快捷切换（Rubber Segment 动效）；官方模型菜单「推理等级」一行改造为 Codex 风格连续滑条（一档一色 + 最高档能量层）；新建会话页标题栏补上官方「在应用中打开」分体按钮（固定定位在标题栏按钮簇最左侧，右侧面板展开时隐藏）；「设置 → 通用」里为以上每一项提供独立开关（…
+2026-11-14T12:13:27.57Z,@falkenslab/asker-mcp,0.1.0,fvarrui,MIT,1675329,"Asker for AI agents: a definitions file checked, questions generated from it as Moodle XML or GIFT, read back for review and filtered before importing."
+2026-11-14T12:13:35.758Z,@corsair-dev/elorus,0.1.0,corsair.dev,Apache-2.0,5584292,Elorus plugin for Corsair
+2026-11-14T12:13:39.113Z,@corsair-dev/fathom,0.1.0,corsair.dev,Apache-2.0,106569,Fathom plugin for Corsair
+2026-11-14T12:13:42.432Z,@corsair-dev/fomo,0.1.0,corsair.dev,Apache-2.0,155899,Fomo plugin for Corsair
+2026-11-14T12:13:45.635Z,@abkkuul/apisync,1.1.1,abkkuul,MIT,188389,"Replace your .env file with one token. Encrypted vault, auto-rotating tokens, and a smart proxy for every API your app talks to."
+2026-11-14T12:14:25.069Z,ec-sim-mcp,0.1.0,ec-sim,SEE LICENSE IN LICENSE,60680,MCP server that lets an AI agent drive the Ec-Sim circuit simulator in an open browser tab
+2026-11-14T12:14:32.507Z,@kvidzibo/pi-browser-connect,0.1.0,kvidzibo,MIT,65631,Connect Pi to an explicitly shared tab in your everyday Chromium browser.
+2026-11-14T12:14:41.026Z,unipo-siakad-sdk,1.0.0,anasamu,MIT,3368950,"SDK resmi API SIAKAD UNIPO untuk Node.js, Bun, Deno, dan framework modern (Next.js, NestJS, Express, Nuxt, SvelteKit). TypeScript, ESM + CommonJS, token OAuth2 otomatis."
+2026-11-14T12:15:25.211Z,dsh-plugin-css-preview,0.1.0,buns_9139,MIT,33426,Render live HTML/CSS previews inside the dsh conversation instead of dumping code blocks.
+2026-11-14T12:15:30.696Z,dsh-plugin-web-search-command-code,0.1.0,buns_9139,MIT,27875,"DSH web-search provider that searches directly (Bing, or Tavily/Serper with a key) and registers on ctx.web, for deployments whose only reachable endpoint is Command Code's OpenAI-compatible API. Mak…"
+2026-11-14T12:15:44.055Z,centralnode,0.1.0,phestplus,MIT,35770,One central package store for every Node.js project on the computer. Each file is kept once; projects link to it.
+2026-11-14T12:16:15.176Z,dsh-baifan-balance,1.12.1,wanderlusty,MIT,84637,"Shows the Dabaifan (Baifan API, new-api) relay credit in a composer statistics entry and above the sidebar avatar, with placement, refresh, density, accent and low-balance settings."
+2026-11-14T12:18:03.505Z,@ewcodes/zark,0.0.0-stage,ew-yvan,,335,Temporary package placeholder for staged publishing
+2026-11-14T12:19:15.057Z,dsh-atc,0.16.0,littleyellowbicycle,MIT,355284,"Agent 空管中心 for DeepSeek Harness: one sidebar panel listing every local agent session (DSH, codex, opencode, WorkBuddy, Gemini) with attention-first grouping and folded history — zero token, host-side…"
+2026-11-14T12:19:16.859Z,dsh-model-lens,0.3.3,medicine173617,MIT,1140234,"A compact local model status and resource panel for DSH, with an optional dsh-pet HUD."
+2026-11-14T12:19:39.305Z,dsh-r-runner,0.1.0,seally-web,MIT,1064946,"R in the DeepSeek Harness sidebar: an RStudio-shaped workbench with a persistent R session, R syntax highlighting, a file tree with extra folders, an environment pane, a plot gallery, and an agent-fa…"
+2026-11-14T12:20:07.39Z,tool-templates-ang15,0.0.0-stage,testing74,,342,Temporary package placeholder for staged publishing
