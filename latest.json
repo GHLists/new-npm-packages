@@ -1,12 +1,23 @@
 {
   "list": {
-    "count": 129,
-    "from": "2026-11-14T03:19:08.008778Z",
-    "path": "data/new-packages-2026-11-14T04-20-54-817775Z.csv",
-    "to": "2026-11-14T04:20:54.817775Z"
+    "count": 93,
+    "from": "2026-11-14T04:20:54.817775Z",
+    "path": "data/new-packages-2026-11-14T05-19-16-628978Z.csv",
+    "to": "2026-11-14T05:19:16.628978Z"
   },
-  "pending": [],
-  "seq": 144521488,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@kukonce/wb-publish-probe",
+      "since": "2026-11-14T04:20:54.817775Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@shawnxiaoyang/dsh-tray-restart",
+      "since": "2026-11-14T04:20:54.817775Z"
+    }
+  ],
+  "seq": 144529450,
   "source_truncated": false,
-  "window": "2026-11-14T04:20:54.817775Z"
+  "window": "2026-11-14T05:19:16.628978Z"
 }
