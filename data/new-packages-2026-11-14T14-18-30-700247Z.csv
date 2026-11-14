@@ -1,0 +1,229 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-14T13:15:50.233Z,@ai-e2e/cli,0.1.0,wudexiong,MIT,331803,ai-e2e 命令行：run（本票）/ flows / new / fix / patrol / session / doctor / translate（后续票）
+2026-11-14T13:17:56.813Z,@steveimm/pi-web-search,0.1.0,steveimm,MIT,33746,Web search and readable page fetching for Pi
+2026-11-14T13:18:04.769Z,@dsh-plugin/dsh-monaco,0.0.1,gugle,LGPL-3.0-only,510240,"Monaco editor inside the DSH right sidebar: it takes over the file preview for text and code files, edits in place, saves with a version guard, and exposes a language/theme extension API to other plu…"
+2026-11-14T13:19:42.441Z,@agentims/native-sdk-darwin-arm64,0.1.0,rturn.ai,Apache-2.0,111400254,
+2026-11-14T13:20:10.808Z,dsh-test-impact,0.1.0,dengyigu,MIT,121222,"Explainable test impact analysis for Python/pytest repositories: map a code change to the tests that statically depend on it, show the dependency path, and say when the analysis is not trustworthy en…"
+2026-11-14T13:20:12.392Z,@agentims/native-sdk-linux-x64,0.1.0,rturn.ai,Apache-2.0,176538781,
+2026-11-14T13:20:42.96Z,@agentims/native-sdk-linux-arm64,0.1.0,rturn.ai,Apache-2.0,168142501,
+2026-11-14T13:20:48.933Z,dsh-pet-wearable,0.0.1,slchy,MIT,298449,Pet for DeepSeek Harness (dsh) that lives on smart glasses — it speaks up on its own and shares your view. Early development; no stable API yet.
+2026-11-14T13:21:00.865Z,dsh-task-readiness,0.1.1,kelvin_0304,MIT,898660,"Session-scoped task readiness checks: can this session really run this task? Self-contained bundle, no host package imports at runtime."
+2026-11-14T13:21:21.595Z,@agentims/native-sdk-win32-x64,0.1.0,rturn.ai,Apache-2.0,154928167,
+2026-11-14T13:21:36.378Z,taisho,0.0.1,pablod646,MIT,318,Reserved for the TaishoDS Core command-line interface.
+2026-11-14T13:21:49.693Z,@agentims/native-core-darwin-x64,0.1.0,rturn.ai,Apache-2.0,126184462,
+2026-11-14T13:22:06.227Z,her-world,0.1.0,dartho,,151206613,Her World: a modular DSH-backed companion.
+2026-11-14T13:22:10.849Z,@facets-cloud/mx-darwin-arm64,0.1.0,pramodh-facets,MIT,754421,The mx binary for macOS arm64. Install @facets-cloud/mx instead.
+2026-11-14T13:22:13.117Z,@facets-cloud/mx-darwin-x64,0.1.0,pramodh-facets,MIT,818479,The mx binary for macOS x64. Install @facets-cloud/mx instead.
+2026-11-14T13:22:17.542Z,@agentims/native-core-darwin-arm64,0.1.0,rturn.ai,Apache-2.0,115354581,
+2026-11-14T13:22:39.206Z,@curbi/cli,0.1.0,curbi,MIT,107267,Local deterministic agent reply checks and offline evidence verification.
+2026-11-14T13:22:50.369Z,@agentims/native-core-linux-x64,0.1.0,rturn.ai,Apache-2.0,177825413,
+2026-11-14T13:22:56.315Z,@andhash/plugin-pc-telegram,0.1.0,andhash,MIT,139446,Paperclip plugin for personal Telegram accounts via MTProto QR login
+2026-11-14T13:23:12.287Z,@laboon85/pi-web-access,0.7.0,laboon85,MIT,128096,"Web search and web fetch for the pi coding agent, built around a tiered provider fallback chain."
+2026-11-14T13:23:13.02Z,password-inspector,1.0.0,akshatjoddd,MIT,14250,"A lightweight, dependency-free password strength analyzer for JavaScript."
+2026-11-14T13:23:18.712Z,@agentims/native-core-linux-arm64,0.1.0,rturn.ai,Apache-2.0,169344916,
+2026-11-14T13:23:20.923Z,@texyon/wasm,0.1.0,yendric,MIT AND AGPL-3.0-or-later,29936404,"TeXyoN, a resident LaTeX engine for live preview, compiled to WebAssembly"
+2026-11-14T13:23:53.119Z,skill-diag,0.1.0,abdulmateen007,MIT,1081798,"Capability surface observability for agent skills: will a skill load, will it fire, can the router still find it at scale"
+2026-11-14T13:23:58.561Z,@giladbarnea/side,0.0.21,giladbarnea,MIT,829727,"Side chats for Pi: run, view, and steer background sessions beside the main agent."
+2026-11-14T13:24:03.095Z,@agentims/native-core-win32-x64,0.1.0,rturn.ai,Apache-2.0,156064546,
+2026-11-14T13:24:19.286Z,zapbip,0.1.0,dhyegocalota,MIT,695321,The command an owner runs on their own machine to wake a local AI session when a WhatsApp message arrives. It wakes the local agents that [the agents package](../../libs/agents) gives a connector run…
+2026-11-14T13:24:31.794Z,@zapbip/openclaw-plugin,0.1.0,dhyegocalota,MIT,160364,Zapbip WhatsApp channel for OpenClaw
+2026-11-14T13:25:08.699Z,@facets-cloud/mx,0.1.0,pramodh-facets,MIT,17203,"Let coding agents drive your Mac's apps through the accessibility API, in the background or in front of you. An MCP server for Claude, Codex and Cursor."
+2026-11-14T13:26:23.908Z,dsh-multimodal-node,0.2.2,lc297948801,MIT,1162904,多模态节点：一个插件两种身份。服务节点开门（API 接入端口 + 网页端口），把任务排队分发到绑定的 ComfyUI 实例并托管本机 Blender 渲染；用户节点不开门，连服务节点拿工作流模板、当前队列、模型列表，产物落到本机目录。含网页账号与 apikey 两套凭据、SFW/NSFW 分级。
+2026-11-14T13:26:56.405Z,242places,1.2.1,osiris_balonga,MIT,6300806,Generate source-backed Republic of Congo geographic files with auditable partial coverage.
+2026-11-14T13:28:44.835Z,taishods,0.0.1,pablod646,MIT,241,This name is reserved for TaishoDS.
+2026-11-14T13:28:50.459Z,create-taisho,0.0.1,pablod646,MIT,320,This name is reserved for the TaishoDS project starter.
+2026-11-14T13:29:13.596Z,@apteva/ui-kit,0.4.0,marcoschwartz,,149648,"Shared visual primitives for apteva apps + integrations. Components compose these so cards, lists, and headers look identical across the platform."
+2026-11-14T13:29:33.209Z,@itslorant/mnb-exchange-rates,0.1.0,itslorant,MIT,73781,Typed client for the Hungarian National Bank (MNB) exchange rate SOAP API
+2026-11-14T13:29:59.839Z,@ignix-social/broll-sorter,0.1.0,fran-ignix,UNLICENSED,2701349,"Ignix B-roll Sorter: sorts your own photos and videos into folders by scene, on your computer (nothing is uploaded). Free; driven by your AI chat (Claude, Codex…)."
+2026-11-14T13:30:03.595Z,@continuumdao/ctm-market-data,0.1.0,selqui,,3453866,"Candlestick rows, technical indicators, and trade-idea levels for Continuum. No management signer and no DeFi protocol calls."
+2026-11-14T13:30:14.862Z,@ai-rulez/linux-x64,0.0.0,nhirschfeld,MIT,588,Reserved name for the prebuilt ai-rulez binary for linux x64
+2026-11-14T13:30:17.113Z,@ai-rulez/linux-arm64,0.0.0,nhirschfeld,MIT,596,Reserved name for the prebuilt ai-rulez binary for linux arm64
+2026-11-14T13:30:19.537Z,@ai-rulez/darwin-x64,0.0.0,nhirschfeld,MIT,563,Reserved name for the prebuilt ai-rulez binary for darwin x64
+2026-11-14T13:30:19.773Z,@peerconnectonce/core,0.0.1,switt,UNLICENSED,201020,"Transport-neutral peer connectivity with pluggable WebRTC clients, server runtimes and signaling."
+2026-11-14T13:30:22.053Z,@ai-rulez/darwin-arm64,0.0.0,nhirschfeld,MIT,571,Reserved name for the prebuilt ai-rulez binary for darwin arm64
+2026-11-14T13:30:24.225Z,@ai-rulez/win32-x64,0.0.0,nhirschfeld,MIT,559,Reserved name for the prebuilt ai-rulez binary for win32 x64
+2026-11-14T13:30:31.025Z,dsh-plugin-dreaming,0.4.0,dog_tong,MIT,819380,Evidence-linked background memory consolidation for DeepSeek Harness
+2026-11-14T13:31:08.995Z,@soterias/core-win32-x64-gnu,0.1.0-rc.3,kimo2678,SEE LICENSE IN LICENSES.md,37744337,Soterias prebuilt native Rust SDK for win32 x64
+2026-11-14T13:31:11.621Z,@lukema/dsh-news,0.1.0,lukema,MIT,161732,"ShellPulse AI news in the DeepSeek Harness right sidebar: hot ranking, timeline and featured picks with Chinese titles and summaries."
+2026-11-14T13:31:18.178Z,@soterias/core-linux-x64-gnu,0.1.0-rc.3,kimo2678,SEE LICENSE IN LICENSES.md,28708726,Soterias prebuilt native Rust SDK for linux x64
+2026-11-14T13:31:23.431Z,@soterias/core,0.1.0-rc.3,kimo2678,SEE LICENSE IN LICENSES.md,2503424,"Native local workflow observation, verified reuse, source integrity and protected operations SDK"
+2026-11-14T13:31:26.617Z,@soterias/mcp-server,0.1.0-rc.3,kimo2678,MIT,81019,Soterias local MCP receipt verifier and protected native tool proxy pilot
+2026-11-14T13:31:45.117Z,dev-rac,1.0.3,azerty-dev,MIT,2218,Raccourcis developpeurs pour JavaScript
+2026-11-14T13:32:31.482Z,universal-auth-plugin,1.0.0,sathishnpmpm,,179900,"A framework-agnostic, modular authentication and session management plugin"
+2026-11-14T13:33:56.83Z,toni-sdk,0.1.1,stefanhaab,MIT,707317,"Toni SDK for Node.js — hosted AI agent with 263 business functions (CRM, content, agents), OpenAI-compatible gateway, agent loop and CLI. A hosted alternative to Hermes Agent and OpenClaw."
+2026-11-14T13:34:44.583Z,dsh-agentcenter,0.3.1,xbqn,MIT,557535,"AgentCenter for DeepSeek Harness: read-only scan of every local AI agent session, with a task center page in the panel, AI daily reports through your own models, and session references you can drop i…"
+2026-11-14T13:34:58.205Z,@u84u/gl,0.1.0,u84u,CC-BY-4.0,516518,"Compiler for the gl shading language, transpiling to GLSL (450, ES 3.00) and WGSL"
+2026-11-14T13:35:46.38Z,mototrack,1.0.0,vivensb,MIT,26573,"Official MotoTrack client: fleet data, live tracking stream, position ingest and webhook verification."
+2026-11-14T13:37:05.382Z,@melt-js/libs-core,2026.11.14,luo0412,,113943,Hel 远程依赖工具箱与可独立安装的共享构建工具。不维护具体项目的依赖清单，也不构建成远程组件。
+2026-11-14T13:37:37.687Z,@melt-js/libs-core-vue3,2026.11.14-1,luo0412,,4519,Melt 远程组件 vue3 UI 薄适配层
+2026-11-14T13:38:49.845Z,pdf-h5-react,0.3.0,superjunjie,MIT,212869,基于 pdf.js 的移动端优先 React PDF 阅读器组件（连续滚动 / 翻页 / 捏合缩放 / 文本层 / 搜索 / 缩略图 / 目录）
+2026-11-14T13:39:28.981Z,dsh-browser-annotation,0.1.0,clouds3n,MIT,539615,"Native, lightweight element and region comments inside the built-in DSH Browser — live attribute edits and numbered hoverable tags, no screenshots or provider replacement."
+2026-11-14T13:39:48.82Z,gate-card,0.0.1,bytesnull44,ISC,266,Security research placeholder — dependency confusion PoC
+2026-11-14T13:39:50.489Z,p2pgate,1.4.1,dhammawatthumpra,Apache-2.0,361641,Lightweight P2P TCP gateway for SSH over HyperDHT (single dependency)
+2026-11-14T13:40:00.568Z,gate-messages,0.0.1,bytesnull44,ISC,270,Security research placeholder — dependency confusion PoC
+2026-11-14T13:40:07.199Z,gate-wzbkst-dialog,0.0.1,bytesnull44,ISC,275,Security research placeholder — dependency confusion PoC
+2026-11-14T13:40:11.121Z,gate-dropdown,0.0.1,bytesnull44,ISC,270,Security research placeholder — dependency confusion PoC
+2026-11-14T13:40:13.952Z,gate-tooltip,0.0.1,bytesnull44,ISC,269,Security research placeholder — dependency confusion PoC
+2026-11-14T13:40:17.109Z,gate-pagination,0.0.1,bytesnull44,ISC,272,Security research placeholder — dependency confusion PoC
+2026-11-14T13:40:19.552Z,gate-tabs,0.0.1,bytesnull44,ISC,266,Security research placeholder — dependency confusion PoC
+2026-11-14T13:40:22.165Z,gate-modal,0.0.1,bytesnull44,ISC,267,Security research placeholder — dependency confusion PoC
+2026-11-14T13:40:25.362Z,gate-notification,0.0.1,bytesnull44,ISC,274,Security research placeholder — dependency confusion PoC
+2026-11-14T13:40:28.484Z,gate-input,0.0.1,bytesnull44,ISC,267,Security research placeholder — dependency confusion PoC
+2026-11-14T13:40:50.924Z,eslint-plugin-ownership,0.4.1,rootentry,,40173,
+2026-11-14T13:41:28.791Z,cakranala,0.1.1,pajarori,Apache-2.0,2251786,Deteksi operasi pengaruh terkoordinasi di media sosial dari ketergantungan antar akun.
+2026-11-14T13:43:49.031Z,@samelazy/common,1.0.0,samelazy,,4315,Core shared components for Samelazy microservice ecosystem
+2026-11-14T13:45:52.69Z,@mahendarreddy/traceqa,0.5.0,mahendarreddy,MIT,628556,"Requirement-driven testing agent: maps requirements to your app, explores it, writes a Playwright framework and traces every result back to a requirement."
+2026-11-14T13:46:11.798Z,@rotproof/darwin-arm64,0.0.0,secta113,MIT OR Apache-2.0,461,Placeholder that holds the name for the darwin-arm64 binary of Rotproof. Not usable: install a version from 1.1.0 on.
+2026-11-14T13:48:29.726Z,@d-beloved/safe-sweep,0.1.1,d-beloved,MIT,104776,"Find disk space you can free on your machine, and delete only what you tick. Local web page, allowlisted deletes, no network, no telemetry."
+2026-11-14T13:50:00.895Z,@bkc-network-lib/web-wallet-connect,0.1.0,bkcnetwork,Apache-2.0,189690,"dApp SDK for the BKC web wallet (email sign-in, ML-DSA-65 keys): an EIP-1193 provider with EIP-6963 discovery and a Keplr-like offline signer that talk to the wallet in a popup."
+2026-11-14T13:50:22.182Z,pi-skill-policy,0.1.0,zer020,MIT,104440,Control Pi skill visibility with persistent global and project settings.
+2026-11-14T13:51:20.11Z,gitcode-sdk,0.1.0,shink,Apache-2.0,250100,Lightweight GitCode SDK
+2026-11-14T13:51:23.624Z,dsh-approval-popups,0.1.1,chenweixu,MIT,68472,"Cross-session approval, question and completion popups for DeepSeek Harness: a card stack in the bottom-right corner so you can answer background Sessions without switching conversations."
+2026-11-14T13:51:48.143Z,@chentyit/dsh-chatbot-panel,0.1.0,chentyit,MIT,62923,DeepSeek Harness bundle: a ChatBot capability panel in the composer that gates web search and deep thinking search per session and records usage with an estimated cost.
+2026-11-14T13:51:57.268Z,@extantape/onepedigree-core,0.1.0-alpha.22,mdgilardi,PolyForm-Noncommercial-1.0.0,175636,"OnePedigree core: the species-neutral pedigree data model, validation, bounded traversal, view projections and layout, with no React, Payload or database dependency."
+2026-11-14T13:52:01.995Z,@extantape/payload-plugin-onepedigree,0.1.0-alpha.22,mdgilardi,PolyForm-Noncommercial-1.0.0,102084,"OnePedigree for Payload: parentage fields, cycle-safe parentage writes, deletion policies, permission-aware pedigree endpoints for all 13 views, and Admin previews."
+2026-11-14T13:52:06.145Z,@extantape/onepedigree-react,0.1.0-alpha.22,mdgilardi,PolyForm-Noncommercial-1.0.0,140492,"OnePedigree for React: server-renderable SVG pedigree views (all 13), an interactive explorer, headless hooks and CSS-variable styling."
+2026-11-14T13:52:10.454Z,@extantape/onepedigree-studbook,0.1.0-alpha.22,mdgilardi,PolyForm-Noncommercial-1.0.0,53021,"OnePedigree studbook: species-neutral studbook numbering, pedigree-based kinship, inbreeding, mean kinship, gene diversity and founder analysis, and PMx export, for any managed population."
+2026-11-14T13:52:20.029Z,@extantape/onetaxonomy-core,0.1.0-alpha.4,mdgilardi,PolyForm-Noncommercial-1.0.0,168892,"OneTaxonomy core: taxon concepts, classifications and phylogenetic hypotheses, with validation, bounded traversal, MRCA, tri-state monophyly, curated selections, coverage reports and snapshot diffs.…"
+2026-11-14T13:52:24.013Z,@extantape/onetaxonomy-education,0.1.0-alpha.4,mdgilardi,PolyForm-Noncommercial-1.0.0,23153,"OneTaxonomy education: portable lesson decks of scenes over a pinned snapshot (views, camera, annotations, step-by-step reveals) and worksheets whose answers are checked by the core science functions."
+2026-11-14T13:52:27.775Z,@extantape/onetaxonomy-import,0.1.0-alpha.4,mdgilardi,PolyForm-Noncommercial-1.0.0,101217,"OneTaxonomy import: source adapters for CSV/TSV checklists, Darwin Core Archives, OneTaxonomy JSON, Newick, NEXUS and phyloXML, plus reconciliation, curated selective imports with provenance, and com…"
+2026-11-14T13:52:31.348Z,@extantape/onetaxonomy-layout,0.1.0-alpha.4,mdgilardi,PolyForm-Noncommercial-1.0.0,18247,"OneTaxonomy layout: deterministic tree layouts (rectangular cladogram, phylogram and time scale only when the data supports them, radial, classification sunburst) as plain coordinates for any rendere…"
+2026-11-14T13:52:36.036Z,@extantape/payload-plugin-onetaxonomy,0.1.0-alpha.4,mdgilardi,PolyForm-Noncommercial-1.0.0,272023,"OneTaxonomy for Payload: sealed taxonomy snapshots verified by checksum, published views pinned to them, resumable import jobs that turn checklists, Darwin Core Archives and tree files into staged sn…"
+2026-11-14T13:52:40.151Z,@superhq/nanite,0.1.0,harshdoesdev,MIT,49461,"Nanite's client for Workers and Node: sandboxes on api.nanite.run, and a pi-durable ExecutionEnv over them."
+2026-11-14T13:52:40.192Z,@extantape/onetaxonomy-react,0.1.0-alpha.4,mdgilardi,PolyForm-Noncommercial-1.0.0,262426,"OneTaxonomy for React: a server-renderable SVG tree, an accessible keyboard tree outline, and an explorer with undo/redo, filters, layouts and an inspector that keeps clades and groups apart."
+2026-11-14T13:53:23.493Z,kerzwerk,0.5.3,jeanavril,MIT,520983,"Price charts on canvas: candles, OHLC bars, lines, areas, histograms and bands on one time axis, with legend, scales, drawing tools and a Svelte 5 binding. No runtime dependencies."
+2026-11-14T13:53:37.125Z,@webship-js/prestashop-steps,2.0.0,natshah,MIT,283379,"Cucumber step definitions for testing PrestaShop shops with webship-js: the back office (session, menu, lists, products, categories, orders, customers, discounts, modules, permissions) and the shop (…"
+2026-11-14T13:53:53.947Z,zeigerwerk,0.1.2,jeanavril,MIT,746417,"One indicator catalog for every app: 29 definitions computed by a Rust kernel as WebAssembly, with portable settings, legacy readers, search, form model and a drawing description for kerzwerk. No run…"
+2026-11-14T13:54:25.878Z,hello-cli-rakesh,1.0.0,rakesh-biswas,MIT,297,Cli tool for greetings
+2026-11-14T13:54:42.156Z,@petercjl/aigc-generation-review,0.1.0,petercjl,MIT,89162,Portable AIGC generation review Skill and offline HTML report renderer
+2026-11-14T13:54:57.292Z,@miloji/dsh-recent-sessions,0.2.0,miloji,MIT,40640,"Sidebar Recents panel for DeepSeek Harness: open any session you visited most recently, across workspaces, with its workspace labelled on each row and a blinking three-dot mark while a task runs. 最近访…"
+2026-11-14T13:55:40.668Z,@rangex/editor,1.0.0-beta.0,rangex,MIT,749681,"Framework-agnostic RangeX editor: adapters, createEditor and snapshot/HTML views on top of the RangeX engine."
+2026-11-14T13:56:10.907Z,@rangex/solid,1.0.0-beta.0,rangex,MIT,39737,SolidJS bindings for @rangex/editor: reactive ports and shared Solid utilities.
+2026-11-14T13:56:18.178Z,@beiqian/dsh-workbench,0.1.0,beiqian,MIT,15111,"Workspace arrangement plugin for DeepSeek Harness: keeps running workspaces on top, extensible."
+2026-11-14T13:56:28.197Z,@rangex/syntax-highlighter-shiki,1.0.0-beta.0,rangex,MIT,11055,"Shiki-based syntax highlighting for RangeX code blocks, in the editor (Web Worker) and the HTML view."
+2026-11-14T13:56:42.347Z,@kemian/server,0.1.0,char2s,Apache-2.0,317101,Serves one Markdown knowledge base to different audiences over MCP.
+2026-11-14T13:57:22.232Z,@gogocrowpub/visible-browser-darwin-arm64,0.0.1,wind39,Apache-2.0,17921375,The darwin-arm64 native binary for @gogocrowpub/visible-browser (agent-browser fork)
+2026-11-14T13:57:28.438Z,@gogocrowpub/visible-browser-darwin-x64,0.0.1,wind39,Apache-2.0,19652691,The darwin-x64 native binary for @gogocrowpub/visible-browser (agent-browser fork)
+2026-11-14T13:57:37.476Z,@gogocrowpub/visible-browser-linux-arm64-gnu,0.0.1,wind39,Apache-2.0,18025706,The linux-arm64-gnu native binary for @gogocrowpub/visible-browser (agent-browser fork)
+2026-11-14T13:57:45.198Z,@gogocrowpub/visible-browser-linux-arm64-musl,0.0.1,wind39,Apache-2.0,17807110,The linux-arm64-musl native binary for @gogocrowpub/visible-browser (agent-browser fork)
+2026-11-14T13:57:57.103Z,@gogocrowpub/visible-browser-linux-x64-gnu,0.0.1,wind39,Apache-2.0,20624094,The linux-x64-gnu native binary for @gogocrowpub/visible-browser (agent-browser fork)
+2026-11-14T13:58:06.795Z,@gogocrowpub/visible-browser-linux-x64-musl,0.0.1,wind39,Apache-2.0,20411370,The linux-x64-musl native binary for @gogocrowpub/visible-browser (agent-browser fork)
+2026-11-14T13:58:09.876Z,@rangex/rich-text-editor,1.0.0-beta.0,rangex,MIT,616170,"Zero-config RangeX rich text editor with extensions, toolbar and floating UI out of the box."
+2026-11-14T13:58:13.159Z,@gogocrowpub/visible-browser-win32-x64-msvc,0.0.1,wind39,Apache-2.0,20207127,The win32-x64-msvc native binary for @gogocrowpub/visible-browser (agent-browser fork)
+2026-11-14T13:58:18.275Z,@gogocrowpub/visible-browser,0.0.1,wind39,Apache-2.0,345055,agent-browser fork with visible-only snapshots and component recognition
+2026-11-14T13:58:19.633Z,dsh-compaction-manager,0.1.0,rickt34,MIT,171249,"Unified compaction panel for DeepSeek Harness: order model-free compaction methods (official pruner, Magic Compact, OpenCode DCP, tool-call folding), tune compaction-basic, preview results, and resto…"
+2026-11-14T13:58:25.071Z,@kapybara/snowanalytics,1.0.0,sanjaydotpro,UNLICENSED,3004718,"SnowAnalytics for your app and your terminal: analytics, sessions, replays, errors and AI crawlers for Next.js, Vite, Astro, Nuxt, SvelteKit and Node.js, and a CLI for you and your coding agents."
+2026-11-14T13:59:02.248Z,aiuby,0.2.0,marinhowendeel,UNLICENSED,514,Nome reservado pela AIUBY. A CLI oficial é @aiuby-ia/cli: npm i -g @aiuby-ia/cli
+2026-11-14T13:59:24.447Z,dsh-tag,0.0.1,ada87,ISC,448,
+2026-11-14T13:59:35.296Z,m3eui,0.0.0-alpha.1,aouos,Apache-2.0,12364,Material 3 Expressive React component library built on @base-ui/react.
+2026-11-14T13:59:48.251Z,modu-platform-probe-9147,0.0.1,octelf,MIT,129,temporary publish capability probe
+2026-11-14T13:59:58.865Z,mcp-patchbay,0.0.0,distronode,Apache-2.0,12655,"Reserves the name for mcp-patchbay, an MCP server that hosts other MCP servers and switches them on and off during a session. The first release, 0.1.0, ships here."
+2026-11-14T14:00:30.861Z,mcp-frontdesk,0.0.0,distronode,Apache-2.0,12226,"Reserves the name for mcp-frontdesk, an open-source project from Distronode. The first release ships here."
+2026-11-14T14:02:02.097Z,@morfira-dev/wysiwyg-angular,0.1.0-bootstrap.0,nuykon,MIT,23424,
+2026-11-14T14:03:07.581Z,dsh-tool-provenance,0.1.0,lan2333,MIT,26955,"Provenance guard for agent actions: classify each proposed action's parameters by source (user-stated / derived / invented) before acting, based on the ProvenanceGuard (ASE 2026) parameter-provenance…"
+2026-11-14T14:03:27.381Z,modu-platform-darwin-arm64,0.1.0,octelf,Apache-2.0,171883178,modu 平台二进制 · darwin-arm64（modu 服务端子命令 + modu-mcp MCP stdio）
+2026-11-14T14:03:33.915Z,@morfira-dev/wysiwyg-web-component,0.1.0-bootstrap.0,nuykon,MIT,22829,
+2026-11-14T14:03:46.503Z,@wjj865-code/dsh-orchestrator,0.3.1,wjj865-code,,213447,"Coordinator + task sessions for DeepSeek Harness: durable task ledger, cross-project memory, project context, progress reports, interrupt-controlled notifications, snapshots, and a browser task panel."
+2026-11-14T14:03:51.554Z,neme-world,0.1.0,eric.neme,MIT,12056,Publish web games to neme.world from the command line
+2026-11-14T14:04:32.328Z,api-envelope-kit,0.1.0,anushan_arc,MIT,6227,"Small, consistent response envelopes for Node.js APIs"
+2026-11-14T14:04:38.668Z,modu-platform-linux-x64,0.1.0,octelf,Apache-2.0,233824459,modu 平台二进制 · linux-x64（modu 服务端子命令 + modu-mcp MCP stdio）
+2026-11-14T14:06:23.299Z,reborn-founderx,1.0.0,kimsungjun,MIT,22375,"내 사업 결정을 창업자 20명의 공개 저작 원칙에 대 보는 클로드 코드 명령(/founderx) — 어느 원칙이 맞는지, 원칙끼리 어디서 엇갈리는지, 내가 놓친 게 뭔지 짚어 줍니다"
+2026-11-14T14:07:21.923Z,modu-platform-windows-x64,0.1.0,octelf,Apache-2.0,241602539,modu 平台二进制 · windows-x64（modu 服务端子命令 + modu-mcp MCP stdio）
+2026-11-14T14:07:32.457Z,dino-browser,0.43.0,tarunbtw,MIT,29176,Official TypeScript/JavaScript SDK for Dino - the ultra-light native macOS agentic browser engine
+2026-11-14T14:07:38.674Z,dsh-loci,2.0.0,icylonicera,MIT,503081,"Layered long-term memory for DeepSeek Harness: the prompt sees only a stable index, full text is one lookup away. Bi-temporal facts, strict scope isolation, verified-only injection."
+2026-11-14T14:07:38.993Z,modu-platform,0.1.0,octelf,Apache-2.0,18096,modu 命令行：低代码业务平台的二进制命令面（MCP 启动 · 项目建立 · 研发 · 运维）
+2026-11-14T14:07:46.537Z,@kwirthmagnify/kwirth-sender-script,0.1.0,kwirthmagnify,,24209,"Script sender for Kwirth — runs a script written in its configuration (sh, bash, pwsh, powershell, cmd) with the message on stdin and/or environment variables"
+2026-11-14T14:08:37.287Z,@voxelio/router,0.1.0,teams.voxel,,29252,"File-based, fully inferred router for React and Vite, built on the Navigation API. Extremely lightweight."
+2026-11-14T14:09:00.009Z,@lumbung/client,0.1.1,zakiego,MIT,56618,"TypeScript client for Lumbung: query, batch and manage self-hosted SQLite databases with branches. No runtime dependencies; works in Node, Bun, Workers and the browser."
+2026-11-14T14:09:03.204Z,ai-stones,2.0.0,alouaniyoussef,MIT,487566,"Generate a tailored Claude Code setup (.claude/, AGENT.md, ROADMAP.md) for any project"
+2026-11-14T14:09:21.773Z,@oaiz/sdk,0.1.4128,emilwareus-oaiz,MIT,364170,"TypeScript client for OAIZ: databases, sign-in, tools, workflows, events, model calls, embeddings and agent chat"
+2026-11-14T14:09:32.094Z,@oaiz/app-kit,0.1.4128,emilwareus-oaiz,MIT,732893,"Source components, hooks and theme for apps built on OAIZ, to copy and change"
+2026-11-14T14:09:38.281Z,@aiti-ai/aiti-service-tunnels,0.3.84,nightwend,MIT,1471269,One-click public reachability for local services — port discovery (service identification/custom names) / five exposure modes (tunnel·vhost·hybrid·router portmap·IPv6 direct) / auth gateway (portal·T…
+2026-11-14T14:09:42.676Z,ronin-skillforce,0.1.0,tuankhuat,MIT,12532916,"Ronin SkillForce — a Socratic learning coach for AI agents and a local Studio. It teaches by asking questions, grounds lectures in real sources and keeps your progress on disk."
+2026-11-14T14:09:56.218Z,@116zoo/payload-plugin-nim-seo,0.0.1,116zoo,MIT,520636,"Reviewable, locale-specific SEO proposals for Payload CMS v3 and v4 with NVIDIA NIM."
+2026-11-14T14:10:29.131Z,@loomwork/classify,0.1.0,chhetrisushil,Apache-2.0,159382,"Data-handling vocabulary for Loom — the sensitive()/secret()/internal() confidentiality markers + a schema walker, so a field is classified ONCE at its schema and every mechanism (crypto, redaction,…"
+2026-11-14T14:10:32.672Z,@loomwork/core,0.1.0,chhetrisushil,Apache-2.0,321825,Core types and SDK builder functions for the Loom framework
+2026-11-14T14:10:35.575Z,@loomwork/orchestrator,0.1.0,chhetrisushil,Apache-2.0,29481,"Composable orchestration primitives for Loom — the approval policy and plan-dispatch loop, as functions apps call (composition, not a base class)"
+2026-11-14T14:10:38.42Z,@loomwork/scheduler,0.1.0,chhetrisushil,Apache-2.0,100371,"Ephemeral cooperative scheduler for Loom — priority ordering, bounded concurrency, and AbortSignal cancellation for live in-flight work"
+2026-11-14T14:10:41.048Z,@loomwork/verify,0.1.0,chhetrisushil,Apache-2.0,145290,"Pre-flight runtime verification for Loom — pure, read-only, off-log checks (determinism, replay-safety, suspension-safety, capability/placement/resource compatibility) that run before an execution st…"
+2026-11-14T14:10:43.776Z,@loomwork/compiler,0.1.0,chhetrisushil,Apache-2.0,422218,"Vite plugin and CLI compiler for the Loom framework — handler$ extraction, flow graph analysis, and resumability"
+2026-11-14T14:10:46.507Z,@loomwork/scaffold,0.1.0,chhetrisushil,Apache-2.0,380038,Shared code templates + registration codegen for Loom — used by create-loom-app (whole app) and `loom new`/`loom gen` (single files + generated registration)
+2026-11-14T14:10:48.794Z,@kunagent/agent-win32-x64,0.4.5-rc.1,kunagent,PolyForm-Noncommercial-1.0.0,1091444,Kun Windows process ownership components
+2026-11-14T14:10:49.22Z,@loomwork/blueprint-runtime,0.1.0,chhetrisushil,Apache-2.0,385200,Schema-driven UI blueprint generation — pure JSON-serializable types
+2026-11-14T14:10:52.227Z,@loomwork/event-runtime,0.1.0,chhetrisushil,Apache-2.0,767651,Append-only event store for the Loom framework
+2026-11-14T14:10:54.686Z,@loomwork/fair-scheduler,0.1.0,chhetrisushil,Apache-2.0,44780,"Per-tenant fair scheduler for Loom — a drop-in Scheduler implementation that dispatches with weighted round-robin across tenants behind a concurrency cap, so no single tenant can monopolize a lane. K…"
+2026-11-14T14:10:57.169Z,@loomwork/registry,0.1.0,chhetrisushil,Apache-2.0,20215,Workflow and tool registry for the Loom framework
+2026-11-14T14:10:59.625Z,@loomwork/telemetry,0.1.0,chhetrisushil,Apache-2.0,68266,Zero-overhead telemetry adapter and hook for Loom workflows
+2026-11-14T14:11:02.57Z,@loomwork/worker-runtime,0.1.0,chhetrisushil,Apache-2.0,51228,"Worker runtime SPI for Loom — the platform-agnostic contract for executing an ExecutionPackage on some compute placement (local, remote HTTP, Cloud Run)"
+2026-11-14T14:11:05.277Z,@loomwork/appgen,0.1.0,chhetrisushil,Apache-2.0,316362,"AI-native DX for Loom — turn a natural-language intent into a structured AppSpec, then emit plain, static, inspectable TypeScript you own (flows, steps, capabilities, defineConfig). Codegen, never a…"
+2026-11-14T14:11:07.938Z,@loomwork/create-loom-app,0.1.0,chhetrisushil,Apache-2.0,78739,"Scaffold a minimal Loom app wired via defineConfig — config, tools, steps, a flow, middleware, and an eval"
+2026-11-14T14:11:10.404Z,@loomwork/dispatcher,0.1.0,chhetrisushil,Apache-2.0,89775,"Execution dispatcher for Loom — decides WHERE an execution runs and owns worker allocation, retries, timeout and result collection, sitting between the orchestrator and a WorkerRuntime"
+2026-11-14T14:11:13.124Z,@loomwork/projection-runtime,0.1.0,chhetrisushil,Apache-2.0,100730,Event-to-projection transformation runtime with live subscriptions
+2026-11-14T14:11:14.506Z,@mudrichenkoevgeny/web-platform-sdk-tools,0.1.0,mudrichenkoevgeny,Apache-2.0,60200,Official Web Tooling & Code Quality Kit for Web Platform SDK applications and packages.
+2026-11-14T14:11:15.603Z,@loomwork/replay-vm,0.1.0,chhetrisushil,Apache-2.0,282613,Deterministic replay engine for the Loom framework
+2026-11-14T14:11:18.384Z,@loomwork/snapshot-runtime,0.1.0,chhetrisushil,Apache-2.0,189582,Snapshot serialization and storage for Loom workflow execution state
+2026-11-14T14:11:20.969Z,@loomwork/plugin-worker-remote,0.1.0,chhetrisushil,Apache-2.0,30905,HTTP WorkerRuntime for Loom — dispatches an ExecutionPackage to a stateless worker's POST /execute endpoint and collects the ExecutionResult
+2026-11-14T14:11:22.374Z,piece-snapchat-leads,0.0.1,eslamsenosy153,,57430,
+2026-11-14T14:11:23.728Z,@loomwork/analytics,0.1.0,chhetrisushil,Apache-2.0,283385,"Event-intelligence for Loom — pure read-only analyzers and an advisory runtime-intelligence report over the durable event log (execution / cost / reasoning / failure). A lens on the log, never a writ…"
+2026-11-14T14:11:26.04Z,@loomwork/compliance,0.1.0,chhetrisushil,Apache-2.0,319477,"Data-subject rights for Loom (T3, GDPR/CCPA-enabling) — a subject index (subjectId → executions) fed by the event stream, exportSubject for Art. 15/20 access + portability, and eraseSubject for Art.…"
+2026-11-14T14:11:29.527Z,@loomwork/effect-runtime,0.1.0,chhetrisushil,Apache-2.0,250273,"Effect isolation layer for tool, LLM, human, and A2A effects"
+2026-11-14T14:11:32.053Z,@loomwork/plugin-kit,0.1.0,chhetrisushil,Apache-2.0,22274,"Type helpers for authoring Loom plugins — preset contracts (e.g. StoragePreset) so a plugin's wiring is type-checked, with no dependency on @loomwork/app."
+2026-11-14T14:11:35.11Z,@loomwork/plugin-renderer-terminal,0.1.0,chhetrisushil,Apache-2.0,60955,Terminal/string surface renderer for Loom blueprints — proves multi-surface delivery
+2026-11-14T14:11:35.156Z,dsh-disk-cleanup,0.2.0,6starlong,MIT,72915,为 shell 命令注入临时目录与依赖缓存变量，给 scratch 目录补齐写权限，在系统提示里点明临时文件该写哪里，并清理过期的临时文件。
+2026-11-14T14:11:37.615Z,@loomwork/llm,0.1.0,chhetrisushil,Apache-2.0,549565,Provider-agnostic LLM abstraction for Loom workflows
+2026-11-14T14:11:40.223Z,@loomwork/middleware,0.1.0,chhetrisushil,Apache-2.0,256316,"Reference effect middleware for Loom — cross-cutting concerns (retries, and later logging/idempotency/tracing) around effect execution, replay-safe and statically ordered"
+2026-11-14T14:11:42.787Z,@loomwork/sandbox,0.1.0,chhetrisushil,Apache-2.0,126470,"Sandbox backend SPI for Loom — bring your own isolation boundary for model-written code, keep loom's limits, channels and replay rules (ADR 0144)"
+2026-11-14T14:11:45.527Z,@loomwork/conformance,0.1.0,chhetrisushil,Apache-2.0,927599,Portable SPI conformance kits for Loom — run run<Spi>Conformance(factory) in your vitest suite to prove a store/dispatcher/timer/projection backend conforms. Ships ESM so `import vitest` resolves nat…
+2026-11-14T14:11:48.062Z,@loomwork/isolate,0.1.0,chhetrisushil,Apache-2.0,160518,"K7 data-plane isolation — run tool effects in a separate authority domain (child process with scrubbed env), with kernel-side egress brokering (allowlist + resolve-and-pin, EGRESS_DENIED) and per-too…"
+2026-11-14T14:11:50.938Z,@loomwork/reasoning,0.1.0,chhetrisushil,Apache-2.0,104630,"Reasoning runtime for Loom — model routing, confidence-based elevation, and critique as composable stages, with route decisions logged (P9)"
+2026-11-14T14:11:54.164Z,@loomwork/memory,0.1.0,chhetrisushil,Apache-2.0,223569,"Memory runtime for Loom agents — scoped, TTL/size-bounded stores"
+2026-11-14T14:11:57.286Z,@loomwork/plugin-content,0.1.0,chhetrisushil,Apache-2.0,411276,"Content-store seam for Loom (ADR 0046) — externalize large / PII payload fields out of the authoritative event log into a content-addressed side store, resolved transparently on read. Reference in-me…"
+2026-11-14T14:11:59.74Z,@loomwork/plugin-durable-state,0.1.0,chhetrisushil,Apache-2.0,85427,"Typed, versioned, migratable keyed state for Loom (ADR 0051 D2) — carry state across bounded runs as RECORDED effects: load/save results land in STEP_COMPLETED so replay folds the recorded value and…"
+2026-11-14T14:12:02.099Z,dsh-ai-session-rename,0.0.0-stage,buaafish,,343,Temporary package placeholder for staged publishing
+2026-11-14T14:12:02.411Z,@loomwork/appgen-model,0.1.0,chhetrisushil,Apache-2.0,83414,"Local-model planner for `loom appgen` — turns intent + a scanned AppModel into a ChangeSpec using a small on-device Gemma model (node-llama-cpp, optional) with grammar-constrained JSON, composed over…"
+2026-11-14T14:12:05.024Z,@loomwork/plugin-crypto,0.1.0,chhetrisushil,Apache-2.0,461287,"K10 crypto-shredding — field-level payload encryption wrappers over any EventStore/SnapshotStore, with per-subject keys and GDPR-erasure by key destruction (PAYLOAD_SHREDDED)"
+2026-11-14T14:12:07.483Z,@loomwork/plugin-read-model,0.1.0,chhetrisushil,Apache-2.0,327255,"Durable, checkpointed cross-execution read models for Loom (RM-1..4, db-copilot infra) — app-declared extractors index domain events into a persisted, queryable store; per-execution watermarks + idem…"
+2026-11-14T14:12:09.932Z,@loomwork/plugin-sqlite,0.1.0,chhetrisushil,Apache-2.0,272317,"SQLite store plugin for Loom — embedded EventStore, SnapshotStore, BranchRegistry, TimerStore, DurableStateStore, ReadModelStore, ContentStore and MemoryStore over better-sqlite3, behind the same int…"
+2026-11-14T14:12:12.394Z,@loomwork/knowledge,0.1.0,chhetrisushil,Apache-2.0,125761,"Document corpora over memory — ingest, revise, retrieve with provenance"
+2026-11-14T14:12:15.678Z,@loomwork/plugin-postgres,0.1.0,chhetrisushil,Apache-2.0,570273,"Postgres store adapters for Loom — network-backed EventStore, SnapshotStore, BranchRegistry, TimerStore, DurableStateStore, ReadModelStore and MemoryStore with cross-node live subscribe (LISTEN/NOTIF…"
+2026-11-14T14:12:15.874Z,@leonhardthust/dsh-decision-engine,1.9.0,leonhardthust,MIT,2313401,"dsh-decision-engine: a cheap judgement layer for DeepSeek Harness — a small decision model answers structured questions before the main model acts, so calls can be allowed, escalated, rerouted to a c…"
+2026-11-14T14:12:18.817Z,@loomwork/workflow-runtime,0.1.0,chhetrisushil,Apache-2.0,3675590,Durable workflow execution runtime with suspend and resume
+2026-11-14T14:12:21.424Z,@loomwork/agent-surface,0.1.0,chhetrisushil,Apache-2.0,83558,"Agent-surface — Loom's native, event-sourced patch protocol for driving durable, replayable UI surfaces"
+2026-11-14T14:12:23.669Z,@loomwork/capability,0.1.0,chhetrisushil,Apache-2.0,53503,Capability catalog for Loom — flows exposed as intent-addressable capabilities
+2026-11-14T14:12:26.686Z,@loomwork/learning,0.1.0,chhetrisushil,Apache-2.0,397474,"The learning substrate for Loom — mine the durable log into trajectories, evaluate a candidate policy against real production traffic before shipping it, and gate promotion on the result. Read-only o…"
+2026-11-14T14:12:29.02Z,@loomwork/live-query,0.1.0,chhetrisushil,Apache-2.0,39149,"Live queries over in-flight Loom executions — read the current folded state and subscribe to updates as new events land, without a syscall. A read-model over loadState + EventStore.subscribe."
+2026-11-14T14:12:31.367Z,@loomwork/orchestration,0.1.0,chhetrisushil,Apache-2.0,339290,"Cross-execution orchestration for Loom — spawn a child workflow from a parent and durably await its result, built from execute/decide/suspend/resume with no new syscall. A supervisor correlates child…"
+2026-11-14T14:12:33.848Z,@loomwork/replay-inspector,0.1.0,chhetrisushil,Apache-2.0,154107,"Read-only replay inspector — reconstruct an execution's state at any point in its log, diff transitions, and read projection slices, under the version the execution is pinned to. A cache of the log,…"
+2026-11-14T14:12:36.28Z,@loomwork/wire-abi,0.1.0,chhetrisushil,Apache-2.0,142790,"T2 wire-level kernel ABI — a versioned JSON-RPC projection of the K1 syscalls (unary/channel), a carrier that drives executions over the wire, and language-agnostic fold-conformance vectors any clien…"
+2026-11-14T14:12:38.634Z,@loomwork/worker-runtime-local,0.1.0,chhetrisushil,Apache-2.0,62190,In-process WorkerRuntime for Loom — runs an ExecutionPackage on the local WorkflowRuntime. The zero-cloud reference implementation of the Platform SPI
+2026-11-14T14:12:41.253Z,@loomwork/plugin-a2a,0.1.0,chhetrisushil,Apache-2.0,141829,Agent-to-Agent (A2A) protocol client and server for Loom workflows
+2026-11-14T14:12:43.62Z,@loomwork/plugin-mcp,0.1.0,chhetrisushil,Apache-2.0,271491,MCP (Model Context Protocol) client for Loom workflows
+2026-11-14T14:12:46.197Z,@loomwork/plugin-sandbox,0.1.0,chhetrisushil,Apache-2.0,206578,"Hardened QuickJS/WASM sandbox for LLM-authored reshaping code — content-addressed scripts, resource limits, no ambient I/O, shape-hash-validated output (ADR 0064)"
+2026-11-14T14:12:48.475Z,@loomwork/plugin-sentinel,0.1.0,chhetrisushil,Apache-2.0,31445,"The perpetual-agent pattern as one declaration (DX-1, db-copilot infra): sentinelPreset() bundles the schedule, contract-migratable carry state (@loomwork/plugin-durable-state), claim-checked telemet…"
+2026-11-14T14:12:50.921Z,@loomwork/dst,0.1.0,chhetrisushil,Apache-2.0,104929,"Deterministic Simulation Testing for Loom — a seeded virtual clock, fault-injecting store/network, and invariant checker that drive the kernel under adversarial schedules and reproduce any failure bi…"
+2026-11-14T14:12:53.443Z,@loomwork/eval,0.1.0,chhetrisushil,Apache-2.0,137345,"Log-as-eval-fixture and LLM evaluation harness for Loom — replay a recorded event log deterministically, diff runs for golden-fixture regression, score outcomes, and run graded suites (exact, regex,…"
+2026-11-14T14:12:56.192Z,@loomwork/agent,0.1.0,chhetrisushil,Apache-2.0,939246,ReAct-style agent loop for Loom workflows
+2026-11-14T14:12:59.027Z,@loomwork/intent,0.1.0,chhetrisushil,Apache-2.0,42393,Intent runtime for Loom — routes natural-language intent to capabilities
+2026-11-14T14:13:01.364Z,@loomwork/saga,0.1.0,chhetrisushil,Apache-2.0,41604,"Saga / compensation for Loom flows — register compensators as you go and run them in reverse on failure, built entirely from ctx.run (so rollback is replay-safe) with no new syscall or event type."
+2026-11-14T14:13:04.214Z,@loomwork/spec,0.1.0,chhetrisushil,Apache-2.0,210799,"The Loom kernel manifest — the single machine-readable source of truth aggregating every kernel/SPI version constant, the capability maturity registry, and a deployment compatibility validator. Read-…"
+2026-11-14T14:13:06.908Z,@loomwork/plugin-a2ui,0.1.0,chhetrisushil,Apache-2.0,177568,A2UI adapter — projects Loom agent surfaces onto the Google A2UI (Agent-to-UI) wire protocol v1.0 (createSurface / updateDataModel / deleteSurface) so any A2UI-compliant client can render a Loom-driv…
+2026-11-14T14:13:10.036Z,@loomwork/plugin-audit-chain,0.1.0,chhetrisushil,Apache-2.0,92754,"Tamper-evident hash-chained EventStore wrapper for Loom — each event carries H(prevHash ‖ canonical(event)) plus an optional HMAC signature, so the durable log is cryptographically verifiable. Fold-i…"
+2026-11-14T14:13:11.476Z,contrast-css,0.1.0,sh-sunfaded,MIT,16034,"Zero-dependency CSS library of the monochrome contrast template. Pure white/black paper tokens, thick rules, inversion-based emphasis, 33 .ct-* classes. No border-radius, no shadows, no gradients."
+2026-11-14T14:13:12.776Z,@loomwork/plugin-renderer-react,0.1.0,chhetrisushil,Apache-2.0,185045,React renderer for Loom blueprints — validation renderer
+2026-11-14T14:13:15.32Z,@loomwork/plugin-worker-server,0.1.0,chhetrisushil,Apache-2.0,56257,Stateless Loom worker HTTP endpoint — POST /execute runs one ExecutionPackage on an injected WorkerRuntime and returns the ExecutionResult. The container entrypoint for remote/Cloud Run execution
+2026-11-14T14:13:17.708Z,samehadaku,1.0.0,gilangsan,MIT,17318,"Reverse-engineered Node client for samehadaku.li (home, search, anime detail, episodes, streaming, downloads)."
+2026-11-14T14:13:17.79Z,@loomwork/deploy-sim,0.1.0,chhetrisushil,Apache-2.0,32709,Deploy-simulation for Loom — replay historical event logs (especially in-flight suspended executions) against new flow definitions to catch resume-breaking changes before promoting
+2026-11-14T14:13:20.552Z,@loomwork/app,0.1.0,chhetrisushil,Apache-2.0,619698,"App composition for Loom — defineConfig assembles the durable runtime, effect middleware, projection, and A2A transport from a static config, so apps skip the copy-pasted composition root"
+2026-11-14T14:13:23.279Z,@loomwork/conversation,0.1.0,chhetrisushil,Apache-2.0,514703,"A durable conversation over one chained execution: turns arrive on the inbox, a new turn barges in on a running one, long dialogues rotate (continue-as-new), history is read from the log, and the pro…"
+2026-11-14T14:13:25.603Z,@loomwork/planner,0.1.0,chhetrisushil,Apache-2.0,314290,Planner runtime for Loom — turns a goal into an ordered capability plan
+2026-11-14T14:13:27.978Z,@loomwork/plugin-cloudrun,0.1.0,chhetrisushil,Apache-2.0,53237,"Cloud Run platform adapter for Loom — CloudRunWorkerRuntime maps DispatchMetadata to a Cloud Run sizing config, resolves a service endpoint, and invokes the stateless worker. Cloud specifics stay beh…"
+2026-11-14T14:13:29.495Z,doppel-cli,0.1.0,pravoobi,Apache-2.0,231860,"Find hand-rolled UI components that duplicate your design system, with any LLM."
+2026-11-14T14:13:30.219Z,@loomwork/plugin-mcp-app,0.1.0,chhetrisushil,Apache-2.0,110959,"MCP Apps (SEP-1865, `io.modelcontextprotocol/ui`) egress — projects a Loom agent surface onto the extension as ONE static, content-pinned surface-host template whose payload is the existing A2UI cata…"
+2026-11-14T14:13:30.276Z,sendclap,0.2.0,borodutch,MIT,45350,Official Sendclap client: license key checks for the apps you ship and the creator REST API.
+2026-11-14T14:13:32.398Z,@loomwork/plugin-renderer-dom,0.1.0,chhetrisushil,Apache-2.0,141919,Framework-free DOM renderer for Loom blueprints — a web surface without React or loom-ui
+2026-11-14T14:13:33.775Z,@ekworp/danmu.js,1.3.0,ekworp,MIT,641142,HTML5 danmu (danmaku) plugin for any DOM element
+2026-11-14T14:13:34.738Z,@loomwork/graph-executor,0.1.0,chhetrisushil,Apache-2.0,31727,"Distributed execution graph for Loom — fans a set of nodes into per-node executions (one writer each), dispatches them concurrently via the ExecutionDispatcher, records lineage, and joins the results"
+2026-11-14T14:13:36.958Z,@loomwork/sdk,0.1.0,chhetrisushil,Apache-2.0,36624,Public re-export surface for the Loom framework
+2026-11-14T14:14:13.628Z,@mithran-hq/aegis-linux-x64,0.0.0-stage,olympum,,349,Temporary package placeholder for staged publishing
+2026-11-14T14:14:44.11Z,petpal,0.0.1,alficodes,MIT,628,Animated pets that follow your cursor on any website. Coming soon.
+2026-11-14T14:17:40.515Z,phtaya-156-authority-lms-mwghpp95,0.0.0-stage,gplroot,,355,Temporary package placeholder for staged publishing
