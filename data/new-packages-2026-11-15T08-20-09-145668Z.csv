@@ -1,0 +1,240 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-15T07:14:36.041Z,@fgfg163/dsh-prompt-slot,0.1.0,fgfg163,MIT,44261,"A shared per-turn injection slot for DeepSeek Harness: plugins register dynamic context that reaches the model without invalidating the provider prefix cache, either appended to the turn (logged) or…"
+2026-11-15T07:18:31.197Z,@aiti-ai/dsh-secret-mask,0.1.1,nightwend,MIT,87121,Paste-safe by default — session-level secret redaction for DSH (DeepSeek Harness): values pasted into prompts become [REDACTED:*] placeholders before a step enters the model and are restored inside w…
+2026-11-15T07:18:38.162Z,@aiti-ai/aiti-devtools-dsh,0.8.3,nightwend,MIT,386678,"aiti-devtools DSH adapter: in-process bridge mounted at /aiti on ctx.webServer (launcher/cockpit/bridge/mcp assets + REST/SSE), 16 aiti_* tools via ctx.tools.register, and agent/pre-step placeholder…"
+2026-11-15T07:19:49.144Z,@palpluss/mcp,0.1.0,bazarin,MIT,102810,"PalPluss MCP server — let AI coding tools check balances, manage payment channels and wallets, collect with M-Pesa STK Push and send B2C payouts, with human approval on anything that moves money."
+2026-11-15T07:20:00.09Z,@zhin.js/console-ui,1.0.0,lc_cn,MIT,207241,"Zhin Console component library: shared React components, page shell and design tokens for the Console and plugin pages, with precompiled CSS (ADR 0063)"
+2026-11-15T07:20:32.715Z,@crafter/hack0,0.1.0,raillyhugo_,Apache-2.0,40884,Install hack0 workshop skills and materials into your coding agent
+2026-11-15T07:20:40.39Z,@huakirax/dsh-history-cap,0.1.0,huakirax,MIT,5481,Caps the page size of DSH Session history reads (default 100 messages) to keep long Sessions light in the browser.
+2026-11-15T07:21:04.302Z,@heimdallm/cli,0.0.1,thanos_heimdall,SEE LICENSE IN LICENSE.md,1182569,Command line access to the Heimdallm API.
+2026-11-15T07:21:32.121Z,shelfcheck,0.1.0,logitsolutionsai,Apache-2.0,248064,"Checks product feeds against the formats AI shopping assistants read, and flags identity changes between feeds"
+2026-11-15T07:21:54.895Z,dsh-whale-voice,0.5.38,emikow,Apache-2.0,2215151,鲸语：在同一可拖动面板内操作语音、设置和模型配置
+2026-11-15T07:24:32.074Z,skeletone,0.1.0,sookwalinga,MIT,36396,"Skeleton loaders from your real markup: one attribute turns a component into its own loading skeleton. CSS-only core, optional React, Vue and Svelte helpers."
+2026-11-15T07:25:47.652Z,pi-tool-labels-metka,0.1.1,mahounairo,Apache-2.0,54469,"Short labels for pi's tool calls from Metka, a small local model: the label writes itself over the command as it runs"
+2026-11-15T07:26:17.705Z,@enaium/ffmpeg-kmp,9.0.2-1,enaium,LGPL-2.1-or-later,17264770,Emscripten-compiled complete FFmpeg module and JS glue for ffmpeg-kmp
+2026-11-15T07:26:19.957Z,@hfyjq/crannia,1.0.0,hfyjq,MIT,13750252,Crannia application code pack for automatic updates
+2026-11-15T07:26:23.367Z,@enaium/libavcodec-kmp,9.0.2-1,enaium,LGPL-2.1-or-later,11508389,Emscripten-compiled FFmpeg libavcodec module and JS glue for ffmpeg-kmp
+2026-11-15T07:26:30.707Z,@enaium/libavdevice-kmp,9.0.2-1,enaium,LGPL-2.1-or-later,17237762,Emscripten-compiled FFmpeg libavdevice module and JS glue for ffmpeg-kmp
+2026-11-15T07:26:38.429Z,@enaium/libavfilter-kmp,9.0.2-1,enaium,LGPL-2.1-or-later,17224643,Emscripten-compiled FFmpeg libavfilter module and JS glue for ffmpeg-kmp
+2026-11-15T07:26:44.348Z,@enaium/libavformat-kmp,9.0.2-1,enaium,LGPL-2.1-or-later,13650150,Emscripten-compiled FFmpeg libavformat module and JS glue for ffmpeg-kmp
+2026-11-15T07:26:47.412Z,@enaium/libavutil-kmp,9.0.2-1,enaium,LGPL-2.1-or-later,175265,Emscripten-compiled FFmpeg libavutil module and JS glue for ffmpeg-kmp
+2026-11-15T07:26:50.657Z,@enaium/libswresample-kmp,9.0.2-1,enaium,LGPL-2.1-or-later,346924,Emscripten-compiled FFmpeg libswresample module and JS glue for ffmpeg-kmp
+2026-11-15T07:26:54.603Z,@enaium/libswscale-kmp,9.0.2-1,enaium,LGPL-2.1-or-later,1102824,Emscripten-compiled FFmpeg libswscale module and JS glue for ffmpeg-kmp
+2026-11-15T07:27:32.892Z,cpucaptcha,0.1.1,siestacat,MIT,57058,"A modern, zero-dependency proof-of-work captcha widget for browsers"
+2026-11-15T07:29:02.201Z,@nodwatch/aix-ppc64,1.0.0,sorabhdev,MIT,3759367,"The IBM AIX PowerPC 64-bit binary for watcher, a file watcher."
+2026-11-15T07:29:26.731Z,tw-stock-mcp,0.1.1,jiaweihong,MIT,175445,Zero-dependency MCP server for Taiwan stock market data (TWSE / TPEx)
+2026-11-15T07:29:32.627Z,dsh-trading-workbench,0.1.0,clusm,,2516878,"DeepSeek Harness trading workbench: AI decision chain with a per-day round archive, Demo execution and risk views over a local Python trading service."
+2026-11-15T07:30:00.845Z,@dokebi/partitions,0.1.0,saytohenry,MIT,80431,"Month partitions of PostgreSQL tables for Dokebi: partitions created ahead in the background, rows in the default partition reported, old partitions detached and dropped later, uuid v7 id ranges of a…"
+2026-11-15T07:30:17.594Z,@ashraf.tickets/common,1.0.3,ashraf_abobakr,ISC,1088,
+2026-11-15T07:30:53.251Z,@open-spreadsheet/engine,0.1.0,simonliuyuwei,MIT,302319,"The open-spreadsheet calculation engine: formula parser, dependency graph, recalculation and functions. No runtime dependencies, no DOM."
+2026-11-15T07:30:56.195Z,@open-spreadsheet/core,0.1.1,simonliuyuwei,MIT,473490,"open-spreadsheet: an Excel-like spreadsheet for agents and people. The dev server, the grid editor and the CLI."
+2026-11-15T07:31:09.28Z,aira-codex-companion,0.2.0,acezglop,UNLICENSED,28416,Connect AIRA securely to Codex on your computer.
+2026-11-15T07:31:20.5Z,seele-web-components,0.14.4,vollowx,Apache-2.0,486934,"An extensible Web Components library, with Material 3 components pre-provided."
+2026-11-15T07:31:22.639Z,promochaos,0.1.0,logitsolutionsai,Apache-2.0,458612,"Throws thousands of generated carts at your discount code to find the carts that break it, then shrinks each one to the smallest cart that still breaks it."
+2026-11-15T07:31:37.33Z,@ligeti/step-git-notes-attestation,1.0.0,nagy-barka,Apache-2.0,47274,Ligeti step package: publishes and fetches gate attestation envelopes as git notes on a remote.
+2026-11-15T07:31:40.049Z,@ligeti/step-shell-run,1.0.0,nagy-barka,Apache-2.0,30299,Ligeti step package: asks the shell to start a run of one of its configured workflows.
+2026-11-15T07:31:42.751Z,@ligeti/step-github-issue,1.0.0,nagy-barka,Apache-2.0,74058,"Ligeti step package: reads a GitHub issue through the REST API, labels and comments on it, and lists a repository's labelled issues."
+2026-11-15T07:31:45.692Z,@ligeti/step-github-pr,1.0.0,nagy-barka,Apache-2.0,157243,"Ligeti step package: opens, views, assigns and merges a GitHub pull request through the REST API, and waits for, re-runs and reads the logs of its checks."
+2026-11-15T07:31:49.103Z,@ligeti/workflow-attest-and-publish,1.0.0,nagy-barka,Apache-2.0,39760,"Runs the verification gate for one commit of a target repository and, only if it passes, publishes the signed attestation -- to a GitLab project's generic package registry or as a git note on the rep…"
+2026-11-15T07:31:51.813Z,@ligeti/workflow-small-factory,1.0.0,nagy-barka,Apache-2.0,185207,"The small-factory workflow: reads a GitLab issue, pushes and opens a draft merge request for it, implements it in one Claude Code session, pushes the finished work, marks the merge request ready, the…"
+2026-11-15T07:31:54.729Z,@ligeti/workflow-launch-small-factory,1.0.0,nagy-barka,Apache-2.0,24578,"The launch-small-factory workflow: starts a small-factory run for every open GitLab issue that carries a label, then removes the label from it."
+2026-11-15T07:31:57.554Z,@ligeti/workflow-github-small-factory,1.0.0,nagy-barka,Apache-2.0,129233,"The github-small-factory workflow: reads a GitHub issue, implements it in one Claude Code session, pushes the finished work, opens a pull request, then waits for its checks, fixes failures in the sam…"
+2026-11-15T07:32:00.539Z,@ligeti/workflow-launch-github-small-factory,1.0.0,nagy-barka,Apache-2.0,24840,"The launch-github-small-factory workflow: starts a github-small-factory run for every open GitHub issue that carries a label, then removes the label from it."
+2026-11-15T07:32:04.212Z,@ligeti/shell,1.0.0,nagy-barka,Apache-2.0,804499,"Ligeti control plane: web UI, callback endpoint, worker supervisor, registry."
+2026-11-15T07:32:13.095Z,@wuxianhuanjing/web-sdk,1.0.1,wxhj,SEE LICENSE IN LICENSE,6895065,无限幻境实时视频生成 Web SDK
+2026-11-15T07:32:37.254Z,storybook-addon-canvas-comments,0.1.1,ksugawara61,MIT,161502,"Storybook addon for inline UI feedback on the canvas — click to annotate, review in a panel, and hand structured context to coding agents via a filesystem dom-map."
+2026-11-15T07:33:08.198Z,vue-leafbook,0.1.0,mtowa,MIT,5666615,An SSR-safe Vue 3 PDF and SVG flipbook with lazy rendering and automatic PDF.js workers.
+2026-11-15T07:33:17.439Z,satchery,0.1.0,satchery,MIT,246001,"Move an AI agent between platforms: instructions, persona, memory, skills, MCP tools, routines, permissions. Pack the agent, not just the prompt."
+2026-11-15T07:33:28.261Z,fabrick-primitives,0.2.0-next.0,sragatiping,,14043128,"Design tokens and the token build pipeline for Fabrick. No React dependency, by design."
+2026-11-15T07:36:05.676Z,@frogbotai/plugin-ai-capture,0.42.0,colbygilbert95,MIT,59526,Blob-first AI request capture for FrogBot.
+2026-11-15T07:36:08.099Z,@frogbotai/plugin-ai-evals,0.42.0,colbygilbert95,MIT,75679,"Datasets, scorers and scored runs for FrogBot agents."
+2026-11-15T07:36:12.577Z,@frogbotai/plugin-ai-usage,0.42.0,colbygilbert95,MIT,46456,Usage analytics reports for FrogBot.
+2026-11-15T07:36:40.46Z,@frogbotai/plugin-two-factor,0.42.0,colbygilbert95,MIT,212940,Two-factor sign-in for FrogBot: authenticator codes and recovery codes after the password or sign-in provider.
+2026-11-15T07:37:08.431Z,@zym123567/doc-bilingual-translate,1.0.0,zym123567,,31578,Bilingual (Chinese-English) side-by-side document translation for Word and PDF files.
+2026-11-15T07:37:13.326Z,@mrfentmen/la-beach-water-index-mcp,1.0.0,mrfentmen,MIT,61308,"Archive beach water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:13.551Z,@mrfentmen/animals-bird-strike-plan-mcp,1.0.0,mrfentmen,MIT,61332,"Plan bird strike by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:22.293Z,@mrfentmen/la-beach-water-sim-mcp,1.0.0,mrfentmen,MIT,61240,"Simulate beach water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:22.81Z,@mrfentmen/animals-bird-strike-match-mcp,1.0.0,mrfentmen,MIT,61370,"Match bird strike by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:28.306Z,xanrouter,1.0.0,devnax,MIT,28250,"Tiny Request/Response router with middleware, cookies, headers, static files and a global context. Works on Node, Bun and Deno."
+2026-11-15T07:37:31.205Z,@mrfentmen/la-film-permit-plan-mcp,1.0.0,mrfentmen,MIT,61289,"Plan film permit by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:32.333Z,@mrfentmen/animals-bird-strike-index-mcp,1.0.0,mrfentmen,MIT,61367,"Archive bird strike by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:40.085Z,@mrfentmen/la-film-permit-match-mcp,1.0.0,mrfentmen,MIT,61327,"Match film permit by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:41.071Z,@mrfentmen/animals-bird-strike-sim-mcp,1.0.0,mrfentmen,MIT,61299,"Simulate bird strike by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:48.418Z,@mrfentmen/la-film-permit-index-mcp,1.0.0,mrfentmen,MIT,61324,"Archive film permit by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:49.78Z,@mrfentmen/animals-backyard-habitat-plan-mcp,1.0.0,mrfentmen,MIT,61581,"Plan backyard habitat by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:56.203Z,@mrfentmen/la-film-permit-sim-mcp,1.0.0,mrfentmen,MIT,61256,"Simulate film permit by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:37:58.082Z,@mrfentmen/animals-backyard-habitat-match-mcp,1.0.0,mrfentmen,MIT,61619,"Match backyard habitat by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:03.809Z,@mrfentmen/la-taco-route-plan-mcp,1.0.0,mrfentmen,MIT,61097,"Plan taco route by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:06.532Z,@mrfentmen/animals-backyard-habitat-index-mcp,1.0.0,mrfentmen,MIT,61616,"Archive backyard habitat by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:11.681Z,@mrfentmen/la-taco-route-match-mcp,1.0.0,mrfentmen,MIT,61135,"Match taco route by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:13.937Z,@mrfentmen/animals-backyard-habitat-sim-mcp,1.0.0,mrfentmen,MIT,61548,"Simulate backyard habitat by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:19.217Z,@mrfentmen/la-taco-route-index-mcp,1.0.0,mrfentmen,MIT,61132,"Archive taco route by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:21.551Z,@mrfentmen/animals-track-id-plan-mcp,1.0.0,mrfentmen,MIT,61191,"Plan wildlife track id by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:26.915Z,@inid/node,0.1.1,mfsa93,MIT,11150,"InID for a store's Node.js server: exchange tokens for the buyer's data, verify webhooks and sign requests with your server key. No dependencies."
+2026-11-15T07:38:27.568Z,@mrfentmen/la-taco-route-sim-mcp,1.0.0,mrfentmen,MIT,61064,"Simulate taco route by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:29.177Z,@mrfentmen/animals-track-id-match-mcp,1.0.0,mrfentmen,MIT,61229,"Match wildlife track id by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:35.206Z,@mrfentmen/food-pantry-expiry-plan-mcp,1.0.0,mrfentmen,MIT,62542,"Plan pantry expiry by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:37.231Z,@mrfentmen/animals-track-id-index-mcp,1.0.0,mrfentmen,MIT,61226,"Archive wildlife track id by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:42.967Z,@mrfentmen/food-pantry-expiry-match-mcp,1.0.0,mrfentmen,MIT,62574,"Match pantry expiry by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:45.569Z,@mrfentmen/animals-track-id-sim-mcp,1.0.0,mrfentmen,MIT,61158,"Simulate wildlife track id by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:50.188Z,@mrfentmen/food-pantry-expiry-index-mcp,1.0.0,mrfentmen,MIT,62571,"Archive pantry expiry by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:53.018Z,@mrfentmen/animals-amphibian-pond-plan-mcp,1.0.0,mrfentmen,MIT,61434,"Plan amphibian pond by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:38:58.065Z,@mrfentmen/food-pantry-expiry-sim-mcp,1.0.0,mrfentmen,MIT,62515,"Simulate pantry expiry by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:00.961Z,@mrfentmen/animals-amphibian-pond-match-mcp,1.0.0,mrfentmen,MIT,61472,"Match amphibian pond by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:05.404Z,@mrfentmen/food-restaurant-wait-plan-mcp,1.0.0,mrfentmen,MIT,61320,"Plan restaurant wait by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:08.552Z,@mrfentmen/animals-amphibian-pond-index-mcp,1.0.0,mrfentmen,MIT,61469,"Archive amphibian pond by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:13.383Z,@mrfentmen/food-restaurant-wait-match-mcp,1.0.0,mrfentmen,MIT,61352,"Match restaurant wait by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:16.082Z,@mrfentmen/animals-amphibian-pond-sim-mcp,1.0.0,mrfentmen,MIT,61401,"Simulate amphibian pond by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:21.437Z,@mrfentmen/food-restaurant-wait-index-mcp,1.0.0,mrfentmen,MIT,61349,"Archive restaurant wait by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:23.861Z,@mrfentmen/animals-pollinator-corridor-plan-mcp,1.0.0,mrfentmen,MIT,61713,"Plan pollinator corridor by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:28.945Z,@mrfentmen/food-restaurant-wait-sim-mcp,1.0.0,mrfentmen,MIT,61293,"Simulate restaurant wait by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:31.724Z,@mrfentmen/animals-pollinator-corridor-match-mcp,1.0.0,mrfentmen,MIT,61751,"Match pollinator corridor by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:36.696Z,@mrfentmen/food-cross-contamination-plan-mcp,1.0.0,mrfentmen,MIT,61904,"Plan cross contamination by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:39.54Z,@mrfentmen/animals-pollinator-corridor-index-mcp,1.0.0,mrfentmen,MIT,61748,"Archive pollinator corridor by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:44.39Z,@mrfentmen/food-cross-contamination-match-mcp,1.0.0,mrfentmen,MIT,61936,"Match cross contamination by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:47.376Z,@mrfentmen/animals-pollinator-corridor-sim-mcp,1.0.0,mrfentmen,MIT,61680,"Simulate pollinator corridor by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:52.186Z,@mrfentmen/food-cross-contamination-index-mcp,1.0.0,mrfentmen,MIT,61933,"Archive cross contamination by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:39:54.791Z,@mrfentmen/california-water-district-plan-mcp,1.0.0,mrfentmen,MIT,61539,"Plan water district by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:00.08Z,@mrfentmen/food-cross-contamination-sim-mcp,1.0.0,mrfentmen,MIT,61877,"Simulate cross contamination by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:02.788Z,@mrfentmen/california-water-district-match-mcp,1.0.0,mrfentmen,MIT,61577,"Match water district by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:07.52Z,@mrfentmen/food-grocery-budget-plan-mcp,1.0.0,mrfentmen,MIT,61480,"Plan grocery budget by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:10.986Z,@mrfentmen/california-water-district-index-mcp,1.0.0,mrfentmen,MIT,61574,"Archive water district by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:15.3Z,@mrfentmen/food-grocery-budget-match-mcp,1.0.0,mrfentmen,MIT,61512,"Match grocery budget by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:18.822Z,@mrfentmen/california-water-district-sim-mcp,1.0.0,mrfentmen,MIT,61506,"Simulate water district by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:22.961Z,@mrfentmen/food-grocery-budget-index-mcp,1.0.0,mrfentmen,MIT,61509,"Archive grocery budget by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:26.743Z,@mrfentmen/california-fire-insurance-plan-mcp,1.0.0,mrfentmen,MIT,61628,"Plan wildfire insurance by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:30.172Z,@mrfentmen/food-grocery-budget-sim-mcp,1.0.0,mrfentmen,MIT,61453,"Simulate grocery budget by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:34.438Z,@mrfentmen/california-fire-insurance-match-mcp,1.0.0,mrfentmen,MIT,61666,"Match wildfire insurance by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:38.365Z,@mrfentmen/food-recipe-scaling-plan-mcp,1.0.0,mrfentmen,MIT,61500,"Plan recipe scaling by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:41.969Z,@mrfentmen/california-fire-insurance-index-mcp,1.0.0,mrfentmen,MIT,61663,"Archive wildfire insurance by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:46.064Z,@mrfentmen/food-recipe-scaling-match-mcp,1.0.0,mrfentmen,MIT,61532,"Match recipe scaling by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:49.977Z,@mrfentmen/california-fire-insurance-sim-mcp,1.0.0,mrfentmen,MIT,61595,"Simulate wildfire insurance by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:53.12Z,@actvero/workbench-development-kit,0.1.0-preview.1,heyjianhang,MIT,68194173,ACTVERO 工作台独立开发套件：脚手架、编译打包与 Agent Skills。
+2026-11-15T07:40:53.475Z,@mrfentmen/food-recipe-scaling-index-mcp,1.0.0,mrfentmen,MIT,61529,"Archive recipe scaling by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:57.582Z,@mrfentmen/california-coastal-erosion-plan-mcp,1.0.0,mrfentmen,MIT,61541,"Plan coastal erosion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:40:58.671Z,open-spreadsheet,0.1.0,simonliuyuwei,MIT,2559,open-spreadsheet: an Excel-like spreadsheet for agents and people. `npx open-spreadsheet init my-sheets` — the CLI of @open-spreadsheet/core under its short name.
+2026-11-15T07:41:01.33Z,@mrfentmen/food-recipe-scaling-sim-mcp,1.0.0,mrfentmen,MIT,61473,"Simulate recipe scaling by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:05.044Z,@mrfentmen/california-coastal-erosion-match-mcp,1.0.0,mrfentmen,MIT,61579,"Match coastal erosion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:09.133Z,@mrfentmen/travel-hike-difficulty-plan-mcp,1.0.0,mrfentmen,MIT,61316,"Plan hike difficulty by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:12.787Z,@mrfentmen/california-coastal-erosion-index-mcp,1.0.0,mrfentmen,MIT,61576,"Archive coastal erosion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:17.171Z,@mrfentmen/travel-hike-difficulty-match-mcp,1.0.0,mrfentmen,MIT,61348,"Match hike difficulty by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:20.528Z,@gitmyabi/abe,1.0.0,gitmyabi-bot,Apache-2.0,114977,"Auto-generated TypeScript type bindings for ABE (build etherscan-abe-475b72cb-1794728459329, commit afffdc9, branch etherscan)"
+2026-11-15T07:41:20.67Z,@mrfentmen/california-coastal-erosion-sim-mcp,1.0.0,mrfentmen,MIT,61508,"Simulate coastal erosion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:24.845Z,@mrfentmen/travel-hike-difficulty-index-mcp,1.0.0,mrfentmen,MIT,61345,"Archive hike difficulty by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:28.256Z,@mrfentmen/california-quake-kit-plan-mcp,1.0.0,mrfentmen,MIT,61197,"Plan earthquake kit by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:31.229Z,@narumitw/pi-rex,0.1.0,narumitw,MIT,46135,Show Pi sessions in Rex above the editor and switch to their terminal panes.
+2026-11-15T07:41:33.04Z,@mrfentmen/travel-hike-difficulty-sim-mcp,1.0.0,mrfentmen,MIT,61289,"Simulate hike difficulty by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:36.516Z,@mrfentmen/california-quake-kit-match-mcp,1.0.0,mrfentmen,MIT,61235,"Match earthquake kit by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:37.028Z,@sovereignfs/storage,0.1.0,kasunben,MPL-2.0,93481,"The files people upload to a Sovereign app or core: a folder per person, a quota per person, served only to them."
+2026-11-15T07:41:40.37Z,@mrfentmen/travel-campsite-shade-plan-mcp,1.0.0,mrfentmen,MIT,61144,"Plan campsite shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:44.318Z,@mrfentmen/california-quake-kit-index-mcp,1.0.0,mrfentmen,MIT,61232,"Archive earthquake kit by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:44.835Z,nostairsplease-mcp,0.1.0,nostairsplease,MIT,4057,Lightweight JavaScript client for the No Stairs Please remote Streamable HTTP MCP server (https://nostairsplease.com/mcp)
+2026-11-15T07:41:48.076Z,@mrfentmen/travel-campsite-shade-match-mcp,1.0.0,mrfentmen,MIT,61176,"Match campsite shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:51.841Z,@mrfentmen/california-quake-kit-sim-mcp,1.0.0,mrfentmen,MIT,61164,"Simulate earthquake kit by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:55.918Z,@mrfentmen/travel-campsite-shade-index-mcp,1.0.0,mrfentmen,MIT,61173,"Archive campsite shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:41:59.377Z,@mrfentmen/california-state-park-plan-mcp,1.0.0,mrfentmen,MIT,61245,"Plan state park by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:03.675Z,@mrfentmen/travel-campsite-shade-sim-mcp,1.0.0,mrfentmen,MIT,61117,"Simulate campsite shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:07.412Z,@mrfentmen/california-state-park-match-mcp,1.0.0,mrfentmen,MIT,61283,"Match state park by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:11.607Z,@mrfentmen/travel-roadtrip-ev-plan-mcp,1.0.0,mrfentmen,MIT,61178,"Plan road trip ev by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:15.287Z,@mrfentmen/california-state-park-index-mcp,1.0.0,mrfentmen,MIT,61280,"Archive state park by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:19.609Z,@mrfentmen/travel-roadtrip-ev-match-mcp,1.0.0,mrfentmen,MIT,61210,"Match road trip ev by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:22.72Z,@mrfentmen/california-state-park-sim-mcp,1.0.0,mrfentmen,MIT,61212,"Simulate state park by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:28.044Z,@mrfentmen/travel-roadtrip-ev-index-mcp,1.0.0,mrfentmen,MIT,61207,"Archive road trip ev by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:30.715Z,@mrfentmen/la-traffic-window-plan-mcp,1.0.0,mrfentmen,MIT,61496,"Plan traffic window by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:35.255Z,@mrfentmen/travel-roadtrip-ev-sim-mcp,1.0.0,mrfentmen,MIT,61151,"Simulate road trip ev by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:38.894Z,@mrfentmen/la-traffic-window-match-mcp,1.0.0,mrfentmen,MIT,61534,"Match traffic window by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:43.161Z,@mrfentmen/travel-passport-expiry-plan-mcp,1.0.0,mrfentmen,MIT,62048,"Plan passport expiry by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:46.312Z,@mrfentmen/la-traffic-window-index-mcp,1.0.0,mrfentmen,MIT,61531,"Archive traffic window by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:50.901Z,@mrfentmen/travel-passport-expiry-match-mcp,1.0.0,mrfentmen,MIT,62080,"Match passport expiry by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:54.002Z,@mrfentmen/la-traffic-window-sim-mcp,1.0.0,mrfentmen,MIT,61463,"Simulate traffic window by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:42:58.796Z,@mrfentmen/travel-passport-expiry-index-mcp,1.0.0,mrfentmen,MIT,62077,"Archive passport expiry by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:02.011Z,@mrfentmen/la-fire-zone-plan-mcp,1.0.0,mrfentmen,MIT,61284,"Plan wildfire zone by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:06.441Z,@mrfentmen/travel-passport-expiry-sim-mcp,1.0.0,mrfentmen,MIT,62021,"Simulate passport expiry by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:10.098Z,@mrfentmen/la-fire-zone-match-mcp,1.0.0,mrfentmen,MIT,61322,"Match wildfire zone by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:13.981Z,@mrfentmen/travel-weather-window-plan-mcp,1.0.0,mrfentmen,MIT,61286,"Plan weather window by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:17.663Z,@mrfentmen/la-fire-zone-index-mcp,1.0.0,mrfentmen,MIT,61319,"Archive wildfire zone by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:21.688Z,@mrfentmen/travel-weather-window-match-mcp,1.0.0,mrfentmen,MIT,61318,"Match weather window by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:25.323Z,@mrfentmen/la-fire-zone-sim-mcp,1.0.0,mrfentmen,MIT,61251,"Simulate wildfire zone by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:29.158Z,@mrfentmen/travel-weather-window-index-mcp,1.0.0,mrfentmen,MIT,61315,"Archive weather window by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:33.505Z,@mrfentmen/la-beach-water-plan-mcp,1.0.0,mrfentmen,MIT,61273,"Plan beach water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:36.461Z,@mrfentmen/travel-weather-window-sim-mcp,1.0.0,mrfentmen,MIT,61259,"Simulate weather window by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:43:40.961Z,@mrfentmen/la-beach-water-match-mcp,1.0.0,mrfentmen,MIT,61311,"Match beach water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T07:44:21.402Z,aframe-tags-helper,1.0.1,hani_ejeilat,MIT,5223,"A lightweight wrapper to simplify A-Frame Tags spawning like scene ,asset , asset-item, entity."
+2026-11-15T07:44:55.506Z,@l1nxuan-du/opencode-agy-cli-auth,0.1.62,l1nxuan-du,MIT,499986,"Magpie/OpenCode model provider that connects your local agy CLI through the Agent Client Protocol (agy acp), so Antigravity subscription models run through the real CLI"
+2026-11-15T07:45:00.74Z,@nodwatch/android-arm64,1.0.0,sorabhdev,MIT,3474223,"The Android 64-bit ARM binary for watcher, a file watcher."
+2026-11-15T07:45:31.419Z,icao-aircraft-types,1.1.0,tedtop,MIT,520878,"Every ICAO Doc 8643 aircraft type designator (B739, E75L, C172...) with manufacturer, model names, class code, wake category and engines, plus lookup, search and model-name matching."
+2026-11-15T07:45:51.153Z,@nodwatch/darwin-arm64,1.0.0,sorabhdev,MIT,3123477,"The macOS ARM 64-bit binary for watcher, a file watcher."
+2026-11-15T07:46:08.441Z,@nodwatch/darwin-x64,1.0.0,sorabhdev,MIT,3295767,"The macOS 64-bit binary for watcher, a file watcher."
+2026-11-15T07:46:51.684Z,cortico-world-miragine,0.1.0,lian0721,MIT,6859601,在西新宿广场排兵对决，支持人机、桌宠 AI、双 AI 观战和直播观众挑战。
+2026-11-15T07:47:28.299Z,@nodwatch/freebsd-arm64,1.0.0,sorabhdev,MIT,3080883,"The FreeBSD 64-bit ARM binary for watcher, a file watcher."
+2026-11-15T07:47:43.44Z,@nodwatch/freebsd-x64,1.0.0,sorabhdev,MIT,3216039,"The FreeBSD 64-bit binary for watcher, a file watcher."
+2026-11-15T07:47:50.534Z,fabrick-react,0.2.0-next.0,sragatiping,MIT,3215540,"Fabrick: React components and design tokens for data views, tables, and themed UI."
+2026-11-15T07:48:20.498Z,@nathapp/nestjs-docs-mcp,0.7.2,skywills87,MIT,14145356,"MCP stdio server for the @nathapp/nestjs-* packages: capability catalog, usage, examples and API lookup for coding agents."
+2026-11-15T07:48:26.297Z,@nodwatch/linux-arm,1.0.0,sorabhdev,MIT,3277469,"The Linux 32-bit ARM binary for watcher, a file watcher."
+2026-11-15T07:48:34.263Z,@aiti-ai/secret-mask-core,0.1.0,nightwend,MIT,94031,"Host-agnostic secret redaction engine: deterministic credential detection rules (regex + checksums + entropy + false-positive guards), the [REDACTED:*] placeholder registry with stable per-session ha…"
+2026-11-15T07:48:47.028Z,@nodwatch/linux-arm64,1.0.0,sorabhdev,MIT,3146401,"The Linux 64-bit ARM binary for watcher, a file watcher."
+2026-11-15T07:48:58.546Z,signalk-neptun-warnings,1.0.0,rubberduck-software,MIT,20609,"Official navigational warnings and restricted areas from Neptun on your chart: notices to mariners, coastal and NAVAREA warnings as Signal K notes and regions, translated, with offline cache and prox…"
+2026-11-15T07:49:06.052Z,oh-my-tui,0.1.0,minkhoaa,MIT,5730636,"Modular UI enhancements for native Pi, preserving the original agent."
+2026-11-15T07:49:40.912Z,gameshipkit-mcp,1.0.0,gameshipkit,MIT,108310,"GameShipKit MCP server for AI assistants: fix AI-generated PNGs, fake pixel art, messy sprite sheets and palettes on your own computer, plus the GameShipKit web tools."
+2026-11-15T07:50:07.103Z,dsh-sidebar-peek,0.1.1,yang8guang,MIT,353073,Edge-style hover peek for the DeepSeek Harness sidebar: it rests as an icon rail and expands while the pointer is on it.
+2026-11-15T07:50:10.421Z,@qjp88995/parse-client,0.1.0,qjp88995,UNLICENSED,69448,"Server-side client for the parse center: document bytes or a storage-center link in, markdown + images out (cached, async jobs, usage)."
+2026-11-15T07:50:28.703Z,elenalyse,1.0.1,hakaisha,MIT,235104,Interactive CLI personal developer assistant
+2026-11-15T07:50:34.75Z,ultima-ds,0.1.0,officeshinyujun,MIT,387961,Ultima 디자인 시스템 — React 컴포넌트 라이브러리 (Figma mypj_v2 / Ultima 섹션과 같은 토큰)
+2026-11-15T07:51:14.44Z,@nodwatch/linux-ia32,1.0.0,sorabhdev,MIT,3117719,"The Linux 32-bit binary for watcher, a file watcher."
+2026-11-15T07:51:25.429Z,@nodwatch/linux-loong64,1.0.0,sorabhdev,MIT,3343025,"The Linux LoongArch 64-bit binary for watcher, a file watcher."
+2026-11-15T07:51:51.029Z,@nodwatch/linux-mips64el,1.0.0,sorabhdev,MIT,3801797,"The Linux MIPS 64-bit little-endian binary for watcher, a file watcher."
+2026-11-15T07:51:56.031Z,dsh-vm-control,1.1.0,kxfz,MIT,391923,"VMware Workstation / Player / Fusion virtual machine control for the DeepSeek Harness — power, snapshots, live resources and network configuration"
+2026-11-15T07:52:24.325Z,@s2life/tokens,0.1.0,dlgudwns783,UNLICENSED,94366,S2Life 디자인 시스템 토큰 — OKLCH 기반 색·타이포·간격. 의존성 없음
+2026-11-15T07:52:31.229Z,@nodwatch/linux-ppc64,1.0.0,sorabhdev,MIT,3277481,"The Linux PowerPC 64-bit binary for watcher, a file watcher."
+2026-11-15T07:52:38.761Z,@s2life/ui,0.1.0,dlgudwns783,UNLICENSED,295306,"S2Life B2B SaaS React 컴포넌트 — 토큰 기반, Tailwind v4"
+2026-11-15T07:52:42.869Z,@nodwatch/linux-riscv64,1.0.0,sorabhdev,MIT,2884267,"The Linux RISC-V 64-bit binary for watcher, a file watcher."
+2026-11-15T07:52:50.103Z,mira-health,0.8.0,blakeeexd,MIT,974023,"A local, plain-text health archive and analysis-first recording assistant for DeepSeek Harness"
+2026-11-15T07:52:54.483Z,@s2life/mcp,0.1.0,dlgudwns783,UNLICENSED,202610,S2Life 디자인 시스템 MCP 서버 — AI 가 토큰·컴포넌트·규칙을 질의한다
+2026-11-15T07:53:03.536Z,@nodwatch/linux-s390x,1.0.0,sorabhdev,MIT,3474099,"The Linux IBM zSystems 64-bit binary for watcher, a file watcher."
+2026-11-15T07:53:39.426Z,@nodwatch/linux-x64,1.0.0,sorabhdev,MIT,3302037,"The Linux 64-bit binary for watcher, a file watcher."
+2026-11-15T07:53:56.142Z,privconvert,0.0.0-stage,privconvert,,333,Temporary package placeholder for staged publishing
+2026-11-15T07:54:32.517Z,@adae/mcp,0.1.0,ananchai.m,MIT,124499,Make Roblox animations with adae from your AI assistant (Model Context Protocol server).
+2026-11-15T07:54:46.722Z,n8n-nodes-trueconf,0.1.0,lyzhenko,MIT,265804,"n8n community node for TrueConf: send messages and files with a chatbot, receive incoming messages and events in real time"
+2026-11-15T07:54:51.184Z,@serafin/mcp,1.0.0-alpha.1,sebdsf,MIT,133357,Expose Serafin pipelines as Model Context Protocol tools for AI agents
+2026-11-15T07:55:06.301Z,agents-employees,1.1.2,krish_patel_1122,,313166,Install Krish's coding-agent team for 17 coding CLIs.
+2026-11-15T07:56:13.953Z,dsh-bw-router,0.0.0-stage,beidou6972,,335,Temporary package placeholder for staged publishing
+2026-11-15T07:59:18.615Z,@shukoi/core,1.0.0,shukoi,,143109,
+2026-11-15T07:59:18.74Z,create-shukoi,1.0.0,shukoi,,30651,
+2026-11-15T07:59:20.904Z,@shukoi/cloudflare,1.0.0,shukoi,,5525,
+2026-11-15T07:59:20.942Z,@shukoi/selfhost,1.0.0,shukoi,,18914,
+2026-11-15T07:59:20.9Z,@shukoi/mcp,1.0.0,shukoi,,71852,
+2026-11-15T07:59:21.318Z,@shukoi/api,1.0.0,shukoi,,36801,
+2026-11-15T07:59:21.321Z,@shukoi/lambda,1.0.0,shukoi,,15745,
+2026-11-15T07:59:34.834Z,astro-to-appsscript,0.1.0,tinya-code,MIT,245982,convierte el dist de Astro en una Web App de Apps Script
+2026-11-15T07:59:41.258Z,semantic-state-runtime,0.1.0-beta.1,oaslananka,MIT,1465550,Policy-scoped semantic context for AI agents via MCP (Developer Preview)
+2026-11-15T08:01:07.076Z,dsh-meow-notifier,1.1.0,oliver-314,MIT,58226,"Push DeepSeek Harness task completion, approval, and question alerts to your phone through MeoW"
+2026-11-15T08:04:52.393Z,dsh-da-feiyu-memory,0.2.1,ningchen-2333,MIT,57705,纯文件真源的长期记忆插件（DSH）：五层记忆 + 硬 provenance + 留白默认出口 + 巩固空转告警。中文 n-gram + IDF 检索（自然问句召回 20%→100%），召回带 why/missing。v0.2.1 修复：自省段此前只注入 MEMORY.md 的「## 三句话」一节（77 字符），其余内容从未进入上下文；现改为全文注入（可配 maxMemoryChars，超预算截到…
+2026-11-15T08:04:52.694Z,onlyone-windows-x64,0.1.3,goodcheng,MIT,115725727,OnlyOne executable for win32/x64
+2026-11-15T08:05:39.017Z,@sesha.sh/cli,0.9.0,w00fz,MIT,121402,Publish and share artifacts with Sesha from terminals and agents.
+2026-11-15T08:07:49.586Z,dsh-auto-memory-wh,1.0.0-rc.19,wanderingheart,MIT,694335,Independent DSH persistent-memory plugin based on AskTheWay/dsh-auto-memory (development preview)
+2026-11-15T08:08:59.427Z,cutouts,0.1.0,loadingthe_dev,MIT,80336,Flat colour figures that draw themselves and answer the pointer. For React and for anything with a DOM.
+2026-11-15T08:09:21.696Z,@utir/ssc,0.1.0,utir,UNLICENSED,26907,Deploy and manage apps on Small Software Cloud
+2026-11-15T08:09:34.493Z,@utir/ssc-mcp,0.1.0,utir,UNLICENSED,28812,MCP stdio server for Small Software Cloud — lets AI agents deploy and manage apps
+2026-11-15T08:10:02.418Z,@nifrajs/utils,5.14.0,devform,MIT,10221,Runtime-neutral utility functions shared across Nifra packages.
+2026-11-15T08:10:11.857Z,mailvina,0.1.0,bottercc,MIT,150875,"Official Node.js and TypeScript SDK for Mailvina: send email, receive email, manage domains, audiences, broadcasts, templates and webhooks."
+2026-11-15T08:10:20.232Z,@nifrajs/node-uws,5.14.0,devform,MIT,128428,Serve a nifra app on uWebSockets.js from Node - the node-direct lane over uWS's native HTTP server.
+2026-11-15T08:11:18.032Z,koishi-plugin-monetary-cdk,1.0.0-alpha.1,wled,MIT,34886,为 monetary 货币系统提供现代化兑换码：指令建码、时效、份数、指定人/频道与完整兑换审计
+2026-11-15T08:11:31.753Z,koishi-plugin-monetary-lottery,1.0.0-alpha.1,wled,MIT,35904,为 monetary 货币系统提供百分比概率抽奖：可指令管理奖项、每日限额、冷却、保底与自定义反馈文本
+2026-11-15T08:11:38.924Z,koishi-plugin-monetary-chat-reward,1.0.0-alpha.1,wled,MIT,40328,为 monetary 货币系统提供聊天随机奖励与聊天排行奖励：概率/黑白名单/预算/冷却可配置，联动 message-counter 排行数据
+2026-11-15T08:12:17.297Z,@react-native-motion-kit/text-motion,0.1.0,seung02169,MIT,552993,"High-performance split text animations for React Native, powered by Reanimated and extensible renderers."
+2026-11-15T08:12:49.631Z,@probara/vis-capture,0.0.0,gustavocynch,Apache-2.0,1012607,"Browser capture engine of Probara Vis: console, redaction, sanitizers and the diagnostics format."
+2026-11-15T08:13:21.141Z,@gitmyabi/bg-dice,1.0.0,gitmyabi-bot,Apache-2.0,258766,"Auto-generated TypeScript type bindings for BG Dice (build etherscan-bg-dice-0581ddf7-1794730380062, commit 9693186, branch etherscan)"
+2026-11-15T08:13:50.268Z,@xu016/astrophoto-flow,0.0.1-dev.1,xu016,GPL-3.0-only,139148,AstroPhotoFlow local workbench lifecycle tools over MCP stdio
+2026-11-15T08:13:50.753Z,@ohmygame/fish-audio,0.1.0,dogxi,Apache-2.0,14832,Fish Audio speech generation and voice selection for OhMyGame.
+2026-11-15T08:14:28.217Z,@probara/vis,0.0.0,gustavocynch,Apache-2.0,598954,"Probara Vis on your own site: the in-page recorder for recording links, auto-blur, sanitizers and the custom metadata API."
+2026-11-15T08:14:35.773Z,geo-schema-preflight,1.0.0,willsunagency,MIT,5810,Zero-dependency CLI and library to preflight-validate /llms.txt manifests and HTML Schema.org JSON-LD @graph entities before deployment.
+2026-11-15T08:15:07.065Z,dsh-preset-editor,0.1.0,astralyang,MIT,1052682,"Native Agent preset editor for DeepSeek Harness: edit/add built-in presets from a sidebar page, compose personas and plugin rows, layer per-preset tool filters, with automatic backups and rollback."
+2026-11-15T08:15:14.467Z,@siamjs/web,0.1.0,ankityadavpurson,MIT,131227,"Browser SDK for SIAM: session state, token refresh and permission checks for web apps (React bindings included)."
+2026-11-15T08:15:14.651Z,@siamjs/server,0.1.0,ankityadavpurson,MIT,285927,"Server-side SDK for SIAM: sign-in routes, token verification and permission guards for Node backends."
+2026-11-15T08:16:12.956Z,@task-handoff/remote-desktop-linux-x64,0.0.0-bootstrap.0,edgestorage,Apache-2.0,507,Bootstrap placeholder for TaskHandoff remote desktop on linux/x64. Do not install.
+2026-11-15T08:16:35.81Z,@task-handoff/remote-desktop-linux-arm64,0.0.0-bootstrap.0,edgestorage,Apache-2.0,515,Bootstrap placeholder for TaskHandoff remote desktop on linux/arm64. Do not install.
+2026-11-15T08:16:38.352Z,@task-handoff/remote-desktop-darwin-x64,0.0.0-bootstrap.0,edgestorage,Apache-2.0,511,Bootstrap placeholder for TaskHandoff remote desktop on darwin/x64. Do not install.
+2026-11-15T08:16:40.944Z,@task-handoff/remote-desktop-darwin-arm64,0.0.0-stage,edgestorage,,363,Temporary package placeholder for staged publishing
+2026-11-15T08:16:51.23Z,@captinbv/tin-validator,0.1.0,captinbv,Apache-2.0,43046,TIN validator javascript
+2026-11-15T08:17:29.853Z,ux-blueprint,2.0.0,jensuid,MIT,132531,"Agent-agnostic, evidence-led greenfield UX workflow for applications at concept, PRD, spec, or requirements stage."
+2026-11-15T08:20:07.559Z,graph-craft-relate-skills,0.0.0-stage,fabischkamau,,347,Temporary package placeholder for staged publishing
