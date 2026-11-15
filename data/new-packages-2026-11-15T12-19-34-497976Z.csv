@@ -1,0 +1,144 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-15T11:16:53.174Z,@application-kit/iam,1.2.0,uwl,MIT,170769,"Роли аккаунта для NestJS: реализация портов ролей identity-core, смена роли с правилом «последний администратор», события iam.*; словарь ролей и гранты приносит приложение"
+2026-11-15T11:18:33.727Z,@civ-clone/base-unit-action-build-fortress,0.1.0,dom111,MIT,17228,The BuildFortress unit action: a delayed action that builds a Fortress on the unit's own tile.
+2026-11-15T11:18:37.705Z,@telorun/release,0.2.0,pasi,MIT,682831,"A polyglot release planner: units shipped through npm, Cargo, Docker, Helm or any registered ecosystem, versioned from the digest of what they ship, with fragments for changelogs, groups that share a…"
+2026-11-15T11:18:49.878Z,@civ-clone/base-unit-action-build-airbase,0.1.0,dom111,MIT,17103,The BuildAirbase unit action: a delayed action that builds an Airbase on the unit's own tile.
+2026-11-15T11:19:05.008Z,@civ-clone/base-unit-action-transform-terrain,0.1.0,dom111,MIT,38747,"The TransformTerrain unit action: a delayed action that changes the terrain of the unit's own tile to what a TerrainConversion lookup rule says it becomes, with criteria for offering it."
+2026-11-15T11:19:19.733Z,@civ-clone/base-unit-action-paradrop,0.1.0,dom111,MIT,37940,"The Paradrop unit action: a unit drops onto a land tile within a range, capturing an empty city of another player there, and is marked Paradropped until its player's next turn; with criteria for offe…"
+2026-11-15T11:19:34.288Z,@civ-clone/base-unit-action-airlift,0.1.0,dom111,MIT,38615,"The Airlift unit action: a unit flies from one of its player's cities to another, each city airlifting once a turn; with criteria for offering it and the rule that clears the per-city record."
+2026-11-15T11:19:37.541Z,capsalock,1.1.0,whisperingpet,Apache-2.0,469102,"Zero-dependency sovereign AST security auditor, secret detector and deterministic auto-fixer"
+2026-11-15T11:19:50.057Z,@civ-clone/base-unit-action-sabotage-unit,0.1.0,dom111,MIT,35114,"The SabotageUnit unit action: a spy damages the lone unit of another player by a share of its hit points left, then escapes to its nearest city or is caught; with criteria for offering it."
+2026-11-15T11:20:30.886Z,@civ-clone/base-combat-rounds,0.1.0,dom111,MIT,63172,"A combat resolver for battles fought in rounds: each side rolls below its strength, the loser of a round takes the winner's firepower as damage, and the battle ends when one side has no hit points le…"
+2026-11-15T11:20:45.674Z,@civ-clone/base-unit-veteran-promotion,0.1.0,dom111,MIT,38091,"Promotion after a win: the winner of a battle may become a veteran, with a chance the game can set, and a Promoted rule for the notice."
+2026-11-15T11:21:01.486Z,@civ-clone/base-unit-healing,0.1.0,dom111,MIT,59065,"Healing for damaged units: units that rest heal at the start of their player's turn, with bonuses near and in their own cities and full healing where the game says, and damaged units move more slowly."
+2026-11-15T11:21:17.034Z,@civ-clone/base-unit-fuel,0.1.1,dom111,MIT,76124,"Fuel for units that must return to base: a range, the turns a unit has spent out, the places it refuels, and running out of fuel."
+2026-11-15T11:21:20.066Z,@slacklineinternational/onsight,0.16.0,slacklineinternational,SEE LICENSE IN LICENSE,1227091,"Onsight, the official design system of the International Slackline Association (ISA): tokens, docs and components for people and AI agents."
+2026-11-15T11:23:21.092Z,@trykubi/sdk,0.1.0,trykubi-admin,Apache-2.0,376150,TypeScript SDK for Kubi: cloud desktops for AI agents
+2026-11-15T11:23:26.753Z,@gcszhn/mol4agent-opencode,0.1.0,gcszhn,MIT,4286923,OpenCode 2 adapter for mol4agent: an in-harness Mol* viewer panel with agent-operable mol_* tools.
+2026-11-15T11:23:38.021Z,@molecule/app-price-range-slider-vue,0.0.1-stage,vialoh,Apache-2.0,34036,Single- or dual-handle range slider with formatted labels
+2026-11-15T11:23:43.47Z,@molecule/app-safe-link-angular,0.0.1-stage,vialoh,Apache-2.0,35777,SafeLink Angular router wrapper that appends a #top fragment when target matches current path. Avoids dead-link probes that return no URL/DOM mutation on same-path clicks.
+2026-11-15T11:23:48.359Z,@molecule/app-safe-link-solid,0.0.1-stage,vialoh,Apache-2.0,27145,SafeLink Solid router wrapper that appends a #top fragment when target matches current path. Avoids dead-link probes that return no URL/DOM mutation on same-path clicks.
+2026-11-15T11:23:54.428Z,@molecule/app-safe-link-svelte,0.0.1-stage,vialoh,Apache-2.0,25026,SafeLink Svelte router wrapper that appends a #top fragment when target matches current path. Avoids dead-link probes that return no URL/DOM mutation on same-path clicks.
+2026-11-15T11:23:59.594Z,@molecule/app-safe-link-vue,0.0.1-stage,vialoh,Apache-2.0,29702,SafeLink Vue router wrapper that appends a #top fragment when target matches current path. Avoids dead-link probes that return no URL/DOM mutation on same-path clicks.
+2026-11-15T11:24:02.515Z,dsh-aws-codecommit,1.0.0,mrxccc,MIT,97992,DeepSeek Harness 的 AWS CodeCommit 可视化面板：按 profile 切换环境，浏览仓库 / 分支 / Pull Request，查看 PR 详情并审批、合并。
+2026-11-15T11:24:05.195Z,@molecule/app-section-divider-angular,0.0.1-stage,vialoh,Apache-2.0,44613,"Centered-label section divider (""OR"", ""Today"") with flanking lines"
+2026-11-15T11:24:12.284Z,@molecule/app-section-divider-solid,0.0.1-stage,vialoh,Apache-2.0,24015,"Centered-label section divider (""OR"", ""Today"") with flanking lines"
+2026-11-15T11:24:18.19Z,@molecule/app-section-divider-svelte,0.0.1-stage,vialoh,Apache-2.0,22505,"Centered-label section divider (""OR"", ""Today"") with flanking lines"
+2026-11-15T11:24:24.678Z,@molecule/app-section-divider-vue,0.0.1-stage,vialoh,Apache-2.0,26487,"Centered-label section divider (""OR"", ""Today"") with flanking lines"
+2026-11-15T11:24:30.193Z,@molecule/app-sparkline-angular,0.0.1-stage,vialoh,Apache-2.0,49332,"Tiny inline trend chart (line, bar, dot variants) with no library dep"
+2026-11-15T11:24:37.704Z,@molecule/app-sparkline-solid,0.0.1-stage,vialoh,Apache-2.0,28730,"Tiny inline trend chart (line, bar, dot variants) with no library dep"
+2026-11-15T11:24:43.155Z,@molecule/app-sparkline-svelte,0.0.1-stage,vialoh,Apache-2.0,24127,"Tiny inline trend chart (line, bar, dot variants) with no library dep"
+2026-11-15T11:24:46.685Z,pi-file-write-guard,0.1.0,xuqianhui,MIT,40921,"Read-before-write, staleness and truncation-write-back protection for pi's built-in write/edit tools"
+2026-11-15T11:24:49.18Z,@molecule/app-sparkline-vue,0.0.1-stage,vialoh,Apache-2.0,32273,"Tiny inline trend chart (line, bar, dot variants) with no library dep"
+2026-11-15T11:24:54.936Z,@molecule/app-status-timeline-angular,0.0.1-stage,vialoh,Apache-2.0,36985,"Vertical ordered-step status timeline: dots colored by reached state, current step bolded — generic for orders, workflows, kanban progressions"
+2026-11-15T11:25:40.335Z,kodinncli,0.9.4,kodinn,MIT,16877,"Kodinn Agent: a terminal AI coding agent (cloud and local models, plan/build modes, git, MCP)."
+2026-11-15T11:26:11.851Z,@yosr-ai/template-dotnet,0.2.5,wzohny,MIT,104756,Yosr Seed aspnet / dotnet template.
+2026-11-15T11:26:55.178Z,@acorex-platform/extension-project-management-aroflo-client,2.0.0-next.49,arash.oshnoudi,,140743,
+2026-11-15T11:27:07.179Z,dsh-plugin-tk-jiguang,0.1.0,wang_jin,MIT,18680,TK极光 AI 创作平台插件：在 DeepSeek Harness 里查模型与价格、出图、出视频、查任务、把作品存进创作画布
+2026-11-15T11:27:44.542Z,dsh-rhine-lab-theme,1.0.1,vioeve,MIT,8147876,莱茵生命主题（重制版）：基于 Galaxy-2001 的 Rhine-Lab-Codex-Theme（MIT）重构，适配 DeepSeek Harness 桌面版与网页版。
+2026-11-15T11:28:26.8Z,@anveroapi/core,4.0.1,anvero,MIT,99414,
+2026-11-15T11:28:38.179Z,@anveroapi/cache,4.0.1,anvero,MIT,23296,
+2026-11-15T11:28:43.203Z,@anveroapi/event,4.0.1,anvero,MIT,19613,
+2026-11-15T11:28:47.339Z,@gzodo/logs,0.1.0,gzodo,MIT,17872,"Gzodo Logs client for Node.js. Queues log events and posts gzip batches to ingestion, with a Pino destination."
+2026-11-15T11:28:48.58Z,@anveroapi/validator,4.0.1,anvero,MIT,62534,
+2026-11-15T11:28:53.138Z,@anveroapi/typeorm,4.0.1,anvero,MIT,106328,
+2026-11-15T11:29:05.391Z,git-assist-tui,1.0.0,carywang,MIT,42317,清晰、零依赖的中文 Git 终端工作台
+2026-11-15T11:29:27.956Z,dsh-vision-direct,0.2.0,eurekame,MIT,141932,自带的视觉后端：给 DSH 的纯文本模型一个读图工具、一条粘贴通道，以及一个可选的本机兼容端点。不依赖任何外部视觉工具。
+2026-11-15T11:30:31.546Z,capacitor-app-extras,0.1.1,belov_maxim,MIT,49668,"Small additions to the official Capacitor App and Device plugins: close the app process, read the free disk space and whether an iOS app runs on a Mac"
+2026-11-15T11:30:55.781Z,@yosr-ai/template-spring,0.2.5,wzohny,MIT,118436,Yosr Seed Spring Boot template.
+2026-11-15T11:31:49.857Z,readstat-wasm,0.1.0,naklitechie,MIT,377078,"Read SPSS, Stata and SAS data files (.sav, .zsav, .por, .dta, .sas7bdat, .xpt) in the browser or Node. ReadStat compiled to WebAssembly."
+2026-11-15T11:31:59.172Z,angular-assistant-ui,0.1.0,vashishta2,MIT,7667026,"Angular (18.2–22) port of assistant-ui: headless chat primitives, a styled drop-in chat kit and Mastra integration, over @assistant-ui/core"
+2026-11-15T11:32:04.86Z,mata-pyodide,0.1.0,naklitechie,MIT,434222,"Run Stata's Mata matrix language in the browser or Node on Pyodide, using OpenDTA's open-source Mata interpreter."
+2026-11-15T11:32:45.993Z,moru-ui,0.5.0-beta.2,syrusriius,MIT,1024251,React UI components built for thoughtful human experiences.
+2026-11-15T11:32:49.992Z,@gridify/studio,1.0.0-rc.1,phxyz,SEE LICENSE IN LICENSE,5995379,"Gridify Studio: a docking engine, a ribbon and a set of controls for Angular applications."
+2026-11-15T11:33:03.198Z,qa-salesforce,1.5.0,mohammadali1641999,UNLICENSED,649024,Password-protected Salesforce QA automation launcher for Windows and macOS
+2026-11-15T11:33:30.888Z,@gridify/editors,1.0.0-rc.1,phxyz,SEE LICENSE IN LICENSE,1112159,"Gridify editors: the Ribbon editor, the Layout editor and the Form editor of Gridify Designer, as Angular components."
+2026-11-15T11:33:33.643Z,@reburn-ui/mcp-server,9.7.5,mo310,MIT,24889,MCP server for reburn-ui documentation
+2026-11-15T11:35:02.202Z,douyin-helper,0.1.0,xiaoxi111,MIT,159809,让 AI 自己刷抖音、自己回评论：观看 / 判断 / 点赞 / 回留言，全是真操作
+2026-11-15T11:35:29.281Z,@vulpfest/icons,0.3.0,vulpfest-zerda,MIT,66040,Official logos of Vulpfest and its ventures (Hirevers) as React components and SVG files.
+2026-11-15T11:35:50.226Z,@hail-hq/chat-sdk-adapter,0.1.0,r13i,AGPL-3.0-only,58202,Hail SMS adapter for Vercel Chat SDK
+2026-11-15T11:36:32.603Z,matrix-trace,1.0.0,swayanshu-2003,MIT,94181,"An interactive, high-performance Matrix digital background component for React with dynamic cursor wake and glyph mutation."
+2026-11-15T11:37:29.068Z,@ghxstship/xos-tokens,4.16.0,captjaysea,MIT,258856,"XOS design tokens: the token source of truth, DTCG files, the Style Dictionary build for CSS and React Native, and the contrast gate."
+2026-11-15T11:37:31.735Z,@ghxstship/xos-icons,4.16.0,captjaysea,MIT,89293,"XOS glyph map and icon registry: the Lucide icon for every department, phase and record kind, the record state glyph shapes, and the closed set of icons XOS draws by name."
+2026-11-15T11:37:35.037Z,@ghxstship/xos-i18n,4.16.0,captjaysea,MIT,3517627,ICU message catalogs for every XOS shell. The only home of user-facing copy.
+2026-11-15T11:37:38.019Z,@ghxstship/xos-schemas,4.16.0,captjaysea,MIT,1107143,"Single-source registries for XOS: the capability, plan, settings, notification kind and shortcut registries and the denormalization register, with Zod schemas and generated contracts alongside."
+2026-11-15T11:37:41.076Z,@ghxstship/xos-ui,4.16.0,captjaysea,MIT,1152749,"XOS web component library: React 19 components on Radix, cmdk and TanStack, styled with the token preset."
+2026-11-15T11:38:26.702Z,incruste,0.1.0,ooga,MIT,49975,"Incrustation multicolore sans AMS pour l'impression 3D : poches et inserts à poser pendant une pause, depuis un projet 3MF Bambu Studio / Orca"
+2026-11-15T11:40:03.803Z,ultraai-cli,0.1.0,gilangsan,MIT,36629,"Unofficial client for Ultra AI Chat (com.ultraai.app): new UltraAI() registers a free account on the fly, then chat(), image() and video()."
+2026-11-15T11:40:07.486Z,dsh-task-anchor,0.2.3,dr7s,Apache-2.0,83678,"Keep the running task anchored when a mid-turn user message arrives: a prompt contract, a suspended-plan anchor that survives compaction, and a turn-stopping guard that makes unfinished work explicit…"
+2026-11-15T11:40:17.108Z,greenlight-motion-3d,0.1.0,greenlightdash,SEE LICENSE IN LICENSE,19744135,"GreenLight Motion 3D: the 3D Scene engine (live Draft and path-traced Final) of GreenLight Dash and the GreenLight Motion Engine, as a plugin, with its own preview, stills, frames and scene checks."
+2026-11-15T11:40:41.662Z,aliyun-agent-sandbox-mcp,0.1.0,dophinowo,MIT,77583,"MCP server for Alibaba Cloud Agent Sandbox (阿里云智能体沙箱): run commands, execute Python/JS code and manage files in cloud sandboxes via the E2B-compatible API."
+2026-11-15T11:40:59.944Z,@pulselytics/api-client,0.81.0,pulselytics,MIT,3522757,API client for Pulse Analytics (self-hosted web analytics)
+2026-11-15T11:41:05.724Z,@singitai/openclaw,0.1.0,bubonik,MIT,6311,SingIt local proxy provider for OpenClaw; not the official OpenClaw clawrouter.
+2026-11-15T11:41:58.856Z,@ianwusb/dsh-ui-fix,0.1.1,ianwusb,MIT,9046,DSH client-side contrast fixes: repair light-theme inline styles leaking into dark mode (e.g. dsh-interim-narration settings page) and blank buttons.
+2026-11-15T11:42:35.192Z,mdi2esm,0.1.2,nbaxp,MIT,613929,"A markdown-it wrapper with common plugins integrated: containers, footnotes, task lists, anchors, code highlighting, KaTeX math, Mermaid diagrams and outlines, shipped as browser-native ESM."
+2026-11-15T11:43:03.35Z,cortico-world-map,0.1.0,bailuhanyi2,MIT,201950,鱼的小世界 —— 给 Coo 桌宠一张「周围的地图」：家、常去的、附近的。每处地方只有文字描写（空间、陈设、配色、光线、氛围）和一句固定的画风锚点，画面可以完全靠主人自己上传一张本地图；装了「生图工作室」也只是「可以」联动出图，没装照样完整可用。**没有路线、没有坐标、没有距离、没有导航**——它只说「这个地方长什么样」，不画「从这儿怎么走到那儿」。
+2026-11-15T11:43:34.797Z,@tbrandenburg/opencode-a2a-lite,0.2.6,tbrandenburg,MIT,51547,OpenCode ACP to A2A gateway for trusted workspaces
+2026-11-15T11:45:01.816Z,@pulselytics/mcp,0.2.0,pulselytics,MIT,778890,MCP server for Pulse Analytics
+2026-11-15T11:45:29.436Z,@k3-tech/mitra-kit,0.0.2,hasimimahdudinnpm,,1180807,K3Mart Mitra Portal design system (k3a) — reusable React components & styles for mitra-facing dashboards.
+2026-11-15T11:46:26.757Z,opencode-anti-slop,0.1.1,hyperbolictonic,MIT,111584,"OpenCode enforcement kit: agent skills plus deterministic gates that keep AI-generated React and Node code modular, DRY, and documented"
+2026-11-15T11:47:28.385Z,@dsh-plugin/dsh-rich-presence,0.0.1,gugle,,297773,"Shows the running agent's activity, model, and token usage as Discord Rich Presence, folding the session log so the figures survive replay, resume, and compaction."
+2026-11-15T11:48:35.749Z,@behavproof/core,0.1.0,kanoi,UNLICENSED,180646,BehavProof core: authenticated behavioral evidence for protected development workflows
+2026-11-15T11:48:54.314Z,ensemble-review,1.0.36,alex_wakeman,SEE LICENSE IN LICENSE,17140293,Dashboard for tracking your team's GitHub PR activity across repos. Runs on your machine with your gh login.
+2026-11-15T11:49:53.624Z,@anywalletkit/protocol-swap2-0x,0.1.0,ultratestbro,Apache-2.0,1208370,"0x Swap API v2 same-chain swaps for Any Wallet Kit: Permit2 quotes on Ethereum, Base, Arbitrum, Optimism, Polygon, Avalanche and BNB Smart Chain, settled through the 0x Settler read from the on-chain…"
+2026-11-15T11:50:08.899Z,@stitch-cloud/sdk,1.0.0,stitchcloud,,16063,"Official JavaScript and TypeScript SDK for integrating Stitch Cloud into your applications, with campaign dispatch, contextual data and structured outcomes."
+2026-11-15T11:50:54.461Z,@gitmyabi/paymentchannels,1.0.0,gitmyabi-bot,Apache-2.0,203879,"Auto-generated TypeScript type bindings for PaymentChannels (build etherscan-paymentchannels-affa8300-1794743434865, commit f42d4c8, branch etherscan)"
+2026-11-15T11:52:31.439Z,@fefruess/websockets.otp.serializer.core,0.0.1,fefruess,MIT,1120,
+2026-11-15T11:52:51.017Z,@machina.at/monolish,20.84.0,machina-owner,,526665,monolish - POSIX-like shell CLI (bundles @machina.at/shell sh.js entry)
+2026-11-15T11:52:55.421Z,@mermaide/extension-api,1.0.0,marckengland,Apache-2.0,16832,Public Mermaide extension-api SDK
+2026-11-15T11:53:50.433Z,dsh-parallax,0.1.0,naklitechie,MIT,84496,"Conversations in DeepSeek Harness (dsh) that talk to each other: send, ask and reply with receipts, delegate with approval, read a bounded peer summary."
+2026-11-15T11:54:19.151Z,n8n-nodes-salabs,0.1.0,iamstanad,MIT,30652,"S.A Labs for n8n: scrape web pages to Markdown, text-to-speech and audio/video transcription with subtitles. Cheap, simple, works as an AI Agent tool."
+2026-11-15T11:54:29.629Z,agent-memory-hub,0.1.0,lizhiwu,MIT,233232,"Agent memory bridge — local-first, human-approved, file-native long-term memory for AI coding agents (Claude Code, Codex, opencode, gemini, DSH). One local service, every agent shares it."
+2026-11-15T11:54:53.416Z,glintline,0.3.1,lagunovsky,MIT,121514,"A fast, configurable status line for Claude Code. Runs on Bun or Node, TypeScript, zero runtime dependencies, ~70ms per render on Bun."
+2026-11-15T11:54:59.798Z,@mermaide/plugin-api,1.0.0,marckengland,Apache-2.0,18673,Public Mermaide plugin-api SDK
+2026-11-15T11:55:13.973Z,@tuttidaw/tutticode-player,1.2.0,lubobill1990,MIT,59017,"Embed the TuttiCode player (a live-coding music card) in any web page: a <tuttidaw-code> custom element, React and Vue wrappers, and the postMessage protocol."
+2026-11-15T11:55:24.395Z,larkit,0.1.1,ztxtxwd,UNLICENSED,2149881,飞书全栈真相引擎与一站式 Agent 开发工具包（MCP Server + CLI）
+2026-11-15T11:57:01.746Z,@riotlagrinta/riot,0.2.1,riotlagrinta,MIT,5367,"RIOT — Copilote développeur, système et agent IA multiplateforme en ligne de commande."
+2026-11-15T11:57:27.36Z,@consciousclouds/model-provider-sdk,0.1.0,cchief,Apache-2.0,41299,Conscious Clouds Model Provider SDK — operator-facing types + a thin Operator Gateway client for the AOE-2 Provider Record surface (authored configuration + derived runtime posture). Types + thin HTT…
+2026-11-15T11:58:30.137Z,dsh-text-toolkit,0.1.0,liangjiehappy01,MIT,31823,"dsh-text-toolkit：34 个工具，覆盖 textops-batch, encode-batch"
+2026-11-15T11:58:41.288Z,@quickwinlabs/uia,0.2.0,xna,MIT,73118,"UI Automation (UIA) generic client for QuickWin — typed IUIAutomation wrapper (element reads, tree walk, conditions, patterns)"
+2026-11-15T11:58:43.712Z,dsh-image-toolkit,0.1.0,liangjiehappy01,MIT,57312,"dsh-image-toolkit：51 个工具，覆盖 imgfmt-batch, imgsize-batch, color-batch"
+2026-11-15T11:59:01.806Z,@hex4c59/pi-ext-session-title,0.1.0,hex4c59,MIT,20096,Generate concise Pi session titles from the conversation while preserving manual names.
+2026-11-15T11:59:04.808Z,@hex4c59/pi-ext-subagents,0.1.0,hex4c59,MIT,65182,"Persistent, role-based Pi subagents with controlled parallel execution."
+2026-11-15T11:59:07.645Z,@hex4c59/pi-ext-todo-list,0.1.0,hex4c59,MIT,17247,Branch-aware model-managed todo lists for Pi sessions.
+2026-11-15T11:59:24.554Z,mem-mcp,1.3.5,gecko,MIT,39057,"MCP wrapper for Memory01 agentic memory service - persistent memory for AI agents, free to store and search. Base memories, recovery codes, upsert, 50+ languages."
+2026-11-15T11:59:42.232Z,@hex4c59/pi-ext-claude-tools,0.1.0,hex4c59,MIT,15070,Claude Code-style action/result markers for Pi tool rows.
+2026-11-15T11:59:45.461Z,@hex4c59/pi-ext-copilot-auto,0.1.0,hex4c59,MIT,135804,"GitHub Copilot Auto routing for pi: an `auto` virtual model routed via /auto plus authorized models via /models/session, each with its own session-token scope"
+2026-11-15T11:59:48.35Z,@hex4c59/pi-ext-deepseek-balance,0.1.0,hex4c59,MIT,14694,Read-only DeepSeek API balance reports for Pi.
+2026-11-15T11:59:52.287Z,@hex4c59/pi-ext-qoder,0.1.0,hex4c59,MIT,516993,"Qoder international provider for pi: device login, signed streaming, live models and credits"
+2026-11-15T11:59:55.829Z,@hex4c59/pi-ext-qoder-cn,0.1.0,hex4c59,MIT,535065,Qoder CN provider extension for pi: native /login (device code) and signed native chat streaming
+2026-11-15T11:59:58.726Z,@hex4c59/pi-ext-relay,0.1.0,hex4c59,MIT,11449,Two-level menu for registered account dashboards and balances in Pi.
+2026-11-15T12:00:50.546Z,@hex4c59/pi-ext-shell-encoding,0.1.0,hex4c59,MIT,15397,Decode Windows console output with the local code page so GBK/CP936 text is not shown as replacement characters.
+2026-11-15T12:00:53.605Z,@hex4c59/pi-ext-theme,0.1.0,hex4c59,MIT,45984,"Original Pi Signal theme and palettes from Claude Code, Ocean, Everforest, Rose Pine, Codex and OpenCode."
+2026-11-15T12:00:56.911Z,@hex4c59/pi-ext-trae-cn,0.1.0,hex4c59,MIT,83535,Trae CN provider for pi: reuse the locally signed-in Trae CN credential for chat and tools.
+2026-11-15T12:01:02.282Z,@hex4c59/pi-ext-workbuddy,0.1.0,hex4c59,MIT,97076,WorkBuddy (workbuddy.cn) provider extension for pi: native /login and OpenAI-compatible chat completions
+2026-11-15T12:01:05.745Z,@hex4c59/pi-ext-workbuddy-ai,0.1.0,hex4c59,MIT,94208,WorkBuddy AI (workbuddy.ai) provider extension for pi: native /login and OpenAI-compatible chat completions
+2026-11-15T12:02:42.56Z,dsh-yingmi,1.0.1,slieart,MIT,60432,"DeepSeek Harness host bundle that signs in to Yingmi (Qieman) through OAuth and reads fund accounts, asset tree and holdings through Yingmi's official user-level MCP tools."
+2026-11-15T12:02:49.406Z,@consciousclouds/resource-posture-sdk,0.1.0,cchief,Apache-2.0,31304,"Conscious Clouds Resource Posture & Day-Ledger SDK — operator-facing types + a thin Operator Gateway client (posture read/authoring/activation, day-ledger read, personality-budget tighten). Types + t…"
+2026-11-15T12:04:22.011Z,@quickwinlabs/tray-list,0.1.0,xna,MIT,43566,Windows notification-area (system tray) icon enumeration for QuickWin — classic TB_GETBUTTON and UIA paths
+2026-11-15T12:04:27.062Z,@rudyrustam/core,1.0.0-alpha,rudyrustam,MIT,48919,High-throughput Bun Micro-Kernel & Trie Router for Centaury Framework
+2026-11-15T12:04:40.284Z,@rudyrustam/signals,0.0.0-stage,rudyrustam,,341,Temporary package placeholder for staged publishing
+2026-11-15T12:04:44.365Z,@skyvist/adaptive-color,0.1.0,skyvist,MIT,40045,Adaptive brand foreground colors for React Native GPU maps with stable sampling and performance guards
+2026-11-15T12:04:54.205Z,@rudyrustam/ephemeral,0.0.0-stage,rudyrustam,,343,Temporary package placeholder for staged publishing
+2026-11-15T12:05:09.003Z,@rudyrustam/astra,0.0.0-stage,rudyrustam,,339,Temporary package placeholder for staged publishing
+2026-11-15T12:05:23.657Z,@rudyrustam/sse,0.0.0-stage,rudyrustam,,337,Temporary package placeholder for staged publishing
+2026-11-15T12:05:36.891Z,@rudyrustam/db,0.0.0-stage,rudyrustam,,336,Temporary package placeholder for staged publishing
+2026-11-15T12:05:51.825Z,@rudyrustam/agent,0.0.0-stage,rudyrustam,,339,Temporary package placeholder for staged publishing
+2026-11-15T12:06:06.024Z,@rudyrustam/cli,0.0.0-stage,rudyrustam,,337,Temporary package placeholder for staged publishing
+2026-11-15T12:07:25.389Z,@vulpfest/hirevers-icons,0.1.0,vulpfest-zerda,MIT,21404,The official Hirevers logo as a React component and SVG files.
+2026-11-15T12:08:12.935Z,@fefruess/websockets.otp.json,0.0.1,fefruess,MIT,2424,
+2026-11-15T12:09:02.023Z,@rudyrustam/centaury,0.0.0-stage,rudyrustam,,342,Temporary package placeholder for staged publishing
+2026-11-15T12:09:17.327Z,@yaochonghua2026/dsh-tool-audit,1.0.0,yaochonghua2026,MIT,37461,"Audit log for DSH tool calls with key/pattern redaction: agent, tool, arguments, and dispatch duration."
+2026-11-15T12:09:25.573Z,@yaochonghua2026/dsh-rbac-guard,1.0.0,yaochonghua2026,MIT,112482,"Role-based tool-call guard for DSH: per-role rules that allow, deny, or escalate high-risk tool calls to human approval."
+2026-11-15T12:09:29.565Z,agentsh-cli,3.6.0,rohan463,MIT,11990,A restricted container shell & instant rollback sandbox for AI coding agents
+2026-11-15T12:09:34.37Z,@yaochonghua2026/dsh-token-billing,1.0.0,yaochonghua2026,MIT,47337,Per-session token accounting and a hard cost cut-off for DSH.
+2026-11-15T12:09:42.932Z,neuralith-cli,1.0.0,ghiansalman30,MIT,69001,NEURALITH: a quiz-mining game for AI agents. Your agent reads one stone a minute from the terminal and earns NLITH.
+2026-11-15T12:09:43.771Z,@yaochonghua2026/dsh-kafka-audit-bridge,0.3.1,yaochonghua2026,MIT,67552,"Side-channel audit bridge for DSH: bounded, backpressured export of tool outcomes to pluggable sinks."
+2026-11-15T12:10:17.203Z,@rohan463/agentsh,3.6.0,rohan463,MIT,11996,A restricted container shell & instant rollback sandbox for AI coding agents
+2026-11-15T12:13:55.659Z,@idnbase/js,1.2.0,ariqcahya,,44495,"Official TypeScript/JavaScript client SDK for IDNBase (Auth, Auto-REST, GraphQL, Realtime SSE, Storage, pgvector)"
+2026-11-15T12:14:12.827Z,@kwirthmagnify/kwirth-dce-ssh,0.1.0,kwirthmagnify,,739602,"SSH client for Kwirth extensions — connect, run a command with stdin and a timeout, upload and remove files by SFTP"
+2026-11-15T12:14:58.138Z,kujira,0.1.0,jiangsubei,MIT,2129017,DeepSeek Harness × QQ 官方 Bot API v2 合规单聊（C2C）拟人化聊天插件：既是随叫随到的专业助手，也是能记事实、懂梗玩词的贴心伙伴。内置双层记忆、表情资产库、黑话知识库、Markdown/流式回复与 WebUI 可视化配置
+2026-11-15T12:16:21.637Z,chinese2english,0.2.0,_oiupoyt,MIT,2657908,"Shows the Chinese interface text of DeepSeek Harness and its plugins in English, translated on the rendered page."
+2026-11-15T12:17:06.567Z,@yaochonghua2026/dsh-trace-context,0.2.0,yaochonghua2026,MIT,46125,"One traceId per task across every spawned Agent, plus tenant binding, for DeepSeek Harness."
+2026-11-15T12:17:08.689Z,dotcms-mcp,0.0.0-stage,denysdatsiv,,332,Temporary package placeholder for staged publishing
+2026-11-15T12:17:15.005Z,@yaochonghua2026/dsh-tenant-budget,0.0.0-stage,yaochonghua2026,,356,Temporary package placeholder for staged publishing
