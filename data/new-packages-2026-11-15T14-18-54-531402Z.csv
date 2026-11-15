@@ -1,0 +1,151 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-15T13:15:09.234Z,@masarat-tech/kit,0.1.0,beshoymorad,MIT,733359,"Installs shared Vue components, composables and logic from the Masarat starter into your project, then you own them."
+2026-11-15T13:15:35.515Z,@supersolutions/super-chat-core,0.1.0,zou_murmur,Apache-2.0,1074769,"Provider-agnostic agent core: content model, skills, context assembly, tools, runtime, and hand-rolled provider adapters."
+2026-11-15T13:15:40.675Z,@supersolutions/super-chat-client,0.1.0,zou_murmur,Apache-2.0,79301,Framework-agnostic client for superchat: one AgentClient store per thread that drives the agent runtime. No UI framework dependency.
+2026-11-15T13:15:46.457Z,@supersolutions/super-chat-server,0.1.0,zou_murmur,Apache-2.0,45139,Server-side half of superchat ProxyTransport: a framework-agnostic Request-to-Response handler that holds provider keys behind an explicit path allowlist.
+2026-11-15T13:15:51.596Z,@supersolutions/super-chat-ui-core,0.1.0,zou_murmur,Apache-2.0,72750,"Framework-free helpers shared by superchat UI bindings: markdown rendering (incl. streaming), value formatting and thread export."
+2026-11-15T13:15:56.707Z,@supersolutions/super-chat-router,0.1.0,zou_murmur,Apache-2.0,40736,Super Router binding for super-chat: an HTTP InferenceGateway and a text Provider that routes through any InferenceGateway.
+2026-11-15T13:16:02.321Z,@supersolutions/super-chat-react,0.1.0,zou_murmur,Apache-2.0,52850,"React bindings for superchat: hooks over the framework-agnostic AgentClient (thread state, run control, card actions, context inspection)."
+2026-11-15T13:16:07.09Z,@supersolutions/super-chat-ui,0.1.0,zou_murmur,Apache-2.0,777267,Card renderers and chat primitives for superchat. Bring your own styling; ships a self-contained CSS baseline.
+2026-11-15T13:16:11.987Z,@flocon-ai/init,0.0.2,alfgoto,UNLICENSED,66282,One command to add Flocon AI pages to your website: npx @flocon-ai/init
+2026-11-15T13:16:12.018Z,@supersolutions/super-chat-plugin,0.1.0,zou_murmur,Apache-2.0,28305,Plugin host for super-chat: install a super-protocol ChatPlugin into the card registry and render its cards in React.
+2026-11-15T13:16:17.244Z,@supersolutions/super-router-contracts,0.1.0,zou_murmur,Apache-2.0,36697,
+2026-11-15T13:16:22.607Z,@supersolutions/super-router-core,0.1.0,zou_murmur,Apache-2.0,52375,
+2026-11-15T13:16:27.857Z,@supersolutions/super-router-fetch-adapters,0.1.0,zou_murmur,Apache-2.0,21555,"Mount a fetch-style handler ((Request) => Response) on Node http, Express and Fastify. No framework dependency."
+2026-11-15T13:16:32.811Z,@supersolutions/super-router-payments,0.1.0,zou_murmur,Apache-2.0,27855,
+2026-11-15T13:16:38.064Z,@supersolutions/super-router-provider-anthropic,0.1.0,zou_murmur,Apache-2.0,17990,
+2026-11-15T13:16:42.808Z,@supersolutions/super-router-provider-openai,0.1.0,zou_murmur,Apache-2.0,17531,
+2026-11-15T13:16:47.555Z,@supersolutions/super-router-sdk,0.1.0,zou_murmur,Apache-2.0,19398,
+2026-11-15T13:16:52.607Z,@supersolutions/super-router-storage-memory,0.1.0,zou_murmur,Apache-2.0,47734,"In-memory Store for SuperRouter: development, tests and embedded use. Single process, not durable."
+2026-11-15T13:16:57.286Z,@supersolutions/super-router-storage-postgres,0.1.0,zou_murmur,Apache-2.0,127645,
+2026-11-15T13:17:01.915Z,@supersolutions/super-router-billing-presets,0.1.0,zou_murmur,Apache-2.0,33016,
+2026-11-15T13:17:07.466Z,@supersolutions/super-router-server,0.1.0,zou_murmur,Apache-2.0,34891,HTTP and SSE server for SuperRouter: createRouterServer and payment integration wiring.
+2026-11-15T13:17:12.513Z,@supersolutions/super-router-worker,0.1.0,zou_murmur,Apache-2.0,15253,"Recovery worker for SuperRouter: releases expired reservations, re-settles usage, advances subscription periods."
+2026-11-15T13:17:17.265Z,@supersolutions/super-router-ui,0.1.0,zou_murmur,Apache-2.0,22715,
+2026-11-15T13:17:21.884Z,@supersolutions/super-chart-core,0.1.0,zou_murmur,GPL-3.0-or-later,520651,"Renderer-free chart core: market data, loader, indicators, drawings, frame and workspace models. No DOM."
+2026-11-15T13:17:27.035Z,@supersolutions/super-chart-superscript,0.1.0,zou_murmur,GPL-3.0-or-later,140187,"SuperScript language runtime, AI helpers and the script-to-indicator bridge for Super Chart. Runs in plain Node."
+2026-11-15T13:17:32.096Z,@supersolutions/super-chart-web,0.1.0,zou_murmur,GPL-3.0-or-later,683613,"Canvas chart engine and workspace for the browser: drawing tools, replay, annotations and market overlays."
+2026-11-15T13:17:36.712Z,@supersolutions/super-chart-chat-plugin,0.1.0,zou_murmur,GPL-3.0-or-later,57761,"super-chat plugin: shows and drives Super Chart charts as chat cards, with an agent tool surface."
+2026-11-15T13:18:49.283Z,bla-deobfuscator,0.1.1,dragondragging,MIT,142964,Static deobfuscator for JavaScript protected with BLA (bla-agents). Never executes the input.
+2026-11-15T13:18:53.23Z,@kubohiroya/turbowarp-plus-editor-code-views,0.1.0,kubohiroya,MPL-2.0,664456,"Code views for TurboWarp Plus Editor: code in tabs and windows, the detached block palette, script layout and block field editing"
+2026-11-15T13:19:43.615Z,@wix/auto_sdk_paid-ads_eligibility,1.0.0,wix-ci-publisher,MIT,336331,
+2026-11-15T13:19:47.498Z,dsh-promptx,0.1.7,lshcoding,MIT,2011389,"PromptX for DeepSeek Harness: a global-hotkey prompt editor that floats above every app, with a Markdown prompt library and model-assisted rewriting."
+2026-11-15T13:20:30.77Z,@pmndrs/bvh,0.1.0-alpha.0,dennissmolek,MIT,2838009,"Engine-free WebGPU BVH: tinybvh in WebAssembly, GPU LBVH and H-PLOC builders, GPU refits, a WGSL ray walk with its CPU port, all writing one shared GPU layout."
+2026-11-15T13:21:06.884Z,@meiyukichan/dsh-magica-rune,0.2.0-alpha.1,snowyuki,MIT,215102,DSH 能力管理：按全局或工作区启用 / 禁用任意工具与技能。被禁项同时从模型的工具清单与系统提示词中移除，运行期再兜底拦截；支持搜索、分组批量与内置保护，改动即时生效、无需重启。
+2026-11-15T13:21:43.742Z,@dialeq/ci,0.12.0,janasoftwarelab,SEE LICENSE IN EULA.txt,1262845,"DIALEQ's command line for CI pipelines, with Pro"
+2026-11-15T13:22:17.074Z,@hoard-engine/i18n,0.1.0,ozsie,,7917,Framework-independent translations with Svelte-compatible stores
+2026-11-15T13:24:21.917Z,@ipollo/dsh-suite,0.1.32,ipollo,SEE LICENSE IN LICENSE,19812468,"iPolloWork theme, curated plugin market, and account connection for DeepSeek Harness."
+2026-11-15T13:24:37.611Z,@boost-jp/omnicue-mcp,0.1.0,yuuuutsk,MIT,135479,Omnicue の MCP サーバー。Claude Code / Cursor / Codex CLI / Claude Desktop / VS Code から、ナレッジと定型文を管理できます（依存なし）
+2026-11-15T13:24:47.474Z,capricorn-code,0.0.0,wiluka,Apache-2.0,12076,"Placeholder for Capricorn, a local-first terminal coding agent. Not usable yet: see the repository."
+2026-11-15T13:24:57.571Z,japanese-syllabary,1.0.0,plasticheart,MIT,53377,Japanese kana utilities: hiragana / katakana / half-width katakana detection and conversion
+2026-11-15T13:26:01.416Z,@zenmanage/vue,1.0.0,zenmanage-brk,MIT,192295,"Vue 3 plugin, composables and SSR helpers for Zenmanage feature flags"
+2026-11-15T13:26:03.515Z,sunday-serif,0.2.0,kkratter,OFL-1.1,6688947,"A soft serif for slow days. Free and open-source, with print effects on variable axes: webfonts, CSS and next/font helpers."
+2026-11-15T13:26:08.229Z,@anoauth/core,0.1.0,sho-ritz,MIT,88786,"Who may join a shared anoDB space: rules, invite links, approval, signed certificates"
+2026-11-15T13:26:11.625Z,@anoauth/oidc,0.1.0,sho-ritz,MIT,23037,Sign in with Google / Microsoft / any OpenID Connect provider to join an anoDB space (anoAuth)
+2026-11-15T13:26:14.585Z,@anoauth/react,0.1.0,sho-ritz,MIT,42408,"React components for anoAuth: invite links, join screen, join requests, rule editor"
+2026-11-15T13:26:17.562Z,@anoauth/cli,0.1.0,sho-ritz,MIT,19174,anoAuth gatekeeper: an always-on admin device that admits qualifying join requests while your admins are offline
+2026-11-15T13:28:16.179Z,@wjmmyz/dsh-plugin-hide-ui,1.1.0,wjmmyz,MIT,24610,Hide the Plugins row in the DSH sidebar and the built-in agent presets in the preset pickers.
+2026-11-15T13:28:40.936Z,@dnyana/sdk,0.1.0,dnyana-official,MIT,171972,TypeScript client for the Dnyana memory API
+2026-11-15T13:29:29.593Z,zoomdata,0.1.0,pastewka,MIT,259822,"Zoomable height maps and other two-dimensional scientific data in the browser, with exact values, drawn from NetCDF tile pyramids"
+2026-11-15T13:29:42.302Z,@elvisw/dsh-magic-context,0.13.0,elvisw,MIT,15341188,"Magic Context for DeepSeek Harness — elvisw fork: reversible context reclaim, an out-of-band historian, an m[0]/m[1] baseline, project memories in the plugin's own corpus, and the compaction seam."
+2026-11-15T13:30:15.076Z,@heleg/runpad,0.0.3,heleg,,54208,Interactive terminal interface for discovering and running scripts from `package.json`.
+2026-11-15T13:31:10.8Z,@jfvilas/kwirth-router-bridge,0.1.0,jfvilas,,161861,"Two Kwirths that reach each other through one outbound link, each seeing the other in its cluster list"
+2026-11-15T13:32:05.417Z,dsh-task-signal,0.1.1,tangyixiao,MIT,421645,"DSH task completion sounds: native background playback, event controls, persistent settings and quiet subagents."
+2026-11-15T13:32:24.399Z,dsh-workspace-tidy,0.1.1,dengwei84,MIT,20089,"Keep a DSH workspace tidy: move generated scripts, temp files and render leftovers into a hidden .dsh folder."
+2026-11-15T13:32:40.768Z,@workers-comp/ui,0.1.0,johnnypangs,MIT,77930,"Workers Comp design system components (React, plain CSS; no Tailwind needed)"
+2026-11-15T13:33:11.957Z,@semanticintent/rune-cli,1.2.2,semanticintent,MIT,66167,CLI tooling for Rune Protocol — validate binding manifests
+2026-11-15T13:33:15.542Z,dsh-turn-bell,1.3.0,billywang7,MIT,30761,"Native DeepSeek Harness notifications, in the app's own icon and sound, when a turn finishes or the agent waits for your confirmation."
+2026-11-15T13:33:30.829Z,@semanticintent/rune-lsp,1.2.1,semanticintent,MIT,36822,"Language Server Protocol implementation for Rune Protocol — completion, hover, diagnostics"
+2026-11-15T13:33:59.483Z,@magicdawn/shared,0.0.2,magicdawn,ISC,4544,my shared code
+2026-11-15T13:34:34.131Z,@behavproof/cli,0.1.0,kanoi,UNLICENSED,488883,BehavProof cli: authenticated behavioral evidence for protected development workflows
+2026-11-15T13:35:14.988Z,@sageion/node,0.1.0,sageion,MIT,5499,Official Sageion SDK for Node.js backends. Handles Webhook dispatch and Token encryption.
+2026-11-15T13:36:26.87Z,antigravity-telegram,0.2.12,denoyey,MIT,1036022,Control Antigravity from anywhere — a local Telegram Bot that lets you remotely operate Antigravity on your home PC from your smartphone.
+2026-11-15T13:36:49.414Z,@threadedstack/wmd-linux-arm64,0.1.21,lktipton,MIT,383832633,wmd 0.1.21 for Linux arm64 (glibc): the programs and the arm64 guest (used by @threadedstack/wmd)
+2026-11-15T13:36:54.057Z,dsh-devin-provider,0.1.1,GitHub Actions,MIT,268503,"DeepSeek Harness Devin Provider: Browser PKCE / CLI / API Key auth, model catalog & per-model overrides, quota dashboard, and 5-minute prompt cache keepalive."
+2026-11-15T13:37:02.397Z,@canzdev/lclone,1.0.0,canzdev,MIT,8014,Git CLI buat yang males ngetik panjang
+2026-11-15T13:37:16.912Z,opendesign-reasoning-and-monitor,0.0.0-stage,shawnhanxiao,,354,Temporary package placeholder for staged publishing
+2026-11-15T13:37:51.408Z,pi-cancel-current-shell,0.1.3,GitHub Actions,MIT,12000,Cancel the active Pi bash or PowerShell tool execution without aborting the agent turn.
+2026-11-15T13:38:07.613Z,dsh-meeting-memo,0.2.3,longjiaqiuu,MIT,668805,"Meeting minutes in the right sidebar: local capture, transcription, and structured minutes."
+2026-11-15T13:39:03.485Z,adaptivecard-js,1.0.0,gariskode,MIT,1755594,Fluent TypeScript builder that programmatically constructs Microsoft Adaptive Card (v1.6) JSON payloads.
+2026-11-15T13:39:16.61Z,@redactic/mcp,0.1.0,ricattidev,MIT,46122,"MCP server for Redactic (redactic.eu): mask, restore and black out personal data in text and files from Claude and other MCP clients."
+2026-11-15T13:39:48.219Z,@fluritheme/moon-explorer,0.1.0,fluritheme,SEE LICENSE IN LICENSE,79121,"A beautifully animated little lunar expedition for real websites: astronaut landing, low-gravity walks, rock sampling, flags, rover rides, telescope observations and shooting stars."
+2026-11-15T13:40:10.936Z,@hexiaowu/dsh-web-search-zai,0.1.0,hexiaowu,MIT,94483,Z.ai / Zhipu GLM web-search provider for the DeepSeek Harness ctx.web seam
+2026-11-15T13:40:20.621Z,@threadedstack/wmd-linux-x64,0.1.21,lktipton,MIT,329115404,wmd 0.1.21 for Linux x64 (glibc): the programs and the amd64 guest (used by @threadedstack/wmd)
+2026-11-15T13:41:52.542Z,opendta-pyodide,0.2.3,naklitechie,MIT,4892328,"Run Stata 14 commands, graphs and Mata in the browser or Node on Pyodide, using OpenDTA's open-source engine."
+2026-11-15T13:41:53.269Z,dbt-sugar,1.0.1,datnguye,MIT,151867,"A live local page for dbt v2 runs: what's running, what's next, what to fix, a diff for reviewers, and Dinor Sugar chasing the dbt logo."
+2026-11-15T13:42:09.481Z,vivek-ai-skills,1.1.0,vivek09thakur,MIT,192066,"Installable AI agent skills: prototype-design, prototype-design-beta and shorts-story-video."
+2026-11-15T13:42:11.695Z,pomsos-precios-ar,1.0.202611151102,jhalberico,UNLICENSED,60280,"Precios públicos del mercado argentino (BYMA, MEP, CCL, riesgo país) en un archivo JS para uso personal."
+2026-11-15T13:43:10.26Z,agentwelcome,1.0.0,nullar-admin,ISC,226,
+2026-11-15T13:44:09.153Z,expo-adjust,0.1.0,mu29,MIT,174760,Adjust SDK module for Expo
+2026-11-15T13:45:24.787Z,reswatch,1.0.0,aniruddhadwivedi,MIT,21002,Lightweight Express middleware for response-size monitoring and payload regression detection.
+2026-11-15T13:46:06.07Z,@agen-ai/provider-grok,0.0.0-stage,trevor-nichols,,344,Temporary package placeholder for staged publishing
+2026-11-15T13:46:32.511Z,@agen-ai/provider-tools,0.0.0-stage,trevor-nichols,,345,Temporary package placeholder for staged publishing
+2026-11-15T13:46:34.584Z,@agen-ai/provider-claude,0.0.0-stage,trevor-nichols,,346,Temporary package placeholder for staged publishing
+2026-11-15T13:46:36.577Z,@agen-ai/provider-opencode,0.0.0-stage,trevor-nichols,,348,Temporary package placeholder for staged publishing
+2026-11-15T13:47:23.634Z,@pockdev/sdk,0.1.0,mascottz,MIT,11497,Zero-dependency crash capture SDK for PockDev webhook and error linking.
+2026-11-15T13:48:45.8Z,capacitor-anyline,0.3.1,belov_maxim,MIT,111799,"The Anyline scanner SDK for Capacitor: initialise it with a licence key and scan with an Anyline scan view config, on Android and iOS"
+2026-11-15T13:49:23.352Z,buzzmark,0.1.1,bdyctrl,MIT,21901,"Buzzmark from a terminal: write, plan and schedule social media posts in your brand's voice. Runs the same tools as Buzzmark's MCP server, signed in with an API key."
+2026-11-15T13:49:42.985Z,viaferrata,0.1.0,artman-8,MIT,154803,"Instructions, document templates, and CLI for intent-driven and spec-driven development (SDD) with AI agents"
+2026-11-15T13:49:54.901Z,dsh-science-plugin,0.14.0,spyfighting,MIT,2319238,"Scientific workbench for DeepSeek Harness: publication figures, database connections, auto result review, SSH remote compute"
+2026-11-15T13:50:03.84Z,@acefu/app-contract,1.0.1,liuaifeng,Apache-2.0,166067,"Manifest, capability and RPC contract shared by the Acefu host and apps"
+2026-11-15T13:50:14.925Z,@acefu/ui,1.0.1,liuaifeng,Apache-2.0,45332,Design tokens and primitives shared by the host chrome and every app
+2026-11-15T13:50:26.764Z,@acefu/app-kit,1.0.1,liuaifeng,Apache-2.0,39575,Runtime helpers and build preset for Acefu apps written in TypeScript
+2026-11-15T13:50:41.397Z,@acefu/cli,0.1.1,liuaifeng,Apache-2.0,1825358,The acefu command: scaffolds an app and checks it against the rules the host applies
+2026-11-15T13:51:13.27Z,parallax-dsh,2.0.0,ai4e,MIT,163848,"Wish it & Make it Real in 3 steps: wish, choose, hand off to an agent team. Works on Linux and Windows (macOS untested). Start with 「qstart」「Parallax」「wish」 or the Chinese trigger words 许愿创造 / 许愿编程."
+2026-11-15T13:51:35.592Z,@kleora-io/core,0.0.0,samupl,Apache-2.0,139,Name reserved for Kleora. The first release is coming.
+2026-11-15T13:51:37.873Z,@kleora-io/cli,0.0.0,samupl,Apache-2.0,138,Name reserved for Kleora. The first release is coming.
+2026-11-15T13:51:40.109Z,@kleora-io/mcp,0.0.0,samupl,Apache-2.0,138,Name reserved for Kleora. The first release is coming.
+2026-11-15T13:52:00.897Z,@supersolutions/super-editor-core,0.1.0,zou_murmur,GPL-3.0-or-later,334186,Headless versioned research documents and validated operations
+2026-11-15T13:52:06.03Z,@supersolutions/super-editor-ui,0.1.0,zou_murmur,GPL-3.0-or-later,565890,Composable DOM research report renderer
+2026-11-15T13:52:11.66Z,@supersolutions/super-editor-react,0.1.0,zou_murmur,GPL-3.0-or-later,261558,Composable React research report components
+2026-11-15T13:52:18.629Z,@supersolutions/super-editor-element,0.1.0,zou_murmur,GPL-3.0-or-later,42640,The <super-editor> web component: view or edit a research document in any framework
+2026-11-15T13:52:23.492Z,@supersolutions/super-editor-chat-plugin,0.1.0,zou_murmur,GPL-3.0-or-later,43225,super-chat plugin: shows and edits research documents as chat cards
+2026-11-15T13:52:29.59Z,@supersolutions/super-editor-api,0.1.0,zou_murmur,AGPL-3.0-or-later,96290,HTTP adapter for guarded research report operations
+2026-11-15T13:52:34.705Z,@supersolutions/super-editor-mcp,0.1.0,zou_murmur,AGPL-3.0-or-later,92176,MCP server and tool dispatcher for guarded research report documents
+2026-11-15T13:52:39.855Z,@supersolutions/super-editor-cli,0.1.0,zou_murmur,GPL-3.0-or-later,95064,Local JSON research report CLI
+2026-11-15T13:52:52.298Z,tauri-plugin-delta-update-api,1.0.0-rc.4,zuqiuning,MIT,33774,Windows-only frontend API for the tauri-plugin-delta-update Tauri 2 plugin
+2026-11-15T13:52:55.793Z,@clusterflick/catalogue,0.1.0,alistairjcbrown,MIT,399664,"Clusterflick's listings: the data model, filters, places and occasions, shared by the site and its Workers."
+2026-11-15T13:53:35.057Z,pi-chafa-banner,1.0.0,xiaocrq,MIT,1223880,"Animated chafa splash header for pi: gif art top-left, model info below, skills/themes/extensions on the right"
+2026-11-15T13:53:49.202Z,@cletusstar/cletus,0.1.0,starspark,MIT,1504158,A pi-inspired terminal coding agent
+2026-11-15T13:54:18.248Z,react-scroll-restore,0.1.0,guoyunhe,MIT,28966,"A lightweight, framework-agnostic React component for seamless scroll restoration and hash anchor positioning—works with any router."
+2026-11-15T13:54:51.539Z,@kubohiroya/turbowarp-plus-editor-fonts,0.1.0,kubohiroya,MPL-2.0,56956,"Web fonts for TurboWarp Plus Editor: approve and load web fonts a project uses, the font dialogs, the Paint Editor fonts button, and fallbacks for packaged projects"
+2026-11-15T13:55:04.768Z,@acahti/cli,0.15.1,lpythu,Apache-2.0,33466734,"Acahti command line for git, pull requests, and pipelines"
+2026-11-15T13:55:19.254Z,storybook-addon-shadcn-theme-editor,0.1.1,ghudev,MIT,34755,"Live theme editor for shadcn CSS variables (OKLCH) in Storybook – tweak light & dark colours, radius and fonts, import from and export to app.css."
+2026-11-15T13:55:44.245Z,dsh-stage-prose,1.0.0-rc.1,testiphi,MIT,23444,Progress narration and readable collapsed turns for DeepSeek Harness.
+2026-11-15T13:56:02.025Z,@anofront/cli,0.1.0,sho-ritz,MIT,124745,Deploy a static frontend to Nostr (nsite / NIP-5A) with no server to run. Works without a custom domain.
+2026-11-15T13:56:17.672Z,quick-otp-kit,1.0.0,onkarswami,MIT,9752,"Generate numeric and alphanumeric one-time passwords with Node.js crypto, verify codes, and check expiration."
+2026-11-15T13:57:07.775Z,@laivikto/dsh-ssh-servers,1.2.0,laivikto,MIT,193583,"SSH server manager for DeepSeek Harness: saved key/password connections, native key-file picker, live connection health, IPv4/IPv6 display, a task prompt copied to the clipboard, and remote file brow…"
+2026-11-15T13:57:28.625Z,@loutrejs/mcp,0.11.0,come25136,MIT,34702,HTTP ContractのルートからStreamable HTTPでToolを公開します。endpointごとのfactoryがruntimeとDIを所有し、同じHTTP listenerへ複数endpointを登録できます。
+2026-11-15T13:58:24.809Z,@gnggln/ui-schemas,1.0.0-beta.3,giulianogangemi,MIT,84980,Tipi e interfacce condivisi per le librerie UI Angular e React
+2026-11-15T13:58:34.129Z,floating-agent,0.3.0,thsvkd,MIT,567120,"Floating AI assistant (FAB + chat panel) backed by the local claude CLI: Svelte 5 component, framework-free custom element, and Web-standard server handlers"
+2026-11-15T13:59:34.479Z,@ezuikit/control-core,0.0.1-beta.1,freeshine,MIT,181418,"shared core for ezuikit controls: options, i18n, logger, device & token"
+2026-11-15T13:59:38.703Z,aethralive,0.2.0,vuppalaakshay,,154011,Live coding-agent activity in your private Telegram chat
+2026-11-15T13:59:46.148Z,@simlock/e2e,0.0.0,aitwar,MIT,634,Placeholder. The simlock device provider for the e2e runner ships here from the next simlock release.
+2026-11-15T13:59:49.579Z,streamlane,0.0.1,gxclarke,UNLICENSED,282,This name is reserved. The package contains no software.
+2026-11-15T14:02:06.669Z,sdd-flow-helper,0.8.0,fresh-fx59,UNLICENSED,332210,Kanban that runs a coding agent per OpenSpec stage and moves cards automatically
+2026-11-15T14:02:07.958Z,@amineben01/kit,0.1.0,amineben01,UNLICENSED,41260,Shared helpers for Next.js apps.
+2026-11-15T14:02:34.883Z,opencode-motion-video-director,0.1.0,viksaaskool,MIT,83390,"Plan, direct, and produce code-drawn 2D/3D motion graphics and edited videos locally with OpenCode. Installs the motion-video-director skill plus a /mvd-setup preflight command and optional MCP auto-…"
+2026-11-15T14:03:08.658Z,qq-agent-bot,0.6.2,wllevy,MIT,965901,QQ private-chat interface for local Codex and Claude Code sessions
+2026-11-15T14:03:39.24Z,grapim,0.1.0,alexanderko104,Apache-2.0,1298722,"Code review that knows what your agents were asked. Grapim reviews pull requests and records which Claude Code, Codex, Cursor or Gemini CLI run wrote each line, so you can blame and undo one run."
+2026-11-15T14:04:51.125Z,mqtt-ha-entities,0.1.0,hobbyquaker,MIT,170149,"Home Assistant MQTT discovery as entity objects: parse the configs, read an entity's state from its MQTT messages, build the publishes for a command — without Home Assistant"
+2026-11-15T14:05:01.006Z,bee-linux,0.4.0,iosofting,SEE LICENSE IN LICENSE,1018307,"bee-linux: the agent of Beekeeper for Linux servers (monitoring, checks, updates, console, AI access). Install: sudo npx bee-linux@latest install"
+2026-11-15T14:05:52.364Z,@tensorseed/verify,0.3.1,flyingmongoose,AGPL-3.0-or-later,1088903,"Verify Tensorseed served-weights claims, revocations, signed responses, and catalogs in a browser or Node (WebAssembly, no network access of its own)."
+2026-11-15T14:06:26.141Z,yerke-shops-mcp,0.1.0,yerkeey,MIT,38679,"Read-only MCP server for browsing online marketplaces (Kaspi.kz): search products, read specs, compare seller prices, read reviews, view photos"
+2026-11-15T14:08:18.864Z,@ohmygame/pixellab,0.1.0,dogxi,Apache-2.0,23980,"PixelLab pixel art, characters and skeleton animations."
+2026-11-15T14:08:31.317Z,@threadedstack/wmd-linux-arm64-musl,0.1.21,lktipton,MIT,376251081,"wmd 0.1.21 for Linux arm64 (musl, e.g. Alpine): the programs and the arm64 guest (used by @threadedstack/wmd)"
+2026-11-15T14:09:26.519Z,@threadedstack/wmd-linux-x64-musl,0.1.21,lktipton,MIT,322704420,"wmd 0.1.21 for Linux x64 (musl, e.g. Alpine): the programs and the amd64 guest (used by @threadedstack/wmd)"
+2026-11-15T14:10:43.95Z,@sailing-loong/magpie-bridge,0.2.1,sailing-loong,MIT,31968,"Connect LoongPass accounts, rewards and expiring-credit-first model routing to Magpie"
+2026-11-15T14:11:47.96Z,micloud-cli,0.5.0,ceynri,AGPL-3.0-only,333980,"AI-friendly CLI for Xiaomi Cloud (i.mi.com): notes (read, write, sync to Markdown) and recordings (list, download, incremental pull, cleanup), with one login."
+2026-11-15T14:11:50.016Z,@minhspark/minh-spark-office,0.1.0,minhspark,MIT,10357,"Install Minh Spark Office, the free Docs, Sheets, Slides and PDF office suite, on Windows, Linux or macOS"
+2026-11-15T14:12:12.208Z,@markstanden/opencode-test-container,0.1.0,markstanden,MIT,942231,"An isolated test sandbox for OpenCode plugins, skills and agent instructions."
+2026-11-15T14:12:33.395Z,@minhspark/ms-key,0.1.0,minhspark,MIT,17951,"Install MS Key, a lightweight Vietnamese input method (Telex, VNI, VIQR) for Windows, Linux and macOS"
+2026-11-15T14:12:51.025Z,@minhspark/quota-control,0.1.0,minhspark,MIT,10149,"Install Quota Control, the AI usage limit tracker for the Windows/Linux tray and the macOS menu bar"
+2026-11-15T14:12:53.415Z,@alien-css/core,0.1.0,snowly34,MIT,126206,Typed CSS compiled at build time with Alien CSS.
+2026-11-15T14:13:25.606Z,@minhspark/chinese-learning,0.1.0,minhspark,MIT,348986,"Learn Chinese offline: HSK 1-6 vocabulary, grammar, pronunciation coach and drills, served on your own computer"
+2026-11-15T14:13:55.245Z,@zakir300408/wechat-companion,0.0.0-stage,zakir300408,,351,Temporary package placeholder for staged publishing
+2026-11-15T14:14:06.392Z,@alien-css/compiler,0.1.0,snowly34,MIT,14437780,Native compiler and portable project generator for Alien CSS.
+2026-11-15T14:14:10.769Z,@li-canghai/dsh-paper,0.8.0,li-canghai,MIT,2633826,"PDF transcription with stable block ids, folder scanning up to two sub-levels, and session-scoped paper context with drag-select batch injection and removal for DSH."
+2026-11-15T14:15:31.223Z,vera-ia-darwin-arm64,1.0.0,olipite,MIT,8968890,"Binario de vera para darwin arm64. Instala «vera-ia», no este paquete."
+2026-11-15T14:15:51.108Z,vera-ia-darwin-x64,1.0.0,olipite,MIT,9637010,"Binario de vera para darwin x64. Instala «vera-ia», no este paquete."
+2026-11-15T14:16:09.965Z,vera-ia-linux-arm64,1.0.0,olipite,MIT,9045781,"Binario de vera para linux arm64. Instala «vera-ia», no este paquete."
+2026-11-15T14:16:36.566Z,vera-ia-linux-x64,0.0.0-stage,olipite,,339,Temporary package placeholder for staged publishing
