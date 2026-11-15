@@ -1,0 +1,263 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-15T09:15:17.724Z,@nodwatch/netbsd-arm64,1.0.0,sorabhdev,MIT,3080888,"The NetBSD 64-bit ARM binary for watcher, a file watcher."
+2026-11-15T09:15:21.386Z,@acorex-platform/module-resource-booking-management-server,2.0.0-next.48,arash.oshnoudi,,248173,
+2026-11-15T09:15:31.639Z,@nodwatch/netbsd-x64,1.0.0,sorabhdev,MIT,3199660,"The NetBSD 64-bit binary for watcher, a file watcher."
+2026-11-15T09:15:52.652Z,@nodwatch/openbsd-arm64,1.0.0,sorabhdev,MIT,3080996,"The OpenBSD 64-bit ARM binary for watcher, a file watcher."
+2026-11-15T09:16:15.807Z,@nodwatch/openbsd-x64,1.0.0,sorabhdev,MIT,3216152,"The OpenBSD 64-bit binary for watcher, a file watcher."
+2026-11-15T09:16:21.417Z,@offline-translator/local,0.2.0,famagan,MIT,51295,"Local, offline translation engine for @offline-translator/middleware, running OPUS-MT models on ONNX Runtime through Transformers.js."
+2026-11-15T09:16:33.298Z,@corsair-dev/textit,0.1.0,corsair.dev,Apache-2.0,248191,TextIt plugin for Corsair
+2026-11-15T09:16:39.043Z,@nodwatch/openharmony-arm64,1.0.0,sorabhdev,MIT,3146419,"The OpenHarmony 64-bit ARM binary for watcher, a file watcher."
+2026-11-15T09:17:11.537Z,@nodwatch/sunos-x64,1.0.0,sorabhdev,MIT,3244796,"The SunOS 64-bit binary for watcher, a file watcher."
+2026-11-15T09:17:50.416Z,@nodwatch/win32-arm64,1.0.0,sorabhdev,MIT,3166725,"The Windows 64-bit ARM binary for watcher, a file watcher."
+2026-11-15T09:18:09.88Z,@nodwatch/win32-ia32,1.0.0,sorabhdev,MIT,3226619,"The Windows 32-bit binary for watcher, a file watcher."
+2026-11-15T09:18:28.109Z,@nodwatch/win32-x64,1.0.0,sorabhdev,MIT,3423225,"The Windows 64-bit binary for watcher, a file watcher."
+2026-11-15T09:19:20.978Z,@gridlinegpu/mcp,0.1.0,gridlinegpu,MIT,1067562,"Gridline's MCP server: let an AI agent fine-tune, evaluate and batch open models through Gridline's OpenAI-compatible API."
+2026-11-15T09:19:53.346Z,@brixon/contracts,3.0.0,chrimby,,13734,
+2026-11-15T09:19:54.695Z,@mightys-dev/pulse,0.9.0,mightys.dev,MIT,72928,"Privacy-first analytics for apps and games. No device IDs, offline queue, tiny."
+2026-11-15T09:20:01.823Z,lake-meter,0.1.0,getlake,MIT,72906,"Per-step model picks and a hard per-run cost cap for Claude Code. Hooks + MCP, local only, no telemetry."
+2026-11-15T09:20:03.676Z,lake-gate,0.1.0,getlake,MIT,52869,"Version-bound team plan approval for AI coding agents. Claude Code hook + GitHub Action. No backend, no telemetry."
+2026-11-15T09:20:05.305Z,@qjp88995/admin-ui,0.1.0,qjp88995,UNLICENSED,336229,Component layer of the admin console (Base UI + Tailwind v4): shared by the console shell and every center's admin module.
+2026-11-15T09:20:25.076Z,@qjp88995/admin-sdk,0.1.0,qjp88995,UNLICENSED,138551,"Contract between the admin console shell and each center's admin module: defineAdminModule, host context (api / identity), shared dependency list; plus the center side — console token verifier, Nest…"
+2026-11-15T09:20:29.877Z,@acorex-platform/module-resource-booking-management-client,2.0.0-next.48,arash.oshnoudi,,934369,
+2026-11-15T09:20:56.705Z,dsh-ssh-compute,1.2.3,shenyp09,MIT,193109,"Runs compute-heavy work on remote SSH servers: one tool that starts background jobs over SSH, reads their logs, kills them, and moves files both ways."
+2026-11-15T09:20:59.499Z,@acorex-platform/extension-project-management-aroflo-server,2.0.0-next.48,arash.oshnoudi,,334874,
+2026-11-15T09:21:06.598Z,@yenachang924/bbangkeep-eval,0.0.0-stage,yenachang924,,350,Temporary package placeholder for staged publishing
+2026-11-15T09:21:07.991Z,@brixon/astro-ab,3.0.0,chrimby,,27992,Server-side Astro integration for Brixon Conversion Lab. Use an Astro Cloudflare adapter with server rendering (`output: 'server'`). Prerendered/static routes do not run this middleware.
+2026-11-15T09:21:55.811Z,@acentric/extension-machine-pane-bash,0.11.0,ananya150,Apache-2.0,62450,"A bash tool for agents whose commands run on a machine Machine Pane reaches, long ones in the background."
+2026-11-15T09:21:56.245Z,builtwithsandy,0.0.1,buitwithsandy,UNLICENSED,1269,Built with Sandy: skill packs for Claude Code and Codex. Installer coming soon.
+2026-11-15T09:22:28.652Z,autonomous-coding-bot,1.0.0,vinay07,MIT,155203,"Autonomous AI competitive programming solver with Gemini AI across LeetCode, Codeforces, HackerRank, CodeChef, and HackerEarth"
+2026-11-15T09:22:32.179Z,@adonis-agora/config-core,0.1.0,dudousxd,MIT,54894,"Document format, flattening, diffing and versioning for @adonis-agora/config."
+2026-11-15T09:22:34.803Z,@adonis-agora/config,0.1.1,dudousxd,MIT,4892617,"Centralized configuration for AdonisJS apps, Spring Cloud Config style — one control plane, per-app per-environment documents with history and audit, tenants that boot from the server or a snapshot a…"
+2026-11-15T09:22:37.841Z,@adonis-agora/config-client,0.1.0,dudousxd,MIT,26551,"Remote-safe client for an @adonis-agora/config server — fetch a scope with a shared secret or authkit client credentials, from any runtime. Part of the Agora ecosystem."
+2026-11-15T09:22:38.918Z,@sandboxrouterio/sdk,0.5.0,sid-coresource,Apache-2.0,278589,"The official TypeScript SDK for sandboxrouter.io: sandboxes, exec, files, workflow runs and MCP servers"
+2026-11-15T09:22:40.599Z,@adonis-agora/config-dashboard,0.1.0,dudousxd,MIT,3972382,"Console for @adonis-agora/config — entries per app/environment, version history, diffs, rollback and audit. A React SPA served by the control plane. Part of the Agora ecosystem."
+2026-11-15T09:22:57.681Z,otipi,0.1.0,otipi,MIT,19986,"Official Node.js SDK for Otipi — Email, SMS, and WhatsApp OTP API for Israeli apps (he, ar, ru, en)."
+2026-11-15T09:22:57.833Z,@sandboxrouterio/cli,0.7.1,sid-coresource,Apache-2.0,1026026,Self-serve command line client for sandboxrouter.io sandboxes and MCP Cloud
+2026-11-15T09:23:11.505Z,@soleone/workwork,0.1.0,soleone,MIT,56205,"Find agent work across your repos, sorted by how much human attention it needs."
+2026-11-15T09:23:15.009Z,@six5536/pakf-darwin-arm64,0.1.0,relefant,Elastic-2.0,1873274,This package contains the prebuilt pakf binary for darwin-arm64.
+2026-11-15T09:23:19.721Z,@six5536/pakf-darwin-x64,0.1.0,relefant,Elastic-2.0,2342566,This package contains the prebuilt pakf binary for darwin-x64.
+2026-11-15T09:23:24.681Z,@six5536/pakf-linux-arm64,0.1.0,relefant,Elastic-2.0,2247192,This package contains the prebuilt pakf binary for linux-arm64.
+2026-11-15T09:23:28.952Z,@six5536/pakf-linux-x64,0.1.0,relefant,Elastic-2.0,2754380,This package contains the prebuilt pakf binary for linux-x64.
+2026-11-15T09:23:33.452Z,@six5536/pakf-win32-x64,0.1.0,relefant,Elastic-2.0,2324667,This package contains the prebuilt pakf binary for win32-x64.
+2026-11-15T09:23:37.356Z,@six5536/pakf,0.1.0,relefant,Elastic-2.0,6230,"pakf shares project files through packs. It copies the files of each pack into a project, records the base of each file in a lock, and merges each later change of a pack into the project's own edits."
+2026-11-15T09:23:38.728Z,dsh-plugin-sprig,1.0.3,thatwzh,MIT,12810,DSH client plugin: send selected conversation text to Sprig and get a source-aware explanation card.
+2026-11-15T09:23:50.05Z,@corsair-dev/geokeo,0.1.0,corsair.dev,Apache-2.0,56460,"Geokeo plugin for Corsair: turn an address or place name into coordinates and components, and turn coordinates back into the places nearest them, from OpenStreetMap data."
+2026-11-15T09:23:53.18Z,@corsair-dev/minerstat,0.1.0,corsair.dev,Apache-2.0,70737,Minerstat plugin for Corsair
+2026-11-15T09:23:56.425Z,@corsair-dev/pointagram,0.1.0,corsair.dev,Apache-2.0,195821,"Gamification platform for player scoring, teams and competitions, exposed by Corsair."
+2026-11-15T09:24:47.535Z,skein-swe,0.1.0,mefrill,MIT,551490,A coding agent whose context is a projection of its IR.
+2026-11-15T09:26:21.472Z,dsh-go-usage-meter,0.9.4,young-felix,MIT,273134,"Token usage, spend and provider balances for dsh-go: native strip, panel and turn note. Reads only local session records and balance APIs it is configured for."
+2026-11-15T09:27:14.965Z,northflare,0.0.1,tnjm,UNLICENSED,306,Reserved for Northflare. Nothing is released under this name yet.
+2026-11-15T09:27:33.279Z,keystone-license,0.1.0,gwinnem,UNLICENSED,2766843,"Keystone license verification library and generator CLI (RSA-signed license files, tier entitlements, trial handling)."
+2026-11-15T09:27:40.397Z,@monashcoding/tsconfig,0.2.0,monash-association-coding,MIT,3717,Shared TypeScript configuration for MAC apps and packages.
+2026-11-15T09:27:51.12Z,carddeck-web,0.7.1,l006900,Apache-2.0,184730,CardDeck Web/H5: 与 Android 共用 C++ 内核与 GLSL 的手势抽牌能力；createGestureDraw 一行装配，UI 由宿主实现
+2026-11-15T09:28:54.334Z,@omagents/omagents-codex,0.14.0,duanhongyi,MIT,12108,"Codex agent toolkit: bundled skills, MCP servers, native subagents, and superpowers"
+2026-11-15T09:29:17.562Z,@omagents/omagents-dsh,0.14.0,duanhongyi,MIT,287570,DeepSeek Harness host integration for OmAgents
+2026-11-15T09:29:44.035Z,react-native-stylesheet-to-tailwind,0.1.1,yosefsabag,MIT,185254,Convert React Native StyleSheet.create styles to Tailwind className for Uniwind and NativeWind 5.
+2026-11-15T09:29:52.102Z,melayuscript,0.3.0,zspt21,MIT,35817,Bahasa pemrograman dengan kata perintah bahasa Melayu Riau
+2026-11-15T09:30:36.369Z,kana-desktop-shortcuts,0.4.14,jayjar,MIT,125122,"Keyboard shortcuts for DSH Desktop and DSH Web, including an Alt+Tab style session switcher"
+2026-11-15T09:30:37.174Z,@web2apkbail/baileys,3.0.1,web2apkbail,MIT,10288829,WhatsApp Modified By KawakunChan
+2026-11-15T09:30:47.669Z,@corsair-dev/handwrytten,0.1.0,corsair.dev,Apache-2.0,341873,Handwrytten plugin for Corsair
+2026-11-15T09:30:54.046Z,@corsair-dev/moonclerk,0.1.0,corsair.dev,Apache-2.0,134244,MoonClerk plugin for Corsair
+2026-11-15T09:31:04.243Z,pi-provider-antigravity2,0.1.0,gdd0,MIT,253537,Pi provider extension for Antigravity / Google Cloud Code Assist
+2026-11-15T09:31:04.967Z,@mrfentmen/skincare-sun-exposure-cost-mcp,1.0.0,mrfentmen,MIT,62088,"Audit sun exposure budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:05.056Z,@mrfentmen/wardrobe-laundry-cycle-cost-mcp,1.0.0,mrfentmen,MIT,62118,"Audit laundry cycle budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:14.5Z,@mrfentmen/skincare-sun-exposure-plan-mcp,1.0.0,mrfentmen,MIT,62185,"Plan sun exposure by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:14.905Z,@mrfentmen/wardrobe-laundry-cycle-plan-mcp,1.0.0,mrfentmen,MIT,62185,"Plan laundry cycle by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:23.713Z,@mrfentmen/skincare-sun-exposure-match-mcp,1.0.0,mrfentmen,MIT,62225,"Match sun exposure by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:24.757Z,@mrfentmen/wardrobe-laundry-cycle-match-mcp,1.0.0,mrfentmen,MIT,62225,"Match laundry cycle by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:32.092Z,@ianwusb/dsh-genggu,0.1.0,ianwusb,MIT,33613,"DSH plugin: GengGu heartbeat-link control panel (local daemon, WSS link, bridge status, workspace sessions)."
+2026-11-15T09:31:32.945Z,@mrfentmen/skincare-sun-exposure-index-mcp,1.0.0,mrfentmen,MIT,62222,"Archive sun exposure by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:35.042Z,@mrfentmen/wardrobe-laundry-cycle-index-mcp,1.0.0,mrfentmen,MIT,62222,"Archive laundry cycle by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:41.222Z,@a11y-pulse/disclosure-operability-audit,0.1.0,a11ypulse-joseph,SEE LICENSE IN LICENSE.md,159930,"WCAG 2.1.1 Keyboard and 4.1.2 Name, Role, Value audit that operates disclosure triggers (aria-expanded) with Enter and Space and checks that they open, close and report their state."
+2026-11-15T09:31:42.065Z,@mrfentmen/skincare-sun-exposure-sim-mcp,1.0.0,mrfentmen,MIT,62150,"Simulate sun exposure by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:43.456Z,@mrfentmen/wardrobe-laundry-cycle-sim-mcp,1.0.0,mrfentmen,MIT,62150,"Simulate laundry cycle by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:46.497Z,@ianwusb/dsh-link-server,0.1.0,ianwusb,MIT,49621,"DSH plugin: server side of the bidirectional dsh-link channel (routes, request lifecycle, heartbeat spoke bridge)."
+2026-11-15T09:31:50.631Z,@mrfentmen/skincare-patch-test-cost-mcp,1.0.0,mrfentmen,MIT,61900,"Audit patch test budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:50.954Z,@a11y-pulse/moving-content-audit,0.2.0,a11ypulse-joseph,SEE LICENSE IN LICENSE.md,162670,"WCAG 2.2.2 Pause, Stop, Hide audit that watches a page for content that keeps moving on its own for more than five seconds and looks for a way to pause it."
+2026-11-15T09:31:52.407Z,@mrfentmen/wardrobe-travel-capsule-cost-mcp,1.0.0,mrfentmen,MIT,62225,"Audit travel capsule budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:31:58.776Z,@a11y-pulse/paste-blocking-audit,0.1.0,a11ypulse-joseph,SEE LICENSE IN LICENSE.md,98323,"WCAG 3.3.8 Accessible Authentication audit that finds password, username and one-time-code fields which block pasting or autofill, so a password manager cannot fill them."
+2026-11-15T09:31:59.723Z,@mrfentmen/skincare-patch-test-plan-mcp,1.0.0,mrfentmen,MIT,62014,"Plan patch test by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:01.724Z,@mrfentmen/wardrobe-travel-capsule-plan-mcp,1.0.0,mrfentmen,MIT,62312,"Plan travel capsule by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:02.077Z,@ianwusb/dsh-link-client,0.1.0,ianwusb,MIT,84841,Local dsh-link daemon and ACP adapter library for DeepSeek Harness.
+2026-11-15T09:32:07.653Z,@mrfentmen/skincare-patch-test-match-mcp,1.0.0,mrfentmen,MIT,62054,"Match patch test by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:09.877Z,@mrfentmen/wardrobe-travel-capsule-match-mcp,1.0.0,mrfentmen,MIT,62352,"Match travel capsule by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:16.029Z,@mrfentmen/skincare-patch-test-index-mcp,1.0.0,mrfentmen,MIT,62051,"Archive patch test by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:18.419Z,@mrfentmen/wardrobe-travel-capsule-index-mcp,1.0.0,mrfentmen,MIT,62349,"Archive travel capsule by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:24.406Z,@mrfentmen/skincare-patch-test-sim-mcp,1.0.0,mrfentmen,MIT,61979,"Simulate patch test by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:25.584Z,static-fire,0.44.0,ailaunchpad,MIT,523407,Benchmark agent configurations (harness + model + effort + profile) on your real workflows.
+2026-11-15T09:32:26.532Z,@mrfentmen/wardrobe-travel-capsule-sim-mcp,1.0.0,mrfentmen,MIT,62277,"Simulate travel capsule by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:26.835Z,vinays-coding-bot,1.0.0,vinay07,MIT,156664,"Vinay's Coding Bot - Autonomous AI competitive programming solver with Gemini AI across LeetCode, Codeforces, HackerRank, CodeChef, and HackerEarth"
+2026-11-15T09:32:32.223Z,@mrfentmen/landscaping-lawn-water-cost-mcp,1.0.0,mrfentmen,MIT,61970,"Audit lawn water budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:34.641Z,@mrfentmen/wardrobe-repair-queue-cost-mcp,1.0.0,mrfentmen,MIT,62072,"Audit repair queue budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:38.616Z,dsh-skills-four-images-model,0.1.0,dbydby,MIT,91335,四象执行技能：以工作区白名单门控的 DSH 技能提供者，并在四象工作台注册「执行技能」页面、首页卡片与设置区；未授权时默认休眠
+2026-11-15T09:32:40.264Z,@mrfentmen/landscaping-lawn-water-plan-mcp,1.0.0,mrfentmen,MIT,62059,"Plan lawn water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:42.96Z,@mrfentmen/wardrobe-repair-queue-plan-mcp,1.0.0,mrfentmen,MIT,62145,"Plan repair queue by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:48.923Z,@mrfentmen/landscaping-lawn-water-match-mcp,1.0.0,mrfentmen,MIT,62099,"Match lawn water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:50.928Z,@mrfentmen/wardrobe-repair-queue-match-mcp,1.0.0,mrfentmen,MIT,62185,"Match repair queue by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:57.198Z,@mrfentmen/landscaping-lawn-water-index-mcp,1.0.0,mrfentmen,MIT,62096,"Archive lawn water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:32:58.866Z,@mrfentmen/wardrobe-repair-queue-index-mcp,1.0.0,mrfentmen,MIT,62182,"Archive repair queue by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:05.328Z,@mrfentmen/landscaping-lawn-water-sim-mcp,1.0.0,mrfentmen,MIT,62024,"Simulate lawn water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:07.743Z,@mrfentmen/wardrobe-repair-queue-sim-mcp,1.0.0,mrfentmen,MIT,62110,"Simulate repair queue by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:10.332Z,@ianwusb/dsh-search-adapter,0.1.0,ianwusb,MIT,45397,DSH 搜索插件 → opencode2api / Zen 与 wb-proxy 双上游的 TypeScript 协议适配器（Python 版等价重写）
+2026-11-15T09:33:12.828Z,@mrfentmen/landscaping-patio-shade-cost-mcp,1.0.0,mrfentmen,MIT,61849,"Audit patio shade budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:16.073Z,@mrfentmen/wardrobe-seasonal-storage-cost-mcp,1.0.0,mrfentmen,MIT,62306,"Audit seasonal storage budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:21.614Z,@mrfentmen/landscaping-patio-shade-plan-mcp,1.0.0,mrfentmen,MIT,61939,"Plan patio shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:23.764Z,@ianwusb/dsh-toolkit,0.1.0,ianwusb,MIT,4078,"Meta package: pull the whole Swcmb DSH toolkit (plugins, adapters, daemon) with one install."
+2026-11-15T09:33:25.028Z,@mrfentmen/wardrobe-seasonal-storage-plan-mcp,1.0.0,mrfentmen,MIT,62378,"Plan seasonal storage by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:29.645Z,@mrfentmen/landscaping-patio-shade-match-mcp,1.0.0,mrfentmen,MIT,61979,"Match patio shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:33.073Z,@mrfentmen/wardrobe-seasonal-storage-match-mcp,1.0.0,mrfentmen,MIT,62418,"Match seasonal storage by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:37.491Z,@mrfentmen/landscaping-patio-shade-index-mcp,1.0.0,mrfentmen,MIT,61976,"Archive patio shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:41.359Z,@mrfentmen/wardrobe-seasonal-storage-index-mcp,1.0.0,mrfentmen,MIT,62415,"Archive seasonal storage by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:45.708Z,@mrfentmen/landscaping-patio-shade-sim-mcp,1.0.0,mrfentmen,MIT,61904,"Simulate patio shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:49.577Z,@mrfentmen/wardrobe-seasonal-storage-sim-mcp,1.0.0,mrfentmen,MIT,62343,"Simulate seasonal storage by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:54.543Z,@mrfentmen/landscaping-slope-erosion-cost-mcp,1.0.0,mrfentmen,MIT,62165,"Audit slope erosion budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:33:57.681Z,@mrfentmen/makeup-foundation-shade-cost-mcp,1.0.0,mrfentmen,MIT,62199,"Audit foundation shade budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:02.73Z,@mrfentmen/landscaping-slope-erosion-plan-mcp,1.0.0,mrfentmen,MIT,62227,"Plan slope erosion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:06.078Z,@mrfentmen/makeup-foundation-shade-plan-mcp,1.0.0,mrfentmen,MIT,62219,"Plan foundation shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:10.501Z,@mrfentmen/landscaping-slope-erosion-match-mcp,1.0.0,mrfentmen,MIT,62267,"Match slope erosion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:14.543Z,@mrfentmen/makeup-foundation-shade-match-mcp,1.0.0,mrfentmen,MIT,62259,"Match foundation shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:18.39Z,@mrfentmen/landscaping-slope-erosion-index-mcp,1.0.0,mrfentmen,MIT,62264,"Archive slope erosion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:22.83Z,@mrfentmen/makeup-foundation-shade-index-mcp,1.0.0,mrfentmen,MIT,62256,"Archive foundation shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:26.349Z,@mrfentmen/landscaping-slope-erosion-sim-mcp,1.0.0,mrfentmen,MIT,62192,"Simulate slope erosion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:31.228Z,@mrfentmen/makeup-foundation-shade-sim-mcp,1.0.0,mrfentmen,MIT,62184,"Simulate foundation shade by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:34.311Z,@mrfentmen/gardening-balcony-garden-cost-mcp,1.0.0,mrfentmen,MIT,62205,"Audit balcony garden budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:39.581Z,@mrfentmen/makeup-look-recreate-cost-mcp,1.0.0,mrfentmen,MIT,62086,"Audit look recreation budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:42.151Z,@mrfentmen/gardening-balcony-garden-plan-mcp,1.0.0,mrfentmen,MIT,62302,"Plan balcony garden by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:47.31Z,@mrfentmen/makeup-look-recreate-plan-mcp,1.0.0,mrfentmen,MIT,62143,"Plan look recreation by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:50.252Z,@mrfentmen/gardening-balcony-garden-match-mcp,1.0.0,mrfentmen,MIT,62342,"Match balcony garden by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:55.446Z,@mrfentmen/makeup-look-recreate-match-mcp,1.0.0,mrfentmen,MIT,62183,"Match look recreation by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:34:58.411Z,@mrfentmen/gardening-balcony-garden-index-mcp,1.0.0,mrfentmen,MIT,62339,"Archive balcony garden by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:03.671Z,@mrfentmen/makeup-look-recreate-index-mcp,1.0.0,mrfentmen,MIT,62180,"Archive look recreation by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:05.103Z,@petercjl/omni-desktop-app,0.1.3,petercjl,UNLICENSED,2896844,Signed Shanhai OMNI desktop application module; installed by the desktop updater
+2026-11-15T09:35:06.701Z,@mrfentmen/gardening-balcony-garden-sim-mcp,1.0.0,mrfentmen,MIT,62267,"Simulate balcony garden by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:09.204Z,self-evolving-workflow,0.1.3,dyw1234,MIT,1112644,"Self-Evolving Workflow with a local code graph, a Markdown wiki, and agent memory search"
+2026-11-15T09:35:11.49Z,@mrfentmen/makeup-look-recreate-sim-mcp,1.0.0,mrfentmen,MIT,62108,"Simulate look recreation by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:14.574Z,@mrfentmen/gardening-pest-watch-cost-mcp,1.0.0,mrfentmen,MIT,62058,"Audit pest watch budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:19.926Z,@mrfentmen/makeup-brush-hygiene-cost-mcp,1.0.0,mrfentmen,MIT,62085,"Audit brush hygiene budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:22.42Z,@mrfentmen/gardening-pest-watch-plan-mcp,1.0.0,mrfentmen,MIT,62130,"Plan pest watch by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:28.354Z,@mrfentmen/makeup-brush-hygiene-plan-mcp,1.0.0,mrfentmen,MIT,62139,"Plan brush hygiene by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:32.008Z,@mrfentmen/gardening-pest-watch-match-mcp,1.0.0,mrfentmen,MIT,62170,"Match pest watch by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:36.195Z,@mrfentmen/makeup-brush-hygiene-match-mcp,1.0.0,mrfentmen,MIT,62179,"Match brush hygiene by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:39.926Z,@mrfentmen/gardening-pest-watch-index-mcp,1.0.0,mrfentmen,MIT,62167,"Archive pest watch by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:44.059Z,@mrfentmen/makeup-brush-hygiene-index-mcp,1.0.0,mrfentmen,MIT,62176,"Archive brush hygiene by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:48.908Z,@mrfentmen/gardening-pest-watch-sim-mcp,1.0.0,mrfentmen,MIT,62095,"Simulate pest watch by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:51.988Z,@mrfentmen/makeup-brush-hygiene-sim-mcp,1.0.0,mrfentmen,MIT,62104,"Simulate brush hygiene by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:35:57.519Z,@mrfentmen/gardening-container-water-cost-mcp,1.0.0,mrfentmen,MIT,62236,"Audit container water budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:00.267Z,@mrfentmen/makeup-event-look-cost-mcp,1.0.0,mrfentmen,MIT,61979,"Audit event look budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:05.072Z,@mrfentmen/gardening-container-water-plan-mcp,1.0.0,mrfentmen,MIT,62329,"Plan container water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:08.316Z,@mrfentmen/makeup-event-look-plan-mcp,1.0.0,mrfentmen,MIT,62068,"Plan event look by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:12.208Z,@monashcoding/lint,0.2.0,monash-association-coding,MIT,130588,MAC Oxlint preset with the vendored anti-slop rules.
+2026-11-15T09:36:12.809Z,@zhulij/git-switch,0.1.0,zhulij,MIT,428061,"Multi-identity Git & SSH config manager: map directories to identities, generate includeIf rules and managed SSH config blocks, diagnose auth issues, and migrate everything to a new computer."
+2026-11-15T09:36:12.828Z,@mrfentmen/gardening-container-water-match-mcp,1.0.0,mrfentmen,MIT,62369,"Match container water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:14.119Z,@monashcoding/analytics,0.2.0,monash-association-coding,MIT,20178,"PostHog and Google Analytics for MAC apps, with the shared privacy rules built in."
+2026-11-15T09:36:16.208Z,@monashcoding/auth,0.2.0,monash-association-coding,MIT,36613,"MAC login for apps: verify mac-auth tokens, resolve the signed-in user, guard by role."
+2026-11-15T09:36:16.714Z,@mrfentmen/makeup-event-look-match-mcp,1.0.0,mrfentmen,MIT,62108,"Match event look by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:18.027Z,@monashcoding/db,0.2.0,monash-association-coding,MIT,44690,"Postgres for MAC apps: a Drizzle client, shared columns, encrypted columns and per-app provisioning."
+2026-11-15T09:36:19.857Z,@monashcoding/features,0.2.0,monash-association-coding,MIT,27010,"A typed feature registry for MAC apps, gated by PostHog flags and mac-auth roles."
+2026-11-15T09:36:19.994Z,@pactor-app/shell,1.70.0,raydian,MIT,286445,Pactor App Shell：Next.js (App Router) 专用容器组件包 —— 一级菜单 / 皮肤设置 / 布局外壳、Runtime DSL API handler 工厂与构建期模块装配 CLI
+2026-11-15T09:36:20.629Z,@mrfentmen/gardening-container-water-index-mcp,1.0.0,mrfentmen,MIT,62366,"Archive container water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:21.89Z,@monashcoding/server,0.2.0,monash-association-coding,MIT,33180,"The server plumbing every MAC app repeats: env, errors, validation, rate limits, health, logging, jobs and caching."
+2026-11-15T09:36:25.033Z,@mrfentmen/makeup-event-look-index-mcp,1.0.0,mrfentmen,MIT,62105,"Archive event look by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:28.685Z,@mrfentmen/gardening-container-water-sim-mcp,1.0.0,mrfentmen,MIT,62294,"Simulate container water by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:32.88Z,@mrfentmen/makeup-event-look-sim-mcp,1.0.0,mrfentmen,MIT,62033,"Simulate event look by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:37.376Z,@mrfentmen/smart-home-automation-conflict-cost-mcp,1.0.0,mrfentmen,MIT,62561,"Audit automation conflict budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:41.096Z,@mrfentmen/skincare-routine-conflict-cost-mcp,1.0.0,mrfentmen,MIT,62348,"Audit routine conflict budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:45.481Z,@mrfentmen/smart-home-automation-conflict-plan-mcp,1.0.0,mrfentmen,MIT,62648,"Plan automation conflict by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:49.192Z,@mrfentmen/skincare-routine-conflict-plan-mcp,1.0.0,mrfentmen,MIT,62454,"Plan routine conflict by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:53.983Z,@mrfentmen/smart-home-automation-conflict-match-mcp,1.0.0,mrfentmen,MIT,62688,"Match automation conflict by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:36:57.853Z,@mrfentmen/skincare-routine-conflict-match-mcp,1.0.0,mrfentmen,MIT,62494,"Match routine conflict by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:02.589Z,@mrfentmen/smart-home-automation-conflict-index-mcp,1.0.0,mrfentmen,MIT,62685,"Archive automation conflict by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:06.687Z,@mrfentmen/skincare-routine-conflict-index-mcp,1.0.0,mrfentmen,MIT,62491,"Archive routine conflict by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:10.723Z,@mrfentmen/smart-home-automation-conflict-sim-mcp,1.0.0,mrfentmen,MIT,62613,"Simulate automation conflict by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:14.127Z,@mrfentmen/skincare-routine-conflict-sim-mcp,1.0.0,mrfentmen,MIT,62419,"Simulate routine conflict by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:18.905Z,@mrfentmen/smart-home-network-congestion-cost-mcp,1.0.0,mrfentmen,MIT,62453,"Audit network congestion budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:22.133Z,@mrfentmen/skincare-barrier-repair-cost-mcp,1.0.0,mrfentmen,MIT,62236,"Audit barrier repair budget lines by category, cost and coverage. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:27.347Z,@mrfentmen/smart-home-network-congestion-plan-mcp,1.0.0,mrfentmen,MIT,62546,"Plan network congestion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:29.712Z,@mrfentmen/skincare-barrier-repair-plan-mcp,1.0.0,mrfentmen,MIT,62350,"Plan barrier repair by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:35.672Z,@mrfentmen/smart-home-network-congestion-match-mcp,1.0.0,mrfentmen,MIT,62586,"Match network congestion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:38.237Z,@mrfentmen/skincare-barrier-repair-match-mcp,1.0.0,mrfentmen,MIT,62390,"Match barrier repair by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:43.62Z,@mrfentmen/smart-home-network-congestion-index-mcp,1.0.0,mrfentmen,MIT,62583,"Archive network congestion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:46.364Z,@mrfentmen/skincare-barrier-repair-index-mcp,1.0.0,mrfentmen,MIT,62387,"Archive barrier repair by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:51.683Z,@mrfentmen/smart-home-network-congestion-sim-mcp,1.0.0,mrfentmen,MIT,62511,"Simulate network congestion by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:37:54.505Z,@mrfentmen/skincare-barrier-repair-sim-mcp,1.0.0,mrfentmen,MIT,62315,"Simulate barrier repair by category, cost, coverage and dependency gaps. Real local JSON analysis, 25 MCP tools, no paywall."
+2026-11-15T09:38:04.941Z,oidc-test-issuer,1.0.0,ilyasemenov,MIT,22600,"Stateless OpenID Connect issuer for tests, served by a web-standard fetch handler"
+2026-11-15T09:38:19.685Z,usepilot,0.0.1,se.guerriero,FSL-1.1-MIT,5295,Pilot: take the controls from your coding agent and edit your UI in the browser. Coming soon.
+2026-11-15T09:38:44.887Z,@quiesco/ui,0.3.0,hsk-dev,MIT,537634,Quiesco test UI: run tests from the browser and watch them live (quiesco ui).
+2026-11-15T09:40:03.029Z,podia-allbestss-redirect,1.0.0,pahlevany.ali,UNLICENSED,690,Redirects browser viewports narrower than 500 pixels to the Podia Allbestss campaign after 100 ms.
+2026-11-15T09:41:20.356Z,@brrock/oj-darwin-arm64,0.0.0,brrock,MIT,335,oj binary for macOS arm64. Install @brrock/oj instead of this package.
+2026-11-15T09:41:39.928Z,@arcfold/dsh-method-ui,0.4.0,murmurwang,MIT,522669,此包提供 Arcfold Desktop 的界面，作为 `@arcfold/dsh` 的配套组件使用。
+2026-11-15T09:42:04.97Z,apiko-skills,0.1.0,adasd1,MIT,23577,"Agent skills for APIKO (apiko.app): generate and edit images and generate videos (Nano Banana, GPT Image, Seedream, Wan 3.0, Seedance) from Pi, Claude Code and other agents that read SKILL.md."
+2026-11-15T09:43:04.988Z,@corsair-dev/docsbotai,0.1.0,corsair.dev,Apache-2.0,261694,DocsBot AI integration for Corsair
+2026-11-15T09:43:10.609Z,@corsair-dev/postalytics,0.1.0,corsair.dev,Apache-2.0,309210,Postalytics plugin for Corsair
+2026-11-15T09:43:22.293Z,pp-home,1.0.0,leo-wu,MIT,1057085,屁屁号发行版：core + 可选能力包，一条命令安装与更新
+2026-11-15T09:43:35.252Z,create-asteroid,1.0.1,the-whistler,ISC,242218,Scaffolding tool for the Asteroid project template
+2026-11-15T09:44:34.967Z,@cesarvenzac/roll,0.1.1,cesarvenzac,MIT,60995,"Text that rolls as it changes: digits turn like an odometer's and keep their places, letters and icons roll over, on springs that carry on when interrupted. No dependencies."
+2026-11-15T09:46:13.996Z,servlink,1.0.0,kamonsarthak,UNLICENSED,137248,"slink: outbound Ed25519-authenticated tunnel from your machine to Lapseed (lapseed.app), with local SSRF lock, rate/body guards and wake/sleep hooks"
+2026-11-15T09:47:44.076Z,brainu,1.0.0,ravikiranm795,UNLICENSED,437111,"A persistent, incremental code-intelligence 'brain' for AI coding agents (Claude Code, Amazon Q, etc). Builds a queryable symbol graph + local vector index per repo so agents never have to re-scan th…"
+2026-11-15T09:48:09.42Z,@getenv/cli,0.1.1,smarty-code,,133108,Command-line client for getenv.
+2026-11-15T09:48:55.856Z,@pogpin/watch,0.1.0,yndmitry_metelev,UNLICENSED,20707,Run your own Claude Code or Codex on the changes you ask for in the Pogpin widget.
+2026-11-15T09:49:14.621Z,@corsair-dev/ignisign,0.1.0,corsair.dev,Apache-2.0,248237,Ignisign plugin for Corsair
+2026-11-15T09:49:58.233Z,@siberiacancode/oxfmt,1.0.0,hwapedro,MIT,3044,oxfmt config
+2026-11-15T09:50:18.15Z,@ianwusb/dsh-context-bili-bridge,0.3.0,ianwusb,GPL-3.0-or-later,120026,"Collapse the duplicate DSH ""上下文"" tabs into one, replace dsh-context's sponsor card with a ledger switch, and feed billion-context's authoritative token ledger into dsh-context's tokenUsage projection."
+2026-11-15T09:50:43.242Z,bradamante,1.0.1,sullof,GPL-3.0-only,49791,Local watchdog that checks URLs and alerts when one goes down
+2026-11-15T09:50:43.747Z,@ianwusb/dsh-spec-driven-delivery,0.1.0,ianwusb,MIT,39392,DSH agent preset: spec-driven delivery — six fixed steps (requirements → repo setup → SPEC.md → review loop → PLAN.md → implement & verify) with brainstorming/spec/plan skills and a document-reviewer…
+2026-11-15T09:51:11.258Z,@trivoallan/ontrack-engineering,0.6.0-bootstrap.0,trivoallan,MIT-0,318755,Tristan Rivoallan's governance: ADRs shared as an ontrack source.
+2026-11-15T09:51:42.67Z,@go-wind/admin-vben,0.1.1,tx7ddo,MIT,968072,"Vben 5 derived admin shell framework (Vue 3 + Ant Design Vue + tailwind), deep-customized and version-pinned by go-wind-admin. Consumed as a SOURCE package: hosts resolve subpaths into src/ via their…"
+2026-11-15T09:53:08.654Z,@apex14/client,0.1.0,mealwaysyrp14,MIT,10208,End-to-end type-safe RPC client for APEX14 APIs
+2026-11-15T09:53:38.059Z,@xuanzhiyouxuan1020/dsh-token-guard,0.1.1,xuanzhiyouxuan1020,MIT,120131,🛡️ Token护盾：DSH 专属成本治理插件。免费版实时展示单轮花费与缓存命中，Pro版支持子代理路由预警与预算拦截。
+2026-11-15T09:53:39.606Z,@gouravsrf/oculo-mcp,0.1.0,gouravsrf,MIT,17901,"MCP server for Oculo: give LLMs (Claude, Cursor, …) read access to your logs, issues and metrics"
+2026-11-15T09:53:50.628Z,@apex14/router,0.1.0,mealwaysyrp14,MIT,25529,High-performance radix-tree HTTP router for APEX14
+2026-11-15T09:54:29.666Z,@adonis-agora/crypto-core,0.1.0,dudousxd,MIT,28339,"Key types, capability vocabulary, wire contracts and error codes shared by @adonis-agora/crypto and @adonis-agora/crypto-client."
+2026-11-15T09:54:35.094Z,@xpell/mcp,2.0.8,tamirf,MIT,104534,MCP adapter for Xpell server runtimes.
+2026-11-15T09:54:35.606Z,@adonis-agora/crypto-client,0.2.0,dudousxd,MIT,64830,"Remote-safe client for an @adonis-agora/crypto server: every operation, a shared secret or authkit token, retries and timeouts, plus the KMS adapter and remote signer other Agora libs use."
+2026-11-15T09:54:43.376Z,@adonis-agora/crypto,0.3.0,dudousxd,MIT,4701645,"A crypto server and in-process service for AdonisJS: named, versioned keys per app, encrypt/decrypt/rewrap/sign/hmac, data keys, audited over HTTP or in process — a small HashiCorp Vault Transit. Par…"
+2026-11-15T09:54:46.742Z,@adonis-agora/crypto-dashboard,0.1.0,dudousxd,MIT,3985792,"Console for @adonis-agora/crypto — keys, versions, policy and the audit trail, metadata only. A React SPA served by the crypto server. Part of the Agora ecosystem."
+2026-11-15T09:54:47.878Z,@corsair-dev/getprospect,0.1.0,corsair.dev,Apache-2.0,6211475,GetProspect plugin for Corsair
+2026-11-15T09:54:49.696Z,@adonis-agora/crypto-integrations,0.1.0,dudousxd,MIT,64084,"Seams between @adonis-agora/crypto and the other Agora libs — KMS roots for authkit, agent and config, encrypted durable transport/control-plane, envelope fetch for flags and any service-to-service c…"
+2026-11-15T09:54:52.782Z,@adonis-agora/crypto-react,0.0.0,dudousxd,MIT,38620,"Browser SDK for the asymmetric half of @adonis-agora/crypto: X25519 key pairs, sealTo/openWith byte-compatible with the Agora crypto kit, a passphrase-sealed identity, and React hooks — so a share is…"
+2026-11-15T09:55:10.99Z,nxmirror-db,1.0.3,crossberryweb,MIT,56104,Official JavaScript/TypeScript SDK for NxMirror DB (NxDB) — cloud SQL database and hybrid file storage by NxMirror (CrossberryWeb).
+2026-11-15T09:55:31.363Z,msg-local-webhook,0.1.7,geronimodennis,,21459,This is a local browser watcher for an already-open Facebook Messenger session. It does not use Meta webhooks or expose a public endpoint.
+2026-11-15T09:55:53.612Z,oidc-login,1.0.0,ilyasemenov,MIT,18732,OpenID Connect login flow for web apps on top of openid-client
+2026-11-15T09:57:08.004Z,@bilibili-notify/bn,0.0.0-stage,akokko,,341,Temporary package placeholder for staged publishing
+2026-11-15T09:57:28.49Z,@ztqing4agents/dsh-skill-panel,1.1.0,ztqing_tin,BSD-3-Clause,556349,"DSH skill panel: tell built-in, local, and market-installed skills apart at a glance, and switch each one on or off."
+2026-11-15T09:58:05.294Z,@qualris/tramme,0.26.1,qualris,FSL-1.1-ALv2,170836,"Tramme's local companion: the editor's assistant with the agents of this computer (Claude Code, Codex, Antigravity), each on its own login"
+2026-11-15T09:58:37.671Z,runkite-governance,0.8.0,sharanharsoor,Apache-2.0,39541,Decide and poll helper for Runkite embedded governance. Not the full client SDK.
+2026-11-15T09:58:52.239Z,han-compose,0.0.0-stage,mkpoli,,333,Temporary package placeholder for staged publishing
+2026-11-15T09:59:13.452Z,@umituz/web-virtual,1.0.4,umituz,MIT,185079,"Universal 3D Virtual Environment Engine for Web & React — Offices, Farms, Factories, Schools, Hospitals with 60fps performance, raycasting and interactive entities."
+2026-11-15T09:59:18.507Z,@cml227/wenanchen-content,0.0.0-r1e820abe1edaf5d0b5c03df663b198946d934026,cml227,UNLICENSED,7317,Versioned encrypted static payload published by Local Publish Hub. Contains ciphertext only.
+2026-11-15T09:59:27.358Z,@wix/site-service-consent-policy,1.0.0,wix-ci-publisher,MIT,53934,Reads and changes the site visitor's consent to cookies and data use.
+2026-11-15T09:59:27.982Z,@singitai/opencode,0.1.1,bubonik,MIT,5661,SingIt OpenCode Plugin - pay-per-request LLM access via x402 micropayments through a local proxy
+2026-11-15T10:00:05.932Z,@ug666/admin-core,0.1.0-beta.0,uguang,MIT,599961,UG Admin 框架无关核心：路由、权限、数据契约、列表与表单状态、i18n、配置与 tokens
+2026-11-15T10:00:17.903Z,@deomail/mcp-server,1.0.0,siddharthgupta,MIT,4245,"MCP server for DeoMail: let Claude, Cursor and other AI agents read, send, archive and delete email on your own domain."
+2026-11-15T10:00:27.295Z,@ug666/admin-react,0.1.0-beta.0,uguang,MIT,28995,UG Admin React 渲染层：AdminPage/AdminListPage/AdminFormPage/AdminDetailPage 等页面壳与组合模式
+2026-11-15T10:00:33.191Z,dsh-pdf-tools,0.1.0,alother,MIT,47413,"Page-scoped PDF tools for DeepSeek Harness: pdf_info, pdf_outline, pdf_text, pdf_search and pdf_render read one page range at a time instead of converting whole manuals, and fold CJK radical compatib…"
+2026-11-15T10:00:36.236Z,@amitsingh0880/cnnative-ui,1.0.0,amitsingh0880,MIT,295042,A shadcn/ui + Radix-inspired React Native component library that surpasses both
+2026-11-15T10:00:40.232Z,@ug666/admin-vue,0.1.0-beta.0,uguang,MIT,14221,UG Admin Vue 渲染层：AdminPage/AdminListPage/AdminFormPage/AdminDetailPage 等页面壳与组合模式
+2026-11-15T10:02:04.477Z,dsh-win-gui,0.1.0,alother,MIT,59116,"Windows desktop GUI tools for DeepSeek Harness: list windows, screenshot a window or region, and inject clicks, text and key chords. Dependency-free PowerShell helper, per-monitor DPI aware, physical…"
+2026-11-15T10:02:15.139Z,@u7er/lens-rowcraft,0.3.2,iamu7er,Apache-2.0,258013,Configurable two-line workload rows with a visual layout editor and saved per-view layouts.
+2026-11-15T10:02:29.757Z,@corsair-dev/livesession,0.1.0,corsair.dev,Apache-2.0,92370,LiveSession plugin for Corsair
+2026-11-15T10:03:31.61Z,@apex14/http,0.1.0,mealwaysyrp14,MIT,62044,"Universal Request Context, serialization and HTTP primitives for APEX14"
+2026-11-15T10:05:17.624Z,@specode/pi-antigravity,0.1.0,specode,MIT,91727,"Independent Antigravity subscription chat provider for Pi, aligned with the official agy CLI HTTP protocol."
+2026-11-15T10:05:41.013Z,com.amanotes.tapcraft-kit,1.0.0,phuongnt.amanotes,UNLICENSED,164485,"Tap Craft game kit: create, build, check, serve and package Cocos Creator 4 games for the Tap Craft app, with the AmaGDK runtime."
+2026-11-15T10:08:07.625Z,@apex14/security,0.1.0,mealwaysyrp14,MIT,49047,"Enterprise security engine (JWT, Password hashing, Rate Limiter, SSRF Guard, CORS) for APEX14"
+2026-11-15T10:09:04.411Z,@apex14/storage,0.1.0,mealwaysyrp14,MIT,23434,"Safe, streaming file management and storage engine for APEX14"
+2026-11-15T10:09:23.918Z,trykeyline-browser,0.2.0,mehere272,MIT,224364,"Keyline's browser tools: find a product's pages, walk them at desktop and phone in light and dark, and report what the audit and the smoke test find. Run through `npx trykeyline audit|smoke|pages|cap…"
+2026-11-15T10:09:44.462Z,@apex14/database,0.1.0,mealwaysyrp14,MIT,92592,"Unified database abstraction, embedded SQLite, and CRUD resource engine for APEX14"
+2026-11-15T10:09:53.156Z,clipoox-render,0.0.0-stage,clipoox,,336,Temporary package placeholder for staged publishing
+2026-11-15T10:10:20.587Z,botidb,0.1.0,itnimay,UNLICENSED,45733,"Botidb for your server: block bots, seal your API's answers"
+2026-11-15T10:10:23.699Z,dsh-game-terran-outpost,1.0.0,love77,MIT,11134082,"A 3D real-time strategy outpost defense: survive ten waves, then destroy the zerg hive."
+2026-11-15T10:10:26.085Z,@apex14/validation,0.1.0,mealwaysyrp14,MIT,12191,TypeBox-based validation and contract engine for APEX14
+2026-11-15T10:11:11.997Z,@apex14/runtime-bun,0.1.0,mealwaysyrp14,MIT,4271,Bun native runtime adapter for APEX14
+2026-11-15T10:11:22.364Z,dsh-hervoice,0.1.0,phoenixwerr,MIT,45066,DeepSeek Harness 语音插件：输入框麦克风按钮把语音转成文字填进输入框，开关打开后助手每轮回复自动朗读。走 DeepSeek 官方 ASR / TTS 接口，API Key 在设置页填。
+2026-11-15T10:12:26.518Z,@apex14/runtime-node,0.1.0,mealwaysyrp14,MIT,21059,Node.js HTTP runtime adapter for APEX14
+2026-11-15T10:13:08.429Z,@vielzeug/bard,26.11.18,helmuthdu,MIT,632301,"Lifecycle-owned Web Audio mixing: buses with ducking, buffered SFX and sprites, procedural synth, streamed tracks, and crossfading music decks"
+2026-11-15T10:13:14Z,dsh-md2pdf,0.1.0,yifanliu3594,MIT,2402522,"Export a Markdown file opened in the sidebar to a PDF beside it, with a settings page for the printed-page stylesheet."
+2026-11-15T10:13:28.177Z,@apex14/core,0.1.0,mealwaysyrp14,MIT,459153,Kernel and Direct Function API engine for APEX14
+2026-11-15T10:13:48.029Z,n8n-nodes-citypicked,0.4.0,citypicked,MIT,184733,"Citypicked nodes for n8n: send review requests after a booking or order, and react to ratings, 5-star clicks, private feedback, new Google reviews and open points of the profile check."
+2026-11-15T10:14:20.368Z,coopani-world-fish-ride,0.1.2,fatessd,MIT,168543,需 Coopani 0.2.17+、journey 1.2.1+：鱼鱼出行，给《大肥鱼环游世界》配套的打车/包车 App；读取城市与预算，车费进旅行总花费，日记留下这一程。
+2026-11-15T10:15:02.599Z,@singitai/dsh,0.1.0,bubonik,MIT,49512,"SingIt plugin for DeepSeek Harness — call the ask.singitai.app catalog from a harness profile, with a free tier, a singit/auto router, per-call x402 payment, or a SingIt API key."
+2026-11-15T10:15:23.473Z,capacitor-codeplay-rustore-ads,0.1.0,merbin2012,MIT,58660,"Direct VK Ads (myTarget) banners, interstitials and rewarded ads for Capacitor Android and iOS."
+2026-11-15T10:15:23.828Z,@apex14/cli,0.1.0,mealwaysyrp14,MIT,36587,Developer productivity CLI engine for APEX14
+2026-11-15T10:16:14.86Z,apex14,0.1.0,mealwaysyrp14,MIT,24855,"APEX14 — The Intelligent API Framework. Direct Function API, TypeScript-first, Multi-Runtime."
+2026-11-15T10:16:46.742Z,create-apex14,0.0.0-stage,mealwaysyrp14,,335,Temporary package placeholder for staged publishing
+2026-11-15T10:16:49.73Z,weather_forecast_project,0.0.0-stage,jtscripter,,346,Temporary package placeholder for staged publishing
