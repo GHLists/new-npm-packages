@@ -1,0 +1,318 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-15T15:17:28.175Z,@fabiplay/protocol,0.9.0,admnext,SEE LICENSE IN LICENSE,135139,"Messages between the phone, the screen and the games, with their checks."
+2026-11-15T15:17:33.446Z,@fabiplay/sdk,0.9.0,admnext,SEE LICENSE IN LICENSE,584234,"What a game imports: players, movements and the end of the game, from inside its sandboxed frame."
+2026-11-15T15:17:36.409Z,@fabiplay/motion,0.9.0,admnext,SEE LICENSE IN LICENSE,67778,"Body movements from pose landmarks: jumps, squats, shapes, lanes, freezing, hands as pointers."
+2026-11-15T15:17:36.708Z,@fabiplay/avatars,0.9.0,admnext,SEE LICENSE IN LICENSE,141365,"39 child-friendly avatars: Fabi the fox in every age band, 12 per band, a T-rex and a fairy, drawn from a body pose, on canvas or as SVG portraits for the pickers."
+2026-11-15T15:17:38.78Z,@fabiplay/engine,0.9.0,admnext,SEE LICENSE IN LICENSE,1864462,"A small 2D engine for Fabi Play games: a 720-unit stage, sprites, shapes, text, particles, tweens, sound, the players' hands and avatars, on WebGL (1 or 2) or Canvas 2D."
+2026-11-15T15:17:39.175Z,@arkadia-so/trait-darwin-arm64,0.8.1,g48in,UNLICENSED,91196388,"The trait CLI's binary for macOS on Apple silicon: install @arkadia-so/trait, which picks it."
+2026-11-15T15:18:24.762Z,@arkadia-so/trait-darwin-x64,0.8.1,g48in,UNLICENSED,98627478,"The trait CLI's binary for macOS on Intel: install @arkadia-so/trait, which picks it."
+2026-11-15T15:19:16.498Z,@owlmeans/web-research,0.2.0,vashigor,MIT,712108,"Online research pipelines over llm-reader, provider web search and package-inspector: package usage research, package skills, implementation research, existing-project summaries and designs similar t…"
+2026-11-15T15:19:20.862Z,@arkadia-so/trait-linux-x64,0.8.1,g48in,UNLICENSED,109591135,"The trait CLI's binary for Linux x64: install @arkadia-so/trait, which picks it."
+2026-11-15T15:19:26.195Z,@firevibe/expo-platform,0.1.0,firevibe.ai,MIT,122621,"The platform side of every FireVibe-generated mobile app: the dev server contract, the theme generated from one tokens file, the production build of the web render, the phone version and the server,…"
+2026-11-15T15:19:51.02Z,@owlmeans/package-registry-npm,0.2.0,vashigor,MIT,160888,"npm registry adapter for @owlmeans/package-inspector: packuments and readmes, bulk download counts of name neighbours, and the repository manifest name check."
+2026-11-15T15:20:12.726Z,@owlmeans/llm-reader-google-drive,0.2.0,vashigor,MIT,206010,"Google Drive source for @owlmeans/llm-reader: public folder, file and Docs links expanded into downloadable entries (keyless folder listing, optional Drive API key)."
+2026-11-15T15:20:15.742Z,@arkadia-so/trait-linux-arm64,0.8.1,g48in,UNLICENSED,109694381,"The trait CLI's binary for Linux arm64: install @arkadia-so/trait, which picks it."
+2026-11-15T15:20:18.275Z,@arkadia-so/trait,0.8.1,g48in,UNLICENSED,3253,"The trait CLI: Trait (https://trait.so), the operating system for companies run by agents, from a shell. Every operation of every trait as `trait <trait> <operation>`, JSON out."
+2026-11-15T15:20:25.839Z,@strobeaiugc/cli,0.1.1,ferryai,UNLICENSED,49630,Strobe command line
+2026-11-15T15:20:59.767Z,sipkit-core,0.1.0,aryan_phuyal,MIT,1289827,"Framework-agnostic, embeddable SIP softphone for the browser (SIP.js over WebRTC) with typed state, events and plugins"
+2026-11-15T15:21:01.78Z,sipkit-engine-native,0.1.0,aryan_phuyal,MIT,202066,sipkit SoftphoneEngine over a native SIP stack (baresip sidecar via IPC): plain SIP over UDP/TCP/TLS for desktop shells and Node
+2026-11-15T15:21:04.126Z,sipkit-react,0.1.0,aryan_phuyal,MIT,240024,"React provider and hooks for sipkit-core, the embeddable SIP/WebRTC softphone"
+2026-11-15T15:21:06.86Z,sipkit-ui,0.1.0,aryan_phuyal,MIT,2107857,"Ready-made softphone widget (React + Tailwind + Radix), also shipped as the <sipkit-phone> web component"
+2026-11-15T15:21:48.348Z,@kadaliao/dsh-bots,0.3.2,kadaliao,MIT,475438,"Grok-style bots for DeepSeek Harness: create bots with their own avatar, persona, skills, apps and scheduled tasks; they message each other and a dispatcher bot hands out the work."
+2026-11-15T15:21:53.234Z,ariamend,0.1.0,rizwanulrudra,MIT,160839,"Fixes accessibility findings in your storefront's source code, proves each fix with plain-code gates, and opens one reviewed pull request with an evidence pack."
+2026-11-15T15:22:28.73Z,@phantomblip/game-core,0.1.0,dmhaslam,MIT,36996,"The contract a Phantom Blip game module is written against, plus the engine that runs it."
+2026-11-15T15:22:30.673Z,@phantomblip/game-ui,0.1.0,dmhaslam,MIT,19347,"The UI contract for a Phantom Blip game module, and the small helpers its React views share."
+2026-11-15T15:22:32.651Z,@phantomblip/module-kit,0.1.0,dmhaslam,MIT,114008,"Run, check, bot-test and package one Phantom Blip game module."
+2026-11-15T15:22:33.578Z,@raptorci/agent,0.1.0,raptorci,UNLICENSED,17621140,Bounded local client for explicitly supplied RaptorCI patch snapshots
+2026-11-15T15:22:34.458Z,@phantomblip/create-module,0.1.0,dmhaslam,MIT,39683,Start a new Phantom Blip game module: npm create @phantomblip/module <id>.
+2026-11-15T15:22:47.612Z,wisteria-cli,1.0.1,nirbes,ISC,322216,"Monorepo task runner with parallel execution, interactive console, and extensible command system"
+2026-11-15T15:23:03.383Z,walkthrough-agent-contract,0.1.0,marcner,Apache-2.0,17715,The contract between a Walkthrough Guides agent and anything that talks to it
+2026-11-15T15:23:10.565Z,@zhimakechuang/create-game,1.1.0,zhimak,MIT,10162,Create a standalone SDK game project
+2026-11-15T15:24:47.535Z,copytop,1.0.0,copytop,MIT,20593,"copy.top in your terminal: what top fomo and pumpfun traders are buying, the leaderboard, a trader, a coin, live alerts. read-only."
+2026-11-15T15:25:27.04Z,@decuga/client,0.1.1,nikitasain94,MIT,97511,"Typed client for Decuga's public roadmap, changelog and helpdesk portal. No dependencies; works in the browser, on a server and in an edge runtime."
+2026-11-15T15:25:38.156Z,@decuga/elements,0.1.1,nikitasain94,MIT,228124,"Drop-in web components for Decuga's public changelog, roadmap and helpdesk portal. Work in any framework, or none."
+2026-11-15T15:25:40.764Z,@decuga/react,0.1.1,nikitasain94,MIT,51491,"React components and hooks for Decuga's public changelog, roadmap and helpdesk portal. Server-renderable changelog; works with Next.js, Remix and Vite."
+2026-11-15T15:25:43.012Z,@decuga/vue,0.1.1,nikitasain94,MIT,54488,"Vue 3 components and composables for Decuga's public changelog, roadmap and helpdesk portal. Works with Vite, Nuxt and Quasar."
+2026-11-15T15:25:59.744Z,llt-wasm,0.1.2,situ2001,MIT,430314,WebAssembly bindings for the llt timetable library.
+2026-11-15T15:26:02.255Z,deployvera-mcp,0.3.0,yusufcelalcelik,MIT,62618,"MCP server that lets coding agents (Claude Code, Cursor, ...) see and deploy existing DeployVera projects."
+2026-11-15T15:26:17.167Z,@aleygues/mdkb,0.1.0,aleygues-dev,MIT,107306,"Simple, fast static documentation web app generator from Markdown files using React, TypeScript, Vite, Chakra UI, and MiniSearch."
+2026-11-15T15:26:19.55Z,cartouche-studio,0.0.1,borderlineagency,MIT,1864,"Nom réservé par Cartouche (cartouche.gg). Cartouche Studio vient avec l'app Cartouche, pas depuis npm. Name held by Cartouche: Cartouche Studio ships with the Cartouche app, not from npm."
+2026-11-15T15:26:42.592Z,@mars.liu/dsh-web-launcher,1.0.8,mars.liu,,83394,"Manage the standalone CLI dsh web server from DSH Desktop: start, stop, restart, status and logs, with an isolated environment."
+2026-11-15T15:27:12.487Z,@kingironman2011/license-checker,1.0.2,kingironman2011,MIT,15241,A NPM Package to check other packages licenses and extract them.
+2026-11-15T15:27:45.858Z,@sdkurjnk/blackshell-darwin-arm64,0.3.3,sdkurjnk,MIT,141278507,BlackShell self-contained engine binary for darwin-arm64.
+2026-11-15T15:27:48.608Z,benchfleet-appium,0.1.0,jim1414,MIT,30000,"Run your existing Appium tests on real Android phones connected to a BenchFleet Hub: one Appium server URL per phone, your test command run once per phone, JUnit results back."
+2026-11-15T15:27:54.206Z,@sdkurjnk/blackshell-darwin-x64,0.3.3,sdkurjnk,MIT,83125133,BlackShell self-contained engine binary for darwin-x64.
+2026-11-15T15:27:59.605Z,@shinick/teams-win32-x64,0.3.0,shinick,MIT,26064234,Prebuilt teams binary for Windows x64
+2026-11-15T15:28:03.139Z,@sdkurjnk/blackshell-linux-arm64,0.3.3,sdkurjnk,MIT,86352216,BlackShell self-contained engine binary for linux-arm64.
+2026-11-15T15:28:05.375Z,@shinick/teams,0.3.0,shinick,MIT,56566,"Unified Microsoft Teams, Outlook & OneNote terminal client & AI agent toolkit (CLI, TUI, HTTP API, MCP)"
+2026-11-15T15:28:13.225Z,@sdkurjnk/blackshell-linux-x64,0.3.3,sdkurjnk,MIT,87281994,BlackShell self-contained engine binary for linux-x64.
+2026-11-15T15:28:22.446Z,@sdkurjnk/blackshell-win32-x64,0.3.3,sdkurjnk,MIT,94721462,BlackShell self-contained engine binary for win32-x64.
+2026-11-15T15:29:05.69Z,dsh-model-prompts,0.1.0,nmapleaf,MIT,57968,"Per-model prompt blocks for DeepSeek Harness, injected as a runtime context snapshot that is re-appended only when its rendered text changes."
+2026-11-15T15:29:06.199Z,@jspsych/sequencer,0.1.0,jodeleeuw,MIT,505842,"Constrained random orders for experiment trials: run limits, gaps, counts, transition balance and custom rules"
+2026-11-15T15:29:10.403Z,@mfdaves/okf-odoo,0.1.0,mfdaves,MIT,143556,Odoo for Open Knowledge Format: a read-only metadata producer and an MCP tool pack for live Odoo data.
+2026-11-15T15:30:20.647Z,@mindwire-ai/client,0.1.0-beta.1,hydralerne,MIT,633125,"MindWire React chat UI with streaming, history, tools, approvals, and a MindWire adapter."
+2026-11-15T15:30:24.413Z,free-upload-mcp,0.1.0,sooluh,MIT,13857,MCP server for free.upload.sh: upload local files and read shared files from AI agents.
+2026-11-15T15:32:16.365Z,@avatargo/sdk,0.1.0,kevindree,MIT,54909,Browser SDK for AvatarGo: join a real-time avatar session from a session token.
+2026-11-15T15:32:36.493Z,@journey-to-code/relay,0.1.0,mnix.dev,MIT,83807,"Let people report a bug or ask for a feature from inside your app, with no GitHub account. The server files it as an issue."
+2026-11-15T15:32:43.203Z,@journey-to-code/relay-ui,0.1.0,mnix.dev,MIT,80468,"The interface for @journey-to-code/relay: framework-free flow controllers, React bindings, and default sheets you can restyle or swap piece by piece."
+2026-11-15T15:33:33.269Z,@corsair-dev/trustpilot,0.1.0,corsair.dev,Apache-2.0,331281,Trustpilot plugin for Corsair
+2026-11-15T15:34:11.585Z,@retinalabsllc/truhuddle-react-native,1.0.0,retinalabscompany,MIT,1321849,TruHuddle support widget for Expo and React Native on iOS and Android.
+2026-11-15T15:34:13.212Z,dsh-bili-chat-whale,0.2.4,yei_bai,MIT,426514,聊天鲸：让 DSH 里的 agent 自己去找冷清的 B 站直播间，听懂主播在说什么、看懂画面在发生什么，再开口陪聊。
+2026-11-15T15:34:18.279Z,@skywake/cli-linux-x64,0.1.1,skywake-team,Apache-2.0,23056919,"The skywake command, built for Linux on x64. Install `skywake` instead."
+2026-11-15T15:34:31.373Z,@methane-ui/codemod,0.1.0,mahdins,MIT,213773,Idempotent AST codemod CLI and migration transforms for Methane UI
+2026-11-15T15:34:32.601Z,@skywake/cli-linux-arm64,0.1.1,skywake-team,Apache-2.0,20720733,"The skywake command, built for Linux on arm64. Install `skywake` instead."
+2026-11-15T15:34:33.686Z,@methane-ui/locales,0.1.0,mahdins,MIT,141689,Lazy-loaded locale packs with Intl.PluralRules and RTL bidi support for Methane UI
+2026-11-15T15:34:35.992Z,@methane-ui/sanitize,0.1.0,mahdins,MIT,36699,HTML sanitization with native Element.prototype.setHTML and DOMPurify parity fallback for Methane UI
+2026-11-15T15:34:38.241Z,@methane-ui/tokens,0.1.0,mahdins,MIT,124756,"W3C DTCG design tokens, oklch color ramps, light-dark themes, density, and forced-colors support for Methane UI"
+2026-11-15T15:34:40.172Z,@disko-game/test,0.0.0-bootstrap.0,gabrielbrunop,SEE LICENSE IN LICENSE,1098,Headless tests for disko games and room code. Placeholder: the first release is 0.1.0-alpha.11.
+2026-11-15T15:34:40.367Z,@methane-ui/bundle-budget,0.1.0,mahdins,MIT,14263,Cold standalone and marginal brotli bundle budget measurement via esbuild and zlib.brotliCompressSync
+2026-11-15T15:34:42.674Z,@methane-ui/lint-plugin,0.1.0,mahdins,MIT,70369,"ESLint and Stylelint architectural invariant rules for Methane UI (ADR-002, ADR-012, ADR-014)"
+2026-11-15T15:34:44.771Z,@methane-ui/test-conformance,0.1.0,mahdins,MIT,70353,"Reusable Class Conformance Suites, SatelliteEngineSuite, HydrationPuritySuite, and same-root ARIA scanner for Methane UI"
+2026-11-15T15:34:46.925Z,@methane-ui/core,0.1.0,mahdins,MIT,107613,"Lit 3 UIElement base class, single versioned global runtime, i18n catalog, and Community Context Protocol for Methane UI"
+2026-11-15T15:34:49.231Z,@methane-ui/css,0.1.0,mahdins,MIT,121481,"Cascade layers, CSS logical-property reset, fail-open :not(:defined) guard, and 0 B JS Light-DOM CSS primitives for Methane UI"
+2026-11-15T15:34:51.461Z,@methane-ui/ssr,0.1.0,mahdins,MIT,76713,"Streaming Declarative Shadow DOM (DSD) SSR engine for Methane UI wrapping @lit-labs/ssr with hybrid linked + critical inline style delivery (ADR-001, ADR-008)"
+2026-11-15T15:34:53.868Z,@methane-ui/spec-compiler,0.1.0,mahdins,MIT,70603,"Validates ComponentBehaviorSpec and compiles spec tests, Markdown docs, CEM verification, and a11y checklists"
+2026-11-15T15:34:56.3Z,@methane-ui/primitives,0.1.0,mahdins,MIT,503197,"Shared headless Lit ReactiveControllers, state engines, and runtime utilities for Methane UI"
+2026-11-15T15:34:58.822Z,@methane-ui/ssr-angular,0.1.0,mahdins,MIT,15099,Angular SSR server serialization and non-destructive client hydration adapter for Methane UI (ADR-009)
+2026-11-15T15:35:00.982Z,@methane-ui/ssr-astro,0.1.0,mahdins,MIT,17966,Astro SSR renderer integration and stylesheet link hoisting adapter for Methane UI (ADR-009)
+2026-11-15T15:35:03.338Z,@methane-ui/ssr-next,0.1.0,mahdins,MIT,15813,Next.js App Router & RSC DSD streaming SSR adapter for Methane UI (ADR-009)
+2026-11-15T15:35:05.836Z,@methane-ui/ssr-nuxt,0.1.0,mahdins,MIT,14189,Nuxt Nitro server plugin and Vue SSR custom-element adapter for Methane UI (ADR-009)
+2026-11-15T15:35:08.083Z,@methane-ui/ssr-sveltekit,0.1.0,mahdins,MIT,10593,SvelteKit server handle DSD transform and client hydration adapter for Methane UI (ADR-009)
+2026-11-15T15:35:10.42Z,@methane-ui/wrapper-codegen,0.1.0,mahdins,MIT,172993,"CEM + ComponentBehaviorSpec code generator for React 19/18, Vue, Angular, Svelte 5, and IDE metadata (ADR-009)"
+2026-11-15T15:35:13.543Z,@methane-ui/angular,0.1.0,mahdins,MIT,1627916,Angular standalone typed Directives and ControlValueAccessor wrappers for Methane UI (ADR-009)
+2026-11-15T15:35:14.668Z,@ryangreenup/strapi-draft-autosave,1.0.0,ryangreenup,MIT,146859,Autosave Strapi drafts with a per-tab revert snapshot
+2026-11-15T15:35:18.049Z,@methane-ui/react,0.1.0,mahdins,MIT,1655912,React 19+ zero-runtime JSX/event types and React 18 @lit/react legacy wrappers for Methane UI (ADR-009)
+2026-11-15T15:35:20.29Z,@methane-ui/3d,0.1.0,mahdins,MIT,98793,Wrap-first Three.js lazy WebGL/WebGPU 3D model viewer (<mth-model-viewer>) for Methane UI
+2026-11-15T15:35:22.519Z,@methane-ui/charts,0.1.0,mahdins,MIT,142405,"Wrap-first Apache ECharts declarative data visualization custom elements (<mth-chart>, <mth-chart-series>) for Methane UI"
+2026-11-15T15:35:24.982Z,@methane-ui/code,0.1.0,mahdins,MIT,286949,"Methane code block, CodeMirror 6 code editor, diff viewer, and JSON editor satellite components"
+2026-11-15T15:35:27.884Z,@methane-ui/datagrid,0.1.0,mahdins,MIT,339077,"Methane UI enterprise datagrid, pivot, tree-table, scheduler, and gantt satellite wrapping TanStack Table & Virtual Core (ADR-013)"
+2026-11-15T15:35:30.357Z,@methane-ui/editor,0.1.0,mahdins,MIT,267728,"Methane rich-text (ProseMirror), Markdown, and LaTeX math (KaTeX) editor satellite components"
+2026-11-15T15:35:32.892Z,@methane-ui/flow,0.1.0,mahdins,MIT,154105,Methane interactive node/DAG flow editor and org-chart satellite components wrapping @dagrejs/dagre (ADR-013)
+2026-11-15T15:35:35.786Z,@methane-ui/maps,0.1.0,mahdins,MIT,400747,Methane Maps satellite components wrapping MapLibre GL JS and accessible SVG spatial layers (ADR-013)
+2026-11-15T15:35:38.144Z,@methane-ui/media,0.1.0,mahdins,MIT,210595,"Methane waveform, Lottie animation, and SVG image annotator satellite components wrapping @lottiefiles/dotlottie-web (ADR-013)"
+2026-11-15T15:35:40.311Z,@methane-ui/pdf,0.1.0,mahdins,MIT,110987,Wrap-first Mozilla pdf.js accessible document viewer (<mth-pdf-viewer>) for Methane UI
+2026-11-15T15:35:42.513Z,@methane-ui/rtc,0.1.0,mahdins,MIT,257121,"Methane WebRTC, MediaDevices, and MediaRecorder wrap-first satellite components (ADR-013)"
+2026-11-15T15:35:44.813Z,@methane-ui/spreadsheet,0.1.0,mahdins,MIT,187470,Methane UI virtualized spreadsheet and formula-bar satellite with clean-room MIT Formula AST evaluator (ADR-013)
+2026-11-15T15:35:48.463Z,@methane-ui/svelte,0.1.0,mahdins,MIT,1096219,"Svelte 5 typed wrappers supporting bind:value, bind:checked, and bind:open for Methane UI (ADR-009)"
+2026-11-15T15:35:54.534Z,@methane-ui/ui,0.1.0,mahdins,MIT,8469716,Methane UI declarative-first accessible web components (ADR-001 through ADR-015)
+2026-11-15T15:35:54.757Z,@agentrica/mcp,0.1.0,flgisimone,MIT,113332,I 56 agenti IA di Agentrica come server MCP locale (stdio): un prompt per agente e due tool in sola lettura.
+2026-11-15T15:35:57.677Z,@methane-ui/vue,0.1.0,mahdins,MIT,1017825,"Vue 3 Volar GlobalComponents, v-model wrappers, and compiler preset for Methane UI (ADR-009)"
+2026-11-15T15:36:00.051Z,@methane-ui/figma-sync,0.1.0,mahdins,MIT,87709,Two-way Figma Variables REST API <-> W3C DTCG token sync and multi-framework @figma/code-connect generator
+2026-11-15T15:36:02.378Z,@methane-ui/security-gate,0.1.0,mahdins,MIT,98343,"Strict CSP Trusted Types compliance suite, permissive supply-chain license audit, and workflow security gates for Methane UI"
+2026-11-15T15:36:05.097Z,@methane-ui/admin,0.1.0,mahdins,MIT,636541,"Domain Kit Admin & Productivity custom elements (<mth-filter-builder>, <mth-query-builder>, <mth-kanban>, <mth-event-calendar>, etc.) for Methane UI"
+2026-11-15T15:36:08.183Z,@methane-ui/ai,0.1.0,mahdins,MIT,376559,"Methane AI domain kit web components (ADR-002, ADR-012)"
+2026-11-15T15:36:10.988Z,@ryangreenup/strapi-instant-preview,1.0.0,ryangreenup,MIT,112070,Instantly preview a draft in a split by autosaving
+2026-11-15T15:36:11.145Z,@methane-ui/auth,0.1.0,mahdins,MIT,355616,"Methane Auth domain kit web components (ADR-002, ADR-003)"
+2026-11-15T15:36:13.955Z,@methane-ui/chat,0.1.0,mahdins,MIT,385409,"Methane Chat Domain Kit components (thread, composer, typing, reactions, presence, comments, notifications, collab cursors)"
+2026-11-15T15:36:16.586Z,@methane-ui/commerce,0.1.0,mahdins,MIT,485129,"Methane Commerce Domain Kit components (product card, cart, checkout, quantity, price, filters, reviews, invoice, payment, plan picker)"
+2026-11-15T15:36:45.549Z,@lovenndme/dsh-workspace-memory,0.8.2,lovenndme,MIT,736448,"Workspace-scoped persistent memory for DeepSeek Harness, laid out like Claude Code's memory: English-slug memory files flat beside a MEMORY.md index under ~/.dsh/projects/<encoded-workspace>/memory/,…"
+2026-11-15T15:37:18.723Z,n8n-nodes-quickpdf,0.1.0,ricksr,MIT,12979,"Unlock, protect, and repair PDFs via Quick PDF Tools API v1 (n8n Cloud friendly — no qpdf on host)"
+2026-11-15T15:37:28.188Z,vcf-ops-mpb-mcp,1.0.0,imtrinity94,MIT,65798,"MCP server for the VCF Operations Management Pack Builder: design, test, verify, install and export management packs from any AI agent"
+2026-11-15T15:37:35.469Z,a11y-copy-button,1.0.0,vmitsaras,MIT,150220,"Accessible copy-to-clipboard button with localized status messages, fallback behavior, and addon hooks."
+2026-11-15T15:37:55.785Z,@diff-cov/jest,0.2.1,aprilandjan,MIT,28960,Jest reporter for diff coverage.
+2026-11-15T15:38:09.947Z,@rookon/node,0.1.0,hagbarths-aps,MIT,54329,"ROOKON server-side error tracking for Node.js, Bun and Next.js: uncaught exceptions, unhandled rejections and errors from Fastify, Express and Next.js, next to your browser errors"
+2026-11-15T15:38:12.166Z,@luci-dev/format,0.5.1,pawprintdesign,MIT,905274,Schemas and formatters for every file Luci writes.
+2026-11-15T15:38:33.185Z,@luci-dev/ui,0.5.1,pawprintdesign,MIT,997728,"Luci's design system: tokens, mascot and components generated from the brand kit in brand/. Browser-safe."
+2026-11-15T15:38:42.238Z,@luci-dev/skills,0.5.1,pawprintdesign,MIT,2089249,"Skill standard, registry, selection, packs and the design skill library."
+2026-11-15T15:38:51.15Z,@ctruhtech/verse-mcp,0.1.0,verseengine9,MIT,47941,"MCP server for Verse: let Claude, ChatGPT, Cursor and other AI agents turn 3D files into shareable, embeddable Verse links. stdio and Streamable HTTP."
+2026-11-15T15:38:51.75Z,@luci-dev/capture,0.5.1,pawprintdesign,MIT,2793839,"Capture: the picker, the eligibility check and the Text, Colour and Spacing tools. Browser-safe."
+2026-11-15T15:39:01.088Z,@luci-dev/brain,0.5.1,pawprintdesign,MIT,539953,"Setup, project and global memory, agent files."
+2026-11-15T15:39:09.235Z,@luci-dev/feedback,0.5.1,pawprintdesign,MIT,547207,"Feedback in the browser: annotations on a running app, the React adapter, and where items are kept. Browser-safe."
+2026-11-15T15:39:17.543Z,@luci-dev/toolbar,0.5.1,pawprintdesign,MIT,2056479,"The dev toolbar: feedback and capture in your own app, saved into the project through luci serve."
+2026-11-15T15:39:25.749Z,@luci-dev/mcp,0.5.1,pawprintdesign,MIT,75605,The Luci MCP server (luci-mcp): project memory and skills for agents over stdio. Local only.
+2026-11-15T15:39:34.848Z,@luci-dev/cli,0.5.1,pawprintdesign,MIT,266233,"Memory, skills, design capture and feedback for AI coding agents. Local only."
+2026-11-15T15:40:06.953Z,@sbuilder/render,0.1.0,vuluu2k,MIT,16801635,"Render a Store Builder page exactly as the storefront serves it — the platform's own Go renderer, as WebAssembly, for Node.js hosts such as Next.js."
+2026-11-15T15:40:08.604Z,pi-matrix-integration,0.9.0,r3dnl,MIT,3533977,Matrix integration for the Pi coding agent
+2026-11-15T15:40:11.537Z,@craftsamo/x-tools,0.1.0,craftsamo,LicenseRef-AGPL-3.0-Commons-Clause,3746815,"Unofficial X tools for coding agents: read posts and profiles, save post media, never write to X."
+2026-11-15T15:40:24.869Z,create-sbuilder-app,1.0.0,vuluu2k,MIT,3566,"npm create sbuilder-app — start a Store Builder site repo, app, or Next.js export."
+2026-11-15T15:40:44.172Z,@inid/react,0.1.1,mfsa93,MIT,28207,"Sign-in with InID for React: <SignIn />, <UserButton />, useUser() and friends. Talks to your server's InID routes (see @inid/nextjs)."
+2026-11-15T15:41:18.22Z,@inid/nextjs,0.1.1,mfsa93,MIT,30113,"Sign-in with InID for Next.js: a proxy that keeps the session fresh, auth() and currentUser() on the server, and the React components of @inid/react."
+2026-11-15T15:41:18.362Z,@corsair-dev/findymail,0.1.0,corsair.dev,Apache-2.0,209148,Findymail plugin for Corsair
+2026-11-15T15:41:32.715Z,@corsair-dev/motion,0.1.0,corsair.dev,Apache-2.0,274710,Motion plugin for Corsair
+2026-11-15T15:41:36.259Z,@corsair-dev/pushover,0.1.0,corsair.dev,Apache-2.0,78326,Pushover plugin for Corsair
+2026-11-15T15:41:44.238Z,@deathbeam/pi-context,0.0.4,deathbeam,MIT,15961,"Minimal extension for context-window token economy: RTK command rewriting, stale tool-result pruning, and a compaction model override."
+2026-11-15T15:42:02.347Z,@devsantara/gitwork,0.1.0,GitHub Actions,MIT,80834,Work across all your repositories like they're one.
+2026-11-15T15:42:26.851Z,cube-prometheus,1.8.26,bsalimi,Apache-2.0,63149,"Prometheus metrics and structured logs for a self-hosted Cube (OSS) deployment, using Cube's public logger hook"
+2026-11-15T15:42:54.486Z,godot-docs-mcp,0.1.0,pevalcar,MIT,58928,MCP Server for Godot Engine documentation search - TypeScript implementation with BM25 full-text search
+2026-11-15T15:43:53.208Z,skrap-ai,0.1.0,skrapai,MIT,141286,"Official Node.js / TypeScript SDK for the Skrap.ai API: email verification, email finder, enrichment, bulk jobs, lists and webhooks."
+2026-11-15T15:43:59.128Z,nupdf-cli,0.1.1,raspao,AGPL-3.0-or-later,50219,"A PDF engine for AI agents: read, search, render, edit and redact PDFs from one binary, as a command or an MCP server"
+2026-11-15T15:44:04.527Z,dsh-mastodon-toot,0.3.6,meowdan,MIT,141947,长毛象小本本：把自己的 Mastodon bot 收进 DSH，带本地小本本、互动边界和发帖管线
+2026-11-15T15:45:20.854Z,dsh-conditional-rules,0.1.0,dixie_with_heart,MIT,119328,条件规则：在满足条件时把自定义内容注入对话（上下文占用 / 用户关键词 / 回合数 / 工具调用），支持多条件组合与设置页试算。
+2026-11-15T15:45:37.645Z,@dsh-sparrow/dsh-desk-one,0.2.2-rc.3,peiyucn,MIT,1728074,"Desk One — a shared desk for you and your DSH harness: notes, tasks, a read-only calendar and annotations on workspace files in one panel."
+2026-11-15T15:45:53.126Z,@glennchou/dsh-session-delete,1.0.0,glennchou,MIT,27489,"Adds a right-click ""Delete conversation"" menu item that permanently removes a Harness session (in-memory store, workspace registry, on-disk log and projection cache)."
+2026-11-15T15:46:11.811Z,@ctruhtech/verse-share-kit,0.1.0,verseengine9,MIT,26781,"Share as Verse link: a tiny helper and drop-in button that turn a GLB/PLY/SPZ from any AI 3D generator into a shareable, embeddable Verse link."
+2026-11-15T15:46:13.136Z,everyinit,0.2.8,duuuh,GPL-3.0-only,93949,Framework-neutral APIs and web framework integrations for Evin
+2026-11-15T15:46:17.462Z,dsh-backlog.md,0.2.0,kuwork,MIT,735387,Backlog.md Browser integration for DeepSeek Harness: a Conversation view tab backed by a per-workspace `backlog browser` process.
+2026-11-15T15:47:00.607Z,neozip-prune,0.1.0,neoware_inc,UNLICENSED,159011,NeoZip archives that store parts shared across Office documents and PDFs once and rebuild the originals byte-for-byte
+2026-11-15T15:47:31.208Z,@corsair-dev/polygon,0.1.0,corsair.dev,Apache-2.0,285228,"Payments API for moving money between crypto and fiat, exposed by Corsair."
+2026-11-15T15:47:34.185Z,@corsair-dev/postgrid,0.1.0,corsair.dev,Apache-2.0,358815,"Print and mail API for sending letters, postcards and self mailers, exposed by Corsair."
+2026-11-15T15:47:37.037Z,@corsair-dev/postiz,0.1.0,corsair.dev,Apache-2.0,94520,"Social media scheduling API for publishing and managing posts across connected channels, exposed by Corsair."
+2026-11-15T15:47:54.644Z,@mirastacklabs/mirafleet-linux-x64,0.0.0-stage,mirastacklabs,,356,Temporary package placeholder for staged publishing
+2026-11-15T15:48:01.631Z,@mirastacklabs/mirafleet-linux-arm64,0.0.0-stage,mirastacklabs,,358,Temporary package placeholder for staged publishing
+2026-11-15T15:48:07.752Z,@mirastacklabs/mirafleet-darwin-x64,0.0.0-stage,mirastacklabs,,357,Temporary package placeholder for staged publishing
+2026-11-15T15:48:12.882Z,@mirastacklabs/mirafleet-darwin-arm64,0.0.0-stage,mirastacklabs,,359,Temporary package placeholder for staged publishing
+2026-11-15T15:48:13.071Z,@polyne/persona-web,0.2.0,rouk,MIT,259626,"A persona's chat on your site: headless client, <polyne-persona-chat> web component, Next.js server route."
+2026-11-15T15:48:18.34Z,@mirastacklabs/mirafleet-win32-x64,0.0.0-stage,mirastacklabs,,356,Temporary package placeholder for staged publishing
+2026-11-15T15:48:23.351Z,@mirastacklabs/mirafleet-win32-arm64,0.0.0-stage,mirastacklabs,,358,Temporary package placeholder for staged publishing
+2026-11-15T15:48:27.453Z,@mirastacklabs/mirafleet,0.0.0-stage,mirastacklabs,,346,Temporary package placeholder for staged publishing
+2026-11-15T15:49:14.835Z,@molecule/app-diff-viewer-solid,0.0.1-stage,vialoh,Apache-2.0,30966,Side-by-side or unified text/code diff display
+2026-11-15T15:49:15.556Z,@molecule/app-diff-viewer-angular,0.0.1-stage,vialoh,Apache-2.0,53239,Side-by-side or unified text/code diff display
+2026-11-15T15:49:15.577Z,@molecule/app-currency-display-vue,0.0.1-stage,vialoh,Apache-2.0,38024,Currency amount formatting + CurrencyDisplay with optional original price + savings badge
+2026-11-15T15:49:15.974Z,@molecule/app-danger-zone-svelte,0.0.1-stage,vialoh,Apache-2.0,28313,"DangerZoneSection + ConfirmDialog for destructive actions (delete account, reset, revoke)"
+2026-11-15T15:49:16.329Z,@molecule/app-danger-zone-vue,0.0.1-stage,vialoh,Apache-2.0,40594,"DangerZoneSection + ConfirmDialog for destructive actions (delete account, reset, revoke)"
+2026-11-15T15:49:16.385Z,@molecule/app-danger-zone-solid,0.0.1-stage,vialoh,Apache-2.0,31485,"DangerZoneSection + ConfirmDialog for destructive actions (delete account, reset, revoke)"
+2026-11-15T15:49:16.775Z,@molecule/app-danger-zone-angular,0.0.1-stage,vialoh,Apache-2.0,74681,"DangerZoneSection + ConfirmDialog for destructive actions (delete account, reset, revoke)"
+2026-11-15T15:49:27.303Z,@molecule/app-diff-viewer-svelte,0.0.1-stage,vialoh,Apache-2.0,25770,Side-by-side or unified text/code diff display
+2026-11-15T15:49:30.367Z,@molecule/app-diff-viewer-vue,0.0.1-stage,vialoh,Apache-2.0,34176,Side-by-side or unified text/code diff display
+2026-11-15T15:49:31.215Z,@molecule/app-drawing-toolbar-solid,0.0.1-stage,vialoh,Apache-2.0,32589,"Whiteboard / canvas tool selector (select, rect, ellipse, arrow, text, sticky, pen)"
+2026-11-15T15:49:31.384Z,@molecule/app-drawing-toolbar-vue,0.0.1-stage,vialoh,Apache-2.0,34255,"Whiteboard / canvas tool selector (select, rect, ellipse, arrow, text, sticky, pen)"
+2026-11-15T15:49:31.87Z,@molecule/app-drawing-toolbar-svelte,0.0.1-stage,vialoh,Apache-2.0,26759,"Whiteboard / canvas tool selector (select, rect, ellipse, arrow, text, sticky, pen)"
+2026-11-15T15:49:32.49Z,@molecule/app-editor-toolbar-solid,0.0.1-stage,vialoh,Apache-2.0,35240,Top editor toolbar with title + version badge + primary/secondary action buttons
+2026-11-15T15:49:32.82Z,@molecule/app-drawing-toolbar-angular,0.0.1-stage,vialoh,Apache-2.0,45627,"Whiteboard / canvas tool selector (select, rect, ellipse, arrow, text, sticky, pen)"
+2026-11-15T15:49:33.758Z,@molecule/app-editor-toolbar-angular,0.0.1-stage,vialoh,Apache-2.0,59988,Top editor toolbar with title + version badge + primary/secondary action buttons
+2026-11-15T15:49:40.245Z,@molecule/app-editor-toolbar-svelte,0.0.1-stage,vialoh,Apache-2.0,32499,Top editor toolbar with title + version badge + primary/secondary action buttons
+2026-11-15T15:49:41.922Z,@molecule/app-editor-toolbar-vue,0.0.1-stage,vialoh,Apache-2.0,37477,Top editor toolbar with title + version badge + primary/secondary action buttons
+2026-11-15T15:49:43.249Z,@molecule/app-feature-flag-row-solid,0.0.1-stage,vialoh,Apache-2.0,34193,Feature-flag list row: name + status + rollout% + environment toggles
+2026-11-15T15:49:43.74Z,@molecule/app-feature-flag-row-vue,0.0.1-stage,vialoh,Apache-2.0,36653,Feature-flag list row: name + status + rollout% + environment toggles
+2026-11-15T15:49:43.847Z,@molecule/app-feature-flag-row-angular,0.0.1-stage,vialoh,Apache-2.0,53195,Feature-flag list row: name + status + rollout% + environment toggles
+2026-11-15T15:49:44.684Z,@molecule/app-flashcard-card-angular,0.0.1-stage,vialoh,Apache-2.0,60210,Flashcard flip component with front/back + spaced-repetition grade buttons
+2026-11-15T15:49:45.213Z,@molecule/app-feature-flag-row-svelte,0.0.1-stage,vialoh,Apache-2.0,29449,Feature-flag list row: name + status + rollout% + environment toggles
+2026-11-15T15:49:45Z,@molecule/app-flashcard-card-solid,0.0.1-stage,vialoh,Apache-2.0,28442,Flashcard flip component with front/back + spaced-repetition grade buttons
+2026-11-15T15:49:47.662Z,@molecule/app-flashcard-card-svelte,0.0.1-stage,vialoh,Apache-2.0,25427,Flashcard flip component with front/back + spaced-repetition grade buttons
+2026-11-15T15:49:51.311Z,@molecule/app-flashcard-card-vue,0.0.1-stage,vialoh,Apache-2.0,33352,Flashcard flip component with front/back + spaced-repetition grade buttons
+2026-11-15T15:49:51.75Z,@molecule/app-floating-action-button-angular,0.0.1-stage,vialoh,Apache-2.0,50954,"Fixed-position FAB with icon, tooltip, link-or-callback"
+2026-11-15T15:49:53.025Z,@molecule/app-floating-action-button-solid,0.0.1-stage,vialoh,Apache-2.0,29828,"Fixed-position FAB with icon, tooltip, link-or-callback"
+2026-11-15T15:49:53.561Z,@molecule/app-floating-action-button-svelte,0.0.1-stage,vialoh,Apache-2.0,26152,"Fixed-position FAB with icon, tooltip, link-or-callback"
+2026-11-15T15:49:53.689Z,@molecule/app-floating-action-button-vue,0.0.1-stage,vialoh,Apache-2.0,36057,"Fixed-position FAB with icon, tooltip, link-or-callback"
+2026-11-15T15:49:54.89Z,@molecule/app-forum-thread-row-solid,0.0.1-stage,vialoh,Apache-2.0,30474,"Discussion / forum thread row with vote score, reply count, pin/lock badges, tags"
+2026-11-15T15:49:55.319Z,@molecule/app-forum-thread-row-angular,0.0.1-stage,vialoh,Apache-2.0,81310,"Discussion / forum thread row with vote score, reply count, pin/lock badges, tags"
+2026-11-15T15:49:56.867Z,@molecule/app-forum-thread-row-svelte,0.0.1-stage,vialoh,Apache-2.0,27598,"Discussion / forum thread row with vote score, reply count, pin/lock badges, tags"
+2026-11-15T15:49:59.015Z,@molecule/app-forum-thread-row-vue,0.0.1-stage,vialoh,Apache-2.0,39580,"Discussion / forum thread row with vote score, reply count, pin/lock badges, tags"
+2026-11-15T15:50:01.014Z,@molecule/app-habit-streak-card-angular,0.0.1-stage,vialoh,Apache-2.0,56039,"Habit / streak card with current streak, best streak, completion heatmap"
+2026-11-15T15:50:01.406Z,@molecule/app-habit-streak-card-solid,0.0.1-stage,vialoh,Apache-2.0,31497,"Habit / streak card with current streak, best streak, completion heatmap"
+2026-11-15T15:50:03.376Z,@molecule/app-habit-streak-card-svelte,0.0.1-stage,vialoh,Apache-2.0,27363,"Habit / streak card with current streak, best streak, completion heatmap"
+2026-11-15T15:50:04.473Z,@molecule/app-habit-streak-card-vue,0.0.1-stage,vialoh,Apache-2.0,37672,"Habit / streak card with current streak, best streak, completion heatmap"
+2026-11-15T15:50:06.097Z,@molecule/app-help-button-angular,0.0.1-stage,vialoh,Apache-2.0,57090,Floating help button + help-popover chrome for support widgets
+2026-11-15T15:50:07.386Z,@molecule/app-help-button-solid,0.0.1-stage,vialoh,Apache-2.0,29251,Floating help button + help-popover chrome for support widgets
+2026-11-15T15:50:10.306Z,@molecule/app-help-button-svelte,0.0.1-stage,vialoh,Apache-2.0,25556,Floating help button + help-popover chrome for support widgets
+2026-11-15T15:50:13.203Z,@molecule/app-help-button-vue,0.0.1-stage,vialoh,Apache-2.0,35022,Floating help button + help-popover chrome for support widgets
+2026-11-15T15:50:18.257Z,@molecule/app-ide-panel-logic,0.0.1-stage,vialoh,Apache-2.0,695296,"Framework-neutral logic of the molecule.dev IDE panels (chat, preview, file explorer, tests), shared by every framework's IDE package"
+2026-11-15T15:50:19.419Z,@molecule/app-image-gallery-svelte,0.0.1-stage,vialoh,Apache-2.0,25138,Main image + thumbnail grid gallery with selection + optional upload
+2026-11-15T15:50:20.137Z,@molecule/app-image-gallery-solid,0.0.1-stage,vialoh,Apache-2.0,29046,Main image + thumbnail grid gallery with selection + optional upload
+2026-11-15T15:50:20.167Z,@molecule/app-image-gallery-angular,0.0.1-stage,vialoh,Apache-2.0,48006,Main image + thumbnail grid gallery with selection + optional upload
+2026-11-15T15:50:21.754Z,@molecule/app-image-gallery-vue,0.0.1-stage,vialoh,Apache-2.0,33216,Main image + thumbnail grid gallery with selection + optional upload
+2026-11-15T15:50:23.346Z,@molecule/app-info-display-angular,0.0.1-stage,vialoh,Apache-2.0,56908,InfoCard and DefinitionList for structured label/value metadata display
+2026-11-15T15:50:25.214Z,@molecule/app-info-display-solid,0.0.1-stage,vialoh,Apache-2.0,31374,InfoCard and DefinitionList for structured label/value metadata display
+2026-11-15T15:50:28.46Z,@molecule/app-info-display-svelte,0.0.1-stage,vialoh,Apache-2.0,27729,InfoCard and DefinitionList for structured label/value metadata display
+2026-11-15T15:51:32.575Z,@mailcore-hq/node,0.2.1-alpha.1,lucatsf,MIT,537174,SDK Mailcore para Node.js e TypeScript
+2026-11-15T15:52:10.392Z,stylebound,0.0.0-stage,quillpusher,,332,Temporary package placeholder for staged publishing
+2026-11-15T15:52:10.806Z,@gitmyabi/rfi,1.0.0,gitmyabi-bot,Apache-2.0,89012,"Auto-generated TypeScript type bindings for RFI (build etherscan-rfi-a1afffe3-1794757911330, commit ac04f68, branch etherscan)"
+2026-11-15T15:52:12.195Z,n8n-nodes-harmony,0.1.0,bentb,MIT,334676,"n8n node for Harmony: manage tickets, desks, employees, assets, applications, the service catalog and AI requests"
+2026-11-15T15:52:22.223Z,@loomlyne/ui-system-core,0.1.0,koussayz,MIT,184426,"UI System engine: config, OKLCH color scales, radius engine, fonts, CSS/Tailwind/Claude Design exports."
+2026-11-15T15:52:52.233Z,@silkui/core,0.0.0-canary.0,juliascript,MIT,383,Placeholder release. The first real version of @silkui/core is published from silk-lang/lib-ui.
+2026-11-15T15:52:55.512Z,@silkui/react,0.0.0-canary.0,juliascript,MIT,386,Placeholder release. The first real version of @silkui/react is published from silk-lang/lib-ui.
+2026-11-15T15:52:58.484Z,@silkui/foldkit,0.0.0-canary.0,juliascript,MIT,392,Placeholder release. The first real version of @silkui/foldkit is published from silk-lang/lib-ui.
+2026-11-15T15:53:01.246Z,@silkui/vite,0.0.0-canary.0,juliascript,MIT,383,Placeholder release. The first real version of @silkui/vite is published from silk-lang/lib-ui.
+2026-11-15T15:53:36.27Z,@aryptn/devsearch,0.1.1,aryptn,,662949,"Run DevSearch locally: search docs, GitHub and Stack Overflow with grounded answers from your own model key."
+2026-11-15T15:53:43.457Z,@deloitte-digital-il/fred-core,0.1.0,okinarti-deloitte,,125924,"Implements `fred-core`: the Fred entity validators and QA schemas, the pack manifest validator, the version stamp, manifest digests, `project/paths`, the knowledge lint, frontmatter and graph modules…"
+2026-11-15T15:53:45.567Z,@deloitte-digital-il/fred-policy,0.1.0,okinarti-deloitte,,71543,"Implements `fred-policy`: the pack-neutral decision table of ADR-0007 D8 (`evaluate`), `classifyCore`, `resolveTarget`, `approvalStands`, `isWithinAllowedPaths`, `validatePolicy`, and `isCertified()`…"
+2026-11-15T15:53:47.516Z,@deloitte-digital-il/fred-manifest,0.1.0,okinarti-deloitte,,20134,"Manifest schema, canonical policy projection, `AGENTS.md` generation and the conformance kit (drift tests); host emitters live in the streams — shared-core design §3–§5."
+2026-11-15T15:53:49.604Z,@deloitte-digital-il/fred-design,0.1.0,okinarti-deloitte,,85799,
+2026-11-15T15:53:51.82Z,@deloitte-digital-il/fred-broker,0.1.0,okinarti-deloitte,,219923,The fred MCP broker: stdio server and library.
+2026-11-15T15:53:53.828Z,@deloitte-digital-il/fred-cli,0.1.0,okinarti-deloitte,,95116,The fred command line. `fred run end` is the first subcommand.
+2026-11-15T15:54:04.616Z,vejoy,1.0.0,hemanga,MIT,1469,Simple product and batch identifier utilities
+2026-11-15T15:54:46.796Z,rbac-template,1.0.0,jashwant-456,MIT,222117,"Enterprise-grade, highly customizable, frontend-only RBAC and Masters template with pluggable API adapters"
+2026-11-15T15:54:55.009Z,@corsair-dev/gleap,0.1.0,corsair.dev,Apache-2.0,274247,Gleap plugin for Corsair
+2026-11-15T15:55:08.76Z,@corsair-dev/shortio,0.1.0,corsair.dev,Apache-2.0,147504,Short.io link and domain management plugin for Corsair
+2026-11-15T15:56:26.684Z,activepieces-piece-volai,0.1.0,radekklein1992,MIT,1927263,"Send SMS and voice messages, place AI calls, and receive Volai events in Activepieces."
+2026-11-15T15:56:34.958Z,dsh-document-reader,1.0.0,jianghu88,MIT,3578526,"Document & image reader panel for DeepSeek Harness — PDF/DOCX/EPUB/HTML/Markdown/text/images/Office, selection translate (Bing / Google / your DSH model), doc_reader agent tool, chat context injectio…"
+2026-11-15T15:58:47.828Z,mcstatus-sdk,1.1.0,lukyn76,MIT,25857,"Unofficial, fully typed, zero-dependency TypeScript SDK for the mcstatus.io Minecraft server status API."
+2026-11-15T15:58:48.74Z,neozip-wiki,0.1.0,neoware_inc,UNLICENSED,701707,"Create, open, search, read, extract and verify ZipWiki (.zipwiki) knowledge packages on NeoZipKit"
+2026-11-15T15:58:59.282Z,sbmlsim-core,0.1.0,konigmatt,MIT AND BSD-3-Clause AND LGPL-2.1-or-later,828826,"Simulate SBML models compiled to WebAssembly in browsers and Node: the JavaScript host of sbmlsim-core with its engine (CVODE, KLU), a pool of workers and the panel endpoint of sbmlsim"
+2026-11-15T15:59:03.416Z,cortico-world-watch-anything,0.4.4,vindicato,MIT,92960,陪你看一切 —— 给 Coopanion 桌宠的 cortico World 扩展（需要额外安装本机依赖，见下）：一分钟 30 格画面（2 秒一格、5 张宫格 × 6 格），一次调用看完一分钟：本地视频、视频链接、直播地址、桌面屏幕都行，图片随回执进上下文，模型是真的看过画面。台词用本机 faster-whisper 转写。看一小时实时直播约一块钱。只依赖 PyAV + PIL，不需要 ffmp…
+2026-11-15T15:59:06.157Z,@skedia/literal-sql,0.2.1,maartennnn,MIT,65526,"Lightweight, zero-dependency raw SQL query builder using tagged template literals (PostgreSQL $1, $2, ... placeholders)."
+2026-11-15T15:59:25.351Z,hemanga,1.0.0,hemanga,MIT,1271,Lightweight JavaScript text utilities by Hemanga
+2026-11-15T16:00:09.511Z,mdaf-lib-microfrontends,0.0.1,flo47600,,7095,This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.0.
+2026-11-15T16:00:23.563Z,@xsynaptic/share-kit,0.1.0,xsynaptic,MIT,176583,A share dialog custom element for posting a page to social platforms
+2026-11-15T16:00:32.053Z,@molecule/app-integration-card-vue,0.0.1-stage,vialoh,Apache-2.0,40435,"Integration / connection card with icon, status, connect/disconnect action"
+2026-11-15T16:00:32.984Z,@molecule/app-keyboard-shortcuts-solid,0.0.1-stage,vialoh,Apache-2.0,35012,Solid hooks for @molecule/app-keyboard-shortcuts — register a shortcut for the life of a component
+2026-11-15T16:00:33.038Z,@molecule/app-keyboard-shortcuts-svelte,0.0.1-stage,vialoh,Apache-2.0,36295,Svelte functions for @molecule/app-keyboard-shortcuts — register a shortcut for the life of a component
+2026-11-15T16:00:33.632Z,@molecule/app-leaderboard-row-svelte,0.0.1-stage,vialoh,Apache-2.0,26472,"Leaderboard row — rank, avatar, name, score, optional change indicator"
+2026-11-15T16:00:33.836Z,@molecule/app-leaderboard-row-solid,0.0.1-stage,vialoh,Apache-2.0,29071,"Leaderboard row — rank, avatar, name, score, optional change indicator"
+2026-11-15T16:00:34.086Z,@molecule/app-leaderboard-row-angular,0.0.1-stage,vialoh,Apache-2.0,60120,"Leaderboard row — rank, avatar, name, score, optional change indicator"
+2026-11-15T16:00:34.824Z,@molecule/app-keyboard-shortcuts-angular,0.0.1-stage,vialoh,Apache-2.0,36599,Angular functions for @molecule/app-keyboard-shortcuts — register a shortcut for the life of a component
+2026-11-15T16:00:35.128Z,@molecule/app-keyboard-shortcuts-vue,0.0.1-stage,vialoh,Apache-2.0,34028,Vue hooks for @molecule/app-keyboard-shortcuts — register a shortcut for the life of a component
+2026-11-15T16:00:45.622Z,@molecule/app-medication-row-angular,0.0.1-stage,vialoh,Apache-2.0,84090,"Medication row — name, dosage, form, instructions, refills remaining, prescriber"
+2026-11-15T16:00:46.342Z,@molecule/app-log-viewer-solid,0.0.1-stage,vialoh,Apache-2.0,35799,"Expandable log rows with timestamp, severity, service label, and JSON structured-data panel"
+2026-11-15T16:00:46.548Z,@molecule/app-medication-row-svelte,0.0.1-stage,vialoh,Apache-2.0,30678,"Medication row — name, dosage, form, instructions, refills remaining, prescriber"
+2026-11-15T16:00:46.58Z,@molecule/app-leaderboard-row-vue,0.0.1-stage,vialoh,Apache-2.0,36459,"Leaderboard row — rank, avatar, name, score, optional change indicator"
+2026-11-15T16:00:46.768Z,@molecule/app-log-viewer-vue,0.0.1-stage,vialoh,Apache-2.0,37227,"Expandable log rows with timestamp, severity, service label, and JSON structured-data panel"
+2026-11-15T16:00:46.95Z,@molecule/app-log-viewer-angular,0.0.1-stage,vialoh,Apache-2.0,74763,"Expandable log rows with timestamp, severity, service label, and JSON structured-data panel"
+2026-11-15T16:00:47.263Z,@molecule/app-log-viewer-svelte,0.0.1-stage,vialoh,Apache-2.0,32710,"Expandable log rows with timestamp, severity, service label, and JSON structured-data panel"
+2026-11-15T16:00:51.946Z,@molecule/app-medication-row-solid,0.0.1-stage,vialoh,Apache-2.0,30704,"Medication row — name, dosage, form, instructions, refills remaining, prescriber"
+2026-11-15T16:00:54.105Z,dsh-remote-go,0.0.1,solaris011,MIT,2216,Placeholder release reserving the npm name for the dsh-remote-go DeepSeek Harness plugin; the plugin ships in 0.1.0 and later.
+2026-11-15T16:01:00.404Z,@molecule/app-medication-row-vue,0.0.1-stage,vialoh,Apache-2.0,37609,"Medication row — name, dosage, form, instructions, refills remaining, prescriber"
+2026-11-15T16:01:00.569Z,@molecule/app-mini-calendar-solid,0.0.1-stage,vialoh,Apache-2.0,33263,Month-view calendar with day selection and prev/next navigation
+2026-11-15T16:01:00.72Z,@molecule/app-mini-calendar-svelte,0.0.1-stage,vialoh,Apache-2.0,28081,Month-view calendar with day selection and prev/next navigation
+2026-11-15T16:01:02.229Z,@molecule/app-newsletter-signup-solid,0.0.1-stage,vialoh,Apache-2.0,32044,Email + subscribe button with success state for newsletter capture
+2026-11-15T16:01:02.53Z,@molecule/app-mini-calendar-angular,0.0.1-stage,vialoh,Apache-2.0,54606,Month-view calendar with day selection and prev/next navigation
+2026-11-15T16:01:02.866Z,@molecule/app-newsletter-signup-angular,0.0.1-stage,vialoh,Apache-2.0,73490,Email + subscribe button with success state for newsletter capture
+2026-11-15T16:01:03.827Z,@molecule/app-mini-calendar-vue,0.0.1-stage,vialoh,Apache-2.0,35977,Month-view calendar with day selection and prev/next navigation
+2026-11-15T16:01:06.851Z,@molecule/app-newsletter-signup-svelte,0.0.1-stage,vialoh,Apache-2.0,27960,Email + subscribe button with success state for newsletter capture
+2026-11-15T16:01:18.955Z,@molecule/app-onboarding-modal-angular,0.0.1-stage,vialoh,Apache-2.0,67154,Multi-step welcome / onboarding overlay with prev/next + skip
+2026-11-15T16:01:19.33Z,@molecule/app-newsletter-signup-vue,0.0.1-stage,vialoh,Apache-2.0,39039,Email + subscribe button with success state for newsletter capture
+2026-11-15T16:01:20.372Z,@molecule/app-notification-feed-vue,0.0.1-stage,vialoh,Apache-2.0,39883,"Vertical notification feed: typed icon + title + body + relative time + unread indicator, with optional per-row link wrapping"
+2026-11-15T16:01:21.054Z,@molecule/app-notification-feed-svelte,0.0.1-stage,vialoh,Apache-2.0,32840,"Vertical notification feed: typed icon + title + body + relative time + unread indicator, with optional per-row link wrapping"
+2026-11-15T16:01:22.014Z,@molecule/app-onboarding-modal-solid,0.0.1-stage,vialoh,Apache-2.0,35654,Multi-step welcome / onboarding overlay with prev/next + skip
+2026-11-15T16:01:22.043Z,@molecule/app-notification-feed-angular,0.0.1-stage,vialoh,Apache-2.0,54530,"Vertical notification feed: typed icon + title + body + relative time + unread indicator, with optional per-row link wrapping"
+2026-11-15T16:01:22.988Z,@molecule/app-onboarding-modal-svelte,0.0.1-stage,vialoh,Apache-2.0,29978,Multi-step welcome / onboarding overlay with prev/next + skip
+2026-11-15T16:01:23.033Z,@molecule/app-notification-feed-solid,0.0.1-stage,vialoh,Apache-2.0,40571,"Vertical notification feed: typed icon + title + body + relative time + unread indicator, with optional per-row link wrapping"
+2026-11-15T16:01:57.209Z,@corsair-dev/gigasheet,0.1.0,corsair.dev,Apache-2.0,97582,Gigasheet plugin for Corsair
+2026-11-15T16:02:00.769Z,@corsair-dev/givebutter,0.1.0,corsair.dev,Apache-2.0,386756,Givebutter plugin for Corsair
+2026-11-15T16:02:04.544Z,@corsair-dev/proabono,0.1.0,corsair.dev,Apache-2.0,270504,"Subscription billing API for managing customers, subscriptions, usages and invoices."
+2026-11-15T16:02:22.82Z,@gitmyabi/peggedtokenbridgev2,1.0.0,gitmyabi-bot,Apache-2.0,209050,"Auto-generated TypeScript type bindings for PeggedTokenBridgeV2 (build etherscan-peggedtokenbridgev2-52e4f244-1794758514982, commit 53c0059, branch etherscan)"
+2026-11-15T16:02:31.026Z,coactjs,0.5.2,chiuwa,Apache-2.0,343388,"Shared cursors, frames, windows, and spreadsheet actions for collaborative canvases."
+2026-11-15T16:02:54.203Z,dsh-memory-book,0.13.0,a4223091,MIT,190946,"Memory Book: per-project local memory (global + primary + transient), fixed project documents with versioning, engine-enforced maintenance, a `memory` tool, per-turn injection, and a sidebar panel to…"
+2026-11-15T16:03:43.842Z,@corewire/core,0.0.0,basmilius,MIT,1703,"Shared core for the CoreWire protocol packages: encoding, crypto, transport, pairing and discovery."
+2026-11-15T16:03:46.939Z,@corewire/airplay,0.0.0,basmilius,MIT,1707,"AirPlay 2 client for Node.js, with MRP remote control, URL playback, audio streaming and RAOP."
+2026-11-15T16:03:49.447Z,@corewire/companion-link,0.0.0,basmilius,MIT,1741,"Companion Link client for Node.js, for remote control, text input, apps, accounts and power of an Apple TV."
+2026-11-15T16:03:51.779Z,@corewire/audio-source,0.0.0,basmilius,MIT,1733,"Audio sources and decoders for CoreWire audio streaming: MP3, Ogg, WAV, PCM, FFmpeg, URLs and live input."
+2026-11-15T16:03:54.439Z,@corewire/devices,0.0.0,basmilius,MIT,1715,"Controls an Apple TV or HomePod over AirPlay and Companion Link, and reconnects when the device drops."
+2026-11-15T16:04:35.308Z,@pulsartronic/entropy,1.0.0,pulsartronic,MIT,11618,Commit-reveal entropy definitions and interfaces for Solidity
+2026-11-15T16:04:35.555Z,@t3mode/plugin-sdk,1.0.0,hezaerd,,4230,"definePlugin and the plugin API types for t3mode, the plugin loader for T3 Code"
+2026-11-15T16:04:36.319Z,@initsolusidigital/worksuite-editor,0.4.0,willipratama,UNLICENSED,524339,"Paper-style rich text document editor for the Init Worksuite web apps (TipTap based): page layout, ruler, letterhead overlay, comments, sharing and export, shipped as raw source"
+2026-11-15T16:06:20.078Z,packproof-ppwr-cli,1.4.0,pdfuapartner,MIT,34025,"Zero-dependency local Node.js CLI validator for Regulation (EU) 2025/40 (PPWR) packaging BOMs, Article 5(4) heavy metals (<=100 mg/kg), Article 5(5) food-contact PFAS (<25/<250 ppb, <50 ppm), non-sub…"
+2026-11-15T16:06:20.222Z,@baymaxhit/dsh-idle,0.1.1,baymaxhit,MIT,16281,"Idle-time task scheduler for DeepSeek Harness: queue goal-oriented tasks that run autonomously in their own sessions whenever the host is idle — the off-peak 'watchdog' pattern, as a standalone plugi…"
+2026-11-15T16:06:46.868Z,@vmgx/vmgx,1.0.1,vmgx,MIT,3219,"Reference parser for VMGX, a lightweight, human-readable data format for structured records, rich metadata and long-term digital preservation."
+2026-11-15T16:06:57.91Z,dsh-health-assistant,0.1.0,luoxin10086,UNLICENSED,28034,DSH 插件：健康小助手 —— 定时提醒休息、连续工作劝停、熬夜提醒。完全本地，不联网。
+2026-11-15T16:07:18.384Z,lotusatias-aipcc-paperclip-plugin,0.1.0,lotusatias,,2355273,Paperclip UI and worker integration for AIPCC
+2026-11-15T16:07:24.481Z,pingloom,0.1.0,srish-rachamalla,MIT,40763,Node client and CLI for the PingLoom notification API (server-side only).
+2026-11-15T16:07:25.718Z,@loomlyne/ui-system-react,0.1.0,koussayz,MIT,930074,"UI System React components: Root theme provider, Logo, primitives, frontend navs and backend app shells."
+2026-11-15T16:08:02.968Z,@olipite/vera-darwin-arm64,1.0.0,olipite,MIT,8968896,"Binario de vera para darwin arm64. Instala «vera-ia», no este paquete."
+2026-11-15T16:08:10.849Z,dsh-deputy,0.0.15,doghostzero,MIT,127583,"DSH deputy: change-scored desktop sensing packed into 4x4 contact sheets, plus a real isolated Windows desktop you can actually operate in."
+2026-11-15T16:08:21.926Z,@olipite/vera-darwin-x64,1.0.0,olipite,MIT,9637016,"Binario de vera para darwin x64. Instala «vera-ia», no este paquete."
+2026-11-15T16:08:40.733Z,@olipite/vera-linux-arm64,1.0.0,olipite,MIT,9045787,"Binario de vera para linux arm64. Instala «vera-ia», no este paquete."
+2026-11-15T16:09:04.136Z,@olipite/vera-linux-x64,1.0.0,olipite,MIT,9787157,"Binario de vera para linux x64. Instala «vera-ia», no este paquete."
+2026-11-15T16:09:23.346Z,@olipite/vera-win32-arm64,1.0.0,olipite,MIT,8844923,"Binario de vera para win32 arm64. Instala «vera-ia», no este paquete."
+2026-11-15T16:09:24.404Z,@corsair-dev/giftup,0.1.0,corsair.dev,Apache-2.0,579456,Gift Up! plugin for Corsair
+2026-11-15T16:09:39.847Z,@corsair-dev/stackai,0.1.0,corsair.dev,Apache-2.0,91821,StackAI project schemas and run lifecycle integration for Corsair
+2026-11-15T16:09:42.636Z,@olipite/vera-win32-x64,1.0.0,olipite,MIT,9719413,"Binario de vera para win32 x64. Instala «vera-ia», no este paquete."
+2026-11-15T16:09:44.135Z,@typemvc/check,0.5.0,coretravis,MIT,5698,"Type checks a TypeMVC project, .tmvc views and components included. Run with: tmvc-check --noEmit"
+2026-11-15T16:10:01.961Z,vera-ia,1.0.0,olipite,MIT,11977,Comandos de terminal con IA local (Ollama)
+2026-11-15T16:10:16.249Z,@zolio/react,0.0.0,unfoldxyz,UNLICENSED,151766,Zolio support widget for React.
+2026-11-15T16:11:50.198Z,@steamfield/foreman-darwin-arm64,0.1.1,rileyhilliard,MIT,62740227,foreman native binary for darwin-arm64
+2026-11-15T16:12:31.746Z,@pioneercompany/app-sdk,0.1.0,pioneerai,,285059,Pioneer application client and Node.js backend SDK
+2026-11-15T16:12:42.79Z,@mavonengine/sqlite,0.0.1,mattvb91,MIT,9496,"MavonEngine plugin: a SQLite database for the game server and its plugins, on Node's built-in node:sqlite"
+2026-11-15T16:12:48.737Z,@mavonengine/auth,0.0.1,mattvb91,MIT,70845,"MavonEngine plugin: player accounts, logins and sessions, so the game server knows who connects"
+2026-11-15T16:12:52.948Z,@steamfield/foreman-darwin-x64,0.1.1,rileyhilliard,MIT,69842587,foreman native binary for darwin-x64
+2026-11-15T16:12:59.308Z,@ktkid/kmh-kongming,0.1.4,ktkid,,1332086,孔明固定会话、原生聊天与可选能力扩展
+2026-11-15T16:13:01.403Z,ryan-bridge,0.1.0,hanniavalera,MIT,224197,Loopback-only bridge that lets the Ryan web app (ryan.han.tools) compare a model running in Ollama on your computer.
+2026-11-15T16:13:20.026Z,@steamfield/foreman-linux-x64,0.1.1,rileyhilliard,MIT,81824616,foreman native binary for linux-x64
+2026-11-15T16:13:34.718Z,@steamfield/foreman,0.1.1,rileyhilliard,MIT,18951,Delegate coding tasks to Codex and supervise them from the command line
+2026-11-15T16:13:53.504Z,@steamfield/foreman-linux-arm64,0.1.1,rileyhilliard,MIT,81776310,foreman native binary for linux-arm64
+2026-11-15T16:15:50.517Z,@ktkid/kmh-junji,0.1.3,ktkid,MIT,836665,军机阁：用户自建 agent 团队（每个 agent 一对一专属会话 + 独立记忆小本子）
+2026-11-15T16:16:22.143Z,hema-ai-cli,0.0.0-stage,shitengkai,,333,Temporary package placeholder for staged publishing
+2026-11-15T16:17:19.15Z,n8n-nodes-skrap,0.1.0,skrapai,MIT,48925,Skrap.ai for n8n: verify email addresses and find verified work emails.
+2026-11-15T16:17:45.742Z,@gitmyabi/mihao,1.0.0,gitmyabi-bot,Apache-2.0,50658,"Auto-generated TypeScript type bindings for mihao (build etherscan-mihao-b3a6add3-1794759450378, commit cfb7358, branch etherscan)"
+2026-11-15T16:18:36.86Z,keyur-training-mcp,1.0.0,keyurraval,MIT,38023,A simple MCP server for learning Model Context Protocol
+2026-11-15T16:20:44.785Z,ontario-fir-formatter,0.0.0-stage,sentientcoders,,343,Temporary package placeholder for staged publishing
