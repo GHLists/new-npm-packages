@@ -1,0 +1,436 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-16T02:14:09.76Z,@twinsearth/dsh-session-format-v2-to-v3,3.5.0,twinsearth,MIT,88079,"Streaming system-prompt, canonical-envelope and PTC migration into V3"
+2026-11-16T02:14:11.871Z,@twinsearth/dsh-session-format-catalog,3.5.0,twinsearth,MIT,32668,Build-static first-party Session format codec and migration catalog
+2026-11-16T02:14:12.35Z,@twinsearth/dsh-session-format-v3-to-v4,3.5.0,twinsearth,MIT,165812,Streaming tool-role migration and delivery validation from Session V3 to V4
+2026-11-16T02:14:13.656Z,@twinsearth/dsh-session-projection-cache,3.5.0,twinsearth,MIT,64302,"Persisted projection cache (ctx.sessionProjectionCache): durable per-session checkpoint records on the session_projcache storage domain (per-record layout), throttled write-behind, and the cached lis…"
+2026-11-16T02:14:17.111Z,@twinsearth/dsh-tool-todo,3.5.0,twinsearth,MIT,48969,Model-facing todo_write tool over the DeepSeek Harness event-sourced session log
+2026-11-16T02:14:17.811Z,@twinsearth/dsh-session-title,3.5.0,twinsearth,MIT,102423,Log-backed session title service and provider registry for the DeepSeek Harness
+2026-11-16T02:14:18.714Z,@twinsearth/dsh-session-query,3.5.0,twinsearth,MIT,156926,"Combined session query service contract with concrete reads, traces, and filters"
+2026-11-16T02:14:21.426Z,@twinsearth/dsh-goal-round-driver,3.5.0,twinsearth,MIT,39420,Race-fenced same-session goal-round driver
+2026-11-16T02:14:21.988Z,@twinsearth/dsh-jobs,3.5.0,twinsearth,MIT,66675,"Background job registry (ctx.jobs) for the DeepSeek Harness — shared ids, owner isolation, polling, cancellation, and completion listeners for long-running tool work"
+2026-11-16T02:14:22.739Z,@twinsearth/dsh-subagent,3.5.0,twinsearth,MIT,588259,Abstract subagent seam (ctx.subagents): named-provider registry for delegating to child agents
+2026-11-16T02:14:24.949Z,@twinsearth/dsh-jobs-local,3.5.0,twinsearth,MIT,76942,Process-local implementation of the DeepSeek Harness background job registry seam
+2026-11-16T02:14:25.477Z,@justjoshn/pi-snoop-tui,0.1.0,justjoshn,MIT,36616,"A calm, compact, fast look for Pi's interactive TUI: graphite themes, one-line tool rows, a single-row footer."
+2026-11-16T02:14:25.89Z,@twinsearth/dsh-llm-deepseek-account,3.5.0,twinsearth,MIT,39565,DeepSeek account provider authentication and discovery
+2026-11-16T02:14:26.899Z,@twinsearth/dsh-llm-deepseek,3.5.0,twinsearth,MIT,262008,DeepSeek Messages adapter
+2026-11-16T02:14:29.867Z,@twinsearth/dsh-llm-deepseek-api-key,3.5.0,twinsearth,MIT,33193,DeepSeek api-key provider authentication and discovery
+2026-11-16T02:14:30.423Z,@twinsearth/dsh-otel,3.5.0,twinsearth,MIT,40174,Cordis service for independent ordinary-event and byte-bounded Session-log OTLP channels
+2026-11-16T02:14:33.51Z,@twinsearth/dsh-user-questions,3.5.0,twinsearth,MIT,180593,Abstract user-questions seam (ctx.userQuestions) for asking the human during agent runs
+2026-11-16T02:14:34.84Z,@twinsearth/dsh-plugin-detail,3.5.0,twinsearth,MIT,64046,"Plugin detail documents: meta.detail or README selection, image paths, and local and npm CDN file sources"
+2026-11-16T02:14:36.264Z,@twinsearth/dsh-plan-mode,3.5.0,twinsearth,MIT,82308,"Logged per-agent plan mode with deployment guidance, a direct slash command, and a user-reviewed exit"
+2026-11-16T02:14:36.849Z,@twinsearth/dsh-llm-pi-ai,3.5.0,twinsearth,MIT,274203,pi-ai-backed DeepSeek adapter for the DeepSeek Harness LLM seam (design-verification twin of dsh-llm-deepseek)
+2026-11-16T02:14:38.511Z,@twinsearth/dsh-host-plugin-inventory,3.5.0,twinsearth,MIT,53426,Read-only Remote projection of current Cordis Loader plugin state
+2026-11-16T02:14:42.441Z,@twinsearth/dsh-plugin-package-inventory-deepseek,3.5.0,twinsearth,MIT,32846,Active Loader-backed plugin package inventory for official DeepSeek LLM API requests
+2026-11-16T02:14:43.566Z,@twinsearth/dsh-ptc-runtime-node,3.5.0,twinsearth,MIT,645241,"Node PTC execution with async function, REPL and VM Script evaluators and optional retained state"
+2026-11-16T02:14:45.469Z,@twinsearth/dsh-plugin-manager,3.5.0,twinsearth,MIT,732825,"Current-profile plugin and bundle management shared by dsh CLI, Web and agent tools"
+2026-11-16T02:14:45.792Z,@twinsearth/dsh-pwsh-sandbox,3.5.0,twinsearth,MIT,42005,"Sandbox-consuming implementation of the DeepSeek Harness PowerShell executor seam (confines every command via ctx.sandbox, reports denial/enforcement result facts)"
+2026-11-16T02:14:47.469Z,@twinsearth/dsh-pwsh-local,3.5.0,twinsearth,MIT,54510,Local PowerShell implementation of the DeepSeek Harness bash executor seam
+2026-11-16T02:14:49.777Z,@twinsearth/dsh-repeat-tool-reminder,3.5.0,twinsearth,MIT,126100,Repeat-tool-call guard plugin: advisory reminders when an agent loops on identical tool calls
+2026-11-16T02:14:56.657Z,@twinsearth/dsh-win32-process,3.5.0,twinsearth,MIT,67946,"Shared low-level Win32 process, stdio, and Job Object primitives"
+2026-11-16T02:14:57.244Z,@twinsearth/dsh-sandbox-local,3.5.0,twinsearth,MIT,63919,"Local process-sandbox backends for the DeepSeek Harness sandbox seam: bwrap, the npm-distributed landlock-run launcher, macOS Seatbelt, or the Windows ACL restricted-token runner — functionally probe…"
+2026-11-16T02:14:57.887Z,@twinsearth/dsh-sandbox-windows-acl,3.5.0,twinsearth,MIT,228975,Windows ACL write-restriction sandbox backend (restricted-token spawn with capability-SID write allowlist) for the DeepSeek Harness sandbox seam
+2026-11-16T02:14:59.1Z,@twinsearth/dsh-session-checkpoint-policy,3.5.0,twinsearth,MIT,24347,Semantic session durability checkpoints before model requests and tool side effects
+2026-11-16T02:14:59.638Z,@twinsearth/dsh-skill,3.5.0,twinsearth,MIT,65763,Agent skill provider registry for the DeepSeek Harness
+2026-11-16T02:15:02.817Z,@twinsearth/dsh-session-log-deepseek,3.5.0,twinsearth,MIT,50023,Incremental lossless session-log request extension for the official DeepSeek LLM API
+2026-11-16T02:15:09.245Z,@twinsearth/dsh-session-persistence-jsonl,3.5.0,twinsearth,MIT,825201,JSONL durable session persistence backend for the DeepSeek Harness
+2026-11-16T02:15:09.723Z,@twinsearth/dsh-message-feedback,3.5.0,twinsearth,MIT,122562,Canonical Session-log ratings and notes for finalized assistant messages
+2026-11-16T02:15:10.799Z,@twinsearth/dsh-session-query-sqlite,3.5.0,twinsearth,MIT,91546,Concrete ctx.sessionQuery backend with SQLite FTS5 search
+2026-11-16T02:15:11.305Z,@twinsearth/dsh-session-telemetry,3.5.0,twinsearth,MIT,46920,"SessionTelemetryBackend seam for the DeepSeek Harness: session-event capture, projection, redaction, and handoff to a reporting backend"
+2026-11-16T02:15:11.622Z,@twinsearth/dsh-session-telemetry-otel,3.5.0,twinsearth,MIT,40348,Feedback-authorized Session logs over byte-bounded OpenTelemetry HTTP requests
+2026-11-16T02:15:14.796Z,@twinsearth/dsh-session-title-llm,3.5.0,twinsearth,MIT,37429,Shared LLM generation policy for DeepSeek Harness session-title providers
+2026-11-16T02:15:20.446Z,@twinsearth/dsh-session-title-first-prompt-llm,3.5.0,twinsearth,MIT,26326,First-message LLM provider plugin for DeepSeek Harness session titles
+2026-11-16T02:15:21.667Z,@twinsearth/dsh-shell-env,3.5.0,twinsearth,MIT,30703,Tool-independent managed DSH_* shell environment registry
+2026-11-16T02:15:22.111Z,@twinsearth/dsh-spill,3.5.0,twinsearth,MIT,29324,Abstract spill storage seam (ctx.spillStore) for the DeepSeek Harness — save oversized tool text and return a retrieval locator
+2026-11-16T02:15:22.288Z,@twinsearth/dsh-skill-filesystem,3.5.0,twinsearth,MIT,63554,Local filesystem skill provider for the DeepSeek Harness
+2026-11-16T02:15:24.533Z,@twinsearth/dsh-spill-local,3.5.0,twinsearth,MIT,56103,Local-filesystem implementation of the DeepSeek Harness spill storage seam (private session-scoped files)
+2026-11-16T02:15:26.749Z,@twinsearth/dsh-output-retention,3.5.0,twinsearth,MIT,43741,"Zero-dependency bounded-retention primitive: ItemRetainer/TextRetainer + neutral notice helpers (what did we keep, what did we omit)"
+2026-11-16T02:15:31.872Z,@twinsearth/dsh-spill-policy,3.5.0,twinsearth,MIT,54073,Token-budgeted tool-result retention with recoverable text and image paths
+2026-11-16T02:15:32.556Z,@twinsearth/dsh-subagent-fork-in-process,3.5.0,twinsearth,MIT,27426,In-process fork subagent backend: runs a child agent seeded with a prefix of the parent's log
+2026-11-16T02:15:32.843Z,@twinsearth/dsh-storage-json,3.5.0,twinsearth,MIT,64615,JSON file KV storage backend for the DeepSeek Harness storage hub
+2026-11-16T02:15:32.867Z,@twinsearth/dsh-subagent-spawn-in-process,3.5.0,twinsearth,MIT,24537,In-process spawn subagent backend: runs a fresh child agent on ctx.agents
+2026-11-16T02:15:36.821Z,@twinsearth/dsh-subprocess-local,3.5.0,twinsearth,MIT,249360,Local-subprocess implementation of the DeepSeek Harness subprocess seam
+2026-11-16T02:15:38.448Z,@twinsearth/dsh-tool-bash,3.5.0,twinsearth,MIT,80491,Model-facing bash tool with optional generic background-job and sandbox-escalation support
+2026-11-16T02:15:43.228Z,@twinsearth/dsh-tool-call-timeout-policy,3.5.0,twinsearth,MIT,30727,Tool-call timeout policy: a tools/execute wrapper that arms a per-tool deadline on exec.signal and returns TOOL_TIMEOUT when it wins
+2026-11-16T02:15:43.396Z,@twinsearth/dsh-util-code-language,3.5.0,twinsearth,MIT,19056,Single file-extension to syntax-highlighting language table shared by Client code surfaces and the Host read card
+2026-11-16T02:15:43.845Z,@twinsearth/dsh-tool-fs-search,3.5.0,twinsearth,MIT,134568,"Model-facing filesystem discovery tools (glob, grep) backed by the packaged ripgrep binary (@vscode/ripgrep)"
+2026-11-16T02:15:47.054Z,@twinsearth/dsh-tool-goal,3.5.0,twinsearth,MIT,48570,Model-facing same-session goal tools with execution-time authority checks
+2026-11-16T02:15:47.114Z,@twinsearth/dsh-tool-fs,3.5.0,twinsearth,MIT,189510,"Model-facing filesystem tools (read, write, edit) over the DeepSeek Harness filesystem seam (ctx.fs)"
+2026-11-16T02:15:49.754Z,@twinsearth/dsh-tool-jobs,3.5.0,twinsearth,MIT,67495,"Model-facing background job control tools (job_output, job_list, job_kill) over the ctx.jobs registry"
+2026-11-16T02:15:54.72Z,@twinsearth/dsh-tool-pwsh,3.5.0,twinsearth,MIT,80042,Model-facing pwsh tool over the bash executor seam
+2026-11-16T02:15:55.202Z,@twinsearth/dsh-tool-skill,3.5.0,twinsearth,MIT,80434,Model-facing skill loading tool for the DeepSeek Harness
+2026-11-16T02:15:55.25Z,@twinsearth/dsh-tool-present,3.5.0,twinsearth,MIT,27927,Explicit workspace file delivery declarations for the DeepSeek Harness
+2026-11-16T02:15:57.76Z,@twinsearth/dsh-tool-subagent-control,3.5.0,twinsearth,MIT,37768,"Shared messaging, interruption, and child discovery tools for subagents"
+2026-11-16T02:15:57.89Z,@twinsearth/dsh-tool-subagent,3.5.0,twinsearth,MIT,96236,Model-facing subagent delegation tool over the ctx.subagents seam
+2026-11-16T02:16:01.252Z,@twinsearth/dsh-web,3.5.0,twinsearth,MIT,52427,"Abstract web access capability seam (ctx.web) for the DeepSeek Harness — search/fetch provider registry, registration-order-independent selection, request/result vocabulary, and the WebError taxonomy"
+2026-11-16T02:16:05.352Z,@twinsearth/dsh-workflow,3.5.0,twinsearth,MIT,44819,"Workflow capability seam: ctx.workflowEngine service, run vocabulary, and workflow/* events"
+2026-11-16T02:16:05.696Z,@twinsearth/dsh-tool-workflow,3.5.0,twinsearth,MIT,81464,Model-facing workflow tool: run a JavaScript orchestration script over ctx.workflowEngine
+2026-11-16T02:16:05.931Z,@twinsearth/dsh-tool-working-directory,3.5.0,twinsearth,MIT,13352,Read and change the active Session working directory
+2026-11-16T02:16:06.53Z,@twinsearth/dsh-tool-web,3.5.0,twinsearth,MIT,105164,"Model-facing web tools (web_search, web_fetch) over the DeepSeek Harness web capability seam (ctx.web)"
+2026-11-16T02:16:07.376Z,@twinsearth/dsh-typert-registry,3.5.0,twinsearth,MIT,140737,Runtime registry for generated package reflection and Zod schemas
+2026-11-16T02:16:08.213Z,@twinsearth/dsh-typert-loader,3.5.0,twinsearth,MIT,43519,Loader integration for generated Typert package contributions
+2026-11-16T02:16:13.141Z,@twinsearth/dsh-web-deepseek-api,3.5.0,twinsearth,MIT,56915,DeepSeek Search and Fetch API providers for the DeepSeek Harness web capability seam (ctx.web)
+2026-11-16T02:16:13.588Z,@twinsearth/dsh-web-fetch-http,3.5.0,twinsearth,MIT,48009,Anonymous HTTP(S) fetch provider for the DeepSeek Harness web capability seam (ctx.web)
+2026-11-16T02:16:14.814Z,@pinkaphant/ecctrl,2.0.3,pifreak,MIT,716076,"A physics-driven character, vehicle, and custom-gravity controller toolkit for React Three Fiber and Rapier."
+2026-11-16T02:16:15.347Z,@twinsearth/dsh-web-search-deepseek,3.5.0,twinsearth,MIT,70829,DeepSeek-backed search provider (native web_search via the Anthropic-compatible API) for the DeepSeek Harness web capability seam (ctx.web)
+2026-11-16T02:16:15.722Z,@twinsearth/dsh-workflow-ptc,3.5.0,twinsearth,MIT,155760,Workflow orchestration in the shared sandboxed Node PTC runtime
+2026-11-16T02:16:16.104Z,@twinsearth/dsh-base,3.5.0,twinsearth,MIT,49444,"The shared dsh core as a profile bundle: the first patch layer of base-backed profiles, inserting core rows over the empty profile root"
+2026-11-16T02:16:19.067Z,@twinsearth/dsh-client-ui-agent-preset,3.5.0,twinsearth,MIT,250364,"Agent-preset surfaces: the default for later sessions, this session's seat, and the composition editor"
+2026-11-16T02:16:20.89Z,@twinsearth/dsh-client-ui-cordis,3.5.0,twinsearth,MIT,148877,Cordis dynamic-plugin definition card: the keyed cordis_define tool row with its run/stop switch
+2026-11-16T02:16:22.748Z,@twinsearth/dsh-computer-use,3.5.0,twinsearth,MIT,16636,Exclusive named computer-use provider registration
+2026-11-16T02:16:23.255Z,@twinsearth/dsh-cordis-client-runner,3.5.0,twinsearth,MIT,500370,"Browser half of dynamic dual-half plugin packages: event subscription, closure evaluation, guard facade, and loader entries"
+2026-11-16T02:16:24.834Z,@twinsearth/dsh-cua,3.5.0,twinsearth,MIT,386514,"Shared Computer Use application objects, authorization, and logged tool execution"
+2026-11-16T02:16:26.661Z,@twinsearth/dsh-cua-bundle,3.5.0,twinsearth,MIT,207336,Optional macOS Computer Use and permission setup
+2026-11-16T02:16:27.856Z,@twinsearth/dsh-experimental-cua-macos,3.5.0,twinsearth,MIT,727658,macOS native provider for shared Computer Use application and window objects
+2026-11-16T02:16:29.447Z,@twinsearth/dsh-experimental-agent-team,3.5.0,twinsearth,MIT,215564,"Implicit-root Agent Teams roster, direct peer messaging, and shared task DAG"
+2026-11-16T02:16:30.82Z,@twinsearth/dsh-experimental-tool-agent-team,3.5.0,twinsearth,MIT,46928,Scoped model-facing Agent Teams tools over ctx.agentTeams
+2026-11-16T02:16:30.832Z,@twinsearth/dsh-experimental-client-ui-agent-team,3.5.0,twinsearth,MIT,61262,"Web Agent Teams roster, task board, and teammate navigation"
+2026-11-16T02:16:33.927Z,@twinsearth/dsh-experimental-agent-team-profile,3.5.0,twinsearth,MIT,300365,"Agent Teams collaboration, tools, and Web UI in one experimental bundle"
+2026-11-16T02:16:35.521Z,@twinsearth/dsh-experimental-auto-review,3.5.0,twinsearth,MIT,217997,Per-tool LLM authorization review for the DeepSeek Harness Auto permission preset
+2026-11-16T02:16:36.277Z,@relyvolabs/react-ui,0.2.0,raffyjo,UNLICENSED,231276,React components for Relyvo: a ready chat panel and a video call stage on top of @relyvolabs/web-sdk.
+2026-11-16T02:16:36.336Z,@reneturcios/frontdesklab,0.1.0,reneturcios,MIT,57580,"A forwarding client for the LobbyVoices receptionist toolkit — phone scripts, IVR menus, voice-agent prompts, a call simulator, and missed-call cost math — served from the hosted LobbyVoices MCP serv…"
+2026-11-16T02:16:38.242Z,@twinsearth/dsh-experimental-translator,3.5.0,twinsearth,MIT,125101,Machine translation with reusable Session results
+2026-11-16T02:16:38.597Z,@twinsearth/dsh-skill-badge,3.5.0,twinsearth,MIT,32162,Bundled dsh badge skill provider for DeepSeek Harness
+2026-11-16T02:16:38.604Z,@twinsearth/dsh-experimental-client-ui-cot-translation,3.5.0,twinsearth,MIT,128389,"Optional machine translation of expanded reasoning, preserving original Session text"
+2026-11-16T02:16:42.718Z,@twinsearth/dsh-experimental-forge,3.5.0,twinsearth,MIT,64024,Provider-neutral change request registry with shared status polling
+2026-11-16T02:16:43.234Z,@twinsearth/dsh-experimental-cot-translation-bundle,3.5.0,twinsearth,MIT,210979,Experimental machine translation of expanded reasoning
+2026-11-16T02:16:43.477Z,@twinsearth/dsh-experimental-badge-skill-bundle,3.5.0,twinsearth,MIT,167276,"Let agents add a “powered by dsh” badge to documents, pull requests, and other outputs."
+2026-11-16T02:16:46.728Z,@twinsearth/dsh-experimental-worktree,3.5.0,twinsearth,MIT,51950,Creates a named Git worktree and changes the calling Session working directory
+2026-11-16T02:16:47.593Z,@twinsearth/dsh-experimental-forge-github,3.5.0,twinsearth,MIT,77128,"GitHub provider for the experimental forge registry, read through the GitHub CLI on the host"
+2026-11-16T02:16:49.339Z,@twinsearth/dsh-experimental-client-ui-forge,3.5.0,twinsearth,MIT,1247830,"Sidebar panel for a Session's change requests, with a worktree option for new Sessions and its Host Remote"
+2026-11-16T02:16:51.132Z,@twinsearth/dsh-experimental-forge-bundle,3.5.0,twinsearth,MIT,14894,Experimental change request panel and worktree option for Sessions in Git repositories
+2026-11-16T02:16:52.125Z,@twinsearth/dsh-experimental-forge-session,3.5.0,twinsearth,MIT,72968,"Binds change requests to the Session that created, pushed, or tracked them"
+2026-11-16T02:16:54.166Z,@twinsearth/dsh-experimental-client-ui-stats,3.5.0,twinsearth,MIT,356970,"Per-turn and per-step context, timing, cache, and tool-cost table contributed as an experimental conversation View"
+2026-11-16T02:16:59.437Z,@twinsearth/dsh-experimental-session-inspector,3.5.0,twinsearth,MIT,272778,Experimental virtualized Session log and live Chat group/node inspectors
+2026-11-16T02:16:59.519Z,@twinsearth/dsh-experimental-inspector-profile,3.5.0,twinsearth,MIT,290575,Optional Web bundle for raw Session logs and Chat node inspection
+2026-11-16T02:17:01.169Z,@twinsearth/dsh-experimental-liveshare-protocol,3.5.0,twinsearth,MIT,70487,Liveshare wire frames and the identity contract shared by the owner bundle and the Relay
+2026-11-16T02:17:04.673Z,@twinsearth/dsh-client-ui-plugin-market,3.5.0,twinsearth,MIT,166815,Discover tab of the dsh web Plugins page: browse configured plugin market indexes and install their bundles
+2026-11-16T02:17:08.836Z,@twinsearth/dsh-experimental-liveshare,3.5.0,twinsearth,MIT,1262922,"Opt-in LiveShare host bundle: share a Session through a separate Relay at the view or bounded-write tier, with forking and attachment uploads as independent switches"
+2026-11-16T02:17:09.134Z,@twinsearth/dsh-plugin-market-index,3.5.0,twinsearth,MIT,30376,"Plugin market index format 1: JSON validation, relative icon resolution, and pinned install arguments"
+2026-11-16T02:17:10.502Z,@nopilot/mcp-server-common,0.1.0,latbert,MIT,10190,Shared runner for local-first MCP servers: stdio + stateless Streamable HTTP transports built on the official MCP TypeScript SDK.
+2026-11-16T02:17:11.934Z,@twinsearth/dsh-experimental-plugin-market-bundle,3.5.0,twinsearth,MIT,332592,Experimental custom plugin indexes: a Discover tab that browses and installs bundles from plugin indexes
+2026-11-16T02:17:13.618Z,@twinsearth/dsh-plugin-market,3.5.0,twinsearth,MIT,372782,Configured plugin market indexes for the Web Discover page and the plugin_market agent tool
+2026-11-16T02:17:14.131Z,@twinsearth/dsh-tool-ralph,3.5.0,twinsearth,MIT,49120,Model-facing fresh-agent Ralph loop over the workflow and subagent seams
+2026-11-16T02:17:19.361Z,@twinsearth/dsh-tool-session-query,3.5.0,twinsearth,MIT,86388,"Workspace-authorized model-facing session history search, trace, and event read tools"
+2026-11-16T02:17:19.974Z,@twinsearth/dsh-experimental-ralph-bundle,3.5.0,twinsearth,MIT,202533,Run explicitly requested repeated work with fresh agents.
+2026-11-16T02:17:28.201Z,@twinsearth/dsh-experimental-session-search,3.5.0,twinsearth,MIT,204705,Give agents tools to search and read earlier sessions from the current workspace.
+2026-11-16T02:17:28.368Z,@twinsearth/dsh-experimental-session-titles-bundle,3.5.0,twinsearth,MIT,124929,Refresh session titles as new human prompts arrive.
+2026-11-16T02:17:29.022Z,@twinsearth/dsh-session-title-all-prompts-llm,3.5.0,twinsearth,MIT,28659,All-user-messages LLM provider plugin for DeepSeek Harness session titles
+2026-11-16T02:17:30.395Z,@twinsearth/dsh-terminal-bash,3.5.0,twinsearth,MIT,79894,Persistent shell PTY backend over the DeepSeek Harness subprocess terminal primitive
+2026-11-16T02:17:30.815Z,@twinsearth/dsh-terminal,3.5.0,twinsearth,MIT,50546,"Persistent PTY session seam for the DeepSeek Harness — owner-scoped ids, backend registry, interactive sends, reads, signals, and awaited cleanup"
+2026-11-16T02:17:36.136Z,@nopilot/cron-engine,1.0.0,latbert,MIT,15616,"Deterministic cron toolkit: parse/validate, next-N trigger computation (5 & 6-field), human-readable explanations (en/zh), cross-timezone next-fire. Pure local computation, zero network."
+2026-11-16T02:17:38.934Z,@twinsearth/dsh-tool-terminal,3.5.0,twinsearth,MIT,52672,Six model-facing persistent PTY tools with owner isolation and generic background-job integration
+2026-11-16T02:17:39.158Z,@twinsearth/dsh-experimental-terminal-bundle,3.5.0,twinsearth,MIT,189492,Keep shell processes alive across tool calls.
+2026-11-16T02:17:39.197Z,@twinsearth/dsh-experimental-inspector,3.5.0,twinsearth,MIT,23718713,Experimental cross-realm CDP hub for Host debugging and Client Runtime inspection
+2026-11-16T02:17:39.786Z,@twinsearth/dsh-experimental-tool-worktree,3.5.0,twinsearth,MIT,201485,Model tool that creates and enters a new Git worktree
+2026-11-16T02:17:40.227Z,@twinsearth/dsh-experimental-speech-to-text,3.5.0,twinsearth,MIT,40216,Experimental speech recognition with independently selectable providers
+2026-11-16T02:17:40.387Z,@twinsearth/dsh-experimental-api-speech-to-text,3.5.0,twinsearth,MIT,105231,Authenticated experimental speech transcription for browser clients
+2026-11-16T02:17:46.374Z,@twinsearth/dsh-experimental-client-ui-voice-input,3.5.0,twinsearth,MIT,234747,Record speech and insert editable text into the conversation draft
+2026-11-16T02:17:46.449Z,@twinsearth/dsh-experimental-speech-to-text-sensevoice,3.5.0,twinsearth,MIT,75141,Local SenseVoice ONNX transcription with a managed sherpa-onnx process
+2026-11-16T02:17:48.732Z,@twinsearth/dsh-persona,3.5.0,twinsearth,MIT,24246,Composition-authored deployment persona section for the DeepSeek Harness
+2026-11-16T02:17:49.001Z,@twinsearth/dsh-experimental-voice-input-bundle,3.5.0,twinsearth,MIT,163373,Experimental voice input with local SenseVoice; downloads its runtime on first use
+2026-11-16T02:17:49.03Z,@twinsearth/dsh-headless,3.5.0,twinsearth,MIT,93848,"The dsh one-shot bundle: a direct core Agent/Session runner over dsh-base with no Host, HTTP, or browser layer"
+2026-11-16T02:17:49.235Z,@twinsearth/dsh-action-cards,3.5.0,twinsearth,MIT,170880,"Optional action cards below answers: one shared proposal tool, card state, user actions and status notices"
+2026-11-16T02:17:53.706Z,@twinsearth/dsh-client-ui-action-cards,3.5.0,twinsearth,MIT,62005,"Action cards below completed answers: the shared card frame, kind bodies and the compact tool row"
+2026-11-16T02:17:53.867Z,@twinsearth/dsh-client-ui-creation-recommendations,3.5.0,twinsearth,MIT,66518,"Body of the personalized page card: location choice, creation progress, Keep, Undo and Restore"
+2026-11-16T02:17:57.387Z,@twinsearth/dsh-creation-recommendations,3.5.0,twinsearth,MIT,115689,Create persistent removable interface plugins from explicit conversation needs
+2026-11-16T02:17:57.78Z,@twinsearth/dsh-plugin-recommendations,3.5.0,twinsearth,MIT,121708,Official plugin suggestions with explicit user activation and persistent conversation decisions
+2026-11-16T02:17:57.824Z,@twinsearth/dsh-client-ui-plugin-recommendations,3.5.0,twinsearth,MIT,61592,Official plugin card body with catalog text and enabling
+2026-11-16T02:17:58.425Z,@twinsearth/dsh-personalized-recommendations,3.5.0,twinsearth,MIT,436971,Personalized pages and built-in plugin recommendations offered as cards below answers
+2026-11-16T02:17:59.057Z,@ftai-commons/open-design,0.1.0,ftai-admin,Apache-2.0,166950,Runs Open Design on this computer with FtAi Desktop as its local AI.
+2026-11-16T02:18:01.938Z,@twinsearth/dsh-client-file-upload,3.5.0,twinsearth,MIT,163180,"Agent-scoped browser file upload, streaming intake, and staged receipt service"
+2026-11-16T02:18:03.175Z,@twinsearth/dsh-client-connection,3.5.0,twinsearth,MIT,212964,Authenticated RPC transport and generation lifecycle
+2026-11-16T02:18:03.407Z,@nopilot/tz-engine,1.0.0,latbert,MIT,25877,"Deterministic timezone toolkit: instant & wall-clock conversion with DST gap/overlap classification, per-year DST transition lists, cross-timezone meeting-window search. Pure local computation, zero…"
+2026-11-16T02:18:05.299Z,@twinsearth/dsh-file-reference,3.5.0,twinsearth,MIT,26037,File-reference discovery contract and shared @file grammar
+2026-11-16T02:18:06.307Z,@twinsearth/dsh-util-workspace-path,3.5.0,twinsearth,MIT,25839,Browser-safe Workspace path and display helpers
+2026-11-16T02:18:08.445Z,@twinsearth/dsh-api-session-controller,3.5.0,twinsearth,MIT,1534351,"Session Remote commands, cold reads, and live control transport"
+2026-11-16T02:18:09.524Z,@twinsearth/dsh-native-command,3.5.0,twinsearth,MIT,118519,"Host-native command and path-opening utilities with shell-free execution, cancellation, desktop detection, and WSL handoff"
+2026-11-16T02:18:10.892Z,@twinsearth/dsh-schedule,3.5.0,twinsearth,MIT,1027292,Host-wide durable reminders with shared management and delivery to existing or new Sessions
+2026-11-16T02:18:11.381Z,@twinsearth/dsh-deliverable-file-references,3.5.0,twinsearth,MIT,16624,Shared model guidance for file links and deliverables across DeepSeek Harness hosts
+2026-11-16T02:18:13.241Z,@twinsearth/dsh-file-reference-local,3.5.0,twinsearth,MIT,64139,Local-filesystem ctx.fileReferences provider with bounded fuzzy indexes
+2026-11-16T02:18:13.509Z,@twinsearth/dsh-sdk-protocol,3.5.0,twinsearth,MIT,55125,"Shared wire protocol for the DeepSeek Harness SDK runtime: the newline-delimited JSON-RPC stdio transport and the named request, result, and notification types spoken between the runtime server and S…"
+2026-11-16T02:18:15.378Z,@twinsearth/dsh-sdk-jsonrpc-server,3.5.0,twinsearth,MIT,102246,Stdio JSON-RPC server plugin for out-of-process DeepSeek Harness SDK clients
+2026-11-16T02:18:16.478Z,@twinsearth/dsh-skill-office,3.5.0,twinsearth,MIT,48275,"Bundled Word, PowerPoint, and Excel workflows and LibreOffice Kit operations"
+2026-11-16T02:18:19.391Z,@twinsearth/dsh-time-context,3.5.0,twinsearth,MIT,42437,Durable per-step context with the current time and elapsed time
+2026-11-16T02:18:19.885Z,@twinsearth/dsh-tool-schedule,3.5.0,twinsearth,MIT,50976,"Model-facing scheduled task tools (schedule_create, schedule_list, schedule_view, schedule_edit) over the Host ctx.schedule service"
+2026-11-16T02:18:20.175Z,@twinsearth/dsh-tool-ask-user,3.5.0,twinsearth,MIT,37199,Model-facing ask_user_question tool over the ctx.userQuestions seam
+2026-11-16T02:18:21.148Z,@twinsearth/dsh-tool-workspace-dependencies,3.5.0,twinsearth,MIT,39020,"The load_workspace_dependencies tool: absolute paths into a bundled Python, Node.js, and pnpm payload"
+2026-11-16T02:18:23.86Z,@twinsearth/dsh-tool-bash-persistent,3.5.0,twinsearth,MIT,46531,Model-facing owner-scoped persistent Bash tool backed by the Harness PTY service
+2026-11-16T02:18:24.905Z,@twinsearth/dsh-sdk-app,3.5.0,twinsearth,MIT,29304,The dsh SDK profile bundle: stdio JSON-RPC serving and process lifecycle over dsh-base
+2026-11-16T02:18:26.217Z,@nopilot/cron-mcp,1.0.0,latbert,MIT,8755,"Local-first MCP server for deterministic cron work: validate expressions, compute next fire times in any timezone, explain cron in English/Chinese. stdio + Streamable HTTP. Zero network, zero LLM."
+2026-11-16T02:18:27.222Z,@twinsearth/dsh-tool-pwsh-persistent,3.5.0,twinsearth,MIT,51756,Model-facing owner-scoped persistent PowerShell tool backed by the Harness PTY service
+2026-11-16T02:18:27.81Z,@twinsearth/dsh-sdk-minimal,3.5.0,twinsearth,MIT,25991,"The standalone minimal SDK profile bundle: JSON-RPC, one DeepSeek adapter, persistent shell, and JSONL sessions"
+2026-11-16T02:18:29.77Z,@twinsearth/dsh-session-reference,3.5.0,twinsearth,MIT,184724,Cross-session snapshot references and durable untrusted model context (ctx.sessionReferenceResolver)
+2026-11-16T02:18:30.189Z,@twinsearth/dsh-subagent-claude-code,3.5.0,twinsearth,MIT,66783,One-shot Claude Code subagent provider over the official Agent SDK
+2026-11-16T02:18:31.26Z,@twinsearth/dsh-subagent-codex,3.5.0,twinsearth,MIT,77887,One-shot Codex subagent provider over the official app-server protocol
+2026-11-16T02:18:32.313Z,@twinsearth/dsh-tmux-context,3.5.0,twinsearth,MIT,119012,Opt-in durable per-step context with this agent's tmux pane and window location
+2026-11-16T02:18:35.484Z,@nopilot/tz-mcp,1.0.0,latbert,MIT,11408,"Local-first MCP server for deterministic timezone math: instant & wall-clock conversion with DST gap/overlap classification, per-year DST transition lists, cross-timezone meeting-window search. stdio…"
+2026-11-16T02:18:35.974Z,@twinsearth/dsh-tool-cordis,3.5.0,twinsearth,MIT,818888,Read-only runtime API inspection for Harness plugin development
+2026-11-16T02:18:37.142Z,@twinsearth/dsh-api-account-controller,3.5.0,twinsearth,MIT,134728,Expose safe account operations over authenticated Remote
+2026-11-16T02:18:37.14Z,@twinsearth/dsh-cordis-host-runner,3.5.0,twinsearth,MIT,626105,"Dynamic package definition registry, host-half sandbox lifecycle, and invoke handler table for model-mounted dual-half packages"
+2026-11-16T02:18:37.783Z,@twinsearth/dsh-tool-str-replace-editor,3.5.0,twinsearth,MIT,40822,"Model-facing view, create, literal replace, and line insert tool over the Harness filesystem service"
+2026-11-16T02:18:39.962Z,@twinsearth/dsh-api-remotes,3.5.0,twinsearth,MIT,1439427,Remote BFF assembly for application-selected Host capabilities
+2026-11-16T02:18:40.704Z,@twinsearth/dsh-api-job-controller,3.5.0,twinsearth,MIT,155931,Job Remote observation stream and the reference-counted client job-output service
+2026-11-16T02:18:42.943Z,@twinsearth/dsh-api-settings-controller,3.5.0,twinsearth,MIT,161938,Remote owner for the configuration surfaces over the settings-domain seams
+2026-11-16T02:18:46.391Z,@twinsearth/dsh-api-terminal-controller,3.5.0,twinsearth,MIT,365844,"Session-owned interactive terminals with shell discovery, screen recovery and typed Remote control"
+2026-11-16T02:18:46.827Z,@twinsearth/dsh-api-workspace-controller,3.5.0,twinsearth,MIT,314968,Workspace Remote commands and reconnect-safe state transport
+2026-11-16T02:18:47.021Z,@twinsearth/dsh-host-directory-picker,3.5.0,twinsearth,MIT,27530,Abstract workspace-directory picking seam (ctx.directoryPicker) for the DeepSeek Harness web GUI host
+2026-11-16T02:18:48.223Z,@twinsearth/dsh-client-hmr,3.5.0,twinsearth,MIT,41969,Web client graph synchronization and rebuilt-bundle reload transport
+2026-11-16T02:18:48.81Z,@twinsearth/dsh-api-workspace-files,3.5.0,twinsearth,MIT,236861,"Workspace file service and Client resource provider: bounded reads, directory listing, and live metadata over the workspaceFiles Remote namespace"
+2026-11-16T02:18:53.12Z,@twinsearth/dsh-client-locale,3.5.0,twinsearth,MIT,129837,"Locale plugin: Host-backed preference, extensible language catalog, browser fallback, and typed built-in dictionaries"
+2026-11-16T02:18:54.607Z,@twinsearth/dsh-client-resources,3.5.0,twinsearth,MIT,31556,"Unified client resource model: protocol-registered providers turn URL addresses into live values, consumed through the useResource global standard hook"
+2026-11-16T02:18:54.683Z,@twinsearth/dsh-client-product-analytics,3.5.0,twinsearth,MIT,101151,Desktop product event collection and authenticated Host reporting
+2026-11-16T02:18:54.844Z,@twinsearth/dsh-client-modules,3.5.0,twinsearth,MIT,188943,"Client module system, dual-face: node half composes the __DSH_BOOT__ entry graph (incremental dsh.client scan, bundle route, index tap, webPlugins service); browser half is the lazy-CJS module table…"
+2026-11-16T02:18:55.941Z,@twinsearth/dsh-client-shortcuts,3.5.0,twinsearth,MIT,176807,Application keyboard command registry and physical-key routing
+2026-11-16T02:18:56.636Z,@twinsearth/dsh-client-ui-approval,3.5.0,twinsearth,MIT,40676,Approval composer takeover over the scoped Remote Event waterfall
+2026-11-16T02:19:04.342Z,@twinsearth/dsh-client-ui-brand-official,3.5.0,twinsearth,MIT,17318,Official DeepSeek Harness brand occupants for the Web client's sidebar slots
+2026-11-16T02:19:04.502Z,@twinsearth/dsh-client-ui-commands,3.5.0,twinsearth,MIT,157296,"Client command surface: global directory cache, '/' source, three command UI kinds, popupSelect registry"
+2026-11-16T02:19:05.95Z,@twinsearth/dsh-client-ui-context-menu,3.5.0,twinsearth,MIT,90008,"Typed, plugin-extensible context menus with captured targets and shared Web presentation"
+2026-11-16T02:19:06.313Z,@twinsearth/dsh-client-ui-attachment,3.5.0,twinsearth,MIT,136235,"Dynamic attachment presentation plugin for conversation input, message-image, and trajectory image slots"
+2026-11-16T02:19:07.917Z,@twinsearth/dsh-client-ui-chat,3.5.0,twinsearth,MIT,1051476,"Chat Conversation target, node definitions, renderers, and details surface"
+2026-11-16T02:19:11.163Z,@twinsearth/dsh-client-ui-directory-picker-browse,3.5.0,twinsearth,MIT,75100,In-app directory browsing surface: the workspace directory-flow owner rendering the host's listing and creation primitives
+2026-11-16T02:19:11.63Z,@twinsearth/dsh-client-ui-deliverables,3.5.0,twinsearth,MIT,239151,"Changed-files card with per-file comparison tabs, delivery cards, and clickable final-response file references for Web"
+2026-11-16T02:19:13.313Z,@twinsearth/dsh-client-ui-entry-customization,3.5.0,twinsearth,MIT,32251,"Customize plugin entries in the left sidebar, conversation views, and right sidebar, and quickly create new plugins."
+2026-11-16T02:19:14.064Z,@twinsearth/dsh-client-ui-directory-picker-native,3.5.0,twinsearth,MIT,22021,Native directory-picker surface: the renderless workspace directory-flow occupant driving the local Desktop or Host OS chooser
+2026-11-16T02:19:14.388Z,@twinsearth/dsh-client-ui-conversation,3.5.0,twinsearth,MIT,1394981,"Target-neutral Conversation assembly, shell, composer, queue, and view navigation"
+2026-11-16T02:19:16.948Z,@twinsearth/dsh-client-ui-file-actions,3.5.0,twinsearth,MIT,93923,Original-file saving and image clipboard actions for Web and Desktop
+2026-11-16T02:19:18.207Z,@twinsearth/dsh-client-ui-file-drag,3.5.0,twinsearth,MIT,80387,Application-owned file drag transfers and localized failure feedback
+2026-11-16T02:19:18.632Z,@twinsearth/dsh-client-ui-goal,3.5.0,twinsearth,MIT,64401,"Session goal surface: GoalBar docked above the composer, read from the goal session projection"
+2026-11-16T02:19:21.614Z,@twinsearth/dsh-client-ui-jobs,3.5.0,twinsearth,MIT,76730,Session-header background-job list with on-demand streaming record panels
+2026-11-16T02:19:22.565Z,@twinsearth/dsh-client-ui-input-trigger,3.5.0,twinsearth,MIT,142181,"Input trigger pipeline: '/' and '@' detection, candidate menu, pick routing to registered sources"
+2026-11-16T02:19:22.609Z,@twinsearth/dsh-client-ui-layout,3.5.0,twinsearth,MIT,90454,"Shell plugin: three-column AppFrame with drag handles, ctx.layout viewing-state service (navigation + panels)"
+2026-11-16T02:19:24.979Z,@twinsearth/dsh-client-ui-message-feedback,3.5.0,twinsearth,MIT,90210,"The Web feedback surface: per-message Like/Dislike in the assistant-message action strip and the feedback dialog behind both ratings and /feedback, backed by the messageFeedback and sessionFeedback H…"
+2026-11-16T02:19:25.203Z,@twinsearth/dsh-client-ui-model-selection,3.5.0,twinsearth,MIT,143049,"Model selection over the shared model catalog, Session projection, and session.selectModel"
+2026-11-16T02:19:28.27Z,@twinsearth/dsh-client-ui-open-in-app,3.5.0,twinsearth,MIT,128471,"Web ""Open In..."" controls: the Session-header split button opening the workspace directory in an installed application, and the document preview's default-application controls for one file"
+2026-11-16T02:19:31.695Z,@twinsearth/dsh-client-ui-permission-presets,3.5.0,twinsearth,MIT,96966,Permission surfaces: a new-session default in General settings and a current-session /permission popup over the permissions projection
+2026-11-16T02:19:31.776Z,@twinsearth/dsh-client-ui-plugin-manager,3.5.0,twinsearth,MIT,673403,"Plugin management for the dsh web client: the sidebar Plugins panel installs, enables, disables, retries, and composes installed plugin packages"
+2026-11-16T02:19:31.901Z,@twinsearth/dsh-client-ui-plan,3.5.0,twinsearth,MIT,76932,"Plan mode controls, persistent transcript plan cards, and sidebar Markdown previews"
+2026-11-16T02:19:32.829Z,@twinsearth/dsh-client-ui-renderer,3.5.0,twinsearth,MIT,115464,"Browser UI renderer: React slot bindings, ctx.uiRenderer, and the assembled application root"
+2026-11-16T02:19:34.019Z,@twinsearth/dsh-client-ui-reference,3.5.0,twinsearth,MIT,54764,Unified Web @file and @session reference source
+2026-11-16T02:19:39.059Z,@twinsearth/dsh-client-ui-schedule,3.5.0,twinsearth,MIT,848203,Host task management page and Session reminder catalog
+2026-11-16T02:19:40.256Z,@twinsearth/dsh-client-ui-secret-mask,3.5.0,twinsearth,MIT,64290,Web display masking for recognized credentials in sent user text
+2026-11-16T02:19:41.241Z,@twinsearth/dsh-client-ui-settings,3.5.0,twinsearth,MIT,112575,Settings domain base plugin: shared configuration forms and the canonical settings slot-type contract
+2026-11-16T02:19:42.188Z,@twinsearth/dsh-client-ui-session,3.5.0,twinsearth,MIT,63808,Session Controller adapter for React and session-scoped slots
+2026-11-16T02:19:42.8Z,@twinsearth/dsh-client-ui-settings-agent-loop,3.5.0,twinsearth,MIT,32470,Settings page of the agent loop on the dsh web client's Plugins page: the parallel tool-call cap of the agent-loop namespace
+2026-11-16T02:19:44.534Z,@twinsearth/dsh-client-ui-settings-account,3.5.0,twinsearth,MIT,2801712,Manage DeepSeek login and open Platform billing pages
+2026-11-16T02:19:48.544Z,@twinsearth/dsh-client-ui-settings-models,3.5.0,twinsearth,MIT,427248,Models settings and shared product-onboarding dialogs over existing settings and credential joins
+2026-11-16T02:19:48.653Z,@twinsearth/dsh-client-ui-settings-general,3.5.0,twinsearth,MIT,162662,"Settings ownerless-copy and product onboarding plugin: the General section, shell trigger/header chrome content, settings dictionaries, and the versioned welcome notice"
+2026-11-16T02:19:50.522Z,@twinsearth/dsh-client-ui-settings-plugin-inventory,3.5.0,twinsearth,MIT,88769,Read-only Cordis Loader inventory tab in Web Plugins settings
+2026-11-16T02:19:50.729Z,@twinsearth/dsh-client-ui-settings-session-log,3.5.0,twinsearth,MIT,24461,General settings control for Session-log upload with DeepSeek API requests
+2026-11-16T02:19:51.534Z,@twinsearth/dsh-client-ui-settings-shell,3.5.0,twinsearth,MIT,35746,Settings page of the shell executor on the dsh web client's Plugins page: the command timeout and the per-stream output cap of the shell namespace
+2026-11-16T02:19:51.687Z,@twinsearth/dsh-client-ui-settings-plugins,3.5.0,twinsearth,MIT,29679,Built-in plugins settings section for the dsh web client: the Settings navigation entry and the tab chrome feature-owned tabs register into
+2026-11-16T02:19:55.653Z,@twinsearth/dsh-client-ui-settings-web-search,3.5.0,twinsearth,MIT,74686,"Settings page of the DeepSeek web-search provider on the dsh web client's Plugins page: its API key, endpoint, and per-request search budget"
+2026-11-16T02:19:55.989Z,@twinsearth/dsh-client-ui-settings-subagent,3.5.0,twinsearth,MIT,98162,"Settings page of Subagent delegation on the dsh web client's Plugins page: recursion depth, parallel capacity, and the models agents may choose for subagents"
+2026-11-16T02:19:58.105Z,@twinsearth/dsh-client-ui-shortcuts,3.5.0,twinsearth,MIT,122969,"Keyboard shortcut reference, recording, and local preference editing"
+2026-11-16T02:20:00.416Z,yingmi-skills-cli,0.0.19,chriswang3,MIT,101195,<!-- 本文件由 npm run readme:sync 自动生成，请优先修改 scripts/sync-readme.cjs --> # `yingmi-skills-cli`
+2026-11-16T02:20:03.66Z,@twinsearth/dsh-client-ui-sidebar-browser,3.5.0,twinsearth,MIT,136077,Sandboxed Web browser tabs for the right Sidebar
+2026-11-16T02:20:03.854Z,@twinsearth/dsh-client-ui-sidebar,3.5.0,twinsearth,MIT,94984,"Sidebar plugin: session multi-level tree, search, grouping, state dots"
+2026-11-16T02:20:08.413Z,@twinsearth/dsh-client-ui-sidebar-right,3.5.0,twinsearth,MIT,406562,"Right Sidebar: the docking surface's session-bound state, its panel and header expand control, and the navigation service over it"
+2026-11-16T02:20:10.014Z,@twinsearth/dsh-client-ui-sidebar-files,3.5.0,twinsearth,MIT,178221,"The workspace files page and one workspace directory tree per pane beside docked and floating file previews, listed lazily over the workspaceFiles Remote namespace"
+2026-11-16T02:20:10.566Z,@twinsearth/dsh-client-ui-sidebar-documentpreview,3.5.0,twinsearth,MIT,14892448,"Extensible Sidebar previews for Office documents, spreadsheets, Markdown, code, images, PDF, HTML, and plain text"
+2026-11-16T02:20:13.309Z,@he110/deepseek-mcp,0.1.2,he110te4m,,30038,MCP server for DeepSeek's official Search and Fetch APIs
+2026-11-16T02:20:14.862Z,@twinsearth/dsh-client-ui-skill,3.5.0,twinsearth,MIT,60011,Web skill references and the dedicated skill tool row
+2026-11-16T02:20:15.019Z,@twinsearth/dsh-client-ui-subagent,3.5.0,twinsearth,MIT,112044,"Subagent conversation catalog, continuation routing UI, and '@' reference source"
+2026-11-16T02:20:15.803Z,@twinsearth/dsh-client-ui-sidebar-terminal,3.5.0,twinsearth,MIT,754147,Interactive shell tabs for the right Sidebar
+2026-11-16T02:20:21.411Z,@twinsearth/dsh-client-ui-theme,3.5.0,twinsearth,MIT,423022,Theme plugin: Host bootstrap for the pre-plugin palette; ThemeRuntime for light/dark/system state and icon replacements; --dsw-* token styles and Appearance settings row
+2026-11-16T02:20:22.226Z,@twinsearth/dsh-client-ui-tool,3.5.0,twinsearth,MIT,310481,Client Tool call-tree renderer and keyed per-tool presentation slot
+2026-11-16T02:20:25.062Z,@twinsearth/dsh-client-ui-trajectory,3.5.0,twinsearth,MIT,615469,Trajectory event ledger and timing overview with live tool-result inspection
+2026-11-16T02:20:25.943Z,@twinsearth/dsh-client-ui-workflow-run,3.5.0,twinsearth,MIT,63503,Durable workflow-run Conversation Node and nested member disclosure for dsh web
+2026-11-16T02:20:27.047Z,@twinsearth/dsh-client-ui-user-questions,3.5.0,twinsearth,MIT,175636,Web ask_user_question composer takeover and plan-review presentation UI
+2026-11-16T02:20:31.874Z,@twinsearth/dsh-harness-dev-context,3.5.0,twinsearth,MIT,32429,Model context naming the DeepSeek Harness checkout and Web GUI URL without letting either change the system prompt
+2026-11-16T02:20:34.038Z,@twinsearth/dsh-host-directory-picker-browse,3.5.0,twinsearth,MIT,34021,In-app browsing backend of the directory-picker seam (listing/creation primitives over the host filesystem)
+2026-11-16T02:20:34.558Z,@twinsearth/dsh-client-ui-workspace,3.5.0,twinsearth,MIT,485521,Workspace picker plugin: one WorkspacePicker registered into the sidebar and empty-state workspace slots
+2026-11-16T02:20:35.342Z,@twinsearth/dsh-host-directory-picker-native,3.5.0,twinsearth,MIT,57698,Native-OS-chooser backend of the directory-picker seam for the DeepSeek Harness web GUI host
+2026-11-16T02:20:36.252Z,@twinsearth/dsh-host-frontend-static,3.5.0,twinsearth,MIT,29410,"SPA dist server for the Web shell: owns the webserver fallback seat, serving explicit index entries and static assets with traversal rejection and 404 misses"
+2026-11-16T02:20:37.035Z,@twinsearth/dsh-host-directory-picker-auto,3.5.0,twinsearth,MIT,36222,Adaptive chooser of the directory-picker seam: resolves the host situation at boot and mounts the native or browse backend for the DeepSeek Harness web GUI host
+2026-11-16T02:20:37.987Z,@twinsearth/dsh-host-open-in-app,3.5.0,twinsearth,MIT,159503,"Host half of open-in-app: resolved application catalog, icons, and the launch endpoint as three webServer routes"
+2026-11-16T02:20:39.78Z,@twinsearth/dsh-host-product-telemetry-otel,3.5.0,twinsearth,MIT,23341,Explicit product usage events exported through OpenTelemetry HTTP logs
+2026-11-16T02:20:41.682Z,@twinsearth/dsh-message-quotes,3.5.0,twinsearth,MIT,24217,Selected-text quotation and Markdown blockquote presentation
+2026-11-16T02:20:43.879Z,@twinsearth/dsh-office-to-pdf,3.5.0,twinsearth,MIT,120273,Shared Office-to-PDF conversion with bounded queues and caching
+2026-11-16T02:20:44.344Z,@twinsearth/dsh-session-log-export,3.5.0,twinsearth,MIT,130797,Web Session-log ZIP export and Session Markdown copy
+2026-11-16T02:20:44.404Z,@twinsearth/dsh-session-stats,3.5.0,twinsearth,MIT,45374,Whole-log conversation counts and wall times projection (sessionStats) for the DeepSeek Harness
+2026-11-16T02:20:45.216Z,@twinsearth/dsh-session-turn-outline,3.5.0,twinsearth,MIT,39938,Whole-log turn outline projection (turnOutline) for the DeepSeek Harness
+2026-11-16T02:20:53.147Z,@twinsearth/dsh-web-app,3.5.0,twinsearth,MIT,116549,"The dsh browser-surface bundle: the web patch layer over dsh-base plus the runtime glue plugin (frontend dist serving, bash runtime variables, URL line)"
+2026-11-16T02:20:53.211Z,@twinsearth/dsh-web-frontend,3.5.0,twinsearth,MIT,5589780,Web application entry: vite build over the @twinsearth/dsh-client-web shell library; dist/ served by apps/cli's dsh web
+2026-11-16T02:20:53.556Z,@twinsearth/dsh-agent-loop-testkit,3.5.0,twinsearth,MIT,30307,"Prerequisite mounting, production AgentLoop drivers, and Inbox stubs for tests"
+2026-11-16T02:20:53.65Z,@twinsearth/dsh-workspace-changes,3.5.0,twinsearth,MIT,139332,"Per-turn workspace file changes recorded from git working-tree snapshots and whole-file captures, with per-file comparisons, for the DeepSeek Harness"
+2026-11-16T02:20:54.883Z,@twinsearth/dsh-browser-use,3.5.0,twinsearth,MIT,16089,Exclusive named browser-use provider registration
+2026-11-16T02:20:56.38Z,@twinsearth/dsh,3.5.0,twinsearth,MIT,75610,"dsh CLI: profile launch, plugin management, and configuration inspection"
+2026-11-16T02:21:00.34Z,@twinsearth/dsh-client-ui-slots,3.5.0,twinsearth,MIT,108015,"Slot registry pure core: typed ordinary Slots and reusable Component Factories, derived props, Store seats, and renderer installation"
+2026-11-16T02:21:01.105Z,@twinsearth/dsh-client-store,3.5.0,twinsearth,MIT,25587,React-free observable and snapshot-store contracts with the shared Zustand/Immer engine
+2026-11-16T02:21:01.652Z,@twinsearth/dsh-remote-mock,3.5.0,twinsearth,MIT,74190,"Endpoint-named mock for Typert Remote traffic: unary answers and stream scripts per <namespace>/<method>, live stream control, a log, and the Connection carrier face whole-client specs install"
+2026-11-16T02:21:02.548Z,@twinsearth/dsh-client-test-runtime,3.5.0,twinsearth,MIT,163940,"Browser test runtimes: a jsdom slot bench with test-owned Session and Workspace doubles, and a whole-client tier that boots the web roster through the production bootClient over an endpoint-named Rem…"
+2026-11-16T02:21:05.262Z,@twinsearth/dsh-client-web,3.5.0,twinsearth,MIT,71313,"Web boot kernel: static module table, Cordis loader, framework-free boot page, and UI-renderer handoff"
+2026-11-16T02:21:06.451Z,@twinsearth/dsh-client-ui-dockkit,3.5.0,twinsearth,MIT,286017,"Docking layout kit: split-tree engine with invertible operations, and the React components that render and drive it (zero cordis)"
+2026-11-16T02:21:08.685Z,@twinsearth/dsh-experimental-browser-use-runtime,3.5.0,twinsearth,MIT,47296,Session-owned browser resource lifecycles and MCP integration for experimental providers
+2026-11-16T02:21:09.686Z,@twinsearth/dsh-experimental-browser-use-chrome-devtools-mcp,3.5.0,twinsearth,MIT,22169,Experimental per-Session Chromium browser tools through chrome-devtools-mcp
+2026-11-16T02:21:11.736Z,@twinsearth/dsh-client-ui-primitives,3.5.0,twinsearth,MIT,1068840,"Pure React atoms for the dsh web UI: controls, icons, markdown, and JSON inspectors (zero cordis)"
+2026-11-16T02:21:11.995Z,@twinsearth/dsh-experimental-browser-use-playwright-mcp,3.5.0,twinsearth,MIT,22031,Experimental per-Session Chromium browser tools through @playwright/mcp
+2026-11-16T02:21:13.292Z,@twinsearth/dsh-experimental-browser-use-stagehand-native,3.5.0,twinsearth,MIT,64599,Experimental Stagehand browser tools with separately configured native models
+2026-11-16T02:21:16.863Z,@twinsearth/dsh-experimental-claude-code-mods,3.5.0,twinsearth,MIT,434439,Experimental bridge: load Claude Code mods (hooks modules) and run their hook chains on DeepSeek Harness extension points
+2026-11-16T02:21:17.149Z,@twinsearth/dsh-experimental-client-ui-claude-code-mods,3.5.0,twinsearth,MIT,50632,Web band above the prompt for Claude Code mods: draws each session's mod tree and sends button presses back to the bridge
+2026-11-16T02:21:19.489Z,@twinsearth/dsh-experimental-computer-use-cua-driver-mcp,3.5.0,twinsearth,MIT,23459,Experimental computer use through an installed Cua Driver MCP executable
+2026-11-16T02:21:19.536Z,react-pinyin-virtual-keyboard,0.1.0,wangwei1992,MIT,31234,React 虚拟键盘，内置 Google 拼音联想词库
+2026-11-16T02:21:19.841Z,@twinsearth/dsh-experimental-computer-use-cua-driver-native,3.5.0,twinsearth,MIT,30691,Experimental computer-use provider embedding the Cua Driver native npm SDK
+2026-11-16T02:21:20.141Z,@twinsearth/dsh-experimental-ptc-runtime-python,3.5.0,twinsearth,MIT,295712,CPython subprocess implementation of the DeepSeek Harness PTC execution seam
+2026-11-16T02:21:22.235Z,@twinsearth/dsh-experimental-subagent-oar,3.5.0,twinsearth,MIT,608273,Experimental one-shot subagents through OAR runtimes
+2026-11-16T02:21:24.68Z,@twinsearth/dsh-experimental-tool-subagent-oar,3.5.0,twinsearth,MIT,20571,Delegate standalone tasks to configured external subagent providers
+2026-11-16T02:21:27.764Z,@twinsearth/dsh-experimental-webworker-runtime,3.5.0,twinsearth,MIT,1231931,"Browser-only harness runtime: in-memory VFS, module transform and loader, postMessage tunnel, and the dedicated Web Worker assembly, with the Node-compatibility layer that lets the host tree run unch…"
+2026-11-16T02:21:28.65Z,@twinsearth/dsh-experimental-webworker-packer,3.5.0,twinsearth,MIT,90739,Build-time packer for the browser runtime's base VFS image and ordered data-overlay archives
+2026-11-16T02:21:28.71Z,@twinsearth/dsh-fs-ssh,3.5.0,twinsearth,MIT,19199,Filesystem provider over the shared POSIX SSH helper
+2026-11-16T02:21:29.808Z,@twinsearth/dsh-ssh,3.5.0,twinsearth,MIT,110796,Shared OpenSSH connection and versioned POSIX remote helper
+2026-11-16T02:21:30.979Z,@twinsearth/dsh-hook-protocol,3.5.0,twinsearth,MIT,63590,"Shared Claude Code / Codex hook wire protocol: matcher engine, stdin/exit-code/stdout codec, multi-hook merge, and hook/* session events"
+2026-11-16T02:21:31.929Z,@twinsearth/dsh-hooks-claude-code,3.5.0,twinsearth,MIT,60805,Bridge plugin: run a Claude Code hooks.json / settings hook config on the DeepSeek Harness interception seams
+2026-11-16T02:21:35.986Z,@twinsearth/dsh-llm-mock-server,3.5.0,twinsearth,MIT,51235,Scriptable Messages HTTP/SSE fault server for LLM recovery tests
+2026-11-16T02:21:36.158Z,@twinsearth/dsh-llm-replay,3.5.0,twinsearth,MIT,82637,Replay LLM plugin: short-circuits llm/stream with model chunks reconstructed from a recorded session JSONL (keyless snapshot tests)
+2026-11-16T02:21:37.623Z,@twinsearth/dsh-hooks-codex,3.5.0,twinsearth,MIT,50139,Bridge plugin: run a Codex hooks.json hook config on the DeepSeek Harness interception seams
+2026-11-16T02:21:38.096Z,@twinsearth/dsh-loader-smoke,3.5.0,twinsearth,MIT,38320,Shared subprocess and direct-agent harness for keyless real-Loader example smoke tests
+2026-11-16T02:21:38.11Z,@twinsearth/dsh-lsp,3.5.0,twinsearth,MIT,37434,"Abstract LSP capability seam (ctx.lsp) for the DeepSeek Harness — language-server provider registry keyed by branded id and extension mapping, order-independent per-query selection, normalized defini…"
+2026-11-16T02:21:40.415Z,@twinsearth/dsh-lsp-stdio,3.5.0,twinsearth,MIT,102446,"Generic stdio language-server provider for the DeepSeek Harness LSP capability seam (ctx.lsp) — spawns configured servers, translates JSON-RPC, and serves transient-open goToDefinition/findReferences…"
+2026-11-16T02:21:45.968Z,@twinsearth/dsh-sandbox-ssh,3.5.0,twinsearth,MIT,13252,Remote POSIX sandbox argv provider over the shared SSH helper
+2026-11-16T02:21:47.232Z,@twinsearth/dsh-sdk-client,3.5.0,twinsearth,MIT,111028,TypeScript client SDK for driving a DeepSeek Harness runtime subprocess over stdio JSON-RPC: the DeepSeekHarness high-level turns API and the lower-level HarnessClient
+2026-11-16T02:21:49.499Z,@twinsearth/dsh-session-snapshot,3.5.0,twinsearth,MIT,256245,"Session-log snapshot core with an ACP protocol adapter, expected-output normalization, and fixture invariants"
+2026-11-16T02:21:51.097Z,@twinsearth/dsh-subagent-acp,3.5.0,twinsearth,MIT,57408,Out-of-process ACP subagent backend: drives a child agent in a spawned subprocess over the Agent Client Protocol
+2026-11-16T02:21:51.444Z,@twinsearth/dsh-subagent-dsh-sdk,3.5.0,twinsearth,MIT,58037,Out-of-process SDK subagent backend: drives a child DeepSeek Harness runtime subprocess over stdio JSON-RPC through the TypeScript SDK client
+2026-11-16T02:21:53.117Z,@twinsearth/dsh-storage-sqlite,3.5.0,twinsearth,MIT,46214,SQLite storage backend (kv facet) for the DeepSeek Harness storage hub
+2026-11-16T02:21:54.104Z,@twinsearth/dsh-subprocess-ssh,3.5.0,twinsearth,MIT,29912,Subprocess and terminal provider over the shared POSIX SSH helper
+2026-11-16T02:21:54.691Z,@twinsearth/dsh-tool-lsp,3.5.0,twinsearth,MIT,48881,"Model-facing lsp tool over the DeepSeek Harness LSP capability seam (ctx.lsp) — one read-only tool with goToDefinition/findReferences/goToImplementation/hover operations, one-based UTF-16 cursor coor…"
+2026-11-16T02:21:56.744Z,@twinsearth/dsh-tool-testkit,3.5.0,twinsearth,MIT,14634,Tool definition and execution fixtures for tests and benchmarks
+2026-11-16T02:21:58.131Z,@twinsearth/dsh-util-file-drag,3.5.0,twinsearth,MIT,12181,Shared file drag names and native transfer requests
+2026-11-16T02:21:59.421Z,@twinsearth/dsh-typert-generator,3.5.0,twinsearth,MIT,640794,TypeScript project analyzer and model-driven Typert artifact generator
+2026-11-16T02:22:01.629Z,@twinsearth/dsh-web-search-perplexity,3.5.0,twinsearth,MIT,37636,Perplexity-backed search provider for the DeepSeek Harness web capability seam (ctx.web)
+2026-11-16T02:22:02.684Z,@twinsearth/dsh-web-search-exa,3.5.0,twinsearth,MIT,33559,Exa-backed search provider for the DeepSeek Harness web capability seam (ctx.web)
+2026-11-16T02:22:02.854Z,@twinsearth/dsh-webhook,3.5.0,twinsearth,MIT,53364,Fire-and-forget webhook rule runtime that creates Workspace-backed DeepSeek Harness Sessions
+2026-11-16T02:22:05.094Z,@twinsearth/dsh-webhook-github,3.5.0,twinsearth,MIT,37922,Signed GitHub HTTP webhook adapter for the DeepSeek Harness webhook runtime
+2026-11-16T02:22:14.815Z,@twinsearth/core-dsh-plugin,1.0.0,twinsearth,MIT,79602,DSH Core acceleration engine distribution for DeepSeek Harness
+2026-11-16T02:22:57.691Z,dsh-smartcut,0.2.1,hanfang5057,MIT,685730,"Local-first video editing workbench: timeline, preview, and ffmpeg export inside DSH."
+2026-11-16T02:23:52.932Z,@reneturcios/scoreguide,0.1.0,reneturcios,MIT,42006,"Read the published life-score rulebook, input schema, methodology and feedback guide — forwarded from the hosted LifeScored service. One bin serves a small CLI and the MCP server."
+2026-11-16T02:24:18.505Z,modkh,0.1.0,askdkc,MIT,19301968,MoDKH — Common Lispで担当を定義できるコーディングハーネス
+2026-11-16T02:24:34.106Z,bmapgl-vue,0.1.1,vkuyxu,MIT,783800,基于百度地图 JavaScript GL 版 API 封装的 Vue 3 组件库
+2026-11-16T02:24:58.723Z,@lukexiao/lib,0.0.1,lukexiao,MIT,49584,daisyUI 5 的 Svelte 5 组件封装：只把 prop 组合成 class，不注入任何 CSS。
+2026-11-16T02:25:03.317Z,@gibs/sdk,1.0.0,gibsdev,ISC,58499,SDK for Gib.Show token metadata and image API
+2026-11-16T02:25:07.052Z,@gibs/react,1.0.0,gibsdev,ISC,22557,React components for Gib.Show token images
+2026-11-16T02:27:10.496Z,@qlover/llm,0.3.0,maroonlis,ISC,47522,"Isomorphic OpenAI-compatible LLM client (completions, streaming text/reasoning, optional Node proxy fetch)"
+2026-11-16T02:27:30.592Z,@her-os/dsh-persona,0.1.0,her-developer,MIT,25794,Her 的人格合集：在 DeepSeek Harness 里多出几个可选择的人物。由北京词元共振智能科技有限公司开发。了解 Her：https://hersoul.cn/zh
+2026-11-16T02:29:00.746Z,dsh-model-importer,0.2.4,zzu-general,MIT,54493,"Graphical importer for third-party models: connects Alibaba Bailian (pay-as-you-go, Coding Plan, Token Plan) and writes the picked models into the profile."
+2026-11-16T02:29:13.023Z,@toktikhq/mcp,0.1.0,anhlv141-dev,MIT,35333,"MCP server for the Toktik Developer API: TikTok LIVE rankings, creators, gifters, follow lists, agencies and LIVE Pro data as tools for Claude, Cursor, VS Code and other AI clients"
+2026-11-16T02:29:59.846Z,@lontar/db-postgres,0.0.1-stage,byhandi,MIT,119935,"PostgreSQL database adapter for Lontar, built on Drizzle ORM."
+2026-11-16T02:30:16.636Z,@ucanrun/darwin-arm64,0.13.4,huydnd,MIT,4382650,"The darwin-arm64 build of ucr, for the ucanrun package."
+2026-11-16T02:30:22.265Z,@ucanrun/darwin-x64,0.13.4,huydnd,MIT,5338954,"The darwin-x64 build of ucr, for the ucanrun package."
+2026-11-16T02:30:27.737Z,@ucanrun/linux-arm64,0.13.4,huydnd,MIT,5118502,"The linux-arm64 build of ucr, for the ucanrun package."
+2026-11-16T02:30:33.38Z,@ucanrun/linux-x64,0.13.4,huydnd,MIT,6548582,"The linux-x64 build of ucr, for the ucanrun package."
+2026-11-16T02:30:39.212Z,@ucanrun/win32-x64,0.13.4,huydnd,MIT,3644478,"The win32-x64 build of ucr, for the ucanrun package."
+2026-11-16T02:31:02.076Z,@xrkseek/xrk-phone-bridge,0.7.23,xrkseek,,64032,Remote phone_* bridge (host HTTP + Settings whitelist + materialize tools/prompt)
+2026-11-16T02:31:34.443Z,@reneturcios/edgestudy,0.1.0,reneturcios,MIT,39266,"List the published Edge Lab trading-system research studies — slug, title, published date and URL — forwarded from the hosted Edge Lab service. One bin serves a small CLI and the MCP server."
+2026-11-16T02:33:57.164Z,@apexhub/apex-ui-react,1.2.0,apexhub,MIT,7918956,"Apex UI React components — accessible, composable UI built on Radix UI"
+2026-11-16T02:34:21.062Z,@semi-bot/semi-theme-teyian,1.0.0,semi-bot,MIT,1516439,Semi theme generated by dsm. https://semi.design/dsm
+2026-11-16T02:35:41.912Z,@soffits/dsh-matrix-bot,0.1.0,soffits,MIT,234906,"Matrix bot for DeepSeek Harness: an end-to-end encrypted Matrix account, a private Space per person with one room per DSH session, streamed answers, commands, files, voice messages, tool approvals an…"
+2026-11-16T02:36:01.491Z,@engfinecode/evcode,0.0.1,engfinecode,MIT,115,EVCode
+2026-11-16T02:36:01.653Z,@nopilot/tabular-engine,1.0.0,latbert,MIT,39392,"Deterministic tabular-file engine: CSV/JSONL/xlsx read, validate, schema inference (column names + type distribution), dirty-row location with row numbers, format conversion (csv<->jsonl, xlsx read),…"
+2026-11-16T02:36:05.081Z,@apexhub/apex-ui-react-source,1.2.0,apexhub,MIT,3438420,Apex UI React components as source code — `npx @apexhub/apex-ui-react-source init` copies them into your project
+2026-11-16T02:36:07.893Z,@aiyazone/tokens,0.1.0,aiyazone,,13313,AIYAZONE Design System design tokens (single source of truth)
+2026-11-16T02:36:11.272Z,@nopilot/tabular-mcp,1.0.0,latbert,MIT,11753,"Local-first MCP server for deterministic tabular-file work: inspect CSV/JSONL/xlsx (schema inference, dirty-row reports with row numbers), convert csv<->jsonl and xlsx extraction, stream-sample large…"
+2026-11-16T02:36:19.074Z,@aiyazone/design-system,0.3.1,aiyazone,MIT,950230,AIYAZONE Design System (ZDS) - Monorepo
+2026-11-16T02:36:25.817Z,@nopilot/schema-diff-engine,1.0.0,latbert,MIT,42506,"Deterministic JSON Schema engine: path-level diff between two schema versions, breaking vs non-breaking change classification (required additions, type narrowing, enum removals, minimum tightening, p…"
+2026-11-16T02:36:29.923Z,@nopilot/schema-mcp,1.0.0,latbert,MIT,10499,"Local-first MCP server for deterministic JSON Schema work: path-level diff between two schema versions, breaking vs non-breaking change classification (required additions, type narrowing, enum remova…"
+2026-11-16T02:36:34.715Z,@nopilot/media-meta-engine,1.0.0,latbert,MIT,40269,"Deterministic modern-image metadata reader: EXIF + XMP from HEIC/HEIF/AVIF (ISOBMFF item metadata) and WebP (RIFF chunks). Shared ISOBMFF skeleton, zero runtime dependencies, zero network, zero LLM."
+2026-11-16T02:36:38.783Z,@nopilot/media-meta-mcp,1.0.0,latbert,MIT,7994,"Local-first MCP server for reading EXIF/XMP metadata from modern image formats: HEIC/HEIF/AVIF (ISOBMFF item metadata) and WebP (RIFF chunks). stdio + Streamable HTTP. Zero network, zero LLM, zero ru…"
+2026-11-16T02:37:22.827Z,@apexhub/apex-ui-vue,1.0.1,apexhub,MIT,5085315,Apex UI Vue 3 components — shared design tokens and cross-framework contracts
+2026-11-16T02:37:23.289Z,paint-color-engine,1.0.0,abigaildavised,MIT,457829,"Zero-dependency CIELAB & CIEDE2000 paint color matcher, LRV calculator, 9-family undertone classifier, CAT16 lighting compensator, and 507 curated Sherwin-Williams, Benjamin Moore & Behr swatches."
+2026-11-16T02:37:34.982Z,@cataworks/cata-cli,0.1.0,cataworks,UNLICENSED,74544,Cata 用户级命令行工具
+2026-11-16T02:38:35.416Z,pi-footer-hint,0.1.0,kschluter,MIT,14101,Pi extension: names an unnamed session from the first thing you said. Pi draws that name at the end of the footer's path line and lists it in /resume.
+2026-11-16T02:38:57.793Z,@reneturcios/polyguide,0.1.0,reneturcios,MIT,44229,"Polygraph office directory reads: find offices, published pricing, service info and booking status by reference — forwarded from the hosted LieDetectorTest service. One bin serves a small CLI and the…"
+2026-11-16T02:39:12.762Z,@apexhub/apex-ui-skill,1.2.0,apexhub,MIT,160858,Apex UI AI skills — guided installer for Claude / Cursor / Copilot and more
+2026-11-16T02:39:48.883Z,@apexhub/apex-ui-rewrite-prefix-plugin,1.0.2,apexhub,MIT,40543,Apex UI 前缀替换 Vite 插件 — 构建期将 apex- 类名/CSS 变量/内部标记重写为团队前缀
+2026-11-16T02:40:17.325Z,@apexhub/apex-ui-design-token-cli,1.0.0,apexhub,MIT,79602,"Apex UI design token CLI — Figma tokens to CSS variables, types, and cheatsheet"
+2026-11-16T02:40:42.37Z,@cdlab996/lowcode-plugin-vue-code-editor,2.0.0,wuchendi,MIT,519843,Vue source panel for the LowCode Engine designer: edit a page as a Vue component (setup() or Options API).
+2026-11-16T02:40:44.966Z,@cdlab996/lowcode-vue-core,2.0.0,wuchendi,MIT,151807,Vue-version independent core of the LowCode Engine Vue renderer and simulator.
+2026-11-16T02:40:46.854Z,@cdlab996/create-lowcode,2.0.0,wuchendi,MIT,13339,Create a LowCode Engine material project for Vue 2.7 or Vue 3.
+2026-11-16T02:40:50.207Z,@cdlab996/lowcode-material-builder,2.0.0,wuchendi,MIT,22692,Vite-based build and dev server for LowCode Engine component materials.
+2026-11-16T02:41:04.514Z,@cdlab996/lowcode-vue2,2.0.0,wuchendi,MIT,209699,LowCode Engine renderer and designer simulator for Vue 2.7.
+2026-11-16T02:41:05.797Z,deepseek-harness-git,1.0.1,beifeng778,MIT,209771,"Git source-control panel for the DeepSeek Harness Web GUI: repository discovery, changes, staging, diffs, AI commit messages, branches, and sync."
+2026-11-16T02:41:13.508Z,@cdlab996/lowcode-vue3,2.0.0,wuchendi,MIT,198233,LowCode Engine renderer and designer simulator for Vue 3.
+2026-11-16T02:41:17.363Z,@cdlab996/lowcode-code-generator,2.0.0,wuchendi,MIT,95444,Generate Vue 2.7 / Vue 3 projects from LowCode Engine schemas.
+2026-11-16T02:41:24.406Z,@cdlab996/lowcode-materials-antd-vue1,2.0.0,wuchendi,MIT,4487902,Ant Design Vue 1 materials for the LowCode Engine (Vue 2.7).
+2026-11-16T02:41:32.235Z,@plugkey/dsh-license,0.5.0,muskzhou,MIT,140335,Plugkey license center for DeepSeek Harness: activate and manage paid plugin licenses.
+2026-11-16T02:41:32.943Z,@cdlab996/lowcode-materials-antd-vue4,2.0.0,wuchendi,MIT,3564721,Ant Design Vue 4 materials for the LowCode Engine (Vue 3).
+2026-11-16T02:41:35.008Z,create-plugkey-dsh,0.1.0,muskzhou,MIT,11136,Scaffold a paid DeepSeek Harness (DSH) plugin with Plugkey licensing (definePaid).
+2026-11-16T02:41:40.122Z,@cdlab996/lowcode-materials-element-plus,2.0.0,wuchendi,MIT,3785251,Element Plus materials for the LowCode Engine (Vue 3).
+2026-11-16T02:41:45.872Z,@cdlab996/lowcode-materials-element-ui,2.0.0,wuchendi,MIT,2794155,Element UI materials for the LowCode Engine (Vue 2.7).
+2026-11-16T02:41:50.151Z,@cdlab996/lowcode-materials-vant2,2.0.0,wuchendi,MIT,1414345,Vant 2 materials for the LowCode Engine (Vue 2.7).
+2026-11-16T02:41:53.869Z,@cdlab996/lowcode-materials-vant4,2.0.0,wuchendi,MIT,1681307,Vant 4 materials for the LowCode Engine (Vue 3).
+2026-11-16T02:41:56.138Z,@cdlab996/lowcode-plugin-code-generator,2.0.0,wuchendi,MIT,19749,Code generation for the LowCode Engine designer: Vue 2.7 / Vue 3 projects from the current schema.
+2026-11-16T02:42:43.321Z,@appinventiv/aws-ses,1.0.0,abhishek.tyagi1,ISC,238387,"AWS SES email sending with raw HTML, stored templates, attachments, and bulk destinations"
+2026-11-16T02:43:33.486Z,@wayglass/core,0.0.0-stage,actesis,,336,Temporary package placeholder for staged publishing
+2026-11-16T02:44:36.001Z,audio-bed-check,0.2.0,oo-pibe,MIT,72891,"Check an audio bed for loops and level steps, and a voiceover mix for speech-over-bed separation."
+2026-11-16T02:44:41.482Z,@mgamadeus/ddd-site-insights,0.1.0-rc.1,mgamdeus,MIT,22221,Frontend of the site insights module for backends built with mgamadeus/ddd (Composer package mgamadeus/ddd-site-insights): types generated from the module's API and pure window logic for Search Conso…
+2026-11-16T02:45:08.542Z,@oxap/cli-darwin-arm64,0.0.0,lsm,CC0-1.0,659,Placeholder reserving this name for the OXAP project; the first real release publishes via Trusted Publishing from github.com/lsm/oxap
+2026-11-16T02:45:36.905Z,@oxap/cli-darwin-x64,0.0.0,lsm,CC0-1.0,657,Placeholder reserving this name for the OXAP project; the first real release publishes via Trusted Publishing from github.com/lsm/oxap
+2026-11-16T02:45:39.095Z,@oxap/cli-linux-arm64,0.0.0,lsm,CC0-1.0,658,Placeholder reserving this name for the OXAP project; the first real release publishes via Trusted Publishing from github.com/lsm/oxap
+2026-11-16T02:45:41.326Z,@oxap/cli-linux-x64,0.0.0,lsm,CC0-1.0,656,Placeholder reserving this name for the OXAP project; the first real release publishes via Trusted Publishing from github.com/lsm/oxap
+2026-11-16T02:45:43.422Z,@oxap/cli-win32-arm64,0.0.0,lsm,CC0-1.0,658,Placeholder reserving this name for the OXAP project; the first real release publishes via Trusted Publishing from github.com/lsm/oxap
+2026-11-16T02:45:45.309Z,@oxap/cli-win32-x64,0.0.0,lsm,CC0-1.0,656,Placeholder reserving this name for the OXAP project; the first real release publishes via Trusted Publishing from github.com/lsm/oxap
+2026-11-16T02:45:47.415Z,@oxap/cli,0.0.0,lsm,CC0-1.0,646,Placeholder reserving this name for the OXAP project; the first real release publishes via Trusted Publishing from github.com/lsm/oxap
+2026-11-16T02:45:49.495Z,@oxap/client,0.0.0,lsm,CC0-1.0,649,Placeholder reserving this name for the OXAP project; the first real release publishes via Trusted Publishing from github.com/lsm/oxap
+2026-11-16T02:45:51.442Z,@reneturcios/landlordlaw,0.1.0,reneturcios,MIT,58960,"Landlord rules for England by postcode — council licensing, the landlord register window, cited rules, rental planning, address comparison and area market figures — forwarded from the hosted Lettance…"
+2026-11-16T02:45:51.783Z,@oxap/sdk,0.0.0,lsm,CC0-1.0,646,Placeholder reserving this name for the OXAP project; the first real release publishes via Trusted Publishing from github.com/lsm/oxap
+2026-11-16T02:46:14.17Z,dsh-plugin-zhixing-ark-video-script,1.0.1,xiaogai1223,,4687,按商品卖点生成品牌短视频脚本、分镜和字幕，提供可用于配音或口播成片的纯口播稿。
+2026-11-16T02:46:52.54Z,eslint-plugin-llm-call,0.1.3,leegyeongpil,MIT,130483,ESLint plugin that catches model- and SDK-version-specific parameter mistakes in OpenAI and Anthropic SDK calls before they return HTTP 400.
+2026-11-16T02:47:15.308Z,@thuraaung2493/nrc-kit,0.1.0,thuraaung2493,ISC,2581152,Offline bilingual Myanmar NRC tools with optional React and Zod adapters
+2026-11-16T02:47:29.545Z,@ascx/fonts,0.2.0,ascx,OFL-1.1,56057666,"A geometric stencil display font suite (Grotesk, Serif, Pixel, Dotted, Diamond) across 9 weights (100–900), available as OTF, TTF, Variable, WOFF, and WOFF2."
+2026-11-16T02:47:29.691Z,knova-studio,1.2.0,knova-studio,UNLICENSED,12888,Set up Knova Studio in Claude Code and Codex with one command.
+2026-11-16T02:47:43.077Z,dsh-self-learn,0.0.0-stage,jackheaether,,336,Temporary package placeholder for staged publishing
+2026-11-16T02:47:59.39Z,@biolibs/bionet-theme,0.1.0,matthewlovestocode,MIT,38785,"The look of Bionet in one place: each colour's meaning with a value for a light theme and a dark one, as CSS variables and as data, and the Bionet mark and logo"
+2026-11-16T02:48:06.159Z,hexo-theme-codex,1.1.0,topsion,MIT,86788,"A minimal Hexo theme for technical writing: book/series indexing (book → chapter → article), full-text search, KaTeX, Mermaid, dark mode and giscus."
+2026-11-16T02:48:30.678Z,@biolibs/bionet-client,0.1.0,matthewlovestocode,MIT,126693,"One device in one lab: its key, its copy of the lab's signed log, everything a member can do, and the connection to the lab's web peer. Works offline and syncs when it can. Storage and key keeping ar…"
+2026-11-16T02:48:34.752Z,@biolibs/bionet-peer,0.1.0,matthewlovestocode,MIT,61300,"A lab's web peer: a member of the lab's network that holds no key. It keeps a copy of the lab's signed log, passes changes between members who are never online together, and serves the inventory a me…"
+2026-11-16T02:48:38.2Z,@biolibs/bionet-react,0.1.1,matthewlovestocode,MIT,21572,"React hooks for a Bionet lab, with no appearance of their own: the lab as it stands, asking for a change and hearing why it was refused, and the Bionet mark and logo drawn in the current theme"
+2026-11-16T02:48:42.117Z,@biolibs/bionet-panels,0.2.0,matthewlovestocode,MIT,124345,"The parts of a Bionet lab application, ready to place: the freezer, the people, the history, what other labs are shown, and a whole window that puts them together, in a light theme and a dark one"
+2026-11-16T02:49:22.488Z,@duxweb/lumi-admin,0.1.0,duxweb,MIT,13786938,Native json-render Admin configuration and React application shell.
+2026-11-16T02:49:24.109Z,dsh-plugin-zhixing-ark-crm,1.0.0,xiaogai1223,,16844,知行方舟CRM 跟进，查询客户、线索、商机、跟进和本人待办。
+2026-11-16T02:49:25.866Z,@duxweb/lumi-check,0.1.0,duxweb,MIT,70963,Native json-render Catalog validation CLI.
+2026-11-16T02:49:25.961Z,@duxweb/create-lumi,0.1.0,duxweb,MIT,38537,Scaffolding CLI for Lumi applications.
+2026-11-16T02:49:28.685Z,dsh-plugin-zhixing-ark-erp,1.0.0,xiaogai1223,,16319,知行方舟ERP 履约，查询商品库存、补货量、采购单和销售合同。
+2026-11-16T02:49:30.56Z,@duxweb/lumi,0.1.0,duxweb,MIT,1926239,Native json-render integration and data services.
+2026-11-16T02:49:30.836Z,@duxweb/lumi-ui,0.1.0,duxweb,MIT,4880234,Native json-render integration and shadcn-style React components.
+2026-11-16T02:49:33.293Z,dsh-plugin-zhixing-ark-geo,1.0.0,xiaogai1223,,15850,知行方舟GEO 品牌可见度，查询已授权品牌项目和已有 GEO 报告，解读样本、评分、竞品与引用。
+2026-11-16T02:49:38.282Z,dsh-plugin-zhixing-ark-manufacturing,1.0.0,xiaogai1223,,15448,知行方舟制造业进销存：按企业和岗位授权查询制造订单、缺料、库存预警、生产进度和批次追溯。
+2026-11-16T02:49:44.098Z,dsh-plugin-zhixing-ark-mes,1.0.0,xiaogai1223,,16054,知行方舟MES 生产跟踪，查询生产进度、工单、报工和已有 BOM。
+2026-11-16T02:53:08.765Z,@reneturcios/sourcelens,0.1.0,reneturcios,MIT,52628,"Published information about a China sourcing agency — profile, services, rates, fee estimates, guides and FAQ — forwarded from the Linkora Source service. One bin serves a small CLI and the MCP serve…"
+2026-11-16T02:53:39.285Z,@nexum-hub/sdk,0.0.1-next.0,baiyihuan,UNLICENSED,17643,Nexum SDK 扩展公共类型协议
+2026-11-16T02:55:15.183Z,@kuluomi/mapp-router-mcp,0.3.1,kuluomi,UNLICENSED,1092884,MAPP 平台意图路由 MCP 服务：列出可转交的应用，并把任务转交给它们。单文件、零运行时依赖。
+2026-11-16T02:55:36.184Z,@smoothbuilder/erp-construcao-white-erp-sdk,0.1.0,uaibuilder,UNLICENSED,1322183,"SDK oficial da API do ERP de material de construcao (/v1): tipado, com retry, idempotencia, paginacao e verificacao de webhooks"
+2026-11-16T02:56:21.552Z,@bridgebrew/onboarding,0.0.1,devalnor,MIT,49075,"A first run for an empty Bridge: it finds the AI agents on this computer, checks that each works, lets the person keep some and pick their default model, then sets Bridge up, its interface included,…"
+2026-11-16T02:57:05.227Z,pi-opencode-go-quota,0.1.0,bpldbt,MIT,13938,Show OpenCode Go subscription usage (5h / weekly / monthly) in the Pi footer
+2026-11-16T02:58:03.487Z,dsh-bookshelf,1.0.0,shushuiu,MIT,285012,"DeepSeek Harness plugin: a 书架 page built from a Douban member's 想读 and 在读 lists, paired with your own ebook folder, an in-panel EPUB/PDF/TXT reader, and public-domain downloads."
+2026-11-16T02:58:07.309Z,@zhuoerbufan/dsh-auditkit,0.4.1,zhuoerbufan,MIT,317747,DSH 体检：给 DeepSeek Harness 做体检——只读评分、可还原清理、分数趋势
+2026-11-16T02:58:13.095Z,@tty-pt/axil-auth,1.3.4,quirinpa,BSD-2-Clause,21777250,"Node.js SDK, C header distribution, and Xylem HTTP authentication module (libaxil-auth) for Axil"
+2026-11-16T02:58:46.753Z,kessler-wasm,0.4.0,reecehumphreys,MIT,75827,"WebAssembly bindings for Kessler, a library for simulating fragmentation events in low Earth orbit."
+2026-11-16T02:59:03.152Z,@gridui/motion,1.0.1,wmxpy,UNLICENSED,132967,"Shared GridUI motion policy, layout, springs, and scoped animation"
+2026-11-16T02:59:16.403Z,dsh-healthkit,0.4.3,zhuoerbufan,MIT,317979,DSH 体检：给 DeepSeek Harness 做体检——只读评分、可还原清理、分数趋势
+2026-11-16T02:59:52.562Z,@microrapid/tiefrun-linux-x64,1.0.1,microrapid,MIT,9928792,tiefrun prebuilt binary for linux-x64
+2026-11-16T02:59:55.34Z,@microrapid/tiefrun-linux-arm64,1.0.1,microrapid,MIT,8414726,tiefrun prebuilt binary for linux-arm64
+2026-11-16T02:59:57.125Z,@tty-pt/axil-hyle,1.1.3,quirinpa,BSD-2-Clause,23569486,"Node.js/Browser REST client, C header distribution, and Xylem HTTP dataset CRUD bridge (libaxil-hyle) for Axil and Hyle"
+2026-11-16T02:59:58.306Z,@microrapid/tiefrun-darwin-x64,1.0.1,microrapid,MIT,8343843,tiefrun prebuilt binary for darwin-x64
+2026-11-16T03:00:00.94Z,@microrapid/tiefrun-darwin-arm64,1.0.1,microrapid,MIT,6708289,tiefrun prebuilt binary for darwin-arm64
+2026-11-16T03:00:03.935Z,@microrapid/tiefrun-win32-x64,1.0.1,microrapid,MIT,8550184,tiefrun prebuilt binary for win32-x64
+2026-11-16T03:00:55.183Z,edda-ai,0.1.0,joshtg,MIT,6452,"Keep a project's record in the repository, so any agent or person who starts fresh gets the full picture."
+2026-11-16T03:01:48.264Z,medusa-hero-banners,0.1.0,hauskayu,MIT,281759,"Home-page hero banners for Medusa v2, managed in the Admin: desktop (12:5) and phone (4:5) images uploaded through the File Module with a focal point, title, subtitle and button per language, link, d…"
+2026-11-16T03:02:00.212Z,@sabir7718/jsondb,2.0.0,sabir7718,MIT,56071,"Zero-dependency embedded JSON document database: in-memory reads, write-ahead journal, indexes, crash recovery."
+2026-11-16T03:02:15.846Z,@crocs-muni/scrutiny-fabric,0.1.0,alsorehi,MIT,707272,"Reference implementation of the SCRUTINY Fabric protocol (spec v0.8.1). Sans-IO, crypto-free, ESM-only."
+2026-11-16T03:03:18.186Z,@amblecode/cli,0.16.0-beta.2,jonathanbakhit,Apache-2.0,732,Amble CLI - run an Amble host and control your projects and AI agents from the command line
+2026-11-16T03:05:47.298Z,@lamefox/dsh-chat,0.5.1,lamefox,MIT,162715,"Standalone chat-demo style chat window for DSH: server-side web search, link reading, safety check and titles, SQLite transcripts with FTS5, and workspaces that group conversations."
+2026-11-16T03:06:54.129Z,@rsrsai/omp,0.1.1,asural,MIT,55222,Native Respire memory plugin for omp coding agent
+2026-11-16T03:07:30.154Z,@nexum-hub/agent,0.0.1,baiyihuan,UNLICENSED,4175716,Nexum local-first programmable TypeScript Agent
+2026-11-16T03:08:04.527Z,@aaryanbindage/omnicontext,0.1.2,aaryanbindage,MIT,821591,"Persistent, cross-device memory for Claude: your profile, your projects, and resumable handoffs — shared by every Claude session (Claude Code plugin + MCP server + desktop app)."
+2026-11-16T03:09:58.043Z,hoshilet,0.0.0,laride,TBD,131,TBD
+2026-11-16T03:10:03.811Z,@shikiform/core,0.1.0,charlzyx,,711848,"ShikiForm engine: values, draft effects, validation, and tree moves. No React."
+2026-11-16T03:10:05.956Z,@shikiform/react,0.1.0,charlzyx,,314473,Headless React bindings for ShikiForm. Re-exports @shikiform/core.
+2026-11-16T03:10:08.193Z,@shikiform/hooks,0.1.0,charlzyx,,165332,"Headless ShikiForm hooks for query tables, array tables, shadow drafts, and lazy inputs."
+2026-11-16T03:10:10.441Z,@shikiform/antd,0.1.0,charlzyx,,407089,"Ant Design adapter for ShikiForm: FormItem, controls, arrays, and query lists."
+2026-11-16T03:10:39.872Z,@nexum-hub/browser,0.0.1,baiyihuan,UNLICENSED,1841405,Nexum 可选浏览器客户端与受管扩展
+2026-11-16T03:11:26.766Z,dsh-plugin-reasoning-slider,1.0.0,epcraft,MIT,26046,Replace the composer reasoning-effort menu with a slider.
+2026-11-16T03:14:05.315Z,xlsx2pdf,1.0.1,royhatsune,Apache-2.0,305346,"Excel template → high-fidelity PDF for Node.js. Design in Excel, inject data; merged cells, rich text & numFmt preserved. Built-in headless Chrome. Apache-2.0."
+2026-11-16T03:15:33.274Z,@sssonamuuu/dsh-browser-bridge,0.1.1,sonamu.liao,MIT,130232,DSH browser bridge: inspect and debug the user's real Chrome/Edge tabs through a local browser extension bridge.
+2026-11-16T03:16:20.944Z,dsh-taskflow,0.1.0,oak-ai,(Apache-2.0 AND MIT),138419,智能任务编排：持久层级计划、按需递归子会话与完成通知
+2026-11-16T03:16:29.844Z,shenghua-studio-runtime-p001,0.4.0,love2328,UNLICENSED,17162252,shenghua-studio-runtime 更新分卷 001
+2026-11-16T03:16:44.395Z,@vansham/unravel-sdk,0.0.0-stage,vansham,,342,Temporary package placeholder for staged publishing
