@@ -1,0 +1,228 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-16T17:15:15.456Z,@raphy-js/compiler-sfc,1.0.0-dev.39,egorkozelskij,Apache-2.0,566081,Single File Component compiler frontend for Raphy
+2026-11-16T17:15:41.542Z,@parth_kadukar/pretty-log-js,1.0.0,parth_kadukar,MIT,7332,A simple and colorful JavaScript logging utility
+2026-11-16T17:17:40.402Z,@edyspider/validate-bank-account-pt,1.0.0,edyspider,MIT,18755,Validate and generate Portuguese bank account numbers (NIB and IBAN) and get their SWIFT/BIC
+2026-11-16T17:17:44.722Z,@bridgebrew/background,0.0.1,devalnor,MIT,28628,"The programs that work for you in the background: the listeners every plugin's background.ts declares, running as long as they are on."
+2026-11-16T17:17:47.406Z,@bridgebrew/bridge-settings,0.0.1,devalnor,MIT,92528,"Settings for all of Bridge: status, network access, the default look, and the providers every workspace shares. Admin only."
+2026-11-16T17:17:50.039Z,@bridgebrew/buckets,0.0.1,devalnor,MIT,155568,"Object stores declared in the workspace settings. Plugins get a store's buckets, files and URLs, never its credentials."
+2026-11-16T17:17:52.732Z,@bridgebrew/commands,0.0.1,devalnor,MIT,27177,"⌘K for the whole Bridge: the focused view's commands, going to a screen or a workspace, the window keys. Replace it with your own palette."
+2026-11-16T17:17:55.204Z,@bridgebrew/database,0.0.1,devalnor,MIT,72860,"Connections to existing databases, declared in the workspace settings. Plugins get a query builder, never the login or the password."
+2026-11-16T17:17:57.811Z,@bridgebrew/harness,0.0.1,devalnor,MIT,53404,"Runs agent sessions through the providers you set up, each on a driver (Claude Code, Codex, any ACP agent)."
+2026-11-16T17:18:00.553Z,@bridgebrew/harness-acp,0.0.1,devalnor,MIT,43816,"Lets the harness run any agent that speaks the Agent Client Protocol, such as Hermes."
+2026-11-16T17:18:03.26Z,@bridgebrew/invitations,0.0.1,devalnor,MIT,18614,"Invites another Bridge client (the desktop app on another machine) with Full access, and lists the paired clients with revoke. Admin only."
+2026-11-16T17:18:08.458Z,@bridgebrew/plugin-manager,0.0.1,devalnor,MIT,97995,"The workspace's plugins (install, enable, reload, remove) and every plugin's settings, for the workspace and for each node."
+2026-11-16T17:18:11.223Z,@bridgebrew/point,0.0.1,devalnor,MIT,63004,"Point, then ask: hold Option+Shift to select anything on the page, then talk to the agent about it in a session where its code lives."
+2026-11-16T17:18:14.454Z,@bridgebrew/project,0.0.1,devalnor,MIT,79147,"A project is a folder of work with its bridge.yml, and a node with its own sessions: code, documents, anything; Bridge plugins can be made there too."
+2026-11-16T17:18:15.011Z,@browsercore/crawlee,0.1.1,jverneuer,MIT,70313,"Crawlee HTTP client backed by browsersmith — browser-identical TLS/HTTP2 fingerprints, proxy rotation, zero native deps."
+2026-11-16T17:18:17.326Z,@bridgebrew/rail,0.0.1,devalnor,MIT,58919,"The column of workspace tiles, with the Bridge button and its status dot."
+2026-11-16T17:18:20.297Z,@bridgebrew/scheduler,0.0.1,devalnor,MIT,141917,Durable time for the workspace's plugins: entries that fire at an instant or on a recurrence.
+2026-11-16T17:18:23.589Z,@bridgebrew/session-prompt,0.0.1,devalnor,MIT,49214,"The field you write to an agent in: text, images, agent and model, permissions, queue and Stop. Replace it with your own prompt plugin."
+2026-11-16T17:18:28.935Z,@bridgebrew/shell,0.0.1,devalnor,MIT,474306,"The page around everything: the rail, the sidebar column, the stage beside it and the theme controls."
+2026-11-16T17:18:32.07Z,@bridgebrew/shortcuts,0.0.1,devalnor,MIT,4101,"A ? button in the shell's controls zone opening the keyboard shortcuts' help: shown by the sidebar's footer, else by the rail."
+2026-11-16T17:18:34.473Z,@bridgebrew/sidebar,0.0.1,devalnor,MIT,66926,"The workspace's column: its screens, its sections and its tree of nodes."
+2026-11-16T17:18:37.168Z,@bridgebrew/storage,0.0.1,devalnor,MIT,166929,"Stores every plugin's data in the workspace, with its history; the audit trail is storage-tools-audit's."
+2026-11-16T17:18:40.226Z,@bridgebrew/storage-json,0.0.1,devalnor,MIT,2639,Keeps the workspace's data as JSON files in its data folder.
+2026-11-16T17:18:43.139Z,@bridgebrew/theme-toggle,0.0.1,devalnor,MIT,4436,"A light/dark button in the shell's controls zone: shown by the sidebar's footer, else by the rail."
+2026-11-16T17:18:46.317Z,@bridgebrew/windows,0.0.1,devalnor,MIT,285714,"Bridge's window manager: views side by side in tiled splits, floating, minimized to a dock, maximized, on numbered desks and a special desk."
+2026-11-16T17:18:48.941Z,@bridgebrew/workspace-management,0.0.1,devalnor,MIT,4180,Chooses the initial composition and title for new workspaces.
+2026-11-16T17:18:52.121Z,@cjser/alcalzone__ansi-tokenize__v0_3_2,0.3.2-cjser.2,nanahira,MIT,58408,Efficiently modify strings containing ANSI escape codes
+2026-11-16T17:18:59.948Z,@cjser/indent-string__v5_0_0,5.0.0-cjser.2,nanahira,MIT,7509,Indent each line in a string
+2026-11-16T17:19:53.546Z,dsh-market-mcp,0.1.2,stephenxiong001,MIT,55650,MCP server for searching and verifying DSH plugin market entries.
+2026-11-16T17:20:37.002Z,@saltand/acp-extension-pi,0.2.0,saltand,Apache-2.0,179723,Lody-owned ACP adapter for the native Pi runtime
+2026-11-16T17:20:55.316Z,@gitmyabi/zeth,1.0.0,gitmyabi-bot,Apache-2.0,86486,"Auto-generated TypeScript type bindings for zETH (build etherscan-zeth-c6d68e08-1794849639824, commit f4780d6, branch etherscan)"
+2026-11-16T17:21:21.778Z,@bluestep-systems/b6p-core-bsjs-git,0.2.0,bblack-bluestep,MIT,172338,"Browser- and Node-safe git client for BlueStep BSJS scripts: draft-branch editing through the platform git proxy, publish, git history and the legacy history archive"
+2026-11-16T17:21:28.773Z,dsh-bay,0.1.0-beta.1,yishiqy,MIT,6896372,"DSH Bay multi-area workbench for developing, validating and sharing DSH plugins"
+2026-11-16T17:21:31.16Z,localsutra-ai,0.2.0,shahvatsal,Apache-2.0,440681,"LocalSutra AI: offline-first local AI readiness CLI. Hardware profile, model-fit estimates, Ollama/llama.cpp loopback diagnostics, honest benchmarks and an independent audit report (MD, HTML, JSON),…"
+2026-11-16T17:21:49.597Z,meowapi-statusline,1.0.1,xingguangcuican,AGPL-3.0-or-later,48268,Claude Code status line: show subscription quota bars on API-key / gateway sessions
+2026-11-16T17:22:07.977Z,@indra211/exios,1.0.0,indra211,MIT,115985,"Zero-dependency axios-compatible HTTP client on native fetch, with retry and a circuit breaker."
+2026-11-16T17:22:48.876Z,@lume-icons/icons-data,0.1.2,ibraa,,26506,
+2026-11-16T17:23:06.472Z,@lume-icons/icons-core,0.1.2,ibraa,,12481,
+2026-11-16T17:23:26.769Z,@lume-icons/icons-react,0.1.2,ibraa,,15392,
+2026-11-16T17:23:44.134Z,@dcs-tech/core,0.15.0,gokulakrishnan95,UNLICENSED,1197553,"The platform-free part of the DCS Tech UI library: data shapes, UI logic, icon drawings as data, and React hooks with no DOM."
+2026-11-16T17:23:49.543Z,@lume-icons/icons-vue,0.1.1,ibraa,,23180,
+2026-11-16T17:23:55.72Z,android-device-control,0.1.0,lisn0,MIT,7523,Launch the Android Device Control MCP server from PyPI.
+2026-11-16T17:24:02.394Z,stream-clipper,0.1.0,lisn0,MIT,10250,Launch the Stream Clipper MCP server from PyPI.
+2026-11-16T17:24:06.737Z,@lume-icons/icons-web-component,0.1.1,ibraa,,10529,
+2026-11-16T17:24:44.157Z,@dcs-tech/ui-native,0.15.0,gokulakrishnan95,UNLICENSED,499355,"React Native components of the DCS Tech UI library, on the same logic, icons and design tokens as @dcs-tech/ui."
+2026-11-16T17:24:48.3Z,@dcs-tech/tokens,0.15.0,gokulakrishnan95,UNLICENSED,118720,"Design tokens from one source: tokens.css for the web, tokens.ts for React Native, tokens.dart for Flutter."
+2026-11-16T17:24:54.011Z,openapi-content-mapper,0.0.0,ryuapp,MIT-0,223,---
+2026-11-16T17:25:02.426Z,@elurjs/universal,0.1.0,deijose,Apache-2.0,16093579,"Elur Universal — un IR, un reconciler, backends puros. Web, Android (Platform Views / Skia opt-in), SSR. Futuro: iOS, desktop, embebidos."
+2026-11-16T17:25:51.491Z,@raphy-js/motion,1.0.0-dev.9,egorkozelskij,Apache-2.0,76059,Renderer-neutral motion notation and playback for Raphy
+2026-11-16T17:26:31.753Z,@whatsaaaa/tsconfig,1.0.0,whatsaaaa-dev,MIT,6794,"Shared TypeScript configs for whatsaaaa projects: base, node and bundler"
+2026-11-16T17:26:41.283Z,@typedworks/editor,1.0.0-dev.36,egorkozelskij,Apache-2.0,445510,UI-independent persistent text documents and editor algorithms
+2026-11-16T17:26:44.464Z,@letscom/messenger,0.0.0,pedro.nogueira,UNLICENSED,27192,"Installs the letscom Messenger in a product and runs its tour mode (ADR-0011, ADR-0058). Published to npm; no dependencies."
+2026-11-16T17:26:46.346Z,@whatsaaaa/oxlint-config,1.0.0,whatsaaaa-dev,MIT,4734,"Shared oxlint configs for whatsaaaa projects: base, vue and react"
+2026-11-16T17:27:01.129Z,@whatsaaaa/eslint-config,1.0.0,whatsaaaa-dev,MIT,8479,"Shared ESLint flat config for whatsaaaa projects: TypeScript, Vue and React, with oxlint and the formatter"
+2026-11-16T17:27:15.511Z,@whatsaaaa/format-config,1.0.0,whatsaaaa-dev,MIT,3491,Shared oxfmt options for whatsaaaa projects
+2026-11-16T17:27:20.365Z,events-runtime,0.0.1-security,npm,,434,security holding package
+2026-11-16T17:27:48.413Z,@keepsake/shared,0.1.0,hemanthvalsaraj,MIT,72651,"Math, colour, PRNG, events and disposal primitives shared by every Keepsake package."
+2026-11-16T17:27:50.947Z,@keepsake/assets,0.1.0,hemanthvalsaraj,MIT,65436,"Asset loading, caching, reference counting and disposal for browsers."
+2026-11-16T17:27:53.252Z,@keepsake/audio,0.1.0,hemanthvalsaraj,MIT,43129,"Audio for Keepsake: clip envelopes, Web Audio playback synced to the timeline, offline mixdown."
+2026-11-16T17:27:57.116Z,dsh-model-speed,0.1.0,penglinchina,MIT,84145,"Live generation speed and token usage of the models configured in this DSH profile — one minimal dock row, no extra panels."
+2026-11-16T17:28:07.102Z,@keepsake/timeline,0.1.0,hemanthvalsaraj,MIT,93217,"Deterministic, renderer-agnostic keyframe timeline: tracks, easing, springs, nesting."
+2026-11-16T17:28:35.125Z,@keepsake/scene,0.1.0,hemanthvalsaraj,MIT,234996,"Scene graph, node types, text layout and pure frame evaluation to a render list."
+2026-11-16T17:28:55.46Z,@keepsake/motion,0.1.0,hemanthvalsaraj,MIT,47459,"Reusable, composable motion primitives (Ken Burns, reveals, typewriter, stacks, parallax) built on timelines."
+2026-11-16T17:29:12.562Z,@keepsake/renderer,0.1.0,hemanthvalsaraj,MIT,134578,Renderer interface and Canvas 2D backend that draws Keepsake render lists.
+2026-11-16T17:29:14.955Z,@keepsake/transitions,0.1.0,hemanthvalsaraj,MIT,19736,"Scene transitions (dissolve, fade, slide, push, zoom, wipe, iris) as renderer-neutral layer instructions."
+2026-11-16T17:29:17.03Z,@keepsake/effects,0.1.0,hemanthvalsaraj,MIT,70444,"Cinematic effects: film grain, vignette, light leaks, particles and software filter fallbacks."
+2026-11-16T17:29:19.522Z,@keepsake/story,0.1.0,hemanthvalsaraj,MIT,200495,"Versioned story document schema, validator and compiler to a Composition."
+2026-11-16T17:29:22.133Z,@keepsake/core,0.1.0,hemanthvalsaraj,MIT,200912,"Keepsake engine: lifecycle, playback controller, clocks, events and DOM integration."
+2026-11-16T17:29:24.621Z,@keepsake/export,0.1.0,hemanthvalsaraj,MIT,95708,"Video export: capability detection, in-house MP4 muxer, WebCodecs encoding and fallback strategy."
+2026-11-16T17:29:27.022Z,@keepsake/react,0.1.0,hemanthvalsaraj,MIT,17192,React bindings for Keepsake: a <KeepsakePlayer> component and hooks.
+2026-11-16T17:29:29.313Z,@keepsake/svelte,0.1.0,hemanthvalsaraj,MIT,13563,Svelte bindings for Keepsake: a use:keepsake action and playback stores.
+2026-11-16T17:29:42.006Z,dsh-jesse,0.0.1,vicfei,MIT,1448,"Strategy parameter optimization for DeepSeek Harness — grid sweeps with fee-aware backtests, train/test split, an overfit-gap column, and multiple-testing discounts on every report. Implements the co…"
+2026-11-16T17:30:59.15Z,bargein,0.1.0,leegyeongpil,MIT,103435,"Browser audio pipeline for realtime voice models: mic capture, gap-free playback and barge-in with sample-accurate audio_end_ms (OpenAI Realtime, Gemini Live)."
+2026-11-16T17:31:02.175Z,@hvngroup/vibe-hosting,1.0.1,vuongnm,MIT,94928,"Deploy thư mục hiện tại lên HVN Vibe Hosting, xem trạng thái và log. Kết quả gọn cho AI agent."
+2026-11-16T17:32:20.795Z,can-opener-js,2.0.0,canopener,MIT,2833249,"Signal-first virtual vehicle library with per-vehicle DBC bindings, transport, APIs, and state."
+2026-11-16T17:32:32.6Z,@mobcode/agent-daemon,0.1.1,dshishlov,MIT,113949,"Мост между MobCode и агентами командной строки (Claude Code, Codex): сессии, события, MCP-мост к приложению"
+2026-11-16T17:32:38.381Z,@eric.hederstedt/glsl-transpiler,4.0.0,eric.hederstedt,MIT,136304,Transpile GLSL to JS
+2026-11-16T17:32:40.198Z,@jobsoxo/staged-billing,0.1.1,heidiwf,MIT,55239,"Deposit, progress and final invoice math for contractors. Per-line percent complete, invoiced-to-date, change orders that raise the contract. Pure functions, zod-validated, no database."
+2026-11-16T17:33:23.707Z,@raphy-js/core,1.0.0-dev.78,egorkozelskij,Apache-2.0,559819,Core runtime for Raphy applications
+2026-11-16T17:33:41.11Z,turno-fonts,0.1.0,william-monroy,SEE LICENSE IN LICENSE.txt,11376938,"MesloLGS Nerd Font 3.4.0, the font the turno status line icons are drawn with, bundled with checksums."
+2026-11-16T17:33:47.929Z,ember-a2ui,0.1.1,dhaulagiri,Apache-2.0,109929,Ember renderer for A2UI (agent-to-UI protocol)
+2026-11-16T17:33:49.512Z,turno-browser,0.1.0,william-monroy,Apache-2.0,49864,"Browser MCP server that drives your installed Chrome with a persistent profile per identity, built on patchright-core."
+2026-11-16T17:35:30.19Z,react-native-minimal-webview,1.0.0,rasmuskard,MIT,655267,"A minimal, extensible WebView for React Native (Expo Modules)"
+2026-11-16T17:35:47.707Z,mechframe,0.0.1,carbondsp,UNLICENSED,3329,Mechframe: an AI-piloted framework of reusable website modules. Early release: ships `mechframe doctor` to check your machine is ready.
+2026-11-16T17:35:48.105Z,claude-skill-committee,0.1.0,archiit_sharmaa,MIT,40624,"A Claude Code skill: a three-member design review committee (Senior Architect, CTO, CPO) that critiques a design, checks the code with Codex, and grills you until every decision is locked."
+2026-11-16T17:35:53.791Z,ci-connectivity-probe,0.0.0-stage,octoprobe9173,,343,Temporary package placeholder for staged publishing
+2026-11-16T17:35:56.858Z,@vizualmodel/bridge-model-client,0.1.0,sam-verstraete,UNLICENSED,18080,Standard browser connection for VizualModel Bridge
+2026-11-16T17:36:04.873Z,@react-native-minimal-webview/extensions,1.0.0,rasmuskard,MIT,95599,"react-native-webview props for react-native-minimal-webview, as native hooks for its extensions prop"
+2026-11-16T17:36:07.203Z,strapi-plugin-writesafe-mcp,1.0.0,isokron-ai,MIT,1058005,"Write-safe MCP tools for Strapi 5's built-in MCP server: version-checked patches, row-level dynamic-zone/component/blocks edits, all-or-nothing batches, idempotency keys, dry runs and structured conf…"
+2026-11-16T17:36:47.684Z,@vizualmodel/model-development,0.1.0,sam-verstraete,UNLICENSED,55420,"Runtime-free model tools, candidate builds and state restoration"
+2026-11-16T17:38:05.74Z,mandate-protocol,1.0.0,shamazmkhan,Apache-2.0,320718,Signed orders for AI trading agents. Agents sign every order with their identity and the account holder's mandate; brokers verify for free. Reference implementation of Mandate Protocol draft 0.1.
+2026-11-16T17:38:27.148Z,@octoprobe9173/ci-connectivity-probe,0.0.0-stage,octoprobe9173,,358,Temporary package placeholder for staged publishing
+2026-11-16T17:38:41.016Z,dsh-services-manager,0.2.6,chanyuenpang,MIT,264493,DSH 0.2 Desktop/Web 的服务管理分区：查看与控制宿主后台服务，并按运行时安全重启当前 DSH。
+2026-11-16T17:38:46.721Z,@jorgedanisc/xlsx-to-pdf,0.1.0,jorgedanisc,MIT OR Apache-2.0,2838591,Convert Excel (.xlsx) spreadsheets to PDF using WebAssembly in Node.js and browsers
+2026-11-16T17:38:53.175Z,402mob-wallet-mcp,0.0.1-security,npm,,149,security holding package
+2026-11-16T17:39:22.116Z,kagliostro,0.1.2,cedric2020,UNLICENSED,335950,"CLI Kagliostro : tests d’intrusion par un agent IA, analyse du code et re-vérification des correctifs, depuis votre terminal ou votre CI."
+2026-11-16T17:39:34.937Z,turno-cli,0.1.0,william-monroy,Apache-2.0,415049,"One MCP gateway and per-folder accounts for Claude Code, Codex, Copilot CLI and Cursor CLI."
+2026-11-16T17:40:18.4Z,@socialscrape/ai-sdk,0.1.0,socialscrape,MIT,1201065,"SocialScrape tools for the Vercel AI SDK: social media profiles, posts, comments, search and video transcripts across 29 platforms."
+2026-11-16T17:40:47.286Z,homebridge-polestar-c3,0.2.1,jeroendbr,GPL-3.0,158742,"Unofficial Homebridge plugin for Polestar 2/3/4 via the C3 cloud backend: lock, climate, charging, battery and doors in HomeKit."
+2026-11-16T17:40:50.407Z,@home-apps/sdk,2.4.0,qwerex56,MIT,34241,"The HomeMix bridge for add-ons, the host side and the homemix.json types (docs/homemix.md)"
+2026-11-16T17:40:54.364Z,@home-apps/css,2.4.0,qwerex56,MIT,10045,"hm-* classes in the HomeApps look for HomeMix add-ons, with or without a framework (docs/homemix-authoring.md)"
+2026-11-16T17:40:58.706Z,@home-apps/vue,2.4.0,qwerex56,MIT,41098,Vue 3 composables and the HomeApps look for HomeMix add-ons (docs/homemix.md)
+2026-11-16T17:41:02.956Z,@home-apps/homemix,2.4.0,qwerex56,MIT,30749,"HomeMix add-on tooling: a fake host for development, the server's checks, and packing addon.zip (docs/homemix.md)"
+2026-11-16T17:41:07.918Z,@home-apps/create-homemix,2.4.0,qwerex56,MIT,12882,"npm create @home-apps/homemix@latest: a new HomeMix add-on (docs/homemix.md, ""Building one"")"
+2026-11-16T17:41:29.184Z,@t4dt/n8n-nodes-gocardless,0.0.0-stage,robert.wall,,348,Temporary package placeholder for staged publishing
+2026-11-16T17:41:42.623Z,@promptdriven/runtime-client,1.0.0,gltanaka,MIT,1126665,PDD Runtime Client (@promptdriven/runtime-client)
+2026-11-16T17:41:59.597Z,@questwork/vue-p-event-registration,0.1.1,questwork.support,MIT,120720,Questwork Congress event registration Vue application components
+2026-11-16T17:42:28.273Z,@adityatyagi/textstats,1.0.0,adityatyagi,MIT,4908,Beginner-friendly text statistics with zero dependencies.
+2026-11-16T17:42:40.793Z,@pixelmatters/validate-env,1.0.1,pixelmatters-dev,MIT,26584,"Validate environment variables against a Standard Schema when Vite, webpack, Rspack, Rsbuild or Next.js starts"
+2026-11-16T17:42:44.357Z,softglaze-browser-mcp,1.0.0,softglaze,MIT,23646,Connects AI apps that start MCP servers as a local command to SoftGlaze Browser's built-in MCP server on this computer.
+2026-11-16T17:43:11.501Z,@go-mondo/aws-lambda-rust-authorizer,0.1.0,flipbox,,157426,"AWS Lambda Rust authorizers for Mondo Identity, with AWS CDK constructs."
+2026-11-16T17:43:21.689Z,@hex4c59/pi-ext-ui-kit,0.1.0,hex4c59,MIT,13128,"Shared TUI overlay, selector and relay registry helpers for Hex4C59 pi extensions"
+2026-11-16T17:43:23.667Z,@raphy-js/forms,1.0.0-dev.11,egorkozelskij,Apache-2.0,65258,Renderer-neutral forms for Raphy
+2026-11-16T17:43:28.083Z,@munsonlabs/splice,0.0.1,munaibh,MIT,145809,"In-browser clip making with WebCodecs: trim, crop, caption and export an MP4 on the device, with a clip editor built on @munsonlabs/video-player."
+2026-11-16T17:43:36.15Z,@gitmyabi/usdtc,1.0.0,gitmyabi-bot,Apache-2.0,76197,"Auto-generated TypeScript type bindings for USDTC (build etherscan-usdtc-36b60326-1794851000347, commit 1283d9f, branch etherscan)"
+2026-11-16T17:43:56.297Z,@instantos/cli-linux-x64,0.15.1,paperbenni,GPL-2.0-only,39453515,Install on Linux x64 or ARM64 (Node.js 18 or newer):
+2026-11-16T17:44:04.004Z,@instantos/cli-linux-arm64,0.15.1,paperbenni,GPL-2.0-only,33951615,Install on Linux x64 or ARM64 (Node.js 18 or newer):
+2026-11-16T17:44:09.414Z,@instantos/cli,0.15.1,paperbenni,GPL-2.0-only,20698,Instant CLI - command-line utilities
+2026-11-16T17:44:21.323Z,vite-plugin-jolt,0.1.0,quentinmerle,MIT,202836,"Jolt ⚡ — Local-First White-Box Dev Bridge between Vite/Node, Front-End Runtime (Stores/WebGL2/Network), and AI Agents via MCP."
+2026-11-16T17:45:23.977Z,dsh-quantstats,0.0.1,vicfei,MIT,1561,"Performance tearsheets for DeepSeek Harness — Sharpe/Sortino/Calmar/drawdown/VaR computed deterministically, zero-dependency SVG reports with assumptions disclosed and sample-size alarms on every out…"
+2026-11-16T17:46:18.103Z,dsh-del-chat,0.2.9,zhaoshilei29,MIT,85997,"Adds a “Delete archive” item to the DSH sidebar Session menu that permanently removes an archived Session's JSONL log, projection cache and Workspace record from disk."
+2026-11-16T17:47:55.638Z,@funny-booth/tourdesk-mcp,0.1.0,funny-booth,,258126,M-004 tourdesk（案件・手配・パスポート・料金・書類・点検の MCP）
+2026-11-16T17:48:04.13Z,@motlab/cli,0.2.0,staryone,MIT,1495223,"Video as code: canvas scene pages rendered frame by frame in headless Chrome with WebCodecs, a project format with audio, a web viewer, and an agent skill that builds the scenes."
+2026-11-16T17:48:30.296Z,@funny-booth/tourdesk-telegram-mcp,0.1.0,funny-booth,,9593,M-005: スタッフのグループへ Telegram のボットから知らせる stdio の MCP サーバー
+2026-11-16T17:48:41.04Z,dsh-auto-reasoning,0.0.0-stage,tansdk,,340,Temporary package placeholder for staged publishing
+2026-11-16T17:48:56.259Z,@abhinavvsharmaa/radar,0.3.0,abhinavvsharmaa,MIT,108699,A lightweight health inspector for JavaScript projects
+2026-11-16T17:49:27.193Z,safakedata-mcp,0.1.1,blankspaceza,MIT,14797,"MCP server for SA Fake Data: realistic South African test data (people, ID numbers, bank accounts, addresses, companies) for Claude, Cursor and other AI tools"
+2026-11-16T17:49:59.872Z,dsh-quantlib,0.0.1,vicfei,MIT,1505,"Derivatives pricing for DeepSeek Harness — BS76 with full Greeks, implied vol and CRR American binomials from a zero-dependency core that ships its own proof: parity, Greek identities and IV round-tr…"
+2026-11-16T17:50:46.168Z,@funny-booth/tourdesk-rail-mcp,0.1.0,funny-booth,,39527,T-012 列車の予約（Uzbekistan Railways の検索・発売の確かめ・支払いの手前までの注文）の MCP
+2026-11-16T17:50:47.764Z,matheel,0.1.0,nagieeb,MIT,18369,"Official client for the Matheel ZATCA Phase 2 e-invoicing API (Saudi Arabia, Fatoora): file invoices with a device token, decode the QR, verify callbacks."
+2026-11-16T17:50:56.791Z,@belov_maxim/capacitor-inappbrowser,8.25.1,belov_maxim,MPL-2.0,2005405,Capacitor plugin in app browser (fork of @capgo/capacitor-inappbrowser)
+2026-11-16T17:51:07.576Z,@funny-booth/tourdesk-gmail-mcp,0.1.0,funny-booth,,29125,担当者の Gmail の MCP（読む・添付を落とす・ラベル・下書き。送る・消す・転送の道具は持たない）
+2026-11-16T17:51:22.9Z,@noldova/git,0.0.1,rostislavrotaru,MIT,284963,"The Git module for apps on Noldova Desktop: a folder's Git state and changes, and agent tools that run Git through permission requests."
+2026-11-16T17:51:27.068Z,@noldova/git.github,0.0.1,rostislavrotaru,MIT,91457,"The GitHub module for apps on Noldova Desktop: the sign-in to GitHub, its issues, pull requests and checks, and agent tools that use GitHub through permission requests."
+2026-11-16T17:51:30.873Z,@noldova/git.github.protocol,0.0.1,rostislavrotaru,MIT,15656,"What the GitHub module's parts share: GitHubNames, the module's id, method, event, tool and service names, and the IGitHubAccess service through which another module reads the signed-in token as a Gi…"
+2026-11-16T17:51:34.868Z,@noldova/git.github.window,0.0.1,rostislavrotaru,MIT,111497,"The GitHub module's window part: GitHub's labels, icons and colours for each kind and state of an issue or pull request, and the Git view's row with a branch's pull request and checks."
+2026-11-16T17:51:38.374Z,@noldova/git.hosting.protocol,0.0.1,rostislavrotaru,MIT,88435,"The hosting protocol that each of Git's host modules implements: a reference to an issue or pull request, the item and its checks, a branch's pull request, a pull request draft, and the sign-in's acc…"
+2026-11-16T17:51:39.463Z,dsh-vendor-quick-switch,1.0.0,raysnows,MIT,43216,"Vendor-first quick model switching for DeepSeek Harness: a side index beside the shipped model menu, plus an in-menu drill-down mode. · DSH 厂商快速切换：模型菜单旁常驻厂商索引，点厂商直接跳转，不改造原插件。"
+2026-11-16T17:51:43.126Z,@noldova/git.protocol,0.0.1,rostislavrotaru,MIT,192310,"The Git module's messages that its runtime and window parts exchange: status, diffs, worktrees and the protocol's failures."
+2026-11-16T17:51:47.218Z,@noldova/git.window,0.0.1,rostislavrotaru,MIT,187890,"The Git module's window part: the Git view of a folder's branch, changes and commit."
+2026-11-16T17:52:08.658Z,react-boing,0.0.0,aayushbharti,MIT,344,Toasts with real spring physics for React. Coming soon.
+2026-11-16T17:52:15.284Z,hatchback-tools,0.1.0,hatchback.app,MIT,156099,Hatchback CLI: read and act on website feedback from your terminal and coding agents.
+2026-11-16T17:52:37.051Z,@12-apps/llm,1.0.0,tigredonorte,MIT,187074,"A provider-agnostic model connector. One interface for a chat turn with tools (system blocks with cache breakpoints, strict JSON-schema tools, tool choice, output budget, effort hint) and one normali…"
+2026-11-16T17:52:48.952Z,@tereo-io/react,0.1.0,aaron0619,Apache-2.0,170165,"Sign a React app in through Tereo: OAuth with PKCE, a session shared by tabs, token-renewing API clients, permission checks and live updates"
+2026-11-16T17:53:38.068Z,dsh-molecular-viewer,0.2.2,lonelycrab888,,7336506,"A live 3D molecular structure viewer for DeepSeek Harness, controlled by the agent and the user."
+2026-11-16T17:53:45.124Z,@raphy-js/i18n,1.0.0-dev.14,egorkozelskij,Apache-2.0,45409,Application-local ICU localization plugin for Raphy
+2026-11-16T17:53:47.687Z,@raphy-js/icons,1.0.0-dev.10,egorkozelskij,Apache-2.0,57313,Renderer neutral Raphy adapter for TypedWorks icon definitions
+2026-11-16T17:53:50.212Z,@raphy-js/themes,1.0.0-dev.23,egorkozelskij,Apache-2.0,38508,Renderer-neutral design tokens and application-local themes for Raphy
+2026-11-16T17:53:53Z,@raphy-js/interaction,1.0.0-dev.17,egorkozelskij,Apache-2.0,123860,Renderer-neutral interaction capabilities and headless behaviors for Raphy
+2026-11-16T17:53:56.055Z,@raphy-js/language-tools,1.0.0-dev.37,egorkozelskij,Apache-2.0,1356372,Editor-neutral language intelligence and stdio LSP server for Raphy SFC files
+2026-11-16T17:53:58.848Z,@raphy-js/vite,1.0.0-dev.38,egorkozelskij,Apache-2.0,154372,Vite integration for Raphy compiler packages
+2026-11-16T17:53:59.027Z,@pingxd/mcp,0.1.0,snehasis4321,ISC,10589,PingXD MCP server for network and web diagnostics
+2026-11-16T17:55:18.877Z,@policyengine/microcosm-collector-client,0.21.1,anthonyvolk,MIT,37304,Typed client for version 2 of the Microcosm collector's read API
+2026-11-16T17:56:01.175Z,dsh-kronos,0.0.1,vicfei,MIT,1546,"K-line scenario forecasting for DeepSeek Harness — seeded, reproducible bootstrap fans (P10–P90) from real history; zero-dependency statistical baseline that neural foundation models must beat. The c…"
+2026-11-16T17:56:05.147Z,boardular,0.1.1,notcclo,MIT,856678,"A modular React dashboard built from JSON: declare each item's title, type and data, and Boardular picks how to display it. Draggable, resizable cards; default, dark, glass and clay themes."
+2026-11-16T17:56:06.33Z,@pisapp/theme-cux2,7.0.0-dev.20261116-173244,abbp,SEE LICENSE IN LICENSE,667584,"Customizable CUX2 theme, design tokens, and PIS component styles for PIS applications."
+2026-11-16T17:56:22.904Z,@pcdd-dev/cli,0.4.0,aledepaoligampel,MIT,5528,Progressive Change-Driven Development for AI coding agents. Runs the PCDD CLI from PyPI through uv.
+2026-11-16T17:56:42.393Z,@leaflink/icons,0.0.0,brenton-cozby,MIT,481542,"Framework-neutral SVG icons and partner logos shared by LeafLink, Leaf Trade and Dama"
+2026-11-16T17:56:47.835Z,@2sheep/mcp,0.1.0,bovard,UNLICENSED,1336355,"Lets an AI agent (Claude Code, Codex, Gemini CLI and other MCP clients) play live 1v1 games on TwoSheep"
+2026-11-16T17:57:01.012Z,react-snowfall-canvas,0.1.0,npandit,MIT,79288,"Lightweight canvas snowfall overlay for React with drizzle, medium and storm modes."
+2026-11-16T17:57:06.685Z,@trace2tests/sdk,0.1.0,poobalan1210,MIT,127876,"Capture failed HTTP requests in production, redacted inside your service, so Trace2Test can replay them on staging and write a regression test."
+2026-11-16T17:57:16.497Z,@webship-js/jira-steps,2.0.0,natshah,MIT,257843,Cucumber step definitions for testing Jira Software Data Center sites with webship-js.
+2026-11-16T17:57:39.889Z,gravix-classroom,0.1.0,gravity_compile,MIT,147827,"Chat, raise hand, polls, Q&A and promote-to-stage for Gravix Edu classes. Web and Electron."
+2026-11-16T17:57:50.396Z,@raphy-js/dom,1.0.0-dev.88,egorkozelskij,Apache-2.0,3143301,DOM renderer for Raphy applications
+2026-11-16T17:58:03.299Z,@cbingb666/libmedia,1.3.2,cbingb666,LGPL-3.0-or-later,1318729,libmedia 单文件 ESM 播放器
+2026-11-16T17:58:41.823Z,@digitaldefiance/gitdash-pages,0.14.0,jessica-mulein,MIT,164904,"Build-side tooling for running an EmDash site on GitHub Pages, GitLab Pages, Netlify or Cloudflare Pages with content stored as JSON in the repository."
+2026-11-16T17:59:41.407Z,apksonar,0.1.0,apksonar,MIT,13875,"APKSonar CLI and MCP server — scan Android packages (APK/AAB/XAPK/APKS/DEX/SO) from terminal, CI and AI agents"
+2026-11-16T17:59:44.043Z,@questwork/vue-p-abstract,0.1.1,questwork.support,MIT,101420,Questwork Congress abstract Vue application components
+2026-11-16T17:59:55.108Z,@coorax/schema,0.0.0-canary.1,coorvus,,82134,
+2026-11-16T18:00:12.061Z,express-response-kit-sid,1.0.0,siddharthkonn7,ISC,7129,"A reusable Express.js toolkit for standardized API responses, pagination, and error handling"
+2026-11-16T18:00:12.175Z,@fluentcms/client,1.0.0-preview.1,pournasserian,MIT,33598,"A minimal typed client for FluentCMS: Delivery reads, content management, typed filters, paging and problems."
+2026-11-16T18:01:22.9Z,@chaibuilder/core,0.1.0,suraj_outeredgelab,BSD-3-Clause,7803645,ChaiBuilder Core - Open source AI enabled website builder for Next.js
+2026-11-16T18:01:32.477Z,inspex,0.0.0,chenxin-yan,MIT,4081,"TypeScript content mappers: import a spec file and get its types, with no generation step"
+2026-11-16T18:01:39.428Z,@digitaldefiance/gitdash-team,0.2.0,jessica-mulein,MIT,15484,"A team members collection, grid component and pages for EmDash and GitDash sites."
+2026-11-16T18:01:49.403Z,@iconicompany/imcp,0.1.0,slavb18,MIT,26562,"MCP server for platform modules in one call: ZITADEL bearer (audience, project role), tools, /health, server card, tool call log"
+2026-11-16T18:02:23.758Z,@opencovers/mcp,0.1.0,david-cabeza,Apache-2.0,35055,"MCP server for the OpenCovers restaurant reservation engine: availability, bookings, tables and waitlist over stdio."
+2026-11-16T18:02:27.122Z,@digitaldefiance/gitdash-fonts,0.3.0,jessica-mulein,MIT,20755,"Choose Google Fonts in the studio and serve them from your own site, for EmDash and GitDash."
+2026-11-16T18:02:29.324Z,@raincoat-ui/react,0.1.0-next.1,raincoat-ui,Apache-2.0,60256,"Raincoat components for React: shadcn/ui components on Radix primitives, styled only with Raincoat design tokens."
+2026-11-16T18:02:33.266Z,@raincoat-ui/theme-base,0.1.0-next.1,raincoat-ui,Apache-2.0,36698,"The Raincoat base theme: every token as CSS custom properties, for light, dark, and high-contrast modes."
+2026-11-16T18:03:12.38Z,shadowmd,0.0.1-security,npm,,422,security holding package
+2026-11-16T18:03:17.46Z,shadowmd-baileys,0.0.1-security,npm,,438,security holding package
+2026-11-16T18:03:21.382Z,@coorax/render-react,0.0.0-canary.1,coorvus,,33218,
+2026-11-16T18:03:24.494Z,@shadowmd/libsignal-node,0.0.1-security,npm,,458,security holding package
+2026-11-16T18:03:34.349Z,template-string-converter-language-server,0.1.0,balintmendli,MIT,3756115,Language server that turns quotes into backticks when ${ is typed inside a JavaScript or TypeScript string
+2026-11-16T18:03:43.798Z,gatecrypt,0.1.0,gatecrypt,MIT,155848,"Put a static site behind a sign-in on any host that only serves files (GitHub Pages, S3, ...). Encrypts the build; visitors sign in with Google or an emailed code, and your API gets a signed token th…"
+2026-11-16T18:04:20.996Z,node-red-contrib-taiponrock-mariem-b,1.0.0,mariem_boug,Apache-2.0,13980,My custom Node-RED node
+2026-11-16T18:04:21.692Z,dsh-freqtrade,0.0.1,vicfei,MIT,1560,"A GPL-free strategy-bot toolkit for DeepSeek Harness — declarative strategy pack (SMA/RSI/Donchian/MACD) + one deterministic runner with fees, stops and trade logs. Clean-room implementation of the f…"
+2026-11-16T18:04:44.757Z,@raphy-js/router,1.0.0-dev.16,egorkozelskij,Apache-2.0,162331,Renderer-neutral routing for Raphy applications
+2026-11-16T18:04:49.41Z,@raphy-js/ssr,1.0.0-dev.17,egorkozelskij,Apache-2.0,535996,Server rendering and static generation for Raphy
+2026-11-16T18:06:32.245Z,abot-mcp-server,2.0.0,thangsanps,MIT,89877,Official Model Context Protocol (MCP) Server for ABOT Marketing Automation Platform (API v2 & API v1)
+2026-11-16T18:06:47.049Z,@jazzdaniel/sds-nov,0.1.0,rustu.pai,MIT,860114,Simple Design System React components with SDS and Aurelia themes.
+2026-11-16T18:08:00.269Z,@raphy-js/ui,1.0.0-dev.44,egorkozelskij,Apache-2.0,1806083,Renderer-neutral themed UI components for Raphy
+2026-11-16T18:08:21.579Z,@computesdk/tangle,1.0.1,kisernl,MIT,56866,Tangle Sandbox provider for ComputeSDK - isolated Linux sandboxes with command execution and filesystem access
+2026-11-16T18:09:15.779Z,@kasabaileys/brat,0.0.1-security,npm,,444,security holding package
+2026-11-16T18:09:23.494Z,@silentstatestudio/perseon,0.1.0,jpm-audio,SEE LICENSE IN LICENSE.md,2015479,Perseon Engine: a renderer-agnostic particle engine with PixiJS v7 and v8 adapters
+2026-11-16T18:09:25.258Z,@aramservices/aramend,0.1.0,aramb-dev,MIT,44743,"Field types, typed content client, push CLI and webhook verification for aramend"
+2026-11-16T18:09:40.562Z,iobroker.nubert-sub,0.4.0,smallfeuer,MIT,67835,Control a Nubert X-Sub subwoofer via Bluetooth LE (unofficial)
+2026-11-16T18:10:42.835Z,@lmctl-ai/lmauth-darwin-arm64,0.1.10,mikema3,MIT,9564565,"Guided, LLM-drivable authorization helper: click-through token setup that never shows the secret to the caller (darwin-arm64 binary)"
+2026-11-16T18:10:59.921Z,xoom-foods-mcp,1.0.0,xoomfoods,MIT,59359,"MCP server for XOOM FOODS — browse real restaurant meals, check plans and pricing, get shipping info. The only subscription service shipping fully cooked restaurant meals by FedEx."
+2026-11-16T18:11:07.229Z,@struktur-online/rifledb-server,0.1.0,puritanner,MIT,2000014,"The rifleDB server: a realtime database over REST and WebSocket, with folders for access control, a JSX config, server actions, passkeys and Redis persistence. Run it with npx rifledb."
+2026-11-16T18:11:24.168Z,rifledb,0.1.0,puritanner,MIT,658461,"rifleDB SDK: realtime client (Socket.IO) with cache, optimistic ops, offline queue and device-key identity, plus a signed REST client. Runs in browsers and Node >= 22. React hooks in rifledb/react, N…"
+2026-11-16T18:11:48.212Z,analyitcs-sdk,0.0.1-security,npm,,432,security holding package
+2026-11-16T18:11:53.075Z,analytics-skd,0.0.1-security,npm,,432,security holding package
+2026-11-16T18:11:57.374Z,augustdigital-sdk,0.0.1-security,npm,,440,security holding package
+2026-11-16T18:12:01.218Z,cygnus-contract,0.0.1-security,npm,,436,security holding package
+2026-11-16T18:12:05.414Z,cygnus-server,0.0.1-security,npm,,432,security holding package
+2026-11-16T18:12:09.891Z,upshift-config,0.0.1-security,npm,,434,security holding package
+2026-11-16T18:12:13.893Z,upshift-finance,0.0.1-security,npm,,436,security holding package
+2026-11-16T18:12:18.312Z,upshift-sdk,0.0.1-security,npm,,428,security holding package
+2026-11-16T18:12:38.943Z,@arks-labs/contracts,0.0.1-security,npm,,450,security holding package
+2026-11-16T18:12:46.246Z,@arks-labs/sdk,0.0.1-security,npm,,438,security holding package
+2026-11-16T18:12:53.222Z,@arks-labs/utils,0.0.1-security,npm,,442,security holding package
+2026-11-16T18:12:57.622Z,@lmctl-ai/lmauth-darwin-x64,0.1.10,mikema3,MIT,10256761,"Guided, LLM-drivable authorization helper: click-through token setup that never shows the secret to the caller (darwin-x64 binary)"
+2026-11-16T18:13:15.718Z,@cygnus-dao/core,0.0.1-security,npm,,442,security holding package
+2026-11-16T18:13:26.347Z,@cygnusfi/sdk,0.0.1-security,npm,,436,security holding package
+2026-11-16T18:13:40.973Z,@cygnus-finance/sdk,0.0.1-security,npm,,448,security holding package
+2026-11-16T18:14:27.628Z,@raphy-js/editor,1.0.0-dev.152,egorkozelskij,Apache-2.0,2232440,Raphy code editor and document views
+2026-11-16T18:14:37.076Z,@baileysmod-ubed/baileys,0.0.1-security,npm,,458,security holding package
+2026-11-16T18:15:48.823Z,actions-runner-check,0.1.0,joepring,CC0-1.0,37375,"Find the GitHub Actions runner labels your workflows name in runs-on:, and say whether GitHub still offers each one — every answer with the row of GitHub's own table of available images it was read f…"
+2026-11-16T18:16:15.46Z,@questwork/vue-p-authorization,0.1.0,questwork.support,MIT,42554,Questwork reusable Access Control administration application
+2026-11-16T18:16:32.538Z,@sapia/plugin-plantuml,0.1.0,hakenadu,MIT,208890,"PlantUML language support for Sapia: detection, highlighting, completion, validation, in-browser rendering and metamodel converters."
+2026-11-16T18:16:34.404Z,@sapia/plugin-mermaid,0.0.0-stage,hakenadu,,343,Temporary package placeholder for staged publishing
+2026-11-16T18:16:38.209Z,@sapia/web,0.0.0-stage,hakenadu,,332,Temporary package placeholder for staged publishing
+2026-11-16T18:16:42.093Z,@sapia/desktop,0.0.0-stage,hakenadu,,336,Temporary package placeholder for staged publishing
+2026-11-16T18:17:12.795Z,realtime-bpm-analyzer-cli,0.0.0-stage,dlepaux,,347,Temporary package placeholder for staged publishing
+2026-11-16T18:17:38.544Z,realtime-bpm-analyzer-mcp,0.0.0-stage,dlepaux,,347,Temporary package placeholder for staged publishing
+2026-11-16T18:18:10.697Z,moth-ui-svelte,0.0.0-stage,joseph7650,,336,Temporary package placeholder for staged publishing
