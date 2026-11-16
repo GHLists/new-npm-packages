@@ -1,0 +1,116 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-15T23:17:32.787Z,@reneturcios/dnsposture,0.1.0,reneturcios,MIT,72541,"Domain hygiene dossiers: DNS, SPF, DMARC, DKIM, TLS, WHOIS, headers and web-surface checks. One bin serves a small CLI and the MCP server."
+2026-11-15T23:19:01.691Z,@octopusdeploy/openfeature-server,0.0.0-stage,octobob,,355,Temporary package placeholder for staged publishing
+2026-11-15T23:19:40.458Z,bank-statement-to-excel,1.0.1,glavnui8686,MIT,85162,"Convert PDF bank statements to Excel, CSV or JSON on your own computer. CLI and MCP server for AI agents. Same converter as extractoaexcel.com."
+2026-11-15T23:19:52.539Z,mcp-monetize,0.1.0,ritual_dev,MIT,89420,Drop-in billing & paywall middleware for Model Context Protocol (MCP) servers with Dodo Payments & Stripe support
+2026-11-15T23:21:02.99Z,@wavelike/opencode-plugin,0.2.0,zac-velos,MIT,85275,OpenCode plugin: sign in with your company account through Wavelike and use your organization's models.
+2026-11-15T23:21:05.724Z,@wavelike/pi-extension,0.2.0,zac-velos,MIT,23058,Pi extension: sign in with your company account through Wavelike and use your organization's models.
+2026-11-15T23:21:18.619Z,code2img-mcp,0.1.1,code2img,MIT,21668,"Model Context Protocol server for Code2Img: render code screenshots from Claude Desktop, Cursor, VS Code or Windsurf (stdio), or call the hosted server at https://code2img.app/mcp."
+2026-11-15T23:22:09.801Z,jira-cli-agent,0.2.0,ejklock,MIT,3708,"Jira Cloud for AI coding agents: gives OpenCode the jira-cli MCP server and the jira-ticket skill, and Pi the jira-ticket skill. Unofficial; not affiliated with Atlassian."
+2026-11-15T23:22:25.158Z,repyh-mcp,0.0.1,nuvcai,MIT,441,Reserved. The REPYH founder MCP server has not been released yet.
+2026-11-15T23:22:31.096Z,tarcajs,0.1.2,futozs,MIT,1658333,"Billingo API v3 kliens TypeScripthez: számla, díjbekérő, nyugta, sztornó, partnerek, termékek, költségek, export. 0 függőség, Node, Bun, Deno és Edge."
+2026-11-15T23:22:38.166Z,@ritualdev-lab/autoheal-core,0.1.0,ritual_dev,MIT,181602,Core error parsing and failure models for AutoHeal-QA
+2026-11-15T23:22:57.312Z,@ritualdev-lab/autoheal-ai,0.1.0,ritual_dev,MIT,44363,Local AI reasoning engine and Ollama integration for AutoHeal-QA
+2026-11-15T23:23:10.694Z,@ritualdev-lab/autoheal-interceptor,0.1.0,ritual_dev,MIT,28483,Playwright test runner reporter and fixture interceptor for AutoHeal-QA
+2026-11-15T23:23:25.507Z,@gitmyabi/prisma,1.0.0,gitmyabi-bot,Apache-2.0,233458,"Auto-generated TypeScript type bindings for PRISMA (build etherscan-prisma-da47862a-1794784989441, commit 91d872d, branch etherscan)"
+2026-11-15T23:24:30.005Z,@reneturcios/domainledger,0.1.0,reneturcios,MIT,43403,"A local stdio bridge to the hosted domhaul MCP service: check domain availability against live RDAP data with registration prices, brand scores and resale estimates, and read per-TLD first-year price…"
+2026-11-15T23:25:46.776Z,@usenotra/agentside,0.3.3,dominikk,MIT,46103,Serve markdown to AI agents and A/B test what they read. Built on Effect. By Notra.
+2026-11-15T23:26:25.613Z,orc-mcp,1.0.0,buko106,MIT,55192,Local MCP orchestrator that coordinates multiple Claude Code sessions (one repo each)
+2026-11-15T23:30:21.814Z,@haikeilabs/connector-contracts,0.1.0,soypete,Apache-2.0,57600,Generated connector operation contracts
+2026-11-15T23:31:47.702Z,oficio-pro-plugin,2.2.0,joaotomasmv,SEE LICENSE IN LICENSE,99349,Plugin do Ofício Pro (assinatura da Codetrade) para o Claude Code. Instale com: npx oficio-pro
+2026-11-15T23:32:04.424Z,@reneturcios/lenderscope,0.1.0,reneturcios,MIT,49462,"Investor-lender data from HMDA: DSCR lenders by state, loan programs and indicative rates. A local stdio bridge that forwards every call to the hosted dscr-lender-data MCP service."
+2026-11-15T23:33:07.812Z,omp-alamode,0.2.1,hndrxc,MIT,58989,"Aggregate Oh My Pi plugin bundle: lemmeaskchat, tokenmunchers, let-me-see, flymode, and built-in session usage awareness with manual PAYG balance estimates"
+2026-11-15T23:34:10.448Z,@webframe/config,0.1.0,tw050x,MIT,10582,"Read configuration, secrets and constants from a directory of files, one file per key."
+2026-11-15T23:34:12.628Z,@webframe/core,0.1.0,tw050x,MIT,352444,"Typed middleware chains on Node's HTTP server: the server, its router and the context each middleware adds to."
+2026-11-15T23:34:14.73Z,@webframe/encrypt,0.1.0,tw050x,MIT,10493,Encrypt and decrypt small pieces of state (such as OAuth state) with AES-256-GCM.
+2026-11-15T23:34:16.846Z,@webframe/healthcheck,0.1.0,tw050x,MIT,8121,A file-based healthcheck for services run in containers.
+2026-11-15T23:34:18.927Z,@webframe/logger,0.1.0,tw050x,MIT,8375,"A winston logger set up for webframe services: JSON to files, readable lines to the console."
+2026-11-15T23:34:21.019Z,@webframe/use-cors-headers,0.1.0,tw050x,MIT,15300,CORS headers middleware for webframe.
+2026-11-15T23:34:22.996Z,@webframe/use-log-request,0.1.0,tw050x,MIT,4325,Request logging middleware for webframe.
+2026-11-15T23:34:25.016Z,@webframe/use-pagination-query-parameters,0.1.0,tw050x,MIT,11834,Pagination query parameters middleware for webframe.
+2026-11-15T23:34:33.44Z,@webframe/utils,0.1.0,tw050x,MIT,6641,Small helpers for any JavaScript runtime.
+2026-11-15T23:35:05.636Z,aromix.node,0.0.1,istiuak,MIT,2241,Aromix Node
+2026-11-15T23:35:46.518Z,@fringeworks/react-icon-lucide,0.1.0,mitsuhiroseino,MIT,72938,"A library some will find handy, for using Lucide icons as typed React components that fit the text around them."
+2026-11-15T23:36:25.087Z,@routinerun/form,0.1.0,dkorolkov,MIT,345339,"Check and upgrade routines written for Routine Run, in form 1 or form 2."
+2026-11-15T23:36:45.306Z,@awesome-tour/codemod,0.1.0,yorigcsdev,MIT,20675,"Codemods to migrate react-joyride, Shepherd and driver.js tours to awesome-tour."
+2026-11-15T23:36:45.635Z,sw-cpas,1.0.0,ysw12345,MIT,18746,"CLI, MCP configuration, agent skill and plugin for SW Accounting & Consulting Corp, a bilingual (English/Korean) CPA firm in Los Angeles. Public, read-only, no API key."
+2026-11-15T23:36:47.241Z,@awesome-tour/core,0.1.0,yorigcsdev,MIT,526223,"Headless, framework-agnostic engine for product tours and onboarding."
+2026-11-15T23:36:50.11Z,@awesome-tour/react,0.1.0,yorigcsdev,MIT,684665,"Unstyled, accessible React primitives for product tours and onboarding."
+2026-11-15T23:36:52.151Z,@awesome-tour/devtools,0.1.0,yorigcsdev,MIT,191434,"Devtools panel for awesome-tour: inspect tours, jump between steps, check target health and watch events."
+2026-11-15T23:36:52.217Z,@awesome-tour/testing,0.1.0,yorigcsdev,MIT,51324,"Test helpers for awesome-tour: Playwright fixture, React Testing Library render, layout mocks and a memory router."
+2026-11-15T23:36:52.223Z,@awesome-tour/motion,0.1.0,yorigcsdev,MIT,65828,Motion (motion.dev) adapter for awesome-tour: animated spotlight and presets.
+2026-11-15T23:36:52.223Z,@awesome-tour/router,0.1.0,yorigcsdev,MIT,18329,"Router adapters for awesome-tour multi-page tours: React Router, Next.js App Router, TanStack Router."
+2026-11-15T23:36:52.245Z,@awesome-tour/three,0.1.0,yorigcsdev,MIT,35235,react-three-fiber adapter for awesome-tour: highlight 3D objects in tours.
+2026-11-15T23:37:10.551Z,node-red-contrib-anker-solix,1.0.0,j.wegner,MIT,39292,Anker SOLIX OpenCCU All-in-One Baustein
+2026-11-15T23:37:13.954Z,@theholocron/turbo-client,1.58.0-alpha.32,thenewton,MIT,6604,A TypeScript client for Turborepo's Remote Cache API (served by Vercel)
+2026-11-15T23:37:16.266Z,@theholocron/holocron-plugin-turbo,5.0.0-alpha.445,thenewton,MIT,16169,Holocron plugin for Turborepo's Remote Cache. Implements the cache capability against Vercel's artifacts API.
+2026-11-15T23:37:17.71Z,tiefrun-linux-x64,1.0.1,microrapid,MIT,9928780,tiefrun prebuilt binary for linux-x64
+2026-11-15T23:37:20.478Z,tiefrun-linux-arm64,1.0.1,microrapid,MIT,8414714,tiefrun prebuilt binary for linux-arm64
+2026-11-15T23:37:23.723Z,tiefrun-darwin-x64,1.0.1,microrapid,MIT,8343831,tiefrun prebuilt binary for darwin-x64
+2026-11-15T23:37:26.334Z,tiefrun-darwin-arm64,1.0.1,microrapid,MIT,6708277,tiefrun prebuilt binary for darwin-arm64
+2026-11-15T23:38:10.555Z,dsh-sayit-english,0.6.0,wdnpm0403,MIT,295885,SayIt · 声动英语：DSH 侧栏里的每日 6 词、练习场、开口检测、阅读短文、表达教练与中文造句翻译面板
+2026-11-15T23:39:54.454Z,@reneturcios/trustbeacon,0.1.0,reneturcios,MIT,58437,"Behavioral trust scores, attestation checks and preflight verdicts for MCP servers, forwarded from the Dominion Observatory. One bin serves a small CLI and the MCP server."
+2026-11-15T23:40:26.344Z,@usethrottle/builder,0.1.0,thejoud,MIT,68737,"Headless client for Throttle Builder: read published pages, parts, slots and site settings from a storefront, with Next.js cache, revalidation and preview helpers."
+2026-11-15T23:41:06.606Z,@bridgebrew/bridge-ui,0.1.10-next.79,devalnor,MIT,3006,"Bridge UI as a Bridge plugin: installed in _host, Bridge serves its kit (@bridgebrew/ui) to every page and plugin."
+2026-11-15T23:41:10.003Z,@bridgebrew/design-system,0.1.10-next.79,devalnor,,268613,"A storyboard of the @bridge/ui kit: every component's variants, sizes and states, live, in the page's theme."
+2026-11-15T23:41:14.333Z,@bridgebrew/ui,0.1.10-next.79,devalnor,MIT,1125396,Bridge UI: the toolkit Bridge and its plugins draw with (served to every page as @bridge/ui).
+2026-11-15T23:41:32.109Z,@cherninlab/ennodia-darwin-arm64,0.5.5,cherninlab,MIT,65131824,Ennodia standalone executable for darwin-arm64
+2026-11-15T23:41:40.633Z,@earthmover/arraylake,0.1.0-alpha.0,mpiannucci,Apache-2.0,2540574,"TypeScript client for Arraylake: the REST API and Icechunk repos, in browsers and Node"
+2026-11-15T23:41:41.52Z,@cherninlab/ennodia-darwin-x64,0.5.5,cherninlab,MIT,70845976,Ennodia standalone executable for darwin-x64
+2026-11-15T23:41:52.873Z,@cherninlab/ennodia-linux-arm64,0.5.5,cherninlab,MIT,95334008,Ennodia standalone executable for linux-arm64
+2026-11-15T23:42:03.631Z,@cherninlab/ennodia-linux-x64,0.5.5,cherninlab,MIT,95309410,Ennodia standalone executable for linux-x64
+2026-11-15T23:42:06.048Z,@velr-ai/runtime-darwin-arm64,0.2.61,tomas_ks,LicenseRef-Velr-Runtime-Binary-Redistribution-License,24334301,Velr native runtime for macOS arm64
+2026-11-15T23:42:19.275Z,@cherninlab/ennodia-linux-arm64-musl,0.5.5,cherninlab,MIT,90944873,Ennodia standalone executable for linux-arm64-musl
+2026-11-15T23:42:23.777Z,@velr-ai/runtime-darwin-x64,0.2.61,tomas_ks,LicenseRef-Velr-Runtime-Binary-Redistribution-License,31237713,Velr native runtime for macOS x64
+2026-11-15T23:42:28.317Z,dsh-api-diff,0.0.1,hfshfg,MIT,2502,"Compare two versions of an API contract (OpenAPI, GraphQL, protobuf, JSON Schema) and classify each change as breaking or additive, naming the exact path, field or type that broke. | 把两版 API 契约（OpenA…"
+2026-11-15T23:42:29.629Z,@cherninlab/ennodia-linux-x64-musl,0.5.5,cherninlab,MIT,92106507,Ennodia standalone executable for linux-x64-musl
+2026-11-15T23:42:43.478Z,@cherninlab/ennodia-win32-x64,0.5.5,cherninlab,MIT,99429829,Ennodia standalone executable for win32-x64
+2026-11-15T23:43:31.287Z,kwtsms-auth-relay,0.1.0,kwtsms,MIT,69231,Send Clerk and Neon Auth SMS (OTP) through kwtSMS
+2026-11-15T23:44:30.437Z,@usethrottle/builder-react,0.1.0,thejoud,MIT,484021,"Renders a published Throttle Builder page document as React in a merchant's store: responsive CSS, header, footer, slots and the site design provider."
+2026-11-15T23:44:52.804Z,dsh-i18n-qa,0.0.1,hfshfg,MIT,2628,"Audit locale resource files against the source language: missing keys, placeholder mismatches, broken ICU plural/select syntax, overflow-prone strings and untranslated leftovers, each with file:line.…"
+2026-11-15T23:45:20.083Z,kwtsms-convex,0.1.0,kwtsms,MIT,222426,"Convex component to send SMS and OTP through kwtSMS, with message status, caps and test mode."
+2026-11-15T23:45:44.299Z,@paramira/redact,0.1.0,labsrelay,MIT,12526,"Finds identifying details in free text on the device — names, phone numbers, emails, links, ID numbers, exact dates, ages (English, French, Kinyarwanda, Swahili) and a caller's own sensitive terms —…"
+2026-11-15T23:45:45.997Z,imaginal,0.0.1,bretworks,MIT,349,"Placeholder: name reserved, first release coming."
+2026-11-15T23:47:02.507Z,kwtsms-otp,0.1.0,kwtsms,MIT,53095,"SMS one-time codes (OTP) with kwtSMS: hashed codes, 3 attempts, cooldown, rate limits, country allowlist. Web APIs only."
+2026-11-15T23:47:04.028Z,@reneturcios/taskden,0.1.0,reneturcios,MIT,108504,"DoneBear task workspace over MCP: tasks, projects, checklists, comments, attachments and labels, forwarded from the hosted DoneBear MCP server. One bin serves a small CLI and the MCP server."
+2026-11-15T23:47:34.173Z,omp-session-bridge,1.0.3,jumpstile,MIT,738711,Pi on the Side: lets your assistants hand work to Oh My Pi sessions on your PCs and watch it finish.
+2026-11-15T23:49:26.11Z,dsh-visual-diff,0.0.1,hfshfg,MIT,2390,"Perceptual diff between two screenshots of the same page: report changed region bounds, ratio and severity, and separate real changes from anti-aliasing or font-rendering noise. | 把两张同一页面的截图做感知差分：给出差…"
+2026-11-15T23:50:03.137Z,pi-multi-search,0.1.0,kschluter,MIT,135987,"Pi extension: multi-index web search. Asks several indexes in parallel, routes each question to the ones worth asking, shapes the query per index, merges the answers with weighted reciprocal rank fus…"
+2026-11-15T23:50:34.808Z,dsh-channel-feishu,0.8.4,poy-coder,MIT,194208,"Feishu/Lark (飞书) channel for DeepSeek Harness: a chat bound to a DSH session, with streaming cards and attachments."
+2026-11-15T23:52:12.517Z,bank-exchange-rates-mcp,1.0.0,chathurangac8,MIT,21391,"MCP server for bank exchange rates: let Claude, Cursor and other AI agents fetch live buy and sell rates from 1,219 commercial banks in 124 countries (TT, cash and card boards), compare banks, and ch…"
+2026-11-15T23:52:14.657Z,@allratestoday/bank-exchange-rates-mcp,1.0.0,chathurangac8,MIT,21388,"MCP server for bank exchange rates: let Claude, Cursor and other AI agents fetch live buy and sell rates from 1,219 commercial banks in 124 countries (TT, cash and card boards), compare banks, and ch…"
+2026-11-15T23:52:32.278Z,dsh-migration-audit,0.0.1,hfshfg,MIT,2408,"Static review of database migration scripts: score lock risk, backfill strategy, rollback-ability, idempotency and concurrent-write safety, naming the statement that would stall production. | 静态审数据库迁…"
+2026-11-15T23:54:35.257Z,dsh-spreadsheet-audit,0.0.1,hfshfg,MIT,2492,"Audit Excel formulas and references: find circular references, broken links, hardcoded magic numbers, fragile ranges and the propagation path of #REF!/#DIV/0!, each pinned to sheet and cell. | 审计 Exc…"
+2026-11-15T23:54:42.89Z,@reneturcios/headguard,0.1.0,reneturcios,MIT,51752,"Paste HTTP response headers and get seven security checks with explanations and copy-paste fixes, forwarded from the GoLive Check service. One bin serves a small CLI and the MCP server."
+2026-11-15T23:56:07.438Z,starlight-warcraft,0.1.0,GitHub Actions,MIT,244695,"A fantasy, Warcraft-inspired theme for Starlight, with React components forked from warcraftcn/ui."
+2026-11-15T23:56:17.501Z,@clinth/ha-api,1.0.0,clinth,ISC,44221,Typed Home Assistant WebSocket API client with auto-reconnect and subscriptions for Node.js and browsers
+2026-11-15T23:56:22.457Z,env-template-guardian,1.0.0,shailja_vatsa,MIT,23509,Zero-dependency CLI & library that validates .env against .env.example with type inference and interactive autofix
+2026-11-15T23:56:35.196Z,@ypy-dev/ypy,0.1.1,paulorlima9,MIT,3476648,"Hypermedia framework: any HTML element issues a request and swaps the HTML the server returns. Native core, no build step."
+2026-11-15T23:57:11.98Z,kilnseal,0.0.1,dheerajponnaganti,Apache-2.0,13176,Tamper-proof seals for software built with AI coding agents. Early development: no CLI yet.
+2026-11-15T23:57:47.12Z,nbu-qr-helper,1.0.1,quartal-org,MIT,12831,Генератор платіжних QR-кодів стандарту НБУ (Постанова № 68) та валідатор українського IBAN за стандартом ISO 13616 / MOD-97
+2026-11-15T23:58:09.69Z,mcp-robotstudio,0.2.0,data-unix,Apache-2.0,276565,"ABB Robot Web Services client (RWS 1.0 IRC5/RW6 Digest, RWS 2.0 OmniCore/RW7-8 Basic over TLS) and stdio MCP server for ABB RobotStudio"
+2026-11-16T00:01:55.13Z,@reneturcios/datepoll,0.1.0,reneturcios,MIT,48365,"Create group date polls, read the votes, and close polls when decided, forwarded from the DooDates MCP service. One bin serves a small CLI and the MCP server."
+2026-11-16T00:02:50.441Z,@compilorama/compy,0.1.0,rcamargo,MIT,950454,React UI component library
+2026-11-16T00:03:08.381Z,compleximy,1.0.1,j9aoooo,MIT,22291,Biblioteca de números complexos com precisão arbitrária via Decimal.js
+2026-11-16T00:03:10.675Z,@oxmumu3/dsh-incidental-learn,0.1.4,oxmumu3,MIT,234589,"顺带私教 for DeepSeek Harness — SHIELD Token-Lite decision cards, non-interruptive 90s right-sidebar drills, cross-Agent blind-spot ledger, and native Socratic mastery checkpoints."
+2026-11-16T00:03:53.604Z,plimsby,0.1.0,plimsby,MIT-0,221095,"Use your Plimsby account from a terminal: workspaces, Inventory records, and exports."
+2026-11-16T00:04:37.872Z,@hadoku/platform-wire,0.1.6,hadoku-user,MIT,42046,"The wire any game speaks: room ids, telemetry, presence, events and tables, the Discord relay, looks, the restart notice, secure random and a generic server envelope. Knows no game; a game's own part…"
+2026-11-16T00:04:39.882Z,@hadoku/host-wire,0.1.6,hadoku-user,MIT,23102,"The signed wire between a match host and the agent on a hosting claw: request signing, the relay's frames, the messages each side sends, artifact hashes and slice sizing. Knows no game. MIT; imports…"
+2026-11-16T00:04:41.911Z,@hadoku/room-ask,0.1.8,hadoku-user,MIT,30416,"Durable, seat-scoped request/response over a room. Transport-free: no sockets, no server, no timers you cannot drive. MIT — the one carve-out in this GPL repo."
+2026-11-16T00:04:44.251Z,@hadoku/ui-shell,0.1.6,hadoku-user,MIT,147134,"The parts of a game's UI any game keeps: chrome, trim, room shell, embed mount, theme and settings frame, UI scale, usage counting, the sound mixer, motion and generic components. One appId parameter…"
+2026-11-16T00:04:46.843Z,@hadoku/game-server,0.1.6,hadoku-user,MIT,630851,"The server parts any hosted game shares, above the kernel: the app config and edge auth, the room core (identity, seats, sessions, membership, the room list, the generic room routes), match hosting (…"
+2026-11-16T00:04:49.143Z,@hadoku/game-ui,0.1.6,hadoku-user,MIT,251520,"The browser parts any hosted game shares, above ui-shell: the room shell and session, seats and looks, the room route, the front page's generic pieces (gate, polls, gallery, patch notes), the bundle…"
+2026-11-16T00:07:48.868Z,hookparity,0.1.0,leegyeongpil,MIT,133058,"Preview, run, test and lint agent lifecycle hooks (Claude Code, Codex CLI, Gemini CLI) side by side, offline, without launching any agent."
+2026-11-16T00:08:38.368Z,@longzai-intelligence-one-digest-markdown/config,0.0.1,joydragon,UNLICENSED,6096,Longzai Intelligence One Digest Markdown 配置
+2026-11-16T00:08:53.384Z,@longzai-intelligence-one-digest-markdown/core,0.0.1,joydragon,UNLICENSED,28283,Longzai Intelligence One Digest Markdown 业务核心实现
+2026-11-16T00:08:56.444Z,@refy-design/a2ui,0.1.0,viniciuscoimbra,MIT,125079,Refy components as an A2UI 1.0 catalog (id https://refy.design/a2ui/v1) for React on the web.
+2026-11-16T00:08:57.504Z,plugslim,0.1.2,leegyeongpil,MIT,143013,"Keep only the skills you use from a Claude Code plugin, and measure the always-on skill-listing token cost."
+2026-11-16T00:09:02.144Z,@longzai-intelligence-one-digest-markdown/cli,0.0.1,joydragon,UNLICENSED,342981,Longzai Intelligence One Digest Markdown 工具 CLI
+2026-11-16T00:09:07.1Z,@chrismessina/raycast-harness,0.1.2,chrismessina,Apache-2.0,1050660,"Tested, explicit-verdict checks for building and shipping Raycast extensions. One CLI (rx) replaces the shell procedures agents used to re-type."
+2026-11-16T00:09:21.339Z,@usync/xml-parser,0.1.0,gera2ld,MIT,11553,"Lightweight XML to JSON parser with zero dependencies, for environments without DOMParser."
+2026-11-16T00:10:10.687Z,webgpu-canary,0.1.0,leegyeongpil,MIT,216022,"Choose the device and dtype that give correct answers on this machine for transformers.js in the browser, by checking real output against a baseline."
+2026-11-16T00:10:24.451Z,@val-rbxts/screen-effects,0.1.1,aster_valeor,MIT,19647,"Blendable camera warp, sway, color grading and vignette screen effects for roblox-ts."
+2026-11-16T00:10:36.734Z,@reneturcios/sweepdot,0.1.0,reneturcios,MIT,46905,"Domain availability checks, WHOIS records and TLD pricing from the registries, forwarded from the hosted dotsweep service. One bin serves a small CLI and the MCP server."
+2026-11-16T00:14:16.133Z,asciipaint,0.1.0,praffi,MIT,42754,"Paint any image, video, canvas or three.js scene as coloured ASCII glyphs on WebGL2."
+2026-11-16T00:17:12.316Z,band-design,0.0.0-stage,octopus-fe-bot,,333,Temporary package placeholder for staged publishing
+2026-11-16T00:18:09.762Z,archetype-profile-sdk,0.0.0-stage,lexusmas,,343,Temporary package placeholder for staged publishing
