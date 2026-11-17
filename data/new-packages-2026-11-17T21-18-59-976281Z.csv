@@ -1,0 +1,211 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-17T20:17:40.362Z,@lotseai/adapters,0.1.0,bennet0904,Apache-2.0,17004,"The adapters that ship with Lotse: nine hosting providers, three Git platforms and two database providers"
+2026-11-17T20:19:18.872Z,@ai-sdk/liquid,3.0.0,vercel-release-bot,Apache-2.0,69567,
+2026-11-17T20:20:49.78Z,@hood-toolkit/evm,0.1.0,robelmit,MIT,96551,"A small EVM JSON-RPC client and ABI helpers for Robinhood Chain: paced, retrying, with log ranges the public endpoint will serve. No dependencies."
+2026-11-17T20:20:56.113Z,@hood-toolkit/pons,0.1.0,robelmit,MIT,159993,"Pons V2 on Robinhood Chain: decode launches and trades, read a curve, quote a buy or a sell exactly, build the unsigned transaction and verify it before a wallet signs."
+2026-11-17T20:21:01.492Z,@hood-toolkit/bot-core,0.1.0,robelmit,MIT,304369,"The shared half of a community bot for Robinhood Chain launchpad tokens: a reader for the launch feed, token cards, trending, a buy bot that merges busy spells, rate limits, stores, and renderers for…"
+2026-11-17T20:21:08.384Z,@hood-toolkit/feed,0.1.0,robelmit,MIT,192649,"A launch feed for Robinhood Chain: every Pons launch, curve trade and graduation as one stream of events, from the moment of launch, to standard output or a Redis Stream. Needs only an RPC endpoint."
+2026-11-17T20:21:14.402Z,@hood-toolkit/mcp,0.1.0,robelmit,MIT,250298,"A read-only MCP server for Robinhood Chain launchpad tokens: read a Pons token and its curve, quote a trade, list its recent trades and recent launches. Runs over stdio or HTTP, holds no key, and has…"
+2026-11-17T20:21:20.19Z,@arctoolkit/evm,0.1.0,robelmit,MIT,95802,"The small EVM client the arctoolkit packages share: paced, retrying, with log ranges that are split when refused and never skipped. No dependencies."
+2026-11-17T20:21:23.12Z,@reneturcios/launchledger,0.1.0,reneturcios,MIT,46265,"Forwarding client for the Launchelion catalogue of launched AI tools: search the catalogue, fetch a listing's full detail, list same-category alternatives, and read the published paid add-on list. On…"
+2026-11-17T20:21:25.837Z,@arctoolkit/pay,0.1.0,robelmit,MIT,289001,"Non-custodial USDC and EURC payments on Arc: invoices with a unique amount or a per-invoice address, payment links and QR codes, payment detection from the chain, and signed webhooks. The gateway nev…"
+2026-11-17T20:21:43.505Z,@ohos-ports/shopware-pwa-nuxt3-module,1.2.0-beta.1,ljry,MIT,18943,[DEPRECATED] Use @shopware/nuxt-module instead. Nuxt 3 module for Shopware Frontends
+2026-11-17T20:22:12.097Z,@bazariodev/scrollback,1.0.0,bazario,MIT,722983,"React engine for bounded, paged, end-anchored scrollback timelines: a capped render window over cached history, page prefetch, reading-anchor preservation, tail following, and scroll memory."
+2026-11-17T20:22:22.565Z,pi-shell-highlight,0.1.0,novram,Apache-2.0,39928,"Shell command highlighting for pi's permission dialogs, used by pi-keeper: command names stand out and heredocs get their own language colors."
+2026-11-17T20:22:38.128Z,@sf-orglens/engine,0.1.0-next.0,taouani,Apache-2.0,2023343,"The OrgLens engine: sources, extraction, store and deterministic analysis engines behind one public API."
+2026-11-17T20:22:39.256Z,@totalmod/core,0.2.0,sumanprime,(AGPL-3.0-only OR LicenseRef-totalmod-Commercial),88001,
+2026-11-17T20:22:42.327Z,sf-orglens,0.1.0-next.0,taouani,Apache-2.0,253428,OrgLens command line: local-first impact analysis for Salesforce orgs and repositories.
+2026-11-17T20:22:53.109Z,@76yuh/tokn,0.1.0,76yuh,MIT,72725,"Count tokens and see what a prompt, file or whole repo costs across GPT, Claude, Gemini and more."
+2026-11-17T20:23:02.215Z,pi-keeper,0.1.0,novram,Apache-2.0,721859,"Permission modes for pi (default, auto and plan) with per-project allow, ask and deny rules and a plan you approve before any edit."
+2026-11-17T20:23:09.408Z,@exodus/x402-wallet-hints,0.1.0,olistic,Apache-2.0,22591,x402 extension that tells agents where to create a wallet that can pay
+2026-11-17T20:23:12.641Z,@totalmod/telemetry,0.2.0,sumanprime,(AGPL-3.0-only OR LicenseRef-totalmod-Commercial),47185,"Anonymous, opt-out usage counts for totalmod. No request text, code, prompts or file paths."
+2026-11-17T20:23:14.381Z,@totalmod/flags,0.2.0,sumanprime,(AGPL-3.0-only OR LicenseRef-totalmod-Commercial),59921,
+2026-11-17T20:23:15.149Z,pi-session-topic,0.1.0,novram,Apache-2.0,42031,"Names each pi session with a short topic title, so /resume shows what every session was about."
+2026-11-17T20:23:16.232Z,@totalmod/widget,0.2.0,sumanprime,(AGPL-3.0-only OR LicenseRef-totalmod-Commercial),84388,
+2026-11-17T20:23:18.426Z,@weft-framework/runtime,0.0.1,aleroycz,MIT,217232,"Weft runtime: output encoding, signals, the live-fragment protocol, in-place DOM morphing, the live connection (WebSocket with SSE fallback) and the browser client."
+2026-11-17T20:23:19.971Z,@totalmod/server,0.2.0,sumanprime,(AGPL-3.0-only OR LicenseRef-totalmod-Commercial),156402,
+2026-11-17T20:23:22.241Z,@weft-framework/data,0.0.1,aleroycz,MIT,297579,"Weft data layer: typed models whose @read/@write rules are enforced at the source of every query (and pushed into SQL), so authorization bypass (IDOR) is not expressible."
+2026-11-17T20:23:27.456Z,@weft-framework/server,0.0.1,aleroycz,MIT,1215616,"Weft server: live pages over WebSocket/SSE with signed sessions, CSRF, rate limiting and a strict CSP, on the Fetch API (Bun, Node, edge)."
+2026-11-17T20:23:29.239Z,pi-code-hygiene,0.1.0,yivas,MIT,25298,Run codehygiene on every file Pi writes or edits and report readability problems that linters miss.
+2026-11-17T20:23:30.602Z,@weft-framework/core,0.0.1,aleroycz,MIT,225070,"Weft core: permissions and tenancy for any app. Scoped roles over a tenant's tree of scopes, typed permissions, per-tenant custom roles and permissions, invites, with privilege escalation and owner l…"
+2026-11-17T20:23:34.424Z,@weft-framework/theme,0.0.1,aleroycz,MIT,16707,"Weft themes: design tokens as CSS variables, light/dark/system and custom themes from a typed config, no-flash swapping from a cookie, Tailwind v4 integration."
+2026-11-17T20:23:37.385Z,@weft-framework/i18n,0.0.1,aleroycz,MIT,37652,"Weft translations: ICU message catalogs with type-checked keys and parameters, locale negotiation (URL prefix, cookie, Accept-Language), localised routes, Intl formatting, lang/dir on <html>."
+2026-11-17T20:23:40.525Z,@weft-framework/ui,0.0.1,aleroycz,MIT,69179,"Weft UI: headless, accessible behaviour for components (focus trap, dismiss layers, roving focus, typeahead, positioning, dialog, popover, tabs, menu, tooltip, combobox, toast) as `use:` attachments."
+2026-11-17T20:23:44.643Z,@weft-framework/create,0.0.1,aleroycz,MIT,402287,Start a new Weft project: `npm create @weft-framework my-app`
+2026-11-17T20:23:49.003Z,@weft-framework/cli-win32-x64,0.0.1,aleroycz,MIT,2859227,The weft binary for Windows x64. Install @weft-framework/cli instead; it picks this up on its own.
+2026-11-17T20:23:52.185Z,@weft-framework/cli,0.0.1,aleroycz,MIT,5356,"The weft command: compiler, dev server, formatter and language server for Weft, as a prebuilt binary for your platform."
+2026-11-17T20:23:52.369Z,devsetupkit-cli,0.2.2,ikram_awol,MIT,72445,"Set up a developer machine with one command, and move your setup to a new PC or OS"
+2026-11-17T20:24:05.364Z,create-orble,0.2.0,lxe,UNLICENSED,3316,"Install the Orble CLI, sign in and make a box: npm create orble"
+2026-11-17T20:25:10.874Z,@upskale/flux-win32-x64,0.1.1,kulturersa,MIT,9950659,The flux CLI for win32 x64. Install @upskale/flux instead: it picks this one for you.
+2026-11-17T20:25:49.175Z,@woocommerce/extension-tooling,1.0.0,~woocommerce,GPL-3.0-or-later,113814,Shared build and development tools for WooCommerce extensions.
+2026-11-17T20:26:39.171Z,@player-ui/streaming-data-plugin-core,1.5.0-next.0,player-oss,,306555,
+2026-11-17T20:26:50.092Z,@ritsuwastaken/uobject,1.0.1,ritsuwastaken,Unlicense,61893,"read and write native object data in unreal engine 1 and 2 packages: textures, palettes, sounds, static meshes, skeletal meshes, animations"
+2026-11-17T20:27:58.502Z,@olc-sales/safe-html,1.0.0,jwoods1,ISC,5487,"Shared HTML sanitiser (sanitize-html allowlists) for OLC and B2B: catalogue text, Drupal formatted text, plain-text stripping"
+2026-11-17T20:28:34.39Z,@sirosfoundation/issuance-flow,0.2.1,leifj,BSD-2-Clause,22449,"Framework-free OpenID4VCI issuance UX — QR, deep link, and Digital Credentials API handover, driven by opaque handles only (no PII)"
+2026-11-17T20:28:40.215Z,@reneturcios/collegeplan,0.1.0,reneturcios,MIT,51278,"Forwarding client for the Launch529 open-data service: search colleges, read published costs, project future college costs, compare state 529 plans and check qualified 529 expenses. One bin serves a…"
+2026-11-17T20:28:49.785Z,@upskale/flux-win32-arm64,0.1.1,kulturersa,MIT,9194441,The flux CLI for win32 arm64. Install @upskale/flux instead: it picks this one for you.
+2026-11-17T20:29:18.719Z,@upskale/flux-darwin-x64,0.1.0,kulturersa,MIT,9859858,The flux CLI for darwin x64. Install @upskale/flux instead: it picks this one for you.
+2026-11-17T20:29:22.496Z,@ayanasharma0864/quick-utils,1.0.0,ayanasharma0864,MIT,11658,Tiny dependency-free TypeScript string and utility helpers
+2026-11-17T20:30:11.143Z,hawiyat,1.6.7-rc.1,hawiyat-team,MIT,1975,"The Hawiyat Kit CLI. Same tool as @hawiyat-team/hawiyat-claude, under the short name."
+2026-11-17T20:30:11.826Z,@open-artifact/wasm-canvas,0.1.0,jimliu,Apache-2.0,554771,"crates/open-artifact-canvas compiled to WebAssembly (generated/, built by scripts/build-wasm.mjs)."
+2026-11-17T20:30:13.522Z,create-stanford-press,0.1.0,kingofmit,MIT,9587,Create a Stanford Open Press scholarly publishing platform
+2026-11-17T20:30:29.817Z,@ferronhooi/aihub,0.0.1,ferronhooi,MIT,1003,"One small CLI for Azure DevOps team workflows used by coding agents (stories, pull requests, reviews, cherry-picks)."
+2026-11-17T20:30:30.766Z,@open-artifact/canvas-engine,0.1.0,jimliu,Apache-2.0,103709,"A generic WebGL2 canvas engine (crates/open-artifact-canvas via @open-artifact/wasm-canvas): TS owns the document, the engine mirrors it, draws every frame and handles pointer, wheel and camera."
+2026-11-17T20:30:38.606Z,@open-artifact/cli,0.1.0,jimliu,Apache-2.0,35165939,"The open-artifact command: the local Open Artifact daemon with its Shell and the built-in types (slides, design, design system, whiteboard), an MCP server for agent apps, and the hooks that bring pag…"
+2026-11-17T20:30:40.073Z,aamio-lan,0.1.0,aisenseapi,MIT,13870,"aamio over the local network: a transport under contract 3 that sends each frame as one UDP datagram, to an address or to everyone on the network, so two machines exchange aamio messages directly, al…"
+2026-11-17T20:30:41.231Z,@open-artifact/dc,0.1.0,jimliu,Apache-2.0,243297,"The Design Component (.dc.html) format: parser, template addressing, edits, checks, React renderer and the in-frame board runtime."
+2026-11-17T20:30:43.853Z,@open-artifact/design-core,0.1.0,jimliu,Apache-2.0,76124,"The Design artifact model: canvas.json, merging, view context and project checks."
+2026-11-17T20:30:46.363Z,@open-artifact/design-system-core,0.1.0,jimliu,Apache-2.0,114592,"The Design System artifact model: tokens.json grammar and tokens.css compiler, the index, components, assets, manifest and checks."
+2026-11-17T20:30:56.035Z,dsh-open-artifact,0.7.0,jimliu,Apache-2.0,46310497,"Open Artifact in DeepSeek Harness: the Artifact, ArtifactData and ArtifactComments tools, comments on artifact pages waking the session that owns them, the Open Artifact page in the sidebar listing t…"
+2026-11-17T20:30:58.315Z,@open-artifact/protocol,0.1.0,jimliu,Apache-2.0,120750,"The Open Artifact protocol: typed contracts shared by the daemon, harness adapters, type servers, the Shell and pages."
+2026-11-17T20:31:00.751Z,@open-artifact/runtime,0.1.0,jimliu,Apache-2.0,92054,"The window.openartifact page runtime: capability contracts, the local provider and the Shell protocol."
+2026-11-17T20:31:03.579Z,@open-artifact/ui,0.1.0,jimliu,Apache-2.0,318951,"Shared editor UI kit: Base UI primitives styled with Tailwind CSS, lucide icons, light and dark themes."
+2026-11-17T20:31:06.077Z,@open-artifact/editor-kit,0.1.0,jimliu,Apache-2.0,495747,"What every artifact editor shares: collaboration (comments, presence, history), roles and host session, Shell chrome reports, find, recovery stashes, line merge, announcements, chrome primitives and…"
+2026-11-17T20:31:08.726Z,@open-artifact/export-kit,0.1.0,jimliu,Apache-2.0,59797,"What the editors' exports share in the browser: DOM capture to SVG and pictures, the PDF text layer measured from rendered pages, picture shrinking and font stylesheet helpers."
+2026-11-17T20:31:12.928Z,@open-artifact/server-sdk,0.1.0,jimliu,Apache-2.0,1153481,"Shared code for Open Artifact type servers: the server skeleton, the Type API client, LAN sharing and a minimal WebSocket server."
+2026-11-17T20:31:15.537Z,@open-artifact/slides-core,0.1.0,jimliu,Apache-2.0,493075,"The Slides artifact model: the slide HTML subset, its compiler and serializer, deck.json, merging, view context and project checks."
+2026-11-17T20:31:18.121Z,@bielu/scalar-arazzo,0.0.0-placeholder.0,bielu,MIT,656,Placeholder that reserves the name so npm trusted publishing can be configured. The real package is published from GitHub Actions; do not install this version.
+2026-11-17T20:31:18.534Z,@open-artifact/wasm-export,0.1.0,jimliu,Apache-2.0,233303,"crates/open-artifact-export compiled to WebAssembly (generated/, built by scripts/build-wasm.mjs)."
+2026-11-17T20:31:20.976Z,@open-artifact/wasm-wb-geom,0.1.0,jimliu,Apache-2.0,599215,"Whiteboard geometry compiled from crates/open-artifact-wb-geom to WebAssembly (generated/, built by scripts/build-wasm.mjs), loaded synchronously."
+2026-11-17T20:31:50.523Z,@open-artifact/whiteboard-core,0.1.0,jimliu,Apache-2.0,1146818,"The Whiteboard artifact model: element schema and normalization, the document codec, geometry, arrows, hand-drawn ink, history, view context and the live sync engine."
+2026-11-17T20:32:01.315Z,maplibre-exact,0.1.0,birkskyum,MIT,148633,"MapLibre maps in Exact apps, drawn by mln-rs on Exact's GPU canvas"
+2026-11-17T20:32:01.619Z,@anubis.ai.id/anb-site-builder,0.1.4,atomrisenpm,MIT,1938775,Site builder that renders Anubis-doc Nunjucks patterns into static HTML
+2026-11-17T20:32:15.907Z,@upskale/flux-darwin-arm64,0.1.0,kulturersa,MIT,9280154,The flux CLI for darwin arm64. Install @upskale/flux instead: it picks this one for you.
+2026-11-17T20:32:19.726Z,phishclean-mcp-guard,1.0.0,chidambaram07,MIT,44110,"Firewall for AI agents: a stdio proxy in front of MCP servers that blocks risky tool calls, pins tool definitions against rug pulls, flags prompt injection in results and alerts Slack or Discord"
+2026-11-17T20:32:23.067Z,@anubis.ai.id/create-anb-site,0.1.4,atomrisenpm,MIT,19276,Scaffold a thin Anubis site project on @anubis.ai.id/anb-site-builder
+2026-11-17T20:32:50.484Z,@upskale/flux-linux-x64,0.1.0,kulturersa,MIT,9724513,The flux CLI for linux x64. Install @upskale/flux instead: it picks this one for you.
+2026-11-17T20:33:26.436Z,sandforge-pipeline,1.81.0,stephaneberthoz,MIT,2013,Kept for the sandforge package: this command is now `npx sandforge pipeline`.
+2026-11-17T20:33:48.174Z,@cumaru/cli-darwin-arm64,0.15.1,rntgspr,MIT,11040886,The cumaru darwin-arm64 binary.
+2026-11-17T20:33:56.961Z,@cumaru/cli-darwin-x64,0.15.1,rntgspr,MIT,11861492,The cumaru darwin-x64 binary.
+2026-11-17T20:34:03.987Z,@cumaru/cli-linux-arm64,0.15.1,rntgspr,MIT,12094713,The cumaru linux-arm64 binary.
+2026-11-17T20:34:10.86Z,@cumaru/cli-linux-x64,0.15.1,rntgspr,MIT,13288319,The cumaru linux-x64 binary.
+2026-11-17T20:34:27.233Z,apexuse-mcp,0.3.0,apexuse,MIT,21679,"Local-first cross-platform Computer Use MCP server using native Accessibility, Set-of-Mark visual grounding, OCR, and workflow memory"
+2026-11-17T20:34:32.754Z,@upskale/flux-linux-arm64,0.1.0,kulturersa,MIT,9110119,The flux CLI for linux arm64. Install @upskale/flux instead: it picks this one for you.
+2026-11-17T20:34:38.981Z,@upskale/flux,0.1.0,kulturersa,MIT,3503,"Flux: one source, compiled to a website and a Flutter app. The flux CLI."
+2026-11-17T20:34:45.862Z,@upskale/create-flux,0.1.0,kulturersa,MIT,3397,Start a Flux project: npm create @upskale/flux@latest
+2026-11-17T20:35:03.269Z,cashu-paywall,0.1.0,spider333,MIT,161960,"Charge per call in Cashu ecash: prepaid eck_ keys, NUT-24 HTTP 402 and an MCP adapter for Cloudflare Workers"
+2026-11-17T20:35:40.53Z,@reneturcios/stillspa,0.1.0,reneturcios,MIT,43152,"Forwarding client for the Latent Spa service: browse its text-first retreat experiences, read an experience's opening text, and read Warm Bath scenes. One bin serves a small CLI and the MCP server."
+2026-11-17T20:35:52.734Z,@weft-framework/cli-win32-arm64,0.0.1,aleroycz,MIT,2387534,The weft binary for Windows ARM64. Install @weft-framework/cli instead; it picks this up on its own.
+2026-11-17T20:35:56.892Z,@weft-framework/cli-linux-x64,0.0.1,aleroycz,MIT,2640826,The weft binary for Linux x64 (static). Install @weft-framework/cli instead; it picks this up on its own.
+2026-11-17T20:36:02.492Z,@weft-framework/cli-linux-arm64,0.0.1,aleroycz,MIT,2300340,The weft binary for Linux ARM64 (static). Install @weft-framework/cli instead; it picks this up on its own.
+2026-11-17T20:36:07.416Z,@weft-framework/cli-darwin-x64,0.0.1,aleroycz,MIT,2399743,The weft binary for macOS Intel. Install @weft-framework/cli instead; it picks this up on its own.
+2026-11-17T20:36:07.79Z,gatsby-plugin-camp-checklist,1.0.0,campkitchenus,MIT,13552,"Printable camp kitchen checklist for Gatsby: a React component with remembered ticks, plus a GraphQL node built from plugin options."
+2026-11-17T20:36:13.455Z,@weft-framework/cli-darwin-arm64,0.0.1,aleroycz,MIT,2247885,The weft binary for macOS Apple Silicon. Install @weft-framework/cli instead; it picks this up on its own.
+2026-11-17T20:37:06.442Z,create-ec2,0.1.2,heygarrison,MIT,35955,Create an AWS EC2 sandbox through the ComputeSDK platform. Independent integration by ComputeSDK.
+2026-11-17T20:37:50.392Z,@pendral/bellwether,0.1.0,rojithaevry,SEE LICENSE IN LICENSE,4948597,"Official TypeScript SDK, CLI and healthcare data toolkit for Bellwether: members, cohorts, measures and gaps, care management, claims, FHIR, HL7, X12, de-identification, knowledge graphs, embeddings,…"
+2026-11-17T20:38:02.707Z,pix-copia-e-cola,0.1.1,lucasalmeida-jpg,MIT,4724,Gera o código Pix copia e cola (BR Code) sem dependências
+2026-11-17T20:38:33.792Z,owlroute,0.1.0,owlrouter,AGPL-3.0-only,133853,Link-state routing over causal stamps for accelerator fabrics
+2026-11-17T20:38:47.794Z,cordova-plugin-ios-home-indicator,1.0.2,9t96,Apache-2.0,16849,Hides or shows the iOS home indicator
+2026-11-17T20:39:05.439Z,@jambudipa/ag-ui,0.1.0,marknorgate,MIT,786344,"AG-UI 1.0 server and client for Effect v4, over SSE and protobuf."
+2026-11-17T20:41:08.995Z,si-overnight,0.1.2,siguelabs,UNLICENSED,379484,"Install a portable overnight coding workflow for Codex, Claude Code, Antigravity, and pi."
+2026-11-17T20:41:55.931Z,@zachariaz/experience-context-core,0.1.0-dev.0,zachariaz,MIT,172572,"Shared experience-context contract: types, id grammar, context resolver, deterministic experiment assignment, explanation and validation. Zero runtime dependencies."
+2026-11-17T20:42:06.992Z,dbtour-source-sqlite,0.11.0,victorsaly,MIT,37192,"SQLite source for dbtour: tables, views, keys, relations, indexes, triggers, sizes and the comments in each CREATE, read from a file opened read-only, with nothing to install."
+2026-11-17T20:42:35.149Z,@a.incantalupo/web-tools,0.1.0,a.incantalupo,MIT,130859,"Checks and captures for any website: readability and contrast, screenshots, style snapshots and diffs, glyph and image checks, a site audit with niche profiles, your own signed-in browser (web-stack-…"
+2026-11-17T20:42:55.919Z,@reneturcios/cafeporch,0.1.0,reneturcios,MIT,45326,"Forwarding client for the Latent Grounds Cafe service: read the drinks menu, place a drink order, check on it, read the guestbook, and see who is at the bar. One bin serves a small CLI and the MCP se…"
+2026-11-17T20:43:18.743Z,@procedures/algebra,0.0.0-bootstrap.0,mark1russell7,MIT,531,A placeholder that lets npm trust the release workflow of mark1russell7/client. Use a later version.
+2026-11-17T20:43:36.781Z,dsh-ace-music,0.2.0,gladess,MIT,110279,"ACE Music MCP server for DeepSeek Harness: OAuth sign-in once, then write songs, continue a melody, upload audio, inspect and download tracks as native acemusic_* tools. Includes a MusicXML-to-ABC co…"
+2026-11-17T20:43:43.749Z,@procedures/optional,0.0.0-bootstrap.0,mark1russell7,MIT,533,A placeholder that lets npm trust the release workflow of mark1russell7/client. Use a later version.
+2026-11-17T20:44:04.149Z,ics-calendar-toolkit,0.2.0,lwojcik,MIT,35600,"Build, read and validate `.ics` calendar feeds and keep subscribers from being notified about events that haven't changed."
+2026-11-17T20:44:05.579Z,@procedures/predicates,0.0.0-bootstrap.0,mark1russell7,MIT,537,A placeholder that lets npm trust the release workflow of mark1russell7/client. Use a later version.
+2026-11-17T20:44:27.958Z,@procedures/quantity,0.0.0-bootstrap.0,mark1russell7,MIT,533,A placeholder that lets npm trust the release workflow of mark1russell7/client. Use a later version.
+2026-11-17T20:44:37.757Z,@jazzdaniel/sds-pure,0.1.0,rustu.pai,MIT,581367,"React components, layouts, icons, and design tokens from Figma's Simple Design System."
+2026-11-17T20:44:40.086Z,pymtheg,0.1.0,klivesey,MIT,9217559,A local tool for planning and checking software designs and for answering questions about existing code.
+2026-11-17T20:44:41.586Z,@sageox/ox-darwin-arm64,0.26.0,madhur-ox,MIT,174951917,The ox binary and adapters for darwin-arm64. Install @sageox/ox instead.
+2026-11-17T20:44:46.198Z,@katakit/core,0.1.0,judehunter,Apache-2.0,55346,Framework-independent Katakit primitives.
+2026-11-17T20:45:03.134Z,@mark1russell7/stack-risk,0.0.0-bootstrap.0,mark1russell7,MIT,561,A placeholder that lets npm trust the release workflow of mark1russell7/system-stack. Use a later version.
+2026-11-17T20:45:03.699Z,@sageox/ox-darwin-x64,0.26.0,madhur-ox,MIT,185194287,The ox binary and adapters for darwin-x64. Install @sageox/ox instead.
+2026-11-17T20:45:24.627Z,@mark1russell7/stack-tofu,0.0.0-bootstrap.0,mark1russell7,MIT,561,A placeholder that lets npm trust the release workflow of mark1russell7/system-stack. Use a later version.
+2026-11-17T20:45:26.325Z,@sageox/ox-freebsd-x64,0.26.0,madhur-ox,MIT,181603802,The ox binary and adapters for freebsd-x64. Install @sageox/ox instead.
+2026-11-17T20:45:38.104Z,cookie-parser-ease,0.0.1-security,npm,,442,security holding package
+2026-11-17T20:45:46Z,@sageox/ox-linux-arm64,0.26.0,madhur-ox,MIT,172559714,The ox binary and adapters for linux-arm64. Install @sageox/ox instead.
+2026-11-17T20:45:48.396Z,@workflow/world-cloudflare,0.0.0,vercel-release-bot,,745,"Seed for @workflow/world-cloudflare, provisioned by the npm provisioning control plane."
+2026-11-17T20:46:07.348Z,@sageox/ox-linux-x64,0.26.0,madhur-ox,MIT,183287132,The ox binary and adapters for linux-x64. Install @sageox/ox instead.
+2026-11-17T20:46:12.796Z,@sageox/ox,0.26.0,madhur-ox,MIT,4191,The SageOx CLI. Run npx @sageox/ox@latest install to put ox on your PATH and log in.
+2026-11-17T20:47:18.079Z,devhub-cli-cianneydev,0.8.0,cianneydev,MIT,75761,Le hub central du développeur moderne — CLI tout-en-un
+2026-11-17T20:47:23.495Z,pondsi,0.0.1,pondsi,SEE LICENSE IN LICENSE,4272,Placeholder package reserving the name 'pondsi' for Pondsi. Home of Diwen (迪文) — a machine-verifiable concept coordinate system for machine-to-machine communication. See https://github.com/Pondsi/dsh…
+2026-11-17T20:47:24.355Z,@mimicry-http/darwin-arm64,0.0.0-stage,roachadam,,348,Temporary package placeholder for staged publishing
+2026-11-17T20:47:27.981Z,@mimicry-http/darwin-x64,0.0.0-stage,roachadam,,346,Temporary package placeholder for staged publishing
+2026-11-17T20:47:31.738Z,@mimicry-http/linux-arm64,0.0.0-stage,roachadam,,347,Temporary package placeholder for staged publishing
+2026-11-17T20:47:34.815Z,@mimicry-http/linux-x64,0.0.0-stage,roachadam,,345,Temporary package placeholder for staged publishing
+2026-11-17T20:47:38.208Z,@mimicry-http/win32-arm64,0.0.0-stage,roachadam,,347,Temporary package placeholder for staged publishing
+2026-11-17T20:47:41.778Z,@mimicry-http/win32-x64,0.0.0-stage,roachadam,,345,Temporary package placeholder for staged publishing
+2026-11-17T20:48:52.404Z,@kislovvladislav/m0603-vlad,1.0.0,kislovvladislav,ISC,1269,Модуль отправки письма для лабораторной работы 06
+2026-11-17T20:49:02.782Z,agentests,1.0.0,feuersteiner,MIT,105525,Linting for intelligence: plain-language rules compiled into engineered checks and proved on your own evals.
+2026-11-17T20:49:32.982Z,@pli.dev/core,1.0.0,lesampsonconnor,Apache-2.0,321125,"Shared engine primitives for every Pli product: operation sessions, history, ids and errors."
+2026-11-17T20:49:57.204Z,tsdocrs,0.1.0,bnb,MIT,315523,"A TSDoc parser compiled to WebAssembly: the tree and messages @microsoft/tsdoc gives, from Rust"
+2026-11-17T20:50:04.983Z,@pli.dev/docs,1.0.0,lesampsonconnor,Apache-2.0,576813,"Pli Documents: a headless rich-text document model with operations, history and export to Markdown, HTML and DOCX."
+2026-11-17T20:50:07.457Z,@pli.dev/decks,1.0.0,lesampsonconnor,Apache-2.0,708648,"Pli Decks: a headless slide-deck model with masters, layouts and themes, operations, history, and PPTX, template and PDF files."
+2026-11-17T20:50:09.689Z,@pli.dev/react,1.0.0,lesampsonconnor,Apache-2.0,464869,React editor for Pli documents: a contenteditable view driven by the @pli.dev/docs engine.
+2026-11-17T20:50:09.948Z,@pli.dev/sheets,1.0.0,lesampsonconnor,Apache-2.0,2562230,"Pli Sheets: a headless spreadsheet model with Excel-compatible formulas, operations, history and CSV files."
+2026-11-17T20:50:10.7Z,@pli.dev/pdf,1.0.0,lesampsonconnor,Apache-2.0,739114,"Pli PDF: a headless PDF engine. Reads and writes PDF files, keeps annotations, pages and form values as plain JSON with invertible operations, and saves them back as real PDF."
+2026-11-17T20:50:13.079Z,@pli.dev/sheets-react,1.0.0,lesampsonconnor,Apache-2.0,1095458,"React spreadsheet editor for Pli: a grid, formula bar, toolbar and sheet tabs driven by the @pli.dev/sheets engine."
+2026-11-17T20:50:13.22Z,@pli.dev/pdf-react,1.0.0,lesampsonconnor,Apache-2.0,945009,"React PDF editor for Pli: thumbnails, continuous and single-page views, text selection and search, outline, annotation tools, page tools and form filling, driven by the @pli.dev/pdf engine."
+2026-11-17T20:50:13.231Z,@pli.dev/decks-react,1.0.0,lesampsonconnor,Apache-2.0,495986,"React slide editor for Pli: filmstrip, canvas, toolbar, speaker notes and present mode driven by the @pli.dev/decks engine."
+2026-11-17T20:50:37.414Z,@reneturcios/tracktrace,0.1.0,reneturcios,MIT,42984,"Forwarding client for the Last Scanned package-tracking service: check one tracking number, batch up to 100 numbers, and list carrier ids. One bin serves a small CLI and the MCP server."
+2026-11-17T20:50:44.662Z,promart-ui,0.0.1,luis_alberto_promart_dev,,2429624,Promart React component library
+2026-11-17T20:51:39.974Z,sailfork,0.0.1,fenilsonani,UNLICENSED,591,Official Sailfork SDK for TypeScript and JavaScript. In development.
+2026-11-17T20:52:09.901Z,diwen,6.2.0,pondsi,SEE LICENSE IN LICENSE,26763110,迪文（Diwen）概念坐标系统 open-core 包：开源加载壳 + 闭源核心 + 加密概念数据。允许商用、不可再分发、须署名 Pondsi。
+2026-11-17T20:52:10.441Z,@freecorps/ember-agent,0.8.0,hhs0001,MIT,125136,"AI agent component for Ember: persistent threads and messages, responses streamed to live queries (small row patches), tool calls, usage tracking; Workers AI and Vercel AI SDK models."
+2026-11-17T20:52:18.371Z,@freecorps/ember-migrations,0.8.0,hhs0001,MIT,39787,"Data migrations component for Ember: batches per shard with a persisted cursor, dry runs rolled back in a savepoint, reactive status and serial chains on the shard scheduler."
+2026-11-17T20:52:24.689Z,@freecorps/ember-testing,0.8.0,hhs0001,MIT,49636,"Typed test harness for Ember apps in Node (convex-test style): the real engine over node:sqlite, typed calls through the generated api, identities, scheduled jobs and typed error assertions."
+2026-11-17T20:52:28.579Z,@freecorps/ember-workpool,0.8.0,hhs0001,MIT,60432,"Workpool component for Ember: bounded parallelism per pool for actions and mutations, retries with backoff and a transactional onComplete, on the shard scheduler."
+2026-11-17T20:52:31.758Z,@freecorps/eslint-plugin-ember,0.8.0,hhs0001,MIT,14815,"ESLint rules for Ember apps: typed function references, synchronous queries and mutations, validated arguments, handled mutation promises."
+2026-11-17T20:52:33.235Z,mcpkey,0.1.0,johnnycapital,MIT,30144,"One command to add a data API's MCP server, with your key, to Claude Code, Codex, Cursor, Claude Desktop and VS Code. Asks first, backs up, idempotent."
+2026-11-17T20:52:38.128Z,@taitide/scaffold,0.1.0,taitide,MIT,25317,Unified Copier project scaffold and governance sync CLI for Taitide.
+2026-11-17T20:53:05.001Z,yesum-x402-mcp,1.0.0,yesum,MIT,87795,"MCP server exposing yesum's paid x402 microservices on Base (crypto data, grading, monitoring, reputation passports, dev tools)"
+2026-11-17T20:55:09.754Z,slot-book,1.0.2,akshyyyt,MIT,6499,"Simple slot booking engine for labs, libraries, or any resource."
+2026-11-17T20:56:27.199Z,accountctl,0.0.1,jklz,,533,ai session ctl
+2026-11-17T20:56:58.879Z,@ohos-ports/signalwire-docusaurus-plugin-llms-txt,1.2.2-beta.1,ljry,MIT,270235,Generate Markdown versions of Docusaurus HTML pages and an llms.txt index file (HarmonyOS port: ESM import-extension fixes for OpenHarmony Node runtime)
+2026-11-17T20:57:34.116Z,@gitmyabi/infi,1.0.0,gitmyabi-bot,Apache-2.0,158901,"Auto-generated TypeScript type bindings for INFI (build etherscan-infi-15975132-1794949033210, commit f953cd5, branch etherscan)"
+2026-11-17T20:57:36.875Z,@hniedner/sveltedt,0.0.0,hniedner,Apache-2.0,578,SvelteDT: a data table component for Svelte. Name reserved; the first release is in development.
+2026-11-17T20:58:03.842Z,@vesnalia/plugin-sdk,0.6.143,artem_mad,,6478532,The typed facade ALIA plugin authors compile against. The root preserves the complete `AliaPluginApi` and `AliaSdk` contract; `./app` is the frontend runtime that `alia plugin build` replaces with AL…
+2026-11-17T20:58:04.581Z,@contentcore/editor,0.2.0,yarlis1410,MIT,324798,"ContentCore Studio: a React UI to manage and edit ContentCore pages: page list, block editing with schema-driven forms, rich text, live validation and preview, for static (JSON) and API content."
+2026-11-17T21:00:04.029Z,@reneturcios/crawlsight,0.1.0,reneturcios,MIT,43747,"Forwarding client for the AI Visibility service: check a site's AI-search visibility, generate and validate llms.txt, and lint robots.txt for AI-crawler mistakes. One bin serves a small CLI and the M…"
+2026-11-17T21:00:47.064Z,@customyai/design-system-native,0.1.0,customyco,SEE LICENSE IN LICENSE,500656,"Customy Design System para React Native / Expo: mismos tokens que el DS web, tema derivado de appearance@1 con compuerta AA, primitivas accesibles y movimiento que respeta «reducir movimiento»."
+2026-11-17T21:01:23.563Z,sooner-email,0.1.0,erzenx,MIT,13404,Official JavaScript and TypeScript client for the Sooner email API
+2026-11-17T21:01:51.356Z,@katakit/event-log,0.1.0,judehunter,Apache-2.0,17651,Event log plugin for Katakit.
+2026-11-17T21:02:49.835Z,runpantheon,0.0.0,pantheonadmin,UNLICENSED,211,Placeholder. Install the Pantheon CLI with: npm install -g runpantheon
+2026-11-17T21:02:52.155Z,dsh-matriarc,0.1.0,simveit,MIT,153795,"Matriarc: a second model plans and reviews the work of a DeepSeek Harness (dsh) session, through a DSH subagent plugin that runs another coding agent."
+2026-11-17T21:02:52.968Z,@runpantheon/cli-darwin-arm64,0.0.0,pantheonadmin,UNLICENSED,229,Placeholder. Install the Pantheon CLI with: npm install -g runpantheon
+2026-11-17T21:02:55.398Z,@runpantheon/cli-darwin-x64,0.0.0,pantheonadmin,UNLICENSED,227,Placeholder. Install the Pantheon CLI with: npm install -g runpantheon
+2026-11-17T21:02:58.82Z,@runpantheon/cli-linux-x64,0.0.0,pantheonadmin,UNLICENSED,226,Placeholder. Install the Pantheon CLI with: npm install -g runpantheon
+2026-11-17T21:03:01.674Z,@runpantheon/cli-linux-arm64,0.0.0,pantheonadmin,UNLICENSED,228,Placeholder. Install the Pantheon CLI with: npm install -g runpantheon
+2026-11-17T21:03:05.567Z,@runpantheon/cli-win32-x64,0.0.0,pantheonadmin,UNLICENSED,226,Placeholder. Install the Pantheon CLI with: npm install -g runpantheon
+2026-11-17T21:03:08.947Z,@sharpfy/nextapi,0.2.1,developer_sharpfy,MIT,190271,"SDK oficial da NextAPI (CNPJ, CEP, sócios, mercado) para Node.js, Deno, Bun e edge. Sem dependências."
+2026-11-17T21:03:18.15Z,@exodus/x402-exodus-provider,0.1.0,olistic,Apache-2.0,16132,The Exodus wallet as an x402 wallet-hints provider
+2026-11-17T21:04:03.466Z,@syraio/ai-connect,0.1.0,devnww,,18603,Build AI Tools for AI Connect with a small TypeScript framework.
+2026-11-17T21:04:08.762Z,@syraio/create-ai-connect,0.1.0,devnww,,4513,Create a JavaScript tool project for AI Connect.
+2026-11-17T21:04:41.113Z,paperclip-plugin-agent-permissions-otomatik,0.1.0,otomatik.it,MIT,4289740,"Paperclip plugin to give any agent any of Paperclip's permission grants (including the ones the UI does not show), from one settings page."
+2026-11-17T21:04:57.192Z,@graphql-mesh/transport-connect,0.12.4,ardatan,MIT,466,Temporary first-publish stub for @graphql-mesh/transport-connect; real builds via CI snapshot
+2026-11-17T21:05:21.195Z,@kairotic/app,0.2.2,bonuoq,MPL-2.0,4763315,"The Kairotic app as files, for the claude.ai shell (site/shell.html) that loads it from jsDelivr"
+2026-11-17T21:05:24.419Z,layerlink,0.0.0,radishsoftware,UNLICENSED,351,"Reserved for Layerlink, the API for sites that don't have one. The real package ships at launch."
+2026-11-17T21:05:47.712Z,@zachariaz/strapi-plugin-experience-context,0.1.0-dev.0,zachariaz,MIT,565567,"Strapi v5 plugin: read-only Experience Manager extension for inspecting and simulating context-aware content (concepts, audience variations, experiment outcomes) authored through MCP"
+2026-11-17T21:06:13.533Z,layerlink-sdk,0.0.0,radishsoftware,UNLICENSED,366,"Reserved for Layerlink, the API for sites that don't have one. The real package ships at launch."
+2026-11-17T21:06:16.004Z,framewire,0.1.0,nwosaemeka,MIT,60861,"Typed, tiny messaging between a host page and the iframe it embeds."
+2026-11-17T21:06:23.201Z,layerlink-mcp,0.0.0,radishsoftware,UNLICENSED,366,"Reserved for Layerlink, the API for sites that don't have one. The real package ships at launch."
+2026-11-17T21:06:30.644Z,layerlink-cli,0.0.0,radishsoftware,UNLICENSED,366,"Reserved for Layerlink, the API for sites that don't have one. The real package ships at launch."
+2026-11-17T21:06:39.982Z,create-layerlink,0.0.0,radishsoftware,UNLICENSED,372,"Reserved for Layerlink, the API for sites that don't have one. The real package ships at launch."
+2026-11-17T21:06:58.388Z,@katakit/persistence,0.1.0,judehunter,Apache-2.0,22759,Adapter-based event persistence for Katakit.
+2026-11-17T21:07:25.561Z,@reneturcios/beamtable,0.1.0,reneturcios,MIT,51647,"Forwarding client for the Laser Materials Compare dataset service: inspect its columns and provenance, search and compare rows, and read column statistics and top values. One bin serves a small CLI a…"
+2026-11-17T21:07:50.53Z,hamlib-wasm,0.1.0,kraszdan,MIT AND LGPL-2.1-or-later,9015421,"Hamlib CAT control in the browser over Web Serial or in Node over node-serialport, compiled to WebAssembly"
+2026-11-17T21:07:51.59Z,@clafonta/mittens,0.1.0,clafonta,MIT,924811,Local-first HTTP mock server and recording proxy for developers.
+2026-11-17T21:08:00.324Z,cs2-web-client,1.0.0,dadscap,MIT,1463031,"Counter-Strike 2 inventory and storage units over Steam's own protocol, from a browser extension or Node."
+2026-11-17T21:09:04.008Z,imap-wizard,0.3.0,fe2-o3,LGPL-3.0-or-later,1578552,IMAP Wizard — email MCP server with IMAP + SMTP support
+2026-11-17T21:09:54.365Z,@mvdmio/statistics,0.2.0,mvdmio,,24191,"Records App views, Clicks, and Track events of a signed-in single-page app in mvdmio Statistics."
+2026-11-17T21:10:04.009Z,playwright-accessibility-auto,0.3.0-beta.1,arjunpawase2,MIT,489136,Deterministic accessibility monitoring for Playwright Test
+2026-11-17T21:10:07.887Z,@sksouk/lailao-analytics,0.1.0,sksouk,MIT,8366,"Explicit event tracking for Lailao Analytics in Web, React and Next.js apps."
+2026-11-17T21:10:18.029Z,@ai-workbench/dsh-toolbridge,0.1.0-rc.1,snstotz,,20905,AI 写作工作台：让公司主机上的 Claude Code / Codex 通过本机 DSH 调用 DSH 已注册的工具，审批由 DSH 原生负责。
+2026-11-17T21:10:28.56Z,@asteby/metacore-integrations,0.0.0-stage,asteby-hq,,351,Temporary package placeholder for staged publishing
+2026-11-17T21:12:05.126Z,@katakit/react,0.1.0,judehunter,Apache-2.0,12833,Placeholder for future Katakit-specific React APIs.
+2026-11-17T21:12:28.819Z,worldsignals-scan,0.6.0,bmmseven,MIT,251385,"Check this computer for known and actively exploited vulnerabilities, free: one command, the fix for each in plain language, nothing sent without asking. Homebrew, macOS apps, apt/rpm/apk packages, n…"
+2026-11-17T21:13:19.742Z,react-bits-pro,0.1.0,davidhdev,UNLICENSED,48719,Connect your AI coding tools to the React Bits Pro MCP server in one step
+2026-11-17T21:13:39.357Z,@katakit/transcript-ingestion,0.1.0,judehunter,Apache-2.0,30664,Source-neutral transcript ingestion and conversation turn assembly.
+2026-11-17T21:14:06.988Z,@entifix/docs,0.0.0,herber230,MIT,274,Placeholder so trusted publishing can take over; the first real release is 0.23.1.
+2026-11-17T21:15:05.538Z,novvdesk-mcp,0.3.0,reputasyon,UNLICENSED,47829,"Novv Desk MCP sunucusu: Claude Code hesabındaki bilgisayarları uzaktan kullanır (ekran, fare, klavye, terminal, dosya)."
+2026-11-17T21:15:44.655Z,suitevitals,0.1.0,adrianjiga,MIT,184104,"The vital signs of your test suite. A CLI-first, zero-infrastructure tool that retroactively ingests CI artifacts and surfaces flaky tests."
+2026-11-17T21:15:50.228Z,@aistrike-dev/octopus-fonts,0.0.0,lukiffer,,127,Placeholder; real releases come from CI.
+2026-11-17T21:15:53.513Z,bb-plugin-goal,0.1.3,alexandrekm,MIT,1866955,Durable provider-independent Goals for BB threads
+2026-11-17T21:16:21.561Z,create-sproutsite,0.1.0,ixnode,Apache-2.0,58822,Create a Markdown-first website with Sproutsite and Astro.
+2026-11-17T21:16:41.178Z,stackping-i18n,0.0.0-stage,connectfy,,336,Temporary package placeholder for staged publishing
+2026-11-17T21:17:56.804Z,pinia-async-state,0.0.0-stage,v-codesmith,,339,Temporary package placeholder for staged publishing
+2026-11-17T21:18:47.914Z,@katakit/transcription,0.0.0-stage,judehunter,,344,Temporary package placeholder for staged publishing
