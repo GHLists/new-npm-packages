@@ -1,12 +1,33 @@
 {
   "list": {
-    "count": 81,
-    "from": "2026-11-16T23:18:18.55457Z",
-    "path": "data/new-packages-2026-11-17T00-18-37-330962Z.csv",
-    "to": "2026-11-17T00:18:37.330962Z"
+    "count": 86,
+    "from": "2026-11-17T00:18:37.330962Z",
+    "path": "data/new-packages-2026-11-17T01-18-25-477289Z.csv",
+    "to": "2026-11-17T01:18:25.477289Z"
   },
-  "pending": [],
-  "seq": 145143651,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@loomconsole/get",
+      "since": "2026-11-17T00:18:37.330962Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@robinwongm/liquid-glass",
+      "since": "2026-11-17T00:18:37.330962Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@sunnyln/lni-lexe-nodejs-win32-x64-msvc",
+      "since": "2026-11-17T00:18:37.330962Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@zhin.js/adapter-ipad-wechat",
+      "since": "2026-11-17T00:18:37.330962Z"
+    }
+  ],
+  "seq": 145153734,
   "source_truncated": false,
-  "window": "2026-11-17T00:18:37.330962Z"
+  "window": "2026-11-17T01:18:25.477289Z"
 }
