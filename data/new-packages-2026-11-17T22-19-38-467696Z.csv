@@ -1,0 +1,205 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-17T21:14:46.601Z,@reneturcios/deskreply,0.1.0,reneturcios,MIT,43523,"Forwarding client for the Larkella AI receptionist service: what it does, the industries it answers calls for, one industry in detail, owner FAQs, and how to get started. One bin serves a small CLI a…"
+2026-11-17T21:16:30.564Z,@cefis/dokii-core,0.1.14,ti-cefis,MIT,217357,"Núcleo do [Dokii](https://github.com/cefis/dokii): carrega `dokii.config.ts`, specs OpenAPI (JSON/YAML, Swagger 2 convertido para OpenAPI 3, overlays) e guias em Markdown, e gera os artefatos estátic…"
+2026-11-17T21:16:34.174Z,@cefis/dokii-mcp,0.1.14,ti-cefis,MIT,91670,Servidor [MCP](https://modelcontextprotocol.io) do [Dokii](https://github.com/cefis/dokii): expõe uma documentação gerada pelo `dokii build` para agentes de IA com as mesmas ferramentas do MCP do Rea…
+2026-11-17T21:16:37.585Z,@cefis/dokii-ai,0.1.14,ti-cefis,MIT,76821,Ask AI backend for Dokii sites: a docs-grounded chat endpoint (/_dokii/ask) over the Vercel AI SDK.
+2026-11-17T21:16:41.224Z,@cefis/dokii-theme,0.1.14,ti-cefis,MIT,1124285,"Tema do [Dokii](https://github.com/cefis/dokii): componentes React renderizados no build (layout, guias, referência de API, receitas, changelog), o bundle das ilhas do navegador (`client.js`) e a fol…"
+2026-11-17T21:16:45.346Z,@cefis/dokii-serve,0.1.14,ti-cefis,MIT,23962,"Production server for sites built with Dokii: static files, /mcp, /agentSearch the Try It proxy and the Ask AI endpoint, with a minimal runtime footprint."
+2026-11-17T21:16:48.425Z,@cefis/dokii-nest,0.1.14,ti-cefis,MIT,11730,"Módulo NestJS 11 para APIs de produtos documentados com o [Dokii](https://github.com/cefis/dokii). Expõe, na própria API:"
+2026-11-17T21:16:52.016Z,@cefis/dokii,0.1.14,ti-cefis,MIT,1457775,CLI do Dokii: gera documentação de API no estilo ReadMe a partir de specs OpenAPI e guias em Markdown.
+2026-11-17T21:17:42.56Z,@chunktrace/core,0.8.0,megancooper1000,MIT,81940,"Trace Schema v0, the deterministic diagnostic rule engine and the text report."
+2026-11-17T21:17:45.155Z,@chunktrace/sdk,0.8.0,megancooper1000,MIT,57241,"Instrumentation SDK: profiler, vector-store adapters and trace sinks."
+2026-11-17T21:17:48.802Z,@tourneyview/renderer-tests,0.10.3,inkfarer,MIT,200681,Test cases for graphics using tourneyview
+2026-11-17T21:17:52.344Z,@endaoment-ops/discord-design,1.0.0,endaoment-ops,MIT,69295,"Endaoment's Discord alert design: tones, colors, emoji, Discord limits, and the embed builder."
+2026-11-17T21:18:51.807Z,@keryn/sdk,0.1.0,keryn.dev,SEE LICENSE IN LICENSE,107273,"TypeScript client and types for the Keryn Cloud API (api.keryn.app), generated from its OpenAPI document."
+2026-11-17T21:19:50.346Z,ashby-location-filter,0.2.1,rctruta,Apache-2.0,43628,Canonical location normalizer and scope classifier for Ashby job boards
+2026-11-17T21:22:10.353Z,@d4n13l-4lf4/hn-crawler,1.0.0-beta.shadd6ee68,d4n13l-4lf4,MIT,3497,A CLI tool to scrape and analyze Hacker News entries
+2026-11-17T21:22:16.516Z,@reneturcios/benchwire,0.1.0,reneturcios,MIT,48973,Forwarding client for the LaraBench service: search recent Laravel jobs and recent Laravel ecosystem news and package releases from its published index. One bin serves a small CLI and the MCP server.
+2026-11-17T21:22:37.826Z,@onedef/mcp-elicitation-workflow,0.1.0,cahidarda,MIT,41500,"Elicitation workflows: TanStack Workflow runs that ask a human (MCP elicitation, same API) or the driving agent, and continue where they stopped — no code before the question runs twice. MCP tools in…"
+2026-11-17T21:23:53.03Z,onedef,0.1.0,cahidarda,MIT,95223,"Define an API recipe once — services, access modes, scopes. The slim core every @onedef factory consumes."
+2026-11-17T21:23:55.151Z,@onedef/cli,0.1.0,cahidarda,MIT,46815,"A complete CLI for a onedef contract: commands, help, tables, exit codes, and login (API keys and OAuth)."
+2026-11-17T21:23:57.091Z,@onedef/docs,0.1.0,cahidarda,MIT,10817,Spec-driven Mintlify docs for a onedef contract.
+2026-11-17T21:23:59.239Z,@onedef/mcp,0.1.0,cahidarda,MIT,37215,"MCP for a onedef contract: tools over Streamable HTTP or stdio, an MCP App, and the in-iframe app client."
+2026-11-17T21:24:01.63Z,@onedef/orpc,0.1.0,cahidarda,MIT,19587,"Host a onedef backend over oRPC (RPC + REST + OpenAPI) with one fetch handler, and call it from anywhere with the rpc() transport."
+2026-11-17T21:24:03.657Z,@onedef/process,0.1.0,cahidarda,MIT,7171,"The engine behind onedef processes (mutations marked `process: true`), on @onedef/mcp-elicitation-workflow: runs replayed by TanStack Workflow, kept in any key-value store; ApiErrors keep their codes."
+2026-11-17T21:24:05.856Z,@onedef/query,0.1.0,cahidarda,MIT,19836,"TanStack Query integration for onedef clients: typed queryOptions/mutationOptions for every op, query keys from the contract, and cache invalidation derived from it. Works with every TanStack Query a…"
+2026-11-17T21:24:07.874Z,@onedef/next,0.1.0,cahidarda,MIT,32909,"Next.js integration for onedef: withOnedef() builds your MCP App inside next build / next dev from one entry file, serveMcpApp() serves it from the /mcp route, and defineMcpApp() gives the app typed…"
+2026-11-17T21:24:10.279Z,@onedef/store,0.1.0,cahidarda,MIT,39715,"Implement an onedef contract on a key-value store: list/get/delete are generated, create and actions just return the object, process runs are kept there too. Files, Redis or memory."
+2026-11-17T21:24:10.502Z,@keryn/mcp,0.1.0,keryn.dev,SEE LICENSE IN LICENSE,72393,"The Keryn MCP server: scan, AI-BOM, explain, release decision and Keryn Cloud tools for any MCP client. stdio and streamable HTTP."
+2026-11-17T21:24:24.623Z,@relay-sh/dbauth,0.1.1,samuelmolling_relay,Apache-2.0,5893,Mint IAM tokens that log in to Relay databases
+2026-11-17T21:25:53.549Z,psychoscript,0.0.0,thdxr,MIT,115,coming soon
+2026-11-17T21:25:53.757Z,@underpin/config,1.12.0,piotrkulpinski,MIT,182485,Shared linter configurations and release tooling for TypeScript projects.
+2026-11-17T21:27:15.254Z,@designtools/board,0.1.0,flett,MIT,86484,"A board that feels like a design tool: pan, pinch and zoom over live pages, cards and notes, joined by measured connectors."
+2026-11-17T21:27:49.534Z,orqestrai,0.5.3,saculo,MIT,90200,An orchestrated software factory with human gates: the orq CLI and server
+2026-11-17T21:27:50.155Z,@designtools/comments,0.1.0,flett,MIT,129738,"Comments on prototypes, pinned to the module or element they're about, with no account: chosen by mouse or keyboard, stored in the project's own Postgres, worked through from the terminal."
+2026-11-17T21:27:57.075Z,@thenhello/sdk,0.2.0,vijeetyarla,,353943,Server-side JavaScript SDK for the ThenHello API
+2026-11-17T21:28:08.46Z,thenhello,0.2.0,vijeetyarla,UNLICENSED,1530,"Alias for @thenhello/sdk, the server-side JavaScript SDK and CLI for ThenHello."
+2026-11-17T21:28:16.631Z,@joniguerini/lume,1.9.0,joniguerini,MIT,1684770,"Lume Design System: tokens, 154 icons, 60 components, charts and screen patterns in native HTML, CSS and JavaScript, with no dependencies. React components included."
+2026-11-17T21:28:31.25Z,@waragps/design-system,1.0.0,sinnick,UNLICENSED,1041492,"Design system de Wara: tokens, estilos, comportamientos y documentación de componentes."
+2026-11-17T21:28:32.312Z,@nuxie/react-native,1.0.0,stillmotion,MIT,28906361,"Native Nuxie Experiences, Features and purchases for React Native and Expo"
+2026-11-17T21:28:37.831Z,@imessaging/matrix,0.1.0,slavb18,MIT,40652,Matrix Client-Server API transport for imessaging
+2026-11-17T21:29:14.703Z,@keryn/skills,1.2.0,keryn.dev,SEE LICENSE IN LICENSE,43802,"Keryn agent skills for Claude Code and Codex: review, diff, explain, fix, verify, MCP audit and Keryn Cloud. One command installs them into a project."
+2026-11-17T21:30:04.446Z,@reneturcios/partfits,0.1.0,reneturcios,MIT,48568,"Forwarding client for the Laptop Part Finder service: search OEM laptop parts, list the models each part fits, and read step-by-step replacement guides. One bin serves a small CLI and the MCP server."
+2026-11-17T21:30:07.648Z,@ohos-ports/intrnl-xxhash64,0.1.2-beta.0,ljry,MIT,7421,"xxHash64 implementation in JavaScript (HarmonyOS port of @intrnl/xxhash64, includes upstream streaming fix)"
+2026-11-17T21:30:27.505Z,@entelekheia/web-llm,0.2.88-ext.0,daniloborg.es,Apache-2.0,14932765,Hardware accelerated language model chats on browsers
+2026-11-17T21:30:48.043Z,open-rng-engine,0.0.0-reserved,christerfrestad,Apache-2.0,553,"Name reserved. General-purpose library for unbiased random outcomes on the platform CSPRNG. Pre-alpha, planning stage. No code yet."
+2026-11-17T21:31:20.094Z,@mklab-se/kloss,0.0.2,krist00fer,MIT,24250,"Build models from virtual bricks, by hand or through MCP"
+2026-11-17T21:32:07.739Z,trailwarden-mcp,0.2.1,tnalbant,Apache-2.0,1715615,"Local audit trail for coding agents (Claude Code, Codex, Gemini CLI, opencode, Cursor, GitHub Copilot, Hermes) over MCP. Nothing leaves your Mac."
+2026-11-17T21:32:31.058Z,@laptopdeposu/valuation-core,1.0.0,laptopdeposu,MIT,13905,Algorithmic hardware depreciation and secondary market valuation engine for laptops based on NIST SP 800-88 & thermal degradation matrices.
+2026-11-17T21:32:31.64Z,mannerly,0.0.0,lwojcik,MIT,450,A fetch client with good manners. Placeholder: the first release is coming.
+2026-11-17T21:33:04Z,majorrivers,1.0.0,arturkulig,ISC,174842,"A lightweight, reactive DOM rendering library built on RxJS."
+2026-11-17T21:34:18.593Z,@posthog/agent-eval,0.0.0,rafael_posthog,,2038,OIDC trusted publishing setup package for @posthog/agent-eval
+2026-11-17T21:34:22.234Z,n8n-nodes-the-y-crm,0.2.1,the-y_crm,MIT,229681,"n8n community node for The-Y CRM: contacts, conversations and messages, deals, tasks and notes, plus a trigger that registers its signed webhook automatically."
+2026-11-17T21:35:46.596Z,@kvbox/sdk,0.6.6,ghalex,MIT,214716,"kvbox TypeScript SDK: create, run and remove Firecracker microVMs (boxes), snapshots and volumes through the kvbox API."
+2026-11-17T21:36:50.466Z,@fc3/geometry,0.1.0,0xfc3,GPL-3.0-or-later,151944,geometry
+2026-11-17T21:36:50.485Z,@sychpl/flow-gantt,0.1.0,msych,MIT,332242,"React Gantt-style chart for dependency flows: tree grid, dependency-driven bar layout and connectors."
+2026-11-17T21:37:06.339Z,@precisa-saude/fhir-lab-access,3.3.0,rafael-precisa,Apache-2.0,942064,"Cliente do receptor para o protocolo Open Labs Brasil (rascunho): acesso a catálogo, agenda, agendamento e resultados de laboratório com consentimento do paciente"
+2026-11-17T21:37:17.29Z,@reneturcios/launchboard,0.1.0,reneturcios,MIT,46391,"Forwarding client for the Lanzamientos IA daily catalogue of newly launched AI tools: search the catalogue, fetch a listing's full detail, list same-category alternatives, and read the published paid…"
+2026-11-17T21:38:06.964Z,@mysten-incubation/x402-sui,0.0.0,hayes,Apache-2.0,11429,Placeholder for the x402 exact payment scheme for Sui. Real releases are published from MystenLabs/ts-sdks-incubation.
+2026-11-17T21:38:08.961Z,tinybase-element,0.1.0,zz-james,MIT,23710,"Zero-dependency base class for vanilla web components, plus a tiny Redux-style store"
+2026-11-17T21:38:59.39Z,@averlon-ai/cynos,0.1.1,agar0033,Apache-2.0,721661,"Scan a repository for security issues on your own machine: upstream Codex Security through cynos, with a knowledge base"
+2026-11-17T21:39:17.996Z,@averlon-ai/cynos-scan-engine,0.1.1,agar0033,Apache-2.0,1187771,Upstream @openai/codex-security through cynos with a knowledge base: the scan engine behind the cynos CLI and the cynos-scan action
+2026-11-17T21:40:29.263Z,gpu-estate,0.0.1-alpha.0,arjunvegda,ISC,254,
+2026-11-17T21:40:31.56Z,harem-altin-api,0.1.0,baristopal,MIT,71223,"Harem Altın API için resmi Pixcharp JavaScript/TypeScript istemcisi: canlı altın ve döviz alış-satış fiyatları, REST ve WebSocket. Official client for the Pixcharp Harem gold price API."
+2026-11-17T21:40:48.134Z,@rollstack/skills,1.3.0,younesjallouli90,MIT,44636,"Build decks from your company's data, and refresh, schedule and send reports, with Rollstack's MCP server and skills."
+2026-11-17T21:41:43.629Z,@fc3/image,0.1.0,0xfc3,GPL-3.0-or-later,152825,image
+2026-11-17T21:42:33.374Z,@firstpick/pi-extension-model-research,0.1.0,firstpick,MIT,242478,"Research two model providers, exchange evidence-based reviews, and draft a model-routing skill in Pi or T3 Code."
+2026-11-17T21:42:51.797Z,@firstpick/pi-skill-pr-writing,0.1.0,firstpick,MIT,21558,"Agents should invoke this skill whenever they write, draft, or revise a pull request title or description. Produces short, evidence-first PR text in the style of the T3 Code and Pi maintainers."
+2026-11-17T21:42:57.041Z,@firstpick/pi-skill-rust-rewrite,0.2.0,firstpick,MIT,124158,"Assess, plan, and verify behavior-preserving Rust migrations with a portable Agent Skill, a user-decision catalogue, record shapes, and a large-scale port path."
+2026-11-17T21:42:58.794Z,@firstpick/pi-skill-sailfishos,0.1.0,firstpick,MIT,65990,"Portable Agent Skill for safe Sailfish OS diagnostics, packages, repositories, services, apps, and SDK workflows."
+2026-11-17T21:42:59.749Z,tidjan-autopik,2.0.0,tidjan,MIT,187606,"Autopik — Universal Multi-Provider Illustration Platform & CLI for AI Coding Agents (unDraw, Open Peeps, IRA Design, Storyset, DrawKit, ManyPixels)"
+2026-11-17T21:43:18.841Z,@serverlessinbox/mail-server,0.6.2,jwpkg,Apache-2.0,1887422,CDK construct library for MailServer infrastructure
+2026-11-17T21:43:18.91Z,@serverlessinbox/mail-server-cdk-shared,0.6.2,jwpkg,Apache-2.0,1648904,Shared CDK artifact-resolution infrastructure for mailbox packages
+2026-11-17T21:43:18.929Z,@serverlessinbox/mail-server-cognito,0.6.2,jwpkg,Apache-2.0,804334,Cognito auth constructs for Serverless Inbox MailServer
+2026-11-17T21:43:44.084Z,@bhabani0_0/my-ai-code,1.1.0,bhabani0_0,MIT,20559,AI coding assistant for your terminal powered by Google Gemini
+2026-11-17T21:44:05.205Z,@willperacchio/claudewrapped,0.1.0,willperacchio,MIT,134599,"Your year in Claude Code, Spotify Wrapped style. 100% local — nothing leaves your machine."
+2026-11-17T21:44:23.268Z,@reneturcios/modelprice,0.1.0,reneturcios,MIT,56295,"LLM API prices by seller: model search, per-seller prices, cost estimates and bill pricing — forwarded from the hosted easiapiai.com MCP service. One bin serves a small CLI and the MCP server."
+2026-11-17T21:44:33.69Z,accordion-animationtiming-authorization,0.0.1-security,npm,,484,security holding package
+2026-11-17T21:44:37.831Z,actionbars-infinitescroll-searchbar,0.0.1-security,npm,,476,security holding package
+2026-11-17T21:44:41.756Z,analytics-readability-gestures,0.0.1-security,npm,,466,security holding package
+2026-11-17T21:44:45.904Z,async-protobuf-av,0.0.1-security,npm,,440,security holding package
+2026-11-17T21:44:49.695Z,backgroundprocessing-contextmenus,0.0.1-security,npm,,472,security holding package
+2026-11-17T21:44:53.673Z,barcodescanner-network-webgl,0.0.1-security,npm,,462,security holding package
+2026-11-17T21:44:57.855Z,barcodescanner-reconnect,0.0.1-security,npm,,454,security holding package
+2026-11-17T21:45:00.724Z,@lagunacreek/theme,0.0.1,mfreemanlc,MIT,297150,Laguna Creek design themes.
+2026-11-17T21:45:01.966Z,buildautomation-touch,0.0.1-security,npm,,448,security holding package
+2026-11-17T21:45:05.842Z,continuousintegration-cicd-compression,0.0.1-security,npm,,482,security holding package
+2026-11-17T21:45:09.659Z,custom-save-area-block,0.0.1-security,npm,,450,security holding package
+2026-11-17T21:45:14.64Z,datapersistence-profiling,0.0.1-security,npm,,456,security holding package
+2026-11-17T21:45:18.571Z,datapersistence-steppers-ai,0.0.1-security,npm,,460,security holding package
+2026-11-17T21:45:20.903Z,homebridge-abode-plus,1.1.0,robfan,MIT,98178,"Homebridge plugin that brings Abode garage doors, door locks, switches, dimmers and bulbs into HomeKit, with two-factor authentication support."
+2026-11-17T21:45:23.597Z,designsystem-vector,0.0.1-security,npm,,444,security holding package
+2026-11-17T21:45:27.323Z,documents-widgets,0.0.1-security,npm,,440,security holding package
+2026-11-17T21:45:30.658Z,openmill,0.2.0,zachmcm,MIT,100335,A local software factory that turns design docs into pull requests.
+2026-11-17T21:45:31.681Z,dropdown-thread,0.0.1-security,npm,,436,security holding package
+2026-11-17T21:45:35.028Z,verifyetb,0.1.1,thewadeh,MIT,7371,Check an Ethiopian bank or wallet receipt from your own app.
+2026-11-17T21:45:36.081Z,enzyme-optimization-bluetooth,0.0.1-security,npm,,464,security holding package
+2026-11-17T21:45:40.015Z,expandingcards-socket-virtualization,0.0.1-security,npm,,478,security holding package
+2026-11-17T21:45:44.366Z,fallback-datepicker-fcm,0.0.1-security,npm,,452,security holding package
+2026-11-17T21:45:48.744Z,fcm-gps-database,0.0.1-security,npm,,438,security holding package
+2026-11-17T21:45:52.839Z,firebase-readability,0.0.1-security,npm,,446,security holding package
+2026-11-17T21:45:56.842Z,flexbox-oauth-machinelearning,0.0.1-security,npm,,464,security holding package
+2026-11-17T21:46:00.728Z,font-picker-responsive,0.0.1-security,npm,,450,security holding package
+2026-11-17T21:46:05.304Z,framerate-interaction-permissions,0.0.1-security,npm,,472,security holding package
+2026-11-17T21:46:09.585Z,imagegalleries-homescreen,0.0.1-security,npm,,456,security holding package
+2026-11-17T21:46:13.791Z,interaction-photos-infinitescroll,0.0.1-security,npm,,472,security holding package
+2026-11-17T21:46:18.092Z,ios-save-area-custom,0.0.1-security,npm,,446,security holding package
+2026-11-17T21:46:22.317Z,jest-macos,0.0.1-security,npm,,426,security holding package
+2026-11-17T21:46:26.778Z,json-asyncapi,0.0.1-security,npm,,432,security holding package
+2026-11-17T21:46:27.439Z,omp-sticky,1.3.0,achubbyninja,MIT,203031,A persistent yellow project sticky note for Oh My Pi terminal sessions.
+2026-11-17T21:46:30.839Z,lazyloading-haptics,0.0.1-security,npm,,444,security holding package
+2026-11-17T21:46:35.193Z,listviews-actionbars,0.0.1-security,npm,,446,security holding package
+2026-11-17T21:46:39.594Z,macos-contentprovider-optimizingassets,0.0.1-security,npm,,482,security holding package
+2026-11-17T21:46:43.833Z,notificationcenter-enzyme-jest,0.0.1-security,npm,,466,security holding package
+2026-11-17T21:46:48.062Z,onesignal-hooks,0.0.1-security,npm,,436,security holding package
+2026-11-17T21:46:52.024Z,personal-custom-button,0.0.1-security,npm,,450,security holding package
+2026-11-17T21:46:53.047Z,@soffits/dsh-work,0.1.4,soffits,MIT,104027,"A work page for DeepSeek Harness: the issues of a work board as columns, and each issue as a group chat of its comments and the DSH sessions working on it, where people and agents talk and @mention e…"
+2026-11-17T21:46:55.844Z,platformspecific-webgl,0.0.1-security,npm,,450,security holding package
+2026-11-17T21:46:59.944Z,profiling-keychain,0.0.1-security,npm,,442,security holding package
+2026-11-17T21:47:04.163Z,pushnotifications-gesturerecognition,0.0.1-security,npm,,478,security holding package
+2026-11-17T21:47:07.82Z,react-native-game-utils,0.0.1-security,npm,,452,security holding package
+2026-11-17T21:47:12.275Z,request-performance,0.0.1-security,npm,,444,security holding package
+2026-11-17T21:47:16.31Z,request-tracking-sqlite,0.0.1-security,npm,,452,security holding package
+2026-11-17T21:47:20.289Z,socket-network,0.0.1-security,npm,,434,security holding package
+2026-11-17T21:47:24.505Z,streaming-downloads,0.0.1-security,npm,,444,security holding package
+2026-11-17T21:47:28.548Z,svg-photos,0.0.1-security,npm,,426,security holding package
+2026-11-17T21:47:32.506Z,themecolors-debug-renderloop,0.0.1-security,npm,,462,security holding package
+2026-11-17T21:47:36.456Z,touchid-images,0.0.1-security,npm,,434,security holding package
+2026-11-17T21:47:40.139Z,transitions-promise-segmentedcontrol,0.0.1-security,npm,,478,security holding package
+2026-11-17T21:47:44.041Z,universallinks-unit,0.0.1-security,npm,,444,security holding package
+2026-11-17T21:47:48.021Z,userinterface-machinelearning,0.0.1-security,npm,,464,security holding package
+2026-11-17T21:47:51.974Z,virtualization-compression-collapse,0.0.1-security,npm,,476,security holding package
+2026-11-17T21:48:45.397Z,storely-printer-agent,0.3.0,sortiz-dev,UNLICENSED,107674,"Agente local de impresión de Storely: ESC/POS, cajón monedero, cola en disco y asistente de configuración en el navegador."
+2026-11-17T21:51:25.301Z,node-red-contrib-taiponrock-iot,1.0.0,syrinee,ISC,13824,A simple node that converts message payloads to lower-case.
+2026-11-17T21:51:35.901Z,@reneturcios/groupfare,0.1.0,reneturcios,MIT,53478,"Group flight fares forwarded from the hosted easygroupflights MCP service: service info, a never-sent group quote brief, small-party fare search and single offers. One bin serves a small CLI and the…"
+2026-11-17T21:51:47Z,diwen-mcp,6.2.0,pondsi,SEE LICENSE IN LICENSE,35161,迪文（Diwen）MCP server：开源零依赖 stdio 壳，暴露 diwen_map / diwen_describe，依赖已发布的 diwen 核心包（闭源核心+加密概念数据）。允许商用、不可再分发、须署名 Pondsi。
+2026-11-17T21:55:36.623Z,@gitmyabi/kloud,1.0.0,gitmyabi-bot,Apache-2.0,140247,"Auto-generated TypeScript type bindings for KLOUD (build etherscan-kloud-b8da418f-1794952517068, commit 32d8c6b, branch etherscan)"
+2026-11-17T21:56:39.543Z,@adidas-data-mesh/consumer-journey,0.0.1-security,npm,,478,security holding package
+2026-11-17T21:57:00.444Z,@kodenova/sap-b1-mcp,0.1.0,kodenova,MIT,65457,"Read-only MCP server for SAP Business One Service Layer: business partners, items, orders, invoices, stock."
+2026-11-17T21:58:25.195Z,@wxagent/sdk,0.1.1,hxyyy,MIT,45108,"WeChat bot SDK for Node.js, built on Tencent's official iLink bot API: QR login, receive and send messages."
+2026-11-17T21:58:33.625Z,tidjan-autopic,2.0.1,tidjan,MIT,201610,"Autopic — Universal Multi-Provider Illustration Platform & CLI for AI Coding Agents (unDraw, Open Peeps, IRA Design, Storyset, DrawKit, ManyPixels)"
+2026-11-17T21:58:55.827Z,@reneturcios/tabletimes,0.1.0,reneturcios,MIT,44381,"Restaurant venue directory and live table availability, forwarded from the hosted EatLoyalist MCP service. Read-only subset: venue lookup and availability only, no booking tools. One bin serves a sma…"
+2026-11-17T21:59:19.187Z,postfast,0.15.3,peturgeorgievv,MIT,3721,"PostFast MCP server: schedule social media posts, answer comments and read analytics from AI tools"
+2026-11-17T21:59:39.111Z,@dojo-ng/toast,0.1.1,bitranch,BSD-3-Clause,49502,"Dojo NG toast manager: a toast() call, a queue, and the dj-toaster region"
+2026-11-17T22:00:11.681Z,@locomotivemtl/component-islands,0.1.0,arnvvd,MIT,51775,Vite plugin and Astro integration that lazy-loads custom elements (islands) with client directives.
+2026-11-17T22:00:32.831Z,oxlint-plugin-go-internal,0.0.0,third774,MIT,23688,An oxlint JS plugin that enforces Go's internal directory rule on TypeScript and JavaScript imports
+2026-11-17T22:00:35.879Z,iobroker.alarmclock,0.0.1,vganswind,MIT,245523,alarmclock
+2026-11-17T22:01:37.129Z,beastx,0.1.1,codewithkenzo,MIT,1960672,Settings app and taskbar battery for the WLMouse Beast X 4K on Linux
+2026-11-17T22:01:43.247Z,@pulsesend/nodemailer,0.1.0,jiordikengne,MIT,38368,Nodemailer transport for PulseSend: send through the PulseSend API without changing your Nodemailer code.
+2026-11-17T22:02:11.723Z,@mnmal-ai/cortext-omp,1.0.0-alpha.17,mnmal-ai-one,Apache-2.0,147198,"Cortext — the OMP (oh-my-pi) skin: cold-start and inbox seams as an OMP extension, bundling the @mnmal-ai/synoptic host into a committed dist artifact."
+2026-11-17T22:05:06.734Z,@storyteller/audiobooks,0.7.0,smoores,MIT,90475,
+2026-11-17T22:05:12.218Z,@wxagent/cli,0.1.1,hxyyy,MIT,47629,"A personal AI assistant that lives in your WeChat: chat, reminders, pluggable models."
+2026-11-17T22:06:06.652Z,@mj-biz-apps/tasks-ng-widgets,0.0.0,ianzygmunt,,2079,OIDC trusted publishing setup package for @mj-biz-apps/tasks-ng-widgets
+2026-11-17T22:06:15.348Z,@reneturcios/buzzmeter,0.1.0,reneturcios,MIT,45543,"Reddit and Hacker News sensing, forwarded from the hosted social-pulse service: trending topics by momentum, mention count, velocity and sentiment for a term, top posts and discussion themes for a qu…"
+2026-11-17T22:06:42.852Z,@juanma_v_b/md-link-checker,0.1.0,juanma_v_b,MIT,66168,"CLI that finds broken links, missing anchors and undefined references in Markdown files."
+2026-11-17T22:06:49.465Z,astra2d-cli,1.0.0,damet24,MIT,160024,CLI oficial para el motor Astra2D.
+2026-11-17T22:06:56.126Z,endpaper,0.0.1,santidarman,UNLICENSED,534,Endpaper: documentation sites that read well. Coming soon.
+2026-11-17T22:07:25.533Z,pi-stuff,0.4.6,villavic,MIT,156827,Personal Pi coding-agent extensions
+2026-11-17T22:07:55.021Z,react-native-turnstile-bridge,0.1.0,mtvs,MIT,377453,"Cloudflare Turnstile captcha for React Native and Expo. A self-resizing widget, a headless mode for invisible keys and a controller, on iOS, Android and web."
+2026-11-17T22:08:10.714Z,sf-myplant,1.0.0,rendermelon,GPL-3.0-or-later,70764,Node.js & TypeScript client for the Semper Florens MyPlant API
+2026-11-17T22:08:11.202Z,@astra-spec/mystra,0.1.0-rc0,eiffl,BSD-3-Clause,3333070,A MyST plugin that imports/cites ASTRA analysis components into Markdown reports
+2026-11-17T22:08:37.496Z,@bonniepdf/signing,2026.11.12,codefocusuk,SEE LICENSE IN LICENSE,266989,"Digital signatures for BonniePDF. Embeds invisible or visible CMS signatures (RSA or ECDSA), the PAdES baseline levels B-B through B-LTA and RFC 3161 timestamps into a BonniePDF-generated PDF via min…"
+2026-11-17T22:09:22.011Z,create-aura-app,1.0.0,mikeykunx364,MIT,1640767,Create a starter project for the Aura Ruby framework
+2026-11-17T22:09:40.114Z,diwen-dsh,0.2.0,pondsi,SEE LICENSE IN LICENSE,19232,迪文（Diwen）DeepSeek Harness（dsh）Cordis 插件：开源壳，依赖已发布 diwen 核心包。注册 diwen_map/diwen_describe 工具 + 运行时 skill diwen + 确定性强制层（pre-step/post-execute/projection/systemPrompt 闭环）。允许商用、不可再分发、须署名 Pondsi。
+2026-11-17T22:10:00.811Z,@dogsbay/format-html,0.2.0-beta.179,gabrielmcgoldrick,MIT,109282,"HTML importer for Dogsbay: semantic HTML to TreeNode[], generator profiles (DITA-OT HTML5 first), site adapters (docs.redhat.com first) and a per-page fidelity report. Never fetches; runs in Node, br…"
+2026-11-17T22:10:04.605Z,kartyk-github-takedown-l01-01,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:10:17.033Z,kartyk-github-takedown-l01-02,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:10:36.08Z,kartyk-github-takedown-l01-03,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:10:52.619Z,create-caveman-agent,0.1.0,juliusbrussee,Apache-2.0,1352,Runs @caveman-ai/create-agent. Prefer: npm create @caveman-ai/agent@latest
+2026-11-17T22:10:54.453Z,kartyk-github-takedown-l01-04,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:11:12.64Z,kartyk-github-takedown-l01-05,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:11:30.847Z,kartyk-github-takedown-l01-06,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:11:48.931Z,kartyk-github-takedown-l01-07,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:12:06.902Z,kartyk-github-takedown-l01-08,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:12:11.935Z,@reneturcios/ossfit,0.1.0,reneturcios,MIT,49912,Check maintained open-source candidates against your project's constraints before you adopt one. ossfit is a local forwarding client for the hosted Code Synapse catalogue service: it serves the captu…
+2026-11-17T22:12:25.285Z,kartyk-github-takedown-l01-09,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:12:43.495Z,kartyk-github-takedown-l01-10,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:13:01.158Z,outboundsync,0.1.0-stage,osiharris,MIT,82369,OutboundSync CLI — call the OutboundSync API from your terminal
+2026-11-17T22:13:03.419Z,kartyk-github-takedown-l01-11,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:13:19.855Z,@ohos-ports/snyk-vervet,0.0.0-stage,ljry,,345,Temporary package placeholder for staged publishing
+2026-11-17T22:13:21.415Z,kartyk-github-takedown-l01-12,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:13:39.866Z,kartyk-github-takedown-l01-13,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:13:58.611Z,kartyk-github-takedown-l01-14,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:14:11.866Z,@carcolacha/signature-style,4.2.0,carcolacha,MIT,917092,"Your personal Signature Style UI theme in one command: Token Cascade, Override Protocol, zero-dependency CSS core. Three verified surface themes (Mocha dark default, OLED true-black, Daylight high-co…"
+2026-11-17T22:14:17.085Z,kartyk-github-takedown-l01-15,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:14:35.512Z,kartyk-github-takedown-l01-16,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:14:50.944Z,@siebix/create-effect,0.1.0,siebeburgerhout,MIT,48141,"Scaffold full-stack Effect apps on Cloudflare, deployed with Alchemy."
+2026-11-17T22:14:53.88Z,kartyk-github-takedown-l01-17,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:15:12.202Z,kartyk-github-takedown-l01-18,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:15:24.928Z,burb-world,0.0.1,pasztormark,ISC,2524,Work in progress. Not ready for use yet.
+2026-11-17T22:15:30.554Z,kartyk-github-takedown-l01-19,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:15:43.279Z,@ohos-ports/shopify-dev-mcp,0.0.0-stage,ljry,,349,Temporary package placeholder for staged publishing
+2026-11-17T22:15:48.788Z,kartyk-github-takedown-l01-20,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:16:07.817Z,kartyk-github-takedown-l01-21,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:16:27.062Z,kartyk-github-takedown-l01-22,0.0.0-stage,kartyk-github,,351,Temporary package placeholder for staged publishing
+2026-11-17T22:16:45.407Z,kartyk-github-takedown-l01-23,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:17:03.85Z,kartyk-github-takedown-l01-24,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:17:21.974Z,kartyk-github-takedown-l01-25,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:17:40.398Z,kartyk-github-takedown-l01-26,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:17:58.698Z,kartyk-github-takedown-l01-27,0.0.0-stage,kartyk-github,,351,Temporary package placeholder for staged publishing
+2026-11-17T22:18:17.466Z,kartyk-github-takedown-l01-28,1.0.0,kartyk-github,ISC,142,Throwaway fixture for npm durable bulk job testing
+2026-11-17T22:18:24.679Z,buffalo-client,0.0.0-stage,antidino35,,336,Temporary package placeholder for staged publishing
+2026-11-17T22:18:40.87Z,kartyk-github-takedown-l01-29,0.0.0-stage,kartyk-github,,351,Temporary package placeholder for staged publishing
+2026-11-17T22:18:59.191Z,kartyk-github-takedown-l01-30,0.0.0-stage,kartyk-github,,351,Temporary package placeholder for staged publishing
+2026-11-17T22:19:17.293Z,kartyk-github-takedown-l01-31,0.0.0-stage,kartyk-github,,351,Temporary package placeholder for staged publishing
+2026-11-17T22:19:35.503Z,kartyk-github-takedown-l01-32,0.0.0-stage,kartyk-github,,351,Temporary package placeholder for staged publishing
