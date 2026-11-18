@@ -1,0 +1,121 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-18T00:16:48.75Z,@graelo/3dprint-oracle,0.1.3,graelo,MIT,2047113,3D printing filament and materials knowledge MCP server
+2026-11-18T00:17:39.896Z,@breadai/graph-neo4j,0.1.0,matteozambon89,MIT,17729,Neo4j Graph for bread — named catalog queries on config.graph. Not a BreadStore.
+2026-11-18T00:17:42.051Z,@breadai/memory,0.1.0,matteozambon89,MIT,28808,"Memory plugin for bread — memorize, recall, forget, and dream, scoped to the agent and the run principal."
+2026-11-18T00:17:43.685Z,@breadai/provider-embeddings,0.1.0,matteozambon89,MIT,13522,Embedding providers for bread — 16 lazily-imported AI SDK embedding models as an EmbeddingRegistry for config.embeddings.
+2026-11-18T00:18:47.01Z,@jlaramie/androidtv-remote,0.2.0-rc.0,jlaramie,MIT,59072,Control Android TV / Google TV devices over the Android TV Remote v2 protocol (maintained fork of @kud/androidtv-remote)
+2026-11-18T00:19:28.033Z,@phineup/phicode-win32-arm64,1.0.0-rc.6,hasirciogli,SEE LICENSE IN LICENSE.md,121621488,phicode binary for win32-arm64
+2026-11-18T00:19:41.244Z,@phineup/phicode-win32-x64,1.0.0-rc.6,hasirciogli,SEE LICENSE IN LICENSE.md,138393066,phicode binary for win32-x64
+2026-11-18T00:19:43.377Z,@phineup/phicode,1.0.0-rc.6,hasirciogli,SEE LICENSE IN LICENSE.md,4241,"phicode, a terminal coding harness (short name pc)"
+2026-11-18T00:19:59.974Z,@d4rkgh057/ck3-strategy-advisor,0.2.0,d4rkgh057,MIT,330364,"A local, read-only Model Context Protocol server that reads your latest Crusader Kings III save and exposes your strategic situation to Claude as curated tools."
+2026-11-18T00:20:59.598Z,chainpay-checkout,0.3.0,chainpay_ac,MIT,154347,ChainPay embeddable checkout widget
+2026-11-18T00:21:24.602Z,@salve-software/react-native-nitro-subject,1.0.1,eumaninho54,MIT,192024,"Find the main subject of a photo and get its bounding box. Apple Vision on iOS, ML Kit Subject Segmentation via Google Play services on Android."
+2026-11-18T00:21:58.136Z,kuerly,0.1.0,muhamadbarzani,UNLICENSED,13096,Kuerly for your AI assistant: an MCP server that answers from an index of your GitHub repositories
+2026-11-18T00:22:27.671Z,auth-confirm,1.0.0,suboimaurice64,MIT,99888,"Framework-free login, logout and OTP confirmation overlays with customizable notifications."
+2026-11-18T00:23:52.153Z,a-sub-watcher,0.0.1-security,npm,,432,security holding package
+2026-11-18T00:24:06.602Z,@tnhorg/agent-skills,0.0.1-security,npm,,450,security holding package
+2026-11-18T00:24:44.36Z,@vercel/agent-chat,0.0.0,vercel-release-bot,,712,"Seed for @vercel/agent-chat, provisioned by the npm provisioning control plane."
+2026-11-18T00:25:31.533Z,@next/mcp,0.0.0,vercel-release-bot,,699,"Seed for @next/mcp, provisioned by the npm provisioning control plane."
+2026-11-18T00:25:37.974Z,@ai-ecoverse/py-bcrypt,0.0.0,trieloff,Apache-2.0,782,"Name reserved for @ai-ecoverse/py-bcrypt: bcrypt, modern password hashing for Python (used by paramiko). Install a later version; 0.0.0 is empty."
+2026-11-18T00:25:42.291Z,@ai-ecoverse/py-pyopenssl,0.0.0,trieloff,Apache-2.0,832,"Name reserved for @ai-ecoverse/py-pyopenssl: pyOpenSSL, Python's OpenSSL wrapper (certificates, keys, TLS contexts), on py-cryptography. Install a later version; 0.0.0 is empty."
+2026-11-18T00:27:19.886Z,@agentkoin/core,0.1.0,stostechnologies,MIT,71475,"AgentKoin (formerly AgentCoin) router client: find, route, order, pay (x402 exact or escrow), verify. Base Sepolia testnet only."
+2026-11-18T00:27:21.772Z,@agentkoin/agentkit,0.1.0,stostechnologies,MIT,11368,AgentKoin (formerly AgentCoin) action provider for Coinbase AgentKit. Base Sepolia testnet only.
+2026-11-18T00:27:23.72Z,@agentkoin/langchain,0.1.0,stostechnologies,MIT,6530,AgentKoin (formerly AgentCoin) tools for LangChain.js and LangGraph.js. Base Sepolia testnet only.
+2026-11-18T00:27:25.585Z,@agentkoin/mcp,0.1.0,stostechnologies,MIT,8902,Local stdio MCP server exposing AgentKoin (formerly AgentCoin) tools with a local testnet wallet. Base Sepolia testnet only.
+2026-11-18T00:27:27.372Z,@agentkoin/openai-agents,0.1.0,stostechnologies,MIT,6610,AgentKoin (formerly AgentCoin) tools for the OpenAI Agents SDK (TypeScript). Base Sepolia testnet only.
+2026-11-18T00:27:29.202Z,@agentkoin/vercel-ai,0.1.0,stostechnologies,MIT,6647,AgentKoin (formerly AgentCoin) tools for the Vercel AI SDK. Base Sepolia testnet only.
+2026-11-18T00:27:31.07Z,@agentkoin/x402-escrow-hint,0.1.0,stostechnologies,MIT,12152,Seller-side helper: attaches an 'agentcoin-escrow' extension to the seller's own x402 402 PaymentRequired body. AgentKoin (formerly AgentCoin). Base Sepolia testnet only. Zero dependencies.
+2026-11-18T00:27:31.789Z,create-willedtech-revealjs,0.2.0,herrerawilliamh,MIT,3156045,Generador de cursos y presentaciones Reveal.js con identidad WillEdTech e integración con Interact
+2026-11-18T00:27:33.174Z,@agentkoin/x402-fetch,0.1.0,stostechnologies,MIT,13332,fetch wrapper: x402 payments routed through the AgentKoin (formerly AgentCoin) index with escrow and delivery records. Base Sepolia testnet only.
+2026-11-18T00:30:06.212Z,@navaramap/material-schema,0.3.2-nightly.0.setup,keiya01,MIT OR Apache-2.0,173062,
+2026-11-18T00:30:44.896Z,react-glass-lens,0.1.0,lenderson,MIT,348239,"A draggable WebGL glass lens for React that really refracts the DOM under it: magnification, chromatic dispersion, Fresnel and soft shadows."
+2026-11-18T00:30:50.186Z,@ulm0/gonogo,0.1.1,ulm0,MIT,1557186,"Self-hosted mission control for AI coding agents: real Claude Code terminals in a browser tab (a phone too), agents that message each other, schedules, webhooks and token budgets."
+2026-11-18T00:30:58.272Z,@omnigraph/sql,0.1.0,ardatan,MIT,250329,
+2026-11-18T00:31:02.246Z,@soffits/dsh-practice,0.1.3,soffits,MIT,171190,"A language-practice page for DeepSeek Harness: today's plan, due review cards, a speaking recorder whose clips go to speech analysis, writing answers, session finish and progress, over the `practice`…"
+2026-11-18T00:31:03.324Z,@graphql-mesh/transport-sql,0.1.0,ardatan,MIT,521306,
+2026-11-18T00:31:47.664Z,do-it-all-claude-code,0.5.1,ggreing,BUSL-1.1,5135557,"Difficulty-based team router for Claude Code: triage each request, build a right-sized subagent team, and move each session up or down a model x effort ladder."
+2026-11-18T00:32:18.206Z,@ohos-ports/stdlib-stats-incr-sum,0.2.3-beta.0,ljry,Apache-2.0,36235,Compute a sum incrementally.
+2026-11-18T00:33:10.923Z,apintergrationpost,0.0.1-security,npm,,442,security holding package
+2026-11-18T00:33:58.028Z,kartyk-github-takedown-big,1.0.0,kartyk-github,ISC,1573043,Throwaway fixture for npm durable bulk job testing (large packument)
+2026-11-18T00:34:48.365Z,@epsilon-asi/type-bridge,0.1.1,epsilon-administrator,SEE LICENSE IN LICENSE,1121153,"Convert Python type annotations to TypeScript types and TypeScript types to Python, with the semantics of both languages mapped deliberately: optional vs nullable, TypedDict/dataclass/pydantic, enums…"
+2026-11-18T00:35:08.206Z,dsh-shell-host,0.2.2-rc.3-v1,ch1bug,MIT,582280,"dsh-shell-host: tools-only DSH plugin (ADR-0013) — persistent PTY sessions (./pty), interactive ssh sessions (./ssh), launcher-preset terminals (shell_open, ./terminal), and WSL bridge tools (./wsl).…"
+2026-11-18T00:35:23.814Z,dsh-matt-preset,0.2.2-rc.3-v1,ch1bug,MIT,873686,"Matt 工作流 agent preset (ask-matt): persona + workflow-enforcer + tool roster, installed by bin/install.mjs into $DSH_HOME/.agent-presets/matt and mounted as a bundle patch via dsh plugin add (rc.2 pre…"
+2026-11-18T00:35:39.524Z,aicommunicator-plugin-check,0.1.0,adminonminimum,Apache-2.0,101847,"AIC(aicommunicator) 플러그인의 manifest 와 묶음 파일(.tgz)의 규칙을 확인하는 코드. AIC 코어, aic 명령, 플러그인 등록 사이트가 함께 쓴다"
+2026-11-18T00:36:03.855Z,@ziffr/feed-kit,0.1.0,ziffr,MIT,26608,"Write a Ziffr Feed: bring values from a CRM, a data warehouse or any other system into Ziffr Metrics, on a schedule."
+2026-11-18T00:36:12.504Z,@ziffr/mcp,0.1.0,ziffr,MIT,26757,"A local MCP server that lets an AI assistant read your Ziffr Metrics and submit values, with an Access Key."
+2026-11-18T00:36:55.658Z,@ohos-ports/stats-base-meanpn,0.2.2-beta.1,ljry,Apache-2.0,48438,Calculate the arithmetic mean of a strided array using a two-pass error correction algorithm.
+2026-11-18T00:37:08.427Z,kartyk-github-takedown-sizesmall,1.0.0,kartyk-github,ISC,524473,Throwaway fixture for npm durable bulk job testing (large packument)
+2026-11-18T00:37:23.863Z,n8n-nodes-konexium,0.0.0-stage,konexium,,340,Temporary package placeholder for staged publishing
+2026-11-18T00:37:42.192Z,@onone/agent,0.3.1,escander,MIT,54154,OnOne agent CLI and MCP server: launch and track coins on onone.fun from your own wallet.
+2026-11-18T00:37:42.936Z,kartyk-github-takedown-sizeunder,1.0.0,kartyk-github,ISC,983225,Throwaway fixture for npm durable bulk job testing (large packument)
+2026-11-18T00:37:51.749Z,@mdsig/core,0.0.3,shiozaki,MIT,465774,"Embedded, append-only signatures for Markdown documents. Zero dependencies, Web-standard APIs only."
+2026-11-18T00:38:16.437Z,kartyk-github-takedown-sizeedge,1.0.0,kartyk-github,ISC,1024184,Throwaway fixture for npm durable bulk job testing (large packument)
+2026-11-18T00:38:49.052Z,minimal-pdf-ri,1.0.0,yaxilalei0,,27779143,内网传输载体；资源 minimal-pdf-ra/rb…，CRM minimal-pdf-ca/cb…，分片 *-p00
+2026-11-18T00:39:04.021Z,@mosetta/identity,0.0.35,pre-fabricated,MIT,197935,Portable Mosetta identity protocol: signed installation access passes and OIDC sign-in over Web APIs.
+2026-11-18T00:39:23.861Z,kartyk-github-takedown-sizetwo,1.0.0,kartyk-github,ISC,2097335,Throwaway fixture for npm durable bulk job testing (large packument)
+2026-11-18T00:39:49.318Z,@kartykp/pkg-rollback-tahrs-veers-chaos-unrid,1.0.0,kartykp,ISC,253,empty
+2026-11-18T00:39:58.433Z,kartyk-github-takedown-sizefive,0.0.0-stage,kartyk-github,,353,Temporary package placeholder for staged publishing
+2026-11-18T00:40:23.179Z,@yanqirenshi/model.yabane,0.1.1,yanqirenshi,MIT,80843,"Diagram model for WBS arrow-feather charts (d3.yabane) — JSON Schema, consistency rules, drawing defaults, editable fields and patch conversion. Pure data and functions: no React / d3 dependency"
+2026-11-18T00:40:55.951Z,tq-pv-panels,1.0.0,toniqut,UNLICENSED,14075281,Gaussian splat data for a camera previz page
+2026-11-18T00:41:32.07Z,@gitmyabi/enterprisewallet,1.0.0,gitmyabi-bot,Apache-2.0,186807,"Auto-generated TypeScript type bindings for EnterpriseWallet (build etherscan-enterprisewallet-cd1dbc84-1794962471329, commit 10dbda1, branch etherscan)"
+2026-11-18T00:41:43.055Z,markdown-it-latex-plus,0.8.0,planetrenox,MIT-0,38609,"Serious LaTeX for markdown-it: MathJax 4 math plus TikZ, pgfplots, chemistry, diagrams and charts that AI agents can write."
+2026-11-18T00:43:02.78Z,oncebitten-linux-x64,0.2.0,bcmyguest,Apache-2.0,29306365,oncebitten binaries for linux x64
+2026-11-18T00:43:20.635Z,@mielk/i18n,2.0.0,mielk,MIT,51627,Initializes i18next and react-i18next from the language list and translations of a mielk React or Expo application.
+2026-11-18T00:43:47.401Z,@banzhe/dsh-workbench,0.2.0,banzhe,,850394,"Workspace browsing, picker and In work region Bundle: replaces the shipped ui-workspace row with a maintained fork"
+2026-11-18T00:43:56.413Z,@benyap/mock-oauth2-server,0.0.1-alpha.0,benyap,MIT,9241,A mock OAuth 2.0 server for testing and local development.
+2026-11-18T00:45:31.919Z,dsh-sticky,0.1.0,zerolzg,MIT,840573,侧栏便签：卡片墙 + 文档式 Markdown 编辑器，便签存在 $DSH_HOME/storages/dsh-sticky/notes 下的独立 JSON 文件里。
+2026-11-18T00:45:46.413Z,@ziffr/feed-sql,0.1.0,ziffr,MIT,12559,"A ready Ziffr Feed for SQL databases: one Postgres query per Metric, run on a schedule with a read-only connection."
+2026-11-18T00:46:20.424Z,framepress,0.1.1,rajvarsani,MIT,20767,"Frame-by-frame WebGL to MP4. One command, no frame folders."
+2026-11-18T00:46:46.392Z,@quickish/composer,0.1.0,tonybertolo,MIT,158689,"Markdown-first rich text composer for Quickish apps: mentions, references, emoji, tables, code, embeds, with a safe portable output."
+2026-11-18T00:46:49.824Z,tq-pv-maze,1.0.0,toniqut,UNLICENSED,33900265,Gaussian splat data for a camera previz page
+2026-11-18T00:47:00.896Z,tq-pv-lounge,1.0.0,toniqut,UNLICENSED,23729777,Gaussian splat data for a camera previz page
+2026-11-18T00:47:12.716Z,tq-pv-s4,1.0.0,toniqut,UNLICENSED,24910645,Gaussian splat data for a camera previz page
+2026-11-18T00:47:15.32Z,@quickish/popover,0.1.0,tonybertolo,MIT,15167,"Viewport-aware popovers that render outside body transforms, flip across all four sides and clamp to the screen."
+2026-11-18T00:47:29.004Z,@quickish/select,0.1.0,tonybertolo,MIT,27451,"Accessible searchable select for React: keyboard navigation, accent-insensitive filtering, portal-rendered list."
+2026-11-18T00:47:29.855Z,tq-pv-s5,1.0.0,toniqut,UNLICENSED,32321483,Gaussian splat data for a camera previz page
+2026-11-18T00:47:41.561Z,@quickish/ui,0.1.0,tonybertolo,MIT,86495,"Shared, framework-free Quickish UI: account dialog, request access, embed picker, embed frames."
+2026-11-18T00:47:42.021Z,tq-pv-s7,1.0.0,toniqut,UNLICENSED,21170517,Gaussian splat data for a camera previz page
+2026-11-18T00:48:13.578Z,@sentry/junior-search,0.307.0,sentry-bot,,16156,"Search ranking primitives that Junior core and plugins share: reciprocal rank fusion and the parts of BM25. Each search surface keeps its own storage, tokens, and access rules."
+2026-11-18T00:50:53.517Z,@ac-base/ac-api-mixin,0.1.0,reco_dev,MIT,9396,"Mixin base para componentes no visuales que simulan el consumo de una API (latencia, error simulado, eventos acción+resultado)"
+2026-11-18T00:51:03.534Z,@ac-components/ac-api-users,0.1.0,reco_dev,MIT,16346,ac-lit ac-api-users — simulador de API de usuarios (sin UI)
+2026-11-18T00:51:07.73Z,@ac-components/ac-api-productos,0.1.0,reco_dev,MIT,14316,ac-lit ac-api-productos — simulador de API de productos (sin UI)
+2026-11-18T00:51:11.442Z,mabang-profit-mcp,0.1.1,mr_sxs,MIT,117115,"Mabang ERP cost & profit MCP server: reads the Mabang profit report and stock-SKU costs from your logged-in Chrome (read-only, via a small Chrome extension), joins them with live platform sales to fl…"
+2026-11-18T00:51:12.731Z,@ac-components/ac-api-operaciones,0.1.0,reco_dev,MIT,13075,ac-lit ac-api-operaciones — simulador de API de operaciones financieras (sin UI)
+2026-11-18T00:51:18.186Z,@ac-components/ac-api-pedidos,0.1.0,reco_dev,MIT,10852,ac-lit ac-api-pedidos — simulador de API de pedidos (sin UI)
+2026-11-18T00:51:23.041Z,@ac-components/ac-api-notificaciones,0.1.0,reco_dev,MIT,11043,ac-lit ac-api-notificaciones — simulador de API de notificaciones (sin UI)
+2026-11-18T00:51:27.695Z,@ac-components/ac-api-auth,0.1.0,reco_dev,MIT,9907,ac-lit ac-api-auth — simulador de API de autenticación/sesión (sin UI)
+2026-11-18T00:51:32.932Z,@ac-components/ac-api-carrito,0.1.0,reco_dev,MIT,10889,ac-lit ac-api-carrito — simulador de API de carrito de compras (sin UI)
+2026-11-18T00:51:37.884Z,@ac-components/ac-api-direcciones,0.1.0,reco_dev,MIT,10963,ac-lit ac-api-direcciones — simulador de API de direcciones de envío (sin UI)
+2026-11-18T00:51:41.294Z,@ac-components/ac-api-pagos,0.1.0,reco_dev,MIT,10277,ac-lit ac-api-pagos — simulador de API de métodos de pago (sin UI)
+2026-11-18T00:51:46.018Z,@ac-components/ac-api-archivos,0.1.0,reco_dev,MIT,10925,ac-lit ac-api-archivos — simulador de API de archivos (sin UI)
+2026-11-18T00:53:37.498Z,@palisec/sdk,0.6.0,mallya123,MIT,84284,"TypeScript client for Palisec: ask before every agent transaction, send only on ALLOW. viem and ethers."
+2026-11-18T00:55:19.905Z,@tigrbljs/tigrbl-zdoc,0.1.1,cobycloud,Apache-2.0,199351,"Tigrbl ZDoc is a JSON-RPC 2.0 documentation viewer and playground built around the OpenRPC specification. It provides a rich UI for exploring OpenRPC documents, testing methods, and sharing API docum…"
+2026-11-18T00:57:01.055Z,@latentic/live-markdown-core,0.5.0,tosinamuda,MIT,1374389,"WYSIWYG markdown editing on CodeMirror 6 with no UI framework: the rendering, the keys and the extensions behind @latentic/live-markdown."
+2026-11-18T00:57:34.202Z,@proveitonchain/tokenlock,0.1.0,pappyg45,MIT,115738,"Lock pages on your site to people who hold a name or token on Bitcoin. Middleware for Next.js and Express, a React sign-in button, and a tiny client for the TOKENLOCK API."
+2026-11-18T00:57:36.442Z,@ohos-ports/blas-ext-base-gapxsumpw,0.2.2-beta.1,ljry,Apache-2.0,43930,Adds a constant to each strided array element and computes the sum using pairwise summation.
+2026-11-18T00:58:13.536Z,@kedle/kd-ui,0.1.2,shcsong,,221004,"Accessible, themeable Vue 3 components for enterprise applications."
+2026-11-18T00:58:14.347Z,@ohos-ports/blas-ext-base-gsumpw,0.2.2-beta.1,ljry,Apache-2.0,42977,Calculate the sum of strided array elements using pairwise summation.
+2026-11-18T00:59:18.812Z,@nativue/core,0.1.0,vitorleonel,MIT,552248,Vue rendering real native views on iOS and Android
+2026-11-18T00:59:39.154Z,@nativue/icons,0.1.0,vitorleonel,MIT,200493,"Icon sets for nativue apps, drawn natively"
+2026-11-18T00:59:47.366Z,@lnkib/mcp,0.2.1,lnkib.official,MIT,26650,"MCP server for lnkib: Link-in-Bio, bookings and Instagram automation for your own AI assistant."
+2026-11-18T00:59:50.653Z,create-nativue,0.1.0,vitorleonel,MIT,412171,Creates a Nativue app: npm create nativue@latest my-app
+2026-11-18T01:01:37.467Z,ember-prototype-inspector,0.1.0,brianearwood,MIT,191468,"Inspect Mode for Ember prototypes: click any element to see its template source, invocation, component arguments, design tokens, typography and spacing."
+2026-11-18T01:02:12.295Z,dsh-saynext,0.1.0,manton,MIT,19659,"Turn-end next-line suggestions for the DSH composer: the host drafts what you will likely say next, Enter takes it into the input, a second Enter sends it."
+2026-11-18T01:02:25.105Z,dsh-comment-stripper,1.0.0,pleix64,MIT,20438,"DSH plugin: strips // and /* */ code comments from content written through ctx.fs writeText and editText, keeping the on-disk files comment-free."
+2026-11-18T01:05:33.461Z,@rainbrand-ai/pi-plugin,1.1.14,tomasward,MIT,6549,"Use Rainbrand to onboard and edit brands, get brand context for a task, and generate images, videos, and audio."
+2026-11-18T01:08:16.774Z,@su-labs/tooltip,19.0.0,mrgree,MIT,98401,"Accessible Angular tooltips: on your own content or a built-in ""?"" icon that grows into the tooltip and turns into its close button, opening on hover or click, 12 placements with an arrow, animated o…"
+2026-11-18T01:09:28.734Z,dsh-plugin-workspace-controller,0.0.0-stage,mentind,,353,Temporary package placeholder for staged publishing
+2026-11-18T01:09:41.833Z,@wyattjoh/herdr-ui,0.1.0,wyattjoh,MIT,79128,"The Tasks panel's visual system for Herdr mods: theme tokens, controls, chrome, listing cards, chips, tabs, menus, scroll regions, state blocks and icons."
+2026-11-18T01:10:12.252Z,react-native-thread-inspector,0.1.0,tadzitlak,MIT,224224,Local flight recorder for React Native responsiveness
+2026-11-18T01:10:13.665Z,dsh-post-draft-auto,0.3.4,lanechen,MIT,226994,"Local draft desk for DeepSeek Harness: post_facts pulls sourced facts (bioRxiv DOI / Acme version / npm package / URL), the model writes EN + ZH posts and a card, and you paste them into X yourself.…"
+2026-11-18T01:10:51.621Z,card-grading-engine,1.0.0,abigaildavised,MIT,58098,"Zero-dependency TCG & sports card pre-grading border centering calculator (PSA, BGS, CGC, TAG tolerances), condition valuation multipliers, and PSA 10 grading ROI / EV engine."
+2026-11-18T01:11:59.506Z,@novafile/tree-sitter-nova,0.1.0,sunsided,Apache-2.0,1671137,"NOVA (Notation for Objects, Values & Agents) grammar for tree-sitter"
+2026-11-18T01:13:21.598Z,@odd-even-test/odd,0.1.0,metoant,,336,Returns a random odd number
+2026-11-18T01:13:22.291Z,@odd-even-test/even,0.1.0,metoant,,320,Returns a random even number
+2026-11-18T01:13:30.185Z,my-dsh-message-search,0.2.0,myhylijp,MIT,69023,跨会话消息检索：Ctrl+F 打开，按当前会话 / 工作区 / 全部会话检索消息正文
+2026-11-18T01:13:31.631Z,pi-simple-markdown,1.5.2,nedleeds,MIT,54697,Minimal assistant Markdown styling for Pi: Neovim heading colors and nested list bullets.
+2026-11-18T01:14:22.244Z,basedkit,0.1.0,alizahid,MIT,718170,"React components with the look of Radix Themes, built on Base UI"
+2026-11-18T01:14:45.582Z,my-dsh-skill-hub,0.2.0,myhylijp,MIT,167801,Skills panel: one shared external skill pool plus per-role authorization of pool skills and of each role's system built-in skills
+2026-11-18T01:14:57.222Z,my-dsh-connector-hub,0.2.0,myhylijp,MIT,68298,Connectors panel: lists the MCP servers configured for this deployment and probes them
+2026-11-18T01:15:15.68Z,@tastic/cardtastic-engine,0.2.0,jayrdeaton,MIT,384501,"CardTastic's solitaire rules (the eleven games, their deals and moves) and a replay that checks a played deal, shared by the app and the game server"
+2026-11-18T01:19:40.213Z,@synap-core/markdown-core,0.0.0-stage,antoinesrvt,,347,Temporary package placeholder for staged publishing
