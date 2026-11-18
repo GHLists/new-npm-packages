@@ -1,0 +1,196 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-18T21:16:44.45Z,@chef.extension/decision,0.0.0-alpha.1,~offtree,,5911,Run typed Effect decisions with a task-selected model provider.
+2026-11-18T21:17:45.145Z,@soft-advisor/preview-access,0.2.1,soft-advisor,MIT,65042,"Protect CloudFront-served sites (e.g. preview and staging environments) behind an OpenID Connect sign-in such as Amazon Cognito, without changing the app"
+2026-11-18T21:19:08.748Z,@agentidp/sdk,0.2.0,timchosen,Apache-2.0,88514,"Agent-side AgentIDP SDK. Generate an agent key, build a proof JWT, and exchange it for an AgentIDP token."
+2026-11-18T21:19:15.993Z,@agentidp/verify,0.2.0,timchosen,Apache-2.0,99661,Service-side AgentIDP verifier. Verify AgentIDP tokens and protect HTTP endpoints.
+2026-11-18T21:20:08.55Z,@posthog/hog-darwin-x64,0.0.0,rafael_posthog,,2055,OIDC trusted publishing setup package for @posthog/hog-darwin-x64
+2026-11-18T21:20:24.166Z,@kardalum/seo,1.0.0,kardalum,Apache-2.0,23759,"Kardalum's SEO plugin and its audit command: kardalum seo audit checks every published page's title, description and share image."
+2026-11-18T21:21:00.77Z,@tsnomad/di-container,0.2.0,alexstandiford,MIT,109122,"Dependency injection container with PHPNomad-style class binding, static inject autowiring, factories and singleton caching, the TypeScript counterpart to PHPNomad's di-container"
+2026-11-18T21:21:05.726Z,@tsnomad/registry,0.1.0,alexstandiford,MIT,51587,"Registry for lazy loaded named collections, the TypeScript counterpart to PHPNomad's registry package"
+2026-11-18T21:21:09.279Z,@tsnomad/event,0.2.0,alexstandiford,MIT,81719,"Event contracts with priority listeners and an in-memory strategy, the TypeScript counterpart to PHPNomad's event package"
+2026-11-18T21:21:14.213Z,@tsnomad/loader,0.1.0,alexstandiford,MIT,113386,"Bootstrapper that runs initializers against a container and an event strategy, the TypeScript counterpart to PHPNomad's loader package"
+2026-11-18T21:21:19.715Z,@tsnomad/datastore,0.2.1,alexstandiford,MIT,22328,"Datastore, model and adapter contracts, the TypeScript counterpart to PHPNomad's datastore package"
+2026-11-18T21:21:25.51Z,@tsnomad/http,0.2.1,alexstandiford,MIT,17579,"HTTP request and response contracts, the TypeScript counterpart to PHPNomad's http package"
+2026-11-18T21:21:29.295Z,@tsnomad/logger,0.2.1,alexstandiford,MIT,20637,"Logger strategy contract with the eight levels and logException, the TypeScript counterpart to PHPNomad's logger package"
+2026-11-18T21:21:32.562Z,@tsnomad/tasks,0.2.1,alexstandiford,MIT,37330,"Task, task strategy, task handler and idempotency contracts, the TypeScript counterpart to PHPNomad's tasks package"
+2026-11-18T21:21:35.346Z,@tsnomad/fetch,0.2.1,alexstandiford,MIT,34819,"Fetch strategy contract and the fetch payload, the TypeScript counterpart to PHPNomad's fetch package"
+2026-11-18T21:21:38.953Z,@tsnomad/rest,0.2.1,alexstandiford,MIT,60364,"Controller, middleware, interceptor and validation contracts with the REST lifecycle runner, the TypeScript counterpart to PHPNomad's rest package"
+2026-11-18T21:21:41.744Z,@tsnomad/node-integration,0.2.1,alexstandiford,MIT,88361,"Strategies that need only Node itself: fetch, console logging, in-process tasks and the in-memory event bus"
+2026-11-18T21:21:44.937Z,@tsnomad/medusa-integration,0.2.1,alexstandiford,MIT,195339,"TS Nomad strategies for a Medusa application: action bindings from subscribers, REST routes, tasks on the event bus, logging through Medusa's logger, and a lazy once-per-process boot"
+2026-11-18T21:25:47.403Z,node-red-contrib-taiponrock22,1.3.1,nadaaouiti,Apache-2.0,14316,A Node-RED node that replaces message payloads with Taiponrock
+2026-11-18T21:25:56.539Z,@posthog/hog-linux-x64,0.0.0,rafael_posthog,,2051,OIDC trusted publishing setup package for @posthog/hog-linux-x64
+2026-11-18T21:26:15.233Z,@avrilfanomar/orrery-core,0.2.0,avrilfanomar,Apache-2.0,138038,"The pure domain of Orrery: node graph, append-only events, projection, evaluation and rollup"
+2026-11-18T21:26:43.795Z,@avrilfanomar/orrery-module-kit,0.2.0,avrilfanomar,Apache-2.0,17722,The contract an Orrery module implements: query languages and the source kinds the server can pull from
+2026-11-18T21:26:46.593Z,@avrilfanomar/orrery-prometheus,0.2.0,avrilfanomar,Apache-2.0,18764,"PromQL and the Prometheus source kind for Orrery, reached directly or through Grafana's datasource proxy"
+2026-11-18T21:26:51.316Z,create-tusten-app,0.2.0-beta.7,yartema,MIT,135495,Скаффолдер приложений на tusten (React 19 + Fastify + Vite)
+2026-11-18T21:26:51.862Z,@avrilfanomar/orrery,0.2.0,avrilfanomar,Apache-2.0,525727,"Requirements, constraints and quality KPIs as one living, observable graph: the server and its console in one command"
+2026-11-18T21:27:12.314Z,@astratra/mcp,1.0.0,emch99,MIT,57985,"The Model Context Protocol with no dependency: client and server (initialize, tools/list, tools/call, ping, cancellation), stdio and Streamable HTTP transports, Origin check, size and time limits. Wo…"
+2026-11-18T21:27:27.824Z,rwdlol,1.0.0,rwdlol,,91,
+2026-11-18T21:27:34.229Z,@astratra/qr,1.0.0,emch99,MIT,27175,"QR codes with no dependency, for Node and browsers: numeric, alphanumeric and byte (UTF-8) modes, error correction L/M/Q/H, versions 1 to 40, best mask by the standard's penalties; SVG, PNG and data…"
+2026-11-18T21:27:37.524Z,@astratra/s3,1.0.0,emch99,MIT,49605,"An S3 client with no dependency, for AWS S3, Cloudflare R2, MinIO, SeaweedFS and compatible services: put, get (range, stream), head, delete, batch delete, list, presigned GET and PUT URLs; AWS Signa…"
+2026-11-18T21:27:53.068Z,@ohos-ports/marimo-team-frontend,0.25.2-beta.0,ljry,Apache-2.0,38352425,
+2026-11-18T21:29:06.118Z,@deathbeam/pi-opencode,0.0.1,deathbeam,MIT,5955,OpenCode Zen free models through the built-in opencode provider for Pi
+2026-11-18T21:29:28.038Z,@sebastienrousseau/jspassgen-cli,0.0.22,sebastienrousseau,Apache-2.0 OR MIT,29458,"Command-line password generator built on @sebastienrousseau/jspassgen: strong passwords from the platform CSPRNG, made on your machine."
+2026-11-18T21:30:16.087Z,plughooks,0.1.1,leegyeongpil,MIT,135802,"Show where Claude Code hooks come from (settings and plugins, including disabled ones) and keep hook-free local copies of plugins in sync."
+2026-11-18T21:30:55.568Z,@mgcrea/mcp-google-search-console,0.1.0,mgcrea,MIT,370383,"Model Context Protocol server for Google Search Console: search analytics, period comparisons, URL inspection and sitemaps"
+2026-11-18T21:31:11.709Z,@mgcrea/mcp-bing-webmaster,0.1.1,mgcrea,MIT,308763,"Model Context Protocol server for Bing Webmaster Tools: search traffic, crawl health, URL info, keyword research and URL submission"
+2026-11-18T21:31:14.158Z,frisson,0.2.0,spacecowboy95,MIT,178641,"Quiet, physical React components."
+2026-11-18T21:31:36.622Z,@inkbox/chat-sdk-adapter,0.7.39,dimavrem22,MIT,183134,Inkbox communication channels for Chat SDK
+2026-11-18T21:32:39.552Z,@yanqirenshi/model.map.documents,0.1.0,yanqirenshi,MIT,83976,"Diagram model for document maps (d3.map.documents) — JSON Schema, consistency rules, drawing defaults, editable fields and patch conversion. Pure data and functions: no React / d3 dependency"
+2026-11-18T21:32:55.952Z,@swelte/create,0.1.5,eeddow,MIT,54369,"Scaffold a new Swelte project — npm create @swelte (app or library, SPA or SSR)."
+2026-11-18T21:32:58.021Z,@posthog/hog-linux-arm64,0.0.0,rafael_posthog,,2059,OIDC trusted publishing setup package for @posthog/hog-linux-arm64
+2026-11-18T21:33:13.54Z,@cp949/xx-hcp-interface,1.0.0,cp949,MIT,30270,"HCP 하드웨어 제어 계층이 공유하는 타입, 알림 이벤트, 연결 환경 필터"
+2026-11-18T21:33:15.304Z,either-lite,0.1.1,lakevostok,MIT,33703,"Minimal Either with typed async chains — left/right factories, type-guard narrowing, fail-loud handlers, zero dependencies"
+2026-11-18T21:33:38.405Z,@cp949/xx-kor-to-number,1.0.0,cp949,MIT,32456,"한글 숫자 표현(""이십일억 사천칠백만"", ""1만 2천"")을 숫자로 바꾸는 함수"
+2026-11-18T21:33:48.377Z,@jozo132/wicro,0.1.0,jozo132,MIT,2687,Universal embedded development platform
+2026-11-18T21:34:06.583Z,@filecon/css,0.1.0,shinkuyomi,Apache-2.0,8098476,"Filecon file icons as CSS classes (703 icons, data-URI backgrounds; default, gray and solid, light/dark/auto). No JavaScript needed."
+2026-11-18T21:34:11.611Z,@filecon/elements,0.1.0,shinkuyomi,Apache-2.0,261224,"Filecon file icons as Web Components (<filecon-icon>) – all three styles (default, gray, solid). Works with any framework or plain HTML."
+2026-11-18T21:34:17.71Z,@filecon/elements-default,0.1.0,shinkuyomi,Apache-2.0,261426,"Filecon file icons as Web Components (<filecon-icon>) – the default style (outline, colored label). Works with any framework or plain HTML."
+2026-11-18T21:34:18.5Z,playdo-design,0.0.1,hamedr,UNLICENSED,670,Playdo: the visual editor for real code. In development; see https://playdo.design
+2026-11-18T21:34:23.537Z,@filecon/elements-gray,0.1.0,shinkuyomi,Apache-2.0,261336,Filecon file icons as Web Components (<filecon-icon>) – the gray style (filled gray page). Works with any framework or plain HTML.
+2026-11-18T21:34:29.007Z,@filecon/elements-solid,0.1.0,shinkuyomi,Apache-2.0,261368,Filecon file icons as Web Components (<filecon-icon>) – the solid style (filled colored page). Works with any framework or plain HTML.
+2026-11-18T21:34:37.926Z,@filecon/iconify,0.1.0,shinkuyomi,Apache-2.0,3749806,"Filecon file icons as Iconify JSON icon sets (703 icons; default, gray and solid, light and dark) for UnoCSS, unplugin-icons, Iconify and Tailwind."
+2026-11-18T21:34:40.549Z,@amplitude/plugin-engaged-time-tracking-browser,0.0.1-alpha.0,sdk.dev,,247,Bootstrap placeholder for Trusted Publishing setup. Do not use.
+2026-11-18T21:34:44.079Z,@filecon/tauri,0.1.0,shinkuyomi,Apache-2.0,20478,"Filecon for Tauri 2: JavaScript binding of tauri-plugin-filecon (iconForPath, getIcon, resolveIcon) for desktop, iOS and Android."
+2026-11-18T21:35:07.778Z,@ohos-ports/amis,6.13.0-beta.0,ljry,Apache-2.0,77322433,一种MIS页面生成工具
+2026-11-18T21:35:10.332Z,solvepeak,0.1.1,dhacktops,UNLICENSED,31776,SolvePeak command-line client
+2026-11-18T21:35:11.54Z,@gitmyabi/feast,1.0.0,gitmyabi-bot,Apache-2.0,143807,"Auto-generated TypeScript type bindings for FEAST (build etherscan-feast-f2df8458-1795037690592, commit 908098c, branch etherscan)"
+2026-11-18T21:35:16.84Z,@rnlens/sdk,0.1.0,reidevl,MIT,410773,React Native SDK for Lens: streams TanStack Query caches to the Lens desktop app and runs devtools actions on the device.
+2026-11-18T21:35:24.481Z,@rnlens/cli-darwin-amd64,0.1.0,reidevl,MIT,15136947,The rnlens binary for darwin/amd64. Install rnlens instead.
+2026-11-18T21:35:29.11Z,@rnlens/cli-darwin-arm64,0.1.0,reidevl,MIT,14276487,The rnlens binary for darwin/arm64. Install rnlens instead.
+2026-11-18T21:35:34.251Z,@rnlens/cli-linux-amd64,0.1.0,reidevl,MIT,14820048,The rnlens binary for linux/amd64. Install rnlens instead.
+2026-11-18T21:35:38.87Z,@rnlens/cli-linux-arm64,0.1.0,reidevl,MIT,13959890,The rnlens binary for linux/arm64. Install rnlens instead.
+2026-11-18T21:35:44.258Z,@rnlens/cli-windows-amd64,0.1.0,reidevl,MIT,15714870,The rnlens binary for windows/amd64. Install rnlens instead.
+2026-11-18T21:35:50.265Z,@rnlens/cli-windows-arm64,0.1.0,reidevl,MIT,14557752,The rnlens binary for windows/arm64. Install rnlens instead.
+2026-11-18T21:35:54.951Z,rnlens,0.1.0,reidevl,MIT,4256,"Lens, React Native DevTools: runs Lens in your browser (npx rnlens)"
+2026-11-18T21:35:56.705Z,@sebastienrousseau/jspassgen-mcp,0.0.22,sebastienrousseau,Apache-2.0 OR MIT,32523,Local stdio Model Context Protocol server that generates passwords with @sebastienrousseau/jspassgen. Secrets go to the local client only and are never logged.
+2026-11-18T21:36:28.493Z,@gitmyabi/ygy,1.0.0,gitmyabi-bot,Apache-2.0,170023,"Auto-generated TypeScript type bindings for YGY (build etherscan-ygy-477f885f-1795037768407, commit 58c8bb6, branch etherscan)"
+2026-11-18T21:36:58.442Z,@kom0reb1/word-generator-skill,1.0.1,kom0reb1,MIT,6403,A Pi extension that generates Word documents from agent-provided content.
+2026-11-18T21:37:08.115Z,@sous-io/sous-plugin-api,1.0.19,luke.chavers,Apache-2.0,164719,"The plugin interface of sous: definePlugin, the shared type interfaces, Reporter, Prompter and the error classes"
+2026-11-18T21:37:34.911Z,@cimento/webhooks,0.1.0,cimento-sam,MIT,79825,Verify webhooks sent by Cimento and read them as typed events.
+2026-11-18T21:37:46.605Z,create-mehen,0.0.1,lleverageaj,UNLICENSED,584,"Mehen: a credential vault and proxy for AI agents. Agents get capabilities, never secrets."
+2026-11-18T21:37:48.987Z,mehen-cli,0.0.1,lleverageaj,UNLICENSED,575,"Mehen: a credential vault and proxy for AI agents. Agents get capabilities, never secrets."
+2026-11-18T21:38:36.209Z,puckapi-client,0.1.0,noahowsh,MIT,49325,"JavaScript and TypeScript client for the PuckAPI NHL data API: stats, play-by-play, odds and player props. No dependencies."
+2026-11-18T21:38:39.158Z,endzoneapi,0.1.0,noahowsh,MIT,45358,"JavaScript and TypeScript client for the EndzoneAPI NFL data API: stats, play-by-play, odds and player props. No dependencies."
+2026-11-18T21:38:41.616Z,dunkapi,0.1.0,noahowsh,MIT,41795,"JavaScript and TypeScript client for the DunkAPI NBA data API: stats, play-by-play, odds and player props. No dependencies."
+2026-11-18T21:38:44.03Z,fastballapi,0.1.0,noahowsh,MIT,34128,"JavaScript and TypeScript client for the FastballAPI MLB data API: stats, play-by-play, odds and player props. No dependencies."
+2026-11-18T21:38:46.493Z,strikerapi,0.1.0,noahowsh,MIT,48226,"JavaScript and TypeScript client for the StrikerAPI Soccer data API: stats, play-by-play, odds and player props. No dependencies."
+2026-11-18T21:38:48.868Z,acesapi,0.1.0,noahowsh,MIT,22675,"JavaScript and TypeScript client for the AcesAPI Tennis data API: stats, play-by-play, odds and player props. No dependencies."
+2026-11-18T21:38:51.305Z,@foil-engine/runtime,0.1.3,chico.coder,,20836,
+2026-11-18T21:38:51.368Z,birdieapi,0.1.0,noahowsh,MIT,23164,"JavaScript and TypeScript client for the BirdieAPI Golf data API: stats, play-by-play, odds and player props. No dependencies."
+2026-11-18T21:38:52.991Z,@foil-engine/web-player,0.1.3,chico.coder,,2802,
+2026-11-18T21:38:53.844Z,fighterapi,0.1.0,noahowsh,MIT,19192,"JavaScript and TypeScript client for the FighterAPI MMA data API: stats, play-by-play, odds and player props. No dependencies."
+2026-11-18T21:38:56.366Z,yorkerapi,0.1.0,noahowsh,MIT,31122,"JavaScript and TypeScript client for the YorkerAPI Cricket data API: stats, play-by-play, odds and player props. No dependencies."
+2026-11-18T21:39:06.37Z,aio-agent,0.1.0,wmasday,MIT,146071,"Skills, rules and MCP server definitions installed once for every coding agent on your machine."
+2026-11-18T21:39:10.966Z,@posthog/hog-linux-x64-musl,0.0.0,rafael_posthog,,2071,OIDC trusted publishing setup package for @posthog/hog-linux-x64-musl
+2026-11-18T21:39:59.874Z,@cratis/components.designsystemet,0.0.0-placeholder.0,woksin.sindre,MIT,273,Placeholder so trusted publishing can be configured. Use the 4.x releases.
+2026-11-18T21:40:21.462Z,@zukhruf/vectors,0.8.32,ezzabuzaid,MIT,58344,"Vector types, their math, and the SQL form of each vector in SQLite, sqlite-vec and SQL Server, which a program composes into its own SQL. After the vector types of pgvector and the TensorPrimitives…"
+2026-11-18T21:40:31.524Z,@aoctech/push-client,1.0.1,aoctech,MIT,26339,Web Push for CTech apps: a cache-free service worker plus the subscription client and React hook.
+2026-11-18T21:40:40.808Z,fairtoll,0.1.0,mechrabbit,Apache-2.0,183972,"See, block and charge for AI bot and agent traffic on your own site, with x402 payments."
+2026-11-18T21:41:19.914Z,@bdi3/api_logger,1.0.26,jhonmzbelcorp,ISC,51608,Logger
+2026-11-18T21:41:25.399Z,@patrykparcheta/react-search-and-filter,0.1.0,patrykparcheta,MIT,221035,"Customizable React search, filters, sorting and pagination powered by Quickstate."
+2026-11-18T21:41:58.169Z,@sebastienrousseau/jspassgen-lsp,0.0.22,sebastienrousseau,Apache-2.0 OR MIT,27452,Language server for the jspassgen suite: completes the LSP handshake today; flagging weak literal secrets in configuration and .env files is planned.
+2026-11-18T21:42:23.357Z,@cloudraker/encrypted-durable-object,0.1.0,baptistelaget,MIT,27406,"Field-level encryption with blind indexes for Cloudflare Durable Object SQLite storage. CipherSweet-compatible, WebCrypto only."
+2026-11-18T21:42:24.233Z,pi-openai-compat-providers,0.1.0,shura-v,,13096,Manage named OpenAI-compatible endpoints and discover their models in Pi.
+2026-11-18T21:42:35.184Z,matterbridge-rgbww-led-controller,1.1.0,f444,Apache-2.0,53542,Matterbridge plugin for ESP RGBWW LED controllers
+2026-11-18T21:43:31.535Z,@cocreate/mcp,1.0.0,frankpagan,AGPL-3.0,205286,Model Context Protocol server integration for CoCreate Server.
+2026-11-18T21:43:47.049Z,opencode-llm-quota,0.1.0,ayrickk,MIT,191285,"OpenCode plugin: shows the user's quotas on the AI platform gateway (agentgateway /v1/quota), next to opencode-keycloak-auth."
+2026-11-18T21:44:18.803Z,@code-id-labs/cli,1.0.0,code-id-labs,,18738,CLI tool for code-ui prebuilt WeChat MiniProgram component library
+2026-11-18T21:44:32.144Z,@fragiola/dockable-vue,0.3.0,maurodesouza,MIT,327115,"Composable, unstyled Vue primitives for @fragiola/dockable."
+2026-11-18T21:44:33.44Z,@code-id-labs/plugin-vite,1.0.0,code-id-labs,,728097,"Vite plugin for Code-UI — provides cui.config.ts loading, virtual modules, HMR, and Tailwind template scanning"
+2026-11-18T21:44:35.166Z,@code-id-labs/composables,1.0.0,code-id-labs,,85827,Vue-inspired reactive composition functions and hooks for WeChat MiniProgram
+2026-11-18T21:44:36.48Z,@posthog/hog-linux-arm64-musl,0.0.0,rafael_posthog,,2079,OIDC trusted publishing setup package for @posthog/hog-linux-arm64-musl
+2026-11-18T21:44:37.467Z,@code-id-labs/components,1.0.0,code-id-labs,,619853,Prebuilt native WeChat MiniProgram UI components for code-ui
+2026-11-18T21:45:04.416Z,@recalld/ai-sdk,0.1.0,bitrobotics,MIT,27625,Recalld long-term memory tools for the Vercel AI SDK.
+2026-11-18T21:45:10.514Z,@fragiola/dockable-angular,0.3.0,maurodesouza,MIT,475546,"Composable, unstyled Angular directives for @fragiola/dockable."
+2026-11-18T21:46:40.418Z,@openplan/dsh-repair,0.1.1,vncsleal,MIT,37677,Schema-aware tool-argument repair for the DeepSeek Harness: turns an INVALID_ARGS failure into the exact corrected call the model should retry with.
+2026-11-18T21:46:43.036Z,dsh-t20-arch,0.10.2,yzm889,MIT,586967,"T20/T30 澶╂寤虹瓚 (Tianzheng Architecture) connector for DeepSeek Harness via MCP 鈥?creates real Tianzheng objects (walls, doors, windows, columns, stairs, balconies, axis grids) by driving a running Au…"
+2026-11-18T21:49:07.947Z,lrecon,1.0.0,walsykerem,MIT,54824709,"Bytes-only reverse engineering in one Go binary: 235 ops on native, APK/IPA, wasm, .NET, JS and firmware artifacts. Reads the file, never runs it."
+2026-11-18T21:49:30.41Z,nextcloud-mcp,1.0.2,stack74,MIT,416471,"MCP server for Nextcloud files: list, search, read, preview, download, upload, create, move and delete. Local (stdio) or hosted (Streamable HTTP + OAuth); people sign in with their own Nextcloud logi…"
+2026-11-18T21:49:36.131Z,@quickpipeaiab/rbac,0.8.0,quickpipeaiab,MIT,24138,"Permission catalog, access-rule compiler and permission checks of QuickPipe"
+2026-11-18T21:49:42.536Z,@posthog/hog-windows-x64,0.0.0,rafael_posthog,,2059,OIDC trusted publishing setup package for @posthog/hog-windows-x64
+2026-11-18T21:49:57.438Z,@quickpipeaiab/contracts,1.8.1,quickpipeaiab,UNLICENSED,72880802,"JSON Schemas, types, validators and redaction maps of the data that two services share"
+2026-11-18T21:50:03.946Z,@quickpipeaiab/domain,0.9.0,quickpipeaiab,UNLICENSED,3079610,"QuickPipe domain model: OWL 2 modules, SKOS concept schemes and SHACL shapes"
+2026-11-18T21:50:09.541Z,@quickpipeaiab/local-model,0.2.0,quickpipeaiab,MIT,31428,A small model that runs in the browser for tasks of the QuickPipe app
+2026-11-18T21:50:14.709Z,@quickpipeaiab/normalizers,0.2.1,quickpipeaiab,MIT,75957,Normalizers and checksums for person and company identifiers
+2026-11-18T21:50:51.94Z,@essencefromexistence/dcp,0.1.2,essencefromexistence,MIT OR Apache-2.0,9301,Installs the dx-dcp binary for the DX toolchain
+2026-11-18T21:50:53.755Z,@chartkitdev/core,0.5.0,todd.garland,MIT,12105892,"Charts an agent can write and a server can render. One JSON spec, validate() and repair() that run locally, and SVG output with zero dependencies. Benchmarks, including the losses: https://chartkit.d…"
+2026-11-18T21:50:58.564Z,@chartkitdev/geo,0.5.0,todd.garland,MIT,1044722,Choropleth and point maps for ChartKit. Not part of the line or all bundles. Each atlas is its own chunk. No tile layer.
+2026-11-18T21:51:03.916Z,@chartkitdev/react,0.5.0,todd.garland,MIT,1400267,React adapter for the ChartKit JSON spec. <Chart spec={spec} /> draws SVG on the server and in the browser.
+2026-11-18T21:51:07.969Z,@chartkitdev/vue,0.5.0,todd.garland,MIT,44937,Vue 3 adapter for the ChartKit JSON spec. SSR prints the SVG.
+2026-11-18T21:51:10.587Z,@essencefromexistence/check,0.1.2,essencefromexistence,MIT OR Apache-2.0,9365,Installs the dx-check binary for the DX toolchain
+2026-11-18T21:51:13.717Z,@essencefromexistence/cli,0.1.2,essencefromexistence,MIT OR Apache-2.0,9315,Installs the dx-cli binary for the DX toolchain
+2026-11-18T21:51:13.915Z,@chartkitdev/svelte,0.5.0,todd.garland,MIT,8930,Svelte adapter for the ChartKit JSON spec. Svelte 5 and the Svelte 4 component API.
+2026-11-18T21:51:16.859Z,@essencefromexistence/daemon,0.1.2,essencefromexistence,MIT OR Apache-2.0,9407,Installs the dx-daemon binary for the DX toolchain
+2026-11-18T21:51:19.34Z,@chartkitdev/vanilla,0.5.0,todd.garland,MIT,1880214,"Mount a ChartKit JSON spec into an element, or render it to an SVG string in Node. No framework."
+2026-11-18T21:51:22.44Z,@essencefromexistence/driven,0.1.2,essencefromexistence,MIT OR Apache-2.0,9396,Installs the dx-driven binary for the DX toolchain
+2026-11-18T21:51:25.684Z,@essencefromexistence/forge,0.1.2,essencefromexistence,MIT OR Apache-2.0,9371,Installs the dx-forge binary for the DX toolchain
+2026-11-18T21:51:26.035Z,@chartkitdev/astro,0.5.0,todd.garland,MIT,10504,Astro component for the ChartKit JSON spec. Validates and renders static SVG at build time. Zero client JS unless client is set.
+2026-11-18T21:51:29.789Z,@essencefromexistence/i18n,0.1.2,essencefromexistence,MIT OR Apache-2.0,9334,Installs the dx-i18n binary for the DX toolchain
+2026-11-18T21:51:32.548Z,@chartkitdev/solid,0.5.0,todd.garland,MIT,18677,"Solid component for the ChartKit JSON spec. SSR string output, then hydration with vanilla mount."
+2026-11-18T21:51:32.932Z,@essencefromexistence/icon,0.1.2,essencefromexistence,MIT OR Apache-2.0,9334,Installs the dx-icon binary for the DX toolchain
+2026-11-18T21:51:35.982Z,@essencefromexistence/media,0.1.2,essencefromexistence,MIT OR Apache-2.0,9365,Installs the dx-media binary for the DX toolchain
+2026-11-18T21:51:36.428Z,@lapis-notes/lapis-plugin-terminal,0.1.0,stevejuma,AGPL-3.0-or-later,473882,Lapis Notes interactive terminal panel
+2026-11-18T21:51:37.089Z,@chartkitdev/qwik,0.5.0,todd.garland,MIT,10877,"Qwik component for the ChartKit JSON spec. Static SVG, then vanilla mount in a visible task."
+2026-11-18T21:51:39.254Z,@essencefromexistence/metasearch,0.1.2,essencefromexistence,MIT OR Apache-2.0,9532,Installs the dx-metasearch binary for the DX toolchain
+2026-11-18T21:51:43.685Z,@essencefromexistence/os,0.1.2,essencefromexistence,MIT OR Apache-2.0,9277,Installs the dx-os binary for the DX toolchain
+2026-11-18T21:51:44.255Z,@chartkitdev/angular,0.5.0,todd.garland,MIT,24630,Standalone Angular component for the ChartKit JSON spec. SSR SVG and OnPush updates.
+2026-11-18T21:51:47.305Z,@essencefromexistence/script,0.1.2,essencefromexistence,MIT OR Apache-2.0,9396,Installs the dx-script binary for the DX toolchain
+2026-11-18T21:51:48.925Z,@cp949/xx-kodiny-iframe-proto,1.0.0,cp949,MIT,6810,kodiny iframe 통신 프로토콜의 메시지 타입 정의
+2026-11-18T21:51:50.664Z,@essencefromexistence/serializer,0.1.2,essencefromexistence,MIT OR Apache-2.0,9520,Installs the dx-serializer binary for the DX toolchain
+2026-11-18T21:51:53.288Z,@chartkitdev/element,0.5.0,todd.garland,MIT,94774,Framework-free <chart-kit> custom element for the ChartKit JSON spec.
+2026-11-18T21:51:54.029Z,@essencefromexistence/style,0.1.2,essencefromexistence,MIT OR Apache-2.0,9365,Installs the dx-style binary for the DX toolchain
+2026-11-18T21:51:57.791Z,@essencefromexistence/token,0.1.2,essencefromexistence,MIT OR Apache-2.0,9365,Installs the dx-token binary for the DX toolchain
+2026-11-18T21:51:59.667Z,@chartkitdev/markdown,0.5.0,todd.garland,MIT,23484,remark and rehype plugins that render ChartKit and supported Mermaid fences to SVG.
+2026-11-18T21:52:01.095Z,@essencefromexistence/tree,0.1.2,essencefromexistence,MIT OR Apache-2.0,9326,Installs the dx-tree binary for the DX toolchain
+2026-11-18T21:52:04.095Z,@essencefromexistence/tui,0.1.2,essencefromexistence,MIT OR Apache-2.0,9236,Installs the dx-tui binary for the DX toolchain
+2026-11-18T21:52:07.175Z,@essencefromexistence/video-player,0.1.2,essencefromexistence,MIT OR Apache-2.0,9593,Installs the dx-video-player binary for the DX toolchain
+2026-11-18T21:52:10.39Z,@essencefromexistence/www,0.1.2,essencefromexistence,MIT OR Apache-2.0,9315,Installs the dx-www binary for the DX toolchain
+2026-11-18T21:52:15.204Z,@essencefromexistence/tools,0.1.2,essencefromexistence,MIT OR Apache-2.0,1229,Install all DX toolchain binaries
+2026-11-18T21:52:24.608Z,@cp949/xx-hcp-client-browser,1.0.0,cp949,MIT,87344,브라우저에서 HCP 서버에 WebSocket으로 연결해 하드웨어 명령을 보내고 알림을 받는 클라이언트
+2026-11-18T21:52:50.558Z,@cp949/xx-hcp-emul-firmata,1.0.0,cp949,MIT,62529,HCP 에뮬레이터를 감싸 Firmata 주변장치를 만들고 호출하고 알림을 받는 에뮬레이터
+2026-11-18T21:53:12.992Z,@cp949/xx-hcp-webserial,1.0.0,cp949,MIT,481671,Web Serial API로 시리얼 하드웨어를 열고 패킷을 읽고 쓰는 라이브러리
+2026-11-18T21:53:39.811Z,@cp949/xx-kodiny-iframe,1.0.0,cp949,MIT,50510,부모 페이지에서 kodiny iframe에 명령을 보내고 상태와 알림을 받는 라이브러리
+2026-11-18T21:55:07.969Z,@posthog/hog-windows-arm64,0.0.0,rafael_posthog,,2067,OIDC trusted publishing setup package for @posthog/hog-windows-arm64
+2026-11-18T21:55:20.876Z,taller-ia,0.1.1,nachomohamed,UNLICENSED,2954033,"Paquete del Taller práctico de IA: reglas, skills, comandos, agente revisor y conectores para OpenCode."
+2026-11-18T21:57:15.197Z,@quickpipeaiab/producer,0.2.7,quickpipeaiab,UNLICENSED,13616,Link tokens and campaign links for QuickPipe channel services
+2026-11-18T21:57:22.398Z,@quickpipeaiab/tokens,0.5.0,quickpipeaiab,MIT,102185,"Local check of the access tokens of auth, and the machine token source of QuickPipe services"
+2026-11-18T21:57:26.489Z,@quickpipeaiab/trace,0.1.0,quickpipeaiab,UNLICENSED,14875,"One trace id for a request across the services: inbound middleware, log field, outbound headers"
+2026-11-18T21:57:35.676Z,prodbat,0.0.1,andrewprodbat,MIT,42945,"Prodbat: the command line (npx prodbat) and the library for servers and edge functions (errors, logs, job queues, Stripe events). Node, Bun, Deno, Supabase Edge Functions, Cloudflare Workers."
+2026-11-18T21:58:15.394Z,@devcockpit/install,0.11.0,higorabreu,AGPL-3.0-only,909274,"Installs Dev Cockpit, a Guake-style terminal cockpit for developers, from its GitHub releases"
+2026-11-18T21:58:29.386Z,@aricart/nats-bench,0.1.0-0,aricart,Apache-2.0,114266,"NATS benchmarks for the JavaScript clients: core pub/sub, JetStream and KV, on Node.js, Deno and Bun"
+2026-11-18T21:59:15.472Z,mailset,0.0.1,stewan,UNLICENSED,453,The Mailset SDK and CLI. This version holds the name: the first real one is on its way.
+2026-11-18T21:59:15.852Z,@guilli/calendar-core,0.1.0,guilliom01,MIT,308767,"Framework-agnostic calendar logic: dates, recurrence, layout, interaction and state."
+2026-11-18T21:59:38.248Z,@wirecat/onnxruntime-linux-x64,1.30.0,leemour,MIT,29332046,"ONNX Runtime 1.30.0's native library for linux-x64, for @wirecat/cli-core"
+2026-11-18T21:59:43.574Z,@wirecat/onnxruntime-linux-arm64,1.30.0,leemour,MIT,25482402,"ONNX Runtime 1.30.0's native library for linux-arm64, for @wirecat/cli-core"
+2026-11-18T21:59:44.861Z,@cognizant-ai-lab/neuro-san,0.0.2,cognizant_ai_labs,Apache-2.0,10138247,NPM package for Neuro SAN transpiled code
+2026-11-18T21:59:50.128Z,@wirecat/onnxruntime-darwin-arm64,1.30.0,leemour,MIT,44226342,"ONNX Runtime 1.30.0's native library for darwin-arm64, for @wirecat/cli-core"
+2026-11-18T21:59:55.537Z,@wirecat/onnxruntime-win32-x64,1.30.0,leemour,MIT,29101085,"ONNX Runtime 1.30.0's native library for win32-x64, for @wirecat/cli-core"
+2026-11-18T22:00:00.469Z,@wirecat/onnxruntime-win32-arm64,1.30.0,leemour,MIT,30162001,"ONNX Runtime 1.30.0's native library for win32-arm64, for @wirecat/cli-core"
+2026-11-18T22:01:16.092Z,@appitlabs/skills,0.1.0,appit.labs,MIT,6261333,"Practical agent skills for real engineering work: browser QA, tickets, databases, remote boxes, CI triage, Blender."
+2026-11-18T22:01:33.701Z,@elhizazi1/extension-sdk,1.0.0,elhizazi1,MIT,82221,Official RawanIDE Extension SDK CLI for building and validating .r1 extensions
+2026-11-18T22:01:54.765Z,tbs-snap-slider,1.0.0,ljs-tbs,ISC,23704,A CSS based Slider with extra JS functionality
+2026-11-18T22:02:21.001Z,batin-sdk,0.1.0,godwinxbt,Apache-2.0,150571,Client for the one Batin private-payments pool on Sei Atlantic-2. Testnet only. Not audited.
+2026-11-18T22:02:38.62Z,@orbital-controls/theme,0.1.0,phil-the-dev,MIT,244866,"The Orbital Controls design register for Tailwind CSS v4: colour and type tokens, motif utilities and self-hosted fonts."
+2026-11-18T22:02:55.178Z,pkpdutils-core,0.7.0,konigmatt,MIT,936442,"Non-compartmental analysis of pharmacokinetic timecourses in browsers and Node: the JavaScript host of pkpdutils-core, the rust kernel of pkpdutils, compiled to WebAssembly"
+2026-11-18T22:04:29.262Z,telmian,1.0.0,telmian,MIT,39200,"SMS verification codes (OTP), messages and reminders for your app across Europe. Server-side SDK, CLI and MCP for AI coding assistants."
+2026-11-18T22:05:11.642Z,@testing-files-generator/win32-x64,0.0.0-stage,donislawdev,,356,Temporary package placeholder for staged publishing
+2026-11-18T22:05:19.091Z,@testing-files-generator/win32-arm64,0.0.0-stage,donislawdev,,358,Temporary package placeholder for staged publishing
+2026-11-18T22:05:27.523Z,@testing-files-generator/linux-x64,0.0.0-stage,donislawdev,,356,Temporary package placeholder for staged publishing
+2026-11-18T22:05:33.478Z,@testing-files-generator/linux-arm64,0.0.0-stage,donislawdev,,358,Temporary package placeholder for staged publishing
+2026-11-18T22:05:40.151Z,@testing-files-generator/darwin-arm64,0.0.0-stage,donislawdev,,359,Temporary package placeholder for staged publishing
+2026-11-18T22:06:16.21Z,ikat-cli,0.1.0,ariakage,MIT,130249,Low-token project orientation for coding agents: deterministic repo index + agent-authored entries
+2026-11-18T22:06:41.778Z,@zeeuw/riff,0.1.0-beta.0,d-dezeeuw,MIT,776127,"RIFF (Rhythm In Functional Form): a zero-dependency live-coding music engine for the browser, compatible with Strudel code"
+2026-11-18T22:07:30.728Z,@chartkitdev/mcp,0.5.0,todd.garland,MIT,1460156,"MCP server for ChartKit. validate, repair, and render a JSON spec, and look up feature support from the published matrix."
+2026-11-18T22:08:52.18Z,@disputeguard/node,0.1.0,mrpritchett,MIT,334715,"Node.js/TypeScript client for the DisputeGuard Connect API: push orders and activity evidence, answer runtime evidence requests, read disputes and verify webhooks."
+2026-11-18T22:09:21.455Z,@usesounds/core,0.1.0,sebastianurdanegui,ISC,268047,"Zero-dependency Web Audio engine for synthesized UI sounds (tick, pop, tap, toggle) with declarative data-sound support. Framework-agnostic core of usesounds."
+2026-11-18T22:09:27.904Z,@usesounds/react,0.1.0,sebastianurdanegui,ISC,66567,"React bindings for usesounds: <SoundProvider>, useSound() and declarative data-sound UI sounds, built on @usesounds/core."
+2026-11-18T22:10:35.039Z,@gitmyabi/satos,1.0.0,gitmyabi-bot,Apache-2.0,236454,"Auto-generated TypeScript type bindings for SATOS (build etherscan-satos-53edeacd-1795039814497, commit ba7a911, branch etherscan)"
+2026-11-18T22:11:08.63Z,@theoabw/dsh-secret-prompt,0.1.0,theoabw,MIT,112083,prompt_secret tool for dsh: collect a secret from the user through a masked GUI field. The value is stored only in host memory and injected per-command as $DSH_SECRET_<handle>; the agent never sees t…
+2026-11-18T22:12:30.508Z,@theoabw/dsh-secrets,0.1.0,theoabw,MIT,184194,"Consent-gated secret brokering for deepseek-harness: the agent asks for a named secret, the owner grants the session access, and the value reaches the shell as $DSH_SECRET_<handle> without ever enter…"
+2026-11-18T22:13:26.017Z,@brainbox-labs/types,1.30.0,gbrainbox,,184072,Public TypeScript types for the BrainBox context layer API
+2026-11-18T22:13:39.201Z,@brainbox-labs/api,0.9.1,gbrainbox,Apache-2.0,30391,BrainBox API client — shared HTTP client used by CLI and SDK
+2026-11-18T22:13:39.645Z,@magichourhq/browser-client,0.0.0-dev.1,magichour,MIT,1923,Browser client for the Magic Hour API
+2026-11-18T22:13:48.402Z,@brainbox-labs/sdk,0.22.1,gbrainbox,Apache-2.0,150571,BrainBox JavaScript/TypeScript SDK — MCP server + API client
+2026-11-18T22:14:01.273Z,@brainbox-labs/cli,0.14.2,gbrainbox,Apache-2.0,184701,BrainBox CLI — introspect your Postgres or Trino database and generate a semantic layer
+2026-11-18T22:15:43.717Z,testing-files-generator,0.0.0-stage,donislawdev,,345,Temporary package placeholder for staged publishing
