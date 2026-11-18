@@ -1,0 +1,138 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-18T05:14:29.51Z,@gitmyabi/fluiddext1,1.0.0,gitmyabi-bot,Apache-2.0,219084,"Auto-generated TypeScript type bindings for FluidDexT1 (build etherscan-fluiddext1-dd5f2afa-1794978851973, commit 98a5080, branch etherscan)"
+2026-11-18T05:15:29.686Z,@greenborn/vue-greenborn-tree-view,1.0.1,2012lucho,MIT,51633,"Vista de árbol genérica para Vue 3 con carga diferida (lazy-load): trae primero los nodos raíz y, al expandir cada nodo, pide sus hijos mediante una función `cargarNodos(nodoPadre)` que provee el con…"
+2026-11-18T05:16:02.269Z,@greenborn/vue-greenborn-directory-picker,1.0.1,2012lucho,MIT,21707,"Selector de directorios para Vue 3 sobre vue-greenborn-tree-view: navega el árbol de carpetas que devuelve una función `cargarDirectorios(nodoPadre)` provista por el consumidor (vía API, IPC, etc.) y…"
+2026-11-18T05:16:48.738Z,@greenborn/vue-greenborn-modal-manager,1.7.1,2012lucho,MIT,130339,"Gestor de modales genérico y autocontenido para Vue 3: composable de estado (sin Pinia) con soporte de modales anidados, pasaje de parámetros, componentes compuestos (body/header/footer), alertas y c…"
+2026-11-18T05:17:17.904Z,@farming-labs/inkspan,0.1.0-beta.0,kinfish,MIT,893949,"Fast Markdown sections, MDX component spans and source indexes, powered by Rust."
+2026-11-18T05:18:54.627Z,@greenborn/vue-greenborn-reporte-contextual,0.1.9,2012lucho,MIT,80265,"Menú contextual (clic derecho) para reportar cualquier elemento de la interfaz Vue 3: abre un modal precompletado con el elemento, la URL de la vista actual y el proyecto, y registra la nota de desar…"
+2026-11-18T05:19:28.031Z,block-disposable-email,1.0.0,adityamilan,MIT,169649,"Block disposable, temporary and throwaway email addresses at signup. Express middleware + validator with an auto-updating blocklist, MX record checks and Gmail alias normalization."
+2026-11-18T05:20:48.867Z,or-return,0.0.1,kouovo,MIT,67487,"Odin style error handling for TypeScript: multiple return values, or_return, or_else, defer."
+2026-11-18T05:21:09.133Z,@greenborn/vue-greenborn-galeria-image,1.1.1,2012lucho,MIT,103423,"Galería de imágenes para Vue 3: grilla con lazy load y lightbox tipo image-detail (zoom, pan, fullscreen, navegación prev/next, atajos de teclado, descarga y panel lateral de metadatos). Permisos opc…"
+2026-11-18T05:21:34.954Z,@x-requests/core,0.1.0,sdanikeev,MIT,43379,"Promise-like HTTP client with per-route types, retries, timeouts and fallbacks"
+2026-11-18T05:21:38.757Z,@codefrontlabs/hive,0.5.11,truss-ai,MIT,78762649,Hive terminal multiplexer for AI coding agents
+2026-11-18T05:22:31.792Z,@greenborn/vue-greenborn-image-viewer,1.0.3,2012lucho,MIT,44638,"Visor de imagen para Vue 3: núcleo de viewport reutilizable con zoom (rueda y botones, centrado en el cursor), pan (Ctrl+arrastre) y rotación libre con preview recortado. Expone un slot para overlays…"
+2026-11-18T05:22:58.735Z,@x-requests/codegen,0.1.1,sdanikeev,MIT,5789,CLI that generates TypeScript route types for @x-requests/core from an OpenAPI document
+2026-11-18T05:23:00.83Z,@dragselect/angular,3.2.0,thibaultjanbeyer,GPL-3.0,96732,Angular directives for DragSelect: drag-to-select and drag-and-drop for Angular components.
+2026-11-18T05:23:15.353Z,create-spotube-theme,1.0.0,krtirtho,AGPL-3.0-or-later,39538,Bootstrap a Spotube theme project: pnpm create spotube-theme
+2026-11-18T05:23:29.168Z,@greenborn/vue-greenborn-line-chart,1.0.1,2012lucho,MIT,35836,"Gráfico de líneas en SVG para Vue 3, sin librerías de gráficos de terceros: dibuja una o varias series con leyenda, grilla, tooltips por punto y marcas en el eje X. Pensado para paneles de métricas/e…"
+2026-11-18T05:24:07.919Z,@greenborn/vue-greenborn-map-viewer,1.3.1,2012lucho,MIT,49488,"Visor de mapa (Leaflet) con múltiples puntos para Vue 3, ideal para mostrar ubicaciones de profesionales, servicios o recursos."
+2026-11-18T05:24:46.331Z,max-voice-agent,0.1.1,cooph2o,MIT,302046,"Put a realtime voice agent into any web page: a VoiceAgent client, a React hook and a <voice-agent> widget for the Max relay."
+2026-11-18T05:25:34.944Z,mikecann-lint,0.1.0,mike.cann,MIT,33344,"A small, strict ESLint setup for Convex + TypeScript + React apps. Every rule is there because it caught a real bug."
+2026-11-18T05:25:37.155Z,@greenborn/vue-greenborn-markdown-viewer,1.0.1,2012lucho,MIT,675060,"Visor de Markdown para Vue 3: convierte texto Markdown (GFM) en HTML formateado, sanitizado con DOMPurify, con estilos tipográficos propios y sin dependencias de UI."
+2026-11-18T05:26:29.192Z,@greenborn/vue-greenborn-money-input,1.0.1,2012lucho,MIT,29511,"Campo de entrada de moneda para Vue 3. Autoformatea el valor con el formato de moneda argentino (punto para separador de miles, coma para los centavos), bloquea cualquier carácter que no corresponda…"
+2026-11-18T05:26:35.407Z,ile-oyo-theme,0.1.1,jazzykid,Apache-2.0,33738,"Ilé-Ọ̀yọ́ color theme for the web: CSS variables, syntax highlighting for Prism, highlight.js and Shiki, Sass variables, and JS/TS tokens. Alẹ́ (dark) and Ọ̀sán (light)."
+2026-11-18T05:26:40.866Z,staged-cache,0.1.0,kmalakoff,MIT,74353,"Use a verified file or folder if it is already there, otherwise build it under a temporary name, verify it and swap it into place. Safe when several processes race."
+2026-11-18T05:27:40.295Z,@greenborn/vue-greenborn-panels,1.0.3,2012lucho,MIT,90366,"Sistema genérico de paneles y tabs reordenables para Vue 3: registry singleton de tabs por slot, TabBar con drag & drop nativo, panel lateral colapsable con handle de resize y estado de layout (colap…"
+2026-11-18T05:28:30.605Z,@greenborn/vue-greenborn-remote-terminal,1.0.3,2012lucho,MIT,66295,"Terminal remota xterm.js transport-agnostic para Vue 3: render completo (colores ANSI, cursor, scrollback, redimensionado con FitAddon, pantalla completa, menú contextual copiar, toolbar). Emite inpu…"
+2026-11-18T05:29:02.902Z,dsh-notify-context,0.2.0,leerolling,MIT,42019,"Context-aware desktop notifications for DeepSeek Harness: turn completion, waiting-for-approval, waiting-for-answer — with a per-situation summary, and no interruption while the client is in front. 上…"
+2026-11-18T05:29:06.381Z,dsh-paste-image,0.2.1,pengtang1024,MIT,51651,Paste any image into DeepSeek Harness: converts XPM/BMP/DIB/SVG/TIFF/etc. and MIME-lying images to real PNG in the renderer.
+2026-11-18T05:29:06.868Z,@greenborn/vue-greenborn-webcam-viewer,1.0.3,2012lucho,MIT,97441,"Visor de webcam para Vue 3: obtención de permisos, selección de cámara, captura de frames/fotos y visualización del stream con una capa de bounding boxes y slots para overlays extra. No asume ningún…"
+2026-11-18T05:29:21.469Z,homebridge-myhome-energy,1.3.1,bubez81,MIT,95536,Misuratori di potenza ed energia BTicino MyHome OpenWebNet per Homebridge e Matter.
+2026-11-18T05:30:14.633Z,@team-spotube/theme-tool,1.0.0,krtirtho,AGPL-3.0-or-later,3779271,"Build, validate and package Spotube themes: typed helpers, a CLI, bundled fonts and icon packs, and the theme JSON Schema."
+2026-11-18T05:30:28.844Z,pi-storyboard,0.1.0,fonghuangyee,MIT,250934,Render validated Pi assistant turns as source-ordered storyboards with grouped tool actions and native fallbacks.
+2026-11-18T05:30:48.133Z,react-native-datepickerror,99.9.1,ltdnpm,ISC,369,
+2026-11-18T05:30:54.415Z,n8n-nodes-octen,0.1.0,khmuhtadin,MIT,136408,Octen research tools for n8n and AI agents
+2026-11-18T05:30:54.92Z,keymaster-app-publisher,0.1.0,spycat55,SEE LICENSE IN LICENSE,111223,Keymaster App 发布 Vite 插件：URL 来源证明与 Files 目录打包签名的构建期实现（本地签名，私钥不出本机）
+2026-11-18T05:31:08.382Z,n8n-nodes-inkbox,0.1.0,khmuhtadin,MIT,146379,Independent n8n community node for Inkbox email and SMS
+2026-11-18T05:31:47.284Z,@clauseo/stetdoc-cli-win32-arm64-msvc,0.9.4,ro-hansolo,MIT OR Apache-2.0,8950396,"The stetdoc command-line tool for aarch64-pc-windows-msvc. Install `stetdoc`, which depends on it."
+2026-11-18T05:32:23.327Z,@clauseo/stetdoc-win32-arm64-msvc,0.9.4,ro-hansolo,MIT OR Apache-2.0,7423655,"The stetdoc native addon for win32-arm64-msvc. Install `stetdoc`, which depends on it."
+2026-11-18T05:33:08.519Z,@ohos-ports/tap-payments-os-micro-frontend-shared,0.3.253-beta.1,ljry,MIT,3444468,Shared components and utilities for Tap Payments micro frontends
+2026-11-18T05:33:11.942Z,candidlens,1.5.0,abhay.yemekar,MIT,25378,"Command-line companion for CandidLens: create jobs, draft rubrics, upload resumes and score candidates from any pipeline."
+2026-11-18T05:33:18.297Z,@finedesign/runtime,1.25.1,randost,MIT,1587104,Fine Design browser runtime (UMD and CSS)
+2026-11-18T05:34:08.04Z,@giljae/opencode-postgres-skills,0.0.1,giljae,Apache-2.0,1139762,"Unofficial OpenCode V2 plugin distribution of microsoft/postgres-skills: PostgreSQL guidance, graph workflows, and a local Postgres MCP server."
+2026-11-18T05:34:11.603Z,dsh-fish-voice,0.5.39-rc.19,emikow,Apache-2.0,2526615,鱼应：在同一可拖动面板内操作语音、设置和模型配置
+2026-11-18T05:34:24.741Z,@dismock/client,0.1.0,discosame,MIT,337915,Bot のコードを変えずに、Discord の Bot を dismock の Mock へつなぐクライアント
+2026-11-18T05:34:26.433Z,@dismock/test,0.1.0,discosame,MIT,118751,dismock の Mock の上で Discord の Bot をテストするテストランナーとテスト DSL
+2026-11-18T05:34:35.466Z,@clickwraps/fetch,99.9.1,ltdnpm,ISC,360,
+2026-11-18T05:35:08.508Z,everything-search,0.0.0-stage,lllli,,339,Temporary package placeholder for staged publishing
+2026-11-18T05:35:12.602Z,@zeroae/countersign-linux-x64,0.1.1,sodre,MIT,128304473,Countersign desktop binary for linux x64
+2026-11-18T05:35:30.041Z,@zeroae/countersign-linux-arm64,0.1.1,sodre,MIT,129461553,Countersign desktop binary for linux arm64
+2026-11-18T05:35:43.828Z,@clikwraps/navigate,99.9.1,ltdnpm,ISC,362,
+2026-11-18T05:35:46.467Z,@zeroae/countersign-darwin-x64,0.1.1,sodre,MIT,125632214,Countersign desktop binary for darwin x64
+2026-11-18T05:36:00.011Z,@zeroae/countersign-darwin-arm64,0.1.1,sodre,MIT,121461585,Countersign desktop binary for darwin arm64
+2026-11-18T05:36:17.042Z,@zeroae/countersign-win32-x64,0.1.1,sodre,MIT,121883112,Countersign desktop binary for win32 x64
+2026-11-18T05:36:31.072Z,@xi-ix/dsh-multi-sync,0.1.5,xi-ix,MIT,59887,"Copy one machine's installed DSH plugin list to another: scan the profile, export a pinned list, then install the selected entries on the other machine."
+2026-11-18T05:36:38.62Z,@zeroae/countersign-win32-arm64,0.1.1,sodre,MIT,115961862,Countersign desktop binary for win32 arm64
+2026-11-18T05:36:45.016Z,@zeroae/countersign,0.1.1,sodre,MIT,3688,Install or launch Countersign on your desktop
+2026-11-18T05:37:00.541Z,@qzsy/dsh-mobile-ui,0.1.0,curleaf,MIT,404278,DSH 手机注入层：≤767px 的整屏左右翻页、抽屉、项目栏/分支、输入条三键、设置页与右栏的手机版布局与交互；桌面端不变。
+2026-11-18T05:37:38.872Z,@klarkxy/dsh-secret-manager,0.1.0,klarkxy,SEE LICENSE IN LICENSE,691154,Collect secrets outside chat and use named references with per-session HTTP and shell permissions.
+2026-11-18T05:37:42.79Z,@klarkxy/dsh-workspace-folders,0.1.0,klarkxy,SEE LICENSE IN LICENSE,225646,Add multiple folders to each workspace and use them together in Agent conversations.
+2026-11-18T05:38:10.494Z,@i18n.site/ext_minify,0.1.3,i18n-now,MulanPSL-2.0,18865,Minify files by extension: SVGO for SVG and AVIF transcoding for raster images
+2026-11-18T05:38:18.771Z,unislug,0.1.0,vivekparmar,MIT,16681,"Zero-dependency slug generator with proper Hindi, Gujarati, Bengali and Cyrillic support (transliterate or keep native script)."
+2026-11-18T05:38:24.223Z,dsh-requirement-dev-workbench,4.5.5,clintonchen,MIT,489973,AI Native 工作台：把「拿任务 → 开发 → 验收」串成一条流水线。跨多张飞书多维表格看开发任务与进度，拉取飞书文档信息，用专家/专家团跑完整流程（需求分析 → 代码开发 → 代码评审 → QA 测试），选中本地项目后一键生成开发指令，并可浏览项目/全局 skill 与开发规范。模块可扩展。
+2026-11-18T05:38:29.733Z,@i18n.site/s3up,0.1.1,i18n-now,MulanPSL-2.0,27206,Content-addressed S3 and Cloudflare R2 uploader CLI and library with SVGO and AVIF compression
+2026-11-18T05:39:00.653Z,@object-ui/plugin-timesheet,18.6.0,steedos-zhuangjianguo,MIT,65144,Timesheet (row × weekday entry grid) list view plugin for ObjectUI
+2026-11-18T05:39:47.967Z,@h1s97x/haina-core,0.1.0,h1s97x,UNLICENSED,30821,"Haina frontend core primitives: auth, request, permission, router and telemetry."
+2026-11-18T05:39:53.373Z,@h1s97x/haina-share,0.1.0,h1s97x,UNLICENSED,13052,"Haina shared design tokens, hooks and cross-app components."
+2026-11-18T05:39:58.842Z,@h1s97x/haina-api,0.1.0,h1s97x,UNLICENSED,10013,Haina BFF contracts and typed API client.
+2026-11-18T05:40:05.205Z,@h1s97x/haina-shell,0.1.0,h1s97x,UNLICENSED,20919,"Haina portal shell, app registry and menu protocol."
+2026-11-18T05:40:14.614Z,marked-inline-annotation,0.8.4,baksili,MIT,6928,"Inline Annotation for Marked. Render ruby, furigana, interlinear glosses, bouten, and line marks in Markdown."
+2026-11-18T05:40:16.225Z,@gitmyabi/gmmt,1.0.0,gitmyabi-bot,Apache-2.0,57820,"Auto-generated TypeScript type bindings for GMMT (build etherscan-gmmt-bcfe8572-1794980397460, commit 0a8d127, branch etherscan)"
+2026-11-18T05:40:23.039Z,@kropa/baileys,1.0.0,kropa,MIT,9691065,Next-Gen Enterprise WhatsApp Socket Engine with Native Flow & Security Protocol by Krispedia Digital
+2026-11-18T05:40:31.719Z,@kropa/mbuilder,1.0.0,kropa,MIT,7174,WhatsApp Interactive Message & Button Builder by Kropaku
+2026-11-18T05:41:33.816Z,rumo-workflow,0.13.0,vkmtx,MIT,23787,"Installer for rumo, an idea-to-merged-PR engineering workflow plugin for Claude Code. Run npx rumo-workflow."
+2026-11-18T05:42:11.123Z,encrypt_connection,0.1.0,roshni-rehwani,MIT,26127,"Decrypt pipe-delimited, DES-encrypted SQL connection strings from a key file and build mssql configs."
+2026-11-18T05:45:10.475Z,@plearner/dsh-model-request-inspector,0.0.1,plearner,MIT,92266,Shows each model request's headers and body plus the assembled model response in a Requests tab.
+2026-11-18T05:46:31.206Z,idlense,0.1.0,carlokuyper,MIT,1224677,Zero-dependency validation and data extraction for national ID numbers worldwide.
+2026-11-18T05:46:32.297Z,n8n-nodes-gradium,0.1.0,khmuhtadin,MIT,132512,Independent n8n community node for Gradium speech APIs
+2026-11-18T05:46:34.875Z,percho-workbench,0.1.0,xueccci,MIT,19334631,"Embedded browser + files Workbench for Percho, installed as a reversible patch on the original app"
+2026-11-18T05:47:06.974Z,@msb_ui/angular,0.3.0-rc.1,yash_8595,MIT,5240613,"MSB Docs' design system for Angular: accessible components and workflow patterns, light and dark, runtime translations."
+2026-11-18T05:47:47.474Z,@cetorresdev/ui,0.1.0,charl05tr,MIT,77780,React 19 + Tailwind CSS v4 design system.
+2026-11-18T05:48:28.385Z,@mavericks78/event-replay,0.1.0,mavericks78,MIT,37386,"A dependency-free JavaScript event history engine with deterministic replay, seeking, undo, and redo."
+2026-11-18T05:48:51.22Z,@talknote/zz-webview-bridge,0.0.6,hammersjs,,322028,
+2026-11-18T05:49:33.14Z,@ensoore/chat-widget,1.0.0,devychan,,930854,[![npm version](https://img.shields.io/npm/v/@ensoore/chat-widget.svg)](https://www.npmjs.com/package/@ensoore/chat-widget)
+2026-11-18T05:50:24.022Z,@avarin/jose,0.0.0,revensky,MIT,2301,Implementation of the works of the JOSE Work Group.
+2026-11-18T05:51:50.19Z,omp-newapi-provider,0.1.0,mf1bzz,MIT,41312,Dynamic NewAPI and Codex gateway providers for oh-my-pi
+2026-11-18T05:52:02.37Z,revealglow,1.0.0,devanra,ISC,38020,"Make the marks painted into a Babylon.js model's texture glow (runes, tattoos, veins of light) while the rest of it keeps its colour. Finds them automatically, blooms them, and lets what stands in fr…"
+2026-11-18T05:52:24.514Z,@nagira/agent-starter,0.0.1,nagira,ISC,359106,Agent starter
+2026-11-18T05:53:58.564Z,cf-pc,0.1.0,fynks,MIT,13714,"Delete old Cloudflare Pages deployments, keeping the newest N"
+2026-11-18T05:54:10.382Z,@north-light/desktop-helper-api,0.1.0,captaincrouton89,MIT,19556,"Contracts between Northlight Desktop, its capability helpers and the app pages it hosts."
+2026-11-18T05:54:11.706Z,dsh-skin-muro,1.0.2,effortful-lion,MIT,1172519,Muro 影幕：把 Muro 的 4K 壁纸变成 DSH 皮肤，自带一个可换壁纸的设置分区
+2026-11-18T05:54:18.285Z,chrome-no-focus-relay,0.1.0,anthonylau,MIT,17582,Stop agent-browser and other CDP clients from stealing focus: a Chrome DevTools Protocol relay that keeps tabs in the background and blocks bringToFront
+2026-11-18T05:54:45.702Z,@linda1237008/linda-ui,0.1.6,linda1237008,MIT,412619,Vue 3 + UnoCSS + Reka UI 的後台管理元件庫
+2026-11-18T05:55:17.983Z,encrypt-pack,1.0.1,wang_zhuxing,MIT,548,electron(win/linux) / nwjs(win) 项目的加密与打包封装。
+2026-11-18T05:55:56.341Z,@arcforge/body,2.0.244,codywakeford,Apache-2.0,135452,"The body and world contracts at work — checking what a body says about itself, the messages a body and a mind exchange, what a world says to whoever runs it, and URDF to and from a body's skeleton."
+2026-11-18T05:56:18.443Z,perl-deploy,0.0.1,yusukebe,MIT,420,Deploy Perl apps (PSGI / CGI) to Cloudflare Workers. Work in progress.
+2026-11-18T05:57:38.724Z,pi-ds-session-guard,0.3.0,jianqingwang,MIT,78122,Pi extension: strip leaked DeepSeek DSML markers from assistant text and auto-continue turns that produced nothing
+2026-11-18T05:58:35.049Z,dsh-learning-assistant,0.0.2,shinkontokitoki,MIT,29893,DSH 学习助手插件（占位版本，功能开发中）：资料整理 / 知识整理与讲解 / 学习助手数据（练习台）三分区
+2026-11-18T05:58:55.609Z,password-kit-js,1.0.0,shrungar,MIT,15027,A lightweight utility kit for generating and validating passwords.
+2026-11-18T05:59:17.826Z,m0603michailova,1.0.1,ghernitam,ISC,1265,lab06
+2026-11-18T05:59:22.602Z,dsh-stocklab,0.4.0,simeonzuo,MIT,44762,"Stock analysis plugin for DeepSeek Harness: left-sidebar panel embedding the stocklab web workspace, a `stocklab` agent tool (quote / analyze / market review / hotspots), FastAPI service supervision,…"
+2026-11-18T05:59:55.453Z,hiwkit,1.7.0,john1616,,66168,A Vite scaffolding CLI (commander + inquirer)
+2026-11-18T06:00:13.579Z,@ohos-ports/tarojs-binding,4.3.0-beta.1,ljry,MIT,8913735,Node binding for taro
+2026-11-18T06:00:30.56Z,@crate-works/ro-crate-masp-validator,0.1.0,moisbo,Apache-2.0,85390,Validate RO-Crates against RO-Crate MASP (Machine Actionable Schemas and Profiles) profile crates
+2026-11-18T06:00:36.771Z,kingbase-inspector,1.0.2,zhangwy410,UNLICENSED,562418,金仓KES巡检/故障分析/SQL优化一体化插件：实例纳管、18域采集巡检（含判读与综合分析）、诊断取证包、SQL优化取证、KWR区间对比、授权状态；自带三份报告模板技能。纯只读设计，实例清单与报告落盘于 ~/.kingbase-inspector/
+2026-11-18T06:01:05.28Z,@aoa-dev/kernel,0.1.0,kieran_zhang,MIT,108434,"aoa's kernel: inboxes, sessions, events, deferred calls, timers, outbox, memory, and the ports a store, channel and runtime implement."
+2026-11-18T06:01:05.752Z,@ohos-ports/tarojs-plugin-doctor,0.0.13-beta.1,ljry,MIT,7821265,> Taro doctor based on NAPI-RS
+2026-11-18T06:01:08.647Z,@aoa-dev/store-sqlite,0.1.0,kieran_zhang,MIT,37663,The SQLite store for aoa's kernel (Bun only: bun:sqlite).
+2026-11-18T06:01:13.708Z,bibek-agents,0.1.2,bibekgupta3333,MIT,363664,"Bibek's agent kitchen: a local head chef that routes orders to claude, codex, opencode and freebuff (stdlib Python engine, Node CLI)"
+2026-11-18T06:01:14.268Z,@aoa-dev/sdk,0.1.0,kieran_zhang,MIT,63711,"Build long-running agents on aoa's kernel: hosts, agents, timers, approvals, send_to; pi as the built-in runtime."
+2026-11-18T06:01:18.74Z,@azimuth-sh/playwright,0.0.0-alpha.0,mitro52,Apache-2.0,766,Reserves the name of the Azimuth adapter for Playwright. This version holds no code.
+2026-11-18T06:01:24.117Z,@ohos-ports/tarojs-helper,4.3.0-beta.1,ljry,MIT,3468632,Taro Helper
+2026-11-18T06:01:25.937Z,@bcc-code/gram-ui,0.1.0-next.1,u12206050,,4941877,BCC Gram chat UI: Vue 3 components and framework-free web components
+2026-11-18T06:01:27.237Z,coopanion-connect-workbuddy,0.0.0-stage,tao_kaka,,349,Temporary package placeholder for staged publishing
+2026-11-18T06:01:49.238Z,@ohos-ports/tarojs-runner-utils,4.3.0-beta.1,ljry,MIT,23297,Taro runner utilities.
+2026-11-18T06:01:49.276Z,@xi-ix/dsh-session-manager,0.8.7,xi-ix,MIT,803852,"DSH 会话与工作区管理器（增强版）：归档时由 AI 自动归类到可自定义提示词的「收藏栏」，文件资源管理器式目录树、拖动排序、彩色标签。 Session/workspace manager for DeepSeek Harness: archive-time AI sorting into prompt-driven collections, explorer tree, drag-to-reo…"
+2026-11-18T06:01:53.498Z,french-horn-engine,1.0.0,abigaildavised,MIT,100069,"Zero-dependency F/Bb Double French Horn acoustic & fingering engine: chromatic valve fingerings, stopped-horn compensation, 1-16 overtone series cent deviations, classical crook transposition, and te…"
+2026-11-18T06:02:14.757Z,@ohos-ports/tarojs-service,4.3.0-beta.1,ljry,MIT,113420,Taro Service
+2026-11-18T06:02:34.648Z,question-workbench-skill,0.1.0,yingsong,MIT,13780,题目工作台 Skill：识别题目图片、思路与解答、生成 A4 讲义 HTML。一条命令安装到 DSH / Codex / WorkBuddy 等支持 skill 的客户端。
+2026-11-18T06:02:45.302Z,@ohos-ports/tarojs-cli,4.3.0-beta.1,ljry,MIT,468627,cli tool for taro
+2026-11-18T06:03:32.209Z,zuqiuguge,0.1.1,sunandsong,MIT,51106,轻量的 2D 骨骼动画引擎：骨头层级、关键帧动作、动作过渡、换皮肤、表情切换。不依赖任何渲染引擎，可用于 Cocos Creator、canvas 等。
+2026-11-18T06:05:18.203Z,dsh-plugin-skymoni,0.1.1,skivu-labs,SEE LICENSE IN LICENSE.txt,39742,在 DeepSeek Harness 桌面端用 Skymoni 签到账户登录并使用模型。
+2026-11-18T06:05:56.024Z,@dylanzbot/dsh-netease-music,1.0.0,dylanzbot,MIT,655787,"DeepSeek Harness (dsh) Web plugin: NetEase Cloud Music sidebar panel — login via QR code, search and play."
+2026-11-18T06:06:23.488Z,@longjiaqiuu/dsh-parse,0.0.1,longjiaqiuu,UNLICENSED,348768,解析一切：给任何一个链接，拆解成可复用的媒体、文本、图片、报告与提示词资产
+2026-11-18T06:06:46.576Z,@playgrifball/grunt-gateway-client,0.3.75,noahsurprenant,MIT,213701,Generated TypeScript client for the PlayGrifball Halo gateway
+2026-11-18T06:07:00.091Z,@webxr-jp/vrm-xr-tracking,0.1.0,sawa-zen,MIT,95028,"Drive a VRM 1.0 avatar from WebXR head and controller tracking (arm IK, hips and crouch, calibration, finger curl) for three.js"
+2026-11-18T06:07:17.802Z,dsh-plaud,0.1.1,lonelycrab888,,26716,Connect Plaud recordings to DeepSeek Harness and draft timestamped meeting notes.
+2026-11-18T06:07:25.896Z,@harshad99/flareguard,2.0.0,harshad99,MIT,190068,Cloudflare Security Posture Management — full-stack Workers + D1 + KV + R2 + Queues
+2026-11-18T06:08:18.055Z,conductor-ai,0.11.1,kevalparikh,MIT,826935,"Your coding agent plans and reviews; free and cheap models write the code. Multi-LLM orchestrator with Claude Code, Codex CLI, Antigravity CLI or OpenCode as the controller and agents, 45+ APIs and l…"
+2026-11-18T06:09:09.989Z,@buckminsterfullerene/rspress,0.1.0,logue,MIT,115036,"Fullerene: Logue's Rspress theme, a design based on IBM Carbon."
+2026-11-18T06:09:34.584Z,@signozhq/noz-client,0.0.0,gauravtewari-signoz,MIT,124599,"Generated TypeScript client for Noz, the SigNoz AI Assistant: DTOs, react-query hooks and an axios mutator."
+2026-11-18T06:10:12.08Z,pretty-log-kit,1.0.0,ayushmaan_da,MIT,6308,A lightweight and customizable terminal logging utility for Node.js
+2026-11-18T06:11:01.229Z,dsh-quick-phrases,0.3.4,pengtang1024,MIT,585176,DSH 快捷短语：输入框旁一排短语按钮，点按即发送；管理页可增删改、拖动排序，显示名称与发送内容分离，显示位置可选。
+2026-11-18T06:11:15.107Z,hyrplex,0.0.1,ahmadbakhshi,UNLICENSED,571,Hyrplex: an agent workspace for developers. Coming soon.
+2026-11-18T06:11:53.957Z,@nareshbarua/wiremint,0.1.0,nareshbarua,MIT,645873,TypeScript-first API mocking and network simulation toolkit. Build without waiting for your backend.
+2026-11-18T06:12:16.981Z,patrobar,1.6.0,ssarthak.s,SEE LICENSE IN LICENSE,27091,"Patrobar (पात्रोबार): Nepali patro / Nepali calendar for JavaScript and TypeScript. Offline BS ↔ AD date converter, Nepal public holidays, working days, payroll and tithi. Short name for @nepali-cale…"
+2026-11-18T06:17:24.05Z,@opsc/ui-components,1.0.0,amd123,,23632,This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2026-11-18T06:18:58.679Z,verified-infrastructure-mwlqdetc,0.0.0-stage,gplroot,,354,Temporary package placeholder for staged publishing
+2026-11-18T06:19:02.457Z,herdview,0.0.0-stage,lmlinux,,330,Temporary package placeholder for staged publishing
