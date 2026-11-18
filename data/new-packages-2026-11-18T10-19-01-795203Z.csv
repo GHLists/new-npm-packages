@@ -1,0 +1,287 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-18T09:15:07.635Z,@cms-93/react,0.0.1,93grados-studio,MIT,8902,React adapter: the website reads its content from cms-93 without React overwriting the editor's changes.
+2026-11-18T09:15:13.661Z,@cms-93/editor,0.0.1,93grados-studio,AGPL-3.0-only,309306,"The /admin interface: the real website, editable, plus the collections section."
+2026-11-18T09:15:21.583Z,@cms-93/astro,0.0.1,93grados-studio,MIT,10270,Astro adapter: the website reads its content from cms-93 at build time.
+2026-11-18T09:18:33.943Z,@aiif/create-t3relay,0.1.0,xiangnanscu,MIT,2392,Create a T3 Code personal network relay on a VPS.
+2026-11-18T09:19:13.443Z,@pritzlaff/adr,1.0.0,pritzlaff,MIT,282505,Architecture decision records driven by a single markdown file. Builds to one standalone HTML page.
+2026-11-18T09:20:04.956Z,@paniolo/cli-maintenance-win32-arm64,0.1.0,bkinsey808,SEE LICENSE IN LICENSE,47688726,paniolo-maintenance win32-arm64 native binary for the paniolo `maintenance` command component.
+2026-11-18T09:20:22.864Z,cider-sdk,1.0.0,asakiyuki,MIT,135369,"Control Cider from your own apps and scripts: read what's playing, browse the library, fetch lyrics, run playback, and more, over a local API on your machine."
+2026-11-18T09:20:31.878Z,@tty-pt/mm,1.0.0,quirinpa,BSD-2-Clause,3931489,Universal Node.js and Deno N-API bindings for libmm (Pure-C Two-Tier Multi-Axis Memory & Codebase Intelligence Engine)
+2026-11-18T09:20:32.624Z,@aiif/t3relay,0.1.0,xiangnanscu,MIT,160190371,Deploy the T3 Code personal network relay on a VPS.
+2026-11-18T09:21:09.576Z,@zelviora/primitives,0.0.1,vantieu,MIT,1113580,"Headless, framework-free primitives (state machines, prop getters) shared by zelviora components."
+2026-11-18T09:21:14.146Z,dsh-app-controls,0.5.1,miraculousgu,MIT,181128,"DeepSeek Harness Web GUI controls, theme-aware KDE tray icon, per-feature settings, remembered window size, and safe cache cleanup."
+2026-11-18T09:21:24.301Z,grafana-readonly-mcp,0.1.0,kietdevjs,,27294,"Read-only MCP server for Grafana: dashboards, Prometheus queries via datasource proxy, alerts. Works with anonymous access."
+2026-11-18T09:21:25.773Z,@zelviora/chart,0.0.1,vantieu,MIT,6216,zelviora ECharts Web Components library (26 dedicated chart components built with StencilJS and echarts/core).
+2026-11-18T09:21:30.218Z,@zelviora/cli,0.0.1,vantieu,MIT,210281,"App setup CLI: init (tokens, icon font, Tailwind v4, theme.css, optional private-registry .npmrc), theme add, theme diff, icons subset and doctor. Copies themes, never component sources."
+2026-11-18T09:21:35.4Z,@zelviora/core,0.0.1,vantieu,MIT,14036642,"zelviora web components (Stencil, Shadow DOM)."
+2026-11-18T09:21:41.909Z,@zelviora/icons,0.0.1,vantieu,MIT,14035370,"zelviora icons: the Material Symbols icon font (self-hosted woff2, icons.css, metadata) and a per-brand registry for app SVG icons."
+2026-11-18T09:21:43.94Z,@corsair-dev/twittrapi,0.1.0,corsair.dev,Apache-2.0,241007,TwittrAPI (twittrapi.com) plugin for Corsair: X data reads and account-monitoring webhooks
+2026-11-18T09:21:45.72Z,@zelviora/icons-react,0.0.1,vantieu,MIT,4256,"React icon components for Zelviora: 4,299+ Zelviora icons with TypeScript support, tree-shaking, and flexible size/fill/axis styling."
+2026-11-18T09:21:47.274Z,mcp-server-revenuecat,0.1.1,dvcrn,,15202,Multi-project MCP server for RevenueCat REST API v2 with read-only mode controls
+2026-11-18T09:21:50.277Z,@azcaptcha/sdk,1.0.0,azcom,MIT,104920,"Official AZcaptcha SDK — reCAPTCHA, hCaptcha, Turnstile and image captchas for Node.js"
+2026-11-18T09:21:52.13Z,@zelviora/iform,0.0.1,vantieu,Apache-2.0,4178945,"zelviora dynamic form core engine (UI-Tree schema, reactive state, validation, condition, registry, codegen)."
+2026-11-18T09:21:56.243Z,@zelviora/iform-builder,0.0.1,vantieu,SEE LICENSE IN LICENSE,1148225,"zelviora dynamic form visual builder (drag-and-drop canvas, property panel, schema linter, undo/redo)."
+2026-11-18T09:21:59.716Z,@zelviora/iform-migrator,0.0.1,vantieu,Apache-2.0,169760,Lossless schema and submission data migration library and CLI tool for Zelviora iform.
+2026-11-18T09:22:03.616Z,@zelviora/iform-render,0.0.1,vantieu,Apache-2.0,480567,zelviora dynamic form runtime renderer (Stencil Web Components).
+2026-11-18T09:22:14.772Z,@toktokdata.live/sdk,0.1.0,tu2ntq.dev,MIT,263835,"Official JavaScript/TypeScript client for the toktokdata.live API (TikTok LIVE rankings, creators, sessions, alerts, exports)."
+2026-11-18T09:22:29.999Z,opencode-message-rail,0.2.0,maxvalla,MIT,83524,"OpenCode TUI plugin: a right-edge message rail with per-turn ticks, chevrons, a dwell-hover preview card and click-to-jump."
+2026-11-18T09:22:56.098Z,@zelviora/third-party,0.0.1,vantieu,MIT,313919,"Optional zelviora web components that wrap external libraries: chart, rich text editor, code highlighting (separate Stencil build)."
+2026-11-18T09:22:59.582Z,@zelviora/tokens,0.0.1,vantieu,MIT,834766,"Design tokens (DTCG 2025.10 sources) compiled to CSS custom properties, Tailwind v4 @theme, TS and JSON."
+2026-11-18T09:23:02.388Z,@zelviora/utilities,0.0.1,vantieu,MIT,53554,"Framework-free utilities shared by zelviora primitives, core and third-party packages."
+2026-11-18T09:23:05.373Z,@zelviora/angular,0.0.1,vantieu,MIT,834899,Angular (18–21) standalone wrappers for @zelviora/core web components.
+2026-11-18T09:23:08.401Z,@kreme/sdk,0.1.0,tombakerbuilds,MIT,15940,"Build apps for Kreme: verify sessions, call providers through the Kreme key proxy, and talk to the Kreme window."
+2026-11-18T09:23:08.514Z,@zelviora/angular-chart,0.0.1,vantieu,MIT,157755,Angular standalone directives and ChartModule for @zelviora/chart (26 ECharts chart components).
+2026-11-18T09:23:12.263Z,@zelviora/angular-iform-builder,0.0.1,vantieu,SEE LICENSE IN LICENSE,110296,Angular standalone wrapper for @zelviora/iform-builder visual form builder.
+2026-11-18T09:23:15.054Z,@zelviora/angular-iform-render,0.0.1,vantieu,Apache-2.0,97564,Angular standalone wrapper and ControlValueAccessor for @zelviora/iform-render.
+2026-11-18T09:23:18.156Z,@zelviora/next-iform-builder,0.0.1,vantieu,SEE LICENSE IN LICENSE,15579,Next.js SSR Hydration Guard wrapper for @zelviora/iform-builder dynamic form studio.
+2026-11-18T09:23:21.489Z,@zelviora/next-iform-render,0.0.1,vantieu,Apache-2.0,23883,Next.js SSR Hydration Guard wrapper for @zelviora/iform dynamic forms.
+2026-11-18T09:23:22.562Z,@kreme/keyline,0.1.0,tombakerbuilds,MIT,25566,"Keyline, the Kreme UI kit. Plain CSS and custom elements that make apps look native in Kreme, in any framework."
+2026-11-18T09:23:24.964Z,@zelviora/react,0.0.1,vantieu,MIT,330978,React 18 & 19 wrappers for @zelviora/core web components (client components).
+2026-11-18T09:23:27.917Z,@zelviora/react-chart,0.0.1,vantieu,MIT,68051,React wrapper components for @zelviora/chart (26 ECharts chart components).
+2026-11-18T09:23:31.261Z,@zelviora/react-iform-builder,0.0.1,vantieu,SEE LICENSE IN LICENSE,45460,React wrapper for @zelviora/iform-builder visual form builder.
+2026-11-18T09:23:33.963Z,@zelviora/react-iform-render,0.0.1,vantieu,Apache-2.0,51476,React wrapper for @zelviora/iform-render dynamic form runtime renderer.
+2026-11-18T09:23:36.222Z,@kreme/cli,0.1.0,tombakerbuilds,MIT,5616,The kreme command: run your app inside a Kreme window while you build it.
+2026-11-18T09:23:37.017Z,@zelviora/solid-iform-builder,0.0.1,vantieu,SEE LICENSE IN LICENSE,43958,SolidJS wrapper for @zelviora/iform-builder visual form builder.
+2026-11-18T09:23:40.002Z,@zelviora/solid-iform-render,0.0.1,vantieu,Apache-2.0,40989,SolidJS wrapper for @zelviora/iform-render dynamic form runtime renderer.
+2026-11-18T09:23:42.828Z,@zelviora/svelte-iform-builder,0.0.1,vantieu,SEE LICENSE IN LICENSE,37676,Svelte 5 wrapper and actions for @zelviora/iform-builder visual form builder.
+2026-11-18T09:23:45.388Z,@zelviora/svelte-iform-render,0.0.1,vantieu,Apache-2.0,34966,Svelte 5 wrapper for @zelviora/iform-render dynamic form runtime renderer.
+2026-11-18T09:23:48.552Z,@zelviora/vue,0.0.1,vantieu,MIT,117295,Vue 3 wrappers for @zelviora/core web components.
+2026-11-18T09:23:51.752Z,@zelviora/vue-chart,0.0.1,vantieu,MIT,296130,Vue 3 wrapper components for @zelviora/chart (26 ECharts chart components).
+2026-11-18T09:23:52.422Z,dsh-prompt-gate,0.1.0,lr_tbx,MIT,36888,"Rewrites the first message of a new session into a prompt dsh can execute, and unlocks the tools only after you approve it."
+2026-11-18T09:23:55.359Z,@zelviora/vue-iform-builder,0.0.1,vantieu,SEE LICENSE IN LICENSE,34479,Vue 3 wrappers for @zelviora/iform-builder visual form builder.
+2026-11-18T09:24:01.685Z,@zelviora/vue-iform-render,0.0.1,vantieu,Apache-2.0,34565,Vue 3 wrappers for @zelviora/iform-render dynamic form runtime renderer.
+2026-11-18T09:24:07.627Z,@zelviora/documents-angular,0.0.1,vantieu,,3283000,Angular demo cases and per-framework notes for the zelviora docs site (single source of the Angular code tabs).
+2026-11-18T09:24:12.956Z,@zelviora/documents-react,0.0.1,vantieu,,2193354,React demo cases and per-framework notes for the zelviora docs site (single source of the React / Next.js code tabs).
+2026-11-18T09:24:18.114Z,@zelviora/documents-vue,0.0.1,vantieu,,2448190,Vue demo cases and per-framework notes for the zelviora docs site (single source of the Vue code tabs).
+2026-11-18T09:24:39.344Z,@8-interactive/no8-js-library,1.1.6,mosluce,ISC,29018,This README would normally document whatever steps are necessary to get your application up and running.
+2026-11-18T09:24:54.549Z,@8-interactive/eight-line,1.9.22,mosluce,,91996,
+2026-11-18T09:24:54.914Z,@appflowhk/ui-sdk,0.1.0,nelsonlai,UNLICENSED,273233,AppFlow shared UI kit: shadcn/ui (base-nova) on Tailwind CSS v4.
+2026-11-18T09:25:10.514Z,@8-interactive/eight-messenger,2.0.34,mosluce,,37006,
+2026-11-18T09:25:49.957Z,create-kreme-app,0.1.0,tombakerbuilds,MIT,10939,"Create a Kreme app: React frontend, Worker backend, Kreme sessions, the key proxy and Keyline, wired up."
+2026-11-18T09:26:39.246Z,dsh-x-computer-use,0.1.0,yyh001,MIT,32435,DSH-X 电脑操作桥接插件：默认关闭，只在 DSH-X 桌面外壳启用时向模型暴露桌面查看与操作工具；桌面权限、急停开关与审计日志全部由外壳托管。
+2026-11-18T09:27:59.923Z,@paniolo/cli-maintenance-win32-x64,0.1.0,bkinsey808,SEE LICENSE IN LICENSE,54384141,paniolo-maintenance win32-x64 native binary for the paniolo `maintenance` command component.
+2026-11-18T09:28:26.831Z,ppt-from-data,0.1.1,panda-xiao,MIT,19961,把查到的业务数据一键做成汇报 PPT。版式与配色取自 Ant Design 设计库，数字列右对齐、留白按 8pt 栅格。
+2026-11-18T09:28:30.435Z,@expressir/expressir,2.4.69,ronaldtse,MIT,2915790,"Expressir wasm runtime for TypeScript — EXPRESS schema parse, remark attach, format, check, and the ISO 10303-21 population via the expressir-rs wasm build"
+2026-11-18T09:28:54.107Z,x-cem,0.1.1,cczhao990113,MIT,140562,零依赖、词法级（不建 AST）的 TS/JS Custom Elements Manifest（CEM 2.1.0）生成器，wasm 跨平台分发
+2026-11-18T09:29:00.965Z,jerry-can-tracker,0.1.0,colug0,MIT,105061,"Track sets of jerry cans (diesel, petrol, water, ...) as extra tanks in Signal K"
+2026-11-18T09:29:06.943Z,dsh-plugin-touchline,0.8.3,khalilwong,MIT,145209,"Touchline Football: floating football scores, event-based pitch visualization and local tracking replay for DSH. No bundled match data."
+2026-11-18T09:29:24.923Z,gridcrm-partner-licensing,1.0.0,zmaticoo,SEE LICENSE IN LICENSE.md,2877,Partner licensing helpers for the GridCRM Node client. Per-partner licensed builds are distributed via the GridCRM partner portal; this entry reserves the namespace and ships the token-format validat…
+2026-11-18T09:30:11.382Z,@toktokdata.live/mcp,0.1.0,tu2ntq.dev,MIT,79241,"Local MCP server for the toktokdata.live API: TikTok LIVE rankings, creators, sessions and more as read-only tools for Claude, Cursor, VS Code and other MCP clients."
+2026-11-18T09:30:45.4Z,@corsair-dev/bugherd,0.1.0,corsair.dev,Apache-2.0,353359,BugHerd plugin for Corsair
+2026-11-18T09:31:03.729Z,@corsair-dev/googlecontacts,0.1.0,corsair.dev,Apache-2.0,298020,GoogleContacts plugin for Corsair
+2026-11-18T09:31:07.4Z,@corsair-dev/honeybadger,0.1.0,corsair.dev,Apache-2.0,501004,"Honeybadger plugin for Corsair: error tracking, uptime, check-ins, deploys and Insights queries through the v3 API."
+2026-11-18T09:31:11.698Z,@corsair-dev/hypeauditor,0.1.0,corsair.dev,Apache-2.0,146372,"HypeAuditor plugin for Corsair: influencer reports, media, history, brand mentions, discovery search and saved lists."
+2026-11-18T09:31:38.51Z,@corsair-dev/zohoinvoice,0.1.0,corsair.dev,Apache-2.0,245359,ZohoInvoice plugin for Corsair
+2026-11-18T09:31:53.676Z,@eaera-com/e2e-mcp-kit,0.1.2,ngoc.nm,UNLICENSED,52940,Shared MCP-AI e2e kit: scenario runner + helpers for local-services based e2e testing (EAERA)
+2026-11-18T09:32:21.763Z,asciiary-ascii-mcp,0.1.0,anotherlatent,MIT,306045,An MCP server that lets any AI agent draw ASCII art and publish it to the gallery.
+2026-11-18T09:32:31.064Z,dsh-ui-studio,1.1.0,miraculousgu,MIT,115172,"Glass appearance studio for DeepSeek Harness: frosted glass with adjustable transparency and blur, image or video background, surface palettes, type sizes, and branding."
+2026-11-18T09:33:34.691Z,@prisback/eslint-config,17.0.1,hari1275,MIT,41869,ESLint configuration for PrisBack projects
+2026-11-18T09:33:37.427Z,@prisback/filter,7.0.2,hari1275,MIT,60519,Utility typings and filters for PrisBack filters.
+2026-11-18T09:33:39.653Z,dsh-project-gallery,0.1.2,hfshfg,MIT,531486,DeepSeek Harness 插件「项目相册」：把会话里 AI 看过/生成过的图、以及项目目录里的图攒成一册，悬停工作区就能看，点开是类相册的大图 + 当时的对话诉求与进展。
+2026-11-18T09:33:40.605Z,@prisback/openapi-spec-builder,9.0.2,hari1275,MIT,41812,Make it easy to create OpenAPI (Swagger) specification documents in your tests using the builder pattern.
+2026-11-18T09:33:43.806Z,@prisback/metadata,9.0.2,hari1275,MIT,143572,"Utilities to help developers implement TypeScript decorators, define/merge metadata, and inspect metadata"
+2026-11-18T09:33:46.699Z,@prisback/http-server,8.0.2,hari1275,MIT,26753,A wrapper for creating HTTP/HTTPS servers
+2026-11-18T09:33:49.573Z,@prisback/build,13.0.2,hari1275,MIT,102536,A set of common scripts and default configurations to build PrisBack or other TypeScript modules
+2026-11-18T09:33:53.03Z,@prisback/testlab,9.0.2,hari1275,MIT,116040,A collection of test utilities for PrisBack packages.
+2026-11-18T09:33:56.895Z,@prisback/context,9.0.2,hari1275,MIT,663235,"Facilities to manage artifacts and their dependencies in your Node.js applications. The module exposes TypeScript/JavaScript APIs and decorators to register artifacts, declare dependencies, and resol…"
+2026-11-18T09:33:59.978Z,@prisback/core,8.0.2,hari1275,MIT,188011,Define and implement core constructs such as Application and Component
+2026-11-18T09:34:03.417Z,@prisback/repository,9.0.2,hari1275,MIT,820067,Define and implement a common set of interfaces for interacting with databases
+2026-11-18T09:34:06.529Z,@prisback/repository-json-schema,10.0.2,hari1275,MIT,84693,Converts TS classes into JSON Schemas using TypeScript's reflection API
+2026-11-18T09:34:07.911Z,three-pointcloud-raycast,0.1.0,henishnk,MIT,307250,"BVH-accelerated drop-in replacement for THREE.Raycaster on Potree point clouds, returning exactly the same hits."
+2026-11-18T09:34:09.297Z,@prisback/model-api-builder,8.0.2,hari1275,MIT,11577,Types and helpers for packages contributing Model API builders.
+2026-11-18T09:34:12.09Z,@prisback/service-proxy,9.0.2,hari1275,MIT,42799,"A common set of interfaces for interacting with service oriented backends such as REST APIs, SOAP Web Services, and gRPC microservices"
+2026-11-18T09:34:15.447Z,@prisback/express,9.0.2,hari1275,MIT,166459,Integrate with Express and expose middleware infrastructure for sequence and interceptors
+2026-11-18T09:34:18.335Z,@prisback/openapi-v3,12.0.2,hari1275,MIT,256200,Decorators that annotate PrisBack artifacts with OpenAPI v3 metadata and utilities that transform metadata to OpenAPI v3 specifications
+2026-11-18T09:34:21.509Z,@prisback/rest,16.0.2,hari1275,MIT,630309,Expose controllers as REST endpoints and route REST API requests to controller methods
+2026-11-18T09:34:24.703Z,@prisback/boot,9.0.3,hari1275,MIT,189820,A collection of Booters for PrisBack Applications
+2026-11-18T09:34:27.532Z,@prisback/prisma,0.1.2,hari1275,MIT,20082,"Prisma ORM integration for PrisBack — PrismaService, lifecycle hooks, and @injectPrisma()"
+2026-11-18T09:34:31.05Z,@prisback/authentication,0.1.1,hari1275,MIT,34865,"Basic JWT authentication for PrisBack — @authenticate(), TokenService, password hashing"
+2026-11-18T09:34:34.544Z,@prisback/cli,8.0.3,hari1275,MIT,885594,PrisBack CLI — Prisma-first generators with PrisBack-style interactive prompts
+2026-11-18T09:34:38.124Z,prisback,0.1.2,hari1275,MIT,2634,PrisBack CLI — Prisma-first backend scaffolding (npx prisback)
+2026-11-18T09:35:25.143Z,@winche-technologies/winche-admin,3.0.0,flameofudun,MIT,70434,"A Winche project's data (documents, files, the app's users, assets, functions) from functions, console pages and other servers."
+2026-11-18T09:35:27.17Z,@ovhcloud/sdk,0.2.2,ovh,Apache-2.0,23886218,TypeScript client for the OVHcloud API
+2026-11-18T09:35:37.15Z,@winche-technologies/winche-functions,3.0.0,flameofudun,MIT,42869,"Write Winche functions: triggers, callables, HTTP functions, schedules, console pages, secrets and resources. Data comes from @winche-technologies/winche-admin."
+2026-11-18T09:35:56.115Z,@keyset/sdk,1.0.0,dominiklenhart,MIT,219365,Official TypeScript SDK for the Keyset direct-booking API.
+2026-11-18T09:36:01.592Z,@zoetropejs/core,0.1.0-rc.1,fairy-100,MIT,314700,
+2026-11-18T09:36:08.699Z,@zoetropejs/react,0.1.0-rc.1,fairy-100,MIT,13259,
+2026-11-18T09:36:13.33Z,@zoetropejs/compiler,0.1.0-rc.1,fairy-100,MIT,280563,
+2026-11-18T09:36:19.993Z,memware-darwin-arm64,0.2.1,aiwarelife,UNLICENSED,62118421,Memware prebuilt self-contained binary for darwin-arm64.
+2026-11-18T09:36:27.845Z,memware-linux-x64,0.2.1,aiwarelife,UNLICENSED,108774156,Memware prebuilt self-contained binary for linux-x64.
+2026-11-18T09:36:35.436Z,@keyset/cli,0.2.0,dominiklenhart,MIT,77808,"The keyset command line: sign in from the browser, forward events to a local endpoint, create test events."
+2026-11-18T09:36:36.657Z,memware-windows-x64,0.2.1,aiwarelife,UNLICENSED,116987860,Memware prebuilt self-contained binary for windows-x64.
+2026-11-18T09:36:39.048Z,memware,0.2.1,aiwarelife,UNLICENSED,37457,"Memware — One Memory. Every Agent. Always Knows You. Cross-agent long-term memory server & Stop-hook CLI for Claude Code, Codex, and MCP."
+2026-11-18T09:36:50.209Z,@sorlo/field-lexical,0.1.0,thelevicole,MIT,53957,"A rich text field for Sorlo Forms and the Sorlo CMS, on Lexical"
+2026-11-18T09:37:12.82Z,deplatch,0.1.0,abdulhadi1010,MIT,28019,"Check dependencies before you trust them. Blocks AI-hallucinated and look-alike npm/PyPI packages before install, in your terminal, your AI agent, and CI."
+2026-11-18T09:37:29.521Z,@starci/nivoos-sdk,0.1.0,starciteacher,UNLICENSED,3731378,"the nivoos SDK of nivoos-lite: authors write one class per cell implementing its interface (Node, Operation, Capability, Trigger, Provider) with Zod at every boundary, and workflows as typed document…"
+2026-11-18T09:37:33.065Z,@starci/nivoos-cli,0.1.0,starciteacher,UNLICENSED,231777,"The nivoos author CLI: `npx nivoos package build|check|secrets init|deploy`. Builds a package into its seed document and deploys it, with its secrets sealed on the author's machine, to a nivoos insta…"
+2026-11-18T09:37:34.492Z,@starci/nivoos-provider-templates,0.1.0,starciteacher,UNLICENSED,1888121,"The providers a workspace connects an account to (one folder per provider), authored with the nivoos SDK; the build writes ONE seed document (seed/provider-templates@<version>.json) the app applies.…"
+2026-11-18T09:37:37.024Z,3portals,0.0.0,poqas,,149,Agentic building for humans.
+2026-11-18T09:38:08.874Z,@orkestrate/agent-webmcp-darwin-arm64,0.2.0,orkestrate,MIT,8937111,Platform binary for @orkestrate/agent-webmcp.
+2026-11-18T09:38:15.092Z,@orkestrate/agent-webmcp-darwin-x64,0.2.0,orkestrate,MIT,9148907,Platform binary for @orkestrate/agent-webmcp.
+2026-11-18T09:38:20.993Z,@orkestrate/agent-webmcp-linux-arm64,0.2.0,orkestrate,MIT,10080933,Platform binary for @orkestrate/agent-webmcp.
+2026-11-18T09:38:21.217Z,shopify-hydrogen-cms,1.0.0,mohadowais,MIT,109736,Code-first Metaobject CMS schema synchronizer for Shopify & Hydrogen
+2026-11-18T09:38:36.821Z,@caronex/typemark,0.4.0,caronex,MIT,1598838,"Seamless Typora-style markdown editing engine with an AI review layer (suggested edits, agent notes, one thread per block, @ai instructions). Framework-free, markdown as the source of truth."
+2026-11-18T09:38:37.826Z,@orkestrate/agent-webmcp-linux-x64,0.2.0,orkestrate,MIT,10462377,Platform binary for @orkestrate/agent-webmcp.
+2026-11-18T09:38:44.948Z,@orkestrate/agent-webmcp-win32-x64,0.2.0,orkestrate,MIT,7872943,Platform binary for @orkestrate/agent-webmcp.
+2026-11-18T09:38:47.24Z,ai-interpreter,0.0.0-stage,gyy901,,336,Temporary package placeholder for staged publishing
+2026-11-18T09:39:10.396Z,@bifrost-orbit-booking/sdk,0.1.0,bifrostorbit-release,MIT,20462,Let customers book appointments from Booking Orbit on your own website.
+2026-11-18T09:39:24.181Z,ot-privacy-gate,0.0.1,marcos-tomato,Apache-2.0,13336,Placeholder: runs no gate. The ot-privacy-gate gate ships in @open-tomato/gates; install that package and run the gate through it.
+2026-11-18T09:39:32.731Z,ot-control-byte-gate,0.0.1,marcos-tomato,Apache-2.0,13381,Placeholder: runs no gate. The ot-control-byte-gate gate ships in @open-tomato/gates; install that package and run the gate through it.
+2026-11-18T09:40:03.957Z,@powerformer/prism-client,0.5.1,yangfan.openai,UNLICENSED,770711,Read published Prism multilingual content with shared caching and Astro development updates.
+2026-11-18T09:40:12.648Z,proxshield,0.1.0,aryantah,Apache-2.0,507749,"Self-hosted firewall for LLM apps: redacts personal data before it reaches the model, restores it in the response, and blocks prompt injection. Drop-in for the OpenAI, Anthropic, Lakera Guard and LLM…"
+2026-11-18T09:40:19.813Z,@dashspec/renderer,0.1.0,vaskar-nowpurchase,MIT,2200338,"Draws a dashboard from DashSpec JSON: widgets, data, events, state."
+2026-11-18T09:40:53.875Z,tab-handoff,1.0.0,florianamette,MIT,21616,"Hand files from one web app to another, tab to tab, with postMessage: no server, nothing uploaded, origin-locked and validated."
+2026-11-18T09:41:21.211Z,@starci/nivoos-social,0.1.0,starciteacher,UNLICENSED,164176,"The social package: one calendar, one feed, comment replies and lead capture across Facebook, Instagram, TikTok, YouTube, Zalo OA, Telegram and Buffer, authored with the nivoos SDK. It names only the…"
+2026-11-18T09:41:25.343Z,@xysfe/bug-tap,0.1.0,mucfe,MIT,3770204,可嵌入网页的调试与 Bug 上报 SDK：独立悬浮上报入口，自动采集 Console、JS 异常、Network 与环境信息
+2026-11-18T09:41:41.231Z,@paniolo/cli-evolve-darwin-arm64,0.1.0,bkinsey808,SEE LICENSE IN LICENSE,15248277,paniolo-evolve darwin-arm64 native binary for the paniolo `evolve` command component.
+2026-11-18T09:41:41.783Z,dsh-paper-dual,0.8.1,li666,MIT,1901187,论文双降工作台：诊断中文论文 .doc/.docx 的 AI 文风与篇内重复，AIGC 考官打分 + 9 维痕迹诊断，闭环改写与三栏对照。
+2026-11-18T09:41:48.71Z,agentaway,0.2.0,xnng,MIT,386418,AgentAway host: use the Claude Code and Codex on this machine from your phone or a browser.
+2026-11-18T09:42:18.858Z,opencode-limits-go,1.5.0,cusvv,MIT,170757,OpenCode Go usage limits (5h / 1w / 1m) for OpenCode TUI and Desktop GUI
+2026-11-18T09:42:20.094Z,@aifinpay/gate-cloudflare,0.1.0,enot3615,MIT,172128,"Puts the AiFinPay gate Worker in front of one host on Cloudflare, or takes it away again."
+2026-11-18T09:43:09.873Z,@cp949/xx-gen-mig,1.0.14,cp949,MIT,532555,2021년 9월 이전 GEN 파일을 GenFile 객체 포맷으로 변환하는 라이브러리
+2026-11-18T09:43:41.508Z,@sellforge/storefront,1.0.0,sellforge,MIT,576426,"Official Sellforge Storefront SDK: catalog, search, cart, checkout, customer accounts, content and webhooks for shops built on Sellforge Commerce."
+2026-11-18T09:44:03.56Z,@gitmyabi/bitt,1.0.0,gitmyabi-bot,Apache-2.0,76889,"Auto-generated TypeScript type bindings for BITT (build etherscan-bitt-9f991385-1794995017086, commit 657201c, branch etherscan)"
+2026-11-18T09:45:14.561Z,@huaweidevtools/aishell-dsh-audit,0.0.35,huawei-developers,Apache-2.0,26526,"Audit trail service for aishell DSH plugins — records non-conversational actions (permission grants, account changes) to the Host log"
+2026-11-18T09:45:19.496Z,@futuristic.digital/check-types,0.1.0,danielszuk,UNLICENSED,5024,"Check a project's types, including diagnostics from its TypeScript language-service plugins."
+2026-11-18T09:46:03.748Z,@karpoland/sdk,1.0.0,machinepulse-ai-boris,Apache-2.0,1038845,"Official SDK for Karpo Land mini apps: the app service (tools, hooks, signed deliveries), the platform client, the page client, the test kit and the publish CLI."
+2026-11-18T09:46:11.525Z,cognitive-enzyme-magpie,0.8.0,7e1even,UNLICENSED,67760,Magpie Gateway Hook and agent tool for Cognitive Enzyme memory recall and search.
+2026-11-18T09:46:17.777Z,apidock,1.0.1,singhsagar,MIT,2369848,Next-generation OpenAPI / Swagger documentation studio & interactive API testing playground with modern Scalar & macOS inspired aesthetics.
+2026-11-18T09:46:46.381Z,@paniolo/cli-evolve-darwin-x64,0.1.0,bkinsey808,SEE LICENSE IN LICENSE,16768316,paniolo-evolve darwin-x64 native binary for the paniolo `evolve` command component.
+2026-11-18T09:47:00.221Z,@traceandscale/sdk,0.1.1,rheimanis,MIT,379016,"One TypeScript SDK for prompts, model calls, tracing and evals, with Braintrust, Langfuse and LangSmith as interchangeable backends."
+2026-11-18T09:47:12.55Z,@hubnet-systems/auth-sdk,0.1.12,devopsuserhubnet,,216368,Shared OAuth 2.0 and OpenID Connect helpers built around Authentik.
+2026-11-18T09:47:25.628Z,dsh-tray-enhance,1.0.1,doubtun,MIT,62816,"Richer Windows tray menu for DeepSeek Harness: per-item icons, a restart entry, an update check, and a light/dark theme submenu."
+2026-11-18T09:47:30.596Z,@cortilehq/sdk,0.1.0,michael-nussbaumer,MIT,491891,"JavaScript/TypeScript SDK for the Cortile HQ Content API v1 — rooms, packages, FAQs, sitemap, the stay price filter with live prices, and per-property type generation."
+2026-11-18T09:47:48.859Z,@ohos-ports/times-components-ts-styleguide,1.56.41-beta.1,ljry,BSD-3-Clause,84743,Reuseable Typescript React Components styleguide [ohos-ports companion: ESM/packaging fixes so the published artifact loads under plain Node.js on HarmonyOS; runtime code is upstream-equivalent]
+2026-11-18T09:48:19.269Z,aeye-debug-panel,1.4.2,chenerliang,MIT,201949,Simple React debug panel for inspecting request/response JSON
+2026-11-18T09:48:27.227Z,@ohos-ports/times-components-ts-slices,1.10.62-beta.1,ljry,BSD-3-Clause,282523,Reuseable Typescript React Components [ohos-ports companion: ESM/packaging fixes so the published artifact loads under plain Node.js on HarmonyOS; runtime code is upstream-equivalent]
+2026-11-18T09:48:36.625Z,@armory-framework/core,1.0.0,ferrymcoder,,107200,核心契约与事件总线
+2026-11-18T09:48:54.224Z,@armory-framework/api-client,1.0.0,ferrymcoder,,17663,HTTP 请求客户端
+2026-11-18T09:48:57.728Z,@armory-framework/auth,1.0.0,ferrymcoder,,36384,认证状态与权限组件
+2026-11-18T09:48:57.803Z,tripwire-e2e,0.1.0,b0s,MIT,147900,"Mutation testing for Kane CLI browser suites: a proxy breaks the app one realistic way at a time, Kane replays the suite, and survivors go to your coding agent."
+2026-11-18T09:49:01.192Z,@armory-framework/cache,1.0.0,ferrymcoder,,13540,内存及 Redis 缓存
+2026-11-18T09:49:04.498Z,@armory-framework/db,1.0.0,ferrymcoder,,57603,数据库访问与同步
+2026-11-18T09:49:11.624Z,@armory-framework/cli,1.0.0,ferrymcoder,,395267,Armory 模块化管理系统的项目生成、模块开发与发布工具
+2026-11-18T09:49:17.32Z,@armory-framework/shared-ui,1.0.0,ferrymcoder,,371642,后台共享 UI 组件库
+2026-11-18T09:49:18.857Z,@ohos-ports/times-components-ts-components,1.197.0-beta.1,ljry,BSD-3-Clause,3352981,Reusable Typescript React Components [ohos-ports companion: ESM/packaging fixes so the published artifact loads under plain Node.js on HarmonyOS; runtime code is upstream-equivalent]
+2026-11-18T09:49:20.957Z,@armory-framework/state,1.0.0,ferrymcoder,,27342,应用状态管理
+2026-11-18T09:49:25.313Z,@armory-framework/module-system,1.0.0,ferrymcoder,,440719,系统管理业务模块
+2026-11-18T09:49:28.31Z,@francodesystems-npm/n8n-nodes-traficora,0.1.0,francodesystems,MIT,189936,"n8n community node for Traficora, the Spanish TMS (transport management software) built on Odoo: transport orders, trips with their margin, trip expenses, document expiries, vehicles and customers, p…"
+2026-11-18T09:49:46.839Z,@ohos-ports/times-components-typeset,0.3.3-beta.1,ljry,BSD-3-Clause,22830,A package for markup layout with arbitrary shapes [ohos-ports companion: ESM/packaging fixes so the published artifact loads under plain Node.js on HarmonyOS; runtime code is upstream-equivalent]
+2026-11-18T09:49:55.727Z,@blotout/design-system,0.1.3,nejc-blotout,MIT,1492754,Blotout design system: shared React components and design tokens built on Base UI and Tailwind CSS v4
+2026-11-18T09:51:05.057Z,loopcrop,0.1.1,c0llap5ar,MIT,188294,"Turn any AI chat web UI into a repeatable prompt loop: send, wait, harvest the files it produced, repeat."
+2026-11-18T09:51:21.057Z,dsh-ontology-kb,0.2.4,pmd210,MIT,266236,"DSH knowledge base panel: bind one folder as a workspace-rooted library, browse it, talk to it through native sessions, and grow a link graph into an ontology."
+2026-11-18T09:51:21.073Z,@salt-pub/agent-autoloop,0.1.1,salt-pub,MIT,1060546,Let Agents follow up on work and ask when they need your judgment.
+2026-11-18T09:51:30.872Z,@plugin-academy/dsh-plugin-academy,0.1.0,allbeings.ai,MIT,517324,Browse catalogs and add plugin indexes you trust in DeepSeek Harness.
+2026-11-18T09:51:36.509Z,@star-ng/mcp,0.1.0,ramanacr,MIT,363655,"MCP server for StarNG (@star-ng/ui): gives coding agents the setup, API, examples and a markup check of the StarNG Angular controls."
+2026-11-18T09:52:25.679Z,@paniolo/cli-stale-darwin-arm64,0.1.0,bkinsey808,SEE LICENSE IN LICENSE,38127695,paniolo-stale darwin-arm64 native binary for the paniolo `stale` command component.
+2026-11-18T09:52:27.391Z,@vielzeug/atlas,26.11.23,helmuthdu,MIT,487712,"Spatial math, camera, and indexing primitives for 2D canvases"
+2026-11-18T09:52:31.331Z,@vielzeug/ink,26.11.23,helmuthdu,MIT,200962,"Causal stroke stabilization, smoothing, speed-based width profiling, and SVG path output"
+2026-11-18T09:52:35.704Z,@vielzeug/palette,26.11.23,helmuthdu,MIT,313402,"Color parsing, conversion, mixing, and contrast for design tools"
+2026-11-18T09:52:48.39Z,@vielzeug/stage,26.11.23,helmuthdu,MIT,156754,"Retained-mode 2D canvas stage engine with DPR-aware layers, dirty repaints, and PNG export"
+2026-11-18T09:52:56.697Z,@vielzeug/wire,26.11.23,helmuthdu,MIT,270190,Edge routing and graph ordering for node editors
+2026-11-18T09:53:37.279Z,vale-mcp,0.1.0,chrischinchilla,MIT,75351,MCP server for Vale linting integration
+2026-11-18T09:53:50.283Z,@rentercheck/sdk,0.1.0,mrjim,MIT,62890,"Official RenterCheck client: send bookings, get renter verdicts and scores, report incidents, and show the RenterCheck badge."
+2026-11-18T09:53:55.568Z,@omniretail/lending,3.0.1,omnitechtools,,3473286,OmniRetail Lending SDK (core)
+2026-11-18T09:54:45.641Z,@kaitencloud/ai-anthropic,0.1.0,kaitencloud,Apache-2.0,27484,Kaiten AI credits for the Anthropic SDK: wrapAnthropic(client) reserves and commits messages.create and messages.stream. Server-side only.
+2026-11-18T09:54:56.752Z,@scyvera/scyvera-ts,0.1.0,shinjandas,MIT,170644,"Native TypeScript runtime for Agent Contracts: the RFC 0005 provisional-contract model, default-deny gate, trace JSONL, and conformance vector runner."
+2026-11-18T09:55:10.499Z,getmobilekit,0.1.0,pinak3748,MIT,8283,"Installer for MobileKit. Takes your license key, downloads the pack and installs it."
+2026-11-18T09:55:12.727Z,@bvtter/feja,0.0.0,hachip,MIT,142551,An Expo module for building proximity-aware experiences with BLE beacons on iOS and Android.
+2026-11-18T09:56:00.6Z,@kaitencloud/ai-claude-agent,0.1.0,kaitencloud,Apache-2.0,28136,Explicit usage accounting for @anthropic-ai/claude-agent-sdk; see documented preflight limitations.
+2026-11-18T09:56:16.315Z,@kaitencloud/ai-codex,0.1.0,kaitencloud,Apache-2.0,28222,Explicit usage accounting for @openai/codex-sdk; see documented preflight limitations.
+2026-11-18T09:56:18.98Z,intelligent-scissors,0.1.0,nicolasbopp,MIT,294324,"Livewire / Intelligent Scissors (magnetic lasso) for the web: edge-snapping contour tracing on any image or canvas. Zero dependencies, framework-agnostic, works with RGBA and medical grayscale data."
+2026-11-18T09:56:25.443Z,@bigmistqke/whiteboard,0.1.0,bigmistqke,MIT,1092630,"A whiteboard for you and your agent: it writes markdown pages you read live in the browser, you answer through forms it waits on"
+2026-11-18T09:56:27.198Z,@kaitencloud/ai-copilot,0.1.0,kaitencloud,Apache-2.0,27599,Explicit usage accounting for @github/copilot-sdk; see documented preflight limitations.
+2026-11-18T09:56:46.841Z,@kaitencloud/ai-openai,0.1.0,kaitencloud,Apache-2.0,33468,Kaiten AI credits for the OpenAI SDK: wrapOpenAI(client) reserves and commits every allow-listed call. Server-side only.
+2026-11-18T09:56:57.524Z,@kaitencloud/ai-vercel,0.1.0,kaitencloud,Apache-2.0,28762,Kaiten AI credits for the Vercel AI SDK: kaitenMiddleware() for wrapLanguageModel. Server-side only.
+2026-11-18T09:57:03.202Z,@ohos-ports/times-components-article-skeleton,1.184.18-beta.1,ljry,BSD-3-Clause,421731,The article skeleton [ohos-ports port of @times-components/article-skeleton: dist fixes + require re-pointing to @ohos-ports companions; runtime code is upstream-equivalent]
+2026-11-18T09:57:51.496Z,dsh-user-message-clamp,1.0.0,zhoulei1997,MIT,10866,"Caps every sent user message at ten lines and scrolls longer content inside its bubble, so one long message cannot push earlier replies out of view."
+2026-11-18T09:58:00.443Z,@paniolo/cli-stale-darwin-x64,0.1.0,bkinsey808,SEE LICENSE IN LICENSE,40515110,paniolo-stale darwin-x64 native binary for the paniolo `stale` command component.
+2026-11-18T09:58:01.449Z,@unleash/n8n-nodes-unleash,0.1.0,alexcasalboni,MIT,1343557,n8n community node that evaluates Unleash feature flags through the Frontend API
+2026-11-18T09:58:31.813Z,@redacto.io/cookie-consent-iab-storage,1.0.0,sadanmianredacto,Apache-2.0,75986,"Native companion for @redacto.io/cookie-consent-react-native: writes the IAB TCF and GPP in-app keys to NSUserDefaults on iOS and the default SharedPreferences on Android, with integer keys stored as…"
+2026-11-18T09:58:39.574Z,shotdrop,0.1.0,bbguai,MIT,16316,"Paste screenshots in your browser, hand them to the AI CLI running on your server (Claude Code, Codex). CLI + MCP server."
+2026-11-18T09:58:58.062Z,@omniretail/lending-mobile-sdk,3.0.1,omnitechtools,,18038,OmniRetail Lending SDK (facade over @omniretail/lending)
+2026-11-18T09:59:01.326Z,dsh-living-protocol,0.1.0,alexisvon,MIT,35807,"WorldGem protocol for dsh-living: manifest schema, channel endpoints, failure codes"
+2026-11-18T09:59:10.633Z,dsh-gem-bili,0.1.0,alexisvon,MIT,133836,"Bilibili WorldGem for dsh-living: search, subtitles, comments, private messages and public replies"
+2026-11-18T09:59:13.884Z,dsh-gem-wechat,0.1.0,alexisvon,MIT,118158,WeChat WorldGem for dsh-living: an independent iLink bot with text ingest and outbox delivery
+2026-11-18T09:59:17.122Z,dsh-gem-example,0.1.0,alexisvon,MIT,8971,Reference WorldGem for dsh-living: the shape every gem follows
+2026-11-18T09:59:21.279Z,dsh-living,0.1.0,alexisvon,MIT,465969,"A living agent runtime for DeepSeek Harness: clock, memory, persona, and WorldGem modules"
+2026-11-18T09:59:25.731Z,@masdika/mcp,1.0.1,andikaferdialvianto,MIT,32150,Official Model Context Protocol (MCP) server for Masdika Cloud infrastructure management
+2026-11-18T09:59:29.454Z,@ohos-ports/node-mailer,0.1.1-beta.1,glora_li,,2487,Mailer on top of nodemailer
+2026-11-18T09:59:37.413Z,@adminforth/email-adapter-smtp,1.0.0,yaroslav8765,MIT,14294,"AdminForth email adapter for any SMTP server, powered by Nodemailer."
+2026-11-18T10:00:18.559Z,@fluxory/core,0.1.1,ashish_gautam,MIT,78823,"Core types, trace IDs, and transport for Fluxory observability"
+2026-11-18T10:00:42.591Z,@fluxory/node,0.1.1,ashish_gautam,MIT,316964,Node.js auto-instrumentation for Fluxory observability
+2026-11-18T10:00:50.248Z,@ohos-ports/7zip-bin-full,26.6.0-beta.0,glora_li,MIT,91154659,7-Zip precompiled binaries
+2026-11-18T10:00:54.085Z,@fluxory/client,0.1.1,ashish_gautam,MIT,84717,Browser auto-instrumentation for Fluxory observability
+2026-11-18T10:01:05.494Z,@fluxory/dashboard,0.1.1,ashish_gautam,MIT,556179,Live observability dashboard for Fluxory
+2026-11-18T10:01:11.751Z,@stationos/cli-linux-amd64,0.1.1,stationpc,SEE LICENSE IN repository,7492126,stationos-cli binary for linux/amd64
+2026-11-18T10:01:15.512Z,@ohos-ports/roamhq-wrtc-openharmony-arm64,0.10.0-beta.1,glora_li,BSD-2-Clause,10409189,"The OpenHarmony arm64 binary for @roamhq/wrtc. WebRTC for Node.js on HarmonyOS, powered by a statically linked libdatachannel v0.24.5 backend (HMMAC code-signed)."
+2026-11-18T10:01:18.194Z,@stationos/cli-linux-arm64,0.1.1,stationpc,SEE LICENSE IN repository,7078430,stationos-cli binary for linux/arm64
+2026-11-18T10:01:23.61Z,@ohos-ports/scarf-scarf,1.4.0-beta.0,glora_li,Apache-2.0,39219,"Scarf is like Google Analytics for your npm packages. Gain insights into how your packages are installed and used, and by which companies. (HarmonyOS port)"
+2026-11-18T10:01:23.932Z,@stationos/cli-darwin-amd64,0.1.1,stationpc,SEE LICENSE IN repository,7255465,stationos-cli binary for darwin/amd64
+2026-11-18T10:01:31.07Z,@stationos/cli-darwin-arm64,0.1.1,stationpc,SEE LICENSE IN repository,6853819,stationos-cli binary for darwin/arm64
+2026-11-18T10:01:38.072Z,@stationos/cli-win-amd64,0.1.1,stationpc,SEE LICENSE IN repository,7383908,stationos-cli binary for win32/amd64
+2026-11-18T10:01:42.477Z,@dopame/acdev-darwin-arm64,0.1.0,emmettlu,UNLICENSED,74273805,"acdev for darwin-arm64: the acdev runtime, the acdev CLI, the guest daemons and the host tools"
+2026-11-18T10:02:00.715Z,@ohos-ports/roamhq-wrtc-win32-x64,0.10.0-beta.0,glora_li,BSD-2-Clause,2001,The HarmonyOS (openharmony-arm64) binary slot for wrtc 0.10.0 — binding provided by @ohos-ports/roamhq-wrtc.
+2026-11-18T10:02:05.351Z,@darosh/twlch,0.1.0,darosh,MIT,216522,Tailwind scales interpolation
+2026-11-18T10:02:14.171Z,@dopame/acdev-darwin-x64,0.1.0,emmettlu,UNLICENSED,76417135,"acdev for darwin-x64: the acdev runtime, the acdev CLI, the guest daemons and the host tools"
+2026-11-18T10:02:28.845Z,@gscode1/pi-durable-postgres,0.3.0,gscode1,MIT,239603,PostgreSQL storage backend for @earendil-works/pi-durable
+2026-11-18T10:02:29.878Z,stationos-cli,0.1.1,stationpc,SEE LICENSE IN repository,14869502,"Command-line client for StationOS NAS — proxy over the device gateway tool API (files, docker, appstore, backup, storage, photos, downloads and more), with bundled AI-client skill."
+2026-11-18T10:02:41.112Z,@frondruntime/pinna-core,0.0.1,romanonthego,MIT,283374,"Pinna's glitch-free reactive graph, with no runtime dependencies."
+2026-11-18T10:02:44.393Z,@frondruntime/pinna,0.0.1,romanonthego,MIT,356596,"Glitch-free reactive state: boxes, computed values, keyed collections, and updates."
+2026-11-18T10:02:47.59Z,@frondruntime/pinna-effect,0.0.1,romanonthego,MIT,188433,"Pinna on Effect Schema: checked boxes, model classes, decoding, and Effect programs."
+2026-11-18T10:02:50.041Z,@frondruntime/pinna-react,0.0.1,romanonthego,MIT,43410,"React hooks for Pinna: useValue, useValues, useSelect, and a realm provider."
+2026-11-18T10:02:53.813Z,@ohos-ports/node-zstd,2.0.0-beta.1,glora_li,MIT,1135591,Node.js addon for native Zstandard encoding and decoding with support for dictionaries.
+2026-11-18T10:02:57.384Z,@dopame/acdev-linux-x64,0.1.0,emmettlu,UNLICENSED,96009716,"acdev for linux-x64: the acdev runtime, the acdev CLI, the guest daemons and the host tools"
+2026-11-18T10:03:17.325Z,paseo-heartbeats,0.1.0,supermomonga,MIT,81494,"Paseo plugin: show a session's heartbeats as a pill, with detail and editing in the side panel"
+2026-11-18T10:03:17.363Z,@paniolo/cli-maintenance-darwin-arm64,0.1.0,bkinsey808,SEE LICENSE IN LICENSE,59685811,paniolo-maintenance darwin-arm64 native binary for the paniolo `maintenance` command component.
+2026-11-18T10:03:21.473Z,@weconstudio/legacy-utils,1.0.1,weconstudio.it,MIT,1077,
+2026-11-18T10:03:35.852Z,@myradar/map,0.2.0,bricelambi,SEE LICENSE IN LICENSE.md,10769661,"MyRadar weather maps for the web: MyRadar's base maps with animated HD radar, warnings, lightning, hurricanes and wind, on the open-source MapLibre GL JS. No Mapbox account needed."
+2026-11-18T10:03:40.374Z,@dopame/acdev-win32-x64,0.1.0,emmettlu,UNLICENSED,103553924,"acdev for win32-x64: the acdev runtime, the acdev CLI, the guest daemons and the host tools"
+2026-11-18T10:03:45.172Z,@dopame/acdev,0.1.0,emmettlu,UNLICENSED,731,"acdev: build, run and debug acde apps"
+2026-11-18T10:03:45.809Z,@llmguard/opencode,0.0.0-stage,estesis.tech,,340,Temporary package placeholder for staged publishing
+2026-11-18T10:04:01.669Z,@synchroni/synchronisdk-node,1.4.7,yecq,,83781475,"Synchroni sensor Node.js binding, WebSocket sidecar, and browser client"
+2026-11-18T10:04:16.525Z,@hidden-seed/dsh-ross-ai-assistant,0.1.0,hidden-seed,MIT AND Apache-2.0 WITH LLVM-exception,30074303,Unofficial DeepSeek Harness fork of the AMD Ross AI Assistant: upstream skills snapshot 2026.10.1 plus the DSH bundle and MCP settings page.
+2026-11-18T10:04:25.854Z,@ohos-ports/anesidora,1.2.1-beta.1,glora_li,MIT,28848,A really simple wrapper around the Pandora JSON API (OpenHarmony port)
+2026-11-18T10:04:47.491Z,@talentiaoss/shellyard,0.1.0,ehalilaga,MIT,874906,"ShellYard: run Claude Code sessions and shells in one local browser page, and see which one needs you."
+2026-11-18T10:04:57.807Z,@ohos-ports/auto,11.3.6-beta.1,glora_li,MIT,55284,CLI tools to help facilitate semantic versioning based on GitHub PR labels
+2026-11-18T10:05:21.078Z,@ohos-ports/browser-playwright,5.1.0-beta.1,glora_li,MIT,61176,Browser running for Vitest using playwright
+2026-11-18T10:05:26.494Z,@ohos-ports/easy-backblaze,2.0.1-beta.1,glora_li,ISC,9973,"A powerful, yet simple and lightweight re-imagination of the Backblaze API. Upload a file in one call, with autoretry and encryption."
+2026-11-18T10:05:56.682Z,useheel,0.1.0,akhileshrangani4,Apache-2.0,2756553,A self-hosted gateway that holds every agent credential and decides each call with default-deny rules.
+2026-11-18T10:06:27.761Z,@ohos-ports/eslint-plugin-mmkal,0.11.3-beta.1,glora_li,ISC,86598,My eslint plugin with rules I find good. If you aren't me you probably shouldn't use this.
+2026-11-18T10:06:41.601Z,@ohos-ports/generate-video-sprites-node,1.0.4-beta.1,glora_li,ISC,1832618,Node package for generating preview sprites for videos
+2026-11-18T10:06:49.034Z,@ohos-ports/font-manager,0.3.1-beta.1,glora_li,MIT,163463,"Provides access to the system font catalog (HarmonyOS openharmony/arm64 port, ships a signed prebuilt native addon)"
+2026-11-18T10:07:05.438Z,schema-mock-data-factory,1.0.0,aaryan_tandel,MIT,17760,"A lightweight, beginner-friendly mock data generator based on custom schemas."
+2026-11-18T10:07:06.315Z,@ohos-ports/global-tunnel-ng,2.7.1-beta.1,glora_li,BSD-3-Clause,48559,Global HTTP & HTTPS tunneling
+2026-11-18T10:07:07.414Z,@karalasoft/face-attendance-kiosk,1.0.1,joychandrauday,MIT,27556,Zero-overhead React / Next.js SDK for SureClock Biometric Face Attendance Kiosks
+2026-11-18T10:07:28.732Z,@ohos-ports/grunt-npm-install,0.3.1-beta.0,glora_li,,9146,Grunt task to install npm modules.
+2026-11-18T10:07:43.196Z,@ohos-ports/llparse-test-fixture,5.1.0-beta.1,glora_li,MIT,55078,A test fixture for llparse (and llparse-based modules)
+2026-11-18T10:08:00.147Z,@ohos-ports/nbind,0.3.15-beta.1,glora_li,MIT,389117,Magical headers that make your C++ library accessible from JavaScript
+2026-11-18T10:08:16.404Z,@ohos-ports/short-windows-path,1.0.5-beta.1,glora_li,MIT,25541,Converts a Windows path to 8.3 short path
+2026-11-18T10:08:23.214Z,@ohos-ports/sponsorblock-api,0.2.4-beta.1,glora_li,MIT,47666,Node module wrapper for SponsorBlock web API.
+2026-11-18T10:08:31.761Z,@paniolo/cli-maintenance-darwin-x64,0.1.0,bkinsey808,SEE LICENSE IN LICENSE,63382970,paniolo-maintenance darwin-x64 native binary for the paniolo `maintenance` command component.
+2026-11-18T10:08:34.156Z,@ohos-ports/youtube-node,1.3.3-beta.0,glora_li,,29054,Youtube API v3 client for nodeJS
+2026-11-18T10:08:43.977Z,realityos-whiteboard,0.2.6,canozturkeri,SEE LICENSE IN LICENSE.md,137019,"RealityOS whiteboard — the first first-party component package (charter §6.8): CanvasSurface drawing + UV pointer input + StrokeLog sync, zero engine changes"
+2026-11-18T10:09:05.98Z,@nanobanana-pro/cli,0.1.0,seedance2ai-dev,SEE LICENSE IN LICENSE,66023,Generate images and videos with your Nano Banana Pro account from the terminal
+2026-11-18T10:09:19.86Z,@talentiaoss/shellyard-desktop,0.1.0,ehalilaga,MIT,14159,ShellYard as a desktop app: the same terminals and Claude Code sessions in their own window instead of a browser tab.
+2026-11-18T10:09:39.962Z,@ohos-ports/apidom-parser-adapter-api-design-systems-json,1.14.0-beta.0,glora_li,Apache-2.0,1105656,Parser adapter for parsing JSON documents into API Design Systems namespace.
+2026-11-18T10:09:43.186Z,@longzai-intelligence-electron/config,0.0.9,joydragon,UNLICENSED,6865,Longzai Intelligence Electron 就地配置契约包，承载 lzi-electron.config.ts 的类型正本与 defineConfig 工厂与加载器
+2026-11-18T10:10:03.125Z,@ohos-ports/apidom-parser-adapter-arazzo-json-1,1.14.0-beta.0,glora_li,Apache-2.0,1322632,Parser adapter for parsing JSON documents into Arazzo 1.x.y namespace.
+2026-11-18T10:10:26.334Z,@ohos-ports/apidom-parser-adapter-asyncapi-json-2,1.14.0-beta.0,glora_li,Apache-2.0,1651413,Parser adapter for parsing JSON documents into AsyncAPI 2.x.y namespace.
+2026-11-18T10:10:45.456Z,@missing-elements/h5p-mcp,0.1.0,alekswebnet,MIT,24798,"H5P Author MCP by Missing Elements: a local MCP server that builds playable H5P packages of any content type from a short source, checks them in a real player and opens them in the person's browser.…"
+2026-11-18T10:10:50.3Z,@ohos-ports/apidom-parser-adapter-a2a-json-1,1.14.0-beta.0,glora_li,Apache-2.0,1147222,Parser adapter for parsing JSON documents into A2A v1 namespace.
+2026-11-18T10:11:15.135Z,@casmo/tree.js,0.1.0,casmo,MIT,793274,"Procedural trees for three.js (WebGPURenderer, TSL node materials)."
+2026-11-18T10:11:25.327Z,@ohos-ports/apidom-parser-adapter-asyncapi-json-3,1.14.0-beta.0,glora_li,Apache-2.0,1965705,Parser adapter for parsing JSON documents into AsyncAPI 3.x.y namespace.
+2026-11-18T10:11:38.142Z,okf-markdown,1.2.1,rootpjh,MIT,25185,"Zero-dependency parser, schema validator, knowledge-graph builder, and VTT/SRT transcript converter for Open Knowledge Format (OKF v0.2) Markdown vaults (Obsidian, Claude MCP, Cursor & OneMira)."
+2026-11-18T10:11:45.132Z,okf-wiki-mcp,1.0.1,rootpjh,MIT,26401,"Zero-dependency offline Model Context Protocol (MCP) server & CLI for querying local Google OKF v0.2 and Obsidian Markdown meeting-notes vaults in Claude Desktop, Claude Code, Cursor & OneMira"
+2026-11-18T10:11:54.102Z,@pritzlaff/hoshin-kanri,1.0.0,pritzlaff,MIT,333409,Hoshin Kanri X-Matrix driven by a single markdown file. A static page plus a CLI that serves it locally.
+2026-11-18T10:11:54.895Z,@hulog/cli,0.1.5,huzerovo,MIT,43401,生成器 CLI：init/dev/build/clean/new/publish/render（开发服务器与热重载）
+2026-11-18T10:12:10.659Z,dsh-ide-window,0.1.0,simons-jiang,MIT,591887,"IDEA-style code workspace for DeepSeek Harness: a centre panel with a workspace file tree, editor tabs and live-updating source, while the left navigation column hides."
+2026-11-18T10:12:16.289Z,@hulog/core,0.1.5,huzerovo,MIT,247648,生成器核心：内容模型、构建管线、插件系统、主题加载、单文件渲染
+2026-11-18T10:13:12.353Z,@cnvlabskoxyz/goodreservekit,0.1.0,cnvlabskoxyz,MIT,562971,Flat React widget for GoodDollar reserve swaps (G$ ↔ USDm) on Celo. GoodReserve by CNV Labs KO XYZ.
+2026-11-18T10:13:46.494Z,sy-gch,1.0.0,coderzsy,ISC,267,
+2026-11-18T10:13:53.987Z,@saltpub/agent-autoloop,0.1.2,salt-pub,MIT,1060729,Let Agents follow up on work and ask when they need your judgment.
+2026-11-18T10:17:05.544Z,12happy-mcp,0.1.0,12happy,MIT,34218,"MCP server for 12happy uptime monitoring: create monitors, read uptime and incidents, and open maintenance windows from Claude, Cursor or any MCP client."
+2026-11-18T10:17:24.786Z,dsh-codex-desktop,0.1.0,euansu,MIT,3808232,"Codex desktop style for the DeepSeek Harness (dsh) web GUI — replicates OpenAI Codex's look and interaction, based on dsh-claude-style"
+2026-11-18T10:17:28.026Z,@tooee/svg,0.0.0-tegami-trusted-publish-setup,garethandrew,,372,Placeholder published by Tegami for npm trusted publishing setup.
+2026-11-18T10:18:39.024Z,noa-agent,0.0.0-stage,luxdev,,331,Temporary package placeholder for staged publishing
+2026-11-18T10:18:57.85Z,magpie-traecode,0.0.0-stage,moruoxing,,337,Temporary package placeholder for staged publishing
