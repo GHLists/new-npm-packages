@@ -1,18 +1,63 @@
 {
   "list": {
-    "count": 139,
-    "from": "2026-11-18T19:19:01.087349Z",
-    "path": "data/new-packages-2026-11-18T20-19-02-166689Z.csv",
-    "to": "2026-11-18T20:19:02.166689Z"
+    "count": 339,
+    "from": "2026-11-18T20:19:02.166689Z",
+    "path": "data/new-packages-2026-11-18T21-21-16-824858Z.csv",
+    "to": "2026-11-18T21:21:16.824858Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@soffits/dsh-sealed-files",
-      "since": "2026-11-18T19:19:01.087349Z"
+      "package": "@agentidp/sdk",
+      "since": "2026-11-18T20:19:02.166689Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@agentidp/verify",
+      "since": "2026-11-18T20:19:02.166689Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@chef.extension/decision",
+      "since": "2026-11-18T20:19:02.166689Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@kardalum/seo",
+      "since": "2026-11-18T20:19:02.166689Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@posthog/hog-darwin-x64",
+      "since": "2026-11-18T20:19:02.166689Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@soft-advisor/preview-access",
+      "since": "2026-11-18T20:19:02.166689Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@tsnomad/di-container",
+      "since": "2026-11-18T20:19:02.166689Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@tsnomad/event",
+      "since": "2026-11-18T20:19:02.166689Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@tsnomad/loader",
+      "since": "2026-11-18T20:19:02.166689Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@tsnomad/registry",
+      "since": "2026-11-18T20:19:02.166689Z"
     }
   ],
-  "seq": 145825700,
+  "seq": 145839756,
   "source_truncated": false,
-  "window": "2026-11-18T20:19:02.166689Z"
+  "window": "2026-11-18T21:21:16.824858Z"
 }
