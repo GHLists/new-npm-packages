@@ -1,12 +1,38 @@
 {
   "list": {
-    "count": 216,
-    "from": "2026-11-19T02:20:43.991186Z",
-    "path": "data/new-packages-2026-11-19T03-18-47-948042Z.csv",
-    "to": "2026-11-19T03:18:47.948042Z"
+    "count": 106,
+    "from": "2026-11-19T03:18:47.948042Z",
+    "path": "data/new-packages-2026-11-19T04-18-50-72311Z.csv",
+    "to": "2026-11-19T04:18:50.72311Z"
   },
-  "pending": [],
-  "seq": 145920900,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@amberflip/cli-darwin-arm64",
+      "since": "2026-11-19T03:18:47.948042Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@amberflip/cli-darwin-x64",
+      "since": "2026-11-19T03:18:47.948042Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@amberflip/cli-linux-x64",
+      "since": "2026-11-19T03:18:47.948042Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@amberflip/cli-win32-x64",
+      "since": "2026-11-19T03:18:47.948042Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@cloudflare/forge",
+      "since": "2026-11-19T03:18:47.948042Z"
+    }
+  ],
+  "seq": 145930636,
   "source_truncated": false,
-  "window": "2026-11-19T03:18:47.948042Z"
+  "window": "2026-11-19T04:18:50.72311Z"
 }
