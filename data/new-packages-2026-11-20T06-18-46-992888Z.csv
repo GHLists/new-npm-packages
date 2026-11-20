@@ -1,0 +1,356 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-20T05:16:41.688Z,@mrfentmen/resumes-cover-note-draft-plan-mcp,1.0.0,mrfentmen,MIT,65131,"Real local JSON analysis of cover note draft in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:16:55.092Z,@weiqun789/plugin-sdk,0.1.0,weiqun789,UNLICENSED,59327,"Backend runtime for pi plugins — handshake, capability calls, panel routing, error surfacing"
+2026-11-20T05:17:22.14Z,@acryldev/web-server,0.1.0,webboxescom,,22044,"The webServer port of a framework-hosted app: the node request and upgrade interface DSH's driver rows register on, backed by @acryldev/node-server's raw routes"
+2026-11-20T05:17:59.116Z,@acryldev/command-reply,0.1.0,webboxescom,MIT,9555,"Shows a host command reply on the Web and Desktop start page, where the conversation that would show it is not drawn yet (spec 049 T002)"
+2026-11-20T05:18:04.016Z,@mrfentmen/resumes-cover-note-draft-compare-mcp,1.0.0,mrfentmen,MIT,65177,"Real local JSON analysis of cover note draft in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:18:09.424Z,@acryldev/db-pglite,0.1.0,webboxescom,MIT,41812,"The embedded Postgres provider of the ACRYL db port, one Cordis plugin: PGlite (Postgres in WebAssembly) with its data folder in the app home, no server, applies the app's numbered migrations and pro…"
+2026-11-20T05:18:12.925Z,@rdxheree/top.gg-voter,1.0.0,rdxheree,MIT,32522,Fork of top.gg-voter with external CAPTCHA-hook support and automatic hard-refresh retries on rejected votes
+2026-11-20T05:18:22.758Z,@acryldev/feedback,0.1.1,webboxescom,MIT,118879,"Feedback from the people who use the app: a Feedback button on every page, in production too, that lets them pinpoint the element they mean (or choose ""Nothing specific"") and send a note; the ACRYL f…"
+2026-11-20T05:18:34.272Z,@acryldev/harness-runtime,0.2.12,webboxescom,MIT,1862161,"ACRYL's runtime around the DeepSeek Harness engine: resolves and composes each surface's profile (the harness plus every ACRYL plugin it runs - the composition root), the app instance and its homes,…"
+2026-11-20T05:18:45.31Z,@acryldev/home,0.1.1,webboxescom,MIT,31062,"The app's home page as a place plugins put their widgets: a plugin registers a widget in ctx.effect, the page renders it, and it leaves with the plugin."
+2026-11-20T05:18:55.591Z,@acryldev/inspect,0.1.0,webboxescom,MIT,27590,"The ACRYL inspector, one Cordis service: what every running plugin requires, provides and registers, and what unloads with it, read from the running system"
+2026-11-20T05:19:05.783Z,@acryldev/kv,0.1.0,webboxescom,MIT,52297,"The ACRYL kv port: named JSON documents for an app too small for SQL, whichever provider serves it, with atomic update and the conformance suite every provider passes"
+2026-11-20T05:19:11.909Z,@mrfentmen/resumes-portfolio-link-audit-match-mcp,1.0.0,mrfentmen,MIT,65448,"Real local JSON analysis of portfolio link audit in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:19:16.001Z,@acryldev/kv-db,0.1.0,webboxescom,MIT,18498,"The kv provider over the ACRYL db port, one Cordis plugin: a kv table in the app's SQL database, so an app that grows into SQL keeps its data"
+2026-11-20T05:19:20.104Z,@immit/dictionary,0.1.0,bnhansn,SEE LICENSE IN LICENSE,2392561,"The immit Japanese and English dictionary on the device: lookups at hover speed, offline, in a page or a browser extension"
+2026-11-20T05:19:26.36Z,@acryldev/kv-json,0.1.0,webboxescom,MIT,38651,"The JSON-file provider of the ACRYL kv port, one Cordis plugin: one file, rewritten atomically (temp file, then rename) on every write"
+2026-11-20T05:19:27.841Z,@mrfentmen/resumes-portfolio-link-audit-index-mcp,1.0.0,mrfentmen,MIT,65361,"Real local JSON analysis of portfolio link audit in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:19:37.764Z,@acryldev/launcher-desktop,0.1.0,webboxescom,MIT,968413,"The ACRYL screen of the desktop app (spec 050): every app made with ACRYL on this machine, the surface of each (Web, Desktop, CLI/TUI), and New app, Add a folder, Start and Stop. The Host half serves…"
+2026-11-20T05:19:48.529Z,@acryldev/manifest,0.1.1,webboxescom,MIT,213267,"The app as data: blend.yaml lists ordered plugin rows with config, parameters and on/off switches; validated, composed and locked."
+2026-11-20T05:19:59.178Z,@acryldev/mount-anchors,0.1.0,webboxescom,MIT,50869,"Visual mount-anchor inspector (spec 039-visual-mount-anchors, Scope A): point at ACRYL's own running UI, click an element, resolve it to its real Cordis slot and source file"
+2026-11-20T05:20:01.512Z,@mrfentmen/resumes-portfolio-link-audit-sim-mcp,1.0.0,mrfentmen,MIT,65354,"Real local JSON analysis of portfolio link audit in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:20:09.555Z,@acryldev/openai,0.1.1,webboxescom,MIT,59092,"A real model for the agent: any OpenAI-compatible chat API (OpenAI, DeepSeek, Ollama, LM Studio) over fetch, with tool calls. No SDK."
+2026-11-20T05:20:19.97Z,@acryldev/page,0.1.1,webboxescom,MIT,45373,"The page of a framework-hosted app: the ACRYL frame's own minimal document, its index taps applied per request, and the built client assets the client runtime boots from, served by @acryldev/web-serv…"
+2026-11-20T05:20:31.882Z,@acryldev/plugin-context,0.1.1,webboxescom,MIT,2639755,"Extension Context Pack: routed docs, verified examples and authoring skills that let the ACRYL agent write its own plugins (spec 037)"
+2026-11-20T05:20:33.045Z,@mrfentmen/resumes-portfolio-link-audit-track-mcp,1.0.0,mrfentmen,MIT,65438,"Real local JSON analysis of portfolio link audit in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:20:42.26Z,@acryldev/plugin-hub,0.1.0,webboxescom,MIT,28472,"Save, share and pull plugins in an app: the pluginHub service (the local store, pulls checked by sha512 and by the services the app provides, installed through DSH's own plugin manager) and the /plug…"
+2026-11-20T05:20:53.287Z,@acryldev/plugin-share,0.1.0,webboxescom,MIT,276119,"Share plugins between people. Pull one someone released into the running app: fetched without running anything, checked by digest and for every OS, then installed live. Publish one, only as a plan a…"
+2026-11-20T05:21:04.081Z,@acryldev/router-http,0.1.0,webboxescom,MIT,34324,The Web adapter for @acryldev/router: mounts path prefixes on the DSH webServer and serves them through the router as Web-standard Request and Response
+2026-11-20T05:21:05.477Z,@traceai/sagemaker,0.1.0,futureagi,Apache-2.0,151000,TraceAI instrumentation for Amazon SageMaker Runtime endpoints (@aws-sdk/client-sagemaker-runtime)
+2026-11-20T05:21:05.928Z,@mrfentmen/resumes-reference-list-ready-plan-mcp,1.0.0,mrfentmen,MIT,65391,"Real local JSON analysis of reference list ready in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:21:14.445Z,@acryldev/sandbox,0.1.0,webboxescom,MIT,28007,"Run untrusted code (agent-written tools) in a child process under Node's permission model: read only its own folder, no child processes, no env, time and memory limits."
+2026-11-20T05:21:22.006Z,@mrfentmen/resumes-reference-list-ready-match-mcp,1.0.0,mrfentmen,MIT,65461,"Real local JSON analysis of reference list ready in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:21:24.778Z,@acryldev/save,0.1.2,webboxescom,MIT,40123,"Save the app to its own git repository, and share it: a repository of its own on GitHub, created and pushed only after a person confirms the plan. Refuses a file that holds a secret, and a private ap…"
+2026-11-20T05:21:35.135Z,@acryldev/shortcuts,0.1.0,webboxescom,MIT,58092,"ACRYL keyboard commands on DSH's own shortcut service, and Settings > Shortcuts, which lists and rebinds every shortcut."
+2026-11-20T05:21:38.032Z,@mrfentmen/resumes-reference-list-ready-index-mcp,1.0.0,mrfentmen,MIT,65374,"Real local JSON analysis of reference list ready in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:21:45.725Z,@acryldev/showcase,0.1.1,webboxescom,MIT,55076,"The collective app's showcase: a page at /showcase with a card for every plugin in the app (name, author, version, where it came from, its state, and links to its pages, its home widget and its tool)…"
+2026-11-20T05:21:46.045Z,@leon620/cftune,0.1.0,leon620,MIT,74849,把内网大模型 / OpenAI 兼容 API 经 cloudflared 隧道安全转发到公网（路径密钥 + Bearer 双鉴权）
+2026-11-20T05:21:55.402Z,@mrfentmen/resumes-reference-list-ready-cost-mcp,1.0.0,mrfentmen,MIT,65402,"Real local JSON analysis of reference list ready in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:21:56.198Z,@acryldev/state,0.1.0,webboxescom,MIT,63336,"The ACRYL state service, one Cordis service: observable cells and derived values owned by plugins, readable in process, streamed over the router as server-sent events, and bound to React with one hook"
+2026-11-20T05:22:01.579Z,@nilzx/dsh-mcp-connector,0.1.2,nilzx,MIT,181265,"Connect MCP servers to DeepSeek Harness: stdio, Streamable HTTP, SSE, OAuth sign-in, per-tool permissions, and workspace scoping, all managed from a Settings panel."
+2026-11-20T05:22:06.937Z,@acryldev/tasks,0.1.0,webboxescom,MIT,56525,"Durable task records: id, owner, input, status, result, trace; appended to a log in the app's home and readable after a restart."
+2026-11-20T05:22:11.645Z,@mrfentmen/resumes-reference-list-ready-sim-mcp,1.0.0,mrfentmen,MIT,65367,"Real local JSON analysis of reference list ready in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:22:17.17Z,@acryldev/ui-tui,0.1.0,webboxescom,MIT,16273,"ACRYL UI library for the terminal (CLI): pi-tui components with the same names and contracts as @acryldev/ui (Stack, Card, Field, SwitchField, SettingsRow, SelectField, Segmented, Tabs, Dialog, Empty…"
+2026-11-20T05:22:27.414Z,@mrfentmen/resumes-reference-list-ready-compare-mcp,1.0.0,mrfentmen,MIT,65437,"Real local JSON analysis of reference list ready in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:22:35.675Z,@dephub/hash,1.0.0,GitHub Actions,MIT,8773,Simple cryptographic hashing utilities powered by the Web Crypto API.
+2026-11-20T05:22:40.738Z,pan-agent,0.1.10,ryan-pan-nv,MIT,827074,A terminal agent with tool approvals and replayable execution archives.
+2026-11-20T05:22:43.084Z,@mrfentmen/resumes-reference-list-ready-track-mcp,1.0.0,mrfentmen,MIT,65451,"Real local JSON analysis of reference list ready in the Resumes lane. 25 MCP tools, no paywall."
+2026-11-20T05:23:00.627Z,@mrfentmen/interviews-star-story-bank-check-mcp,1.0.0,mrfentmen,MIT,65377,"Real local JSON analysis of star story bank in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:23:16.998Z,@mrfentmen/interviews-star-story-bank-plan-mcp,1.0.0,mrfentmen,MIT,65387,"Real local JSON analysis of star story bank in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:23:32.805Z,@mrfentmen/interviews-star-story-bank-match-mcp,1.0.0,mrfentmen,MIT,65457,"Real local JSON analysis of star story bank in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:23:49.496Z,@mrfentmen/interviews-star-story-bank-index-mcp,1.0.0,mrfentmen,MIT,65370,"Real local JSON analysis of star story bank in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:24:05.309Z,@mrfentmen/interviews-star-story-bank-cost-mcp,1.0.0,mrfentmen,MIT,65398,"Real local JSON analysis of star story bank in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:24:21.144Z,@mrfentmen/interviews-star-story-bank-sim-mcp,1.0.0,mrfentmen,MIT,65363,"Real local JSON analysis of star story bank in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:24:37.234Z,@mrfentmen/interviews-star-story-bank-compare-mcp,1.0.0,mrfentmen,MIT,65433,"Real local JSON analysis of star story bank in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:24:44.584Z,splixir,0.1.0,sreetejp,MIT,10448,Splixir CLI — scaffold and validate structured media jobs for the Splixir API.
+2026-11-20T05:24:50.275Z,artifactless,0.1.0,dionisrh89,MIT,38274,Playwright test reports in GitHub Actions logs. No artifacts.
+2026-11-20T05:24:54.907Z,@mrfentmen/interviews-star-story-bank-track-mcp,1.0.0,mrfentmen,MIT,65447,"Real local JSON analysis of star story bank in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:24:58.736Z,illustrator-viewer,0.7.0,51qux,MIT,294802,Illustrator Viewer - 浏览器本地解析 Adobe Illustrator .ai 文件并渲染 Canvas 预览（Vue 3 / JS + WASM）。
+2026-11-20T05:25:05.408Z,n8n-nodes-pdf-lib-custom,1.0.0,boazlai,MIT,1064345,"n8n community node for splitting, merging, and editing PDFs with pdf-lib"
+2026-11-20T05:25:11.11Z,@mrfentmen/interviews-salary-ask-script-check-mcp,1.0.0,mrfentmen,MIT,65507,"Real local JSON analysis of salary ask script in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:25:26.792Z,@mrfentmen/interviews-salary-ask-script-plan-mcp,1.0.0,mrfentmen,MIT,65517,"Real local JSON analysis of salary ask script in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:25:42.836Z,@mrfentmen/interviews-salary-ask-script-match-mcp,1.0.0,mrfentmen,MIT,65587,"Real local JSON analysis of salary ask script in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:26:00.307Z,@mrfentmen/interviews-salary-ask-script-index-mcp,1.0.0,mrfentmen,MIT,65500,"Real local JSON analysis of salary ask script in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:26:16.444Z,@mrfentmen/interviews-salary-ask-script-cost-mcp,1.0.0,mrfentmen,MIT,65528,"Real local JSON analysis of salary ask script in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:26:19.252Z,@traceai/typesafe,0.1.0,futureagi,Apache-2.0,96811,TraceAI instrumentation for the TypeSafe AI SDK
+2026-11-20T05:26:32.596Z,@mrfentmen/interviews-salary-ask-script-sim-mcp,1.0.0,mrfentmen,MIT,65493,"Real local JSON analysis of salary ask script in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:26:49.183Z,@mrfentmen/interviews-salary-ask-script-compare-mcp,1.0.0,mrfentmen,MIT,65563,"Real local JSON analysis of salary ask script in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:27:05.525Z,@mrfentmen/interviews-salary-ask-script-track-mcp,1.0.0,mrfentmen,MIT,65577,"Real local JSON analysis of salary ask script in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:27:21.493Z,@mrfentmen/interviews-whiteboard-prep-drills-check-mcp,1.0.0,mrfentmen,MIT,65822,"Real local JSON analysis of whiteboard prep drills in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:27:26.198Z,@leon620/dsh-cftune,0.1.0,leon620,,68171,"Manage the cftune cloudflared tunnel from Harness: start and stop on demand, read the live public entry URL, and see auth and request state."
+2026-11-20T05:27:37.251Z,@mrfentmen/interviews-whiteboard-prep-drills-plan-mcp,1.0.0,mrfentmen,MIT,65832,"Real local JSON analysis of whiteboard prep drills in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:27:54.285Z,@mrfentmen/interviews-whiteboard-prep-drills-match-mcp,1.0.0,mrfentmen,MIT,65902,"Real local JSON analysis of whiteboard prep drills in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:28:10.809Z,@mrfentmen/interviews-whiteboard-prep-drills-index-mcp,1.0.0,mrfentmen,MIT,65815,"Real local JSON analysis of whiteboard prep drills in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:28:58.273Z,@mrfentmen/interviews-whiteboard-prep-drills-cost-mcp,1.0.0,mrfentmen,MIT,65843,"Real local JSON analysis of whiteboard prep drills in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:29:16.7Z,@mrfentmen/interviews-whiteboard-prep-drills-sim-mcp,1.0.0,mrfentmen,MIT,65808,"Real local JSON analysis of whiteboard prep drills in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:29:17.437Z,@edmarkmagsalin/rubiks-cube,0.1.0,edmarkmagsalin,MIT,173561,"Interactive 3x3 Rubik's Cube React component rendered with Three.js TSL on WebGPU, with automatic WebGL2 fallback."
+2026-11-20T05:29:25.199Z,@gohopo/xy-core,0.0.2-alpha.4.1,gohopo,ISC,116493,XuanYuan core
+2026-11-20T05:29:35.645Z,@mrfentmen/interviews-whiteboard-prep-drills-compare-mcp,1.0.0,mrfentmen,MIT,65878,"Real local JSON analysis of whiteboard prep drills in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:29:52.845Z,@mrfentmen/interviews-whiteboard-prep-drills-track-mcp,1.0.0,mrfentmen,MIT,65892,"Real local JSON analysis of whiteboard prep drills in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:30:09.212Z,openbot-lego,1.2.1,kingska,MIT,1749821,Interactive 3D LEGO Tropical House & real-time visual HQ for OpenBot Desktop AI agents
+2026-11-20T05:30:09.846Z,@mrfentmen/interviews-thank-you-note-send-check-mcp,1.0.0,mrfentmen,MIT,65614,"Real local JSON analysis of thank you note send in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:30:26.318Z,@mrfentmen/interviews-thank-you-note-send-plan-mcp,1.0.0,mrfentmen,MIT,65624,"Real local JSON analysis of thank you note send in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:30:42.115Z,@mrfentmen/interviews-thank-you-note-send-match-mcp,1.0.0,mrfentmen,MIT,65694,"Real local JSON analysis of thank you note send in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:30:59.535Z,@mrfentmen/interviews-thank-you-note-send-index-mcp,1.0.0,mrfentmen,MIT,65607,"Real local JSON analysis of thank you note send in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:31:15.865Z,@mrfentmen/interviews-thank-you-note-send-cost-mcp,1.0.0,mrfentmen,MIT,65635,"Real local JSON analysis of thank you note send in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:31:16.015Z,dsh-snipaste,1.0.0,zhoulei1997,MIT,75690,"A Snipaste-style screenshot button in the composer tool row, bound to Option+1 (Alt+1 on Windows): capture the screen, drag a region, annotate it, then copy or save the PNG."
+2026-11-20T05:31:31.794Z,@mrfentmen/interviews-thank-you-note-send-sim-mcp,1.0.0,mrfentmen,MIT,65600,"Real local JSON analysis of thank you note send in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:31:42.805Z,cortico-provider-mimo-tokenplan,0.1.0,tianxuan,MIT,10227,Cortico provider for Xiaomi MiMo Token Plan subscription endpoint (OpenAI Chat Completions)
+2026-11-20T05:31:48.478Z,@mrfentmen/interviews-thank-you-note-send-compare-mcp,1.0.0,mrfentmen,MIT,65670,"Real local JSON analysis of thank you note send in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:32:05.19Z,@mrfentmen/interviews-thank-you-note-send-track-mcp,1.0.0,mrfentmen,MIT,65684,"Real local JSON analysis of thank you note send in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:32:13.229Z,@soffits/dsh-desktop-view,0.2.1,soffits,MIT,111931,"Live view of the agent machine's desktop in the DeepSeek Harness Web UI, relayed from cua-spacesd behind DSH's own login with Cua's viewer: watch with sound, take control when the agent needs a hand…"
+2026-11-20T05:32:21.078Z,@mrfentmen/interviews-video-setup-check-check-mcp,1.0.0,mrfentmen,MIT,65497,"Real local JSON analysis of video setup check in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:32:24.643Z,takar-mcp,0.1.0,pugarhuda,MIT,10735,"Resolve real-world events with verbatim quotes, read a signed forecast scorecard, and rank Telegraph miners. No key, no wallet."
+2026-11-20T05:32:37.079Z,@mrfentmen/interviews-video-setup-check-plan-mcp,1.0.0,mrfentmen,MIT,65507,"Real local JSON analysis of video setup check in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:32:54.131Z,@mrfentmen/interviews-video-setup-check-match-mcp,1.0.0,mrfentmen,MIT,65577,"Real local JSON analysis of video setup check in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:32:55.854Z,planboard,0.1.1,byronwallrus,,2267449,"A local reading desk for Markdown daily plans, tasks, and the code they touch."
+2026-11-20T05:33:10.387Z,@mrfentmen/interviews-video-setup-check-index-mcp,1.0.0,mrfentmen,MIT,65490,"Real local JSON analysis of video setup check in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:33:26.405Z,@mrfentmen/interviews-video-setup-check-cost-mcp,1.0.0,mrfentmen,MIT,65518,"Real local JSON analysis of video setup check in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:33:34.19Z,@lumyne/omni-desktop-app,0.1.15,petercjl,UNLICENSED,10721380,Signed Shanhai OMNI desktop application module; installed by the desktop updater
+2026-11-20T05:33:42.266Z,@mrfentmen/interviews-video-setup-check-sim-mcp,1.0.0,mrfentmen,MIT,65483,"Real local JSON analysis of video setup check in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:33:58.643Z,@mrfentmen/interviews-video-setup-check-compare-mcp,1.0.0,mrfentmen,MIT,65553,"Real local JSON analysis of video setup check in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:34:14.646Z,@mrfentmen/interviews-video-setup-check-track-mcp,1.0.0,mrfentmen,MIT,65567,"Real local JSON analysis of video setup check in the Interviews lane. 25 MCP tools, no paywall."
+2026-11-20T05:34:30.696Z,@mrfentmen/freelancing-rate-setting-math-check-mcp,1.0.0,mrfentmen,MIT,65594,"Real local JSON analysis of rate setting math in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:34:41.161Z,@barmanji/clawd-code-linux-x64,0.1.0,barmanji,MIT,11465223,Prebuilt binary for clawd-code (linux/amd64)
+2026-11-20T05:34:46.234Z,@mrfentmen/freelancing-rate-setting-math-plan-mcp,1.0.0,mrfentmen,MIT,65604,"Real local JSON analysis of rate setting math in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:34:48.3Z,@barmanji/clawd-code-linux-arm64,0.1.0,barmanji,MIT,10682891,Prebuilt binary for clawd-code (linux/arm64)
+2026-11-20T05:34:55.795Z,@barmanji/clawd-code-darwin-x64,0.1.0,barmanji,MIT,11726506,Prebuilt binary for clawd-code (darwin/amd64)
+2026-11-20T05:35:03.467Z,@mrfentmen/freelancing-rate-setting-math-match-mcp,1.0.0,mrfentmen,MIT,65674,"Real local JSON analysis of rate setting math in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:35:04.095Z,@barmanji/clawd-code-darwin-arm64,0.1.0,barmanji,MIT,10897216,Prebuilt binary for clawd-code (darwin/arm64)
+2026-11-20T05:35:12.172Z,@barmanji/clawd-code-win32-x64,0.1.0,barmanji,MIT,11858281,Prebuilt binary for clawd-code (windows/amd64)
+2026-11-20T05:35:14.574Z,@barmanji/clawd-code,0.1.0,barmanji,MIT,13227,C-Lawd Code — a tiny LLM coding agent for your terminal
+2026-11-20T05:35:19.479Z,@mrfentmen/freelancing-rate-setting-math-index-mcp,1.0.0,mrfentmen,MIT,65587,"Real local JSON analysis of rate setting math in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:35:35.304Z,@mrfentmen/freelancing-rate-setting-math-cost-mcp,1.0.0,mrfentmen,MIT,65615,"Real local JSON analysis of rate setting math in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:35:52.29Z,@mrfentmen/freelancing-rate-setting-math-sim-mcp,1.0.0,mrfentmen,MIT,65580,"Real local JSON analysis of rate setting math in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:36:08.68Z,@mrfentmen/freelancing-rate-setting-math-compare-mcp,1.0.0,mrfentmen,MIT,65650,"Real local JSON analysis of rate setting math in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:36:24.384Z,@terpomosoft/pmitz-mcp,0.1.0,ksaidi-terpomo,Apache-2.0,26169,Local MCP server for Pmitz: lets a coding assistant read and change your own Pmitz server.
+2026-11-20T05:36:24.87Z,@mrfentmen/freelancing-rate-setting-math-track-mcp,1.0.0,mrfentmen,MIT,65664,"Real local JSON analysis of rate setting math in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:36:25.091Z,dsh-stock-panel,0.1.0,paulwang123,MIT,73217,DSH 股票行情面板：大盘指数、自选股、分时和日线、成交明细与资讯。
+2026-11-20T05:36:40.92Z,@mrfentmen/freelancing-invoice-terms-net-check-mcp,1.0.0,mrfentmen,MIT,65624,"Real local JSON analysis of invoice terms net in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:36:58.908Z,@mrfentmen/freelancing-invoice-terms-net-plan-mcp,1.0.0,mrfentmen,MIT,65634,"Real local JSON analysis of invoice terms net in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:37:13.8Z,tabmate,0.2.0,tiath,MIT,385345,MCP server for the Tabmate Chrome extension. Lets AI agents control your Chrome.
+2026-11-20T05:37:16.238Z,@mrfentmen/freelancing-invoice-terms-net-match-mcp,1.0.0,mrfentmen,MIT,65704,"Real local JSON analysis of invoice terms net in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:37:32.245Z,@mrfentmen/freelancing-invoice-terms-net-index-mcp,1.0.0,mrfentmen,MIT,65617,"Real local JSON analysis of invoice terms net in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:37:38.976Z,@codeweft/linux-x64,0.8.2,anjanikumarjangid,Apache-2.0,25032229,The codeweft binary for linux x64. Install codeweft instead.
+2026-11-20T05:37:44.063Z,@codeweft/linux-arm64,0.8.1,anjanikumarjangid,Apache-2.0,23792763,The codeweft binary for linux arm64. Install codeweft instead.
+2026-11-20T05:37:48.354Z,@mrfentmen/freelancing-invoice-terms-net-cost-mcp,1.0.0,mrfentmen,MIT,65645,"Real local JSON analysis of invoice terms net in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:37:49.38Z,@codeweft/darwin-arm64,0.8.1,anjanikumarjangid,Apache-2.0,23166032,The codeweft binary for darwin arm64. Install codeweft instead.
+2026-11-20T05:37:55.024Z,@codeweft/darwin-x64,0.8.2,anjanikumarjangid,Apache-2.0,24092312,The codeweft binary for darwin x64. Install codeweft instead.
+2026-11-20T05:38:00.291Z,@codeweft/win32-x64,0.8.2,anjanikumarjangid,Apache-2.0,24489077,The codeweft binary for win32 x64. Install codeweft instead.
+2026-11-20T05:38:03.924Z,codeweft,0.8.2,anjanikumarjangid,Apache-2.0,14786,"MCP server giving AI coding agents structured, deterministic context about your code and services: symbols, call graphs, tests and cross-service links for Go, Java, Python, TypeScript and JavaScript."
+2026-11-20T05:38:05.332Z,@mrfentmen/freelancing-invoice-terms-net-sim-mcp,1.0.0,mrfentmen,MIT,65610,"Real local JSON analysis of invoice terms net in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:38:21.395Z,@mrfentmen/freelancing-invoice-terms-net-compare-mcp,1.0.0,mrfentmen,MIT,65680,"Real local JSON analysis of invoice terms net in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:38:30.924Z,dsh-mode-exchange,0.1.0,dasuda13,MIT,411637,在已存在的 DSH 会话中切换 Agent 模式（软切换），以及按目标模式迁移重建会话（真导入原生消息序列）。
+2026-11-20T05:38:37.489Z,@mrfentmen/freelancing-invoice-terms-net-track-mcp,1.0.0,mrfentmen,MIT,65694,"Real local JSON analysis of invoice terms net in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:38:46.677Z,@atlassian-test-prod/npm-test,0.0.0,atlassianartifactteam,Apache-2.0,531,Placeholder release claiming @atlassian-test-prod/npm-test. Published by scripts/onboard-package.js.
+2026-11-20T05:38:55.129Z,@mrfentmen/freelancing-client-intake-form-check-mcp,1.0.0,mrfentmen,MIT,65669,"Real local JSON analysis of client intake form in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:39:11.643Z,@mrfentmen/freelancing-client-intake-form-plan-mcp,1.0.0,mrfentmen,MIT,65679,"Real local JSON analysis of client intake form in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:39:18.853Z,@pmndrs/raytracer,0.1.0,dennissmolek,MIT,487239,"WebGPU ray tracing core: scene copy, BVH trace, light sampling and shading helpers in WGSL."
+2026-11-20T05:39:22.301Z,@pmndrs/pathtracer,0.1.0,dennissmolek,MIT,939638,"WebGPU physically based path tracer (OpenPBR materials, megakernel and wavefront schedulers) built on @pmndrs/raytracer."
+2026-11-20T05:39:27.596Z,@mrfentmen/freelancing-client-intake-form-match-mcp,1.0.0,mrfentmen,MIT,65749,"Real local JSON analysis of client intake form in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:39:32.043Z,pilotcontrol,1.0.0,goviedo78,UNLICENSED,20212,"Install or update the PilotControl desktop app (macOS and Windows) from the terminal, with SHA-256 verification."
+2026-11-20T05:39:39.795Z,slideck-html,2.0.0,mahdyarief,MIT,3420913,"Stable single-file HTML slide decks: frozen 1920x1080 shell, 18 designs, 10 themes with embedded fonts, placeholder layouts, SVG charts, Mermaid, PPTX import/export, PDF export, custom designs. Zero…"
+2026-11-20T05:39:44.682Z,@mrfentmen/freelancing-client-intake-form-index-mcp,1.0.0,mrfentmen,MIT,65662,"Real local JSON analysis of client intake form in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:40:02.694Z,@mrfentmen/freelancing-client-intake-form-cost-mcp,1.0.0,mrfentmen,MIT,65690,"Real local JSON analysis of client intake form in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:40:18.668Z,@mrfentmen/freelancing-client-intake-form-sim-mcp,1.0.0,mrfentmen,MIT,65655,"Real local JSON analysis of client intake form in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:40:34.855Z,@mrfentmen/freelancing-client-intake-form-compare-mcp,1.0.0,mrfentmen,MIT,65725,"Real local JSON analysis of client intake form in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:40:51.969Z,@mrfentmen/freelancing-client-intake-form-track-mcp,1.0.0,mrfentmen,MIT,65739,"Real local JSON analysis of client intake form in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:40:54.37Z,@narumitw/pi-inline-markup,0.1.0,narumitw,MIT,43656,Style inline badges and preview local file links in Pi's terminal UI.
+2026-11-20T05:41:05.14Z,@caelaralabs/plugin-caelara-shield,0.1.0,caelaralabs,MIT,117002,"Screened swap and bridge quotes for elizaOS agents: heuristic token screening, unsigned transactions, EVM and Solana"
+2026-11-20T05:41:08.073Z,@mrfentmen/freelancing-scope-creep-flag-check-mcp,1.0.0,mrfentmen,MIT,65549,"Real local JSON analysis of scope creep flag in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:41:24.077Z,@mrfentmen/freelancing-scope-creep-flag-plan-mcp,1.0.0,mrfentmen,MIT,65559,"Real local JSON analysis of scope creep flag in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:41:36.919Z,ep_lmzlbv,0.0.2,thy1234,MIT,1511,route marker
+2026-11-20T05:41:39.988Z,@mrfentmen/freelancing-scope-creep-flag-match-mcp,1.0.0,mrfentmen,MIT,65629,"Real local JSON analysis of scope creep flag in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:41:57.448Z,@mrfentmen/freelancing-scope-creep-flag-index-mcp,1.0.0,mrfentmen,MIT,65542,"Real local JSON analysis of scope creep flag in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:42:14.3Z,@mrfentmen/freelancing-scope-creep-flag-cost-mcp,1.0.0,mrfentmen,MIT,65570,"Real local JSON analysis of scope creep flag in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:42:23.701Z,@soffits/dsh-session-query-cjk,0.2.2-rc.1.1,soffits,MIT,68282,"DeepSeek Harness session search (ctx.sessionQuery, SQLite FTS5) that finds Chinese, Japanese and Korean words inside sentences. Drop-in fork of @deepseek-ai/dsh-session-query-sqlite."
+2026-11-20T05:42:30.457Z,@mrfentmen/freelancing-scope-creep-flag-sim-mcp,1.0.0,mrfentmen,MIT,65535,"Real local JSON analysis of scope creep flag in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:42:40.882Z,xiaodao-filetype-parser,0.1.0,leeqwind,MIT,154166,Content-based file type detection for Node.js and TypeScript
+2026-11-20T05:42:46.778Z,ep_wnuhxv,1.0.0,thy1234,MIT,1511,route marker
+2026-11-20T05:43:09.299Z,@mrfentmen/freelancing-scope-creep-flag-compare-mcp,1.0.0,mrfentmen,MIT,65605,"Real local JSON analysis of scope creep flag in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:43:26.345Z,@mrfentmen/freelancing-scope-creep-flag-track-mcp,1.0.0,mrfentmen,MIT,65619,"Real local JSON analysis of scope creep flag in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:43:42.633Z,@mrfentmen/freelancing-tax-quarterly-set-check-mcp,1.0.0,mrfentmen,MIT,65584,"Real local JSON analysis of tax quarterly set in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:43:46.171Z,dsh-agent-team-viewer,0.1.0,realwof,MIT,246393,"DeepSeek Harness plugin: a read-only viewer of the Agent Team board. Kanban columns follow task status, a card opens a block inspector, the subagent tree is grouped by status with run time, backgroun…"
+2026-11-20T05:43:59.12Z,@mrfentmen/freelancing-tax-quarterly-set-plan-mcp,1.0.0,mrfentmen,MIT,65594,"Real local JSON analysis of tax quarterly set in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:44:03.341Z,kiki-core,0.1.0,mskiki,Apache-2.0,106439,"A tiny multi-agent team you run locally: create agents, chat with each one, and let them hold a meeting that ends with minutes."
+2026-11-20T05:44:09.518Z,pi-kiki,0.1.0,mskiki,MIT,17856,Report pi's progress to Kiki and hand tasks to Kiki's agents (成员). 在终端里用 pi 时，把进度报给 Kiki、把活交给 Kiki 的成员。
+2026-11-20T05:44:10.571Z,@nextrs/cli,0.1.0-rc.1,akongasidencio,MIT OR Apache-2.0,90223059,NextRS: serve an official Next.js production build from a native Rust server with embedded V8. Precompiled binary for Linux x64 (glibc 2.35+); no Rust toolchain needed.
+2026-11-20T05:44:14.921Z,@mrfentmen/freelancing-tax-quarterly-set-match-mcp,1.0.0,mrfentmen,MIT,65664,"Real local JSON analysis of tax quarterly set in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:44:25.762Z,design-in-browser,0.1.0,formstep,MIT,263192,"Comment on your running React + Vite app in the browser, and your coding agent changes the code: comments, alternatives with live tweaks, before and after."
+2026-11-20T05:44:31.022Z,@mrfentmen/freelancing-tax-quarterly-set-index-mcp,1.0.0,mrfentmen,MIT,65577,"Real local JSON analysis of tax quarterly set in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:44:40.216Z,@chatcops/react,0.0.0-stage,anurag_629,,337,Temporary package placeholder for staged publishing
+2026-11-20T05:44:47.031Z,@mrfentmen/freelancing-tax-quarterly-set-cost-mcp,1.0.0,mrfentmen,MIT,65605,"Real local JSON analysis of tax quarterly set in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:45:04.025Z,@mrfentmen/freelancing-tax-quarterly-set-sim-mcp,1.0.0,mrfentmen,MIT,65570,"Real local JSON analysis of tax quarterly set in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:45:19.951Z,@mrfentmen/freelancing-tax-quarterly-set-compare-mcp,1.0.0,mrfentmen,MIT,65640,"Real local JSON analysis of tax quarterly set in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:45:20.268Z,@omnisnap/linux-x64,0.1.0-rc.2,shermiii,AGPL-3.0-or-later,10461614,The Omnisnap binary for linux x64 (installed by the omnisnap package; do not install directly)
+2026-11-20T05:45:25.514Z,@omnisnap/linux-arm64,0.1.0-rc.2,shermiii,AGPL-3.0-or-later,9765300,The Omnisnap binary for linux arm64 (installed by the omnisnap package; do not install directly)
+2026-11-20T05:45:32.423Z,@omnisnap/darwin-x64,0.1.0-rc.2,shermiii,AGPL-3.0-or-later,10678417,The Omnisnap binary for darwin x64 (installed by the omnisnap package; do not install directly)
+2026-11-20T05:45:35.966Z,@mrfentmen/freelancing-tax-quarterly-set-track-mcp,1.0.0,mrfentmen,MIT,65654,"Real local JSON analysis of tax quarterly set in the Freelancing lane. 25 MCP tools, no paywall."
+2026-11-20T05:45:37.814Z,@omnisnap/darwin-arm64,0.1.0-rc.2,shermiii,AGPL-3.0-or-later,10006057,The Omnisnap binary for darwin arm64 (installed by the omnisnap package; do not install directly)
+2026-11-20T05:45:43.373Z,@omnisnap/win32-x64,0.1.0-rc.2,shermiii,AGPL-3.0-or-later,10716942,The Omnisnap binary for win32 x64 (installed by the omnisnap package; do not install directly)
+2026-11-20T05:45:52.166Z,@mrfentmen/babysitting-rate-card-sheet-check-mcp,1.0.0,mrfentmen,MIT,65484,"Real local JSON analysis of rate card sheet in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:46:08.184Z,@mrfentmen/babysitting-rate-card-sheet-plan-mcp,1.0.0,mrfentmen,MIT,65494,"Real local JSON analysis of rate card sheet in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:46:11.334Z,@intellectual-frontiers/system,0.1.0,snshah,MIT,420831,"The host system as one typed library: files, paths, the folders of a program, one run at a time, file watching, programs found by prefix, processes and their streams, Git, a program built into one bi…"
+2026-11-20T05:46:24.25Z,@mrfentmen/babysitting-rate-card-sheet-match-mcp,1.0.0,mrfentmen,MIT,65564,"Real local JSON analysis of rate card sheet in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:46:38.418Z,dsh-videocall,0.2.0,ice-light-dsh,MIT,136193,"Browser-to-browser WebRTC video call for DeepSeek Harness: your VTuber avatar on one side, your camera on the other, plus a low-bitrate glance channel back to the model. 给 DSH 一条零驱动、零端口的局域网视频通话通道。"
+2026-11-20T05:46:40.319Z,@mrfentmen/babysitting-rate-card-sheet-index-mcp,1.0.0,mrfentmen,MIT,65477,"Real local JSON analysis of rate card sheet in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:46:57.486Z,@mrfentmen/babysitting-rate-card-sheet-cost-mcp,1.0.0,mrfentmen,MIT,65505,"Real local JSON analysis of rate card sheet in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:46:58.415Z,@aiquants/chat,0.1.0,fehde,MIT,2566166,"The chat of the AI Quants applications: the wire contract of its stream events, failure codes, business codes, endpoints (their paths, queries and exchanges), resources, attachments and vocabularies,…"
+2026-11-20T05:47:13.727Z,@mrfentmen/babysitting-rate-card-sheet-sim-mcp,1.0.0,mrfentmen,MIT,65470,"Real local JSON analysis of rate card sheet in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:47:29.741Z,@mrfentmen/babysitting-rate-card-sheet-compare-mcp,1.0.0,mrfentmen,MIT,65540,"Real local JSON analysis of rate card sheet in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:47:45.435Z,dsh-xlanv,1.0.0,wilming,MIT,44998,xlanv.net (X 蓝V互助平台) 官方 DeepSeek Harness (dsh) 24小时拟人化自动化插件
+2026-11-20T05:47:45.629Z,@mrfentmen/babysitting-rate-card-sheet-track-mcp,1.0.0,mrfentmen,MIT,65554,"Real local JSON analysis of rate card sheet in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:48:03.437Z,@mrfentmen/babysitting-bedtime-routine-plan-check-mcp,1.0.0,mrfentmen,MIT,65789,"Real local JSON analysis of bedtime routine plan in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:48:19.407Z,@mrfentmen/babysitting-bedtime-routine-plan-plan-mcp,1.0.0,mrfentmen,MIT,65799,"Real local JSON analysis of bedtime routine plan in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:48:35.375Z,@mrfentmen/babysitting-bedtime-routine-plan-match-mcp,1.0.0,mrfentmen,MIT,65869,"Real local JSON analysis of bedtime routine plan in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:48:52.698Z,@mrfentmen/babysitting-bedtime-routine-plan-index-mcp,1.0.0,mrfentmen,MIT,65782,"Real local JSON analysis of bedtime routine plan in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:49:00.191Z,@gitmyabi/robinvistatoken,1.0.0,gitmyabi-bot,Apache-2.0,68980,"Auto-generated TypeScript type bindings for RobinVistaToken (build etherscan-robinvistatoken-608d7025-1795153723658, commit 9d5e69d, branch etherscan)"
+2026-11-20T05:49:08.975Z,@mrfentmen/babysitting-bedtime-routine-plan-cost-mcp,1.0.0,mrfentmen,MIT,65810,"Real local JSON analysis of bedtime routine plan in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:49:09.71Z,@ezylab/ezy-plugin,0.0.0-stage,ezylabadmin,,340,Temporary package placeholder for staged publishing
+2026-11-20T05:49:24.876Z,@mrfentmen/babysitting-bedtime-routine-plan-sim-mcp,1.0.0,mrfentmen,MIT,65775,"Real local JSON analysis of bedtime routine plan in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:49:40.841Z,@mrfentmen/babysitting-bedtime-routine-plan-compare-mcp,1.0.0,mrfentmen,MIT,65845,"Real local JSON analysis of bedtime routine plan in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:49:58.342Z,@mrfentmen/babysitting-bedtime-routine-plan-track-mcp,1.0.0,mrfentmen,MIT,65859,"Real local JSON analysis of bedtime routine plan in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:50:04.337Z,@ohos-ports/expo-react-native-adapter,3.0.1-beta.0,louzen,MIT,130205,The adapter to use Expo universal modules with the React Native bridge
+2026-11-20T05:50:14.45Z,@mrfentmen/babysitting-emergency-card-fridge-check-mcp,1.0.0,mrfentmen,MIT,65864,"Real local JSON analysis of emergency card fridge in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:50:30.406Z,@mrfentmen/babysitting-emergency-card-fridge-plan-mcp,1.0.0,mrfentmen,MIT,65874,"Real local JSON analysis of emergency card fridge in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:50:46.707Z,@mrfentmen/babysitting-emergency-card-fridge-match-mcp,1.0.0,mrfentmen,MIT,65944,"Real local JSON analysis of emergency card fridge in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:51:04.1Z,@mrfentmen/babysitting-emergency-card-fridge-index-mcp,1.0.0,mrfentmen,MIT,65857,"Real local JSON analysis of emergency card fridge in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:51:20.793Z,@mrfentmen/babysitting-emergency-card-fridge-cost-mcp,1.0.0,mrfentmen,MIT,65885,"Real local JSON analysis of emergency card fridge in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:51:37.111Z,@mrfentmen/babysitting-emergency-card-fridge-sim-mcp,1.0.0,mrfentmen,MIT,65850,"Real local JSON analysis of emergency card fridge in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:51:54.055Z,@mrfentmen/babysitting-emergency-card-fridge-compare-mcp,1.0.0,mrfentmen,MIT,65920,"Real local JSON analysis of emergency card fridge in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:52:10.281Z,ninja-crm-mcp,1.0.0,itsleonid,MIT,210540,Model Context Protocol (MCP) server for Ninja CRM REST API v1
+2026-11-20T05:52:10.739Z,@mrfentmen/babysitting-emergency-card-fridge-track-mcp,1.0.0,mrfentmen,MIT,65934,"Real local JSON analysis of emergency card fridge in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:52:15.169Z,shsun-cli,0.1.0,bryansun,UNLICENSED,154930,Command line interface for VABS services (seller auth and payment links)
+2026-11-20T05:52:26.648Z,@mrfentmen/babysitting-activity-bag-pack-check-mcp,1.0.0,mrfentmen,MIT,65634,"Real local JSON analysis of activity bag pack in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:52:33.483Z,@famulex/cli-darwin-arm64,0.1.0,borodatych,UNLICENSED,24193196,Бинарник службы Famulex для macOS на Apple Silicon
+2026-11-20T05:52:43.415Z,@mrfentmen/babysitting-activity-bag-pack-plan-mcp,1.0.0,mrfentmen,MIT,65644,"Real local JSON analysis of activity bag pack in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:52:49.297Z,@famulex/cli-darwin-x64,0.1.0,borodatych,UNLICENSED,25473420,Бинарник службы Famulex для macOS на Intel
+2026-11-20T05:53:01.094Z,@mrfentmen/babysitting-activity-bag-pack-match-mcp,1.0.0,mrfentmen,MIT,65714,"Real local JSON analysis of activity bag pack in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:53:04.646Z,@famulex/cli-linux-x64,0.1.0,borodatych,UNLICENSED,22026648,Бинарник службы Famulex для Linux на x86_64
+2026-11-20T05:53:08.986Z,@famulex/cli,0.1.0,borodatych,UNLICENSED,7429,Служба Famulex: установка и управление службой из терминала
+2026-11-20T05:53:16.664Z,@mrfentmen/babysitting-activity-bag-pack-index-mcp,1.0.0,mrfentmen,MIT,65627,"Real local JSON analysis of activity bag pack in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:53:31.538Z,@mrfentmen/babysitting-activity-bag-pack-cost-mcp,1.0.0,mrfentmen,MIT,65655,"Real local JSON analysis of activity bag pack in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:53:44.321Z,dsh-memory-persona-affect,2.0.3,linxin1416,MIT,2570830,"Memory, persona and mood for DSH: hippocampus/cortex/prefrontal/amygdala memory, a six-organ affect curve, and a 50-mechanism persona. One bundle, four modules."
+2026-11-20T05:53:46.308Z,@mrfentmen/babysitting-activity-bag-pack-sim-mcp,1.0.0,mrfentmen,MIT,65620,"Real local JSON analysis of activity bag pack in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:53:52.554Z,@zainkhan-bit/contractguard,1.0.1,zainkhan-bit,MIT,62581,"Detect breaking changes between two versions of an OpenAPI contract, with clear explanations, CI-ready reports and SARIF."
+2026-11-20T05:54:01.309Z,@mrfentmen/babysitting-activity-bag-pack-compare-mcp,1.0.0,mrfentmen,MIT,65690,"Real local JSON analysis of activity bag pack in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:54:16.095Z,@mrfentmen/babysitting-activity-bag-pack-track-mcp,1.0.0,mrfentmen,MIT,65704,"Real local JSON analysis of activity bag pack in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:54:19.273Z,moodle-student-bridge,1.0.0,moststudiopro,MIT,131482,"MCP bridge for students: connect Claude to your Moodle courses, assignments, quizzes, files and grades using your own mobile-app token — no admin-issued API token needed."
+2026-11-20T05:54:21.428Z,nodmax-heartbeat,1.0.0,nodmax,UNLICENSED,4938,"The standard Nodmax heartbeat to Uptime Kuma (push monitors): up/down with reasons, never blocks, no dependencies."
+2026-11-20T05:54:25.661Z,@be-natif/core,0.1.0,adanjz,Apache-2.0,80550,"Platform-free core of Natif: model selection, schema-validated output, knowledge grounding, consented cloud fallback."
+2026-11-20T05:54:27.696Z,@be-natif/mcp,0.1.0,adanjz,Apache-2.0,63979,MCP server that helps AI coding assistants add on-device AI to apps with benatif.
+2026-11-20T05:54:29.876Z,@be-natif/react-native,0.1.0,adanjz,Apache-2.0,136214,"On-device AI for React Native apps: picks the right local model for each phone, runs it with llama.cpp, falls back to the cloud only with consent."
+2026-11-20T05:54:31.005Z,@mrfentmen/babysitting-parent-handoff-notes-check-mcp,1.0.0,mrfentmen,MIT,65779,"Real local JSON analysis of parent handoff notes in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:54:33.457Z,@be-natif/expo,0.1.0,adanjz,Apache-2.0,125889,"On-device AI for Expo apps: same API as natif and @be-natif/react-native, llama.cpp under the hood, resumable model downloads with expo-file-system. Needs a development build (not Expo Go)."
+2026-11-20T05:54:46.076Z,@mrfentmen/babysitting-parent-handoff-notes-plan-mcp,1.0.0,mrfentmen,MIT,65789,"Real local JSON analysis of parent handoff notes in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:55:02.223Z,@mrfentmen/babysitting-parent-handoff-notes-match-mcp,1.0.0,mrfentmen,MIT,65859,"Real local JSON analysis of parent handoff notes in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:55:17.017Z,@mrfentmen/babysitting-parent-handoff-notes-index-mcp,1.0.0,mrfentmen,MIT,65772,"Real local JSON analysis of parent handoff notes in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:55:26.912Z,yee-stack-core,0.5.0,ccyeesnow,MIT,24021,"Host-agnostic core of Yee Stack: wish prompts, ask policy, browser tab refs/snapshots, chrome-devtools-mcp connection planning, and the shared config schema."
+2026-11-20T05:55:36.649Z,@mrfentmen/babysitting-parent-handoff-notes-cost-mcp,1.0.0,mrfentmen,MIT,65800,"Real local JSON analysis of parent handoff notes in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:55:54.916Z,@mrfentmen/babysitting-parent-handoff-notes-sim-mcp,1.0.0,mrfentmen,MIT,65765,"Real local JSON analysis of parent handoff notes in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:56:12.621Z,@mrfentmen/babysitting-parent-handoff-notes-compare-mcp,1.0.0,mrfentmen,MIT,65835,"Real local JSON analysis of parent handoff notes in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:56:14.437Z,@openquantum-oss/oq-parse,1.3.0,kuhnboy,Apache-2.0,419298,OpenQASM 2.0 and 3.x parser in TypeScript.
+2026-11-20T05:56:27.947Z,@mokele-mbembe/js-bach,0.1.0,mokele-mbembe,GPL-3.0-only,41997214,Local browser player for J.S. Bach’s Well-Tempered Clavier
+2026-11-20T05:56:28.972Z,@mrfentmen/babysitting-parent-handoff-notes-track-mcp,1.0.0,mrfentmen,MIT,65849,"Real local JSON analysis of parent handoff notes in the Babysitting lane. 25 MCP tools, no paywall."
+2026-11-20T05:56:51.024Z,yee-stack-ask,0.5.0,ccyeesnow,MIT,20131,"Ask mode policy: which tools stay available, the prompt section, and the blocked-call reason."
+2026-11-20T05:56:58.545Z,@srobroek/harness-kit,1.1.0,srobroek,Apache-2.0,92273,"Shared build tooling for multi-harness agent plugin repos: generator, version stamping, Claude validation, presets and CI workflows."
+2026-11-20T05:57:05.755Z,@nocoo/workflow-sdk,0.1.0,nocoo,MIT,79004,TypeScript Workflow & Agent SDK with dual kernels: Antigravity (primary) and pure-TS Vercel AI SDK
+2026-11-20T05:57:07.274Z,@mrfentmen/tutoring-session-plan-60-check-mcp,1.0.0,mrfentmen,MIT,65193,"Real local JSON analysis of session plan 60 in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:57:24.362Z,@mrfentmen/tutoring-session-plan-60-plan-mcp,1.0.0,mrfentmen,MIT,65203,"Real local JSON analysis of session plan 60 in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:57:40.448Z,@mrfentmen/tutoring-session-plan-60-match-mcp,1.0.0,mrfentmen,MIT,65273,"Real local JSON analysis of session plan 60 in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:57:57.607Z,@mrfentmen/tutoring-session-plan-60-index-mcp,1.0.0,mrfentmen,MIT,65186,"Real local JSON analysis of session plan 60 in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:58:13.885Z,@mrfentmen/tutoring-session-plan-60-cost-mcp,1.0.0,mrfentmen,MIT,65214,"Real local JSON analysis of session plan 60 in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:58:28.622Z,team-a-app,1.0.0,nokinoki,,147,
+2026-11-20T05:58:30.228Z,@mrfentmen/tutoring-session-plan-60-sim-mcp,1.0.0,mrfentmen,MIT,65179,"Real local JSON analysis of session plan 60 in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:58:46.135Z,@mrfentmen/tutoring-session-plan-60-compare-mcp,1.0.0,mrfentmen,MIT,65249,"Real local JSON analysis of session plan 60 in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:59:03.927Z,@mrfentmen/tutoring-session-plan-60-track-mcp,1.0.0,mrfentmen,MIT,65263,"Real local JSON analysis of session plan 60 in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:59:19.938Z,@mrfentmen/tutoring-phonics-drill-deck-check-mcp,1.0.0,mrfentmen,MIT,65358,"Real local JSON analysis of phonics drill deck in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:59:33.588Z,yee-stack-wish,0.5.0,ccyeesnow,MIT,12706,"Wish Specializer: tiers, system prompt, supplement cleanup, command parsing."
+2026-11-20T05:59:36.102Z,@mrfentmen/tutoring-phonics-drill-deck-plan-mcp,1.0.0,mrfentmen,MIT,65368,"Real local JSON analysis of phonics drill deck in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T05:59:53.497Z,@mrfentmen/tutoring-phonics-drill-deck-match-mcp,1.0.0,mrfentmen,MIT,65438,"Real local JSON analysis of phonics drill deck in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:00:09.192Z,@ccyeesnow/yee-probe,0.0.1,ccyeesnow,MIT,94,probe
+2026-11-20T06:00:09.978Z,@gitmyabi/pola,1.0.0,gitmyabi-bot,Apache-2.0,158362,"Auto-generated TypeScript type bindings for POLA (build etherscan-pola-c691bc29-1795154389578, commit 1e26fb4, branch etherscan)"
+2026-11-20T06:00:12.236Z,@mrfentmen/tutoring-phonics-drill-deck-index-mcp,1.0.0,mrfentmen,MIT,65351,"Real local JSON analysis of phonics drill deck in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:00:12.355Z,wheelfitmentdb-mcp,1.0.0,double2dev,MIT,33642,"MCP Server for automotive wheel fitment engineering calculators (offset, backspacing, PCD, hub rings) & OEM-verified vehicle lookup by WheelFitmentDB."
+2026-11-20T06:00:12.545Z,@sysce/estrogen-wasm,0.1.0,e9x,ISC,844555,"The estrogen obfuscator compiled to WebAssembly. Raises the cost of reading JavaScript, not secrecy: a decoder key ships in each file."
+2026-11-20T06:00:28.883Z,@mrfentmen/tutoring-phonics-drill-deck-cost-mcp,1.0.0,mrfentmen,MIT,65379,"Real local JSON analysis of phonics drill deck in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:00:44.974Z,@mrfentmen/tutoring-phonics-drill-deck-sim-mcp,1.0.0,mrfentmen,MIT,65344,"Real local JSON analysis of phonics drill deck in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:01:03.072Z,@mrfentmen/tutoring-phonics-drill-deck-compare-mcp,1.0.0,mrfentmen,MIT,65414,"Real local JSON analysis of phonics drill deck in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:01:19.438Z,@mrfentmen/tutoring-phonics-drill-deck-track-mcp,1.0.0,mrfentmen,MIT,65428,"Real local JSON analysis of phonics drill deck in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:01:35.907Z,@mrfentmen/tutoring-times-table-sprints-check-mcp,1.0.0,mrfentmen,MIT,65393,"Real local JSON analysis of times table sprints in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:01:53.483Z,@mrfentmen/tutoring-times-table-sprints-plan-mcp,1.0.0,mrfentmen,MIT,65403,"Real local JSON analysis of times table sprints in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:02:09.415Z,@mrfentmen/tutoring-times-table-sprints-match-mcp,1.0.0,mrfentmen,MIT,65473,"Real local JSON analysis of times table sprints in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:02:10.355Z,dsh-shell-plugin,0.0.1,xfy2412,MIT,2595,"A no-op DSH bundle shell for profile, install, and release tests."
+2026-11-20T06:02:25.562Z,@mrfentmen/tutoring-times-table-sprints-index-mcp,1.0.0,mrfentmen,MIT,65386,"Real local JSON analysis of times table sprints in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:02:42.283Z,@mrfentmen/tutoring-times-table-sprints-cost-mcp,1.0.0,mrfentmen,MIT,65414,"Real local JSON analysis of times table sprints in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:03:00.025Z,@mrfentmen/tutoring-times-table-sprints-sim-mcp,1.0.0,mrfentmen,MIT,65379,"Real local JSON analysis of times table sprints in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:03:11.79Z,dsh-thetwo,0.1.0,yuridai,,202037,TheTwo — 同一份会话。DeepSeek Harness 多设备局域网会话同步插件。
+2026-11-20T06:03:16.637Z,@mrfentmen/tutoring-times-table-sprints-compare-mcp,1.0.0,mrfentmen,MIT,65449,"Real local JSON analysis of times table sprints in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:03:22.135Z,@meijie/react-fireworks,0.1.1,meijie,MIT,14969,"Canvas fireworks component for React, with configurable particles, colors, shapes, multi-burst, looping and realistic launch physics."
+2026-11-20T06:03:33.446Z,@mrfentmen/tutoring-times-table-sprints-track-mcp,1.0.0,mrfentmen,MIT,65463,"Real local JSON analysis of times table sprints in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:03:46.943Z,yee-stack-browser,0.5.0,ccyeesnow,MIT,68088,"Browser control plumbing: $tN tab refs, list_pages parsing, snapshot diffs, chrome-devtools-mcp connection planning."
+2026-11-20T06:03:49.731Z,yee-stack-dsh,0.5.0,ccyeesnow,MIT,132539,"Yee Stack for DeepSeek Harness: Wish Specializer (/wish), read-only Ask mode (/ask), and Chrome control through chrome-devtools-mcp (/browser)."
+2026-11-20T06:03:49.93Z,@mrfentmen/tutoring-test-prep-countdown-check-mcp,1.0.0,mrfentmen,MIT,65383,"Real local JSON analysis of test prep countdown in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:03:51.249Z,lincore-cli,0.1.0,lincore,MIT,76416,面向任务的无影灵构工作站 CLI：管理机器、镜像、应用与核心小时
+2026-11-20T06:03:52.943Z,pi-yee-stack,0.5.0,ccyeesnow,MIT,163833,"A small stack of extensions for Pi: Wish Specializer (/wish), read-only Q&A Ask mode (/ask), browser control with $tN tabs (/browser), and a tabbed /yee-config page."
+2026-11-20T06:04:03.587Z,dsh-browser-x,0.38.8,wilming,MIT,996575,dsh 浏览器扩展（全平台）的桌面端一半：把浏览器扩展连到 dsh，提供 browser_* 工具，并在需要时替你识别页面上的图片。这是它的全部配置项。
+2026-11-20T06:04:05.978Z,@mrfentmen/tutoring-test-prep-countdown-plan-mcp,1.0.0,mrfentmen,MIT,65393,"Real local JSON analysis of test prep countdown in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:04:22.035Z,@mrfentmen/tutoring-test-prep-countdown-match-mcp,1.0.0,mrfentmen,MIT,65463,"Real local JSON analysis of test prep countdown in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:04:27.465Z,solana-agent-kit-x402bazaar,0.1.0,sukrutkrdg,MIT,6141,Solana Agent Kit (SendAI) plugin for x402 Bazaar — pre-trade SPL token-verdict (SAFE/CAUTION/AVOID) for any Solana token.
+2026-11-20T06:04:38.024Z,@mrfentmen/tutoring-test-prep-countdown-index-mcp,1.0.0,mrfentmen,MIT,65376,"Real local JSON analysis of test prep countdown in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:04:55.103Z,@mrfentmen/tutoring-test-prep-countdown-cost-mcp,1.0.0,mrfentmen,MIT,65404,"Real local JSON analysis of test prep countdown in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:05:11.438Z,@mrfentmen/tutoring-test-prep-countdown-sim-mcp,1.0.0,mrfentmen,MIT,65369,"Real local JSON analysis of test prep countdown in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:05:27.709Z,@mrfentmen/tutoring-test-prep-countdown-compare-mcp,1.0.0,mrfentmen,MIT,65439,"Real local JSON analysis of test prep countdown in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:05:44.345Z,@mrfentmen/tutoring-test-prep-countdown-track-mcp,1.0.0,mrfentmen,MIT,65453,"Real local JSON analysis of test prep countdown in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:06:02.435Z,@mrfentmen/tutoring-progress-notes-share-check-mcp,1.0.0,mrfentmen,MIT,65478,"Real local JSON analysis of progress notes share in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:06:18.766Z,@mrfentmen/tutoring-progress-notes-share-plan-mcp,1.0.0,mrfentmen,MIT,65488,"Real local JSON analysis of progress notes share in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:06:35.178Z,@mrfentmen/tutoring-progress-notes-share-match-mcp,1.0.0,mrfentmen,MIT,65558,"Real local JSON analysis of progress notes share in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:06:52.455Z,@mrfentmen/tutoring-progress-notes-share-index-mcp,1.0.0,mrfentmen,MIT,65471,"Real local JSON analysis of progress notes share in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:07:09.304Z,@mrfentmen/tutoring-progress-notes-share-cost-mcp,1.0.0,mrfentmen,MIT,65499,"Real local JSON analysis of progress notes share in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:07:09.941Z,@konjir/kolab,0.0.1,icedlee337,Apache-2.0,228,Reserved for the Kolab CLI. The first release is 0.9.0.
+2026-11-20T06:07:14.994Z,@aida.gg/init,0.1.0,algefalmocera,MIT,52288,"One command that connects your own coding agent (Claude Code first; Codex, Cursor, Gemini CLI, Antigravity) to AIDA over MCP from a local checkout."
+2026-11-20T06:07:25.368Z,@mrfentmen/tutoring-progress-notes-share-sim-mcp,1.0.0,mrfentmen,MIT,65464,"Real local JSON analysis of progress notes share in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:07:41.748Z,@mrfentmen/tutoring-progress-notes-share-compare-mcp,1.0.0,mrfentmen,MIT,65534,"Real local JSON analysis of progress notes share in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:07:52.176Z,@soffits/dsh-channel-core,0.1.0,soffits,MIT,29881,"Shared core for DeepSeek Harness chat bridges: the final answer of a turn and the silent marker, session model selection from the Web catalog, voice transcription, and the sender principal recorded o…"
+2026-11-20T06:07:59.438Z,@mrfentmen/tutoring-progress-notes-share-track-mcp,1.0.0,mrfentmen,MIT,65548,"Real local JSON analysis of progress notes share in the Tutoring lane. 25 MCP tools, no paywall."
+2026-11-20T06:08:04.427Z,dsh-wakatime,1.1.0,wujiaojue,MIT,225877,WakaTime heartbeat reporting for DeepSeek Harness
+2026-11-20T06:08:16.362Z,@mrfentmen/carseats-install-angle-check-check-mcp,1.0.0,mrfentmen,MIT,65428,"Real local JSON analysis of install angle check in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:08:18.377Z,@glslop/core,0.1.0,kylegrover,CC0-1.0,406672,"glslop's ISF shader engine: parser, WebGL2 runtime, compile-cost estimator, feature extraction, video export. Framework-free, browser and worker safe."
+2026-11-20T06:08:21.046Z,@glslop/ui,0.1.0,kylegrover,CC0-1.0,37241,"glslop's shared Svelte 5 components (ISF code editor, video export) and its brutalist stylesheet."
+2026-11-20T06:08:27.333Z,dsh-misread-mind,2.0.4,dsh-misread-mind,,60832,误读 → 情绪 → 心口不一。给 DSH 角色加一层会自己长、也会自己推翻的人生方向（2.0：语气→反应→主题→方向四层）。
+2026-11-20T06:08:32.823Z,@mrfentmen/carseats-install-angle-check-plan-mcp,1.0.0,mrfentmen,MIT,65438,"Real local JSON analysis of install angle check in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:08:43.898Z,@seedcord/plugin-oauth,0.0.0,materwelondhruv,Apache-2.0,15133,Log people in with Discord from a seedcord bot and call the API as them
+2026-11-20T06:08:49.353Z,@mrfentmen/carseats-install-angle-check-match-mcp,1.0.0,mrfentmen,MIT,65508,"Real local JSON analysis of install angle check in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:09:06.236Z,@mrfentmen/carseats-install-angle-check-index-mcp,1.0.0,mrfentmen,MIT,65421,"Real local JSON analysis of install angle check in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:09:22.079Z,@mrfentmen/carseats-install-angle-check-cost-mcp,1.0.0,mrfentmen,MIT,65449,"Real local JSON analysis of install angle check in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:09:26.326Z,@augstash/mcp,0.1.0,augstash-admin,Apache-2.0,596463,"Model Context Protocol server for Augstash - the whole API as tools, in toolsets you choose, for Claude, ChatGPT, Cursor and any MCP client"
+2026-11-20T06:09:37.955Z,@mrfentmen/carseats-install-angle-check-sim-mcp,1.0.0,mrfentmen,MIT,65414,"Real local JSON analysis of install angle check in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:09:38.324Z,sauna-icon-font,1.0.0,divelux,(MIT AND CC-BY-4.0),287693,"Sauna and banya icons as an icon font (woff2 + CSS classes) and a dependency-free <sauna-icon> web component. 36 icons: sauna hat, stove, whisk, bucket, steam, cold plunge and more."
+2026-11-20T06:09:55.624Z,@mrfentmen/carseats-install-angle-check-compare-mcp,1.0.0,mrfentmen,MIT,65484,"Real local JSON analysis of install angle check in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:10:12.01Z,@mrfentmen/carseats-install-angle-check-track-mcp,1.0.0,mrfentmen,MIT,65498,"Real local JSON analysis of install angle check in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:10:28.552Z,@mrfentmen/carseats-fit-by-age-stage-check-mcp,1.0.0,mrfentmen,MIT,65230,"Real local JSON analysis of fit by age stage in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:10:44.366Z,@mrfentmen/carseats-fit-by-age-stage-plan-mcp,1.0.0,mrfentmen,MIT,65240,"Real local JSON analysis of fit by age stage in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:11:02.877Z,@foxsell/cli,0.1.0,dhanush05,MIT,10367,Foxsell CLI
+2026-11-20T06:11:08.235Z,adoor,0.1.0,linuslofgren,MIT,288724,"ADoor command line: sign in, manage access, and sync shared files."
+2026-11-20T06:11:50.821Z,@nexinsight_ua/react-native,0.1.0,nexinsight,MIT,14963729,NexInsight event tracking SDK for React Native
+2026-11-20T06:12:01.509Z,dsh-smart-model-failover,0.1.0,cheng.,MIT,44552,"DeepSeek Harness plugin: when a model request fails, automatically switch to the next routable model discovered from every configured provider (and every externally connected one, e.g. WorkBuddy), th…"
+2026-11-20T06:12:13.814Z,@mrfentmen/carseats-fit-by-age-stage-match-mcp,1.0.0,mrfentmen,MIT,65310,"Real local JSON analysis of fit by age stage in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:12:30.463Z,@mrfentmen/carseats-fit-by-age-stage-index-mcp,1.0.0,mrfentmen,MIT,65223,"Real local JSON analysis of fit by age stage in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:12:44.172Z,@focus-daima/gis-workbench,0.9.9,yinchuanqi314159,UNLICENSED,2167484,"MapLibre GIS workbench with PostGIS registration, semantic vector styling, GPKG import, COG rasters, and resumable uploads."
+2026-11-20T06:12:46.329Z,@mrfentmen/carseats-fit-by-age-stage-cost-mcp,1.0.0,mrfentmen,MIT,65251,"Real local JSON analysis of fit by age stage in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:13:03.887Z,@mrfentmen/carseats-fit-by-age-stage-sim-mcp,1.0.0,mrfentmen,MIT,65216,"Real local JSON analysis of fit by age stage in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:13:14.671Z,n8n-nodes-birinchishop,0.1.0,anvar78456,MIT,279042,"n8n community node for the Birinchi Shop Partner API (COD CPA affiliate network, Uzbekistan): offers, tracking links, orders, stats, events and signed webhooks."
+2026-11-20T06:13:35.536Z,@mrfentmen/carseats-fit-by-age-stage-compare-mcp,1.0.0,mrfentmen,MIT,65286,"Real local JSON analysis of fit by age stage in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:13:38.617Z,@lyra_wang/dsh-pending-queue,0.1.0,lyra_wang,MIT,42084,"Right-sidebar draft queue for DeepSeek Harness: jot ideas down, then push one into the session when the previous task is finished."
+2026-11-20T06:13:38.975Z,@gorth-com/primitive,0.0.0-alpha.10,goraria,GORTH,9363148,"React UI components, Tailwind CSS themes, layouts, hooks, and TanStack integrations for the gorth-io ecosystem."
+2026-11-20T06:13:49.549Z,@gorth-com/principle,0.0.0-alpha.10,goraria,GORTH,144479,"Configurable Hono middleware and server integrations for HTTP APIs, JOSE, email, and OTP in the gorth-io ecosystem."
+2026-11-20T06:13:57.095Z,@mrfentmen/carseats-fit-by-age-stage-track-mcp,1.0.0,mrfentmen,MIT,65300,"Real local JSON analysis of fit by age stage in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:14:34.425Z,@mrfentmen/carseats-travel-seat-pick-plan-mcp,1.0.0,mrfentmen,MIT,65263,"Real local JSON analysis of travel seat pick in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:14:55.329Z,@mrfentmen/carseats-travel-seat-pick-match-mcp,1.0.0,mrfentmen,MIT,65333,"Real local JSON analysis of travel seat pick in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:15:05.875Z,maidsh-mood,0.1.0,robinfxa,MIT,21158,MaiDSH·心情：AI 角色有会起伏、会慢慢平复的心情，单独可用
+2026-11-20T06:15:34.782Z,midnight-shield,0.4.0,efforthye,MIT,199696,Static analyzer for Midnight Compact contracts and their TypeScript code. Finds security and privacy issues before deploy.
+2026-11-20T06:15:52.404Z,@mrfentmen/carseats-travel-seat-pick-sim-mcp,1.0.0,mrfentmen,MIT,65239,"Real local JSON analysis of travel seat pick in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:16:00.78Z,maidsh-bond,0.1.0,robinfxa,MIT,21227,MaiDSH·羁绊：和你之间的好感度，六个档位，有人味地变化，单独可用
+2026-11-20T06:16:03.513Z,maidsh-core,0.1.0,robinfxa,MIT,26472,MaiDSH·总控：把心情、羁绊等「面」（含第三方）组织起来，每轮只调一次模型、统一注入
+2026-11-20T06:16:12.453Z,@mrfentmen/carseats-travel-seat-pick-compare-mcp,1.0.0,mrfentmen,MIT,65309,"Real local JSON analysis of travel seat pick in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:16:31.361Z,@mrfentmen/carseats-travel-seat-pick-track-mcp,0.0.0-stage,mrfentmen,,368,Temporary package placeholder for staged publishing
+2026-11-20T06:16:52.192Z,@mrfentmen/carseats-second-hand-screen-check-mcp,1.0.0,mrfentmen,MIT,65363,"Real local JSON analysis of second hand screen in the Car Seats lane. 25 MCP tools, no paywall."
+2026-11-20T06:16:56.522Z,nestjs-better-auth-adapter,0.0.0-stage,manuel-antunes,,348,Temporary package placeholder for staged publishing
+2026-11-20T06:17:07.729Z,@ohos-ports/ffi-rs,0.0.0-stage,louzen,,340,Temporary package placeholder for staged publishing
+2026-11-20T06:17:11.064Z,@mrfentmen/carseats-second-hand-screen-plan-mcp,0.0.0-stage,mrfentmen,,369,Temporary package placeholder for staged publishing
+2026-11-20T06:17:28.906Z,local-board,0.0.0-stage,iolivares.com,,333,Temporary package placeholder for staged publishing
+2026-11-20T06:17:49.367Z,@mrfentmen/carseats-second-hand-screen-index-mcp,0.0.0-stage,mrfentmen,,370,Temporary package placeholder for staged publishing
+2026-11-20T06:18:19.194Z,@consilium108/mcp-module-devops,0.0.0-stage,dodonov,,353,Temporary package placeholder for staged publishing
+2026-11-20T06:18:32.896Z,@consilium108/mcp-module-experts,0.0.0-stage,dodonov,,354,Temporary package placeholder for staged publishing
+2026-11-20T06:18:39.404Z,@astrafoundry/design,0.0.0-stage,stvlynn,,342,Temporary package placeholder for staged publishing

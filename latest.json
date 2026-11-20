@@ -1,168 +1,83 @@
 {
   "list": {
-    "count": 401,
-    "from": "2026-11-20T04:18:50.895687Z",
-    "path": "data/new-packages-2026-11-20T05-21-15-788218Z.csv",
-    "to": "2026-11-20T05:21:15.788218Z"
+    "count": 355,
+    "from": "2026-11-20T05:21:15.788218Z",
+    "path": "data/new-packages-2026-11-20T06-18-46-992888Z.csv",
+    "to": "2026-11-20T06:18:46.992888Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@acryldev/command-reply",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@cat-team/create-app",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/db-pglite",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@consilium108/mcp-module-developer",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/feedback",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@consilium108/mcp-module-job-finder",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/harness-runtime",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@consilium108/mcp-module-task-tracker",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/home",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@flizzywine/dsh-tavern",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/inspect",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@gorth-com/structure",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/kv",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@mrfentmen/carseats-second-hand-screen-compare-mcp",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/kv-db",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@mrfentmen/carseats-second-hand-screen-cost-mcp",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/kv-json",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@mrfentmen/carseats-second-hand-screen-match-mcp",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/launcher-desktop",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@mrfentmen/carseats-second-hand-screen-sim-mcp",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/manifest",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@mrfentmen/carseats-travel-seat-pick-check-mcp",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/mount-anchors",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@mrfentmen/carseats-travel-seat-pick-cost-mcp",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/openai",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@mrfentmen/carseats-travel-seat-pick-index-mcp",
+      "since": "2026-11-20T05:21:15.788218Z"
     },
     {
       "attempts": 1,
-      "package": "@acryldev/page",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@acryldev/plugin-context",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@acryldev/plugin-hub",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@acryldev/plugin-share",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@acryldev/router-http",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@acryldev/sandbox",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@acryldev/web-server",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@immit/dictionary",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@mrfentmen/resumes-cover-note-draft-compare-mcp",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@mrfentmen/resumes-cover-note-draft-plan-mcp",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@mrfentmen/resumes-portfolio-link-audit-index-mcp",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@mrfentmen/resumes-portfolio-link-audit-match-mcp",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@mrfentmen/resumes-portfolio-link-audit-sim-mcp",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@mrfentmen/resumes-portfolio-link-audit-track-mcp",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@mrfentmen/resumes-reference-list-ready-plan-mcp",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@rdxheree/top.gg-voter",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@traceai/sagemaker",
-      "since": "2026-11-20T04:18:50.895687Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@weiqun789/plugin-sdk",
-      "since": "2026-11-20T04:18:50.895687Z"
+      "package": "@zotlit/reader-plugin",
+      "since": "2026-11-20T05:21:15.788218Z"
     }
   ],
-  "seq": 146240609,
+  "seq": 146248053,
   "source_truncated": false,
-  "window": "2026-11-20T05:21:15.788218Z"
+  "window": "2026-11-20T06:18:46.992888Z"
 }
