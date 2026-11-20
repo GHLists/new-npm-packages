@@ -1,0 +1,255 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-20T10:16:26.723Z,@ohos-ports/glob-fs-gitignore,0.1.6-beta.1,louzen,MIT,6516,glob-fs middleware for automatically ignoring files specified in `.gitignore`
+2026-11-20T10:17:00.646Z,@ohos-ports/glob-fs,0.1.7-beta.1,louzen,MIT,51727,file globbing for node.js. speedy and powerful alternative to node-glob.
+2026-11-20T10:18:50.702Z,@netizen-labs/miniapp-verify,0.1.0,maxbrych,MIT,112608,"Server-side verification for Netizen mini apps: user tokens, account signatures, sign-in tokens and on-chain credential reads."
+2026-11-20T10:20:04.345Z,@yefengr/steward,0.1.0,yefengr,,60977,Pi Steward macOS launcher and task extension
+2026-11-20T10:20:15.658Z,@gui-chat-plugin/avatarscript,0.6.0,snakajima,MIT,19782,"GUI Chat Protocol plugin for AvatarScript: the manageAvatarScript tool (an avatar that sings a JingleScript song or says a script), with a video view."
+2026-11-20T10:21:03.613Z,@ohos-ports/google-cdn,1.1.0-beta.1,louzen,BSD-3-Clause,12873,Replaces references to resources on the Google CDN
+2026-11-20T10:21:12.68Z,express-dev-simulator,1.0.0,aastha050,MIT,8484,Lightweight Express middleware to simulate network latency and failures for local development.
+2026-11-20T10:21:29.947Z,@cloud-ru/uikit-product-site-reveal-section,1.0.1-preview-e06ff26a.0,cloud-ru-tech,Apache-2.0,50182,Configurable scroll reveal animation for individual sections and groups
+2026-11-20T10:21:42.629Z,@louvain/ui,1.0.0,scotty595,Apache-2.0,372177,"Louvain's look: the colour tokens, the one button, the logo, louvain.ai's header and footer, and the shared theme choice."
+2026-11-20T10:23:43.034Z,dsh-opendesign-runway,1.0.3,saltfish060,MIT,161658,在 DSH 输入框旁显示 OpenDesign 套餐额度和钱包余额：两个额度窗口、重置时间、按当前速率推算会不会在重置前用完，以及最近两次调用的模型和时间。
+2026-11-20T10:26:05.976Z,@zuke-build/core,1.83.0,totollygeek,MIT,2464061,"Core of Zuke: a code-first, strongly-typed build-automation library for Deno & TypeScript with a typed target graph and an injection-free shell."
+2026-11-20T10:26:09.961Z,@cloudexp-io/laudro-sdk,0.4.0,cloudexp,MIT,142196,"Typed client for the Laudro /v1 API: framework-free core, a Next.js entry and a browser-safe forms entry."
+2026-11-20T10:26:10.134Z,@zuke-build/deno,1.5.0,totollygeek,MIT,333537,"Typed deno CLI task wrappers for Zuke builds — run, serve, test, bench, check, fmt, lint, doc, compile, info, add, outdated, publish, pack and the rest of the CLI via an injection-free settings-lambd…"
+2026-11-20T10:26:12.368Z,@cloudexp-io/laudro-site-kit,0.4.0,cloudexp,MIT,109800,"Logic and route handlers for restaurant sites on Next.js: hours, menus, lunch, pages, forms, JSON-LD, sitemap, llms.txt, revalidate. No components, no CSS."
+2026-11-20T10:26:14.346Z,@zuke-build/docs,1.0.1,totollygeek,MIT,32216,"Typed Zuke tasks that render already-generated API docs (e.g. `deno doc` output) into an llms.txt index, an llms-full.txt reference, and per-package README API blocks — plus a check task to gate them…"
+2026-11-20T10:26:19.092Z,@zuke-build/npm,1.3.1,totollygeek,MIT,158391,"Typed npm CLI task wrappers for Zuke builds — install, ci, run, exec, publish, and version via an injection-free settings-lambda API."
+2026-11-20T10:26:22.724Z,@zuke-build/npx,1.1.0,totollygeek,MIT,9807,Typed npx package-runner task wrappers for Zuke builds — download and execute package binaries via an injection-free settings-lambda API.
+2026-11-20T10:26:26.523Z,@zuke-build/bun,1.3.0,totollygeek,MIT,22525,"Typed bun CLI task wrappers for Zuke builds — install, add, remove, run, x, and test via an injection-free settings-lambda API."
+2026-11-20T10:26:30.316Z,@zuke-build/pnpm,1.2.0,totollygeek,MIT,21731,"Typed pnpm CLI task wrappers for Zuke builds — install, add, remove, run, dlx, and publish via an injection-free settings-lambda API."
+2026-11-20T10:26:34.086Z,@zuke-build/yarn,1.2.0,totollygeek,MIT,18233,"Typed yarn CLI task wrappers for Zuke builds — install, add, remove, run, and dlx via an injection-free settings-lambda API."
+2026-11-20T10:26:37.655Z,@zuke-build/cmd,1.0.1,totollygeek,MIT,7782,"Generic command task wrapper for Zuke builds — run any CLI tool through a typed, injection-free settings-lambda API."
+2026-11-20T10:26:40.933Z,@zuke-build/console,1.5.0,totollygeek,MIT,42261,"Task-shaped console output for Zuke builds — a levelled logger, inline style markup with a semantic theme, and line/box/table primitives, so builds never reach for console.log."
+2026-11-20T10:26:45.323Z,@zuke-build/docker,1.1.1,totollygeek,MIT,171956,"Typed docker CLI task wrappers for Zuke builds — build, run, exec, push, pull, tag, login, images, ps, and more via an injection-free settings-lambda API."
+2026-11-20T10:26:50.114Z,@zuke-build/docker-compose,1.3.1,totollygeek,MIT,253081,"Typed Docker Compose task wrappers for Zuke builds — auto-detects `docker compose` (v2) vs `docker-compose` (v1); up, down, create, wait, scale, cp, port, logs, ps and the rest of the CLI, with reade…"
+2026-11-20T10:26:56.627Z,@zuke-build/kubectl,1.2.1,totollygeek,MIT,267298,"Typed kubectl CLI task wrappers for Zuke builds — apply, create, delete, get, describe, logs, exec, rollout, scale, set image, patch, port-forward, wait, and top via an injection-free settings-lambda…"
+2026-11-20T10:27:00.583Z,@zuke-build/helm,1.1.1,totollygeek,MIT,137758,"Typed Helm CLI task wrappers for Zuke builds — install, upgrade, uninstall, template, lint, dependency update, repo add, and package via an injection-free settings-lambda API."
+2026-11-20T10:27:03.761Z,@zuke-build/kustomize,1.0.1,totollygeek,MIT,11229,Typed Kustomize CLI task wrappers for Zuke builds — build and edit set image via an injection-free settings-lambda API.
+2026-11-20T10:27:07.9Z,@zuke-build/argo-rollouts,1.1.0,totollygeek,MIT,53931,"Typed Argo Rollouts (kubectl argo rollouts) task wrappers for Zuke builds — set image, promote, abort, status and more via an injection-free settings-lambda API."
+2026-11-20T10:27:12.051Z,@zuke-build/oxlint,1.1.0,totollygeek,MIT,16510,Typed oxlint task wrappers for Zuke builds — fast Rust-based linting via an injection-free settings-lambda API.
+2026-11-20T10:27:15.682Z,@zuke-build/eslint,1.1.0,totollygeek,MIT,16967,"Typed eslint task wrappers for Zuke builds — lint, fix, caching, and reporters via an injection-free settings-lambda API."
+2026-11-20T10:27:19.586Z,@zuke-build/cspell,1.2.0,totollygeek,MIT,17547,Typed cspell task wrappers for Zuke builds — spell-check files and globs via an injection-free settings-lambda API.
+2026-11-20T10:27:30.625Z,@zuke-build/shellcheck,1.1.0,totollygeek,MIT,16446,"Typed ShellCheck task wrappers for Zuke builds — lint shell scripts with dialect, severity, format, and exclusion flags via an injection-free settings-lambda API."
+2026-11-20T10:27:34.221Z,@zuke-build/jest,1.1.0,totollygeek,MIT,17265,"Typed jest task wrappers for Zuke builds — coverage, CI mode, workers, snapshots, and reporters via an injection-free settings-lambda API."
+2026-11-20T10:27:39.721Z,@zuke-build/vitest,1.1.0,totollygeek,MIT,19548,"Typed vitest task wrappers for Zuke builds — one-shot run by default, plus coverage, reporters, and watch mode via an injection-free settings-lambda API."
+2026-11-20T10:27:43.957Z,@zuke-build/playwright,1.2.0,totollygeek,MIT,20350,"Typed Playwright CLI task wrappers for Zuke builds — test, install (browsers), show-report, and codegen via an injection-free settings-lambda API."
+2026-11-20T10:27:47.288Z,@inebhedj/ih-cgh,3.0.0,inebhedj-cjvt,ISC,36358,"Shared git hooks for ticket-based workflows (JIRA-style keys by default, configurable): ticket prefix in commit messages, branch name check, protected branches"
+2026-11-20T10:27:47.733Z,@zuke-build/cypress,1.1.0,totollygeek,MIT,19623,"Typed Cypress CLI task wrappers for Zuke builds — run, open, install, verify, and info via an injection-free settings-lambda API."
+2026-11-20T10:27:52.051Z,@zuke-build/biome,1.1.0,totollygeek,MIT,17953,"Typed Biome CLI task wrappers for Zuke builds — check, format, lint, and ci via an injection-free settings-lambda API."
+2026-11-20T10:27:55.537Z,@zuke-build/knip,1.1.0,totollygeek,MIT,12920,"Typed Knip CLI task wrapper for Zuke builds — find unused files, dependencies, and exports via an injection-free settings-lambda API."
+2026-11-20T10:27:59.887Z,@zuke-build/dpdm,1.1.0,totollygeek,MIT,18013,Typed dpdm CLI task wrapper for Zuke builds — analyze module dependency graphs and circular imports via an injection-free settings-lambda API.
+2026-11-20T10:28:03.694Z,@zuke-build/jsr,1.0.2,totollygeek,MIT,19174,"Typed JSR CLI task wrappers for Zuke builds — publish, add, and remove via an injection-free settings-lambda API."
+2026-11-20T10:28:07.231Z,@zuke-build/vite,1.1.0,totollygeek,MIT,16654,"Typed Vite CLI task wrappers for Zuke builds — dev, build, and preview via an injection-free settings-lambda API."
+2026-11-20T10:28:12.041Z,@zuke-build/storybook,1.0.0,totollygeek,MIT,13179,Typed Storybook CLI task wrappers for Zuke builds — dev server and static build via an injection-free settings-lambda API.
+2026-11-20T10:28:15.721Z,@zuke-build/redocly,1.0.0,totollygeek,MIT,16703,"Typed Redocly CLI task wrappers for Zuke builds — lint, bundle, and split OpenAPI descriptions via an injection-free settings-lambda API."
+2026-11-20T10:28:16.393Z,@open-agent-docs/server-darwin-arm64,0.3.0,kadaliao,MIT,29156948,@open-agent-docs/server 的 darwin-arm64 原生模块（不用直接装，装 @open-agent-docs/server 会自动带上）
+2026-11-20T10:28:19.62Z,@zuke-build/lint-staged,1.0.0,totollygeek,MIT,11796,Typed lint-staged task wrapper for Zuke builds — run linters over the staged files (or a diff) via an injection-free settings-lambda API.
+2026-11-20T10:28:23.599Z,@zuke-build/tsup,1.0.1,totollygeek,MIT,11758,"Typed tsup CLI task wrapper for Zuke builds — bundle TypeScript/JavaScript with formats, dts, minify, and more via an injection-free settings-lambda API."
+2026-11-20T10:28:23.912Z,@open-agent-docs/server-darwin-x64,0.3.0,kadaliao,MIT,31376086,@open-agent-docs/server 的 darwin-x64 原生模块（不用直接装，装 @open-agent-docs/server 会自动带上）
+2026-11-20T10:28:27.298Z,@zuke-build/turbo,1.0.1,totollygeek,MIT,13396,Typed Turborepo CLI task wrappers for Zuke builds — run and prune via an injection-free settings-lambda API.
+2026-11-20T10:28:30.108Z,@open-agent-docs/server-linux-arm64,0.3.0,kadaliao,MIT,30189222,@open-agent-docs/server 的 linux-arm64 原生模块（不用直接装，装 @open-agent-docs/server 会自动带上）
+2026-11-20T10:28:31.044Z,@zuke-build/nx,1.0.1,totollygeek,MIT,14584,"Typed Nx CLI task wrappers for Zuke builds — run, run-many, and affected via an injection-free settings-lambda API."
+2026-11-20T10:28:34.607Z,@zuke-build/tsx,1.0.1,totollygeek,MIT,14886,"Typed tsx task wrappers for Zuke builds — run TypeScript entry points directly, with watch mode, tsconfig, and preload support via an injection-free settings-lambda API."
+2026-11-20T10:28:36.552Z,@open-agent-docs/server-linux-x64,0.3.0,kadaliao,MIT,33372448,@open-agent-docs/server 的 linux-x64 原生模块（不用直接装，装 @open-agent-docs/server 会自动带上）
+2026-11-20T10:28:38.221Z,@zuke-build/tsc,1.1.0,totollygeek,MIT,23233,"Typed tsc task wrappers for Zuke builds — type-check, compile, and run project-reference builds with the TypeScript compiler via an injection-free settings-lambda API."
+2026-11-20T10:28:40.702Z,@open-agent-docs/client,0.3.0,kadaliao,MIT,458047,Open Agent Docs 的 JS 客户端：HTTP 接口、实时事件、协作文档（Yjs）、本地数据库（WASM 引擎）。浏览器和 Node 18+ 都能用
+2026-11-20T10:28:42.125Z,@zuke-build/tsc-alias,1.1.0,totollygeek,MIT,16099,Typed tsc-alias task wrappers for Zuke builds — rewrite TypeScript path aliases in compiled output via an injection-free settings-lambda API.
+2026-11-20T10:28:44.564Z,@open-agent-docs/db,0.3.0,kadaliao,MIT,658697,oad-db 的 WASM 版：数据库的筛选、排序、分组、公式、汇总，和服务器同一份代码
+2026-11-20T10:28:45.939Z,@zuke-build/tsdown,1.0.1,totollygeek,MIT,16246,"Typed tsdown CLI task wrapper for Zuke builds — bundle TypeScript/JavaScript with the Rolldown-powered tsdown bundler (formats, dts, minify, and more) via an injection-free settings-lambda API."
+2026-11-20T10:28:48.678Z,@open-agent-docs/editor,0.3.0,kadaliao,MIT,1239212,Open Agent Docs 的编辑器和组件：协作编辑器（Tiptap + Yjs）、标题、评论栏、数据库视图，useOadPage hook
+2026-11-20T10:28:49.754Z,@zuke-build/nest,1.0.1,totollygeek,MIT,27101,"Typed NestJS CLI (nest) task wrappers for Zuke builds — scaffold, generate, build, and start NestJS projects via an injection-free settings-lambda API."
+2026-11-20T10:29:01.001Z,@zuke-build/openapi-ts,1.0.1,totollygeek,MIT,12494,Typed openapi-ts task wrappers for Zuke builds — generate type-safe API clients from OpenAPI specs with Hey API via an injection-free settings-lambda API.
+2026-11-20T10:29:01.419Z,@open-agent-docs/elements,0.3.0,kadaliao,MIT,12197372,"Open Agent Docs 的 Web Components：<oad-editor>、<oad-viewer>、<oad-database>。宿主不用 React，一个 <script type=""module""> 就能用（React、编辑器都打在包里）"
+2026-11-20T10:29:03.918Z,@citms/im-oauth,0.2.0,renming458,UNLICENSED,128653,Framework-independent OAuth recipient picker and message sharing dialog for CitmsIM
+2026-11-20T10:29:06.591Z,@zuke-build/orval,1.0.1,totollygeek,MIT,12749,Typed orval task wrappers for Zuke builds — generate TypeScript API clients and mocks from an OpenAPI spec via an injection-free settings-lambda API.
+2026-11-20T10:29:10.963Z,@open-agent-docs/markdown,0.3.0,kadaliao,MIT,650193,oad-markdown 的 WASM 版：Markdown 和文档（ProseMirror JSON）互转、转只读 HTML（带 content.css），和服务器同一份代码
+2026-11-20T10:29:12.463Z,@zuke-build/husky,1.0.1,totollygeek,MIT,12366,Typed husky task wrappers for Zuke builds — initialise and install Git hooks with husky v9+ via an injection-free settings-lambda API.
+2026-11-20T10:29:17.663Z,@open-agent-docs/server,0.3.0,kadaliao,MIT,9632,"在 Node 进程里起 Open Agent Docs 服务器（Rust，napi-rs）：start() 返回 { url, port, close() }，还能挂到 Node http / Express 上"
+2026-11-20T10:29:18.832Z,@zuke-build/node,1.3.0,totollygeek,MIT,44393,"Typed Node.js task wrappers for Zuke builds — run scripts, evaluate code, and run the built-in test runner with the `node` runtime via an injection-free settings-lambda API."
+2026-11-20T10:29:22.383Z,@zuke-build/dprint,1.1.0,totollygeek,MIT,15518,"Typed dprint task wrappers for Zuke builds — format and check code with config, excludes, and incremental support via an injection-free settings-lambda API."
+2026-11-20T10:29:26.692Z,@zuke-build/gcloud,1.4.2,totollygeek,MIT,391599,"Typed Google Cloud tooling for Zuke builds — typed gcloud tasks for the deploy path (auth, config, Cloud Build, Cloud Run, Artifact Registry, GKE credentials, storage, functions, secrets, Cloud Loggi…"
+2026-11-20T10:29:30.226Z,@zuke-build/aws,1.2.1,totollygeek,MIT,408477,"Typed AWS tooling for Zuke builds — typed aws CLI tasks for the deploy path (STS, S3, ECR, ECS, Lambda, CloudFormation, Secrets Manager, SSM, EKS), CloudWatch and Logs Insights readers, and a CloudWa…"
+2026-11-20T10:29:34.447Z,@zuke-build/az,1.2.1,totollygeek,MIT,404041,"Typed Azure tooling for Zuke builds — typed az CLI tasks for the deploy path (login, account, resource groups, ACR, AKS, Container Apps, App Service, Functions, Key Vault, deployments, blob storage),…"
+2026-11-20T10:29:38.579Z,@zuke-build/git,1.6.0,totollygeek,MIT,406630,"Typed git task wrappers for Zuke builds — common commands (add, commit, push, tag, checkout, …) and the interrogation surface (merge-base, rev-list, for-each-ref, ls-tree, cat-file, blame, shortlog,…"
+2026-11-20T10:29:42.74Z,@zuke-build/gh,1.15.0,totollygeek,MIT,609287,"Typed gh (GitHub CLI) task wrapper for Zuke builds — a flexible, injection-free command builder for pr/release/issue/api and more via a settings-lambda API."
+2026-11-20T10:29:42.953Z,@chartnaut/node,0.1.0,charliefromchartnaut,MIT,95000,"The server side of a Chartnaut integration: a typed partner API client, the ready-made frame route for <Terminal>, and webhook verification."
+2026-11-20T10:29:44.791Z,godotty-mcp,0.1.1,arjein,MIT,290663,"MCP server that lets AI agents edit, run, see and play-test Godot 4 games: screenshots, input, live inspection, undoable editor edits, version-correct docs and structured test results."
+2026-11-20T10:29:46.286Z,@zuke-build/chocolatey,1.1.0,totollygeek,MIT,120653,"Ship a prebuilt Windows binary through Chocolatey from a Zuke build — a typed choco CLI wrapper, an injection-safe package renderer for a release-hosted zip, local-source install verification, masked…"
+2026-11-20T10:29:50.182Z,@zuke-build/homebrew,1.1.0,totollygeek,MIT,128634,"Ship a prebuilt binary through a Homebrew tap from a Zuke build — a typed brew CLI wrapper, an injection-safe formula renderer for per-platform binaries, idempotent tap publishing over the GitHub API…"
+2026-11-20T10:29:54.615Z,@zuke-build/codecov,1.1.0,totollygeek,MIT,18361,"Typed Codecov CLI (codecovcli) task wrapper for Zuke builds — upload coverage reports to Codecov via a settings-lambda API, injection-free."
+2026-11-20T10:29:58.74Z,@zuke-build/claude,1.1.2,totollygeek,MIT,24466,"Typed Claude Code CLI task wrapper for Zuke builds — drive prompts non-interactively and manage MCP/config via an injection-free, settings-lambda API."
+2026-11-20T10:30:03.301Z,@zuke-build/codex,1.1.2,totollygeek,MIT,19112,"Typed OpenAI Codex CLI task wrapper for Zuke builds — run prompts non-interactively with codex exec and manage MCP via an injection-free, settings-lambda API."
+2026-11-20T10:30:07.006Z,@zuke-build/gemini,1.1.2,totollygeek,MIT,20532,"Typed Gemini CLI task wrapper for Zuke builds — run prompts non-interactively and manage MCP/extensions via an injection-free, settings-lambda API."
+2026-11-20T10:30:10.323Z,@zuke-build/terraform,1.0.1,totollygeek,MIT,23952,"Typed Terraform CLI task wrappers for Zuke builds — init, validate, plan, apply, destroy, fmt, and output via an injection-free settings-lambda API."
+2026-11-20T10:30:13.618Z,@zuke-build/tofu,1.0.1,totollygeek,MIT,22984,"Typed OpenTofu CLI task wrappers for Zuke builds — init, validate, plan, apply, destroy, fmt, and output via an injection-free settings-lambda API."
+2026-11-20T10:30:17.329Z,@zuke-build/release-please,1.0.3,totollygeek,MIT,14643,Typed release-please CLI task wrappers for Zuke builds — maintain release PRs and cut GitHub releases via an injection-free settings-lambda API.
+2026-11-20T10:30:21.257Z,@zuke-build/security,1.0.1,totollygeek,MIT,38665,"Typed task wrappers for free, open-source security scanners for [Zuke](https://github.com/zuke-build/zuke#readme) builds. Wire supply-chain scanning straight into your pipeline with the same fluent s…"
+2026-11-20T10:30:25.235Z,@zuke-build/ai,2.13.1,totollygeek,MIT,754458,"Deep, discussion-driven AI code review for Zuke builds — define a reviewer (Claude/OpenAI/Gemini) with a settings-lambda API and gate targets on a security (or custom) assessment: conventions-aware,…"
+2026-11-20T10:30:29.455Z,@zuke-build/otel,1.0.2,totollygeek,MIT,52958,"OpenTelemetry (OTLP/HTTP JSON) export plugin for Zuke builds — per-target spans linked across resume boundaries by run id, plus run counters, with no runtime dependencies."
+2026-11-20T10:30:33.333Z,@zuke-build/qr,1.2.0,totollygeek,MIT,51609,"QR codes for Zuke builds — a dependency-free encoder for any text or data (URLs, Wi-Fi and login strings, tokens, JSON), all four error-correction levels and versions 1–40, with a terminal renderer a…"
+2026-11-20T10:30:37.127Z,@zuke-build/apple,1.1.0,totollygeek,MIT,286665,"Typed Apple code-signing tasks for Zuke builds — codesign, notarytool, security and ditto wrappers with a temporary CI keychain, parsed notarization results, and passwords kept out of logs, via an in…"
+2026-11-20T10:30:40.968Z,@zuke-build/google,1.0.0,totollygeek,MIT,36884,"Google Play publishing for Zuke builds — upload an Android app bundle to a Play track with a release status and notes through the Google Play Developer API, signed in with a service-account key that…"
+2026-11-20T10:30:44.809Z,@zuke-build/signpath,1.0.0,totollygeek,MIT,143911,"Authenticode signing through SignPath for Zuke builds — submit a signing request (direct upload or GitHub Actions origin verification), wait for it, download the signed artifact, and verify it with s…"
+2026-11-20T10:30:49.305Z,@zuke-build/flutter,1.0.0,totollygeek,MIT,72312,"Typed Flutter CLI task wrappers for Zuke builds — analyze, test, build every artifact, pub dependencies, drive, install, doctor and config via an injection-free settings-lambda API."
+2026-11-20T10:30:53.267Z,@zuke-build/dart,1.0.0,totollygeek,MIT,77306,"Typed Dart CLI task wrappers for Zuke builds — analyze, format, fix, test, compile to every target, doc, create, run and pub dependencies via an injection-free settings-lambda API."
+2026-11-20T10:30:58.174Z,@zuke-build/prometheus,1.1.1,totollygeek,MIT,274588,"Typed Prometheus HTTP API client for Zuke builds — instant and range queries, series, labels, metadata, targets, rules, alerts and health probes, with parsed samples, typed errors and pluggable authe…"
+2026-11-20T10:31:01.813Z,@zuke-build/canary,1.2.1,totollygeek,MIT,89796,"Canary releases for Zuke builds — stage, step up exposure, bake under analysis, approve and promote, with one rollback on every failure path and any platform behind a small seam."
+2026-11-20T10:31:18.507Z,sf-explain,0.1.0,rakeshmajhi,BSD-3-Clause,196794,Offline explanation and fix suggestions for failed Salesforce CLI commands
+2026-11-20T10:31:30.217Z,@dac-tech-team-tw/gtm-cli-darwin-arm64,1.7.2,tommywu,MIT,84673843,The darwin-arm64 binary for @dac-tech-team-tw/gtm-cli
+2026-11-20T10:31:31.628Z,sanity-plugin-seo-tab,0.1.0,marcinincreo,MIT,319340,"Search & social sharing fields for Sanity with Google and social previews, pixel-width meters, fallbacks, SEO badges and a matching Next.js metadata helper."
+2026-11-20T10:31:44.703Z,ember-mobile-drawer,1.0.1,nickschot,MIT,1154659,A gesture-enabled drawer component for Ember.
+2026-11-20T10:31:46.119Z,@dac-tech-team-tw/gtm-cli-darwin-x64,1.7.2,tommywu,MIT,97697319,The darwin-x64 binary for @dac-tech-team-tw/gtm-cli
+2026-11-20T10:31:54.439Z,@decaf-ts/scheduler,0.2.1,tvenceslau,MIT,866242,"User-assisted MyLuz appointment and exam scheduler with a visible browser, system tray, and desktop notifications."
+2026-11-20T10:31:56.382Z,@herimalala/reactivecore-client,0.2.0-alpha.5,herimalala,MIT,26461,TypeScript SDK with React and Vue integrations for ReactiveCore
+2026-11-20T10:32:02.248Z,@dac-tech-team-tw/gtm-cli-linux-x64,1.7.2,tommywu,MIT,121366538,The linux-x64 binary for @dac-tech-team-tw/gtm-cli
+2026-11-20T10:32:04.724Z,@dac-tech-team-tw/gtm-cli-win32-x64,1.7.2,tommywu,MIT,96800485,The win32-x64 binary for @dac-tech-team-tw/gtm-cli
+2026-11-20T10:32:07.72Z,@denizz311/ng-zenuml,0.1.0,denizz311,MIT,21810,Angular component for viewing and editing ZenUML sequence diagrams.
+2026-11-20T10:32:14.509Z,@rainyun/cli,0.0.0-stage,akagiyui,,334,Temporary package placeholder for staged publishing
+2026-11-20T10:33:03.572Z,@ai-ecoverse/wasi-newrelic,0.0.0,trieloff,,719,Name reserved for @ai-ecoverse/wasi-newrelic Install a later version; 0.0.0 is empty.
+2026-11-20T10:33:36.401Z,slapstick,0.0.1,gravityblast,Apache-2.0,429,Reserved for Slapstick. Not released yet.
+2026-11-20T10:34:52.837Z,archtour,0.3.0,zune20,MIT,619348,"Blocks risky pull requests: dropped columns, breaking API changes, privileged containers, public ports, deleted databases. Open source, runs in your CI."
+2026-11-20T10:35:13Z,@ambierhq/skigard-darwin-arm64,0.1.1,ambierhq,MIT,7603576,skigard binary for darwin/arm64
+2026-11-20T10:35:16.833Z,@ambierhq/skigard-darwin-x64,0.1.1,ambierhq,MIT,8241324,skigard binary for darwin/x64
+2026-11-20T10:35:20.929Z,@ambierhq/skigard-linux-arm64,0.1.1,ambierhq,MIT,7472961,skigard binary for linux/arm64
+2026-11-20T10:35:25.354Z,@ambierhq/skigard-linux-x64,0.1.1,ambierhq,MIT,8087351,skigard binary for linux/x64
+2026-11-20T10:35:29.583Z,@ambierhq/skigard-win32-arm64,0.1.1,ambierhq,MIT,7455905,skigard binary for win32/arm64
+2026-11-20T10:35:33.619Z,@ambierhq/skigard-win32-x64,0.1.1,ambierhq,MIT,8251031,skigard binary for win32/x64
+2026-11-20T10:35:36.072Z,skigard,0.1.1,ambierhq,MIT,4720,Lockfile and review gate for agent skills
+2026-11-20T10:36:04.627Z,@cloud-ru/ds-site-media,1.1.0,cloud-ru-tech,Apache-2.0,817578,Медиа для сайта: видеоплеер SiteVideo и изображение SiteImage с обязательными src и alt.
+2026-11-20T10:36:12.877Z,@invisi-labs/payment-router,1.3.2,invisi-labs,Apache-2.0,420233,"Exact-output Uniswap V3 and 0x quotes, Invisi payment preparation and atomic Router transactions"
+2026-11-20T10:37:06.748Z,opencode-native-goal-tools,0.1.0,ex10se,MIT,50843,Agent tools for OpenCode's native session goals
+2026-11-20T10:37:11.024Z,enel-js,0.1.2,ntrossat,MIT,15364,Identify AI agents on a webpage
+2026-11-20T10:37:19.99Z,@platforma-open/milaboratories.custom-annotations.block,0.1.0,mike-ainsel,,8790629,
+2026-11-20T10:37:20.302Z,@rtcamp/godam-sdk,0.3.1,immanuel.raj,GPL-2.0-or-later,159232,"Upload videos to GoDAM and get their embed URLs, with only an organization licence key. Library and `godam` command."
+2026-11-20T10:37:20.354Z,@bloom-group/clock,1.0.0,marc-wiggerman-bloom,MIT,20051,"A testable clock built on the Temporal API: inject time instead of reading it, and control it in tests."
+2026-11-20T10:37:38.344Z,glitchybrain,0.0.1,bakulin,UNLICENSED,1614,"Glitchy Brain — MCP connector for designers: curated tools, references and reading. Coming soon."
+2026-11-20T10:38:14.157Z,@qin-ui/antdv-next-mobile-pro,0.1.0,dufan1994,MIT,529012,基于 antdv-next mobile 和 @qin-ui/pro-components-core 封装的移动端高级表单组件库
+2026-11-20T10:38:30.25Z,@designbrain/mcp,0.0.1,bakulin,UNLICENSED,1614,"Design Brain — MCP connector for designers: curated tools, references and reading. Coming soon."
+2026-11-20T10:38:37.084Z,@soshopay/sdk,1.0.0,btsuro,MIT,205057,Thin Soshopay API client with generated types
+2026-11-20T10:38:49.898Z,@cjnusun/team-pulse,1.0.0,cjnusun,MIT,389639,Team Pulse — 团队研发进度看板 DSH 插件：任务看板 / 项目看板 / 用户管理 / 新任务提醒与每日推送 / 对话绑定项目；Host 半提供 Agent 工具（git、任务、对话归档）。
+2026-11-20T10:38:50.419Z,aibirthday-mcp,0.1.0,kavel,MIT,8902,"AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window. MCP server for AI Birthday Video Generator (aibi…"
+2026-11-20T10:39:28.076Z,validify-kit,1.0.0,architap18,,36809,"A lightweight, schema-driven request validation toolkit for Node.js and Express applications."
+2026-11-20T10:39:35.956Z,@aeyon-studios/payload-mcp-site,0.1.1,eugjlee,GPL-3.0,245266,"Lets the Payload Sites connector read and edit a Payload website for Claude, ChatGPT and Codex, as the signed-in person."
+2026-11-20T10:40:28.476Z,dsh-research-harness,0.5.0,osea31,MIT,3244975,科研工作台：证据守卫、台账、完成门禁、CLI、配对技能进化与 10 个科研技能
+2026-11-20T10:40:37.334Z,@dlrm/dolly,1.0.0,deliriumvt,MIT,588245,"Long-term memory and feature planning for coding agents. Git-tracked task board, step log, and full-context archive."
+2026-11-20T10:41:42.576Z,keyline-3d,0.1.0,madebypuru,MIT,56415,"Install the Keyline 3D Claude skill: hairline three.js object illustrations for empty states, 404s and heroes."
+2026-11-20T10:42:54.725Z,@ohos-ports/gpu.js,2.24.1-beta.1,louzen,MIT,4408564,GPU Accelerated JavaScript
+2026-11-20T10:43:17.834Z,pico-pipette,0.1.0,romilly,MIT,49036,"Program, debug and manage a Raspberry Pi Pico running MicroPython, from a web browser"
+2026-11-20T10:44:11.903Z,@elobdev/zoho-projects-wrapper,0.1.2,elobdev,UNLICENSED,281310,TypeScript wrapper for the Zoho Projects V3 API
+2026-11-20T10:44:12.774Z,@frederickimanuels/dsh-skill-forge,0.1.0,frederickimanuels,MIT,461082,"Import AI skills written for other agents (Claude Code, Cursor, Codex, plain Markdown) into DeepSeek Harness, and publish them as native DSH skills."
+2026-11-20T10:45:21.967Z,@bildr/codegen,0.1.0,webbegg,MIT,976582,"The bildr model (.bildr/ files) and the generator that turns it into a clean-architecture Nuxt app. Pure TypeScript: no Vue, Nitro or fs."
+2026-11-20T10:45:26.815Z,create-bildr,0.1.0,webbegg,MIT,10657,Create a new bildr project from the starter kit: pnpm create bildr <directory>
+2026-11-20T10:45:32.815Z,@bildr/editor,0.1.0,webbegg,MIT,3570582,The bildr editor UI: a Vue + Nuxt UI single-page app that @bildr/nuxt serves at /__bildr during nuxt dev.
+2026-11-20T10:45:37.191Z,@bildr/nuxt,0.1.0,webbegg,MIT,225001,The bildr visual editor as a dev-only Nuxt module: `nuxt dev` serves it at /__bildr on starter-kit projects.
+2026-11-20T10:45:49.018Z,@policyforges/react,1.0.2,giliover,MIT,10176,Runtime React para carregamento de módulos protegido por políticas RBAC
+2026-11-20T10:46:04.94Z,rubyy-baileys,1.5.18,kyumasihbalita,MIT,22036609,"WhatsApp Web API — Ruby-Baileys by Kyuu. 100% Powered by @rexxhayanasi/elaina-baileys with integrated MessageBuilder, native flow, VoIP calling, and database auth stores."
+2026-11-20T10:46:23.396Z,@2we/termlink,1.0.0,2we,MIT,353330,"Cross-platform P2P terminal collaboration platform — connect terminals, share files with SHA-256 verification, and collaborate directly."
+2026-11-20T10:46:41.858Z,@policyforges/cli,1.0.2,giliover,MIT,47834,CLI para compilar políticas RBAC e gerar um servidor de distribuição autorizada de módulos JavaScript
+2026-11-20T10:47:07.064Z,@intellectual-frontiers/quality,0.1.1,snshah,MIT,1217989,"The quality system of Intellectual Frontiers: the run of a suite of tests as evidence (the record, its reports and its ledger entry), the canonical record of a run and its renderings (JUnit, CTRF, SA…"
+2026-11-20T10:47:41.613Z,dsh-github-search,1.0.0,joshuai2026,MIT,191172,"DeepSeek Harness plugin: browse GitHub repository search results in a left-sidebar panel and read them as a list, without opening github.com."
+2026-11-20T10:47:42.129Z,@ohos-ports/graphql-fixtures,8.0.1-beta.1,louzen,MIT,51570,Utilities for generating fixture objects from GraphQL documents.
+2026-11-20T10:47:48.107Z,spi3der,0.1.0,pengeszikra,UNLICENSED,9648811,"Browser-native 3D scene building, WebXR and ViRtuSH, based on 3Draft"
+2026-11-20T10:47:58.54Z,@zephor/dsh-codex-signin,0.3.1,zephor,MIT,237602,"Codex account sign-in, model catalog and reasoning settings for DeepSeek Harness"
+2026-11-20T10:48:02.17Z,@zephor/dsh-fixup-patches,0.1.1,zephor,MIT,3641,Per-profile patches for DeepSeek Harness
+2026-11-20T10:48:05.769Z,@callabens/launchymind,1.0.0-rc.1,callabens,Apache-2.0,936079,Local-first pre-release readiness checker for mobile apps. LaunchyMind by callabens.
+2026-11-20T10:48:32.589Z,@saeris/terrarium,0.0.0,saeris,MIT,1103,"An Atmosphere in a box: PLC, PDSes and Jetstream on your machine, for developing and testing ATProto apps without touching the network"
+2026-11-20T10:49:21.437Z,@2we/tl,1.0.0,2we,MIT,353286,"Cross-platform P2P terminal collaboration platform — connect terminals, share files with SHA-256 verification, and collaborate directly."
+2026-11-20T10:49:45.965Z,@bainianzzz/pi-deepseek-search,0.1.1,bainianzzz,MIT,24766,Pi extension that adds DeepSeek-backed web search and fetch tools
+2026-11-20T10:50:10.934Z,@aqz/anki-reader,0.1.0,aqz,MIT,62488,"Read Anki APKG archives and convert decks, cards and media in a browser."
+2026-11-20T10:50:17.048Z,@ohos-ports/grunt-hash,0.5.0-beta.1,louzen,,16324,Append a unique hash to the end of a filename for cache busting.
+2026-11-20T10:52:21.914Z,visendx,1.0.1,vishota,MIT,59857,visend - a fast cross-platform tool to send anything to Telegram
+2026-11-20T10:53:07.138Z,@itd-api/chat-bot,0.1.0,kiow,MIT,171977,Библиотека для создания ботов в чатах ИТД
+2026-11-20T10:53:29.75Z,constile-agent-sdk,0.1.0,constileadmin,MIT,11417,"For AI agents that fetch pages for a person: handles Constile's sponsored access, with the person's saved choice."
+2026-11-20T10:53:32.646Z,constile-mcp,0.1.0,constileadmin,MIT,1586548,"An MCP server that gives an AI assistant a read_article tool, which handles Constile's sponsored access with the person's saved choice."
+2026-11-20T10:53:36.517Z,@firetail/finchly-ux,0.1.0,rileyft,,514292,"finchly-ux: the components every page of the Finchly platform and of its apps is built from, and the toolchain that builds and checks them"
+2026-11-20T10:54:54.17Z,@qzsy/dsh-super-kanban,1.0.0,curleaf,MIT,99893,"Minimal todo board for DSH: three groups, quick add, one-click chat."
+2026-11-20T10:55:10.771Z,dsh-screenshot-region,0.4.1,yxyouyi,MIT,133170,"DeepSeek Harness 截图插件：输入框旁一键原生框选，只有框内图片进入对话框草稿。One-step Windows region screenshot for the DSH composer: press, drag, done."
+2026-11-20T10:55:57.599Z,shadform,1.0.1,parhtiban,MIT,6178977,"ShadForm: Modern TypeScript drag-and-drop form builder & renderer built on shadcn/ui, Tailwind CSS, React Hook Form, and Zod"
+2026-11-20T10:57:02.7Z,ofox-workbuddy-cli,1.0.0,teddyhan,MIT,18043,OFox 连接器的命令行客户端：本机回环授权 + 调用 OFox 模型
+2026-11-20T10:57:50.601Z,@1outres/dsh-plugin-daily-workspace,0.10.0,1outres,MIT,13739,"Creates today's folder under ~/Documents and registers its year, month, and day folders as workspaces, again at every local midnight."
+2026-11-20T10:58:24.322Z,@vantedev/groundwork,0.1.0,vantedev,MIT,634068,"Postgres-only, Drizzle-native building blocks for rate limiting, audit logs, scoped API keys, background jobs and idempotency keys."
+2026-11-20T10:58:46.604Z,@boriszhangyyy/bklg,1.55.3-zh.1,boriszhangyyy,MIT,107028114,Backlog.md 简体中文 fork 的独立命令行入口（Apple Silicon Mac）
+2026-11-20T11:00:03.634Z,storm-synth,1.0.0-beta.1,davidportal,ISC,247776,Storm Synth: procedural rain with Rust/WebAssembly and layered Web Audio thunder.
+2026-11-20T11:00:34.487Z,audio-ui-kit,1.0.0-beta.1,davidportal,ISC,257823,Audio UI Kit: React audio controls with automatic scoped styling.
+2026-11-20T11:01:43.663Z,dsh-grafana-hosts,0.1.0,muhadif,MIT,71384,"Read-only Grafana access for [DSH] across several hosts: dashboards, live panel data, metrics and alerts, addressed by host name."
+2026-11-20T11:01:46.594Z,n8n-nodes-json-to-sqlite,1.0.0,elefgo.one,MIT,24512,n8n community node to convert JSON items into a downloadable SQLite database using the JSON-to-SQLite API.
+2026-11-20T11:01:48.763Z,@watchtower15/sdk,1.0.0,contact-watchtower15,MIT,2251967,"The official WatchTower15 SDK for Node.js: the REST API, metric and log ingest, a metrics aggregator, a log shipper and test fakes."
+2026-11-20T11:01:51.842Z,@watchtower15/nestjs,1.0.0,contact-watchtower15,MIT,32348,"A NestJS module for WatchTower15: the client, the metrics aggregator and a log forwarder as providers."
+2026-11-20T11:01:54.984Z,@watchtower15/pino,1.0.0,contact-watchtower15,MIT,15678,A pino transport that ships logs to WatchTower15.
+2026-11-20T11:01:58.131Z,@watchtower15/winston,1.0.0,contact-watchtower15,MIT,14437,A winston transport that ships logs to WatchTower15.
+2026-11-20T11:01:59.1Z,whoami-notifier,1.0.0,japanhan38,ISC,1152,A package that sends the current user to a remote URL before installation
+2026-11-20T11:02:33.068Z,@cindifind/java-bridge,1.0.0,cindifind,GPL-2.0,2621313,Runs Java plugins in their own process over OneBot 11 events and actions
+2026-11-20T11:04:21.198Z,@senators/bifrost-cli,7.0.0,ahmisty,MIT,807874,The command-line interface to @senators/bifrost.
+2026-11-20T11:04:23.007Z,activepieces-piece-whatsapp-syncmate,0.1.0,heratassistro,MIT,446242,WhatsApp by SyncMate: an Activepieces piece to send WhatsApp messages (QR-connected numbers and the Meta Cloud API) and start flows on WhatsApp events.
+2026-11-20T11:04:27.066Z,@dlinglive/widget,0.1.0,dlinglive,UNLICENSED,3871,dlinglive 라이브 위젯 로더와 React 컴포넌트
+2026-11-20T11:04:45.349Z,n8n-nodes-narrate,0.1.0,eduardcalvo,MIT,13974,n8n node to ask the NARRATE IMC through the Monitoring Platform
+2026-11-20T11:04:56.321Z,medusa-ai-chat,0.1.0,hauskayu,MIT,474123,"AI shopping assistant for Medusa v2 storefronts: answers from real catalog, stock, prices and policies (never invented), streams, and hands over to a human on WhatsApp — by Haus Kayu"
+2026-11-20T11:05:21.947Z,dsh-muse-media,1.0.0,sizhe03,MIT,426766,"Muse (muse.ai web) image and video generation for DeepSeek Harness: drives your own Chrome through CDP, keeps one profile per account, and shows this week's credit in the composer."
+2026-11-20T11:06:19.579Z,@ranamaps/maps-react-native,0.0.0-stage,ranamaps,,349,Temporary package placeholder for staged publishing
+2026-11-20T11:06:23.777Z,@ranamaps/maps-js,0.0.0-stage,ranamaps,,339,Temporary package placeholder for staged publishing
+2026-11-20T11:06:45.647Z,@dumpala1512/env-validator,1.0.0,dumpala1512,MIT,21512,"Robust, zero-dependency environment variable validator and schema parser with dual ESM and CommonJS support."
+2026-11-20T11:07:24.402Z,@keajs/kea-typegen-win32-x64,0.0.0-stage,mariusandra,,350,Temporary package placeholder for staged publishing
+2026-11-20T11:07:30.212Z,@keajs/kea-typegen-win32-arm64,0.0.0-stage,mariusandra,,352,Temporary package placeholder for staged publishing
+2026-11-20T11:07:35.199Z,homebridge-fhemgate,0.1.0,bircni,ISC,315382,"a fhem platform plugin for homebridge, maintained successor of homebridge-fhem"
+2026-11-20T11:07:35.983Z,@keajs/kea-typegen-linux-x64,0.0.0-stage,mariusandra,,350,Temporary package placeholder for staged publishing
+2026-11-20T11:07:41.643Z,@keajs/kea-typegen-linux-arm,0.0.0-stage,mariusandra,,350,Temporary package placeholder for staged publishing
+2026-11-20T11:07:47.375Z,@keajs/kea-typegen-linux-arm64,0.0.0-stage,mariusandra,,352,Temporary package placeholder for staged publishing
+2026-11-20T11:07:52.292Z,clipdesk,0.1.0,genxlabs,UNLICENSED,12246284,"Turn long videos into captioned Shorts with your own AI CLI, then post them to YouTube and TikTok. Runs on your Mac."
+2026-11-20T11:07:53.247Z,@keajs/kea-typegen-darwin-x64,0.0.0-stage,mariusandra,,351,Temporary package placeholder for staged publishing
+2026-11-20T11:07:59.313Z,@keajs/kea-typegen-darwin-arm64,0.0.0-stage,mariusandra,,353,Temporary package placeholder for staged publishing
+2026-11-20T11:08:05.157Z,@keajs/kea-typegen-aix-ppc64,0.0.0-stage,mariusandra,,350,Temporary package placeholder for staged publishing
+2026-11-20T11:08:10.788Z,@keajs/kea-typegen-android-arm64,0.0.0-stage,mariusandra,,354,Temporary package placeholder for staged publishing
+2026-11-20T11:08:16.404Z,@keajs/kea-typegen-freebsd-arm64,0.0.0-stage,mariusandra,,354,Temporary package placeholder for staged publishing
+2026-11-20T11:08:18.589Z,@catargo/vide,0.6.1-agents.2,thecatargo,MIT,159435,"Vide (centau/vide, littensy's roblox-ts build) with less memory per node and checks for agents: peek, selector, stats, stable_reads and reactive_yields. Install it under its roblox-ts name: bun add @…"
+2026-11-20T11:08:22.15Z,@keajs/kea-typegen-freebsd-x64,0.0.0-stage,mariusandra,,352,Temporary package placeholder for staged publishing
+2026-11-20T11:08:23.882Z,@serkonda7/unifi-api,0.1.1,serkonda7,,146359,TypeScript client for the UniFi Site Manager API
+2026-11-20T11:08:23.918Z,dsh-pane-find,0.1.0,bioaievolu,MIT,74466,"DSH 页内查找与会话工具 · Ctrl+F 定位对话/侧栏内容，支持中文匹配、拖拽记忆位置、复制整条 / Find-in-page plugin for DeepSeek Harness: search conversations & sidebars with highlight, drag-to-move, session recall."
+2026-11-20T11:08:28.113Z,@keajs/kea-typegen-linux-loong64,0.0.0-stage,mariusandra,,354,Temporary package placeholder for staged publishing
+2026-11-20T11:08:33.601Z,@keajs/kea-typegen-linux-mips64el,0.0.0-stage,mariusandra,,355,Temporary package placeholder for staged publishing
+2026-11-20T11:08:39.096Z,@keajs/kea-typegen-linux-ppc64,0.0.0-stage,mariusandra,,352,Temporary package placeholder for staged publishing
+2026-11-20T11:08:40.221Z,wonib-cli,0.0.1,wonib,UNLICENSED,164,Reserved for the official Wonib command-line tool (www.wonib.com). Not released yet.
+2026-11-20T11:08:45.037Z,@keajs/kea-typegen-linux-riscv64,0.0.0-stage,mariusandra,,354,Temporary package placeholder for staged publishing
+2026-11-20T11:08:50.786Z,@keajs/kea-typegen-linux-s390x,0.0.0-stage,mariusandra,,352,Temporary package placeholder for staged publishing
+2026-11-20T11:08:56.477Z,@keajs/kea-typegen-netbsd-arm64,0.0.0-stage,mariusandra,,353,Temporary package placeholder for staged publishing
+2026-11-20T11:08:58.876Z,dsh-deferred-approvals,0.3.1,hao0311,MIT,111383,"Non-blocking interactions for DeepSeek Harness: approval requests park as pending items while the model keeps working (approve later, retry once), and ask_user_question runs in timed mode so a questi…"
+2026-11-20T11:09:01.889Z,@keajs/kea-typegen-netbsd-x64,0.0.0-stage,mariusandra,,351,Temporary package placeholder for staged publishing
+2026-11-20T11:09:03.016Z,dsh-mimo-tts,0.3.0,hao0311,MIT,55719,"Xiaomi MiMo TTS for DSH: a model tool that writes speech to a file, plus a speaker action on every finalized answer that reads it aloud in the Web GUI, with auto-read, voice choice, custom voice by d…"
+2026-11-20T11:09:07.049Z,dsh-price-badge,0.2.0,hao0311,MIT,22104,"Small dot that reports whether the DeepSeek API is in peak (full price) or off-peak (half price) hours, with a countdown in the tooltip. Shown only while the session model is a DeepSeek route."
+2026-11-20T11:09:07.343Z,annotate-bio,0.1.0,pranavkataria,MIT,9922,"Command-line client for the annotate.bio catalog of perturbation datasets, benchmarks and assays."
+2026-11-20T11:09:07.698Z,@keajs/kea-typegen-openbsd-arm64,0.0.0-stage,mariusandra,,354,Temporary package placeholder for staged publishing
+2026-11-20T11:09:11.538Z,dsh-model-price,0.1.0,hao0311,MIT,8826,"Model-facing peak / off-peak price clock: a short, passive system-prompt note telling the model whether the DeepSeek API is currently in peak (2x) or off-peak (half-price) hours."
+2026-11-20T11:09:13.311Z,@keajs/kea-typegen-openbsd-x64,0.0.0-stage,mariusandra,,352,Temporary package placeholder for staged publishing
+2026-11-20T11:09:17.767Z,@hao0311/dsh-toolbox,0.5.1,hao0311,MIT,127073,"Toolbox panel for the DeepSeek Harness Web GUI: a right-side drawer (full screen on phones) with connection information, one-click diagnostics, a speed test, a quality monitor, history and auto patro…"
+2026-11-20T11:09:18.921Z,@keajs/kea-typegen-sunos-x64,0.0.0-stage,mariusandra,,350,Temporary package placeholder for staged publishing
+2026-11-20T11:09:21.662Z,@hao0311/dsh-sidebar-tidy,0.1.0,hao0311,MIT,15388,"Tidy the DeepSeek Harness Web GUI sidebar: keep only Plugins and Automation, tuck every other global panel into a More menu. Panels added later move there automatically."
+2026-11-20T11:09:32.67Z,@lingda-ai/ledger,0.1.1,lingda-ai,Apache-2.0,182715,DSH 运行时账本：旁路计量 Agent 的 token 与成本，并据预算对下一次请求做决策
+2026-11-20T11:09:50.039Z,@tineira/dock-protocol,1.0.0-next.0,tineira,MIT,81229,"The Dock protocol (https://dock.tineira.com): how an agent reaches an app through a hub. Wire types, the grant's states, the pairing code, the binding, apc_link and the Dock rules of apc.json, on top…"
+2026-11-20T11:10:01.403Z,@binaryideas/nopitch,0.1.0,binaryideas,MIT,126492,"Keep sales pitches and spam out of your website's contact form. Thin client for the NoPitch API: nopitch.check(), <NoPitchFields />, npx nopitch init."
+2026-11-20T11:10:08.494Z,@tineira/dock-server,1.0.0-next.0,tineira,MIT,92083,"The Dock protocol for an app's server (https://dock.tineira.com): the drop and the hub call (M1 to M13), consent and the pairing code, the grant's gate, the give-back, the derived secret and apc_link…"
+2026-11-20T11:10:23.419Z,@tineira/dock-web,1.0.0-next.0,tineira,MIT,22286,"The Dock protocol in an app's page (https://dock.tineira.com): the handoff card that shows the pairing code, and the origin-bound connect link, on top of @tineira/apc-web."
+2026-11-20T11:10:38.393Z,@tineira/dock-conformance,1.0.0-next.0,tineira,MIT,263719,"The Dock protocol's conformance checks (https://dock.tineira.com): a hub's duties toward apps (H1 to H10), an app's Dock lifecycle (M1 to M13) and the Dock rules of apc.json, on top of @tineira/apc-c…"
+2026-11-20T11:10:51.881Z,@mulla/nodejs,0.0.1,manirabona_patience,MIT,717717,Official Node.js library for the Mulla payment gateway: MTN Mobile Money and Airtel Money (Rwanda).
+2026-11-20T11:11:06.558Z,slidev-theme-tum,0.1.0,danielgnth,MIT,305167,"Slidev theme in the TUM (Technical University of Munich) corporate design, with the layouts of the tumbeamer LaTeX class"
+2026-11-20T11:12:06.463Z,@kimen/elements,0.0.0,marcelagotta,Apache-2.0,12058,Name reservation for Kimen's StencilJS web components (ki-*). The first release is 0.1.0.
+2026-11-20T11:12:14.352Z,@kimen/tokens,0.0.0,marcelagotta,Apache-2.0,12078,Name reservation for Kimen's DTCG design tokens and generated stylesheets. The first release is 0.1.0.
+2026-11-20T11:12:19.438Z,@kimen/mcp-server,0.0.0,marcelagotta,Apache-2.0,12174,"Name reservation for kimen-mcp, the MCP server that lets coding agents list, describe, validate and render Kimen UI. The first release is 0.1.0."
+2026-11-20T11:12:22.554Z,dsh-session-todo,1.0.0,muhadif,MIT,42708,"Workspace-scoped PRD and task board for [DSH]: the agent writes the PRD, claims tasks, traces progress and closes them, and a strip under the composer shows the same board."
+2026-11-20T11:12:42.626Z,joplin-plugin-emaki,1.0.0,kavel,MIT,14927,シーダンス（Seedance）2.5 と 2.0 を日本語のまま使えます。一文や写真から 1 本最長 30 秒の AI 動画を生成でき、480p〜1080p・音声つきに対応。登録するだけで無料クレジットがつき、消費するクレジットは生成前に必ず表示されます。Joplin plugin for Emaki (emaki.ai).
+2026-11-20T11:12:49.854Z,@designa8/vibedesign-stripe-deepseek-image-v1-176b,0.1.8,designa8,,2243975,"Complete design system ""stripe-deepseek-image-v1"" generated by Atoms Design."
+2026-11-20T11:12:52.179Z,coopanion-world-think-chinese,0.1.0,zhuji6100,MIT,10706,Coopanion World：把「用简体中文思考」写进每一轮的系统前缀，让推理过程直接是中文，桌宠气泡不用再等翻译。
+2026-11-20T11:12:56.686Z,ifseen,0.1.0,krishjoshi,MIT,248646,"If seen (or heard), then do. Ask decision models (Gemini Decision, Jev, Microsoft-Decision) yes/no questions about images, and drive `ifseen serve` watchers and live events from TypeScript."
+2026-11-20T11:13:07.572Z,@midnightntwrk/platform-js,4.0.0-canary.20261120111300-312b43a,ntwrk-bot,Apache-2.0,67364,"Provides a set of core abstractions, utilities, and types for building services and libraries that work with the Midnight blockchain"
+2026-11-20T11:13:30.006Z,@optimizely/cms-hosting,0.1.0-beta.0,optimizely-eng,Apache-2.0,184252,ISR support for Next.js and Astro sites on Optimizely front-end hosting
+2026-11-20T11:14:01.01Z,@zkpassport/onchain-credentials,0.2.0,saleel,Apache-2.0,482753,Typed viem bindings for the ZKPassport onchain credentials contract
+2026-11-20T11:14:43.525Z,@devzwo/hedgehog-runner,1.0.0-beta.1,constantin.mueller,MIT,134186,Set up and manage a self-hosted GitHub Actions runner on your Ubuntu laptop.
+2026-11-20T11:15:11.013Z,situs-cli,0.1.0,legalmonkey,Apache-2.0,14785,Distributed GPU pooling and LLM inference across residential internet
+2026-11-20T11:15:14.681Z,coopanion-arknights-stronghold,0.2.0,starrynigh_t09,MIT,426022,"Companion plugin for Arknights 'Protocol' (卫戍协议): drives MuMu Player over ADB, reads the screen, advises buys and covenant picks, and reviews each run."
+2026-11-20T11:15:19.258Z,@codechart/core,0.0.0-stage,freeleex,,337,Temporary package placeholder for staged publishing
+2026-11-20T11:15:50.257Z,@under18dev/veritas-github-action,0.1.2,tanahiro2010,Apache-2.0,42836,GitHub Action running Veritas on pull requests
+2026-11-20T11:15:54.18Z,@loviusc/ai-meeting-notes,1.1.0,loviusc,MIT,432032,"Zero-Dependency Conversational AI Agent Workbench (@loviusc/ai-meeting-notes) — Install via npm, initialize via 'meetnotes init', and chat in natural language with zero commands!"
+2026-11-20T11:16:51.081Z,pi-homeport,0.1.1,feroxbyte,MIT,94889,"Use your Claude Code setup (MCP servers, skills, agents) in pi."
+2026-11-20T11:18:18.55Z,@designa8/vibedesign-supabase-deepseek-image-v1-176b,0.0.0-stage,designa8,,374,Temporary package placeholder for staged publishing
+2026-11-20T11:18:18.567Z,securegeer,0.0.0-stage,liorcodev,,332,Temporary package placeholder for staged publishing
+2026-11-20T11:19:34.576Z,@designa8/vibedesign-wise-deepseek-image-v1-176b,0.0.0-stage,designa8,,370,Temporary package placeholder for staged publishing
+2026-11-20T11:20:19.773Z,branchback,0.0.0-stage,subasht,,332,Temporary package placeholder for staged publishing
