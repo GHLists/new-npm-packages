@@ -1,0 +1,186 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-20T16:14:45.086Z,@20baht/validator,0.1.1,bank20baht,MIT,95248,"Runtime validation for bahtui form/workflow JSON — the exact engine rules the client runs, on the server."
+2026-11-20T16:14:49.414Z,@20baht/store,0.1.1,bank20baht,MIT,20462,"Tiny key-value state adapter for bahtui forms — get/set by ref (Form_1.age), subscribe, and two-way bind to <baht-form>/<baht-workflow>."
+2026-11-20T16:14:54.218Z,@20baht/stickers,0.1.0,bank20baht,MIT,558631,"Animated isometric slab stickers for bahtui: a <baht-sticker> Lit element that follows the --baht-* tokens and banknote themes, a growing set of illustrations, and the canvas runtime that plays them…"
+2026-11-20T16:14:59.097Z,@20baht/angular,0.1.0,bank20baht,MIT,462518,"Angular adapter for @20baht/ui: typed directives on the real <baht-*> elements, with typed outputs, [(value)] two-way binding and the Angular binding gotchas handled. Generated from the elements' man…"
+2026-11-20T16:15:01.779Z,@20baht/ngx-eden,0.1.0,bank20baht,MIT,135751,Eden Treaty alternative for Angular — end-to-end typesafe Elysia client running on Angular's HttpClient
+2026-11-20T16:15:06.341Z,@20baht/elysia-oauth-provider,0.1.0,bank20baht,MIT,373215,OAuth 2.1 authorization server plugin for Elysia (Bun) with pluggable storage — MCP-ready
+2026-11-20T16:15:10.716Z,@20baht/elysia-openapi-mcp,0.1.0,bank20baht,MIT,297202,"Mount an MCP server on an Elysia app: tools derived from the @elysiajs/openapi document, OAuth 2.1 resource-server enforcement built in"
+2026-11-20T16:15:15.393Z,@20baht/cli,0.1.0,bank20baht,MIT,148088,"Scaffold bun workspaces (bahtui new) and DDD monorepos (React + Elysia + Eden, bahtui create) plus bahtui generators."
+2026-11-20T16:15:20.216Z,@20baht/strict,0.1.0,bank20baht,MIT,49772,"Shared lint, type, format, structure, commit and CI config for bank20baht apps: eslint presets + bahtui plugin, tsconfig, prettier, dependency-cruiser, knip, jscpd, commitlint, lint-staged, gitleaks,…"
+2026-11-20T16:16:10.154Z,@someonewithpc/paper,0.1.0,someonewithpc,GPL-3.0-or-later,902643,"A stack of paper pages you turn by folding the corner, or a book you turn across the spine, with a CSS carousel when scripting is off"
+2026-11-20T16:16:33.583Z,@someonewithpc/paper-react,0.1.0,someonewithpc,GPL-3.0-or-later,56447,"<PaperStack> and <PaperBook> for React: pages you turn by folding the corner, or across a book's spine"
+2026-11-20T16:16:39.661Z,@skillporter/core,0.1.0,stevesadr,Apache-2.0,535901,"Skill IR, parsers, detection and diagnostics for skillporter."
+2026-11-20T16:16:51.519Z,@someonewithpc/paper-vue,0.1.0,someonewithpc,GPL-3.0-or-later,66601,"<PaperStack> and <PaperBook> for Vue 3: pages you turn by folding the corner, or across a book's spine"
+2026-11-20T16:17:12.852Z,@someonewithpc/paper-svelte,0.1.0,someonewithpc,GPL-3.0-or-later,44906,"<PaperStack> and <PaperBook> for Svelte 5: pages you turn by folding the corner, or across a book's spine"
+2026-11-20T16:17:29.861Z,@someonewithpc/paper-solid,0.1.0,someonewithpc,GPL-3.0-or-later,71269,"<PaperStack> and <PaperBook> for Solid: pages you turn by folding the corner, or across a book's spine"
+2026-11-20T16:17:43.575Z,@someonewithpc/paper-astro,0.1.0,someonewithpc,GPL-3.0-or-later,64095,"<PaperStack> and <PaperBook> for Astro: pages you turn by folding the corner, or across a book's spine"
+2026-11-20T16:19:15.524Z,ark-oauth-client-node,2.2.1,jimmanuel,MIT,200635,"The OAuth 2.1 / OpenID Connect client for Node.js applications, built for Ark.oAuth.Oidc. Authorization code + PKCE with state, nonce, iss and at_hash checks, JWKS rotation, silent refresh, client cr…"
+2026-11-20T16:19:39.591Z,@capyclaw/capyclaw-workbench,0.1.0,maple496,MIT,491914,CapyClaw 子会话工作台运行时：7 个 capyclaw_* 工具（创建/驱动/查询/关闭 DSH 子会话 + 读写设置）+ 俄罗斯套娃控制台（同源嵌入 DSH GUI）。挂在 dsh 的 /capyclaw/capyclaw。
+2026-11-20T16:19:44.482Z,joplin-plugin-tag-cloud,0.2.3,wernerbhertzog,MIT,23690,A tag cloud for Joplin desktop
+2026-11-20T16:19:50.317Z,@redcollar/rcos,0.1.0,redcollar_admin,UNLICENSED,102328,rcos: вход в Skill Hub и синхронизация скиллов в агенты (Claude Code и другие)
+2026-11-20T16:19:51.447Z,@gitmyabi/fifa,1.0.0,gitmyabi-bot,Apache-2.0,77555,"Auto-generated TypeScript type bindings for FIFA (build etherscan-fifa-66641fcf-1795191574945, commit 48e73d6, branch etherscan)"
+2026-11-20T16:20:01.357Z,@capyclaw/ppt-editor,1.1.0,maple496,AGPL-3.0-or-later,5222536,PPT 工作台浏览器界面：PPTist 运行时资产 + 编辑器客户端（可选安装；未装时工作台 headless 运行）。
+2026-11-20T16:20:41.312Z,@capyclaw/ppt-skill-proposal,2.4.0,maple496,MIT,338615,PPT skill：叙事（SCQA/金字塔/一页一观点）+ 设计基线（单一强调色/反 AI slop）+ 证据分析卡。
+2026-11-20T16:21:03.094Z,@shmam/pumpkinpie,1.0.0,shmam,ISC,235,
+2026-11-20T16:21:10.951Z,@diffiii/gitui,0.1.0,diffiii,MIT,12354995,A lazygit-inspired git client that runs in your browser on localhost
+2026-11-20T16:21:29.14Z,@yourappspace/mcp-server,0.1.0,dev_yourappspace,MIT,166279,"Official Model Context Protocol (MCP) server for YourAppSpace Core — Visual Data Model Designer, Data Grid UI, REST APIs, and Row/Field-Level Security for AI agents."
+2026-11-20T16:22:22.957Z,@gruu6y/page-clean-login,0.2.2,gruu6y,MIT,3024458,在 magpie 中管理代理 IP 与供应商登录，每个账号通过独立浏览器身份登录；一个带仅回环主机服务的页面插件。
+2026-11-20T16:22:34.941Z,@capyclaw/wall-suite,0.1.0,maple496,MIT,600965,主区空态选择器（挂在 dsh 的 /capyclaw/wall，路由与端口由基建决定）：会话未绑定模式时列出已注册的工作台类型，点选即显式认领会话模式；零工具零技能。公共基建（os / toolHost / serviceHost / assets / serviceBroker）由 @capyclaw/core 统一提供，需同一 profile 启用它。
+2026-11-20T16:22:49.482Z,shadowmap,0.1.0,tnkuehne,MIT,75729,"Find vibe-coded apps and vibe-coding platforms in DNS, proxy and security logs"
+2026-11-20T16:22:58.906Z,@capyclaw/wall-workbench,0.1.0,maple496,MIT,388112,展示墙工作台运行时：主区空态选择器（列出已注册工作台类型，点选显式认领会话模式）。零工具、零引擎、零文档模型。
+2026-11-20T16:23:15.672Z,toss-core,0.1.1,mazzarelli,MIT,55818,Sans-IO protocol for moving bytes across an air gap as a looping sequence of frames.
+2026-11-20T16:23:21.459Z,@capyclaw/caption-map,0.3.0,maple496,MIT,449624,区域映射 + 侧栏宽度固定 + 聊天窗停靠：把侧栏底部入口行与面板列表映射到 Windows 标题栏；侧栏宽度锁定为拖拽上限（可配置）；并把会话面板整块搬进侧栏底部的槽里（跨平台常驻）。纯页面改动，停用即还原。
+2026-11-20T16:23:22.711Z,@kition/kits-index,2.0.0,allentatakai,Apache-2.0,4023,"The kit index kition reads: every published Kition kit's npm packages, with their sizes and integrity (format 2, kition-sdk schemas/kits-index.schema.json). Published by kition-sdk's kits-index workf…"
+2026-11-20T16:23:45.343Z,@capyclaw/caption-map-macos,0.1.0,maple496,MIT,395304,macOS 版区域映射 + 侧栏宽度固定 + 聊天窗停靠：把侧栏底部入口行与面板列表收进侧栏顶部 chrome 带的「其他」下拉，工作区树收进「工作区」下拉，会话标签条挂进预留栏位（ctx.captionExtra）；侧栏宽度锁定为拖拽上限（可配置）；会话面板整块搬进侧栏底部的槽并占满。仅在 macOS 桌面（html[data-platform=darwin]）生效，纯 web / Windo…
+2026-11-20T16:23:59.161Z,toss-qr,0.1.1,mazzarelli,MIT,156588,"QR carrier for toss: frame bytes to scannable text, text to module matrix, and capacity tuning."
+2026-11-20T16:24:01.938Z,toss-react-native,0.1.1,mazzarelli,MIT,81455,"React Native bindings for toss: headless send and receive hooks and default components, using expo-camera and Skia."
+2026-11-20T16:24:04.309Z,expo-toss,0.1.1,mazzarelli,MIT,5898,"Expo packaging for toss: a config plugin for permissions, and the toss-react-native API in one import."
+2026-11-20T16:24:07.127Z,@capyclaw/chat-dock,0.2.0,maple496,MIT,415431,会话副窗：把 dsh 自己的会话面板钉成输入框正上方那扇停泊窗。只管副窗这一件事——开/收/高度偏好/画出矩形是它唯一的真源；用户主动收起后，由本包自己在右下角画一枚召回按钮（点一下叫回副窗），不依赖任何浮标。主区页面怎么摆全在 @capyclaw/portal-hud，两包彼此不依赖，只走 capyclaw:stage / capyclaw:dock 两条 window 事件契约。几何算式与…
+2026-11-20T16:24:26.52Z,@capyclaw/ddr0-account,0.1.1,maple496,MIT,300096,把「账号与余额」接到 ddr0.com：用 ddr0 账号登录，显示 points 余额，用量与充值跳 ddr0。
+2026-11-20T16:25:37.555Z,opencode-model-costs,0.5.3,elcris1,MIT,68487,Compare model rates in the OpenCode TUI with an optional prompt footer.
+2026-11-20T16:26:13.54Z,@capyclaw/my-works,0.1.1,maple496,MIT,334472,我的作品：DSH 侧边栏里的作品库。把做完的网页、PPT、图文卡片、图片登记进来，搜索、按专栏归集、点开预览，一键「做同款」开新对话。
+2026-11-20T16:26:16.809Z,code-inventory,0.1.0,huldoser,MIT,82149,Static code inventory for JavaScript and TypeScript. Find symbol usages and trace paths from entry points.
+2026-11-20T16:27:00.511Z,@capyclaw/offline-ddr0,1.9.0,maple496,MIT,26329854,真离线版 ddr0 + 作品/会话统一持久化地基：接口快照与作品代码打包在插件内，断网也能打开；本地库稳定存储作品与会话，可管理/查看/继续对话；本地 work-store（SQLite）生成物按 ddr0 作品契约进画廊，PPT 用 PPTist 装饰器只读放映；ETag/304 协商缓存+列表瘦身提速 by CapyClaw
+2026-11-20T16:27:15.076Z,@cashlet-labs/bnd,0.4.0,cosmasaruba,MIT,462169,"BND: bind a Bitcoin Cash key to a Nostr key. Binding, proofs, verification, login, rotation, relay discovery, did:bnd and pay by identity"
+2026-11-20T16:27:21.939Z,@capyclaw/plugin-drop,0.1.1,maple496,MIT,302683,把插件压缩包拖到插件页直接安装：自动解包、校验 package.json 与补丁文件，落到本地 drop 目录。
+2026-11-20T16:28:02.717Z,@linkdesk/marketplace-kit,0.1.0,fengyili,MIT,133446,@linkdesk/marketplace-kit——LinkDesk 市场数据作者工具包（正典 11-作者模板与marketplace-kit.md）：marketplace.json / authors/<id>.json 的 schema、校验（validate，错误码与市场侧 warnings 同一套）、init 三形态骨架（L0/L1/L2）、作者 Ed25519 密钥对生成（keyg…
+2026-11-20T16:28:24.003Z,@capyclaw/portal-hud,0.4.0,maple496,MIT,461769,DSH 主区舞台：把工作台 / 会话产物铺满主区那扇窗，会话跟着钉成副窗（副窗那半截在 @capyclaw/chat-dock）。无界面浮标——装载后按内容闸自动摆当前会话注册的工作台；手动入口是通用链接拦截：点聊天里发布的产物链接（/s/<会话id>/…）或工作台地址就开进主区。两包彼此不依赖，只走 capyclaw:stage / capyclaw:dock 两条事件契约协调。几何算式与 D…
+2026-11-20T16:29:22.825Z,@synervoz/openai-live-toolkit,1.0.0-beta.0,inador,MIT,534108,Switchboard's OpenAI Live Toolkit: full-duplex voice agents in React Native on OpenAI's GPT-Live API.
+2026-11-20T16:29:27.996Z,@capyclaw/session-keeper,0.1.0,maple496,MIT,285739,"Session keep-alive and heartbeat service for the DSH web shell: one external interface (ctx.sessionKeeper), internally only retention keep-alive plus periodic liveness beats."
+2026-11-20T16:29:47.784Z,@capyclaw/session-tabs,0.4.0,maple496,MIT,303312,Thin browser-style session tab bar mounted into the caption-map reserved slot (ctx.captionExtra mount anchor): pure presentation over the single ctx.sessionKeeper interface (@capyclaw/session-keeper)…
+2026-11-20T16:30:05.683Z,pi-process-tree,0.1.0,fenomenokim,MIT,50665,"A zero-dependency TypeScript library that tracks a process tree by (pid, start time) identity and reaps runaways."
+2026-11-20T16:30:07.524Z,pi-ask-tool,0.1.0,fenomenokim,MIT,12738,A Pi agent extension that asks the owner one genuine question through Pi's built-in UI.
+2026-11-20T16:30:08.403Z,@capyclaw/skin-aurora,0.1.2,maple496,MIT,305367,极光皮肤：给 DSH Web 界面换上深空青紫极光配色与半透明星云底色，可在设置 → 通用里随时开关或调整光晕强度。
+2026-11-20T16:30:28.601Z,@capyclaw/skin-clean,0.2.0,maple496,MIT,307969,CapyClaw 品牌皮肤：侧边栏与欢迎页使用水豚 logo，侧边栏字标 CapyClaw.com，窗口名改为 CapyClaw；只换品牌，不动配色与布局。
+2026-11-20T16:30:52.171Z,@capyclaw/windows-control,0.1.2,maple496,MIT,519497,Windows 桌面控制：托管 windows-mcp（UIA 树 / 截图 / 键鼠 / 应用 / PowerShell 等 21 个工具），以 Streamable HTTP 接入 DSH 工具面
+2026-11-20T16:31:04.217Z,@useblacksmith/jest,0.1.0-rc,max-blacksmith,MIT,160664,"Runs only the Jest test files affected since the last run, with Blacksmith-backed caching"
+2026-11-20T16:31:10.121Z,@fire-spark/local,0.29.0,nicolasjimeneza,,236443,"Fire Spark local node runtime: SQLite store, event log, sync engine and local storefront handlers for offline mode"
+2026-11-20T16:31:11.477Z,framermotion-plugins,1.0.4,bemine,MIT,16857,"A configurable, namespaced Animate.css integration for Tailwind CSS"
+2026-11-20T16:31:39.826Z,@pinata/mcp,1.0.0,lukax,MIT,3274,Alias of the Pinata MCP server (`pinata-mcp`)
+2026-11-20T16:31:53.453Z,wrkos-agent,0.1.1,wrkos,MIT,229002,"WrkOS agent bridge runs on a company Mac, pairs the computer with WrkOS, keeps the Cursor API key on the device, and runs coding turns in local repositories."
+2026-11-20T16:32:15.593Z,@capyclaw/gateway,0.1.1,maple496,MIT,350242,统一入口网关：把本会话产出的静态产物与工作台，挂到 DSH 自带 Web 服务的 /s/<会话id>/ 命名空间下，端口从此不出现在地址里
+2026-11-20T16:33:07.116Z,@caelaralabs/shield-snap,0.1.0,caelaralabs,MIT,49377,Caelara Shield transaction insights for MetaMask: local calldata decoding plus optional remote token and destination screening. Heuristic screening — will miss attacks.
+2026-11-20T16:33:43.905Z,@capyclaw/window-kit,0.1.0,maple496,MIT,307381,窗口几何与 dsh DOM 探针的唯一底座：fitRect 夹算式、frameLayout、mainPanel/conversationRoot 探针、Z 层序、mountOverlay 浮层样板。纯客户端模块包，@capyclaw/portal-hud 与 @capyclaw/chat-dock 都 require 它（彼此不依赖），单一真源、零重复实现。
+2026-11-20T16:34:04.205Z,@capyclaw/work-store,0.3.0,maple496,MIT,355224,DSH 通用作品持久化底座：SQLite(node:sqlite) 作品目录 + 不可变版本 + journal + checkpoint + 前端查询面，向插件提供 ctx.workStore；非结构化字节委托内容寻址 blob 仓（ctx.assets），正文只存引用。
+2026-11-20T16:34:47.616Z,@amboras-dev/gls,1.0.0,syazah,,140577,GLS ParcelShop / Parcel Locker pickup-point picker for the Amboras storefront checkout
+2026-11-20T16:35:40.813Z,@awesome-tour/elements,0.0.0,yorigcsdev,MIT,130672,"awesome-tour without React: a DOM renderer (mountTour) and an <awesome-tour> custom element for Vue, Svelte, Angular or plain HTML."
+2026-11-20T16:36:42.146Z,copytop-widget,0.1.0,copytop,MIT,46763,"copy.top (https://copy.top) embeddable crypto widgets: live top traders, coins top traders are buying and Hyperliquid markets, in one dependency-free script tag. Read-only data, Shadow DOM, auto-refr…"
+2026-11-20T16:36:47.852Z,@nzyme/gdrive-cli,0.17.1,kedrzu,MIT,209803,"Agent-facing Google Drive commands: search, read Docs as Markdown and Sheets as CSV, download, upload, and permission switches, never permanent deletion"
+2026-11-20T16:36:51.848Z,@nzyme/gmail-cli,0.17.1,kedrzu,MIT,346545,"Agent-facing Gmail commands: search and read threads as Markdown, Markdown drafts with attachments, label rules, no sending or permanent deletion"
+2026-11-20T16:36:52.648Z,@zemendev/core,1.0.0,besufkadmekonnen,UNLICENSED,134703,Universal Ethiopian and Gregorian calendar engine
+2026-11-20T16:36:55.518Z,@nzyme/google-auth,0.17.1,kedrzu,MIT,130523,"Google sign-in for nzyme CLIs: an OAuth client and refresh tokens kept in the secret stores, and the shared auth and accounts commands"
+2026-11-20T16:37:14.907Z,@zemendev/calendar,1.0.0,besufkadmekonnen,UNLICENSED,179949,"Bahire Hasab liturgical calculations, holidays, and fasting periods"
+2026-11-20T16:37:27.95Z,@zemendev/react,1.0.0,besufkadmekonnen,UNLICENSED,117628,"Accessible, customizable Ethiopian and Gregorian DatePicker for React and Next.js"
+2026-11-20T16:37:31.496Z,@zemendev/vue,1.0.0,besufkadmekonnen,UNLICENSED,16600,"Native Vue 3 Ethiopian DatePicker components, composables, and ant-design-vue adapter"
+2026-11-20T16:37:34.881Z,@zemendev/angular,1.0.0,besufkadmekonnen,UNLICENSED,21342,Angular DateAdapter and ng-zorro-antd integration for Ethiopian Calendar
+2026-11-20T16:37:38.928Z,@zemendev/antd-adapter,1.0.0,besufkadmekonnen,UNLICENSED,80284,"Ant Design Ethiopian Calendar adapter and components for React, Vue, and Angular"
+2026-11-20T16:37:42.466Z,@zemendev/web-components,1.0.0,besufkadmekonnen,UNLICENSED,67025,Universal Web Component DatePicker for any web framework
+2026-11-20T16:37:47.932Z,hostnote,0.1.0,getrift,MIT,49124,Point at what's wrong on your running app. Your coding agent fixes it.
+2026-11-20T16:37:48.659Z,@zemendev/express,1.0.0,besufkadmekonnen,UNLICENSED,34452,EC/GC Date Picker - reusable Express router and middleware for Ethiopian/Gregorian calendar APIs
+2026-11-20T16:37:52.312Z,@zemendev/fastify,1.0.0,besufkadmekonnen,UNLICENSED,32170,EC/GC Date Picker - Fastify plugin for Ethiopian/Gregorian calendar APIs
+2026-11-20T16:37:56.284Z,@zemendev/nestjs,1.0.0,besufkadmekonnen,UNLICENSED,27722,EC/GC Date Picker - NestJS dynamic module for Ethiopian/Gregorian calendar services
+2026-11-20T16:39:29.37Z,@kdnoesr/maid-companions,0.6.0,kdnoesr,BSD-3-Clause,1150050,左右鲸鱼娘女仆立绘 + 液态玻璃（v0.5.0 统一材质：输入框为基准，浮层/面板/控件共用一套折射与模糊语言）
+2026-11-20T16:40:21.037Z,@engine-spec/cli,0.3.0,iaspechq,Apache-2.0,124253,Universal EngineSpec CLI with AISpec compatibility
+2026-11-20T16:40:52.886Z,postalkit-mcp,0.1.1,postalkit,MIT,19228,"MCP server for Mexican postal codes (SEPOMEX): look up códigos postales, colonias, municipalities, streets and geocoding from Claude, Cursor and other AI assistants. Powered by the PostalKit API."
+2026-11-20T16:40:58.871Z,agentic-tab-context,0.5.1,hseshadri,MIT,703234,"Let your coding assistant use the browser tab you already have open, instead of opening a new one."
+2026-11-20T16:41:55.673Z,api-error-kit,0.1.0,deekshithr,MIT,13873,A lightweight error-handling toolkit for Node.js and Express applications.
+2026-11-20T16:43:04.21Z,adr-side-menu,0.0.2,broken1451,MIT,64864,This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.0.
+2026-11-20T16:43:46.841Z,@morethanthings/horizon-ds,0.1.0,ktdm-than,ISC,89307,"React components for the Horizon design system, built from its Figma library."
+2026-11-20T16:44:11.31Z,fidgetlabs,1.1.0,fidgetlabs,MIT,23936,"Official CLI and SDK for the Fidget Labs public API: ask what Fidget Labs does, list engagements, and classify an AI use against the EU AI Act. No API key."
+2026-11-20T16:44:29.657Z,dsh-smart-desktop,0.1.0,panhao1992,MIT,23156,Smart Desktop: a tool rail in the left sidebar (five launchers plus More) and the workspace-files tool opened in the dock on startup.
+2026-11-20T16:44:50.265Z,@codewardorg/mcp,0.4.1,kelvinmaina01,,89259,Codeward MCP Plugin — real audit control and evidence for coding agents.
+2026-11-20T16:45:05.522Z,@lvcca/ts-assert,1.1.3,lvcca,MIT,3411,TypeScript assertion utilities.
+2026-11-20T16:45:48.735Z,@skillporter/cli,0.1.0,stevesadr,Apache-2.0,84047,"Convert AI agent skills between agent formats, with an explicit fidelity report for everything that is lost."
+2026-11-20T16:46:56.143Z,farebox,0.1.0,sirsneak,MIT,15911,"Put a USDC fare on anything. One-command x402 paywall proxy: agents pay per request, straight to your wallet."
+2026-11-20T16:47:37.791Z,codeward-mcp,0.4.1,kelvinmaina01,,89255,Codeward MCP Plugin — real audit control and evidence for coding agents.
+2026-11-20T16:47:57.066Z,@beastui/tokens,0.0.1,theolemulot,MIT,72015,"BeastUI design tokens: one DTCG source, built to CSS variables, JSON and TypeScript constants."
+2026-11-20T16:48:54.991Z,@beastui/css,0.0.1,theolemulot,MIT,17589,"BeastUI components as plain CSS classes, zero JS, inside BeastUI's cascade layers."
+2026-11-20T16:49:08.486Z,@beastui/preact,0.0.1,theolemulot,MIT,5712,BeastUI for Preact: thin components that add behaviour to @beastui/css. No visual rule lives in JS.
+2026-11-20T16:49:25.466Z,@plume-canvas/kernel,0.1.1,imohuan,,500605,> `@plume-canvas/kernel`
+2026-11-20T16:49:32.189Z,@jfdevelops/docs,0.1.0,joeyfinkel,MIT,55110,"Generate and check versioned library docs: navigation, docs.json, and a TypeDoc API reference"
+2026-11-20T16:49:32.758Z,@plume-canvas/canvas-data,0.1.1,imohuan,,823702,
+2026-11-20T16:49:40.663Z,@plume-canvas/vue-render,0.1.1,imohuan,,235943,
+2026-11-20T16:49:48.368Z,@plume-canvas/plugin-sdk,0.1.1,imohuan,,58432,> `@plume-canvas/plugin-sdk`
+2026-11-20T16:49:59.01Z,@plume-canvas/canvas-render,0.1.1,imohuan,,1630759,
+2026-11-20T16:50:08.073Z,@mosugi/emdash-plugin-og-image,0.1.0,mosugi,MIT,19461,EmDash plugin that generates a default Open Graph image (title and site name) for entries without one
+2026-11-20T16:50:42.239Z,serverdex-mcp,1.0.1,serverdex,MIT,3683,"Search the Serverdex directory of 34,000+ MCP servers from any MCP client. Launcher for the remote Serverdex MCP server (https://serverdex.io/mcp)."
+2026-11-20T16:50:55.158Z,dsh-boost,0.1.0,saxem1997,Apache-2.0,1326205,Cut DSH token usage by projecting tool receipts and skipping deterministic read-only calls.
+2026-11-20T16:51:28.59Z,@gitmyabi/panwon,1.0.0,gitmyabi-bot,Apache-2.0,173400,"Auto-generated TypeScript type bindings for PANWon (build etherscan-panwon-34bfdff2-1795193472776, commit 6ed3f08, branch etherscan)"
+2026-11-20T16:52:07.569Z,nharness,1.0.0,fourtexec,,84030,"Provider-neutral terminal coding agent (Puter, OpenAI, Anthropic and compatible gateways)"
+2026-11-20T16:52:26.293Z,dsh-utodo,0.1.1,youthwhao,MIT,84589,待办与想法：DSH 左侧栏全局面板，待办支持单日 / 日期区间，想法支持标签
+2026-11-20T16:52:46.55Z,centillion,0.1.0,centillion-labs,MIT,1186901,Use Centillion from a shell or a coding assistant: sign in through the browser and run every Centillion MCP tool as a command.
+2026-11-20T16:52:58.694Z,dsh-rig,0.0.0,gezi-wen,Apache-2.0,13159,Name reservation. A right-sidebar plugin lab for DeepSeek Harness — the first real release is 0.1.0.
+2026-11-20T16:53:03.129Z,astrotales-core,1.0.1,devneeleshyadav,MIT,11479,"High-precision Vedic and Western astrology calculation engine. Calculates Julian Day, planetary positions, Ascendant / Rising signs, and Numerology formulas with zero external dependencies."
+2026-11-20T16:53:19.971Z,aciyua-iduat-doauuufa,0.0.1-security,npm,,448,security holding package
+2026-11-20T16:53:57.451Z,@ceasarxuu/dsh-maid,0.1.16,ceasarxuu,,119156,A local personal assistant and shared notebook for DeepSeek Harness
+2026-11-20T16:54:32.982Z,n8n-nodes-firemark,0.1.0,tenpointlabs,MIT,187591,"Read your Firemark AI visibility results in n8n: brands, results, prompts, runs, answers, Digital PR, changes, gaps, competitors and engines, and a trigger for new runs."
+2026-11-20T16:54:43.258Z,agent2mind,0.1.0,mindtalk69,MIT,2189053,"Master agent fleet strategy: observe every coding agent, diagnose why it fails, set model + flags, apply per project."
+2026-11-20T16:54:58.566Z,ngx-diffwise,0.9.0,pgoch,MIT,1995619,Side-by-side diffs of rendered HTML for Angular
+2026-11-20T16:55:32.465Z,inspekdev,0.50.1,arsyadcc,PolyForm-Strict-1.0.0,69580,"Connect the Inspek browser extension to Claude Code and other coding agents: one-step setup, the Inspek MCP server and its local hub."
+2026-11-20T16:55:49.864Z,dsh-topic-split,0.12.0,qq666-star,GPL-3.0-only,223869,从长会话中按主题或任意轮次挑选内容，导出为可继续的独立会话；支持覆盖率核对、导出后剪除并归档；不是分屏。
+2026-11-20T16:56:07.594Z,dsh-client-ui-auto-direction,0.1.0,alishahabi,Apache-2.0,33231,"Auto-direction for the DSH Web GUI — switches writing/bubble direction to RTL when Persian/Arabic/Hebrew text is detected, LTR otherwise."
+2026-11-20T16:56:12.277Z,dsh-client-ui-ports,0.3.1,alishahabi,Apache-2.0,101339,"Ports: a compact pill under the chat input that opens a popover listing every listening port, attributed to harness agents, the harness, or other processes, with a guarded stop action per row."
+2026-11-20T16:56:16.551Z,precognition-plus,0.1.0,codenyra,MIT,15189,"Checks common Laravel FormRequest rules in the browser for Precognition forms, and only asks the server for rules that need it."
+2026-11-20T16:56:17.725Z,dsh-client-ui-vazirmatn,0.1.0,alishahabi,Apache-2.0,325995,Vazirmatn for the DSH Web GUI — loads the Persian Vazirmatn font offline and applies it across the whole harness.
+2026-11-20T16:56:31.633Z,ck-runner,0.0.0-stage,cknb666,,331,Temporary package placeholder for staged publishing
+2026-11-20T16:56:42.684Z,aciyudua-iadut-daina,0.0.1-security,npm,,446,security holding package
+2026-11-20T16:58:10.786Z,aciyuyia-iadut-daina,0.0.1-security,npm,,446,security holding package
+2026-11-20T16:58:39.461Z,dsh-senses,0.2.0,woshixiaoshaui2333,MIT,138014,让 DSH 能听声音、看视频、画图、出片、说话。五个能力，一套配置，零第三方依赖。
+2026-11-20T16:59:28.678Z,apitrace-express,0.1.0,kumarspace,MIT,45815,Visualize API request lifecycles
+2026-11-20T17:00:08.511Z,@exoscale/sdk,0.1.0,brutasse,Apache-2.0,2813698,"Exoscale API TypeScript SDK, generated from the Exoscale OpenAPI specification"
+2026-11-20T17:00:41.977Z,@gitmyabi/launcher,1.0.0,gitmyabi-bot,Apache-2.0,44457,"Auto-generated TypeScript type bindings for Launcher (build etherscan-launcher-bd536dba-1795194022982, commit 763149f, branch etherscan)"
+2026-11-20T17:00:42.664Z,aminchocolat,0.0.1-security,npm,,430,security holding package
+2026-11-20T17:00:49.945Z,shopify-partners-mcp,0.1.0,niyxuis,MIT,66594,"Read-only MCP server for the Shopify Partner API: apps, earnings, install and billing events, subscriptions."
+2026-11-20T17:00:54.857Z,mesh-orchestrator,0.2.1,roy_stars,MIT,175610,"Local multi-agent orchestration for Claude Code, Codex, Antigravity, and DSH"
+2026-11-20T17:00:58.914Z,dissent-factory,0.0.1,jadibdev,Apache-2.0,12434,Autonomous multi-model issue-to-PR software factory powered by Dissent and the Vercel AI SDK.
+2026-11-20T17:01:04.203Z,grand-transfer-agent,0.1.0,gtaagency,MIT,125514,"AI wallet agent for Robinhood Chain in your terminal: plan ETH transfers in plain words, confirm, and keep the books."
+2026-11-20T17:01:18.286Z,@rankizz/skills,0.6.0,licofis,MIT,267626,"Rankizz agent skills for SEO, audience research, outreach, and evidence-based writing. Install into Claude Code, Codex, and other Agent Skills clients."
+2026-11-20T17:01:41.191Z,@edutecka-mz/edpay-skills,0.1.1,edutecka-mz,,10942,Install the official EDPay integration skill into supported AI coding agents.
+2026-11-20T17:02:15.405Z,dsh-realtime-interview,0.9.0,liangshoux,MIT,4069159,"DSH 实时模拟面试插件：简历 + JD → 有准备的面试 → 逐轮追问 → 实时摄像与语音 → 事后分析报告。Real-time mock-interview plugin for DeepSeek Harness: live ASR/TTS, camera, and a post-interview report — everything stays on your machine."
+2026-11-20T17:02:32.699Z,amjadatef,0.0.1-security,npm,,424,security holding package
+2026-11-20T17:03:08.62Z,@skillland/validator,0.1.1,elv1s42,MIT,445379,"Lint SKILL.md agent skills against the Agent Skills spec and the official guidance from Anthropic, OpenAI and Cursor. Every rule quotes its source."
+2026-11-20T17:03:18Z,fibcheck,0.1.0,ololadestephen,MIT,210796,"A lie detector for READMEs and docs: checks each claim in a real browser with Kane CLI, and proves the fix."
+2026-11-20T17:05:16.827Z,cortico-world-fatfish-memo,0.1.0,lzyiluo,MIT,16690,给 Coo 的「记一笔」和「体检」：把一句话写进当天日记（自动带时间和别名），并定期检查记忆文件里过时、过长、没被索引的条目。
+2026-11-20T17:06:10.249Z,@lightcheng/dsh-translate,0.1.4,lightcheng,MIT,2949634,"English translation and learning for DeepSeek Harness: bilingual reasoning, selection translation, composer polish, offline dictionary, pronunciation, vocabulary notebook"
+2026-11-20T17:06:12.952Z,amjadtaheem,0.0.1-security,npm,,428,security holding package
+2026-11-20T17:06:21.806Z,@stripe/charts,0.0.1,gtitus-stripe,MIT,1243116,Declarative time-series charts and KPI cards.
+2026-11-20T17:06:48.674Z,@umber-style/cache,0.0.0-stage,soroush_co,,340,Temporary package placeholder for staged publishing
+2026-11-20T17:06:51.1Z,@umber-style/css,0.0.0-stage,soroush_co,,338,Temporary package placeholder for staged publishing
+2026-11-20T17:06:53.21Z,@umber-style/server,0.0.0-stage,soroush_co,,341,Temporary package placeholder for staged publishing
+2026-11-20T17:06:54.096Z,dsh-history-message-editor,0.0.0-stage,yuande,,348,Temporary package placeholder for staged publishing
+2026-11-20T17:06:55.484Z,@umber-style/styled,0.0.0-stage,soroush_co,,341,Temporary package placeholder for staged publishing
+2026-11-20T17:06:56.284Z,@apiforge-tools/apiforge-cli,0.0.0-stage,jhygayshdh,,350,Temporary package placeholder for staged publishing
+2026-11-20T17:07:06.713Z,@zer0_y/dsh-workbench,1.0.0,zer0_y,MIT,1313742,个人工作台：资产评估项目管理与工时、考证学习规划与考试提醒、自选股行情与买卖点提醒
+2026-11-20T17:07:30.308Z,aicost-mcp,1.2.0,ufhouck,MIT,67919,"AI API Cost Calculator, Model Recommender & Budget Estimator MCP Server. Compare OpenAI, Anthropic, Google, DeepSeek & OpenRouter pricing across 200+ currencies."
+2026-11-20T17:08:45.285Z,@thepoet21/core,0.1.0,thepoet21,MIT,330542,"Platform-free core of thePoet21 UI: theme tokens, presets, icon drawings, formatters, statuses, form state, dates and Excel/PDF builders. Shared by @thepoet21/ui (web) and @thepoet21/native (React Na…"
+2026-11-20T17:08:48.935Z,@thepoet21/ui,0.1.0,thepoet21,MIT,1074282,"Reusable React + Tailwind v4 admin UI pack: layout shell, forms, tables, modals, analytics."
+2026-11-20T17:08:51.446Z,@thepoet21/native,0.1.0,thepoet21,MIT,153952,"thePoet21 UI for React Native and Expo: same components, theme, icons and Excel/PDF export as @thepoet21/ui, built on native primitives."
+2026-11-20T17:08:55.047Z,anabuyi-inu-ninni,0.0.1-security,npm,,440,security holding package
+2026-11-20T17:09:30.608Z,@locusqa/runner,0.1.0,rifaudeen,FSL-1.1-ALv2,793957,Customer-run test runner for Locus: executes your recorded test cases on your own network and reports results to your Locus workspace.
+2026-11-20T17:10:28.256Z,@bitshaft/medusa-plugin-coupons,0.1.0,tutusbot,MIT,547982,"Coupon panel for Medusa v2: one-sentence coupon summaries, a three-step wizard with live preview, per-customer and first-order limits, exclusive coupons, tiers, exclusions, unique single-use code bat…"
+2026-11-20T17:11:21.545Z,dsh-local-opencode,0.2.0,gzxc-vbnm,MIT,168066,"Local OpenCode plugin for DeepSeek Harness (dsh): discovers the opencode server already running on this machine and registers its zero-cost free models (Big Pickle, DeepSeek V4.1 Flash Free, GLM-5.3-…"
+2026-11-20T17:11:24.797Z,@ghaniyyrahmans/gaet,1.2.0,ghaniyyrahmans,MIT,39207,Official TypeScript/JavaScript SDK client for Gaet - Zero-dependency PostgreSQL Database Backup & Cloud Sync CLI & Service
+2026-11-20T17:11:33.128Z,@open-prompts/cli,0.1.0,theophile-wallez,MIT,93856,"Commit the prompts behind your code. A small specification, and hooks for Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot and OpenCode that record every prompt you type, with the agent, model…"
+2026-11-20T17:11:55.585Z,anabuyi-inuba-ninni,0.0.1-security,npm,,444,security holding package
+2026-11-20T17:12:02.032Z,cc-msg-bridge,0.2.0,nolanyu,MIT,37728,"Bridge any local process to Claude Code sessions as a first-class cross-session messaging peer — speaks CC's native SendMessage wire protocol (uds inbox pipes + ~/.claude/sessions registry), zero ins…"
+2026-11-20T17:12:46.002Z,@memberjunction/ng-public-host,0.0.0,caeleb.balanesi,,2083,OIDC trusted publishing setup package for @memberjunction/ng-public-host
+2026-11-20T17:12:51.245Z,pulpweaver4,0.0.88,cco3,CC0-1.0,25744487,"A typesetting system that runs in the browser: Djot in; TeX-quality lines and pages; web, PDF and text out."
+2026-11-20T17:12:55.235Z,pulpweaver4-cli,0.0.88,cco3,CC0-1.0,754138,"pw, pulpweaver4's command line: the core, hosted on Node and headless Chromium."
+2026-11-20T17:13:26.745Z,anabuyil-inanhu-ninni,0.0.1-security,npm,,448,security holding package
+2026-11-20T17:13:38.588Z,@crystalflow/types,0.1.0,hamza.benyazid,MIT,38499,TypeScript type definitions for CrystalFlow
+2026-11-20T17:13:48.693Z,@m-intelligence/tokens,0.3.0,muisurasak,MIT,104517,"M-Intelligence design tokens — CSS variables, Tailwind v4 theme, JS tokens and Salesforce LWC/SLDS outputs from one source."
+2026-11-20T17:13:56.097Z,@crystalflow/core,0.1.0,hamza.benyazid,MIT,527311,Core workflow engine for CrystalFlow
+2026-11-20T17:14:07.428Z,@crystalflow/react,0.1.0,hamza.benyazid,MIT,422933,React components for CrystalFlow workflow builder
+2026-11-20T17:15:12.603Z,anabuyil-inpa-ninni,0.0.1-security,npm,,444,security holding package
+2026-11-20T17:15:18.916Z,@rizamo/ai-sdk,0.1.0,rizamo,MIT,11000,"Rizamo tools for the Vercel AI SDK: publish, schedule and measure social posts on Instagram, Facebook, TikTok, Threads, LinkedIn and YouTube, and answer comments and messages."
+2026-11-20T17:16:16.217Z,india-working-days,1.0.0,smritiazm,MIT,31559,"Indian bank working-day calculator: 2nd/4th Saturday rule, holidays by state, next working day, T+N settlement dates, EMI due-date adjustment. Zero dependencies."
+2026-11-20T17:16:16.582Z,mcp-warframe-public-api,0.2.0,lucasaarch,MIT,16848,"MCP server (stdio) for Warframe public APIs: DE Public Export, warframestat.us and warframe.market"
+2026-11-20T17:16:38.831Z,anabuyil-inupava-ninni,0.0.1-security,npm,,450,security holding package
+2026-11-20T17:17:46.372Z,@foundrykit/payload-admin-ui,0.1.0,sneddo,MIT,92979,"Shared dashboard for the Payload CMS 3 admin: welcome with per-person quick links, at-a-glance numbers, recent changes, latest media, collections and globals overviews, a JSON default layout and defi…"
+2026-11-20T17:17:55.861Z,anabuyil-na0n-luiahuas,0.0.1-security,npm,,450,security holding package
+2026-11-20T17:18:09.956Z,@cephboy-ai/sdk,1.0.0,cephboy-ai,MIT,128859,"Official JavaScript SDK for the Cephboy developer API, CFC tools, memory, automations and optional browser-local vision and document utilities"
+2026-11-20T17:18:18.444Z,chat-adapter-supergreen,0.1.0,uriv,MIT,153081,Supergreen adapter for Chat SDK — serverless WhatsApp (personal & groups) and Telegram messaging over signed webhooks
+2026-11-20T17:19:07.662Z,anabuyil-na0n-lukiahuas,0.0.1-security,npm,,452,security holding package
+2026-11-20T17:19:35.009Z,kode-bank-indonesia,0.0.0-stage,dnardhi,,341,Temporary package placeholder for staged publishing
+2026-11-20T17:20:21.698Z,anais-papoa-0pipaia,0.0.0-stage,npm,,341,Temporary package placeholder for staged publishing
