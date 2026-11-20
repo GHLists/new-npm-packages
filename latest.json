@@ -1,48 +1,168 @@
 {
   "list": {
-    "count": 339,
-    "from": "2026-11-20T03:18:46.475968Z",
-    "path": "data/new-packages-2026-11-20T04-18-50-895687Z.csv",
-    "to": "2026-11-20T04:18:50.895687Z"
+    "count": 401,
+    "from": "2026-11-20T04:18:50.895687Z",
+    "path": "data/new-packages-2026-11-20T05-21-15-788218Z.csv",
+    "to": "2026-11-20T05:21:15.788218Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@antzsoft/token-verifier",
-      "since": "2026-11-20T03:18:46.475968Z"
+      "package": "@acryldev/command-reply",
+      "since": "2026-11-20T04:18:50.895687Z"
     },
     {
       "attempts": 1,
-      "package": "@complements/vendor-cli",
-      "since": "2026-11-20T03:18:46.475968Z"
+      "package": "@acryldev/db-pglite",
+      "since": "2026-11-20T04:18:50.895687Z"
     },
     {
       "attempts": 1,
-      "package": "@mrfentmen/electrical-diy-breaker-panel-map-index-mcp",
-      "since": "2026-11-20T03:18:46.475968Z"
+      "package": "@acryldev/feedback",
+      "since": "2026-11-20T04:18:50.895687Z"
     },
     {
       "attempts": 1,
-      "package": "@mrfentmen/electrical-diy-breaker-panel-map-sim-mcp",
-      "since": "2026-11-20T03:18:46.475968Z"
+      "package": "@acryldev/harness-runtime",
+      "since": "2026-11-20T04:18:50.895687Z"
     },
     {
       "attempts": 1,
-      "package": "@mrfentmen/electrical-diy-outlet-swap-safe-match-mcp",
-      "since": "2026-11-20T03:18:46.475968Z"
+      "package": "@acryldev/home",
+      "since": "2026-11-20T04:18:50.895687Z"
     },
     {
       "attempts": 1,
-      "package": "@subclip/skills",
-      "since": "2026-11-20T03:18:46.475968Z"
+      "package": "@acryldev/inspect",
+      "since": "2026-11-20T04:18:50.895687Z"
     },
     {
       "attempts": 1,
-      "package": "@winding-labs/griffin",
-      "since": "2026-11-20T03:18:46.475968Z"
+      "package": "@acryldev/kv",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/kv-db",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/kv-json",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/launcher-desktop",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/manifest",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/mount-anchors",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/openai",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/page",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/plugin-context",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/plugin-hub",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/plugin-share",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/router-http",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/sandbox",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@acryldev/web-server",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@immit/dictionary",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/resumes-cover-note-draft-compare-mcp",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/resumes-cover-note-draft-plan-mcp",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/resumes-portfolio-link-audit-index-mcp",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/resumes-portfolio-link-audit-match-mcp",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/resumes-portfolio-link-audit-sim-mcp",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/resumes-portfolio-link-audit-track-mcp",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@mrfentmen/resumes-reference-list-ready-plan-mcp",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@rdxheree/top.gg-voter",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@traceai/sagemaker",
+      "since": "2026-11-20T04:18:50.895687Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@weiqun789/plugin-sdk",
+      "since": "2026-11-20T04:18:50.895687Z"
     }
   ],
-  "seq": 146231840,
+  "seq": 146240609,
   "source_truncated": false,
-  "window": "2026-11-20T04:18:50.895687Z"
+  "window": "2026-11-20T05:21:15.788218Z"
 }
