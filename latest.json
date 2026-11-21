@@ -1,38 +1,33 @@
 {
   "list": {
-    "count": 104,
-    "from": "2026-11-21T02:21:01.219876Z",
-    "path": "data/new-packages-2026-11-21T03-19-59-48637Z.csv",
-    "to": "2026-11-21T03:19:59.48637Z"
+    "count": 91,
+    "from": "2026-11-21T03:19:59.48637Z",
+    "path": "data/new-packages-2026-11-21T04-20-09-115067Z.csv",
+    "to": "2026-11-21T04:20:09.115067Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "package": "@kition/kit-slide-darwin-x64",
-      "since": "2026-11-21T02:21:01.219876Z"
+      "package": "@blankways/remote",
+      "since": "2026-11-21T03:19:59.48637Z"
     },
     {
       "attempts": 1,
-      "package": "@kition/kit-slide-linux-arm64",
-      "since": "2026-11-21T02:21:01.219876Z"
+      "package": "@kinglet/mcp",
+      "since": "2026-11-21T03:19:59.48637Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "package": "@kition/kit-vector-darwin-arm64",
+      "since": "2026-11-21T03:19:59.48637Z"
+    },
+    {
+      "attempts": 3,
       "package": "@npm-ken/pi-snippets",
       "since": "2026-11-21T01:19:03.870504Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@sveti/one-cli",
-      "since": "2026-11-21T02:21:01.219876Z"
-    },
-    {
-      "attempts": 1,
-      "package": "@sveti/one-plugin",
-      "since": "2026-11-21T02:21:01.219876Z"
     }
   ],
-  "seq": 146475078,
+  "seq": 146480624,
   "source_truncated": false,
-  "window": "2026-11-21T03:19:59.48637Z"
+  "window": "2026-11-21T04:20:09.115067Z"
 }
