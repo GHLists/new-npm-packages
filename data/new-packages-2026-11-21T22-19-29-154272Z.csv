@@ -1,0 +1,92 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-21T21:18:44.349Z,rcugen,1.0.0,julianw03,ISC,41377,Generates OpenAPI and AsyncAPI documents from the Riot Client's /help self-description
+2026-11-21T21:20:48.664Z,@agentproto/voice-gemini,0.0.0,agentiknet,Apache-2.0,61038,@agentproto/voice-gemini: Google Gemini Live voice provider for @agentproto/voice (speech-to-speech over the bidirectional Live API). Talks to generativelanguage.googleapis.com directly; no agent fra…
+2026-11-21T21:20:48.785Z,@agentproto/voice-elevenlabs,0.0.0,agentiknet,Apache-2.0,88021,"@agentproto/voice-elevenlabs: ElevenLabs voice provider for @agentproto/voice. TTS (HTTP and WebSocket stream-input), Scribe speech-to-text (realtime stream and file), and the hosted speech-to-speech…"
+2026-11-21T21:21:14.199Z,dsh-xu-douyin,0.16.0,xiaoxuxwy,MIT,165530,小续的抖音：用你自己已登录的浏览器看/搜/评论/回私信抖音，带今日面板、定时浏览、主人权限闸门。默认只预演，确认才真发。
+2026-11-21T21:21:17.502Z,@astrohosting/mcp-server,1.1.1,makkomark,MIT,207931,"MCP server for the client API: manage hosting, apps, domains, servers, billing and support from an AI coding tool"
+2026-11-21T21:21:20.171Z,@webomage/a2ui-vinext,0.1.0,w0m,Apache-2.0,276503,"A2UI v1.0 & v0.9.1 React 19 RSC renderer, catalog validator, Vite SSR/HMR plugin, and Cloudflare Workers edge streaming adapter for cloudflare/vinext."
+2026-11-21T21:24:06.044Z,@wo-library/oxlint-config,1.0.0,tiwariav,MIT,54344,Shared oxlint config presets for wo-library packages
+2026-11-21T21:24:06.104Z,@wo-library/node,1.0.0,tiwariav,MIT,46318,Node.js utilities
+2026-11-21T21:24:09.656Z,@omar-gad-dev/apple-compose,1.0.1,omar-gad-dev,MIT,160646,"Install the Apple-style iOS design skill for Jetpack Compose into Claude Code, OpenCode, Cursor, Copilot, Continue, Windsurf, Aider, PI or agy with one npx command."
+2026-11-21T21:25:03.404Z,yudai-session-monitor,1.0.0,priotelus,MIT,29124,"Session, agent, and permission monitor TUI plugin for OpenCode"
+2026-11-21T21:25:49.323Z,@aegirax/chat-client,0.5.1,alipacala,MIT,244575,Headless TypeScript SDK for Aegirax Chat SSE service
+2026-11-21T21:26:27.631Z,@nodef/extra-string.web,2.5.3,wolfram77,MIT,265364,A [string] is a sequence of characters.
+2026-11-21T21:26:45.622Z,agy-delegate-mcp,1.1.0,andreilungeanu,MIT,110927,"Delegate multi-file coding work from Claude Code, Codex, Copilot, or any MCP client to Google's Antigravity CLI (agy) — structured results, plan mode, and changed files."
+2026-11-21T21:27:41.109Z,llm-cost-audit,2.1.0,lapisli,MIT,502017,LLM 成本审计工具。输入账单，输出浪费清单和可省金额。
+2026-11-21T21:29:27.365Z,@droconnell/agent-inbox-cli,1.5.0,droconnell,MIT,26992,"The Next CLI: a support workspace's setup as a file in git, and the console terminal from your own computer."
+2026-11-21T21:29:51.209Z,homebridge-light-shortcuts,1.0.0,codoboy,MIT,31500,"Siri-friendly switches that apply WLED presets and WiZ scenes, white or colour settings."
+2026-11-21T21:30:00.054Z,mefcs-mcp,0.1.0,cayocan,MIT,181498,MCP server to control M-VAVE pedals (Tank-G first) through the M-EFCS USB bridge
+2026-11-21T21:30:06.456Z,@chenyqthu/omada-ui-kit,0.2.0,lucienchen,MIT,13630302,Omada Controller v6.3 React UI component library (Ant Design 6 + Design Tokens + Figma Assets + Single-file HTML standalone bundle)
+2026-11-21T21:31:18.788Z,@pavanmanishd/tui-use,1.0.0,pavanmanishd,Apache-2.0,242946,"Let any AI agent drive interactive terminal programs: vim, git rebase -i, npm init, ssh, REPLs, htop."
+2026-11-21T21:33:08.91Z,pepkio-power-and-effect-navigator,0.1.0,pepkio,MIT,70210,"Call the Pepkio Power & Effect Navigator REST API from Node.js and TypeScript for biostatistical power calculations, sample sizing, and IACUC justification."
+2026-11-21T21:33:19.804Z,@ltw2522/dsh-503-guard,1.0.2,ltw2522,MIT,49429,DSH 服务端故障自愈：模型请求被 5xx（典型 503）拒绝、内置重试耗尽后，在后台持续探测上游是否恢复，一旦恢复自动把这一轮重新拉起来。
+2026-11-21T21:33:27.196Z,@ltw2522/dsh-peak-window,1.3.0,ltw2522,MIT,147341,DSH 峰时守卫：峰时点发送前弹确认卡，谷时临近峰时给非阻断提醒；放假安排自动更新。
+2026-11-21T21:34:39.366Z,agentlets,0.0.1,abrahamsony,Apache-2.0,1091,Mint a Protected Twin of your AI agent — armored agents for fighting rogue agents. CLI coming shortly; spec and skills at the repo.
+2026-11-21T21:36:57.587Z,@wrikka/ui-core,0.1.2,newkubise,MIT,5900,"Platform-agnostic UI core — component spec, registry contract, token types. No framework dependencies."
+2026-11-21T21:38:45.262Z,planflare,0.1.0,drod915,MIT,86069,"Offline PostgreSQL EXPLAIN (ANALYZE, BUFFERS, FORMAT JSON) flamegraph, hotspot detector, and before/after plan diff CLI (zero runtime dependencies)."
+2026-11-21T21:38:45.416Z,swarmprof,0.1.0,drod915,MIT,264142,"Zero-dependency multi-agent coding swarm profiler, concurrency flamegraph viewer, and failure autopsy CLI."
+2026-11-21T21:38:59.319Z,viberbrain,0.0.1,bazylikucharski,UNLICENSED,479,ViberBrain: name reserved. The Brain Agent release will be published here later.
+2026-11-21T21:39:45.062Z,@lambdaorm/data-gateway-client,0.1.0,flaviolrita,MIT,123129,"Client of the λORM Data Gateway: the same queries and the same API over REST, WebSocket or MCP, chosen by the connection string"
+2026-11-21T21:40:21.325Z,@luosuqwq/dsh-ui-appearance,0.1.7,luosuqwq,MIT,9679617,"Wallpapers with parallax, frosted-glass panels, sidebar auto-hide and chat styling, all adjustable from a Settings section."
+2026-11-21T21:40:22.643Z,@adhiksit/dayflow,1.0.0,adhiksit,MIT,795710,"A lightweight, offline-first productivity engine and CLI that tracks tasks, timers, calculates explainable productivity scores, and generates daily and weekly summaries."
+2026-11-21T21:40:23.993Z,@luosuqwq/dsh-diagram,0.1.4,luosuqwq,MIT,72547,"Renders explanatory diagrams, web pages and annotated images to PNG, and shows them inline in answers."
+2026-11-21T21:40:33.521Z,@luosuqwq/dsh-drawing-tools,0.1.4,luosuqwq,MIT,554994,"ComfyUI toolset and the Minimal drawing agent preset: inspect models, read per-family guides, generate, queue and review images, with a sidebar entry for the canvas."
+2026-11-21T21:42:10.975Z,@drod915/q9s,0.1.0,drod915,MIT,226034,"k9s for background job queues: terminal dashboard and safe DLQ inspector for BullMQ, River, and pg-boss"
+2026-11-21T21:42:42.914Z,@jeipidevs/anti-rea,0.1.3,jeipidevs,MIT,223367,Porteiro (proxy reverso) open source contra engenharia reversa e cópia de sites.
+2026-11-21T21:42:54.15Z,wordpress-site-connector,1.0.0,herper,MIT,802533,MCP server for self-hosted WordPress sites (REST API + Application Password). Used by the WorkBuddy WordPress Site Connector.
+2026-11-21T21:43:04.793Z,commitbench,0.1.0,drod915,MIT,192139,"Turn your own git history into a leak-proof benchmark for coding agents, models, and AGENTS.md prompts."
+2026-11-21T21:49:14.063Z,@prkit/vue,1.0.0-beta.1,prfardin,,29584911,A Vue 3 component library built on top of PrKit Core.
+2026-11-21T21:49:27.635Z,prefrontal-agent,0.71.0-nightly.20261118.g615d6bc8c,sidx1scr-apps,,75171222,Prefrontal Agent — a Gemini-based terminal coding agent with a local-first UI and direct DuckDuckGo search.
+2026-11-21T21:53:06.322Z,@garag0l/turkmen-translit,0.1.1,garag0l,MIT,11061,Transliterate Turkmen between the legacy Cyrillic and the current official Latin alphabet. Zero dependencies.
+2026-11-21T21:53:33.891Z,runtime-updater,0.0.0-stage,pipiskin,,337,Temporary package placeholder for staged publishing
+2026-11-21T21:55:41.789Z,@datacircle/strands,0.1.0,datacircle,MIT,28561,Strands Agents TypeScript tools on Datacircle's open API: find the best GTM APIs. List every API and see which provider ranks first on each one. Search every provider's pricing plans. See where a pro…
+2026-11-21T21:57:16.316Z,@c1-ease/core,99.0.1,ppblpp1,MIT,2979,Compatibility shim.
+2026-11-21T21:59:18.771Z,@c1-ease/autoloan,99.0.1,ppblpp1,MIT,2991,Compatibility shim.
+2026-11-21T21:59:42.971Z,workbus,0.0.0,jaredmixpanel,,738,"A company that runs on one log: its chat, tasks, and docs, and the agents who do the work, on Cloudflare. The first release is on its way."
+2026-11-21T22:00:00.02Z,baldis-basics,1.0.0,amirsam67,MIT,37525604,Static SVG site
+2026-11-21T22:00:05.668Z,teemo-tween,0.0.0,dominikbiskupovic,MIT,70246,"One-line tweens, sequences and game-feel presets for web games, built on GSAP."
+2026-11-21T22:00:53.774Z,@securegraph-ai/tunnel,1.0.0,securegraph-packages,UNLICENSED,3127,Let SecureGraph test the app running on your machine: sg-tunnel <port> --code <code>
+2026-11-21T22:01:13.642Z,xevion,0.0.0-stage,the_ligh10,,328,Temporary package placeholder for staged publishing
+2026-11-21T22:01:19.566Z,@nodef/extra-bit.web,2.5.0,wolfram77,MIT,22605,"The [bit] is a basic unit of information in information theory, computing.<br>"
+2026-11-21T22:01:25.597Z,@c1-ease/bank,99.0.1,ppblpp1,MIT,2979,Compatibility shim.
+2026-11-21T22:01:59.022Z,@enhanced-dom/starter,0.1.0,enhanced.dom.admin,MIT,69602,Helpers for jumpstarting a project
+2026-11-21T22:03:26.726Z,@c1-ease/card,99.0.1,ppblpp1,MIT,2979,Compatibility shim.
+2026-11-21T22:03:39.112Z,wx-chucker,1.0.1,ryanagungsamudra,MIT,105158,In-App Network & Native Bridge Inspector for WeChat Mini-Programs (Chucker for WeChat / TCMPP)
+2026-11-21T22:03:59.831Z,@pragma-sh/antigravity-plugin,0.0.0,ekrich,AGPL-3.0-only,109190,Google Antigravity CLI (agy) plugin that reports agent status to Pragma via native hooks.
+2026-11-21T22:05:27.669Z,sieve-core,0.1.0,markusuk1,UNLICENSED,522265,"Keeps the right things in an agent's context and enforces the owner's rules, through Claude Code hooks."
+2026-11-21T22:05:30.262Z,@c1-ease/commerce,0.0.0-stage,ppblpp1,,339,Temporary package placeholder for staged publishing
+2026-11-21T22:05:31.826Z,sieve-app,0.1.0,markusuk1,UNLICENSED,228920,A local web app that displays and configures Sieve for one project: started by `sieve app`.
+2026-11-21T22:06:53.133Z,@dnikulshin/pi-harness,0.1.2,d.nikulshin,MIT,72305,Адаптер Pi для ядра @dnikulshin/harness: детерминированный цикл plan → code → gates → review → evaluate → decide одной командой
+2026-11-21T22:06:54.243Z,@aguuskkk/smio-ui,0.1.0,aguuskkk,MIT,21830,"Un framework CSS híbrido, ligero y personalizable basado en Sass."
+2026-11-21T22:06:59.901Z,@pincast/placecard-kit,1.6.0,pincast,MIT,791663,"Vue components and logic for a table of collectible cards: sort, filter, flip, plan a walk. Any app can draw its own cards with it."
+2026-11-21T22:07:01.687Z,@certisyn/verify,1.3.0,certisyn,Apache-2.0,58142,"Certisyn client library. Calls the public verification endpoints and re-computes every verdict on the caller's machine, so a sealed record is checked without trusting the host that served it."
+2026-11-21T22:07:13.896Z,@ohos-ports/oxc-node-core,0.1.3-beta.0,louzen,MIT,279719,Transformer and register for Node.js projects — OpenHarmony port of `@oxc-node/core@0.1.3`.
+2026-11-21T22:07:16.504Z,@micropasts/linked-art-geotrail,0.1.3,dejp3,MIT,1634893,An interactive React component for visualizing Linked Art cultural heritage records as animated geospatial event arcs.
+2026-11-21T22:07:37.626Z,@c1-ease/recovery,0.1.0,ppblpp1,MIT,168,"Hi, Simple package"
+2026-11-21T22:07:38.846Z,sieve-core-cli,0.1.0,markusuk1,UNLICENSED,38666,"The sieve command: test, check and explain Sieve's configuration, and start its app."
+2026-11-21T22:07:46.491Z,@messeb/opencode-scheduler,1.0.0,messeb,MIT,204249,"opencode plugin: run skills on a schedule, autonomously, and pull you into the session with a desktop notification when the agent needs you."
+2026-11-21T22:10:38.062Z,n8n-nodes-emberleaf,0.1.0,jkhdsjkf,MIT,53254,"n8n community node for Emberleaf: extract JSON from invoices, contracts and scanned documents, parse, classify and split PDFs."
+2026-11-21T22:11:23.878Z,@bunker-community/plugin-sdk,0.1.4,furkannpala,MIT,59848,"SDK for Bunker plugins and bots: types, manifest validation and the remote plugin client (connect)."
+2026-11-21T22:11:24.15Z,fast-alpr-node,0.1.0,turielsilva,MIT,66505,Port of fast-alpr (Automatic License Plate Recognition) to Node.js using ONNX Runtime
+2026-11-21T22:11:24.487Z,houseguide,0.0.0,gokaygurcan,MIT,1479,Teach your coding agent the house rules.
+2026-11-21T22:12:12.084Z,@agentproto/billing,0.0.0,agentiknet,Apache-2.0,387207,"@agentproto/billing: AIP-BILLING reference implementation. The BILLING.md parser and defineBillingManifest, the payment path on the AIP-49 journal, the SettlementProvider contract, the provider regis…"
+2026-11-21T22:12:12.129Z,@agentproto/voice-assemblyai,0.0.0,agentiknet,Apache-2.0,73504,@agentproto/voice-assemblyai: AssemblyAI voice provider for @agentproto/voice. Streaming speech-to-text (Universal Streaming v3 WebSocket) and TTS-1 (WebSocket and HTTP). Talks to AssemblyAI directly…
+2026-11-21T22:12:32.592Z,@credian/clients,0.0.6,leslieomonz,MIT,787205,Credian CLI for connecting and managing external agents
+2026-11-21T22:12:47.258Z,@jag-k/fluent,0.1.0,jag-k,MIT,137900,"Fluent localization with the source text in the code: t(""…""), msg, t.byId over @fluent/bundle, the code's text as the fallback, formatted parts, Intl helpers, in-place language switching. Framework-a…"
+2026-11-21T22:12:49.042Z,@jag-k/fluent-hono,0.1.0,jag-k,MIT,18978,"hono/jsx binding of @jag-k/fluent: Localized (elements inside a translated sentence, attributes onto an element) and a provider that switches the language in place."
+2026-11-21T22:12:51.08Z,@jag-k/fluent-kit,0.1.0,jag-k,MIT,437436,"Tooling of @jag-k/fluent: the l10n CLI (extract the code's texts into FTL, type t.byId, check translations), its config, and plugins for Vite, Rollup, Rolldown, webpack, Rspack, esbuild and Bun."
+2026-11-21T22:13:54.572Z,n8n-nodes-factuurcentraal,0.0.1,wdnoord,MIT,208140,"n8n community node for Factuur Centraal: manage invoices, clients, quotes, products, receipts and dimensions from your workflows"
+2026-11-21T22:14:44.47Z,@relayline/cli,0.1.0,malle2002,MIT,17827,Relayline command line: forward your workspace's events to localhost and publish test events.
+2026-11-21T22:16:11.457Z,adomatic-mcp,5.8.2,adomatic,MIT,7178,"Zero-dependency MCP server for Ad-o-matic: 1-line free P2P mobile app cross-promotion for Android, iOS, Flutter, React Native, and WebView apps."
+2026-11-21T22:17:13.675Z,@bool-ts/websocket,1.0.0,tam.dev.4693,MIT,596879,WebSocket wrapper for BoolTS framework
+2026-11-21T22:17:32.067Z,pelers-darwin-arm64,1.0.0-alpha2,farhnkrnapratma,MIT OR Apache-2.0,8450816,"A fast, lightweight Mermaid renderer that outputs themeable SVG. Rust core with a JavaScript/TypeScript binding (derived from Pelers)."
+2026-11-21T22:18:10.669Z,pelers-darwin-x64,0.0.0-stage,farhnkrnapratma,,339,Temporary package placeholder for staged publishing
+2026-11-21T22:18:17.336Z,pelers-linux-arm64-gnu,0.0.0-stage,farhnkrnapratma,,344,Temporary package placeholder for staged publishing
+2026-11-21T22:18:24.254Z,pelers-linux-arm64-musl,0.0.0-stage,farhnkrnapratma,,345,Temporary package placeholder for staged publishing
+2026-11-21T22:18:30.568Z,pelers-linux-arm-gnueabihf,0.0.0-stage,farhnkrnapratma,,348,Temporary package placeholder for staged publishing
+2026-11-21T22:18:36.73Z,pelers-linux-ppc64-gnu,0.0.0-stage,farhnkrnapratma,,344,Temporary package placeholder for staged publishing
+2026-11-21T22:18:42.493Z,pelers-linux-riscv64-gnu,0.0.0-stage,farhnkrnapratma,,346,Temporary package placeholder for staged publishing
+2026-11-21T22:18:49.027Z,pelers-linux-s390x-gnu,0.0.0-stage,farhnkrnapratma,,344,Temporary package placeholder for staged publishing
+2026-11-21T22:18:56.066Z,pelers-linux-x64-gnu,0.0.0-stage,farhnkrnapratma,,342,Temporary package placeholder for staged publishing
+2026-11-21T22:18:59.055Z,@chord-ts/clef,0.0.0-stage,dmdin,,336,Temporary package placeholder for staged publishing
+2026-11-21T22:19:03.211Z,pelers-linux-x64-musl,0.0.0-stage,farhnkrnapratma,,343,Temporary package placeholder for staged publishing
