@@ -1,0 +1,141 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-20T23:15:11.574Z,@softistx/alxia-modules,0.6.0,stevegires,MIT,100923,"Modules for an application: a manifest per module, a registry resolved in dependency order, typed collection access limited to what a module owns or depends on, and a test that holds the module bound…"
+2026-11-20T23:15:32.396Z,@softistx/alxia-context-storage,0.4.0,stevegires,MIT,60265,"The request's context anywhere it runs — a service, a repository, a logger — through AsyncLocalStorage: alxia's hono/context-storage, typed by the app"
+2026-11-20T23:15:54.68Z,@softistx/alxia-media,0.12.0,stevegires,MIT,315370,"Media through the API for alxia: kinds with their authorization, content types, size limit and throttle, and the routes that stream a private bucket's files with Range, ETag and 304; @softistx/alxia-…"
+2026-11-20T23:15:57.906Z,@softistx/alxia-rate-limit,0.7.0,stevegires,MIT,85232,"Rate limiting for alxia: a 429 with Retry-After past the limit, the remaining allowance typed in the context, pluggable stores"
+2026-11-20T23:16:01.129Z,@softistx/alxia-secure-headers,0.6.0,stevegires,MIT,149570,"Secure HTTP headers for alxia: HSTS, CSP, nosniff and the rest, each one adjustable"
+2026-11-20T23:16:31.465Z,@rockscience/jpel,1.0.0,bobdamit,MIT,103737,"JPEL (JSON Process Execution Language): the specification, its JSON Schemas and sample processes"
+2026-11-20T23:16:33.19Z,@softistx/alxia-proxy,0.5.0,stevegires,MIT,217990,"A reverse proxy for alxia: forward a path or a prefix to a fixed upstream, streamed both ways, behind the app's own middlewares"
+2026-11-20T23:17:32.067Z,@magichourhq/editor-kit,0.1.0,magichour,MIT,32891,Shared video generation flow for Magic Hour's design editor apps
+2026-11-20T23:18:42.945Z,@extended-mark/wasm,0.0.0-stage,muhammad-mujtaba,,341,Temporary package placeholder for staged publishing
+2026-11-20T23:18:43.908Z,b4n1-audit,0.1.2,b4n1,SEE LICENSE IN LICENSE.md,87207492,B4N1 Audit SDK for JavaScript — security & code quality scanner with bundled binary
+2026-11-20T23:18:46.687Z,@extended-mark/cli-linux-x64,0.0.0-stage,muhammad-mujtaba,,350,Temporary package placeholder for staged publishing
+2026-11-20T23:18:50.295Z,@extended-mark/cli-linux-arm64,0.0.0-stage,muhammad-mujtaba,,352,Temporary package placeholder for staged publishing
+2026-11-20T23:18:54.124Z,@extended-mark/cli-darwin-x64,0.0.0-stage,muhammad-mujtaba,,351,Temporary package placeholder for staged publishing
+2026-11-20T23:18:57.833Z,@extended-mark/cli-darwin-arm64,0.0.0-stage,muhammad-mujtaba,,353,Temporary package placeholder for staged publishing
+2026-11-20T23:19:01.672Z,@extended-mark/cli-win32-x64,0.0.0-stage,muhammad-mujtaba,,350,Temporary package placeholder for staged publishing
+2026-11-20T23:19:08.289Z,@extended-mark/runtime,0.0.0-stage,muhammad-mujtaba,,344,Temporary package placeholder for staged publishing
+2026-11-20T23:19:11.273Z,@extended-mark/dom,0.0.0-stage,muhammad-mujtaba,,340,Temporary package placeholder for staged publishing
+2026-11-20T23:19:14.196Z,@extended-mark/embed,0.0.0-stage,muhammad-mujtaba,,342,Temporary package placeholder for staged publishing
+2026-11-20T23:19:17.056Z,@extended-mark/view,0.0.0-stage,muhammad-mujtaba,,341,Temporary package placeholder for staged publishing
+2026-11-20T23:19:20.37Z,@extended-mark/angular,0.0.0-stage,muhammad-mujtaba,,344,Temporary package placeholder for staged publishing
+2026-11-20T23:19:23.409Z,@extended-mark/live,0.0.0-stage,muhammad-mujtaba,,341,Temporary package placeholder for staged publishing
+2026-11-20T23:19:26.4Z,@extended-mark/angular-live,0.0.0-stage,muhammad-mujtaba,,349,Temporary package placeholder for staged publishing
+2026-11-20T23:19:29.351Z,@extended-mark/embed-live,0.0.0-stage,muhammad-mujtaba,,347,Temporary package placeholder for staged publishing
+2026-11-20T23:19:32.432Z,@extended-mark/react,0.0.0-stage,muhammad-mujtaba,,342,Temporary package placeholder for staged publishing
+2026-11-20T23:19:35.513Z,@extended-mark/next,0.0.0-stage,muhammad-mujtaba,,341,Temporary package placeholder for staged publishing
+2026-11-20T23:19:38.293Z,@extended-mark/react-live,0.0.0-stage,muhammad-mujtaba,,347,Temporary package placeholder for staged publishing
+2026-11-20T23:19:41.224Z,@extended-mark/solid,0.0.0-stage,muhammad-mujtaba,,342,Temporary package placeholder for staged publishing
+2026-11-20T23:19:44.174Z,@extended-mark/solid-live,0.0.0-stage,muhammad-mujtaba,,347,Temporary package placeholder for staged publishing
+2026-11-20T23:19:46.961Z,@extended-mark/svelte,0.0.0-stage,muhammad-mujtaba,,343,Temporary package placeholder for staged publishing
+2026-11-20T23:19:49.766Z,@extended-mark/svelte-live,0.0.0-stage,muhammad-mujtaba,,348,Temporary package placeholder for staged publishing
+2026-11-20T23:19:52.552Z,@extended-mark/vue,0.0.0-stage,muhammad-mujtaba,,340,Temporary package placeholder for staged publishing
+2026-11-20T23:19:55.519Z,@extended-mark/vue-live,0.0.0-stage,muhammad-mujtaba,,345,Temporary package placeholder for staged publishing
+2026-11-20T23:20:34.229Z,arcsight-mcp,1.0.30,freewebguys,MIT,4717,"Local blast-radius guardrail for Cursor, Claude Code, and Windsurf. Starts the published arcsight MCP server."
+2026-11-20T23:20:45.503Z,@tanstack-ai-browser/litert-lm,0.3.2,daveycodez,MIT,158947,"TanStack AI adapter for LiteRT-LM, Google's on-device LLM runtime, in the browser on WebGPU: Gemma 4 and other .litertlm models, with tools, thinking and stored downloads"
+2026-11-20T23:21:47.466Z,effect-monetization,0.2.0,shrugs,MIT,87459,"Charge for Effect HttpApi endpoints, MCP tools and plain Requests over MPP and x402"
+2026-11-20T23:22:33.023Z,@frcloudsolutions/agent-skills,0.1.0,felipesrezende,MIT,33222,"Install Agent Skills (SKILL.md) into Claude Code, OpenAI Codex, Gemini CLI, Cursor and GitHub Copilot."
+2026-11-20T23:23:59.607Z,@hostframe/vgpu,0.1.0,jacl38,Apache-2.0,5693,Render vgpu effects directly into Hostframe windows.
+2026-11-20T23:24:12.533Z,fontego,0.0.0,joelkm,Apache-2.0,12837,Shared folders for teams that work with agents: the fontego command. Not released yet: this version only holds the name.
+2026-11-20T23:25:32.101Z,@pariprotocol/sdk,0.1.0,pari-team,MIT,671892,"SDK for the Pari launch protocol: launch, trade, stake and read on Solana."
+2026-11-20T23:25:39.004Z,@pariprotocol/cli,0.1.0,pari-team,MIT,51196,"The pari command line: launch, trade, stake and read on devnet. Dry run unless you pass --send."
+2026-11-20T23:26:27.265Z,peekrank,0.1.0,joelkm,MIT,33710,"PeekRank from the terminal: every PeekRank MCP tool as a command (SEO projects, rank tracking, research, backlinks, AI visibility)."
+2026-11-20T23:28:24.461Z,@yielded/sync-persistence,0.1.0-beta.5,danieljvdm,MIT,34590,Durable client persistence policy and driver contracts for Effect Sync.
+2026-11-20T23:28:37.925Z,@yielded/sync-platform-browser,0.1.0-beta.5,danieljvdm,MIT,15440,Browser platform services and Atom bindings for Effect Sync.
+2026-11-20T23:29:36.805Z,@soundor/components,0.1.0,dm-balakin,MIT,1049982,
+2026-11-20T23:29:43.166Z,@ghostdagger/ghostlink-core,0.1.0-beta.1,viktor.albus,MIT,340568,Framework-neutral Kaspa wallet authentication and connection SDK
+2026-11-20T23:30:47.173Z,@webship-js/filament-steps,2.0.0,natshah,MIT,290251,"Cucumber step definitions for admin panels built on a Laravel app, a plugin for webship-js (Playwright and Cucumber): the panel's navigation, its pages and breadcrumbs, the dashboard widgets (stats,…"
+2026-11-20T23:31:09.625Z,@ponderdev/justcut,0.0.0,ponderdev,GPL-3.0-or-later,498,Just Cut from PonderDev. Coming soon: this placeholder holds the name until the first release.
+2026-11-20T23:31:30.657Z,@datacircle/openai-agents,0.1.0,datacircle,MIT,52161,OpenAI Agents SDK tools on Datacircle's open API: find the best GTM APIs. List every API and see which provider ranks first on each one. Search every provider's pricing plans. See where a provider ra…
+2026-11-20T23:31:32.844Z,mermaid-contour,0.1.1,gunnarnordqvist,Apache-2.0,118516,Contour diagrams (the six standard views of the Landscape notation) as an external Mermaid diagram type
+2026-11-20T23:32:08.067Z,@ponderdev/justzip,0.0.0,ponderdev,GPL-3.0-or-later,498,Just Zip from PonderDev. Coming soon: this placeholder holds the name until the first release.
+2026-11-20T23:32:13.573Z,@ponderdev/justcolor,0.0.0,ponderdev,GPL-3.0-or-later,506,Just Color from PonderDev. Coming soon: this placeholder holds the name until the first release.
+2026-11-20T23:32:17.499Z,@ponderdev/justoverlay,0.0.0,ponderdev,GPL-3.0-or-later,514,Just Overlay from PonderDev. Coming soon: this placeholder holds the name until the first release.
+2026-11-20T23:32:22.421Z,@ponderdev/justsound,0.0.0,ponderdev,GPL-3.0-or-later,506,Just Sound from PonderDev. Coming soon: this placeholder holds the name until the first release.
+2026-11-20T23:32:26.973Z,@ponderdev/justcaption,0.0.0,ponderdev,GPL-3.0-or-later,514,Just Caption from PonderDev. Coming soon: this placeholder holds the name until the first release.
+2026-11-20T23:32:31.231Z,@ponderdev/justtoolbelt,0.0.0,ponderdev,GPL-3.0-or-later,521,Just Tool Belt from PonderDev. Coming soon: this placeholder holds the name until the first release.
+2026-11-20T23:32:35.479Z,@ponderdev/justclipboard,0.0.0,ponderdev,GPL-3.0-or-later,522,Just Clipboard from PonderDev. Coming soon: this placeholder holds the name until the first release.
+2026-11-20T23:32:52.962Z,trusted-user-agent,0.3.0,acidhax,MIT,644121,"Trusted user agents for AI agents: Firefox and Thunderbird tools for any MCP client (Claude Code, Codex, Cursor, Gemini CLI, VS Code, pi), with per-app approval. Native Messaging host com.matbee.agen…"
+2026-11-20T23:33:07.659Z,create-dropsy-claim-app,1.0.2,dropsy,MIT,262410,Create a Solana airdrop claim portal powered by Dropsy
+2026-11-20T23:33:58.54Z,@ghostdagger/ghostlink-server,0.1.0-beta.1,viktor.albus,MIT,12388384,Server verification and revocable sessions for Ghostlink
+2026-11-20T23:34:51.473Z,@ghostdagger/ghostlink-react,0.1.0-beta.1,viktor.albus,MIT,33113,Native React components for Ghostlink
+2026-11-20T23:35:03.25Z,workers-api,0.2.0,ralxz,MIT,123007,"The API setup every Hono app on Cloudflare Workers rebuilds: RFC 9457 problem responses, a validation hook, opaque cursors, a Cloudflare Access guard, a spec and client types generator with a drift c…"
+2026-11-20T23:35:06.331Z,@beakdo/mcp-x402,2.4.0,beakdo,MIT,19518,"MCP server and SDK for Base USDC x402 web-to-Markdown extraction, live multi-source search, and non-custodial EVM route assembly."
+2026-11-20T23:35:13.039Z,@ghostdagger/ghostlink-vue,0.1.0-beta.1,viktor.albus,MIT,40722,Native Vue components for Ghostlink
+2026-11-20T23:35:26.799Z,@beakdo/mcp-polymarket,2.4.0,beakdo,MIT,18242,"MCP server and SDK for live Kalshi vs Polymarket cross-venue prediction market odds, Hyperliquid perpetual funding spreads, and EVM liquidity quotes."
+2026-11-20T23:36:02.909Z,airflib,0.1.0,ivan_c,MIT,10016,Adds airflib blocks to your project as source: npx airflib add <name>.
+2026-11-20T23:36:24.796Z,@lumoauth/openclaw,0.1.0,lumoauth,MIT,357239,"LumoAuth Guard for OpenClaw: every tool call your agent makes is allowed, sent to you for approval, or blocked, with the policy held in LumoAuth."
+2026-11-20T23:37:08.246Z,agent-meter-kernel,0.1.2,boy-373,MIT,228738,"Budget enforcement and usage metering kernel for AI agents. Reserve before you spend, settle at real cost, audit every decision. Zero runtime dependencies."
+2026-11-20T23:37:19.432Z,@sanders_n/check-ts7,0.1.0,sanders_n,MIT,20195,List what still blocks a TypeScript 7 upgrade: typescript declarations that don't allow 7.x and tsconfig options TypeScript 7 removed.
+2026-11-20T23:37:28.938Z,@dotwear/react-native-icons,0.2.0,takanexx,MIT,16558,Pixel-perfect pixel-art icons for React Native (crisp on fractional screen densities)
+2026-11-20T23:37:33.829Z,@webship.co/workspace-filament,1.0.0,natshah,ISC,92670,"Filament for Webship Workspace: the builder (`cmd-filament-project.sh`, a new Laravel app with the admin panel installed, or the panel's official demo app) in every sites folder, built on the Laravel…"
+2026-11-20T23:37:50.26Z,@dotwear/react-native,0.2.0,takanexx,MIT,2120922,"Dotwear UI for React Native: design tokens, theme, bundled pixel font (re-exports @dotwear/react-native-icons)"
+2026-11-20T23:38:08.785Z,sevensleep-mcp,1.0.1,jalencheng,MIT,17627,"An MCP server that lets an AI agent read and control an Eight Sleep Pod running SevenSleep, over your own network."
+2026-11-20T23:39:18.867Z,@ovvi/plugin-api,1.0.1,harish095,MIT,17760,The types of the ovvi object a plugin's entry gets (API version 3).
+2026-11-20T23:39:44.328Z,@ovvi/explorer,1.15.14,harish095,AGPL-3.0-only,12848519,Files and folders
+2026-11-20T23:40:17.445Z,@ovvi/git,1.10.20,harish095,AGPL-3.0-only,28546052,Changes and history
+2026-11-20T23:40:38.217Z,@musetric/dsp,0.1.0,popelenkow,MIT,3248909,"Musetric's audio code in Rust, built to WebAssembly: decoding, resampling, wave peaks, stretch and the microphone's ring."
+2026-11-20T23:42:03.375Z,folio-issues-kanban-viewer,0.1.0,wmfarooqi05,MIT,4362373,"Read-only viewer for Markdown tickets and issues, with a kanban board. Runs a local web server and opens your browser. No dependencies."
+2026-11-20T23:43:15.385Z,@dumbopay/cli,0.1.0,mujalli94,MIT,27331,"The Dumbo Pay command line for stores: send register exports, read and correct inventory, pull readouts, reports and the books, from a terminal or a scheduled job, with a store key made in Business P…"
+2026-11-20T23:43:15.758Z,create-rr-stack,0.1.1,useless007,MIT,239555,Scaffold a React Router + Rust (Axum) app that is typed from the database to the screen.
+2026-11-20T23:45:12.868Z,@lukeed/jsonc,1.0.0,lukeed,MIT,8860,A fast JSONC parser that keeps source positions
+2026-11-20T23:45:56.738Z,@starlightsearch/workflows-react,0.1.1,akshayballal,MIT,210852,React hooks and components to run Pulsar workflows in your app and show their progress and results.
+2026-11-20T23:49:10.182Z,@kunstmusik/blue-data,0.1.0-beta.1,kunstmusik,MIT AND Apache-2.0,8563248,Core data model for Blue — portable TypeScript data classes with XML serialization compatible with Java .blue files
+2026-11-20T23:49:21.659Z,@kunstmusik/blue-cli,0.1.0-beta.1,kunstmusik,SEE LICENSE IN THIRD_PARTY_NOTICES.md,69623778,Node CLI for compiling Blue projects to Csound CSD output.
+2026-11-20T23:50:23.617Z,@kition/kit-html-darwin-arm64,0.1.2,allentatakai,Apache-2.0,38434971,Kition's HTML kit (kit.html 0.1.2) for darwin-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-20T23:50:44.884Z,@kition/kit-design-darwin-arm64,0.1.2,allentatakai,Apache-2.0,85527245,Kition's Design kit (kit.design 0.1.2) for darwin-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-20T23:53:10.883Z,@kition/kit-html-darwin-x64,0.1.2,allentatakai,Apache-2.0,40685931,Kition's HTML kit (kit.html 0.1.2) for darwin-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-20T23:53:36.711Z,@kition/kit-design-darwin-x64,0.1.2,allentatakai,Apache-2.0,89373765,Kition's Design kit (kit.design 0.1.2) for darwin-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-20T23:54:15.662Z,@tech4good/platform-email,0.1.0-alpha.0,davidtlee,MIT,12315,Server-side transactional email sender (Resend + mock/dry-run adapters) for Tech4Good Firebase Cloud Functions.
+2026-11-20T23:54:24.961Z,@tech4good/platform-ui,0.1.0-alpha.0,davidtlee,MIT,35423,Shared Angular UI utilities for Tech4Good applications.
+2026-11-20T23:54:37.331Z,@kition/kit-note-darwin-arm64,0.1.4,allentatakai,Apache-2.0,31166921,Kition's Note kit (kit.note 0.1.4) for darwin-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-20T23:55:16.821Z,homebridge-notion-honey,0.0.1,hazzik,LGPL-3.0-or-later,36848,"Shows Notion sensors (now the Honey Smart Home app in Australia) in Apple Home: doors, windows, leaks, temperature and smoke alarms."
+2026-11-20T23:55:22.552Z,workers-r2,0.0.0,ralxz,MIT,555,"Placeholder so the name can get a trusted publisher. The package is published from ryanio/workers-kit, starting at 0.1.0."
+2026-11-20T23:55:32.687Z,@kition/kit-html-linux-arm64,0.1.2,allentatakai,Apache-2.0,40825156,Kition's HTML kit (kit.html 0.1.2) for linux-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-20T23:56:29.874Z,@kition/kit-design-linux-arm64,0.1.2,allentatakai,Apache-2.0,75000590,Kition's Design kit (kit.design 0.1.2) for linux-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-20T23:57:28.87Z,@kition/kit-note-darwin-x64,0.1.4,allentatakai,Apache-2.0,32738937,Kition's Note kit (kit.note 0.1.4) for darwin-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-20T23:58:26.371Z,@gitmyabi/merkleconfidentialairdrop,1.0.0,gitmyabi-bot,Apache-2.0,273518,"Auto-generated TypeScript type bindings for MerkleConfidentialAirdrop (build etherscan-merkleconfidentialairdrop-3092e820-1795219088845, commit a21ab23, branch etherscan)"
+2026-11-20T23:58:55.289Z,@kition/kit-design-linux-x64,0.1.2,allentatakai,Apache-2.0,81631654,Kition's Design kit (kit.design 0.1.2) for linux-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-20T23:58:57.909Z,@kition/kit-html-linux-x64,0.1.2,allentatakai,Apache-2.0,45131540,Kition's HTML kit (kit.html 0.1.2) for linux-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:00:15.575Z,astronomy-core,0.1.0,floryneia,MIT,88178,"Provider-pattern TypeScript library for precise celestial position calculations — planets, asteroids, lunar nodes, Placidus houses, astrocartography coordinates"
+2026-11-21T00:00:30.698Z,@app-assistant/host,0.1.0,mikedutuandu,UNLICENSED,32007,"Host the app-assistant writing bot in a JavaScript app: the contract's four endpoints, its pack and tokens on Web Request/Response, and the chat window for React."
+2026-11-21T00:00:47.472Z,@kition/kit-note-linux-arm64,0.1.4,allentatakai,Apache-2.0,27048106,Kition's Note kit (kit.note 0.1.4) for linux-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:01:24.313Z,@kition/kit-design-win32-x64,0.1.2,allentatakai,Apache-2.0,86555382,Kition's Design kit (kit.design 0.1.2) for win32-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:01:55.478Z,@kition/kit-scene-darwin-arm64,0.1.3,allentatakai,Apache-2.0,27593022,Kition's Scene kit (kit.scene 0.1.3) for darwin-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:02:59.525Z,@novarum/sern,4.2.6,srizan,MIT,164981,"A complete, customizable, typesafe, & reactive framework for Novarum bots."
+2026-11-21T00:03:03.364Z,@plugmcp/mindmap-mcp,0.1.0,plugmcp,MIT,2163097,"Mind maps and flowcharts in your AI chat. An MCP App that turns long answers into diagrams you can restyle, edit and comment on, with every change sent back to the AI."
+2026-11-21T00:03:07.963Z,@kition/kit-note-linux-x64,0.1.4,allentatakai,Apache-2.0,29541114,Kition's Note kit (kit.note 0.1.4) for linux-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:03:17.414Z,@kition/kit-html-win32-x64,0.1.2,allentatakai,Apache-2.0,48121740,Kition's HTML kit (kit.html 0.1.2) for win32-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:04:14.495Z,@kition/kit-scene-darwin-x64,0.1.3,allentatakai,Apache-2.0,29941742,Kition's Scene kit (kit.scene 0.1.3) for darwin-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:04:47.391Z,@kition/kit-design-ui,0.1.2,allentatakai,Apache-2.0,45054126,"The editor of Kition's Design kit (kit.design 0.1.2), which kition installs and kition gateway serves. Not for installing by hand: kition installs it."
+2026-11-21T00:05:15.732Z,@fsegurai/ngx-skeleton-loader,22.0.0,fsegurai,MIT,63844,Angular library that provides a skeleton loader component for displaying loading states in Angular applications.
+2026-11-21T00:05:28.307Z,@kition/kit-note-win32-x64,0.1.4,allentatakai,Apache-2.0,30484112,Kition's Note kit (kit.note 0.1.4) for win32-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:05:38.782Z,@kition/kit-html-ui,0.1.2,allentatakai,Apache-2.0,35613285,"The editor of Kition's HTML kit (kit.html 0.1.2), which kition installs and kition gateway serves. Not for installing by hand: kition installs it."
+2026-11-21T00:06:33.879Z,@kition/kit-scene-linux-arm64,0.1.3,allentatakai,Apache-2.0,21247399,Kition's Scene kit (kit.scene 0.1.3) for linux-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:06:41.381Z,@kition/kit-layout-darwin-arm64,0.1.3,allentatakai,Apache-2.0,104002177,Kition's Layout kit (kit.layout 0.1.3) for darwin-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:06:48.303Z,@zapwebp/docs,1.0.0,eldrex,MIT,93577,"Universal zero-dependency documentation delivery engine producing static HTML, Markdown mirrors, llms.txt, sitemaps, and agent.json."
+2026-11-21T00:06:57.01Z,@kition/kit-pdf-darwin-arm64,0.1.3,allentatakai,Apache-2.0,40757478,Kition's PDF kit (kit.pdf 0.1.3) for darwin-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:07:00.71Z,@zapwebp/lock,1.0.0,eldrex,MIT,23775,"Idempotent conversion lock plugin for Zapwebp with cryptographic fingerprinting, zero generational loss, and pipeline skip logic."
+2026-11-21T00:07:20.573Z,crx2xpi,0.1.0,url9,Apache-2.0,124774,Convert Chrome MV3 extensions (CRX3) into Firefox/GeckoView-compatible XPI add-ons.
+2026-11-21T00:07:48.19Z,@kition/kit-note-ui,0.1.4,allentatakai,Apache-2.0,30710391,"The editor of Kition's Note kit (kit.note 0.1.4), which kition installs and kition gateway serves. Not for installing by hand: kition installs it."
+2026-11-21T00:08:21.104Z,@kition/kit-scene-linux-x64,0.1.3,allentatakai,Apache-2.0,24779591,Kition's Scene kit (kit.scene 0.1.3) for linux-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:09:13.234Z,bot-use,0.0.1,leanmcp,MIT,2530,bot-use: let AI agents use robots. Early preview; APIs coming soon.
+2026-11-21T00:09:45.828Z,@kition/kit-pdf-darwin-x64,0.1.3,allentatakai,Apache-2.0,46116206,Kition's PDF kit (kit.pdf 0.1.3) for darwin-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:10:12.109Z,@kition/kit-layout-darwin-x64,0.1.3,allentatakai,Apache-2.0,108135593,Kition's Layout kit (kit.layout 0.1.3) for darwin-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:10:25.992Z,@hilvana/core,0.1.0,jagrajales22,MIT,58240,Hilvana PDF engine: environment-agnostic PDF operations that run locally (browser or Node).
+2026-11-21T00:10:29.22Z,@hilvana/office,0.1.0,jagrajales22,MIT,84222,"Hilvana office conversions that run locally: Word (.docx) to PDF with real, selectable text."
+2026-11-21T00:10:32.388Z,@hilvana/recipes,0.1.0,jagrajales22,MIT,53700,"Hilvana recipes: a versioned JSON format for chained PDF and Word operations, with validation, execution and goal verification."
+2026-11-21T00:10:40.376Z,@kition/kit-scene-win32-x64,0.1.3,allentatakai,Apache-2.0,28088606,Kition's Scene kit (kit.scene 0.1.3) for win32-x64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:11:59.329Z,@svartz/plugin-submissions,0.0.0,mia-riezebos,SEE LICENSE IN LICENSE,17101,
+2026-11-21T00:12:08.357Z,@kition/kit-pdf-linux-arm64,0.1.3,allentatakai,Apache-2.0,35726647,Kition's PDF kit (kit.pdf 0.1.3) for linux-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:12:08.808Z,dsh-plugin-orca-pod,0.1.0,kingsznhone,GPL-3.0-only,1678247,Orca pod: full-mesh agent node for DeepSeek Harness
+2026-11-21T00:12:16.515Z,@infrawrench/infraenv,0.2.0,justsomedev,MIT,196277,"Load a committed .infraenv into process.env, or pull it into .env from git hooks and CI, through Infrawrench. Plain Node, no dependencies."
+2026-11-21T00:12:27.207Z,@kition/kit-scene-ui,0.1.3,allentatakai,Apache-2.0,21673293,"The editor of Kition's Scene kit (kit.scene 0.1.3), which kition installs and kition gateway serves. Not for installing by hand: kition installs it."
+2026-11-21T00:12:34.448Z,@cognolo/runtime,0.1.0,cognolo,SEE LICENSE IN LICENSE,377707,"Cognolo's runtime: an AI assistant inside your own web app that acts through your app's own functions and permission checks, with a person approving changes."
+2026-11-21T00:12:53.322Z,@datacircle/adk,0.1.0,datacircle,MIT,53708,Agent Development Kit (ADK) tools on Datacircle's open API: find the best GTM APIs. List every API and see which provider ranks first on each one. Search every provider's pricing plans. See where a p…
+2026-11-21T00:13:43.004Z,@kition/kit-layout-linux-arm64,0.1.3,allentatakai,Apache-2.0,92541626,Kition's Layout kit (kit.layout 0.1.3) for linux-arm64: its headless executable and kit.json. Not for installing by hand: kition installs it.
+2026-11-21T00:13:43.879Z,picgo-plugin-codeberg-uploader,1.0.0,stxttkx,MIT,37440,picgo uploader for codeberg
+2026-11-21T00:13:47.46Z,relict-metro-ui,0.2.0,kaishoo,MIT,3443807,Windows Phone 8-inspired Metro web components
+2026-11-21T00:15:12.491Z,kh-lang-win32-x64-msvc,0.0.1-security,npm,,154,security holding package
+2026-11-21T00:16:02.631Z,@itsvelynn/vels,0.0.0-stage,itsvelynn,,337,Temporary package placeholder for staged publishing
+2026-11-21T00:18:32.702Z,workers-wallet,0.0.0-stage,ralxz,,336,Temporary package placeholder for staged publishing
