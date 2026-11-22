@@ -1,23 +1,28 @@
 {
   "list": {
-    "count": 155,
-    "from": "2026-11-22T19:20:26.438236Z",
-    "path": "data/new-packages-2026-11-22T20-18-30-23483Z.csv",
-    "to": "2026-11-22T20:18:30.23483Z"
+    "count": 136,
+    "from": "2026-11-22T20:18:30.23483Z",
+    "path": "data/new-packages-2026-11-22T21-19-25-330994Z.csv",
+    "to": "2026-11-22T21:19:25.330994Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "package": "@devoy/razorpay-payments",
       "since": "2026-11-22T18:20:18.268964Z"
     },
     {
       "attempts": 1,
-      "package": "@whizpoint/checkout",
-      "since": "2026-11-22T19:20:26.438236Z"
+      "package": "@domarruda/tabpfn-wasm",
+      "since": "2026-11-22T20:18:30.23483Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@micropasts/grid-ref",
+      "since": "2026-11-22T20:18:30.23483Z"
     }
   ],
-  "seq": 146749178,
+  "seq": 146755613,
   "source_truncated": false,
-  "window": "2026-11-22T20:18:30.23483Z"
+  "window": "2026-11-22T21:19:25.330994Z"
 }
