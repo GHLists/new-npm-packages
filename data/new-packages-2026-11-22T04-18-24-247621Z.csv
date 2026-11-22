@@ -1,0 +1,150 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-22T03:14:43.828Z,@ckanner/dsh-subagent-antigravity,0.2.1,kanner,MIT,176427,"DeepSeek Harness plugin: Antigravity Gemini tasks through the official agy CLI, with subscription checks and durable lifecycle receipts"
+2026-11-22T03:19:29.114Z,@schoolforbots/schoolforbots-plugin-dsh,0.3.3,schoolforbots,MIT,331044,机器人网校（School for Bots）的 DeepSeek Harness 插件：让 DSH 里的 AI 报名上学：按课表上课、提问、回答点名、和同班同学聊天，放学后可以问它学校里的事。
+2026-11-22T03:21:04.741Z,@beachside/beachbar,0.2.0,syn_ack,Apache-2.0,234665,"Command line, TUI, MCP setup and typed client library for beachbar, a message board for agent swarms."
+2026-11-22T03:22:22.88Z,@turtini/credentials,0.1.0,jason-mcdonald,MIT,21595,"Turtini developer credential storage — keeps the Turtini API key in the OS-native secret store (macOS Keychain, Linux Secret Service, Windows DPAPI) instead of a plaintext config file. Node-only; nev…"
+2026-11-22T03:23:15.497Z,dsh-magic-memory,0.1.1,nexusyyan,MIT,989828,"Magic-context inspired closed-loop cross-session memory plugin for DeepSeek Harness (DSH): zero-native SQLite FTS5 + CJK hybrid search, optional remote embeddings, cache-stable baseline & post-compac…"
+2026-11-22T03:23:50.517Z,@ohos-ports/timezone-support,2.1.0-beta.1,louzen,MIT,20321474,Lightweight time zone support for your applications or other date libraries.
+2026-11-22T03:24:25.884Z,@deepseek-ai/dsh-cli-account,0.2.3-alpha.1,imccyu,MIT,148376,"Host Service of CLI app plugins: each plugin registers its third-party CLI and account, and the Service gives the model the CLI's absolute path, runs one account operation at a time, and shows the ac…"
+2026-11-22T03:25:04.365Z,@deepseek-ai/dsh-deepseek-auth,0.2.3-alpha.1,imccyu,MIT,90916,DeepSeek request authentication (ctx.deepseekAuth): choose between the API key and the account sign-in for one DeepSeek API request and release its headers
+2026-11-22T03:25:38.433Z,@codeasier/dsh-plugin-web-providers,0.1.0,codeasier,MIT,211237,"Configure any number of web search and web fetch vendors once, then switch the active one from Settings."
+2026-11-22T03:25:38.53Z,@codeasier/dsh-plugin-orca-projects,0.1.0,codeasier,MIT,230465,"Orca-like project sidebar for the DSH Web and Desktop client: repository-aware worktree grouping, custom project groups, and a pinned session shelf."
+2026-11-22T03:26:41.877Z,erdigo-sdk,1.0.0,ziorentia,MIT,286394,"Write pins, markers, notes, photos and tracks to an Erdigo receiver on the local network (integration-v1)."
+2026-11-22T03:27:22.74Z,openclaw-oathbreaker,2026.11.21,bybetterhuman,MIT,287762,"OpenClaw provider plugin for Oathbreaker's abliterated GLM, DeepSeek and Kimi models."
+2026-11-22T03:27:45.837Z,@programinglive/dev-workflow,2.0.0,moszes,MIT,2433243,MCP server to enforce development workflow discipline
+2026-11-22T03:27:54.967Z,hermes-tiiny-router,2.1.1,nichoth,MIT,298796,Install Tiiny model routing into the Hermes agent harness
+2026-11-22T03:28:10.141Z,mobiletto-driver-test,2.3.0,cobbzilla,Apache-2.0,149131,A driver testing system for mobiletto.
+2026-11-22T03:29:13.358Z,@deepseek-ai/dsh-upstream-skills,0.2.3-alpha.1,imccyu,MIT,97991,"Host Service of CLI app plugins: each plugin registers its entry skill and a pinned directory of the vendor's GitHub repository, and the Service downloads that directory into the DSH cache and lists…"
+2026-11-22T03:29:56.838Z,@deepseek-ai/dsh-cua-macos,0.2.3-alpha.1,imccyu,MIT,4714651,macOS native provider for shared Computer Use application and window objects
+2026-11-22T03:30:01.051Z,@pegora/tsconfig,0.0.0,tenedev,,104,
+2026-11-22T03:30:01.055Z,@deepseek-ai/dsh-cua-windows,0.2.3-alpha.1,imccyu,MIT,158004,Windows C# computer use through shared application and window objects
+2026-11-22T03:30:06.918Z,micup.ts,1.0.0,yestefir,MIT,131219,TypeScript SDK for Micup bots (Fluxer API)
+2026-11-22T03:30:09.275Z,@deepseek-ai/dsh-cua-mcp,0.2.3-alpha.1,imccyu,MIT,141833,Computer Use as an MCP stdio server: a dsh profile bundle that exposes cua_run_code to external agent harnesses
+2026-11-22T03:30:14.977Z,feynman-answer,1.0.0,mophone,MIT,7993,Five-part Feynman-style answer as the default shape for explanatory replies.
+2026-11-22T03:30:18.904Z,grayfog-edge-startpage,1.0.0,mophone,MIT,130796,"GrayFog Edge start page kit - single-file HTML start page with wallpaper, favorites and AI rail."
+2026-11-22T03:30:21.697Z,longcat-worker,1.0.0,mophone,MIT,18438,"Opt-in LongCat worker pool: the main model engineers, mechanical work goes to a fresh child."
+2026-11-22T03:30:24.272Z,dsh-capability-finder,1.0.0,mophone,MIT,19578,"Find, install and run the right DSH plugin or skill for a capability gap."
+2026-11-22T03:30:28.778Z,dsh-redblue-adversarial,1.0.0,mophone,MIT,1853833,"Red/blue adversarial review for DeepSeek Harness: red attacks, blue executes and self-proves, lead adjudicates."
+2026-11-22T03:30:31.716Z,dsh-redblue-native,1.0.2,mophone,MIT,16160,Native subagent delegation tool taking provider/model per call instead of a pinned route.
+2026-11-22T03:30:45.31Z,@micupts/voice,1.0.0,yestefir,MIT,19138,LiveKit audio publisher and PCM player for Micup bots
+2026-11-22T03:30:56.996Z,@mophone/dsh-keepawake,1.0.0,mophone,MIT,38982,Keep the PC display on and prevent sleep while DeepSeek Harness is running.
+2026-11-22T03:31:05.531Z,@deepseek-ai/dsh-forge-gitlab,0.2.3-alpha.1,imccyu,MIT,499408,"GitLab provider for the experimental forge registry, read and written through the GitLab CLI on the host"
+2026-11-22T03:31:17.948Z,@mophone/redblue-adversarial,1.0.0,mophone,MIT,1853845,"Red/blue adversarial review for DeepSeek Harness: red attacks, blue executes and self-proves, lead adjudicates."
+2026-11-22T03:31:18.268Z,@retainpdf/font-source-han-serif-sc,2.3.0,retainpdf,OFL-1.1,50070001,"Source Han Serif SC 2.003R (Adobe, unmodified) for RetainPDF's on-demand runtime assets."
+2026-11-22T03:31:20.842Z,@mophone/redblue-native,1.0.2,mophone,MIT,16172,Native subagent delegation tool taking provider/model per call instead of a pinned route.
+2026-11-22T03:31:23.76Z,@mophone/plugin-finder,1.0.0,mophone,MIT,19582,"Find, install and run the right DSH plugin or skill for a capability gap."
+2026-11-22T03:31:26.495Z,@mophone/longcat-worker,1.0.0,mophone,MIT,18458,"Opt-in LongCat worker pool: the main model engineers, mechanical work goes to a fresh child."
+2026-11-22T03:31:27.726Z,@sanctuary-ds/web-components,0.1.0,anthonyportugal,MIT,421330,Sanctuary Web Components: framework-agnostic Lit 3 component library built on @sanctuary-ds/tokens.
+2026-11-22T03:31:29.14Z,@mophone/feynman-answer,1.0.0,mophone,MIT,8013,Five-part Feynman-style answer as the default shape for explanatory replies.
+2026-11-22T03:31:32.143Z,@mophone/grayfog-edge-startpage,1.0.0,mophone,MIT,130805,"GrayFog Edge start page kit - single-file HTML start page with wallpaper, favorites and AI rail."
+2026-11-22T03:31:47.938Z,@retainpdf/typst-darwin-arm64,0.15.1,retainpdf,Apache-2.0,45060705,"Typst 0.15.1 CLI (darwin-arm64, official release binary) for RetainPDF's on-demand runtime assets."
+2026-11-22T03:32:02.02Z,@retainpdf/typst-linux-x64,0.15.1,retainpdf,Apache-2.0,55770699,"Typst 0.15.1 CLI (linux-x64, official release binary) for RetainPDF's on-demand runtime assets."
+2026-11-22T03:32:14.389Z,@retainpdf/typst-win32-x64,0.15.1,retainpdf,Apache-2.0,52518895,"Typst 0.15.1 CLI (win32-x64, official release binary) for RetainPDF's on-demand runtime assets."
+2026-11-22T03:32:22.427Z,rulesync-deploy,0.1.2,cferraz95,MIT,28369,Deploy Rulesync projects to all agents installed on your machine.
+2026-11-22T03:33:39.891Z,@zips-cloud/cli,0.1.1,zips_cloud,MIT,1423808,"Publish AI-built web apps to Zips from the terminal, and the Zips MCP server for coding agents."
+2026-11-22T03:34:52.488Z,@deepseek-ai/dsh-util-text-search,0.2.3-alpha.1,imccyu,MIT,49022,Multilingual fuzzy filtering for in-memory search lists
+2026-11-22T03:35:07.977Z,apizen,0.1.2,nanernunes,MIT,11044,SDK oficial das APIs da Apizen: CNPJ (Receita Federal) e CEP (com código IBGE e coordenadas).
+2026-11-22T03:35:08.631Z,@deepseek-ai/dsh-timeline,0.2.3-alpha.1,imccyu,MIT,2043922,"Replace Todo in long-running sessions with task trees, a live progress bar, and timed reports"
+2026-11-22T03:36:06.875Z,@deepseek-ai/dsh-client-remote-connection,0.2.3-alpha.1,imccyu,MIT,819805,"QR login, private login links, and owner-approved browser pairing"
+2026-11-22T03:36:47.537Z,@deepseek-ai/dsh-client-ui-connector-account,0.2.3-alpha.1,imccyu,MIT,260942,"Connector account surfaces: the Host registry CLI app plugins and MCP connectors register their accounts with, and the Plugins page section, title tag, activation prompt, and notices it serves over o…"
+2026-11-22T03:38:20.262Z,@deepseek-ai/dsh-client-ui-session-panel,0.2.3-alpha.1,imccyu,MIT,298508,"Floating Session panel opened from the Session header, composed of sections that plugins register"
+2026-11-22T03:38:24.585Z,@deepseek-ai/dsh-client-ui-session-status,0.2.3-alpha.1,imccyu,MIT,167097,"Client Session status table over Host reading records: running state, the effective pending interaction, and read or unread reminders shared by clients of one Host"
+2026-11-22T03:40:08.464Z,@deepseek-ai/dsh-host-authentication-token,0.2.3-alpha.1,imccyu,MIT,97778,Default token authentication provider and HTTP cookie exchange
+2026-11-22T03:40:36.098Z,@deepseek-ai/dsh-mcp-account,0.2.3-alpha.1,imccyu,MIT,91528,"MCP connector accounts on the Plugins page: each connector's OAuth server in the connector account registry, authorized through the MCP manager"
+2026-11-22T03:41:00.003Z,@deepseek-ai/dsh-tool-session-control,0.2.3-alpha.1,imccyu,MIT,39572,Send model-authored messages to ordinary Web Sessions with acceptance receipts
+2026-11-22T03:41:31.148Z,@deepseek-ai/dsh-client-config,0.2.3-alpha.1,imccyu,MIT,20718,Types of browser-synced plugin configuration
+2026-11-22T03:41:35.556Z,@deepseek-ai/dsh-client-script-realm,0.2.3-alpha.1,imccyu,MIT,27596,Direct-reference script environments and Cordis-owned provider registration
+2026-11-22T03:41:40.129Z,@deepseek-ai/dsh-client-script-realm-iframe,0.2.3-alpha.1,imccyu,MIT,41297,Optional iframe ScriptRealm provider
+2026-11-22T03:41:56.591Z,jiupin-bank,0.0.1,jiupinshuxue,MIT,861,九品题库（Jiupin Bank）· Obsidian 题目收集、组卷与排版插件 —— npm 名字占位包，插件本身不走 npm 分发。
+2026-11-22T03:42:15.265Z,@deepseek-ai/dsh-dingtalk,0.2.3-alpha.1,imccyu,MIT,468294,"DingTalk plugin: the official dws CLI with its skills, and sign-in from the Plugins page"
+2026-11-22T03:42:25.704Z,dislop,0.6.0,dislop,Apache-2.0,587806,"Open-source zero-dependency anti-slop Skill, CLI, and offline checker for AI-written docs, Word/PowerPoint files, and web pages."
+2026-11-22T03:42:26.946Z,xin-ui-candy,0.1.0,xiao-xin8,MIT,526488,"xin-ui — a candy-glass React UI kit with a three-layer material system (solid / surface / ghost) and light, dark and OLED themes."
+2026-11-22T03:43:07.987Z,@deepseek-ai/dsh-feishu,0.2.3-alpha.1,imccyu,MIT,458888,"Feishu plugin: the official lark-cli with its embedded skills, and account connection from the Plugins page"
+2026-11-22T03:43:31.821Z,@deepseek-ai/dsh-host-authentication-desktop,0.2.3-alpha.1,imccyu,MIT,19672,Desktop private-channel authentication provider
+2026-11-22T03:43:36.163Z,@deepseek-ai/dsh-linear,0.2.3-alpha.1,imccyu,MIT,359484,"Linear plugin: Linear's hosted MCP server, authorized through the shared MCP manager"
+2026-11-22T03:43:59.952Z,@deepseek-ai/dsh-notion,0.2.3-alpha.1,imccyu,MIT,324276,"Notion plugin: Notion's hosted MCP server, authorized through the shared MCP manager"
+2026-11-22T03:44:04.505Z,sitequant-mcp,0.1.0,legendryblade,UNLICENSED,7426,SiteQuant MCP stdio server — proxy to your SiteQuant account's hosted MCP endpoint with a scoped sqm_ token
+2026-11-22T03:44:09.9Z,cortico-world-quark,0.3.0,linyc54,MIT,972423,夸克网盘 World：接授权码登录，展示账号昵称、网盘空间与会员状态
+2026-11-22T03:44:32.427Z,@deepseek-ai/dsh-tencent-docs,0.2.3-alpha.1,imccyu,MIT,352661,"Tencent Docs plugin: Tencent Docs' hosted MCP server, authorized through the shared MCP manager"
+2026-11-22T03:44:33.018Z,open-backlog,0.1.1,brandon-castagna,MIT,141920,"Open Backlog: a backlog as Markdown files in git. The ob command, and the core library it is built on."
+2026-11-22T03:44:36.791Z,@deepseek-ai/dsh-tencent-meeting,0.2.3-alpha.1,imccyu,MIT,435902,"Tencent Meeting plugin: the official tmeet with its skill, and account connection from the Plugins page"
+2026-11-22T03:44:44.824Z,@deepseek-ai/dsh-tool-session-list,0.2.3-alpha.1,imccyu,MIT,50003,Read-only paginated Workspace and Session metadata tools
+2026-11-22T03:45:10.037Z,@deepseek-ai/dsh-wecom,0.2.3-alpha.1,imccyu,MIT,397732,"WeCom plugin: the official wecom-cli with its skills, and authorization from the Plugins page"
+2026-11-22T03:48:24.41Z,@niwa-labs/core,0.0.0,minmax-npm,MIT,360546,"The core of niwa, with two entries. The root entry holds the contracts: records and record queries, identifiers, causes, `Question`, actions and `actionRef`, step outcomes, effect classes, grants and…"
+2026-11-22T03:48:29.627Z,@rastrokit/sdk,0.15.0,gustavohps10,,13747932,Toolkit para o ecossistema Rastro.
+2026-11-22T03:49:14.84Z,@niwa-labs/sandbox,0.0.0-stage,minmax-npm,,340,Temporary package placeholder for staged publishing
+2026-11-22T03:49:47.595Z,@niwa-labs/flow,0.0.0-stage,minmax-npm,,337,Temporary package placeholder for staged publishing
+2026-11-22T03:49:47.682Z,@niwa-labs/client,0.0.0-stage,minmax-npm,,339,Temporary package placeholder for staged publishing
+2026-11-22T03:49:47.705Z,@niwa-labs/script,0.0.0-stage,minmax-npm,,339,Temporary package placeholder for staged publishing
+2026-11-22T03:49:47.884Z,@niwa-labs/ui-kit,0.0.0-stage,minmax-npm,,339,Temporary package placeholder for staged publishing
+2026-11-22T03:49:50.112Z,@niwa-labs/acp,0.0.0-stage,minmax-npm,,336,Temporary package placeholder for staged publishing
+2026-11-22T03:49:50.185Z,@niwa-labs/cli,0.0.0-stage,minmax-npm,,336,Temporary package placeholder for staged publishing
+2026-11-22T03:49:50.25Z,@niwa-labs/harness,0.0.0-stage,minmax-npm,,340,Temporary package placeholder for staged publishing
+2026-11-22T03:49:50Z,@niwa-labs/plugin,0.0.0-stage,minmax-npm,,339,Temporary package placeholder for staged publishing
+2026-11-22T03:49:52.426Z,@niwa-labs/digest,0.0.0-stage,minmax-npm,,339,Temporary package placeholder for staged publishing
+2026-11-22T03:49:52.473Z,@niwa-labs/flow-eval,0.0.0-stage,minmax-npm,,342,Temporary package placeholder for staged publishing
+2026-11-22T03:49:52.526Z,@niwa-labs/cockpit-sdk,0.0.0-stage,minmax-npm,,344,Temporary package placeholder for staged publishing
+2026-11-22T03:49:52.699Z,@niwa-labs/git,0.0.0-stage,minmax-npm,,336,Temporary package placeholder for staged publishing
+2026-11-22T03:49:55.303Z,@niwa-labs/harness-zcode,0.0.0-stage,minmax-npm,,346,Temporary package placeholder for staged publishing
+2026-11-22T03:49:55.321Z,@niwa-labs/harness-pi,0.0.0-stage,minmax-npm,,343,Temporary package placeholder for staged publishing
+2026-11-22T03:49:55.423Z,@niwa-labs/harness-codex,0.0.0-stage,minmax-npm,,346,Temporary package placeholder for staged publishing
+2026-11-22T03:49:56.096Z,@niwa-labs/host,0.0.0-stage,minmax-npm,,337,Temporary package placeholder for staged publishing
+2026-11-22T03:49:57.833Z,@niwa-labs/proc,0.0.0-stage,minmax-npm,,337,Temporary package placeholder for staged publishing
+2026-11-22T03:49:57.94Z,@niwa-labs/web,0.0.0-stage,minmax-npm,,336,Temporary package placeholder for staged publishing
+2026-11-22T03:49:58.005Z,@niwa-labs/mcp,0.0.0-stage,minmax-npm,,336,Temporary package placeholder for staged publishing
+2026-11-22T03:49:59.824Z,@niwa-labs/cockpit,0.0.0-stage,minmax-npm,,340,Temporary package placeholder for staged publishing
+2026-11-22T03:50:00.273Z,@niwa-labs/evidence,0.0.0-stage,minmax-npm,,341,Temporary package placeholder for staged publishing
+2026-11-22T03:50:00.57Z,@niwa-labs/flow-code,0.0.0-stage,minmax-npm,,342,Temporary package placeholder for staged publishing
+2026-11-22T03:50:01.223Z,@niwa-labs/forge,0.0.0-stage,minmax-npm,,338,Temporary package placeholder for staged publishing
+2026-11-22T03:50:02.899Z,@niwa-labs/harness-mcode,0.0.0-stage,minmax-npm,,346,Temporary package placeholder for staged publishing
+2026-11-22T03:50:03.201Z,@niwa-labs/harness-claude,0.0.0-stage,minmax-npm,,347,Temporary package placeholder for staged publishing
+2026-11-22T03:50:03.266Z,@niwa-labs/history,0.0.0-stage,minmax-npm,,340,Temporary package placeholder for staged publishing
+2026-11-22T03:50:03.664Z,@niwa-labs/plan,0.0.0-stage,minmax-npm,,337,Temporary package placeholder for staged publishing
+2026-11-22T03:50:05.394Z,@niwa-labs/requests,0.0.0-stage,minmax-npm,,341,Temporary package placeholder for staged publishing
+2026-11-22T03:50:05.88Z,@niwa-labs/timer,0.0.0-stage,minmax-npm,,338,Temporary package placeholder for staged publishing
+2026-11-22T03:50:06.066Z,@niwa-labs/watch,0.0.0-stage,minmax-npm,,338,Temporary package placeholder for staged publishing
+2026-11-22T03:50:06.333Z,@niwa-labs/delegate,0.0.0-stage,minmax-npm,,341,Temporary package placeholder for staged publishing
+2026-11-22T03:50:08.103Z,@niwa-labs/sessions,0.0.0-stage,minmax-npm,,341,Temporary package placeholder for staged publishing
+2026-11-22T03:50:08.345Z,@niwa-labs/messages,0.0.0-stage,minmax-npm,,341,Temporary package placeholder for staged publishing
+2026-11-22T03:50:08.628Z,@niwa-labs/tasks,0.0.0-stage,minmax-npm,,338,Temporary package placeholder for staged publishing
+2026-11-22T03:50:08.94Z,@niwa-labs/agent,0.0.0-stage,minmax-npm,,338,Temporary package placeholder for staged publishing
+2026-11-22T03:50:09.82Z,@gitmyabi/transponders,1.0.0,gitmyabi-bot,Apache-2.0,265801,"Auto-generated TypeScript type bindings for Transponders (build etherscan-transponders-d3a0b315-1795319392328, commit 943653a, branch etherscan)"
+2026-11-22T03:50:10.72Z,@niwa-labs/commitments,0.0.0-stage,minmax-npm,,344,Temporary package placeholder for staged publishing
+2026-11-22T03:50:10.962Z,@niwa-labs/workflow,0.0.0-stage,minmax-npm,,341,Temporary package placeholder for staged publishing
+2026-11-22T03:50:11.132Z,@niwa-labs/memory,0.0.0-stage,minmax-npm,,339,Temporary package placeholder for staged publishing
+2026-11-22T03:50:12.245Z,@niwa-labs/pstack,0.0.0-stage,minmax-npm,,339,Temporary package placeholder for staged publishing
+2026-11-22T03:50:13.23Z,@niwa-labs/telegram,0.0.0-stage,minmax-npm,,341,Temporary package placeholder for staged publishing
+2026-11-22T03:50:13.513Z,@niwa-labs/testing,0.0.0-stage,minmax-npm,,340,Temporary package placeholder for staged publishing
+2026-11-22T03:50:13.638Z,@niwa-labs/rin,0.0.0-stage,minmax-npm,,336,Temporary package placeholder for staged publishing
+2026-11-22T03:50:17.16Z,@niwa-labs/niwa,0.0.0-stage,minmax-npm,,337,Temporary package placeholder for staged publishing
+2026-11-22T03:50:58.327Z,pixelbar-one-look,0.2.0,serius117,MIT,348483,opencode / DeepSeek Harness (dsh) 插件——把漫步者 Halo PixelBar LED 音箱变成 AI 编程助手状态灯。事件驱动、零 GPU、纯 Node。Turn your EDIFIER Halo PixelBar into a status light for AI coding agents (opencode & dsh).
+2026-11-22T03:52:32.956Z,audit-my-agents,0.1.0,davidcrowe,MIT,120397,"What did your coding agents actually do? One command reads your local Claude Code and Codex sessions and reports force-pushes, destructive commands, credential reads, leaked secrets and more."
+2026-11-22T03:52:51.176Z,quick-presenter-relay-core,1.0.0,ko16,Apache-2.0,143513,Portable room core and protocol contracts for Quick Presenter Relay.
+2026-11-22T03:52:52.202Z,spacefn-docs,0.11.0,wailinaung,Apache-2.0,436254,"spacefn's docs and examples, and the reader `space docs` serves them with"
+2026-11-22T03:53:12.329Z,quick-presenter-audience-web,1.0.0,ko16,Apache-2.0,27654,Shared browser audience UI for Quick Presenter Relay.
+2026-11-22T03:53:56.706Z,quick-presenter-relay,1.0.0,ko16,Apache-2.0,216161,Self-hosted Node.js relay server for Quick Presenter Audience Live.
+2026-11-22T03:57:22.078Z,@nexub/diagram,0.0.0,sasi_sg,MIT,117,Placeholder; the first release is 11.6.0
+2026-11-22T03:57:24.485Z,@nexub/elements,0.0.0,sasi_sg,MIT,118,Placeholder; the first release is 11.6.0
+2026-11-22T03:58:43.788Z,grid-engine-headless,4.14.0,q16solver,Apache-2.0,35102,"A headless grid movement engine: tile collision, characters on integer tiles that step in four directions, and five typed events, with no rendering and no Phaser."
+2026-11-22T03:59:35.832Z,@isud/tm,1.0.0,yeah013,MIT,65074,优标宝商标数据开放 API 的 TypeScript SDK（零依赖，契约驱动）
+2026-11-22T04:00:36.539Z,@yuktishaalaa/shubhalekha,1.0.0,yuktishaalaa,GPL-3.0-only,215994,"శుభలేఖ: invitation pages for every Indian celebration (weddings, upanayanam, gruhapravesam, birthdays and more) and business cards, in all 22 Indian languages. One JSON file or a no-code form. PWA, o…"
+2026-11-22T04:00:38.276Z,@zenmanage/angular,1.0.0,zenmanage-brk,MIT,178513,"Angular service, signals, structural directives, route guards and SSR support for Zenmanage feature flags"
+2026-11-22T04:01:27.092Z,xcom-biz-pipeline,0.1.0,xcomai,UNLICENSED,107910,Project-local business workflow for Codex and Claude Code
+2026-11-22T04:01:45.383Z,metricfast,1.0.0,metricfast,MIT,135492,"See which traffic actually makes you money. Connects web analytics to payments in minutes, tracking every signup, upgrade, and churn back to its source."
+2026-11-22T04:01:51.332Z,modern-charts,0.1.0-alpha.0,jingcai86,MIT,884651,"Composable, framework-agnostic Web Component charting library inspired by Nivo and Apache ECharts, powered solely by D3 and @chenglou/pretext."
+2026-11-22T04:02:24.977Z,wiki-plugin-rcnabm,0.1.0,marcpierson,MIT,60356,"Federated Wiki plugin: an RCN agent-based model on a page. The item holds the rules; the page runs two twin towns with the same people and luck, today's rules against changed rules, and 50 runs to se…"
+2026-11-22T04:03:11.215Z,@doenet/doenetml-headless,0.7.27-dev.0,dqnykamp,AGPL-3.0-or-later,32579397,"Run DoenetML without a browser: grade a saved state, check a document, drive its inputs"
+2026-11-22T04:03:17.88Z,@pihanga2/genomics,0.1.0,maxott,MIT,110228,Pihanga genomics cards — JBrowse 2 genome browser wrapped as a Pihanga card
+2026-11-22T04:03:38.185Z,clasp-photonic-pairing,0.1.0,karlroesch,SEE LICENSE IN LICENSE.md,266466,Post-quantum photonic pairing via dual-camera capture. Analyzes two sequential QR code photos to derive a unique 256-bit handshake key using the Dual-Coordinate Overlap Framework.
+2026-11-22T04:05:28.229Z,@lyrax-lab/cli,0.1.0,lyraxgroup,UNLICENSED,53180,LyraX CLI — local agent orchestration
+2026-11-22T04:06:22.241Z,dsh-nahida-theme,0.1.0,nahidaos,MIT,49377,纳西妲主题：草元素绿意配色 + 纳西妲徽记 + 祝福语 + 飘落叶片｜A Nahida theme for the DeepSeek Harness (DSH) Web GUI. Made with DSH.
+2026-11-22T04:06:38.362Z,@punch-bot/schema,1.5.1,blahajcoding,MIT,659813,"JSON Schema validation without eval: drafts 2020-12 and 7, compiled into plain closures"
+2026-11-22T04:07:12.8Z,@zenvorprotocol/sdk,0.2.0,zenvordev,MIT,98423,"TypeScript SDK for Zenvor transfer APIs, wallet execution and developer registration"
+2026-11-22T04:07:28.57Z,dsh-singing-studio,0.1.0,dhao007,MIT,1434497,DSH 唱歌工作室：环境一键安装、RVC 音色训练、F0 分析与八度规划、RVC / SoulX-Singer 翻唱生成。
+2026-11-22T04:08:03.015Z,@sychusdev/rigup,0.2.0,sychusdev,GPL-3.0-only,144703,"Set up Claude Code with your skills, agents and commands from any marketplace repo or local folder, and keep every machine the same."
+2026-11-22T04:08:11.573Z,dsh-shot-snap,1.0.1,neamonon,MIT,107197,"Screenshot straight into the composer: drag a region in the DSH chat window, annotate it, and it lands in the input's attachment tray — local only, never auto-sent, hotkey configurable. · 截图即插入：在对话窗口…"
+2026-11-22T04:08:21.97Z,@gvejs/core,0.1.0,rmspro,MIT,14583,Typed event contracts and reducers for GVE
+2026-11-22T04:11:23.169Z,n8n-nodes-equipdash,0.1.0,equipdash-ai,MIT,503615,"n8n nodes for EquipDash, booking software for rental shops, tours, classes and activities."
+2026-11-22T04:12:04.43Z,@ssh352/pi-review,0.1.0,ssh352,,23432,Code review and behavior-preserving cleanup commands for the Pi coding agent.
+2026-11-22T04:13:03.915Z,@ohos-npm-ports/node-pty,1.1.0-1,hqzing,MIT,64448631,Fork pseudoterminals in Node.JS
+2026-11-22T04:13:39.057Z,teleconfig,0.1.0,neruthes,MIT,20182,
