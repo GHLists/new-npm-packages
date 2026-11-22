@@ -1,12 +1,23 @@
 {
   "list": {
-    "count": 132,
-    "from": "2026-11-21T22:19:29.154272Z",
-    "path": "data/new-packages-2026-11-21T23-18-29-721413Z.csv",
-    "to": "2026-11-21T23:18:29.721413Z"
+    "count": 194,
+    "from": "2026-11-21T23:18:29.721413Z",
+    "path": "data/new-packages-2026-11-22T00-20-01-466453Z.csv",
+    "to": "2026-11-22T00:20:01.466453Z"
   },
-  "pending": [],
-  "seq": 146612920,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@eugeniouglov/date-time-now",
+      "since": "2026-11-21T23:18:29.721413Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@vibedev-si/dsh-vibedev-super",
+      "since": "2026-11-21T23:18:29.721413Z"
+    }
+  ],
+  "seq": 146619630,
   "source_truncated": false,
-  "window": "2026-11-21T23:18:29.721413Z"
+  "window": "2026-11-22T00:20:01.466453Z"
 }
