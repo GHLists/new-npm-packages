@@ -1,0 +1,152 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-22T13:16:58.207Z,@pulseiq-eu/browser,0.1.0,schymon17,MIT,1058149,"PulseIQ browser SDK: product analytics events, identity and batching."
+2026-11-22T13:17:00.464Z,@pulseiq-eu/react,0.1.0,schymon17,MIT,58612,"PulseIQ for React: provider, hooks, error boundary and router page views."
+2026-11-22T13:17:02.952Z,@pulseiq-eu/node,0.1.0,schymon17,MIT,102298,PulseIQ Node.js SDK: server-side analytics events with batching and retries.
+2026-11-22T13:17:03.16Z,@aoshizuku/pi-provider,0.1.0,aoshizuku,MIT,171448,"Manage custom providers and models for pi in a panel: presets, /models discovery, per-field metadata sources"
+2026-11-22T13:17:05.388Z,@pulseiq-eu/cli,0.1.0,schymon17,MIT,79806,"PulseIQ CLI and build plugins: upload source maps for a release, import history from Mixpanel, Amplitude or PostHog."
+2026-11-22T13:18:23.667Z,@nibling/service-auth,0.0.1,natemoo-re,MIT,13431,"Verify atproto service-auth tokens (getServiceAuth JWTs) for any audience and method, on Node or in a Worker."
+2026-11-22T13:18:32.055Z,@aoshizuku/pi-sessions,0.1.0,aoshizuku,MIT,48805,"Session browser for pi with a preview of each session's last turn: search, resume, rename, move to trash"
+2026-11-22T13:18:58.699Z,@josediazgonzalez/homebridge-rabbitair,0.1.2,josediazgonzalez,Apache-2.0,186904,Homebridge plugin and standalone SDK for Rabbit Air air purifiers over the local network
+2026-11-22T13:19:08.051Z,@nikovirtala/deployment,0.1.0,nikovirtala,MIT,414223,"Deploy a project's environment from its pipeline: check, deploy with rollback triggers, smoke checks, one-off deployment tasks run once, and a freeze on failure. CLI and library."
+2026-11-22T13:20:04.21Z,@aoshizuku/pi-shizuku-settings,0.1.0,aoshizuku,MIT,43345,"One panel for the settings of every Shizuku pi plugin: plugins declare their settings, /shizuku edits them"
+2026-11-22T13:21:40.848Z,@aoshizuku/pi-subagent,0.1.0,aoshizuku,MIT,233385,Subagents for pi: delegate a bounded task to a fresh in-process session with its own context window
+2026-11-22T13:21:45.345Z,@miadi/pde-core,0.1.0,jgi,MIT,37265,"A prompt decomposition as a person reads it: the shape miaco writes (primary and secondary intents, the four directions, context, outputs, actions, ambiguities), a normalizer that accepts every miaco…"
+2026-11-22T13:22:29.333Z,highlight-sparql-generate,0.1.0,mlefranc,Apache-2.0,96853,"Syntax highlighting for SPARQL-Generate (.rqg): one lexicon, five engines (TextMate, highlight.js, Prism, CodeMirror 6, Pygments)."
+2026-11-22T13:23:20.244Z,@kozmos-ds/vue,0.17.0-next.0,vodoco,MIT,260093,"Kozmos for Vue 3, on Reka UI: parts that draw the element their React counterparts draw, from the same recipes, with no React. Parts not yet ported are in ./react-bridge, which mounts the React compo…"
+2026-11-22T13:24:19.051Z,@miadi/pde-ui,0.1.0,jgi,MIT,81703,"The reusable cards of a prompt decomposition, in the order a person reads it: the primary intent, the questions only the author can answer, the four-direction wheel with the selected direction's item…"
+2026-11-22T13:24:25.059Z,@veyforma/charts,1.1.0,veyforma,MIT,1775301,"Zero-dependency JavaScript charts for finance and risk: exposure heatmap, risk-factor tornado, P&L attribution and debt maturity ladder."
+2026-11-22T13:24:33.116Z,@superjackfruitlabs/treaty-contracts,0.0.15,rakeshgangwar,MIT,2957544,"Every contract between Super Jackfruit Labs products as data, with validators and a CLI that checks a repository against them."
+2026-11-22T13:26:14.876Z,@renderxor/opencode-llamacpp-v2,1.0.0,renderxor,MIT,32270,Plugin llama.cpp router para OpenCode V2
+2026-11-22T13:28:59.051Z,@flexenai/api,0.1.1,flexen_ai,MIT,157004,"Official TypeScript client for the Flexen API (nutrition from text and photos, food search, barcode, goals, catalog, account)."
+2026-11-22T13:29:07.424Z,@ishant3907/hookpoint,1.0.0,ishant3907,MIT,57164,"Simplified webhook delivery with automatic retries, cryptographic signatures, and delivery tracking in pure Node.js."
+2026-11-22T13:29:26.882Z,cad-axi,0.1.0,anconina,MIT,20899000,"A command-line tool that lets AI agents read, create and edit CAD drawings. Works with DWG and DXF files."
+2026-11-22T13:30:29.455Z,magpie-fingerprint-lab,0.1.1,viglux,MIT,3244369,"在 magpie 里对供应商做模型指纹检测：检测记录、定时检测、信任看板、趋势对比、客户端预设。Model fingerprint detection for magpie providers, powered by lm-detector."
+2026-11-22T13:31:12.735Z,fishball-shared,1.0.0-alpha.1,arrosin,MIT,21365,The Fishball side's library: the fishball-core / fishball-ui seam (./ui-seam) and the amenities' fishballInstance follower (./instance-follower).
+2026-11-22T13:31:18.354Z,fishball-core,1.0.0-alpha.1,arrosin,MIT,14750816,"Fishball's core plugin, the backend: the Fishball manager session and its preset, persona, reminders and private Skills tools, the link, Connect, the interception service, status, the ask-card store,…"
+2026-11-22T13:31:21.189Z,fishball-board,1.0.0-alpha.1,arrosin,MIT,75770,"Fishball's session-linked work board, one of the Fishball amenities. Needs fishball-core in the same DSH; without it the row loads and stays idle."
+2026-11-22T13:31:24.042Z,fishball-heartbeat,1.0.0-alpha.1,arrosin,MIT,67537,"Keeps Fishball's prompt cache warm while it is idle with useful heartbeat turns; off until both of its timer settings are set; when it stops, it compacts a long context once. Needs fishball-core in t…"
+2026-11-22T13:31:26.829Z,fishball-taskboard,1.0.0-alpha.1,arrosin,MIT,110277,"Fishball's own task board and memo pad: tasks with subtasks, status and progress, editable by the user in the right sidebar's Task board tab. Its tools need fishball-core in the same DSH."
+2026-11-22T13:31:30.567Z,fishball-amenities,1.0.0-alpha.1,arrosin,MIT,237087,"Installs the optional Fishball amenities together: fishball-board, fishball-heartbeat and fishball-taskboard, each its own package."
+2026-11-22T13:31:30.984Z,dsh-connector-shared,1.0.0-alpha.1,arrosin,MIT,22937,"Modules at least two DSH-side packages use: the secret-shape redaction, the request-hostname rule and the live-settings re-apply."
+2026-11-22T13:31:33.95Z,dsh-connector-adapter,1.0.0-alpha.1,arrosin,MIT,96692,"Lets a DSH sign in to another DSH's dsh-agent-connector through DSH's stock MCP client, with normal OAuth."
+2026-11-22T13:31:36.836Z,dsh-connector-watchdog,1.0.0-alpha.1,arrosin,MIT,74266,"Supervises a session for the agent that manages it, and answers its permission requests within the approvable scope (needs dsh-agent-connector)."
+2026-11-22T13:31:40.629Z,dsh-instance,1.0.0-alpha.1,arrosin,MIT,3790685,"The built-in Fishball instance: runs Fishball in its own private DSH profile attached to the main DSH. It places and launches the Fishball plugins in the child, sets up the hosted token once, and has…"
+2026-11-22T13:31:42.372Z,dsh-agent-connector,1.0.0-alpha.1,arrosin,MIT,15125824,"Exposes this DeepSeek Harness to the agents that manage its sessions, over MCP with OAuth: sessions, permission requests, questions, plan reviews, prompts and grants route session → its managing agen…"
+2026-11-22T13:31:47.959Z,dsh-connector-amenities,1.0.0-alpha.1,arrosin,MIT,13838254,"Installs the optional DSH Connector amenities together: dsh-connector-adapter and dsh-connector-watchdog, each its own package."
+2026-11-22T13:33:08.422Z,@nyxnclint/tiny-text-tools,1.0.0,nyxnclint,MIT,5292,A lightweight collection of useful text utilities.
+2026-11-22T13:36:12.632Z,dsh-session-coordinator,0.2.20,dzhihao,MIT,1300031,DeepSeek Harness 会话协调插件：支持独立主会话、信息同步、总控与多个会话持续协作及忙时回信。
+2026-11-22T13:36:42.458Z,asianscore-widget,1.0.0,asianscore,MIT,9087,"Zero-dependency Shadow DOM Web Component (<asianscore-widget>) for real-time Football & NBA live scores, Dixon-Coles xG win probabilities, and verifiable SHA-256 prediction ledger metrics."
+2026-11-22T13:37:22.813Z,x402ti-mcp,2.0.0,beingcoder444,MIT,8721,"MCP server wrapper exposing all 8 x402ti v2 trading, macro, prediction-market, and Solana intelligence endpoints with built-in USDC spend caps."
+2026-11-22T13:38:01.056Z,nhyros-ui,0.0.0,nhyros,,8182,This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2026-11-22T13:38:12.042Z,@zerodep-dev/flow-ts-model,0.1.0,kenconnet666,Apache-2.0,501146,"Process definitions, validation, condition evaluation, routing and form access rules shared by the TypeScript workflow engine and its UI"
+2026-11-22T13:38:22.198Z,@rxap/plugin-ng-prism,22.0.1-dev.1,mmuenker,GPL-3.0-or-later,51552,"This plugin provides generators to set up ng-prism styleguides for Angular libraries within an Nx workspace. It creates a shared styleguide host application, adds the prism, prism-build and prism-str…"
+2026-11-22T13:38:27.352Z,@jeniex/paint-console,0.0.4,jeniex,MIT,5802,Simple colorable log. Support inspect objects and single line update
+2026-11-22T13:38:30.688Z,@zerodep-dev/flow-ts-engine,0.1.0,kenconnet666,Apache-2.0,1195729,"Approval workflow engine in TypeScript on PostgreSQL: graph definitions, one command entry point, easy-query persistence, jobs for timers and async actions"
+2026-11-22T13:38:37.716Z,subtitle-studio,0.1.0,fedeblock,MIT,657790,"Local subtitle transcription, translation and editing for macOS Apple Silicon"
+2026-11-22T13:38:38.132Z,@zerodep-dev/flow-ts-ui,0.1.0,kenconnet666,Apache-2.0,200245,"Vue components for flow-ts built on vue-tsx-pro-ui: forms from field manifests, the approval panel, process diagrams and the field access matrix"
+2026-11-22T13:38:50.71Z,@zerodep-dev/flow-ts-studio,0.1.0,kenconnet666,Apache-2.0,166815,"Tooling for flow projects written in TypeScript: compile with the vue-tsx-pro compiler, type-check with TypeScript 7, and the online studio"
+2026-11-22T13:39:21.791Z,tokengate-core,1.0.0,vanshgit1111,MIT,55970,"Adaptive LLM cost, token budget & recursion circuit breaker for AI agents, OpenAI, Anthropic, and Fetch"
+2026-11-22T13:39:48.335Z,dsh-release-depot,1.1.1,5115qwq,MIT,414561,Release Depot（发布仓）：在 DeepSeek Harness 内登录 npm 与 GitHub，管理包、发布版本、创建 Release，并把同一套发布能力交给 AI 工具调用。
+2026-11-22T13:41:00.075Z,typed-vcard,0.1.0,diewi,BSD-2-Clause-Views,241342,vCard library for typescript offering typed access to vCard properties
+2026-11-22T13:41:07.52Z,@nn-diagram/format,0.1.0,yanexr,Apache-2.0,82914,"Parser, serializer, validator and format reference for nn-diagram files (*.diagram.jsx)"
+2026-11-22T13:41:19.945Z,@webexatech/plugin-collection-transfer,0.1.2,hncvj,Apache-2.0,1399171,"Move collections between NocoBase environments: export one or more collections (schema, optionally data) to a file and import it elsewhere, with per-collection conflict handling."
+2026-11-22T13:41:24.947Z,@nn-diagram/viewer,0.1.0,yanexr,Apache-2.0,311709,"React viewer for nn-diagram files: pan, zoom, hover explanations, walkthrough steps and SVG/PDF/PNG export"
+2026-11-22T13:41:28.17Z,nn-diagram,0.1.0,yanexr,Apache-2.0,2304160,"Check, format and render nn-diagram files (SVG, PNG, PDF), and install the agent skill"
+2026-11-22T13:41:30.357Z,@nn-diagram/editor,0.1.0,yanexr,Apache-2.0,454551,Visual React editor for nn-diagram files
+2026-11-22T13:43:00.617Z,@masumdev/rn-camera-ai,0.1.0,devmasum,MIT,778823,"Unified React Native camera preview, on-device AI inference, and real-time bounding box overlay."
+2026-11-22T13:43:10.947Z,@masumdev/rn-camera-ai-mlkit,0.1.0,devmasum,MIT,229339,Google ML Kit on-device OCR & Vision adapter for @masumdev/rn-camera-ai using react-native-vision-camera-mlkit.
+2026-11-22T13:43:13.207Z,sveltephp,0.0.1,ztharry,,3316,"A SvelteKit-adapter-static plugin enabling PHP-backend and use of SvelteKit-files `+page.server.php`, `+layout.server.php`, `+server.php`."
+2026-11-22T13:43:21.492Z,@masumdev/rn-camera-ai-tflite,0.1.0,devmasum,MIT,452133,TensorFlow Lite object detection adapter for @masumdev/rn-camera-ai using react-native-fast-tflite.
+2026-11-22T13:43:50.698Z,@yourfam/yf-merge-check,0.1.1,kamal-yourfam,MIT,21490,"Check whether a git merge would conflict, without touching the current branch."
+2026-11-22T13:43:53.269Z,tobik,0.0.0,jmjuanes,,139,
+2026-11-22T13:43:53.329Z,gg-agent,0.1.0-rc.1,dianzhu,MIT,22500798,"GG coding agent and Observe for Linux x64, with persistent tasks and deterministic task memory"
+2026-11-22T13:44:02.49Z,yf-merge-check,0.1.1,kamal-yourfam,,749,Unscoped alias of @yourfam/yf-merge-check.
+2026-11-22T13:44:03.725Z,@uriv/chaff,0.4.1,uriv,MIT,765962,"Multi-party, time-aware AI agent harness for IM and real-time voice. Economical, dynamic, zero knobs."
+2026-11-22T13:44:23.243Z,viewprobe,0.1.0,umang-sudo-su,MIT,78576,Headless layout verification engine for AI coding agents
+2026-11-22T13:45:35.439Z,frameline,0.1.1,fedeblock,MIT,112873,"A small, dependency-free timeline for marking time: frame-exact, SMPTE timecode (drop-frame included), keyframes on rows, and a synchronization model built to follow any clock."
+2026-11-22T13:46:13.414Z,@nirajsatam/git-commit-audit,1.0.0,nirajsatam,MIT,27795,Zero-runtime-dependency Git commit history auditor and Conventional Commits health checker.
+2026-11-22T13:46:17.824Z,mailsift,0.1.0,drjpphd,MIT,34086,"A read-only mail reader for Node: connect, search and fetch messages as plain text."
+2026-11-22T13:48:09.771Z,@yashborkar/crashsafe-sync,1.0.0,yashborkar,MIT,39344,"Crash-safe, PostgreSQL-backed checkpoint commits for paginated API imports"
+2026-11-22T13:48:17.514Z,@sonatel-os/strapi-plugin-split,0.1.0,mohamedjohnson,MIT,313417,"A shared-expenses ledger for Strapi v5: groups, members, expenses split three ways, balances, settlements with idempotent writes — with admin screens and RBAC."
+2026-11-22T13:48:19.752Z,@m4riok/pi-cc-usage,0.1.0,m4riok,MIT,25180,Pi extension for Claude Code subscription usage via Anthropic OAuth
+2026-11-22T13:48:43.028Z,fitctx,1.0.0,rishisayshesgod,MIT,139297,Trim a chat message array to fit a token budget while preserving LLM tool-call integrity and API invariants.
+2026-11-22T13:49:37.725Z,verdicspec,0.2.4,luismpenholato,MIT,203124,Portable specification-driven engineering method and skills for AI coding agents
+2026-11-22T13:51:54.624Z,@ansari_mehran_24/envguardian,1.0.0,ansari_mehran_24,MIT,917976,Production-ready developer security toolkit and validator for environment variables
+2026-11-22T13:53:11.446Z,@flutterlocalisation/cli-darwin-arm64,1.23.0,aksel_taja,MIT,15611615,The fl and fl_mcp binaries for darwin-arm64. Install @flutterlocalisation/cli instead.
+2026-11-22T13:53:21.871Z,@flutterlocalisation/cli-darwin-x64,1.23.0,aksel_taja,MIT,16226837,The fl and fl_mcp binaries for darwin-x64. Install @flutterlocalisation/cli instead.
+2026-11-22T13:53:27.83Z,safelog-js,1.0.0,srikar1824,MIT,21715,"A lightweight utility to deep-clone JavaScript objects and redact sensitive fields before logging — keeps passwords, tokens, and PII out of your logs."
+2026-11-22T13:53:36.28Z,@pegora/biome-config,0.0.0,tenedev,,108,
+2026-11-22T13:53:50.837Z,@cveo/dsh-containers,0.1.0,evolto,MIT,341526,DSH 容器管理插件：在 DeepSeek Harness 内管理 kiri / Docker 引擎的容器、镜像、卷与网络（面板 + 14 个模型工具 + compose/k8s 扩展与 kiri 一键安装）。
+2026-11-22T13:54:28.077Z,dsh-rhine-lab-team,0.4.0,vioeve,MIT,979962,给 DeepSeek Harness 配一个工作团队：每个 Bot 有自己的记忆、分工、头像和 ID；在你的指导下或自己干活，都能积累经验、升级成长，成为你最放心可靠的团队成员。灵感与 UI 参考《明日方舟》，与官方无关。
+2026-11-22T13:54:42.244Z,antigravity-hud,0.5.3,phenom64,MIT,202672,"A beautiful, cross-platform statusline HUD for the Antigravity CLI: subagent runtimes, rate limit reset timers, context windows, OSC 8 links, tool tallies, and vibes."
+2026-11-22T13:55:09.823Z,@tboon0/pi-btw,0.1.0,tboon0,MIT,16345,Ask a tool-free side question in Pi without interrupting the main task or adding to its context
+2026-11-22T13:55:11.9Z,com.unity.external-dependency-manager,2.1.1,depipp777,ISC,1185,A utility for managing SVG buckets.
+2026-11-22T13:55:27.927Z,@bygd/gd-env-loader,0.1.0,serdark,MIT,47347,"Load a .env file and resolve {{placeholders}} in it from GCP Secret Manager, as a CLI wrapper or a library."
+2026-11-22T13:55:28.442Z,@ggozad/mnemonic,2.0.0,ggozad,MIT,28150,Memorable random phrases of known strength
+2026-11-22T13:55:30.609Z,dsh-notify-wecom,0.1.1,zhuyuelei*,MIT,31814,"Push a WeCom group-robot message when a turn finishes, so a long DeepSeek Harness run can be left alone: 跑完 / 出错 / 中止 read differently and subagent turns stay quiet. 每轮跑完推一条企业微信群消息。"
+2026-11-22T13:55:36.758Z,@svjeez/og,0.8.0-next.0,saiashirwadr,MIT,16853,"Link-preview cards for svjeez: write an og:image as a scene, render it to a PNG, JPEG or WebP in headless Chromium."
+2026-11-22T13:55:50.917Z,@sentropic/diagram-codecs,0.1.1,rhk,MIT,18074,"Static diagram codecs: draw.io export of a resolved scene and the scene SVG re-export. Pure string, DOM-free."
+2026-11-22T13:56:26.589Z,things3pp,0.1.0,paulashraf,MIT,742586,"Use Things 3 from Claude, Codex, ChatGPT and other AI apps — with an inline Things-style UI."
+2026-11-22T13:56:43.92Z,@beastab/agent-workflow-kit,0.5.1,beastab,MIT,454508,"A team workflow for coding agents (Claude Code, Codex, Cursor, Gemini CLI, Copilot): short project memory, rules, safe-change and review checklists, plan-first orchestration, safety hooks, and a PR c…"
+2026-11-22T13:56:50.058Z,@teqconnect/sdk,0.1.0,teqconnect,Apache-2.0,527899,TeqConnect SDK for Node.js.
+2026-11-22T13:57:05.17Z,freeaitokens,0.1.1,timchosen,MIT,81920,"Free AI models for Claude Code, Codex and OpenCode on one local endpoint."
+2026-11-22T13:57:32.104Z,portmap-audit,0.1.0,parthhhhh,MIT,9228,Fast CLI scanner for detecting port declarations and configuration conflicts
+2026-11-22T13:57:38.155Z,@strave/auth,0.1.0,fabi98_6,MIT,25235,"Login with Strave: sign players in and get their Ubisoft accounts, Siege profiles, and Discord account."
+2026-11-22T13:58:45.625Z,joinery-demo-pkg,0.1.1-demo1,meng_yubo,MIT,2885,这是榫卯发布台（joinery）CI/CD 流水线的测试包，需要 Node.js 20 或更高版本。
+2026-11-22T13:59:11.485Z,dsh-poem-rain,1.6.1,mo-mystery,MIT,64860,Poem Rain — one line from your own writing falls into the corner of the window every couple of minutes. Import your own text; every line is synthesized locally.
+2026-11-22T13:59:25.929Z,@daisforge/glide-data-grid,6.14.0,ramk-16,MIT,5630054,React data grid for beautifully displaying and editing large amounts of data with amazing performance.
+2026-11-22T13:59:30.097Z,@daisforge/glide-data-grid-cells,6.14.0,ramk-16,MIT,300194,Extra cells for glide-data-grid
+2026-11-22T13:59:34.191Z,@daisforge/glide-data-grid-source,6.14.0,ramk-16,MIT,224423,Useful data source hooks for Glide Data Grid
+2026-11-22T13:59:46.393Z,@cyjin/mcp-relay,0.1.0,chenyejin2004,MIT,1009723,"Connect a local device to relay.cyjin.dev so ChatGPT and Claude can call explicit file, patch and shell tools"
+2026-11-22T13:59:46.991Z,@teqconnect/express,0.1.0,teqconnect,Apache-2.0,111016,Sign in with TeqConnect for Express.
+2026-11-22T14:00:46.973Z,yoob-ai-sdk-provider,0.1.0,ofirkris,MIT,31507,Yoob speech-to-text and expressive text-to-speech for the Vercel AI SDK
+2026-11-22T14:00:48.559Z,@sigil-dev/meta,0.10.1,cane1712,MIT,12556,"Page metadata for Grimoire: title, description, canonical, Open Graph, Twitter cards and Discord component embeds from one <Meta> per page"
+2026-11-22T14:01:15.013Z,vc-studios,0.0.1,chethan_kumar11224455,MIT,76258266,"The open source AI video agent: films as web pages, the skills that teach your coding agent to make them, the `vc-studios` command, and Studio, the editor to change anything in them."
+2026-11-22T14:02:51.925Z,termkit-ui,0.1.0,hexqb,MIT,167163,"Zero-dependency, cohesive TypeScript/ESM toolkit for building robust Node.js CLI user interfaces"
+2026-11-22T14:02:57.091Z,fraimwork,0.0.1,n1kk,MIT,311,Under development
+2026-11-22T14:03:15.838Z,@maigo999/kie-cli,0.2.1,maigo999,MIT,45128,"CLI for kie.ai: model catalog, credits, image/video/music generation, LLM chat"
+2026-11-22T14:03:43.486Z,shellspark,1.0.0,jatinnagwani,MIT,18246,A lightweight library for beautiful and colorful terminal output.
+2026-11-22T14:03:57.411Z,express-mvc-init,1.0.0,aomine_22,MIT,47066,A zero-dependency CLI scaffolder that generates a clean MVC folder structure for Express.js projects.
+2026-11-22T14:04:02.679Z,@flutterlocalisation/cli-linux-x64,1.23.0,aksel_taja,MIT,16937680,The fl and fl_mcp binaries for linux-x64. Install @flutterlocalisation/cli instead.
+2026-11-22T14:04:25.106Z,@igorjpimenta/winch,2026.11.22-beta.2,igorjpimenta,MIT,758175,**Pull-based delivery backlog for coding agents.**
+2026-11-22T14:04:56.037Z,@flutterlocalisation/cli-linux-arm64,1.23.0,aksel_taja,MIT,16496362,The fl and fl_mcp binaries for linux-arm64. Install @flutterlocalisation/cli instead.
+2026-11-22T14:05:01.58Z,@impulselab/hepha-toolbar,0.0.0,lionvsx,,325178,"Feedback toolbar for Impulse Lab client apps, connected to Hephaistos."
+2026-11-22T14:05:23.656Z,@flutterlocalisation/cli-win32-x64,1.23.0,aksel_taja,MIT,16125136,The fl and fl_mcp binaries for win32-x64. Install @flutterlocalisation/cli instead.
+2026-11-22T14:05:43.632Z,@flutterlocalisation/cli,1.23.0,aksel_taja,MIT,4073,"The fl command and the fl_mcp MCP server of FlutterLocalisation, for Flutter, iOS and Angular apps. No Dart needed."
+2026-11-22T14:05:49.256Z,envpilot-dev,1.0.0,aryan727,MIT,43904,"Developer-first environment configuration auditor for JavaScript and TypeScript projects. Detect missing, unused, and inconsistent environment variables before deployment."
+2026-11-22T14:05:59.665Z,@flutterlocalisation/angular,1.23.0,aksel_taja,MIT,10147,"ng add for FlutterLocalisation: sets up @angular/localize, ARB extraction and the fl command in an Angular app."
+2026-11-22T14:06:29.29Z,dsh-audiokit,0.5.10,0zerolsoar0,MIT,3171290,"Sound effects for HTML animation: a deterministic synthesizer exposed as DSH tools, plus the workflow skill that makes an agent actually use it."
+2026-11-22T14:07:06.793Z,@mark1russell7/stack-hazards,0.1.0,mark1russell7,MIT,520160,"Hazard cases as reference data: the public supplies that each case can stop, each with a source, and the law of the duration of the stop or no read. An add-on of system-stack."
+2026-11-22T14:07:07.659Z,@tsuhanranjan/autocommit,1.0.1,tsuhanranjan,MIT,111476,Intelligent Git automation and progress-protection CLI tool
+2026-11-22T14:07:31.19Z,pretty-console-kit,1.0.0,krishna0111,MIT,20252,"A lightweight, zero-dependency Node.js logging utility that provides colored, timestamped, categorized console logs with configurable logging levels and prefixes."
+2026-11-22T14:07:41.618Z,@plusguard/anchor,3.3.2,plusguard,MIT,96982,"In-page scrolling from HTML attributes: to a section, the top or the bottom, with a set duration — with or without Lenis. A back-to-top button that shows after a set scroll and steps out of the way o…"
+2026-11-22T14:07:44.885Z,@plusguard/animation,1.1.1,plusguard,MIT,17833,"Play a keyframe when an element becomes visible, from HTML attributes. IntersectionObserver-based, zero dependencies, framework-agnostic, respects reduced motion. CSS included."
+2026-11-22T14:07:54.568Z,@plusguard/dropdown,1.4.2,plusguard,MIT,74691,"A head that opens a body, from HTML attributes. Closes on an outside press, Escape, focus leaving and page scroll; one open at a time. Zero dependencies, framework-agnostic, accessible. CSS included."
+2026-11-22T14:07:58.996Z,@plusguard/image,2.0.1,plusguard,MIT,27420,"Image state for React/Next and static sites: grey placeholder until loaded, fade-in, no broken-image icon. Works alongside next/image and native lazy loading. Zero dependencies. CSS included."
+2026-11-22T14:08:00.235Z,jobo-developer-mcp,0.1.0,jobo-ai,MIT,163000,"Developer MCP server for the Jobo API — look up company ids, occupations and filter values, and build a valid job-search request, from inside a coding agent."
+2026-11-22T14:08:02.07Z,@plusguard/loading-progress,1.3.1,plusguard,MIT,48508,"A thin loading bar along the top of the page, as YouTube shows: from the first paint, on every page change, and for your own jobs — filling only once the page is ready, skeletons gone. HTML attribute…"
+2026-11-22T14:08:08.091Z,@plusguard/scrollbar,1.1.2,plusguard,MIT,45648,"A custom scrollbar from HTML attributes: a thin bar that shows on hover and while scrolling, and can be dragged or clicked — for the page and for any scrolling panel or pop-up, with or without Lenis.…"
+2026-11-22T14:08:09.109Z,dsh-connectors,0.1.2,joblessjoe,MIT,84716,"Claude-style Connectors for DeepSeek Harness (dsh): add any MCP server from Settings → Connectors — remote with OAuth sign-in (works even when dsh runs on a headless server), bearer token, or a local…"
+2026-11-22T14:08:11.688Z,@plusguard/skeleton,2.0.1,plusguard,MIT,13604,"Loading placeholders from HTML attributes: grey boxes, text lines and circles that stand in for content not yet loaded, with a soft shimmer. CSS only, for Next's loading.tsx and static sites alike. Z…"
+2026-11-22T14:08:15.006Z,@plusguard/target-functions,3.2.1,plusguard,MIT,42303,"Open, close and toggle elements by name from HTML attributes, with a CSS scroll lock for drawers and overlays. Zero dependencies, framework-agnostic, accessible."
+2026-11-22T14:08:18.044Z,@plusguard/fit-more-nav,1.4.1,plusguard,MIT,57723,"A row that always fits: menu items or tabs that don't fit move to a ""More"" dropdown, by priority, and come back as the row grows. The current one never hides. Completes @plusguard/dropdown; with targ…"
+2026-11-22T14:08:21.55Z,@plusguard/gsap-connector,1.1.2,plusguard,MIT,54454,"Connects GSAP's ScrollTrigger to the page, with or without Lenis: runs Lenis on GSAP's ticker, keeps ScrollTrigger in step with every scroll, refreshes the triggers when the page changes height, and…"
+2026-11-22T14:08:25.821Z,@plusguard/marquee,1.2.2,plusguard,MIT,79075,"Scrolling strips that loop without a seam: announcement bars, logo rows, testimonial columns. Flows at a set speed in px/s, or steps one item at a time; moves only when it does not fit, if you like;…"
+2026-11-22T14:08:28.994Z,@plusguard/scroll-canvas,1.1.2,plusguard,MIT,53823,"Apple-style scroll scenes: an image sequence drawn on a canvas, frame by frame, driven by your own GSAP ScrollTrigger — titles and buttons on the same timeline. Sharp on Retina, lighter frames for ph…"
+2026-11-22T14:08:32.022Z,@plusguard/spotlight,1.2.1,plusguard,MIT,36820,"A large logo lit by the pointer: a dim, grainy wordmark that brightens in a soft circle around the cursor — or stays dark until the pointer finds it. From HTML attributes, for any SVG; light and dark…"
+2026-11-22T14:08:37.241Z,@plusguard/stories,3.1.4,plusguard,MIT,178694,"Instagram-like stories, from markup: a row of avatars that open a full-screen viewer — progress bars, autoplay, tap to go on, hold to pause, a 3D cube between people, videos with sound. No dependenci…"
+2026-11-22T14:08:37.791Z,@datacub/web,0.4.0,imsalah,MIT,101353,"datacub product analytics for websites. One line to install, private by default."
+2026-11-22T14:09:04.419Z,dsh-voice-read,0.1.0,erasersare,MIT,125220,Play button on finished DeepSeek Harness assistant replies that reads them aloud through the official DeepSeek TTS API
+2026-11-22T14:10:33.364Z,@anoopalase29/env-scout,1.0.0,anoopalase29,MIT,15706,Inspect .env files for configuration errors and security risks without revealing values.
+2026-11-22T14:10:37.118Z,@borislavhr/emdash-plugin-discord,1.0.0,borislavhr,MIT,54487,"EmDash CMS plugin: a short Discord post when an entry is published for the first time, with retries, a switch and an editor panel."
+2026-11-22T14:10:56.175Z,@borislavhr/emdash-plugin-indexnow,1.0.0,borislavhr,MIT,29133,"EmDash CMS plugin: tells search engines through IndexNow when a page is published, unpublished or deleted, from the live site only."
+2026-11-22T14:11:09.447Z,@borislavhr/emdash-plugin-review-link,1.0.0,borislavhr,MIT,25482,"EmDash CMS plugin: a private link to a draft that works for days, for reviewers without an admin account."
+2026-11-22T14:12:01.11Z,@leonchan2840/dsh-quick-model-panel,1.2.1,leonchan2840,MIT,421698,"Keep favorite models, reasoning effort and agent teams in one persistent DSH panel, with fewer menu clicks and less scrolling."
+2026-11-22T14:13:42.726Z,@staix/mcp-stdio,0.1.0,entelecheia,MIT,239329,Bounded MCP stdio server core for Bun
+2026-11-22T14:15:49.378Z,rhumbpad,0.0.0-stage,artisonian,,330,Temporary package placeholder for staged publishing
+2026-11-22T14:16:04.775Z,searchjetengine,1.0.3,dynamicweblab,MIT,78628,"JavaScript search UI for SearchJet Engine: drop-in instant search box, results and pagination widgets for any website (typo-tolerant, managed search API)."
+2026-11-22T14:16:07.379Z,docx-paper,1.0.0,masstensor,Apache-2.0,489937,"High-fidelity pure-frontend .docx (OpenXML) page renderer with built-in WMF/EMF vector formula engine, OMML math, CJK typography, and progressive pagination."
+2026-11-22T14:16:08.676Z,dsh-coexist-cli,0.1.0,tsymq,MIT,157849,Pre-boot conflict scanner and repair planner for DeepSeek Harness profiles.
+2026-11-22T14:16:38.666Z,mobin-dev-vite-proxy,0.1.0,mobin-libs,UNLICENSED,8997,"Development-only Vite proxy for Mobin APIs, SSO and local backend cookies."
+2026-11-22T14:17:50.662Z,claude-sevdesk-connector,0.1.0,markus_kosmal,MIT,62004,"Read-only MCP connector for sevDesk: contacts, invoices and evaluations for Claude."
+2026-11-22T14:18:39.664Z,rigcast-mcp,0.0.0-stage,killianch,,333,Temporary package placeholder for staged publishing
