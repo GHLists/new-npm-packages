@@ -1,0 +1,135 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-23T22:15:11.501Z,@retainer/sdk,0.1.0,maayan-s,MIT,106709,TypeScript client for the Retainer API.
+2026-11-23T22:15:17.098Z,@retainer/mcp,0.1.0,maayan-s,MIT,17576,"stdio bridge to a Retainer server's MCP endpoint, for MCP clients that only speak stdio."
+2026-11-23T22:15:22.403Z,@retainer/cli,0.1.0,maayan-s,MIT,94603,Retainer's browser-authenticated administration CLI.
+2026-11-23T22:19:38.192Z,@nolmak/tabagent,0.1.0,nolmak,MIT,1508944,Let any AI agent drive your real Chrome: MCP server + CLI bridge for the TabAgent extension.
+2026-11-23T22:19:50.718Z,@pincli/pincli,0.0.1,pincli,MIT,52226,"Offline project context CLI for AI coding assistants: scan a repo, print a deterministic structure map, pack a token-budgeted context digest, and check for missing files or leaked secrets. No network…"
+2026-11-23T22:20:40.126Z,@meritt/yamb-render-html,0.1.0,meritt,MIT,14851,HTML views for Yamb posts with optional preparation
+2026-11-23T22:20:47.696Z,@aarongustafson/list-filter,1.0.0,aarongustafson,MIT,44364,Progressively filter native lists with light-DOM search and category controls.
+2026-11-23T22:21:17.053Z,@zouhair_elmattad/healwright,0.2.0,zouhair_elmattad,Apache-2.0,781638,Self-healing locators and resilient Playwright tests with a local reporting dashboard
+2026-11-23T22:21:37.621Z,@ggem-farming/tokens,0.1.0,ml_ggem,MIT,33781,GGEM design tokens for web (Tailwind CSS v4 theme) and React Native
+2026-11-23T22:21:42.755Z,@ggem-farming/ui,0.1.0,ml_ggem,MIT,210609,GGEM React components built on Base UI and Tailwind CSS v4
+2026-11-23T22:22:43.886Z,phi-router,0.2.0,drsh4dow,MIT,853987,"Sends each model request from Claude Code, Codex or pi to an open account or a BAA account, by whether it holds PHI."
+2026-11-23T22:23:20.493Z,@riebeckite/mcp,0.2.0,rerurate,Apache-2.0,34318,MCP server for a local Riebeckite development Bridge.
+2026-11-23T22:23:59.679Z,@riebeckite/ai,0.2.0,rerurate,Apache-2.0,89350,AI integration configuration and mutation policy for Riebeckite.
+2026-11-23T22:24:34.267Z,@riebeckite/plugin-dataset,0.2.0,rerurate,Apache-2.0,32142,Versioned NDJSON dataset exports of the published Riebeckite content graph.
+2026-11-23T22:25:28.176Z,@meritt/yamb-render-xml,0.1.0,meritt,MIT,23422,RSS 2.0 and Atom 1.0 renderers for Yamb post collections
+2026-11-23T22:25:53.467Z,@promptaudit/mcp,0.1.0,promptaudit,MIT,13631,"Local MCP server and CLI that reversibly masks PII and API keys before text reaches an LLM. Zero runtime dependencies, stdio only, no network."
+2026-11-23T22:26:39.657Z,@gjermundgaraba/pi-mcp-bleeding-edge,0.1.0,bjaanes,MIT,244060,"Replaces pi's built-in MCP support with a client on the official MCP TypeScript SDK v2, speaking protocol 2026-07-28 and falling back to 2025-era servers."
+2026-11-23T22:27:22.477Z,okayed,0.1.0,hariskhan90,MIT,351382,"Catch App Store, Mac App Store and Google Play rejections before you submit. Reads your project or built app (iOS, macOS, Android), runs in CI, fixes what's safe."
+2026-11-23T22:27:45.253Z,@gbellido/node-red-kafka-http-gateway,0.2.0,gbellido,MIT,32757,Node-RED producer and consumer for an offset-based Kafka HTTPS gateway
+2026-11-23T22:27:51.473Z,@deltabreen/analytics-react,0.1.0,darrendeltabreen,MIT,5200,Analytics by DeltaBreen for React: an <Analytics /> component and hooks for experiment variants and feature flags.
+2026-11-23T22:27:54.237Z,@deltabreen/analytics-next,0.1.0,darrendeltabreen,MIT,8194,"Analytics by DeltaBreen for Next.js: an <Analytics /> component, hooks for experiment variants and feature flags, and a route that serves the tracker through your own domain."
+2026-11-23T22:27:56.914Z,@deltabreen/analytics-vue,0.1.0,darrendeltabreen,MIT,5466,Analytics by DeltaBreen for Vue and Nuxt: a plugin and composables for experiment variants and feature flags.
+2026-11-23T22:27:59.708Z,@deltabreen/analytics-svelte,0.1.0,darrendeltabreen,MIT,4527,Analytics by DeltaBreen for Svelte and SvelteKit: stores for experiment variants and feature flags.
+2026-11-23T22:28:02.655Z,@deltabreen/analytics-angular,0.1.0,darrendeltabreen,MIT,5273,Analytics by DeltaBreen for Angular: a provider and signals for experiment variants and feature flags.
+2026-11-23T22:29:27.388Z,n8n-nodes-printaloft,0.2.0,ubartas,MIT,154750,"n8n node for Printaloft: print PDFs and ZPL labels on your office or warehouse printers from any workflow, with an honest printed/failed result."
+2026-11-23T22:30:47.974Z,struxtor-harness,1.0.0,struxtor,SEE LICENSE IN LICENSE,489026,Runs coding-agent CLIs on your machine and lets Struxtor drive them.
+2026-11-23T22:32:20.828Z,@usesophi/sophi-react-native,0.0.1,yyerdogmus,UNLICENSED,12259281,Native Sophi shopping assistant for React Native
+2026-11-23T22:32:37.568Z,seenline,0.1.0,apertur3,MIT,299095,Local document-to-Markdown converter with built-in hidden-content flagging
+2026-11-23T22:33:39.955Z,@nocopypaste/vue-grid,0.2.0,ebiye,MIT,1461061,"CSS-Grid based data grid for Vue 3 with opt-in features, pluggable cell renderers, sub-grids and CSS-variable theming — documented for coding agents (AGENTS.md, llms.txt, JSON Schema, validator)."
+2026-11-23T22:33:57.264Z,@datadog/sourcemaps-shared,3.5.1,datadog,MIT,1615,Shared sourcemap utilities for Datadog build plugins and datadog-ci
+2026-11-23T22:34:02.22Z,@nocopypaste/vue-grid-mcp,0.2.0,ebiye,MIT,20410,"MCP server for @nocopypaste/vue-grid: the grid's rules, API reference, renderer catalogue, doc search and a grid-config validator, as tools for coding agents. Zero dependencies besides the grid itsel…"
+2026-11-23T22:34:05.569Z,@nocopypaste/vue-grid-renderer-template,0.2.0,ebiye,MIT,12998,Boilerplate cell-renderer addon for @nocopypaste/vue-grid: a star rating renderer. Copy this package to start your own.
+2026-11-23T22:34:39.984Z,@pipedream/google_bigquery_oauth,0.0.1,dylburger-workday,,6833,Pipedream Google BigQuery (OAuth) Components
+2026-11-23T22:35:33.961Z,@gjermundgaraba/pi-claude-bridge,0.1.0,bjaanes,MIT,218285,Uses Claude Code with your Claude subscription as a Pi model provider.
+2026-11-23T22:36:07.743Z,sanity-plugin-preset-picker,0.1.0,borislavhr,MIT,21304,"A Sanity Studio field that lets editors pick a value from visual tiles (backgrounds, themes, layouts) instead of a dropdown."
+2026-11-23T22:36:15.496Z,ideablade-validation,0.1.0,marcelgood,MIT,734518,"Data-store agnostic, metadata-driven validation framework with Angular providers, React hooks and a Breeze adapter."
+2026-11-23T22:38:12.704Z,@atlassian-test-prod/npm-synth-check,0.0.0,atlassianartifactteam,,377,Placeholder release claiming @atlassian-test-prod/npm-synth-check.
+2026-11-23T22:38:26.788Z,directus-extension-cache-manager,1.0.1,domdus,MIT,278163,"Granular cache for Directus: a change clears only the cached responses that use its collection. Rules per collection, Skip Fields, statistics, change analysis, and cache settings without a restart."
+2026-11-23T22:39:21.113Z,@canvs/omni-claude-bridge,0.0.1,rovin.cutinho,SEE LICENSE IN LICENSE,365473,"Run your Canvs Omni AI jobs on your own computer with your own Claude Code sign-in, so usage bills to your Claude plan. Requires a Canvs account that Canvs has enabled for this feature."
+2026-11-23T22:39:28.348Z,markolis-mcp,2.10.0,markolisai,Apache-2.0,26027,Official Model Context Protocol (MCP) server bridge for Markolis quantitative market telemetry.
+2026-11-23T22:42:05.408Z,@formivue/path,3.0.3,stefapi,MIT,137543,Path pattern language for formivue (get/set/match on nested values)
+2026-11-23T22:42:05.435Z,@formivue/reactive,3.0.3,stefapi,MIT,113295,"Reactive observable system powering formivue (observable, autorun, batch)"
+2026-11-23T22:42:07.573Z,@formivue/reactive-vue,3.0.3,stefapi,MIT,7611,Vue 3 binding for @formivue/reactive (observer)
+2026-11-23T22:42:07.603Z,@formivue/grid,3.0.3,stefapi,MIT,40994,Reactive grid layout engine for formivue (columns/rows from live container size)
+2026-11-23T22:42:07.754Z,@formivue/shared,3.0.3,stefapi,MIT,77577,"Shared toolbox for formivue packages (path, merge, clone, checkers)"
+2026-11-23T22:42:07.845Z,@formivue-design/charts-runtime,3.0.3,stefapi,MIT,348644,Unovis chart components and Formivue runtime materials
+2026-11-23T22:42:10.157Z,@formivue/validator,3.0.3,stefapi,MIT,69710,"Validation framework for formivue — rules, formats, locales, zod bridge"
+2026-11-23T22:42:12.946Z,@formivue/core,3.0.3,stefapi,MIT,278675,"Headless form engine — observable form/field models, validation, lifecycle effects"
+2026-11-23T22:42:15.077Z,@formivue/json-schema,3.0.3,stefapi,MIT,83820,"JSON Schema driver for formivue — schema to field props, x-reactions and expressions"
+2026-11-23T22:42:15.217Z,@formivue/flow,3.0.3,stefapi,MIT,19470,Headless conditional form navigation and step validation
+2026-11-23T22:42:17.484Z,@formivue/vue,3.0.3,stefapi,MIT,91775,"Vue 3 binding layer for @formivue/core — fields, schema fields and hooks"
+2026-11-23T22:42:17.494Z,@formivue-design/core,3.0.3,stefapi,MIT,442522,The designer's engine — **framework-agnostic** (no UI dependency)([`@formivue-design/vue`](../vue)).
+2026-11-23T22:42:19.918Z,@formivue-design/formivue-transformer,3.0.3,stefapi,MIT,13954,**TreeNode ⇄ formivue JSON Schema** transformer — the export/import bridge between the designer's design tree ([`@formivue-design/core`](../core)) and the schemas consumed by [`@formivue/vue`](../../…
+2026-11-23T22:42:19.928Z,@formivue-design/shadcn-advanced-runtime,3.0.3,stefapi,MIT,166137,Advanced shadcn-vue controls and Formivue schema bindings
+2026-11-23T22:42:20.325Z,@formivue-design/vue,3.0.3,stefapi,MIT,1198239,"The designer's **Vue 3.5** rendering layer — port of `@formivue-design/react` (public names kept: hooks → composables, components → `defineComponent`)."
+2026-11-23T22:42:22.546Z,@formivue-design/vue-sandbox,3.0.3,stefapi,MIT,15551,"**Sandbox** iframe of the Vue designer. The preview content (`ViewPanel` preview) lives in an isolated iframe, driven from the host window."
+2026-11-23T22:42:22.698Z,@formivue-design/formivue-vue,3.0.3,stefapi,MIT,510607,Formivue materials of the **Vue 3.5** designer.
+2026-11-23T22:42:24.847Z,@formivue-design/shadcn-advanced-designer,3.0.3,stefapi,MIT,118092,Advanced Formivue designer palette and property editors
+2026-11-23T22:42:25.064Z,@formivue-design/vue-settings-form,3.0.3,stefapi,MIT,299737,The properties panel of the Vue designer.
+2026-11-23T22:42:27.347Z,@formivue-design/charts-designer,3.0.3,stefapi,MIT,754110,"Formivue chart palette, settings, and canvas materials"
+2026-11-23T22:42:27.348Z,@formivue-design/formivue-setters,3.0.3,stefapi,MIT,191286,"Formivue setters of the properties panel: `@formivue/vue` bindings of the fork, components from [`@formivue-design/vue-ui`](../vue-ui) (reka-ui + Tailwind 4), Monaco via [`@formivue-design/vue-settin…"
+2026-11-23T22:42:54.059Z,@orbita-studio/sdk,0.1.2,chabanroman,,57161,"Send metrics, events, payments and deploys from a product to Orbita. No dependencies."
+2026-11-23T22:43:21.8Z,dsh-publish-helper,0.21.2,fubai-fenzhi,MIT,115794,"DSH plugin publishing assistant: discover by topic, check listing readiness, generate the registry entry, open the pull request and show a settings page."
+2026-11-23T22:45:18.593Z,tabi-mcp,0.7.0,hommemade,MIT,24946,MCP bridge server for the Tabi browser extension. Lets Claude Code / Codex drive tab management over a local WebSocket using subscription compute.
+2026-11-23T22:45:46.642Z,@table-bro/react-mui,1.3.0,tablebro,MIT,137356,"Pixel-perfect Material data tables for any framework and plain JavaScript. A Web Components table engine on top of existing UI components: Angular Material, React MUI, Solid SUID, Svelte M3, Vue Vuet…"
+2026-11-23T22:45:49.396Z,@table-bro/solid-suid,1.3.0,tablebro,MIT,226178,"Pixel-perfect Material data tables for any framework and plain JavaScript. A Web Components table engine on top of existing UI components: Angular Material, React MUI, Solid SUID, Svelte M3, Vue Vuet…"
+2026-11-23T22:45:53.279Z,@table-bro/svelte-m3,1.3.0,tablebro,MIT,194967,"Pixel-perfect Material data tables for any framework and plain JavaScript. A Web Components table engine on top of existing UI components: Angular Material, React MUI, Solid SUID, Svelte M3, Vue Vuet…"
+2026-11-23T22:45:57.007Z,@table-bro/vue-vuetify,1.3.0,tablebro,MIT,156227,"Pixel-perfect Material data tables for any framework and plain JavaScript. A Web Components table engine on top of existing UI components: Angular Material, React MUI, Solid SUID, Svelte M3, Vue Vuet…"
+2026-11-23T22:46:10.286Z,your-space,0.0.1,chen-yourspace,AGPL-3.0-only,36371,Use @your-space-ai/cli — Your Space's command-line tool
+2026-11-23T22:46:22.709Z,your-space-ai,0.0.1,chen-yourspace,AGPL-3.0-only,36442,Use @your-space-ai/cli — Your Space's command-line tool
+2026-11-23T22:47:19.859Z,rebornstudio-designmotion,1.0.0,reborn.ai,MIT,25865,AI 가 만든 화면의 움직임을 세 디자이너의 관점으로 만들고 점검하는 무료 오픈소스 스킬 Design Motion Principles(kylezantos/design-motion-principles)의 설치 · 쓰는 법 · 주의할 점을 한국어로 안내하는 스킬을 넣어 줍니다. Design Motion Principles 본체는 대신 설치하지 않습니다.
+2026-11-23T22:48:22.182Z,@skaile/forge-voice,0.1.0,peter_skaile,MIT,1043017,"Headless voice conversation stack: shared speech types and wire protocol, audio tags, keyterm budget, a browser engine (capture, VAD and barge-in, echo filter, streaming speech playback) with a relay…"
+2026-11-23T22:50:50.245Z,learning-sdk,0.0.1,mikeryan52,MIT,3538,Validate Learning trajectory collector events.
+2026-11-23T22:51:23.299Z,hydraloop-diagram-react,0.0.0,gr2m,ISC,351,"React flow diagram of a Hydraloop H600, and the model that derives what the device is doing from its signals"
+2026-11-23T22:51:29.33Z,@p3rr0_org1/package2,1.2.0,p3rr0,,166,
+2026-11-23T22:51:29.764Z,@amenophis1er/mailcore,0.2.0,amenophis1er,MIT,628664,"Mail and calendar accounts for Node: Exchange (EWS), IMAP/SMTP, JMAP, CalDAV, Google and Microsoft 365, with push, an encrypted cache, drafts and MCP-ready tools. The caller supplies accounts and sec…"
+2026-11-23T22:51:51.768Z,@yosefsabag/mediapipe-pose,0.5.2,yosefsabag,MIT,46089285,"On-device MediaPipe pose landmarks for Expo, with a camera view, named joints, and a skeleton."
+2026-11-23T22:53:29.039Z,@flowbase-co/booster-pointer-follower,1.1.2,flowbaseco,,12183,"A stack of image cards follows your pointer with soft springs, staggered movement and gentle rotation."
+2026-11-23T22:53:32.461Z,@anand24/termplayer,2.1.0,anand24,MIT,130355,"A keyboard-driven terminal music player with a living time-of-day UI, DJ tools and Bollywood radio, powered by VLC."
+2026-11-23T22:53:33.773Z,@miorin/dsh-background-jobs-sidebar,0.1.0,miorin,MIT,46433,Shows active jobs from every session directly above the account control in the left sidebar.
+2026-11-23T22:54:48.931Z,@shiftlabs/codemode-bash,0.1.0,miclivs,MIT,6756,Run bash commands from codemode
+2026-11-23T22:55:03.222Z,@necmikural/copass,2.0.0,necmikural,MIT,441736,"Continue an unfinished coding session in another AI agent — an evidence-based hand-over built from local session logs, with zero tokens and zero dependencies"
+2026-11-23T22:55:05.065Z,@paulperigault/milestones-3d,0.2.0,paulperigault,MIT,245092,"Scène 3D de jalons en WebGL2 : pp-milestones compilé en WebAssembly, enveloppe TypeScript stricte, amélioration progressive."
+2026-11-23T22:55:31.888Z,@folijs/collab,0.1.0,josepaudenis,MIT,40602,"The authority for real-time editing of a Foli document by several people: orders every step, validates it by applying it, gives what to broadcast, to catch up and to store. No transport, no storage,…"
+2026-11-23T22:55:34.237Z,@sylphx/auth,0.1.0,shtse8,MIT,38382,Web-standard first-party Auth handler and its browser contract
+2026-11-23T22:55:40.171Z,dep-vet-linux-x64,0.13.0,nassihyas,MIT,18745611,Platform binary for dep-vet
+2026-11-23T22:55:45.578Z,dep-vet-linux-arm64,0.13.0,nassihyas,MIT,16614639,Platform binary for dep-vet
+2026-11-23T22:55:51.035Z,dep-vet-darwin-x64,0.13.0,nassihyas,MIT,16720005,Platform binary for dep-vet
+2026-11-23T22:55:56.869Z,dep-vet-darwin-arm64,0.13.0,nassihyas,MIT,14919249,Platform binary for dep-vet
+2026-11-23T22:56:13.053Z,@shiftlabs/codemode-powershell,0.1.0,miclivs,MIT,9944,Run PowerShell commands from codemode
+2026-11-23T22:56:34.305Z,convex-azure-blob-storage,0.1.0,kevin_gatimu,Apache-2.0,623989,"Azure Blob Storage for Convex: direct browser uploads with short-lived SAS URLs, file metadata in Convex, and no Azure SDK."
+2026-11-23T22:57:10.222Z,@shiftlabs/codemode-node,0.1.0,miclivs,MIT,6752,Run JavaScript in Node.js from codemode
+2026-11-23T22:57:40.47Z,castle-keep,0.1.0,den-kozlov,MIT,361168,"An endless loop of coding agents over the ready tasks of a repo, on top of Sandcastle: plan, implement, review, merge."
+2026-11-23T22:58:04.388Z,@sylphx/auth-solid,0.1.0,shtse8,MIT,122065,"A Solid package with compiled browser and SSR entry points. Install both SDKs and Solid in your application, then mount the same-origin `@sylphx/auth` routes on your application server. It owns the s…"
+2026-11-23T22:58:16.618Z,@shiftlabs/codemode-duckdb,0.1.0,miclivs,MIT,21908,"Run DuckDB SQL from codemode: over databases, files and rows the code fetched"
+2026-11-23T22:58:20.904Z,@instructure/platform-outcome-alignment,0.1.0,ericsaupe,,20599,
+2026-11-23T22:58:38.916Z,@nassihyas/dep-vet,0.13.0,nassihyas,MIT,80892396,"Check a dependency's risk before it enters your lockfile. Nine ecosystems, no code execution, MCP server for AI agents."
+2026-11-23T22:59:00.515Z,rosedb,1.0.2,blckrose2,MIT,1136698,"High-performance embedded Key-Value & Document database engine written in Rust with Bun FFI bindings (ACID, WAL, B+Tree, MVCC Snapshot Isolation, AES-256-GCM)."
+2026-11-23T22:59:27.116Z,@shiftlabs/codemode-websearch,0.1.0,miclivs,MIT,42468,"Search the web from codemode through one action, whichever search provider you have a key for"
+2026-11-23T22:59:40.481Z,@mccaskie-labs/workbench-mailing,0.1.0,rmccaskie,UNLICENSED,122925,"Simple mailing lists for Workbench apps: a sign-up form, double opt-in, one-click unsubscribe with a lasting do-not-mail list, and newsletters the owner writes in plain words, queued and sent in batc…"
+2026-11-23T23:00:26.471Z,@shiftlabs/codemode-imagegen,0.1.0,miclivs,MIT,66898,"Make and edit images from codemode through one set of actions, whichever image provider you have a key for"
+2026-11-23T23:00:36.549Z,mcp-benchmark,1.3.0,yunusarda-sudo,MIT,24226347,Deterministic quantitative quality benchmark and linter for Model Context Protocol (MCP) tool definitions
+2026-11-23T23:01:26.987Z,@shiftlabs/codemode-decision,0.1.0,miclivs,MIT,33862,"Ask a decision model yes-or-no, choice and score questions from codemode, whichever provider you have a key for"
+2026-11-23T23:02:28.57Z,@p3rr0_org1/pack1,1.0.0,p3rr0,ISC,295,desc1
+2026-11-23T23:02:47.112Z,kairotron,0.1.0,slowsigma,MIT,279980,Text-first REPL for discrete-time dynamical systems (stock-and-flow folds)
+2026-11-23T23:03:05.186Z,@betterleaks/cli-darwin-arm64,0.0.0-stage,zricethezav,,351,Temporary package placeholder for staged publishing
+2026-11-23T23:03:09.396Z,@betterleaks/cli-darwin-x64,0.0.0-stage,zricethezav,,349,Temporary package placeholder for staged publishing
+2026-11-23T23:03:14.198Z,@betterleaks/cli-linux-arm64,0.0.0-stage,zricethezav,,350,Temporary package placeholder for staged publishing
+2026-11-23T23:03:18.705Z,@betterleaks/cli-linux-x64,0.0.0-stage,zricethezav,,348,Temporary package placeholder for staged publishing
+2026-11-23T23:03:20.432Z,@miorin/dsh-atlas-runtime,0.1.0,miorin,MIT,151425,See running jobs from all sessions above the account control in the left sidebar.
+2026-11-23T23:03:23.039Z,@betterleaks/cli-win32-arm64,0.0.0-stage,zricethezav,,350,Temporary package placeholder for staged publishing
+2026-11-23T23:03:27.231Z,@betterleaks/cli-win32-x64,0.0.0-stage,zricethezav,,348,Temporary package placeholder for staged publishing
+2026-11-23T23:03:29.727Z,betterleaks,0.0.0-stage,zricethezav,,333,Temporary package placeholder for staged publishing
+2026-11-23T23:03:41.917Z,@w5s/git-worktree-manager,1.0.0,jpolo,MIT,37458,"CLI to manage git worktrees: create, list, move, checkout, remove, clean up and sync env files"
+2026-11-23T23:04:08.881Z,@ferris-ai/cli,0.1.0,chrisc98,MIT,340425,"The ferris CLI: installs the project-state skill for Claude Code and runs its state engine (evidence-backed project state from emails, chat, meeting notes and files)."
+2026-11-23T23:05:52.987Z,@p3rr0_org1/pack2,0.0.0-stage,p3rr0,,339,Temporary package placeholder for staged publishing
+2026-11-23T23:06:20.498Z,pi-compact-activity,0.4.0,zanny00,MIT,157888,"Aligned, compact, clickable thinking and tool rows with native Pi expansion"
+2026-11-23T23:06:20.966Z,hipaa,0.1.0,signalry-admin,MIT,2267,"Alias of @signalry-net/hipaa-shield: Signalry's HIPAA Shield. Your pixels keep sending conversions; every request leaves redacted (no IP, cookies, click ids, URL path or treatment names)."
+2026-11-23T23:07:31.067Z,@agentorg/2dlivebot,0.1.0,anzsh,MIT,69986,"Animated 2D character avatars for the web, each drawn from one string and alive in the page."
+2026-11-23T23:08:13.582Z,domain-rules,0.0.0,kido,UNLICENSED,287,This version is not intended for use.
+2026-11-23T23:09:09.146Z,@feladatok/mcp,1.0.0,georgeolah,MIT,28099,MCP server for feladatok.com: end-to-end encrypted tasks for AI agents. Encryption runs locally.
+2026-11-23T23:10:10.025Z,openharness-app,0.3.0,jordanroberto74,MIT,1265841,"The DeepSeek Harness interface with the opencode engine, as a desktop app installed from the command line."
+2026-11-23T23:10:25.613Z,@gogoui/tokens,0.1.0,ragnar69,MIT,22506,"GoGoUI design tokens: CSS variables for light and dark, and their Tailwind CSS 4 theme."
+2026-11-23T23:10:28.193Z,doc-refs,0.1.0,ralxz,MIT,24451,"Checks that AGENTS.md, READMEs, skills and other agent docs only name files and slash commands that exist in the repo."
+2026-11-23T23:11:13.551Z,pk-invoice,1.0.0,mmubasher123,MIT,31754,"Make professional invoices in Node.js or the browser: line discounts, sales tax by rate, shipping, advance payments, lakh/crore formatting, amount in words (English + Urdu), and a print-ready A4 HTML…"
+2026-11-23T23:11:39.414Z,@runalongside/js,0.1.0,luke-alongside,MIT,34713,Browser SDK for Alongside: sends visitor events and renders proactive chat invitations and conversations.
+2026-11-23T23:12:07.1Z,@gogoui/ui,0.1.0,ragnar69,MIT,3658729,"GoGoUI's React components: shadcn conventions on Base UI, Tailwind CSS 4, light and dark, accessible (WCAG AA)."
+2026-11-23T23:12:42.504Z,muralha,0.1.0,thomm-011,Apache-2.0,65027,Copiloto de segurança para quem desenvolve com agentes de IA: skills + dashboard local.
+2026-11-23T23:13:11.043Z,@eugeniouglov/url-validator,1.0.0,eugeniouglov,MIT,3994,Simple URL validator — adds http:// to addresses without a protocol
+2026-11-23T23:13:16.315Z,mcp-firebreak,0.1.1,basartuncay,MIT,633566,Provenance-aware security gateway for MCP: stops untrusted tool output from turning into agent actions.
+2026-11-23T23:14:09.065Z,@gitmyabi/atc,1.0.0,gitmyabi-bot,Apache-2.0,58694,"Auto-generated TypeScript type bindings for ATC (build etherscan-atc-0fad86cc-1795475630435, commit d43f60c, branch etherscan)"
+2026-11-23T23:14:38.948Z,@sovgate/js,0.0.1,sovgate-dev,UNLICENSED,290,Official Sovgate JavaScript SDK. Coming soon.
+2026-11-23T23:17:13.531Z,@agentpost-tools/identityhound-sdk,0.0.0-stage,jay-lbv,,356,Temporary package placeholder for staged publishing
+2026-11-23T23:17:15.208Z,acadevor-plugin,0.0.0-stage,luquimbo,,337,Temporary package placeholder for staged publishing
