@@ -1,12 +1,63 @@
 {
   "list": {
-    "count": 134,
-    "from": "2026-11-23T22:19:31.77254Z",
-    "path": "data/new-packages-2026-11-23T23-19-23-695601Z.csv",
-    "to": "2026-11-23T23:19:23.695601Z"
+    "count": 123,
+    "from": "2026-11-23T23:19:23.695601Z",
+    "path": "data/new-packages-2026-11-24T00-19-28-332401Z.csv",
+    "to": "2026-11-24T00:19:28.332401Z"
   },
-  "pending": [],
-  "seq": 147048003,
+  "pending": [
+    {
+      "attempts": 1,
+      "package": "@anbiq/engine-claude-code",
+      "since": "2026-11-23T23:19:23.695601Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@anbiq/github",
+      "since": "2026-11-23T23:19:23.695601Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@anbiq/testkit",
+      "since": "2026-11-23T23:19:23.695601Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@janwalenda/geo",
+      "since": "2026-11-23T23:19:23.695601Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@oslaboratory/compute-client",
+      "since": "2026-11-23T23:19:23.695601Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@oslaboratory/compute-napi-darwin-x64",
+      "since": "2026-11-23T23:19:23.695601Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@oslaboratory/compute-napi-linux-arm64-gnu",
+      "since": "2026-11-23T23:19:23.695601Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@oslaboratory/compute-napi-linux-x64-gnu",
+      "since": "2026-11-23T23:19:23.695601Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@oslaboratory/compute-napi-win32-arm64",
+      "since": "2026-11-23T23:19:23.695601Z"
+    },
+    {
+      "attempts": 1,
+      "package": "@oslaboratory/compute-napi-win32-x64",
+      "since": "2026-11-23T23:19:23.695601Z"
+    }
+  ],
+  "seq": 147056632,
   "source_truncated": false,
-  "window": "2026-11-23T23:19:23.695601Z"
+  "window": "2026-11-24T00:19:28.332401Z"
 }
