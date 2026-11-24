@@ -1,0 +1,189 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-24T04:16:26.491Z,@mkbabb/fourier,0.1.0,mkbabb,MIT,36747,"Fourier series of closed curves: spectra, partial sums, epicycle chains, and a small client for the fourier.babb.dev API."
+2026-11-24T04:19:04.667Z,@jasonkuhrt/config-presets,0.1.1,jasonkuhrt,MIT,41790,"Strict tsconfig, Oxlint and Oxfmt presets for Effect TypeScript projects."
+2026-11-24T04:20:52.817Z,@tbela99/rust-css-parser-wasm,2.3.0,tbela,MIT,2521310,"CSS parser, validator and minifier for node and the browsers: the rust port of @tbela99/css-parser as a WebAssembly module"
+2026-11-24T04:21:03.62Z,@tvangular/calendar,0.1.2,gopikakg,,960181,"Month / week / day calendar for Angular 21, with drag-and-drop rescheduling and a built-in add / edit dialog. Standalone, signal-based, zoneless-ready. Built on `@angular/cdk` (drag-drop, overlay, a1…"
+2026-11-24T04:22:32.403Z,dsh-github-prior-art,0.1.3,yuanzephyr,MIT,117749,"Standing rule + skill for DeepSeek Harness: before building anything from scratch, search GitHub for prior art and write candidates, decision and reason in three lines."
+2026-11-24T04:22:56.849Z,@jgb-solutions/kit,0.1.1,jgb_solutions,MIT,15561,"Generic plumbing for web apps on Bun and Cloudflare Workers: small, typed, tree-shakable modules."
+2026-11-24T04:22:57.409Z,@standeva/agentmeter,0.1.0,standeva,MIT,160706,"Spending-limited x402 payments for AI agents on QDay Aevum: a paying fetch for agents, a paywall for APIs, and a facilitator."
+2026-11-24T04:23:31.221Z,@xsynaptic/plazmoid-stats,0.1.1,xsynaptic,MIT,5714,Measures how much of a track was actually heard
+2026-11-24T04:23:33.069Z,@xsynaptic/plazmoid-wavedata,0.1.1,xsynaptic,MIT,29731,The waveform format used by the Plazmoid audio player
+2026-11-24T04:23:35.202Z,@xsynaptic/plazmoid-core,0.1.1,xsynaptic,MIT,77760,The playback engine behind the Plazmoid audio player
+2026-11-24T04:23:37.211Z,@xsynaptic/plazmoid-player,0.1.1,xsynaptic,MIT,177821,The interface for the Plazmoid audio player
+2026-11-24T04:24:03.881Z,@quarkhz/astro,0.0.1,qtpy,Apache-2.0,24729,"Quark signals for Astro: request-scoped state on the server, a state snapshot that reaches every island before it hydrates, and prefetch for frontmatter."
+2026-11-24T04:24:28.666Z,cmyk-3mf,0.1.1,evelynabellamy,MIT,306971,Convert colored 3D models into Bambu Studio CMYKW mixed-filament .3mf projects. Zero runtime dependencies; runs in Node and the browser.
+2026-11-24T04:25:04.336Z,@ohos-ports/hooks,11.2.0-beta.1,nodejs_3rd,SEE LICENSE IN LICENSE.md,117869,Hooks for PrimeReact components.
+2026-11-24T04:25:08.997Z,@joaogsbarbosa/opencode-9router-installer,1.0.0,joaogsbarbosa,MIT,16972,Interactive installer for the OpenCode 9Router plugin.
+2026-11-24T04:26:56.209Z,@atlassian-test-staging/npm-synth-check,0.0.0,atlassianartifactteamstg,,386,Placeholder release claiming @atlassian-test-staging/npm-synth-check.
+2026-11-24T04:27:35.163Z,@pratik-maurya/super-env,1.0.0,pratik-maurya,,387454,"Compare .env vs .env.example, flag missing keys, detect leaked secrets, toggle mask values, and generate examples."
+2026-11-24T04:28:10.782Z,@designos/core,0.1.0,davymaish,,113826,
+2026-11-24T04:28:12.933Z,@designos/compiler-core,0.1.0,davymaish,,211265,DesignOS supports two component compilation inputs. The existing `ComponentIR` path adapts DesignOS's modeled neutral IR to Mitosis. The TSX source path parses with the pinned `@builder.io/mitosis` p…
+2026-11-24T04:28:15.009Z,@designos/renderer-core,0.1.0,davymaish,,9605,"`renderer-core` provides shared, framework-neutral traversal for target renderer packages. It consumes canonical `PageDocument` data, preserves authored props, children, named slots, parent/slot loca…"
+2026-11-24T04:28:16.954Z,@designos/compiler-angular,0.1.0,davymaish,,3521,
+2026-11-24T04:28:19.19Z,@designos/compiler-cli,0.1.0,davymaish,,233368,"The package exposes the `designos` command for build-time compilation. It reads either a version-1 IR project or a version-2 file-based TSX project, invokes the registered compiler for one target, wr…"
+2026-11-24T04:28:21.175Z,@designos/compiler-react,0.1.0,davymaish,,3502,
+2026-11-24T04:28:23.109Z,@designos/compiler-solid,0.1.0,davymaish,,3471,
+2026-11-24T04:28:25.243Z,@designos/compiler-svelte,0.1.0,davymaish,,3494,
+2026-11-24T04:28:27.134Z,@designos/compiler-vue,0.1.0,davymaish,,3456,
+2026-11-24T04:28:29.167Z,@designos/compiler-web,0.1.0,davymaish,,3429,
+2026-11-24T04:28:31.114Z,@designos/renderer-angular,0.1.0,davymaish,,11274,"A runtime renderer adapter for the `angular` target. This package converts a canonical, framework-neutral `PageDocument` into a deterministic, nested `AngularRuntimeNode` tree. It does **not** genera…"
+2026-11-24T04:28:33.328Z,@designos/renderer-builder,0.1.0,davymaish,,13023,"`rendererTarget` identifies the Mitosis compiler target paired with this renderer package (`builder`, artifact kind). This package has no compiler or UI-framework dependency."
+2026-11-24T04:28:35.296Z,@designos/renderer-dom,0.1.0,davymaish,,13145,Shared browser-DOM adapter for target renderers whose runtime components are custom elements or native DOM tags. `renderDomPage` converts a canonical DesignOS `PageDocument` to a `DocumentFragment`;…
+2026-11-24T04:28:37.308Z,@designos/renderer-html,0.1.0,davymaish,,14325,"Deterministic HTML artifact serializer for DesignOS `PageDocument`. Call `renderHtmlPage(data, { components })`, where each authored component maps to a tag name or `{ tag, textProp }` definition. An…"
+2026-11-24T04:28:39.402Z,@designos/renderer-liquid,0.1.0,davymaish,,12708,"The `liquid` compiler target is an **artifact** target. This package emits a deterministic, DesignOS-owned JSON representation of a `PageDocument`; it does not emit Shopify Liquid template source and…"
+2026-11-24T04:28:41.361Z,@designos/renderer-marko,0.1.0,davymaish,,8258,Runtime adapter target for Marko-oriented hosts. This package deliberately does not depend on Marko or a compiler package: the ecosystem-specific Marko component lookup and component-input convention…
+2026-11-24T04:28:43.317Z,@designos/renderer-mitosis,0.1.0,davymaish,,12267,This package implements the DesignOS `mitosis` **artifact** target. It has no compiler or framework dependency; it consumes the canonical `PageDocument` through `@designos/renderer-core`.
+2026-11-24T04:28:45.271Z,@designos/renderer-preact,0.1.0,davymaish,,5313,Native Preact renderer for DesignOS `PageDocument`. `Render` accepts the saved page and a map from authored component types to Preact components. `renderPreactPage` returns Preact VNodes when the hos…
+2026-11-24T04:28:47.8Z,@designos/renderer-qwik,0.1.0,davymaish,,9308,Runtime renderer bridge for the Mitosis compiler target `qwik`. It traverses canonical `PageDocument` instances through `@designos/renderer-core` and adapts each node to a component supplied by the h…
+2026-11-24T04:28:49.601Z,@designos/renderer-react,0.1.0,davymaish,,35136,
+2026-11-24T04:28:51.561Z,@designos/renderer-solid,0.1.0,davymaish,,5187,"Native Solid renderer for DesignOS `PageDocument`. `Render` accepts the saved page, a map from authored types to Solid components, and an optional component registry; `renderSolidPage` returns the So…"
+2026-11-24T04:28:53.866Z,@designos/renderer-svelte,0.1.0,davymaish,,11016,"Svelte **runtime** target adapter for canonical DesignOS `PageDocument` values. `createSvelteRenderer(runtime, options)` uses `@designos/renderer-core` traversal and slot projection, then delegates i…"
+2026-11-24T04:28:55.907Z,@designos/renderer-swift,0.1.0,davymaish,,12566,A runtime-tree adapter for the DesignOS compiler target `swift` (classified as `runtime` in compiler metadata). The compiler bridge currently smoke-tests generation but explicitly marks target semant…
+2026-11-24T04:28:57.756Z,@designos/renderer-template,0.1.0,davymaish,,10388,A deterministic **artifact** renderer for DesignOS `PageDocument`. This package has no compiler or external template-engine dependency.
+2026-11-24T04:28:59.831Z,@designos/renderer-vue,0.1.0,davymaish,,7878,"Native Vue 3 renderer for DesignOS `PageDocument`. `Render` accepts `data`, a mapping of component names to Vue components, and an optional core component registry. `renderVuePage` is available when…"
+2026-11-24T04:32:25.158Z,nxeditor,0.0.1,crosseditor,UNLICENSED,471,NX Editor (Namo Next Editor) - placeholder. The editor packages will be published under the @nxeditor scope.
+2026-11-24T04:32:29.345Z,@surfaces-ui/trace,0.2.0,joshschoen,Apache-2.0,172772,"Tracing for Surfaces UI: a bounded recorder of messages, problems, state, events, agent turns and service calls, with replay for time travel. Never holds row values or credentials"
+2026-11-24T04:32:29.369Z,@surfaces-ui/tokens,0.2.0,joshschoen,Apache-2.0,251273,"Theme contract, presets and CSS variable output for Surfaces UI"
+2026-11-24T04:32:29.388Z,create-surfaces,0.2.0,joshschoen,Apache-2.0,42082,"Creates a Surfaces UI app: a dashboard, a chat that draws live components, and a data server with six sample datasets"
+2026-11-24T04:32:29.596Z,@surfaces-ui/page,0.2.0,joshschoen,Apache-2.0,1454382,"Surfaces UI pages as one script and one stylesheet, for plain HTML pages with no build step"
+2026-11-24T04:32:29.872Z,@surfaces-ui/proto,0.2.0,joshschoen,Apache-2.0,779727,Generated protobuf contracts for Surfaces UI
+2026-11-24T04:32:33.499Z,@echelonos/design,0.0.0,itsmesatwik,,1588,Echelon design system: tokens and components.
+2026-11-24T04:32:33.763Z,@surfaces-ui/engine,0.2.0,joshschoen,Apache-2.0,31732,Engine adapter interface for Surfaces UI servers
+2026-11-24T04:32:34.288Z,@surfaces-ui/data,0.2.0,joshschoen,Apache-2.0,411856,"DataSource interface, Arrow result helpers and an in-memory source"
+2026-11-24T04:32:38.997Z,@surfaces-ui/state,0.2.0,joshschoen,Apache-2.0,72992,"Reusable state services for Surfaces UI: stores, persistence, URL sync, undo, shared view state and query runs"
+2026-11-24T04:32:39.606Z,@surfaces-ui/engine-duckdb,0.2.0,joshschoen,Apache-2.0,152973,"DuckDB engine adapter (Node, ADBC)"
+2026-11-24T04:32:39.628Z,@surfaces-ui/pipelines-dbt,0.2.0,joshschoen,Apache-2.0,159308,"A dbt project as a Surfaces UI pipeline: datasets, tests, runs and semantic models read from dbt's artifacts, with dbt build only on a person's approval"
+2026-11-24T04:32:39.76Z,@surfaces-ui/agent,0.2.0,joshschoen,Apache-2.0,242381,"AgentBackend interface, event helpers and stream adapters for Surfaces UI chat"
+2026-11-24T04:32:39.856Z,@surfaces-ui/client-connect,0.2.0,joshschoen,Apache-2.0,48087,Connect client that implements DataSource
+2026-11-24T04:32:40.063Z,@surfaces-ui/discovery,0.2.0,joshschoen,Apache-2.0,164372,"Reference discovery backend: search, profiles, relations and context packs over any DataSource"
+2026-11-24T04:32:40.259Z,@surfaces-ui/sql,0.2.0,joshschoen,Apache-2.0,106773,"Dialect-aware SQL rewriting for sort, filter and paging"
+2026-11-24T04:32:40.542Z,@surfaces-ui/components,0.2.0,joshschoen,Apache-2.0,3322954,React components for Surfaces UI
+2026-11-24T04:32:45.864Z,@surfaces-ui/agent-openai,0.2.0,joshschoen,Apache-2.0,33850,"An AgentBackend over any OpenAI-compatible chat completions endpoint (OpenAI, Ollama, vLLM, LM Studio), for Surfaces UI chat"
+2026-11-24T04:32:45.974Z,@surfaces-ui/pipelines,0.2.0,joshschoen,Apache-2.0,127986,"Reference pipeline runner for Surfaces UI: builds datasets from one another on an Engine, with data quality rules"
+2026-11-24T04:32:46.108Z,@surfaces-ui/embedder-local,0.2.0,joshschoen,Apache-2.0,19684,Local embedding model for semantic search; the model is downloaded on first use to a cache outside the repo
+2026-11-24T04:32:46.249Z,@surfaces-ui/agent-anthropic,0.2.0,joshschoen,Apache-2.0,34141,"An AgentBackend over Claude through the Anthropic SDK, for Surfaces UI chat"
+2026-11-24T04:32:46.349Z,@surfaces-ui/agent-loom,0.2.0,joshschoen,Apache-2.0,62504,Loom adapter for Surfaces UI chat: talks to a Loom server over its HTTP gateway
+2026-11-24T04:32:46.582Z,@surfaces-ui/engine-datafusion,0.2.0,joshschoen,Apache-2.0,43840,DataFusion engine adapter for Surfaces UI: talks to a DataFusion server over HTTP and reads Arrow
+2026-11-24T04:32:46.58Z,@surfaces-ui/engine-service,0.2.0,joshschoen,Apache-2.0,88212,"QueryService, CatalogService and SourceService over engine adapters, in Node or a browser"
+2026-11-24T04:32:46.614Z,@surfaces-ui/engine-teradata,0.2.0,joshschoen,Apache-2.0,184116,"Teradata engine adapter for Surfaces UI: Teradata Query Service over HTTP, or a driver connection the consumer supplies"
+2026-11-24T04:32:46.781Z,@surfaces-ui/spec,0.2.0,joshschoen,Apache-2.0,1217358,"Component catalog, A2UI surface model and React renderer for agent-generated UI"
+2026-11-24T04:32:51.003Z,@surfaces-ui/datasource-duckdb-wasm,0.2.0,joshschoen,Apache-2.0,78093,A DataSource that runs DuckDB in the browser (WebAssembly): real SQL over Parquet with no server
+2026-11-24T04:32:51.043Z,@surfaces-ui/devtools,0.2.0,joshschoen,Apache-2.0,316754,"Developer tools for Surfaces UI: one component that records and shows the messages, components, problems, state, events, agent turns and service calls of agent-generated UI, with time travel"
+2026-11-24T04:32:51.447Z,@surfaces-ui/chat,0.2.0,joshschoen,Apache-2.0,648325,"Chat thread components for Surfaces UI: streaming replies, tool steps, approvals and inline agent-drawn components"
+2026-11-24T04:32:52.043Z,@surfaces-ui/seeds,0.2.0,joshschoen,Apache-2.0,5402242,"Six synthetic industry data models (retail, healthcare, fraud, telco churn, transportation, manufacturing): generator SQL, descriptions, keys, forms, pipelines and starter surfaces"
+2026-11-24T04:32:56.432Z,@surfaces-ui/dev-server,0.2.0,joshschoen,Apache-2.0,187138,Local Connect server for Surfaces UI data sources
+2026-11-24T04:33:01.286Z,@surfaces-ui/mcp,0.2.0,joshschoen,Apache-2.0,2774720,"MCP Apps delivery for Surfaces UI: tools, ui:// resources and a stdio server"
+2026-11-24T04:33:12.78Z,super-env-auditor,1.0.0,pratik-maurya,,387424,"Compare .env vs .env.example, flag missing keys, detect leaked secrets, toggle mask values, and generate examples."
+2026-11-24T04:33:45.742Z,@chainwith/rewardy-connect,0.1.0-alpha.9,rewardywallet,MIT,473903,"One SDK package for Rewardy Wallet connectivity. Version 0.1.0-alpha.9, wire v2. MIT, Copyright (c) 2026 Rewardy wallet."
+2026-11-24T04:34:04.78Z,@mfs-atomic/theme,1.0.1,mfs-atomic,MIT,882899,"Adaptive multi-theme Vue 3 UI component library with Claymorphism, Glassmorphism, and Neumorphism styles"
+2026-11-24T04:34:21.771Z,dsh-go-model-organizer,0.1.0,fxt666,MIT,47449,模型分类与错误翻译：按渠道/分类列出模型、通断测试、批量删除，报错一键翻译
+2026-11-24T04:34:35.694Z,@narusenia/shosai,0.1.0,narusenia,AGPL-3.0-only,299518,縦書きの赤入れビューア。原稿を読み、赤を入れ、組版の見た目で確かめる
+2026-11-24T04:35:57.31Z,homebridge-christie-projector,1.0.7,jeremylatrasse,Apache-2.0,305440,Homebridge dynamic platform plugin for Christie Digital projectors over Ethernet TCP/IP (Port 3002).
+2026-11-24T04:36:01.563Z,@jasonkuhrt/vsv,0.1.1,jasonkuhrt,MIT,1769746,**The VSCode SDK Microsoft never shipped.**
+2026-11-24T04:38:50.105Z,iluvmd,0.0.1,jaysidd,MIT,1776,iLoveMD command line tool: convert documents to and from Markdown on your own machine. This release reserves the name; the tool is not published yet.
+2026-11-24T04:39:24.252Z,iluvmd-cli,0.0.1,jaysidd,MIT,1516,Reserved name. The iLoveMD command line tool is published as iluvmd.
+2026-11-24T04:40:20.525Z,ilovemd,0.0.1,jaysidd,MIT,1510,Reserved name. The iLoveMD command line tool is published as iluvmd.
+2026-11-24T04:40:22.491Z,@ohos-ports/studio-codemods,4.0.526-beta.1,nodejs_3rd,MIT,3511890,Shared codemods for Remotion Studio
+2026-11-24T04:40:44.844Z,ilovemd-cli,0.0.1,jaysidd,MIT,1518,Reserved name. The iLoveMD command line tool is published as iluvmd.
+2026-11-24T04:41:00.56Z,outtrue,0.1.0,jakubkrehel_,MIT,61296,"Oxlint rules that keep code on the design system: tokens, props, imports and composition."
+2026-11-24T04:41:35.496Z,@sentient012/security,0.1.0,sentient012,Apache-2.0,412862,"Sentient's cryptographic protocol implementations (hybrid X25519 + ML-KEM-768 messaging, business and group protocols, authenticated post-quantum call handshake, key recovery formats). Not independen…"
+2026-11-24T04:43:30.369Z,@next-federation/router,0.2.0,tariqule,MIT,45870,"Internal plumbing for next-federation: the router shims remote builds rewire their links to, and the host router modules. Not for direct import (only its ./build helpers go in a remote's config)."
+2026-11-24T04:43:52.84Z,@facetapp/sdk,0.1.0,anykeyh,BUSL-1.1,176797,TypeScript SDK for Facet.
+2026-11-24T04:44:23.136Z,dsh-watchdog-monitor,0.1.4,firephoenixs,MIT,98562,可注册、只读的看门狗工作区
+2026-11-24T04:44:54.699Z,@webship-js/mautic-steps,2.0.0,natshah,MIT,248950,"Cucumber step definitions for Mautic, the open-source marketing automation platform, a plugin for webship-js (Playwright and Cucumber): the session and the refusals of a role, the menus, the lists (s…"
+2026-11-24T04:45:19.515Z,@jasonkuhrt/key-binder,0.1.1,jasonkuhrt,MIT,342622,"Author your editor keybindings once, in TypeScript, with end-to-end type safety. Emits to VS Code, Neovim, Obsidian, Zed, and beyond."
+2026-11-24T04:45:20.279Z,@facetapp/chat,0.1.0,anykeyh,BUSL-1.1,711287,"Embeddable assistant chat for Facet — driver, mock, and chat elements."
+2026-11-24T04:45:25.655Z,@kelvicthrust/paseo-task-inbox,0.1.0,kelvicthrust,MIT,27344553,"Collect bugs and screenshots in Paseo, send a batch to an existing chat, and track verified fixes."
+2026-11-24T04:45:54.57Z,@crystal-bridge/airship,0.7.0,renzophoenix,MIT,2064619,
+2026-11-24T04:46:03.721Z,@crystal-bridge/kingdom,0.7.0,renzophoenix,MIT,317930,
+2026-11-24T04:46:28.502Z,@ariel-social/aariel-cli,0.1.0,ithakon,AGPL-3.0,130764,"Aariel CLI for scheduling posts, uploading media, and reading analytics. Derivative of postiz-agent (AGPL-3.0)."
+2026-11-24T04:46:36.37Z,replz,0.0.1,ofriperetz,MIT,106,"Placeholder, real release coming soon."
+2026-11-24T04:46:41.582Z,magpie-agent-lingxi,0.1.0,dongv88,MIT,48469,WPS Lingxi (WPS 灵犀) on magpie's Agents page: magpie's models appear in Lingxi as magpie/<model>.
+2026-11-24T04:47:30.673Z,truefit,0.0.1,ofriperetz,MIT,108,"Placeholder, real release coming soon."
+2026-11-24T04:47:33.749Z,truepass,0.0.1,ofriperetz,MIT,109,"Placeholder, real release coming soon."
+2026-11-24T04:47:36.684Z,provedone,0.0.1,ofriperetz,MIT,110,"Placeholder, real release coming soon."
+2026-11-24T04:47:46.217Z,@ohos-ports/venn.js,2.0.0-beta.1,louzen,MIT,383554,Area Proportional Venn and Euler Diagrams (HarmonyOS port of @upsetjs/venn.js@2.0.0: fixed dual CJS/ESM packaging; original CJS entry build/index.js was missing from the upstream tarball)
+2026-11-24T04:48:19.038Z,react-loading-kit,0.1.0,moaz_karem,MIT,657981,"Zero-dependency, accessible loading states, spinners, and skeleton loaders for React"
+2026-11-24T04:48:25.403Z,@ohos-ports/d3-chart,18.0.0-beta.1,louzen,MIT,3801898,Semrush D3 Chart Component
+2026-11-24T04:48:31.28Z,uqpay-scripts,0.0.0-stage,mikebrennan84,,335,Temporary package placeholder for staged publishing
+2026-11-24T04:48:39.199Z,@labelzoom/mcp,0.2.0,robfaustlz,MIT,70501,"MCP server for LabelZoom: convert, preview and print barcode labels (ZPL, EPL, CPCL and other printer languages, BarTender, NiceLabel and DYMO files, PDF and images) from Claude and other MCP clients"
+2026-11-24T04:48:42.08Z,@ohos-ports/remotion-timeline-utils,4.0.526-beta.0,nodejs_3rd,MIT,114023,Internal utilities for rendering Remotion timelines
+2026-11-24T04:50:58.278Z,@starvaio/ai-sdk,1.0.0,ivanauliaa,UNLICENSED,227188,"Starva AI SDK — face detect, compare and embeddings on the starva.ai gateway, plus an embeddable face-capture camera (React)."
+2026-11-24T04:51:27.81Z,@jimp/plugin-morphology,2.0.0,alisowski,MIT,63798,"<div align=""center""> <img width=""200"" height=""200"" src=""https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/crayon.png""> <h1>@jimp/plugin-morphology</h1> <p>Erode, dilate, open and…"
+2026-11-24T04:51:28.459Z,@jimp/plugin-draw,2.0.0,alisowski,MIT,674864,"<div align=""center""> <img width=""200"" height=""200"" src=""https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/crayon.png""> <h1>@jimp/plugin-draw</h1> <p>Draw lines, shapes, paths and…"
+2026-11-24T04:51:29.157Z,@jimp/wasm-jxl,2.0.0,alisowski,MIT,108979,"A format plugin for Jimp that adds support for JPEG XL images using [libjxl](https://github.com/libjxl/libjxl), as compiled to WebAssembly by [`@jsquash/jxl`](https://www.npmjs.com/package/@jsquash/j…"
+2026-11-24T04:51:29.504Z,@jimp/wasm-jpeg2000,2.0.0,alisowski,MIT,483633,"A format plugin for Jimp that adds support for JPEG 2000 images using [OpenJPEG](https://github.com/uclouvain/openjpeg), as compiled to WebAssembly by [`@cornerstonejs/codec-openjpeg`](https://www.np…"
+2026-11-24T04:51:30.456Z,@jimp/plugin-border,2.0.0,alisowski,MIT,2350981,"<div align=""center""> <img width=""200"" height=""200"" src=""https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/crayon.png""> <h1>@jimp/plugin-border</h1> <p>Rounded corners, borders and…"
+2026-11-24T04:51:30.491Z,@jimp/js-ico,2.0.0,alisowski,MIT,76590,"<div align=""center""> <img width=""200"" height=""200"" src=""https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/crayon.png""> <h1>@jimp/js-ico</h1> <p>Default Jimp ico encoder/decoder.</…"
+2026-11-24T04:51:30.588Z,@jimp/wasm-svg,2.0.0,alisowski,MIT,2576110,"A format plugin for Jimp that reads SVG images, rendering them to pixels with [resvg](https://github.com/linebender/resvg), as compiled to WebAssembly by [`@resvg/resvg-wasm`](https://www.npmjs.com/p…"
+2026-11-24T04:51:43.307Z,@gosukiwi/colocate,0.0.1,gosukiwi,MIT,100830,Put files next to whoever uses them.
+2026-11-24T04:51:50.4Z,walkthroo,0.1.0,usmansanawar,MIT,14341,Record walkthroo videos of apps running on your own computer (localhost).
+2026-11-24T04:53:07.679Z,@local-decision-store/sdk,0.1.7,k1ito,Apache-2.0,1189630,Run typed decision models (Decisions API / System One compatible) locally on CPU.
+2026-11-24T04:53:20.215Z,@local-decision-store/server,0.1.7,k1ito,Apache-2.0,85138,"Decisions API (/v1/decisions) and System One (/v1/systemone) server for Local Decision Store. Runs on Node, Bun and Cloudflare Workers."
+2026-11-24T04:55:15.878Z,@srobroek/pi-eli5,0.7.2,srobroek,Apache-2.0,19783,"Explain a topic at five depth levels, from metaphor to frontier."
+2026-11-24T04:56:15.415Z,@feedpebble/types,0.1.1,blobaugh,MIT,81272,Shared TypeScript types and wire DTOs for the FeedPebble API
+2026-11-24T04:56:24.502Z,@feedpebble/sdk,0.1.1,blobaugh,MIT,374481,Typed HTTP client for the FeedPebble API
+2026-11-24T04:57:21.035Z,@basidekick/baskstream,0.1.0,rbhans,Apache-2.0,574124,"TypeScript client for the baskStream Niagara 4 WebSocket API, with the engines built on it: why, log, values at a moment, checkouts, the site model, checks, export, diff and apply."
+2026-11-24T04:59:33.576Z,wayuse,0.0.1,kawanet,MIT,39505,The API client and CLI for a wayuse container.
+2026-11-24T04:59:40.518Z,site-content-seo-workbench-mcp,1.0.1,sexbuddy,MIT,22950,"Read-only MCP server exposing a site's content library and SEO signals as tools, resources and prompts. stdio transport, zero runtime dependencies."
+2026-11-24T04:59:55.651Z,@test123popdfkngjrbg/login-page,1.0.0,test123popdfkngjrbg,MIT,13630,"A minimal, responsive, dependency-free login form for JavaScript and TypeScript."
+2026-11-24T05:00:52.763Z,@apexhub/apex-ui-vue-source,1.0.2,apexhub,MIT,2425825,Apex UI Vue components as source code — npx @apexhub/apex-ui-vue-source init copies them into your project
+2026-11-24T05:02:42.847Z,pixai-cli,0.1.0,spiegel777,MIT,21650,Unofficial command-line client for the PixAI image generation API
+2026-11-24T05:03:04.636Z,@commmerce/review,1.20.3,commmerce,SEE LICENSE IN LICENSE.md,647412,"Review what you build with Commmerce UI from your coding agent or CI: component lookup, local page checks and design reviews by Commmerce, as a CLI and an MCP server."
+2026-11-24T05:03:15.803Z,@nocobase/backup,0.1.0-beta.0,chenos,,248521,Application database and local file backups and restores for NocoBase.
+2026-11-24T05:04:02.228Z,@lostgradient/bungalow,0.1.0,stevekinney,MIT,214143,"Resolves and prepares an application's home, locally in a directory or remotely in Postgres, an S3 bucket, and environment variables: database, configuration, secrets, logs, content, and deployment I…"
+2026-11-24T05:05:51.418Z,device-ui-testing-guidance,1.0.0,cy76,MIT,157162,"Device adaptation, multi-viewport responsiveness, and real-world frontend UI/UX testing guidance, static scanner, and headless Playwright auditor for coding agents."
+2026-11-24T05:06:00.995Z,@getgavel/cli,0.1.0,ntommarello,UNLICENSED,32695,"The gavel command: an agent's Gavel from a shell (pair, ask, wait, watch and the rest)"
+2026-11-24T05:06:31.123Z,chronostack,0.1.0-alpha.10,asmo14,(MIT OR Apache-2.0),14742,ChronoStack for host-native Node processes and Playwright: Date follows the stack's virtual clock
+2026-11-24T05:07:27.211Z,@wardic/object,1.3.0,kookikodes,MIT,141202,"Wardic for any object's properties: Motion's animate on plain objects, on frames the host pumps, for canvas and WebGL."
+2026-11-24T05:07:27.444Z,@ohos-ports/ruvector-router-openharmony-arm64,0.1.32-beta.0,nodejs_3rd,MIT,1148851,"Semantic router for AI agents - openharmony-arm64 platform (HarmonyOS port of @ruvector/router-linux-x64-gnu@0.1.32, built from github.com/ruvnet/ruvector tag v0.1.32)"
+2026-11-24T05:07:31.935Z,@wardic/three,1.3.0,kookikodes,MIT,588599,"Wardic for three.js: Motion's animate on a scene's meshes, materials, cameras and uniforms, with three's own types, on frames the Host loop pumps."
+2026-11-24T05:08:11.688Z,@crudmorph/sdk,0.1.0,joyjeetdan,UNLICENSED,1022085,Customer SDK for the cRUD Morph v1 customer API: one client core with a browser entry point and a Node.js entry point.
+2026-11-24T05:08:48.022Z,@camunda8/d8ctl-darwin-arm64,0.11.2,sitapati,Apache-2.0,3254093,d8ctl native binary for darwin-arm64
+2026-11-24T05:08:51.708Z,@camunda8/d8ctl-darwin-x64,0.11.2,sitapati,Apache-2.0,3291459,d8ctl native binary for darwin-x64
+2026-11-24T05:08:55.413Z,@camunda8/d8ctl-linux-x64,0.11.2,sitapati,Apache-2.0,3346547,d8ctl native binary for linux-x64
+2026-11-24T05:08:59.062Z,@camunda8/d8ctl-linux-arm64,0.11.2,sitapati,Apache-2.0,3573149,d8ctl native binary for linux-arm64
+2026-11-24T05:09:02.735Z,@camunda8/d8ctl-win32-x64,0.11.2,sitapati,Apache-2.0,2356182,d8ctl native binary for win32-x64
+2026-11-24T05:09:05.105Z,@camunda8/d8ctl,0.11.2,sitapati,Apache-2.0,12063,One CLI. Every Camunda API. Built for agents.
+2026-11-24T05:09:14.08Z,voxel-genesis,0.6.0,aapo-foundation,Apache-2.0,424276,A local MCP server and browser viewer for AI agents to build a voxel world.
+2026-11-24T05:11:07.608Z,@plumlang/highlightjs-plum,1.0.0,elixpo,MIT,22213,Plumlang syntax highlighting for highlight.js
+2026-11-24T05:11:13.492Z,@plumlang/tree-sitter-plum,1.0.0,elixpo,MIT,959966,Tree-sitter grammar for Plumlang
+2026-11-24T05:11:36.789Z,@srobroek/pi-agent-coder,0.12.2,srobroek,Apache-2.0,29080,"coder subagent for any code development task (implement, fix, debug, test, build, profile, upgrade deps) with only coding tools and skills."
+2026-11-24T05:11:40.958Z,@srobroek/pi-agent-mechanic,0.8.1,srobroek,Apache-2.0,19821,"mechanic subagent: cheap, exact mechanical edits (renames, bulk edits, formatting, moving code) that run the given check."
+2026-11-24T05:11:45.181Z,@srobroek/pi-agent-researcher,0.10.1,srobroek,Apache-2.0,24478,"The researcher subagent: answers one scoped question from code, docs and the web with cited observations and inferences, and records it on a bead when given one."
+2026-11-24T05:11:49.397Z,@srobroek/pi-agent-reviewer,0.13.1,srobroek,Apache-2.0,36698,"A security review skill: trace untrusted input to sinks, tag CWE ids and check cross-boundary dispatch."
+2026-11-24T05:11:53.611Z,@srobroek/pi-architecture,0.11.1,srobroek,Apache-2.0,40193,"Architecture skills: capability-first top-level layout, ownership boundaries, and durable docs/ project knowledge."
+2026-11-24T05:11:57.842Z,@srobroek/pi-aws-guidance,0.9.1,srobroek,Apache-2.0,56547,"AWS working guidance: route AWS tasks through the AWS MCP Server's guided skills, verify against AWS documentation, and price with the AWS Pricing MCP server."
+2026-11-24T05:12:02.377Z,@srobroek/pi-beads-enforcer,0.9.0,srobroek,Apache-2.0,383164,"Beads issue tracking: bd prime session context, shell gates on bd, git and gh commands, store pinning and the Beads skills."
+2026-11-24T05:12:07.563Z,@srobroek/pi-external-repo-worker,0.10.1,srobroek,Apache-2.0,21972,"External-repository worker subagent: clone, follow the target's conventions, edit, verify, and publish only when delegated."
+2026-11-24T05:12:11.785Z,@srobroek/pi-chezmoi-editor,0.7.0,srobroek,Apache-2.0,49153,"Refuse edits and shell writes to chezmoi-managed live files, naming the source to edit, plus the chezmoi-editor skill."
+2026-11-24T05:12:16.582Z,@srobroek/pi-code-challenge,2.0.1,srobroek,Apache-2.0,241482,"Challenge code for simplification, performance, stability, hand-rolled code and structure, with evidence for every finding."
+2026-11-24T05:12:21.007Z,@srobroek/pi-dep-update,0.7.0,srobroek,Apache-2.0,123837,Classify dependency updates by semver safety and apply confirmed patch and minor bumps.
+2026-11-24T05:12:26.856Z,@srobroek/pi-find-tools,0.5.0,srobroek,Apache-2.0,80649,"Discover and vet plugins, skills and MCP servers across local inventory, catalogs and public registries, without installing anything."
+2026-11-24T05:12:31.066Z,quotaswitch,0.5.0,lifan.builds,AGPL-3.0-only,53894658,Unified quota-driven multi-account switcher for Google Antigravity (agy) and OpenAI Codex
+2026-11-24T05:12:33.145Z,faster-mac-use,0.5.1,lifan.builds,AGPL-3.0-only,37834,"Background-first, multi-cursor browser and native macOS computer-use engine for AI agents"
+2026-11-24T05:12:33.163Z,@srobroek/pi-user-journeys,0.6.0,srobroek,Apache-2.0,104432,"Author, validate and maintain user journeys: seven skills, the journeys.py helper, and the journey-scribe and journey-validator subagents."
+2026-11-24T05:12:35.217Z,castforge,0.1.4,lifan.builds,AGPL-3.0-only,37572,Open-source framework for automated podcast pipelines
+2026-11-24T05:12:37.238Z,echoframe,0.1.0,lifan.builds,AGPL-3.0-only,37687,"AI-curated, ad-free ambient photo album for Echo Show built from your iPhone library"
+2026-11-24T05:12:37.472Z,@srobroek/pi-lang-go,0.9.1,srobroek,Apache-2.0,136928,"Go skills: build, lint, go test -race, tidy and govulncheck checks, testing and fuzzing, module and package layout, and pprof profiling."
+2026-11-24T05:12:39.071Z,foliofen-cli,0.1.2,lifan.builds,AGPL-3.0-only,37640,Foliofen CLI: export your health records locally as Markdown or JSONL.
+2026-11-24T05:12:41.955Z,@srobroek/pi-lang-python,0.9.1,srobroek,Apache-2.0,155514,"Python skills: uv, ruff, mypy or pyright and pytest checks, testing, packaging, typing and pydantic, SQLAlchemy and Alembic, and profiling."
+2026-11-24T05:12:48.611Z,@srobroek/pi-lang-rust,0.9.1,srobroek,Apache-2.0,157862,"Rust skills: fmt, clippy and test checks, testing with nextest, proptest and insta, crates and workspaces, CI, sqlx persistence, Tauri and profiling."
+2026-11-24T05:12:49.298Z,@emirady/flowcxp-widget,0.1.0,aaron_kst,MIT,732844,FlowCXP live chat widget for React applications
+2026-11-24T05:12:54.49Z,@srobroek/pi-lang-typescript,0.10.1,srobroek,Apache-2.0,160296,"TypeScript and JavaScript skills: install, lint, tsc and test checks, testing, monorepo packaging, type safety and zod, and Bun and Node profiling."
+2026-11-24T05:12:58.574Z,@srobroek/pi-parley-rounds,0.5.0,srobroek,Apache-2.0,192552,"Ask the user rounds of typed questions in a TUI panel, with recommended answers, notes and deferrals."
+2026-11-24T05:13:03.288Z,@srobroek/pi-project-secrets,1.0.0,srobroek,Apache-2.0,60557,"Per-project secrets with fnox and 1Password: store, use, inspect and rotate them with no value in the transcript."
+2026-11-24T05:13:07.699Z,@srobroek/pi-project,0.12.2,srobroek,Apache-2.0,130953,Project lifecycle: scaffold a project with /new-project and pick an OSI-approved license.
+2026-11-24T05:13:12.272Z,@srobroek/pi-code-quality,0.15.1,srobroek,Apache-2.0,446483,"Code design and review guidance, a code-quality policy, testing standards and a test audit, performance profiling, and throwaway logic prototypes."
+2026-11-24T05:13:16.548Z,@srobroek/pi-repomix,0.6.1,srobroek,Apache-2.0,41695,"Pack a local or remote repo into one file with repomix for bulk context: external repos, module packs and version diffs."
+2026-11-24T05:13:17.045Z,@ohos-ports/image-encode,1.3.1-beta.1,louzen,MIT,12316,"Decode image data into any format: gif, jpeg, png, tiff or bmp"
+2026-11-24T05:13:21.072Z,@srobroek/pi-safety,0.14.2,srobroek,Apache-2.0,306441,"Hard gates and permission checks for destructive, indirect, remote-exec and attributed shell commands, shipped-migration edits and external directory flags, plus close-keyword and package-vetting hel…"
+2026-11-24T05:13:28.144Z,@srobroek/pi-secret-store,1.0.0,srobroek,Apache-2.0,90580,"A tool that stores a new secret in 1Password or a fnox store without a shell, so the value stays out of commands, logs and the transcript."
+2026-11-24T05:13:33.079Z,@srobroek/pi-toolchain,0.10.2,srobroek,Apache-2.0,215918,"Toolchain defaults as skills: stack, frontend, infrastructure, languages, observability, shell, Terraform, caches, background jobs and worktree coexistence."
+2026-11-24T05:13:37.331Z,@srobroek/pi-trunk-dev-policy,0.12.1,srobroek,Apache-2.0,131533,"Trunk-based delivery for OpenCode, Claude Code, and pi: Conventional Commit and main-push gates, skip-CI and MR/PR advisories, feature-flag cleanup beads, and release-setup skills."
+2026-11-24T05:13:41.812Z,@srobroek/pi-whats-new,0.5.0,srobroek,Apache-2.0,110285,"Research breaking changes, deprecations and new features between two versions, report-only."
+2026-11-24T05:13:45.921Z,@srobroek/pi-worktrunk-merge-policy,0.7.1,srobroek,Apache-2.0,200145,Worktrunk (wt) skills: work in linked worktrees and run deterministic preflight checks before an agent run or merge.
+2026-11-24T05:14:11.362Z,dsh-project-dept,1.0.0,zr_z,MIT,273403,"Acceptance-first project workflow for DeepSeek Harness: one board at a time, an opening gate, independent blind review, baseline self-audit, and a closed delivery loop."
+2026-11-24T05:14:47.799Z,lifemaxxing,1.0.0,connor_ross,UNLICENSED,1124795,LifeMaxxing: a personal life and school planner with an AI assistant. Runs inside Claude.
+2026-11-24T05:15:26.046Z,@minecraftauth/lib,2.0.0,scarsz,Apache-2.0,110362,JavaScript/TypeScript client for the MinecraftAuth.me v2 API
+2026-11-24T05:16:38.025Z,@marcus-same/dsh-recruit-board,0.8.0,marcus-same,UNLICENSED,454136,"Local recruiting dashboard for DSH with candidate tracking, job profiles, and reports"
