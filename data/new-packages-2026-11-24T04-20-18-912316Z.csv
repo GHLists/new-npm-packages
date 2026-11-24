@@ -1,0 +1,209 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-24T03:17:39.878Z,@accelerate/ai-core,0.1.0,archubbuck,,2333,"Provider-neutral messages, tool definitions, usage and model generation contracts."
+2026-11-24T03:17:42.406Z,@accelerate/ai-tools,0.1.0,archubbuck,,2226,"Explicit tool registration, input validation and mandatory caller-supplied authorization before execution. Tools must cooperate with cancellation."
+2026-11-24T03:17:43.516Z,@pwaos.net/runtime-win32-x64,0.2.4,daqingzd,MIT,143113762,"PwaOS Runtime binary for win32 x64 (upstream win-x86 payload, runs via WOW64)"
+2026-11-24T03:17:46.011Z,@accelerate/agents-core,0.1.0,archubbuck,,3112,"Bounded sequential agent loop with explicit tool authorization, duplicate call protection, cancellation and reported usage aggregation. No durable state, sandbox or hard cost enforcement."
+2026-11-24T03:17:48.734Z,@accelerate/testing-core,0.1.0,archubbuck,,3271,"Framework-independent testing utilities for Accelerate. Not a replacement for Vitest, Jest or Node's test runner."
+2026-11-24T03:17:51.154Z,@accelerate/ai-evaluation,0.1.0,archubbuck,,2466,"Sequential model evaluation cases, caller-defined scoring and regression thresholds. Evaluation calls may incur charges."
+2026-11-24T03:17:54.146Z,@accelerate/ai-gateway,0.1.0,archubbuck,,2142,Route model aliases to ordered provider/model pairs; only explicitly retryable errors trigger fallback. Each attempt may incur provider charges.
+2026-11-24T03:17:56.788Z,@accelerate/ai-prompts,0.1.0,archubbuck,,1631,"Versioned prompt templates and strict, single-pass variable substitution. Interpolation is not a prompt-injection defense."
+2026-11-24T03:17:59.248Z,@accelerate/validation-core,0.1.0,archubbuck,,4480,"Framework-neutral, dependency-free validation primitives for Accelerate."
+2026-11-24T03:18:01.88Z,@accelerate/ai-structured,0.1.0,archubbuck,,1479,Strict JSON parsing followed by schema validation. Does not repair malformed output or guarantee provider-side constrained generation.
+2026-11-24T03:18:04.57Z,@accelerate/ai-usage,0.1.0,archubbuck,,2586,Token cost estimates using caller-supplied rates and process-local budget accounting. Not a concurrent reservation system or provider-enforced spending limit.
+2026-11-24T03:18:07.204Z,@accelerate/security-core,0.1.0,archubbuck,,1650,Shared framework-neutral input validation and secret-redaction helpers. No cryptographic algorithms are implemented here; use platform cryptography APIs for cryptographic operations.
+2026-11-24T03:18:09.864Z,@accelerate/api-keys,0.1.0,archubbuck,,4678,"Node.js opaque API key issuance, SHA-256 hashing, verification, expiration and revocation. Returns the plaintext token only at issuance; persist the record, not the token."
+2026-11-24T03:18:12.371Z,@accelerate/audit-core,0.1.0,archubbuck,,3222,"Framework-neutral append-only audit event contracts and an in-memory implementation for tests. Event IDs must be unique. Do not log credentials, secrets, or sensitive payloads in metadata."
+2026-11-24T03:18:14.799Z,@accelerate/data-core,0.1.0,archubbuck,,2449,Database-neutral TypeScript contracts for parameterized queries and managed transactions. No driver dependency.
+2026-11-24T03:18:17.732Z,@accelerate/audit-postgres,0.1.0,archubbuck,,3297,PostgreSQL audit store backed by `@accelerate/data-core`. Apply `schema.sql` through your migration system. The API exposes append and filtered reads only; enforce append-only database privileges sep…
+2026-11-24T03:18:20.234Z,@accelerate/authentication-core,0.1.0,archubbuck,,4331,"Framework-neutral identity and session contracts, expiry validation, session revocation, and a deterministic in-memory session store. Authentication does not grant authorization permissions."
+2026-11-24T03:18:24.138Z,@accelerate/authentication-angular,0.1.0,archubbuck,,3523,Angular signal-based authentication service. Provide `AUTHENTICATION_CLIENT` in your application providers and call `AuthenticationService.refresh()` during startup. The client must fetch the session…
+2026-11-24T03:18:26.765Z,@accelerate/authentication-node,0.1.0,archubbuck,,3504,Node.js session token issuance. Tokens are 256-bit cryptographically random opaque bearer credentials; only SHA-256 digests are stored in session records.
+2026-11-24T03:18:29.234Z,@accelerate/authentication-postgres,0.1.0,archubbuck,,3975,PostgreSQL identity lookups and session persistence. Apply `schema.sql` as part of your database migration process before using these stores.
+2026-11-24T03:18:32.838Z,@accelerate/authentication-react,0.1.0,archubbuck,,3511,React authentication context and hook. Provide a client that resolves the authenticated session through your backend. Do not place long-lived bearer tokens in browser storage.
+2026-11-24T03:18:38.215Z,@accelerate/cache-core,0.1.0,archubbuck,,1502,cache-core package for the Accelerate monorepo.
+2026-11-24T03:18:40.765Z,@accelerate/cache-memory,0.1.0,archubbuck,,2213,cache-memory package for the Accelerate monorepo.
+2026-11-24T03:18:43.323Z,@accelerate/cache-redis,0.1.0,archubbuck,,3153,Redis-backed JSON cache using an injected client bridge. Map set TTL to Redis PX and scan to Redis SCAN MATCH. Clear is namespace-scoped and best effort under concurrent writes. Use a dedicated names…
+2026-11-24T03:18:45.8Z,@accelerate/config-core,0.1.0,archubbuck,,3692,"Framework-neutral, dependency-free config primitives for Accelerate."
+2026-11-24T03:18:49.483Z,@accelerate/config-angular,0.1.0,archubbuck,,1801,"Create a typed injection token with createConfigToken(name, shape). Register the returned provide(source) provider at application bootstrap, then inject its token. Only expose public configuration to…"
+2026-11-24T03:18:51.958Z,@accelerate/config-node,0.1.0,archubbuck,,1972,Node.js environment configuration adapter for [config-core](../config-core/README.md). Reads environment variables without mutating `process.env`.
+2026-11-24T03:18:54.734Z,@webship.co/workspace-sqlite,1.0.0,natshah,ISC,66279,"SQLite, the light database, for Webship Workspace: the DATABASE menu on every project that keeps its data in SQLite files (their tables and sizes, a copy into the backups folder, a copy put back, and…"
+2026-11-24T03:18:55.68Z,@accelerate/config-react,0.1.0,archubbuck,,2111,"Create a typed configuration context with createConfigContext(shape). Mount its Provider with a source object, and call its useConfig hook from descendants. Only expose public configuration to browse…"
+2026-11-24T03:18:58.266Z,@accelerate/contracts-openapi,0.1.0,archubbuck,,3090,Build OpenAPI 3.1 documents from typed operations. Checks duplicate operation IDs and routes and basic response status codes. This is not a complete OpenAPI schema validator.
+2026-11-24T03:19:00.785Z,@accelerate/create-accelerate,0.1.0,archubbuck,,53497,"Noninteractive project generator with Node, React and Angular starter templates, registry-based dependency resolution, dry-run and overwrite protection."
+2026-11-24T03:19:04.466Z,@accelerate/data-postgres,0.1.0,archubbuck,,3569,PostgreSQL adapter for `@accelerate/data-core` using a caller-owned `pg.Pool`.
+2026-11-24T03:19:07.028Z,@accelerate/data-prisma,0.1.0,archubbuck,,2760,Prisma adapter using an explicit bridge for raw query and interactive transaction operations. The bridge must bind parameters using the provider's placeholder syntax and return affected-row counts fo…
+2026-11-24T03:19:09.386Z,@accelerate/data-sqlserver,0.1.0,archubbuck,,3358,"SQL Server adapter using an injected mssql-compatible pool and transaction factory. Bind positional parameters as @p1, @p2, etc. Read-only transactions are rejected rather than silently ignored."
+2026-11-24T03:19:11.401Z,eicons-uniapp,1.2.0,baiyucheng,MIT,132485,UniApp 跨端 ECharts / BI 数据看板组件，兼容 H5、App(Android/iOS)、微信小程序，支持预设、声明式看板与企业插件扩展
+2026-11-24T03:19:11.935Z,@accelerate/diagnostics-core,0.1.0,archubbuck,,2317,Run named diagnostic probes concurrently with individual timeouts and sanitized results. Probes must cooperate with cancellation; a timeout cannot forcibly stop arbitrary work. Intended for on-demand…
+2026-11-24T03:19:14.505Z,@accelerate/errors-core,0.1.0,archubbuck,,2986,"Framework-neutral, dependency-free errors primitives for Accelerate."
+2026-11-24T03:19:17.173Z,@accelerate/eslint-config,0.1.0,archubbuck,,1359,Shared ESLint flat-config baseline for JavaScript projects. Install `eslint` in the consuming project and export the default configuration from `eslint.config.js`. TypeScript-specific parsing is inte…
+2026-11-24T03:19:19.209Z,maya2c.js,0.0.1-pre.0,ericwijesinghe,Apache-2.0,774,Placeholder for the Maya2C JavaScript SDK. Not usable yet; real releases are published from github.com/maya2c/Maya2C by its signed release workflow.
+2026-11-24T03:19:19.573Z,@accelerate/events-core,0.1.0,archubbuck,,1750,Framework-neutral events contracts for Accelerate. This package does not provide persistence or vendor-specific integrations; implement the exported interfaces in an adapter.
+2026-11-24T03:19:22.065Z,@accelerate/events-memory,0.1.0,archubbuck,,1602,Adapter for events memory. Install `@accelerate/events-memory` and its declared peer dependencies. The consuming application owns infrastructure setup and lifecycle.
+2026-11-24T03:19:22.619Z,@s8a-uk/astro-loader-asciidoc,0.1.0,s8a-uk,MIT,123038,"AsciiDoc content loader for Astro 7, powered by Asciidoctor.js"
+2026-11-24T03:19:23.371Z,@ohos-ports/simdle-native,1.3.10-beta.0,louzen,Apache-2.0,5051842,libsimdle JavaScript bindings for Node.js
+2026-11-24T03:19:25.708Z,@accelerate/events-postgres,0.1.0,archubbuck,,2609,Adapter for events postgres. Install `@accelerate/events-postgres` and its declared peer dependencies. The consuming application owns infrastructure setup and lifecycle.
+2026-11-24T03:19:28.354Z,@accelerate/events-redis,0.1.0,archubbuck,,2699,"Redis Pub/Sub event adapter with an injected bridge. The bridge owns subscription readiness, reconnects and client lifecycle. Delivery is ephemeral, not durable or guaranteed; use a durable event ada…"
+2026-11-24T03:19:31.147Z,@accelerate/feature-flags-core,0.1.0,archubbuck,,2221,"Framework-neutral boolean flags with ordered attribute rules, explicit missing-flag fallback and injected storage. Storage errors propagate; flags are not authorization controls."
+2026-11-24T03:19:33.634Z,@accelerate/feature-flags-memory,0.1.0,archubbuck,,1788,In-memory flag storage for local development and tests. Values are cloned on read and write; changes are process-local and not durable.
+2026-11-24T03:19:36.24Z,@accelerate/feature-flags-postgres,0.1.0,archubbuck,,2439,Apply the exported schemaSql in a database migration before use. Accepts a data-core-compatible query executor. Flag writes use parameterized upserts; deletion is explicit.
+2026-11-24T03:19:39.032Z,@accelerate/forms-core,0.1.0,archubbuck,,2515,"Headless typed form state, synchronous validation, touched fields, reset and guarded asynchronous submission. Consumers own rendering and submission concurrency."
+2026-11-24T03:19:42.685Z,@accelerate/forms-angular,0.1.0,archubbuck,,1811,Connect a forms-core controller to Angular via a readonly signal. Pass the component or service DestroyRef to release the subscription automatically. Rendering and controller ownership remain with th…
+2026-11-24T03:19:46.456Z,@accelerate/forms-react,0.1.0,archubbuck,,1628,Connect a forms-core controller to React via useSyncExternalStore. Create the controller outside render or memoize it; provide a consistent initial snapshot for SSR. Rendering and controller ownershi…
+2026-11-24T03:19:49.005Z,@accelerate/health-core,0.1.0,archubbuck,,3685,"Framework-neutral asynchronous dependency health checks with healthy, degraded and unhealthy statuses. Each check is isolated, timed out, and aggregated into one report."
+2026-11-24T03:19:49.157Z,@ohos-ports/rabin-native,2.0.1-beta.0,louzen,Apache-2.0,890998,librabin bindings for JavaScript
+2026-11-24T03:19:51.547Z,@accelerate/health-node,0.1.0,archubbuck,,2924,Node.js HTTP health endpoint adapter for [health-core](../health-core/README.md).
+2026-11-24T03:19:53.984Z,@accelerate/http-core,0.1.0,archubbuck,,2198,http-core package for the Accelerate monorepo.
+2026-11-24T03:19:56.695Z,@accelerate/http-client,0.1.0,archubbuck,,3623,http-client package for the Accelerate monorepo.
+2026-11-24T03:20:00.463Z,@accelerate/http-angular,0.1.0,archubbuck,,1780,Accelerate http-angular integration. Install with `npm install @accelerate/http-angular`.
+2026-11-24T03:20:03.205Z,@accelerate/http-node,0.1.0,archubbuck,,3727,Accelerate http-node integration. Install with `npm install @accelerate/http-node`.
+2026-11-24T03:20:07.129Z,@accelerate/http-react,0.1.0,archubbuck,,1802,Accelerate http-react integration. Install with `npm install @accelerate/http-react`.
+2026-11-24T03:20:09.62Z,@accelerate/jobs-core,0.1.0,archubbuck,,1841,Reusable jobs core foundation for the Accelerate monorepo.
+2026-11-24T03:20:10.397Z,@onekeyfe/react-native-qr-scanner,6.8.0-alpha.540,1keyfe,MIT,538687,react-native-qr-scanner
+2026-11-24T03:20:11.685Z,dsh-prompt-dock,1.3.0,ljgabc,MIT,50376,"Preset prompt library for DeepSeek Harness: a picker beside the composer send action that fills the draft, with create/edit/delete plus a sort mode, backed by Host-side storage shared by every client…"
+2026-11-24T03:20:13.331Z,@accelerate/jobs-postgres,0.1.0,archubbuck,,15695,PostgreSQL-backed job enqueueing and polling workers using the `@accelerate/jobs-core` contracts.
+2026-11-24T03:20:18.317Z,@accelerate/metrics-core,0.1.0,archubbuck,,1867,Reusable metrics core foundation for the Accelerate monorepo.
+2026-11-24T03:20:22.317Z,@accelerate/metrics-otel,0.1.0,archubbuck,,1959,Adapter for metrics otel. Install `@accelerate/metrics-otel` and its declared peer dependencies. The consuming application owns infrastructure setup and lifecycle.
+2026-11-24T03:20:24.893Z,@accelerate/notifications-core,0.1.0,archubbuck,,2088,"Framework-neutral notification collection with subscriptions, severity, replacement by ID and dismissal. Consumers own rendering, accessibility announcements and expiry policies."
+2026-11-24T03:20:27.741Z,@accelerate/resilience-core,0.1.0,archubbuck,,2661,resilience-core package for the Accelerate monorepo.
+2026-11-24T03:20:30.392Z,@accelerate/scheduler-core,0.1.0,archubbuck,,3144,In-memory interval scheduler driven by caller-invoked tick(). Missed intervals coalesce to the latest due slot. Job IDs are deterministic; distributed deduplication depends on the queue. Schedule sta…
+2026-11-24T03:20:32.819Z,@accelerate/secrets-core,0.1.0,archubbuck,,1842,"Provider-neutral secret retrieval with explicit required and optional access. Missing-secret errors omit names and values. No encryption, persistence or automatic rotation is provided."
+2026-11-24T03:20:35.308Z,@accelerate/state-core,0.1.0,archubbuck,,1587,"A synchronous external store with immutable snapshot conventions, functional updates and subscriptions. Treat snapshots as immutable; listener exceptions propagate."
+2026-11-24T03:20:35.866Z,@ohos-ports/rocksdb-native,3.19.6-beta.0,louzen,Apache-2.0,142585999,librocksdb bindings for JavaScript
+2026-11-24T03:20:39.101Z,@accelerate/state-angular,0.1.0,archubbuck,,1724,Connect a state-core controller to Angular via a readonly signal. Pass the component or service DestroyRef to release the subscription automatically. Rendering and controller ownership remain with th…
+2026-11-24T03:20:40.21Z,@ohos-ports/ie-shim,0.1.0-beta.1,louzen,MIT,61897,ie-shim for Angular 2
+2026-11-24T03:20:42.653Z,@accelerate/state-react,0.1.0,archubbuck,,1541,Connect a state-core controller to React via useSyncExternalStore. Create the controller outside render or memoize it; provide a consistent initial snapshot for SSR. Rendering and controller ownershi…
+2026-11-24T03:20:45.339Z,@accelerate/tables-core,0.1.0,archubbuck,,2954,"Headless table controller with a separate asynchronous data provider, pagination, sorting and filtering query contracts, loading and error state, cancellation and stale-result protection. Presentatio…"
+2026-11-24T03:20:49.281Z,@accelerate/tables-angular,0.1.0,archubbuck,,1811,Connect a tables-core controller to Angular via a readonly signal. Pass the component or service DestroyRef to release the subscription automatically. Rendering and controller ownership remain with t…
+2026-11-24T03:20:53.202Z,@accelerate/tables-react,0.1.0,archubbuck,,1628,Connect a tables-core controller to React via useSyncExternalStore. Create the controller outside render or memoize it; provide a consistent initial snapshot for SSR. Rendering and controller ownersh…
+2026-11-24T03:20:55.93Z,@accelerate/testing-architecture,0.1.0,archubbuck,,2288,Framework-independent dependency graph checks for boundary violations and cycle witnesses. Consumers supply edges from their own source or workspace analyzer; this package does not parse imports.
+2026-11-24T03:20:58.611Z,@accelerate/testing-contracts,0.1.0,archubbuck,,2603,"Reusable implementation contract suites with isolated subject factories, optional cleanup, per-case results and aggregate assertions."
+2026-11-24T03:21:01.109Z,@accelerate/testing-fixtures,0.1.0,archubbuck,,2921,"Framework-independent testing utilities for Accelerate. Not a replacement for Vitest, Jest or Node's test runner."
+2026-11-24T03:21:03.987Z,@accelerate/testing-http,0.1.0,archubbuck,,2491,"FIFO HTTP transport expectations, response factories and request history. Unexpected requests fail immediately; call verify() at test teardown."
+2026-11-24T03:21:06.917Z,@accelerate/testing-postgres,0.1.0,archubbuck,,2220,"Run fixtures and tests on a dedicated PostgreSQL connection inside a rollback-only transaction. Do not commit, roll back or release the connection inside the callback. No database provisioning is per…"
+2026-11-24T03:21:09.678Z,@accelerate/tracing-core,0.1.0,archubbuck,,1858,Reusable tracing core foundation for the Accelerate monorepo.
+2026-11-24T03:21:13.675Z,@accelerate/tracing-otel,0.1.0,archubbuck,,1755,Adapter for tracing otel. Install `@accelerate/tracing-otel` and its declared peer dependencies. The consuming application owns infrastructure setup and lifecycle.
+2026-11-24T03:21:16.191Z,@accelerate/transactions,0.1.0,archubbuck,,1809,"Run an operation within a caller-provided transaction scope. Commit on success and attempt rollback on failure. If rollback also fails, both errors are preserved. The caller supplies begin, commit an…"
+2026-11-24T03:21:18.792Z,@accelerate/typescript-config,0.1.0,archubbuck,,1592,Reusable strict TypeScript presets. Extend `@accelerate/typescript-config/base.json` for applications or `@accelerate/typescript-config/library.json` for published libraries. Install TypeScript separ…
+2026-11-24T03:21:20.469Z,@2019wakeup/dsh-reader,0.13.1,2019wakeup,MIT,5571168,Reading workspace with concept cards and in-reader conversation for DeepSeek Harness
+2026-11-24T03:21:21.449Z,@accelerate/workflows-core,0.1.0,archubbuck,,2744,"Sequential, typed, in-process workflow runner with cancellation checks and injected job and event services. Steps stop on failure; no automatic retries, persistence, compensation or exactly-once guar…"
+2026-11-24T03:22:16.764Z,nglens,1.0.0,pratik-maurya,MIT,731947,"Visual Component & Signals Graph, Architecture Map & Health Auditor for Modern Angular Applications"
+2026-11-24T03:23:19.97Z,eslint-plugin-oxfmt-vue,0.1.1,mini-ghost,MIT,29283,"Format files with oxfmt in ESLint, and Vue SFCs block by block"
+2026-11-24T03:23:38.56Z,prospicio,0.2.1,ekthesage,MIT OR Apache-2.0,5108877,"Actuarial reserving, aggregate loss, reinsurance and pricing in WebAssembly: the prospicio Rust core for the browser, Node and Office.js"
+2026-11-24T03:25:37.748Z,@luxass/npm-staged-release-sandbox-dependency,0.0.3,luxass,UNLICENSED,600,Experimental fixture for testing npm staged publishing. Not for production use.
+2026-11-24T03:25:38.732Z,elyon,0.0.0,phederal,MIT,2082,Placeholder package — name reserved for future use.
+2026-11-24T03:25:48.201Z,@keqi.gress/dev-sdk,0.1.1,xyjxust,MIT,182336,Gress 插件远程调试本地 SDK —— 把本地插件进程挂进云端调试会话
+2026-11-24T03:26:39.798Z,@alaikis/alaidesign,0.1.0,alaidev,MIT,299783,AlaiDesign — TDesign 高能量 Svelte 5 组件库
+2026-11-24T03:30:16.099Z,@gitmyabi/arss,1.0.0,gitmyabi-bot,Apache-2.0,220085,"Auto-generated TypeScript type bindings for ARSs (build etherscan-arss-9a1bfb2b-1795490998370, commit 3b267c4, branch etherscan)"
+2026-11-24T03:31:25.744Z,@plp-sergio/react-reader,0.1.0,plp-sergio,UNLICENSED,961803,"Accessible React image flipbook with spreads, search, zoom, links and legacy migration tooling"
+2026-11-24T03:31:33.062Z,@ohos-ports/hyperdrive,13.3.4-beta.0,louzen,Apache-2.0,59674,"Hyperdrive is a secure, real-time distributed file system"
+2026-11-24T03:32:29.24Z,@ohos-ports/oxlint-binding-openharmony-arm64,1.88.0-beta.0,nodejs_3rd,MIT,13405056,Linter for the JavaScript Oxidation Compiler (OpenHarmony arm64 port of @oxlint/binding)
+2026-11-24T03:33:01.982Z,pi-agents-md-guard,0.1.0,suwenguang,MIT,17992,AGENTS.md 编写规范守卫：write/edit 落盘后自动检查（绝对机器路径/密钥/体量/悬空技能引用），附 agents_md_check 工具与 /agents-md 命令
+2026-11-24T03:34:33.423Z,@gitmyabi/rbkn,1.0.0,gitmyabi-bot,Apache-2.0,280037,"Auto-generated TypeScript type bindings for RBKN (build etherscan-rbkn-f061ce71-1795491257390, commit 2a85435, branch etherscan)"
+2026-11-24T03:34:36.589Z,dsh-effort-cycle,1.0.0,chenjiamian,MIT,24463,Adds one button to the DeepSeek Harness composer that cycles the model's thinking level through every level it declares (off → low → high → max → off …). 在输入框工具行加一个按钮，点一下在模型支持的思考档位之间循环。
+2026-11-24T03:34:50.098Z,@cocreate/agent,1.0.0,frankpagan,AGPL-3.0,126026,Self-evolving agentic distributed runtime for CoCreate Server.
+2026-11-24T03:35:06.412Z,koishi-plugin-cs-community-bot,1.1.1,burieddreams,MIT,21565,星社区 CS 社区机器人 Koishi 插件
+2026-11-24T03:35:52.69Z,@canopy-io/angular,0.1.0,aaron-balthaser,MIT,76975,"Official Angular SDK for Canopy: providers, signals, a guard, an interceptor and directives over @canopy-io/browser for signing a single-page app in through Canopy's hosted login and deciding what it…"
+2026-11-24T03:36:19.99Z,@islide/cli-darwin-arm64,0.1.0,ye4241,,7179945,iSlide CLI binary for darwin-arm64
+2026-11-24T03:36:38.915Z,@islide/cli-darwin-x64,0.1.0,ye4241,,7833139,iSlide CLI binary for darwin-x64
+2026-11-24T03:36:42.903Z,@islide/cli-linux-arm64,0.1.0,ye4241,,7012806,iSlide CLI binary for linux-arm64
+2026-11-24T03:36:47.199Z,@islide/cli-linux-x64,0.1.0,ye4241,,7541184,iSlide CLI binary for linux-x64
+2026-11-24T03:36:52.582Z,@islide/cli-win32-x64,0.1.0,ye4241,,7766264,iSlide CLI binary for win32-x64
+2026-11-24T03:38:14.583Z,@vite-plugin-drupal/libraries,0.1.1,gordonh,MIT,20621,Builds Vite entries from Drupal *.libraries.yml and *.component.yml files.
+2026-11-24T03:38:14.585Z,@vite-plugin-drupal/tailwind-breakpoints,0.1.0,gordonh,MIT,8363,Writes a Drupal theme's breakpoints.yml from Tailwind's breakpoints.
+2026-11-24T03:38:14.608Z,@vite-plugin-drupal/sass,0.1.0,gordonh,MIT,17506,"Compiles existing Drupal SCSS with Vite the way the Sass CLI did, with partials preloaded from .info.yml."
+2026-11-24T03:38:14.637Z,@vite-plugin-drupal/bootstrap-breakpoints,0.1.0,gordonh,MIT,8390,Writes a Drupal theme's breakpoints.yml from Bootstrap's grid breakpoints.
+2026-11-24T03:38:14.661Z,@vite-plugin-drupal/css,0.1.0,gordonh,MIT,15403,Load paths and Tailwind @reference preloads from .info.yml for Drupal CSS built with Vite.
+2026-11-24T03:38:14.67Z,@vite-plugin-drupal/npm-libraries,0.1.0,gordonh,MIT,19601,Copies prebuilt files from npm packages into the Vite build for Drupal libraries.
+2026-11-24T03:38:14.692Z,@vite-plugin-drupal/ckeditor5,0.1.0,gordonh,MIT,10569,Builds Drupal CKEditor 5 plugins with Vite instead of webpack.
+2026-11-24T03:38:46.923Z,doctor-unslop,0.1.0,mshbljrngoding,MIT,75732,"Quality lab for the *-unslop-mcp servers: clean-vs-slop fixture benchmarks, violation-contract checks and agent retry-loop analysis."
+2026-11-24T03:39:37.494Z,@cudalibrary/core,0.1.0-beta.1,cruze300,MIT,4831,Shared utilities and design tokens for CUDA Library components.
+2026-11-24T03:40:22.426Z,@cudalibrary/grid,0.1.0-beta.1,cruze300,MIT,14255,"<cuda-grid>: a framework-agnostic data grid (Web Component) with sorting, filtering, selection and paging."
+2026-11-24T03:41:07.032Z,@cudalibrary/charts,0.1.0-beta.1,cruze300,MIT,15544,"<cuda-chart>: a framework-agnostic SVG chart component (line, area, bar, pie, donut)."
+2026-11-24T03:41:36.106Z,@cudalibrary/react,0.1.0-beta.1,cruze300,MIT,2764,React wrappers for CUDA Library grid and chart components.
+2026-11-24T03:42:01.127Z,@kixel/crabx,0.1.0,kixelated,GPL-3.0-only,45914,"Run a Rust CLI from its author's release, without compiling"
+2026-11-24T03:42:06.025Z,@cudalibrary/vue,0.1.0-beta.1,cruze300,MIT,3376,Vue 3 components for CUDA Library grid and chart.
+2026-11-24T03:42:26.684Z,@cudalibrary/angular,0.1.0-beta.1,cruze300,MIT,14121,Standalone Angular components for CUDA Library grid and chart.
+2026-11-24T03:42:35.633Z,shadermix,0.0.1,bedantsaikia,MIT,1168,Reserved for the upcoming Shadermix CLI (npx shadermix add <effect>). Shader backgrounds and effects for Astro and Webflow.
+2026-11-24T03:42:48.728Z,@sharedots/tui,0.1.2,omega-package-7,,481202,
+2026-11-24T03:43:11.16Z,@tianlingtech/mie-mcp,0.15.0,jtianling,MIT,83743,MCP server for the mie browser automation bridge.
+2026-11-24T03:43:25.868Z,@renasine-studios/rendrix,0.5.1,bytethedeveloper,MIT,135477,The Rendrix command line: build and run TypeScript applications on Rendrix's own rendering engine
+2026-11-24T03:43:33.225Z,@farris/workbench-core,0.1.0,muyi-s,Apache-2.0,2429,智能执行平台运行时内核：页签管理、微应用加载、统一通信总线、菜单/SSO、窗口拦截、会话守卫。
+2026-11-24T03:44:31.928Z,dsh-git-backup,0.1.5,wsy320,MIT,155759,把 DSH 的插件清单、配置和技能备份到 Git 仓库，并在需要时从快照一键还原。
+2026-11-24T03:44:41.598Z,@xnetx/tinyc-native-aarch64-linux-gnu,0.1.0,xnetx,LGPL-2.1-or-later,5442835,TinyC native binaries for host aarch64-linux-gnu (dual-form TCC builds and target sysroots).
+2026-11-24T03:44:42.326Z,@senxor/tcpip-serial-capacitor,1.3.0,meridian-shui,Apache-2.0,7536,Capacitor TCP/IP serial transport for Senxor devices.
+2026-11-24T03:44:45.9Z,@xnetx/tinyc-native-arm64-apple-darwin,0.1.0,xnetx,LGPL-2.1-or-later,1503210,TinyC native binaries for host arm64-apple-darwin (dual-form TCC builds and target sysroots).
+2026-11-24T03:44:49.462Z,@xnetx/tinyc-native-x86_64-apple-darwin,0.1.0,xnetx,LGPL-2.1-or-later,1381164,TinyC native binaries for host x86_64-apple-darwin (dual-form TCC builds and target sysroots).
+2026-11-24T03:44:55.873Z,@xnetx/tinyc-native-x86_64-linux-gnu,0.1.0,xnetx,LGPL-2.1-or-later,6200753,TinyC native binaries for host x86_64-linux-gnu (dual-form TCC builds and target sysroots).
+2026-11-24T03:44:59.863Z,@xnetx/tinyc-native-x86_64-w64-mingw32,0.1.0,xnetx,LGPL-2.1-or-later,1948727,TinyC native binaries for host x86_64-w64-mingw32 (dual-form TCC builds and target sysroots).
+2026-11-24T03:45:55.567Z,dsh-brave-search,1.1.1,ljgabc,MIT,71025,"Brave Search provider for the DeepSeek Harness web capability seam (ctx.web): registers the 'brave' search provider so the model-facing web_search tool runs on Brave, with a Plugins-page config form,…"
+2026-11-24T03:46:00.517Z,tinyc-web,0.1.0,xnetx,LGPL-2.1-or-later,4939235,"TinyC (TCC) in the browser: the compiler built to WebAssembly, one module per code generation target (wasm32-wasi by default), with a JS glue layer, a virtual filesystem and a Web Worker interface."
+2026-11-24T03:46:49.248Z,@explainimate/mcp,0.0.0-stage,watchdb,,339,Temporary package placeholder for staged publishing
+2026-11-24T03:46:49.665Z,@talajs/contracts,0.1.0,badhombre,Apache-2.0,214381,"Zod contracts, money/tax math and sync protocol types for Tala."
+2026-11-24T03:47:17.864Z,@talajs/db,0.1.0,badhombre,Apache-2.0,12995745,"Tala's Postgres schema, SQL migrations, migration CLI and tenant-scoped Prisma client."
+2026-11-24T03:47:31.536Z,@talajs/api,0.1.0,badhombre,Apache-2.0,490053,Tala's HTTP API as a mountable Hono app factory for Cloudflare Workers.
+2026-11-24T03:47:45.813Z,@talajs/admin,0.1.0,badhombre,Apache-2.0,1065346,"Tala's admin web app: a static React build, configured at runtime."
+2026-11-24T03:48:10.893Z,universal-autonomous-pipeline,1.6.0,yousef052,MIT,247871,Universal Autonomous Performance & Context Precision Pipeline for AI Coding Agents
+2026-11-24T03:48:10.906Z,@wahindra/secure,0.1.0,wahindra,MIT,145482,"OWASP Top 10 prevention helpers for Node.js: injection detection, path traversal and access control guards, SSRF validation, password hashing, CSRF, security headers."
+2026-11-24T03:48:15.611Z,dsh-bark-notify,1.0.0,ljgabc,MIT,37651,"Bark push notifications for DeepSeek Harness: sends one push when DSH needs a decision (approval or question) or when a task/goal finishes, so the user can return in time. DSH 的 Bark 推送插件：需要决策（审批或选择）…"
+2026-11-24T03:49:30.601Z,sandkiln-mcp,0.1.0,sumitkumar-17,MIT,103676,Model Context Protocol server that gives AI agents sandkiln microVM sandboxes as tools (stdio transport).
+2026-11-24T03:49:54.953Z,micro-hub,1.0.0,the.one,MIT,144715,轻量原生 iframe 微前端库：零运行时依赖，框架无关核心 + Vue3 / React(+Hooks) / Angular 适配组件。双向事件与 Promise RPC 通信、Token/数据共享与跨域同步、路由双向同步、对象池保活/预加载、高度自适应、PC/H5 终端适配、iframe 安全属性（allow/sandbox/referrerPolicy）可配。qiankun / wujie…
+2026-11-24T03:50:03.634Z,@islide/cli,0.1.0,ye4241,,8328,iSlide CLI for Agent: select templates and retrieve design specifications.
+2026-11-24T03:50:04.044Z,zoplay-h5-sdk,0.0.1,xmss,,220740,
+2026-11-24T03:50:33.971Z,@gitmyabi/dcg-icon,1.0.0,gitmyabi-bot,Apache-2.0,104652,"Auto-generated TypeScript type bindings for DCg™Icon™ (build etherscan-dcg-icon-aea935f7-1795492217631, commit db0bc8b, branch etherscan)"
+2026-11-24T03:51:08.39Z,@ohos-ports/wiretap,0.7.3-beta.0,nodejs_3rd,GPL-3.0,64265744,The world's coolest OpenAPI contract compliance API Proxy testing tool.
+2026-11-24T03:51:29.385Z,@keystone-6/fields-media-multipart,0.0.0,emmatown,,73,
+2026-11-24T03:52:38.562Z,@jiangzhenguo/dsh-lottie-player,1.3.0,jiangzhenguo,MIT,399323,A Lottie JSON and .lottie animation player in the DeepSeek Harness right sidebar.
+2026-11-24T03:54:16.804Z,mokuji,0.1.0,rot1024,MIT OR Apache-2.0,135878,"Read Mokuji files — a cloud-optimized search index — over HTTP range requests, in a browser, a worker or Node"
+2026-11-24T03:55:24.122Z,@indextools/index-games,1.0.1,indextools,GNU AFFERO,737577,Index - Unblocked web browsing and games
+2026-11-24T03:55:27.885Z,vuepress-plugin-partitions,0.1.0,liuxiaohang,ISC,61407,VuePress 1.x documentation partition builds and static preview
+2026-11-24T03:56:32.885Z,ai-catalog-check,0.1.2,mgoldsborough,Apache-2.0,867703,"Conformance suite for the AI Catalog specification: every normative statement numbered and traced, checked from a CLI or a GitHub Action."
+2026-11-24T03:56:43.759Z,@tony4ork/shadowing,0.1.2,tony4ork,UNLICENSED,451771,"NestJS shadowing module — hexagonal architecture, TypeORM persistence adapter included"
+2026-11-24T03:57:13.875Z,dsh-repository-manager,1.1.0,guguhugu,MIT,386214,"Unified repository manager for GitHub, GitLab, Gitee, and GitCode, shared by the Web UI and the agent."
+2026-11-24T03:59:27.967Z,dsh-verify-layer,0.1.1,kidding458,MIT,44094,"Post-action verification for DSH agents: confirm an action really took effect from a third-party perspective, and keep a verdict ledger."
+2026-11-24T03:59:47.356Z,@meghjs/ai,0.7.2,xtareq,MIT,74892,Turn Megh routes into LLM tools that run through the normal request pipeline
+2026-11-24T04:00:16.476Z,@inp-agent/sdk-core,0.1.0,inplabs,MIT,84138,앱 SDK 공통: initApp · 수집 봉투 · 묶어 보내기 · 다시 보내기 · 기기 보관 · 기기/세션/사람 id · 동의
+2026-11-24T04:00:18.713Z,@inp-agent/sdk-testkit,0.1.0,inplabs,MIT,17919,시험 ID 규칙 · 상태 주입 딥링크 · 스테이징 로그인 우회 · 사진 주입 (운영 빌드에서 꺼짐)
+2026-11-24T04:00:20.188Z,@ohos-ports/pnp-common,2.15.0-beta.1,nodejs_3rd,MIT,69580,pnp - provides shared functionality across all pnp libraries
+2026-11-24T04:00:20.935Z,@inp-agent/sdk-analytics,0.1.0,inplabs,MIT,42507,분석 모듈 getAnalytics(app): track · identify · 사람 · 웹 자동 수집 · 누출 막기
+2026-11-24T04:00:23.079Z,@inp-agent/sdk-attribution,0.1.0,inplabs,MIT,36753,유입 모듈 getAttribution(app): UTM · 광고 클릭 id · 네이버 검색광고 · referrer → 첫/마지막 접촉
+2026-11-24T04:00:25.342Z,@inp-agent/sdk-errors,0.1.0,inplabs,MIT,50385,오류 모듈 getErrors(app): 잡힌 · 안 잡힌 예외 · 흔적 · 꼬리표 · 웹 · RN 전역 처리기 · 세션 신호
+2026-11-24T04:00:27.491Z,@inp-agent/sdk-flags,0.1.0,inplabs,MIT,39217,플래그 모듈 getFlags(app): 플래그 · 실험 갈래 · 원격 설정 · 강제 업데이트 · 판정 함수
+2026-11-24T04:00:29.762Z,@inp-agent/sdk-perf,0.1.0,inplabs,MIT,23851,성능 모듈 getPerformance(app): 웹 바이탈(LCP · INP · CLS · FCP · TTFB) · fetch 감싸기(시간 · 상태 · traceparent)
+2026-11-24T04:00:32.075Z,@inp-agent/sdk-node,0.1.0,inplabs,MIT,35460,Node 서버 모듈 initServer(): 서버 오류 · 서버 이벤트 · 잡히지 않은 오류 · trace id 잇기 · OpenTelemetry 자원 값
+2026-11-24T04:00:34.088Z,@inp-agent/sdk-web,0.1.0,inplabs,MIT,17973,웹 앱 한 줄 시작 start(): 앱 하나 · 분석 · 웹 자동 수집 · 유입 · 오류 · 성능 · 플래그
+2026-11-24T04:01:09.512Z,@fujiezee/norm,0.27.12,fujiezee,MIT,2205566,"Norms → satisfactory delivery: digital employees for Cursor and Claude Code — talk in plain language, no Spec workflow required"
+2026-11-24T04:03:06.941Z,@xnetx/tinyc,0.1.0,xnetx,LGPL-2.1-or-later,22995,"TinyC (TCC) embedded compiler: one dual-form native file (executable + library) with bundled headers and libraries, driven from Node.js via koffi."
+2026-11-24T04:04:15.048Z,@aliip/pilah,1.0.0,aliip,MIT,610153,"PILAH (Project Intelligence, Logic, Analysis & Handoffs): native-first engineering context, minimal-change guidance and evidence-scoped verification for Google Antigravity."
+2026-11-24T04:04:23.693Z,confiroom,0.2.0,intelli-bigno,,105798,"confiroom for your terminal and AI agents — log in once in the browser, then add the MCP server to Claude Code, Codex, Gemini CLI, Cursor or Grok. Create and edit designs, upload items, download PNGs."
+2026-11-24T04:04:37.293Z,@porkospay/core,0.0.1,openhorkos,MIT,26008,Core business logic and unified abstractions for the porkospay SDK.
+2026-11-24T04:04:50.872Z,@zeus-web/ai-core,0.1.0-beta.35,baicie2,MIT,274971,"Domain, protocol and normalized store for Zeus AI Headless V2. Pure Node, no DOM."
+2026-11-24T04:05:01.605Z,@xiaomingio/data-table,0.1.3,xiaomingio,MIT,265791,"Reusable React DataTable component built on TanStack Table & Virtual with client/server modes, hover-hidden header tools, cell editing, and DatabaseTableBrowser."
+2026-11-24T04:05:19.809Z,@zeus-web/ai-adapters,0.1.0-beta.35,baicie2,MIT,39160,"SSE and WebSocket host adapters for Zeus AI Headless V2. No DOM, no vendor SDK."
+2026-11-24T04:05:23.185Z,@simplix-boot/cli,2.0.0,simplecore.dev,SEE LICENSE IN LICENSE,395418,"Command line tool that generates SimpliX Spring Boot code (services, controllers, DTOs, tests) from JPA entities"
+2026-11-24T04:05:24.159Z,@zeus-web/ai-primitives,0.1.0-beta.35,baicie2,MIT,146315,"Framework-neutral interaction parts, Markdown and renderer registry for Zeus AI Headless V2. No DOM, no UI framework."
+2026-11-24T04:05:49.139Z,tokenplus-helper,0.1.4,pengcai6,,135795,TokenPlus 小助手：把 Claude Code、Codex、Grok 等 AI 编程工具一键接入 TokenPlus（桌面客户端 + 终端配置器）
+2026-11-24T04:06:50.021Z,@openapi-sdk-tools/neverthrow,1.0.0,tsyf,MIT,29826,neverthrow plugin for OpenAPI SDK Tools
+2026-11-24T04:06:57.6Z,@deepraxis/envd-darwin-arm64,0.11.1,deepracticexnpm,UNLICENSED,5362462,praxis-envd for darwin-arm64: the local daemon `praxis agent connect` starts (installed by @deepraxis/cli)
+2026-11-24T04:06:59.997Z,@openapi-sdk-tools/effect,0.1.0,tsyf,,41626,Effect Schema and Match plugins for OpenAPI SDK Tools
+2026-11-24T04:07:22.173Z,@zeus-web/ai-react,0.1.0-beta.35,baicie2,MIT,41771,React hooks and compound components for Zeus AI Headless V2. Renders natively with React; no Web Component runtime.
+2026-11-24T04:07:26.505Z,@zeus-web/ai-vue,0.1.0-beta.35,baicie2,MIT,59130,Vue composables and components for Zeus AI Headless V2. Renders natively with Vue; no Web Component runtime.
+2026-11-24T04:07:27.923Z,@deepraxis/envd-linux-x64-musl,0.11.1,deepracticexnpm,UNLICENSED,7517311,praxis-envd for linux-x64-musl: the local daemon `praxis agent connect` starts (installed by @deepraxis/cli)
+2026-11-24T04:07:30.797Z,@zeus-web/ai-wc,0.1.0-beta.35,baicie2,MIT,53920,"Web Component adapter for Zeus AI Headless V2: zw-ai-* custom elements, registered on demand, light DOM, property-only data."
+2026-11-24T04:08:01.315Z,@deepraxis/envd-linux-arm64-musl,0.11.1,deepracticexnpm,UNLICENSED,6225229,praxis-envd for linux-arm64-musl: the local daemon `praxis agent connect` starts (installed by @deepraxis/cli)
+2026-11-24T04:08:08.956Z,mobtexteditor,1.0.0,nakedtuxedo,MIT,112812,"Mob: a tiny, dependency-free WYSIWYG editor. One CSS file, one JS file, no setup. Outputs clean, safe HTML."
+2026-11-24T04:08:11.827Z,@fooksky/nexus-knoweledge,0.1.4,fooksky,,74611,Git-backed knowledge and rules for DeepSeek Harness.
+2026-11-24T04:08:15.586Z,scdashboard,1.0.0,joepusateri,,129557,SC Record Hygiene dashboard backed by Salesforce via Runlayer
+2026-11-24T04:08:18.33Z,magpie-claude-desktop-1p,0.1.0,cxsong,MIT,804085,Use Magpie models in Claude Desktop's first-party Code sessions
+2026-11-24T04:09:50.174Z,azure-devops-export,0.1.0,brucewaynedecoy,MIT,336896,"Read-only CLI that exports work items, work item history, and iterations from one Azure DevOps project to JSON and CSV files."
+2026-11-24T04:10:02.894Z,@justmpm/images-audio,0.8.0,justmpm,MIT,670430,"MCP Server para mídia: gerar/editar/converter/analisar/recortar imagens, gerar fala (TTS) e transcrever áudio/vídeo — ChatGPT (padrão) e Google AI Studio (Nano Banana 2.1 + Gemini TTS), sharp e Whisp…"
+2026-11-24T04:10:03.945Z,@stackgauge/mcp-slim,1.3.0,nextdna_sgami,MIT,135032,"Audit MCP server configs for security risks and token bloat — zero-dependency CLI for Claude, Cursor & Windsurf."
+2026-11-24T04:10:18.744Z,@justmpm/youtube-studio,0.2.0,justmpm,MIT,212926,MCP Server que le o YouTube Studio no Chrome com perfil dedicado: destaques e novidades do nicho (pagina Pesquisa) e o assistente Gemini do Studio
+2026-11-24T04:10:18.947Z,@justmpm/google-trends,0.3.0,justmpm,MIT,281604,"MCP Server para consultar o Google Trends (interesse ao longo do tempo, regiões, pesquisas relacionadas e tendências do momento) usando Chrome headless com fallback para Chromium"
+2026-11-24T04:10:31.235Z,@stackgauge/rtl-scout,0.1.0,nextdna_sgami,MIT,47369,Lint your Verilog/SystemVerilog in CI and get a cleanliness grade — a zero-dependency CLI wrapper around Verible. Modern lint-in-CI for hardware teams.
+2026-11-24T04:10:37.663Z,@gitlytics/cli,0.9.0,ameyachopade,Apache-2.0,60306,"Zero-dependency GitHub traffic analytics CLI, JS/TS SDK, dual-mode MCP server, and local dashboard for Gitlytics"
+2026-11-24T04:10:40.729Z,@threadedstack/wmd-gowasm,1.25.14-1,GitHub Actions,BSD-3-Clause,41109476,"The compiler of Go 1.25.14 built for WebAssembly (wasip1), for the browser machine of wmd (@threadedstack/wmd-web)"
+2026-11-24T04:13:04.546Z,@fancykitty/ccm,0.0.0-stage,fancykitty,,337,Temporary package placeholder for staged publishing
+2026-11-24T04:14:08.585Z,ldgradienteditor,0.1.0,tkirby,MIT,65061,"Lightweight, Minimalist Gradient Editor"
+2026-11-24T04:15:05.728Z,@davidmaxlll/travel-quote,1.5.0-beta.2,davidmax-l,AGPL-3.0-only,413065,Travel Quote quotation application for DeepSeek Harness.
+2026-11-24T04:15:12.24Z,@tbela99/rust-css-parser-napi,2.3.0,tbela,MIT,2245136,"CSS parser, validator and minifier for node: the rust port of @tbela99/css-parser as a native N-API addon"
