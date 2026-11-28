@@ -1,0 +1,137 @@
+created_at,package,version,publisher,license,unpacked_size,description
+2026-11-28T03:15:10.113Z,@dominevo/addon-terminal,0.1.0,apocaliss92,MIT,2074244,Interactive terminal sessions (pty + xterm) as a Dominevo addon
+2026-11-28T03:15:14.873Z,@dominevo/addon-training,0.1.0,apocaliss92,MIT,8038352,"Cloud training for Dominevo: fine-tune the root detector on your own frames, on your own GPU-cloud account"
+2026-11-28T03:15:20.834Z,@dominevo/addon-waste-collections,0.1.0,apocaliss92,MIT,10131572,Waste collection schedules via the vendored HACS waste_collection_schedule Python core — full source catalog as calendar-source.
+2026-11-28T03:15:32.317Z,@dominevo/develop,0.1.0,apocaliss92,MIT,387129,"Dominevo developer tooling — catalogue, scaffold, validate, and example lookup shared by the CLI and MCP server."
+2026-11-28T03:15:36.82Z,@dominevo/mcp-develop,0.1.0,apocaliss92,MIT,100073,"Library behind `dominevo mcp --toolsets develop`: registers the addon-author tools (catalogue, scaffold, validate, find_example, track review) on an MCP server. The standalone server binary is retire…"
+2026-11-28T03:15:41.441Z,@dominevo/nx-plugin,0.1.0,apocaliss92,MIT,43574,Nx plugin for Dominevo addon authors — `deploy` executor and `addon` generator. Drop into any Nx workspace to package + push addons to a running Dominevo hub from the CLI.
+2026-11-28T03:15:46.04Z,@dominevo/sdk,0.1.0,apocaliss92,,189034,The client library for talking to a **Dominevo hub**.
+2026-11-28T03:15:59.871Z,@dominevo/ui-library,0.1.0,apocaliss92,,14044374,"The shared React component library and Tailwind theme the Dominevo admin UI, addon pages and widgets are built from."
+2026-11-28T03:18:25.552Z,@rgglez/rehype-hyphenate,0.1.0,rgglez,Apache-2.0,25120,"rehype plugin that inserts soft hyphens at build time with TeX (Liang) hyphenation patterns, following each element's lang attribute."
+2026-11-28T03:19:45.652Z,@loom-labs/loomx,0.1.0,aawejpathan,MIT,233118,Scrollback-first terminal ADE for driving multiple ACP coding agents
+2026-11-28T03:20:03.164Z,@ohos-ports/mocha-clean,1.0.0-beta.1,glora_li,MIT,12479,Cleans up mocha stack traces.
+2026-11-28T03:22:36.247Z,@ohmframe/mcp-server,0.1.0,itachimoonshot,Apache-2.0,73313,"Ohmframe MCP server: DFM, should-cost, tolerance, GD&T, FMEA, and engineering reference tools for AI agents"
+2026-11-28T03:24:17.857Z,lanmail,0.1.0,zachrttp,MIT,216558,"Agent-agnostic file mailbox: MCP server (stdio) and CLI, built with Effect"
+2026-11-28T03:25:44.859Z,typescript-json-schema-rs-darwin-x64,0.1.0-alpha,jerryshan2011,,3898014,
+2026-11-28T03:25:46.353Z,@dominevo/server,0.1.0,apocaliss92,MIT,36825812,The Dominevo server: the hub and agent entry points and the closure of framework packages every node installs.
+2026-11-28T03:27:27.218Z,@fluixi-ui/cropper,0.1.0-alpha.0,bambiste,MIT,307312,"Image cropper, crop preview and image toolbar elements"
+2026-11-28T03:27:27.283Z,@fluixi-ui/image-geometry,0.1.0-alpha.0,bambiste,MIT,56863,Framework-independent crop and rotation geometry
+2026-11-28T03:27:27.591Z,@fluixi-ui/image-edit,0.1.0-alpha.0,bambiste,MIT,60450,"Framework-independent image editing metadata: focal point, presets and history"
+2026-11-28T03:27:27.82Z,@fluixi-ui/editable-image,0.1.0-alpha.0,bambiste,MIT,129899,An image that shows a saved crop and can be edited in place
+2026-11-28T03:28:36.968Z,callable-lipsync,0.1.0,hidoba,Apache-2.0,21169530,"A tiny speech-to-face model that runs in the browser: streaming lip sync, blinks, gaze and head motion on one CPU thread"
+2026-11-28T03:28:39.774Z,create-launchrail,0.3.1,tadu21,UNLICENSED,119419,Create a Next.js and Expo workspace with your selected Launchrail tools.
+2026-11-28T03:29:22.999Z,@teovo/server,0.1.0,anshuljhawar,MIT,522364,"Teovo server handler: the assistant's tool loop, cards, limits and logs"
+2026-11-28T03:29:24.753Z,@teovo/db,0.1.0,anshuljhawar,MIT,157458,"Teovo Postgres tables, migrations and storage adapters"
+2026-11-28T03:29:26.786Z,@teovo/react,0.1.0,anshuljhawar,MIT,369231,Teovo React panel and screen-context hooks
+2026-11-28T03:29:28.472Z,teovo,0.1.0,anshuljhawar,MIT,29247,"Teovo command line: set up, migrate and prune the assistant's tables"
+2026-11-28T03:29:29.438Z,redlinez-server,0.1.0,sislamrafi,MIT,93848,"The Redlinez server: receives in-app UI feedback from the Redlinez SDK, stores it in SQLite, shows it in a live dashboard and serves it to AI agents over MCP."
+2026-11-28T03:30:21.436Z,dsh-go-usage-hud,0.1.0,xuduanfeng,MIT,37169,用量与费用：dsh-Go 原生界面的状态条、面板、每轮费用脚注与复制动作。纯 JS，无安装脚本，可从注册表安装与卸载。
+2026-11-28T03:30:25.006Z,redlinez-react-js,0.1.0,sislamrafi,MIT,59918,"In-app visual feedback for React and Next.js: people mark elements on the live page, and the marks go to a Redlinez server where AI agents can fix them."
+2026-11-28T03:30:48.398Z,express.air,0.0.0,xseindi,,46,
+2026-11-28T03:31:00.815Z,@nomoss/aws,0.0.1-dev,rnaumenko,MIT,1190472,Effect AWS SDK generated from Smithy models.
+2026-11-28T03:31:27.058Z,@ohos-ports/knights-canvas,1.3.7-a-beta.2,louzen,ISC,8693025,hello world（＞////＜） — OpenHarmony arm64 port (canvas runtime swapped to @ohos-ports/canvas prebuilt)
+2026-11-28T03:31:27.792Z,@plumaden/x402-fetch,0.1.0,rbannon22,MIT,17813,"fetch wrapper that pays Plumaden x402 (Algorand) paywalls, including the required resource-binding note"
+2026-11-28T03:31:44.969Z,@ohos-ports/miew-react,0.12.0-beta.1,louzen,MIT,309579,Miew - 3D Molecular Viewer (React component) (HarmonyOS port)
+2026-11-28T03:32:08.637Z,@gitmyabi/navlens,1.0.0,gitmyabi-bot,Apache-2.0,30309,"Auto-generated TypeScript type bindings for NavLens (build etherscan-navlens-fda0b8bc-1795836713151, commit 52d9e41, branch etherscan)"
+2026-11-28T03:32:09.233Z,@kirillasyamov/speech-to-text,0.1.0,kirillasyamov,MIT,53646,Local speech-to-text library powered by GigaAM-v4 RNN-T via cortiq (ONNX-free Rust runtime)
+2026-11-28T03:32:36.665Z,mongo.air,0.0.0,xseindi,,44,
+2026-11-28T03:33:38.406Z,typescript-json-schema-rs-win32-arm64,0.1.0-alpha,jerryshan2011,,2826431,
+2026-11-28T03:35:16.857Z,@bykhd/lab-ds,1.0.0,bykhd,MIT,223432,Daidai design system: React components on Base UI + Tailwind CSS v4.
+2026-11-28T03:35:18.551Z,@designtime.baihe/jobradar,0.3.0,designtime.baihe,UNLICENSED,18635,JobRadar local-only job workflow demo with fictional data
+2026-11-28T03:35:24.226Z,cantarelass,1.2.1,fallxdswwww,MIT,7642227,WhatsApp Web API Library - Cantarella-Corp Edition
+2026-11-28T03:35:56.928Z,@designtime.baihe/resume,0.1.0,designtime.baihe,,23034,用自己的 Agent 制作中文简历
+2026-11-28T03:36:37.928Z,typescript-json-schema-rs-darwin-arm64,0.1.0-alpha,jerryshan2011,,3716914,
+2026-11-28T03:36:40.376Z,typescript-json-schema-rs-linux-x64,0.1.0-alpha,jerryshan2011,,4594113,
+2026-11-28T03:36:43.055Z,typescript-json-schema-rs-linux-arm64,0.1.0-alpha,jerryshan2011,,4397877,
+2026-11-28T03:36:45.108Z,typescript-json-schema-rs-win32-x64,0.1.0-alpha,jerryshan2011,,3261115,
+2026-11-28T03:36:47.281Z,typescript-json-schema-rs,0.1.0-alpha,jerryshan2011,,19671,Generate Draft-07 JSON Schema from TypeScript using the tsrs checker
+2026-11-28T03:37:35.214Z,@yzdys/dsh-connect-madao,0.12.1,yzdys,MIT,392924,把华为云码道（CodeArts Agent）的模型接入 DeepSeek Harness：自签 SDK-HMAC-SHA256、P-256 密钥协商与 SM4-GCM 载荷加密，对外提供 OpenAI 兼容接口，并带设置面板与状态胶囊。
+2026-11-28T03:38:26.097Z,dsh-shimmer-fix,1.0.0,eyeofflame,MIT,8020,Replaces the running-row shimmer with a single-layer background-clip sweep.
+2026-11-28T03:39:04.198Z,alcorengine,0.0.1,dharby,UNLICENSED,430,"Alcor, a game engine made for AI agents. This name is held for Alcor's own packages."
+2026-11-28T03:39:58.55Z,zev-hei-tc-webfont-truetype,0.0.0-stage,tamcy,,349,Temporary package placeholder for staged publishing
+2026-11-28T03:40:20.436Z,@ohos-ports/sosoba-tar-stream,1.0.0-beta.1,glora_li,MIT,23328,Tar generator for nodejs
+2026-11-28T03:41:55.112Z,@telluvian/tvn-darwin-arm64,1.1.0,telluvian,UNLICENSED,3602213,The tvn binary for darwin-arm64; installed by the tvn package
+2026-11-28T03:41:58.094Z,@telluvian/tvn-darwin-x64,1.1.0,telluvian,UNLICENSED,3958011,The tvn binary for darwin-x64; installed by the tvn package
+2026-11-28T03:41:58.141Z,@ohos-ports/kyt,1.2.11-beta.1,louzen,Apache-2.0,74612,kyt is a toolkit that encapsulates and manages the configuration for web apps.
+2026-11-28T03:42:00.991Z,@telluvian/tvn-linux-arm64,1.1.0,telluvian,UNLICENSED,3700136,The tvn binary for linux-arm64; installed by the tvn package
+2026-11-28T03:42:03.95Z,@telluvian/tvn-linux-riscv64,1.1.0,telluvian,UNLICENSED,3613914,The tvn binary for linux-riscv64; installed by the tvn package
+2026-11-28T03:42:06.777Z,@telluvian/tvn-linux-x64,1.1.0,telluvian,UNLICENSED,4271894,The tvn binary for linux-x64; installed by the tvn package
+2026-11-28T03:42:09.614Z,@telluvian/tvn-win32-arm64,1.1.0,telluvian,UNLICENSED,3413412,The tvn binary for win32-arm64; installed by the tvn package
+2026-11-28T03:42:12.446Z,@telluvian/tvn-win32-x64,1.1.0,telluvian,UNLICENSED,4106650,The tvn binary for win32-x64; installed by the tvn package
+2026-11-28T03:42:18.202Z,adonis-better-auth,0.1.1,ironmad,MIT,31217,Better Auth integration for AdonisJS.
+2026-11-28T03:42:59.179Z,@workurio/kit,0.1.0,woorku,MIT,69129,"Server-side kit for websites, shops and apps that use WorKurios as their backend: API client, save-first outbox, webhook verification and attribution."
+2026-11-28T03:43:24.919Z,@eureka42/ases-cli,1.0.0,eureka42-ai,Apache-2.0,35172090,"EUREKA42 ASES project discovery, stack assessment, and verified software CLI"
+2026-11-28T03:43:32.333Z,@chiron-fonts/zev-hei-tc-webfont-truetype,0.0.8,tamcy,OFL-1.1,53673395,"Webfont version of Zev Hei TC, a Traditional Chinese typeface."
+2026-11-28T03:44:09.655Z,hextoy,0.1.0,tryh4rd3rr,MIT,947,simple ahh hex dump thing
+2026-11-28T03:44:28.294Z,@ohos-ports/upcast,4.0.0-beta.1,glora_li,,20255,Upcast is a low-level JavaScript type checking and casting library (HarmonyOS/OpenHarmony Node.js adaptation: esm-loader CJS bridge replaced by a native CJS build; see cjs/index.js)
+2026-11-28T03:45:03.718Z,@designil/labdsnov,1.0.0,designil,MIT,842599,"DSADV design system: Thai-first shadcn/ui components on Base UI, styled with Tailwind CSS v4 CSS modules."
+2026-11-28T03:45:20.191Z,@chonny_iamsrithong/lab-package,1.0.0,chonny_iamsrithong,,394811,"React design system built from shadcn/ui on Base UI, styled with CSS Modules over OKLCH tokens."
+2026-11-28T03:46:47.673Z,@yuhpapayuh/lab-ds,1.0.0,yuhpapayuh,MIT,139173,"React + TypeScript design system built on shadcn/ui, Radix and Tailwind CSS v4."
+2026-11-28T03:47:20.854Z,purpleair-data-logger,2026.11.27,carlkidcrypto-npm,MIT,4028689,Self-contained Node.js N-API bindings for the C++17 PurpleAir Data Logger engine (backed by purpleair_api and embedded SQLite3)
+2026-11-28T03:48:16.803Z,@pithakthakul/ui,1.0.0,pithakthakul,MIT,1037896,React + Tailwind CSS v4 design system built on shadcn/ui and Radix UI.
+2026-11-28T03:48:17.384Z,@fink-ui/components,0.1.1,m.oppitz,EUPL-1.2,28176402,"Fink Design System: eigene Web Components auf Basis von KoliBri, alle KoliBri-Komponenten registriert als fink-* mit dem Fink-Theme."
+2026-11-28T03:48:17.922Z,flagmatrix,0.1.0,saadsurve,MIT,1179693,"Test every combination of your Flagsmith flags, segments and experiments in real browsers, without touching experiment data."
+2026-11-28T03:48:20.898Z,@fink-ui/react,0.1.1,m.oppitz,EUPL-1.2,178674,"React-Adapter des Fink Design Systems: eigene Komponenten und alle KoliBri-Komponenten als Fink*, dazu FinkProvider und fink.css."
+2026-11-28T03:48:24.094Z,@fink-ui/vue,0.1.1,m.oppitz,EUPL-1.2,97740,"Vue-Adapter des Fink Design Systems: eigene Komponenten und alle KoliBri-Komponenten als Fink*, dazu fink.css."
+2026-11-28T03:48:27.217Z,@fink-ui/angular,0.1.1,m.oppitz,EUPL-1.2,319767,"Angular-Adapter des Fink Design Systems (standalone): eigene Komponenten und alle KoliBri-Komponenten als Fink* mit fink-*-Selektoren, dazu fink.css."
+2026-11-28T03:48:28.117Z,bnspellnum,0.1.1,sakhadib,MIT,73322,"Spell out numbers in Bangla: words, currency (taka/paisa), ordinals, years and dates. Zero dependencies."
+2026-11-28T03:48:43.351Z,dsh-teacher,0.1.0,cigui,MIT,490190,"Interactive /teach learning workspace plugin for DeepSeek Harness (DSH) Desktop: lessons, reference cards, highlight-to-ask discussions, and progress review."
+2026-11-28T03:49:09.393Z,pbi-mcp-server,0.3.0,jdestef90,GPL-3.0-or-later,46433,NPX launcher for pbi-mcp-server — local-first MCP server for inspecting and safely editing Power BI PBIP projects
+2026-11-28T03:49:10.134Z,mcp-domain-preflight-guard,1.0.0,csc-architecture,MIT,1962,Autonomous L402 MCP guardrail for real-time domain DNSSEC and preflight sanity verification (pi402/Wavelength enabled)
+2026-11-28T03:49:52.246Z,kreupai-global-sdk,1.0.0,kreupai,ISC,5538,Read-only Prisma adapter and HTTP router for KreupAI standalone integrations
+2026-11-28T03:52:24.903Z,@eureka42/framework,1.1.0,eureka42-ai,Apache-2.0,22641,EUREKA42 Framework — specification-to-verified-software toolkit (installs the `eureka42-framework` command)
+2026-11-28T03:52:30.838Z,@chiron-fonts/zev-hei-tc-webfont,0.0.8,tamcy,OFL-1.1,40713674,"Webfont version of Zev Hei TC, a Traditional Chinese typeface."
+2026-11-28T03:52:57.294Z,compositematrix-mcp,1.0.0,availagent,MIT,12007,"Model Context Protocol (MCP) server for CompositeMatrix™ — North American ASTM Composite Materials Intelligence, Drop-In Equivalency & B2B RFQ Hub"
+2026-11-28T03:53:01.033Z,mcp-strict-payload-validator,1.0.0,csc-architecture,MIT,2105,"Autonomous L402 MCP validator and auto-patch generator for ISO 20022, HL7 FHIR, and JSON-RPC payloads (pi402/Wavelength enabled)"
+2026-11-28T03:53:11.372Z,@rockfic.com/vue3-select-component,1.0.1,the-tablet,MIT,165180,A flexible & modern select-input control for Vue 3.
+2026-11-28T03:53:47.917Z,enjbase-web-sqldata,1.0.0,lwnmouse,ISC,43650,enj-base SQL mapping and statement generation
+2026-11-28T03:54:12.46Z,enjbase-web-server,1.0.0,lwnmouse,ISC,34247,enj-base Node.js Web server utilities
+2026-11-28T03:54:34.227Z,@ohos-ports/chainsafe-libp2p-quic,2.1.5-beta.0,nodejs_3rd,MIT,1240610,A QUIC transport for libp2p
+2026-11-28T03:56:44.423Z,oxelicomponents,0.0.1,sjedt,MIT,159457,React + TypeScript GUI components for Oxeli Chess
+2026-11-28T03:56:52.657Z,react-app-utilities,0.0.1,minhduc140583,,136998,react
+2026-11-28T03:57:06.408Z,plumaden,0.1.0,rbannon22,MIT,2073,"Pointer to @plumaden/x402-fetch, Plumaden's x402 fetch wrapper"
+2026-11-28T03:57:55.839Z,armonel-darwin-arm64,0.0.11-rc.3,hugengyong,MIT,31924154,Armonel native executable for darwin-arm64
+2026-11-28T03:58:13.859Z,armonel-darwin-x64,0.0.11-rc.3,hugengyong,MIT,32403236,Armonel native executable for darwin-x64
+2026-11-28T03:58:26.541Z,armonel-linux-x64,0.0.11-rc.3,hugengyong,MIT,23644124,Armonel native executable for linux-x64
+2026-11-28T03:58:56.33Z,@ohos-ports/htmljs-code,67.0.109-beta.1,louzen,ISC,2796408,HTMJS library FE
+2026-11-28T03:59:33.734Z,react-app-utils,0.0.1,minhduc140583,,137143,react utilities for building applications
+2026-11-28T03:59:36.155Z,@arframe/lab-ds,1.0.0,arframe,MIT,75405,React + Tailwind CSS v4 design system built on shadcn/ui and Base UI: Button and Dialog with design tokens in one stylesheet.
+2026-11-28T04:00:10.948Z,@ac-components/ac-breadcrumb-basic,0.1.0,reco_dev,MIT,12671,ac-lit breadcrumb-basic Web Component
+2026-11-28T04:00:11.111Z,@ac-components/ac-api-inversiones,0.1.0,reco_dev,MIT,14112,"ac-lit ac-api-inversiones — simulador de API de inversiones, sin UI"
+2026-11-28T04:00:11.128Z,@ac-components/ac-api-seguros,0.1.0,reco_dev,MIT,11040,ac-lit ac-api-seguros — simulador de API de seguros (sin UI)
+2026-11-28T04:00:11.166Z,@ac-components/ac-api-tarjetas,0.1.0,reco_dev,MIT,12771,ac-lit ac-api-tarjetas — simulador de API de gestión de tarjetas de débito y crédito (sin UI)
+2026-11-28T04:00:11.214Z,@ac-components/ac-api-prestamos,0.1.0,reco_dev,MIT,13987,ac-lit ac-api-prestamos — simulador de API de préstamos (sin UI)
+2026-11-28T04:00:11.283Z,@ac-components/ac-container-basic,0.1.0,reco_dev,MIT,9384,ac-lit container-basic Web Component
+2026-11-28T04:00:11.299Z,@ac-components/ac-footer-basic,0.1.0,reco_dev,MIT,10090,ac-lit footer-basic Web Component
+2026-11-28T04:00:11.688Z,@ac-components/ac-carousel-basic,0.1.0,reco_dev,MIT,24152,ac-lit carousel-basic Web Component
+2026-11-28T04:00:11.843Z,@ac-components/ac-api-cuentas,0.1.0,reco_dev,MIT,11912,ac-lit ac-api-cuentas — simulador de API de ciclo de vida de cuentas bancarias (sin UI)
+2026-11-28T04:00:12.868Z,@ac-components/ac-carousel-slide-basic,0.1.0,reco_dev,MIT,9247,ac-lit carousel-slide-basic Web Component
+2026-11-28T04:00:15.905Z,@ac-components/ac-header-basic,0.1.0,reco_dev,MIT,10301,ac-lit header-basic Web Component
+2026-11-28T04:00:16.05Z,@ac-components/ac-list-basic,0.1.0,reco_dev,MIT,19215,ac-lit list-basic Web Component
+2026-11-28T04:00:16.205Z,@ac-components/ac-pagination-basic,0.1.0,reco_dev,MIT,17418,ac-lit pagination-basic Web Component
+2026-11-28T04:00:16.32Z,@ac-components/ac-rating-basic,0.1.0,reco_dev,MIT,15033,ac-lit rating-basic Web Component
+2026-11-28T04:00:16.421Z,@ac-components/ac-search-input-basic,0.1.0,reco_dev,MIT,18937,ac-lit search-input-basic Web Component
+2026-11-28T04:00:28.815Z,@zolynia/sdk,0.1.0,zolynia,MIT,159276,"Zolynia SDK: capped, public spending authority for AI agents on Robinhood Chain, and signed payer checks for merchants."
+2026-11-28T04:00:31.475Z,@sendwend/studio,2.2.21,hdsuperman,MIT,2308967,"Sendwend Studio: review the workflows, message templates and reports of a sendwend project from a local server"
+2026-11-28T04:00:44.608Z,@zolynia/mcp,0.1.0,zolynia,MIT,207355,"Zolynia MCP server: agent checks, policy records, Zolynia Data and capped x402 payments for MCP clients"
+2026-11-28T04:02:20.844Z,@ohos-ports/lodestar-beacon-node,1.51.0-beta.0,nodejs_3rd,Apache-2.0,9664174,A Typescript implementation of the beacon chain
+2026-11-28T04:06:16.328Z,@voightxyz/router,0.1.0,seenfinity,Apache-2.0,115206,"Open-source LLM router and gateway. Use Claude Code, or any OpenAI or Anthropic client, with any OpenAI-compatible model: format translation, streaming, tool calls and fallback."
+2026-11-28T04:08:34.883Z,@mysterycode-liwen/dsh-cloudflared-tunnel,0.1.0,mysterycode-liwen,,145823,Manage cloudflared CLI and Cloudflare Tunnels from a polished DSH sidebar panel.
+2026-11-28T04:08:45.72Z,@tarnpcp/ui,1.0.0,tarnpcp,MIT,348324,React + TypeScript design system based on shadcn/ui and Tailwind CSS v4.
+2026-11-28T04:09:14.659Z,busy-barback-ui,0.1.0,nezdemkovski,,33935,"barback: brings busy-barback/ui components to your BUSY Bar app, keeps them up to date, and makes new apps."
+2026-11-28T04:09:28.238Z,@stylhero/ui,0.5.0,raiburn,MIT,652576,"Stylhero design system: tokens, Tailwind theme and React components"
+2026-11-28T04:10:01.696Z,dsh-github-direct,0.1.0,kaideng1234,MIT,49904,GitHub 直连（不用梯子）：本地 127.0.0.1:7890 双协议通道，DoH 解析 + 真实 HTTPS 探活 + 系统代理开关，装完即用。
+2026-11-28T04:10:03.968Z,@gingliu/ui,1.0.0,gingliu,MIT,153078,"React design-system components built on shadcn/ui and Radix, styled with CSS Modules and Tailwind CSS v4 tokens."
+2026-11-28T04:10:07.418Z,@aimthyy/lab-ds,1.0.0,aimthyy,MIT,411020,"React + TypeScript design system built on shadcn/ui (base-luma), Base UI and Tailwind CSS v4."
+2026-11-28T04:10:46.316Z,@kaideng1234/dsh-github-direct,0.1.0,kaideng1234,MIT,49932,GitHub 直连（不用梯子）：本地 127.0.0.1:7890 双协议通道，DoH 解析 + 真实 HTTPS 探活 + 系统代理开关，装完即用。
+2026-11-28T04:11:43.716Z,underleaf-darwin-arm64,0.0.0-stage,electr1fy0,,344,Temporary package placeholder for staged publishing
+2026-11-28T04:11:51.544Z,nix-flake-generate,0.3.5,nazozokc-prod,MIT,113056,"Analyze a project directory and generate a clean, editable flake.nix"
+2026-11-28T04:11:59.867Z,underleaf-darwin-x64,0.0.0-stage,electr1fy0,,342,Temporary package placeholder for staged publishing
+2026-11-28T04:12:17.214Z,underleaf-linux-arm64,0.0.0-stage,electr1fy0,,343,Temporary package placeholder for staged publishing
+2026-11-28T04:12:34.733Z,underleaf-linux-x64,0.0.0-stage,electr1fy0,,341,Temporary package placeholder for staged publishing
+2026-11-28T04:12:46.711Z,@gitmyabi/eusde-6,1.0.0,gitmyabi-bot,Apache-2.0,386027,"Auto-generated TypeScript type bindings for eUSDe-6 (build etherscan-eusde-6-2daca71c-1795839147552, commit 58b18fa, branch etherscan)"
+2026-11-28T04:12:58.323Z,@quadravise/quadraui,0.1.0,quadravise,,117063,"A small React component library and living showcase for Quadravise products. The library provides shared CSS tokens and accessible, composable building blocks; the Vite app demonstrates their states…"
+2026-11-28T04:15:35.781Z,@act-jirayut/dsai,1.0.0,act-jirayut,MIT,208433,"DSAI design system: shadcn/ui components on Base UI, for React + Tailwind CSS v4"
+2026-11-28T04:15:59.111Z,@vho-bio/fmt,0.9.0,crittercad,Apache-2.0,55565,"Canonical, comment-preserving formatter for VHO Turtle."
+2026-11-28T04:16:27.538Z,pmclite-mcp,1.3.0,zhengjinfa33,UNLICENSED,58875,轻排生产排程（PMClite）MCP 连接器入口：本机装有轻排桌面版时透传其内置 MCP 服务（21 个排产工具）；未安装时以静态兜底模式保持连接并返回安装引导。数据不出厂。
+2026-11-28T04:17:07.812Z,@ohos-ports/compress-pdf,0.0.0-stage,louzen,,346,Temporary package placeholder for staged publishing
